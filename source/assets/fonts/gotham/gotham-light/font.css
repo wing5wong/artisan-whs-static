@@ -1,13 +1,9 @@
+
 @font-face {
     font-family: 'Gotham-Light';
-    src: url("/fonts/gotham/gotham-light/Gotham-Light.eot");
-    src: url("/fonts/gotham/gotham-light/Gotham-Light.woff2") format('woff2'),
-         url("/fonts/gotham/gotham-light/Gotham-Light.woff") format('woff'),
-         url("/fonts/gotham/gotham-light/Gotham-Light.ttf?") format('truetype'),
-         url("/fonts/gotham/gotham-light/Gotham-Light.svg#Gotham-Light") format('svg'),
-         url("/fonts/gotham/gotham-light/Gotham-Light.eot#iefix") format('embedded-opentype');
+    src: url('Gotham-Light.eot?#iefix') format('embedded-opentype'),  url('Gotham-Light.otf')  format('opentype'),
+           url('Gotham-Light.woff') format('woff'), url('Gotham-Light.ttf')  format('truetype'), url('Gotham-Light.svg#Gotham-Light') format('svg');
     font-weight: normal;
     font-style: normal;
   }
-  
   
