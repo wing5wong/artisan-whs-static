@@ -137,11 +137,6 @@
 
 
 
-
-
-
-
-
 <div class="row no-gutters">
     <div class="col p-5 bg-white d-flex flex-column justify-content-around align-items-center triangle-right triangle-white">
         <h1 class="mb-5">Enrolments</h1>
@@ -158,8 +153,11 @@
         </pop:content>
     </div>
   </div>
-             
-<div class="row no-gutters">   <pop:content>     <div class="col p-5 d-none d-md-block bg-attached" <pop:feature_image> style="min-height:45vh; background-image: url(<pop:value.src />)"</pop:feature_image>>   </div>   </pop:content>   </div>
+         
+  
+<div class="row no-gutters">
+    <div class="col p-5 d-none d-md-block bg-attached" style="min-height:45vh; background-image: url(/images/feature_image.jpg)"></div>
+</div>
 
         
   <div class="row no-gutters">
@@ -178,11 +176,12 @@
           </pop:content>
       </div>
   </div>
-             
-<div class="row no-gutters">   <pop:content>     <div class="col p-5 d-none d-md-block bg-attached" <pop:feature_image> style="min-height:45vh; background-image: url(<pop:value.src />)"</pop:feature_image>>   </div>   </pop:content>   </div>
-
-
-
+     
+  
+  
+  <div class="row no-gutters">
+      <div class="col p-5 d-none d-md-block bg-attached" style="min-height:45vh; background-image: url(/images/feature_image.jpg)"></div>
+  </div>
 
 
 
