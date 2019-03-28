@@ -68,28 +68,32 @@
 
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav w-100 justify-content-center">
-        <pop:content from="about-wanganui-high-school, info-for-parents, curriculum, news,international, media">
           <li class="nav-item dropdown px-3">
-            <a class="mb-0 p-2 nav-link dropdown-toggle nav-item <pop:active>active</pop:active>" href="<pop:permalink />" id="navId-<pop:id />" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              <pop:title />
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navId-<pop:id />">
-              <a class="dropdown-item <pop:active>active</pop:active>" href="<pop:permalink />"><pop:title /></a>
-              <pop:sections published="true">
-                <pop:hide_from_nav>
-                </pop:hide_from_nav>
-                <pop:no_hide_from_nav>
-                  <pop:current>
-                    
-                  </pop:current>
-                  <pop:no_current>
-                    <a class="dropdown-item <pop:active>active</pop:active>" href="<pop:alt_url><pop:value/></pop:alt_url><pop:no_alt_url><pop:permalink /></pop:no_alt_url>"><pop:title /></a>
-                    </pop:no_current>
-                  </pop:no_hide_from_nav>
-              </pop:sections>
-            </div>
+              <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/about-whs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                About WHS
+              </a>
           </li>
-        </pop:content>
+          <li class="nav-item dropdown px-3">
+              <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/about-whs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                For Parents
+              </a>
+          </li>
+          <li class="nav-item dropdown px-3">
+              <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/about-whs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Curriculum
+              </a>
+          </li>
+          <li class="nav-item dropdown px-3">
+              <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/about-whs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                News
+              </a>
+          </li>
+          <li class="nav-item dropdown px-3">
+              <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/about-whs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                International
+              </a>
+          </li>
+
        </ul>
     </div>
     
