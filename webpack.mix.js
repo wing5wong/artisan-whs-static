@@ -1,11 +1,6 @@
 let mix = require('laravel-mix');
 let build = require('./tasks/build.js');
 
-let ImageminPlugin = require('imagemin-webpack-plugin').default;
-let CopyWebpackPlugin = require('copy-webpack-plugin');
-let imageminMozjpeg = require('imagemin-mozjpeg');
-
-
 mix.disableSuccessNotifications();
 mix.setPublicPath('source/assets/build');
 mix.webpackConfig({
