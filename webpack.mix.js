@@ -12,7 +12,7 @@ mix.webpackConfig({
 });
 
 mix.js('source/_assets/js/main.js', 'js')
-    .sass('source/_assets/sass/main.scss', 'assets/build/css')
+    .sass('source/_assets/sass/main.scss', 'css')
     .options({
         processCssUrls: true
     }).version();
