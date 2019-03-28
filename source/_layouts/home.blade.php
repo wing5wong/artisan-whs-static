@@ -190,9 +190,9 @@
   <div class="col">
     <div class="p-5 bg-white text-center text-green d-flex flex-column justify-content-around align-items-center">
       <h1 class="mb-5">News &amp; Events</h1>
-      <pop:content from="news">
-        <pop:intro_text wrap="p" />
-      </pop:content>
+      <p class="text-center">
+          Keep up to date with what's going on at WHS.
+      </p>
       <a class="mt-5 btn btn-outline-dark" href="/news">Read more.</a>
     </div>
     </div>
@@ -202,13 +202,16 @@
   <!-- Additional required wrapper -->
 <div class="swiper-wrapper">
       <!-- Slides -->
-  <pop:content from="news">
-    <pop:entries limit="3">
-      <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url(<pop:image.src resize="limit" width="936" height="500" />); background-size: cover; width: 100%; height: 500px;">
-        <a href="<pop:permalink />" class="btn btn-light"><pop:title/></a>
+    <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url(/images/news-image-width-936-height-500); background-size: cover; width: 100%; height: 500px;">
+        <a href="<pop:permalink />" class="btn btn-light">News Articles 1</a>
       </div>
-  </pop:entries>
-    </pop:content>
+      <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url(/images/news-image-width-936-height-500); background-size: cover; width: 100%; height: 500px;">
+        <a href="<pop:permalink />" class="btn btn-light">News Articles 2</a>
+      </div>
+      <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url(/images/news-image-width-936-height-500); background-size: cover; width: 100%; height: 500px;">
+        <a href="<pop:permalink />" class="btn btn-light">News Articles 3</a>
+      </div>
+      
   </div>
 <div class="swiper-button-next"></div>
 <div class="swiper-button-prev"></div>
