@@ -1,19 +1,3 @@
-// Tacit - CSS Framework for Dummies, Without Classes
-@import url('https://unpkg.com/tacit-css@1.3.6/dist/tacit-css-1.3.6.min.css');
-
-@import "~highlight.js/styles/atom-one-dark";
-
-button[data-sharer] {
-    color: #fff;
-}
-
-.test-css {
-    padding: 5px;
-    border: 2px solid blue;
-}
-
-
-
 .site-banner {
     background-image: url(../images/hero-girls-circle.jpg);
     -webkit-background-size: cover;
