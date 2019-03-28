@@ -12,24 +12,12 @@ mix.webpackConfig({
     plugins: [
         build.jigsaw,
         build.browserSync(),
-        build.watch(['source/**/*.md', 'source/**/*.php', 'source/**/*.scss', '!source/**/_tmp/*']),
-        new CopyWebpackPlugin([{
-            from: '_assets/images',
-            to: 'images', // Laravel mix will place this in 'public/img'
-        }]),
-        new ImageminPlugin({
-            test: /\.(jpe?g|png|gif|svg)$/i,
-            plugins: [
-                imageminMozjpeg({
-                    quality: 80,
-                })
-            ]
-        })
+        build.watch(['source/**/*.md', 'source/**/*.php', 'source/**/*.scss', '!source/**/_tmp/*'])
     ]
 });
 
 mix.js('source/_assets/js/main.js', 'js')
     .sass('source/_assets/sass/main.scss', 'css')
     .options({
-        processCssUrls: false
+        processCssUrls: true
     }).version();

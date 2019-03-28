@@ -11,3 +11,12 @@ button[data-sharer] {
     padding: 5px;
     border: 2px solid blue;
 }
+
+
+
+.site-banner {
+    background-image: url(../images/hero-girls-circle.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+}

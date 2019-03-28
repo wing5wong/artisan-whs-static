@@ -19,9 +19,6 @@
         "on-build-webpack": "^0.1.0",
         "sharer.js": "^0.3.3",
         "webpack-watch": "^0.2.0",
-        "yargs": "^4.6.0",
-        "imagemin-webpack-plugin": "^2.4.2",
-        "copy-webpack-plugin": "^5.0.2",
-        "imagemin-mozjpeg": "^8.0.0"
+        "yargs": "^4.6.0"
     }
 }
