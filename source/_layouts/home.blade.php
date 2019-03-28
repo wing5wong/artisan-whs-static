@@ -114,9 +114,6 @@
 
     An announcement that is happening
     	<a class="btn" href="<pop:permalink />">Read the full announcement</a>
-    
-
-    
 	</div>
 </div>
 
@@ -128,11 +125,9 @@
   d-flex flex-column 
   justify-content-between align-items-between">
      <picture>
-      <source srcset="<pop:asset name='logo_vertical_t.png' />" media="(max-width: 750px)" />
-       <img alt="" class="p-5 site-banner-img img-fluid position-absolute" style="top:0; right: 0; width: 250px;" src="<pop:asset name='logo_vertical_t.png' />">
+      <source srcset="/images/logo_vertical_t.png" media="(max-width: 750px)" />
+       <img alt="" class="p-5 site-banner-img img-fluid position-absolute" style="top:0; right: 0; width: 250px;" src="/images/logo_vertical_t.png">
   </picture>
-   
-  <!--<a class="mb-5 btn btn-light" href="#">Enrol today!</a>-->
 
 </div>
 
