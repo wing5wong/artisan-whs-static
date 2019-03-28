@@ -1,9 +1,9 @@
 let mix = require('laravel-mix');
 let build = require('./tasks/build.js');
 
-const ImageminPlugin = require('imagemin-webpack-plugin').default;
-const CopyWebpackPlugin = require('copy-webpack-plugin');
-const imageminMozjpeg = require('imagemin-mozjpeg');
+let ImageminPlugin = require('imagemin-webpack-plugin').default;
+let CopyWebpackPlugin = require('copy-webpack-plugin');
+let imageminMozjpeg = require('imagemin-mozjpeg');
 
 
 mix.disableSuccessNotifications();
