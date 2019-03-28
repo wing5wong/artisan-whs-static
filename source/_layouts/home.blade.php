@@ -140,17 +140,18 @@
 <div class="row no-gutters">
     <div class="col p-5 bg-white d-flex flex-column justify-content-around align-items-center triangle-right triangle-white">
         <h1 class="mb-5">Enrolments</h1>
-        <pop:content from="info-for-parents">
-          <pop:intro_text wrap="p" />
+        <p class="text-center">
+        Whanganui High School will provide a future-focused education which promotes success for all students.
+      </p>
         <a class="mt-5 btn btn-outline-dark" href="<pop:permalink />">More information.</a>
-        </pop:content>
       </div>
     <div class="col p-5 bg-green text-white d-flex flex-column justify-content-around align-items-center triangle-left triangle-green triangle-low">
     <h1 class="mb-5">About</h1>
-      <pop:content from="about-wanganui-high-school">
-      <p class="text-center"><pop:intro_text /></p>
+      
+      <p class="text-center">
+          Whanganui High School is a modern, state funded, co-educational school of approximately 1500 students and over 160 staff, which prides itself on caring for individual students in a quality academic environment. The school provides a balanced education for its students from Year 9 through to Year 13.
+      </p>
         <a class="mt-5 btn btn-outline-warning" href="<pop:permalink />">Read more.</a>
-        </pop:content>
     </div>
   </div>
          
@@ -163,22 +164,22 @@
   <div class="row no-gutters">
       <div class="col p-5 bg-green text-white d-flex flex-column justify-content-around align-items-center triangle-right triangle-green">
       <h1 class="mb-5">International</h1>
-      <pop:content from="international">
-          <pop:intro_text wrap="p" />
+      <p class="text-center">
+          International students select Whanganui High School for their education when they want to be away from the distractions of the big cities and concentrate on learning English and studying to qualify for university. Whanganui High School limits the number of students from any one country so that students can have more opportunities to speak English.
+      </p>
         <a class="mt-5 btn btn-outline-warning" href="<pop:permalink />">More information.</a>
-        </pop:content>
     </div>
       <div class="col p-5 bg-yellow text-black d-flex flex-column justify-content-around align-items-center triangle-left triangle-yellow triangle-low">
         <h1 class="mb-5">Learning</h1>
-        <pop:content from="curriculum">
-          <pop:intro_text wrap="p" />
+          <p class="text-center">
+              Whanganui High School has a large number of subjects to choose from with specialist teachers in each department.
+          </p>
         <a class="mt-5 btn btn-outline-dark" href="<pop:permalink />">More information.</a>
-          </pop:content>
       </div>
   </div>
      
   
-  
+
   <div class="row no-gutters">
       <div class="col p-5 d-none d-md-block bg-attached" style="min-height:45vh; background-image: url(/images/feature_image.jpg)"></div>
   </div>
