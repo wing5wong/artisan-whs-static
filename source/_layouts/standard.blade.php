@@ -30,7 +30,7 @@
 
   @include('_partials.announcement.main')
 
-  @include('_partials.banners.standard-main')
+  @include('_partials.banner.standard-main')
 
 
 <div class="houses">
