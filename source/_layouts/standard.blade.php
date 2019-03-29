@@ -30,6 +30,8 @@
 
   @include('_partials.announcement.main')
 
+  @include('_partials.banners.standard-main')
+
 
 <div class="houses">
   <div class="container pt-5">
