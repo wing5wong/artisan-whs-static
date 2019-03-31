@@ -28,9 +28,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
         name: "image"
-        widget: "image"
+        widget: "string"
         required: false
-        media_library:
-          name: cloudinary
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
