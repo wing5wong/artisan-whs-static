@@ -16,6 +16,8 @@ collections:
     folder: "source/_posts"
     create: true
     slug: "{{slug}}"
+    media_library:
+      name: cloudinary
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Date", name: "date", widget: "date"}
