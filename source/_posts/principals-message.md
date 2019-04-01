@@ -6,7 +6,7 @@ tags:
 image: 
 ---
 
-Welcome to Whanganui High School.  
+**Welcome to Whanganui High School.**  
 
 Whanganui High School is a leading co-educational secondary school. We have over 1500 students; more than 100 specialist teachers and more than 50 support and administration staff.  
 
