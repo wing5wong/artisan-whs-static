@@ -36,7 +36,7 @@ collections:
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "about-whs"
+  - name: "about_whs"
       label: "About WHS"
       label_singular: "About WHS"
       folder: "source/_about_whs"
