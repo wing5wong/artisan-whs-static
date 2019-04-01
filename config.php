@@ -2,10 +2,10 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisan-static-demo.netlify.com',
+    'baseUrl' => 'https://www.whanganuihigh.school.nz',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Whanganui High School',
+        'description' => 'An informative website about Whanganui High School',
         'image' => 'default-share.png',
     ],
     'owner' => [

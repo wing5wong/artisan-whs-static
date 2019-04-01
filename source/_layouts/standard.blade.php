@@ -8,7 +8,11 @@
   <meta content="" name="author">
   <link href="../../../../favicon.ico" rel="icon">
 
-  <title>Whanganui High School</title>
+  <title>
+      @yield('title')
+      {{ !empty($__env->yieldContent('title')) ? ' | ' : '' }}
+      {{ $page->site->title }}
+  </title>
 
   <link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/css/swiper.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
