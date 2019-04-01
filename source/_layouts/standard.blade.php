@@ -67,11 +67,6 @@
     
   @include('_partials.footer.main')
 
-
-
-
-
-
 </body>
 
 </html>
