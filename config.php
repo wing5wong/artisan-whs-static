@@ -30,7 +30,7 @@ return [
             'tags' => [],
         ],
         'about' => [
-            'path' => 'about/{filename}',
+            'path' => 'about-whs/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
