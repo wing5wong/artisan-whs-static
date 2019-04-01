@@ -9,5 +9,5 @@ permalink: 404.html
 @section('content')
     <h1>404 Error</h1>
 
-    <p>The page you were trying to access could not be found.</p>
+    <img src="https://res.cloudinary.com/whanganuihigh/image/upload/v1554157248/404.jpg" alt="">
 @endsection
