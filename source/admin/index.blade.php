@@ -9,7 +9,6 @@
 </head>
 <body>
     <script src="https://unpkg.com/netlify-cms@2.1.1/dist/netlify-cms.js"></script>
-    <script src="https://media-library.cloudinary.com/global/all.js"></script>
 
 </body>
 </html>
