@@ -20,6 +20,14 @@ return [
         'jumprock' => '',
     ],
     'collections' => [
+        'about_whs' = [
+            'path' => 'about_whs/{filename}',
+            'sort' => 'date',
+            'extends' => '_layouts.standard',
+            'section' => 'postContent',
+            'isPost' => true,
+            'tags' => [],
+        ],
         'posts' => [
             'path' => 'posts/{filename}',
             'sort' => '-date',
