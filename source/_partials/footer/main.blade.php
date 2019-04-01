@@ -1,4 +1,4 @@
-<footer class="py-5" style="background-image: linear-gradient(to top, transparent, #fff 85%),url('https://res.cloudinary.com/whanganuihigh/image/upload/v1554149889/river.jpg');min-height: 700px;background-size: 100%, cover;">
+<footer class="py-5" style="background-image: linear-gradient(to top, transparent, #fff 85%),url('https://res.cloudinary.com/whanganuihigh/image/upload/e_auto_brightness/e_auto_color/e_auto_contrast/e_auto_saturation/c_scale,q_80,w_1920/v1554149889/river.jpg');min-height: 700px;background-size: 100%, cover;">
     <!--<div class="row">
       <div class="col-12 text-center">
       <img src="<pop:asset name='images/life/whs-banner.png' />" class="mb-5 px-3" style="max-width: 100%">
