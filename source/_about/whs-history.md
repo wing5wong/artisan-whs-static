@@ -1,7 +1,11 @@
 ---
 title: WHS History
 date: 2019-04-01T23:15:23.057Z
+tags:
+  - About WHS
+image: ''
 ---
+
 ## WHANGANUI HIGH SCHOOL CREST
 
 The Whanganui High School Crest features:
