@@ -9,15 +9,15 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Whanganui High School',
+        'twitter' => 'whanganuihigh',
+        'github' => '',
     ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
+        'disqus' => '',
         'cloudinary' => 'whanganuihigh',
-        'jumprock' => 'artisanstatic',
+        'jumprock' => '',
     ],
     'collections' => [
         'posts' => [
