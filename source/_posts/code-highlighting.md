@@ -1,8 +1,7 @@
 ---
 title: 07 - Code Highlighting
 date: 2018-08-31T00:00:00.000Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,f_auto,q_auto,w_160/sample.jpg
+image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1554082155/sample.jpg'
 comments: false
 ---
 Below are some examples of code blocks with syntax highlighting.
