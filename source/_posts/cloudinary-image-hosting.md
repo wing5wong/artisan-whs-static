@@ -1,9 +1,12 @@
 ---
-title: '05 - Cloudinary Image Hosting'
-date: 2018-08-31
-image: photos.jpg
+title: 05 - Cloudinary Image Hosting
+date: 2018-08-31T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,f_auto,q_auto,w_160/whs-banner.png
 comments: false
 ---
+![](https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,f_auto,q_auto,w_160/whs-banner.png)
+
 Register on [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/qq2slabgpy590znlop4j).
 
 Go to `config.php` and add your **cloud name** under the `services` key.
