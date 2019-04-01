@@ -14,7 +14,7 @@
         <a href="/tags/{{ $tag }}">{{ $tag }}</a> {{ $loop->last ? '' : '-' }} @endforeach
     </p>
 
-    @if($page->date - date() > 365)
+    @if($page->date - date() < 365)
     <blockquote data-phpdate="{{ $page->date }}">
         <em>WARNING: This post is over a year old. Some of the information this contains may be outdated.</em>
     </blockquote>
