@@ -2,7 +2,7 @@
 title: 05 - Cloudinary Image Hosting
 date: 2018-08-31T00:00:00.000Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,f_auto,q_auto,w_160/whs-banner.png
+  https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,f_auto,q_auto,w_160/20181018-DJI_0014.jpg
 comments: false
 ---
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,f_auto,q_auto,w_160/whs-banner.png)
