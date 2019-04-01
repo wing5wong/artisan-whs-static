@@ -26,6 +26,7 @@ return [
             'extends' => '_layouts.standard',
             'section' => 'postContent',
             'isPost' => true,
+            'comments' => false,
             'tags' => [],
         ],
         'posts' => [
