@@ -29,6 +29,15 @@ return [
             'comments' => true,
             'tags' => [],
         ],
+        'about' => [
+            'path' => 'about/{filename}',
+            'sort' => '-date',
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+            'isPost' => true,
+            'comments' => true,
+            'tags' => [],
+        ],
         'tags' => [
             'path' => 'tags/{filename}',
             'extends' => '_layouts.tag',
