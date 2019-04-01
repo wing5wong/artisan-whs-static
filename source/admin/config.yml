@@ -8,15 +8,14 @@ backend:
 media_library:
   name: cloudinary
   config:
-    default_transformations:
-      -   - fetch_format: auto
-            width: 160
-            quality: auto
-            crop: scale
+    #default_transformations:
+    #  -   - fetch_format: auto
+    #        width: 160
+    #        quality: auto
+    #        crop: scale
     
     cloud_name: whanganuihigh
     api_key: 514169267776294
-    output_filename_only: false
 
 collections:
   - name: "posts"
@@ -34,8 +33,5 @@ collections:
         name: "image"
         widget: "image"
         required: false
-        media_library:
-          name: cloudinary
-          output_filename_only: true
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
