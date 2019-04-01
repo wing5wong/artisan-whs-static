@@ -2,7 +2,7 @@
 permalink: 404.html
 ---
 
-@extends('_layouts.master')
+@extends('_layouts.standard')
 
 @section('title', 'Page not found')
 
