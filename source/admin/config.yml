@@ -3,7 +3,7 @@ backend:
   branch: master
   squash_merges: true
 
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 media_library:
   name: cloudinary
