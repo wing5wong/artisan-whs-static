@@ -42,7 +42,6 @@ collections:
       folder: "source/_about_whs"
       create: true
       slug: "{{slug}}"
-    
       fields:
         - {label: "Title", name: "title", widget: "string", default: "Title"}
         - {label: "Date", name: "date", widget: "date"}
