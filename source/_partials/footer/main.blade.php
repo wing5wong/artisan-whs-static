@@ -1,4 +1,4 @@
-<footer class="py-5" style="background-image: linear-gradient(to top, transparent, #fff 85%),url(/images/river.jpg);min-height: 700px;background-size: 100%, cover;">
+<footer class="py-5" style="background-image: linear-gradient(to top, transparent, #fff 85%),url('https://res.cloudinary.com/whanganuihigh/image/upload/v1554149889/river.jpg');min-height: 700px;background-size: 100%, cover;">
     <!--<div class="row">
       <div class="col-12 text-center">
       <img src="<pop:asset name='images/life/whs-banner.png' />" class="mb-5 px-3" style="max-width: 100%">
@@ -8,7 +8,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <img src="<pop:asset name='images/life/whs-banner.png' />" class="mb-5" style="max-width: 100%;" />
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/v1554076217/whs-banner.png" class="mb-5" style="max-width: 100%;" />
           <!--<img src="<pop:asset name='logo_vertical_t.png' />" width="160" class="mb-5">-->
         </div>
         <div class="col-6 col-md">
