@@ -129,6 +129,8 @@ collections:
     slug: "{{slug}}"
     
     fields:
+      
+      - {label: "Title", name: "title", widget: "string", default: "Joe"}
       - {label: "First Name", name: "firstName", widget: "string", default: "Joe"}
       - {label: "Last Name", name: "lastName", widget: "string", default: "Bloggs"}
       - label: "Departments"
