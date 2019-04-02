@@ -40,7 +40,7 @@
             </a>
         </li>
 
-        @if(!$about->empty())
+        @if($about)
         <div class="dropdown-menu">
           <a class="dropdown-item" href="/about-whs">About WHS</a> @foreach($about as $page)
           <a class="dropdown-item" href="{{$page->getPath()}}">{{$page->title}}</a> @endforeach
