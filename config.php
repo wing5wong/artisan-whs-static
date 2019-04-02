@@ -87,7 +87,7 @@ return [
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
-            'isPost' => false,
+            'isPost' => true,
             'comments' => false,
             'tags' => [],
         ],
