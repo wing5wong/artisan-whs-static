@@ -37,16 +37,13 @@
         <li class="nav-item dropdown px-3">
           <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/about-whs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               About WHS
-            </a>
+            </a> @if($about)
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="/about-whs">About WHS</a> @foreach($about as $page)
+            <a class="dropdown-item" href="{{$page->getPath()}}">{{$page->title}}</a> @endforeach
+          </div>
+          @endif
         </li>
-
-        @if($about)
-        <div class="dropdown-menu">
-          <a class="dropdown-item" href="/about-whs">About WHS</a> @foreach($about as $page)
-          <a class="dropdown-item" href="{{$page->getPath()}}">{{$page->title}}</a> @endforeach
-        </div>
-        @endif
-
         <li class="nav-item dropdown px-3">
           <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/for-parents" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               For Parents
