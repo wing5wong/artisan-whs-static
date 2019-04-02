@@ -47,6 +47,15 @@ return [
             'comments' => true,
             'tags' => [],
         ],
+        'for_parents' => [
+            'path' => 'for-parents/{filename}',
+            'sort' => '-date',
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+            'isPost' => true,
+            'comments' => true,
+            'tags' => [],
+        ],
         'news' => [
             'path' => 'news/{filename}',
             'sort' => '-date',
