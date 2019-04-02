@@ -38,15 +38,6 @@ return [
             'comments' => true,
             'tags' => [],
         ],
-        'wot' => [
-            'path' => 'wot/{filename}',
-            'sort' => '-date',
-            'extends' => '_layouts.post',
-            'section' => 'postContent',
-            'isPost' => true,
-            'comments' => true,
-            'tags' => [],
-        ],
         'curriculum' => [
             'path' => 'curriculum/{filename}',
             'sort' => '-date',
