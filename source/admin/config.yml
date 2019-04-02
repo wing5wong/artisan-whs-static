@@ -53,23 +53,6 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "for-parents"
-    label: "For Parents"
-    label_singular: "For Parents Entry"
-    folder: "source/_for_parents"
-    create: true
-    slug: "{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Body", name: "body", widget: "markdown"}
-
   - name: "curriculum"
     label: "Curriculum"
     label_singular: "Curriculum Entry"

@@ -6,7 +6,7 @@
 @section('content')
     <h1>Posts</h1>
 
-    <ul>
+    {{-- <ul>
         @forelse ($wot->sortBy('title') as $post)
             <li>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
@@ -15,5 +15,5 @@
         @empty
             <p>No posts to show.</p>
         @endforelse
-    </ul>
+    </ul> --}}
 @endsection
