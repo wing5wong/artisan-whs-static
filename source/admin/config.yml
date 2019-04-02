@@ -71,21 +71,21 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "curriculum"
-      label: "Curriculum"
-      label_singular: "Curriculum Entry"
-      folder: "source/_curriculum"
-      create: true
-      slug: "{{slug}}"
-      
-      fields:
-        - {label: "Title", name: "title", widget: "string", default: "Title"}
-        - {label: "Date", name: "date", widget: "date"}
-        - {label: "Tags", name: "tags", widget: "list", required: false}
-        - label: "Image Filename"
-          name: "image"
-          widget: "image"
-          required: false
-        - {label: "Body", name: "body", widget: "markdown"}
+    label: "Curriculum"
+    label_singular: "Curriculum Entry"
+    folder: "source/_curriculum"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "news"
     label: "News"
