@@ -136,7 +136,7 @@ collections:
         widget: "list"
         required: false
         field:
-        - {label: "Department", name: "name", widget: "string", default: "Teacher"}
+        - {label: Department, name: departmentName, widget: string}
       - label: "Image Filename"
         name: "image"
         widget: "image"
