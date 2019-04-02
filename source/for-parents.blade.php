@@ -7,7 +7,7 @@
     <h1>Posts</h1>
 
     <ul>
-        @forelse ($parents->sortBy('title') as $post)
+        @forelse ($wot->sortBy('title') as $post)
             <li>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
                 <small>{{ date('M j, Y', $post->date) }}</small>
