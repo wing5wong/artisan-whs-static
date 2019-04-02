@@ -6,3 +6,4 @@ tags:
 image: ''
 ---
 
+The current house points can be found on the WHS House Competitions Page
