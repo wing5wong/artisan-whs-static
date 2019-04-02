@@ -139,6 +139,9 @@ collections:
           - label: Image
             name: image
             widget: image
+          - label: Bio
+            name: bio
+            widget: markdown
       - label: "Image Filename"
         name: "image"
         widget: "image"
