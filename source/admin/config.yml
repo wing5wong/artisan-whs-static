@@ -120,3 +120,24 @@ collections:
         widget: "image"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "staff"
+    label: "Staff"
+    label_singular: "Staff Member"
+    folder: "source/_staff"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "First Name", name: "firstName", widget: "string", default: "Joe"}
+      - {label: "Last Name", name: "lastName", widget: "string", default: "Bloggs"}
+      - label: "Department"
+        name: "departments"
+        widget: "list"
+        required: false
+        fields:
+        - {label: Department, name: name, widget: string}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false

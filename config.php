@@ -82,6 +82,15 @@ return [
                 return $page->getFilename();
             },
         ],
+        'staff' => [
+            'path' => 'staff/{filename}',
+            'sort' => '-date',
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+            'isPost' => false,
+            'comments' => false,
+            'tags' => [],
+        ],
     ],
     'excerpt' => function ($page, $limit = 250, $end = '...') {
         return $page->isPost
