@@ -34,21 +34,22 @@
   <div class="navbar navbar-expand-lg navbar-light navbar-bg-light py-0" style="box-shadow: 0 -8px 8px -6px;">
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav w-100 justify-content-center">
+
+        @foreach( [ 'about'=>["About WHS","/about-whs"], "for_parents"=>["For Parents", "/for-parents"] ] as $key=>$values)
+
         <li class="nav-item dropdown px-3">
-          <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/about-whs" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              About WHS
-            </a> @if($about)
+          <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="{{$values[1]}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {{$values[0]}}
+              </a> @if($$key)
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="/about-whs">About WHS</a> @foreach($about as $page)
+            <a class="dropdown-item" href="/about-whs">About WHS</a> @foreach($$key as $page)
             <a class="dropdown-item" href="{{$page->getPath()}}">{{$page->title}}</a> @endforeach
           </div>
           @endif
         </li>
-        <li class="nav-item dropdown px-3">
-          <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/for-parents" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              For Parents
-            </a>
-        </li>
+
+        @endforeach
+        
         <li class="nav-item dropdown px-3">
           <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="/curriculum" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Curriculum
