@@ -1,4 +1,5 @@
 ---
+extends: _layouts.staff
 title: Staff
 date: 2019-04-02T00:00:00.000Z
 tags:
