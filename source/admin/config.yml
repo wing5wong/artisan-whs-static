@@ -131,17 +131,10 @@ collections:
     fields:
       - {label: "First Name", name: "firstName", widget: "string", default: "Joe"}
       - {label: "Last Name", name: "lastName", widget: "string", default: "Bloggs"}
-      - label: "Gallery Images"
-        label_singular: "Gallery Image"
-        name: "galleryImages"
+      - label: "Departments"
+        label_singular: "Department"
+        name: "departments"
         widget: "list"
-        fields:
-          - label: Image
-            name: image
-            widget: image
-          - label: Bio
-            name: bio
-            widget: markdown
       - label: "Image Filename"
         name: "image"
         widget: "image"
