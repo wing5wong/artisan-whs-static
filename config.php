@@ -38,7 +38,7 @@ return [
             'comments' => true,
             'tags' => [],
         ],
-        'parents' => [
+        'wot' => [
             'path' => 'wot/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
