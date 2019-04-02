@@ -15,7 +15,6 @@
     </p>
 
     
-    {{ new DateTime() }} |||     {{ date($page->date)}}
     <blockquote data-phpdate="{{ $page->date }}">
         <em>WARNING: This post is over a year old. Some of the information this contains may be outdated.</em>
     </blockquote>
