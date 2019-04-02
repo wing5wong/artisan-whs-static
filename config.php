@@ -39,7 +39,7 @@ return [
             'tags' => [],
         ],
         'parents' => [
-            'path' => 'for-parents/{filename}',
+            'path' => 'parents/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
