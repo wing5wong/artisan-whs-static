@@ -1,5 +1,5 @@
 @foreach($policies as $page) {{$page->title}}
-<ul>{{$area->title}}
+<ul>{{$page->title}}
     @foreach($page->policyAreas as $area)
     <li>{{$area->title}}
         <ul>
