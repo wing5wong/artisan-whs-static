@@ -91,6 +91,13 @@ return [
             'comments' => false,
             'tags' => [],
         ],
+        'policies' => [
+            'path' => 'staff/{filename}',
+            'section' => 'postContent',
+            'isPost' => false,
+            'comments' => false,
+            'tags' => [],
+        ],
     ],
     'excerpt' => function ($page, $limit = 250, $end = '...') {
         return $page->isPost
