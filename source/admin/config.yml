@@ -156,7 +156,6 @@ collections:
         label_singular: "Policy Area"
         widget: "list"
         fields:
-          - {label: "Title", name: "title", widget: "string", default: "Title2"}
           - label: "Policy Area Name"
             name: "policyArea"
             widget: "string"
@@ -164,7 +163,6 @@ collections:
             name: policies
             widget: list
             fields:
-              - {label: "Title", name: "title", widget: "string", default: "Title3"}
               - name: "policy"
                 label: "Policy"
                 widget: "string"
