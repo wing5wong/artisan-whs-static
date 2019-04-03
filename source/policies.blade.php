@@ -5,7 +5,7 @@
     @foreach($policy->policyAreas as $area)
     <li>{{$area["title"]}}-{{$area["policyArea"]}}-{{$area["policyArea"]["title"]}}
         <ul>
-            @foreach($area["policies"] as $policy)
+            @foreach($area->policies as $policy)
             <li>
                 {{$policy["title"]}}
 
