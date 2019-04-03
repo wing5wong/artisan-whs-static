@@ -1,4 +1,4 @@
-{{ var_dump($policies[0])}}
+{{ var_dump($policies->policies)}}
 
 @foreach($policies as $policy) {{$policy->title}}
     @foreach($policy->policyAreas as $area)
