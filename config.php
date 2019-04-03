@@ -92,8 +92,6 @@ return [
             'tags' => [],
         ],
         'policies' => [
-            'path' => 'staff/{filename}',
-            'section' => 'postContent',
             'isPost' => false,
             'comments' => false,
             'tags' => [],
