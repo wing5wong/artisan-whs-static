@@ -1,10 +1,10 @@
 @extends('_layouts.standard')
 
 
-@section('title', 'Posts')
+@section('title', 'For Parents')
 
 @section('content')
-    <h1>Posts</h1>
+    <h1>For Parents</h1>
 
     <ul>
         @forelse ($for_parents->sortBy('title') as $post)
