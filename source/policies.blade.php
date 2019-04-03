@@ -1,6 +1,7 @@
-{{ var_dump($policies->policyAreas)}}
+
 
 @foreach($policies as $policy) {{$policy->title}}
+{{ var_dump($policy->policyAreas)}}
     @foreach($policy->policyAreas as $area)
     <li>{{$area->title}}-{{$area->policyArea}}-{{$area->policyArea->title}}
         <ul>
