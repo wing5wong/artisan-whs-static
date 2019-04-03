@@ -1,15 +1,17 @@
-@foreach($policies as $page)
-{{$page->title}}
+@foreach($policies as $page) {{$page->title}}
+<ul>
     @foreach($page->policyAreas as $area)
-    {{$area->title}}
-        @foreach($area->policies as $policy)
-        {{$policy->title}}
-        
+    <li>{{$area->title}}
+        <ul>
+            @foreach($area->policies as $policy)
+            <li>
+                {{$policy->title}}
 
+            </li>
 
-        @endforeach
-
-
+            @endforeach
+        </ul>
+    </li>
     @endforeach
-
+</ul>
 @endforeach
