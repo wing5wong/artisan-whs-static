@@ -142,23 +142,23 @@ collections:
         widget: "image"
         required: false
 
-    - name: "policies"
-      label: "Policies"
-      label_singular: "Policy"
-      folder: "source/_policies"
-      create: true
-      slug: "{{slug}}"
-      
-      fields:
-      
-        - {label: "Title", name: "title", widget: "string", default: "Title"}
-        - name: "policyAreas"
-          label: "Policy Areas"
-          label_singular: "Policy Area"
-          widget: "list"
-          fields:
-            - label: "Document Filename"
-              name: "document"
-              widget: "file"
-              allow_multiple: false
-              required: false
+  - name: "policies"
+    label: "Policies"
+    label_singular: "Policy"
+    folder: "source/_policies"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+    
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - name: "policyAreas"
+        label: "Policy Areas"
+        label_singular: "Policy Area"
+        widget: "list"
+        fields:
+          - label: "Document Filename"
+            name: "document"
+            widget: "file"
+            allow_multiple: false
+            required: false
