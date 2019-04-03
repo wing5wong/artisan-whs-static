@@ -1,5 +1,5 @@
 ---
-title: Title
+title: School Policies
 policyAreas:
   - policies:
       - document: >-
