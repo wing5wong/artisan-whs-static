@@ -150,15 +150,24 @@ collections:
     slug: "{{slug}}"
     
     fields:
-    
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - name: "policyAreas"
         label: "Policy Areas"
         label_singular: "Policy Area"
         widget: "list"
         fields:
-          - label: "Document Filename"
-            name: "document"
-            widget: "file"
-            allow_multiple: false
-            required: false
+          - label: "Policy Area Name"
+            name: "policyArea"
+            widget: "string"
+          - label: "Policies"
+            name: policies
+            widget: list
+            fields:
+              - name: "policy"
+                label: "Policy"
+                widget: "string"
+              - name: document
+                label: "Document"
+                widget: file
+                allow_multiple: false
+
