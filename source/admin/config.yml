@@ -20,8 +20,8 @@ media_library:
 collections:
 
   - name: "about_whs"
-    label: "About WHS"
-    label_singular: "About WHS Entry"
+    label: "About WHS Pages"
+    label_singular: "About WHS Page"
     folder: "source/_about"
     create: true
     slug: "{{slug}}"
@@ -56,7 +56,7 @@ collections:
 
 
   - name: "curriculum"
-    label: "Curriculum"
+    label: "Curriculum Pages"
     label_singular: "Curriculum Entry"
     folder: "source/_curriculum"
     create: true
@@ -125,8 +125,8 @@ collections:
 
 
   - name: "for_parents"
-    label: "For Parents"
-    label_singular: "For Parents Entry"
+    label: "For Parents Pages"
+    label_singular: "For Parents Page"
     folder: "source/_for_parents"
     create: true
     slug: "{{slug}}"
@@ -147,8 +147,8 @@ collections:
 
 
   - name: "international"
-    label: "International"
-    label_singular: "International Entry"
+    label: "International Pages"
+    label_singular: "International Page"
     folder: "source/_international"
     create: true
     slug: "{{slug}}"
@@ -191,8 +191,8 @@ collections:
 
 
   - name: "news_and_events"
-    label: "News"
-    label_singular: "News Article"
+    label: "News and Events Pages"
+    label_singular: "News and Events Page"
     folder: "source/_news_and_events"
     create: true
     slug: "{{slug}}"
