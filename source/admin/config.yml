@@ -278,3 +278,17 @@ collections:
         fields:
         - {label: "Image Filename", name: "image", widget: "image"}
         - {label: "Image Description", name: "description", widget: "string"}
+
+  - name: "vacancies"
+    label: "Vacancies"
+    label_singular: "Vacancy"
+    folder: "source/_vacancies"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Closing Date", name: "closing_date", widget: "date"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
