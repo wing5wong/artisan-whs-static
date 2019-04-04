@@ -173,6 +173,7 @@ collections:
   
   - label: "Profile"
     name: "profile"
+    folder: "source/_profile"
     widget: "object"
     fields:
       - {label: "Public", name: "public", widget: "boolean", default: true}
