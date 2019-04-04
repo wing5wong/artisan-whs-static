@@ -18,23 +18,6 @@ media_library:
     api_key: 514169267776294
 
 collections:
-  - name: "posts"
-    label: "Posts"
-    label_singular: "Post"
-    folder: "source/_posts"
-    create: true
-    slug: "{{slug}}"
-  
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Comments", name: "comments", widget: "boolean", default: true}
-      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "about_whs"
     label: "About WHS"
@@ -53,22 +36,24 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "for_parents"
-    label: "For Parents"
-    label_singular: "For Parents Entry"
-    folder: "source/_for_parents"
+
+  - name: "board_members"
+    label: "Board Members"
+    label_singular: "Board Member"
+    folder: "source/_board_of_trustees"
     create: true
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
+      - {label: "Position", name: "position", widget: "string", default: "Member"}
+      - label: "Category"
+        label_singular: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Board Member", "Co-opted Member", "Also in Attendance"]
+        multiple: true
+
 
   - name: "curriculum"
     label: "Curriculum"
@@ -87,10 +72,62 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "news_and_events"
-    label: "News"
-    label_singular: "News Article"
-    folder: "source/_news_and_events"
+
+  - name: "events"
+    label: "Events"
+    label_singular: "Event"
+    folder: "source/_events"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
+      - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+        - {label: "Image Filename", name: "image", widget: "image"}
+        - {label: "Image Description", name: "description", widget: "string"}
+
+
+  - name: "facilities"
+    label: "Facilities"
+    label_singular: "Facility"
+    folder: "source/_facilities"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+        - {label: "Image Filename", name: "image", widget: "image"}
+        - {label: "Image Description", name: "description", widget: "string"}
+
+
+  - name: "for_parents"
+    label: "For Parents"
+    label_singular: "For Parents Entry"
+    folder: "source/_for_parents"
     create: true
     slug: "{{slug}}"
     
@@ -103,6 +140,11 @@ collections:
         widget: "image"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
+
+
+
+
+
 
   - name: "international"
     label: "International"
@@ -121,43 +163,68 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "staff"
-    label: "Staff"
-    label_singular: "Staff Member"
-    folder: "source/_staff"
+
+  - name: "news"
+    label: "News"
+    label_singular: "News"
+    folder: "source/_news"
     create: true
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
-      - {label: "Position", name: "position", widget: "string", default: "Teacher"}
-      - label: "Departments"
-        label_singular: "Department"
-        name: "departments"
-        widget: "select"
-        options: ["Science", "Social Studies", "English"]
-        multiple: true
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
         name: "image"
         widget: "image"
         required: false
+      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
+      - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+        - {label: "Image Filename", name: "image", widget: "image"}
+        - {label: "Image Description", name: "description", widget: "string"}
 
-  - name: "board_members"
-    label: "Board Members"
-    label_singular: "Board Member"
-    folder: "source/_board_of_trustees"
+
+  - name: "news_and_events"
+    label: "News"
+    label_singular: "News Article"
+    folder: "source/_news_and_events"
     create: true
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
-      - {label: "Position", name: "position", widget: "string", default: "Member"}
-      - label: "Category"
-        label_singular: "Category"
-        name: "category"
-        widget: "select"
-        options: ["Board Member", "Co-opted Member", "Also in Attendance"]
-        multiple: true
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
+  - name: "newsletters"
+    label: "Newsletters"
+    label_singular: "Newsletter"
+    folder: "source/_newsletters"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Filename"
+        name: "file"
+        widget: "file"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+
 
   - name: "policies"
     label: "Policies"
@@ -187,97 +254,29 @@ collections:
                 label: "Document"
                 widget: file
                 allow_multiple: false
-  
-  - name: "news"
-    label: "News"
-    label_singular: "News"
-    folder: "source/_news"
+ 
+
+  - name: "staff"
+    label: "Staff"
+    label_singular: "Staff Member"
+    folder: "source/_staff"
     create: true
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
+      - {label: "Position", name: "position", widget: "string", default: "Teacher"}
+      - label: "Departments"
+        label_singular: "Department"
+        name: "departments"
+        widget: "select"
+        options: ["Science", "Social Studies", "English"]
+        multiple: true
       - label: "Image Filename"
         name: "image"
         widget: "image"
         required: false
-      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
-      - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Image Gallery"
-        name: "image_gallery"
-        widget: "list"
-        fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string"}
 
-  - name: "events"
-    label: "Events"
-    label_singular: "Event"
-    folder: "source/_events"
-    create: true
-    slug: "{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
-      - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Image Gallery"
-        name: "image_gallery"
-        widget: "list"
-        fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string"}
-
-  - name: "newsletters"
-    label: "Newsletters"
-    label_singular: "Newsletter"
-    folder: "source/_newsletters"
-    create: true
-    slug: "{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Filename"
-        name: "file"
-        widget: "file"
-        required: false
-      - {label: "Body", name: "body", widget: "markdown"}
-
-  - name: "facilities"
-    label: "Facilities"
-    label_singular: "Facility"
-    folder: "source/_facilities"
-    create: true
-    slug: "{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Image Gallery"
-        name: "image_gallery"
-        widget: "list"
-        fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string"}
 
   - name: "vacancies"
     label: "Vacancies"
@@ -292,3 +291,22 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
       - {label: "Categories", name: "categories", widget: "list", required: false}
+
+  - name: "posts"
+    label: "Posts"
+    label_singular: "Post"
+    folder: "source/_posts"
+    create: true
+    slug: "{{slug}}"
+  
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Comments", name: "comments", widget: "boolean", default: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+
