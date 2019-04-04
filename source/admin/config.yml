@@ -191,4 +191,37 @@ collections:
           - {label: "Street Address", name: "street", widget: "string"}
           - {label: "City", name: "city", widget: "string"}
           - {label: "Postal Code", name: "post-code", widget: "string"}
+  
+  - name: "news"
+    label: "News"
+    label_singular: "News"
+    folder: "source/_news"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
 
+- name: "events"
+    label: "Events"
+    label_singular: "Event"
+    folder: "source/_events"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
