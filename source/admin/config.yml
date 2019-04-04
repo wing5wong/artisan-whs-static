@@ -292,6 +292,28 @@ collections:
       - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
       - {label: "Categories", name: "categories", widget: "list", required: false}
 
+
+- name: "galleries"
+    label: "Galleries"
+    label_singular: "Gallery"
+    folder: "source/_galleries"
+    create: true
+    slug: "{{slug}}"
+  
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+        - {label: "Image Filename", name: "image", widget: "image"}
+        - {label: "Image Description", name: "description", widget: "string"}
+
+
   - name: "posts"
     label: "Posts"
     label_singular: "Post"
