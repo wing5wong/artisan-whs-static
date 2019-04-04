@@ -18,6 +18,12 @@ media_library:
     api_key: 514169267776294
 
 collections:
+  - name: payments
+    label: "Payments Page"
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "about_whs"
     label: "About WHS Pages"
