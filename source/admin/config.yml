@@ -232,7 +232,15 @@ collections:
         name: "image"
         widget: "image"
         required: false
+      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
+      - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+        - {label: "Image Filename", name: "image", widget: "image"}
+        - {label: "Image Description", name: "description", widget: "string"}
 
   - name: "newsletters"
     label: "Newsletters"
