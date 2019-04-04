@@ -253,8 +253,32 @@ collections:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Filename"
+        name: "file"
+        widget: "file"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "facilities"
+    label: "Facilities"
+    label_singular: "Facility"
+    folder: "source/_facilities"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
         name: "image"
         widget: "image"
         required: false
+      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+        - {label: "Image Filename", name: "image", widget: "image"}
+        - {label: "Image Description", name: "description", widget: "string"}
