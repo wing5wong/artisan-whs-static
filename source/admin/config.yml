@@ -53,7 +53,7 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "for-parents"
+  - name: "for_parents"
     label: "For Parents"
     label_singular: "For Parents Entry"
     folder: "source/_for_parents"
@@ -87,10 +87,10 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "news"
+  - name: "news_and_events"
     label: "News"
     label_singular: "News Article"
-    folder: "source/_news"
+    folder: "source/_news_and_events"
     create: true
     slug: "{{slug}}"
     

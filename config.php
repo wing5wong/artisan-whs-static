@@ -56,8 +56,8 @@ return [
             'comments' => true,
             'tags' => [],
         ],
-        'news' => [
-            'path' => 'news/{filename}',
+        'news_and_events' => [
+            'path' => 'news-events/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
@@ -84,6 +84,24 @@ return [
         ],
         'staff' => [
             'path' => 'staff/{filename}',
+            'sort' => '-departments.name',
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+            'isPost' => true,
+            'comments' => false,
+            'tags' => [],
+        ],
+        'news' => [
+            'path' => 'news/{filename}',
+            'sort' => '-date',
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+            'isPost' => true,
+            'comments' => false,
+            'tags' => [],
+        ],
+        'events' => [
+            'path' => 'events/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
