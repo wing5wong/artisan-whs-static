@@ -146,7 +146,7 @@ collections:
     label: "Policies"
     label_singular: "Policy"
     folder: "source/_policies"
-    create: true
+    create: false
     slug: "{{slug}}"
     
     fields:
