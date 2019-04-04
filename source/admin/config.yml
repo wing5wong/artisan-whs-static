@@ -209,7 +209,7 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
-- name: "events"
+  - name: "events"
     label: "Events"
     label_singular: "Event"
     folder: "source/_events"
