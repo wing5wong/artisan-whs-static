@@ -1,5 +1,4 @@
 ---
-extends: _layouts.post
-section: content
-permalink: 404.html
+title: Test Page
 ---
+The test payments page
