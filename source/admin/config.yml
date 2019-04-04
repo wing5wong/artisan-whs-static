@@ -134,7 +134,9 @@ collections:
       - label: "Departments"
         label_singular: "Department"
         name: "departments"
-        widget: "list"
+        widget: "select"
+        options: ["Science", "Social Studies", "English"]
+        multiple: true
       - label: "Image Filename"
         name: "image"
         widget: "image"
