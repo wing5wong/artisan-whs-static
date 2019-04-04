@@ -84,7 +84,7 @@ return [
         ],
         'staff' => [
             'path' => 'staff/{filename}',
-            'sort' => '-departments.name',
+            'sort' => '-department',
             'extends' => '_layouts.post',
             'section' => 'postContent',
             'isPost' => true,
