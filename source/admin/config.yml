@@ -175,6 +175,7 @@ collections:
     name: "profile"
     folder: "source/_profile"
     widget: "object"
+    create: true
     fields:
       - {label: "Public", name: "public", widget: "boolean", default: true}
       - {label: "Name", name: "name", widget: "string"}
