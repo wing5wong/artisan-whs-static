@@ -25,6 +25,8 @@ collections:
         label: "Payments Page"
         create: false
         file: "source/payments.md"
+        path: "payments"
+        extends: "_layouts.post"
         fields:
           - {label: "Title", name: "title", widget: "string", default: "Title"}
           - {label: "Body", name: "body", widget: "markdown"}
