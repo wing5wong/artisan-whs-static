@@ -1,7 +1,7 @@
 ---
-title: Test Page
+title: Payments
 extends: _layouts.post
-customPath: payments2
+customPath: ''
 ---
 Payments can be made by cash, cheque, EFTPOS or creditcard (upon presentation of the card) at Whanganui High School.  Please ensure all cash payments are the correct amount and that all cheques are made payable to Whanganui High School.
 
