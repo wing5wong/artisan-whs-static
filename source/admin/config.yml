@@ -20,6 +20,8 @@ media_library:
 collections:
   - name: "pages"
     label: "Pages"
+    create: true
+    folder: "source/_pages"
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Body", name: "body", widget: "markdown"}
