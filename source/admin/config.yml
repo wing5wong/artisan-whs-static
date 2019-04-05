@@ -28,6 +28,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string", default: "Title"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Extends", name: "extends", widget: "string"}
 
   - name: "about_whs"
     label: "About WHS Pages"
