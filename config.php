@@ -21,7 +21,7 @@ return [
     ],
     'collections' => [
         'pages' => [
-            'path' => '{parth}',
+            'path' => '{customPath}' ?: '{path}',
             'extends' => '_layouts.post',
             'section' => 'postContent',
         ],
