@@ -21,8 +21,7 @@ return [
     ],
     'collections' => [
         'pages' => [
-            'path' => '{filename}'
-            
+            'path' => '{filename}',
             'extends' => '_layouts.post',
             'section' => 'postContent',
         ],
