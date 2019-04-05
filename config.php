@@ -25,7 +25,6 @@ return [
             'extends' => '_layouts.post',
             'section' => 'postContent',
         ],
-
         'posts' => [
             'path' => 'posts/{filename}',
             'sort' => '-date',

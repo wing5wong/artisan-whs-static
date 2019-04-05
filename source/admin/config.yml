@@ -20,15 +20,12 @@ media_library:
 collections:
   - name: "pages"
     label: "Pages"
-    files:
-      - name: payments
-        label: "Payments Page"
-        create: false
-        file: "source/_pages/payments.md"
-        fields:
-          - {label: "Title", name: "title", widget: "string", default: "Title"}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Extends", name: "extends", widget: "string"}
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Extends", name: "extends", widget: "string"}
+      - {label: "Path", name: "path", widget: "string", default: '_pages/{{slug}}'}
+
 
   - name: "about_whs"
     label: "About WHS Pages"
