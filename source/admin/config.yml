@@ -26,7 +26,7 @@ collections:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Extends", name: "extends", widget: "string"}
-      - {label: "Path", name: "path", widget: "string", default: '_pages/{{slug}}'}
+      - {label: "parth", name: "parth", widget: "string", default: '_pages/{{slug}}'}
 
 
   - name: "about_whs"
