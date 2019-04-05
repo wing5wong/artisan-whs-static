@@ -20,6 +20,13 @@ return [
         'jumprock' => '',
     ],
     'collections' => [
+        'pages' => [
+            'path' => '{filename}'
+            
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+        ],
+
         'posts' => [
             'path' => 'posts/{filename}',
             'sort' => '-date',
