@@ -21,7 +21,7 @@ return [
     ],
     'collections' => [
         'pages' => [
-            'path' => '{customPath}' ?: '{path}',
+            'path' => !empty('{customPath}') ?: '{filename}',
             'extends' => '_layouts.post',
             'section' => 'postContent',
         ],
