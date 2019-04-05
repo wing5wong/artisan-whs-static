@@ -1,5 +1,5 @@
 ---
 title: Test Page
-extends: _layouts.home
+extends: _layouts.post
 ---
 The test payments page
