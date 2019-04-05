@@ -24,7 +24,7 @@ collections:
       - name: payments
         label: "Payments Page"
         create: false
-        file: "source/payments.md"
+        file: "source/_pages/payments.md"
         fields:
           - {label: "Title", name: "title", widget: "string", default: "Title"}
           - {label: "Body", name: "body", widget: "markdown"}
