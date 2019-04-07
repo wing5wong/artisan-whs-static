@@ -18,6 +18,20 @@ media_library:
     api_key: 514169267776294
 
 collections:
+  - name: static
+    label: "Static Pages"
+    files: 
+      - label: "About Page"
+        name: "about"
+        file: "static/my-page.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          - label: Extends
+            name: extends
+            widget: string
+          - {label: "custom Path", name: "customPath", widget: "string", required: false}
+            
   - name: "pages"
     label: "Pages"
     create: true
