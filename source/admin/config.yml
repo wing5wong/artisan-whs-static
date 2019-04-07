@@ -33,7 +33,6 @@ collections:
           - {label: "custom Path", name: "customPath", widget: "string", required: false}
             
   - name: "pages"
-    label: "Pages"
     create: true
     folder: "source/_pages"
     fields:
