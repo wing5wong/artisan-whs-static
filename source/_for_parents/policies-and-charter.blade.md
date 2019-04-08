@@ -29,11 +29,11 @@ Read the full criteria for representing Whanganui High School
 SCHOOL POLICIES
 
 @foreach($policies as $policy)
-    ** {{$policy->title}}
-    @foreach($policy->policyAreas as $area)
-    - {{$area["policyArea"]}}
-    @foreach($area["policies"] as $policyDoc)
-        - 	[{{$policyDoc["title"]}}({{$policyDoc["document"]}})
-            @endforeach
-    @endforeach
+** {{$policy->title}}
+@foreach($policy->policyAreas as $area)
+- {{$area["policyArea"]}}
+@foreach($area["policies"] as $policyDoc)
+    - 	[{{$policyDoc["title"]}}({{$policyDoc["document"]}})
+        @endforeach
+@endforeach
 @endforeach
