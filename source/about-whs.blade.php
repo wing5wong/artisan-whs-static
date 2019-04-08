@@ -73,10 +73,12 @@
 
 
     <div class="row no-gutters houses">
+        @foreach($about->only("head-prefects","staff","board-of-trustees","working-at-whs")) as $area)
         <div class="col p-5 bg-green text-center text-yellow d-flex flex-column justify-content-between align-items-center">
             <h2 class="mb-0">{{$area["title"]}}</h2>
             <a class="btn btn-outline-light mt-5" href="<pop:permalink />">More information</a>
         </div>
+        @endforeach
     </div>
 
 {{-- 
