@@ -34,6 +34,6 @@ SCHOOL POLICIES
 - {{$area["policyArea"]}}
 @foreach($area["policies"] as $policyDoc)
     - [{{$policyDoc["title"]}}]({{$policyDoc["document"]}})
-        @endforeach
+@endforeach
 @endforeach
 @endforeach
