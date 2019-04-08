@@ -23,7 +23,7 @@ collections:
     files: 
       - label: "About Page"
         name: "about"
-        file: "static/my-page.md"
+        file: "source/static/my-page.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
