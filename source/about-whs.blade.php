@@ -78,7 +78,7 @@
             <h2 class="mb-0">{{$area["title"]}}</h2>
             <a class="btn btn-outline-light mt-5" href="<pop:permalink />">More information</a>
         </div>
-        @foreach
+        @endforeach
     </div>
 
 {{-- 
