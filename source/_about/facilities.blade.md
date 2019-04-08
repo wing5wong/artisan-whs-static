@@ -11,6 +11,6 @@ Whanganui High School takes great pride in offering a range of facilities to be 
 @foreach($facilities as $facility)
 ## {{$facility->title}}
 
-{{$facility}}
+{!! $facility !!}
 
 @endforeach
