@@ -21,7 +21,7 @@
 
     @foreach($staff as $s)
 
-    <h2>{{$s->firstName}} {{$s->lastName}} </h2>
+    <h2>{{$s->title}} </h2>
     @foreach($s->departments as $dept)
         <p>{{$dept}}</p>
     @endforeach
