@@ -30,7 +30,6 @@ collections:
           - label: Extends
             name: extends
             widget: string
-          - {label: "custom Path", name: "customPath", widget: "string", required: false}
             
   - name: "pages"
     label: "Pages"
