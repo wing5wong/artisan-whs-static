@@ -1,8 +1,8 @@
-@extends('_layouts.standard')
+@extends('_layouts.full')
 
 
 @section('title', 'Posts')
-
+{{-- 
 @section('content')
     <h1>Posts</h1>
 
@@ -16,4 +16,4 @@
             <p>No posts to show.</p>
         @endforelse
     </ul>
-@endsection
+@endsection --}}
