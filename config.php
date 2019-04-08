@@ -52,6 +52,13 @@ return [
             'comments' => true,
             'tags' => [],
         ],
+        'facilities' => [
+            'path' => 'facilities/{filename}',
+            'sort' => '-date',
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+            'tags' => [],
+        ],
         'for_parents' => [
             'path' => 'for-parents/{filename}',
             'sort' => '-date',
