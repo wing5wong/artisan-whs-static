@@ -4,7 +4,7 @@
         <ul>
             @foreach($area["policies"] as $policy)
             <li>
-                {{$policy["title"]}}
+                <a href="{{$policy["document"]}}">{{$policy["title"]}}</a>
 
             </li>
 
