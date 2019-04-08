@@ -54,6 +54,7 @@ return [
         ],
         'facilities' => [
             'path' => 'facilities/{filename}',
+            'title' => '{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
