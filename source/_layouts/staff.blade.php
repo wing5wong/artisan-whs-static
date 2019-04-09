@@ -20,11 +20,11 @@
     </blockquote>
 
     @foreach($staff as $s)
-
-    <h2>{{$s->title}} </h2>
-    @foreach($s->departments as $dept)
-        <p>{{$dept}}</p>
-    @endforeach
+{{$s["position"]}}
+    {{-- <h2>{{$s["title"]}} </h2> --}}
+    {{-- @foreach($s["departments"] as $dept) --}}
+        {{-- <p>{{$dept}}</p> --}}
+    {{-- @endforeach --}}
     @endforeach
 
 

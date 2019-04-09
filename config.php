@@ -52,9 +52,14 @@ return [
             'comments' => true,
             'tags' => [],
         ],
+        'staff' => [
+            'path' => 'staff/{filename}',
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+            'tags' => [],
+        ],
         'facilities' => [
             'path' => 'facilities/{filename}',
-            'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
             'tags' => [],
@@ -94,19 +99,10 @@ return [
                 return $page->getFilename();
             },
         ],
-        'staff' => [
-            'path' => 'staff/{filename}',
-            'sort' => '-department',
-            'extends' => '_layouts.post',
-            'section' => 'postContent',
-            'isPost' => true,
-            'comments' => false,
-            'tags' => [],
-        ],
         'news' => [
             'path' => 'news/{filename}',
             'sort' => '-date',
-            'extends' => '_layouts.post',
+            'extends' => '_layouts.staff',
             'section' => 'postContent',
             'isPost' => true,
             'comments' => false,
