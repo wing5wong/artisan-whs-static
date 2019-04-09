@@ -52,7 +52,7 @@ return [
             'comments' => true,
             'tags' => [],
         ],
-        'staffCollection' => [
+        'staff' => [
             'path' => 'staff/{filename}',
             'extends' => '_layouts.post',
             'section' => 'postContent',
