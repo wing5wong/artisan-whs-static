@@ -1,3 +1,23 @@
 ---
 title: Team
+members:
+  - title: Mrs Alexandra Ferretti
+    body: >-
+      Mrs Alexandra Ferretti is the Director of Whanganui High School's
+      International Department and a teacher of Spanish, French and ESOL. She
+      has worked at Whanganui High School since 2003 and was Dean for three
+      years before becoming Director of International. 
+
+
+      She believes that if the students are safe and happy, then success will
+      follow both academically and personally. Having had experience as a
+      student in another country and lived in many different countries, she
+      understands the difficulties students can sometimes experience. She
+      travels overseas frequently to meet agents and parents of her students at
+      Whanganui High School.
+    email: director.int@whanganuihigh.school.nz
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1554243763/Oliver_Keelty_won_Male_Instructor_award.jpg
+    role: Director of International Students
 ---
+The international team is blah blah blah
