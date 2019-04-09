@@ -19,5 +19,11 @@ members:
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1554243763/Oliver_Keelty_won_Male_Instructor_award.jpg
     role: Director of International Students
+  - title: Mrs Tonia Hoobin
+    body: "**Mrs Tonia Hoobin**<span>\_or Tonia as the students call her is responsible for administration and helping students with insurance claims and visas.\_ She is usually the first person to receive and respond to emails.\_</span>"
+    email: international@whanganuihigh.school.nz
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1554243763/Oliver_Keelty_won_Male_Instructor_award.jpg
+    role: International Administrator
 ---
 The international team is blah blah blah
