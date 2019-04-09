@@ -196,9 +196,6 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-          - label: Extends
-            name: extends
-            widget: string
           - label: Members
             name: members
             widget: list
@@ -207,6 +204,20 @@ collections:
               - {label: Body, name: body, widget: markdown}
               - {label: Role, name: role, widget: string}
               - {label: Email, name: email, widget: string}
+              - {label: Image, name: image, widget: image}
+      - label: "Student Experiences"
+        name: "experiences"
+        file: "source/_international/_static/student-experiences.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          
+          - label: Students
+            name: students
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Body, name: body, widget: markdown}
               - {label: Image, name: image, widget: image}
     
 
