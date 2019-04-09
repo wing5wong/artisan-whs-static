@@ -25,9 +25,6 @@ Whanganui High School representatives are bound by the Smoke, Drug, and Alcohol 
 Read the full criteria for representing Whanganui High School
 
 
-
-SCHOOL POLICIES
-
 @foreach($policies as $policy)
 ## {{$policy->title}}
 @foreach($policy->policyAreas as $area)

@@ -12,7 +12,7 @@ NEW ZEALAND
 **Phone: **(+64) 6 349 0178  
 **Fax: **(+64) 6 349 0176  
 **Student Centre Phone: **(+64) 6 349 0177  
-**Email: **[international@whanganuihigh.school.nz](mailto:international@wanganui-high.school.nz   ?subject=International%20Enquiry)
+**Email: ** [international@whanganuihigh.school.nz](mailto:international@wanganui-high.school.nz?subject=International%20Enquiry)
 
 Download an application form to come to Whanganui High School:
 
