@@ -1,0 +1,7 @@
+---
+title: Learning Support Centre
+date: 2019-04-08T21:56:17.468Z
+description: >
+The Learning Support Centre (LSC)  provides extra support for student in the mainstream, who are finding their subject work difficult due to a specific Learning difficult or a condition (eg Dyslexia, Dyspraxia, Autism, Anxiety; physical disability etc). Senior students with a Learning line get extra time for completing their Internal assessments and keeping up to date with their classwork. This may include Special Assessment Condition (Sac) students who qualify for reader writer assistance. 
+---
+The Learning Support Centre (LSC)  provides extra support for student in the mainstream, who are finding their subject work difficult due to a specific Learning difficult or a condition (eg Dyslexia, Dyspraxia, Autism, Anxiety; physical disability etc). Senior students with a Learning line get extra time for completing their Internal assessments and keeping up to date with their classwork. This may include Special Assessment Condition (Sac) students who qualify for reader writer assistance. Junior students who are needing settling into the Secondary School system, or needing a very altered programme for a specific subject, may also be given a line in the LSC. Approval needs to be given by the SENCO. Students in each LSC line, range from yr9 through to yr13 in the same class, and they all work on their own programme, so it is a very quiet environment allowing students to concentration, work and learn.
