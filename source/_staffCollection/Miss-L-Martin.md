@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miss L. Martin
 position: (HOF Physical Education & Health)
 departments:

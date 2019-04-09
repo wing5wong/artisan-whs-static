@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stave Hill
 position: (Student Representative)
 departments:

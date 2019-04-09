@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms J. Khalique
 position: 
 departments:

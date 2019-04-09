@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms D. Smith
 position: (Uniform Shop)
 departments:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miss M. Smaill
 position: 
 departments:

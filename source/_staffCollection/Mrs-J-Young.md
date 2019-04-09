@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs J. Young
 position: (Canteen Manager)
 departments:

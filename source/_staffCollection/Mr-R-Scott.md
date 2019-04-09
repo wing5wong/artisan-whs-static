@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr R. Scott
 position: 
 departments:

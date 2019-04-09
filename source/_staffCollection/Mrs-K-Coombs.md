@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs K. Coombs
 position: 
 departments:

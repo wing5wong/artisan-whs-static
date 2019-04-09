@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miss L. Simon
 position: (Kapahaka Tutor)
 departments:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs A. Aldridge
 position: (Bursars Office)
 departments:

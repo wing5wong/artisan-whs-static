@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr A. Gerrie
 position: (Computer Technician)
 departments:

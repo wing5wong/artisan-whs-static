@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miss K. Blythe
 position: 
 departments:

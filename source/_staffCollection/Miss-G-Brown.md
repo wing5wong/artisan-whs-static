@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miss G. Brown
 position: 
 departments:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs A. Hunt - Strings
 position: 
 departments:

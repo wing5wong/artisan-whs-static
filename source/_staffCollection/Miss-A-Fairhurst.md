@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miss A. Fairhurst
 position: 
 departments:

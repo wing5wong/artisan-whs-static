@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms N. St Pierre - Piano/Flute
 position: 
 departments:

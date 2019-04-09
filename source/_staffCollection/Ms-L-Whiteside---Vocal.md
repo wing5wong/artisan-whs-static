@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms L. Whiteside - Vocal
 position: 
 departments:

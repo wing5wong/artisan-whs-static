@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr C. Friedel
 position: 
 departments:

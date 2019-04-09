@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr G. Foster - Bagpipes
 position: 
 departments:

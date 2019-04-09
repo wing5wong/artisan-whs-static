@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr G. Hardy
 position: 
 departments:

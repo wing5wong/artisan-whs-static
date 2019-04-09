@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr K. Rivers
 position: 
 departments:

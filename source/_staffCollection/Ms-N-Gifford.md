@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms N. Gifford
 position: 
 departments:

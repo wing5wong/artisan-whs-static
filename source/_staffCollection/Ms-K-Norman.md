@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms K. Norman
 position: 
 departments:

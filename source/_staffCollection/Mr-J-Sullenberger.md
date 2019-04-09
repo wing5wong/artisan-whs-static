@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr J. Sullenberger
 position: 
 departments:

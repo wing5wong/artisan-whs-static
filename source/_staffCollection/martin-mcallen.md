@@ -1,4 +1,4 @@
-﻿---
+---
 title: Martin McAllen
 position: (Principal)
 departments:

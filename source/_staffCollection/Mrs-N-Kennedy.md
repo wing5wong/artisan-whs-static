@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs N. Kennedy
 position: (Bursar)
 departments:

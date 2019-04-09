@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms M. Kidd
 position: (Canteen)
 departments:

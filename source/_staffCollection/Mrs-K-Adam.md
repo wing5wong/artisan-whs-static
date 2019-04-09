@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs K. Adam
 position: (Alternative Education)
 departments:

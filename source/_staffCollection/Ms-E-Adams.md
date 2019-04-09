@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms E. Adams
 position: 
 departments:

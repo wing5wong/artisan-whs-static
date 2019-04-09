@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs D. Sutherland
 position: 
 departments:

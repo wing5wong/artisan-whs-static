@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms L. Hart
 position: 
 departments:

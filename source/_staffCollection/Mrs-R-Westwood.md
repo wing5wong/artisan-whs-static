@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs R. Westwood
 position: (Student Centre)
 departments:

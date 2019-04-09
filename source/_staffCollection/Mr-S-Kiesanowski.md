@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr S. Kiesanowski
 position: 
 departments:

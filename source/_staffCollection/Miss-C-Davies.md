@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miss C. Davies
 position: 
 departments:

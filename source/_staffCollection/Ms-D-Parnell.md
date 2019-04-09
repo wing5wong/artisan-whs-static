@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms D. Parnell
 position: 
 departments:

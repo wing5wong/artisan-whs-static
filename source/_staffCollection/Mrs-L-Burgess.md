@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs L. Burgess
 position: 
 departments:

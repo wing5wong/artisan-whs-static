@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs R. Coker
 position: (Canteen)
 departments:

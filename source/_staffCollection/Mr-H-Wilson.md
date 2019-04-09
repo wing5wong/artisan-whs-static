@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr H. Wilson
 position: 
 departments:

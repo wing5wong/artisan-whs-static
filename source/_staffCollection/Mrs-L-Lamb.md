@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs L. Lamb
 position: (Library)
 departments:

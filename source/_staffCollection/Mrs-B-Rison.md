@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs B. Rison
 position: 
 departments:

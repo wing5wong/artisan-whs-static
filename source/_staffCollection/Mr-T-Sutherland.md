@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr T. Sutherland
 position: 
 departments:

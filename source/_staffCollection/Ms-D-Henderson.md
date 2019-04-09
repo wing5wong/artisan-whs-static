@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ms D. Henderson
 position: (Staff Room)
 departments:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr G. Collie
 position: 
 departments:

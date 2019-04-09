@@ -1,4 +1,4 @@
-﻿---
+---
 title: Miss S. Harding
 position: (Student Centre)
 departments:

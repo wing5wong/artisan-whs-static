@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr T. Clark
 position: (Property)
 departments:

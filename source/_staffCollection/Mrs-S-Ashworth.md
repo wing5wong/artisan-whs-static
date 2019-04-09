@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs S. Ashworth
 position: (Bursars Office)
 departments:

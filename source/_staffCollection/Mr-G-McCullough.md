@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mr G. McCullough
 position: 
 departments:

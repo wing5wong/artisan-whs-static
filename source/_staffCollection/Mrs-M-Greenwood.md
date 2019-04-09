@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mrs M. Greenwood
 position: 
 departments:
