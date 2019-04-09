@@ -29,12 +29,13 @@
 <body>
 
 
+
+  @include('_partials.banner.standard-main')
+  
   @include('_partials.nav.main')
 
 
   @include('_partials.announcement.main')
-
-  @include('_partials.banner.standard-main')
 
 
 <div class="houses">

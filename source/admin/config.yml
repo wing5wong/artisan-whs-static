@@ -187,6 +187,29 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: internationa_data
+    label: "International Data"
+    files: 
+      - label: "The Team"
+        name: "team"
+        file: "source/_international/_static/team.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          - label: Extends
+            name: extends
+            widget: string
+          - label: Members
+            name: members
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Body, name: body, widget: markdown}
+              - {label: Role, name: role, widget: string}
+              - {label: Email, name: email, widget: string}
+              - {label: Image, name: image, widget: image}
+    
+
 
   - name: "news"
     label: "News"

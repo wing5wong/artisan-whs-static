@@ -53,8 +53,6 @@ return [
             'tags' => [],
         ],
         'staff' => [
-            'path' => 'about-whs/staff/{filename}',
-            'extends' => '_layouts.post',
             'section' => 'postContent',
             'tags' => [],
         ],
