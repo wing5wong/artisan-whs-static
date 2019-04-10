@@ -16,25 +16,24 @@ International students can start at the beginning of any term.
 
 ### End Date  
 *   **Friday 12 April**
-
-
+  
+  
 ## Term 2 2019
 ### Start Date
 *   **Monday 29 April**
 
 ### End Date  
 *   **Friday 5 July**
-
-
+  
+  
 ## Term 3 2019
 ### Start Date
 *   **Monday 22 July**  
 
 ### End Date
 *   **Friday 27 September**
-
-
-
+  
+  
 ## Term 4 2019
 ### Start Date
 *   **Monday 14 October**  
@@ -43,8 +42,8 @@ International students can start at the beginning of any term.
 *   Year 11: to be confirmed
 *   Year 12 & 13: to be confirmed
 *   Year 9 & 10: to be confirmed
-
-
+  
+  
 ## Public Holidays 2019
 The school will be closed on all public holidays.   
 Parents will be notified if students are not required at school for any extraordinary reason.

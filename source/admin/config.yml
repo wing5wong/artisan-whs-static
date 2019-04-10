@@ -7,13 +7,13 @@ backend:
 
 media_library:
   name: cloudinary
+  output_filename_only: true
   config:
     #default_transformations:
     #  -   - fetch_format: auto
     #        width: 160
     #        quality: auto
     #        crop: scale
-    output_filename_only: true
     cloud_name: whanganuihigh
     api_key: 514169267776294
 
