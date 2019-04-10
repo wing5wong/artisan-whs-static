@@ -8,7 +8,7 @@ backend:
 media_library:
   name: cloudinary
   config:
-    default_transformations:
+    #default_transformations:
     #  -   - fetch_format: auto
     #        width: 160
     #        quality: auto
