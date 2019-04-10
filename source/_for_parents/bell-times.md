@@ -1,6 +1,8 @@
 ---
 title: Bell Times
 date: 2019-04-02T01:23:57.661Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1554243763/Oliver_Keelty_won_Male_Instructor_award.jpg
 ---
 
 **Monday to Thursday**
