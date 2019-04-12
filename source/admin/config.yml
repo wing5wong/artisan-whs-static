@@ -79,7 +79,7 @@ collections:
         widget: "select"
         options: ["Board Member", "Co-opted Member", "Also in Attendance"]
         multiple: false
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Body", name: "bio", widget: "markdown", required: false}
       - label: "Image Filename"
         name: "image"
         widget: "image"

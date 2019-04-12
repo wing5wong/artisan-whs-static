@@ -15,6 +15,7 @@
         <li>
             <h3>{{$member->title}} <small>{{$member->position}}</small></h3>
             <h4>{{$member->category}}</h4>
+            {{ $member->bio }}
         </li>
     @endforeach
     </ul>
@@ -24,6 +25,7 @@
         <li>
             <h3>{{$member->title}} <small>{{$member->position}}</small></h3>
             <h4>{{$member->category}}</h4>
+            {{ $member->bio }}
         </li>
     @endforeach
     </ul>
@@ -33,6 +35,7 @@
         <li>
             <h3>{{$member->title}} <small>{{$member->position}}</small></h3>
             <h4>{{$member->category}}</h4>
+            {{ $member->bio }}
         </li>
     @endforeach
     </ul>
