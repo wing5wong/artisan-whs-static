@@ -10,7 +10,6 @@
     <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
 
-    @if(!empty($board_members))
     <ul>
     @foreach($board_members as $member)
         <li>
@@ -19,8 +18,7 @@
         </li>
     @endforeach
     </ul>
-    @endif
-    
+
     <hr>
 
     <p>
