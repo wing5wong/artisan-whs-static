@@ -11,7 +11,25 @@
 
 
     <ul>
-    @foreach($board_members as $member)
+    @foreach($board_members->filter(function($member){ return $member->category == "Board Member";}) as $member)
+        <li>
+            <h3>{{$member->title}} <small>{{$member->position}}</small></h3>
+            <h4>{{$member->category}}</h4>
+        </li>
+    @endforeach
+    </ul>
+
+    <ul>
+    @foreach($board_members->filter(function($member){ return $member->category == "Co-opted Member";}) as $member)
+        <li>
+            <h3>{{$member->title}} <small>{{$member->position}}</small></h3>
+            <h4>{{$member->category}}</h4>
+        </li>
+    @endforeach
+    </ul>
+    
+    <ul>
+    @foreach($board_members->filter(function($member){ return $member->category == "Also in Attendance";}) as $member)
         <li>
             <h3>{{$member->title}} <small>{{$member->position}}</small></h3>
             <h4>{{$member->category}}</h4>

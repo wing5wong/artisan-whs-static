@@ -43,9 +43,7 @@ return [
             'comments' => true,
             'tags' => [],
         ],
-        'board_members' => [
-            
-        ],
+        'board_members' => [],
         'curriculum' => [
             'path' => 'curriculum/{filename}',
             'sort' => '-date',
