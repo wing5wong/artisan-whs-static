@@ -64,9 +64,9 @@ collections:
 
 
   - name: "board_members"
-    label: "Board Members"
+    label: "Board Memberss"
     label_singular: "Board Member"
-    folder: "source/_board_of_trustees"
+    folder: "source/_board_members"
     create: true
     slug: "{{slug}}"
     
