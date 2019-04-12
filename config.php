@@ -42,6 +42,9 @@ return [
             'isPost' => true,
             'comments' => true,
             'tags' => [],
+            'visible'=> function($page){
+                return $page->visible === "Yes";
+            }
         ],
         'board_members',
         'curriculum' => [

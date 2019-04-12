@@ -61,6 +61,7 @@ collections:
       - {label: "Intro Button Text (shown on main page)", name: "button_text", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post'}
+      - {label: "Visible in nav", name: "visible", widget: "select", default: 'Yes', options: ["Yes", "No"]}
 
 
   - name: "board_members"
