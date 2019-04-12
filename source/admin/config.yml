@@ -57,6 +57,8 @@ collections:
         name: "image"
         widget: "image"
         required: false
+      - {label: "Section Intro (shown on main page)", name: "intro", widget: "text"}
+      - {label: "Intro Button Text (shown on main page)", name: "button_text", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post'}
 
@@ -76,7 +78,7 @@ collections:
         name: "category"
         widget: "select"
         options: ["Board Member", "Co-opted Member", "Also in Attendance"]
-        multiple: true
+        multiple: false
 
 
   - name: "curriculum"
