@@ -57,8 +57,8 @@ collections:
         name: "image"
         widget: "image"
         required: false
-      - {label: "Section Intro (shown on main page)", name: "intro", widget: "text"}
-      - {label: "Intro Button Text (shown on main page)", name: "button_text", widget: "text"}
+      - {label: "Section Intro (shown on main page)", name: "intro", widget: "text", required: false}
+      - {label: "Intro Button Text (shown on main page)", name: "button_text", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post'}
       - {label: "Visible in nav", name: "visible", widget: "select", default: ['Yes'], options: ["Yes", "No"], multiple: false}
@@ -400,21 +400,15 @@ collections:
         - {label: "Image Filename", name: "image", widget: "image"}
         - {label: "Image Description", name: "description", widget: "string"}
 
-
-  - name: "posts"
-    label: "Posts"
-    label_singular: "Post"
-    folder: "source/_posts"
+  - name: "vacancies"
+    label: "Vacancies"
+    label_singular: "Vacancy"
+    folder: "source/_vacancies"
     create: true
     slug: "{{slug}}"
   
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Comments", name: "comments", widget: "boolean", default: true}
+      - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
       - {label: "Body", name: "body", widget: "markdown"}

@@ -125,6 +125,7 @@ return [
             'tags' => [],
         ],
         'prefects',
+        'vacancies',
     ],
     'excerpt' => function ($page, $limit = 250, $end = '...') {
         return $page->isPost
