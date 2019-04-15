@@ -2,5 +2,6 @@
 title: Martin McAllen
 position: (Principal)
 departments:
-  -Board of Trustees
+  - "Principal"
+  - "Board of Trustees"
 ---

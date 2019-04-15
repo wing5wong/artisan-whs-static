@@ -6,12 +6,11 @@ tags:
 image: ''
 intro: WHS Staff
 button_text: More Information
-visible: 'Yes'
 ---
 
 Whanganui High School takes great pride in offering a range of facilities to be used by its staff and students.
 
 @foreach($staff as $st)
 ## {{$st->title}}
-{{$st->departments}}
+{!!implode(", ", $st->departments)!!}
 @endforeach

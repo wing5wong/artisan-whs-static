@@ -215,7 +215,7 @@ collections:
               - {label: Image, name: image, widget: image}
       - label: "Student Experiences"
         name: "experiences"
-        file: "source/_international/_static/student-experiences.md"
+        file: "source/_international/student-experiences.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
