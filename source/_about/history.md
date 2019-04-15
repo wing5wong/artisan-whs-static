@@ -4,6 +4,9 @@ date: 2019-04-01T23:15:23.057Z
 tags:
   - About WHS
 image: ''
+intro: >-
+  Whanganui High School crest, motto, history and previous Principals.
+button_text: Read Our Full History
 ---
 
 ## Whanganui High School Crest

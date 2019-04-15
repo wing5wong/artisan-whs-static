@@ -1,5 +1,5 @@
 @extends('_layouts.full') 
-@section('title', 'Posts') 
+@section('title', 'About WHS') 
 @section('content')
 
 <div class="houses bg-green text-center text-yellow row no-gutters">
@@ -9,15 +9,15 @@
         <h2 class="mb-5">
             {{$about->get('about-whs')["title"]}}
         </h2>
-        {!! $about->get('about-whs') !!}
-        <a class="btn btn-outline-light mt-5" href="{{ $about->get('about-whs')->getPath() }}">Read our full story</a>
+        {!! $about->get('about-whs')["intro"] !!}
+        <a class="btn btn-outline-light mt-5" href="{{ $about->get('about-whs')->getPath() }}">{!! $about->get('about-whs')["button_text"] !!}</a>
     </div>
     <div class="col p-5 bg-white text-green d-flex flex-column justify-content-around align-items-center">
         <h2 class="mb-5">
             {{$about->get('principals-message')["title"]}}
         </h2>
-        {!! $about->get('principals-message') !!}
-        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('principals-message')->getPath() }}">See what I have to say</a>
+        {!! $about->get('principals-message')["intro"] !!}
+        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('principals-message')->getPath() }}">{!! $about->get('principals-message')["button_text"] !!}</a>
     </div>
 </div>
     @include('_partials.banner.feature-image')
@@ -27,16 +27,16 @@
         <h2 class="mb-5">
             {{$about->get('facilities')["title"]}}
         </h2>
-        {!! $about->get('facilities') !!}
-        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('facilities')->getPath() }}">More Information</a>
+        {!! $about->get('facilities')["intro"] !!}
+        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('facilities')->getPath() }}">{!! $about->get('facilities')["button_text"] !!}</a>
     </div>
 
     <div class="col p-5 bg-white text-dark shadow-right-inset d-flex flex-column justify-content-around align-items-center">
         <h2 class="mb-5">
             {{$about->get('history')["title"]}}
         </h2>
-        {!! $about->get('history') !!}
-        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('history')->getPath() }}">More Information</a>
+        {!! $about->get('history')["intro"] !!}
+        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('history')->getPath() }}">{!! $about->get('history')["button_text"] !!}</a>
     </div>
 </div>
 
@@ -48,8 +48,8 @@
             <h2 class="mb-5">
                 {{$about->get('houses')["title"]}}
             </h2>
-            {!! $about->get('houses') !!}
-            <a class="btn btn-outline-dark mt-5" href="{{ $about->get('houses')->getPath() }}">More Information</a>
+            {!! $about->get('houses')["intro"] !!}
+            <a class="btn btn-outline-dark mt-5" href="{{ $about->get('houses')->getPath() }}">{!! $about->get('houses')["button_text"] !!}</a>
         </div>
     </div>
     <div class="col text-center text-white d-flex flex-wrap">

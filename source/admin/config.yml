@@ -322,6 +322,27 @@ collections:
                 allow_multiple: false
  
 
+  - name: "prefects"
+    label: "Prefects"
+    label_singular: "Prefect"
+    folder: "source/_prefects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
+      - label: "Category"
+        label_singular: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Head Boy and Girl", "Deputy Head Boy and Girl", "Head of Academia","Head of Culture"," Head of E-Life", "Head of Social","Head of Sport", "Head of Maori", "Head of Pasifika", "Head of International", "Head of Awa House", "Head of Maunga House", "Head of Moana House", "Head of Whenua House" ]
+        multiple: false
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+
+
   - name: "staff"
     label: "Staff"
     label_singular: "Staff Member"
