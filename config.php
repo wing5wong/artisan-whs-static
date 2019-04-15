@@ -42,8 +42,8 @@ return [
             'isPost' => true,
             'comments' => true,
             'tags' => [],
-            'visible'=> function($page){
-                return $page->visible === "Yes";
+            'isVisible'=> function($page){
+                return !($page->visible == "No");
             }
         ],
         'board_members',
