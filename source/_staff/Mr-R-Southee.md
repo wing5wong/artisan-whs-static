@@ -2,5 +2,5 @@
 title: Mr R. Southee
 position: 
 departments:
-  -Board of Trustees
+  - Board of Trustees
 ---

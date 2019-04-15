@@ -2,5 +2,5 @@
 title: Mr J. Taylor
 position: 
 departments:
-  -Learning Support Centre
+  - Learning Support Centre
 ---

@@ -2,5 +2,5 @@
 title: Miss C. Davies
 position: 
 departments:
-  -Te Atawhai (Special Needs)
+  - Te Atawhai (Special Needs)
 ---

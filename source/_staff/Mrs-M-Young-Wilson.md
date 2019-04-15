@@ -2,5 +2,5 @@
 title: Mrs M. Young-Wilson
 position: 
 departments:
-  -Social Sciences
+  - Social Sciences
 ---

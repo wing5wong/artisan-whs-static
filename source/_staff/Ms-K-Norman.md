@@ -2,5 +2,5 @@
 title: Ms K. Norman
 position: 
 departments:
-  -Social Sciences
+  - Social Sciences
 ---

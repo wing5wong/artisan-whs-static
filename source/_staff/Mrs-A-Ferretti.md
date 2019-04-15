@@ -2,8 +2,8 @@
 title: Mrs A. Ferretti
 position: (French/Spanish)
 departments:
-  - Languages
-  - International
+  -  Languages
+  -  International
 ---
 **Mrs Alexandra Ferretti** is the Director of Whanganui High School's International Department and a teacher of Spanish, French and ESOL.  She has worked at Whanganui High School since 2003 and was Dean for three years before becoming Director of International. 
 

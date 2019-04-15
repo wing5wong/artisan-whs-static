@@ -2,5 +2,5 @@
 title: Mr B. Parry
 position: 
 departments:
-  -Social Sciences
+  - Social Sciences
 ---

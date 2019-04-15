@@ -2,5 +2,5 @@
 title: Mr N. Staples
 position: 
 departments:
-  -Social Sciences
+  - Social Sciences
 ---

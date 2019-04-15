@@ -2,5 +2,5 @@
 title: Mr J. Leonard
 position: 
 departments:
-  -Mathematics
+  - Mathematics
 ---

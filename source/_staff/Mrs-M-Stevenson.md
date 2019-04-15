@@ -2,5 +2,5 @@
 title: Mrs M. Stevenson
 position: 
 departments:
-  -Social Sciences
+  - Social Sciences
 ---

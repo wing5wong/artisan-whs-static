@@ -2,5 +2,5 @@
 title: Mrs A. Lal
 position: 
 departments:
-  -Science
+  - Science
 ---

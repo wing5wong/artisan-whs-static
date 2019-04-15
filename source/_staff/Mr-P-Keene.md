@@ -2,5 +2,5 @@
 title: Mr P. Keene
 position: (Careers Advisor)
 departments:
-  -Vocational Studies / Gateway
+  - Vocational Studies / Gateway
 ---
