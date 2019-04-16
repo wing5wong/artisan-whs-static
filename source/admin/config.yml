@@ -308,7 +308,7 @@ collections:
     - {label: "Credits", name: "credits", widget: "string"}
     - {label: "Entry Requirements", name: "requirements", widget: "string", required: false}
     - {label: "Course Fees", name: "fees", widget: "string", required: false}
-    - {label: "Leads To", name: "leads_to", widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayField: ["code", "title"]}
+    - {label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayField: ["code", "title"]}
 
   
 
