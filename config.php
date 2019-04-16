@@ -66,7 +66,10 @@ return [
             'section' => 'postContent',
             'tags' => [],
         ],
-        'faculties',
+        'faculties' => [
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+        ],
         'for_parents' => [
             'path' => 'for-parents/{filename}',
             'sort' => '-date',
