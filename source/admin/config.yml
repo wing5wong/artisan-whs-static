@@ -290,6 +290,28 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
+    - name: "courses"
+      label: "Courses"
+      label_singular: "Faculty"
+      folder: "source/_courses"
+      create: true
+      slug: "{{slug}}"
+
+      fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Maori Title", name: "maori_title", widget: "string", default: "Title"}
+      - {label: "Code", name: "code", widget: "string"}
+      - {label: "Name", name: "name", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "date"}
+      - { label: "Year Level", name: year_level, widget: select, options: ["9","10","11","12","13"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Credits", name: "credits", widget: "string"}
+      - {label: "Entry Requirements", name: "requirements", widget: "string", required: false}
+      - {label: "Course Fees", name: "fees", widget: "string", required: false}
+      - {label: "Leads To", name: "leads_to", widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayField: ["code", "title"]}
+
+    
+
   - name: "newsletters"
     label: "Newsletters"
     label_singular: "Newsletter"
