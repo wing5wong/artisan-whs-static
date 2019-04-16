@@ -11,36 +11,6 @@
   @include('_international-content')
 
 
-<?php
-$internationalStaff = $staff->filter(function ($s) {
-return in_array("International",$s->departments);
-}); ?>
-
-  @foreach($internationalStaff as $person)
-  <article class="py-3">
-    <h3 class="decorated py-3 mb-4">
-      {{$person->title}}
-      <span class="text-muted">
-        {{ $person->position }}
-      </span>
-    </h3>
-    <div class="row">
-      <div class="col">
-        <img src="{{$person->image ?: "https://www.gravatar.com/avatar/" . md5($person->email ?: "user@example.com") . "?s=255"       }}" width="255" />
-      </div>
-      <div class="col">
-        {!! $person !!}
-        @if(!empty($person->email))
-          <a href="mailto:{{$person->email}}" class="button button--green">
-              {{$person->email}}
-          </a>
-        @endif
-      </div>
-    </div>
-  </article>
-
-  @endforeach
-
   @include('static/term-dates')
 
 @endsection

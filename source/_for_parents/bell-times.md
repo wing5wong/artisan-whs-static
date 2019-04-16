@@ -1,7 +1,6 @@
 ---
 title: Bell Times
 date: 2019-04-02T01:23:57.661Z
-image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1554157248/404.jpg'
 ---
 
 **Monday to Thursday**

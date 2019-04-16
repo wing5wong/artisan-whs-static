@@ -9,9 +9,10 @@ International students can start at the beginning of any term.
 
 ## Term 1 2019
 ### Start Dates  
-*   **Monday 28 January**
+*   **Monday 28 January**  
     Year 9 and Year 13 students, and new students from all other year levels.  
-*   **Tuesday 29 January**
+
+*   **Tuesday 29 January**  
     All year levels.  
 
 ### End Date  

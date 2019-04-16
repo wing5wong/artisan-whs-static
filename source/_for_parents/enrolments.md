@@ -1,7 +1,18 @@
 ---
 title: Enrolments
-date: 2019-04-02T01:23:57.661Z
 ---
-The Board is aware that there is likely to be a high demand for places in the school. The Board is also aware that it has a responsibility to parents to support them in their wish to enrol students at the school of their choice, i.e. Whanganui High School. The Ministry of Education has advised the Board that it expects the school to have an enrolment scheme, however, the School welcomes all enrolment applications.
+## Enrolment Applications
 
-The school appreciates the support it receives from the community and welcomes applications from all those families who value the excellent education Whanganui High School can offer.
+Please ensure you attach a copy of your child's birth certificate/ or passport, and a copy of their latest school report to the application.
+
+**Deliver to our school office:  
+****Whanganui High School  
+****Purnell Street  
+****Whanganui **
+
+Enrolment Application Forms and supporting documentation for 2019 enrolments should ideally be received no later than the end of term 2.
+
+The School will respond to all applicants as soon as possible.
+
+[Apply Now](http://c1940652.r52.cf0.rackcdn.com/5b19b187b8d39a7499002274/2019-Year-9-Enrolment-Application-Form---Whanganui-High-School.pdf)  
+[International Applications](/info-for-parents/enrolments)

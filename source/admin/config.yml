@@ -273,6 +273,22 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "faculties"
+    label: "Faculties"
+    label_singular: "Faculty"
+    folder: "source/_faculties"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "newsletters"
     label: "Newsletters"
@@ -357,8 +373,35 @@ collections:
         label_singular: "Department"
         name: "departments"
         widget: "select"
-        options: ["Science", "Social Studies", "English"]
+        options: [
+          "Art",
+          "Associate Principal",
+          "Board of Trustees",
+          "Deans",
+          "Deputy Principal",
+          "Digital Technology",
+          "English",
+          "Faculty Heads",
+          "Guidance Counsellors",
+          "Instrumental Music Tutors",
+          "International",
+          "Languages",
+          "Learning Support Centre",
+          "Librarians",
+          "Mathematics",
+          "Physical Education and Health",
+          "Principal",
+          "Science",
+          "Social Sciences",
+          "Sports",
+          "Study / External Studies",
+          "Support and Ancilliary",
+          "Te Atawhai (Special Needs)",
+          "Technology",
+          "Vocational Studies / Gateway"
+        ]
         multiple: true
+        allow_add: false
       - label: "Image Filename"
         name: "image"
         widget: "image"

@@ -66,6 +66,7 @@ return [
             'section' => 'postContent',
             'tags' => [],
         ],
+        'faculties',
         'for_parents' => [
             'path' => 'for-parents/{filename}',
             'sort' => '-date',
