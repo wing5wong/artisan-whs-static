@@ -292,7 +292,7 @@ collections:
 
   - name: "courses"
     label: "Courses"
-    label_singular: "Faculty"
+    label_singular: "Course"
     folder: "source/_courses"
     create: true
     slug: "{{slug}}"
