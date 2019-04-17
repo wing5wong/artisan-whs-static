@@ -301,6 +301,7 @@ collections:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
     - {label: "Maori Title", name: "maori_title", widget: "string", default: "Title"}
     - {label: "Code", name: "code", widget: "string"}
+    - {label: "Faculty", name: faculty", required: false, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayField: [title"]}
     - {label: "Name", name: "name", widget: "string", required: false}
     - {label: "Date", name: "date", widget: "date"}
     - { label: "Year Level", name: year_level, widget: select, options: ["9","10","11","12","13"]}
@@ -309,6 +310,13 @@ collections:
     - {label: "Entry Requirements", name: "requirements", widget: "string", required: false}
     - {label: "Course Fees", name: "fees", widget: "string", required: false}
     - {label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayField: ["code", "title"]}
+    - { label: "Course Level", name: course_level, widget: select, options: ["Year 9","Year 10","NCEA 1","NCEA 2", "NCEA 3", "NCEA 1 and 2","NCEA 2 and 3","NCEA 1,2 and 3","All Year Levels"]}
+    - { label: "Assessment Type", name: assessment_type, widget: select, options: ["Achievement Standard","Unit Standard","Achievement and Unit Standard","Achievement Standard and Scholdarship","Achievement Standard and Cambridge as Examination","Compulsory", "Optional"]}
+    - { label: "Course Duration", name: course_duration, widget: select, options: ["One Term", "Two Terms","Full Year"]}
+    - { label: "UE Approved", name: "ue_approved", widget: "boolean"}
+    - { label: "Invitation Only", name: "invitation_only", widget: "boolean"}
+    - { label: "Endorsement", name: "endorsement", widget: "boolean"}
+    
 
   
 
