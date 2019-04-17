@@ -12,8 +12,8 @@ leads_to:
 course_level: NCEA 3
 assessment_type: Achievement Standard
 course_duration: Full Year
-ue_approved: true
+ue_approved: false
 invitation_only: false
-endorsement: true
+endorsement: false
 ---
 This is a test course. it is great
