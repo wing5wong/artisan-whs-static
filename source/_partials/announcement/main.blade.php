@@ -1,15 +1,18 @@
+@if($announcement = $announcements->first())
 <style>
     .emergency {
-      background: #b00
+      background: #a41e21;
+      color: #fff
     }
   </style>
 
-  <div class="decorated wrap wrap--notification <pop:emergency>emergency</pop:emergency>" style="padding: 1em 0; position: relative; z-index: 99; box-shadow: 0 8px 6px -6px #111">
+<div class="decorated wrap wrap--notification {{$announcement->is_emergency ? "emergency" : ''}}" style="padding: 1em 0; position: relative; z-index: 99; box-shadow: 0 8px 6px -6px #111">
     <div class="row column" style="display: flex; align-items:center; justify-content: center; text-align: center;flex-wrap: wrap">
 
     <p class="text-center">
-        An announcement that is happening
+        {{ $announcement->title }}
     </p>
-      <a class="btn" href="<pop:permalink />">Read the full announcement</a>
+      <a class="btn" href="{{$announcement->getPath()}}">Read the full announcement</a>
     </div>
   </div>
+@endif
