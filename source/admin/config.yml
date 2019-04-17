@@ -7,7 +7,7 @@ backend:
 
 media_library:
   name: cloudinary
-  output_filename_only: true
+  #output_filename_only: true
   config:
     #default_transformations:
     #  -   - fetch_format: auto
