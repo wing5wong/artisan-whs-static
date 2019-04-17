@@ -58,8 +58,13 @@ return [
             'comments' => true,
             'tags' => [],
         ],
-        'staff' => [
+        'events' => [
+            'path' => 'events/{filename}',
+            'sort' => '-date',
+            'extends' => '_layouts.post',
             'section' => 'postContent',
+            'isPost' => true,
+            'comments' => false,
             'tags' => [],
         ],
         'facilities' => [
@@ -81,15 +86,6 @@ return [
             'comments' => true,
             'tags' => [],
         ],
-        'news_and_events' => [
-            'path' => 'news-events/{filename}',
-            'sort' => '-date',
-            'extends' => '_layouts.post',
-            'section' => 'postContent',
-            'isPost' => true,
-            'comments' => true,
-            'tags' => [],
-        ],
         'international' => [
             'path' => 'international/{filename}',
             'sort' => '-date',
@@ -98,14 +94,6 @@ return [
             'isPost' => true,
             'comments' => true,
             'tags' => [],
-        ],
-        'tags' => [
-            'path' => 'tags/{filename}',
-            'extends' => '_layouts.tag',
-            'section' => '',
-            'name' => function ($page) {
-                return $page->getFilename();
-            },
         ],
         'news' => [
             'path' => 'news/{filename}',
@@ -116,13 +104,13 @@ return [
             'comments' => false,
             'tags' => [],
         ],
-        'events' => [
-            'path' => 'events/{filename}',
+        'news_and_events' => [
+            'path' => 'news-events/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
             'isPost' => true,
-            'comments' => false,
+            'comments' => true,
             'tags' => [],
         ],
         'policies' => [
@@ -131,6 +119,18 @@ return [
             'tags' => [],
         ],
         'prefects',
+        'staff' => [
+            'section' => 'postContent',
+            'tags' => [],
+        ],
+        'tags' => [
+            'path' => 'tags/{filename}',
+            'extends' => '_layouts.tag',
+            'section' => '',
+            'name' => function ($page) {
+                return $page->getFilename();
+            },
+        ],
         'vacancies',
     ],
     'excerpt' => function ($page, $limit = 250, $end = '...') {
