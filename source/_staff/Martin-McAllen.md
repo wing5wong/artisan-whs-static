@@ -4,6 +4,6 @@ position: (Principal)
 departments:
   - Principal
   - Board of Trustees
-image: martin.jpg
+image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1555472910/martin.jpg'
 ---
 
