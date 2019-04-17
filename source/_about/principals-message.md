@@ -3,11 +3,10 @@ title: Principal's Message
 date: 2019-04-02T00:00:00.000Z
 tags:
   - About WHS
-intro: >-
-  Whanganui High School's message from the Principal, Mr Martin McAllen.
+image: martin.jpg
+intro: 'Whanganui High School''s message from the Principal, Mr Martin McAllen.'
 button_text: See What I Have To Say
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:ff0000,c_fill,g_auto,r_max,w_1000/river.jpg
+visible: 'Yes'
 ---
 
 **Welcome to Whanganui High School.**  
