@@ -20,6 +20,7 @@ return [
         'jumprock' => '',
     ],
     'collections' => [
+        'announcements',
         'pages' => [
             'path' => !empty('{customPath}') ?: '{filename}',
             'extends' => '_layouts.post',

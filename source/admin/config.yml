@@ -18,6 +18,27 @@ media_library:
     api_key: 514169267776294
 
 collections:
+  - name: announcements
+    label: Announcements
+    label_singular: "Announcement"
+    folder: "source/_announcements"
+    create: true
+    slug: "{{slug}}"
+
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Emergency", name: "is_emergency", widget: "boolean", default: false}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+
+
+
+
   - name: static
     label: "Static Pages"
     files: 
