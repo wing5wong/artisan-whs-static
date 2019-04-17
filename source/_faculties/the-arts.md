@@ -7,3 +7,4 @@ image: ''
 intro: WHS Staff
 
 ---
+in the arts you do some painting

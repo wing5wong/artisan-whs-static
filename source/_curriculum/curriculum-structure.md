@@ -1,5 +1,5 @@
 ---
-title: Curriculum
+title: Curriculum Structure
 date: 2019-04-02T01:23:57.661Z
 intro: "Find out about the Whanganui High School Curriculum. Course Structure, Subject Names, Multilevel Courses, Vocational Pathways and Scholarships"
 ---

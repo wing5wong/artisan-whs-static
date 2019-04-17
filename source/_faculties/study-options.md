@@ -7,3 +7,4 @@ image: ''
 intro: WHS Staff
 
 ---
+in study you be quiet

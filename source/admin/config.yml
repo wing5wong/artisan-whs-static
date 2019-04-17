@@ -302,6 +302,7 @@ collections:
     - {label: "Maori Title", name: "maori_title", widget: "string", default: "Title"}
     - {label: "Code", name: "code", widget: "string"}
     - {label: "Faculty", name: faculty, required: true, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayField: [title"]}
+    - {label: "Subject Area", name: "subject_area", widget: "string"}
     - {label: "Name", name: "name", widget: "string", required: false}
     - {label: "Date", name: "date", widget: "date"}
     - { label: "Year Level", name: year_level, widget: select, options: ["9","10","11","12","13"]}

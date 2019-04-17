@@ -43,10 +43,11 @@
                 {{$values[0]}}
               </a> @if($$key)
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="{{$values[1]}}">{{$values[0]}}</a> @foreach($$key as $thePage)
-            @if(!$thePage->visible == "No")
+            <a class="dropdown-item" href="{{$values[1]}}">{{$values[0]}}</a> @foreach(($$key)->filter(function($k){
+              return $k->visible != "No";
+            }) as $thePage)
             <a class="dropdown-item" href="{{$thePage->getPath()}}">{{$thePage->title}} </a>
-            @endif @endforeach
+            @endforeach
           </div>
           @endif
         </li>

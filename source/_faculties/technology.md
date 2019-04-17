@@ -7,3 +7,4 @@ image: ''
 intro: WHS Staff
 
 ---
+in technology you make a thing
