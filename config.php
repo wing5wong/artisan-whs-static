@@ -47,6 +47,7 @@ return [
             }
         ],
         'board_members',
+        'courses',
         'curriculum' => [
             'path' => 'curriculum/{filename}',
             'sort' => '-date',
@@ -67,7 +68,7 @@ return [
             'tags' => [],
         ],
         'faculties' => [
-            'extends' => '_layouts.post',
+            'extends' => '_layouts.faculty',
             'section' => 'postContent',
         ],
         'for_parents' => [
