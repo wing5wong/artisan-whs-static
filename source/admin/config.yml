@@ -459,22 +459,6 @@ collections:
         widget: "image"
         required: false
 
-
-  - name: "vacancies"
-    label: "Vacancies"
-    label_singular: "Vacancy"
-    folder: "source/_vacancies"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Closing Date", name: "closing_date", widget: "date"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
-      - {label: "Categories", name: "categories", widget: "list", required: false}
-
-
   - name: "galleries"
     label: "Galleries"
     label_singular: "Gallery"
