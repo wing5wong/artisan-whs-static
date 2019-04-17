@@ -23,7 +23,7 @@ collections:
     label_singular: "Announcement"
     folder: "source/_announcements"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
 
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
@@ -131,7 +131,7 @@ collections:
     label_singular: "Event"
     folder: "source/_events"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
@@ -256,7 +256,7 @@ collections:
     label_singular: "News"
     folder: "source/_news"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
@@ -347,7 +347,7 @@ collections:
     label_singular: "Newsletter"
     folder: "source/_newsletters"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
@@ -395,7 +395,7 @@ collections:
     label_singular: "Prefect"
     folder: "source/_prefects"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
       - label: "Category"
@@ -416,7 +416,7 @@ collections:
     label_singular: "Staff Member"
     folder: "source/_staff"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
@@ -465,7 +465,7 @@ collections:
     label_singular: "Vacancy"
     folder: "source/_vacancies"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
