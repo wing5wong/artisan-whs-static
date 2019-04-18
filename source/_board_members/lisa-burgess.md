@@ -1,6 +1,6 @@
 ---
 title: Lisa Burgess
-position: Anderson
+position: Member
 category: Board Member
 ---
 I have been employed as a full time teacher of English and Social Studies at WHS for the past 10 years. I am currently in charge of the Year 11 English courses. My teacher inquiry is focused on literacy for our at risk students as they enter Year 11. I have had one of my children educated at WHS, and I have coached basketball and hockey during this time.
