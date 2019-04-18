@@ -6,9 +6,7 @@ tags:
 image: ''
 ---
 
-## Te Atawhai Unit
-
-Place of Challenge, Care and Support
+__**Place of Challenge, Care and Support**__
 
 ![](/uploads/51636d12896ad857e2001121/Picture-038-test3.jpg)Te Atawhai is the name given to the Special Unit at Whanganui High School.  Te Atawhai was designed specifically for students with moderate to severe intellectual impairments.  The building, furniture and equipment were funded by the Ministry of Education.  It opened in May 1996.
 
@@ -20,19 +18,19 @@ Te Atawhai is a partnership based on collaboration and consultation between Pare
 
 Social integration and subject mainstreaming are encouraged at Whanganui High School. 
 
-## Te Atawhai Staff are:
+### Te Atawhai Staff are:
 
 ![](/uploads/51636ef9896ad857e2001123/SAM_0129smaller.jpg)Wendi Girven, Joan Gill, Hilary Mael, Diana Parnell, Grant McCullough, Emma Paki, Richie Parnell and Dale Sutherland.
 
-## Te Atawhai ERO Policy
+### Te Atawhai ERO Policy
 
 Te Atawhai endeavours to ensure it can provide a challenging, safe and supportive climate that meets the individual educational needs of students with severe to moderate intellectual disabilities.
 
-### Rationale
+#### Rationale
 
 Te Atawhai endeavours to meet the individual and developmental needs of all students through a broad, balanced, relevant and differentiated curriculum that provides continuity, progression, entitlement and equivalent curriculum experience.
 
-### Purposes
+#### Purposes
 
 Te Atawhai endeavours to ensure that students with a severe to moderate intellectual disability receive special education when they have been identified as needing alternative or additional resources to those usually provided in regular education settings.
 
@@ -52,7 +50,7 @@ Te Atawhai endeavours to ensure it can offer a safe and supportive learning envi
 
 Te Atawhai is designed to cater for those students with severe to moderate intellectual disabilities and will meet the student’s educational needs within the Special Unit, regular classroom and transition experiences in the wider community.
 
-### Enrolment Policy Guidelines
+#### Enrolment Policy Guidelines
 
 1.  Te Atawhai is designed to offer assistance to those students with an intellectual disability who have significant difficulties meeting their physical, social, and emotional and self-care needs.  Te Atawhai caters specifically for students requiring a greater degree of adult supervision and support than is usually provided.
 2.  Te Atawhai recognises the legal rights and responsibilities of parents to have a choice regarding enrolment in special schools, attached units or regular classes.
@@ -65,7 +63,7 @@ Te Atawhai is designed to cater for those students with severe to moderate intel
 9.  Te Atawhai recognises that all enrolments are submitted to the Principal and that the final decision is at the discretion of the Principal.
 10.  <span> Te Atawhai will endeavour to recognise the early communicated intention and interest of parents and caregivers for enrolment placements.</span>
 
-## Contact us
+### Contact us
 
 <span style="line-height: 1.5;">C/-Whanganui High School</span>
 

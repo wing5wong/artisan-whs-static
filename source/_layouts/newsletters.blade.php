@@ -8,21 +8,15 @@
 <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
 
-
-@foreach($faculties as $faculty)
-    <h2 class="decorated d-table mt-5 mb-2">{{ $faculty->title }}</h2>
-    {!! $faculty !!}
-
-    Subject Areas: {{ implode(", ", $courses->filter(function($course) use ($faculty){
-        return $course->faculty == $faculty->title;
-    })->map(function($course){
-        return $course->subject_area;
-    })->toArray())}}
+<ul>
+@foreach($newsletters as $nl)
+<li>
+    <a href="{{$nl["file"]}}" download>{{$nl->title}} - {{ date('F j, Y', $nl->date) }}</a>
+</li>
 @endforeach
+</ul>
 
 <hr>
-
-
 
 <p>
     <strong>Last Reviewed: {{ date('F j, Y', $page->date) }}</strong><br> @foreach ($page->tags as $tag)

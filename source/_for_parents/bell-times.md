@@ -3,7 +3,7 @@ title: Bell Times
 date: 2019-04-02T01:23:57.661Z
 ---
 
-**Monday to Thursday**
+## Monday to Thursday
 
 |Start|End|Period|
 |---|---|---|
@@ -17,7 +17,7 @@ date: 2019-04-02T01:23:57.661Z
 |2:10pm|3:05pm|Period Five (55 minutes) 
 
 
-**Friday**
+## Friday
 
 |Start|End|Period|
 |---|---|---|

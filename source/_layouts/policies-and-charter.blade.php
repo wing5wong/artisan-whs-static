@@ -9,9 +9,9 @@
 
 @foreach($policies as $policy)
 <h2>{{$policy->title}}</h2>
-<ul>
+
     @foreach($policy->policyAreas as $area)
-    <li>{{$area["policyArea"]}}
+    <h3 class="decorated d-table mt-5 mb-2">{{$area["policyArea"]}}</h3>
         <ul>
             @foreach($area["policies"] as $policyDoc)
             <li>
@@ -19,9 +19,7 @@
             </li>
             @endforeach
         </ul>
-    </li>
     @endforeach
-</ul>
 @endforeach
 
 <hr>

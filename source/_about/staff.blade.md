@@ -9,4 +9,4 @@ button_text: More Information
 extends: _layouts.staff
 ---
 
-Whanganui High School takes great pride in offering a range of facilities to be used by its staff and students.
+List of current Staff at Whanganui High School and their departments and roles.

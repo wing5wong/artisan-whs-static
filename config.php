@@ -105,7 +105,7 @@ return [
             'tags' => [],
         ],
         'news_and_events' => [
-            'path' => 'news-events/{filename}',
+            'path' => 'news-and-events/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
@@ -113,6 +113,7 @@ return [
             'comments' => true,
             'tags' => [],
         ],
+        'newsletters',
         'policies' => [
             'isPost' => false,
             'comments' => false,

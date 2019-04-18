@@ -36,7 +36,7 @@
       <ul class="navbar-nav w-100 justify-content-center">
 
         @foreach( [ 'about'=>["About WHS","/about-whs"], "for_parents"=>["For Parents", "/for-parents"], 'curriculum'=>["Curriculum","/curriculum"],
-        "news"=>["News", "/news"], "international"=>["International", "/international"] ] as $key=>$values)
+        "news_and_events"=>["News", "/news-and-events"], "international"=>["International", "/international"] ] as $key=>$values)
 
         <li class="nav-item dropdown px-3">
           <a class="mb-0 p-2 nav-link dropdown-toggle nav-item" href="{{$values[1]}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

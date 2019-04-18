@@ -5,10 +5,10 @@ title: Enrolments
 
 Please ensure you attach a copy of your child's birth certificate/ or passport, and a copy of their latest school report to the application.
 
-**Deliver to our school office:  
-****Whanganui High School  
-****Purnell Street  
-****Whanganui **
+**Deliver to our school office: **  
+Whanganui High School  
+Purnell Street  
+Whanganui
 
 Enrolment Application Forms and supporting documentation for 2019 enrolments should ideally be received no later than the end of term 2.
 

@@ -9,17 +9,13 @@
 
 
 
-@foreach($faculties as $faculty)
-    <h2 class="decorated d-table mt-5 mb-2">{{ $faculty->title }}</h2>
-    {!! $faculty !!}
 
-    Subject Areas: {{ implode(", ", $courses->filter(function($course) use ($faculty){
-        return $course->faculty == $faculty->title;
-    })->map(function($course){
-        return $course->subject_area;
-    })->toArray())}}
+@foreach($facilities as $facility)
+<h2 class="decorated d-table mt-5 mb-2">{{$facility->title}}</h2> 
+
+{!! $facility !!}
+
 @endforeach
-
 <hr>
 
 

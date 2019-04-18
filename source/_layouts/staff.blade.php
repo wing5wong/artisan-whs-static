@@ -7,8 +7,8 @@
 <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
 <img src="{{ $page->image }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
-<h2 class="decorated">Senior Leadership Team</h2>
-
+<h2 class="d-inline-block decorated">Senior Leadership Team</h2>
+<div class="row">
 <?php
 foreach([
     "Principal",
@@ -20,17 +20,21 @@ foreach([
 
     foreach($slt as $person){
         ?>
-    <img src="{{$person->image}}" alt="">
-    <h3>{{$person->title}}</h3>
-    <h3>{{$person->position}}</h3>
-
+        <article class="col-12 p-5 d-flex justify-content-around align-items-center">
+                <div class="col">
+                  <h2>{{$person->title}}</h2>
+                      <p class="lead">{{$person->position}}</p>
+                </div>
+                <div class="col">
+                        <img src="{{$person->image}}" alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
+                </div>
+              </article>
     <?php
     }
 }
 ?>
+</div>
 
-        <hr>
-        <h2 class="decorated">Departments</h2>
         <?php
 foreach([
 "Art",
@@ -61,14 +65,18 @@ $filteredStaff = $staff->filter(function($s) use ($dept){
 return in_array($dept,$s->departments);
 })
 ->map(function($person){
-return $person->title;
+    $string = $person->title;
+    if($person->position){
+        $string .= " (" . $person->position . ")";
+    }
+return $string;
 })->toArray();
 if(!empty($filteredStaff)){
-echo "<h2>" . $dept . "</h2>";
+echo "<h2 class='d-table decorated mt-5 mb-2'>" . $dept . "</h2>";
 
 
 echo implode(", ", $filteredStaff);
-echo "<hr />";
+
 }
 
 }
@@ -77,7 +85,7 @@ echo "<hr />";
 
 
             <p>
-                <strong>{{ date('F j, Y', $page->date) }}</strong><br> @foreach ($page->tags as $tag)
+                <strong>Last Reviewed: {{ date('F j, Y', $page->date) }}</strong><br> @foreach ($page->tags as $tag)
                 <a href="/tags/{{ $tag }}">{{ $tag }}</a> {{ $loop->last ? '' : '-' }} @endforeach
             </p>
 
