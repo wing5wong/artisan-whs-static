@@ -1,3 +1,8 @@
+---
+pagination:
+    collection: news
+    perPage: 2
+---
 @extends('_layouts.standard') 
 @section('title', $page->title) 
 @section('content')

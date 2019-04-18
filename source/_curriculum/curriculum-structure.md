@@ -32,7 +32,7 @@ _(Using Drama as an example)_
 
 Students in Year 10 – 13 may study **any subject at any level**, as long as they meet the course entry requirements, and have gained approval from the Associate Principal. The timetable has been designed so that students are able to choose their subjects from any NCEA Level.  It is expected that students choose courses, which reflect their level of achievement rather than their age.
 
- _Example: __A Year 11 student may take MAO2, while a Year 13 student might decide to take ACC1._
+_Example: A Year 11 student may take MAO2, while a Year 13 student might decide to take ACC1._
 
 ## Course Pathways
 
@@ -50,7 +50,7 @@ _In 2019, students may take a Year 11 semester course as part of their pathway._
 
 In general, students are encouraged to take a broad course in Year 9, 10 and 11, but may specialise more in Year 12 and 13.
 
-_Example: __A student might be very interested in Science.  They might choose the following science pathway:_
+_Example: A student might be very interested in Science.  They might choose the following science pathway:_
 
 **Year 9         Year 10           Year 11            Year 12            Year 13**
 
