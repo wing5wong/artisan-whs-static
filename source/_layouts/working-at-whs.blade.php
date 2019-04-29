@@ -24,11 +24,7 @@
     </div>
 </div>
 
-<?php
-if( !($k ===  array_key_last($vacancies))){
-    echo "<hr>";
-}
-?>
+<hr >
 
 @empty
 <strong>SORRY, BUT THERE ARE CURRENTLY NO VACANCIES.</strong> @endforelse
