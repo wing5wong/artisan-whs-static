@@ -311,6 +311,21 @@ collections:
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "subject_areas"
+    label: "Subject Areas"
+    label_singular: "Subject Area"
+    folder: "source/_subject_areas"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Faculty", name: faculty, required: true, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayField: [title"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
   - name: "courses"
     label: "Courses"
     label_singular: "Course"
@@ -322,8 +337,7 @@ collections:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
     - {label: "Maori Title", name: "maori_title", widget: "string", default: "Title"}
     - {label: "Code", name: "code", widget: "string"}
-    - {label: "Faculty", name: faculty, required: true, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayField: [title"]}
-    - {label: "Subject Area", name: "subject_area", widget: "string"}
+    - {label: "Subject Area", name: "subject_area", required: true, widget: "relation", collection: "subject_areas", searchFields: ["title"], valueField: "title", displayField: [title"]}
     - {label: "Name", name: "name", widget: "string", required: false}
     - {label: "Date", name: "date", widget: "date"}
     - { label: "Year Level", name: year_level, widget: select, options: ["9","10","11","12","13"]}

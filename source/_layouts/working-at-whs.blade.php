@@ -27,8 +27,8 @@
 <hr >
 
 @empty
-<strong>SORRY, BUT THERE ARE CURRENTLY NO VACANCIES.</strong> @endforelse
-<hr>
+<strong>SORRY, BUT THERE ARE CURRENTLY NO VACANCIES.</strong>
+<hr> @endforelse
 
 <p>
     <strong>Last Reviewed: {{ date('F j, Y', $page->date) }}</strong><br> @foreach ($page->tags as $tag)

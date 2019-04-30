@@ -1,10 +1,10 @@
 ---
 pagination:
     collection: news
-    perPage: 2
+    perPage: 10
 ---
 @extends('_layouts.standard') 
-@section('title', $page->title) 
+@section('title', "News") 
 @section('content')
 <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
@@ -18,29 +18,31 @@ pagination:
 <li>
     <h2>{{$n->title}} - {{ date('F j, Y', $n->date) }}</h2>
     {!! $n !!}
+<a href="{{$n->getPath()}}">Read More</a>
 </li>
 @endforeach
 </ul>
 
+
 @if ($previous = $pagination->previous)
     <a href="{{ $page->baseUrl }}{{ $pagination->first }}">&lt;&lt;</a>
     <a href="{{ $page->baseUrl }}{{ $previous }}">&lt;</a>
-@else
-    &lt;&lt; &lt;
 @endif
 
 @foreach ($pagination->pages as $pageNumber => $path)
-    <a href="{{ $page->baseUrl }}{{ $path }}"
-        class="{{ $pagination->currentPage == $pageNumber ? 'selected' : '' }}">
+    @if($pagination->currentPage == $pageNumber)
         {{ $pageNumber }}
     </a>
+    @else
+    <a href="{{ $page->baseUrl }}{{ $path }}">
+        {{ $pageNumber }}
+    </a>
+    @endif
 @endforeach
 
 @if ($next = $pagination->next)
     <a href="{{ $page->baseUrl }}{{ $next }}">&gt;</a>
     <a href="{{ $page->baseUrl }}{{ $pagination->last }}">&gt;&gt;</a>
-@else
-    &gt; &gt;&gt;
 @endif
 
 <hr>

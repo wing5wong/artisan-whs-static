@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://www.whanganuihigh.school.nz',
+    'baseUrl' => 'http://localhost:3000',
     'site' => [
         'title' => 'Whanganui High School',
         'description' => 'An informative website about Whanganui High School',
@@ -98,7 +98,7 @@ return [
         'news' => [
             'path' => 'news/{filename}',
             'sort' => '-date',
-            'extends' => '_layouts.staff',
+            'extends' => '_layouts.post',
             'section' => 'postContent',
             'isPost' => true,
             'comments' => false,
@@ -124,6 +124,7 @@ return [
             'section' => 'postContent',
             'tags' => [],
         ],
+        'subject_areas',
         'tags' => [
             'path' => 'tags/{filename}',
             'extends' => '_layouts.tag',
