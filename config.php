@@ -48,7 +48,9 @@ return [
             }
         ],
         'board_members',
-        'courses',
+        'courses' => [
+            'extends' => '_layouts.post',
+        ],
         'curriculum' => [
             'path' => 'curriculum/{filename}',
             'sort' => '-date',
@@ -124,7 +126,9 @@ return [
             'section' => 'postContent',
             'tags' => [],
         ],
-        'subject_areas',
+        'subject_areas' => [
+            'extends' => '_layouts.post',
+        ],
         'tags' => [
             'path' => 'tags/{filename}',
             'extends' => '_layouts.tag',

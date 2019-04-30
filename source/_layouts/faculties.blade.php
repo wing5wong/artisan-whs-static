@@ -9,14 +9,28 @@
 
 
 
+@foreach($subject_areas as $s)
+@endforeach
 @foreach($faculties as $faculty)
     <h2 class="decorated d-table mt-5 mb-2">{{ $faculty->title }}</h2>
     {!! $faculty !!}
 
     @foreach($subject_areas->filter(function($subject_area) use ($faculty){
-        return $subject_area->faculty === $faculty->title;
-    })->toArray() as $subject)
-        {{ $subject->title }}
+        return $subject_area->faculty == $faculty->title;
+    }) as $subject)
+    <div>
+    <a href="{{$subject->getPath()}}">{{ $subject->title }}</a>
+        <hr>
+        @php
+            $subjectCourses  = $courses->filter(function($course) use ($subject){
+                return $course->subject_area == $subject->title;
+            });
+        @endphp
+        @foreach($subjectCourses as $course)
+
+        <a href="{{$course->getPath()}}">{{ $course->title }}</a>
+        @endforeach
+    </div>
 
     @endforeach
     

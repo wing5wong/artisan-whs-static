@@ -8,17 +8,23 @@
 <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
 
-@foreach($courses->map(function($course){
-            return $course->subject_area;
-        })->unique() as $subjectArea)
-    <h2>{{ $subjectArea }}</h2>
+@foreach($subject_areas->filter(function($subject_area) use ($page){
+    return $subject_area->faculty == $page->title;
+}) as $subject)
+<div>
+<a href="{{$subject->getPath()}}">{{ $subject->title }}</a>
+    <hr>
+    @php
+        $subjectCourses  = $courses->filter(function($course) use ($subject){
+            return $course->subject_area == $subject->title;
+        });
+    @endphp
+    @foreach($subjectCourses as $course)
 
-    @foreach($courses->filter(function($course) use ($page, $subjectArea){
-        return $course->subject_area == $subjectArea; }
-        ) as $course)
-
-        {{ $course["title"] }} ( {{$course->course_level}})
+    <a href="{{$course->getPath()}}">{{ $course->title }}</a>
     @endforeach
+</div>
+
 @endforeach
 
 <hr>
