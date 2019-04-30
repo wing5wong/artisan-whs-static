@@ -1,5 +1,6 @@
 ---
 title: Digital Technologies Applied
-faculty: Digital Technologies
-
+date: 2019-04-30T03:24:14.263Z
+faculty: Digital Technologies - Computing
 ---
+Digi tech applied
