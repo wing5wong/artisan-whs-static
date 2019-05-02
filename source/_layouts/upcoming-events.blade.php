@@ -1,30 +1,31 @@
 ---
 pagination:
-    collection: news
+    collection: events
     perPage: 5
 ---
 @extends('_layouts.standard')
-@section('title', "News")
+@section('title', $page->title)
 @section('content')
-<h1 class="decorated py-3 mb-4">News Articles</h1>
+<h1 class="decorated">{{ $page->title }}</h1>
 
 {{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}} @if ($page->image)
 <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
-<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
+<img src="{{ $page->image }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
-@foreach ($pagination->items as $n)
+
+@foreach($pagination->items as $event)
 <div class="row mb-5">
     <div class="col-2">
-        <img src="{{ $n->image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}" style="object-fit: cover;width: 100%;">
+        <img src="{{ $event->image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}" style="object-fit: cover;width: 100%;">
     </div>
     <div class="col-10">
-        <h2>{{$n->title}}<br>
-            <small>{{ date('F j, Y', $n->date) }} </small>
+        <h2>{{$event->title}}<br>
+            <small>{{ date('F j, Y', $event->date) }} </small>
         </h2>
         <div class="row">
             <div class="col-10">
-                {{ $n->excerpt() }}
-                <a href="{{$n->getPath()}}">Read More</a>
+                {{ $event->excerpt() }}
+                <a href="{{$event->getPath()}}">Read More</a>
             </div>
         </div>
     </div>

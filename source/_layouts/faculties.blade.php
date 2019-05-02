@@ -1,5 +1,5 @@
-@extends('_layouts.standard') 
-@section('title', $page->title) 
+@extends('_layouts.standard')
+@section('title', $page->title)
 @section('content')
 <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
@@ -9,33 +9,34 @@
 
 
 
-@foreach($subject_areas as $s)
-@endforeach
 @foreach($faculties as $faculty)
-    <h2 class="decorated d-table mt-5 mb-2">{{ $faculty->title }}</h2>
-    {!! $faculty !!}
+<h2 class="decorated d-table mt-5 mb-2">{{ $faculty->title }}</h2>
+{!! $faculty !!}
 
+<h3>Subject Areas</h3>
+<div class="row">
     @foreach($subject_areas->filter(function($subject_area) use ($faculty){
-        return $subject_area->faculty == $faculty->title;
+    return $subject_area->faculty == $faculty->title;
     }) as $subject)
-    <div>
-    <a href="{{$subject->getPath()}}">{{ $subject->title }}</a>
+    <div class="col col-md-6 col-lg-6">
+        <h4>{{ $subject->title }}</h4>
         <hr>
         @php
-            $subjectCourses  = $courses->filter(function($course) use ($subject){
-                return $course->subject_area == $subject->title;
-            });
+        $subjectCourses = $courses->filter(function($course) use ($subject){
+        return $course->subject_area == $subject->title;
+        });
         @endphp
+        <h5>Courses</h5>
         @foreach($subjectCourses as $course)
 
-        <a href="{{$course->getPath()}}">{{ $course->title }}</a>
+        <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->title }}</a>
         @endforeach
     </div>
-
     @endforeach
-    
-    <br>
-    <a href="{{$faculty->getPath()}}" class="btn btn-outline mb-5">More Information</a>
+</div>
+
+<br>
+<a href="{{$faculty->getPath()}}" class="btn btn-outline mb-5">More Information</a>
 @endforeach
 
 <hr>
@@ -54,7 +55,7 @@
 
 
 @if ($page->comments)
-    @include('_partials.comments') @else
+@include('_partials.comments') @else
 <p>Comments are not enabled for this post.</p>
 @endif
 @endsection

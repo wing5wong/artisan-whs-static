@@ -49,7 +49,8 @@ return [
         ],
         'board_members',
         'courses' => [
-            'extends' => '_layouts.post',
+            'extends' => '_layouts.course',
+            'section' => 'postContent',
         ],
         'curriculum' => [
             'path' => 'curriculum/{filename}',
@@ -87,6 +88,9 @@ return [
             'isPost' => true,
             'comments' => true,
             'tags' => [],
+        ],
+        'honours' => [
+            'sort' => '-date'
         ],
         'international' => [
             'path' => 'international/{filename}',
