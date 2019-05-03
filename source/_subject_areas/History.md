@@ -1,4 +1,4 @@
 ---
-title: Accounting
+title: History
 faculty: Social Sciences
 ---

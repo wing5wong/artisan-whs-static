@@ -1,0 +1,4 @@
+---
+title: French
+faculty: Languages
+---

@@ -1,4 +1,4 @@
 ---
-title: Accounting
+title: Classical Studies
 faculty: Social Sciences
 ---

@@ -1,4 +1,4 @@
 ---
-title: Biology
+title: Science (General)
 faculty: Sciences
 ---

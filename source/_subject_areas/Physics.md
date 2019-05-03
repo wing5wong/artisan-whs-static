@@ -1,4 +1,4 @@
 ---
-title: Biology
+title: Physics
 faculty: Sciences
 ---

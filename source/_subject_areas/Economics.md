@@ -1,4 +1,4 @@
 ---
-title: Accounting
+title: Economics
 faculty: Social Sciences
 ---

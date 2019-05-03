@@ -1,4 +1,4 @@
 ---
-title: Accounting
+title: Psychology
 faculty: Social Sciences
 ---

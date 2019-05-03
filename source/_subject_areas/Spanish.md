@@ -1,0 +1,4 @@
+---
+title: Spanish
+faculty: Languages
+---

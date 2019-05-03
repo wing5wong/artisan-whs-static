@@ -1,4 +1,4 @@
 ---
-title: Digital Technologies Applied
+title: Digital Technologies Science
 faculty: Digital Technologies (Computing)
 ---

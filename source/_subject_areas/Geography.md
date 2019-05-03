@@ -1,4 +1,4 @@
 ---
-title: Accounting
+title: Geography
 faculty: Social Sciences
 ---

@@ -1,4 +1,4 @@
 ---
-title: Accounting
+title: Tourism
 faculty: Social Sciences
 ---
