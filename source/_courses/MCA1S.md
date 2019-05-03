@@ -1,0 +1,31 @@
+---
+faculty: Mathematics
+subject_area: Semester Courses
+code: MCA1S
+name: Cambridge Extended Mathematics (1) NCEA 1
+course_level: NCEA 1
+assessment_type: 
+course_duration: Two Terms
+ue_approved: 
+invitation_only: 
+notes: ""
+endorsement: 
+title: MCA1S
+type: Semester Course
+description: ""
+maori_title: "MCA2/MCS2"
+background: "Students wishing to take the IGCSE Extended Cambridge Examination take this semester 1 course. The topics covered here are a supplement to those  included in NCEA Level 1.
+
+
+Questions are designed to incorporate a wide range of mathematical topics. Students are encouraged to understand and use a variety of problem solving skills. It is also excellent preparation, targeting Excellence level questions, for NCEA Level 1.  Above all, students who complete the course build resilience, an essential life skill.
+
+IGCSE Extended Mathematics is one of the international exams administered by the Cambridge University Exam Board and are recognised world-wide. They will be sat by students in two sessions in October. The exam marks will be awarded based on a percentage score resulting in a mark from A*-C. This is very similar to the way marks are calculated at universities in New Zealand.
+
+Students will cover some of the IGCSE syllabus content as part of their compulsory MTA1 course (Year 11 Extension Mathematics).  Most of the syllabus will be covered in semester 1 (MCA1) with semester 2 (MCS1) focusing on exam preparation and expanding knowledge. Students are advised to select both semesters if possible."
+year: "11"
+credits: ""
+entry_requirements: "Subject teacher recommendation"
+course_fees: "$110"
+leads_to: "MCA2/MCS2"
+duration: "(Semester 1 Only)"
+---
