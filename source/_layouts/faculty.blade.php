@@ -11,9 +11,8 @@
 @foreach($subject_areas->filter(function($subject_area) use ($page){
     return $subject_area->faculty == $page->title;
 }) as $subject)
-<div>
-<a href="{{$subject->getPath()}}">{{ $subject->title }}</a>
-    <hr>
+<div class="mb-5">
+    <h2><a href="{{$subject->getPath()}}">{{ $subject->title }}</a></h2>
     @php
         $subjectCourses  = $courses->filter(function($course) use ($subject){
             return $course->subject_area == $subject->title;

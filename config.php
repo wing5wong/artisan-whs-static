@@ -131,7 +131,9 @@ return [
             'tags' => [],
         ],
         'subject_areas' => [
+            'path' => 'subject-areas/{filename}',
             'extends' => '_layouts.post',
+            'section' => 'postContent'
         ],
         'tags' => [
             'path' => 'tags/{filename}',
