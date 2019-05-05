@@ -13,21 +13,28 @@
 <h2 class="decorated d-table mt-5 mb-2">{{ $faculty->title }}</h2>
 {!! $faculty !!}
 
+
 <div class="row">
     @foreach($subject_areas->filter(function($subject_area) use ($faculty){
     return $subject_area->faculty == $faculty->title;
     }) as $subject)
     <div class="col col-md-6 col-lg-6 mb-5">
-        <h3>{{ $subject->title }}</h3>
+    <details>
+            
+            <summary>{{ $subject->title }}</summary>
         @php
         $subjectCourses = $courses->filter(function($course) use ($subject){
         return $course->subject_area == $subject->title;
         });
         @endphp
+        <ul>
         @foreach($subjectCourses as $course)
-
-        <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->title }}</a>
+        <li>
+            <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->title }}</a>
+        </li>
         @endforeach
+        </ul>
+    </details>
     </div>
     @endforeach
 </div>
