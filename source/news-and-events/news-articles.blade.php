@@ -15,7 +15,7 @@ pagination:
 @foreach ($pagination->items as $n)
 <div class="row mb-5">
     <div class="col-2">
-        <img src="{{ $n->image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}" style="object-fit: cover;width: 100%;">
+        <img src="{{ $n->featured_image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}" style="object-fit: cover;width: 100%;">
     </div>
     <div class="col-10">
         <h2>{{$n->title}}<br>

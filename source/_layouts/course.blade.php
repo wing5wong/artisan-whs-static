@@ -17,12 +17,21 @@
 <h3 class="d-inline">Course Contribution:</h3> {{ $page->contribution }} <br>
 <h3 class="d-inline">Course Assessment:</h3> {{ $page->assessment }} <br>
 
-<h3 class="d-inline">Leads to:</h3> {{ $page->leads_to }} <br>
+<h3 class="d-inline">Leads to:</h3> <a href="/courses/{{ $page->leads_to }}/">{{ $page->leads_to }}</a> <br>
 
 <h3 class="d-inline">Available Standards:</h3>
 Some or all of the following will be offered
 
-
+<table class="table">
+<thead>
+    <tr>
+        <th>Title</th>
+        <th>Level</th>
+        <th>Credits</th>
+        <th>Assessment</th>
+    </tr>
+</thead>
+<tbody>
 @foreach($assessments->filter(function($assessment) use ($page){
     if(!is_array($assessment->categories)){ return false; }
     foreach($assessment->categories as $c){
@@ -32,8 +41,24 @@ Some or all of the following will be offered
     }
     return false;
 }) as $assessment)
-{{$assessment->title }}
+<tr>
+    <td>
+        <a href="{{ $assessment->pdf }}">{{ $assessment->title }}</a>
+    </td>
+    <td>
+            {{ $assessment->level }}
+    </td>
+    <td>
+            {{ $assessment->credits }}
+    </td>
+    <td>
+            {{ $assessment->assessment }}
+    </td>
+    
+</tr>
 @endforeach
+</tbody>
+</table>
 
 
 <br>
