@@ -35,6 +35,7 @@ return [
             'comments' => true,
             'tags' => [],
         ],
+        'assessments',
         'about' => [
             'path' => 'about-whs/{filename}',
             'sort' => '-date',
