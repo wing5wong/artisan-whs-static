@@ -19,7 +19,24 @@
 
 <h3 class="d-inline">Leads to:</h3> {{ $page->leads_to }} <br>
 
-<h3 class="d-inline">Available Standards:</h3> {{ $page->standards }} <br>
+<h3 class="d-inline">Available Standards:</h3>
+Some or all of the following will be offered
+
+
+@foreach($assessments->filter(function($assessment) use ($page){
+    if(!is_array($assessment->categories)){ return false; }
+    foreach($assessment->categories as $c){
+        if($c == $page->title){
+            return true;
+        }
+    }
+    return false;
+}) as $assessment)
+{{$assessment->title }}
+@endforeach
+
+
+<br>
 
 <h3 class="d-inline">Notes:</h3> {{ $page->notes }}
 
