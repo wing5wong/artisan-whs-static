@@ -24,7 +24,6 @@ pagination:
         </h2>
         <div class="row">
             <div class="col-10">
-                {{ $event->excerpt() }}
                 <a href="{{$event->getPath()}}">Read More</a>
             </div>
         </div>
