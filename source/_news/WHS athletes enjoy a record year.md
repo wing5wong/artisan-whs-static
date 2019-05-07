@@ -2,11 +2,11 @@
 title: "WHS athletes enjoy a record year"
 date: 2019-03-27
 description: "Whanganui High School athletes enjoy a record year..."
-featured-image: 
+featured_image: 
 excerpt: "Whanganui High School athletes enjoy a record year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+gallery_image_1: 
+gallery_image_2: 
+gallery_image_3: 
+gallery_image_4: 
+gallery_image_5: 
 ---
