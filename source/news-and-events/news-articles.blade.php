@@ -42,9 +42,11 @@ pagination:
 {{ $pageNumber }}
 </a>
 @else
+    @if( ($pagination->currentPage - $pageNumber <=5) or ($pageNumber - $pagination->currentPage <= 5))
 <a href="{{ $page->baseUrl }}{{ $path }}">
     {{ $pageNumber }}
 </a>
+endif
 @endif
 @endforeach
 
