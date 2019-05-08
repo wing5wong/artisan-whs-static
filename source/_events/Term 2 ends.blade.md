@@ -11,3 +11,5 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>Term 2 ends -&nbsp;<span>Friday 5 July</span></h4>
+

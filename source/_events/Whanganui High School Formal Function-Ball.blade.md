@@ -11,3 +11,6 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>Whanganui High School Formal Function/Ball</h4>
+<p>(Year 13 students and partners)</p>
+

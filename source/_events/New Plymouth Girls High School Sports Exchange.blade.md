@@ -11,3 +11,6 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>New Plymouth Girls High School&nbsp;Sports&nbsp;Exchange</h4>
+<p>Venue: Whanganui High School</p>
+

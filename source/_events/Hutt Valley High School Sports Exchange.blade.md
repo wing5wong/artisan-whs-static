@@ -11,3 +11,6 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>Hutt Valley High School Sports&nbsp;Exchange</h4>
+<p>Venue: Hutt Valley High School</p>
+

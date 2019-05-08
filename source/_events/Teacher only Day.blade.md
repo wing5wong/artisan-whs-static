@@ -11,3 +11,6 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>Teacher only Day</h4>
+<p>Teaching staff will be attending professional development.</p>
+

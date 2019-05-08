@@ -11,3 +11,6 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>Chamber Music</h4>
+<p>Competition held at WCS Auditorium.</p>
+

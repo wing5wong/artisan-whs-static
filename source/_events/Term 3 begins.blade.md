@@ -11,3 +11,5 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>Term 3 begins - Monday 22 July</h4>
+

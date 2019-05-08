@@ -11,3 +11,7 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>Pae Rangatahi Kapa Haka Competitions</h4>
+<p>Pae Rangatahi is being held in Opunake this year on Friday 28 June.</p>
+<p>Kia Whaiora 2019 will be performing.</p>
+

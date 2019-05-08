@@ -11,3 +11,6 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
+<h4>NISS Swimming Champs</h4>
+<p>Freyberg Pool, Palmerston North</p>
+
