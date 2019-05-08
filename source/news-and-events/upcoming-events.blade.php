@@ -15,9 +15,9 @@ pagination:
 
 <div class="row mb-5">
 @foreach($pagination->items as $event)
-<div class="col-6">
+<div class="col">
     <div class="card bg-light mb-3 mb-3" style="max-width: 18rem;">
-        <img class="card-img-top" src="{{ $event->image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}" style="object-fit: cover;width: 100%;">
+        <img class="card-img-top" src="{{ $event->image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}" style="object-fit: contain; max-height: 200px">
         <div class="card-header">{{ date('F j, Y', $event->date) }}</div>
         <div class="card-body">
             <h5 class="card-title">{{$event->title}}</h5>
