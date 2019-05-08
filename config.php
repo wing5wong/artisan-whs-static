@@ -64,7 +64,7 @@ return [
         ],
         'events' => [
             'path' => 'events/{filename}',
-            'sort' => '-date',
+            'sort' => 'date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
             'isPost' => true,
