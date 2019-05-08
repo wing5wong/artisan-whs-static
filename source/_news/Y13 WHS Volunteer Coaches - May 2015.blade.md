@@ -1,0 +1,19 @@
+---
+title: "Y13 WHS Volunteer Coaches - May 2015"
+date: 
+description: "These students are coaching our school teams in Hockey, Football and Netball this year, 18/5/15.
+Click on above for more information..."
+featured-image: 
+excerpt: ""
+gallery-image-1: 
+gallery-image-2: 
+gallery-image-3: 
+gallery-image-4: 
+gallery-image-5: 
+---
+
+<p><span style="line-height: 1.5;">Congratulations to our Y13 students, Ben Luff Scott, Reuben Gedye, Josh Parker Tegan Pope, Kody Hamahona-Stark, Waimarama Matena and Caitlin MacDonald. Absent: Kyle Hall. </span></p>
+<p><span style="line-height: 1.5;">These students are coaching our school teams in Hockey, Football and Netball this year. </span></p>
+<p><span style="line-height: 1.5;">Sport Whanganui along with Sport NZ have given our students a hoodie each for their role in coaching. </span></p>
+<p><span style="line-height: 1.5;">WHS also appreciate what these committed students do for our school to help support our teams. Well done to all!&nbsp;</span></p>
+

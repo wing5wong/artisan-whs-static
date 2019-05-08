@@ -1,0 +1,26 @@
+---
+title: "WSS Athletic results - May 2016"
+date: 
+description: "Well done to our students who competed in the WSS Cross Country Champs yesterday in all weathers."
+featured-image: 
+excerpt: "Well done to our students who competed in the WSS Cross Country Champs yesterday in all weathers."
+gallery-image-1: 
+gallery-image-2: 
+gallery-image-3: 
+gallery-image-4: 
+gallery-image-5: 
+---
+
+<p><span style="line-height: 1.5;">Well done to our students who competed in the WSS Cross Country Champs yesterday, Thursday 26 May, in all weathers.&nbsp;</span><span style="line-height: 1.5;">We started the day with sunshine, then finished with thunderstorms and rain!!&nbsp;</span></p>
+<p><strong>Awesome results for WHS:-&nbsp;</strong></p>
+<p><strong>Y9 Boys</strong> - 1st - Connor Hoskin - 11.57, Scott Emmerson 9th 12.41, Jakob Moorhouse 11th 12.52.</p>
+<p><strong>Y9 Girls</strong> - Ara Molijn 14th, 15.43</p>
+<div class="text_exposed_show">
+<p><strong>U16 Girls Race</strong> - 2nd - Rebecca Baker - 12.13, Amber Andrews 14th, 15.02, Kayla-Lee Wainwright 15th, 15.03</p>
+<p><strong>U16 Boys Race</strong> - 2nd - Loris Knigge - 15.51, 3rd Travis Bayler 16.08, 4th Logan Hughes 16.22, 5th Sam Luff 16.42, Connor Munro 8th, 16.58, Lucas Thompson 12th 17.27, Joseph Read 15th 18.03, Jonty Thomson 18th, 18.22, Caleb Thomson 20th 18.29.</p>
+<p><strong>U19 Girls</strong> - Mikal Terrey 11th 19.57</p>
+<p><strong>U19 Boys</strong> - Louis Hogan 2nd, 17.59, Ryan Gray 4th, 19.27, Liam Jones 8th 20.04, Joseph Redpath 9th 20.29, Jack Pilet 12th 20.55, Brodie Manson 13th 21.32.</p>
+<p><strong>U16 Boys</strong> also won the 3 to score and 6 to score over all other secondary schools competing.</p>
+<p>(Lisa Murphy, Sports Co-ordinator)</p>
+</div>
+

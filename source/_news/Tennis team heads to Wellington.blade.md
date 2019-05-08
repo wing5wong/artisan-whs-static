@@ -1,0 +1,24 @@
+---
+title: "Tennis team heads to Wellington"
+date: 
+description: "Former WHS students Gabrielle Hiri and Paris Butters will represent Wanganui at the Renouf Tennis Centre in Wellington..."
+featured-image: 
+excerpt: "Former WHS students Gabrielle Hiri and Paris Butters will represent Wanganui at the Renouf Tennis Centre in Wellington."
+gallery-image-1: 
+gallery-image-2: 
+gallery-image-3: 
+gallery-image-4: 
+gallery-image-5: 
+---
+
+<p>The Wanganui representative tennis season will conclude with a big weekend in the capital as a squad of eight compete in the Hexagonal at the Renouf Tennis Centre today.</p>
+<p>Wanganui will be mixed in with three Wellington squads, plus Taranaki and Manawatu - the latter retaining the Christie Cup for the winter after they took it off Wanganui and then defended it against Taranaki earlier this month.</p>
+<p>The team's will play singles, doubles and mixed doubles today and tomorrow.</p>
+<p>"The girls are pretty strong and the boys are on the case," said team manager and men's reserve Sean Edmonds.</p>
+<p>"Leela [Beattie] will be the strongest lady down there.</p>
+<p>"I'm expecting a good showing."</p>
+<p>The games start at 1pm.</p>
+<p><strong>The Wanganui team is</strong></p>
+<p><span>Men: Simon O'Leary, Nick Caton, Patrice Mathey, Tim McKenzie; <br />Women: Leela Beattie, Georgia Atkinson and former WHS students <strong>Gabrielle Hiri and Paris Butters</strong>.</span></p>
+<p class="clear syndicator"><em>By Jared Smith</em><br /><em>Wanganui Chronicle 25/3/17</em></p>
+
