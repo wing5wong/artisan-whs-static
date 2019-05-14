@@ -13,11 +13,11 @@ gallery-image-5:
 
 <h4>Whanganui born and former Whanganui High School student, Jessica Tyson was crowned Miss World New Zealand at SkyCity in Auckland on Saturday night.</h4>
 <p class="element element-paragraph"><strong>The Miss World New Zealand title for 2018 has been won by a woman from Whanganui.</strong></p>
-<p class="element element-paragraph"><strong>MÄori Television reporter and presenter Jessica Tyson was crowned at the SkyCity Convention Centre on Saturday night and her whÄnau are very proud, said her uncle Colin Tyson.</strong></p>
+<p class="element element-paragraph"><strong>Māori Television reporter and presenter Jessica Tyson was crowned at the SkyCity Convention Centre on Saturday night and her whānau are very proud, said her uncle Colin Tyson.</strong></p>
 <p class="element element-paragraph">"She has worked very hard for this and we are all very proud of her.</p>
 <p class="element element-paragraph">"It's not just about her beauty, it's about her whole person."</p>
-<p class="element element-paragraph"><span>Tyson, of Te Atihaunui-Ä-PÄpÄrangi iwi, moved to Auckland in 2012 to do a communication studies degree, majoring in journalism, then studied te reo MÄori.</span></p>
-<p class="element element-paragraph">Now co-presenter on&nbsp;<em>RereÄtea,</em>&nbsp;MÄori Television's online midday news bulletin, Tyson has told her Instagram followers that the Miss World title is "a dream come true."</p>
+<p class="element element-paragraph"><span>Tyson, of Te Atihaunui-ā-Pāpārangi iwi, moved to Auckland in 2012 to do a communication studies degree, majoring in journalism, then studied te reo Māori.</span></p>
+<p class="element element-paragraph">Now co-presenter on&nbsp;<em>Rereātea,</em>&nbsp;Māori Television's online midday news bulletin, Tyson has told her Instagram followers that the Miss World title is "a dream come true."</p>
 <p class="element element-paragraph">The 25-year-old has already represented New Zealand at two international pageants in China and Japan.</p>
 <p class="element element-paragraph">In 2008 she won the Miss Teen World pageant in Australia, placed second at Miss World New Zealand and took part in Miss International in Tokyo in 2016 and won Miss Global City in Shanghai last year.</p>
 <p class="element element-paragraph">"I woke up today the happiest girl in the world," Tyson told her online followers on Sunday.</p>

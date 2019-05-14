@@ -22,7 +22,7 @@ gallery-image-5:
 <p class="element element-paragraph">So did others. National PPTA president Jack Boyle came along for the ride. New Zealand First list MP and education spokeswoman Tracey Martin wanted to take the New Zealand First space and Green Party education spokeswoman Catherine Delahunty was expected later.</p>
 <p class="element element-paragraph">By Friday night candidates will have sat in on classes in schools across Ruapehu, Whanganui, Rangitikei, Manawatu and Horowhenua, Mr Collie said. That evening the association begins its conference with a pre-election education forum, which teachers across the region can attend.</p>
 <p class="element element-paragraph">Mr Collie's hope is that bringing candidates and MPs together will lead to cross-party education agreements, which he said would be "utopia for teachers".</p>
-<p class="element element-paragraph">In the English class she went to Green candidate Nicola Patrick began a spirited conversation with students about te reo MÄori. Labour's Steph Lewis sat in on a statistics class, Harete Hipango was in a Chinese language class and Tracey Martin was in a chemistry class.</p>
+<p class="element element-paragraph">In the English class she went to Green candidate Nicola Patrick began a spirited conversation with students about te reo Māori. Labour's Steph Lewis sat in on a statistics class, Harete Hipango was in a Chinese language class and Tracey Martin was in a chemistry class.</p>
 <p class="element element-paragraph"><a href="http://www.nzherald.co.nz/wanganui-chronicle/news/article.cfm?c_id=1503426&amp;objectid=11915423">Download Video of visit</a></p>
 <p class="element element-paragraph"><em>By Laurel Stowell</em><br /><em>Wanganui Chronicle 2/9/17</em></p>
 

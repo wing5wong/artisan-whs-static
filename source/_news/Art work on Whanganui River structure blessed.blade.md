@@ -13,7 +13,7 @@ gallery-image-5:
 
 <h4><span>Whanganui High School student Emma Henare, 14, designed the art work on a new structure at Whanganui's Mosquito Point. <br /></span></h4>
 <p><em>PHOTO / Stuart Munro&nbsp;</em></p>
-<p class="element element-paragraph">Some good things and some bad things happen at Whanganui's Mosquito Point, kaumÄtua John Maihi said as he blessed the design on a new changing shed structure there.</p>
+<p class="element element-paragraph">Some good things and some bad things happen at Whanganui's Mosquito Point, kaumātua John Maihi said as he blessed the design on a new changing shed structure there.</p>
 <p class="element element-paragraph">He's hoping the taonga on the structure there will mean more good things happen and fewer bad.</p>
 <p class="element element-paragraph">One good thing is that Mosquito Point's swing will be reinstated ready for next summer, Whanganui District Council spokeswoman Cass Alexander said.</p>
 <p class="element element-paragraph">Its loss has been lamented since the pole was removed in July 2016. Before that the swing provided lots of thrills and excitement, as well as causing a few injuries.</p>

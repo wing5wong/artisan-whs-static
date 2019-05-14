@@ -12,7 +12,7 @@ gallery-image-5:
 ---
 
 <h3 class="element element-paragraph">Whanganui High School band The Remnant scooped the Te Reo award in the Tangata Beats competition at the national Smokefreerockquest final.</h3>
-<p><strong><a href="http://www.maoritelevision.com/news/regional/smokefree-rockquest-finals-tamaki-makaurau">** View&nbsp;<em>MÄori Television interview **</em></a></strong></p>
+<p><strong><a href="http://www.maoritelevision.com/news/regional/smokefree-rockquest-finals-tamaki-makaurau">** View&nbsp;<em>Māori Television interview **</em></a></strong></p>
 <p class="element element-paragraph">The competition was held in Auckland on Friday, September 21.</p>
 <h3 class="element element-paragraph">The Remnant - Wiremu Rogan, Cypress Kani-Hurinui, Joshua Waitai, Chester Nevil and Toka Poa - won $500 cash for the band for the best use of te reo, music teacher Brent Holt said.</h3>
 <p class="element element-paragraph">"It was fantastic as a first time at a national event," Holt said.</p>

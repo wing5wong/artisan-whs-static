@@ -15,7 +15,7 @@ gallery-image-5:
 <p><em>PHOTO / Stuart Munro</em></p>
 <p class="element element-paragraph">It would be easy to look at the results of the Anndion Lodge Whanganui Girls cricket team from the Cricket Express Festival of Cricket and think they were disappointing.</p>
 <p class="element element-paragraph">The girls opened their campaign with a 35-run loss against Wellington on January 2 and ended it on Sunday when Horowhenua Kapiti chased down their 79/9 in 15.4 overs.</p>
-<p class="element element-paragraph">In-between they lost to ManawatÅ«, Hawke's Bay and Nelson, but despite not tasting victory, Cricket Whanganui general manager Dilan Raj said it didn't stop them smiling.</p>
+<p class="element element-paragraph">In-between they lost to Manawatū, Hawke's Bay and Nelson, but despite not tasting victory, Cricket Whanganui general manager Dilan Raj said it didn't stop them smiling.</p>
 <p class="element element-paragraph">"They played 360 overs over four days and that's huge," Raj said.</p>
 <p class="element element-paragraph">"There were still some playing backyard cricket afterwards, that really showed their enjoyment and camaraderie."</p>
 <p class="element element-paragraph">Hawke's Bay took out the tournament beating Nelson by 89 runs in the final at Victoria Park on Sunday.</p>

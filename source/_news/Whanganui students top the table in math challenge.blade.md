@@ -12,7 +12,7 @@ gallery-image-5:
 ---
 
 <p><strong>PROBLEM SOLVERS: Winning team from Whanganui High School (from left) George Iliffe, Josiah Kirk, Owen Parkinson and Massey University Vice-Chancellor Professor Jan Thomas.</strong></p>
-<p class="element element-paragraph"><strong>A team from Whanganui High School has topped the table in the annual Massey ManawatÅ« Maths and Stats (M3S) Competition.</strong></p>
+<p class="element element-paragraph"><strong>A team from Whanganui High School has topped the table in the annual Massey Manawatū Maths and Stats (M3S) Competition.</strong></p>
 <p class="element element-paragraph">Year 12 students George Iliffe, Josiah Kirk and Owen Parkinson were up against teams from seven other schools in Friday's competition at Massey University.</p>
 <p class="element element-paragraph">The competition involved Whanganui High School, Waiopehu College, Feilding High School, Palmerston North Girls' High School, Awatapu College, Dannevirke High School, Freyberg High School, and Palmerston North Boys' High School.</p>
 <p class="element element-paragraph">Teams of three Year 12 students had to answer NCEA Level 1 Mathematics and Statistics questions without the use of calculators. The competition focuses on problem solving skills and the ability to work as a team, as teams must decide how long to spend on each question.</p>

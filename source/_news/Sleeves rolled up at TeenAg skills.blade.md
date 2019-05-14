@@ -20,7 +20,7 @@ gallery-image-5:
 <p class="element element-paragraph">"These events are not just for practical people, they're for those that are high achieving as well and that's the big message that we're struggling to get across in Whanganui.</p>
 <p class="element element-paragraph">"We're working more closely with the technology aspect heading forward and that will hopefully attract those students that might not be so practical."</p>
 <p class="element element-paragraph">Bates has been visiting school's all over the city and when she went to Whanganui High School she found a keen teacher in Nick Staples who helped to organise the event.</p>
-<p class="element element-paragraph">TeenAg is being scrapped and replaced with the FMG Junior Young Farmer of the Year and the Taranaki/ManawatÅ« regional final will be held in Whanganui next April.</p>
+<p class="element element-paragraph">TeenAg is being scrapped and replaced with the FMG Junior Young Farmer of the Year and the Taranaki/Manawatū regional final will be held in Whanganui next April.</p>
 <p class="element element-paragraph">"That's a huge day, there will be 40 or 50 teams and those spaces sell out really quickly," Bates said.</p>
 <p class="element element-paragraph">"We want to promote it in Whanganui so that they can get some teams in there first."</p>
 <p class="element element-paragraph">Schools need to become a TeenAg club to participate and can easily do so by visiting the TeenAg website.</p>
@@ -30,7 +30,7 @@ gallery-image-5:
 <p class="element element-paragraph">"We need students coming into our industry in all aspects, whether it's practical or working with machinery, technology and those kinds of things."</p>
 <p class="element element-paragraph">Bates has been in her role for four years and in that time, the number of TeenAg clubs has risen from a dire two, to a whopping 18.</p>
 <p class="element element-paragraph">She encouraged as many people to get involved with the junior farmer competition as possible.</p>
-<p class="element element-paragraph">"There has been some good learning here today, we have the team that came second in our ManawatÅ« competition here and they're like little sponges which is fantastic.</p>
+<p class="element element-paragraph">"There has been some good learning here today, we have the team that came second in our Manawatū competition here and they're like little sponges which is fantastic.</p>
 <p class="element element-paragraph">"We want to see more of those students that are interested and passionate. Come along with a friend, have a go, you'll surprise yourself and have a lot of fun."</p>
 <p class="element element-paragraph"><em>By Jesse King</em><br /><em>Whanganui Chronicle 1/10/18</em></p>
 

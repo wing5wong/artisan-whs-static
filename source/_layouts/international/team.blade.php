@@ -21,7 +21,9 @@
     </h3>
     <div class="row">
     <div class="col">
-    <img src="{{$person->image ?: "https://www.gravatar.com/avatar/" . md5($person->email ?: "user@example.com") . "?s=255"       }}" width="255" />
+        @if($person->image)
+            <img src="{{$person->image }}" width="255" />
+        @endif
     </div>
     <div class="col">
     {!! $person !!}

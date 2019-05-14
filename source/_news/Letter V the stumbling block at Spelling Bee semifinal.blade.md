@@ -12,7 +12,7 @@ gallery-image-5:
 ---
 
 <p><span>Isaiah Tubayan and Christina Donne-Lee were eliminated from the Spelling Bee after stumbling on the words veritable and vapidity respectively. <br />Photo / Supplied</span></p>
-<p class="element element-paragraph">Paroxysm, chrysanthemum, witticism, tÅ«rangawaewae, manaakitanga and whakamÄ.</p>
+<p class="element element-paragraph">Paroxysm, chrysanthemum, witticism, tūrangawaewae, manaakitanga and whakamā.</p>
 <p class="element element-paragraph">The words have little in common, but many people, young or old, may consider them quite difficult to spell.</p>
 <p class="element element-paragraph">They were all included in a list of 50 words given to students competing in the lower North Island semifinal of the New Zealand Spelling Bee.</p>
 <p class="element element-paragraph"><strong>Whanganui High School students Isaiah Tubayan and Christina Donne-Lee qualified for the competition and went to Wellington to do battle with the best.</strong></p>

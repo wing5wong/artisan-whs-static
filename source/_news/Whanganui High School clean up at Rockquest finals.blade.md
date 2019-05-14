@@ -15,7 +15,7 @@ gallery-image-5:
 <p><strong><a href="https://youtu.be/tUX-amW3rdk">Watch the WHS entries</a></strong></p>
 <p class="element element-paragraph"><strong>It was a big night out for Whanganui High School (WHS) at the regional Smokefreerockquest final with the school sweeping all the but two placings and awards.</strong></p>
 <p class="element element-paragraph"><strong>There was no stage fright for The Remnant, who took to the band category at the Opera House, to lead a clean sweep for WHS in what was their first time performing live.</strong></p>
-<p class="element element-paragraph"><strong>Guitarist and vocalist Wiremu Rogan said the win came as a shock to him and band members TokarÄrangi Poa, Cypress Kani-Hurinui, Josh Waitai and Chester Nevil.</strong></p>
+<p class="element element-paragraph"><strong>Guitarist and vocalist Wiremu Rogan said the win came as a shock to him and band members Tokarārangi Poa, Cypress Kani-Hurinui, Josh Waitai and Chester Nevil.</strong></p>
 <p class="element element-paragraph">"It was our first time playing live and we were really outside of our comfort zones playing in front of a big crowd like that," he said.</p>
 <p class="element element-paragraph">"We had practised lots, we were really committed and we all played as a team - our vocals and harmonies were really good.</p>
 <p class="element element-paragraph">"The audience was really supporting us and gave us lots of energy to play our best."</p>

@@ -13,7 +13,7 @@ gallery-image-5:
 
 <p class="element element-paragraph"><strong>Munro, Bayler, and Jonathan Maples were part of a composite team that took bronze in the Senior Men's 4x100m Relay.</strong></p>
 <p class="element element-paragraph">Of the 19 Whanganui athletes who headed south, 16 of them came back with either individual or team medals from the New Zealand Track &amp; Field Championships in Christchurch at the weekend.</p>
-<p class="element element-paragraph">Held at the new NgÄ Puna Wai Sports Hub in Wigram, the championships were a triumph for the five gold medallists in Liam Back, Sophie Williams, Genna Maples, Emma Osborne and Lucas Martin.</p>
+<p class="element element-paragraph">Held at the new Ngā Puna Wai Sports Hub in Wigram, the championships were a triumph for the five gold medallists in Liam Back, Sophie Williams, Genna Maples, Emma Osborne and Lucas Martin.</p>
 <p class="element element-paragraph">Back claimed the 800m and 1500m double at Under 18 Men's level, while Williams' time of 11.86s to win the U18 Women's 100m was the second fastest for any female age group at the Hub.</p>
 <p class="element element-paragraph">Maples' Under 18 Women's long jump victory with 5.93m was enough to reach No 4 in the national women's rankings, while Martin took 48s off his personal best in winning the Under 20 Men's Walk in 14m 3s.</p>
 <p class="element element-paragraph">Osborne claimed gold in the Under 18 Women's 400m, a distance where the local contingent had to overcome an injury crisis when it came time for the team relays.</p>

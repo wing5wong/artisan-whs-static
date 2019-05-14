@@ -13,12 +13,12 @@ gallery-image-5:
 
 <p><span>Former Whanganui High School student Leigh-Marama McLachlan endorses Maori development through journalism. <br />Photo/ supplied.</span></p>
 <p class="element element-paragraph"><strong>Emma Russell continues her series charting the stories of former Whanganui students who have gone on to success in the big, wide world.</strong></p>
-<p class="element element-paragraph">In a bid to endorse MÄori culture in the media, former Whanganui Kokohuia student, Leigh-Marama McLachlan, pursued a career in broadcast journalism and landed a job with Radio New Zealand.</p>
-<p class="element element-paragraph">The 27-year-old said she was conscious of the type of stories told about MÄori in that they were mostly negative, so she aimed to tell another side of being MÄori.</p>
+<p class="element element-paragraph">In a bid to endorse Māori culture in the media, former Whanganui Kokohuia student, Leigh-Marama McLachlan, pursued a career in broadcast journalism and landed a job with Radio New Zealand.</p>
+<p class="element element-paragraph">The 27-year-old said she was conscious of the type of stories told about Māori in that they were mostly negative, so she aimed to tell another side of being Māori.</p>
 <p class="element element-paragraph">And she worked hard to get there.</p>
-<p class="element element-paragraph">Before becoming a student at Whanganui High School, all of her schooling had been taught in te reo MÄori at a small total immersion kura.</p>
+<p class="element element-paragraph">Before becoming a student at Whanganui High School, all of her schooling had been taught in te reo Māori at a small total immersion kura.</p>
 <p class="element element-paragraph">"I had to teach myself how to read English when I was about 8 and before high school I had had only a few formal English lessons," Ms McLachlan said.</p>
-<p class="element element-paragraph">Five years later she leaped from WHS head girl to a New Zealand Broadcasting student to Radio New Zealand broadcaster and now senior communications advisor at Te Puni KÅkiri (The Ministry for MÄori Development).</p>
+<p class="element element-paragraph">Five years later she leaped from WHS head girl to a New Zealand Broadcasting student to Radio New Zealand broadcaster and now senior communications advisor at Te Puni Kōkiri (The Ministry for Māori Development).</p>
 <p class="element element-paragraph">But picking her chosen career wasn't as clear-cut as one might have hoped.</p>
 <p class="element element-paragraph">"I always had an idea that I would pursue something in the media but when I left school I didn't really know much about it," she said.</p>
 <p class="element element-paragraph">Ms McLachlan said she took a year off after finishing school and worked as a retail manager in Palmerston North.</p>
@@ -34,8 +34,8 @@ gallery-image-5:
 <p class="element element-paragraph">"It just shows that you really do have to make the most of every opportunity out there."</p>
 <p class="element element-paragraph">So, why broadcasting?</p>
 <p class="element element-paragraph">"There is incredible power in broadcasting and I have always felt really privileged to be on the radio and to have that platform to tell stories that I think are important."</p>
-<p class="element element-paragraph">In June, Ms McLachlan took on her next challenge becoming senior communications advisor at Te Puni KÅkiri.</p>
-<p class="element element-paragraph">"It is similar to my old work in that I am still telling a lot of stories about what's happening out there in MÄori communities - just a little different."</p>
+<p class="element element-paragraph">In June, Ms McLachlan took on her next challenge becoming senior communications advisor at Te Puni Kōkiri.</p>
+<p class="element element-paragraph">"It is similar to my old work in that I am still telling a lot of stories about what's happening out there in Māori communities - just a little different."</p>
 <p class="element element-paragraph">The advice she would give students unsure on a career would be to take a year off to have a blow out and consider their options.</p>
 <p class="element element-paragraph">"I know a lot of people that went straight from school to university to get degrees that they didn't rate it. It's a waste of time and money."</p>
 <p class="element element-paragraph">For students considering a career in broadcasting she recommended engaging in as many life skills as possible.</p>

@@ -11,11 +11,11 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
-<h4><span>It was a successful outing at the NgÄ Manu KÅrero competition final for Sophia 'Unga-Cribb who brought home the Taa Turi Kara trophy for winning the junior English speech section. <br /></span></h4>
+<h4><span>It was a successful outing at the Ngā Manu Kōrero competition final for Sophia 'Unga-Cribb who brought home the Taa Turi Kara trophy for winning the junior English speech section. <br /></span></h4>
 <p><em>PHOTO / Stuart Munro</em></p>
 <p><em><a href="https://www.nzherald.co.nz/wanganui-chronicle/news/article.cfm?c_id=1503426&amp;objectid=12132087">Watch the VIDEO by Stuart Munro</a></em></p>
 <p class="element element-paragraph">Sophia 'Unga-Cribb says she was destined to be a good public speaker "straight from the womb".</p>
-<p class="element element-paragraph"><strong>The 14-year-old was recently crowned the winner in the junior English section at the NgÄ Manu KÅrero national secondary school speech final.</strong></p>
+<p class="element element-paragraph"><strong>The 14-year-old was recently crowned the winner in the junior English section at the Ngā Manu Kōrero national secondary school speech final.</strong></p>
 <p class="element element-paragraph">"Our family is pretty talkative, you're always fighting for airspace," 'Unga-Cribb says.</p>
 <p class="element element-paragraph">"Speeches have always been a part of the family."</p>
 <p class="element element-paragraph"><span>Her uncle Dallas Cribb and cousin Matariki Cribb are previous winners of the Taa Turi Kara trophy at the competition.</span></p>
@@ -34,7 +34,7 @@ gallery-image-5:
 <p class="element element-paragraph">A lot of practise goes into delivering a good speech, 'Unga-Cribb says.</p>
 <p class="element element-paragraph">"The gestures you use, the tone of your voice and even your facial expressions come into it. If you say something happy and you're frowning, that's going to confuse people.</p>
 <p class="element element-paragraph">"I like the adrenaline rush you get on stage and that feeling of satisfaction you get when you finish your speech. It's a good feeling and to win is just a bonus."</p>
-<p class="element element-paragraph">'Unga-Cribb is focusing on one big event at a time currently, but will be looking at adding a senior English title to her list of accolades at NgÄ Manu KÅrero next year.</p>
+<p class="element element-paragraph">'Unga-Cribb is focusing on one big event at a time currently, but will be looking at adding a senior English title to her list of accolades at Ngā Manu Kōrero next year.</p>
 <p class="element element-paragraph">Piri Cribb attended the final, she felt many emotions throughout the experience, but the overwhelming feeling was pride.</p>
 <p class="element element-paragraph">"There's a piece in her speech about the freedom to make mistakes," Cribb says.</p>
 <p class="element element-paragraph">"As a parent, there are times that you can't fully control what's going on for your child and having to let them go out and do it on their own can be scary.</p>

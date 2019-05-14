@@ -17,7 +17,7 @@ gallery-image-5:
 <p class="element element-paragraph"><strong>The accomplishment has never been achieved in motocross at the Wanganui Motorcycle Club.</strong></p>
 <p class="element element-paragraph">"It was my goal at the start of the series to win those two classes," Rountree said.</p>
 <p class="element element-paragraph">"That was the first time I've won two classes in a series and I've got to say thanks to everyone who has helped me out. It was really good."About 150 riders competed at each event aged from just 4 years old right up to 67.</p>
-<p class="element element-paragraph">Next, Rountree finishes club series for Taupo and ManawatÅ« before travelling the Tasman for a second crack at the Junior MotoX Nationals in Tasmania in September.</p>
+<p class="element element-paragraph">Next, Rountree finishes club series for Taupo and Manawatū before travelling the Tasman for a second crack at the Junior MotoX Nationals in Tasmania in September.</p>
 <p class="element element-paragraph">"I did the Junior Nationals in Australia last year, but I'm hoping to do a bit better this year now that I know what the competition's like," he said.</p>
 <p class="element element-paragraph">"They're pretty fast over there, but I'm a lot faster than I was last year and I'll have a better mindset heading into it."</p>
 <p class="element element-paragraph">Rountree said he doesn't have a clear goal for Australia, he is just going to go over and do the best he can.</p>

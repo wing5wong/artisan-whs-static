@@ -13,15 +13,15 @@ gallery-image-5:
 
 <p><span><strong>Auaha musicians</strong> Ariana Tikao (left), Alistair Fraser, Elise Goodge, <strong>Te Paerata Tichbon</strong> (former WHS student), Matiu Bartlett and Brad McMillan (at back).</span></p>
 <p class="element element-paragraph">Whanganui musicians Auaha have released their highly anticipated album&nbsp;<em>Te Pari o Auahatanga</em>, The Flood of Inspiration.</p>
-<p class="element element-paragraph">A collaboration recorded over eight days on and beside the Whanganui River, the album concept was hatched two years ago during a taonga puoro wÄnanga (traditional MÄori instrument workshop) in Whanganui.</p>
+<p class="element element-paragraph">A collaboration recorded over eight days on and beside the Whanganui River, the album concept was hatched two years ago during a taonga puoro wānanga (traditional Māori instrument workshop) in Whanganui.</p>
 <p class="element element-paragraph">As students and teachers learned to make and play instruments inside Rangahaua Marae, outside the Whanganui River was flooding, the worst flood in 100 years and as the devastating impact of this event was revealed the album concept was born.</p>
 <p class="element element-paragraph">The project included recording taonga puoro on the Whanganui River and using the stunning environment and stories to inspire new compositions.</p>
 <p class="element element-paragraph">The resulting album is made up of 12 original and eclectic tracks that draw on a range of influences including fusions of te reo chant, rock, blues, soul and funk.</p>
 <p class="element element-paragraph">Recordings of taonga puoro that were made in the environment while they were on the river are interwoven throughout the album.</p>
 <p class="element element-paragraph">The members of Auaha are Ariana Tikao, Alistair Fraser, Elise Goodge, Matiu Bartlett, Brad McMillan and Te Paerata Tichbon.</p>
-<p class="element element-paragraph">They are from different backgrounds musically, but are drawn together by their common interest in taonga puoro (traditional MÄori instruments).</p>
+<p class="element element-paragraph">They are from different backgrounds musically, but are drawn together by their common interest in taonga puoro (traditional Māori instruments).</p>
 <p class="element element-paragraph">Group members come from Whanganui, Wellington and Wairoa.</p>
-<p class="element element-paragraph">Their river guide and local musician, Charles Ranginui of Te Ä€tihaunui-a-PapÄrangi, also contributed a song to the album.</p>
+<p class="element element-paragraph">Their river guide and local musician, Charles Ranginui of Te Ä€tihaunui-a-Papārangi, also contributed a song to the album.</p>
 <p class="element element-paragraph">The recording and production was done by Sacha Keating of Te Aio Productions.</p>
 <p class="element element-paragraph">After three days' journey, the group alighted from the river and ensconced themselves at Koriniti Marae to complete recording of the new tracks.</p>
 <p class="element element-paragraph">As fate would have it though, the river began flooding again, and they had to evacuate and relocate to Whanganui or risk being trapped possibly for weeks.</p>

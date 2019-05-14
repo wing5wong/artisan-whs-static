@@ -17,7 +17,7 @@ gallery-image-5:
 <p class="element element-paragraph">They have been in Whanganui since Saturday, visiting from sister city Nagaizumi-cho in Japan to celebrate the 30th anniversary of the partnership between the two cities.</p>
 <p class="element element-paragraph">Deputy mayor Jenny Duncan, chief executive Kym Fell, group co-ordinator Natasha McKee and sister city association members Emiko Tsuchiya and Shogo Hizawa watch on.</p>
 <p class="element element-paragraph"><strong>McKee says that the 12 and 13-year-old students were hosted by</strong> Whanganui Girls' College and <strong>Whanganui High School.</strong></p>
-<p class="element element-paragraph">"On Monday and Tuesday they were hosted by the schools. They were in lessons with Kiwi students, they were involved in sport, cooking and MÄori cultural lessons," McKee said.</p>
+<p class="element element-paragraph">"On Monday and Tuesday they were hosted by the schools. They were in lessons with Kiwi students, they were involved in sport, cooking and Māori cultural lessons," McKee said.</p>
 <p class="element element-paragraph">"It was a reciprocal learning opportunity. It was really good for the Kiwi students to engage with students from Japan and learn about Japanese customs."</p>
 <p class="element element-paragraph">On Thursday the students went on a full day excursion.</p>
 <p class="element element-paragraph">"We went to Bushy Park, the Canaan Honey House on Mosston Rd and the Sarjeant Gallery where they had an art workshop and made their own souvenir bags," McKee said.</p>

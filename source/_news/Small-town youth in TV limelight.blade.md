@@ -18,7 +18,7 @@ gallery-image-5:
 <p>She had worked as a video editor for Maori TV before she moved south to be closer to family.</p>
 <p>"I used to go in there and do videos with the kids," she said. "A lot of people in Levin would look at these kids and look down on them and make them feel like they weren't part of society."</p>
 <p>Hahana was her idea to showcase rangitahi from Manawatu, Horowhenua and Whanganui in an entertaining and inspiring way through video.</p>
-<p><span style="line-height: 1.5;">The idea first got off the ground as a 10-episode web series which received $40,000 in funding from Te MÄngai PÄho.</span></p>
+<p><span style="line-height: 1.5;">The idea first got off the ground as a 10-episode web series which received $40,000 in funding from Te Māngai Pāho.</span></p>
 <p>It took off on Facebook with the first video getting 10,000 views in the first hour.</p>
 <p>The show got a second round of funding for a follow up web series before Miss Makutu was contacted by Maori TV.</p>
 <p>"They really liked Hahana."&nbsp;</p>

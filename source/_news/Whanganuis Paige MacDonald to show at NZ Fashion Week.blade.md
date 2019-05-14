@@ -15,7 +15,7 @@ gallery-image-5:
 <p><span>Photo / Supplied</span></p>
 <p class="element element-paragraph">Paige MacDonald's interest in fashion design began in the sewing class at Rutherford Junior High.</p>
 <p class="element element-paragraph">Now the Whanganui UCOL student is preparing to show off her work under the bright lights of New Zealand Fashion Week.</p>
-<p class="element element-paragraph">MacDonald, who is currently studying a Bachelor of Design and Arts majoring in fashion and textiles, has been selected for NZ Fashion Week's Miromoda Showcase, which includes work by established and emerging MÄori designers.</p>
+<p class="element element-paragraph">MacDonald, who is currently studying a Bachelor of Design and Arts majoring in fashion and textiles, has been selected for NZ Fashion Week's Miromoda Showcase, which includes work by established and emerging Māori designers.</p>
 <p class="element element-paragraph">She earned her spot at the event, which runs from August 27 until September 2, through her runner-up placing in the Emerging Designers category in the Miromoda competition in June.</p>
 <p class="element element-paragraph">"The judges thought I had good bones for a bigger collection because of the concept and how clearly the idea came across," MacDonald said.</p>
 <p class="element element-paragraph">"They said what I had researched was clearly shown in what I had made, which was really great to hear."</p>

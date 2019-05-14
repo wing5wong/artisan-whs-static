@@ -17,5 +17,5 @@ gallery-image-5:
 <p><span>To you Joseph and family, we enjoyed your visit to our kura, we appreciate how humble and down to earth you are as a person and&nbsp;both our Maori and Pasifika communities are richer for having you as a role model. Your whanau, community, country and people are very proud.&nbsp;</span>&nbsp;</p>
 <p><span>Tena koe e te Manukura!</span></p>
 <p><strong><a href="http://www.whanganuihigh.school.nz/media/gallery">View photo gallery</a></strong></p>
-<p><em>Miss Riria Henry<br />Head of Te Reo MÄori</em></p>
+<p><em>Miss Riria Henry<br />Head of Te Reo Māori</em></p>
 

@@ -15,7 +15,7 @@ gallery-image-5:
 <p><a href="http://c1940652.r52.cf0.rackcdn.com/5b7f6ea8ff2a7c03cc00031c/Dog-whs-students-thank-you-letter.pdf"><span>Thank you letter from Merenia Donne MNZM to the Principal at Whanganui High School</span></a></p>
 <p>&nbsp;</p>
 <p><strong>'Dame Patsy covers bases'<br /></strong>(Wanganui Chronicle story)</p>
-<p class="element element-paragraph">Dame Patsy Reddy has continued to work her way around Whanganui following the investiture of Dame Tariana Turia at PÅ«tiki Marae on Tuesday.</p>
+<p class="element element-paragraph">Dame Patsy Reddy has continued to work her way around Whanganui following the investiture of Dame Tariana Turia at Pūtiki Marae on Tuesday.</p>
 <p class="element element-paragraph">Along with husband Sir David Gascoigne, they first visited Gonville Library where she read&nbsp;<em>Kapai and the Kauri Trees</em>&nbsp;to children from Castlecliff's Barsanti Kindergarten.</p>
 <p class="element element-paragraph">Next on the itinerary was a trip to Pacific Helmets on Heads Road and then she made her way to First Vets in support of Kotuku Foundation Assistance Animals Aotearoa (KFAAA).</p>
 <p><img src=http://c1940652.r52.cf0.rackcdn.com/5b7f70baff2a7c03cc00031e/400-dame-patsy-with-dog.gif alt="" /></p>

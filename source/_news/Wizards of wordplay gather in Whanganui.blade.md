@@ -28,7 +28,7 @@ gallery-image-5:
 <p class="element element-paragraph">That is not even the longest time Butler has spent playing Scrabble.</p>
 <p class="element element-paragraph">To celebrate the new millennium, Butler and Rosie Cleary (ranked 22 in the tournament) got dressed up and played Scrabble for 24 hours in New Plymouth.</p>
 <p class="element element-paragraph">Butler, Cleary and Andelina McLean (ranked 13) are three of 19 Whanganui Scrabble Club members who play at the Gonville Library every Monday.</p>
-<p class="element element-paragraph">Competitors will be visiting the River City from as far south as Dunedin and as far north as WhangÄrei.</p>
+<p class="element element-paragraph">Competitors will be visiting the River City from as far south as Dunedin and as far north as Whangārei.</p>
 <p class="element element-paragraph">The love of Scrabble has taken Butler all over the world, including to North America in 1985, where she met the inventor of the game, Alfred Mosher Butts.</p>
 <p class="element element-paragraph">"He thought we were all crazy. He never expected his game to go anywhere like it has," Butler said.</p>
 <p class="element element-paragraph">"To think, at that time, people would travel from Australia to Boston to play Scrabble."</p>

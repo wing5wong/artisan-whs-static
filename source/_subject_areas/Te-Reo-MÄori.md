@@ -1,4 +1,4 @@
 ---
-title: Te Reo MÄori
+title: Te Reo Māori
 faculty: Languages
 ---

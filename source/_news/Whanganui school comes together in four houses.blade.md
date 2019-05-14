@@ -21,7 +21,7 @@ gallery-image-5:
 <p class="element element-paragraph">Whanganui High School had a house system in the 1970s, but no one could remember when it lapsed. Mr McAllen expected reviving it would be make for an exciting change.</p>
 <p class="element element-paragraph">"I think a school this size really needs a house system for house spirit, school spirit, collaboration, competition and a sense of identity," he said.</p>
 <p class="element element-paragraph">The students were put into houses before the school year began, with efforts made to keep parents, children, siblings and cousins in the same house as each other. The teachers and support staff are in houses too.</p>
-<p class="element element-paragraph">"There are only three people in the school who are not in houses - myself, the assistant principal and the MÄori dean," Mr McAllen said.</p>
+<p class="element element-paragraph">"There are only three people in the school who are not in houses - myself, the assistant principal and the Māori dean," Mr McAllen said.</p>
 <p class="element element-paragraph">The community was consulted about house names and identities. The four chosen are Awa, Maunga, Moana and Whenua.</p>
 <p class="element element-paragraph">Those names were gifted to the school, along with the iwi story of the origin of the Whanganui River. It was welcomed into the school by its Kia Whaiora kapa haka group, with the story carried on a covered board by a group including Pipiana and Tamahau Rowe.</p>
 <p class="element element-paragraph">They were to explain the significance of the house names, and students were to read the story aloud.</p>

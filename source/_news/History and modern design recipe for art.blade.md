@@ -18,7 +18,7 @@ gallery-image-5:
 <p class="element element-paragraph">"The Sisters approached us to develop their visitor's centre at the Home of Compassion in Wellington and add a history room to the convent at Jerusalem," says Ms Frederikse.</p>
 <p class="element element-paragraph">"Working with this group of inspirational women was a life-changing experience."</p>
 <p class="element element-paragraph">Two recent projects have been the National Museum of Waitangi at the Treaty Grounds completed in 2016 and Te Awahou Nieuwe Stroom &ndash; a new cultural tourism and community facility in the Horowhenua last year.</p>
-<p class="element element-paragraph">Te Awahou Nieuwe Stroom, Foxton's multicultural tourism and community centre, showcases MÄori and Dutch life and culture.</p>
+<p class="element element-paragraph">Te Awahou Nieuwe Stroom, Foxton's multicultural tourism and community centre, showcases Māori and Dutch life and culture.</p>
 <p class="element element-paragraph">"I recommend that Whanganui people who haven't been yet take the time to visit," says Ms Frederikse. "It's a wonderful experience and I'm proud to have been part of it."</p>
 <p class="element element-paragraph">Growing up beside the Whanganui River with her art teacher mum, Deb, and landscape gardening dad, Fred, instilled a love of art and design in Lily and her older brother, Gabriel, an artist now based in Auckland.</p>
 <p class="element element-paragraph">"We had regular WWOOFers [Willing Workers on Organic Farms] from all over the world and my parents were involved in local arts, music and environmental groups.</p>

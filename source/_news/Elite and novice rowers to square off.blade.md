@@ -23,7 +23,7 @@ gallery-image-5:
 <p class="element element-paragraph">It is hoped the likes of Whanganui exports <strong>Chris Harris </strong>(former student), who was third in the Billy Webb last year, along with the Gowler sisters &ndash; Kerri and Jackie &ndash; might be able to take part.</p>
 <p class="element element-paragraph">The support race will be the Red Lion Community 8's race &ndash; a 500m sprint open for workplace crews and other organisations, with the winners receiving a $500 bar tab.</p>
 <p class="element element-paragraph">Coaches will be made available to train crews for 4-6 weeks, with crews to have a minimum of two women, and ideally no more than two experienced rowers.</p>
-<p class="element element-paragraph">On the Saturday night before the racing, there will be a free movie night held at PÄkaitore/Moutoa Gardens with a kiwi family film to be confirmed.</p>
+<p class="element element-paragraph">On the Saturday night before the racing, there will be a free movie night held at Pākaitore/Moutoa Gardens with a kiwi family film to be confirmed.</p>
 <p class="element element-paragraph">There will also be spot prizes for the feature race, as well as the Elite Men's and Elite Women's trophies for the respective winners.</p>
 <p class="element element-paragraph">Visit&nbsp;<em>www.billywebbchallenge.co.nz</em>&nbsp;to register.</p>
 <p class="element element-paragraph"><em>By Jared Smith</em><br /><em>Whanganui Chronicle 15/9/18</em></p>

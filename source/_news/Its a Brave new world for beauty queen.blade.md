@@ -13,7 +13,7 @@ gallery-image-5:
 
 <p><span>Jessica Tyson speaking at a recent Brave workshop at Nga Tawa School in Marton. <br /><em>Photo / Supplied</em></span></p>
 <p class="element element-paragraph">Jessica Tyson may seem to have it all - beauty, intelligence, a successful TV journalism career and the Miss World New Zealand title.</p>
-<p class="element element-paragraph">But the stunning 25-year-old from Whanganui has a painful story which she shared on MÄori Television's&nbsp;<em>Native Affairs</em>&nbsp;programme on Monday night.</p>
+<p class="element element-paragraph">But the stunning 25-year-old from Whanganui has a painful story which she shared on Māori Television's&nbsp;<em>Native Affairs</em>&nbsp;programme on Monday night.</p>
 <p class="element element-paragraph">Tyson spoke of the sexual abuse she first suffered at the hands of a family friend as a 7-year-old.</p>
 <p class="element element-paragraph">"I knew it was wrong but I didn't know why," she said.</p>
 <p class="element element-paragraph">"I pretended I was asleep because I didn't want to confront the situation."</p>

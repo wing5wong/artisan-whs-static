@@ -24,7 +24,7 @@ gallery-image-5:
 <p class="element element-paragraph">Kasner said that the competition was a wonderful idea.</p>
 <p class="element element-paragraph">"It's getting these students to read the most recently published young adult fiction and that's exciting for them.</p>
 <p class="element element-paragraph">"They have a love of reading, this challenges them to read a wide variety and to work collaboratively."</p>
-<p class="element element-paragraph">Reading and literacy ManawatÅ« - or ReaLM was the organiser of the event. It is currently having a cup engraved which will be handed over to the winning team soon.</p>
+<p class="element element-paragraph">Reading and literacy Manawatū - or ReaLM was the organiser of the event. It is currently having a cup engraved which will be handed over to the winning team soon.</p>
 <p class="element element-paragraph">Kasner said that now she is aware of the competition, Whanganui High School would be looking at getting more involved next year.</p>
 <p class="element element-paragraph">"But for this year, I'm very impressed, what a lovely group of intelligent and articulate students."</p>
 <p><em>By Jesse King<br />Wanganui Chronicle 2/7/18</em></p>

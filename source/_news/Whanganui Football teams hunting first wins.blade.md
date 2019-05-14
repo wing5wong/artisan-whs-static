@@ -28,7 +28,7 @@ gallery-image-5:
 <p class="element element-paragraph">Despite Hokowhitu having struggled to start the season, City don't take any opponent for granted, Bell said.</p>
 <p class="element element-paragraph">"They may have lost two games, but they're not going to come out and sit down and take three losses on the chin.</p>
 <p class="element element-paragraph">"We are expecting them to come out firing. We need to be smart about it. If we do click and gather that final ball, we've got the ability to put a good handful of goals away."</p>
-<p class="element element-paragraph">The game begins at Wembley Park at 2.45pm, the same time as play will get underway for Athletic who are taking on Red Sox ManawatÅ« at Skoglund Park in Palmerston North.</p>
+<p class="element element-paragraph">The game begins at Wembley Park at 2.45pm, the same time as play will get underway for Athletic who are taking on Red Sox Manawatū at Skoglund Park in Palmerston North.</p>
 <p class="element element-paragraph">Following last weekend's agonising 2-1 loss to North End AFC, Athletic coach Jason King might be forced to dip into the talent of the reserve squad.</p>
 <p class="element element-paragraph">The team has lost Josh Parker for the season after he took up a job in Wellington and they are sweating on the fitness of Jordan Gilmore who took an ankle knock.</p>
 <p class="element element-paragraph">"There are some guys we might take away with us and blood in this game. It will be good for them and it will be interesting to see how they respond on the pitch," King said.</p>
@@ -37,7 +37,7 @@ gallery-image-5:
 <p class="element element-paragraph">However, he remained pleased with the performance overall after he had made big positional changes within the squad.</p>
 <p class="element element-paragraph">"We created some good opportunities, we just didn't take them. We created those chances, we put one away, but we were taking other chances that went slightly wide," King said.</p>
 <p class="element element-paragraph">"Unfortunately, slightly wide doesn't get on the scoresheet. It's not Aussie Rules where they give you a consolation point for going wide."</p>
-<p class="element element-paragraph">The ManawatÅ« side is sitting in third spot on the table, claiming all six points available to them with two wins to start the season.</p>
+<p class="element element-paragraph">The Manawatū side is sitting in third spot on the table, claiming all six points available to them with two wins to start the season.</p>
 <p class="element element-paragraph">King said the opposition are a bit of an unknown and his side won't know how they play until they get out there on the day.</p>
 <p class="element element-paragraph">"This weekend is important to us, but every weekend is. It's a long season to go, this is only game three of 16 rounds," he said.</p>
 <p class="element element-paragraph">"We'll continue taking steps forward. I know we've got goals in us and I know we've got wins in us. I'm confident we'll finish off where we want to be."</p>

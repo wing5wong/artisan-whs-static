@@ -28,7 +28,7 @@ gallery-image-5:
 <p>WHS had 80 athletes compete at the WSS with a selection of them being named in the North Island Secondary School Wanganui Athletic Team to compete in April in Tauranga.&nbsp;</p>
 <p><strong><span style="text-decoration: underline;">HIGH ACHIEVERS</span></strong><strong>&nbsp;</strong></p>
 <p><strong>Rose Hird</strong></p>
-<p>At the prestigious 2019 Patillo Whanganui Arts Review, Rose claimed the Whanganui District Council Youth Committee Youth Recognition Award for her painting called &lsquo;RÅhi&rsquo;. This is the third year in a row for Whanganui High School.&nbsp;</p>
+<p>At the prestigious 2019 Patillo Whanganui Arts Review, Rose claimed the Whanganui District Council Youth Committee Youth Recognition Award for her painting called &lsquo;Rōhi&rsquo;. This is the third year in a row for Whanganui High School.&nbsp;</p>
 <p><strong>Adrienne Hunt</strong></p>
 <p>Adrienne has been selected as a member of the NZ Education Youth Advisory Groups for 2019, chosen for her unique perspective and her interest in improving pathways for young people to meet their goals and aspirations.&nbsp;</p>
 <p><strong>Jack Overweel</strong></p>
@@ -37,7 +37,7 @@ gallery-image-5:
 <p>Our motocross champion James Rountree has had outstanding results at three recent events. He won the Junior division at the Whakatane Summercross Competition, then collected two first places at Taranaki&rsquo;s King of the Mountain event (in 14-15 years&rsquo; 250cc class and 15-16 years&rsquo; 125cc class). Continuing his successful streak, at the NZ Grand Prix he picked up two silver medals in these classes and he is also New Zealand&rsquo;s FIM Oceania Representative! Well done, James.&nbsp;</p>
 <p><strong>Renee Teers</strong></p>
 <p>At the recent Speed Skating Asian Championships, Renee Teers gained two top 10 places in the Junior Womens U19 1000m Sprint Final and 20K Elimination. This is on top of her success at the NZ Banked Track National Champs in Timaru where she gained one gold, and 3 silver places for Intermediate Womens events.&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">He Kahukura -</span></strong><strong></strong><strong><span style="text-decoration: underline;">Making stronger connections with WhÄnau<br /></span></strong><em>Partnership - Protection - Participation</em></p>
+<p><strong><span style="text-decoration: underline;">He Kahukura -</span></strong><strong></strong><strong><span style="text-decoration: underline;">Making stronger connections with Whānau<br /></span></strong><em>Partnership - Protection - Participation</em></p>
 <p>Whanaungatanga (relationships)&nbsp;is at the heart of our teaching and learning. Help us to support the student-school-home relationship. &nbsp;Our belief, our journey &ldquo;You succeed, We succeed&rdquo;.&nbsp; &nbsp;</p>
 <p>Want to know more?</p>
 <ul>
@@ -47,8 +47,8 @@ gallery-image-5:
 <li>Ask a teacher at parent-teacher- student conferences what we can do for you</li>
 <li>Ring and speak with one of our He Kahukura team.&nbsp;</li>
 </ul>
-<p>With you and your child we can encourage success<strong> </strong>for your child by using korero and a <em>WhÄnau Education Action Plan. </em>&nbsp;The He Kahukura team, teachers or Deans can take steps to set up successful ways for whÄnau and staff to work together with a focus on student learning, behaviour and engagement.</p>
-<p><em>WhÄnau Education Action Plans </em>provide opportunities for all akonga.<em> </em>When as whÄnau you share your plans for education success we are more likely to achieve student goals collectively. Our focus is to meet the needs of all of our rangitahi. We want to ensure that NgÄ iwi learners achieve success as NgÄ Iwi. We need your support to do this.</p>
+<p>With you and your child we can encourage success<strong> </strong>for your child by using korero and a <em>Whānau Education Action Plan. </em>&nbsp;The He Kahukura team, teachers or Deans can take steps to set up successful ways for whānau and staff to work together with a focus on student learning, behaviour and engagement.</p>
+<p><em>Whānau Education Action Plans </em>provide opportunities for all akonga.<em> </em>When as whānau you share your plans for education success we are more likely to achieve student goals collectively. Our focus is to meet the needs of all of our rangitahi. We want to ensure that Ngā iwi learners achieve success as Ngā Iwi. We need your support to do this.</p>
 <p>We value and continue to develop our Partnership between local iwi and kura. Whanganui High School also works collaboratively between each Secondary kura, sharing our journeys, successes and best practice.&nbsp;</p>
 <p align="center"><em>Naku te rourou nau te rourou ka ora ai te iwi<br /></em><em>With your basket and my basket the people will live<br /></em><em>(insert Photo with caption WHS Kahukura team)</em><strong>&nbsp;</strong></p>
 <p><strong><span style="text-decoration: underline;">PB4L (Positive Behaviour for Learning)</span></strong></p>

@@ -20,5 +20,5 @@ gallery-image-5:
 <p>Am I dreaming?</p>
 </div>
 <p><em>Jessica Tyson</em><br /><em>Miss World New Zealand 2018 Facebook</em></p>
-<p><em><a href="https://www.maoritelevision.com/news/latest-news/jess-tyson-named-miss-oceania-2018">MÄori&nbsp;Television article</a></em></p>
+<p><em><a href="https://www.maoritelevision.com/news/latest-news/jess-tyson-named-miss-oceania-2018">Māori&nbsp;Television article</a></em></p>
 

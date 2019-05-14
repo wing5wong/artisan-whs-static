@@ -27,7 +27,7 @@ gallery-image-5:
 <p class="element element-paragraph">"Street art is a great way to rejuvenate our town centre as it evokes an emotional response and stimulates discussion, creating connections between people," Young said.</p>
 <p class="element element-paragraph">A programme has been put in place to give seven local student artists in years 12-13 or in tertiary study the chance to be mentored by the Whanganui Walls artists.</p>
 <p class="element element-paragraph">Selected student artists will be paired with a street artist on Thursday and Friday to learn skills and techniques.</p>
-<p class="element element-paragraph">Brochures for the Whanganui Walls street art festival are available at the i-SITE Visitor Information Centre at 31 TaupÅ Quay.</p>
+<p class="element element-paragraph">Brochures for the Whanganui Walls street art festival are available at the i-SITE Visitor Information Centre at 31 Taupō Quay.</p>
 <p class="element element-paragraph">Whanganui District Council arts advisor Riah King-Wall said council was keen to support Whanganui Walls and Whanganui &amp; Partners with the event.</p>
 <p class="element element-paragraph">"A key goal in the council's proposed arts and culture strategic plan is to promote engagement in the arts for everyone in our community, and street art really fits well with that," she said.</p>
 <div class="element element-image">

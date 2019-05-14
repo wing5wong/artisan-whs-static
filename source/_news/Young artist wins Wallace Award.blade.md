@@ -21,7 +21,7 @@ gallery-image-5:
 <p class="element element-paragraph">Mr Hall said Tokorangi was a Year 12 student in his first year of print making.</p>
 <p class="element element-paragraph">"He is an exceptional talent - he has taken to the medium very quickly," he said.</p>
 <p class="element element-paragraph">The black ink print shows a reclining youth with eyes closed and apparently listening to something while his phone and headphones lie abandoned on the floor.</p>
-<p class="element element-paragraph">Outside, a group of tohorÄ (whales) swim by with the sun glinting off their backs.</p>
+<p class="element element-paragraph">Outside, a group of tohorā (whales) swim by with the sun glinting off their backs.</p>
 <p class="element element-paragraph">Paikea is the legendary ancestor of the Ngati Porou tribe who inspired Witi Ihimaera's 1987 novel and the 2003 film Whale Rider.</p>
 <p class="element element-paragraph">The Wallace Art awards were initiated by Sir James Wallace who began collecting New Zealand art, particularly that of emerging artists, in the 1960s.</p>
 <p class="element element-paragraph">In 1992 he transferred his collection to a newly formed charitable trust and continued to fund it so that it could continue to add to the collection and support the arts in New Zealand.</p>

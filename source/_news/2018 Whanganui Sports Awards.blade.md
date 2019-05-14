@@ -68,7 +68,7 @@ gallery-image-5:
 <p class="element element-paragraph"><span>"We had quite a good season and won when it counts," he said.<br /><br /></span></p>
 <h4 class="element element-paragraph">Award Winners</h4>
 <p class="element element-paragraph"><strong>NZME Services to Sport Recognition:</strong> Amanda Cornforth (Special Olympics); Andrew Murray (Football); <strong>Charlie Brown (Football, Futsal);</strong> Eddie Tofa (Boxing); Ethan Gillespie (Hockey); Jason King (Football); Lance Brown (Softball); Linda Cornforth (Special Olympics).</p>
-<p class="element element-paragraph">Rivercity Gas Disabled Sportsperson Recognition: Erin Gale (Equestrian); Judith Bradley (Indoor Bowls, Bocce); Rachel MÄia (Rock Climbing, Paraclimbing); Renee Onishenko (Equestrian).</p>
+<p class="element element-paragraph">Rivercity Gas Disabled Sportsperson Recognition: Erin Gale (Equestrian); Judith Bradley (Indoor Bowls, Bocce); Rachel Māia (Rock Climbing, Paraclimbing); Renee Onishenko (Equestrian).</p>
 <p class="element element-paragraph">David Jones Motors Masters Award: Martin Pennefather (Cricket).</p>
 <p class="element element-paragraph">Stihl Shop Wanganui Club of the Year: Kaierau Netball Club.</p>
 <p class="element element-paragraph"><strong>Mars Petcare Coach of the Year:</strong> <strong>Andrew Spence (Hockey).</strong></p>

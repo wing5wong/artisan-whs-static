@@ -24,7 +24,7 @@ gallery-image-5:
 <p class="element element-paragraph"><span>Parker will first head to Putiki Marae for a powhiri where there would also be representatives from the Samoan community.</span></p>
 <p class="element element-paragraph">He will visit <strong>Whanganui High School</strong> and later in the week spend a couple of days in the bush learning about hunting.</p>
 <p class="element element-paragraph">"I love fishing so the only other thing missing is the hunting. So I'm looking forward to actually getting out there doing some hunting, camping out where we are going and actually learning."</p>
-<p class="element element-paragraph">The Whanganui visit hit national headlines when it was first announced with the High School visit originally advertised as a "closed motivational session for MÄori and Pasifika boys" and their dads causing outrage.</p>
+<p class="element element-paragraph">The Whanganui visit hit national headlines when it was first announced with the High School visit originally advertised as a "closed motivational session for Māori and Pasifika boys" and their dads causing outrage.</p>
 <p class="element element-paragraph">But it was never Parker or his team's intention and the school later confirmed it would be open to all students.</p>
 <p class="element element-paragraph">Parker said that if he could inspire some of Whanganui's kids, he'd be happy.</p>
 <p class="element element-paragraph">"I'm looking forward to actually meeting all the students and just giving back because I know there's a lot of support for myself and my team.</p>

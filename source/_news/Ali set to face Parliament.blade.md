@@ -26,6 +26,6 @@ gallery-image-5:
 <p class="element element-paragraph">"I don't think health is underfunded. It's probably more about the distribution of funds. There's lots of middle management at the moment. They did try to cut middle management not long ago, but they're just seeping back in."</p>
 <p class="element element-paragraph">Ali reads a lot, and listens to speeches and debates online. On YouTube she's a follower of a confrontational British author and columnist, the late Christopher Hitchens.</p>
 <p class="element element-paragraph">She's studying politics, economics, history and social studies, gets involved in drama and has been prominent at Whanganui's last three model United Nations. She was a winner twice, and a member of the best delegation once.</p>
-<p class="element element-paragraph">Next year she will be a boarder at NgÄ Tawa Diocesan School in Marton, and expects to get involved in its debating group.</p>
+<p class="element element-paragraph">Next year she will be a boarder at Ngā Tawa Diocesan School in Marton, and expects to get involved in its debating group.</p>
 <p class="element element-paragraph"><em>By Laurel Stowell</em><br /><em>Whanganui Chronicle 21/11/18</em></p>
 

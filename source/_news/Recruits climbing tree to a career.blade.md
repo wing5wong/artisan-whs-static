@@ -14,7 +14,7 @@ gallery-image-5:
 <p><span><img src="https://i.prcdn.co/img?regionKey=gYyjnHnBorb3wX5CxtEs8w%3d%3d" alt="" /></span></p>
 <p><span>Embarking on aboricultural apprentice training are (from left) Kieron Te Awhe, Richard Te Ngahue (Tree Truck director), Wiremu Hipango, Dom Steenstra (Primary ITO training adviser) and former WHS student Matthew Walker.</span></p>
 <p>Three new Whanganui apprentices are enrolled in a programme to help them progress from "groundies" to crew supervisors in the aboricultural industry.</p>
-<p>Kieron Te Awhe, Wiremu Hipango and Matthew Walker work for Tree Truck, owned by Richard and Lynn Te Ngahue, and are the first apprentices in the Whanganui, ManawatÅ« and Taranaki region to be signed up as New Zealand Apprentices in the new Primary ITO (PITO) arboriculture programme.</p>
+<p>Kieron Te Awhe, Wiremu Hipango and Matthew Walker work for Tree Truck, owned by Richard and Lynn Te Ngahue, and are the first apprentices in the Whanganui, Manawatū and Taranaki region to be signed up as New Zealand Apprentices in the new Primary ITO (PITO) arboriculture programme.</p>
 <p>The programme, designed by PITO and endorsed by the arboricultural industry, provides a clear framework of progressive on-the-job training for the range of roles in the industry.</p>
 <p>"Communication skills and team work are embedded in the new programme which is vital for operating a successful business," said PITO training adviser Dom Steenstra.</p>
 <p>Richard and Lynn Te Ngahue said they embraced apprenticeship training as part of their business philosophy.</p>

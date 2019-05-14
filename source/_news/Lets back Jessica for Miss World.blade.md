@@ -15,10 +15,10 @@ gallery-image-5:
 <p class="element element-paragraph"><strong>Jessica Tyson (former WHS student) sends love to her hometown Whanganui from the Miss World pageant in China.</strong></p>
 <p class="element element-paragraph">Tyson is vying for the Miss World title with 117 international contestants and says she is making some "wonderful new friends" among her competitors and the locals she has met.</p>
 <p class="element element-paragraph">"I'm so excited to be here and represent our beautiful country. It's been a huge dream of mine to come here so I'm living my dream," she says.</p>
-<p class="element element-paragraph">The 25-year-old MÄori Television reporter and presenter made the top 30 in the Top Model competition at the pageant.</p>
+<p class="element element-paragraph">The 25-year-old Māori Television reporter and presenter made the top 30 in the Top Model competition at the pageant.</p>
 <p class="element element-paragraph">"Being chosen was such a huge honour for me because I know how difficult it is to place in this section, considering there were 120 stunning girls who hit the runway during the show."</p>
 <p class="element element-paragraph">She is now calling on her hometown supporters to vote for her in the Multimedia Head to Head contest.</p>
-<p class="element element-paragraph">As part of the challenge, Tyson gave a TV interview and spoke about why she's proud of her MÄori culture.</p>
+<p class="element element-paragraph">As part of the challenge, Tyson gave a TV interview and spoke about why she's proud of her Māori culture.</p>
 <p class="element element-paragraph">"In New Zealand, there is sometimes a negative perception about indigenous people and so being able to use my voice to showcase people in a positive light is so rewarding and being able to showcase the wonderful things that they are doing," she said.</p>
 <p class="element element-paragraph">"Back home we have doctors who are creating groundbreaking research to help thousands of people within our communities.</p>
 <p class="element element-paragraph">"We have sportswomen and sportsmen winning top international awards overseas.</p>

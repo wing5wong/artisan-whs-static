@@ -1,9 +1,9 @@
 ---
 title: "Whanganui wallop Evergreens"
 date: 2018-08-28
-description: "The victorious Whanganui women with their ManawatÅ« Women's Premier Reserve hockey trophy..."
+description: "The victorious Whanganui women with their Manawatū Women's Premier Reserve hockey trophy..."
 featured-image: 
-excerpt: "The victorious Whanganui women with their ManawatÅ« Women's Premier Reserve hockey trophy."
+excerpt: "The victorious Whanganui women with their Manawatū Women's Premier Reserve hockey trophy."
 gallery-image-1: 
 gallery-image-2: 
 gallery-image-3: 
@@ -11,9 +11,9 @@ gallery-image-4:
 gallery-image-5: 
 ---
 
-<p><span>The victorious Whanganui women (including WHS students'&nbsp;<strong>Charlotte Baker, Olivia Smith, Chantelle de Koning and Lucy Skedgwell; along with the WHS Girls 1st XI Coach, Melissa Goff</strong>) with their ManawatÅ« Women's Premier Reserve hockey trophy. <br />Photo / Supplied</span></p>
+<p><span>The victorious Whanganui women (including WHS students'&nbsp;<strong>Charlotte Baker, Olivia Smith, Chantelle de Koning and Lucy Skedgwell; along with the WHS Girls 1st XI Coach, Melissa Goff</strong>) with their Manawatū Women's Premier Reserve hockey trophy. <br />Photo / Supplied</span></p>
 <p class="element element-paragraph">They did it.</p>
-<p class="element element-paragraph">The Whanganui women beat High School Hockey Club Evergreens on Saturday to become the ManawatÅ« Women's Premier Reserve hockey champions.</p>
+<p class="element element-paragraph">The Whanganui women beat High School Hockey Club Evergreens on Saturday to become the Manawatū Women's Premier Reserve hockey champions.</p>
 <p class="element element-paragraph">And it was convincing.</p>
 <p class="element element-paragraph">When the final whistle blew in Palmerston North, the scoreboard read 5-0 and the Whanganui women celebrated a season of domination.</p>
 <p class="element element-paragraph">Player/coach Colleen Baylis heaped praise on her teammates.</p>
