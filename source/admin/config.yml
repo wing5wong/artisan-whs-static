@@ -86,7 +86,7 @@ collections:
 
 
   - name: "board_members"
-    label: "Board Memberss"
+    label: "Board Members"
     label_singular: "Board Member"
     folder: "source/_board_members"
     create: true

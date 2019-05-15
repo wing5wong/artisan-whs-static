@@ -1,6 +1,6 @@
 ---
 title: Mrs Pirihira Cribb
-position: Co-opted Member
+position: Member
 category: Co-opted Member
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1556755739/BoT/cribb.jpg
