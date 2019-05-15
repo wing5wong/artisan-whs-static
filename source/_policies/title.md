@@ -70,5 +70,49 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683537/School%20Policies/3.13---Anti-Violence_-Abuse_-Bullying-Police---October-2018.pdf
         policy: '3.13 Anti-Violence, Abuse and Bullying'
     policyArea: 3. Personnel
+  - policies:
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693558/School%20Policies/4.1---Financial-Management_-updated-November-2016.pdf
+        policy: 4.1 Financial Management
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/4.2---Investments_-updated-November-2016.pdf
+        policy: 4.2 Investments
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693557/School%20Policies/4.3---Fundraising_-updated-November-2016.pdf
+        policy: 4.3 Fundraising
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/4.4--Property-Management---updated-June-2015.pdf
+        policy: 4.4 Property Management
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/4.5---Sensitive-Expenditure_-updated-August-2016.pdf
+        policy: 4.5 Sensitive Expenditure
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/4.6---Theft-and-Fraud-Prevention_-updated-September-2016.pdf
+        policy: 4.6 Theft and Fraud Protection
+    policyArea: 4. Finance and Property
+  - policyArea: 5. Health and Safety
+  - policies:
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.2-Attendance_-updated-April-2018.pdf
+        policy: 6.2 Attendance
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.4-Privacy_-updated-April-2018.pdf
+        policy: 6.4 Privacy
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.5---CCTV.pdf
+        policy: 6.5 CCTV
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.6-Copyright--Licences_-updated-July-2018.pdf
+        policy: 6.6 Copyright and Licences
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.7-School-Uniform_-updated-June-2018.pdf
+        policy: 6.7 School Uniform
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.8-International-Students_-updated-May-2018.pdf
+        policy: 6.8 International Students
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.9-ESL-Student_-updated-May-2018.pdf
+        policy: 6.9 English for Second Language Speakers (ESL)
+    policyArea: 6. Administration
 ---
 
