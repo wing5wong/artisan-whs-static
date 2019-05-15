@@ -1,6 +1,10 @@
 ---
 title: Mr P. Turner
-position: 
+position: Deputy Principal (Whenua House)
 departments:
   - Mathematics
+  - Deputy Principal
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1557888924/staff/20181019-_MB66412_r.jpg
 ---
+
