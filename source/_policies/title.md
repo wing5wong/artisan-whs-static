@@ -90,7 +90,44 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/4.6---Theft-and-Fraud-Prevention_-updated-September-2016.pdf
         policy: 4.6 Theft and Fraud Protection
     policyArea: 4. Finance and Property
-  - policyArea: 5. Health and Safety
+  - policies:
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.1--Health-and-Safety-Policy_-updated-October-2018.pdf
+        policy: 5.1 Health and Safety
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693560/School%20Policies/5.2--Emergencies-Policy-_-updated-October-2018.pdf
+        policy: 5.2 Emergencies
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693560/School%20Policies/5.3--Post-Disaster-Survival-Policy_-updated-October-2018.pdf
+        policy: 5.3 Post Disaster Survival
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/5.4--Student-Discipline-Policy-_-updated-November-2016.pdf
+        policy: 5.4 Student Discipline
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693560/School%20Policies/5.5--Sexuality-Education-Policy_-updated-August-2018.pdf
+        policy: 5.5 Sexuality Education
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693561/School%20Policies/5.6--Drugs-Policy_-updated-April-2018.pdf
+        policy: 5.6 Drugs
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693561/School%20Policies/5.8-Student-Related-Transport.updated-Feb-2018.pdf
+        policy: 5.8 Student Related Transport
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.9-Infectious-Diseases.updated-Feb-2018.pdf
+        policy: 5.9 Infectious Diseases
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.10-Guidance_-updated-May-2018.pdf
+        policy: 5.10 Guidance
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.11-Child-Protection-Policy-in-Schools_-April-2018.pdf
+        policy: 5.11 Child Protection Policy
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.12-Dealing-with-Child-Abuse-Allegations-against-Employees-in-Schools_-April-2018.pdf
+        policy: 5.12 Dealing with Child Abuse Allegations
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/5.13-Physical-Restraint-Policy_-October-2018.pdf
+        policy: 5.13 Physical Restraint
+    policyArea: 5. Health and Safety
   - policies:
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.2-Attendance_-updated-April-2018.pdf
