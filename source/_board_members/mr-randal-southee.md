@@ -2,6 +2,8 @@
 title: Mr Randal Southee
 position: Board Chairperson
 category: Board Member
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1557888924/staff/20181019-_MB66417_r.jpg
 ---
 I was elected onto the Whanganui High School Board in 2013, having previously been on the Board of Trustees for St John’s Hill School. Currently, I have my eldest son at Whanganui High School in Year 12 and another starting next year, so I am keen to continue to contribute to the School community.
 
