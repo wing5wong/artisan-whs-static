@@ -11,10 +11,11 @@
 
 
 @foreach($facilities as $facility)
+<details>
 <h2 class="decorated d-table mt-5 mb-2">{{$facility->title}}</h2> 
 
 {!! $facility !!}
-
+</summary>
 @endforeach
 <hr>
 
