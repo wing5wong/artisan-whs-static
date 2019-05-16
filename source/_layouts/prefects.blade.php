@@ -10,8 +10,11 @@
     <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
 
+@foreach($prefects->groupBy('category') as $these=>$people)
 
-
+<h2>{!! $these !!}</h2>
+{!! $people->last()->title !!}
+@endforeach
 
     
     <hr>
