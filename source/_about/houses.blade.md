@@ -10,10 +10,39 @@ intro: >-
 button_text: Read About Our House System
 ---
 
-The current house points can be found on the <a href="https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home">WHS House Competitions Page</a>
+
+<div class="row">
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQA01EppZLodqfjf_XmOUDtSgdnanWAoj3QnsMFj1-Sob8rFwZRI7HWdrPiE-Pnh2yyWZJAAFVGt1U3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <div class="col-sm-12 col-md-6 col-lg-6">
+    <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVGJ0UYc_IS4RSS7ZmgVCA5bs5NECQFtaupDQCN_Z6yMUxcqatIXYZjKJWPpeYFzNqN_MdlCu4kCyR/pubchart?oid=2093727240&amp;format=interactive"></iframe>
+  </div>
+
+  <div class="col-sm-12 col-md-6 col-lg-6">
+<iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVGJ0UYc_IS4RSS7ZmgVCA5bs5NECQFtaupDQCN_Z6yMUxcqatIXYZjKJWPpeYFzNqN_MdlCu4kCyR/pubchart?oid=1613005115&amp;format=interactive"></iframe>
+  </div>
+
+  
+  <div class="col-sm-12 col-md-6 col-lg-6">
+    <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVGJ0UYc_IS4RSS7ZmgVCA5bs5NECQFtaupDQCN_Z6yMUxcqatIXYZjKJWPpeYFzNqN_MdlCu4kCyR/pubchart?oid=1346987845&amp;format=interactive"></iframe>
+  </div>  
+  
+  <div class="col-sm-12 col-md-6 col-lg-6">
+    <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVGJ0UYc_IS4RSS7ZmgVCA5bs5NECQFtaupDQCN_Z6yMUxcqatIXYZjKJWPpeYFzNqN_MdlCu4kCyR/pubchart?oid=1030285727&amp;format=interactive"></iframe>
+  </div>
+
+<!-- 
+  <div class="col-sm-12 col-md-6 col-lg-6">
+    <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVGJ0UYc_IS4RSS7ZmgVCA5bs5NECQFtaupDQCN_Z6yMUxcqatIXYZjKJWPpeYFzNqN_MdlCu4kCyR/pubchart?oid=2005012912&amp;format=interactive"></iframe>
+  </div> -->
+
+  <div class="col-sm-12 col-md-12 col-lg-12">
+    <iframe width="1200" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVGJ0UYc_IS4RSS7ZmgVCA5bs5NECQFtaupDQCN_Z6yMUxcqatIXYZjKJWPpeYFzNqN_MdlCu4kCyR/pubchart?oid=1643169405&amp;format=interactive"></iframe>
+  </div>
+
+</div>
+
+
 
 
 ## Te Pakimaero o Te Awa o Whanganui. 

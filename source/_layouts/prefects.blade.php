@@ -13,6 +13,7 @@
 @foreach($prefects->groupBy('category') as $these=>$people)
 
 <h2>{!! $these !!}</h2>
+<img src="{{$people->last()->image}}" />
 {!! $people->last()->title !!}
 @endforeach
 

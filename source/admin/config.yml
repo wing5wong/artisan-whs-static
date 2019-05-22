@@ -427,7 +427,7 @@ collections:
         label_singular: "Category"
         name: "category"
         widget: "select"
-        options: ["Head Boy and Girl", "Deputy Head Boy and Girl", "Head of Academia","Head of Culture"," Head of E-Life", "Head of Social","Head of Sport", "Head of Maori", "Head of Pasifika", "Head of International", "Head of Awa House", "Head of Maunga House", "Head of Moana House", "Head of Whenua House" ]
+        options: ["Head Boy and Girl", "Deputy Head Boy and Girl", "Head of Academia","Head of Culture","Head of Community"," Head of E-Life", "Head of Social","Head of Sport", "Head of Maori", "Head of Pasifika", "Head of International", "Head of Awa House", "Head of Maunga House", "Head of Moana House", "Head of Whenua House" ]
         multiple: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Image Filename"
