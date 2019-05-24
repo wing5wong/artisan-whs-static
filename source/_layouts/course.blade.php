@@ -17,8 +17,20 @@
 <h3 class="d-inline">Course Contribution:</h3> {{ $page->contribution }} <br>
 <h3 class="d-inline">Course Assessment:</h3> {{ $page->assessment }} <br>
 
-<h3 class="d-inline">Leads to:</h3> <a href="/courses/{{ $page->leads_to }}/">{{ $page->leads_to }}</a> <br>
+<h3 class="d-inline">Leads to:</h3> @foreach(explode(",", $page->leads_to) as $leads)<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> @endforeach  <br>
 
+<?php
+$courseAssessments = $assessments->filter(function($assessment) use ($page){
+    if(!is_array($assessment->categories)){ return false; }
+    foreach($assessment->categories as $c){
+        if($c == $page->title){
+            return true;
+        }
+    }
+    return false;
+});
+?>
+@if(count($courseAssessments)>0)
 <h3 class="d-inline">Available Standards:</h3>
 Some or all of the following will be offered
 
@@ -32,15 +44,7 @@ Some or all of the following will be offered
     </tr>
 </thead>
 <tbody>
-@foreach($assessments->filter(function($assessment) use ($page){
-    if(!is_array($assessment->categories)){ return false; }
-    foreach($assessment->categories as $c){
-        if($c == $page->title){
-            return true;
-        }
-    }
-    return false;
-}) as $assessment)
+@foreach($courseAssessments as $assessment)
 <tr>
     <td>
         <a href="{{ $assessment->pdf }}">{{ $assessment->title }}</a>
@@ -59,27 +63,30 @@ Some or all of the following will be offered
 @endforeach
 </tbody>
 </table>
-
-
 <br>
+@endif
 
 <h3 class="d-inline">Notes:</h3> {{ $page->notes }}
 
-<hr>
 
-<p>
-    <strong>Last Reviewed: {{ date('F j, Y', $page->date) }}</strong>
+<br>
+Other courses in {{ $page->subject_area }}:
 
-    <br>
+<?php
+$subjectAreaCourses = $courses->filter(function($c) use ($page){
+    return $c->subject_area == $page->subject_area;
+});
+?>
 
-@if($page->tags)
-    @foreach ($page->tags as $tag)
-    <a href="/tags/{{ $tag }}">{{ $tag }}</a> {{ $loop->last ? '' : '-' }} @endforeach
-    @endif
-</p>
+<ul>
+@foreach($subjectAreaCourses as $c)
+<li>
+<a href="{{$c->getPath()}}">{{ $c->title }}</a>
+</li>
+@endforeach
+</ul>
 
 
-<blockquote data-phpdate="{{ $page->date }}">
-    <em>WARNING: This post is over a year old. Some of the information this contains may be outdated.</em>
-</blockquote>
+@include('_partials.lastReviewed')
+
 @endsection

@@ -48,17 +48,7 @@
     @endforeach
 </div>
 
-<hr>
-
-<p>
-    <strong>Last Reviewed: {{ date('F j, Y', $page->date) }}</strong><br> @foreach ($page->tags as $tag)
-    <a href="/tags/{{ $tag }}">{{ $tag }}</a> {{ $loop->last ? '' : '-' }} @endforeach
-</p>
-
-
-<blockquote data-phpdate="{{ $page->date }}">
-    <em>WARNING: This post is over a year old. Some of the information this contains may be outdated.</em>
-</blockquote>
+@include('_partials.lastReviewed')
 
 
 @if ($page->comments)
