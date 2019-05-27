@@ -24,7 +24,7 @@
                <h2 class="mb-2 w-100">
                     {{$for_parents->get($col)["title"]}}
                </h2>
-               <a class="btn btn-outline-dark mt-2" href="{{ $for_parents->get($col)->getPath() }}">More Information</a>
+               <a class="btn btn-outline mt-2" href="{{ $for_parents->get($col)->getPath() }}">More Information</a>
             </div>
          @endforeach
       </div>
@@ -47,7 +47,7 @@
                 {{$for_parents->get($col)["title"]}}
          </h2>
          
-         <a class="btn btn-outline-dark mt-2" href="{{ $for_parents->get($col)->getPath() }}">More Information</a>
+         <a class="btn btn-outline mt-2" href="{{ $for_parents->get($col)->getPath() }}">More Information</a>
      @endforeach
       
    </div>

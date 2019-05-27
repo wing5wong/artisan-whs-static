@@ -1,5 +1,5 @@
 @extends('_layouts.standard') 
-@section('title', $page->title) 
+@section('title', "International") 
 @section('content')
 <h1 class="decorated py-3 mb-4">International</h1>
 

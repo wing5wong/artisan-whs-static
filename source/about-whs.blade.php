@@ -17,7 +17,7 @@
             {{$about->get('principals-message')["title"]}}
         </h2>
         {!! $about->get('principals-message')["intro"] !!}
-        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('principals-message')->getPath() }}">{!! $about->get('principals-message')["button_text"] !!}</a>
+        <a class="btn btn-outline mt-5" href="{{ $about->get('principals-message')->getPath() }}">{!! $about->get('principals-message')["button_text"] !!}</a>
     </div>
 </div>
     @include('_partials.banner.feature-image')
@@ -28,7 +28,7 @@
             {{$about->get('facilities')["title"]}}
         </h2>
         {!! $about->get('facilities')["intro"] !!}
-        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('facilities')->getPath() }}">{!! $about->get('facilities')["button_text"] !!}</a>
+        <a class="btn btn-outline mt-5" href="{{ $about->get('facilities')->getPath() }}">{!! $about->get('facilities')["button_text"] !!}</a>
     </div>
 
     <div class="col p-5 bg-white text-dark shadow-right-inset d-flex flex-column justify-content-around align-items-center">
@@ -36,7 +36,7 @@
             {{$about->get('history')["title"]}}
         </h2>
         {!! $about->get('history')["intro"] !!}
-        <a class="btn btn-outline-dark mt-5" href="{{ $about->get('history')->getPath() }}">{!! $about->get('history')["button_text"] !!}</a>
+        <a class="btn btn-outline mt-5" href="{{ $about->get('history')->getPath() }}">{!! $about->get('history')["button_text"] !!}</a>
     </div>
 </div>
 
@@ -49,7 +49,7 @@
                 {{$about->get('houses')["title"]}}
             </h2>
             {!! $about->get('houses')["intro"] !!}
-            <a class="btn btn-outline-dark mt-5" href="{{ $about->get('houses')->getPath() }}">{!! $about->get('houses')["button_text"] !!}</a>
+            <a class="btn btn-outline mt-5" href="{{ $about->get('houses')->getPath() }}">{!! $about->get('houses')["button_text"] !!}</a>
         </div>
     </div>
     <div class="col text-center text-white d-flex flex-wrap">

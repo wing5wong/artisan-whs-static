@@ -17,7 +17,7 @@
 
     </div>
     <div class="col-sm-12 col-md-6">
-        <a href="mailto:{{$vacancy->email ?: " principal@whs.ac.nz "}}?subject=Application:{{$vacancy->title}}" class="btn btn-outline-dark mb-5">Apply for this position.</a>
+        <a href="mailto:{{$vacancy->email ?: " principal@whs.ac.nz "}}?subject=Application:{{$vacancy->title}}" class="btn btn-outline mb-5">Apply for this position.</a>
     </div>
     <div class="col-12">
         {!! $vacancy !!}

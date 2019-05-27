@@ -5,7 +5,7 @@
     background-attachment: fixed;
     background-size: cover; }
   
-    .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    .navbar-light .navbar-nav > .nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav > .nav-link {
       border-width: 2px 0 0 0;
       border-color: #fff;
       border-style: solid;

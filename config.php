@@ -13,14 +13,31 @@ return [
         'twitter' => 'whanganuihigh',
         'github' => '',
     ],
+    'phone' => [
+        'general' => ['display' => '(06) 349-0178', 'url'=> '06-3490178'],
+        'attendance' => ['display' => '(06) 349-0178', 'url'=> '06-3490177'],
+        'international' => ['display' => '+64-6-349-1181', 'url' => '+64-6-349-1181']
+    ],
+    'social' =>[
+        'facebook' => 'https://www.facebook.com/WhanganuiHigh/',
+        'twitter' => 'https://www.youtube.com/WanganuiHigh/',
+        'youtube' => 'https://twitter.com/whanganuihigh',
+    ],
+
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => '',
         'cloudinary' => 'whanganuihigh',
         'jumprock' => '',
     ],
+    'navigation' => require_once('navigation.php'),
     'collections' => [
-        'announcements',
+        'announcements' => [
+            'path' => 'announcements/{filename}',
+            'sort' => '-date',
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+        ],
         'pages' => [
             'path' => !empty('{customPath}') ?: '{filename}',
             'extends' => '_layouts.post',

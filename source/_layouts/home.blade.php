@@ -45,7 +45,7 @@
       <p class="text-center">
         Whanganui High School will provide a future-focused education which promotes success for all students.
       </p>
-      <a class="mt-5 btn btn-outline-dark" href="/enrolments">More information.</a>
+      <a class="mt-5 btn btn-outline" href="/for-parents">More information.</a>
     </div>
 
 
@@ -84,7 +84,7 @@
       <p class="text-center">
         Whanganui High School has a large number of subjects to choose from with specialist teachers in each department.
       </p>
-      <a class="mt-5 btn btn-outline-dark" href="/curriculum">More information.</a>
+      <a class="mt-5 btn btn-outline" href="/curriculum">More information.</a>
     </div>
 
   </div>
@@ -101,7 +101,7 @@
         <p class="text-center">
           Keep up to date with what's going on at WHS.
         </p>
-        <a class="mt-5 btn btn-outline-dark" href="/news">Read more.</a>
+        <a class="mt-5 btn btn-outline" href="/news-and-events">Read more.</a>
       </div>
     </div>
 
@@ -110,15 +110,11 @@
       <!-- Additional required wrapper -->
       <div class="swiper-wrapper">
         <!-- Slides -->
-        <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url(/images/news-image-width-936-height-500); background-size: cover; width: 100%; height: 500px;">
-          <a href="<pop:permalink />" class="btn btn-light">News Articles 1</a>
+        @foreach($news->take(5) as $article)
+        <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url({{$article->image}}); background-size: cover; width: 100%; height: 500px;">
+        <a href="{{$article->getPath()}}" class="btn btn-light">{{ date('F j, Y', $article->date) }} {{$article->title}}}</a>
         </div>
-        <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url(/images/news-image-width-936-height-500); background-size: cover; width: 100%; height: 500px;">
-          <a href="<pop:permalink />" class="btn btn-light">News Articles 2</a>
-        </div>
-        <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url(/images/news-image-width-936-height-500); background-size: cover; width: 100%; height: 500px;">
-          <a href="<pop:permalink />" class="btn btn-light">News Articles 3</a>
-        </div>
+        @endforeach
 
       </div>
       <div class="swiper-button-next"></div>
