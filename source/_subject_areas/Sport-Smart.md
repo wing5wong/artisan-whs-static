@@ -1,4 +1,4 @@
 ---
 title: Sport Smart
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 ---

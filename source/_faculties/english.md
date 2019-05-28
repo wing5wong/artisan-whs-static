@@ -6,4 +6,3 @@ tags:
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1558646012/faculties/English.jpg
 ---
-in english you write a story

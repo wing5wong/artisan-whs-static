@@ -111,8 +111,8 @@
       <div class="swiper-wrapper">
         <!-- Slides -->
         @foreach($news->take(5) as $article)
-        <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background-image: url({{$article->image}}); background-size: cover; width: 100%; height: 500px;">
-        <a href="{{$article->getPath()}}" class="btn btn-light">{{ date('F j, Y', $article->date) }} {{$article->title}}}</a>
+        <div class="swiper-slide p-5 d-flex align-items-center justify-content-center" style="background: #fff; background-image: url({{$article->image}}); background-size: cover; width: 100%; height: 500px;">
+        <a href="{{$article->getPath()}}" class="btn btn-light">{{$article->title}}</a>
         </div>
         @endforeach
 

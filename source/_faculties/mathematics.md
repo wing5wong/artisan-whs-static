@@ -6,4 +6,3 @@ tags:
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1558644269/faculties/20181129-_MB66669.jpg
 ---
-in maths you do numbers

@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: Semester Courses
 code: DAS1S
 name: Drugs, Alcohol & Sexuality NCEA 1

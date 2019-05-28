@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: Semester Courses
 code: OTE1S
 name: Outdoor Extreme NCEA 1

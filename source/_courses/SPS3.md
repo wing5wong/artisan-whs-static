@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: Sport Smart
 code: SPS3
 name: Sport Smart NCEA 3

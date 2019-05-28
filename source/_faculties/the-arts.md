@@ -6,4 +6,3 @@ tags:
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1558645982/faculties/Visual%20Arts.jpg
 ---
-in the arts you do some painting

@@ -6,5 +6,3 @@ tags:
 image: ''
 intro: WHS Staff
 ---
-
-In digital tech you use a computer

@@ -7,4 +7,3 @@ image: ''
 intro: WHS Staff
 
 ---
-in social sciences you use a maps

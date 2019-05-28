@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: Outdoor Education
 code: OAS1
 name: Outdoor Adventure Skills NCEA 1

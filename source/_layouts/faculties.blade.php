@@ -10,7 +10,8 @@
 
 
 @foreach($faculties as $faculty)
-<h2 class="decorated d-table mt-5 mb-2">{{ $faculty->title }}</h2>
+<details>
+<summary><h2 class="decorated d-table my-5">{{ $faculty->title }}</h2></summary>
 {!! $faculty !!}
 
 
@@ -18,10 +19,10 @@
     @foreach($subject_areas->filter(function($subject_area) use ($faculty){
     return $subject_area->faculty == $faculty->title;
     }) as $subject)
-    <div class="col col-md-6 col-lg-6 mb-5">
+    <div class="col col-md-6 col-lg-6">
     <details>
             
-            <summary>{{ $subject->title }}</summary>
+            <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
         @php
         $subjectCourses = $courses->filter(function($course) use ($subject){
         return $course->subject_area == $subject->title;
@@ -30,7 +31,7 @@
         <ul>
         @foreach($subjectCourses as $course)
         <li>
-            <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->title }}</a>
+            <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
         </li>
         @endforeach
         </ul>
@@ -41,6 +42,7 @@
 
 <br>
 <a href="{{$faculty->getPath()}}" class="btn btn-outline mb-5">More Information</a>
+</details>
 @endforeach
 
 @include('_partials.lastReviewed')

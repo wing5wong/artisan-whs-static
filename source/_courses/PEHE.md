@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: P.E/Health
 code: PEHE
 name: Physical Education Year 9

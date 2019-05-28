@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: Semester Courses
 code: OTI1S
 name: Outdoor Intro NCEA 1

@@ -1,4 +1,4 @@
 ---
 title: Sport & Exercise
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 ---

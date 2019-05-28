@@ -6,4 +6,4 @@ tags:
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1558646877/faculties/20181018-_MB60360.jpg
 ---
-in PE uyou run
+

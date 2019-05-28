@@ -7,4 +7,3 @@ image: ''
 intro: WHS Staff
 
 ---
-in vocational studies you become a worker

@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: Sport & Exercise
 code: SPX2
 name: Sport & Exercise NCEA 2

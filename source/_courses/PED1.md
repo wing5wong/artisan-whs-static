@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: P.E/Sports Science
 code: PED1
 name: Physical Education NCEA 1

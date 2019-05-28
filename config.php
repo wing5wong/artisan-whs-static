@@ -15,7 +15,7 @@ return [
     ],
     'phone' => [
         'general' => ['display' => '(06) 349-0178', 'url'=> '06-3490178'],
-        'attendance' => ['display' => '(06) 349-0178', 'url'=> '06-3490177'],
+        'attendance' => ['display' => '(06) 349-0177', 'url'=> '06-3490177'],
         'international' => ['display' => '+64-6-349-1181', 'url' => '+64-6-349-1181']
     ],
     'social' =>[
@@ -67,6 +67,7 @@ return [
         ],
         'board_members',
         'courses' => [
+            'sort' => ['course_level', 'code'],
             'extends' => '_layouts.course',
             'section' => 'postContent',
         ],

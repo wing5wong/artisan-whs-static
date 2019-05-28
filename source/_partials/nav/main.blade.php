@@ -16,7 +16,7 @@
       <div class="contact navbar-nav w-100 justify-content-center ">
         <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="tel:06-3490178">General Enquiries: {{$page->phone->general->display}}</a>
         <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="tel:06-349-0177">Attendance: {{$page->phone->attendance->display}}</a>
-        <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="tel:+64-6-349-1181">International Enquiries: {{$page->phone->attendance->display}}</a>
+        <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="tel:+64-6-349-1181">International Enquiries: {{$page->phone->international->display}}</a>
         <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="{{$page->social->facebook}}">Facebook</a>
         <a class="nav-item nav-link mx-3 p-3 p-sm-1 " href="{{$page->social->youtube}}">Youtube</a>
         <a class="nav-item nav-link mx-3 p-3 p-sm-1 " href="{{$page->social->twitter}}">Twitter</a>

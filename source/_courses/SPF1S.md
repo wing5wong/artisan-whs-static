@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: Semester Courses
 code: SPF1S
 name: Sport Fitness NCEA 1

@@ -3,31 +3,31 @@
 return [
     'about' => [
         'title' => 'About',
-        'url' => '',
+        'url' => '/about-whs',
         'children' => 
             [
-                ['title' => '',
-                'url' => '',]
+            //     ['title' => '',
+            //     'url' => '',]
             ]
     ],
     'news_and_events' => [
         'title' => 'News and Events',
-        'url' => '',
+        'url' => '/news-and-events',
         'children' => [],
     ],
     'curriculum' => [
         'title' => 'Curriculum',
-        'url' => '',
+        'url' => '/curriculum',
         'children' => [],
     ],
     'for_parents' => [
         'title' => 'Info For Parents',
-        'url' => '',
+        'url' => '/for-parents',
         'children' => [],
     ],
     'international' => [
         'title' => 'International',
-        'url' => '',
+        'url' => '/international',
         'children' => [],
     ],
     // 'contact' => [

@@ -7,4 +7,3 @@ image: ''
 intro: WHS Staff
 
 ---
-in languages you learn foreign languages

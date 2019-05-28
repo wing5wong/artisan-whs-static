@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: P.E/Health
 code: PEH0
 name: Physical Education Year 10

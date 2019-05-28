@@ -1,5 +1,5 @@
 ---
-faculty: Physical Education And Health
+faculty: Physical Education and Health
 subject_area: Outdoor Education
 code: OUT2
 name: Outdoor Education NCEA 2
