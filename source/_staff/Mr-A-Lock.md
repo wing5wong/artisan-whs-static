@@ -1,6 +1,7 @@
 ---
 title: Mr A. Lock
-position: (Sports Co-ordinator - on leave)
+position: '-'
 departments:
-  - Sports
+  - Physical Education and Health
 ---
+
