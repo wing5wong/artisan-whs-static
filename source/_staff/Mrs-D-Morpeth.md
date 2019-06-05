@@ -1,6 +1,6 @@
 ---
 title: Mrs D. Morpeth
-position: (Bursars Office)
+position: Bursars Office
 departments:
   - Support and Ancilliary
 ---

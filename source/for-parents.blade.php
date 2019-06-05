@@ -24,7 +24,7 @@
                <h2 class="mb-2 w-100">
                     {{$for_parents->get($col)["title"]}}
                </h2>
-               <a class="btn btn-outline mt-2" href="{{ $for_parents->get($col)->getPath() }}">More Information</a>
+               <a class="btn btn-light mt-2" href="{{ $for_parents->get($col)->getPath() }}">More Information</a>
             </div>
          @endforeach
       </div>
@@ -36,7 +36,7 @@
                 {{$for_parents->get('edith-wheal-scholarship')["title"]}}
          </h2>
          {{ $for_parents->get('edith-wheal-scholarship')["intro"] }}
-         <a class="btn btn-outline mt-2" href="{{ $for_parents->get('edith-wheal-scholarship')->getPath() }}">More Information</a>
+         <a class="btn btn-light mt-2" href="{{ $for_parents->get('edith-wheal-scholarship')->getPath() }}">More Information</a>
       </div>
    
    <div class="col bg-white p-5 text-center text-green d-flex flex-column justify-content-between align-items-center">
@@ -47,7 +47,7 @@
                 {{$for_parents->get($col)["title"]}}
          </h2>
          
-         <a class="btn btn-outline mt-2" href="{{ $for_parents->get($col)->getPath() }}">More Information</a>
+         <a class="btn btn-light mt-2" href="{{ $for_parents->get($col)->getPath() }}">More Information</a>
      @endforeach
       
    </div>
@@ -58,7 +58,7 @@
          </h2>
          {{$for_parents->get('policies-and-charter')["intro"]}}
 
-         <a class="btn btn-outline mt-2" href="{{ $for_parents->get('policies-and-charter')->getPath() }}">More Information</a>
+         <a class="btn btn-light mt-2" href="{{ $for_parents->get('policies-and-charter')->getPath() }}">More Information</a>
       </div>
    
 </div>

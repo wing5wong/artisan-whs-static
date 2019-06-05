@@ -1,6 +1,6 @@
 ---
 title: Mrs K. Bishop
-position: (Canteen)
+position: Canteen
 departments:
   - Support and Ancilliary
 ---

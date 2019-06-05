@@ -36,7 +36,7 @@
                <h2 class="mb-2 w-100">
                    {{ $col }}
                </h2>
-               <a class="btn btn-outline mt-2" href="/{{$col}}">More Information</a>
+               <a class="btn btn-light mt-2" href="/{{$col}}">More Information</a>
             </div>
          @endforeach
       </div>

@@ -1,6 +1,6 @@
 ---
 title: Mr T. Clark
-position: (Property)
+position: Property
 departments:
   - Support and Ancilliary
 ---

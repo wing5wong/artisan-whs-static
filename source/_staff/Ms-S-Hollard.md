@@ -1,6 +1,6 @@
 ---
 title: Ms S. Hollard
-position: (Main Office)
+position: Main Office
 departments:
   - Support and Ancilliary
 ---

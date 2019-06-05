@@ -20,14 +20,16 @@ foreach([
 
     foreach($slt as $person){
         ?>
-        <article class="col-12 p-5 d-flex justify-content-around align-items-center">
-                <div class="col">
-                  <h2>{{$person->title}}</h2>
+        <article class="col-sm-12 col-md-6 col-lg-6 p-5 d-flex justify-content-around align-items-center">
+            <div class="row">    
+            <div class="col-12">
+                  <h3>{{$person->title}}</h3>
                       <p class="lead">{{$person->position}}</p>
                 </div>
-                <div class="col">
+                <div class="col-12">
                         <img src="{{$person->image}}" alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
                 </div>
+            </div>
               </article>
     <?php
     }

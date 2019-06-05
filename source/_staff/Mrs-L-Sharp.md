@@ -1,6 +1,6 @@
 ---
 title: Mrs L. Sharp
-position: (Science Technician)
+position: Science Technician
 departments:
   - Support and Ancilliary
 ---

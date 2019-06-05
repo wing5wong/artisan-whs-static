@@ -1,6 +1,6 @@
 ---
 title: Mrs S. Crook
-position: (Homestay Co-ordinator)
+position: Homestay Co-ordinator
 departments:
   -  Support and Ancilliary
   -  International

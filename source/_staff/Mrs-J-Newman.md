@@ -1,6 +1,6 @@
 ---
 title: Mrs J. Newman
-position: (Main Office)
+position: Main Office
 departments:
   - Support and Ancilliary
 ---

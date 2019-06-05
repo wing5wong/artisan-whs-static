@@ -1,6 +1,6 @@
 ---
 title: Mr D. Craig
-position: (HOF Science)
+position: HOF Science
 departments:
   - Science
 ---

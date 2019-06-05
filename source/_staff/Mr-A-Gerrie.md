@@ -1,6 +1,6 @@
 ---
 title: Mr A. Gerrie
-position: (Computer Technician)
+position: Computer Technician
 departments:
   - Support and Ancilliary
 ---

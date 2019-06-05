@@ -1,6 +1,6 @@
 ---
 title: Mrs J. Young
-position: (Canteen Manager)
+position: Canteen Manager
 departments:
   - Support and Ancilliary
 ---

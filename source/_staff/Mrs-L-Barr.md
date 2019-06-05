@@ -1,6 +1,6 @@
 ---
 title: Mrs L. Barr
-position: (Student Centre)
+position: Student Centre
 departments:
   - Support and Ancilliary
 ---

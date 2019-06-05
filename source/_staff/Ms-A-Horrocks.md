@@ -1,6 +1,6 @@
 ---
 title: Ms A. Horrocks
-position: (Student Centre)
+position: Student Centre
 departments:
   - Support and Ancilliary
 ---

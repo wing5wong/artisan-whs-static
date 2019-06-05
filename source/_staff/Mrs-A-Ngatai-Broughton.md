@@ -1,6 +1,6 @@
 ---
 title: Mrs A. Ngatai-Broughton
-position: (Canteen)
+position: Canteen
 departments:
   - Support and Ancilliary
 ---

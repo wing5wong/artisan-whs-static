@@ -41,7 +41,7 @@
 </div>
 
 <br>
-<a href="{{$faculty->getPath()}}" class="btn btn-outline mb-5">More Information</a>
+<a href="{{$faculty->getPath()}}" class="btn btn-light mb-5">More Information</a>
 </details>
 @endforeach
 

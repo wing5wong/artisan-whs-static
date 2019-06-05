@@ -1,6 +1,6 @@
 ---
 title: Ms C. Sleyer
-position: (Head of Photography)
+position: Head of Photography
 departments:
   - Art
 ---

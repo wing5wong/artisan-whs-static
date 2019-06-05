@@ -1,6 +1,6 @@
 ---
 title: Mr H. Wilson / Mrs C. Graham
-position: (Deans of Moana House)
+position: Deans of Moana House
 departments:
   - Deans
 ---

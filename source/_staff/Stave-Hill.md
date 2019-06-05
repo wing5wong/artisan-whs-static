@@ -1,6 +1,6 @@
 ---
 title: Stave Hill
-position: (Student Representative)
+position: Student Representative
 departments:
   - Board of Trustees
 ---

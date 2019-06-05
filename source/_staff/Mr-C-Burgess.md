@@ -1,6 +1,6 @@
 ---
 title: Mr C. Burgess
-position: (HOF Mathematics)
+position: HOF Mathematics
 departments:
   - Mathematics
 ---

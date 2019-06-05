@@ -1,6 +1,6 @@
 ---
 title: Ms R. Armstrong
-position: (Head of Drama)
+position: Head of Drama
 departments:
   - Art
 ---

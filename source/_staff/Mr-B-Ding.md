@@ -1,6 +1,6 @@
 ---
 title: Mr B. Ding
-position: (Chinese)
+position: Chinese
 departments:
   -  Languages
   -  International

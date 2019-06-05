@@ -1,6 +1,6 @@
 ---
 title: Mr B. Hunter
-position: (Head of Geography)
+position: Head of Geography
 departments:
   - Social Sciences
 ---

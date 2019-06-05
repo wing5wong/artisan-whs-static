@@ -1,6 +1,6 @@
 ---
 title: Miss L. Simon
-position: (Kapahaka Tutor)
+position: Kapahaka Tutor
 departments:
   - Support and Ancilliary
 ---

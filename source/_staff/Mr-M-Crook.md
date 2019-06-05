@@ -1,6 +1,6 @@
 ---
 title: Mr M. Crook
-position: (HOF Science)
+position: HOF Science
 departments:
   - Science
 ---

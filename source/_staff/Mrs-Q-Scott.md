@@ -1,6 +1,6 @@
 ---
 title: Mrs Q. Scott
-position: (Spanish)
+position: Spanish
 departments:
   - Languages
 ---

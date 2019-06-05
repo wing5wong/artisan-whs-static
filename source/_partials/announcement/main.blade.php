@@ -13,7 +13,7 @@
         {{ $announcement->title }}
     </h2>
     <p>{!! $announcement !!}</p>
-      <a class="btn" href="{{$announcement->getPath()}}">Read the full announcement</a>
+      <a class="btn btn-light" href="{{$announcement->getPath()}}">Read the full announcement</a>
     </div>
   </div>
 @endif

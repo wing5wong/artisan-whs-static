@@ -1,6 +1,6 @@
 ---
 title: Mrs S. Goldsbury
-position: (Library)
+position: Library
 departments:
   - Support and Ancilliary
 ---

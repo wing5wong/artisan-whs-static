@@ -1,6 +1,6 @@
 ---
 title: Ms M. Aki
-position: (Pasifika Tutor)
+position: Pasifika Tutor
 departments:
   - Support and Ancilliary
 ---

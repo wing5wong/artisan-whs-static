@@ -1,6 +1,6 @@
 ---
 title: Mrs R. Westwood
-position: (Student Centre)
+position: Student Centre
 departments:
   - Support and Ancilliary
 ---

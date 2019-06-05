@@ -1,6 +1,6 @@
 ---
 title: Ms P. Buxton
-position: (On Leave)
+position: On Leave
 departments:
   - Science
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mrs R. Walford
-position: (Sports Co-ordinator)
+position: Sports Co-ordinator
 departments:
   - Support and Ancilliary
 ---

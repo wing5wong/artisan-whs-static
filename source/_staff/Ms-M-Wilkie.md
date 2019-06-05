@@ -1,6 +1,6 @@
 ---
 title: Ms M. Wilkie
-position: (HOF Languages)
+position: HOF Languages
 departments:
   - Languages
 ---

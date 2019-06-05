@@ -1,6 +1,6 @@
 ---
 title: Mr S. Couper
-position: (Board Chairperson)
+position: Board Chairperson
 departments:
   - Board of Trustees
 ---

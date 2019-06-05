@@ -1,6 +1,6 @@
 ---
 title: Mrs E. McKnight
-position: (Head of Textiles) - On Leave
+position: Head of Textiles - On Leave
 departments:
   - Technology
 ---

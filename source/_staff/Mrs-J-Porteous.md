@@ -1,6 +1,6 @@
 ---
 title: Mrs J. Porteous
-position: (Photocopying Services)
+position: Photocopying Services
 departments:
   - Support and Ancilliary
 ---

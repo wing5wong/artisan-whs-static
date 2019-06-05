@@ -1,6 +1,6 @@
 ---
 title: Ms B. Stuart
-position: (Spanish)
+position: Spanish
 departments:
   - Languages
 ---

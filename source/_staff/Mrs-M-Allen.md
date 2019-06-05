@@ -1,6 +1,6 @@
 ---
 title: Mrs M. Allen
-position: (HOD Maori)
+position: HOD Maori
 departments:
   - Languages
 ---

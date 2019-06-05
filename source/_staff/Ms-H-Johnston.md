@@ -1,6 +1,6 @@
 ---
 title: Ms H. Johnston
-position: (Science Technician)
+position: Science Technician
 departments:
   - Support and Ancilliary
 ---

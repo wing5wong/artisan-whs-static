@@ -1,6 +1,6 @@
 ---
 title: Mrs A. Ferretti
-position: (French/Spanish)
+position: French/Spanish
 departments:
   -  Languages
   -  International

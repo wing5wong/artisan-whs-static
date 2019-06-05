@@ -45,7 +45,7 @@
       <p class="text-center">
         Whanganui High School will provide a future-focused education which promotes success for all students.
       </p>
-      <a class="mt-5 btn btn-outline" href="/for-parents">More information.</a>
+      <a class="mt-5 btn btn-light" href="/for-parents">More information.</a>
     </div>
 
 
@@ -57,7 +57,7 @@
         which prides itself on caring for individual students in a quality academic environment. The school provides a balanced
         education for its students from Year 9 through to Year 13.
       </p>
-      <a class="mt-5 btn btn-outline-warning" href="/about-whs">Read more.</a>
+      <a class="mt-5 btn btn-light" href="/about-whs">Read more.</a>
     </div>
 
   </div>
@@ -75,7 +75,7 @@
         the big cities and concentrate on learning English and studying to qualify for university. Whanganui High School
         limits the number of students from any one country so that students can have more opportunities to speak English.
       </p>
-      <a class="mt-5 btn btn-outline-warning" href="/international">More information.</a>
+      <a class="mt-5 btn btn-light" href="/international">More information.</a>
     </div>
 
 
@@ -84,7 +84,7 @@
       <p class="text-center">
         Whanganui High School has a large number of subjects to choose from with specialist teachers in each department.
       </p>
-      <a class="mt-5 btn btn-outline" href="/curriculum">More information.</a>
+      <a class="mt-5 btn btn-light" href="/curriculum">More information.</a>
     </div>
 
   </div>
@@ -101,7 +101,7 @@
         <p class="text-center">
           Keep up to date with what's going on at WHS.
         </p>
-        <a class="mt-5 btn btn-outline" href="/news-and-events">Read more.</a>
+        <a class="mt-5 btn btn-light" href="/news-and-events">Read more.</a>
       </div>
     </div>
 

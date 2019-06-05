@@ -1,6 +1,6 @@
 ---
 title: Mr N. Rankin
-position: (Head of Computing)
+position: Head of Computing
 departments:
   - Technology
 ---

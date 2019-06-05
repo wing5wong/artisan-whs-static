@@ -1,6 +1,6 @@
 ---
 title: Ms E. Houltham
-position: (Property)
+position: Property
 departments:
   - Support and Ancilliary
 ---

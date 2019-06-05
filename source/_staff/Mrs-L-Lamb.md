@@ -1,6 +1,6 @@
 ---
 title: Mrs L. Lamb
-position: (Library)
+position: Library
 departments:
   - Support and Ancilliary
 ---

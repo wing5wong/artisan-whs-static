@@ -15,7 +15,7 @@
         <ul>
             @foreach($area["policies"] as $policyDoc)
             <li>
-                <a href="{{$policyDoc[" document "]}}">{{$policyDoc["policy"]}}</a>
+                <a href="{{$policyDoc["document"]}}">{{$policyDoc["policy"]}}</a>
             </li>
             @endforeach
         </ul>

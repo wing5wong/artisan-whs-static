@@ -1,6 +1,6 @@
 ---
 title: Mr S. Anderson
-position: (Network Administration Manager)
+position: Network Administration Manager
 departments:
   - Support and Ancilliary
 ---

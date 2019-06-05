@@ -1,6 +1,6 @@
 ---
 title: Miss B. Waldegrave
-position: (Head of Social Studies)
+position: Head of Social Studies
 departments:
   - Social Sciences
 ---

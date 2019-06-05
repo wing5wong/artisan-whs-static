@@ -1,6 +1,6 @@
 ---
 title: Ms V. Rivers
-position: (on leave)
+position: on leave
 departments:
   - Art
 ---

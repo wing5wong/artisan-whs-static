@@ -1,6 +1,6 @@
 ---
 title: Ms M. Kidd
-position: (Canteen)
+position: Canteen
 departments:
   - Support and Ancilliary
 ---

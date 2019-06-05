@@ -1,6 +1,6 @@
 ---
 title: Mrs V. Kasner
-position: (HOF English)
+position: HOF English
 departments:
   - Faculty Heads
 ---

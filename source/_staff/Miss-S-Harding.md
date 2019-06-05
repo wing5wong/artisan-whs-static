@@ -1,6 +1,6 @@
 ---
 title: Miss S. Harding
-position: (Student Centre)
+position: Student Centre
 departments:
   - Support and Ancilliary
 ---

@@ -2,5 +2,5 @@
 title: Mr G. McCullough
 position: 
 departments:
-  - Te Atawhai (Special Needs)
+  - Te Atawhai Special Needs
 ---

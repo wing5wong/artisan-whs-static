@@ -1,6 +1,6 @@
 ---
 title: Mr T. Martin
-position: (Property Manager)
+position: Property Manager
 departments:
   - Support and Ancilliary
 ---

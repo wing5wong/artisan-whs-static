@@ -1,6 +1,6 @@
 ---
 title: Mrs J. Gordon
-position: (French)
+position: French
 departments:
   - Languages
 ---

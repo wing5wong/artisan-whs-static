@@ -1,6 +1,6 @@
 ---
 title: Mrs R. Coker
-position: (Canteen)
+position: Canteen
 departments:
   - Support and Ancilliary
 ---

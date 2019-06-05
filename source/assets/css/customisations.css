@@ -296,7 +296,7 @@
     text-transform: uppercase; }
   
   /* line 298, /css/customisations.scss */
-  .btn {
+  .btn btn-light {
     font-family: "Gotham-Light";
     font-size: 1.25rem;
     text-transform: uppercase; }
@@ -475,7 +475,7 @@
     color: #fff; }
   
   /* line 457, /css/customisations.scss */
-  .btn {
+  .btn.btn-light {
     background-color: #fff;
     color: #111;
     border-image: linear-gradient(135deg, #e4a024, #193663, #a51e22, #1c6c36);
