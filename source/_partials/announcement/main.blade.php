@@ -12,7 +12,6 @@
     <h2 class="text-center">
         {{ $announcement->title }}
     </h2>
-    <p>{!! $announcement !!}</p>
       <a class="btn btn-light" href="{{$announcement->getPath()}}">Read the full announcement</a>
     </div>
   </div>
