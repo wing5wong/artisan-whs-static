@@ -382,9 +382,9 @@ collections:
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Dux X YYYY"}
     - {label: "Date", name: "date", widget: "date"}
-    - label: "Award",
-      name: "award",
-      widget: "select",
+    - label: "Award"
+      name: "award"
+      widget: "select"
       options: [ "Dux Litterarum", "Dux Ludorum", "Dux Artium", "Maori Student Dux", "Heads of School"]
     - {label: "Person 1 Name", name: "person1_name", widget: string }
     - {label: "Person 1 Image", name: "person1_image", widget: image }
