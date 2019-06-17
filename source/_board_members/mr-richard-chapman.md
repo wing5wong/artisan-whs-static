@@ -2,6 +2,8 @@
 title: Mr Richard Chapman
 position: Member
 category: Board Member
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1556755589/BoT/richard-chapman.jpg
 ---
 My wife, Leanne and I have three children. Our two daughters completed their secondary education at Whanganui High School (WHS) and our son is currently enjoying Year 10 at WHS.
 
