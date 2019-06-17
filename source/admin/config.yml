@@ -506,7 +506,19 @@ collections:
         name: "image"
         widget: "image"
         required: false
-
+  
+  - name: "term_dates"
+    label: "Term Dates"
+    label_singular: "Term Date"
+    folder: "source/_term_dates"
+    create: true
+    slug: "{{slug}}"
+  
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Term X"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    
   - name: "galleries"
     label: "Galleries"
     label_singular: "Gallery"

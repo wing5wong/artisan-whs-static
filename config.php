@@ -167,6 +167,7 @@ return [
                 return $page->getFilename();
             },
         ],
+        'term_dates',
         'vacancies',
     ],
     'excerpt' => function ($page, $limit = 250, $end = '...') {
