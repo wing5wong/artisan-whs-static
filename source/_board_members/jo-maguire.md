@@ -2,6 +2,8 @@
 title: Jo Maguire
 position: Member
 category: Board Member
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1556755638/BoT/Jo-Maguire.png
 ---
 Tēnā koutou katoa
 
