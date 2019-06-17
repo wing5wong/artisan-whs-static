@@ -7,9 +7,11 @@
 @yield('postContent')
 
 <ul>
-@foreach ($honours as $h)
+@foreach ($honours->groupBy('award') as $category)
 <li>
-    <h2>{{ date('Y', $h->date) }} {{$h->title}}</h2>
+    <h2>{{$category->first()->award}}</h2>
+
+    <h2>{{ date('Y', $category->first()->date) }} {{$category->first()->title}}</h2>
 </li>
 @endforeach
 </ul>
