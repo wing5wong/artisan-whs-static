@@ -19,6 +19,6 @@ year: "11"
 credits: "18"
 entry_requirements: ""
 course_fees: "Nil"
-leads_to: "DTM2, DTA2 subject to HOF approval."
+leads_to: "DTM2, DTA2"
 duration: ""
 ---

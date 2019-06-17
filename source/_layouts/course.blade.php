@@ -9,13 +9,13 @@
 
 <h3 class="d-inline">Course Type:</h3> {{ $page->type }} <br>
 <h3 class="d-inline">Course credits:</h3> {{ $page->credits }} <br>
-<h3 class="d-inline">Course duration:</h3> {{ $page->duration }} <br>
+<h3 class="d-inline">Course duration:</h3> {{ $page->course_duration }} <br>
 
-<h3 class="d-inline">Purpose:</h3> {{ $page->purpose }} <br>
+<h3 class="d-inline">Purpose:</h3> {{ $page->background }} <br>
 
-<h3 class="d-inline">Entry Requirements:</h3> {{ $page->requirements }} <br>
-<h3 class="d-inline">Course Contribution:</h3> {{ $page->contribution }} <br>
-<h3 class="d-inline">Course Assessment:</h3> {{ $page->assessment }} <br>
+<h3 class="d-inline">Entry Requirements:</h3> {{ $page->entry_requirements }} <br>
+<h3 class="d-inline">Course Contribution:</h3> {{ $page->course_fees }} <br>
+<h3 class="d-inline">Course Assessment:</h3> {{ $page->assessment_type }} <br>
 
 <h3 class="d-inline">Leads to:</h3> @foreach(explode(",", $page->leads_to) as $leads)<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> @endforeach  <br>
 

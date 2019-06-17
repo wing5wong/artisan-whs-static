@@ -335,15 +335,15 @@ collections:
 
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
-    - {label: "Maori Title", name: "maori_title", widget: "string", default: "Title"}
+    - {label: "Maori Title", name: "maori_title", widget: "string", default: "Title", required: false}
     - {label: "Code", name: "code", widget: "string"}
     - {label: "Subject Area", name: "subject_area", required: true, widget: "relation", collection: "subject_areas", searchFields: ["title"], valueField: "title", displayField: [title"]}
-    - {label: "Name", name: "name", widget: "string", required: false}
+    - {label: "Name", name: "name", widget: "string"}
     - {label: "Date", name: "date", widget: "date"}
     - { label: "Year Level", name: year_level, widget: select, options: ["9","10","11","12","13"]}
     
-    - {label: "Purpose", name: "purpose", widget: "text"}
-    - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Purpose", name: "purpose", widget: "text", required: false}
+    - {label: "Body", name: "body", widget: "markdown", required: false}
     - {label: "Credits", name: "credits", widget: "string"}
     - {label: "Type", name: "type", widget: "string"}
     - {label: "Entry Requirements", name: "requirements", widget: "string", required: false}
@@ -355,8 +355,23 @@ collections:
     - { label: "UE Approved", name: "ue_approved", widget: "boolean", required: false, default: false}
     - { label: "Invitation Only", name: "invitation_only", widget: "boolean", required: false, default: false}
     - { label: "Endorsement", name: "endorsement", widget: "boolean", required: false, default: false}
-    - { label: "Available Standards", name: "standards", widget: object, required: false }
+    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "ncea_standards", searchFields: ["code","title"], valueField: "code", displayField: ["code", "title"]}
     - {label: "Notes", name: "notes", widget: "text", required: false}
+
+  - name: "assessments"
+    label: "NCEA Standards"
+    label_singular: "NCEA Standard"
+    folder: "source/_assessments"
+    create: true
+
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Code", name: "code", widget: "string"}
+    - {label: "Description", name: "description", widget: "text"}
+    - {label: "PDF", name: "pdf", widget: "string"}
+    - {label: "Level", name: "level", widget: "string"}
+    - {label: "Credits", name: "credits", widget: "number"}
+    - {label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"]}
 
   - name: "honours"
     label: "Honours Board"
@@ -365,8 +380,16 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Title", name: "title", widget: "string", default: "Dux X YYYY"}
     - {label: "Date", name: "date", widget: "date"}
+    - label: "Award",
+      name: "award",
+      widget: "select",
+      options: [ "Dux Litterarum", "Dux Ludorum", "Dux Artium", "Maori Student Dux", "Heads of School"]
+    - {label: "Person 1 Name", name: "person1_name", widget: string }
+    - {label: "Person 1 Image", name: "person1_image", widget: image }
+    - {label: "Person 2 Name", name: "person2_name", widget: string }
+    - {label: "Person 2 Image", name: "person2_image", widget: image }
 
   - name: "newsletters"
     label: "Newsletters"
