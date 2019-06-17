@@ -2,6 +2,8 @@
 title: Mr Murray Woodhouse
 position: Property
 category: Board Member
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1556755541/BoT/Murray-Woodhouse.png
 ---
 I stood for re-election to the Whanganui High School Board of Trustees as a Trustee with 16 years Board of Trustees experience, serving on the Board of Aotea College, Cullinane College, Churton Primary School and Whanganui High School. I have chaired two Boards for a total of six years, and with twelve years in Local Government as a Porirua City Councillor, bring a wealth of meeting experience to the Board.
 
