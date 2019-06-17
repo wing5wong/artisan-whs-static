@@ -2,6 +2,8 @@
 title: David  MacMillan
 position: Member
 category: Board Member
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1556755688/BoT/David-MacMillan.jpg
 ---
 Having had three terms of experience as an elected Board of Trustees representative, and many more years of experience in Health & Safety, Human Resources and Quality Assurance, I am certain I will provide a valuable addition to the Whanganui High School Board.
 
