@@ -2,7 +2,7 @@
 
 
     <p>
-        <strong>Last Reviewed: {{ date('F j, Y', $page->date) }}</strong><br>
+        <strong>Last Reviewed: @if($page->date) {{ date('F j, Y', $page->date) }} @else Not yet reviewed. @endif</strong><br>
         
     </p>
 
