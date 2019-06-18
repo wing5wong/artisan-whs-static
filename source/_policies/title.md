@@ -29,7 +29,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683533/School%20Policies/2.1--Board-of-Trustees-Consultation-with-the-Community_-updated-Feb-201....pdf
         policy: 2.1 Consultation with the Community
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/2.2-Schools-Self-Review-Policy_-updated-Feb-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1560893173/School%20Policies/2.2_-School_s_Self-Review_Policy_updated_March_2019.pdf
         policy: 2.2 School's Self-Review
     policyArea: 2. Documentation and Self Review
   - policies:
