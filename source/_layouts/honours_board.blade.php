@@ -32,7 +32,7 @@
 @foreach ($honours->groupBy('award')->sortBy('award', 'ASC') as $category)
 <details>
     <summary>
-<h2 class="d-table decorated mt-5">{{$category->first()->award}}</h2>
+<h2 class="d-table decorated mt-5 mb-2">{{$category->first()->award}}</h2>
     </summary>
 <table class="table table-striped table-borderless table-hover">
     <thead>

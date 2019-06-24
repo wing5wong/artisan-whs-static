@@ -73,14 +73,27 @@ return in_array($dept,$s->departments);
     }
 return $string;
 })->toArray();
-if(!empty($filteredStaff)){
-echo "<h2 class='d-table decorated mt-5 mb-2'>" . $dept . "</h2>";
+    ?>
+
+@if(!empty($filteredStaff))
+<details>
+    <summary>
+    <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
+    </summary>
+    <table class="table table-striped table-borderless table-hover">
+    @foreach($filteredStaff as $member)
+        <tr>
+            <td>
+                {{ $member }}
+            </td>
+        </tr>
+    @endforeach
+    </table>
+</details>
+@endif
 
 
-echo implode(", ", $filteredStaff);
-
-}
-
+<?php
 }
 ?>
 
