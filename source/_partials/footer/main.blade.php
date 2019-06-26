@@ -22,34 +22,29 @@ Daily Notices
 
             <li>
               <a href="http://nzcurriculum.tki.org.nz/" target="_blank">
-New Zealand Curriculum
+NZ Curriculum
 </a>
             </li>
 
             <li>
               <a href="http://www.minedu.govt.nz/" target="_blank">
-NZ Ministry of Education
+Ministry of Education
 </a>
             </li>
 
             <li>
               <a href="http://www.nzqa.govt.nz/" target="_blank">
-New Zealand Qualifications Authority (NZQA)
+NZQA
 </a>
             </li>
 
-            <li>
-              <a href="https://www.facebook.com/pages/Wanganui-High-School-Sports/168112976671150" target="_blank">
-WHS Sports Facebook Page
-</a>
-            </li>
           </ul>
         </div>
         <div class="col-6 col-md">
           <h5>Students</h5>
           <ul class="list-unstyled text-small">
             <li>
-              <a href="http://students.wanganuihigh.school.nz/student/index.php" target="_blank">
+              <a href="http://kamar.whs.ac.nz" target="_blank">
 Kamar Portal
 </a>
             </li>
@@ -67,134 +62,24 @@ Office 365
             </li>
 
             <li>
-              <a href="http://nzcurriculum.tki.org.nz/" target="_blank">
-New Zealand Curriculum
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.minedu.govt.nz/" target="_blank">
-NZ Ministry of Education
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.nzqa.govt.nz/" target="_blank">
-New Zealand Qualifications Authority (NZQA)
-</a>
-            </li>
-
-            <li>
-              <a href="https://www.facebook.com/pages/Wanganui-High-School-Sports/168112976671150" target="_blank">
-WHS Sports Facebook Page
-</a>
-            </li>
-
-            <li>
               <a href="http://www.studyit.org.nz/" target="_blank">
 Study It - Study Resources for NCEA Students
 </a>
             </li>
-
-            <li>
-              <a href="http://www.nzhistory.net.nz/" target="_blank">
-NZ History Online
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.teara.govt.nz/" target="_blank">
-Te Ara - New Zealand Encyclopedia
-</a>
-            </li>
           </ul>
         </div>
-        <div class="col-6 col-md">
-          <h5>Parents</h5>
-          <ul class="list-unstyled text-small">
-            <li>
-              <a href="http://students.wanganuihigh.school.nz/student/index.php" target="_blank">
-Kamar Portal
-</a>
-            </li>
-
-            <li>
-              <a href="http://nzcurriculum.tki.org.nz/" target="_blank">
-New Zealand Curriculum
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.minedu.govt.nz/" target="_blank">
-NZ Ministry of Education
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.nzqa.govt.nz/" target="_blank">
-New Zealand Qualifications Authority (NZQA)
-</a>
-            </li>
-
-            <li>
-              <a href="https://www.facebook.com/pages/Wanganui-High-School-Sports/168112976671150" target="_blank">
-WHS Sports Facebook Page
-</a>
-            </li>
-          </ul>
-        </div>
+        
         <div class="col-6 col-md">
           <h5>International</h5>
           <ul class="list-unstyled text-small">
             <li>
               <a href="http://www.education-newzealand.org/" target="_blank">
-Education in NZ - An Insiders Guide to Studying Abroad
+Education in NZ
 </a>
             </li>
-
-            <li>
-              <a href="https://outlook.office365.com/owa/" target="_blank">
-Webmail
-</a>
-            </li>
-
-            <li>
-              <a href="https://portal.office.com/Home" target="_blank">
-Office 365
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.tourism.org.nz/" target="_blank">
-New Zealand Tourism Information
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.newzealand.com/int/" target="_blank">
-New Zealand Destination Website
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.studyit.org.nz/" target="_blank">
-Study It - Study Resources for NCEA Students
-</a>
-            </li>
-
-            <li>
-              <a href="http://www.teara.govt.nz/" target="_blank">
-Te Ara - New Zealand Encyclopedia
-</a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md">
-          <h5>Whanganui/NZ</h5>
-          <ul class="list-unstyled text-small">
             <li>
               <a href="http://whanganuinz.com/" target="_blank">
-Official Wanganui Website
+Wanganui Website
 </a>
             </li>
 
@@ -206,13 +91,44 @@ Wanganui Online
 
             <li>
               <a href="http://www.tourism.org.nz/" target="_blank">
-New Zealand Tourism Information
+NZ Tourism Information
 </a>
             </li>
 
             <li>
               <a href="http://www.newzealand.com/int/" target="_blank">
-New Zealand Destination Website
+NZ Travel Website
+</a>
+            </li>
+
+          </ul>
+        </div>
+        <div class="col-6 col-md">
+          <h5>Social Media</h5>
+          <ul class="list-unstyled text-small">
+              <li>
+                  <a href="https://www.facebook.com/WhanganuiHigh/" target="_blank">
+    WHS Facebook
+    </a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/Whanganui-High-School-International-249702658396182" target="_blank">
+      WHS International Facebook
+      </a>
+                  </li>
+                  <li>
+                      <a href="https://www.facebook.com/whsperformingarts00/" target="_blank">
+        WHS Performing Arts Facebook
+        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/Whanganui-High-School-Visual-Arts-166439157186971/" target="_blank">
+          WHS Visual Arts Facebook
+          </a>
+                      </li>
+            <li>
+              <a href="https://www.facebook.com/pages/Wanganui-High-School-Sports/168112976671150" target="_blank">
+Sports Facebook
 </a>
             </li>
           </ul>

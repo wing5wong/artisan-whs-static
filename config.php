@@ -20,8 +20,8 @@ return [
     ],
     'social' =>[
         'facebook' => 'https://www.facebook.com/WhanganuiHigh/',
-        'twitter' => 'https://www.youtube.com/WanganuiHigh/',
-        'youtube' => 'https://twitter.com/whanganuihigh',
+        'youtube' => 'https://www.youtube.com/WanganuiHigh/',
+        'twitter' => 'https://twitter.com/whanganuihigh',
     ],
 
     'services' => [
@@ -94,6 +94,7 @@ return [
             'extends' => '_layouts.post',
             'section' => 'postContent',
             'tags' => [],
+            'sort' => 'title',
         ],
         'faculties' => [
             'extends' => '_layouts.faculty',

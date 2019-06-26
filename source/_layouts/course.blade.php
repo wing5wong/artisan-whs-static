@@ -23,7 +23,7 @@
 $courseAssessments = $assessments->filter(function($assessment) use ($page){
     if(!is_array($assessment->categories)){ return false; }
     foreach($assessment->categories as $c){
-        if($c == $page->title){
+        if(strtolower($c) == strtolower($page->title)){
             return true;
         }
     }
