@@ -187,7 +187,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Intro", name: "intro", widget: "text"}
       - label: "Image Filename"
         name: "image"
         widget: "image"
