@@ -3,7 +3,8 @@ title: English
 date: 2019-04-02T00:00:00.000Z
 tags:
   - About WHS
-image: ''
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1561592420/faculties/English_Faculty.jpg
 ---
 **Staff: who are we?**
 
