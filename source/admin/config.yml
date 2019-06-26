@@ -367,10 +367,9 @@ collections:
 
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
-    - {label: "Code", name: "code", widget: "string"}
     - {label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayField: [title"]}
     - {label: "Description", name: "description", widget: "text"}
-    - {label: "PDF", name: "pdf", widget: "string"}
+    - {label: "URL", name: "pdf", widget: "string"}
     - {label: "Level", name: "level", widget: "string"}
     - {label: "Credits", name: "credits", widget: "number"}
     - {label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"]}
