@@ -368,6 +368,7 @@ collections:
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
     - {label: "Code", name: "code", widget: "string"}
+    - {label: "Courses", name: "categories", required: false, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayField: [title"]}
     - {label: "Description", name: "description", widget: "text"}
     - {label: "PDF", name: "pdf", widget: "string"}
     - {label: "Level", name: "level", widget: "string"}
