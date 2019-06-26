@@ -292,7 +292,8 @@ collections:
         name: "image"
         widget: "image"
         required: false
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post"}
 
   - name: "faculties"
     label: "Faculties"
