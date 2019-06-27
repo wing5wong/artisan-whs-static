@@ -1,12 +1,13 @@
 ---
 title: Canteen
-date: 2019-04-08T21:56:17.468Z
+date: 2019-06-26T21:56:17.468Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600669/facilities/Canteen_Cropped.jpg
 description: >
-    Our canteen is open for breakfast, lunch and at afternoon break. It is situated behind F Block.
-    A wide variety of healthy and tasty options are available. Hot lunch specials change daily.
+  Our canteen is open for breakfast, lunch and at afternoon break. It is
+  situated behind F Block. A wide variety of healthy and tasty options are
+  available. Hot lunch specials change daily.
 ---
-![](/uploads/5b8c83bcff2a7c03cc00065e/Canteen---combined.jpg)
-
 Our canteen is open for breakfast, lunch and at afternoon break. It is situated behind F Block.
 
 A wide variety of healthy and tasty options are available. Hot lunch specials change daily.
