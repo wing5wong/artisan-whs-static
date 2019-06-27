@@ -14,7 +14,7 @@ title: TTD3
 type: Level 3 Optional
 description: ""
 maori_title: "U.E. Approved"
-background: "To extend students creative and technical skills in many aspects of Textiles and Design. The emphasis is to extend them from Level 2 to become both technically and creatively independent thinkers. Two projects include an outfit for the Secondary Schools Fashion Show and a corset which involves advanced construction. Assessment: Practical projects, workbooks, and research projects."
+body: "To extend students creative and technical skills in many aspects of Textiles and Design. The emphasis is to extend them from Level 2 to become both technically and creatively independent thinkers. Two projects include an outfit for the Secondary Schools Fashion Show and a corset which involves advanced construction. Assessment: Practical projects, workbooks, and research projects."
 year: "13"
 credits: "22"
 entry_requirements: "12 credits in TTD2 or HOF/TIC approval."

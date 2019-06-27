@@ -14,7 +14,7 @@ title: SCEE
 type: Compulsory	 - Full Year
 description: ""
 maori_title: ""
-background: "To develop skills that enable students to generate and test ideas, and observe, investigate and model in order to develop scientific knowledge, understanding and explaining skills."
+body: "To develop skills that enable students to generate and test ideas, and observe, investigate and model in order to develop scientific knowledge, understanding and explaining skills."
 year: "9"
 credits: ""
 entry_requirements: ""

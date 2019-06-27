@@ -14,7 +14,7 @@ title: MPS2
 type: Optional
 description: ""
 maori_title: "MPS3, MAG3, MTA3"
-background: "This course will offer students the chance to develop an understanding in a wider range of statistical topics. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MPS3, MTA3. Topics studied include: Probability, Simulations, Statistical Reports, Inferences and Simultaneous Equations."
+body: "This course will offer students the chance to develop an understanding in a wider range of statistical topics. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MPS3, MTA3. Topics studied include: Probability, Simulations, Statistical Reports, Inferences and Simultaneous Equations."
 year: "12"
 credits: "17"
 entry_requirements: "Algebra parallel test and multivariate data and HOF/TIC approval. Note: Students taking this course need a reasonable standard of literacy. Much of the work involves writing or interpreting statistical reports."

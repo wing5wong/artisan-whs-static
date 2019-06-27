@@ -14,7 +14,7 @@ title: SCE1
 type: Level 1 Compulsory
 description: ""
 maori_title: "BIO2, CHE2, PHY2, SCI2"
-background: "To provide a balanced Science program to include aspects of Biology, Chemistry and Physics; investigations, research, genetics, and inheritance, atoms, acids and bases and rates of reactions, mechanics and energy."
+body: "To provide a balanced Science program to include aspects of Biology, Chemistry and Physics; investigations, research, genetics, and inheritance, atoms, acids and bases and rates of reactions, mechanics and energy."
 year: "11"
 credits: "20"
 entry_requirements: ""

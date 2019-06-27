@@ -14,7 +14,7 @@ title: YTB1S
 type: Semester Course
 description: ""
 maori_title: "Level 2 Digital Media"
-background: "Students will review YouTube practices and develop a money making proposal using YouTube and/or similar online programs. During the course students will develop skills to enable them to create effective and possibly profitable YouTube content."
+body: "Students will review YouTube practices and develop a money making proposal using YouTube and/or similar online programs. During the course students will develop skills to enable them to create effective and possibly profitable YouTube content."
 year: "11"
 credits: "8-12"
 entry_requirements: "Nil"

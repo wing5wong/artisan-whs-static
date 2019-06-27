@@ -14,7 +14,7 @@ title: DVC3
 type: Level 3 Optional
 description: ""
 maori_title: "U.E. Approved"
-background: "The course aims to develop students' Design and Visual Communication ability by solving problems through Design, Modelling and advanced Graphic Communication skills. The course is structured around Design Briefs focusing on Spatial and Product Design. Students will have this opportunity to use CAD and 3D printing."
+body: "The course aims to develop students' Design and Visual Communication ability by solving problems through Design, Modelling and advanced Graphic Communication skills. The course is structured around Design Briefs focusing on Spatial and Product Design. Students will have this opportunity to use CAD and 3D printing."
 year: "13"
 credits: "16"
 entry_requirements: "12 credits in DVC2 and HOF approval."

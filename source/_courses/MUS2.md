@@ -14,7 +14,7 @@ title: MUS2
 type: Level 2 Optional
 description: ""
 maori_title: "MUS3"
-background: "To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context at an advancing level. Performance, Composition, Aural Skills and Musical Knowledge."
+body: "To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context at an advancing level. Performance, Composition, Aural Skills and Musical Knowledge."
 year: "12"
 credits: "18-24"
 entry_requirements: "3 Years previous instrumental tuition and theory and should have completed MUS1 or equivalent. Currently learning an instrument. HOF/TIC approval."

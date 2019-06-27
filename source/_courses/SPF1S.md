@@ -14,7 +14,7 @@ title: SPF1S
 type: Semester Course
 description: ""
 maori_title: "SPX2"
-background: "A practical based course giving opportunities to acquire knowledge and understanding of fitness and exercise activities. Student will demonstrate a number of exercise techniques in using gym equipment, participate in fitness activities related to a sport of their choice and participate in leisure activities."
+body: "A practical based course giving opportunities to acquire knowledge and understanding of fitness and exercise activities. Student will demonstrate a number of exercise techniques in using gym equipment, participate in fitness activities related to a sport of their choice and participate in leisure activities."
 year: "11"
 credits: "12"
 entry_requirements: "A genuine interest in exercise and conditioning"

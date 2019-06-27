@@ -14,7 +14,7 @@ title: MTC1S
 type: Semester Course
 description: ""
 maori_title: "Level 2 Music"
-background: "Sound engineering and music technology is considered today, as being part of a musician's skill set. This course provides introductory knowledge and features, functions and techniques associated with music technology. Students will learn how to set up sound equipment in a performance context, learn the techniques to record audio, midi and operate Digital Audio Workstation (DAW) and use music notation software. This will be linked to composition."
+body: "Sound engineering and music technology is considered today, as being part of a musician's skill set. This course provides introductory knowledge and features, functions and techniques associated with music technology. Students will learn how to set up sound equipment in a performance context, learn the techniques to record audio, midi and operate Digital Audio Workstation (DAW) and use music notation software. This will be linked to composition."
 year: "11"
 credits: "8-14"
 entry_requirements: ""

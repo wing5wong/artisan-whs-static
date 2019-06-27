@@ -14,7 +14,7 @@ title: SOEE
 type: Compulsory	 - Full Year
 description: ""
 maori_title: ""
-background: "Students explore how societies work, and how students can participate and take action as critical, informed and responsible citizens."
+body: "Students explore how societies work, and how students can participate and take action as critical, informed and responsible citizens."
 year: "9"
 credits: ""
 entry_requirements: ""

@@ -14,7 +14,7 @@ title: DAN0
 type: Optional - Half Year
 description: ""
 maori_title: ""
-background: "Students who have some or no experience in movement will be offered the opportunity to explore this strand of the Performing Arts. Students will build and develop group work skills as well as individual skills such as creativity, presentation and performance."
+body: "Students who have some or no experience in movement will be offered the opportunity to explore this strand of the Performing Arts. Students will build and develop group work skills as well as individual skills such as creativity, presentation and performance."
 year: "10"
 credits: ""
 entry_requirements: ""

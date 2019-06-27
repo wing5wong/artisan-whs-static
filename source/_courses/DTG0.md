@@ -14,7 +14,7 @@ title: DTG0
 type: Optional - Half Year
 description: ""
 maori_title: ""
-background: "Courses in Digital Technologies offer the development of knowledge and skills using a wide range of exciting Internet and computing technologies. The courses are designed to ignite a passion for digital technologies, and to lead students into a rewarding and fulfilling future and further studies."
+body: "Courses in Digital Technologies offer the development of knowledge and skills using a wide range of exciting Internet and computing technologies. The courses are designed to ignite a passion for digital technologies, and to lead students into a rewarding and fulfilling future and further studies."
 year: "10"
 credits: ""
 entry_requirements: ""

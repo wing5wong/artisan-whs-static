@@ -14,7 +14,7 @@ title: MTA2
 type: Optional
 description: ""
 maori_title: "MPS3, MTA3, MGC3"
-background: "This course will offer students the chance to develop a wide range of advanced Mathematical skills. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MTA3, MGC3. Topics studied include: Algebra, Co-ordinate Geometry, Calculus, Trigonometry, Functions and Graphs."
+body: "This course will offer students the chance to develop a wide range of advanced Mathematical skills. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MTA3, MGC3. Topics studied include: Algebra, Co-ordinate Geometry, Calculus, Trigonometry, Functions and Graphs."
 year: "12"
 credits: "18"
 entry_requirements: "Algebra parallel test and T.E.G school Examination and HOF/TIC approval."

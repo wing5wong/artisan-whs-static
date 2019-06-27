@@ -14,7 +14,7 @@ title: ENGE
 type: Compulsory - Full Year
 description: ""
 maori_title: ""
-background: "*To explore, understand, use and respond to oral, written and visual language effectively
+body: "*To explore, understand, use and respond to oral, written and visual language effectively
 *To develop critical thinking and literacy skills."
 year: "9"
 credits: ""

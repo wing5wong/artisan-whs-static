@@ -14,7 +14,7 @@ title: DTA2
 type: Level 2 Core
 description: ""
 maori_title: "DTA3, DTM3 subject to HOF approval"
-background: "This course is designed to enable students to gain a broad understanding of the different software applications available today and some skills in using these appropriately. The safe use of computers and the correct use of computers as communication tools will be a feature of this course. Students will develop skills in communication, design, research and problem solving."
+body: "This course is designed to enable students to gain a broad understanding of the different software applications available today and some skills in using these appropriately. The safe use of computers and the correct use of computers as communication tools will be a feature of this course. Students will develop skills in communication, design, research and problem solving."
 year: "12"
 credits: "16-20"
 entry_requirements: "Open entry for Year 12 students, subject to HOD approval but excludes studies in DTS2"

@@ -14,7 +14,7 @@ title: IEL1
 type: Level 1
 description: ""
 maori_title: "IEL2, IEN1"
-background: "To help English as a Second Language students to communicate in simple English and to improve their skills, with particular focus on reading and writing. English Language (EL) standards."
+body: "To help English as a Second Language students to communicate in simple English and to improve their skills, with particular focus on reading and writing. English Language (EL) standards."
 year: "11"
 credits: "20+"
 entry_requirements: ""

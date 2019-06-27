@@ -14,7 +14,7 @@ title: DRAE
 type: One term
 description: ""
 maori_title: ""
-background: "To develop the skills, knowledge and confidence associated with creating and performing work. Drama is offered as a subject at all levels in the school. Students can work towards national qualifications such as achievement standards."
+body: "To develop the skills, knowledge and confidence associated with creating and performing work. Drama is offered as a subject at all levels in the school. Students can work towards national qualifications such as achievement standards."
 year: "9"
 credits: ""
 entry_requirements: ""

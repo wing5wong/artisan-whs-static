@@ -14,7 +14,7 @@ title: MOV1S
 type: Semester Course
 description: ""
 maori_title: ""
-background: "To develop professionalism whilst working and contributing in a film-making team. To develop film-making knowledge and skills. To appreciate the art of film- making."
+body: "To develop professionalism whilst working and contributing in a film-making team. To develop film-making knowledge and skills. To appreciate the art of film- making."
 year: "11"
 credits: "17"
 entry_requirements: "Nil"

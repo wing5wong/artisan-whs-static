@@ -14,7 +14,7 @@ title: SOC2
 type: Level 2 Optional
 description: ""
 maori_title: "SOC3"
-background: "To provide students with knowledge and understanding of how and why changes occur within global societies and consider how social action impacts communities. The course may cover issues such as, Israeli/Palestinian conflict, The Arab Uprising, Hutu and Tutsi and Women's Suffrage, current global human rights issues such as refugees or Boko Haram."
+body: "To provide students with knowledge and understanding of how and why changes occur within global societies and consider how social action impacts communities. The course may cover issues such as, Israeli/Palestinian conflict, The Arab Uprising, Hutu and Tutsi and Women's Suffrage, current global human rights issues such as refugees or Boko Haram."
 year: "12"
 credits: "18"
 entry_requirements: "12 Credits Level 1 Achievement Standards English or 12 credits Level 1 Achievement Standards Social Studies and HOF/TIC approval."

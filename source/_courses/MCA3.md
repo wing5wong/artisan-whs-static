@@ -14,7 +14,7 @@ title: MCA3
 type: Level 3 - Selected Students
 description: ""
 maori_title: "U.E. Approved"
-background: "This course will provide students with an extension course in advance of NCEA level 3, catering for students who work at a faster pace. The teaching is pitched at Merit/Excellence level. It will suit students who are capable of working in excess of NCEA Level 3. (Note: This course can be taken instead of taking both MGC3 and MTA3)"
+body: "This course will provide students with an extension course in advance of NCEA level 3, catering for students who work at a faster pace. The teaching is pitched at Merit/Excellence level. It will suit students who are capable of working in excess of NCEA Level 3. (Note: This course can be taken instead of taking both MGC3 and MTA3)"
 year: "13"
 credits: "27"
 entry_requirements: "Students need to have taken the MCA2 course in Year 12."

@@ -14,7 +14,7 @@ title: MUS0
 type: Optional - Half Year
 description: ""
 maori_title: ""
-background: "To extend students musical skills from their previous learning in Year 9. Students who have not completed Year 9 Music course may apply under special circumstances."
+body: "To extend students musical skills from their previous learning in Year 9. Students who have not completed Year 9 Music course may apply under special circumstances."
 year: "10"
 credits: ""
 entry_requirements: ""

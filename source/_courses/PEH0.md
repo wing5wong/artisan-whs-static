@@ -14,7 +14,7 @@ title: PEH0
 type: Compulsory	 - Full Year
 description: ""
 maori_title: ""
-background: "To provide the opportunity for participation and enjoyment in a wide range of physical activities. These will assist the physical, intellectual and social development of students and aim to foster a continuing involvement in physical activity."
+body: "To provide the opportunity for participation and enjoyment in a wide range of physical activities. These will assist the physical, intellectual and social development of students and aim to foster a continuing involvement in physical activity."
 year: "10"
 credits: ""
 entry_requirements: "Satisfactory completion of PEHE course."

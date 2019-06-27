@@ -14,7 +14,7 @@ title: MCS1S
 type: Semester Course
 description: ""
 maori_title: "MCA2/MCS2"
-background: "This course is optional and it complements the topics already covered in both MCA1 and MTA1 with a focus on improving and extending skills in Algebra, Graphs, Trigonometry and Geometric Reasoning.
+body: "This course is optional and it complements the topics already covered in both MCA1 and MTA1 with a focus on improving and extending skills in Algebra, Graphs, Trigonometry and Geometric Reasoning.
 
 Questions are designed to incorporate a wide range of mathematical topics. Students are encouraged to understand and use a variety of problem solving skills. It is also excellent preparation, targeting Excellence level questions, for NCEA Level 1.  Above all, students who complete the course build resilience, an essential life skill.
 

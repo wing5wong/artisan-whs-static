@@ -14,7 +14,7 @@ title: MCA1S
 type: Semester Course
 description: ""
 maori_title: "MCA2/MCS2"
-background: "Students wishing to take the IGCSE Extended Cambridge Examination take this semester 1 course. The topics covered here are a supplement to those  included in NCEA Level 1.
+body: "Students wishing to take the IGCSE Extended Cambridge Examination take this semester 1 course. The topics covered here are a supplement to those  included in NCEA Level 1.
 
 
 Questions are designed to incorporate a wide range of mathematical topics. Students are encouraged to understand and use a variety of problem solving skills. It is also excellent preparation, targeting Excellence level questions, for NCEA Level 1.  Above all, students who complete the course build resilience, an essential life skill.

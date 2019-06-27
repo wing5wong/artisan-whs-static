@@ -14,7 +14,7 @@ title: DRA0
 type: Optional - Half Year
 description: "Purpose:	Students will be offered the opportunity to explore social issues and gain understanding of themselves and the world the live in. Students will continue to build and develop individual skills"
 maori_title: ""
-background: "Students will be offered the opportunity to explore a variety of ideas and gain understanding of themselves and the world they live in. Students will continue to build and develop individual skills such as creativity, leadership and communication."
+body: "Students will be offered the opportunity to explore a variety of ideas and gain understanding of themselves and the world they live in. Students will continue to build and develop individual skills such as creativity, leadership and communication."
 year: "10"
 credits: ""
 entry_requirements: ""

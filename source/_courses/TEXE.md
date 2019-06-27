@@ -14,7 +14,7 @@ title: TEXE
 type: Year 9 Optional
 description: ""
 maori_title: ""
-background: "To develop students understanding of Technology in a Textiles environment. They will have the opportunity to learn and develop their practical skills while completing creative solutions to given design tasks."
+body: "To develop students understanding of Technology in a Textiles environment. They will have the opportunity to learn and develop their practical skills while completing creative solutions to given design tasks."
 year: "9"
 credits: ""
 entry_requirements: ""

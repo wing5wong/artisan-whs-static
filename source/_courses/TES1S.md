@@ -14,7 +14,7 @@ title: TES1S
 type: Semester Course
 description: ""
 maori_title: "TCE1 (Full year) or TCE2 (HOF approval required)"
-background: "This course is designed to offer students the opportunity to develop practical engineering skills through the manufacture of a set engineering project based on Competenz industry unit standards. The course will focus on first developing understanding of workshop safety and then learning suitable engineering skills to enable the completion of the project work."
+body: "This course is designed to offer students the opportunity to develop practical engineering skills through the manufacture of a set engineering project based on Competenz industry unit standards. The course will focus on first developing understanding of workshop safety and then learning suitable engineering skills to enable the completion of the project work."
 year: "11"
 credits: "12"
 entry_requirements: "TCM0 or MMS0 with a good safety record"

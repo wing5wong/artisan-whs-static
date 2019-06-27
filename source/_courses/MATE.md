@@ -14,7 +14,7 @@ title: MATE
 type: Compulsory	 - Full Year
 description: ""
 maori_title: ""
-background: "To explore relationships in quantities, space, and data and learn to express these relationships in ways that help them to make sense of the world around them."
+body: "To explore relationships in quantities, space, and data and learn to express these relationships in ways that help them to make sense of the world around them."
 year: "9"
 credits: ""
 entry_requirements: ""

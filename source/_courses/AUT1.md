@@ -14,7 +14,7 @@ title: AUT1
 type: Level 1 Optional
 description: ""
 maori_title: "AUT2"
-background: "To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training."
+body: "To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training."
 year: "11"
 credits: "22"
 entry_requirements: "Class size limited. Entry by HOF/TIC approval and a record of safety and responsibility in Years 9 and 10."

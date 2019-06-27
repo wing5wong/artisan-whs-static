@@ -14,7 +14,7 @@ title: ADF1
 type: Level 1 - Optional
 description: ""
 maori_title: "ARD2, APR2, ARP2, PHO2."
-background: "DIGITAL ART FOCUS:
+body: "DIGITAL ART FOCUS:
 This course encompasses the following fields of Art practices each term:
 - Art Design
 - Digital Media

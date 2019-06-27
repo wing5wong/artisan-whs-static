@@ -14,7 +14,7 @@ title: FRE2
 type: Level 2 Optional
 description: ""
 maori_title: "FRE3"
-background: "This course builds on the five communication skills of listening, presenting, interacting, reading and writing in French through increasingly complex and varied texts in different contexts (e.g. health, travel, relationships, work). Students explore the views of others in a range of authentic texts, express and justify their own ideas in French, and analyse ways in which the French language and culture are organised."
+body: "This course builds on the five communication skills of listening, presenting, interacting, reading and writing in French through increasingly complex and varied texts in different contexts (e.g. health, travel, relationships, work). Students explore the views of others in a range of authentic texts, express and justify their own ideas in French, and analyse ways in which the French language and culture are organised."
 year: "12"
 credits: "19-24"
 entry_requirements: "12 credits in FRE1 or HOD approval."

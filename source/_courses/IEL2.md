@@ -14,7 +14,7 @@ title: IEL2
 type: Level 2 Optional
 description: ""
 maori_title: "IEN1/IEN2"
-background: "To develop the English skills of English as a Second Language students with emphasis on straightforward reading and writing. English Language (EL) standards."
+body: "To develop the English skills of English as a Second Language students with emphasis on straightforward reading and writing. English Language (EL) standards."
 year: "12"
 credits: "20+"
 entry_requirements: "ESOL students who need to develop English skills and HOF/TIC approval."

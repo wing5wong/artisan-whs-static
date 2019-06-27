@@ -14,7 +14,7 @@ title: SOC0
 type: Compulsory - Unless selected for SOE0 (Extension)
 description: ""
 maori_title: "Leads to entry into; GEO1, SOC1, ACC1, ECO1, HIS1"
-background: "To provide students with the knowledge and skills required for future studies in Social Science."
+body: "To provide students with the knowledge and skills required for future studies in Social Science."
 year: "10"
 credits: ""
 entry_requirements: "Completion of SOCE (Year 9) Social Science Course."

@@ -14,7 +14,7 @@ title: ENE0
 type: Compulsory	 - Full Year
 description: ""
 maori_title: ""
-background: "To teach students to study, use and enjoy the English language and its literature, communicated orally, visually and in writing, across a range of contexts."
+body: "To teach students to study, use and enjoy the English language and its literature, communicated orally, visually and in writing, across a range of contexts."
 year: "10"
 credits: ""
 entry_requirements: "At least 75% in the Year 9 examination as well as teacher recommendation."

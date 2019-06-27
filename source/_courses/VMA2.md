@@ -14,7 +14,7 @@ title: VMA2
 type: Level 2 Optional
 description: ""
 maori_title: ""
-background: "Students in this course will focus on Mathematics related to the real world. Aspects of the course are not assessed for credit. Any students who has not gained Level 1 Numeracy will have this as a major focus."
+body: "Students in this course will focus on Mathematics related to the real world. Aspects of the course are not assessed for credit. Any students who has not gained Level 1 Numeracy will have this as a major focus."
 year: "12"
 credits: "8"
 entry_requirements: "Class size limited. Interview by teacher in charge required."

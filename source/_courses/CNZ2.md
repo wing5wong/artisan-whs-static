@@ -14,7 +14,7 @@ title: CNZ2
 type: Level 2 Optional
 description: ""
 maori_title: ""
-background: "Students will experience a range of educational and physical activities in and out of the school environment."
+body: "Students will experience a range of educational and physical activities in and out of the school environment."
 year: "12"
 credits: "No"
 entry_requirements: "Only available to International Students. HOF/TIC approval."

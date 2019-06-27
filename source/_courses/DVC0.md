@@ -14,7 +14,7 @@ title: DVC0
 type: Optional - Half Year
 description: ""
 maori_title: ""
-background: "This course teaches drawing skills and design processes. Students will learn new drawing skills, then be asked to apply these skills to a range of stimulating 2D and 3D design tasks. The focus is on learning visual communication skills."
+body: "This course teaches drawing skills and design processes. Students will learn new drawing skills, then be asked to apply these skills to a range of stimulating 2D and 3D design tasks. The focus is on learning visual communication skills."
 year: "10"
 credits: ""
 entry_requirements: ""

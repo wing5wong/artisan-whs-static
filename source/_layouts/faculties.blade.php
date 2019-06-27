@@ -12,8 +12,6 @@
 @foreach($faculties as $faculty)
 <details>
 <summary><h2 class="decorated d-table my-5">{{ $faculty->title }}</h2></summary>
-{!! $faculty !!}
-
 
 <div class="row">
     @foreach($subject_areas->filter(function($subject_area) use ($faculty){

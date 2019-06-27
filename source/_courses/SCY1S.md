@@ -14,7 +14,7 @@ title: SCY1S
 type: Semester Course
 description: ""
 maori_title: "SCG1, SCI2"
-background: "To provide a balanced Science program to include aspects of Biology, Chemistry and Physics; investigations, interpreting information, microorganisms, life processes, electricity and magnetism."
+body: "To provide a balanced Science program to include aspects of Biology, Chemistry and Physics; investigations, interpreting information, microorganisms, life processes, electricity and magnetism."
 year: "11"
 credits: "12"
 entry_requirements: ""

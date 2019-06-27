@@ -14,7 +14,7 @@ title: DAN2
 type: Level 2 Optional
 description: ""
 maori_title: "DAN3"
-background: "Students will further develop their skills in a variety of dance forms. Students will perform in a repertoire of dances and develop choreography with the intention of performing to an audience."
+body: "Students will further develop their skills in a variety of dance forms. Students will perform in a repertoire of dances and develop choreography with the intention of performing to an audience."
 year: "12"
 credits: "22"
 entry_requirements: "12 credits in DAN1 and HOF/TIC approval."

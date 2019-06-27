@@ -14,7 +14,7 @@ title: SPA2
 type: Level 2 Optional
 description: "This course builds on the five communication skills of listening, presenting, interacting, reading and writing in Spanish, through increasingly complex and varied texts in different contexts (e.g. hea"
 maori_title: "SPA3"
-background: "This course builds on the five communication skills of listening, presenting, interacting, reading and writing in Spanish, through increasingly complex and varied texts in different contexts (e.g. health, travel, relationships, work). Students explore the views of others in a range of authentic texts, express and justify their own ideas in Spanish, and analyse ways in which Hispanic language and culture/s are organised."
+body: "This course builds on the five communication skills of listening, presenting, interacting, reading and writing in Spanish, through increasingly complex and varied texts in different contexts (e.g. health, travel, relationships, work). Students explore the views of others in a range of authentic texts, express and justify their own ideas in Spanish, and analyse ways in which Hispanic language and culture/s are organised."
 year: "12"
 credits: "19-24"
 entry_requirements: "12 credits in SPA1 or HOD approval."

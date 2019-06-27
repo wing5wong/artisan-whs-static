@@ -14,7 +14,7 @@ title: VES1S
 type: Semester Course
 description: ""
 maori_title: "Vocational Studies 2 and Vocational Studies 3"
-background: "To equip students with skills they can use in everyday situations in their personal lives and employment."
+body: "To equip students with skills they can use in everyday situations in their personal lives and employment."
 year: "12"
 credits: "15-19"
 entry_requirements: "Consultation with House deans and Vocational Studies department."

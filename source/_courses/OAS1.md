@@ -14,7 +14,7 @@ title: OAS1
 type: Level 1 Optional
 description: ""
 maori_title: "OUT2 and SPX2"
-background: "This course should provide learning experiences to develop personal and social skills for moving safely in a variety of settings. These learning experiences should also develop the understandings and skills which underpin successful outdoor activity and an increase in the awareness of the need for conservation of the environment. The Unit Standards offered in this course can be used towards the National Certificate in Outdoor Recreation Leadership."
+body: "This course should provide learning experiences to develop personal and social skills for moving safely in a variety of settings. These learning experiences should also develop the understandings and skills which underpin successful outdoor activity and an increase in the awareness of the need for conservation of the environment. The Unit Standards offered in this course can be used towards the National Certificate in Outdoor Recreation Leadership."
 year: "11"
 credits: "15-18"
 entry_requirements: ""

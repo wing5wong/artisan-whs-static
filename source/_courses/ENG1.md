@@ -14,7 +14,7 @@ title: ENG1
 type: Level 1 Core
 description: ""
 maori_title: "ENG2"
-background: "To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, production and critical awareness, creative writing and formal writing."
+body: "To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, production and critical awareness, creative writing and formal writing."
 year: "11"
 credits: "18-21"
 entry_requirements: ""

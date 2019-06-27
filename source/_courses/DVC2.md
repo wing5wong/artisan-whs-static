@@ -14,7 +14,7 @@ title: DVC2
 type: Level 2 Optional
 description: ""
 maori_title: "DVC3"
-background: "The course aims to develop student's Design and Visual Communication skills. The course is structured around two Design Briefs: Spatial Design and Product Design. Students will develop their own graphics practice through sketching, instrumental drawing, modelling, use of CAD and 3D printing."
+body: "The course aims to develop student's Design and Visual Communication skills. The course is structured around two Design Briefs: Spatial Design and Product Design. Students will develop their own graphics practice through sketching, instrumental drawing, modelling, use of CAD and 3D printing."
 year: "12"
 credits: "25"
 entry_requirements: "12 Credits in DVC1 and HOF approval."

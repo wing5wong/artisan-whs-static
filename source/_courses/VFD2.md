@@ -14,7 +14,7 @@ title: VFD2
 type: Level 2 Optional
 description: ""
 maori_title: ""
-background: ""
+body: ""
 year: "12"
 credits: "8"
 entry_requirements: "Class size limited. Interview by teacher in charge required."

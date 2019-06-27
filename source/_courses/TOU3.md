@@ -14,7 +14,7 @@ title: TOU3
 type: Level 3 Optional
 description: ""
 maori_title: "Work in the tourism industry or further study in Tourism"
-background: "This course will be beneficial for students who are wishing to work in New Zealand's biggest industry (tourism) or work in a tourism related environment. Students study the benefit and impacts of tourism and also all about NZ and Pacific Islands as visitor destinations."
+body: "This course will be beneficial for students who are wishing to work in New Zealand's biggest industry (tourism) or work in a tourism related environment. Students study the benefit and impacts of tourism and also all about NZ and Pacific Islands as visitor destinations."
 year: "13"
 credits: "Up to 22"
 entry_requirements: "Nil"

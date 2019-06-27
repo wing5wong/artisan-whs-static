@@ -14,7 +14,7 @@ title: TECE
 type: Year 9 Optional
 description: ""
 maori_title: ""
-background: "To develop student's understanding of Technology, and to provide students the opportunity to develop their own skills in a practical environment where they experience many aspects of the subject area."
+body: "To develop student's understanding of Technology, and to provide students the opportunity to develop their own skills in a practical environment where they experience many aspects of the subject area."
 year: "9"
 credits: ""
 entry_requirements: ""

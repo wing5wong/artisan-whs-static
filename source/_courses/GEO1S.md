@@ -14,7 +14,7 @@ title: GEO1S
 type: Semester Course
 description: ""
 maori_title: "Level 2 Tourism, Other Level 2 Social Sciences"
-background: "The purpose of this half year is to introduce students to Geography with a Tourism focus. It is aimed at middle to lower ability students. The areas of study look at our Awa (river), the Moana (Tasman Sea), the Maunga (the mountains) and Whenua (that land). Geography is the study of people and their interaction with the environment and Tourism is travelling to a place you do not normally live in. The course examines two Tourism Unit Standards and two Geography Internal Achievement Standards. It looks at other key concepts such as change, perspectives, and sustainability."
+body: "The purpose of this half year is to introduce students to Geography with a Tourism focus. It is aimed at middle to lower ability students. The areas of study look at our Awa (river), the Moana (Tasman Sea), the Maunga (the mountains) and Whenua (that land). Geography is the study of people and their interaction with the environment and Tourism is travelling to a place you do not normally live in. The course examines two Tourism Unit Standards and two Geography Internal Achievement Standards. It looks at other key concepts such as change, perspectives, and sustainability."
 year: "11"
 credits: "12"
 entry_requirements: "None- although suited to middle to lower ability students."

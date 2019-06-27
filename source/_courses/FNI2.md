@@ -14,7 +14,7 @@ title: FNI2
 type: Level 2 Optional
 description: ""
 maori_title: ""
-background: "To provide an opportunity for students to extend their knowledge and expertise in commercial catering in a simulated environment. Students will be encouraged to operate from a commercial perspective. Students will have the opportunity to complete industry standard courses on Food Hygiene as a pre-training qualification."
+body: "To provide an opportunity for students to extend their knowledge and expertise in commercial catering in a simulated environment. Students will be encouraged to operate from a commercial perspective. Students will have the opportunity to complete industry standard courses on Food Hygiene as a pre-training qualification."
 year: "12"
 credits: "18"
 entry_requirements: "Have studied FNG1 or FNI1 and HOF/TIC approval."

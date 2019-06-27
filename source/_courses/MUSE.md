@@ -14,7 +14,7 @@ title: MUSE
 type: One term
 description: ""
 maori_title: ""
-background: "To develop practical knowledge, ideas and communication in music."
+body: "To develop practical knowledge, ideas and communication in music."
 year: "9"
 credits: ""
 entry_requirements: ""

@@ -14,7 +14,7 @@ title: SCG1
 type: Level 1 Core
 description: ""
 maori_title: "BIO2, CHE2, PHY2, SCI2"
-background: "To provide a balanced Science programme to include aspects of Biology, Chemistry and Physics: investigations, interpreting information, microorganisms, atoms, acids and bases and rates of reactions, mechanics and energy."
+body: "To provide a balanced Science programme to include aspects of Biology, Chemistry and Physics: investigations, interpreting information, microorganisms, atoms, acids and bases and rates of reactions, mechanics and energy."
 year: "11"
 credits: "20"
 entry_requirements: ""

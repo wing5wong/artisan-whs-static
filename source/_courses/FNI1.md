@@ -14,7 +14,7 @@ title: FNI1
 type: Level 1 Optional
 description: ""
 maori_title: "FNI2"
-background: "This course has been developed for students at Year 11 as an introduction to work in the catering industry. Practical assessment is most important in this course."
+body: "This course has been developed for students at Year 11 as an introduction to work in the catering industry. Practical assessment is most important in this course."
 year: "11"
 credits: "21"
 entry_requirements: ""

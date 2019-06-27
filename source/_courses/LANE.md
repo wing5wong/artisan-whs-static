@@ -14,7 +14,7 @@ title: LANE
 type: Year 9 Compulsory
 description: ""
 maori_title: ""
-background: "The compulsory language course will provide Year 9 students with a five week 'taster' of each of: Te Reo, Chinese, French and Spanish. After two terms, students will choose one perferred language of the four, which they will study for the last two terms, depending on timetable considerations."
+body: "The compulsory language course will provide Year 9 students with a five week 'taster' of each of: Te Reo, Chinese, French and Spanish. After two terms, students will choose one perferred language of the four, which they will study for the last two terms, depending on timetable considerations."
 year: "9"
 credits: ""
 entry_requirements: ""

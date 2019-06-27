@@ -14,7 +14,7 @@ title: TTD1
 type: Level 1 Optional
 description: ""
 maori_title: "TTD2"
-background: "To develop students' understanding of technology and provide the opportunity for them to develop their own technological practice within a structured practical environment. The course will focus on increasing the student's technological capability, knowledge and their understanding of how technology interacts with society. Students will develop project solutions from given issues using a selection of textiles. The course is challenging and requires creative and motivated thinkers."
+body: "To develop students' understanding of technology and provide the opportunity for them to develop their own technological practice within a structured practical environment. The course will focus on increasing the student's technological capability, knowledge and their understanding of how technology interacts with society. Students will develop project solutions from given issues using a selection of textiles. The course is challenging and requires creative and motivated thinkers."
 year: "11"
 credits: "25"
 entry_requirements: ""

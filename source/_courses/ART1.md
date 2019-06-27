@@ -14,7 +14,7 @@ title: ART1
 type: Level 1 Optional
 description: ""
 maori_title: "ARD2, APR2, ARP2, PHO2"
-background: "FINE ART FOCUS:
+body: "FINE ART FOCUS:
 This course encompasses the following fields of Art practice each term:
 - Painting
 - Photography

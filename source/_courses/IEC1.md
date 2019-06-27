@@ -14,7 +14,7 @@ title: IEC1
 type: Level 1 and/or 2 Core
 description: ""
 maori_title: "IEL1, IEL2"
-background: "To help English as a Second Language students to communicate in simple English. The course involves listening to others and responding confidently in spoken and written forms. English Language standards."
+body: "To help English as a Second Language students to communicate in simple English. The course involves listening to others and responding confidently in spoken and written forms. English Language standards."
 year: "11"
 credits: "20+"
 entry_requirements: ""

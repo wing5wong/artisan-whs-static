@@ -14,7 +14,7 @@ title: MUS1
 type: Level 1 Optional
 description: ""
 maori_title: "MUS2"
-background: "To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context. This course is for students who have played a musical instrument for at least 3 years, through itinerant lessons, Year 9/10 Music or outside school lessons."
+body: "To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context. This course is for students who have played a musical instrument for at least 3 years, through itinerant lessons, Year 9/10 Music or outside school lessons."
 year: "11"
 credits: "18-24"
 entry_requirements: ""

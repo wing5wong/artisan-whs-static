@@ -14,7 +14,7 @@ title: DVCE
 type: Year 9 - Optional
 description: ""
 maori_title: ""
-background: "The course teaches drawing skills and design processes. Students will learn new drawing skills and then be asked to apply these skills to a range of stimulating 2D and 3D design tasks. The focus is on learning visual communication skills."
+body: "The course teaches drawing skills and design processes. Students will learn new drawing skills and then be asked to apply these skills to a range of stimulating 2D and 3D design tasks. The focus is on learning visual communication skills."
 year: "9"
 credits: ""
 entry_requirements: ""

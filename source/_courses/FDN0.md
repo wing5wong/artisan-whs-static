@@ -14,7 +14,7 @@ title: FDN0
 type: Option - Half Year
 description: ""
 maori_title: ""
-background: "To develop practical skills in food preparation, with an emphasis on healthy eating and understanding of nutritional needs. Students will also have the opportunity to look at different cultures and their influence on New Zealand eating patterns."
+body: "To develop practical skills in food preparation, with an emphasis on healthy eating and understanding of nutritional needs. Students will also have the opportunity to look at different cultures and their influence on New Zealand eating patterns."
 year: "10"
 credits: ""
 entry_requirements: ""

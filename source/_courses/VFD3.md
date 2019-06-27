@@ -14,7 +14,7 @@ title: VFD3
 type: Optional
 description: ""
 maori_title: ""
-background: ""
+body: ""
 year: "13"
 credits: "10"
 entry_requirements: "Class size limited. Interview by teacher in charge required."

@@ -14,7 +14,7 @@ title: DVC1
 type: Level 1 Optional
 description: ""
 maori_title: "DVC2"
-background: "To develop students' capabilities in Design and Visual Communication. This course is designed to develop students' practice in Graphic Techniques including: Freehand Sketching; a range of Rendering Techniques; Instrumental Drawings; Modelling Techniques and Design. Students will also have the opportunity to use CAD and 3D printing."
+body: "To develop students' capabilities in Design and Visual Communication. This course is designed to develop students' practice in Graphic Techniques including: Freehand Sketching; a range of Rendering Techniques; Instrumental Drawings; Modelling Techniques and Design. Students will also have the opportunity to use CAD and 3D printing."
 year: "11"
 credits: "21"
 entry_requirements: ""

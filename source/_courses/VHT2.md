@@ -14,7 +14,7 @@ title: VHT2
 type: Optional Level 2
 description: ""
 maori_title: ""
-background: ""
+body: ""
 year: "12"
 credits: "10-15"
 entry_requirements: "Class size limited. Interview by teacher in charge required."

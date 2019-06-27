@@ -14,7 +14,7 @@ title: DAN1
 type: Level 1 Optional
 description: ""
 maori_title: "DAN2"
-background: "To develop a variety of skills in dance forms. Students will participate in dance choreography and performance developing their knowledge and confidence in both areas."
+body: "To develop a variety of skills in dance forms. Students will participate in dance choreography and performance developing their knowledge and confidence in both areas."
 year: "11"
 credits: "20"
 entry_requirements: ""

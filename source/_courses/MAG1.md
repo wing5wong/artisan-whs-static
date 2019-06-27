@@ -14,7 +14,7 @@ title: MAG1
 type: Level 1 Compulsory
 description: ""
 maori_title: "MAG2, MTA2 and/or MPS2   (Note: Maximum of two Mathematic courses in Year 12. Achievement in the external standards is required for entry into MTA2 or MPS2 courses)"
-background: "To provide a balanced Mathematics programme that will develop in students a variety of approaches to solving problems involving Mathematics and provide a foundation for those students who may continue studies in Mathematics or other learning areas where Mathematical concepts are central. The following topics are studied; Number, Graphs, Algebra, Statistics, Angle Geometry, Trigonometry and Probability."
+body: "To provide a balanced Mathematics programme that will develop in students a variety of approaches to solving problems involving Mathematics and provide a foundation for those students who may continue studies in Mathematics or other learning areas where Mathematical concepts are central. The following topics are studied; Number, Graphs, Algebra, Statistics, Angle Geometry, Trigonometry and Probability."
 year: "11"
 credits: "18"
 entry_requirements: ""

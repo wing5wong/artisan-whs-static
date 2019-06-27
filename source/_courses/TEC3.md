@@ -14,7 +14,7 @@ title: TEC3
 type: Level 3 Optional
 description: ""
 maori_title: "U.E. approved."
-background: "To further extend students' understanding of technology and provide an in-depth course of study which explores manufacturing processes and systems, problem solving and design to an advanced level. The course will focus on increasing students technological capability, knowledge and their understanding of how technology interacts with society. Students will develop project solutions to industry standards exploring production processes and systems. A challenging course for motivated students."
+body: "To further extend students' understanding of technology and provide an in-depth course of study which explores manufacturing processes and systems, problem solving and design to an advanced level. The course will focus on increasing students technological capability, knowledge and their understanding of how technology interacts with society. Students will develop project solutions to industry standards exploring production processes and systems. A challenging course for motivated students."
 year: "13"
 credits: "16"
 entry_requirements: "12 credits in TCE2 or TEC2, or HOF approval."

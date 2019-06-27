@@ -14,7 +14,7 @@ title: VEN3
 type: Level 3 Optional
 description: ""
 maori_title: ""
-background: ""
+body: ""
 year: "13"
 credits: "7"
 entry_requirements: "Class size limited. Interview by teacher in charge required."

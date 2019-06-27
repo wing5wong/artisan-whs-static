@@ -14,7 +14,7 @@ title: ARP2
 type: Level 2 Optional
 description: ""
 maori_title: "ARP3"
-background: "Students will generate and develop ideas in making art works. Students will complete the majority of their own work in a visual diary, building a resource of drawing notes, sketches, monochromatic and colour studies, throughout the year. The selection of achievement standards are desgined to initiate sound art practice using the visual diary as their main resource of learning."
+body: "Students will generate and develop ideas in making art works. Students will complete the majority of their own work in a visual diary, building a resource of drawing notes, sketches, monochromatic and colour studies, throughout the year. The selection of achievement standards are desgined to initiate sound art practice using the visual diary as their main resource of learning."
 year: "12"
 credits: "20"
 entry_requirements: "12 credits in ART1 and HOF/TIC approval."

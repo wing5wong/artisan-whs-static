@@ -14,7 +14,7 @@ title: IEN1
 type: Level 1 (English) 7+ credits / Level 3 (English Language)
 description: ""
 maori_title: "IEN2"
-background: "To assist English as a Second Language students to further develop their English skills to attain Level One English standards, and/or to achieve Level Three English Language (previously ESOL) standards in reading and writing."
+body: "To assist English as a Second Language students to further develop their English skills to attain Level One English standards, and/or to achieve Level Three English Language (previously ESOL) standards in reading and writing."
 year: "11"
 credits: "10+"
 entry_requirements: ""

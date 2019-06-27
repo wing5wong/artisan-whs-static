@@ -14,7 +14,7 @@ title: GMK1S
 type: Semester Course
 description: ""
 maori_title: "Level 2 Digital Media"
-background: "Students will begin to develop their own games. During the course game theory and gaming will be reviewed along with the creation and development of some real games that students can use."
+body: "Students will begin to develop their own games. During the course game theory and gaming will be reviewed along with the creation and development of some real games that students can use."
 year: "11"
 credits: "8-12"
 entry_requirements: "Nil"

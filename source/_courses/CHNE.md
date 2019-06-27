@@ -14,7 +14,7 @@ title: CHNE
 type: 5 week introduction plus 20 week course if selected
 description: ""
 maori_title: ""
-background: "Students are introduced to Chinese language and culture. Students will learn basic expressions related to themselves, their family, school and interests."
+body: "Students are introduced to Chinese language and culture. Students will learn basic expressions related to themselves, their family, school and interests."
 year: "9"
 credits: ""
 entry_requirements: ""

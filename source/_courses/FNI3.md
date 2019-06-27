@@ -14,7 +14,7 @@ title: FNI3
 type: Level 3 Optional
 description: ""
 maori_title: "Hospitality industry. This course is not U.E. approved."
-background: "To provide an opportunity for students to extend their knowledge and expertise in commercial food preparation and production. The course includes an industry standard food safety unit."
+body: "To provide an opportunity for students to extend their knowledge and expertise in commercial food preparation and production. The course includes an industry standard food safety unit."
 year: "13"
 credits: "22"
 entry_requirements: "8 credits in FNG2 or 12 credits in FNI2 and HOF/TIC approval."

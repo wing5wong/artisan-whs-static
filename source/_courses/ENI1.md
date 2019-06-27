@@ -14,7 +14,7 @@ title: ENI1
 type: Level 1 Core
 description: ""
 maori_title: "ENI2"
-background: "To provide a balanced English programme to include reading, writing, reading, listening, speaking, and presenting. This course has no external examinations but students complete a mix of Unit Standards and Achievements with a view to gaining Level 1 Literacy."
+body: "To provide a balanced English programme to include reading, writing, reading, listening, speaking, and presenting. This course has no external examinations but students complete a mix of Unit Standards and Achievements with a view to gaining Level 1 Literacy."
 year: "11"
 credits: "16"
 entry_requirements: ""

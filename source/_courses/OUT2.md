@@ -14,7 +14,7 @@ title: OUT2
 type: Level 2 Optional
 description: ""
 maori_title: ""
-background: "This is a practical course with a theory component. Students are able to gain credits on the National Framework Qualifications system. Kayaking, Camping, Navigation, Weather, High Ropes, Tramping, Rock Climbing and Adventure based learning. Assessed by practical field trips and book work."
+body: "This is a practical course with a theory component. Students are able to gain credits on the National Framework Qualifications system. Kayaking, Camping, Navigation, Weather, High Ropes, Tramping, Rock Climbing and Adventure based learning. Assessed by practical field trips and book work."
 year: "12"
 credits: "21-24"
 entry_requirements: "HOF/TIC approval."

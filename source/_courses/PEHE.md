@@ -14,7 +14,7 @@ title: PEHE
 type: Compulsory	 - Full Year
 description: ""
 maori_title: ""
-background: "To develop knowledge, understanding, skills and attitudes needed to: * enhance and maintain personal health and well-being, * encourage positive attitudes towards physical activity, *Through the exploration of a range of motor skills and activities, develop a positive approach to physical activity for life."
+body: "To develop knowledge, understanding, skills and attitudes needed to: * enhance and maintain personal health and well-being, * encourage positive attitudes towards physical activity, *Through the exploration of a range of motor skills and activities, develop a positive approach to physical activity for life."
 year: "9"
 credits: ""
 entry_requirements: ""

@@ -14,7 +14,7 @@ title: SCI1
 type: Level 1 Compulsory
 description: ""
 maori_title: "SCG1, SCI2"
-background: "To provide a balanced Science programme to include aspects of Biology, Chemistry, Physics: investigations, interpreting information, microorganisms, life processes, metal properties, electricity and magnetism."
+body: "To provide a balanced Science programme to include aspects of Biology, Chemistry, Physics: investigations, interpreting information, microorganisms, life processes, metal properties, electricity and magnetism."
 year: "11"
 credits: "24"
 entry_requirements: ""

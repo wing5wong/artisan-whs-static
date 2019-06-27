@@ -14,7 +14,7 @@ title: MAI0
 type: Compulsory - Full Year
 description: ""
 maori_title: ""
-background: "To increase students' understanding of Mathematics and build their confidence in using Mathematics to solve practical problems."
+body: "To increase students' understanding of Mathematics and build their confidence in using Mathematics to solve practical problems."
 year: "10"
 credits: ""
 entry_requirements: "Satisfactory completion of a Year 9 Mathematics course."

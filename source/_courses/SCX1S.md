@@ -14,7 +14,7 @@ title: SCX1S
 type: Semester Course
 description: ""
 maori_title: "SCG1, SCI2"
-background: "To provide a balanced Science program to include aspects of Biology and Physics; investigations, interpreting information, life processes within livestock, practical uses of metal properties."
+body: "To provide a balanced Science program to include aspects of Biology and Physics; investigations, interpreting information, life processes within livestock, practical uses of metal properties."
 year: "11"
 credits: "12"
 entry_requirements: ""

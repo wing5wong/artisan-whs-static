@@ -14,7 +14,7 @@ title: TCM0
 type: Optional - Half Year
 description: ""
 maori_title: ""
-background: "To develop students understanding of Technology and to provide students the opportunity to develop their own skills in a practical environment where they experience many aspects of the subject area."
+body: "To develop students understanding of Technology and to provide students the opportunity to develop their own skills in a practical environment where they experience many aspects of the subject area."
 year: "10"
 credits: ""
 entry_requirements: ""

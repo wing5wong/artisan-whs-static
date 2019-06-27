@@ -14,7 +14,7 @@ title: ENG2
 type: Level 2 Core
 description: ""
 maori_title: "ENG3, ENL3"
-background: "To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, production and critical awareness, creative writing and formal writing. Students will be given the opportunity to gain the 10 Literacy credits required for University Entrance."
+body: "To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, production and critical awareness, creative writing and formal writing. Students will be given the opportunity to gain the 10 Literacy credits required for University Entrance."
 year: "12"
 credits: "21-24"
 entry_requirements: "12 credits ENG1. Students must have attempted the Speech in Level 1 and pass at least one Level 1 external standard"

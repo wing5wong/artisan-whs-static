@@ -14,7 +14,7 @@ title: ROB1S
 type: Semester Course
 description: ""
 maori_title: "Level 2 Digital Media"
-background: "Students will develop skills in using robots to complete specific tasks. During the course students will use a variety of methods to begin to understand how robots are programmed along with creating some simple code to control robots."
+body: "Students will develop skills in using robots to complete specific tasks. During the course students will use a variety of methods to begin to understand how robots are programmed along with creating some simple code to control robots."
 year: "11"
 credits: "8-12"
 entry_requirements: "Nil"

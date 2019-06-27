@@ -14,7 +14,7 @@ title: MAOE
 type: 5 week introduction plus 20 week course if selected.
 description: ""
 maori_title: ""
-background: "To encourage students to share in New Zealand's Māori heritage, arts and crafts. The course will enable them to:
+body: "To encourage students to share in New Zealand's Māori heritage, arts and crafts. The course will enable them to:
 *Begin the development of oral and written Māori
 *Begin to develop a deeper understanding of, and respect for, Te Reo Māori me ona tikanga"
 year: "9"

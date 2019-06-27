@@ -14,7 +14,7 @@ title: DANE
 type: One term
 description: ""
 maori_title: ""
-background: "To develop a basic understanding of dance along with the skills and confidence associated with performance and choreography."
+body: "To develop a basic understanding of dance along with the skills and confidence associated with performance and choreography."
 year: "9"
 credits: ""
 entry_requirements: ""
