@@ -187,7 +187,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Intro", name: "intro", widget: "text"}
+      - {label: "Intro", name: "intro", widget: "text", required: false}
       - label: "Image Filename"
         name: "image"
         widget: "image"
@@ -310,7 +310,7 @@ collections:
         name: "image"
         widget: "image"
         required: false
-      - {label: "Intro", name: "intro", widget: "text"}
+      - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "subject_areas"
