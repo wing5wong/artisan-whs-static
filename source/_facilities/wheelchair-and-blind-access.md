@@ -1,8 +1,14 @@
 ---
 title: Wheelchair and Blind Access
-date: 2019-04-08T21:56:17.468Z
+date: 2019-06-26T21:56:17.468Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600666/facilities/Wheelchair_Friendly_combined.jpg
 description: >
-    Whanganui High School grounds and buildings are supported with adaptions that assist the visually impaired and wheelchair bound students. There are yellow painted poles and strips, and tactile tiles placed around the school which enable visually impaired students to navigate safely around the school and to their classes.
+  Whanganui High School grounds and buildings are supported with adaptions that
+  assist the visually impaired and wheelchair bound students. There are yellow
+  painted poles and strips, and tactile tiles placed around the school which
+  enable visually impaired students to navigate safely around the school and to
+  their classes.
 ---
 ![](/uploads/5b88a073ff2a7c03cc0005ef/Wheelchair-Friendly-combined.jpg)
 
