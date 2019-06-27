@@ -1,8 +1,10 @@
 ---
 title: Student Centre
-date: 2019-04-08T21:56:17.468Z
+date: 2019-06-26T21:56:17.468Z
 description: >
-    The Student Centre is the place for students and parents to come to find out about anything to do with the practicalities of the school day. Opening hours are from 8am until 3.30pm each day.
+  The Student Centre is the place for students and parents to come to find out
+  about anything to do with the practicalities of the school day. Opening hours
+  are from 8am until 3.30pm each day.
 ---
 The Student Centre is the place for students and parents to come to find out about anything to do with the practicalities of the school day. Opening hours are from 8am until 3.30pm each day.
 
