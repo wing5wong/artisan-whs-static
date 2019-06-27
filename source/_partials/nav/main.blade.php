@@ -73,12 +73,12 @@
                 <div class="dropdown-menu">
                     <a class="dropdown-item" href="{{$values['url']}}">{{$values['title']}}</a> 
                     @foreach($values['children'] as $thePage)
-                    <a class="dropdown-item" href="{{$thePage['url']}}">{{$thePage['title']}} </a>
+                      <a class="dropdown-item" href="{{$thePage['url']}}">{{$thePage['title']}} </a>
                     @endforeach
                     @if($$key)
-                    @foreach($$key as $thePage2)
-                    <a class="dropdown-item" href="{{$thePage2->getPath()}}">{{$thePage2->title}} </a>
-                    @endforeach
+                      @foreach($$key as $thePage2)
+                        <a class="dropdown-item" href="{{$thePage2->getPath()}}">{{$thePage2->title}} </a>
+                      @endforeach
                     @endif
                   </div>
                
