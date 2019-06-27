@@ -1,12 +1,14 @@
 ---
 title: Computers and Wifi
-date: 2019-04-08T21:56:17.468Z
+date: 2019-06-26T21:56:17.468Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600674/facilities/Wifi_-_combined.jpg
 description: >
-    Whanganui High School is well equipped with modern computer gear, which is well maintained and regularly updated with current software.
-    We have eight computer labs with around 28 computers in each. As well as this we also have eight smaller pods of computers scattered throughout the school.
+  Whanganui High School is well equipped with modern computer gear, which is
+  well maintained and regularly updated with current software. We have eight
+  computer labs with around 28 computers in each. As well as this we also have
+  eight smaller pods of computers scattered throughout the school.
 ---
-![](/uploads/5b88b7dfff2a7c03cc000605/Computers---combined.jpg)
-
 Whanganui High School is well equipped with modern computer gear, which is well maintained and regularly updated with current software.
 
 We have eight computer labs with around 28 computers in each. As well as this we also have eight smaller pods of computers scattered throughout the school.
