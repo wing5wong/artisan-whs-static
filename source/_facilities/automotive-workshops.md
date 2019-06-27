@@ -1,6 +1,6 @@
 ---
 title: Automotive Workshops
-date: 2019-04-08T21:56:17.468Z
+date: 2019-06-26T21:56:17.468Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1561600678/facilities/Automotive_-_Combined.jpg
 description: >-
