@@ -362,7 +362,7 @@ collections:
     - { label: "Endorsement", name: "endorsement", widget: "boolean", required: false, default: false}
     
     - {label: "Notes", name: "notes", widget: "text", required: false}
-    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "ncea_standards", searchFields: ["code","title"], valueField: "code", displayField: ["code", "title"]}
+    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments", searchFields: ["title"], valueField: "code", displayField: ["title"]}
 
   - name: "assessments"
     label: "NCEA Standards"
