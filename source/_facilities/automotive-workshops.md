@@ -1,8 +1,11 @@
 ---
 title: Automotive Workshops
 date: 2019-04-08T21:56:17.468Z
-description: >
-    The Automotive Engineering workshop is well resourced and respected in the community and wider regions.
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600678/facilities/Automotive_-_Combined.jpg
+description: >-
+  The Automotive Engineering workshop is well resourced and respected in the
+  community and wider regions.
 ---
 ![](/uploads/5b99c10eff2a7c2965000378/0-Nice-Photo-(small-version-for-website).jpg)
 
