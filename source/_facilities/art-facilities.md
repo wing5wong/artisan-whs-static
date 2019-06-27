@@ -1,6 +1,8 @@
 ---
 title: Art Facilities
-date: 2019-06-26T21:56:17.468Z
+date: 2019-06-27T21:56:17.468Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600664/facilities/Art_Facilities_-_Combined.jpg
 description: >
   The Visual Arts Department at Whanganui High School now boasts of a
   purpose-built arts facility which has been designed as a future proof
