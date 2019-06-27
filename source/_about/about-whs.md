@@ -33,7 +33,7 @@ _**Academic Excellence**_
 **_Recreational and Sporting Opportunities_**
 
 * The school facilities include extensive sports fields, two gymnasiums, weight training, all weather tennis/netball/hockey courts, sand volleyball court and numerous other specialist facilities.
-* Both winter and summer sports are extremely well catered for with inter-school fixtures at both junior and senior level.
+* Both winter and summer sports are extremely well catered for with inter-school fixtures at both Junior and Senior level.
 
 
 
