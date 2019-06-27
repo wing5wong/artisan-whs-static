@@ -12,13 +12,14 @@
 @yield('postContent')
 
 
+<h2 class="decorated d-table my-5">Subject Areas</h2>
 @foreach($subject_areas->filter(function($subject_area) use ($page){
     return $subject_area->faculty == $page->title;
 }) as $subject)
 
     <details>
         <summary>
-            <h2 class="d-table">{{ $subject->title }}</h2>
+            <h3 class="d-table">{{ $subject->title }}</h3>
         </summary>
         @php
             $subjectCourses  = $courses->filter(function($course) use ($subject){
