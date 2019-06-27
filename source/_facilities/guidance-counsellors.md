@@ -1,6 +1,6 @@
 ---
 title: Guidance Counsellor
-date: 2019-04-08T21:56:17.468Z
+date: 2019-06-26T21:56:17.468Z
 description: >
   We have two guidance counsellors; Terry Tubman and Jacqui McKenzie. You will
   find their offices at the Student Centre. All appointments with clients are
