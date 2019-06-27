@@ -1,8 +1,15 @@
 ---
 title: Technology Facilities
-date: 2019-04-08T21:56:17.468Z
+date: 2019-06-26T21:56:17.468Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1561602984/facilities/Technology_-_combined.jpg
 description: >
-    Whanganui High School has three fully equipped technology workshops specialising in the delivery of project work based on multi material technology, building and construction, and engineering. All workshops contain a diverse range of tools and machinery designed to meet the wide range of learning opportunities offered to our students, with the intent of meeting the expectations of parents and industry. 
+  Whanganui High School has three fully equipped technology workshops
+  specialising in the delivery of project work based on multi material
+  technology, building and construction, and engineering. All workshops contain
+  a diverse range of tools and machinery designed to meet the wide range of
+  learning opportunities offered to our students, with the intent of meeting the
+  expectations of parents and industry.
 ---
 
 ![](/uploads/5b88b55fff2a7c03cc000603/Tech---Combined.jpg)
