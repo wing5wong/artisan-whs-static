@@ -310,6 +310,7 @@ collections:
         name: "image"
         widget: "image"
         required: false
+      - {label: "Intro", name: "intro", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "subject_areas"
