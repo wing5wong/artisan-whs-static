@@ -1,6 +1,6 @@
 ---
 title: Special Needs / Te Atawhai
-date: 2019-04-08T21:56:17.468Z
+date: 2019-06-26T21:56:17.468Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1561600683/facilities/Te_Atawhai_01.jpg
 description: "Te Atawhai is the name given to the Special Unit at Whanganui High School.\_ Te Atawhai was designed specifically for students with moderate to severe intellectual impairments.\_ The building, furniture and equipment were funded by the Ministry of Education.\_ It opened in May 1996.\n"
