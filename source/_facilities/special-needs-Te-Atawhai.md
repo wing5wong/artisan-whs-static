@@ -1,13 +1,13 @@
 ---
 title: Special Needs / Te Atawhai
 date: 2019-04-08T21:56:17.468Z
-description: >
-    Te Atawhai is the name given to the Special Unit at Whanganui High School.  Te Atawhai was designed specifically for students with moderate to severe intellectual impairments.  The building, furniture and equipment were funded by the Ministry of Education.  It opened in May 1996.
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600683/facilities/Te_Atawhai_01.jpg
+description: "Te Atawhai is the name given to the Special Unit at Whanganui High School.\_ Te Atawhai was designed specifically for students with moderate to severe intellectual impairments.\_ The building, furniture and equipment were funded by the Ministry of Education.\_ It opened in May 1996.\n"
 ---
-__**Place of Challenge, Care and Support**__
+**Place of Challenge, Care and Support**
 
-
-![](/uploads/51636d12896ad857e2001121/Picture-038-test3.jpg)Te Atawhai is the name given to the Special Unit at Whanganui High School.  Te Atawhai was designed specifically for students with moderate to severe intellectual impairments.  The building, furniture and equipment were funded by the Ministry of Education.  It opened in May 1996.
+Te Atawhai is the name given to the Special Unit at Whanganui High School.  Te Atawhai was designed specifically for students with moderate to severe intellectual impairments.  The building, furniture and equipment were funded by the Ministry of Education.  It opened in May 1996.
 
 Te Atawhai provides a secondary school placement for students with an intellectual impairment who require alternative or additional resources to those usually provided in regular education settings.  The guiding philosophy of Te Atawhai is to enable all students to develop their full potential by providing age appropriate, individualised learning opportunities within a safe, caring, challenging and supportive environment.
 
@@ -17,11 +17,11 @@ Te Atawhai is a partnership based on collaboration and consultation between Pare
 
 Social integration and subject mainstreaming are encouraged at Whanganui High School. 
 
-### Te Atawhai Staff are:
+**Te Atawhai Staff are**
 
-![](/uploads/51636ef9896ad857e2001123/SAM_0129smaller.jpg)Wendi Girven, Joan Gill, Hilary Mael, Diana Parnell, Grant McCullough, Emma Paki, Richie Parnell and Dale Sutherland.
+Wendi Girven (Head of Te Atawahi), Hilary Mael, Diana Parnell, Emma Paki, Richie Parnell, Dale Sutherland Daniel Wooler, Carla Davies, Katelyn Blythe
 
-### Te Atawhai ERO Policy
+**Te Atawhai ERO Policy**
 
 Te Atawhai endeavours to ensure it can provide a challenging, safe and supportive climate that meets the individual educational needs of students with severe to moderate intellectual disabilities.
 
@@ -51,25 +51,21 @@ Te Atawhai is designed to cater for those students with severe to moderate intel
 
 #### Enrolment Policy Guidelines
 
-1.  Te Atawhai is designed to offer assistance to those students with an intellectual disability who have significant difficulties meeting their physical, social, and emotional and self-care needs.  Te Atawhai caters specifically for students requiring a greater degree of adult supervision and support than is usually provided.
-2.  Te Atawhai recognises the legal rights and responsibilities of parents to have a choice regarding enrolment in special schools, attached units or regular classes.
-3.  Te Atawhai is designed to enable students of secondary school age to have access to the same range of age-appropriate education as other students.  Provision for the student should match the nature of his or her needs.
-4.  Te Atawhai is designed to cater for those students readily identified as needing specialised assistance, adapted programmes or learning environments, specialised equipment or materials to support them in a special education setting and the mainstream.
-5.  Te Atawhai is designed to provide specialised educational assistance for those students identified through in-depth assessment as having unique needs.  The enrolment process will be the result of consultation and collaboration between parents and caregivers, the student, Special Education Services, educational specialists, other schools, Te Atawhai and the local community.
-6.  Te Atawhai is designed to offer a multi-cultural, co-educational placement for students with severe to moderate intellectual disabilities.
-7.  Te Atawhai is designed to ensure it can meet the individual needs of all students through appropriate programming, adequate staffing levels and specialised equipment.
-8.  Te Atawhai is designed to ensure it can provide a challenging, safe and caring environment for all students.
-9.  Te Atawhai recognises that all enrolments are submitted to the Principal and that the final decision is at the discretion of the Principal.
-10.  Te Atawhai will endeavour to recognise the early communicated intention and interest of parents and caregivers for enrolment placements.
+1. Te Atawhai is designed to offer assistance to those students with an intellectual disability who have significant difficulties meeting their physical, social, and emotional and self-care needs.  Te Atawhai caters specifically for students requiring a greater degree of adult supervision and support than is usually provided.
+2. Te Atawhai recognises the legal rights and responsibilities of parents to have a choice regarding enrolment in special schools, attached units or regular classes.
+3. Te Atawhai is designed to enable students of secondary school age to have access to the same range of age-appropriate education as other students.  Provision for the student should match the nature of his or her needs.
+4. Te Atawhai is designed to cater for those students readily identified as needing specialised assistance, adapted programmes or learning environments, specialised equipment or materials to support them in a special education setting and the mainstream.
+5. Te Atawhai is designed to provide specialised educational assistance for those students identified through in-depth assessment as having unique needs.  The enrolment process will be the result of consultation and collaboration between parents and caregivers, the student, Special Education Services, educational specialists, other schools, Te Atawhai and the local community.
+6. Te Atawhai is designed to offer a multi-cultural, co-educational placement for students with severe to moderate intellectual disabilities.
+7. Te Atawhai is designed to ensure it can meet the individual needs of all students through appropriate programming, adequate staffing levels and specialised equipment.
+8. Te Atawhai is designed to ensure it can provide a challenging, safe and caring environment for all students.
+9. Te Atawhai recognises that all enrolments are submitted to the Principal and that the final decision is at the discretion of the Principal.
+10. Te Atawhai will endeavour to recognise the early communicated intention and interest of parents and caregivers for enrolment placements.
 
 ### Contact us
 
-<span>C/-Whanganui High School</span>
-
-P.O. Box 4022, Wanganui, New Zealand
-
 Telephone (06) 349-0178  Extn: 8765
 
-Fax: (06) 349-0176
+Cell Phone: 021 499 110
 
-Cellular Phone: 021499110
+Email: girven.w@whs.ac.nz
