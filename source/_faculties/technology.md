@@ -1,10 +1,13 @@
 ---
 title: Technology
-date: 2019-06-27T01:00:00.000Z
+date: 2019-06-28T01:00:00.000Z
 tags:
   - About WHS
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1561592432/faculties/Technology_-_combined.jpg
+intro: >-
+  In Technology, students learn to be innovative developers of products and
+  systems and discerning consumers who will make a difference in the world.
 ---
 Whanganui High School has a large Technology Faculty which is able to offer a very wide range of courses to meet the needs of all of our students. All of these courses are challenging and offer learning opportunities from Year 9 to Year 13 including University Entrance qualifications. All of these courses are optional.
 
