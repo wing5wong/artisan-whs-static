@@ -5,6 +5,9 @@ tags:
   - About WHS
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1561592429/faculties/PE_Health_-_combined.jpg
+intro: >-
+  In Health and Physical Education, students learn about their own well-being,
+  and that of others and society, in health-related and movement contexts.
 ---
 **Staff - Who are we?**
 
