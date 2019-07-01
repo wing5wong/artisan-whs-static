@@ -1,26 +1,18 @@
 ---
-faculty: Languages
-subject_area: Te Reo Māori
-code: MAOE
+title: MAOE
 name: Te Reo Māori Year 9
+code: MAOE
+subject_area: Te Reo Māori
+date: 2019-07-01T01:49:52.554Z
+year: '9'
+type: 5 week introduction plus 20 week course if selected.
+course_duration: One Term
 course_level: Year 9
 assessment_type: Optional
-course_duration: 
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: MAOE
-type: 5 week introduction plus 20 week course if selected.
-description: ""
-maori_title: ""
-body: "To encourage students to share in New Zealand's Māori heritage, arts and crafts. The course will enable them to:
-*Begin the development of oral and written Māori
-*Begin to develop a deeper understanding of, and respect for, Te Reo Māori me ona tikanga"
-year: "9"
-credits: ""
-entry_requirements: ""
-course_fees: ""
-leads_to: ""
-duration: ""
+leads_to: ''
+credits: .
+entry_requirements: ''
+course_fees: ''
+notes: ''
 ---
+The Year 9 Te Reo Māori programme has been devised for second language learners and is an introduction to learning Te Reo Māori. However, if students are already proficient in Te Reo or have been in an immersion class they should inform the school and they will have the option to study NCEA Level 1. Students will cover a range of basic language activities for everyday life and some customary tikanga.
