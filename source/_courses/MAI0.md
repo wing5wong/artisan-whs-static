@@ -1,24 +1,28 @@
 ---
-faculty: Mathematics
-subject_area: Mathematics (Introductory/Internal)
-code: MAI0
+title: MAI0
 name: Mathematics Introductory Year 10
+code: MAI0
+subject_area: Mathematics (Introductory/Internal)
+date: 2019-07-01T01:45:16.583Z
+year: '10'
+type: Compulsory - Full Year
+course_duration: Full Year
 course_level: Year 10
 assessment_type: Compulsory
-course_duration: Full Year
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: MAI0
-type: Compulsory - Full Year
-description: ""
-maori_title: ""
-body: "To increase students' understanding of Mathematics and build their confidence in using Mathematics to solve practical problems."
-year: "10"
-credits: ""
-entry_requirements: "Satisfactory completion of a Year 9 Mathematics course."
-course_fees: ""
-leads_to: ""
-duration: ""
+leads_to: ''
+credits: .
+entry_requirements: Satisfactory completion of a Year 9 Mathematics course.
+course_fees: ''
+notes: ''
 ---
+**Purpose:**
+
+To increase students' understanding of Mathematics and build their confidence in using Mathematics to solve practical problems.
+
+**Content:**
+
+The course will continue to develop the students' knowledge of Number, Measurement, Algebra, Probability, Statistics and Geometry. Trigonometry will be introduced. Some level 1 NCEA Mathematics standards may be offered.
+
+**Assessment:**
+
+Common topic tests on content and process. End of year examination.
