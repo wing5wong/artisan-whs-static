@@ -27,6 +27,6 @@ Topics may include:
 * Numbers, days of the week, countries and nationalities
 * Family, pets, leisure activities, school
 
-**Assessment:**
+**Assessment:**
 
-Assessment of the five key skills of Listening, Speaking, Interacting, Reading and Writing.
+Assessment of the five key skills of Listening, Speaking, Speaking, Reading and Writing.
