@@ -17,7 +17,7 @@ notes: ''
 ---
 **Purpose:**
 
-To develop skills that enable students to generate and test ideas, and observe, investigate and model in order to develop scientific knowledge, understanding and explaining skills.
+To develop skills that enable students to generate and test ideas, and observe, investigate and model phenomena. They will develop scientific knowledge, understanding and explaining skills.
 
 **Content:**
 
@@ -34,6 +34,6 @@ Students may also be given chances to participate in the following:
 * Australian Science Competition
 * New Zealand based Science competitions
 
-**Assessment:**
+**Assessment:**
 
 Standards based assessment, which includes on-going internal assessment and end of year exam.
