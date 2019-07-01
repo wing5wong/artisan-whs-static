@@ -31,4 +31,4 @@ Students also learn how to form Chinese character (Calligraphy) and how to const
 
 **Assessment:**
 
-Assessment of the five key skills of Listening, Speaking, Interacting, Reading and Writing.
+Assessment of the five key skills of Listening, Presenting, Interacting, Reading and Writing.
