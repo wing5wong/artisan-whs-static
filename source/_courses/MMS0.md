@@ -1,24 +1,28 @@
 ---
-faculty: Technology
-subject_area: Making Music
-code: MMS0
+title: MMS0
 name: Making Music Year 10
+code: MMS0
+subject_area: Making Music
+date: 2019-07-01T01:58:58.358Z
+year: '10'
+type: Optional
+course_duration: Two Terms
 course_level: Year 10
 assessment_type: Optional
-course_duration: Two Terms
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: MMS0
-type: Optional
-description: ""
-maori_title: ""
-body: "To develop an understanding of a design process and practical skills through the manufacture of a small guitar. This will enable students to develop confidence in both applying a design process and fabricating a complex solution."
-year: "10"
-credits: ""
-entry_requirements: ""
-course_fees: ""
-leads_to: ""
-duration: ""
+leads_to: ''
+credits: .
+entry_requirements: ''
+course_fees: ''
+notes: ''
 ---
+**Purpose:**
+
+To develop an understanding of a design process and practical skills through the manufacture of a small guitar. This will enable students to develop confidence in both applying a design process and fabricating a complex solution.
+
+**Content:**
+
+All students will make a small guitar with the option to design certain elements in order to personalize their instrument. They will develop manufacturing skills through working with a range of hard materials. Students will be taught practical skills and the expectations of safe workshop practice.
+
+**Assessment:**
+
+Portfolio work and practical solution.
