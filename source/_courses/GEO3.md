@@ -19,4 +19,4 @@ course_fees: >-
 ue_approved: true
 notes: ''
 ---
-To develop an understanding of the natural and cultural environments. Natural landscapes – Examining the South Island High Country, and Skills which include mapping, graphing, visual interpretation, values, statistics and geographic concepts. Contemporary geographic issues and geographic issues on a global scale (Issue of Endangered Species), as well as planning and carrying out research in relation to the climate of our region.
+To build upon previous studies, to develop an understanding of the natural and cultural environments, and develop an understanding of the environment as the home of people. Main studies include: a natural geographic environment in New Zealand (Coastal Processes, examining the Kapiti Coast); Cultural Processes (Tourism Development in Queenstown and the Gold Coast). Contemporary geographic issues and geographic issues on a global scale (Global Tourism), as well as planning and carrying out geographic research in the Kapiti Coast.
