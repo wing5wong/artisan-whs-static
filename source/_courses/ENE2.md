@@ -1,24 +1,18 @@
 ---
-faculty: English
-subject_area: English (Extension)
-code: ENE2
+title: ENE2
 name: English Extension NCEA 2
+code: ENE2
+subject_area: English (Extension)
+date: 2019-06-30T23:59:58.565Z
+year: '12'
+type: Level 2 Core
+course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-course_duration: Full Year
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: ENE2
-type: Level 2 Core
-description: ""
-maori_title: "ENG3. ENL3."
-body: "To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, production and critical awareness, creative writing and formal writing."
-year: "12"
-credits: "21"
-entry_requirements: "18 credits ENG1/ENE1 mainly at Merit and Excellence and HOF/TIC approval"
-course_fees: ""
-leads_to: "ENG3. ENL3."
-duration: ""
+leads_to: ENG3. ENL3.
+credits: '21'
+entry_requirements: 18 credits ENG1/ENE1 mainly at Merit and Excellence and HOF/TIC approval
+course_fees: ''
+notes: ''
 ---
+To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, production and critical awareness, creative writing and formal writing.
