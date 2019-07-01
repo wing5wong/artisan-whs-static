@@ -5,7 +5,7 @@ code: MATE
 subject_area: Mathematics (General)
 date: 2019-07-01T01:53:11.594Z
 year: '9'
-type: "Compulsory\t - Full Year"
+type: Compulsory - Full Year
 course_duration: Full Year
 course_level: Year 9
 assessment_type: Compulsory
