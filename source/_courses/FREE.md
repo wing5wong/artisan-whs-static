@@ -24,9 +24,9 @@ Students are introduced to French language and culture. Students will learn basi
 Topics may include:
 
 * Greetings, names, age and birthday
-* Numbers, days of week, countries and nationalities
+* Number, days of the week, countries and nationalities.
 * Family, pets, leisure activities, school
 
 **Assessment:**
 
-Assessment of the five key skills of Listening, Speaking, Interacting, Reading and Writing.
+Assessment of the five key skills of Listening, Speaking, Presenting, Reading and Writing.
