@@ -1,24 +1,19 @@
 ---
-faculty: Social Sciences
-subject_area: Accounting
-code: ACC3
+title: ACC3
 name: Accounting NCEA 3
+code: ACC3
+subject_area: Accounting
+date: 2019-07-01T21:02:36.894Z
+year: '13'
+type: Level 3 Optional
+course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-course_duration: Full Year
-ue_approved: TRUE
-invitation_only: 
-notes: ""
-endorsement: 
-title: ACC3
-type: Level 3 Optional
-description: ""
-maori_title: "U.E. Approved"
-body: "This course extends students to apply Accounting skills specifically meeting the requirement of Companies, partnerships and manufacturing organisations. Students prepare a report on a major NZ publicly listed company and receive training at Massey University. Job cost accounting and management decision making including cost volume profit analysis conclude the course."
-year: "13"
-credits: "18-22"
-entry_requirements: "12 Credits in ACC2 (including 1 external standard) or HOF/TIC approval."
-course_fees: "$18"
-leads_to: "U.E. Approved"
-duration: ""
+leads_to: U.E. Approved
+credits: 18-22
+entry_requirements: 12 Credits in ACC2 (including 1 external standard) or HOF/TIC approval.
+course_fees: $18
+ue_approved: true
+notes: ''
 ---
+This course extends students to apply Accounting skills specifically meeting the requirement of Companies, partnerships and manufacturing organisations. Students prepare a report on a major NZ publicly listed company and receive training at Massey University. Job cost accounting and management decision making including cost volume profit analysis conclude the course.
