@@ -1,24 +1,30 @@
 ---
-faculty: English
-subject_area: English (Extension)
-code: ENEE
+title: ENEE
 name: English Extension Year 9
+code: ENEE
+subject_area: English (Extension)
+date: 2019-07-01T00:00:32.596Z
+year: '9'
+type: Compulsory - Full Year
+course_duration: Full Year
 course_level: Year 9
 assessment_type: Compulsory
-course_duration: Full Year
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: ENEE
-type: Compulsory - Full Year
-description: ""
-maori_title: ""
-body: "*To explore, understand, use and respond to oral, written and visual language effectively *To develop critical thinking and literacy skills."
-year: "9"
-credits: ""
-entry_requirements: ""
-course_fees: ""
-leads_to: ""
-duration: ""
+leads_to: ''
+credits: .
+entry_requirements: ''
+course_fees: ''
+notes: ''
 ---
+**Purpose:**
+
+* To explore, understand, use and respond to oral, written and visual language effectively
+* To develop critical thinking and literacy skills.
+
+**Content:**
+
+Students learn to use and respond to English language and literature through personal reading, writing, speaking, listening, viewing and presenting. This occurs both individually and in group situations. Texts include novels, non-fiction books, poetry, short stories, film and drama. Students will complete most of their work on Google Classroom.
+
+**Assessment:**
+
+* Regular, formative in-class assessment.
+* Common tasks/tests and end-of-year examination.
