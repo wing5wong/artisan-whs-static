@@ -22,7 +22,7 @@ notes: ''
 
 **Content:**
 
-Students learn to use and respond to English language and literature through personal reading, writing, speaking, listening, viewing and presenting. This occurs both individually and in group situations. Texts include novels, non-fiction books, poetry, short stories, film and drama. Students will complete most of their work on Google Classroom.
+Students learn to use and respond to English language and literature through personal reading, writing, speaking, listening, viewing and presenting. This occurs both individually and in group situations. Texts include novels, non-fiction books, poetry, short stories, film and drama. Students will complete part of their work on Google Classroom.
 
 **Assessment:**
 
