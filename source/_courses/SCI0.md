@@ -1,24 +1,18 @@
 ---
-faculty: Sciences
-subject_area: Science (Introductory/Internal)
-code: SCF0
+title: SCI0
 name: Science
+code: SCF0
+subject_area: Science (Introductory/Internal)
+date: 2019-07-01T02:40:31.567Z
+year: '10'
+type: "Compulsory\t - Full Year"
+course_duration: Full Year
 course_level: Year 10
 assessment_type: Compulsory
-course_duration: Full Year
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: SCI0
-type: Compulsory	 - Full Year
-description: ""
-maori_title: "SCI1, SCX1, SCY1"
-body: "To broaden students' understanding of Science and how humans use it to explain natural phenomena. To further practice and use the scientific method of investigation to formulate justified explanations and conclusions."
-year: "10"
-credits: ""
-entry_requirements: "Successful completion of SCIE course."
-course_fees: ""
-leads_to: "SCI1, SCX1, SCY1"
-duration: ""
+leads_to: 'SCI1, SCX1, SCY1'
+credits: .
+entry_requirements: Successful completion of SCIE course.
+course_fees: ''
+notes: ''
 ---
+To provide a balanced Science programme to include aspects of Biology, Chemistry, Physics: investigations, interpreting information, microorganisms, life processes, metal properties, electricity and magnetism.
