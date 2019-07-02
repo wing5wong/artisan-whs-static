@@ -353,7 +353,7 @@ collections:
     
     - {label: "Body", name: "body", widget: "markdown", required: false}
     
-    - {label: "Credits", name: "credits", widget: "string"}
+    - {label: "Credits", name: "credits", widget: "string", required: false}
     - {label: "Entry Requirements", name: "entry_requirements", widget: "string", required: false}
     - {label: "Course Contribution", name: "course_fees", widget: "string", required: false}
     
