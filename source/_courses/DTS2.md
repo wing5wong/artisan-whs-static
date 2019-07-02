@@ -13,10 +13,7 @@ leads_to: >-
   DTM3, DTS3, DTA3 or future work in the computer infrastructure or programing
   fields
 credits: '17'
-entry_requirements: >-
-  Achieved results from DTG1 AS91075 and AS91076 or TIC/HOF approval. Those
-  students who did not take DTG1 will require good results from Level one
-  Mathematics.
+entry_requirements: ''
 course_fees: Nil
 notes: ''
 ---
