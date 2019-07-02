@@ -6,7 +6,7 @@ subject_area: Food and Nutrition
 date: 2019-07-01T00:15:27.750Z
 year: '9'
 type: Year 9 Optional
-course_duration: Full Year
+course_duration: One Term
 course_level: Year 9
 assessment_type: Optional
 leads_to: ''
