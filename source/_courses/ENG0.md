@@ -21,9 +21,9 @@ To teach students to study, use and enjoy the English language and its literatur
 
 **Content:**
 
-The course is structured around making meaning of ideas or information they receive (listening, reading and viewing) and creating meaning for themselves or others (speaking, writing and presenting).
+The course is structured around making meaning of ideas or information we receive (listening, reading and viewing) and creating meaning for ourselves or others (speaking, writing and presenting).
 
 **Assessment:**
 
 * End of year examination. 
-* Course work through the year.
+* Course work through the year.
