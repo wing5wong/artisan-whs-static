@@ -1,10 +1,13 @@
 ---
 title: Digital Technologies (Computing)
-date: 2019-06-27T01:00:00.000Z
+date: 2019-06-28T01:00:00.000Z
 tags:
   - About WHS
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1561592421/faculties/Digital_Tech_-_combined.jpg
+intro: >-
+  In Digital Technologies, students develop knowledge and skills using a wide
+  range of exciting internet and computing technologies.
 ---
 Welcome to the Digital Technologies Department. Our facilities include 5 fully functioning computer labs, high speed fibre internet and over 120 networked computers. We also have other various networked pods around the school for student use.
 

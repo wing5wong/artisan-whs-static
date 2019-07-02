@@ -3,7 +3,8 @@ title: Vocational Studies
 date: 2019-06-27T01:00:00.000Z
 tags:
   - About WHS
-image: ''
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1562015249/faculties/Vocational_Studies_-_Combined.jpg
 ---
 _**Overview**_
 

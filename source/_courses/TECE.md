@@ -1,24 +1,28 @@
 ---
-faculty: Technology
-subject_area: Technology Materials
-code: TECE
+title: TECE
 name: Technology Materials Year 9
+code: TECE
+subject_area: Technology Materials
+date: 2019-07-01T03:40:44.223Z
+year: '9'
+type: Year 9 Optional
+course_duration: One Term
 course_level: Year 9
 assessment_type: Optional
-course_duration: Two Terms
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: TECE
-type: Year 9 Optional
-description: ""
-maori_title: ""
-body: "To develop student's understanding of Technology, and to provide students the opportunity to develop their own skills in a practical environment where they experience many aspects of the subject area."
-year: "9"
-credits: ""
-entry_requirements: ""
-course_fees: ""
-leads_to: ""
-duration: "One term"
+leads_to: ''
+credits: .
+entry_requirements: ''
+course_fees: ''
+notes: ''
 ---
+**Purpose:**
+
+To develop student's understanding of Technology, and to provide students the opportunity to develop their own skills in a practical environment where they experience many aspects of the subject area.
+
+**Content:**
+
+Students will learn essential research, design and manufacturing skills required to work with a range of hard materials in a workshop environment.  This will enable students to produce creative, functional and aesthetic solutions to given design problems. Students will be taught practical skills and the expectations of safe workshop practice. 3D printing and laser cutting will be used to produce some products.
+
+**Assessment:**
+
+Portfolio work and practical solutions.

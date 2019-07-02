@@ -1,24 +1,28 @@
 ---
-faculty: Mathematics
-subject_area: Mathematics (General)
-code: MAT0
+title: MAT0
 name: Mathematics General Year 10
+code: MAT0
+subject_area: Mathematics (General)
+date: 2019-07-01T01:51:38.738Z
+year: '10'
+type: "Compulsory\t- Full Year"
+course_duration: Full Year
 course_level: Year 10
 assessment_type: Compulsory
-course_duration: Full Year
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: MAT0
-type: Compulsory	- Full Year
-description: ""
-maori_title: ""
-body: "To increase students understanding of Mathematics and build their confidence in using Mathematics to solve practical problems."
-year: "10"
-credits: ""
-entry_requirements: "Satisfactory completion a Year 9 Mathematics course."
-course_fees: ""
-leads_to: ""
-duration: ""
+leads_to: ''
+credits: .
+entry_requirements: Satisfactory completion a Year 9 Mathematics course.
+course_fees: ''
+notes: ''
 ---
+**Purpose:**
+
+To increase students understanding of Mathematics and build their confidence in using Mathematics to solve practical problems.
+
+**Content:**
+
+The course will continue to develop the students knowledge of Number, Measurement, Algebra, Probability, Statistics and Geometry. Trigonometry will be introduced. Some Level 1 NCEA Mathematics may be offered.
+
+**Assessment:**
+
+Common topic tests on content and process. End of year examination.

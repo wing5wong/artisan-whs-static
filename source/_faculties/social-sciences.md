@@ -1,10 +1,14 @@
 ---
 title: Social Sciences
-date: 2019-06-27T01:00:00.000Z
+date: 2019-06-28T01:00:00.000Z
 tags:
   - About WHS
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1561592437/faculties/Social_Science_-_combined.jpg
+intro: >-
+  In the Social Sciences, students explore how societies work and how they
+  themselves can participate and take action as critical, informed, and
+  responsible citizens.
 ---
 Social Sciences are ideal for students that are interested in high achievement, career progression and an informed view of the world in which we live. Social Studies starts in Year 9 and flows onto Year 10 for all students and offers a wide range of understanding, inquiry and skills. As students move through Whanganui High School, our Social Science faculty allows students to explore, inquire and learn about a wide range of subjects including: Accounting, Classical Studies, Economics, Geography, History, Psychology, Social Studies and Tourism.
 

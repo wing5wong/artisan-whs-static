@@ -1,10 +1,14 @@
 ---
 title: Performing Arts
-date: 2019-06-27T01:00:00.000Z
+date: 2019-06-28T01:00:00.000Z
 tags:
   - About WHS
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1561592426/faculties/Drama_dance_-_combined.jpg
+intro: >-
+  In the Arts students explore, refine, and communicate ideas as they connect
+  thinking, imagination, senses, and feelings to create works and respond to the
+  works of others.
 ---
 Whanganui High School is delighted that so many students take part in and benefit from, the wide range of cultural opportunities on offer. 
 
