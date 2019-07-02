@@ -1,5 +1,5 @@
 ---
-title: TEXE
+title: FDZE
 name: Fashion Design Year 9
 code: FDZE
 subject_area: Textiles and Design
