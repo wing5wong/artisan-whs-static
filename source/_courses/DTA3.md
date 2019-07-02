@@ -11,9 +11,7 @@ course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: ''
 credits: '28'
-entry_requirements: >-
-  Open entry for Year 13 students, subject to HOD approval but excludes taking
-  DTS3
+entry_requirements: 'Open entry for Year 13 students, subject to HOD approval'
 course_fees: Nil
 notes: ''
 ---
