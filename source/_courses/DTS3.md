@@ -13,9 +13,7 @@ leads_to: >-
   U.E. Approved. Computer Science or Software Engineering degrees or work in the
   Computer Infrastructure fields.
 credits: '16'
-entry_requirements: >-
-  Achieved results in one of AS91371, AS91372 or AS91373, and/or TIC/HOF
-  approval which will be based on achievement in Mathematics at level 2.
+entry_requirements: ''
 course_fees: Nil
 ue_approved: true
 notes: ''
