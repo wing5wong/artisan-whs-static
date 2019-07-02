@@ -9,7 +9,10 @@ type: Level 1 Core
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: 'DTM2, DTA2'
+leads_to:
+  - DTM2
+  - DTA2
+  - DTS2
 credits: Up to 22
 entry_requirements: ''
 course_fees: Nil.
