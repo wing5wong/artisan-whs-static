@@ -9,7 +9,6 @@ type: Level 3 Core
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: 18-22
 entry_requirements: >-
   10 credits UE Literacy, with at least one external standard achieved. Students

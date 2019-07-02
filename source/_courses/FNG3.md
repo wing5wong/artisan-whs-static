@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-leads_to: U.E. Approved
 credits: 19-24
 entry_requirements: 12 credits in FNG2 and HOF/TIC approval.
 course_fees: $75

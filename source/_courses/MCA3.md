@@ -9,7 +9,6 @@ type: Level 3 - Selected Students
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievment Standard and Cambridge as examination
-leads_to: U.E. Approved
 credits: '27'
 entry_requirements: Students need to have taken the MCA2 course in Year 12.
 course_fees: $15. Students need a Graphics calculator for this course.

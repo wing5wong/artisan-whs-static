@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: '19'
 entry_requirements: 14 credits in PED2 and 12 credits in ENG2/ENE2 and HOF/TIC approval.
 course_fees: $120

@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: '25'
 entry_requirements: 12 Credits in HIS2 or ENG2.
 course_fees: Field Trip - to be advised.

@@ -9,7 +9,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: '15'
 entry_requirements: >-
   Algebra and Calculus School examination and HOF/TIC approval. (Note: 1.

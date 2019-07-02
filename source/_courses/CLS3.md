@@ -8,8 +8,7 @@ year: '13'
 type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
-assessment_type: Achievement Standard
-leads_to: U.E. Approved.
+assessment_type: Achievement Standard.
 credits: 20-26
 entry_requirements: >-
   12 credits in at least one of the following: CLS2 or ENG2 or HIS2 and HOF/TIC

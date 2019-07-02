@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: '28'
 entry_requirements: 18 Credits in MAO2 and HOF/TIC approval.
 course_fees: Own Māori-English dictionary is compulsory.

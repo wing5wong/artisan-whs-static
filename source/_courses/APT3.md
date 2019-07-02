@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
-leads_to: U.E. Approved
 credits: '18'
 entry_requirements: 12 credits in ARP2/APT2
 course_fees: $50

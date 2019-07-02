@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: 18-24
 entry_requirements: 12 credits in FRE2 or HOD approval.
 course_fees: >-

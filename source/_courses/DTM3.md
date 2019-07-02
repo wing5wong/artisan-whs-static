@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: '22'
 entry_requirements: 'Open entry for Year 13 students, subject to HOD approval.'
 course_fees: Nil

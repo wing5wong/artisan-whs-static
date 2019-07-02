@@ -9,7 +9,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: '17'
 entry_requirements: >-
   Algebra (MTA2) and/or Probability (MPS2) school Examination and HOF/TIC

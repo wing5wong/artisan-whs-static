@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: '19'
 entry_requirements: >-
   At least 15 credits at HLT2. Will consider students who have not done HLT2

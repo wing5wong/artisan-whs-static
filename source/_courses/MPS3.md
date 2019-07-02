@@ -9,7 +9,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: '20'
 entry_requirements: >-
   Probability Methods school examination from MPS2 and HOF/TIC approval. (Note:

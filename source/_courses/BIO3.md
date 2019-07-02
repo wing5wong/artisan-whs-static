@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: 19-22
 entry_requirements: 14 credits in BIO2 and HOF/TIC approval.
 course_fees: $20 workbook plus $40 Wellington Field trip

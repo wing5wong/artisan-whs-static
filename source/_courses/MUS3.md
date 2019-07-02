@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: U.E. Approved
 credits: 22+
 entry_requirements: >-
   At least 12 credits in MUS2 or equivalent. Currently learning an instrument or

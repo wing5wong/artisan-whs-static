@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
-leads_to: U.E. Approved
 credits: '20'
 entry_requirements: 14 credits in SPR2 or PED2 and HOF/TIC approval.
 course_fees: $120
