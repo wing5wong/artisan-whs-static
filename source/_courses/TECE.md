@@ -6,7 +6,7 @@ subject_area: Technology Materials
 date: 2019-07-01T03:40:44.223Z
 year: '9'
 type: Year 9 Optional
-course_duration: Two Terms
+course_duration: One Term
 course_level: Year 9
 assessment_type: Optional
 leads_to: ''
