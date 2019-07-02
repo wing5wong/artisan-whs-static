@@ -1,7 +1,6 @@
 ---
 title: Enrolments
 date: 2019-06-28T02:59:15.762Z
-intro: .
 ---
 ## Enrolment Applications
 
