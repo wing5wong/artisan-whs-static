@@ -13,7 +13,7 @@ leads_to: 'DTA3, DTM3 subject to HOF approval'
 credits: 16-20
 entry_requirements: >-
   Open entry for Year 12 students and vocational students, subject to HOD
-  approval but excludes studies in DTS2
+  approval
 course_fees: Nil
 notes: ''
 ---
