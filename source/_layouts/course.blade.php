@@ -7,17 +7,32 @@
 
 {!! $page !!}
 
-<h3 class="d-inline">Course Type:</h3> {{ $page->type }} <br>
+{{-- <h3 class="d-inline">Course Type:</h3> {{ $page->type }} <br> --}}
+
+@if($page->credits)
 <h3 class="d-inline">Course credits:</h3> {{ $page->credits }} <br>
+@endif
+
 <h3 class="d-inline">Course duration:</h3> {{ $page->course_duration }} <br>
 
+@if($page->background)
 <h3 class="d-inline">Purpose:</h3> {{ $page->background }} <br>
+@endif
 
+@if($page->entry_requirements)
 <h3 class="d-inline">Entry Requirements:</h3> {{ $page->entry_requirements }} <br>
+@endif
+
+@if($page->course_fees)
 <h3 class="d-inline">Course Contribution:</h3> {{ $page->course_fees }} <br>
+@endif
+
+
 <h3 class="d-inline">Course Assessment:</h3> {{ $page->assessment_type }} <br>
 
+@if($page->leads_to)
 <h3 class="d-inline">Leads to:</h3> @foreach(explode(",", $page->leads_to) as $leads)<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> @endforeach  <br>
+@endif
 
 <?php
 $courseAssessments = $assessments->filter(function($assessment) use ($page){
@@ -38,6 +53,7 @@ Some or all of the following will be offered
 <thead>
     <tr>
         <th>Title</th>
+        <th>Description</th>
         <th>Level</th>
         <th>Credits</th>
         <th>Assessment</th>
@@ -48,6 +64,9 @@ Some or all of the following will be offered
 <tr>
     <td>
         <a href="{{ $assessment->pdf }}">{{ $assessment->title }}</a>
+    </td>
+    <td>
+            {{ $assessment->description }}
     </td>
     <td>
             {{ $assessment->level }}
@@ -66,10 +85,11 @@ Some or all of the following will be offered
 <br>
 @endif
 
-<h3 class="d-inline">Notes:</h3> {{ $page->notes }}
+@if($page->notes)
+<h3 class="d-inline">Notes:</h3> {{ $page->notes }} <br>
+@endif
 
 
-<br>
 Other courses in {{ $page->subject_area }}:
 
 <?php
