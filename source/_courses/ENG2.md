@@ -17,4 +17,4 @@ entry_requirements: >-
 course_fees: Nil
 notes: ''
 ---
-To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, production and critical awareness, creative writing and formal writing. Students will be given the opportunity to gain the 10 Literacy credits required for University Entrance.
+To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, creative writing and formal writing. Students will be given the opportunity to gain the 10 Literacy credits required for University Entrance.
