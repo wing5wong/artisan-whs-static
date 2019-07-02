@@ -9,16 +9,16 @@
 
 
 
-@foreach($faculties as $faculty)
+@foreach($faculties->sortBy('title') as $faculty)
 <details>
 <summary><h2 class="decorated d-table my-5">{{ $faculty->title }}</h2></summary>
 
 <div class="row">
     @foreach($subject_areas->filter(function($subject_area) use ($faculty){
     return $subject_area->faculty == $faculty->title;
-    }) as $subject)
+    })->sortBy('title') as $subject)
     <div class="col col-md-6 col-lg-6">
-    <details>
+    <details open>
             
             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
         @php

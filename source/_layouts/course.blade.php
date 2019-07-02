@@ -34,6 +34,18 @@
 <h3 class="d-inline">Leads to:</h3> @foreach(explode(",", $page->leads_to) as $leads)<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> @endforeach  <br>
 @endif
 
+@if($page->ue_approved)
+<h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? Yes : No}}} <br> 
+@endif
+
+@if($page->endorsement)
+<h3 class="d-inline">Endorsement:</h3> {{$page->endorsement ? Yes : No}} <br> 
+@endif
+
+@if($page->invitation_only)
+<h3 class="d-inline">Invitation Only:</h3> {{$page->invitation_only ? Yes : No}} <br> 
+@endif
+
 <?php
 $courseAssessments = $assessments->filter(function($assessment) use ($page){
     if(!is_array($assessment->categories)){ return false; }
@@ -60,7 +72,7 @@ Some or all of the following will be offered
     </tr>
 </thead>
 <tbody>
-@foreach($courseAssessments as $assessment)
+@foreach($courseAssessments->sortBy('title') as $assessment)
 <tr>
     <td>
         <a href="{{ $assessment->pdf }}">{{ $assessment->title }}</a>
