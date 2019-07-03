@@ -1,14 +1,13 @@
 ---
 title: CHNE
-name: Chinese Year 9
+name: Chinese
 code: CHNE
 subject_area: Chinese
 date: 2019-06-28T04:16:03.709Z
 year: '9'
-type: 5 week introduction plus 20 week course if selected
-course_duration: Two Terms
+type: Optional
+course_duration: 5 Week Introduction Plus 20 Week Course If Selected
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
 credits: .
 entry_requirements: ''

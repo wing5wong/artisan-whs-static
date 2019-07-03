@@ -1,14 +1,13 @@
 ---
 title: SPAE
-name: Spanish Year 9
+name: Spanish
 code: SPAE
 subject_area: Spanish
 date: 2019-07-01T02:56:33.209Z
 year: '9'
-type: 5 week introduction plus 20 week course if selected
-course_duration: One Term
+type: Optional
+course_duration: 5 Week Introduction Plus 20 Week Course If Selected
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
 credits: .
 entry_requirements: ''
