@@ -1,15 +1,16 @@
 ---
 title: CHN2
-name: Chinese NCEA 2
+name: Chinese
 code: CHN2
 subject_area: Chinese
 date: 2019-06-28T04:10:36.139Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: CHN3
+leads_to:
+  - CHN3
 credits: 19-24
 entry_requirements: 12 Credits in CHN1 or HOD approval.
 course_fees: >-
