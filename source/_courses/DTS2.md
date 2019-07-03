@@ -1,6 +1,6 @@
 ---
 title: DTS2
-name: Digital Technologies Science NCEA 2
+name: Digital Technologies Science
 code: DTS2
 subject_area: Digital Technologies Science
 date: 2019-06-30T23:04:52.989Z
@@ -17,4 +17,4 @@ entry_requirements: ''
 course_fees: Nil
 notes: ''
 ---
-The purpose of this course is for students to gain an appreciation of the ongoing developments and applications for advanced computer software and systems. Computer Science - understand and apply the commonly used terms and logic. Computer Programming - Develop an appreciation of the logic required and elements used to construct and advanced computer program to address a given need. Much of this course will be centred around the development of a computer game.
+The purpose of this course is for students to gain an appreciation of the ongoing developments and applications for advanced computer software and systems. Computer Science understand and apply the commonly used terms and logic. Computer Programming - develop an appreciation of the logic required and elements used to construct and advanced computer program to address a given need. Much of this course will be centered around the development of a computer game.
