@@ -9,7 +9,7 @@ type: Compulsory
 course_duration: Full Year
 course_level: Year 9
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
