@@ -1,11 +1,11 @@
 ---
 title: FRE1
-name: French NCEA 1
+name: French
 code: FRE1
 subject_area: French
 date: 2019-07-01T00:24:24.387Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
