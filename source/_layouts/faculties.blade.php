@@ -11,7 +11,15 @@
 
 @foreach($faculties->sortBy('title') as $faculty)
 <details>
-<summary><h2 class="decorated d-table my-5">{{ $faculty->title }}</h2></summary>
+<summary>
+    <h2 class="decorated d-table my-5">{{ $faculty->title }}</h2>
+    @if($faculty->intro)
+    <br>
+    {{ $faculty->intro }}
+    <hr>
+    @endif
+
+</summary>
 
 <div class="row">
     @foreach($subject_areas->filter(function($subject_area) use ($faculty){
