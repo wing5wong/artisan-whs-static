@@ -9,7 +9,7 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-leads_to: Hospitality industry. This course is not U.E. approved.
+ue_approved: false
 credits: '22'
 entry_requirements: 8 credits in FNG2 or 12 credits in FNI2 and HOF/TIC approval.
 course_fees: $75

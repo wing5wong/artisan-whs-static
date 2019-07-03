@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: 'Industry Training, 12 U.E. Approved credits'
 credits: '15'
 entry_requirements: 12 credits in TCE2 or TEC2 and HOF/TIC approval.
 course_fees: $70 plus kit fee (approx $170)

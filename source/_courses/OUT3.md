@@ -9,7 +9,7 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-leads_to: Not U.E. Approved (is trade recognised)
+ue_approved: false
 credits: 21-24
 entry_requirements: HOF/TIC approval.
 course_fees: $285 for recreational pursuits

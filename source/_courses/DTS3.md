@@ -9,9 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-leads_to: >-
-  U.E. Approved. Computer Science or Software Engineering degrees or work in the
-  Computer Infrastructure fields.
 credits: '16'
 entry_requirements: ''
 course_fees: Nil

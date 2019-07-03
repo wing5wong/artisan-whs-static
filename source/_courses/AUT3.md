@@ -9,7 +9,6 @@ type: Level 3 Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-leads_to: Not U.E. Approved
 credits: '20'
 entry_requirements: >-
   10 credits of AUT2, and a record of safety and responsibility in the Workshop

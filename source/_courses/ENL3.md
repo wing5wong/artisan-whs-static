@@ -9,7 +9,6 @@ type: Level 3 Core
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievment Standard and Scholarship
-leads_to: 'Scholarship English Exam, U.E. Approved'
 credits: '21'
 entry_requirements: >-
   12 credits ENG2 achieved mainly at Merit or Excellence, and HOF/TIC approval.
