@@ -1,15 +1,17 @@
 ---
 title: IEL2
-name: International English Language NCEA 2
+name: International English Language
 code: IEL2
 subject_area: International English Language
 date: 2019-07-01T01:05:55.206Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: IEN1/IEN2
+leads_to:
+  - IEN1
+  - IEN2
 credits: 20+
 entry_requirements: ESOL students who need to develop English skills and HOF/TIC approval.
 course_fees: Included in International Student Fee
