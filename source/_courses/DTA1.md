@@ -5,7 +5,7 @@ code: DTA1
 subject_area: Vocational Digital Literacy
 date: 2019-07-03T04:34:35.368Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
