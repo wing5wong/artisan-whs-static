@@ -1,14 +1,13 @@
 ---
 title: ENE0
-name: English Extension Year 10
+name: English Extension
 code: ENE0
 subject_area: English (Extension)
 date: 2019-06-30T23:21:26.211Z
 year: '10'
-type: "Compulsory\t - Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-assessment_type: Compulsory
 leads_to: ''
 credits: .
 entry_requirements: At least 75% in the Year 9 examination as well as teacher recommendation.
