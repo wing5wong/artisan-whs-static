@@ -1,17 +1,18 @@
 ---
 title: ENG0
-name: English General Year 10
+name: English General
 code: ENG0
 subject_area: English (General)
 date: 2019-07-01T00:02:59.350Z
 year: '10'
-type: "Compulsory\t- Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-assessment_type: Compulsory
 leads_to: ''
 credits: .
-entry_requirements: Satisfactory completion of the ENGE course. 50% in the End of year Examination
+entry_requirements: >-
+  Satisfactory completion of the ENGE course. 50% in the End of year
+  Examination.
 course_fees: ''
 notes: ''
 ---
