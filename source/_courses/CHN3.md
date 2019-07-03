@@ -1,11 +1,11 @@
 ---
 title: CHN3
-name: Chinese NCEA 3
+name: Chinese
 code: CHN3
 subject_area: Chinese
 date: 2019-06-28T04:11:08.569Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
