@@ -5,7 +5,7 @@ code: DTA3
 subject_area: Digital Technologies Applied
 date: 2019-07-03T04:36:40.071Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
