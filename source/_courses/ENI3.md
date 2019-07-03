@@ -5,7 +5,7 @@ code: ENI3
 subject_area: English (Introductory/Internal)
 date: 2019-07-01T00:09:11.921Z
 year: '13'
-type: Level 3 Core
+type: Core
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
