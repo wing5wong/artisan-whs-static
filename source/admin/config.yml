@@ -336,7 +336,7 @@ collections:
     folder: "source/_courses"
     create: true
     slug: "{{slug}}"
-    summary: "{{code}} - {{title}}"
+    summary: "{{title}} - {{name}}"
 
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
