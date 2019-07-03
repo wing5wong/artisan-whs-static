@@ -14,8 +14,8 @@ leads_to:
   - DTM3
 credits: 16-20
 entry_requirements: >-
-  Subject to HOF approval. Open entry for Year 12 students and vocational
-  students (subject to HOF approval)
+  Open entry for Year 12 students and vocational students, subject to HOF
+  approval.
 course_fees: Nil
 notes: ''
 ---
