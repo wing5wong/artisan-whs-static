@@ -5,7 +5,7 @@ code: DTS3
 subject_area: Digital Technologies Science
 date: 2019-06-30T23:05:42.549Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
