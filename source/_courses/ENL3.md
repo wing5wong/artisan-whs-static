@@ -8,7 +8,7 @@ year: '13'
 type: Core
 course_duration: Full Year
 course_level: NCEA 3
-assessment_type: Achievment Standard and Scholarship
+assessment_type: Achievement Standard and Scholdarship
 leads_to: 'Scholarship English Exam, U.E. Approved'
 credits: '21'
 entry_requirements: >-
