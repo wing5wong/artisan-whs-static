@@ -1,6 +1,6 @@
 ---
 title: DTM3
-name: Digital Technologies Media NCEA 3
+name: Digital Technologies Media
 code: DTM3
 subject_area: Digital Technologies Media
 date: 2019-06-30T23:03:40.777Z
@@ -10,7 +10,7 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 credits: '22'
-entry_requirements: 'Open entry for Year 13 students, subject to HOD approval.'
+entry_requirements: 'Open entry for Year 13 students, subject to HOF approval.'
 course_fees: Nil
 ue_approved: true
 notes: ''
