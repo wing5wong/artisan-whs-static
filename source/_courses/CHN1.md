@@ -1,11 +1,11 @@
 ---
 title: CHN1
-name: Chinese NCEA 1
+name: Chinese
 code: CHN1
 subject_area: Chinese
 date: 2019-06-28T04:09:58.458Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
