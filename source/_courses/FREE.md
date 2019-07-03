@@ -1,14 +1,13 @@
 ---
 title: FREE
-name: French Year 9
+name: French
 code: FREE
 subject_area: French
 date: 2019-07-01T00:29:41.955Z
 year: '9'
-type: 5 week introduction plus 20 week course if selected.
-course_duration: Full Year
+type: Optional
+course_duration: 5 Week Introduction Plus 20 Week Course If Selected
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
 credits: .
 entry_requirements: ''
