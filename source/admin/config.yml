@@ -304,6 +304,7 @@ collections:
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
@@ -322,6 +323,7 @@ collections:
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Faculty", name: faculty, required: true, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayField: [title"]}
@@ -334,9 +336,11 @@ collections:
     folder: "source/_courses"
     create: true
     slug: "{{slug}}"
+    summary: "{{code}} - {{title}}"
 
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
     - {label: "Name", name: "name", widget: "string"}
     - {label: "Code", name: "code", widget: "string"}
 
@@ -472,6 +476,7 @@ collections:
     folder: "source/_staff"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    summary: "{{title}} - {{position}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
