@@ -1,17 +1,19 @@
 ---
 title: VDL1
-name: Vocational Digital Literacy NCEA 1
+name: Vocational Digital Literacy
 code: DTA1
 subject_area: Vocational Digital Literacy
-date: 2019-06-28T04:34:35.368Z
+date: 2019-07-03T04:34:35.368Z
 year: '11'
 type: Level 1 Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: 'DTM2, DTA2'
+leads_to:
+  - DTM2
+  - DTA2
 credits: '18'
-entry_requirements: ''
+entry_requirements: Subject to HOF approval.
 course_fees: Nil
 notes: ''
 ---
