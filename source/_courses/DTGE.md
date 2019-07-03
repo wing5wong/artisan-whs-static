@@ -1,14 +1,13 @@
 ---
 title: DTGE
-name: Digital Technologies General Year 9
+name: Digital Technologies General
 code: DTGE
 subject_area: Digital Technologies
-date: 2019-06-28T02:58:08.653Z
+date: 2019-07-03T02:58:08.653Z
 year: '9'
-type: Year 9 - Compulsory
+type: Compulsory
 course_duration: Two Terms
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
 credits: .
 entry_requirements: ''

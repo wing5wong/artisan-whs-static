@@ -1,15 +1,17 @@
 ---
 title: ENG2
-name: English General NCEA 2
+name: English General
 code: ENG2
 subject_area: English (General)
 date: 2019-07-01T00:05:23.151Z
 year: '12'
-type: Level 2 Core
+type: Core
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: 'ENG3, ENL3'
+leads_to:
+  - ENG3
+  - ENL3
 credits: 21-24
 entry_requirements: >-
   12 credits ENG1. Students must have attempted the Speech in Level 1 and pass

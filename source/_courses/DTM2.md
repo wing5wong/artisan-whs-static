@@ -1,17 +1,17 @@
 ---
 title: DTM2
-name: Digital Technologies Media NCEA 2
+name: Digital Technologies Media
 code: DTM2
 subject_area: Digital Technologies Media
 date: 2019-06-30T23:02:24.633Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to: 'DTM3, DTA3'
 credits: '23'
-entry_requirements: 'Open entry to Year 12 students, subject to HOD approval.'
+entry_requirements: 'Open entry to Year 12 students, subject to HOF approval.'
 course_fees: Nil
 notes: ''
 ---

@@ -1,19 +1,21 @@
 ---
 title: DTA2
-name: Digital Technologies Applied NCEA 2
+name: Digital Technologies Applied
 code: DTA2
 subject_area: Digital Technologies Applied
-date: 2019-06-28T04:35:49.488Z
+date: 2019-07-03T04:35:49.488Z
 year: '12'
-type: Level 2 Core
+type: Core
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-leads_to: 'DTA3, DTM3 subject to HOF approval'
+leads_to:
+  - DTA3
+  - DTM3
 credits: 16-20
 entry_requirements: >-
-  Open entry for Year 12 students and vocational students, subject to HOD
-  approval
+  Open entry for Year 12 students and vocational students, subject to HOF
+  approval.
 course_fees: Nil
 notes: ''
 ---

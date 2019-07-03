@@ -1,17 +1,17 @@
 ---
 title: DTA3
-name: Digital Technologies Applied NCEA 3
+name: Digital Technologies Applied
 code: DTA3
 subject_area: Digital Technologies Applied
-date: 2019-06-28T04:36:40.071Z
+date: 2019-07-03T04:36:40.071Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: ''
 credits: '28'
-entry_requirements: 'Open entry for Year 13 students, subject to HOD approval'
+entry_requirements: 'Open entry for Year 13 students, subject to HOF approval'
 course_fees: Nil
 notes: ''
 ---

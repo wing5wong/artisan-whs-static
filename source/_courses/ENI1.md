@@ -1,15 +1,16 @@
 ---
 title: ENI1
-name: English Introductory NCEA 1
+name: English Introductory
 code: ENI1
 subject_area: English (Introductory/Internal)
 date: 2019-07-01T00:07:59.836Z
 year: '11'
-type: Level 1 Core
+type: Core
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: ENI2
+leads_to:
+  - ENI2
 credits: '16'
 entry_requirements: ''
 course_fees: ''
