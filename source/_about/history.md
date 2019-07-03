@@ -10,7 +10,7 @@ visible: 'Yes'
 ---
 ## Whanganui High School Crest
 
-![Whanganui High School Crest (2018)](https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png "Whanganui High School Crest (2018)")
+![Whanganui High School Crest (2018)](https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,h_300/v1554149869/logo_vertical_t.png "Whanganui High School Crest (2018)")
 
 The Whanganui High School Crest features:
 
