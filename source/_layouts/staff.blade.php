@@ -20,7 +20,7 @@ foreach([
 
     foreach($slt as $person){
         ?>
-        <article class="col-sm-12 col-md-6 col-lg-6 p-5 d-flex justify-content-around align-items-center">
+        <article class="col-sm-12 col-md-6 col-lg-6 p-5">
             <div class="row">    
             <div class="col-12">
                   <h3>{{$person->title}}</h3>
