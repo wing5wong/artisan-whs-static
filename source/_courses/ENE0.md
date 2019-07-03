@@ -9,7 +9,7 @@ type: Compulsory
 course_duration: Full Year
 course_level: Year 10
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: At least 75% in the Year 9 examination as well as teacher recommendation.
 course_fees: ''
 notes: ''
