@@ -5,7 +5,7 @@ code: DTS2
 subject_area: Digital Technologies Science
 date: 2019-06-30T23:04:52.989Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
