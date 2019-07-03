@@ -7,43 +7,52 @@
 
 {!! $page !!}
 
-{{-- <h3 class="d-inline">Course Type:</h3> {{ $page->type }} <br> --}}
-
-@if($page->credits)
-<h3 class="d-inline">Course credits:</h3> {{ $page->credits }} <br>
+@if($page->type)
+<h3 class="d-inline">Course Type:</h3> {{ $page->type }} <br><br>
 @endif
 
-<h3 class="d-inline">Course duration:</h3> {{ $page->course_duration }} <br>
+@if($page->credits)
+<h3 class="d-inline">Credits:</h3> {{ $page->credits }} <br><br>
+@endif
+
+@if($page->course_level)
+<h3 class="d-inline">Level:</h3> {{ $page->course_level }} <br><br>
+@endif
+
+@if($page->course_duration)
+<h3 class="d-inline">Duration:</h3> {{ $page->course_duration }} <br><br>
+@endif
 
 @if($page->background)
-<h3 class="d-inline">Purpose:</h3> {{ $page->background }} <br>
+<h3 class="d-inline">Purpose:</h3> {{ $page->background }} <br><br>
 @endif
 
 @if($page->entry_requirements)
-<h3 class="d-inline">Entry Requirements:</h3> {{ $page->entry_requirements }} <br>
+<h3 class="d-inline">Entry Requirements:</h3> {{ $page->entry_requirements }} <br><br>
 @endif
 
 @if($page->course_fees)
-<h3 class="d-inline">Course Contribution:</h3> {{ $page->course_fees }} <br>
+<h3 class="d-inline">Course Contribution:</h3> {{ $page->course_fees }} <br><br>
 @endif
 
-
-<h3 class="d-inline">Course Assessment:</h3> {{ $page->assessment_type }} <br>
+@if($page->assessment_type)
+<h3 class="d-inline">Assessment:</h3> {{ $page->assessment_type }} <br><br>
+@endif
 
 @if($page->leads_to)
-<h3 class="d-inline">Leads to:</h3> @foreach(explode(",", $page->leads_to) as $leads)<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> @endforeach  <br>
+<h3 class="d-inline">Leads To:</h3> @foreach(explode(",", $page->leads_to) as $leads)<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> @endforeach  <br><br>
 @endif
 
 @if($page->ue_approved)
-<h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? Yes : No}}} <br> 
+<h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? Yes : No}}} <br><br> 
 @endif
 
 @if($page->endorsement)
-<h3 class="d-inline">Endorsement:</h3> {{$page->endorsement ? Yes : No}} <br> 
+<h3 class="d-inline">Endorsement:</h3> {{$page->endorsement ? Yes : No}} <br><br> 
 @endif
 
 @if($page->invitation_only)
-<h3 class="d-inline">Invitation Only:</h3> {{$page->invitation_only ? Yes : No}} <br> 
+<h3 class="d-inline">Invitation Only:</h3> {{$page->invitation_only ? Yes : No}} <br><br> 
 @endif
 
 <?php
@@ -94,11 +103,11 @@ Some or all of the following will be offered
 @endforeach
 </tbody>
 </table>
-<br>
+<br><br>
 @endif
 
 @if($page->notes)
-<h3 class="d-inline">Notes:</h3> {{ $page->notes }} <br>
+<h3 class="d-inline">Notes:</h3> {{ $page->notes }} <br><br>
 @endif
 
 
