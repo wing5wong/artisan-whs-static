@@ -5,7 +5,7 @@ code: ENG1
 subject_area: English (General)
 date: 2019-07-01T00:04:48.195Z
 year: '11'
-type: Level 1 Core
+type: Core
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
