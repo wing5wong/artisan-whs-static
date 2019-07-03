@@ -1,4 +1,6 @@
 ---
 title: Drama
-faculty: The Arts
+date: 2019-07-03T00:40:24.866Z
+faculty: Performing Arts
 ---
+.
