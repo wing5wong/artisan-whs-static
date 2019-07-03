@@ -1,6 +1,6 @@
 ---
 title: ENI3
-name: English Introductory NCEA 3
+name: English Introductory
 code: ENI3
 subject_area: English (Introductory/Internal)
 date: 2019-07-01T00:09:11.921Z
