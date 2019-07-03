@@ -3,7 +3,7 @@ title: DTG1
 name: Digital Technologies General NCEA 1
 code: DTG1
 subject_area: Digital Technologies
-date: 2019-06-28T03:23:14.968Z
+date: 2019-07-03T03:23:14.968Z
 year: '11'
 type: Level 1 Core
 course_duration: Full Year
