@@ -1,6 +1,6 @@
 ---
 title: IEN1
-name: International English NCEA 1
+name: International English
 code: IEN1
 subject_area: International English
 date: 2019-07-01T01:06:23.464Z
@@ -9,7 +9,8 @@ type: Level 1 (English) 7+ credits / Level 3 (English Language)
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: IEN2
+leads_to:
+  - IEN2
 credits: 10+
 entry_requirements: ''
 course_fees: Included in International Student fee
