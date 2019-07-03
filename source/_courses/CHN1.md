@@ -9,7 +9,8 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: CHN2
+leads_to:
+  - CHN2
 credits: 19-24
 entry_requirements: Full year at Year 10 or HOD approval.
 course_fees: >-
