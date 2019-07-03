@@ -44,7 +44,7 @@
 @endif
 
 @if($page->ue_approved)
-<h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? Yes : No}}} <br><br> 
+<h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? Yes : No}} <br><br> 
 @endif
 
 @if($page->endorsement)
