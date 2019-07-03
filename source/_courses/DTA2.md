@@ -1,6 +1,6 @@
 ---
 title: DTA2
-name: Digital Technologies Applied NCEA 2
+name: Digital Technologies Applied
 code: DTA2
 subject_area: Digital Technologies Applied
 date: 2019-06-28T04:35:49.488Z
