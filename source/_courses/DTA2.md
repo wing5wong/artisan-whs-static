@@ -11,10 +11,11 @@ course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to:
   - DTA3
+  - DTM3
 credits: 16-20
 entry_requirements: >-
-  Open entry for Year 12 students and vocational students, subject to HOD
-  approval
+  Subject to HOF approval. Open entry for Year 12 students and vocational
+  students (subject to HOF approval)
 course_fees: Nil
 notes: ''
 ---
