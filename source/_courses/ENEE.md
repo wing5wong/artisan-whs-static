@@ -1,14 +1,13 @@
 ---
 title: ENEE
-name: English Extension Year 9
+name: English Extension
 code: ENEE
 subject_area: English (Extension)
 date: 2019-07-01T00:00:32.596Z
 year: '9'
-type: Compulsory - Full Year
+type: 'Compulsory '
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
 credits: .
 entry_requirements: ''
