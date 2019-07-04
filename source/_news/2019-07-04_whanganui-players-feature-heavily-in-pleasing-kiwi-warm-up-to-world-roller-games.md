@@ -16,7 +16,7 @@ short: >-
 ---
 The Whanganui connections in the New Zealand senior men's roller hockey team have featured heavily in the lead-up matches to the 2019 World Roller Games in Barcelona, Spain.
 
-Eighteen-year-old Jimi Blinkhorne and 35-year-old Dean Fitness are among the starting line-up of the 12-strong squad who have been gaining much-needed practice against European club sides ahead of the world competition that begins on Sunday New Zealand time.
+Eighteen-year-old Jimi Blinkhorne and 35-year-old Dean Fitness are among the starting line-up of the 12-strong squad who have been gaining much-needed practice against European club sides ahead of the world competition that begins on Sunday New Zealand time.
 
 As a warm-up to the world competition, the New Zealand team entered the Rink Hockey Tournoi International Blagnac in France.
 
@@ -38,11 +38,7 @@ Blinkhorne's father Paul is on tour with the Kiwi team and had good news to writ
 
 The New Zealand roller hockey team will compete in the Rink Hockey Challenger's Championship competition in Terrassa, Spain and have drawn the men's Group A pool alongside Belgium, Chinese Taipei, Uruguay, Japan and group favourites Austria.
 
-
-
 Jimi, left, and Paul Blinkhorne during a father/son tour of France ahead of World Roller Games in Spain this weekend.
-
-
 
 _By Iain Hyndman_\
 _Whanganui Chronicle 3/7/19_
