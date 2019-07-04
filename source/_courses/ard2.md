@@ -1,15 +1,16 @@
 ---
 title: ARD2
-name: Art Design NCEA 2
+name: Art Design
 code: ARD2
 subject_area: Art Design
 date: 2019-07-01T21:03:11.915Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: ARD3
+leads_to:
+  - ARD3
 credits: 16-24
 entry_requirements: 12 credits in ART1 or DVC1 or HOF/TIC approval.
 course_fees: $50
