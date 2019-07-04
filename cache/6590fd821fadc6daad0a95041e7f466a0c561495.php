@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>This course will offer students the chance to develop an understanding in a wider range of statistical topics. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MPS3, MTA3. Topics studied include: Probability, Simulations, Statistical Reports, Inferences and Simultaneous Equations.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

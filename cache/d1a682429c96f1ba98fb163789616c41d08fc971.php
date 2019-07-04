@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To provide a balanced English programme to include reading, writing, reading, listening, speaking, and presenting. This course has no external examinations but students complete a mix of Unit and Achievement Standards with a view to gaining Level 1 Literacy.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

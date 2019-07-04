@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To provide an opportunity for students to extend their knowledge and expertise in commercial catering in a simulated environment. Students will be encouraged to operate from a commercial perspective. Students will have the opportunity to complete industry standard courses on Food Hygiene as a pre-training qualification.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

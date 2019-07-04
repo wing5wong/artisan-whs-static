@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>Media Studies challenges and empowers students to analyse and interpret media content and to become more informed and think critically about the media and its role in everyday life.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

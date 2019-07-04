@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To provide knowledge and understanding of a variety of skills and concepts related to enhancing and/or maintaining relationships as well as individuals health and well-being. This course contains four major topics of study.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

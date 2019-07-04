@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To provide a balanced programme involving theoretical and practical skills related to nutrition. Knowledge of basic nutrition, identifying and describing influences on eating patterns using skills/techniques for maintenance and overall improvements in eating habits.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

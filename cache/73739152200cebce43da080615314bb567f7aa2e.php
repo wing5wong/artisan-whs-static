@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>This course involves the life and times of Ancient Greek society. It continues and extends Greek Mythology (Trojan War). We study how society was organised in Ancient Athens eg. slavery, democracy and the life of women. Course offers four external credits based on Greek theatre. The plays of Sophocles (Oedipus Rex, Antigone).</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

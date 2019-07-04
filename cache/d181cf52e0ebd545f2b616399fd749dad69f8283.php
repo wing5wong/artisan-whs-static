@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To enable students to learn, make artworks and develop an understanding of the actions and relationships of Art. Students will learn to recognize and value artworks in a variety of ways. Emphasis on International art movements is part of the course.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

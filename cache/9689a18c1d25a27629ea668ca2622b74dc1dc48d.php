@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>Students will develop visual communication skills through the use of the photographic medium. The production of images is the focus of this course. Students will use Digital cameras and associated Photographic programmes in the production and processing of digital photographs to a quality standard. Students are assessed through practical and written assessments.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

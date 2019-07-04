@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>This is a practical course with a theory component. Students are able to gain credits on the National Framework Qualifications system. Kayaking, Camping, Navigation, Weather, High Ropes, Tramping, Rock Climbing and Adventure based learning. Assessed by practical field trips and book work.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

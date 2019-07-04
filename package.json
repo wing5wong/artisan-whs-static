@@ -14,7 +14,7 @@
         "cross-env": "^3.2.3",
         "hasbin": "^1.2.3",
         "highlight.js": "^9.15.8",
-        "laravel-mix": "^4.0.16",
+        "laravel-mix": "^4.0.0",
         "node-cmd": "^3.0.0",
         "on-build-webpack": "^0.1.0",
         "sass": "^1.22.2",

@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>This course will offer students the chance to develop a wide range of advanced Mathematical skills. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MTA3, MGC3. Topics studied include: Algebra, Co-ordinate Geometry, Calculus, Trigonometry, Functions and Graphs.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
