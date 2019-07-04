@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To provide a continuing Mathematics programme to students for whom a formal academic course is not suitable. This course contains Level 1 and 2 standards and is completely internally assessed. Topics covered; Trigonometry, Statistics, Networks, Coordinate Geometry.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

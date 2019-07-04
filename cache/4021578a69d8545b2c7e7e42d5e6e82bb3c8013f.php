@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>A practical based course giving opportunities to acquire knowledge and understanding of fitness and exercise activities. Students will learn about Sports Nutrition, demonstrate a number of exercise techniques in using gym equipment and participate in leisure activities. Assessment is all Internal.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

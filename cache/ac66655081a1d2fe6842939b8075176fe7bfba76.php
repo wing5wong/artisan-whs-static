@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>Students will experience a range of educational and physical activities in and out of the school environment.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

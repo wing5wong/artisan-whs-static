@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To provide a balanced Science programme to include aspects of Biology, Chemistry, Physics: investigations, interpreting information, microorganisms, life processes, metal properties, electricity and magnetism.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

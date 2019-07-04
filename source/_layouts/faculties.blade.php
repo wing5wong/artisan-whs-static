@@ -12,7 +12,7 @@
 @foreach($faculties->sortBy('title') as $faculty)
 <details>
 <summary>
-    <h2 class="decorated d-table my-5">{{ $faculty->title }}</h2>
+    <h2 class="decorated d-table my-5">{{ $faculty->title }}@if($page->maori_title) | {{$page->maori_title}}</h2>
     @if($faculty->intro)
     <br>
     {{ $faculty->intro }}

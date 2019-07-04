@@ -9,8 +9,9 @@
     @if ($page->image)
     <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
     <img src="{{ $page->image }}"  style="object-fit: cover; max-width:100%">
-    @endif @yield('postContent')
-
+    @endif
+    
+    @yield('postContent')
 
  
     @include('_partials.lastReviewed')

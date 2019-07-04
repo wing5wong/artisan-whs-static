@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>Developing management skills, knowledge of nutrition, food planning, recipe development and preparation in relation to the production of a lemon meringue pie. Completing tasks and dietary analysis, presenting ideas relating to issues in our society, exploring attitudes and beliefs, considering an holistic approach to health.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

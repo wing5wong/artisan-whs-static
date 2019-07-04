@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>This course will offer students the opportunity to develop design and practical skills through a variety of projects and engineering projects based on Competenz programme. The course will focus on improving student's design, research and practical skills through common project work. Set in the engineering workshop.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

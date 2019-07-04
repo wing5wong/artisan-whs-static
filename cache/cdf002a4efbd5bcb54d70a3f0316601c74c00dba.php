@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>The purpose of this course is for students to gain an appreciation of advanced logic and construction of computer software. The knowledge gained throughout this course will enable students to design and create a computer based game or utility program. Achievement of 14 credits in the course will form one U.E. Subject.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

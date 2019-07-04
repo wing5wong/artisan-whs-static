@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>The course aims to develop student's Design and Visual Communication skills. The course is structured around two Design Briefs: Spatial Design and Product Design. Students will develop their own graphics practice through sketching, instrumental drawing, modelling, use of CAD and 3D printing.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

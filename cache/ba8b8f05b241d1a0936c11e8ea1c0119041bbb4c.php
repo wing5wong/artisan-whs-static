@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To provide a balanced English programme to include reading, writing, listening, speaking, and presenting. Students will be given the opportunity to gain some of the 10 literacy credits required for University Entrance. This is the same course as ENG2 except there are no external standards.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
