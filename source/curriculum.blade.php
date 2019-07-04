@@ -25,10 +25,12 @@
 
       <div class="col-12 col-md-6 col-lg-4 d-flex align-items-center justify-content-center p-5 @if($r = rand(0, 2) == 2) bg-green @elseif(rand(0, 2)==1) bg-yellow @endif " style="background-image: url({{ str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,q_80,w_625/",$faculty->image)}}); background-size: cover; width: 100%; min-height: 350px;">
       <h2 class="mb-0 h3 text-center">
-         <a href="{{$faculty->getPath()}}" class="btn btn-light">{{$faculty->title}}</a>
+         <a href="{{$faculty->getPath()}}" class="btn btn-light">
+            {{$faculty->title}}
+            @if($faculty->maori_title){{$faculty->maori_title}}@endif
+        </a>
          </h2>
     </div>
-
 
       @endforeach
 </div>
