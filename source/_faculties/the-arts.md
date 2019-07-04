@@ -1,5 +1,5 @@
 ---
-title: The Arts
+title: Arts
 maori_title: Nga Toi
 date: 2019-06-28T01:00:00.000Z
 tags:
