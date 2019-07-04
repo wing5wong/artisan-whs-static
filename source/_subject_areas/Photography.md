@@ -1,4 +1,6 @@
 ---
 title: Photography
-faculty: The Arts
+date: 2019-07-04T21:58:13.906Z
+faculty: Arts
 ---
+
