@@ -1,11 +1,11 @@
 ---
 title: ARD3
-name: Art Design NCEA 3
+name: Art Design
 code: ARD3
 subject_area: Art Design
 date: 2019-06-28T03:53:37.549Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
