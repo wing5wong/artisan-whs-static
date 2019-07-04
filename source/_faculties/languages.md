@@ -1,5 +1,6 @@
 ---
 title: Languages
+maori_title: Te Korero me Nga Reo
 date: 2019-06-28T01:00:00.000Z
 tags:
   - About WHS
