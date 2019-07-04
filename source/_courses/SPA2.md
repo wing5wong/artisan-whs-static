@@ -1,15 +1,16 @@
 ---
 title: SPA2
-name: Spanish NCEA 2
+name: Spanish
 code: SPA2
 subject_area: Spanish
 date: 2019-07-01T02:55:16.676Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: SPA3
+leads_to:
+  - SPA3
 credits: 19-24
 entry_requirements: 12 credits in SPA1 or HOD approval.
 course_fees: >-
