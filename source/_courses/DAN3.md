@@ -1,11 +1,11 @@
 ---
 title: DAN3
-name: Dance NCEA 3
+name: Dance
 code: DAN3
 subject_area: Dance
 date: 2019-06-28T04:26:32.108Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
