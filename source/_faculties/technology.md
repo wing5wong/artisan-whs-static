@@ -1,5 +1,6 @@
 ---
 title: Technology
+maori_title: Hangarau
 date: 2019-06-28T01:00:00.000Z
 tags:
   - About WHS
