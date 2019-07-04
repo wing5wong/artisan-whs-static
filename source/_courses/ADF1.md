@@ -1,15 +1,19 @@
 ---
 title: ADF1
-name: Digital Art Focus NCEA 1
+name: Digital Art Focus
 code: ADF1
 subject_area: Visual Art
 date: 2019-06-28T03:50:11.235Z
 year: '11'
-type: Level 1 - Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: 'ARD2, APR2, ARP2, PHO2.'
+leads_to:
+  - ARD2
+  - APT2
+  - ARP2
+  - PHO2
 credits: 16-24
 entry_requirements: ''
 course_fees: $50
