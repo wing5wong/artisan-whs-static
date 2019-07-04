@@ -1,15 +1,16 @@
 ---
 title: MAO1
-name: Te Reo Māori NCEA 1
+name: Te Reo Māori
 code: MAO1
 subject_area: Te Reo Māori
 date: 2019-07-01T01:47:52.831Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: MAO2
+leads_to:
+  - MAO2
 credits: '30'
 entry_requirements: Year 10 Māori and HOF/TIC approval.
 course_fees: Own Māori-English dictionary is compulsory
