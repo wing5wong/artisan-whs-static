@@ -1,11 +1,11 @@
 ---
 title: MAO3
-name: Te Reo Māori NCEA 3
+name: Te Reo Māori 3
 code: MAO3
 subject_area: Te Reo Māori
 date: 2019-07-01T01:49:20.808Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
