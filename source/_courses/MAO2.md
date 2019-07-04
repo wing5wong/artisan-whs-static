@@ -1,15 +1,16 @@
 ---
 title: MAO2
-name: Te Reo Māori NCEA 2
+name: Te Reo Māori
 code: MAO2
 subject_area: Te Reo Māori
 date: 2019-07-01T01:48:49.016Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: MAO3
+leads_to:
+  - MAO3
 credits: '28'
 entry_requirements: 18 credits in MAO1 and HOF/TIC approval.
 course_fees: Own Māori-English dictionary is compulsory.

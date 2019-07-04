@@ -1,16 +1,15 @@
 ---
 title: ART0
-name: Art Year 10
+name: Art
 code: ART0
 subject_area: Visual Art
 date: 2019-06-28T03:55:53.180Z
 year: '10'
-type: Optional - Half Year
-course_duration: Two Terms
+type: Optional
+course_duration: Half Year
 course_level: Year 10
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
