@@ -1,16 +1,15 @@
 ---
 title: ARTE
-name: Art Year 9
+name: Art
 code: ARTE
 subject_area: Visual Art
 date: 2019-06-28T02:44:15.406Z
 year: '9'
-type: One Term
+type: Optional
 course_duration: One Term
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
