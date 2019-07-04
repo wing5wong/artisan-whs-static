@@ -40,5 +40,5 @@ The New Zealand roller hockey team will compete in the Rink Hockey Challenger's 
 
 Jimi, left, and Paul Blinkhorne during a father/son tour of France ahead of World Roller Games in Spain this weekend.
 
-_By Iain Hyndman_\
+_By Iain Hyndman_  
 _Whanganui Chronicle 3/7/19_
