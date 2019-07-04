@@ -1,16 +1,15 @@
 ---
 title: DAN0
-name: Dance Year 10
+name: Dance
 code: DAN0
 subject_area: Dance
 date: 2019-06-28T04:22:00.418Z
 year: '10'
-type: Optional - Half Year
-course_duration: Two Terms
+type: Optional
+course_duration: Half Year
 course_level: Year 10
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
@@ -25,4 +24,4 @@ Movement sequences and workshops will be designed around a series of themes; eac
 
 **Assessment:**
 
-Theory test on Elements of Dance. Performance to an audience.
+Theory test on Elements of Dance. Dance performance.
