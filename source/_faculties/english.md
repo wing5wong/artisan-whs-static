@@ -1,5 +1,6 @@
 ---
 title: English
+maori_title: Reo Ingarihi
 date: 2019-06-28T01:00:00.000Z
 tags:
   - About WHS
