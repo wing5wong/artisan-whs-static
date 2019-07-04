@@ -9,7 +9,8 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: ARP3
+leads_to:
+  - ARP3
 credits: '20'
 entry_requirements: 12 credits in ART1 and HOF/TIC approval.
 course_fees: $50
