@@ -383,6 +383,8 @@ collections:
     - {label: "Level", name: "level", widget: "string"}
     - {label: "Credits", name: "credits", widget: "number"}
     - {label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"]}
+    - { label: "U.E. Lit Reading", name: "ue_lit_reading", widget: "boolean", required: false, default: false}
+    - { label: "U.E. Lit Writing", name: "ue_lit_writing", widget: "boolean", required: false, default: false}
 
   - name: "honours"
     label: "Honours Board"
