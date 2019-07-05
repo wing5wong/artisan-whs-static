@@ -1,16 +1,15 @@
 ---
 title: DRA0
-name: Drama Year 10
+name: Drama
 code: DRA0
 subject_area: Drama
 date: 2019-06-28T04:28:39.633Z
 year: '10'
-type: Optional - Half Year
-course_duration: Two Terms
+type: Optional
+course_duration: Half Year
 course_level: Year 10
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
@@ -21,8 +20,8 @@ Students will be offered the opportunity to explore a variety of ideas and gain 
 
 **Content:**
 
-Students explore the communication of character and ideas through the use of voice, movement, body and space. Units of study include physical comedy and devising, and the course culminates in a small-scale production performed in collaboration with the other Performing Arts disciplines.
+Students explore the communication of character and ideas through the use of voice, movement, body and space. Units of study include drama techniques and devising.
 
 **Assessment:**
 
-2 public performances
+2 performances for an audience
