@@ -1,16 +1,15 @@
 ---
 title: MAT0
-name: Mathematics General Year 10
+name: Mathematics General
 code: MAT0
 subject_area: Mathematics (General)
 date: 2019-07-01T01:51:38.738Z
 year: '10'
-type: "Compulsory\t- Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-assessment_type: Compulsory
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: Satisfactory completion a Year 9 Mathematics course.
 course_fees: ''
 notes: ''
