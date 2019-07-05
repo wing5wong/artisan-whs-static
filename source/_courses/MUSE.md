@@ -1,16 +1,15 @@
 ---
 title: MUSE
-name: Music Year 9
+name: Music
 code: MUSE
 subject_area: Music
 date: 2019-07-01T02:11:32.587Z
 year: '9'
-type: One term
+type: Optional
 course_duration: One Term
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
