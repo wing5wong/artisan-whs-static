@@ -1,16 +1,15 @@
 ---
 title: MAI0
-name: Mathematics Introductory Year 10
+name: Mathematics Introductory
 code: MAI0
 subject_area: Mathematics (Introductory/Internal)
 date: 2019-07-01T01:45:16.583Z
 year: '10'
-type: Compulsory - Full Year
+type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-assessment_type: Compulsory
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: Satisfactory completion of a Year 9 Mathematics course.
 course_fees: ''
 notes: ''

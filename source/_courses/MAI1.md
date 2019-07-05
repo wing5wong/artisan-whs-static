@@ -1,15 +1,18 @@
 ---
 title: MAI1
-name: Mathematics Introductory NCEA 1
+name: Mathematics Introductory
 code: MAI1
 subject_area: Mathematics (Introductory/Internal)
 date: 2019-07-01T01:46:39.786Z
 year: '11'
-type: Level 1 Compulsory
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: 'MAG1, MAI2 or MAG2 with HOD approval'
+leads_to:
+  - MAG1
+  - MAI2
+  - MAG3
 credits: 20-30
 entry_requirements: ''
 course_fees: $10 Workbook

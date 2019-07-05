@@ -1,16 +1,15 @@
 ---
 title: MAEE
-name: Mathematics Extension Year 9
+name: Mathematics Extension
 code: MAEE
 subject_area: Mathematics (Extension)
 date: 2019-07-01T01:35:42.547Z
 year: '9'
-type: "Compulsory\t - Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
