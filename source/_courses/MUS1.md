@@ -1,15 +1,16 @@
 ---
 title: MUS1
-name: Music NCEA 1
+name: Music
 code: MUS1
 subject_area: Music
 date: 2019-07-01T02:09:35.311Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: MUS2
+leads_to:
+  - MUS2
 credits: 18-24
 entry_requirements: ''
 course_fees: >-
