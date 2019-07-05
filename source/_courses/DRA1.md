@@ -1,15 +1,16 @@
 ---
 title: DRA1
-name: Drama NCEA 1
+name: Drama
 code: DRA1
 subject_area: Drama
 date: 2019-06-28T04:29:42.392Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: DRA2
+leads_to:
+  - DRA2
 credits: '20'
 entry_requirements: ''
 course_fees: $10
