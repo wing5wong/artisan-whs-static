@@ -1,16 +1,15 @@
 ---
 title: MATE
-name: Mathematics General Year 9
+name: Mathematics General
 code: MATE
 subject_area: Mathematics (General)
 date: 2019-07-01T01:53:11.594Z
 year: '9'
-type: Compulsory - Full Year
+type: Compulsory
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
