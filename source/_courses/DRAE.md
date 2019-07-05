@@ -1,16 +1,15 @@
 ---
 title: DRAE
-name: Drama Year 9
+name: Drama
 code: DRAE
 subject_area: Drama
 date: 2019-06-28T04:33:41.414Z
 year: '9'
-type: One term
+type: Optional
 course_duration: One Term
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
