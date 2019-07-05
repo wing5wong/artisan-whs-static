@@ -385,6 +385,19 @@ collections:
     - {label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"]}
     - { label: "U.E. Lit Reading", name: "ue_lit_reading", widget: "boolean", required: false, default: false}
     - { label: "U.E. Lit Writing", name: "ue_lit_writing", widget: "boolean", required: false, default: false}
+    - label: "Vocational Pathways"
+      name: "vocational_pathways"
+      widget: "select"
+      required: false
+      multiple: true
+      options:
+        - { label: "Primary Industries", value: "primary" }        
+        - { label: "Service Industries", value: "service" }
+        - { label: "Social and Community Services", value: "social" }
+        - { label: "Manufacturing and Technology", value: "manufacturing" }
+        - { label: "Construction and Infrastructure", value: "construction" }
+        - { label: "Creative Industries", value: "creative" }
+
 
   - name: "honours"
     label: "Honours Board"
