@@ -1,15 +1,16 @@
 ---
 title: APT2
-name: Art Printmaking NCEA 2
+name: Art Printmaking
 code: APT2
 subject_area: Printmaking
 date: 2019-06-28T03:51:49.953Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: APT3
+leads_to:
+  - APT3
 credits: '16'
 entry_requirements: 12 Credits in ART1
 course_fees: $50

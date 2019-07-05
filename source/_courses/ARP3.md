@@ -1,11 +1,11 @@
 ---
 title: ARP3
-name: Art Painting NCEA 3
+name: Art Painting
 code: ARP3
 subject_area: Painting
 date: 2019-06-28T03:55:29.395Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard

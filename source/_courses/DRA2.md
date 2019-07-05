@@ -1,17 +1,18 @@
 ---
 title: DRA2
-name: Drama NCEA 2
+name: Drama
 code: DRA2
 subject_area: Drama
 date: 2019-06-28T04:30:24.744Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: DRA3
+leads_to:
+  - DRA3
 credits: '22'
-entry_requirements: 12 credits in DRA1 and HOF/TIC approval.
+entry_requirements: 16 credits in DRA1 and HOF/TIC approval.
 course_fees: $10
 notes: ''
 ---

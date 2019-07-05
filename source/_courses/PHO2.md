@@ -1,15 +1,16 @@
 ---
 title: PHO2
-name: Photography NCEA 2
+name: Photography
 code: PHO2
 subject_area: Photography
 date: 2019-07-01T02:20:40.895Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: PHO3
+leads_to:
+  - PHO3
 credits: '20'
 entry_requirements: >-
   12 ENG1 credits and HOF/TIC approval. A digital camera with a 'manual'
