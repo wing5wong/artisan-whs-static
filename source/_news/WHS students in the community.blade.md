@@ -1,0 +1,16 @@
+---
+title: "WHS students in the community"
+date: 
+description: "WHS students appearing in the musical 'Little Shop of Horrors' at Amdram Threatre from 15-30 September"
+featured-image: 
+excerpt: "WHS students appearing in the musical 'Little Shop of Horrors' at Amdram Threatre from 15-30 September 2017."
+gallery-image-1: 
+gallery-image-2: 
+gallery-image-3: 
+gallery-image-4: 
+gallery-image-5: 
+---
+
+<p><span><strong>WHS students in the community:</strong> <br />Current students Cypress Kani-Hurinui, Ali Gammeter and Abby Squire, with former student Shaila Hawkins, are appearing in the musical <em>'Little Shop of Horrors'</em> at Amdram Theatre from 15 September to 30 September. </span></p>
+<p><span>Tickets available at the Royal Wangnaui Opera House.</span></p>
+

@@ -1,0 +1,17 @@
+---
+title: "Wiremu 2nd NZSS Weightlifting Champs"
+date: 
+description: "Well done to Wiremu Rogan who represented WHS at the NZSS Weightlifting Champs..."
+featured-image: 
+excerpt: "Well done to Wiremu Rogan who was away on the weekend representing Whanganui High School at the NZSS Weightlifting Champs."
+gallery-image-1: 
+gallery-image-2: 
+gallery-image-3: 
+gallery-image-4: 
+gallery-image-5: 
+---
+
+<p><strong>Well done to Wiremu Rogan who was away on the weekend representing Whanganui High School at the NZSS Weightlifting Champs.&nbsp;</strong></p>
+<p><strong>Wiremu finished 2nd in the 94kg catergory..... awesome achievement Wiremu!! &nbsp;<span class="_5mfr _47e3"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f14/1/16/1f3cb_1f3fc_200d_2640.png" alt="" width="16" height="16" /></span></strong></p>
+<p><span class="_5mfr _47e3">(Lisa Murphy, Sports Co-ordinator)</span></p>
+

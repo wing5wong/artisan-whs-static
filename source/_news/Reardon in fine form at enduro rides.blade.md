@@ -1,0 +1,18 @@
+---
+title: "Reardon in fine form at enduro rides"
+date: 2018-10-10
+description: "Former WHS student Seth Reardon reaps gold after the final rounds of the Central and North Island enduro series..."
+featured-image: 
+excerpt: "Former WHS student Seth Reardon reaps gold after the final rounds of the Central and North Island enduro series."
+gallery-image-1: 
+gallery-image-2: 
+gallery-image-3: 
+gallery-image-4: 
+gallery-image-5: 
+---
+
+<h4>Whanganui's Seth Reardon reaps gold after the final rounds of the Central and North Island enduro series near Masteron last weekend.</h4>
+<p><em>Photo / Supplied</em></p>
+<p><img src="/uploads/5bc3c45cff2a7c68e500035d/seth-reardon-chron-writing-10-oct2018.PNG" alt="" /></p>
+<p><em>By Iain Hyndman</em><br /><em>Whanganui Chronicle 10/10/18</em></p>
+

@@ -1,0 +1,17 @@
+---
+title: "'THE REMNANT' NZ Smokefree Tangata Beats finalists"
+date: 2018-07-30
+description: "CONGRATULATIONS to WHS band 'THE REMNANT' Cypress Kani-Hurinui, Toka Poa, Wiremu Rogan, Joshua Waitai, Chester Nevil..."
+featured-image: 
+excerpt: "CONGRATULATIONS to WHS band 'THE REMNANT' Cypress Kani-Hurinui, Toka Poa, Wiremu Rogan, Joshua Waitai, Chester Nevil."
+gallery-image-1: 
+gallery-image-2: 
+gallery-image-3: 
+gallery-image-4: 
+gallery-image-5: 
+---
+
+<h3><span>CONGRATULATIONS to WHS band 'THE REMNANT' Cypress Kani-Hurinui, Toka Poa, Wiremu Rogan, Joshua Waitai, Chester Nevil. </span></h3>
+<h3>They are one of the top 10 bands in the NZ Smokefree Tangata Beats competition and will head to Auckland to perform live at the National Finals on 21 September!!</h3>
+<p><em>Mrs Jones</em><br /><em>Teacher in Charge of Music</em></p>
+
