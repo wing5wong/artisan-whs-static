@@ -1,15 +1,16 @@
 ---
 title: MUS2
-name: Music NCEA 2
+name: Music
 code: MUS2
 subject_area: Music
 date: 2019-07-01T02:10:03.562Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: MUS3
+leads_to:
+  - MUS3
 credits: 18-24
 entry_requirements: >-
   3 Years previous instrumental tuition and theory and should have completed
