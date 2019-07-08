@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>This course is an introduction to the Greek gods - Zeus and his huge family - The Olympians. From their research and class work students will be able to gain 6 NCEA credits by completing an assessment task involving the Greek gods and goddesses of Mt Olympus. This may be submitted as a booklet, powerpoint display, a newspaper front page or other suitable format.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

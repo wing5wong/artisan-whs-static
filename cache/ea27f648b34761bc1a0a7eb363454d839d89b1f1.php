@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>Information pending....</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.faculty', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

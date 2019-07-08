@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To provide students with knowledge and understanding of how and why changes occur within global societies and consider how social action impacts communities. The course may cover issues such as, Israeli/Palestinian conflict, The Arab Uprising, Hutu and Tutsi and Women's Suffrage, current global human rights issues such as refugees or Boko Haram.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

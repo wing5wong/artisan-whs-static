@@ -1,0 +1,4 @@
+<?php $__env->startSection('postContent'); ?><p><img src="/uploads/5b88a073ff2a7c03cc0005ef/Wheelchair-Friendly-combined.jpg" alt="" /></p>
+<p>Whanganui High School grounds and buildings are supported with adaptions that assist the visually impaired and wheelchair bound students. There are yellow painted poles and strips, and tactile tiles placed around the school which enable visually impaired students to navigate safely around the school and to their classes. Classroom Blocks have ramps to enable wheelchair access to all rooms. There are some higher desks which can be placed in classrooms, where needed, in order to enable easier access for wheelchairs to move under. This means the student in a wheelchair can be closer to the desk.</p>
+<p>New toilet blocks enable easy access for disabled students.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.post', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

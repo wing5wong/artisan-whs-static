@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To assist English as a Second Language students to further develop their English skills to attain Level One English standards, and/or to achieve Level Three English Language (previously ESOL) standards in reading and writing.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

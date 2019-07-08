@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To develop the English skills of English as a Second Language students with emphasis on straightforward reading and writing. English Language (EL) standards.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

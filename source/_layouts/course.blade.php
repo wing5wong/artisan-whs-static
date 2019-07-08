@@ -39,20 +39,22 @@
 <h3 class="d-inline">Assessment:</h3> {{ $page->assessment_type }} <br><br>
 @endif
 
-@if($page->leads_to)
-<h3 class="d-inline">Leads To:</h3> @foreach(explode(",", $page->leads_to) as $leads)<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> @endforeach  <br><br>
+@if(($page->leads_to) and(is_array($page->leads_to)))
+<h3 class="d-inline">Leads To:</h3> @foreach($page->leads_to as $leads)
+<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> 
+@endforeach  <br><br>
 @endif
 
 @if($page->ue_approved)
-<h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? Yes : No}} <br><br> 
+<h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? "Yes" : "No"}} <br><br> 
 @endif
 
 @if($page->endorsement)
-<h3 class="d-inline">Endorsement:</h3> {{$page->endorsement ? Yes : No}} <br><br> 
+<h3 class="d-inline">Endorsement:</h3> {{$page->endorsement ? "Yes" : "No"}} <br><br> 
 @endif
 
 @if($page->invitation_only)
-<h3 class="d-inline">Invitation Only:</h3> {{$page->invitation_only ? Yes : No}} <br><br> 
+<h3 class="d-inline">Invitation Only:</h3> {{$page->invitation_only ? "Yes" : "No"}} <br><br> 
 @endif
 
 <?php

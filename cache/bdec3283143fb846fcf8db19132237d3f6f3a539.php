@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To provide students with opportunities to examine and evaluate peoples responses to challenges and social actions in society. Areas of study include: Fundamentalism, Social Campaigns based on the Impact of Modern Ideologies including Political, Cultural and Environmental.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>Level 2 Accounting builds on the framework taught in Level 1. Students look at inventory and debtors systems in depth. Students are taught to process transactions and prepare financial statements using Xero accounting software. A module on analysing and interpretting financial statements conclude the course.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

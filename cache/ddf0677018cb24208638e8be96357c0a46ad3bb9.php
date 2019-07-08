@@ -1,0 +1,6 @@
+<?php $__env->startSection('postContent'); ?><p>Whanganui High School is well equipped with modern computer gear, which is well maintained and regularly updated with current software.</p>
+<p>We have eight computer labs with around 28 computers in each. As well as this we also have eight smaller pods of computers scattered throughout the school.</p>
+<p>We have a modern Wireless system, which was replaced in 2016. This provides free internet access for students throughout the day, within all classrooms as well as the local surrounding environment, including our fields.</p>
+<p>The WIFI network supports virtually all wireless capable devices such as, laptops, cell phones and tablets operating on any platform.</p>
+<p>We have very good internet access and in the near future, this will be upgraded to further support the continuously expanding use of Information Technology at Whanganui High School.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.post', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

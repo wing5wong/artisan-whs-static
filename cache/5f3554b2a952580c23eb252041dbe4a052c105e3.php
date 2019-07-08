@@ -1,0 +1,3 @@
+<?php $__env->startSection('postContent'); ?><p>Jackie Hazelhurst, as part of the Youth Council, has put together a document with a massive range of scholarships available for students.</p>
+<p><strong><a href="https://docs.google.com/a/whs.ac.nz/document/d/1EvAyfCImeUSr4CmLKPsThSvMYpScfRYX5nGaEcXIlHU/mobilebasic">Scholarship opportunities for students</a></strong></p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.post', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

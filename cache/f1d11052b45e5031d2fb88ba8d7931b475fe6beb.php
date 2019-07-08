@@ -1,0 +1,3 @@
+<?php $__env->startSection('postContent'); ?><p>1) Promote knowledge and understanding of the history and culture of Ancient Greece and Ancient Rome; 2) To develop skills in research, communication and processing information. A study of life and culture in Ancient Greece and Rome. </p>
+<p>Five topics are chosen from: 1) Greek Comedy; 2) Alexander the Great; 3) Roman Religion; 4) Roman Art and Architecture; 5) Virgil. Students will learn about legends, heroes, myths, leaders, politics, plays, battles, buildings and the beliefs and values of the Ancient Greeks and Romans.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

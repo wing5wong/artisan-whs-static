@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To develop students understanding of change over an extended period of time. To develop a critical approach to historical sources, by exposing students to varying interpretations. Students will learn about economic, social, religious and political change in selected topics.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

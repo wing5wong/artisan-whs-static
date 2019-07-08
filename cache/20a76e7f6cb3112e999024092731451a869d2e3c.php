@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To help English as a Second Language students to communicate in simple English. The course involves listening to others and responding confidently in spoken and written forms. English Language standards.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>Accounting empowers students with the language of business. They are taught to apply this knowledge to sole traders, clubs and personal finances. Elements of the course include processing transactions, financial statements, analysis and interpretation and financial literacy.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To provide background knowledge and understanding of self-management, communication, problem solving, social and cooperative skills related to health and wellbeing.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

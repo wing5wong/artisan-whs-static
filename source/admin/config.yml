@@ -36,33 +36,76 @@ collections:
         required: false
       - {label: "Tags", name: "tags", widget: "list", required: false}
 
-
-
-
-  - name: static
-    label: "Static Pages"
-    files: 
-      - label: "About Page"
-        name: "about"
-        file: "source/static/my-page.md"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - label: Extends
-            name: extends
-            widget: string
-            
-  - name: "pages"
-    label: "Pages"
+  - name: "news"
+    label: "News"
+    label_singular: "News"
+    folder: "source/_news"
     create: true
-    folder: "source/_pages"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
+      - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Extends", name: "extends", widget: "string"}
-      - {label: "custom Path", name: "customPath", widget: "string", required: false}
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+        - {label: "Image Filename", name: "image", widget: "image"}
+        - {label: "Image Description", name: "description", widget: "string"}
 
 
+  - name: "events"
+    label: "Events"
+    label_singular: "Event"
+    folder: "source/_events"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Image Filename"
+        name: "image"
+        widget: "image"
+        required: false
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Short Intro", name: "short", widget: "text", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+        - {label: "Image Filename", name: "image", widget: "image"}
+        - {label: "Image Description", name: "description", widget: "string"}
+
+
+
+  - name: "newsletters"
+    label: "Newsletters"
+    label_singular: "Newsletter"
+    folder: "source/_newsletters"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - label: "Filename"
+        name: "file"
+        widget: "file"
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+      
   - name: "about_whs"
     label: "About WHS Pages"
     label_singular: "About WHS Page"
@@ -124,32 +167,6 @@ collections:
         widget: "image"
         required: false
       - {label: "Body", name: "body", widget: "markdown"}
-
-
-  - name: "events"
-    label: "Events"
-    label_singular: "Event"
-    folder: "source/_events"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Short Intro", name: "short", widget: "text", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Image Gallery"
-        name: "image_gallery"
-        widget: "list"
-        fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string"}
 
 
   - name: "facilities"
@@ -250,31 +267,6 @@ collections:
               - {label: Image, name: image, widget: image}
     
 
-
-  - name: "news"
-    label: "News"
-    label_singular: "News"
-    folder: "source/_news"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
-      - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Image Gallery"
-        name: "image_gallery"
-        widget: "list"
-        fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string"}
 
 
   - name: "news_and_events"
@@ -416,22 +408,6 @@ collections:
     - {label: "Person 1 Image", name: "person1_image", widget: image }
     - {label: "Person 2 Name", name: "person2_name", widget: string }
     - {label: "Person 2 Image", name: "person2_image", widget: image }
-
-  - name: "newsletters"
-    label: "Newsletters"
-    label_singular: "Newsletter"
-    folder: "source/_newsletters"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Filename"
-        name: "file"
-        widget: "file"
-      - {label: "Body", name: "body", widget: "markdown", required: false}
 
 
   - name: "policies"
@@ -578,3 +554,31 @@ collections:
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+
+
+
+
+  - name: static
+    label: "Static Pages"
+    files: 
+      - label: "About Page"
+        name: "about"
+        file: "source/static/my-page.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          - label: Extends
+            name: extends
+            widget: string
+            
+  - name: "pages"
+    label: "Pages"
+    create: true
+    folder: "source/_pages"
+    fields:
+      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Extends", name: "extends", widget: "string"}
+      - {label: "custom Path", name: "customPath", widget: "string", required: false}
+

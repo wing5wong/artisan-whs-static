@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>This course will concentrate on the production and integration of documents used in business. Design skills and accuracy of work will be essential. Students taking this course will gain experience in using the more advanced features in Microsoft Office applications, along with some of the applications in the Adobe Suite Collection.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To assist students with English as a Second Language to improve accuracy in English reading and develop the complexity of student's English writing. Involves further development of reading and reading skills; strong emphasis on correctness in grammar and structure. A combination of English and English for Academic Purposes Standards.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

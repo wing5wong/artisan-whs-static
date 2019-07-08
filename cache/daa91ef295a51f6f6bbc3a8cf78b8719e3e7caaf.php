@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To provide the opportunity for participation and enjoyment in a wide range of physical activities. These will assist the physical, intellectual and social development of students and aim to foster a continuing involvement in physical activity.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

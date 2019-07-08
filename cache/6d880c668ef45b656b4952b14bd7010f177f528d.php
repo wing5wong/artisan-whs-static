@@ -1,0 +1,12 @@
+<?php $__env->startSection('postContent'); ?><h2>Bring Your Own Technology</h2>
+<p>At Whanganui High School we want every student to have the best learning opportunities possible. We want our students to develop competencies they need for study, work and life-long learning.</p>
+<p>It is with this in mind that Whanganui High School is embarking on a ‘Bring Your Own Technology’ (BYOT) initiative, from 2016. We want to enable our young men and women to become confident, self-directed and collaborative learners through the effective use of ICT, as well as be ethical and responsible users. This will enable them to be problemsolvers and positive contributors to our society in the 21st century.</p>
+<p>The pace of change within the digital space is increasing at a rapid rate, providing exciting, but challenging opportunities for our students and teachers. Technology is becoming enmeshed in our lives and access to information is almost instantaneous through wireless Internet. This access to an anytime, anywhere, ‘space’ provides teachers with the opportunity to challenge students with rigorous, personalised academic experiences that embrace emerging technologies.</p>
+<p>It provides learning to occur in ways that were not previously possible.</p>
+<p>We are not advocating that learning only occurs through the use of technology – there is, at times, still a need for pen and paper.</p>
+<h3>What is the ‘T’ in BYOT?</h3>
+<p>For the purposes of BYOT, the ‘T’ stands for any technology that is a privately owned, personal, portable computing device which is wireless capable. This includes laptops, notebooks, chrome-books (Android, Apple and Microsoft) and to a lesser extent, tablets and smartphones.</p>
+<p>To help parents make decisions about what technology is needed the School has set minimum specifications.</p>
+<p><em><a href="http://c1940652.r52.cf0.rackcdn.com/57a91633ff2a7c38fb001184/WHS-BYOT-GUIDE-2016-2017.pdf">Download the full BYOT Information booklet.</a></em></p>
+<p><em><a href="https://www.youtube.com/watch?v=mrATcj0ViTs">BYOT Information video for Whanganui High School new students</a></em></p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.post', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

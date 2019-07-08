@@ -1,0 +1,3 @@
+<?php $__env->startSection('postContent'); ?><p>Whanganui High School offers a wide range of Performing Arts for students to participate in.</p>
+<p>Students are able to challenge themselves in many different areas - Dance, Drama, Music, Stage Challenge, Productions, Kapahaka, Pasifika; or even as a combination of several of these activities.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.post', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

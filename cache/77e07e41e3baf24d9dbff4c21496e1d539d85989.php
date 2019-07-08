@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>Students will further develop their skills in a variety of dance forms. Students will perform in a repertoire of dances and develop choreography with the intention of performing to an audience.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

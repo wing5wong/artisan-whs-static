@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To provide a balanced Science program to include aspects of Biology, Chemistry and Physics; investigations, research, genetics, and inheritance, atoms, acids and bases and rates of reactions, mechanics and energy.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

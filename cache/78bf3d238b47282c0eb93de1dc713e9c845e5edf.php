@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To improve statistical skills for students who are likely to study mathematics, or physical or social sciences at tertiary level. Time Series analysis and Statistics including Binomial, Normal and Poisson distributions.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context. This course is for students who have played a musical instrument for at least 3 years, through itinerant lessons, Year 9/10 Music or outside school lessons.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

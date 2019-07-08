@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>Students are invited to challenge the attitudes and beliefs surrounding a nutritional issue of the time. They then put this into action as a plan to try to address the issue which largely revolves around the influence of multinational companies.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

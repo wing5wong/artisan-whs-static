@@ -1,0 +1,2 @@
+<?php $__env->startSection('postContent'); ?><p>Tourism is New Zealand's largest industry with an estimated 60,000 new jobs being created throughout New Zealand from 2017 to 2020. Students will learn a range of skills from calculations in the workplace to all about New Zealand destinations, world destinations, and all about tourists; their characteristics and needs.</p><?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
