@@ -7,7 +7,7 @@
     </p>
 
     
-    <blockquote data-phpdate="{{ $page->date }}">
+    <blockquote @if($page->date )data-phpdate="{{ $page->date }}"@endif>
         <em>WARNING: This post is over a year old. Some of the information this contains may be outdated.</em>
     <p>Please <a href="mailto:office@whs.ac.nz?subject={{$page->title}}&body=The following page has not been reviewed recently.%0D%0A{{$page->getUrl()}}%0D%0APlease can it be reviewed and updated.%0D%0AThanks!">email the office</a> to request an updated review.</p>
     </blockquote>
