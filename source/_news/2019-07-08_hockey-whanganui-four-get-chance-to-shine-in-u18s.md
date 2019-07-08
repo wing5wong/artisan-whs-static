@@ -39,6 +39,6 @@ Tournament week will be from Sunday through until next Saturday.
 
 As well as national play, the Wanganui Under 18 boys team, coached by Robbie Matthews, will begin their regional tournament, also starting on Sunday.
 
-_By Jared Smith_  
 
-_Whanganui Chronicle 6/7/19_
+_By Jared Smith_  
+_Whanganui Chronicle_
