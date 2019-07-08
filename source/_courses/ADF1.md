@@ -1,5 +1,6 @@
 ---
 title: ADF1
+maori_title: .
 name: Digital Art Focus
 code: ADF1
 subject_area: Visual Art
