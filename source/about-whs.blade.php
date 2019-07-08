@@ -71,7 +71,7 @@
 
 
 <div class="row no-gutters houses">
-    @foreach($about->only(['head-prefects','staff','board-of-trustees','working-at-whs']) as $section)
+    @foreach($about->only(['head-prefects','staff','board-of-trustees','working-at-whs'])->sortBy('title') as $section)
     <div class="col p-5 bg-green text-center text-yellow d-flex flex-column justify-content-between align-items-center">
         <h2 class="mb-0">
             {{ $section["title"]}}

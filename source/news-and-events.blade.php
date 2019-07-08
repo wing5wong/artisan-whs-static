@@ -29,8 +29,6 @@
     </div>
 
 
-
-
     <div class="col-6 p-5 bg-white text-green d-flex flex-column justify-content-around align-items-center">
         <h2>Events</h2>
 

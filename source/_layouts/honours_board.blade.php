@@ -10,7 +10,7 @@
 <div class="row">
     @foreach ($honours->filter(function($honour){
         return $honour->award == "Dux Litterarum";
-    })->groupBy('award') as $category)
+    })->groupBy('award')->sortBy('award') as $category)
     <div class="col-12">
         <h2 class="d-table decorated">{{$category->first()->award}}</h2>
     </div>
