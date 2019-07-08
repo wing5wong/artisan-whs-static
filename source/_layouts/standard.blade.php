@@ -35,7 +35,7 @@
   @include('_partials.nav.main')
 
 
-  @include('_partials.announcement.main')
+  {{-- @include('_partials.announcement.main')--}}
 
 
 <div class="houses">
