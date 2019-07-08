@@ -41,4 +41,4 @@ As well as national play, the Wanganui Under 18 boys team, coached by Robbie Mat
 
 
 _By Jared Smith_  
-_Whanganui Chronicle_
+_Whanganui Chronicle 6/7/19_
