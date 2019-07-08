@@ -26,7 +26,7 @@ return [
                 'url' => '/about-whs/working-at-whs'
             ],
             [
-                'title' => 'Principal\'s Message',
+                'title' => "Principal's Message",
                 'url' => '/about-whs/principals-message'
             ],
             [
@@ -169,7 +169,6 @@ return [
         'title' => 'International',
         'url' => '/international',
         'children' => [
-            ,
             [
                 'title' => 'Fees and Accomodation',
                 'url' => '/international/fees-and-accomodation'
