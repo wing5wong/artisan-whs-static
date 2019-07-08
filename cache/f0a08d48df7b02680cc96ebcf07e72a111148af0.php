@@ -1,5 +1,0 @@
-<?php $__env->startSection('postContent'); ?><ul>
-<li>Externally Provided Studies: Students will be enrolled with external providers accessing a variety of units through distance learning. Units are bought from various providers with the work being undertaken in a supervised area. To be eligible for this programme you must have a proven record of being able to work independently. Studies are available in Carpentry, Agriculture, Radio, Butchery, Retail, Early Childcare and Animal Care to name a few. To find out more about this course see Miss Gregory. </li>
-<li>University Studies: Students must have the Principal’s approval and provisional entry to University (to be applied for by Dec 1) is required. This usually means a Level 3 subject has been completed to at least a Merit Level.</li>
-</ul><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

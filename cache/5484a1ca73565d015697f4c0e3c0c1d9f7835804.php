@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To improve students understanding of the economic forces that shape our world. The course covers how producers and consumers interact to achieve their goals. It shows how to make good decisions so consumers can get the most out of their resources.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

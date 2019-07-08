@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To provide students with skills in Algebra and Equations as a foundation for mathematical modelling and the study of mathematics at a tertiary level.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

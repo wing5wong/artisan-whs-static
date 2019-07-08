@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>This course will offer students the chance to develop a wide range of personal and performance skills through the processes of drama. Students will complete units of work that will involve them creating, performing and reflecting on drama.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>A practically based course following on from PED2 which will provide opportunities for students interested in a career related to Sports Management, Sports Officiating, Sport Teaching/Coaching and Outdoor Education. All assessments are Internal.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

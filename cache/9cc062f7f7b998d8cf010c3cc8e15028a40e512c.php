@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To improve the skills of analysis and problem solving for students who are likely to study mathematics, technical subjects or the physical sciences at a tertiary level. Expressing real life problems involving rates of change, area and volumes in mathematical terms and using the skills studied to solve these problems.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

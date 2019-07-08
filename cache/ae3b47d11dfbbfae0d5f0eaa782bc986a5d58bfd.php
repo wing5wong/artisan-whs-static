@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To build listening, speaking, interacting, reading and writing skills. To develop grammatical knowledge and broaden vocabulary. To increase cultural knowledge. Students wishing to continue their French studies in Year 11 should select this course.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

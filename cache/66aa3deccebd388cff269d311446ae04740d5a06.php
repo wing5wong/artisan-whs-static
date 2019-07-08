@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>Students will explore a range of printmaking processes and techniques in the production of their work. Students will complete the majority of work in thier diary building resources and notes throughout the year.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

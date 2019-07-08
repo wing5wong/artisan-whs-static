@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To enable students to gain a high level of economic understanding and a continuing interest in contemporary economic issues. Sections dealt with include: A study of the market; the role of the Government in providing goods and services; and a macro-economic view of the economy as a whole.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

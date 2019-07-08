@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To extend students with English as a Second Language to be able to work in English at a tertiary level. Establish fluency in spoken English; extend reading skills to include interpersonal language and refine their use of academic language. To improve essay writing skills, a mixture of English and English for Academic Purposes standards will be offered.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

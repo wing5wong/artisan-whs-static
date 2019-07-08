@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To provide students with knowledge and skills required for future studies in Social Science. To provide students an extension course in Social Sciences as an alternative to SOC0. To provide students with the knowledge and skills required for future studies in Social Science.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

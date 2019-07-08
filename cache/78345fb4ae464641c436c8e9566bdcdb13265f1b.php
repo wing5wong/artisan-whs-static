@@ -1,2 +1,0 @@
-<?php $__env->startSection('postContent'); ?><p>To provide a foundation for later study, to encourage discussion and thinking, to develop skills in creative writing, research and oral delivery, to develop an awareness of New Zealand literature. Study of film and short stories, formal and creative writing, investigation into a literary theme and an oral delivery based on that research.</p><?php $__env->stopSection(); ?>
-<?php echo $__env->make('_layouts.course', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
