@@ -12,3 +12,4 @@
 /_tmp/
 npm-debug.log
 yarn-error.log
+/cache/
