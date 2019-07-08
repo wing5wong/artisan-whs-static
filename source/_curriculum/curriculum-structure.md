@@ -1,7 +1,6 @@
 ---
 title: Curriculum Structure
 date: 2019-04-02T01:23:57.661Z
-intro: "Find out about the Whanganui High School Curriculum. Course Structure, Subject Names, Multilevel Courses, Vocational Pathways and Scholarships"
 ---
 
 [Course Options](/curriculum/options-for-2018) 
@@ -103,7 +102,7 @@ _
 
 _NCEA Level 1 Science            **E**xtension                         SC**E**1_
 
-_ _In 2019, students may take a Year 11 semester course as part of their pathway.__
+__In 2019, students may take a Year 11 semester course as part of their pathway.__
 
 *   ### NCEA Level 2 Courses
 
