@@ -75,11 +75,11 @@
                     @foreach($values['children'] as $thePage)
                       <a class="dropdown-item" href="{{$thePage['url']}}">{{$thePage['title']}} </a>
                     @endforeach
-                    @if($$key)
+                    {{--@if($$key)
                       @foreach($$key as $thePage2)
                         <a class="dropdown-item" href="{{$thePage2->getPath()}}">{{$thePage2->title}} </a>
                       @endforeach
-                    @endif
+                    @endif--}}
                   </div>
                
           </li>
