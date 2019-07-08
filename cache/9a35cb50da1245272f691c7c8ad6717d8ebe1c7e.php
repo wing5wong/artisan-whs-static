@@ -44,6 +44,7 @@
 <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>  <br><br>
 <?php endif; ?>
 
+
 <?php if($page->ue_approved): ?>
 <h3 class="d-inline">U.E. Approved:</h3> <?php echo e($page->ue_approved ? "Yes" : "No"); ?> <br><br> 
 <?php endif; ?>

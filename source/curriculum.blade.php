@@ -8,7 +8,9 @@
             <h2 class="mb-2 w-100">
                     {{$curriculum->get('curriculum-structure')['title']}}
                </h2>
-        {{$curriculum->get('curriculum-structure')['intro']}}
+               @if(array_key_exists('intro',$curriculum->get('curriculum-structure')))
+               {{ $curriculum->get('curriculum-structure')["intro"] }}
+               @endif
         <a href="{{$curriculum->get('curriculum-structure')->getPath()}}" class="btn btn-light my-5">More Information</a>
     </div>
     <div class="col-12 col-lg-6 p-5 d-flex flex-column justify-content-around align-items-center">

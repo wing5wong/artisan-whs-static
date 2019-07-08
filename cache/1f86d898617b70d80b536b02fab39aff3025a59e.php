@@ -37,7 +37,7 @@
   <?php echo $__env->make('_partials.nav.main', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
 
-  <?php echo $__env->make('_partials.announcement.main', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+  
 
 
 <div class="houses">

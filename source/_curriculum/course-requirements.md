@@ -1,6 +1,7 @@
 ---
 title: Course Requirements
 date: 2019-06-25T22:41:39.124Z
+intro: ''
 ---
 
 #### Course Requirements in Senior Classes:

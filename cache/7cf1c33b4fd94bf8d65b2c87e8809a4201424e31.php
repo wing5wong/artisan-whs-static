@@ -50,11 +50,7 @@
                     <?php $__currentLoopData = $values['children']; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $thePage): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
                       <a class="dropdown-item" href="<?php echo e($thePage['url']); ?>"><?php echo e($thePage['title']); ?> </a>
                     <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
-                    <?php if($$key): ?>
-                      <?php $__currentLoopData = $$key; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $thePage2): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
-                        <a class="dropdown-item" href="<?php echo e($thePage2->getPath()); ?>"><?php echo e($thePage2->title); ?> </a>
-                      <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
-                    <?php endif; ?>
+                    
                   </div>
                
           </li>

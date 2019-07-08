@@ -68,7 +68,7 @@
 <p><em>NCEA Level 1 Science <strong>G</strong>eneral                             SC<strong>G</strong>1<br />
 </em></p>
 <p><em>NCEA Level 1 Science            <strong>E</strong>xtension                         SC<strong>E</strong>1</em></p>
-<p>_ _In 2019, students may take a Year 11 semester course as part of their pathway.__</p>
+<p><strong>In 2019, students may take a Year 11 semester course as part of their pathway.</strong></p>
 <ul>
 <li>
 <h3>NCEA Level 2 Courses</h3>
