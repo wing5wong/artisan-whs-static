@@ -48,7 +48,9 @@
 @endforeach
 
 
-@foreach ($honours->sortBy('award', 'ASC')->groupBy('award') as $category)
+@foreach ($honours->groupBy('award')->map(function($groupItems){
+    return $groupItems->sortBy('award');
+}) as $category)
 <details>
     <summary>
 <h2 class="d-table decorated mt-5 mb-2">{{$category->first()->award}}</h2>
