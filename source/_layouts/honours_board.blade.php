@@ -27,30 +27,9 @@
 
 
 <hr>
-@foreach ($honours->sortBy('award', 'ASC') as $category)
-
-<table class="table table-striped table-borderless table-hover">
-    <thead>
-        <th>Year</th>
-        <th>Winner</th>
-        <th>Runner Up</th>
-    </thead>
-    <tbody>
-        @foreach($category->sortBy('date') as $entry)
-        <tr>
-            <td>{{ date('Y',$entry->date) }}</td>
-            <td>{{ $entry->person1_name }}</td>
-            <td>{{ $entry->person2_name }}</td>
-        </tr>
-        @endforeach
-    </tbody>
-</table>
-@endforeach
 
 
-@foreach ($honours->groupBy('award')->map(function($groupItems){
-    return $groupItems->sortBy('award');
-}) as $category)
+@foreach ($honours->sortBy('award')->groupBy('award') as $category)
 <details>
     <summary>
 <h2 class="d-table decorated mt-5 mb-2">{{$category->first()->award}}</h2>
