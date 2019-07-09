@@ -6,8 +6,32 @@ return [
         'url' => '/about-whs',
         'children' => [
             [
+                'title' => "Principal's Message",
+                'url' => '/about-whs/principals-message'
+            ],
+            [
                 'title' => 'About WHS',
                 'url' => '/about-whs/about-whs'
+            ],
+            [
+                'title' => 'Facilities',
+                'url' => '/about-whs/facilities'
+            ],
+            [
+                'title' => 'Houses',
+                'url' => '/about-whs/houses'
+            ],
+            [
+                'title' => 'Head Prefects',
+                'url' => '/about-whs/head-prefects'
+            ],
+            [
+                'title' => 'Staff',
+                'url' => '/about-whs/staff'
+            ],
+            [
+                'title' => 'WHS History',
+                'url' => '/about-whs/whs-history'
             ],
             [
                 'title' => 'Board of Trustees',
@@ -25,30 +49,6 @@ return [
                 'title' => 'Working at WHS',
                 'url' => '/about-whs/working-at-whs'
             ],
-            [
-                'title' => "Principal's Message",
-                'url' => '/about-whs/principals-message'
-            ],
-            [
-                'title' => 'Head Prefects',
-                'url' => '/about-whs/head-prefects'
-            ],
-            [
-                'title' => 'Staff',
-                'url' => '/about-whs/staff'
-            ],
-            [
-                'title' => 'Facilities',
-                'url' => '/about-whs/facilities'
-            ],
-            [
-                'title' => 'Houses',
-                'url' => '/about-whs/houses'
-            ],
-            [
-                'title' => 'WHS History',
-                'url' => '/about-whs/whs-history'
-            ],
         ],
     ],
     'news_and_events' => [
@@ -56,20 +56,20 @@ return [
         'url' => '/news-and-events',
         'children' => [
             [
-                'title' => 'Upcoming Events',
-                'url' => '/news-and-events/upcoming-events'
+                'title' => 'School Newsletters',
+                'url' => '/news-and-events/school-newsletters'
             ],
             [
                 'title' => 'News',
                 'url' => '/news-and-events/news'
             ],
             [
-                'title' => 'Achievers List',
-                'url' => '/news-and-events/achievers-list'
+                'title' => 'Upcoming Events',
+                'url' => '/news-and-events/upcoming-events'
             ],
             [
-                'title' => 'School Newsletters',
-                'url' => '/news-and-events/school-newsletters'
+                'title' => 'Achievers List',
+                'url' => '/news-and-events/achievers-list'
             ],
             [
                 'title' => 'Honours Board',
@@ -86,12 +86,16 @@ return [
                 'url' => '/curriculum/course-requirements'
             ],
             [
-                'title' => 'Vocational Pathways',
-                'url' => '/curriculum/vocational-pathways'
+                'title' => 'Curriculum Structure',
+                'url' => '/curriculum/curriculum-structure'
             ],
             [
                 'title' => 'Course Options',
                 'url' => '/curriculum/course-options'
+            ],
+            [
+                'title' => 'Vocational Pathways',
+                'url' => '/curriculum/vocational-pathways'
             ],
             [
                 'title' => 'Tertiary Providers',
@@ -104,10 +108,6 @@ return [
             [
                 'title' => 'Sport',
                 'url' => '/curriculum/sport'
-            ],
-            [
-                'title' => 'Curriculum Structure',
-                'url' => '/curriculum/curriculum-structure'
             ],
             [
                 'title' => 'Faculties',
@@ -124,24 +124,12 @@ return [
                 'url' => '/for-parents/enrolments'
             ],
             [
-                'title' => 'Policies and Charter',
-                'url' => '/for-parents/policies-and-charter'
+                'title' => 'BYOT',
+                'url' => '/for-parents/byot'
             ],
             [
                 'title' => 'Uniform',
                 'url' => '/for-parents/uniform'
-            ],
-            [
-                'title' => 'Graduate Student Profile',
-                'url' => '/for-parentsgraduate-student-profile'
-            ],
-            [
-                'title' => 'Edith Wheal Scholarship',
-                'url' => '/for-parents/edith-wheal-scholarship'
-            ],
-            [
-                'title' => 'BYOT',
-                'url' => '/for-parents/byot'
             ],
             [
                 'title' => 'Term Dates',
@@ -152,12 +140,24 @@ return [
                 'url' => '/for-parents/stationery-lists'
             ],
             [
-                'title' => 'Schoalrship Opportunities',
-                'url' => '/for-parents/scholarship-opportunities'
-            ],
-            [
                 'title' => 'Bell Times',
                 'url' => '/for-parents/bell-times'
+            ],
+            [
+                'title' => 'Policies and Charter',
+                'url' => '/for-parents/policies-and-charter'
+            ],
+            [
+                'title' => 'Graduate Student Profile',
+                'url' => '/for-parentsgraduate-student-profile'
+            ],
+            [
+                'title' => 'Edith Wheal Scholarship',
+                'url' => '/for-parents/edith-wheal-scholarship'
+            ],
+            [
+                'title' => 'Schoalrship Opportunities',
+                'url' => '/for-parents/scholarship-opportunities'
             ],
             [
                 'title' => 'Guide to NCEA',
@@ -174,16 +174,16 @@ return [
                 'url' => '/international/fees-and-accomodation'
             ],
             [
-                'title' => 'Contact Us',
-                'url' => '/international/contact-us'
-            ],
-            [
                 'title' => 'Student Experiences',
                 'url' => '/international/student-experiences'
             ],
             [
                 'title' => 'International Team',
                 'url' => '/international/team'
+            ],
+            [
+                'title' => 'Contact Us',
+                'url' => '/international/contact-us'
             ],
         ],
     ],
