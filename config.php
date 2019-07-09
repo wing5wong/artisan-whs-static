@@ -169,6 +169,12 @@ return [
                 return $page->getFilename();
             },
         ],
+        'extra_curricular_areas' => [
+            'path' => 'curriculum/extra-curricular/{filename}',
+            'extends' => '_layouts.extraCurricular',
+            'section' => 'postContent'
+        ],
+        'extra_curricular_activities',
         'term_dates',
         'vacancies',
     ],

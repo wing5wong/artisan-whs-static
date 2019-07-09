@@ -392,6 +392,40 @@ collections:
         - { label: "Construction and Infrastructure", value: "construction" }
         - { label: "Creative Industries", value: "creative" }
 
+  - name: "extra_curricular_areas"
+    label: "Extra Curricular Areas"
+    label_singular: "Extra Curricular Area"
+    folder: "source/_extra_curricular_areas"
+    create: true
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Date", name: "date", widget: "date"}
+    - {label: "Body", name: "body", widget: "markdown"}
+    - label: "Feature Image"
+        name: "image"
+        widget: "image"
+        required: false
+    - {label: "Person in Charge Name", name: "person_in_charge_name", widget: string, required: false }
+    - {label: "Person in Charge Title", name: "person_in_charge_title", widget: string, required: false }
+    - {label: "Person in Charge Phone", name: "person_in_charge_phone", widget: string, required: false }
+    - {label: "Person in Charge Email", name: "person_in_charge_email", widget: string, required: false }
+
+
+  - name: "extra_curricular_activities"
+    label: "Extra Curricular Activities"
+    label_singular: "Extra Curricular Activity"
+    folder: "source/_extra_curricular_activities"
+    create: true
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Date", name: "date", widget: "date"}
+    - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Extra Curricular Area", name: "extra_curricular_area", widget: "relation", collection: "extra_curricular_areas", searchFields: ["title"], valueField: "title", displayField: [title"]}
+    - label: "Feature Image"
+        name: "image"
+        widget: "image"
+        required: false
+
 
   - name: "honours"
     label: "Honours Board"
