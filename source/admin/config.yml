@@ -402,9 +402,9 @@ collections:
     - {label: "Date", name: "date", widget: "date"}
     - {label: "Body", name: "body", widget: "markdown"}
     - label: "Feature Image"
-        name: "image"
-        widget: "image"
-        required: false
+      name: "image"
+      widget: "image"
+      required: false
     - {label: "Person in Charge Name", name: "person_in_charge_name", widget: string, required: false }
     - {label: "Person in Charge Title", name: "person_in_charge_title", widget: string, required: false }
     - {label: "Person in Charge Phone", name: "person_in_charge_phone", widget: string, required: false }
@@ -422,9 +422,9 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Extra Curricular Area", name: "extra_curricular_area", widget: "relation", collection: "extra_curricular_areas", searchFields: ["title"], valueField: "title", displayField: [title"]}
     - label: "Feature Image"
-        name: "image"
-        widget: "image"
-        required: false
+      name: "image"
+      widget: "image"
+      required: false
 
 
   - name: "honours"
