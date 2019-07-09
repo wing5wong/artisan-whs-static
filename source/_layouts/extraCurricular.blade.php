@@ -12,7 +12,7 @@
 
 
 
-
+{{-- 
 @foreach($extra_curricular_areas as $ec_area)
 <details>
 <summary>
@@ -21,7 +21,7 @@
 
 {!! $ec_area !!}
 
-
+--}}
     @foreach( 
         $extra_curricular_activities->filter( 
             function($eca) use ($page){
@@ -30,10 +30,13 @@
         ) as $ec_activity
     )
     <h3>{{$ec_activity->title}}</h3>
+    {!! $ec_activity !!}
     @endforeach
+
+    {{-- 
 </details>
 @endforeach
-
+--}}
 @include('_partials.lastReviewed')
 
 @endsection
