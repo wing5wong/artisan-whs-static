@@ -97,6 +97,7 @@ return [
             'sort' => 'title',
         ],
         'faculties' => [
+            'sort' => 'title',
             'extends' => '_layouts.faculty',
             'section' => 'postContent',
         ],
