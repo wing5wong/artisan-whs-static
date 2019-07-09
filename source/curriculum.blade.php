@@ -2,7 +2,6 @@
 @section('title', 'Curriculum') 
 @section('content')
 
-
 <div class="houses bg-white text-green row no-gutters">
     <div class="col-12 col-lg-6 p-5 d-flex flex-column justify-content-around align-items-center">
             <h2 class="mb-2 w-100">
