@@ -28,7 +28,6 @@
 
 <hr>
 
-
 @foreach ($honours->sortBy('award')->groupBy('award') as $category)
 <details>
     <summary>
