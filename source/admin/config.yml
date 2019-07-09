@@ -166,7 +166,7 @@ collections:
         name: "image"
         widget: "image"
         required: false
-        
+      - {label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post'}
       - {label: "Intro", name: "intro", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
 
