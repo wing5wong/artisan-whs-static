@@ -392,10 +392,10 @@ collections:
         - { label: "Construction and Infrastructure", value: "construction" }
         - { label: "Creative Industries", value: "creative" }
 
-  - name: "extra_curricular_areas"
-    label: "Extra Curricular Areas"
-    label_singular: "Extra Curricular Area"
-    folder: "source/_extra_curricular_areas"
+  - name: "extracurricular_areas"
+    label: "Extracurricular Areas"
+    label_singular: "Extracurricular Area"
+    folder: "source/_extracurricular_areas"
     create: true
     fields:
     - {label: "Title", name: "title", widget: "string"}
@@ -411,16 +411,16 @@ collections:
     - {label: "Person in Charge Email", name: "person_in_charge_email", widget: string, required: false }
 
 
-  - name: "extra_curricular_activities"
-    label: "Extra Curricular Activities"
-    label_singular: "Extra Curricular Activity"
-    folder: "source/_extra_curricular_activities"
+  - name: "extracurricular_activities"
+    label: "Extracurricular Activities"
+    label_singular: "Extracurricular Activity"
+    folder: "source/_extracurricular_activities"
     create: true
     fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Date", name: "date", widget: "date"}
     - {label: "Body", name: "body", widget: "markdown"}
-    - {label: "Extra Curricular Area", name: "extra_curricular_area", widget: "relation", collection: "extra_curricular_areas", searchFields: ["title"], valueField: "title", displayField: [title"]}
+    - {label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayField: [title"]}
     - label: "Feature Image"
       name: "image"
       widget: "image"
