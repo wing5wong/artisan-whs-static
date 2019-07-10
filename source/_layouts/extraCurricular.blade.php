@@ -12,7 +12,7 @@
 
 
 
-{{-- 
+
 @foreach($extra_curricular_areas as $ec_area)
 <details>
 <summary>
@@ -21,7 +21,6 @@
 
 {!! $ec_area !!}
 
---}}
     @foreach( 
         $extracurricular_activities->filter( 
             function($eca) use ($page){
@@ -33,10 +32,11 @@
     {!! $ec_activity !!}
     @endforeach
 
-    {{-- 
+        <a href="{{$ec_area->getPath()}}" class="btn btn-light my-5">See all {{$ec_area->title}} activities.</a>
+
 </details>
 @endforeach
---}}
+
 @include('_partials.lastReviewed')
 
 @endsection
