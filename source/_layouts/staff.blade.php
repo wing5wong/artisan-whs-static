@@ -63,7 +63,7 @@ foreach([
 "Board of Trustees",
 ] as $dept){
 
-$filteredStaff = $staff->filter(function($s) use ($dept){
+$filteredStaff = $staff->sortBy('position')->filter(function($s) use ($dept){
 return in_array($dept,$s->departments);
 })
 ->map(function($person){
