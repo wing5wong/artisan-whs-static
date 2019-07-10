@@ -13,7 +13,7 @@
 
 
 
-@foreach($extra_curricular_areas as $ec_area)
+@foreach($extracurricular_areas as $ec_area)
 <details>
 <summary>
     <h2 class="decorated d-table mt-5 mb-2">{{$ec_area->title}}</h2> 
