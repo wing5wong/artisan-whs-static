@@ -1,14 +1,19 @@
 ---
-title: "$10 tickets lead to $500 Grocery Grab"
-date: 2018-10-04
-description: "Whanganui High School Rowing Grocery Grab fundraiser was a great success on Sunday morning at New World..."
-featured-image: 
-excerpt: "Whanganui High School Rowing Grocery Grab fundraiser was a great success on Sunday morning at New World."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+title: $10 tickets lead to $500 Grocery Grab
+date: 2018-10-04T00:00:00.000Z
+description: >-
+  Whanganui High School Rowing Grocery Grab fundraiser was a great success on
+  Sunday morning at New World...
+short: >-
+  Whanganui High School Rowing Grocery Grab fundraiser was a great success on
+  Sunday morning at New World. Winners, Kylie Tasker and Trevor Tutty, had four
+  minutes to go around the shop to fill their trolleys up to the value of $500
+  each. They had won this by buying a $10 ticket to support Whanganui High
+  School Rowing. 
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png
+    description: a test image
 ---
 
 <p><span><em>Photo:</em> Jonty Thomson, Levi Carroll, James Clear, Trevor Tutty, James Ross, (New World Manager on the day) Kylie Tasker and Niamh Mullany. (Jonty, Levi and Niamh are High School rowing captains and James sold one of the winning tickets).</span></p>
