@@ -1,6 +1,6 @@
 ---
 title: Mr C. Smyth
-position: Teacher
+position: ''
 departments:
   - Social Sciences
 ---
