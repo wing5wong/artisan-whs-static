@@ -155,6 +155,7 @@ return [
         'staff' => [
             'section' => 'postContent',
             'tags' => [],
+            'position' => 'Teacher'
         ],
         'subject_areas' => [
             'path' => 'subject-areas/{filename}',

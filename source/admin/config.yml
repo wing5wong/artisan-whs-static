@@ -507,7 +507,7 @@ collections:
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
-      - {label: "Position", name: "position", widget: "string", required: false}
+      - {label: "Position", name: "position", widget: "string", default: ""}
       - label: "Departments"
         label_singular: "Department"
         name: "departments"

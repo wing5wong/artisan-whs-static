@@ -63,8 +63,11 @@ foreach([
 "Board of Trustees",
 ] as $dept){
 
-$filteredStaff = $staff->sortBy('position')->filter(function($s) use ($dept){
+$filteredStaff = $staff->filter(function($s) use ($dept){
 return in_array($dept,$s->departments);
+})
+->sortBy(function($st){
+    return array_reverse(explode(" ", $st->title));
 })
 ->map(function($person){
     $string = $person->title;
