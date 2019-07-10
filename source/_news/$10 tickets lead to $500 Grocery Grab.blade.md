@@ -14,6 +14,9 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png
     description: a test image
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png
+    description: seconds image test
 ---
 
 <p><span><em>Photo:</em> Jonty Thomson, Levi Carroll, James Clear, Trevor Tutty, James Ross, (New World Manager on the day) Kylie Tasker and Niamh Mullany. (Jonty, Levi and Niamh are High School rowing captains and James sold one of the winning tickets).</span></p>
