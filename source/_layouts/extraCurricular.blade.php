@@ -11,7 +11,7 @@
 @yield('postContent')
 
 
-
+<h1>Available Extracurricular Areas</h1>
 
 @foreach($extracurricular_areas as $ec_area)
 <details>
