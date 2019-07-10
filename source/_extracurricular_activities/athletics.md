@@ -1,7 +1,7 @@
 ---
 title: Athletics
 date: 2019-07-09T22:49:22.439Z
-extra_curricular_area: Sport
+extracurricular_area: Sport
 ---
 * Background - Whanganui High School has a very strong athletics programme, and we are now ranked 4th = in New Zealand after our performances at the 2018 Athletics Nationals in Dunedin where we won 6 medals, and two of our students made the NZ Secondary Schools' team.  Athletics also acts as a conditioning base for other codes within the school and many athletes within the programme have gone on to represent the school at high levels in other codes due to their excellent conditioning. 
 * Structure - As well as our annual athletics sports, Whanganui High School students compete and train through the school. We have a year-round programme with emphasis on Athletics in summer and Cross Country and Conditioning during winter.  This also fits in with winter sports requirements especially for juniors.
