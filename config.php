@@ -171,7 +171,7 @@ return [
         ],
         'extracurricular_areas' => [
             'path' => 'curriculum/extracurricular/{filename}',
-            'extends' => '_layouts.extraCurricular',
+            'extends' => '_layouts.extraCurricularArea',
             'section' => 'postContent'
         ],
         'extracurricular_activities',

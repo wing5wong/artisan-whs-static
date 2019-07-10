@@ -98,6 +98,10 @@ return [
                 'url' => '/curriculum/vocational-pathways'
             ],
             [
+                'title' => 'Extracurricular',
+                'url' => '/curriculum/extracurricular'
+            ],
+            [
                 'title' => 'Tertiary Providers',
                 'url' => '/curriculum/tertiary-providers'
             ],
