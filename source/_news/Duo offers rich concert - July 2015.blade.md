@@ -4,11 +4,12 @@ date:
 description: "FOR THE LOVE OF IT: Flautist Ingrid Culliford and pianist Liam Wooding (former WHS student) will be performing this weekend, Wanganui Chronicle article 17/7/15..."
 featured-image: 
 excerpt: "FOR THE LOVE OF IT: Flautist Ingrid Culliford and pianist Liam Wooding (former Wanganui High School student) will be performing this weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FOR THE LOVE OF IT: Flautist Ingrid Culliford and pianist Liam Wooding <span>(former Wanganui High School student)&nbsp;</span>will be performing this weekend.&nbsp;</span></p>

@@ -4,16 +4,17 @@ date: 2019-04-23
 description: "Whanganui's Seth Reardon is in third spot in NZ champs, with rivals heading overseas, may have a shot..."
 featured-image: 
 excerpt: "Whanganui's Seth Reardon is in third spot in NZ champs, with rivals heading overseas, may have a shot."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/cyqDW9HqY77WFOCWg3FjcM1mALM=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/EI2VGN4CZZFIJG55VK6RTWEDK4.jpg" alt="By remaining consistent, Whanganui's Seth Reardon (Yamaha) is possibly now in a prime position to win his first national title. Photo by Andy McGechan " /></p>
-<p><br /><span>By remaining consistent, Whanganui's Seth Reardon (Yamaha) is possibly now in a prime position to win his first national title. <br /><em>PHOTO / Andy McGechan, BikesportNZ.com</em></span></p>
-<p class="element element-paragraph">Having three different winners in as many events, this season's New Zealand Enduro Championships have so far been one of the most fiercely-fought affairs in years.</p>
+<p><span>By remaining consistent, Whanganui's Seth Reardon (Yamaha) is possibly now in a prime position to win his first national title. <br /><em>PHOTO / Andy McGechan, BikesportNZ.com</em></span></p>
+<p class="element element-paragraph"><br />Having three different winners in as many events, this season's New Zealand Enduro Championships have so far been one of the most fiercely-fought affairs in years.</p>
 <p class="element element-paragraph">And while he has yet to stand on the podium, two Top 5's and a sixth place finish has a Whanganui rider in position to make a run at the overall title.</p>
 <p class="element element-paragraph">Helensville's Tom Buxton won the first of the seven rounds of the Yamaha and Mitas Tyres-backed series near Whangamata in March, with Cambridge rider Dylan Yearbury clinching the win at Round 2 near Porirua two weeks ago.</p>
 <p class="element element-paragraph">For the third round near Tokoroa on Saturday, it was multi-time former national champion Chris Birch, from Thames, who grabbed the top step of the podium for the premier AA course riders.</p>

@@ -4,11 +4,12 @@ date:
 description: "WHS student Lionel Treweek (left), Sue Laugesen and Rob McMillan with their medals from the NZ Nationals in Palmerston North last weekend, Wanganui Chronicle article on 26/8/16..."
 featured-image: 
 excerpt: "WHS student Lionel Treweek (left), Sue Laugesen and Rob McMillan with their medals from the NZ Nationals in Palmerston North last weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WHS student Lionel Treweek (left)</strong>, Sue Laugesen and Rob McMillan with their medals from the <strong>NZ Nationals in Palmerston North</strong> last weekend.</p>

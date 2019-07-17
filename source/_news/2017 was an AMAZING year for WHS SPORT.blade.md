@@ -4,11 +4,12 @@ date:
 description: "What an AMAZING year WHS has had with sport. Here are a few great moments we have had!.."
 featured-image: 
 excerpt: "What an amazing year WHS has had with sport. Here are a few great moments we have had!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a30719db8d39a41ae000801/Lucas-Thompson--Jack-Clifton-paddlers-chron-23-Feb-17.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a307030b8d39a41ae0007ff/rowing-girl.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a305304b8d39a41ae0007e1/motocross.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a306e1bb8d39a41ae0007fd/1-2--3.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a307422b8d39a41ae000803/17629841_771616379654137_2676009228426701831_n.jpg"
 ---
 
 <h4>&nbsp;&nbsp;</h4>

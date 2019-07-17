@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Martin Atkinson has been named in the New Zealand hockey team for the coming test series with Australia next month, Wanganui Chronicle article on 15 October..."
 featured-image: 
 excerpt: "Former WHS student Martin Atkinson has been named in the New Zealand hockey team for the coming test series with Australia next month, Wanganui Chronicle article on 15 October..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>NEWEST BLACK STICK: Former WHS student Martin Atkinson has been named in the New Zealand hockey team for the coming test series with Australia next month.</strong></p>

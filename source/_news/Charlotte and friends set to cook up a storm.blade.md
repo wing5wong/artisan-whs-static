@@ -4,11 +4,12 @@ date:
 description: "WHS cooking students Charlotte Taylor and Matt Hirini don't know what they'll be cooking at a national cooking competition in Auckland..."
 featured-image: 
 excerpt: "Whanganui High School cooking students Charlotte Taylor and Matt Hirini don't know what they'll be cooking at a national cooking competition in Auckland."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui High School cooking students Charlotte Taylor and Matt Hirini don't know what they'll be cooking at a national cooking competition in Auckland. <br />PHOTO / Stuart Munro</span></p>

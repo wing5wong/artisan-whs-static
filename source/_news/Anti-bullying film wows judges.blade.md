@@ -4,11 +4,12 @@ date:
 description: "An anti-bullying film by a group of WHS students has won a national competition..."
 featured-image: 
 excerpt: "An anti-bullying film by a group of Whanganui students has won a national competition. Friends was made by Whanganui High School's head boy Jack Southee and deputy head boy Nusr Ghamri, along with..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>TOP TALENT: A film by Nusr Ghamri, left, and Jack Southee has won a national award.</strong><br /> PHOTO / Bevan Conley</span></p>

@@ -4,11 +4,12 @@ date: 2019-02-28
 description: "If you have been on the PS Waimarie recently you might have noticed a new, young skipper. It is Ronan Marshall, age 19!"
 featured-image: 
 excerpt: "If you have been on the PS Waimarie recently you might have noticed a new, young skipper. It is Ronan Marshall, age 19!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Ronan Marshall &ndash; Waimarie Skipper at 19!</h4>

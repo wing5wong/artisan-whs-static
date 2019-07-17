@@ -4,11 +4,12 @@ date: 2018-11-06
 description: "Rountree is a rider on the rise winning two age groups titles at the Waikato Motocross Champs in Te Kuiti at the weekend..."
 featured-image: 
 excerpt: "Rountree is a rider on the rise winning two age groups titles at the Waikato Motocross Champs in Te Kuiti at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Whanganui High School's James Rountree getting some height at the Waikato Motocross Championships in Te Kuiti at the weekend.<br /><em>Photo / Supplied</em></p>

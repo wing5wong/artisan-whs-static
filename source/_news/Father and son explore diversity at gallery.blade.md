@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School student Abishai and Sharad Dohare are exhibiting their drawing and photography talents at Whanganui Fine Arts Gallery..."
 featured-image: 
 excerpt: "Whanganui High School student Abishai and Sharad Dohare are exhibiting their drawing and photography talents at Whanganui Fine Arts Gallery."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Whanganui High School student Abishai and Sharad Dohare are exhibiting their drawing and photography talents at Whanganui Fine Arts Gallery.</strong> <br />PHOTO / Stuart Munro</span></p>

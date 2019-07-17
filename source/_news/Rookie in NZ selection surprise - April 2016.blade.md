@@ -4,11 +4,12 @@ date:
 description: "The newcomer is WHS student Sapere Simon, who led the under-18 K4 bronze medal crew at the nationals in Lake Karapiro and came seventh in the K1 final, Wanganui Chronicle article on 8/4/16..."
 featured-image: 
 excerpt: "The newcomer is WHS student Sapere Simon, who led the under-18 K4 bronze medal crew at the nationals in Lake Karapiro and came seventh in the K1 final."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

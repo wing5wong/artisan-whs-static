@@ -4,11 +4,12 @@ date:
 description: "Whanganui motorcycle racer (and former WHS student) Richie Dibben (right) and his dad Chris (left) flank American rider Steve Alkyer at round 2 of the FIM Asia Supermoto Championship in Malang..."
 featured-image: 
 excerpt: "TIME OUT: Whanganui motorcycle racer Richie Dibben (right) and his dad Chris (left) flank American rider Steve Alkyer at round 2 of the FIM Asia Supermoto Championship in Malang, Indonesia."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>TIME OUT: Whanganui motorcycle racer (and former WHS student) Richie Dibben (right) and his dad Chris (left) flank American rider Steve Alkyer at round 2 of the FIM Asia Supermoto Championship in Malang, Indonesia.</span></p>

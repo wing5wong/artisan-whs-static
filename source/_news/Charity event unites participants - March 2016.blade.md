@@ -4,11 +4,12 @@ date:
 description: "THE GODS DESCENT: Millie Manning (left) and Tessa Russell walk the track for Wanganui High School's Greek and Roman Gods team at the Relay for Life, Wanganui Chronicle article on 7/3/16..."
 featured-image: 
 excerpt: "THE GODS DESCENT: Millie Manning (left) and Tessa Russell walk the track for Wanganui High School's Greek and Roman Gods team at the Relay for Life, Wanganui Chronicle article on 7/3/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

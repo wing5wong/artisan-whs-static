@@ -4,11 +4,12 @@ date:
 description: "LAB RATS: Year 10 Wanganui High School student Levi Carroll is put through his paces by sport scientist Professor Steve Stannard while school mates look on in the Massey mobile laboratory yesterday."
 featured-image: 
 excerpt: "LAB RATS: Year 10 Wanganui High School student Levi Carroll is put through his paces by sport scientist Professor Steve Stannard while school mates look on in the Massey mobile laboratory yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>LAB RATS: Year 10 Wanganui High School student Levi Carroll is put through his paces by sport scientist Professor Steve Stannard while school mates look on in the Massey mobile laboratory yesterday.</span></p>

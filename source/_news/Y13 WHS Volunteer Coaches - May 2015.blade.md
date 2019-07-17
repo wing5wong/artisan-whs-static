@@ -5,11 +5,12 @@ description: "These students are coaching our school teams in Hockey, Football a
 Click on above for more information..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;">Congratulations to our Y13 students, Ben Luff Scott, Reuben Gedye, Josh Parker Tegan Pope, Kody Hamahona-Stark, Waimarama Matena and Caitlin MacDonald. Absent: Kyle Hall. </span></p>

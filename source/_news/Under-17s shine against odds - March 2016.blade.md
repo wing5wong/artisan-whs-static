@@ -4,11 +4,12 @@ date:
 description: "Whanganui Under-17 girls coach Taare Henry (left) and his team were buzzing after beating Te Tai Tokerau in Tauranga where they ended the Mel Young Classic basketball tournament in fourth place..."
 featured-image: 
 excerpt: "ON A ROLL: Whanganui Under-17 girls coach Taare Henry (left) and his team were buzzing after beating Te Tai Tokerau in Tauranga where they ended the Mel Young Classic basketball tournament in fourth place."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

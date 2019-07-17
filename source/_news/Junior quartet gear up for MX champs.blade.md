@@ -4,11 +4,12 @@ date: 2018-04-18
 description: "James Rountree (left), Oliver Dennision, Jaxon Watt & Jet Ashworth will represent Whanganui at the NZ Jnr MX Champs..."
 featured-image: 
 excerpt: "James Rountree (left), Oliver Dennision, Jaxon Watt & Jet Ashworth will represent Whanganui at the NZ Jnr MX Championships in Mosgiel this weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>James Rountree (left), Oliver Dennision, Jaxon Watt and Jet Ashworth will represent Whanganui at the New Zealand Junior Motocross Championships in Mosgiel this weekend.</strong><br /><em>Photo / Supplied</em></p>

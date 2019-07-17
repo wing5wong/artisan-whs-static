@@ -4,11 +4,12 @@ date: 2018-11-08
 description: "Coach Eric Head and his WHS 1st X1 who won back-to-back Ross Taylor Cup 20/20 titles in Palmerston North on Friday..."
 featured-image: 
 excerpt: "Coach Eric Head and his WHS 1st X1 who won back-to-back Ross Taylor Cup 20/20 titles in Palmerston North on Friday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><span>Coach Eric Head and his WHS 1st X1 who won back-to-back Ross Taylor Cup 20/20 titles in Palmerston North on Friday.</span></h3>

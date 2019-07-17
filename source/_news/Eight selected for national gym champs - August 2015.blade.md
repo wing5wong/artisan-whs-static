@@ -4,11 +4,12 @@ date:
 description: "Congratulations to WHS students Millie Manning and Jonathan Maples who will be representing Wanganui-Manawatu at the NZ National Gymsports Championships at the Trusts Arena in Auckland."
 featured-image: 
 excerpt: "Congratulations to WHS students Millie Manning and Jonathan Maples who will be representing Wanganui-Manawatu at the NZ National Gymsports Championships at the Trusts Arena in Auckland from September 30 to October 4."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Congratulations to WHS students Millie Manning and Jonathan Maples who will be representing Wanganui-Manawatu<span>&nbsp;at the NZ National Gymsports Championships at the Trusts Arena in Auckland from September 30 to October 4.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Council parking wardens will educate parents and schools on how to park safely and lawfully around schools..."
 featured-image: 
 excerpt: "Council parking wardens will educate parents and schools on how to park safely and lawfully around schools."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Council parking wardens will educate parents and schools on how to park safely and lawfully around schools. <br />PHOTO/Stuart Munro</span></p>

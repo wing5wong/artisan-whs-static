@@ -4,11 +4,12 @@ date:
 description: "OFFICIAL: Former WHS deputy principal / Olympic Games Cycling starter, John McDonnell, used the Wanganui Cycling Club's 75-year-old starting marbles and their leather carrier case to make lane draws.."
 featured-image: 
 excerpt: "OFFICIAL: Former WHS deputy principal / Olympic Games Cycling starter, John McDonnell, used the Wanganui Cycling Club's 75-year-old starting marbles and their leather carrier case to make lane draws in Athens."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

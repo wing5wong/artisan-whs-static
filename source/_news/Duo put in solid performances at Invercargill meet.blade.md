@@ -4,11 +4,12 @@ date:
 description: "DOWN TIME: Whanganui swimmers Grace Hogan (left - former WHS student) and Alex Forlong (WHS student) take a break from the pool at the NZ National Division 2 meet in Invercargill."
 featured-image: 
 excerpt: "DOWN TIME: Whanganui swimmers Grace Hogan (left - former WHS student) and Alex Forlong (WHS student) take a break from the pool at the NZ National Division 2 meet in Invercargill."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

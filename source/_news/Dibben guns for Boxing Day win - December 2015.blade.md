@@ -4,11 +4,12 @@ date:
 description: "IN THE BAG: Hometown racer Richie Dibben has refused to play it safe and rest on his points advantage as he hunts down his third Suzuki Series Supermoto title around the Cemetery Circuit on Boxing Day"
 featured-image: 
 excerpt: "IN THE BAG: Hometown racer and former WHS student Richie Dibben has refused to play it safe and rest on his points advantage as he hunts down his third Suzuki Series Supermoto title around the Cemetery Circuit on Boxing Day."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

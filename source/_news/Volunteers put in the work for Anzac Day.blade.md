@@ -4,16 +4,17 @@ date: 2019-04-25
 description: "Air Training Corps cadet & WHS student Georgia Hiscotte, helped lay poppies on gravestones volunteering for Anzac Day..."
 featured-image: 
 excerpt: "Air Training Corps cadet & WHS student Georgia Hiscotte, who helped lay poppies on gravestones says volunteering for Anzac Day is all about being grateful for the service of those who went to war."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/1shnKyq7r639i1J1fxiRIXVqKFo=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/7L6QBWM2HVHJPDHWFBXIQMSZLM.jpg" alt="Paul Hiscotte and Air Training Corps cadet Georgia Hiscotte helped lay poppies on gravestones. Photos/ Lewis Gardner" /></p>
 <p><span>Paul Hiscotte and Air Training Corps cadet <strong>Georgia Hiscotte</strong> helped lay poppies on gravestones. <br /><em>PHOTO / Lewis Gardner</em></span></p>
-<p class="element element-paragraph">Around 30 members of the RSA women's section spent Wednesday morning binding more than 2000 poppies to sprigs of rosemary.</p>
+<p class="element element-paragraph"><br />Around 30 members of the RSA women's section spent Wednesday morning binding more than 2000 poppies to sprigs of rosemary.</p>
 <p class="element element-paragraph">Long before the wreaths are laid and the rum and coffee poured at Thursday morning's Anzac Day dawn service, volunteers spend hours making sure the show runs smoothly.</p>
 <p class="element element-paragraph">"It's a lot of work getting days like Anzac Day ready," Returned and Services Association (RSA) Whanganui support advisor Wally Wallbutton says.</p>
 <p class="element element-paragraph">Following the tradition of years gone by, around 30 members of the RSA women's section spent Wednesday morning binding more than 2000 poppies to sprigs of rosemary.</p>

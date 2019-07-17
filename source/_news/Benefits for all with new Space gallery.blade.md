@@ -4,16 +4,17 @@ date: 2019-04-24
 description: "Ready for the next exhibition at Space are Craig Winton, Leonie Sharp and Sarah Williams..."
 featured-image: 
 excerpt: "Ready for the next exhibition at Space are Craig Winton, Leonie Sharp and Sarah Williams."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/1Bia_4sAb6FGK13hpe8WRO459AI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/5WNZFYFVJZBINMYEDOLQMS7Y6I.jpg" alt="Ready for the next exhibition at Space are Craig Winton, Leonie Sharp and Sarah Williams. PICTURE / PAUL BROOKS" /></p>
 <p><span>Ready for the next exhibition at Space are Craig Winton, <strong>Leonie Sharp</strong> and Sarah Williams. <br /><em>PHOTO / Paul Brooks</em></span></p>
-<p class="element element-paragraph">The new Space Studio and Gallery on the corner of Taupo Quay and St Hill St is proving popular with artists and art lovers.</p>
+<p class="element element-paragraph"><br />The new Space Studio and Gallery on the corner of Taupo Quay and St Hill St is proving popular with artists and art lovers.</p>
 <p class="element element-paragraph">With its big exhibition area divided into three galleries, and its extended opening hours, owner Sarah Williams sees multiple benefits for everyone.</p>
 <p class="element element-paragraph">The new line-up of exhibitions opens with art by local artists Leonie Sharp and Craig Winton and Cam Munroe from Kapiti.</p>
 <p class="element element-paragraph">"That's the joy of this new Space," says Sarah. "You get three solo shows at once, and they're all very focused shows. These artists have worked very hard to put this together and it's nice to have Cam joining us from outside of Whanganui. Craig is in Gallery One, Cam in Gallery Two and Leonie in the pop-up gallery.</p>

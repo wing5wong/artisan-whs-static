@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School principal Martin McAllen. What skills and attributes do you think the ideal Whanganui High School graduate should have?.."
 featured-image: 
 excerpt: "Whanganui High School principal Martin McAllen.. What skills and attributes do you think the ideal Whanganui High School graduate should have?"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui High School principal Martin McAllen. <br />PHOTO: Bevan Conley</span></p>

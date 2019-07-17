@@ -4,11 +4,12 @@ date:
 description: "CONGRATULATIONS: Marton Scout group leader Kevin Randles presented Duncan Peacock of Marton and WHS student Rebekah Johnson of Wanganui with their Chief Scout's Awards, Wanganui Chronicle on 29/9/15.."
 featured-image: 
 excerpt: "CONGRATULATIONS: Marton Scout group leader Kevin Randles presented Duncan Peacock of Marton and WHS student Rebekah Johnson of Wanganui with their Chief Scout's Awards."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>CONGRATULATIONS: Marton Scout group leader Kevin Randles presented Duncan Peacock of Marton and WHS student Rebekah Johnson of Wanganui with their Chief Scout's Awards.</span></p>

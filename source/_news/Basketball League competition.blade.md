@@ -4,11 +4,12 @@ date:
 description: "Anyone interested in signing up for this Basketball 3 X 3 League contact Ross Cronshaw at Sport Whanganui..."
 featured-image: 
 excerpt: "Anyone interested in signing up for this Basketball 3 X 3 League contact Ross Cronshaw at Sport Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Anyone interested in signing up for this Basketball 3 X 3 League contact Ross Cronshaw at Sport Whanganui.</span></p>

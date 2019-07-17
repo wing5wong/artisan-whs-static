@@ -4,11 +4,12 @@ date:
 description: "DEBUTANTE: Whanganui skater Renee Teers will debut at the 2016 Speed Skating Oceania Championships in Timaru during the Easter break where she will represent NZ in the cadet girls class (12-14).."
 featured-image: 
 excerpt: "DEBUTANTE: Whanganui skater Renee Teers will debut at the 2016 Speed Skating Oceania Championships in Timaru during the Easter break where she will represent NZ in the cadet girls class (12-14).."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

@@ -4,11 +4,12 @@ date: 2018-04-11
 description: "Whanganui off-roader Seth Reardon is right in the hunt for a podium finish in the national champs..."
 featured-image: 
 excerpt: "Whanganui off-roader Seth Reardon is right in the hunt for a podium finish in the national champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>WINNING FORM:&nbsp; Whanganui off-roader Seth Reardon is right in the hunt for a podium finish in the national champs.</strong><br /><em>PHOTO / Supplied</em></p>

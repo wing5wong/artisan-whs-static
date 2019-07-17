@@ -4,11 +4,12 @@ date:
 description: "Three-time champion, former WHS student, Sam Blenkinsop in action during the Dodzy Memorial Enduro mountainbike race held at the Wairoa Gorge..."
 featured-image: 
 excerpt: "Three-time champion, former WHS student, Sam Blenkinsop in action during the Dodzy Memorial Enduro mountainbike race held at the Wairoa Gorge."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Three-time champion, former WHS student, Sam Blenkinsop in action during the Dodzy Memorial Enduro mountainbike race held at the Wairoa Gorge.<br /><strong>PHOTO: Mark Bridgwater&nbsp;</strong></span></p>

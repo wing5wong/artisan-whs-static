@@ -4,11 +4,12 @@ date:
 description: "Congratulations to WHS student Finn Brown who won silver in the under 73kg junior men's grade then bronze in the open weight at the National Judo Champs held in Tauranga."
 featured-image: 
 excerpt: "Congratulations to WHS student Finn Brown who won silver in the under 73kg junior men's grade then bronze in the open weight at the National Judo Champs held in Tauranga."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>IT WAS ON for young and old at the 2015 National Judo Championships held in Tauranga from the members of Wanganui's two clubs.</span></p>

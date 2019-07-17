@@ -4,11 +4,12 @@ date:
 description: "Wanganui Judo Club exponent Kasey Watson picked up one the biggest victories of his career with gold at the Auckland International Judo Championships."
 featured-image: 
 excerpt: "Wanganui Judo Club exponent Kasey Watson picked up one the biggest victories of his career with gold at the Auckland International Judo Championships."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Wanganui Judo Club exponent Kasey Watson picked up one the biggest victories of his career with gold at the Auckland International Judo Championships at the weekend.</strong></p>

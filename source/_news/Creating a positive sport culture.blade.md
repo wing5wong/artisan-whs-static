@@ -4,11 +4,12 @@ date:
 description: "Lead Ambassador Jolene Henry and Tess from For Our Kids with the Youth Ambassadors..."
 featured-image: 
 excerpt: "Lead Ambassador Jolene Henry and Tess from For Our Kids with the Youth Ambassadors."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>POSITIVE: Lead Ambassador Jolene Henry and Tess from For Our Kids with the Youth Ambassadors.&nbsp;<br />PHOTO: Sport Whanganui</p>

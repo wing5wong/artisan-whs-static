@@ -4,11 +4,12 @@ date: 2018-07-09
 description: "Whanganui's Judoka exponent Keightley Watson will start a busy six months of competition & training..."
 featured-image: 
 excerpt: "Whanganui's Judoka exponent Keightley Watson will start a busy six months of competition and training, first in Hong Kong on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui's Judoka exponent Keightley Watson will start a busy six months of competition and training, first in Hong Kong on Saturday.</span><br />Photo / Supplied</p>

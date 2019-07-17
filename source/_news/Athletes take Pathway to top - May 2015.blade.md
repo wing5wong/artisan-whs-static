@@ -4,11 +4,12 @@ date:
 description: "HELPING HAND: Sport Whanganui's Nicole Dryden with kayaker and former WHS student Aiden Nossiter and coach Brian Scott after Nossiter's second inclusion in the Pathway To Podium programme, 23/5/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>HELPING HAND: Sport Whanganui's Nicole Dryden with kayaker and former WHS student Aiden Nossiter and coach Brian Scott after Nossiter's second inclusion in the Pathway To Podium programme.</span></p>

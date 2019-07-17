@@ -4,11 +4,12 @@ date:
 description: "Well done to our WHS Friday night Basketball Teams who won their finals on 14 August."
 featured-image: 
 excerpt: "Well done to our WHS Friday night Basketball Teams who won their finals on 14 August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Well done to our WHS Friday night Basketball Teams who won their finals on 14 August.&nbsp;</span></p>

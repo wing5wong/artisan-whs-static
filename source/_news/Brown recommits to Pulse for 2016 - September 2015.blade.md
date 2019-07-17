@@ -4,11 +4,12 @@ date:
 description: "STAYING PUT: Former WHS student Jodi Brown has signed up for her second season with the Pulse, Wanganui Chronicle article on 1/9/15..."
 featured-image: 
 excerpt: "STAYING PUT: Former WHS student Jodi Brown has signed up for her second season with the Pulse."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>STAYING PUT: Former WHS student Jodi Brown has signed up for her second season with the Pulse.</p>

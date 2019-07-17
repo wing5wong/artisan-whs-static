@@ -4,11 +4,12 @@ date:
 description: "Candidates go back to class at teachers' invitation at Whanganui High School..."
 featured-image: 
 excerpt: "Candidates go back to class at teachers' invitation at Whanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/59ae23a0b8d39a35a500068f/Labour-MP.PNG"
+	 - image: "/uploads/59ae2392b8d39a35a500068d/First-MP.PNG"
+	 - image: "/uploads/59ae2385b8d39a35a500068b/Green-MP.PNG"
+	
+	
 ---
 
 <p>National candidate Harete Hipango sits with a Year 9 Chinese language student.<br /><br />Candidates go back to class at teachers' invitation at Whanganui High School.</p>

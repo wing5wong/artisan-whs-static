@@ -4,11 +4,12 @@ date:
 description: "Whanganui siblings Callaghan (left) and Keightley Watson (WHS student) return triumphant from Australian judo tournament, including NZ selection for Keightley..."
 featured-image: 
 excerpt: "Whanganui siblings Callaghan (left) and Keightley Watson (WHS student) return triumphant from Australian judo tournament, including NZ selection for Keightley."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>FIGHTING FIT: Whanganui siblings Callaghan (left) and Keightley Watson (WHS student) return triumphant from Australian judo tournament, including NZ selection for Keightley.</strong></p>

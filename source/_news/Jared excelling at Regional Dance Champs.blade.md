@@ -4,11 +4,12 @@ date: 2018-08-11
 description: "Jared Sim and his dance partner have come away with fantastic results at Regional Dance Championships 2018..."
 featured-image: 
 excerpt: "Jared Sim and his dance partner have come away with fantastic results at Regional Dance Championships 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Jared Sim and his dance partner have come away with fantastic results at Regional Dance Championships 2018.</h4>

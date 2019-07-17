@@ -4,11 +4,12 @@ date:
 description: "Martin and Sandy McAllen. Martin is the new principal of Whanganui High School, Wanganui Chronicle article on 10/11/16..."
 featured-image: 
 excerpt: "Martin and Sandy McAllen. Martin is the new principal of Whanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Martin and Sandy McAllen. </strong><br /><strong>Martin&nbsp;is the new principal of Whanganui High School.</strong></p>

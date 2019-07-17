@@ -4,11 +4,12 @@ date:
 description: "WHS student, Millie Manning plays Queenie in The Pohutukawa Tree at Repertory Theatre..."
 featured-image: 
 excerpt: "Former WHS student, Millie Manning plays Queenie in The Pohutukawa Tree at Repertory Theatre."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>TALENT: Former WHS student, Millie Manning plays Queenie in The Pohutukawa Tree at Repertory Theatre. <br />PICTURE: Stuart Munro</span></p>

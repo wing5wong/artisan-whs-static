@@ -4,11 +4,12 @@ date:
 description: "INJURY-PLAGUED: The Whanganui High School First XV defaulted the Friday night game against Massey White because injuries have hit the colts side, Wanganui Chronicle article on 7/6/16..."
 featured-image: 
 excerpt: "INJURY-PLAGUED: The Whanganui High School First XV defaulted the Friday night game against Massey White because injuries have hit the colts side."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>INJURY-PLAGUED: The Whanganui High School First XV defaulted the Friday night game against Massey White because injuries have hit the colts side.&nbsp;</span></p>

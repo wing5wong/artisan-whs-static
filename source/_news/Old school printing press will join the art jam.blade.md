@@ -4,11 +4,12 @@ date: 2018-10-12
 description: "WHS teacher Graham Hall & Sarah Williams are ready for 24 hours of non-stop art and fun at Space Gallery..."
 featured-image: 
 excerpt: "WHS teacher Graham Hall and Sarah Williams are ready for 24 hours of non-stop art and fun at Space Gallery."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bc00eb5ff2a7c68e500033d/Graham-Hall-art-jam-posterchron-12-oct.jpg"
+	
+	
+	
+	
 ---
 
 <p><span><strong>WHS teacher Graham Hall and Sarah Williams are ready for 24 hours of non-stop art and fun at Space Gallery.</strong> <br /><em>PHOTO / Stuart Munro</em></span></p>

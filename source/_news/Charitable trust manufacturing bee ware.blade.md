@@ -4,11 +4,12 @@ date: 2018-06-02
 description: "Former WHS student Aaron Johnson works with the wood offcuts, breaking them down into kindling..."
 featured-image: 
 excerpt: "Former WHS student Aaron Johnson works with the wood offcuts, breaking them down into kindling at Wanganui Enterprises."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b1da6d5ff2a7c6bfc00228e/Aaron-Johnson-2ex-chron-2-june-WU-enterprises.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b1da6b0b8d39a74990022d7/Aaron-Johnson-ex-chron-2-june-WU-enterprises.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b1da6e2b8d39a74990022d9/Aaron-Johnson-3ex-chron-2-june-WU-enterprises.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b1da6eeff2a7c6bfc002290/Aaron-Johnson-4ex-chron-2-june-WU-enterprises.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b1da6fbb8d39a74990022db/Aaron-Johnson-5ex-chron-2-june-WU-enterprises.jpg"
 ---
 
 <p class="element element-paragraph"><span>Former WHS student Aaron Johnson works with the wood offcuts, breaking them down into kindling at <span>Wanganui Enterprises</span>.<br /><em>PHOTOS / Bevan Conley</em></span></p>

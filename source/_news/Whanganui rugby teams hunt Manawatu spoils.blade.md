@@ -4,11 +4,12 @@ date:
 description: "The Wanganui High School 1st XV is tied on 8 points at the top of the table with defending champions Massey White in the Manawatu McDonald's Colts division rugby championship..."
 featured-image: 
 excerpt: "The Wanganui High School 1st XV is tied on 8 points at the top of the table with defending champions Massey White in the Manawatu McDonald's Colts division rugby championship..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>The Wanganui High School 1st XV is tied on 8 points at the top of the table with defending champions Massey White in the Manawatu McDonald's Colts division rugby championship.</strong></p>

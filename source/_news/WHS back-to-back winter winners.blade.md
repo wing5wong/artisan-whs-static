@@ -4,11 +4,12 @@ date: 2018-08-09
 description: "The WHS girls basketballers produced one of three outright wins for the school to help win the annual Central 6 Junior..."
 featured-image: 
 excerpt: "The WHS girls basketballers produced one of three outright wins for the school to help win the annual Central 6 Junior Sports Tournament in Palmerston."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The WHS girls basketballers produced one of three outright wins for the school to help win the annual Central 6 Junior Sports Tournament in Palmerston North on Tuesday.<br /></span></p>

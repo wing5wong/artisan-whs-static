@@ -4,11 +4,12 @@ date:
 description: "Young WHS dancer Sunny Kumar, also known as Whanganui's Michael Jackson, had the audience clapping in rhythm at the Diwali Cultural performances..."
 featured-image: 
 excerpt: "Young Whanganui High School dancer Sunny Kumar, also known as Whanganui's Michael Jackson, had the audience clapping in rhythm at the Diwali Cultural performances held on Saturday at the Whanganui War Memorial Centre."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Young Whanganui High School dancer Sunny Kumar, also known as Whanganui's Michael Jackson, had the audience clapping in rhythm at the&nbsp;Diwali Cultural performances held on Saturday 5 November at the Whanganui War Memorial Centre.</p>

@@ -4,11 +4,12 @@ date:
 description: "Congratulations Whanganui High School who took out 1st place at Stage Challenge in Palmerston North on Friday 27 June. Congratulations also to everyone who participated to make it an amazing night!"
 featured-image: 
 excerpt: "Congratulations Whanganui High School who took out 1st place at Stage Challenge in Palmerston North on Friday 27 June. Congratulations also to everyone who participated to make it an amazing night!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/574e55feb8d39a469d001c1d/1.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/574e55f1b8d39a469d001c1b/2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/574e55e3b8d39a469d001c19/3.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/574e55d3b8d39a469d001c17/4-a.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/574e55c4b8d39a469d001c15/4-b.jpg"
 ---
 
 <p>A scene from Whanganui High School's Stage Challenge production, "29 Below".</p>

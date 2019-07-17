@@ -4,11 +4,12 @@ date:
 description: "SIBLINGS: Wanganui brothers Callaghan, Keightley and Lochlan Watson are now eyeing up Sydney after success at the Auckland International Judo Championships on Sunday, Wanganui Chronicle 24/6/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>SIBLINGS: Wanganui brothers Callaghan, Keightley (WHS student) and Lochlan Watson are now eyeing up Sydney after success at the Auckland International Judo Championships on Sunday.&nbsp;</span></p>

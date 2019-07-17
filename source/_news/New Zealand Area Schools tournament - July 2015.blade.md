@@ -4,11 +4,12 @@ date:
 description: "GOING UP: Wanganui High School's Anastasia Tamanijagu and Dianelia Morton block at the net in their volleyball game with the New Zealand Area Schools team at Springvale Stadium yesterday, 10/7/15..."
 featured-image: 
 excerpt: "GOING UP: Wanganui High School's Anastasia Tamanijagu and Dianelia Morton block at the net in their volleyball game with the New Zealand Area Schools team at Springvale Stadium yesterday, 10/7/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>GOING UP: Wanganui High School's Anastasia Tamanijagu and Dianelia Morton block at the net in their volleyball game with the New Zealand Area Schools team at Springvale Stadium yesterday.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "After helping Wanganui to back-to-back Meads Cup titles, former WHS student, Viki Tofa will return to the boxing ring to compete for the River City club in a fortnight..."
 featured-image: 
 excerpt: "After helping Wanganui to back-to-back Meads Cup titles, former WHS student, Viki Tofa will return to the boxing ring to compete for the River City club in a fortnight."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>After helping Wanganui to back-to-back Meads Cup titles, former WHS student, Viki Tofa will return to the boxing ring to compete for the River City club in a fortnight.</span></p>

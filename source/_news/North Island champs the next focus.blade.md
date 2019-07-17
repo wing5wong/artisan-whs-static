@@ -4,11 +4,12 @@ date: 2018-03-01
 description: "Whanganui Rowing will be well represented by WHS at the AON North Island Rowing Champs this weekend..."
 featured-image: 
 excerpt: "Whanganui Rowing will be well represented by Whanganui High School (23 rowers and coxswain) at the AON North Island Rowing Champs this weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui Rowing will be well represented by Whanganui High School (23 rowers and coxswain) at the AON North Island Rowing Champs this weekend.</strong></p>

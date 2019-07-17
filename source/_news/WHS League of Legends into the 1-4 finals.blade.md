@@ -4,11 +4,12 @@ date:
 description: "WHS students Kaleb Lama-Love and Tazman Rei have made it into the quarter finals of New Zealand's first secondary school eSports competition..."
 featured-image: 
 excerpt: "Whanganui High School students Kaleb Lama-Love and Tazman Rei have made it into the quarter finals of New Zealand's first secondary school eSports competition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p dir="ltr"><strong>Whanganui High School students Kaleb Lama-Love and Tazman Rei have made it into the quarter finals of New Zealand's first secondary school eSports competition.</strong></p>

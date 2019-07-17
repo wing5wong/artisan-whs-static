@@ -4,11 +4,12 @@ date:
 description: "Gymnast and former Whanganui High School student Millie Manning will depart soon for the Ollerup school in Denmark..."
 featured-image: 
 excerpt: "Gymnast and former Whanganui High School student Millie Manning will depart soon for the Ollerup school in Denmark."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Gymnast and former Whanganui High School student Millie Manning will depart soon for the Ollerup school in Denmark.</span></p>

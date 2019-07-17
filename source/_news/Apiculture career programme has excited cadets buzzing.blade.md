@@ -4,11 +4,12 @@ date:
 description: "Former WHS students Robert O'Brien and Avril Pehi are half-way through their Comvita cadetships in beekeeping..."
 featured-image: 
 excerpt: "Former WHS students Robert O'Brien and Avril Pehi are half-way through their Comvita cadetships in beekeeping."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>In demand: Experienced beekeepers are needed throughout New Zealand due to overseas demand for bee products.</span></p>

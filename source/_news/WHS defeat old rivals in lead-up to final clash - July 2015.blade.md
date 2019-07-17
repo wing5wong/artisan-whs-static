@@ -4,11 +4,12 @@ date:
 description: "HIGH NOTE: Sheldon Pakinga,Wanganui High School 1st XV player (pictured earlier in the season), was part of the winning combination against Collegiate yesterday, Wanganui Chronicle article 30/7/15..."
 featured-image: 
 excerpt: "HIGH NOTE: Sheldon Pakinga,Wanganui High School 1st XV player (pictured earlier in the season), was part of the winning combination against Collegiate yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>HIGH NOTE: Sheldon Pakinga,Wanganui High School 1st XV player (pictured earlier in the season), was part of the winning combination against Collegiate yesterday.</span></p>

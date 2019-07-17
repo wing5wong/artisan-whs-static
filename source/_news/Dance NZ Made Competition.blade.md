@@ -4,11 +4,12 @@ date:
 description: "Congratulations to Millie Manning who was 1st in the Solo Dance Section of the Regional Dance NZ Made Competition held in Wanganui on Friday 12 August."
 featured-image: 
 excerpt: "Congratulations to Millie Manning who was 1st in the Solo Dance Section of the Regional Dance NZ Made Competition held in Wanganui on Friday 12 August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Regional Dance NZ Made Competition was held in Wanganui on Friday 12 August at the Opera House.</p>

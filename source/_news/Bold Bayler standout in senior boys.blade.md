@@ -4,11 +4,12 @@ date: 2019-03-21
 description: "Travis Bayler in action in Dunedin in December where he won the NZ Schools 400 metre title..."
 featured-image: 
 excerpt: "Travis Bayler in action in Dunedin in December where he won the NZ Schools 400 metre title."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c92f9feff2a7c25ea0005a8/Travis-Bayler-snip-full-lengthChron-21.3.19.jpg"
+	
+	
+	
+	
 ---
 
 <p><span><strong>Travis Bayler in action in Dunedin in December where he won the NZ Schools 400 metre title.</strong><br /><em>Photo / Supplied</em></span></p>

@@ -4,11 +4,12 @@ date:
 description: "STRONGER: Former WHS student Amelia Chandulal-Mackay just before leaving for Sydney late last year,  from the Wanganui Chronicle article 31 Dec 2014..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>STRONGER: &nbsp;Former WHS student Amelia Chandulal-Mackay just before leaving for Sydney late last year.</p>

@@ -1,18 +1,20 @@
 ---
-title: "Renee Teers Top in-line skater in Oceania Junior Ladies"
+title: "Renee Teers top in-line skater in Oceania Junior Ladies"
 date: 2019-04-25
-description: "Renee Teers named Top in-line skater Junior Ladies at the Oceania Speed Skating Championships in Brisbane over Easter..."
+description: "Renee Teers named top in-line skater Junior Ladies at the Oceania Speed Skating Championships in Brisbane over Easter..."
 featured-image: 
-excerpt: "Renee Teers named Top in-line skater Junior Ladies at the Oceania Speed Skating Championships in Brisbane over Easter."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Renee Teers named top in-line skater Junior Ladies at the Oceania Speed Skating Championships in Brisbane over Easter."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/58381692_2236410966397889_4419336376227463168_n.jpg?_nc_cat=103&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=15f4be3fe0928c56c6b22bfe06ef8e97&amp;oe=5D695081" alt="Image may contain: 2 people, people playing sports, tree and outdoor" /><strong>Renee leading the way, going for gold in the 10km race.</strong></p>
-<h3>Renee Teers named Top in-line skater in Oceania competition for Junior Ladies.</h3>
+<p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/58381692_2236410966397889_4419336376227463168_n.jpg?_nc_cat=103&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=15f4be3fe0928c56c6b22bfe06ef8e97&amp;oe=5D695081" alt="Image may contain: 2 people, people playing sports, tree and outdoor" /></p>
+<p><strong>Renee leading the way, going for gold in the 10km race.<br /></strong><em>Photo / Supplied<br /><br /></em></p>
+<h3>Renee Teers named top in-line skater in Oceania competition for Junior Ladies.</h3>
 <p>Renee Teers fell in love with in-line skating when she was only nine years old watching the River City Tour competition held every year in Whanganui. Now aged 16 she has been named the top competitor in the Junior Ladies division at the Oceania In-Line skating competitions held in Australia.</p>
 <p><strong>It would have been hard for anyone else to compete for the title as Renee won golds in the 10km elimination a</strong><span class="text_exposed_show"><strong>nd marathon races and silvers in the time trial 200 metres, one lap sprint and in the 1000 metres.</strong><br /></span></p>
 <p><span class="text_exposed_show">There were four skaters from Whanganui competing at the Oceania Games. The others were <strong>Chase Morepeth</strong>, Drew Brennan and Joshua Vallentine.<br /></span></p>

@@ -4,11 +4,12 @@ date:
 description: "Well done to our WHS boys who were part of the U15 Rep Hockey Team captained by WHS's Connor Hoskin winning the Tier 2 nationals in Invercargill..."
 featured-image: 
 excerpt: "Well done to our WHS boys who were part of the U15 Rep Hockey Team captained by WHS's Connor Hoskin winning the Tier 2 nationals in Invercargill today, 7 October 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Well done to our WHS boys who were part of the U15 Rep Hockey Team captained by WHS's Connor Hoskin winning the Tier 2 Nationals in Invercargill today!&nbsp; (7 October 2017)</h4>

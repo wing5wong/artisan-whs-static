@@ -4,11 +4,12 @@ date:
 description: "TOP PERFORMERS: Subway Wanganui Swim Team members Elena Forlong (left), Niamh Hogan, Shannon Schimanski and Sarya Lower, did the club proud at the National Age Group Championships in Wellington..."
 featured-image: 
 excerpt: "TOP PERFORMERS: Subway Wanganui Swim Team members Elena Forlong (left), Niamh Hogan, Shannon Schimanski and Sarya Lower, did the club proud at the National Age Group Championships in Wellington."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

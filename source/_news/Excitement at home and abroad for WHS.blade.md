@@ -4,11 +4,12 @@ date: 2018-10-18
 description: "Twenty-seven students across all year levels & three staff members travelled to one of our overseas sister schools in China."
 featured-image: 
 excerpt: "Twenty-seven students across all year levels & three staff members travelled on a sixteen-day trip via Beijing & the Great Wall to one of our overseas sister schools in Xuzhou, China."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd64e5dff2a7c39a8000124/Sophia-and-Trophy.jpg"
+	
+	
+	
+	
 ---
 
 <p>Photo: Twenty-seven WHS students and three teachers in China.</p>

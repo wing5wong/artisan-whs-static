@@ -4,11 +4,12 @@ date:
 description: "Bad Boy Bloom members, from left, John Scudder, Rick Baum, Tracy Wilson, Aydie Holland, Michael Petersen (WHS student) and Te Paerata Tichbon (former WHS student). Absent is Clyde Dixon, Oscar Laven.."
 featured-image: 
 excerpt: "Bad Boy Bloom members, from left, John Scudder, Rick Baum, Tracy Wilson, Aydie Holland, Michael Petersen (WHS student) and Te Paerata Tichbon (former WHS student). Absent is Clyde Dixon, Oscar Laven and Maynard Mason."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>NEW SOUND: Bad Boy Bloom members, from left, John Scudder, Rick Baum, Tracy Wilson, Aydie Holland, <strong>Michael Petersen</strong> (WHS student) and <strong>Te Paerata Tichbon</strong> (former WHS student). Absent is Clyde Dixon, Oscar Laven and Maynard Mason.<br />PHOTO / SOPHIA BAUM</span></p>

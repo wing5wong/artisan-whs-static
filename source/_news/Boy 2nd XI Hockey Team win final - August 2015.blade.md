@@ -4,11 +4,12 @@ date:
 description: "Congratulations to our Boys 2nd XI Hockey Team who won their final on Friday 28 August against Steelers 4-2."
 featured-image: 
 excerpt: "Congratulations to our Boys 2nd XI Hockey Team who won their final on Friday 28 August against Steelers 4-2."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Congratulations to our Boys 2nd XI Hockey Team who won their final on Friday 28 August against Steelers 4-2. </span></p>

@@ -4,11 +4,12 @@ date:
 description: "Former Wanganui High School student Kyle de Koning and mother Ananda were all smiles after NCEA results were released to students yesterday morning, Wanganui Chronicle article on 14/1/16..."
 featured-image: 
 excerpt: "Former Wanganui High School student Kyle de Koning and mother Ananda were all smiles after NCEA results were released to students yesterday morning, Wanganui Chronicle article on 14/1/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

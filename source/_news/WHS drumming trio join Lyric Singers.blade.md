@@ -4,11 +4,12 @@ date: 2018-06-14
 description: "'The Buzz Rolls':  Harvey Hughes (left), Jonathan Stolk & Chester Nevil will perform at the Lyric Singers concert on Sunday..."
 featured-image: 
 excerpt: "'The Buzz Rolls': Harvey Hughes (left), Jonathan Stolk and Chester Nevil will perform at the Lyric Singers concert on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>'The Buzz Rolls':&nbsp; Harvey Hughes (left), Jonathan Stolk and Chester Nevil will perform at the Lyric Singers concert on Sunday. <br /><em>Photo / Supplied</em></span></p>

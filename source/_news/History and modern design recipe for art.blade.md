@@ -4,11 +4,12 @@ date: 2018-03-20
 description: "Lily Frederikse says this installation by Raewyn Tauira Paterson at Hasting's City Art Gallery..."
 featured-image: 
 excerpt: "Lily Frederikse says this installation by Raewyn Tauira Paterson at Hasting's City Art Gallery is one of her favourite places."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Lily Frederikse says this installation by Raewyn Tauira Paterson at Hasting's City Art Gallery is one of her favourite places. <br /><em>PHOTO / Bill Kearns</em></span></p>

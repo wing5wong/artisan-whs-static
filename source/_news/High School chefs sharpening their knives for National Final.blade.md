@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School students, Charlotte Taylor and Olivia Caird, are sharpening their knives to cut through the competition and win the experience of a lifetime, River City Press article 25/8/16..."
 featured-image: 
 excerpt: "Whanganui High School students, Charlotte Taylor and Olivia Caird, are sharpening their knives to cut through the competition and win the experience of a lifetime."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="BasicParagraph"><strong><span class="CharacterStyle1"><span lang="EN-GB"><strong><span class="CharacterStyle1"><span lang="EN-GB">Charlotte Taylor and&nbsp;</span></span></strong>Olivia Caird with Linda Hardcastle (left) and Dean Wong (right).</span></span></strong></p>

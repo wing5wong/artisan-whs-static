@@ -4,11 +4,12 @@ date: 2018-06-20
 description: "Whanganui High School guest artists 2 Crochets and a Quaver join Lyric Singers..."
 featured-image: 
 excerpt: "Whanganui High School guest artists join Lyric Singers..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/5b7dfdf9ff2a7c03cc0002a1/20-juneMillennium-trio-midweek-.PNG"
+	 - image: "/uploads/5b7dfdd9ff2a7c03cc00029e/20-june2-jo-love-midweek-20-june.PNG"
+	
+	
+	
 ---
 
 <p>Photo: 2 Crochets and a Quaver treated the audience to two beautiful pieces with piano and voice.</p>

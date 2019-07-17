@@ -4,11 +4,12 @@ date:
 description: "Shaila-Anne Hawkins sang the national anthem at the Meads Cup Rugby Final, Steelformers Wanganui vs Buller on 29 October 2016."
 featured-image: 
 excerpt: "Shaila-Anne Hawkins sang the national anthem at the Meads Cup Rugby Final, Steelformers Wanganui vs Buller on Saturday 29 October 2016"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Well done to WHS student Shaila-Anne Hawkins who sung the national anthem at the Wanganui vs Buller Rugby final on Saturday 29 October at Cooks Gardens.&nbsp;</strong></p>

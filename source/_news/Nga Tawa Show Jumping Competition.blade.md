@@ -4,11 +4,12 @@ date: 2019-03-28
 description: "On 28 March five of our riders went to the Nga Tawa Show Jumping Competition..."
 featured-image: 
 excerpt: "On 28 March five of our riders went to the Nga Tawa Show Jumping Competition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/56669570_2157593177623182_7244625735380369408_n.jpg?_nc_cat=100&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=142c24081800f17e6bdb94556258c226&amp;oe=5D334575" alt="Image may contain: one or more people, people riding on horses, horse, outdoor and nature" /></p>

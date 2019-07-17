@@ -4,11 +4,12 @@ date: 2018-02-21
 description: "Whanganui's Richard Dibben remains unbeaten this season after winning the super motard class at the Paeroa Battle of the Streets on Sunday..."
 featured-image: 
 excerpt: "Whanganui's Richard Dibben remains unbeaten this season after winning the super motard class at the Paeroa Battle of the Streets on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>UNBEATEN: Whanganui's Richard Dibben remains unbeaten this season after winning the super motard class at the Paeroa Battle of the Streets on Sunday.</strong> <br /><em>PHOTO / Andy McGechan</em></span></p>

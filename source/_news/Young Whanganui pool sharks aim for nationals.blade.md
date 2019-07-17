@@ -4,11 +4,12 @@ date:
 description: "WHS's Nick Staples with player-students Julian Brennan, Owen Parkinson and coach Graeme Couper will be testing their mettle on the green baize of the pool tables in Christchurch this September..."
 featured-image: 
 excerpt: "WHS's Nick Staples with player-students Julian Brennan, Owen Parkinson and coach Graeme Couper will be testing their mettle on the green baize of the pool tables in Christchurch this September in pursuit of a national title."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>POOL SHARKS: WHS's Nick Staples with player-students Julian Brennan, Owen Parkinson and coach Graeme Couper.</strong><br />PHOTO / STUART MUNRO<br /></span></p>

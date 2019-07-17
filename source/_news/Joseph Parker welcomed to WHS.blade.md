@@ -4,11 +4,12 @@ date: 2018-09-05
 description: "On Wednesday 5 September, Joseph Parker was welcomed to WHS by Kia Whaiora & Nga Piringa Whaanau..."
 featured-image: 
 excerpt: "On Wednesday 5 September, Joseph Parker was welcomed to WHS by Kia Whaiora & Nga Piringa Whaanau with a Haka Powhiri."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>On Wednesday the 5th of September, <strong>Joseph Parker</strong> was welcomed to Whanganui High school by Kia Whaiora and Nga Piringa Whaanau with a Haka Powhiri.&nbsp;We were very pleased to give our guests the most hospitable experience which comprised of Iwi Whanau, members of&nbsp;the local Samoa community and Josephs own family and entourage.</p>

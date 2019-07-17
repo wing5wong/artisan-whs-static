@@ -4,11 +4,12 @@ date:
 description: "WHS Rowers in action at the North Island Club Champs held in Wanganui on 16/17 January 2016."
 featured-image: 
 excerpt: "WHS Rowers in action at the North Island Club Champs held in Wanganui on 16/17 January 2016."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b939d4b8d39a7859000836/group-boys-milling-with-boats-1.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b940d7b8d39a785900085a/girls-2-still.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b93ef4ff2a7c26a9000808/girls-2-action-no-1.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b93edfb8d39a7859000858/girls-2-action-no-2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b93eccff2a7c26a9000806/girls-2-action-no-3.jpg"
 ---
 
 <p>&nbsp;</p>

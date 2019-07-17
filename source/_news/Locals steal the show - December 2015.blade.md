@@ -4,11 +4,12 @@ date:
 description: "Skaters from all around the country contested the sixth running of the St John's Club Rivercity Speed Skating Tour last weekend. The premier ladies class was dominated by Whanganui's Rebecca Smith..."
 featured-image: 
 excerpt: "Skaters from all around the country contested the sixth running of the St John's Club Rivercity Speed Skating Tour last weekend, but it was the locals who largely stole the show. The premier ladies class was dominated by former WHS student Whanganui's Rebecca Smith."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;">Skaters from all around the country contested the sixth running of the St John's Club Rivercity Speed Skating Tour last weekend, but it was the locals who largely stole the show. The premier ladies class was dominated by former WHS student Whanganui's Rebecca Smith (pictured centre of past photo).</span></p>

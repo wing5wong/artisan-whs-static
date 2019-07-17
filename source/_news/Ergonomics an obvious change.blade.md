@@ -4,11 +4,12 @@ date: 2019-01-09
 description: "Former WHS student Anita Beyer is using her nursing skills and more in her new ergonomics career..."
 featured-image: 
 excerpt: "Former WHS student Anita Beyer is using her nursing skills and more in her new ergonomics career."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student <strong>Anita Beyer</strong> is using her nursing skills and more in her new ergonomics career.<br /><em>PHOTO / Paul Brooks</em></p>
@@ -28,6 +29,6 @@ gallery-image-5:
 <p data-bind="text: $data">&ldquo;That&rsquo;s been hugely rewarding to see them being able to carry on with the life they want to live.&rdquo;</p>
 <p data-bind="text: $data">Ergonomists contribute to the design and evaluation of tasks, jobs, products, environments and systems to make them compatible with the need, abilities and limitations of people.</p>
 <p data-bind="text: $data">Anita can carry out ergonomic evaluations, seating assessments and workstation adjustments, and can also provide, with Terry, home safety assessments.</p>
-<p data-bind="text: $data">â–  Anita Beyer of Impact Ergonomics can be contacted on 021 704 258.</p>
+<p data-bind="text: $data">■ Anita Beyer of Impact Ergonomics can be contacted on 021 704 258.</p>
 <p data-bind="text: $data"><em>By Paul Brooks</em><br /><em>Whanganui Midweek 9/1/19</em></p>
 

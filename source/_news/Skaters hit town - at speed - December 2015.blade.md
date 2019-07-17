@@ -4,11 +4,12 @@ date:
 description: "KEEN COMPETITION: The leading senior women's contenders for the nationals over the next six days are Daina Gibbs, left, Dahna Penty, Wanganui's Rebecca Smith, Nicole Begg & Whanganui's Melissa White."
 featured-image: 
 excerpt: "KEEN COMPETITION: The leading senior women's contenders for the nationals over the next six days are Daina Gibbs, left, Dahna Penty, Wanganui's Rebecca Smith, Nicole Begg and Whanganui's Melissa White."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

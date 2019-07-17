@@ -4,11 +4,12 @@ date: 2018-12-17
 description: "Plenty of people lined up for the closest view of acts such as Kings, Nomad, Late Night Tales, Ra Costelloe, The Remnant..."
 featured-image: 
 excerpt: "Plenty of people lined up for the closest view of acts such as Kings, Nomad, Late Night Tales, Whenua Patuwai, Ra Costelloe, The Remnant and Aotea Empire."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Plenty of people lined up for the closest view of acts such as Kings, Nomad, <strong>Late Night Tales,</strong> Whenua Patuwai, <strong>Ra Costelloe, The Remnant</strong> and Aotea Empire. <br /><em>PHOTO / Stuart Munro</em></span></p>

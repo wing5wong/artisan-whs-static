@@ -4,11 +4,12 @@ date:
 description: "WHS student Riki Wainhouse in action at Landguard Rd on Sunday 18 June..."
 featured-image: 
 excerpt: "WHS student Riki Wainhouse in action at Landguard Rd on Sunday 18 June."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WHS student Riki Wainhouse in action at Landguard Rd on Sunday 18 June.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Occupational therapist and former WHS student Amber Ward (left) with acting patient using a medicine ball for desk comfort..."
 featured-image: 
 excerpt: "Occupational therapist and former WHS student Amber Ward (left) with acting patient using a medicine ball for desk comfort."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>TRICKS OF THE TRADE: Occupational therapist and former WHS student Amber Ward (left) with acting patient using a medicine ball for desk comfort.</span></p>

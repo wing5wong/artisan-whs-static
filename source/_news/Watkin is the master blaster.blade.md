@@ -4,11 +4,12 @@ date:
 description: "Jessica Watkin scored an amazing double century off 123 balls against Wellington Under 21 in Auckland yesterday..."
 featured-image: 
 excerpt: "Jessica Watkin scored an amazing double century off 123 balls against Wellington Under 21 in Auckland yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>MASTER BLASTER: Jessica Watkin scored an amazing double century off 123 balls against Wellington Under 21 in Auckland yesterday.</strong></p>

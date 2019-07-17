@@ -4,11 +4,12 @@ date: 2019-03-18
 description: "Special Newsletter from Martin McAllen, Principal, Whanganui High School, 18 March 2019..."
 featured-image: 
 excerpt: "Special Newsletter from Martin McAllen, Principal, Whanganui High School, 18 March 2019."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Special Newsletter from Martin McAllen, Principal, Whanganui High School, 18 March 2019...</p>

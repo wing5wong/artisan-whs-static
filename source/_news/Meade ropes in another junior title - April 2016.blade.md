@@ -4,11 +4,12 @@ date:
 description: "WHANGANUI waterskiier Lily Meade made it another national junior title while competing strongly in the open women's division at the NZ Water Ski Nationals in Dunsandel last weekend."
 featured-image: 
 excerpt: "WHANGANUI waterskiier Lily Meade made it another national junior title while competing strongly in the open women's division at the NZ Water Ski Nationals in Dunsandel last weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

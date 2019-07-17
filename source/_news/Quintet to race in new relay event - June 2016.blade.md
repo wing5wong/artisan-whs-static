@@ -4,11 +4,12 @@ date:
 description: "FIVE Of the 16 WHS athletes heading to the NZSS Cross Country Champs in Rotorua this weekend will also represent the city in a newly-introduced regional relay, Wanganui Chronicle article 15/6/16..."
 featured-image: 
 excerpt: "FIVE Of the 16 Whanganui High School athletes heading to the New Zealand Secondary School Cross Country Championships in Rotorua this weekend will also represent the city in a newly-introduced regional relay."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>FIVE Of the 16 Whanganui High School athletes heading to the New Zealand Secondary School Cross Country Championships in Rotorua this weekend will also represent the city in a newly-introduced regional relay.</p>

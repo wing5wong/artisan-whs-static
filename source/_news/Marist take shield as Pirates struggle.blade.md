@@ -4,16 +4,17 @@ date: 2019-04-15
 description: "Matt Ashworth scores try number two for Kaierau in a game that 2018 grand finalists Pirates would rather forget..."
 featured-image: 
 excerpt: "Matt Ashworth scores try number two for Kaierau in a game that 2018 grand finalists Pirates would rather forget."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/BByNi58mWmYsMKAW_mHUxurwvW8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/BZ44ZPQHVREPRDHCR6NUU43BEY.jpg" alt="Matt Ashworth scores try number two for Kaierau in a game that 2018 grand finalists Pirates would rather forget. Photo / Bevan Conley" /></p>
-<p><br /><span>Former WHS student <strong>Matt Ashworth</strong> scores try number two for Kaierau in a game that 2018 grand finalists Pirates would rather forget.&nbsp;<br /></span><em>PHOTO / Bevan Conley</em></p>
-<p class="element element-paragraph">Dave Hoskin Carriers Marist narrowly defeated Waverley Harvesting Border 27-25 for the Grand Hotel Challenge Shield at Dallison Park in Waverley on Saturday.</p>
+<p><span>Former WHS student <strong>Matt Ashworth</strong> scores try number two for Kaierau in a game that 2018 grand finalists Pirates would rather forget.&nbsp;<br /></span><em>PHOTO / Bevan Conley</em></p>
+<p class="element element-paragraph"><br />Dave Hoskin Carriers Marist narrowly defeated Waverley Harvesting Border 27-25 for the Grand Hotel Challenge Shield at Dallison Park in Waverley on Saturday.</p>
 <p class="element element-paragraph">In round two of Tasman Tanning Premier rugby, one try made the difference for Marist with <strong>Simon Dibben</strong>,<strong> Josaia Bogileka</strong>, Emitai Logadraudrau and Jack Yarrall dotting down.</p>
 <p class="element element-paragraph">A penalty goal and two conversions by Marist's Ashton Coates were enough to get his team home as Border scored through Jason Myers, Josh Lennox and Neihana Pomana.</p>
 <p class="element element-paragraph">Two penalties and two conversions from Border's Nick Harding left the men from Waverley two points behind at the end and sitting three places off the bottom of the table.</p>

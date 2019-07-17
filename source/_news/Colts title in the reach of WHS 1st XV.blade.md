@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School first-five Mitchell Millar had a big impact on Saturday's semifinal against Wanganui Metro, Wanganui Chronicle article on 7/8/16..."
 featured-image: 
 excerpt: "Whanganui High School first-five Mitchell Millar had a big impact on Saturday's semifinal against Wanganui Metro."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui High School first-five Mitchell Millar had a big impact on Saturday's semifinal against Wanganui Metro.</strong></p>

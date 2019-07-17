@@ -4,11 +4,12 @@ date:
 description: "WHS teacher, Bridget Rison (right) with Kim Fielder and the prize won at Health 2000..."
 featured-image: 
 excerpt: "WHS teacher, Bridget Rison (right) with Kim Fielder and the prize won at Health 2000."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>LUCKY: &nbsp;WHS teacher, Bridget Rison (right) with Kim Fielder and the prize won at Health 2000. <br />PICTURE: &nbsp;Paul Brooks</span></p>

@@ -4,11 +4,12 @@ date:
 description: "RAISING AWARENESS: Artist Te Autiti Hikaka-Gilsenan (WHS student) and 6-year-old Violet Mansell, with some of the artworks in the He Taonga Awhina exhibition, Wanganui Chronicle article on 12/10/15..."
 featured-image: 
 excerpt: "RAISING AWARENESS: Artist Te Autiti Hikaka-Gilsenan and 6-year-old Violet Mansell, with some of the artworks in the He Taonga Awhina exhibition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>RAISING AWARENESS: Artist Te Autiti Hikaka-Gilsenan (WHS student) and 6-year-old Violet Mansell, with some of the artworks in the He Taonga Awhina exhibition.</span></p>

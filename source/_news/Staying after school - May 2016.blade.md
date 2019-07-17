@@ -4,11 +4,12 @@ date:
 description: "Wanganui High School long serving school board member Murray Woodhouse, Wanganui Chronicle article on 7/5/16..."
 featured-image: 
 excerpt: "Wanganui High School long serving school board member Murray Woodhouse, Wanganui Chronicle article on 7/5/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

@@ -4,11 +4,12 @@ date:
 description: "TOP RACE:  Former WHS student Hugh Pawson, (number 20), took out the first Whanganui Winter Series rowing event of the season on Sunday, from Wanganui Chronicle article on 13/5/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>TOP RACE: &nbsp;Former WHS student Hugh Pawson, (number 20), took out the first Whanganui Winter Series rowing event of the season on Sunday.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Jack van Bussel was this year's Massey University Agricultural Student of the Year. Jack is heading for a rural banking career, Wanganui Chronicle article on 17/11/16..."
 featured-image: 
 excerpt: "Former WHS student Jack van Bussel was this year's Massey University Agricultural Student of the Year. Jack is heading for a rural banking career."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>GREEN PASTURES: Former WHS student Jack van Bussel is heading for a rural banking career.</p>

@@ -4,11 +4,12 @@ date: 2018-10-19
 description: "Jaime Hogg won the Pony Equitation Showhunter class at The Royal A & P Show held in Hawkes Bay 17-19 October 2018..."
 featured-image: 
 excerpt: "Jaime Hogg won the Pony Equitation Showhunter class at The Royal A & P Show held in the Hawkes Bay 17-19 October 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd25616ff2a7c39a8000056/Jaimee-Hogg-with-ribbons.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd256e3ff2a7c39a800005a/Aliesha-Waghorn.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd2570cff2a7c39a800005e/Jaimee-Hogg.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd2571eff2a7c39a8000060/Nicholas-OLeary.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd256faff2a7c39a800005c/Ella-Jaime-Abbey--Aliesha.jpg"
 ---
 
 <p><strong>Photo:&nbsp;Jaime on Step It Up with her ribbons at The Royal A &amp; P Show.&nbsp;</strong></p>

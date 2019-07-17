@@ -4,11 +4,12 @@ date:
 description: "Whanganui's Junior Black Stick Emma Rainey will play for the Central West Women's team and Joseph Redpath (former WHS student) will play for the Central West Mean's team..."
 featured-image: 
 excerpt: "Whanganui's Junior Black Stick Emma Rainey will play for the Central West Women's team and Joseph Redpath (former WHS student) will play for the Central West Mean's team."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui's Junior Black Stick Emma Rainey will play for the Central West Women's team and Joseph Redpath (former&nbsp;WHS student) will play for the Central West Mean's team</strong>...</p>

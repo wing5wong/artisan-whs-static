@@ -4,11 +4,12 @@ date: 2018-07-04
 description: "WHS Pasifika had a truly wonderful experience at this years Pasifika Fusion festival held in Palmerston North..."
 featured-image: 
 excerpt: "WHS Pasifika had a truly wonderful experience at this years Pasifika Fusion festival held in Palmerston North."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Photo: WHS Pasifika Group performing at Pasifika Fusion 2018</strong></p>

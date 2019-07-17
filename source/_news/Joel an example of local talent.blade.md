@@ -4,11 +4,12 @@ date: 2018-02-14
 description: "Former WHS student Joel Rudolph learning the ropes the hard way - and on the receiving end!"
 featured-image: 
 excerpt: "Former WHS student Joel Rudolph learning the ropes the hard way - and on the receiving end!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>KAPOW: Former WHS student Joel Rudolph learning the ropes the hard way - and on the receiving end!<br /><em>PHOTO / Supplied</em></p>

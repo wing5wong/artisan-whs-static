@@ -4,11 +4,12 @@ date:
 description: "The New Zealand Youth Jazz Orchestra will be performing at the Whanganui High School Hall on Tuesday 26 July at 7.00pm."
 featured-image: 
 excerpt: "The New Zealand Youth Jazz Orchestra will be performing at the Whanganui High School Hall on Tuesday 26 July at 7.00pm."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong style="line-height: 1.5;">The New Zealand Youth Jazz Orchestra will be performing at the Whanganui High School Hall on Tuesday 26 July at 7.00pm.</strong></p>

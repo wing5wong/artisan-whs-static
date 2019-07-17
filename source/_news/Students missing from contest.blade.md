@@ -4,11 +4,12 @@ date: 2018-07-12
 description: "Whanganui Blue team, the majority of players consisting of WHS students, did well at the Nth Island U15 Netball Champs"
 featured-image: 
 excerpt: "Whanganui Blue team, of which the majority of players consisting of WHS students, did well at the Nth Island U15 Netball Champs in New Plymouth."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui Blue team, of which the majority of players consisting of WHS students, did well at the North Island U15 Netball Championships.</span></p>

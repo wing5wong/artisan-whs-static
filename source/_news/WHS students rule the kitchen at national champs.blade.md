@@ -4,11 +4,12 @@ date:
 description: "WHS culinary students Matt Hirini and Charlotte Taylor win the gold medal at the National Secondary Schools' Culinary Competition in Auckland last week..."
 featured-image: 
 excerpt: "Whanganui High School culinary students Matt Hirini and Charlotte Taylor win the gold medal at the National Secondary Schools' Culinary Competition in Auckland last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><strong>GOLDEN GLOW: Whanganui High School culinary students Matt Hirini and Charlotte Taylor win the gold medal at the National Secondary Schools' Culinary Competition in Auckland last week.</strong></h3>

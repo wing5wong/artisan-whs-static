@@ -4,11 +4,12 @@ date:
 description: "Rebecca Baker (right) from WHS ran a solid opening lap in the combined senior/junior race at the 39th Round the Lake Relay..."
 featured-image: 
 excerpt: "Rebecca Baker (right) from Whanganui High School ran a solid opening lap in the combined senior/junior race and was right up with the senior runners at the 39th Round the Lake Relay."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Rebecca Baker (right) from Whanganui High School&nbsp;<strong>ran a solid opening lap in the combined senior/junior race and was right up with the senior runners.<br /></strong></strong>Photo / supplied.</p>

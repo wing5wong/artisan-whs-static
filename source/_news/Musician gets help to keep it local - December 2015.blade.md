@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Liam Wooding (centre) with Julie and Stuart Kelly of Kelly and Associates, Wanganui Mid Week article on 2/12/15..."
 featured-image: 
 excerpt: "Liam Wooding (centre) with Julie and Stuart Kelly of Kelly and Associates, Wanganui Mid Week article on 2/12/15...."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Liam Wooding (centre) with Julie and Stuart Kelly of Kelly and Associates.</span></p>

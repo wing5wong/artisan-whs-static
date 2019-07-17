@@ -4,11 +4,12 @@ date:
 description: "VICTORIOUS: Overall winner WHS student Briella Maua, 15, with Muddy River Country Music Awards convenor Elaine Holden, from Wanganui Chonicle article on 2/10/15..."
 featured-image: 
 excerpt: "VICTORIOUS: Overall winner WHS student Briella Maua, 15, with Muddy River Country Music Awards convenor Elaine Holden, from Wanganui Chonicle article on 2/10/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>VICTORIOUS: Overall winner WHS student Briella Maua, 15, with Muddy River Country Music Awards convenor Elaine Holden.</p>

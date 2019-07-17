@@ -4,11 +4,12 @@ date:
 description: "Former WHS students Te Paerata Tichbon & Michael Peterson, as Why Vibrations, won the band section of the Whanganui Smokefree Rockquest in 2016..."
 featured-image: 
 excerpt: "Former WHS students Te Paerata Tichbon and Michael Peterson, as Why Vibrations, won the band section of the Whanganui Smokefree Rockquest in 2016."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former WHS students Te Paerata Tichbon and Michael Peterson, as Why Vibrations, won the band section of the Whanganui Smokefree Rockquest in 2016. <br />Photo: Supplied</span></p>

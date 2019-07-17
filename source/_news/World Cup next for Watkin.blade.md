@@ -4,11 +4,12 @@ date: 2018-08-02
 description: "Whanganui allrounder Jess Watkin takes the important wicket of England opener Amy Jones for 78 in the final ODI match..."
 featured-image: 
 excerpt: "Whanganui allrounder Jess Watkin takes the important wicket of England opener Amy Jones for 78 in the final ODI match of the northern tour won by the Kiwis by four wickets..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b622d1ab8d39a6d050003d0/Jess-watkin-ex-chron-2-aug.gif"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b627b96b8d39a6d0500042c/Jess-Watkins-2-Aug-front-pagesmall-snip.gif"
+	
+	
+	
 ---
 
 <p><span><strong>Whanganui allrounder Jess Watkin takes the important wicket of England opener Amy Jones for 78 in the final ODI match of the northern tour won by the Kiwis by four wickets.</strong><br />Photo / Supplied</span></p>

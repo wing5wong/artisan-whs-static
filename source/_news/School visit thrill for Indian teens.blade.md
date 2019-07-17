@@ -4,11 +4,12 @@ date:
 description: "Students from Indraprastha International School with their homestay \"siblings\" from Whanganui High School..."
 featured-image: 
 excerpt: "Students from Indraprastha International School with their homestay \"siblings\" from Whanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>CULTURAL EXCHANGE: Students from&nbsp;</strong><span><strong>Indraprastha International School with their homestay "siblings" from Whanganui High School.</strong><br />PHOTO: Stuart Munro</span></p>

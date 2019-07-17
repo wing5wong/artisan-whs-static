@@ -4,11 +4,12 @@ date:
 description: "WHS skipper Quinn Mailman receives the Ross Taylor Trophy bat from Hawera High School's Shaun Fowler after winning it on Wednesday..."
 featured-image: 
 excerpt: "WHS skipper Quinn Mailman receives the Ross Taylor Trophy bat from Hawera High School's Shaun Fowler after winning it on Wednesday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WHS skipper Quinn Mailman receives the Ross Taylor Trophy bat from Hawera High School's Shaun Fowler after winning it on Wednesday.</strong></p>

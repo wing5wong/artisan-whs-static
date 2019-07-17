@@ -4,11 +4,12 @@ date: 2018-10-27
 description: "Roger Brasell and Sue Watson, left, with Kate Watson (nee Neilson), Simon Watson (holding baby George Watson)..."
 featured-image: 
 excerpt: "Roger Brasell and Sue Watson, left, with Kate Watson (nee Neilson), Simon Watson (holding baby George Watson)..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Roger Brasell and Sue Watson, left, with <strong>Kate Watson </strong>(nee Neilson),<strong> Simon Watson</strong> (holding baby George Watson), James Richardson, <strong>Penny Richardson </strong>(nee Brasell), Carina Brasell and <strong>Tim Brasell </strong>(highlighted former WHS students).<br /><em>PHOTO / JODIE GRAHAM</em></span></p>
@@ -24,6 +25,6 @@ gallery-image-5:
 <p class="element element-paragraph">The Downer NZ Masters Games run in Whanganui from February 1 to February 10, attracting competitors from all around New Zealand, and internationally.</p>
 <p class="element element-paragraph">There are no qualifying standards, apart from the age limit for each sport, and athletes in their 80s and 90s are just as likely to be lining up as those in their 30s and 40s.</p>
 <p class="element element-paragraph">The focus is on participation and friendship, and the social programme is just as important as the sport.</p>
-<p class="element element-paragraph">â–  For more information and to enter, go to www.nzmg.com</p>
+<p class="element element-paragraph">■ For more information and to enter, go to www.nzmg.com</p>
 <p><em>By Staff Reporter</em><br /><em>Whanganui Chronicle 27/10/18</em></p>
 

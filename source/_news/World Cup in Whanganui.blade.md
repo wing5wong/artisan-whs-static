@@ -4,11 +4,12 @@ date: 2018-02-19
 description: "Black Ferns Sosoli Talawadua (former WHS student) and Toka Natua came to Whanganui with precious metal..."
 featured-image: 
 excerpt: "Black Ferns Sosoli Talawadua (former WHS student) and Toka Natua came to Whanganui with precious metal."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>PRECIOUS METAL: Black Ferns Sosoli Talawadua (nee Tofa - former WHS student) and Toka Natua came to Whanganui with precious metal.</strong> <br /><em>PHOTO / Lewis Gardner</em></span><strong></strong></p>

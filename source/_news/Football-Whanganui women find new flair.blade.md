@@ -4,16 +4,17 @@ date: 2019-04-16
 description: "Stella Warner was part of a strong back four for Whanganui whose defence let in only one goal on Sunday..."
 featured-image: 
 excerpt: "Stella Warner was part of a strong back four for Whanganui whose defence let in only one goal on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/einfFoPhaIRpW7NCHJYqOwlWXKw=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/JU6RFYKJNFFGBOZYRGVZQ7WHFU.jpg" alt="Stella Warner was part of a strong back four for Whanganui whose defence let in only one goal on Sunday. Here she tries to get the ball past Feilding's Louise Thompson. Photo / Bevan Conley" /></p>
-<p><br /><span><strong>Stella Warner</strong> (WHS student) was part of a strong back four for Whanganui whose defence let in only one goal on Sunday. Here she tries to get the ball past Feilding's Louise Thompson. <br /><em>PHOTO / Bevan Conley</em></span><strong></strong></p>
-<p class="element element-paragraph">Just two weeks into the 2019 Women's Federation Football League and Team Ritesh Football Whanganui have already beaten their 2018 record.</p>
+<p><span><strong>Stella Warner</strong> (WHS student) was part of a strong back four for Whanganui whose defence let in only one goal on Sunday. Here she tries to get the ball past Feilding's Louise Thompson. <br /><em>PHOTO / Bevan Conley</em></span><strong></strong></p>
+<p class="element element-paragraph"><br />Just two weeks into the 2019 Women's Federation Football League and Team Ritesh Football Whanganui have already beaten their 2018 record.</p>
 <p class="element element-paragraph">The Whanganui side dominated Feilding United 6-1 at Wembley Park on Sunday to pick up their first win of the season and their third since joining the league in 2017.</p>
 <p class="element element-paragraph">It was the first time the women in blue have scored six in a game, with Rose Davidson and Dana McClelland scoring two each and <strong>Amy Haughian</strong> and Candice Armstrong also hitting the back of the net.</p>
 <p class="element element-paragraph">Whanganui coach Matthew Calvert said his team started superbly.</p>

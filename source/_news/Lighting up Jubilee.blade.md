@@ -4,11 +4,12 @@ date:
 description: "Wanganui Lightning United's Joshua Ashworth (former WHS student) takes the puck down the boards against the Wellington Jokers at Jubilee Stadium on Saturday, Wanganui Chronicle article on 31/7/16..."
 featured-image: 
 excerpt: "Wanganui Lightning United's Joshua Ashworth (former WHS student) takes the puck down the boards against the Wellington Jokers at Jubilee Stadium on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui Lightning United's Joshua&nbsp;Ashworth (former WHS student) takes the puck down the boards against the Wellington Jokers at Jubilee Stadium on Saturday.</p>

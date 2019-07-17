@@ -4,11 +4,12 @@ date:
 description: "ALL DOWNHILL: Whanganui mountain biker and WHS student Tyler Smith (left) finished fourth overall in his grade at the Nth Is Downhill Championship final round in Warkworth at the weekend."
 featured-image: 
 excerpt: "ALL DOWNHILL: Whanganui mountain bikers and WHS student Tyler Smith (left) and Blake Rountree finished fourth and fifth overall in their respective grades at the North Island Downhill Championship final round in Warkworth at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>ALL DOWNHILL: Whanganui mountain bikers and WHS student Tyler Smith (left) and Blake Rountree finished fourth and fifth overall in their respective grades at the North Island Downhill Championship final round in Warkworth at the weekend.</span></p>

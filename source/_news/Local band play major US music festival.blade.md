@@ -4,11 +4,12 @@ date:
 description: "Sun and the Wolf - local Whanganui lads & former WHS students (used to be The Have) played the prestigious SXSW festival..."
 featured-image: 
 excerpt: "Sun and the Wolf - local Whanganui lads and former WHS students (used to be The Have) played the prestigious SXSW festival again this year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>BIG TIME: Sun and the Wolf - local Whanganui lads&nbsp;and former WHS students (used to be The Have) played the prestigious SXSW festival again this year.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Former Whanganui woman Corporal Keisha Malone has received the Royal New Zealand Air Force's inaugural Airman of the Year Award, Wanganui Chronicle article on 3/1/17..."
 featured-image: 
 excerpt: "Former Whanganui woman Corporal Keisha Malone has received the Royal New Zealand Air Force's inaugural Airman of the Year Award."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>TOP AWARD: Former WHS student Corporal Keisha Malone with Chief of Air Force Air Vice-Marshal Tony Davies.<br />First excellance honour as Keisha follows great-uncle's footsteps.&nbsp;</span></p>

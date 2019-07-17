@@ -4,11 +4,12 @@ date:
 description: "Whanganui's Chase Morpeth came away with three medals at the Oceania Speed Skating Champs in Brisbane. WHS student Renee Teers won gold in the junior girls relay..."
 featured-image: 
 excerpt: "Whanganui's Chase Morpeth came away with three medals at the Oceania Speed Skating Championships in Brisbane. WHS student Renee Teers won gold in the junior girls relay. Her best individual race was the 42K Marathon where she was in a finish line sprint for 3rd."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>MEDAL HAUL: Whanganui's Chase Morpeth came away with three medals at the Oceania Speed Skating Championships in Brisbane.&nbsp;WHS student Renee Teers won gold in the junior girls relay.</strong></p>

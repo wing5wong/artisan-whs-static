@@ -4,11 +4,12 @@ date:
 description: "WHS student Vincent Collins and his family have been working hard to raise the $8500 required for his expenses, and last Friday a fundraiser - one of many - was held at Repertory Theatre..."
 featured-image: 
 excerpt: "WHS student Vincent Collins and his family have been working hard to raise the $8500 required for his expenses, and last Friday a fundraiser - one of many - was held at Repertory Theatre."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span>WHOSE LINE: Appearing on stage at Repertory to assist Vincent Collins to get to the Globe - back - Vincent Collins (left), Millie Manning, Paul Collins. Front - Bridget Rison (left), Colin Hedivan, Sophie Hart. <br />PICTURE / JOAN STREET</span></span></p>

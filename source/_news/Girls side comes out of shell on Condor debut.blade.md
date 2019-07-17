@@ -4,11 +4,12 @@ date:
 description: "It was welcome to the big time for the wide-eyed Whanganui High School open girls team who entered their first Condor Sevens tournament in Auckland at the weekend..."
 featured-image: 
 excerpt: "It was welcome to the big time for the wide-eyed Whanganui High School open girls team who entered their first Condor Sevens tournament in Auckland at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/597693d6b8d39a1a9e000af1/team-photo-of-backs-WHS.jpg"
+	
+	
+	
+	
 ---
 
 <p>It was welcome to the big time for the wide-eyed Whanganui High School open girls team who entered their first Condor Sevens tournament in Auckland at the weekend.</p>

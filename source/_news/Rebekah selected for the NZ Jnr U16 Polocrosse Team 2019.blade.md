@@ -4,11 +4,12 @@ date: 2019-03-22
 description: "Rebekah Phillips selected for the New Zealand Junior Under 16 Polocrosse Team 2019..."
 featured-image: 
 excerpt: "Rebekah Phillips selected for the New Zealand Junior Under 16 Polocrosse Team 2019."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c93f20fff2a7c25ea0005e6/Polocrosse.in-action.Rebekah.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c93f21dff2a7c25ea0005e8/Polocrosse.team.Rebekah.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c93f1faff2a7c25ea0005e4/polocrosse-NZ-vs-Queensland.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c93f238ff2a7c25ea0005eb/Polocrosse.2000.Rebekah.jpg"
+	
 ---
 
 <h3>Rebekah Phillips selected for the New Zealand Junior Under 16 Polocrosse Team 2019!</h3>

@@ -4,11 +4,12 @@ date: 2018-02-14
 description: "Former WHS student Jamie Newell in Marine Services Wanganui's new showroom which now sells scuba diving and sport fishing gear..."
 featured-image: 
 excerpt: "Former WHS student Jamie Newell in Marine Services Wanganui's new showroom which now sells scuba diving and sport fishing gear."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former WHS student Jamie Newell in Marine Services Wanganui's new showroom which now sells scuba diving and sport fishing gear.<br /><em>PHOTO / Bevan Conley</em></span></p>

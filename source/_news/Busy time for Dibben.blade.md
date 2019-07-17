@@ -4,11 +4,12 @@ date:
 description: "Whanganui's Richie Dibben, interviewed by the course commentator after winning both super motard races at Manfeild on Sunday ahead of his Malaysian trip this week, Wanganui Chronicle 14/12/16..."
 featured-image: 
 excerpt: "Whanganui's Richie Dibben, interviewed by the course commentator after winning both super motard races at Manfeild on Sunday ahead of his Malaysian trip this week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>DIBBEN DOUBLE: Whanganui's Richie Dibben (former WHS student), interviewed by the course commentator after winning both super motard races at Manfeild on Sunday ahead of his Malaysian trip this week. <br />PHOTO/Andy McGechan</span></p>

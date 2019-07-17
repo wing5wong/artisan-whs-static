@@ -4,11 +4,12 @@ date: 2018-12-06
 description: "WHS Y11 & 12 students took all three medal positions in both of the categories they entered at the NZ Chefs..."
 featured-image: 
 excerpt: "WHS Y11 & 12 students took all three medal positions in both of the categories they entered at the NZ Chefs Horowhenua Taste Trail cooking competition in Levin on November 24."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Britney Walsh, Caitlyn Butlin, Zoe Henry Watson and Kelahn Te Awhe (back) with their medals.</h4>

@@ -4,11 +4,12 @@ date:
 description: "WHS held a Speed Painting competition in the School Hall at break on 15 June.  Students and staff were able to show off their creativity during break one day by creating magnificent pieces of artwork."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Wanganui High School held a Speed Painting competition in the School Hall at break time on 15 June.&nbsp;</span></p>

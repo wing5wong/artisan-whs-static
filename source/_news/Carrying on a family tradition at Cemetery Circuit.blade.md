@@ -4,11 +4,12 @@ date: 2018-12-26
 description: "Craig (Cudge) Scott has been part of the track set up crew for over 40 years and now son Alex Scott is taking over his job..."
 featured-image: 
 excerpt: "Craig (Cudge) Scott has been part of the track set up crew for over 40 years and now son Alex Scott is taking over his job."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Craig (Cudge) Scott has been part of the track set up crew for over 40 years and now son Alex Scott (WHS student) is taking over his job</span><br /><em>PHOTO / Stuart Munro</em></p>

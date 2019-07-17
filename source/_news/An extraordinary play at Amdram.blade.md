@@ -4,11 +4,12 @@ date:
 description: "Chris McKenzie (left) as Tom the motelier and Paul Keene (WHS teacher) as Elvis the travelling salesman in a scene from Motel at Amdram..."
 featured-image: 
 excerpt: "Chris McKenzie (left) as Tom the motelier and Paul Keene (WHS teacher) as Elvis the travelling salesman in a scene from Motel at Amdram."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>CONTRAST: Chris McKenzie (left) as Tom the motelier and Paul Keene (<span>WHS teacher</span>) as Elvis the travelling salesman in a scene from Motel at Amdram. <br />PICTURE / LIZ WYLIE</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Amelia Chandulal-Mackay is settling in to the Alvin Ailey American Dance Theatre in New York where she has been awarded a scholarship..."
 featured-image: 
 excerpt: "Former WHS student Amelia Chandulal-Mackay is settling in to the Alvin Ailey American Dance Theatre in New York where she has been awarded a scholarship."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>BIG CITY LIFE: Former WHS student Amelia Chandulal-Mackay is settling in to the Alvin Ailey American Dance Theatre in New York where she has been awarded a scholarship.</strong> <br />Photo/ Supplied</span></p>

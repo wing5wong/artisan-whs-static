@@ -4,11 +4,12 @@ date:
 description: "AT WORK: Cleaning graves for posterity are (from left) Mitchell Brett-Atkins, Anastasia O'Leary and Leon Harnett with local cadets, from the Wanganui Midweek article on 24/4/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>AT WORK: Cleaning graves for posterity are (from left) Mitchell Brett-Atkins, Anastasia O'Leary and Leon Harnett with local cadets.</span></p>

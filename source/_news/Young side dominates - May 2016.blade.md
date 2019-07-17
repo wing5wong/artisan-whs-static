@@ -4,11 +4,12 @@ date:
 description: "TWO FROM TWO: The Wanganui Under-18s picked up two victories in Napier on Sunday, Wanganui Chronicle article on 31/5/16..."
 featured-image: 
 excerpt: "TWO FROM TWO: The Wanganui Under-18s picked up two victories in Napier on Sunday, Wanganui Chronicle article on 31/5/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span><span>TWO FROM TWO: The Wanganui Under-18s picked up two victories in Napier on Sunday.&nbsp;</span></span></span></p>

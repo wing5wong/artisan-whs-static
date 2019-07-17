@@ -4,11 +4,12 @@ date:
 description: "RED AND GOLD: Aramoho Wanganui Rowing Club athletes Hugh Pawson (left) and Luke Watts on the winner's dais with coach Ian Weenink after claiming the men's double sculls at the national champs"
 featured-image: 
 excerpt: "RED AND GOLD: Aramoho Wanganui Rowing Club athletes Hugh Pawson (left) and Luke Watts on the winner's dais with coach Ian Weenink after claiming the men's double sculls at the national championships last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

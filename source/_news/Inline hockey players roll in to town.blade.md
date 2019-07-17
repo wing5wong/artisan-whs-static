@@ -4,11 +4,12 @@ date:
 description: "JUBILANT BUNCH: The Wanganui Lightning United/all former WHS students (bar goalie) team are a happy bunch after finishing third at the inline nationals..."
 featured-image: 
 excerpt: "JUBILANT BUNCH: The Wanganui Lightning United/all former WHS students (bar goalie) team are a happy bunch after finishing third at the inline nationals"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>JUBILANT BUNCH: The Wanganui Lightning United team/all former WHS students (bar goalie Sophie Walker) - (back left) Brett Buckeridge, Matt Ashworth, Joshua Hamilton, Joel Ashworth, Kieran O'Donnell, Joshua Ashworth, Nathan Sergent, (front), Troy Hesketh, James O'Donnell and Sophie Walker are a happy bunch after finishing third at the inline nationals.</strong><br /></span></p>

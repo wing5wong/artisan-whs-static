@@ -4,11 +4,12 @@ date: 2018-02-01
 description: "Former student Max Munneke was one of the talented NZ students awarded a Prime Minister's Scholarship..."
 featured-image: 
 excerpt: "Former student Max Munneke was one of the talented New Zealand students awarded a Prime Minister's Scholarship."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Former student Max&nbsp;Munneke was one of the talented New Zealand students awarded a Prime Minister's Scholarship.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "Great results from our boys 3x3 basketball teams who have been in Auckland playing in the Secondary School Nationals. Both teams finished 4th out of 24 teams, Saturday 9 April 2016."
 featured-image: 
 excerpt: "Great results from our boys 3x3 basketball teams who have been in Auckland playing in the Secondary School Nationals. Both teams finished 4th out of 24 teams, Saturday 9 April 2016."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

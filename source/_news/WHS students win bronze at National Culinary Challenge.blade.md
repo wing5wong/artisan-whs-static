@@ -4,11 +4,12 @@ date: 2018-10-04
 description: "Britney Walsh & Caitlyn Butlin from WHS came third at the National Secondary Schools Culinary Challenge in Auckland..."
 featured-image: 
 excerpt: "Britney Walsh & Caitlyn Butlin from WHS came third at the National Secondary Schools Culinary Challenge in Auckland recently."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span style="text-align: justify;">Britney Walsh (right) and&nbsp;</span><span style="text-align: justify;">Caitlyn Butlin</span><span style="text-align: justify;">&nbsp;</span><span style="text-align: justify;">from Whanganui High School represented the Taranaki/Whanganui region at the National Secondary Schools Culinary Challenge in Auckland recently, coming third out of the eight regions.</span></h4>

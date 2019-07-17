@@ -4,11 +4,12 @@ date:
 description: "Two boats full of WHS students earned a Top 5 finish in the September round of the 2017 Winter Series on the Whanganui River on Sunday 17 September..."
 featured-image: 
 excerpt: "Two boats full of WHS students earned a Top 5 finish in the September round of the 2017 Winter Series on the Whanganui River on Sunday 17 September..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c1967eb8d39a3d400000b3/U15-Ella-dudley-Brewer-Manville--Hogan-sept-2017-chron.jpg"
+	
+	
+	
+	
 ---
 
 <p>GOING STRONG: WHS students Liam Lace and Jack Clifton went on the earn a Top 5 finish when the September round of the 2017 Winter Series finally got underway on Sunday.</p>

@@ -4,11 +4,12 @@ date:
 description: "The men's club coxed four medal winners consisting of, from left, Tom Monaghan, James Clark, Jack Hughes, Hugh Pawson and cox Ella Wilsher, with coach Ian Weenink,Wanganui Chronicle article 23/2/15.."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The men's club coxed four medal winners consisting of, from left, Tom Monaghan, James Clark, Jack Hughes, Hugh Pawson and cox Ella Wilsher, with coach Ian Weenink.</p>

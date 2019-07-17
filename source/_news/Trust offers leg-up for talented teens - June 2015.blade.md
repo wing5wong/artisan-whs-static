@@ -4,11 +4,12 @@ date:
 description: "Two kayakers, two swimmers, two inline speed skaters and a judo exponent are the latest teenagers to benefit with $1500 grants from the Mitre 10 Mega Wanganui Future Champions Trust, Chronicle 6/6/15."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Two kayakers, two swimmers, two inline speed skaters and a judo exponent are the latest teenagers to benefit with $1500 grants from the Mitre 10 Mega Wanganui Future Champions Trust.</span></p>

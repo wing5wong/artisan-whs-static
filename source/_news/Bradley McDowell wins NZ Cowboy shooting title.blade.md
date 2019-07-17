@@ -4,11 +4,12 @@ date:
 description: "Whanganui teenager Bradley McDowell (WHS student) now has his sights set on a world title after winning the NZ Cowboy Action Shooting Champs..."
 featured-image: 
 excerpt: "Whanganui teenager Bradley McDowell (WHS student) now has his sights set on a world title after winning the NZ Cowboy Action Shooting Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span>Whanganui teenager Bradley McDowell now has his sights set on a world title after winning the New Zealand Cowboy Action Shooting Championships at the weekend.<br /></span></h4>

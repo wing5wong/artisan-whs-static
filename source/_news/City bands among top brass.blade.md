@@ -4,11 +4,12 @@ date: 2018-09-25
 description: "WHS Music teacher Brent Holt & students Caleb & Luke Squire were part of a triumphant return..."
 featured-image: 
 excerpt: "WHS Music teacher Brent Holt & students Caleb & Luke Squire were part of a triumphant return from regional competitions."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui Brass junior and senior bands (including WHS Music teacher Brent Holt and student Caleb Squire. Luke Squire was absent from the photo) returned triumphant from the recent regional competitions in Wellington. <br /><em>Photo / Supplied</em></span></p>

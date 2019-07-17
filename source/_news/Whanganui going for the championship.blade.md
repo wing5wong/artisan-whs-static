@@ -4,11 +4,12 @@ date:
 description: "Promising teenager WHS student, Rebecca Baker was one of the goal scorers in Whanganui's big semifinal win on Saturday, but will not be available for the final this weekend..."
 featured-image: 
 excerpt: "Promising teenager WHS student, Rebecca Baker was one of the goal scorers in Whanganui's big semifinal win on Saturday, but will not be available for the final this weekend..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Promising teenager WHS student, <strong>Rebecca Baker</strong> was one of the goal scorers in Whanganui's big semifinal win on Saturday, but will not be available for the final this weekend.</p>

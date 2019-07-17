@@ -4,11 +4,12 @@ date: 2018-10-20
 description: "WHS China Trip 2018 was a wonderful experience for 27 students & 3 teachers experiencing Chinese culture & food..."
 featured-image: 
 excerpt: "WHS China Trip 2018 was a wonderful experience for 27 students and 3 teachers experiencing Chinese culture & food though its people."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4 dir="ltr"><span>CHINA TRIP 2018</span></h4>

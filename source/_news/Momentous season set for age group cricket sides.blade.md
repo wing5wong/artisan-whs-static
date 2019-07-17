@@ -4,11 +4,12 @@ date: 2019-03-20
 description: "The U15 Whanganui girls cricket give Horowhenua Kapiti an end-of-season whipping in Palmerston North..."
 featured-image: 
 excerpt: "The U15 Whanganui girls cricket give Horowhenua Kapiti an end-of-season whipping in Palmerston North at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>The U15 Whanganui girls cricket team, including WHS students&nbsp;Charlotte Stent,&nbsp;Jemma Tan,&nbsp;</strong><span><strong>Maggie Jones and&nbsp;</strong><span><strong>Georgia Hiscotte</strong>,</span></span><strong>&nbsp;give Horowhenua Kapiti an end-of-season whipping in Palmerston North at the weekend.</strong></span><br /><em>Photo / Supplied</em></p>

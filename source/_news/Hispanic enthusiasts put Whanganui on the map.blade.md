@@ -4,11 +4,12 @@ date:
 description: "Whanganui's Hispanic enthusiasts Marilyn Wilkie (back row left), Antonio Salas, Beverley Stuart, Andrea Gardner (front left) and Queralt Scott..."
 featured-image: 
 excerpt: "Whanganui's Hispanic enthusiasts Marilyn Wilkie (back row left), Antonio Salas, Beverley Stuart, Andrea Gardner (front left) and Queralt Scott."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui's Hispanic enthusiasts Marilyn Wilkie (back row left), Antonio Salas, Beverley Stuart, Andrea Gardner (front left) and Queralt Scott.</strong></p>

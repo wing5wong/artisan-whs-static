@@ -4,11 +4,12 @@ date: 2018-11-08
 description: "Former WHS student Tim Easton, Whanganui Labour Party Chair and Spokesperson..."
 featured-image: 
 excerpt: "Former WHS student Tim Easton, Whanganui Labour Party Chair and Spokesperson."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif;"><span>Former WHS student Tim Easton, Whanganui Labour Party Chair and Spokesperson.</span></span></p>

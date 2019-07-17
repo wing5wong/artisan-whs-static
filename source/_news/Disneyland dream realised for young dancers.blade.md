@@ -4,11 +4,12 @@ date:
 description: "DANCING JOURNEY: Niamh Hogan (left), Adelaide Hodges (right; both WHS students) and Anna Durning danced on stage at Disneyland during a trip to the US."
 featured-image: 
 excerpt: "DANCING JOURNEY: Niamh Hogan (left), Adelaide Hodges (right; both WHS students) and Anna Durning danced on stage at Disneyland during a trip to the US."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>DANCING JOURNEY: Niamh Hogan (left), Adelaide Hodges (right; both WHS students) and Anna Durning danced on stage at Disneyland during a trip to the US.&nbsp;<br />PHOTO: Stuart Munro.&nbsp;</p>

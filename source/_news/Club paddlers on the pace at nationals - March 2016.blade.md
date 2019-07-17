@@ -4,11 +4,12 @@ date:
 description: "HANDS UP: The Whanganui kayakers, the majority made up of past and present WHS students, at Lake Karapiro celebrate their successes; Wanganui Chronicle article on 21/3/16..."
 featured-image: 
 excerpt: "HANDS UP: The Whanganui kayakers, the majority made up of past and present WHS students, at Lake Karapiro celebrate their successes; Wanganui Chronicle article on 21/3/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Kate Van Elswijk made it to the Battle Rounds of The Voice Australia, June 2016..."
 featured-image: 
 excerpt: "Former WHS student Kate Van Elswijk made it to the Battle Rounds of The Voice Australia, June 2016..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/579964dcff2a7c38fb000c7d/Kate-Vanelswik-2016.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/579966a4b8d39a2071000c7d/kategeorgia_battle-the-voice.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/579964afb8d39a2071000c7b/Kate-Vanelswik-no-2-2016.jpg"
+	
+	
 ---
 
 <p><strong>Former WHS student Kate Van Elswijk made it to the Battle Rounds of The Voice Australia, June 2016.</strong></p>

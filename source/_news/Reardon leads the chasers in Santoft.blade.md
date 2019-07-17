@@ -4,11 +4,12 @@ date:
 description: "Whanganui apprentice engineer and former WHS student Seth Reardon finished runnerup at the fifth round of the Central Enduro Champ Series..."
 featured-image: 
 excerpt: "Whanganui apprentice engineer and former WHS student Seth Reardon finished runnerup at the fifth round of the Central Enduro Championship Series near Bulls on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui's Seth Reardon (Yamaha YZ250FX) in solid form in the Santoft Forest near Bulls on Sunday. <br />PHOTO by Andy McGechan, BikesportNZ.com</span></p>

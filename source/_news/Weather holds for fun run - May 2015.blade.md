@@ -4,11 +4,12 @@ date:
 description: "WHIPPET QUICK:  5km run winner Rebecca Baker of Wanganui High School, Wanganui Chronicle article on 18/5/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>WHIPPET QUICK: &nbsp;5km run winner Rebecca Baker of Wanganui High School.</p>

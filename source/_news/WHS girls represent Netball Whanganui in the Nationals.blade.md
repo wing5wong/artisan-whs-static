@@ -4,11 +4,12 @@ date:
 description: "All the best to our WHS netball girls as they head off over the holidays to represent Netball Whanganui in the U15 & U17 Nationals..."
 featured-image: 
 excerpt: "All the best to our WHS netball girls as they head off over the holidays to represent Netball Whanganui in the U15 & U17 Nationals."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>All the best to our WHS netball girls as they head off over the holidays to represent Netball Whanganui in the U15 &amp; U17 Nationals.&nbsp;</span></p>

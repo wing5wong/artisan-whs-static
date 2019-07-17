@@ -4,11 +4,12 @@ date:
 description: "Hamish Bennett (former WHS student) & Dylan Gallien are the returning players for the NZ Heartland Under 19's..."
 featured-image: 
 excerpt: "Hamish Bennett (former WHS student) & Dylan Gallien are the returning players for the NZ Heartland Under 19's at the Jock Hobbs national tournament."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span><strong>Hamish Bennett</strong> (f<span>ormer WHS student) and</span><span>&nbsp;</span></span>Dylan Gallien are the returning players for the NZ Heartland Under 19's at the Jock Hobbs national tournament.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Mikal Terrey, one of February's winning Lotto Volunteers, from the Wanganui Midweek article 12/3/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Mikal Terrey, one of February's winning Lotto Volunteers.</p>

@@ -4,11 +4,12 @@ date: 2018-01-18
 description: "Whanganui High School student David Marks in Wellington Jazzfest..."
 featured-image: 
 excerpt: "Whanganui High School student David Marks in Wellington Jazzfest."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whanganui High School student David Marks in Wellington Jazzfest.<br /><em>PHOTO / Rodger Fox</em></p>

@@ -4,11 +4,12 @@ date:
 description: "Blackburn sisters, Roimata and Leila (both WHS students), going to Kansas City to follow basketball dream, Wanganui River City Press article on 27/8/15..."
 featured-image: 
 excerpt: "Blackburn sisters, Roimata and Leila (both WHS students), going to Kansas City to follow basketball dream."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="BasicParagraph"><span class="CharacterStyle1"><strong><span lang="EN-GB">Blackburn sisters, Roimata and Leila (both WHS students), going to Kansas City to follow basketball dream.</span></strong></span></p>

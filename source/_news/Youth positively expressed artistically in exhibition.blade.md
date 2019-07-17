@@ -4,11 +4,12 @@ date:
 description: "Young artists Aria Plumridge-Shaw (back left) Payton McIntyre, Te Paerata Tichbon (WHS), Ashleigh Clarke (WHS), Ryan Peralta (WHS), Na-Keta Clarke (WHS), Seth Chadfield & Jhonelle Kara."
 featured-image: 
 excerpt: "WORDS IN PICTURES:  Young artists Aria Plumridge-Shaw (back left) Payton McIntyre, Te Paerata Tichbon (WHS), Ashleigh Clarke (WHS), Ryan Peralta (WHS), Na-Keta Clarke (WHS), Seth Chadfield and Jhonelle Kara.  Mana Chase-Pickering was absent, from Wanganui Chronicle article on 22/9/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>WORDS IN PICTURES: &nbsp;Young artists Aria Plumridge-Shaw (back left) Payton McIntyre, Te Paerata Tichbon (WHS), Ashleigh Clarke (WHS), Ryan Peralta (WHS), Na-Keta Clarke (WHS), Seth Chadfield and Jhonelle Kara. &nbsp;Mana Chase-Pickering was absent.</p>

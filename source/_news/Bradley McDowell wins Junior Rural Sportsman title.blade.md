@@ -4,11 +4,12 @@ date: 2019-03-14
 description: "Whanganui's International Action Cowboy Champion Bradley McDowell can now add the Fonterra Junior Rural Sportsman title..."
 featured-image: 
 excerpt: "Whanganui's international action cowboy champion Bradley McDowell can now add the Fonterra Junior Rural Sportsman title to his growing list of achievements."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><span>Whanganui's International Action Cowboy Champion Bradley McDowell can now add the Fonterra Junior Rural Sportsman title to his growing list of achievements.</span><br /><em></em></h3>

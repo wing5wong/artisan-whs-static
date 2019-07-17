@@ -5,11 +5,12 @@ description: "HAPPY: Jack Kennedy pictured with a successful WHS student Shea-Le
 Click on above for more information..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>HAPPY: Jack Kennedy pictured with a successful WHS student Shea-Lee Phillips back in 2012.</p>

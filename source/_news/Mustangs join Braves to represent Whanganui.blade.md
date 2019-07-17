@@ -4,11 +4,12 @@ date: 2018-10-06
 description: "Looking to the future are the new Mustangs team, which includes Jake Hollis, left, Ben Hollis and Aaron Maney..."
 featured-image: 
 excerpt: "Looking to the future are the new Mustangs team, which includes Jake Hollis, left, Ben Hollis and Aaron Maney."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Looking to the future are the new Mustangs team, which includes Jake Hollis, left, Ben Hollis (both former WHS students) and Aaron Maney.</span><br /><em>PHOTO / Stuart Munro</em></p>

@@ -4,11 +4,12 @@ date: 2018-08-22
 description: "Whanganui mountain biker Sam Blenkinsop wins world title at the Canadian Open Downhill track..."
 featured-image: 
 excerpt: "Whanganui mountain biker Sam Blenkinsop wins world title at the Canadian Open Downhill track."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b7caae9ff2a7c03cc000108/sam-blenk-chron-22-aug-front-page.gif"
+	 - image: "/uploads/5b7caa78ff2a7c03cc000104/sam-blenk-chron-22-aug-chatting.PNG"
+	
+	
+	
 ---
 
 <p><span>Whanganui's Sam Blenkinsop getting cheeky during Sunday's Crankworx Air DH event in Canada. <br /><em>PHOTO / Keith Phunkt Valentine</em></span></p>

@@ -4,11 +4,12 @@ date: 2018-01-09
 description: "Former Whanganui High School student Gabby MacDonald in her new office..."
 featured-image: 
 excerpt: "Former Whanganui High School student Gabby MacDonald in her new office."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former Whanganui High School student Gabby MacDonald in her new office. <br /><em>PHOTO / supplied</em></span></p>

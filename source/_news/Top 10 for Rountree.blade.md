@@ -4,11 +4,12 @@ date: 2018-04-25
 description: "WHS student James Rountree produced the best result of the city's juniors at the NZ Jnr MX Champs..."
 featured-image: 
 excerpt: "WHS student James Rountree produced the best result of the city's juniors at the NZ Junior Motocross Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui's James Rountree finished 8th in NZ at the national junior Motocross Championships 15-16 year 125cc class in Mosgiel at the weekend.<br /></strong>Photo / Supplied</p>

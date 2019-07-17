@@ -4,11 +4,12 @@ date: 2018-07-13
 description: "Footballers Lana O'Connor, Stella Warner & Shakaia Taioroa & development officer Matthew Calvert head to Sydney tourn..."
 featured-image: 
 excerpt: "Whanganui footballers Lana O'Connor, Stella Warner (WHS student) & Shakaia Taioroa & Central Football development officer Matthew Calvert head to Sydney tournament."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui footballers Lana O'Connor (left), Stella Warner (WHS student) and Shakaia Taioroa and Central Football development officer Matthew Calvert head to Sydney tournament on Sunday.</span><br /><em>PHOTO / Stuart Munro</em></p>

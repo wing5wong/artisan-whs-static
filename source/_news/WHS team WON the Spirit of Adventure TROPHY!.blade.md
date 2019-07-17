@@ -4,16 +4,17 @@ date: 2019-04-17
 description: "WHS team WON the Spirit of Adventure TROPHY!. as well as cooked meals, raised sails & took on three other schools in a series of activities."
 featured-image: 
 excerpt: "WHS team WON the Spirit of Adventure TROPHY!. as well as cooked meals, raised sails & took on three other schools in a series of activities."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Oops... looks like there is a small detail that the Chronicle forgot to include in this article!</p>
-<p><span class="_5mfr"><span class="_6qdm">ðŸ†</span></span>&nbsp;Whanganui High School team WON the Spirit of Adventure TROPHY&nbsp;<span class="_5mfr"><span class="_6qdm">â€¼ï¸</span></span>&nbsp;<span class="_5mfr"><span class="_6qdm">ðŸ‘</span></span></p>
-<p>Congratulations, fantastic team effort&nbsp;<span class="_5mfr"><span class="_6qdm">ðŸ‘</span></span><span class="_5mfr"><span class="_6qdm">ðŸ‘</span></span></p>
+<p><span class="_5mfr"><span class="_6qdm">🏆</span></span>&nbsp;Whanganui High School team WON the Spirit of Adventure TROPHY&nbsp;<span class="_5mfr"><span class="_6qdm">‼️</span></span>&nbsp;<span class="_5mfr"><span class="_6qdm">👍</span></span></p>
+<p>Congratulations, fantastic team effort&nbsp;<span class="_5mfr"><span class="_6qdm">👏</span></span><span class="_5mfr"><span class="_6qdm">👏</span></span></p>
 <p><img src="https://www.nzherald.co.nz/resizer/fyskuPeLNgKAlkLYa878k5WccEI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/DPRU5TJR4ZDCTIAQUPTOXYYPNU.jpg" alt="Whanganui High School students boarded the Spirit of New Zealand where they cooked meals, raised sails and took on three other schools in a series of activities. Photo / Supplied" /></p>
 <p>Whanganui High School students boarded the Spirit of New Zealand where they cooked meals, raised sails and took on three other schools in a series of activities.&nbsp;<br /><em>PHOTO / Supplied</em></p>
 <p class="element element-paragraph">They weren't sword-fighting or searching for treasure, but 10 students experienced a pirate's life on the sea when they embarked on the Spirit of Adventure voyage.</p>

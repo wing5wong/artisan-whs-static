@@ -4,11 +4,12 @@ date:
 description: "WHS just swept all three placings in the band category at Smokefree RockQuest Whanganui..."
 featured-image: 
 excerpt: "WHS just swept all three placings in the band category at Smokefree RockQuest Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b4bdab8d39a0a7c000bf6/WHS-musicians-backstage-at-the-Opera-House,-ready-to-rock-at-Smokefree-RockQuest.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b9187b8d39a0a7c000c54/Girl-band-group-before.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b917fb8d39a0a7c000c52/Girl-band-3.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b9170b8d39a0a7c000c50/Girl-band-2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b916ab8d39a0a7c000c4e/Girl-band-1.jpg"
 ---
 
 <h4><strong>WHS just swept all three placings in the band category at&nbsp;<a class="profileLink" href="https://www.facebook.com/pages/Smokefree-RockQuest/108720929161481?fref=mentions" data-hovercard="/ajax/hovercard/page.php?id=108720929161481&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1" data-hovercard-obj-id="108720929161481">Smokefree RockQuest</a>&nbsp;<a class="profileLink" href="https://www.facebook.com/WhanganuiHigh/?fref=mentions" data-hovercard="/ajax/hovercard/page.php?id=169697356412784&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1" data-hovercard-obj-id="169697356412784">Whanganui</a>. </strong></h4>

@@ -4,11 +4,12 @@ date:
 description: "The WHS Cultural Festival on Saturday 18 June was a fantastic success with many international munchies being a real hit, not to mention the fabulous entertainment that rocked the hall all night..."
 featured-image: 
 excerpt: "The WHS Cultural Festival on Saturday 18 June was a fantastic success with many international munchies being a real hit, not to mention the fabulous entertainment that rocked the hall all night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The WHS Cultural Festival on Saturday 18 June&nbsp;was a fantastic success with many international munchies being a real hit, not to mention the fabulous entertainment that rocked the hall all night.</p>

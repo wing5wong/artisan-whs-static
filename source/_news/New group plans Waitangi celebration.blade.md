@@ -4,11 +4,12 @@ date:
 description: "New group Whakawhanake Ltd is organising an event for Whanganui for Waitangi Day this year, former WHS student Kiri Wilson says."
 featured-image: 
 excerpt: "New group Whakawhanake Ltd is organising an event for Whanganui for Waitangi Day this year, former WHS student Kiri Wilson says."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>New group Whakawhanake Ltd is organising an event for Whanganui for Waitangi Day this year, former WHS student Kiri Wilson says.</p>

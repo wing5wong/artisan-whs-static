@@ -4,11 +4,12 @@ date: 2018-09-08
 description: "Chris Sharrock has been named as the Assistant Coach for the NZ Junior (Under 19) badminton team..."
 featured-image: 
 excerpt: "Chris Sharrock has been named as the Assistant Coach for the New Zealand Junior (Under 19) badminton team."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Chris Sharrock has been named as the Assistant Coach for the New Zealand Junior (Under 19) badminton team.</strong><br />Photo / Supplied</p>

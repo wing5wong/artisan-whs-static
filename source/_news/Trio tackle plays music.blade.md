@@ -4,11 +4,12 @@ date:
 description: "Providing the music for Red Riding Hood at Repertory are (from left) WHS student James Lee, Ted Charlton and WHS student Ben Power..."
 featured-image: 
 excerpt: "Providing the music for Red Riding Hood at Repertory are (from left) WHS student James Lee, Ted Charlton and WHS student Ben Power."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>BACKING TRIO: Providing the music for Red Riding Hood at Repertory are (from left) WHS student James Lee, Ted Charlton and WHS student Ben Power. <br />PICTURE / HARMONY MAY.</span></p>

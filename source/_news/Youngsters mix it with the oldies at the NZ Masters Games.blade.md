@@ -4,11 +4,12 @@ date: 2019-01-31
 description: "Youngsters mix it with the oldies at the NZ Masters Games..."
 featured-image: 
 excerpt: "Youngsters mix it with the oldies at the NZ Masters Games."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>It is New Zealand Masters Games time. How quickly two years has passed since the last and how eagerly has the 30th edition starting Friday been anticipated.</p>

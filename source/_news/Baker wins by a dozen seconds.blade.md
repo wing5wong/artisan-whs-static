@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School junior girls winner Rebecca Baker keeps ahead of senior girls winner Caitlyn Alabaster in their combined 3000m race on Thursday..."
 featured-image: 
 excerpt: "Whanganui High School junior girls winner Rebecca Baker keeps ahead of senior girls winner Caitlyn Alabaster in their combined 3000m race on Thursday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Whanganui High School junior girls winner Rebecca Baker</strong> keeps ahead of senior girls winner Caitlyn Alabaster in their combined 3000m race on Thursday.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui 15-year-old Keightley Watson wins gold and silver against the big boys in Tonga..."
 featured-image: 
 excerpt: "Whanganui 15-year-old Keightley Watson wins gold and silver against the big boys in Tonga."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><strong>Whanganui 15-year-old Keightley Watson wins gold and silver against the big boys in Tonga.</strong></h3>

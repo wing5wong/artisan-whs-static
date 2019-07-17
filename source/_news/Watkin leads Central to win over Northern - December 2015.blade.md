@@ -4,11 +4,12 @@ date:
 description: "WHS student Jessica Watkin leads Central Districts U21 Hockey team to win over Northern Districts in Auckland on Saturday 19 December, Wanganui Chronicle article on 21/12/15..."
 featured-image: 
 excerpt: "WHS student Jessica Watkin leads Central Districts U21 Hockey team to win over Northern Districts in Auckland on Saturday 19 December, Wanganui Chronicle article on 21/12/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

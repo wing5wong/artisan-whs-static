@@ -4,11 +4,12 @@ date: 2018-08-20
 description: "Aragorn Cavanagh cooking his omelette which was judged gold in the UCOL Secondary Schools Hospitality Competition."
 featured-image: 
 excerpt: "Aragorn Cavanagh cooking his omelette which was judged gold in the UCOL Secondary Schools Hospitality Competition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span>Aragorn Cavanagh cooking his omelette which was judged gold in the UCOL Secondary Schools Hospitality Competition. </span></h4>

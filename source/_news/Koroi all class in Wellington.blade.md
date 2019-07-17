@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Vilimoni Koroi stood out at his first international tournament with some great play in his debut matches on Saturday, Wanganui Chronicle article on 31/1/17..."
 featured-image: 
 excerpt: "Former WHS student Vilimoni Koroi stood out at his first international tournament with some great play in his debut matches on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student Vilimoni Koroi stood out at his first international tournament with some great play in his debut matches on Saturday.</p>

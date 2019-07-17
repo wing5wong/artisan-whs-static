@@ -4,11 +4,12 @@ date:
 description: "Rebecca Baker (WHS), Junior Wanganui School 1500m track champion and winner of last year's Round the Bridges fun run, will renew her close rivalry with NZ School Y9 Road Race silver medal winner..."
 featured-image: 
 excerpt: "STAYER: Rebecca Baker (WHS), Junior Wanganui School 1500m track champion and winner of last year's Round the Bridges fun run, will renew her close rivalry with New Zealand School Year 9 Road Race silver medal winner Caitlyn Alabaster at the Whanganui Secondary Schools Cross-country Championships at Collegiate today."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><br /></span></p>

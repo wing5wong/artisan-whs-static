@@ -1,14 +1,15 @@
 ---
 title: "Tim returns to Whanganui after army placements"
 date: 2018-06-21
-description: "Tim Easton â€“ Returns to Whanganui via Army postings at Afghanistan and Egypt..."
+description: "Tim Easton – Returns to Whanganui via Army postings at Afghanistan and Egypt..."
 featured-image: 
-excerpt: "Tim Easton â€“ Returns to Whanganui via Army postings at Afghanistan and Egypt"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Tim Easton – Returns to Whanganui via Army postings at Afghanistan and Egypt"
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Tim Easton &ndash; Returns to Whanganui via Army postings at Afghanistan and Egypt</p>

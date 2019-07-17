@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School students Charlotte Taylor (left) and Olivia Caird won a bronze medal at the recent final of the National Secondary School Culinary Challenge, Wanganui Chronicle article 12/9/16.."
 featured-image: 
 excerpt: "Whanganui High School students Charlotte Taylor (left) and Olivia Caird won a bronze medal at the recent final of the National Secondary School Culinary Challenge."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>CLEVER COOKS: Whanganui High School students Charlotte Taylor (left) and Olivia Caird won a bronze medal at the recent final of the National Secondary School Culinary Challenge.</strong></p>

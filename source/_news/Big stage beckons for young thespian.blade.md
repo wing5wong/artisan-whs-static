@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School's Vincent Collins will be performing in Shakespeare's Julius Caesar in Dunedin next month, Wanganui Chronicle article on 26/8/16..."
 featured-image: 
 excerpt: "Whanganui High School's Vincent Collins will be performing in Shakespeare's Julius Caesar in Dunedin next month."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui High School's Vincent Collins will be performing in Shakespeare's Julius Caesar in Dunedin next month.</strong></p>

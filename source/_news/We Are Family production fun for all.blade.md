@@ -4,11 +4,12 @@ date: 2018-04-07
 description: "Nikita (back left), Emma, Eva, Emma Henare (front left), Lauren Phillips, Joanna & Abby Squire at rehearsals..."
 featured-image: 
 excerpt: "Nikita McDonald (back left), Emma Hylton, Eva Fallon, Emma Henare (front left), Lauren Phillips, Joanna Simmons and Abby Squire at rehearsals."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FAMILY FUN: Nikita McDonald (back left), Emma Hylton, Eva Fallon, <strong>Emma Henare</strong>&nbsp;(front left), <strong>Lauren Phillips</strong>, Joanna Simmons and <strong>Abby Squire</strong> at rehearsals. <br />(WHS students <span>highlighted</span>)<br /><em>PHOTO / Stuart Munro</em></span></p>

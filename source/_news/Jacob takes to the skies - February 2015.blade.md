@@ -4,11 +4,12 @@ date:
 description: "JACOB Smith receives his wings from Air NZ Captain Darin Stringer at the Walsh awards ceremony, from the Wanganui Midweek article 11 Feb 2015"
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>JACOB Smith receives his wings from Air NZ Captain Darin Stringer at the Walsh awards ceremony.</p>

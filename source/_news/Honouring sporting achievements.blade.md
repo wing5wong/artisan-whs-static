@@ -4,11 +4,12 @@ date:
 description: "WHS coach of Touch Team Sean Brown, left and Jason Caskey congratulate each other on sharing the Coach of the Year award at the Whanganui Sports Awards held at the Wanganui racecourse on Friday night."
 featured-image: 
 excerpt: "WHS coach of Touch Team Sean Brown, left and Jason Caskey congratulate each other on sharing the Coach of the Year award at the Whanganui Sports Awards held at the Wanganui racecourse on Friday night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WELL DONE: Sean Brown,&nbsp;left (WHS coach of Touch Team) and Jason Caskey congratulate each other on sharing the Coach of the Year award at the Whanganui Sports Awards held at the Wanganui racecourse on Friday night.</strong></p>

@@ -4,11 +4,12 @@ date: 2018-06-21
 description: "WHS (green and gold) win this ruck and the game in the 1st XV rugby clash with Hutt Valley High during the interschool exchange..."
 featured-image: 
 excerpt: "WHS (green and gold) win this ruck and the game in the 1st XV rugby clash with Hutt Valley High during the interschool exchange on Tuesday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WHS (green and gold) win this ruck and the game in the 1st XV rugby clash with Hutt Valley High during the interschool exchange on Tuesday.</span><br /><em>Photo / Supplied</em></p>

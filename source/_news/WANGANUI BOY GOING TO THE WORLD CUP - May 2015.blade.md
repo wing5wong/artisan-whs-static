@@ -4,11 +4,12 @@ date:
 description: "Former Wanganui High School student Sam Malcolm has been called into the NZ U20 Rugby Team for the upcoming World Cup, 19/5/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WANGANUI BOY GOING TO THE WORLD CUP</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "BREAK A LEG: Colin Hedivan directs his Wanganui High School drama students as they rehearse for the Regional Festival of Shakespeare, Wanganui Chronicle article on 1/4/16..."
 featured-image: 
 excerpt: "BREAK A LEG: Colin Hedivan directs his Wanganui High School drama students as they rehearse for the Regional Festival of Shakespeare, Wanganui Chronicle article on 1/4/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

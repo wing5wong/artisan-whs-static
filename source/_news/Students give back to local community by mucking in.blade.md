@@ -4,11 +4,12 @@ date:
 description: "READY CREW: James Shelby took a short barrow break at Riverland before the Whanganui High School team got to work on the clean-up, Wanganui Chronicle article on 2/12/15..."
 featured-image: 
 excerpt: "READY CREW: James Shelby took a short barrow break at Riverland before the Whanganui High School team got to work on the clean-up."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>READY CREW: James Shelby took a short barrow break at Riverland before the Whanganui High School team got to work on the clean-up.</span></p>

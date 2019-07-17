@@ -4,11 +4,12 @@ date:
 description: "THE WATSON brothers of the Wanganui Judo Club continued their success across the Tasman with gold medals at the international open tournament in Queensland at the weekend, Wanganui Chronicle 11/3/16.."
 featured-image: 
 excerpt: "THE WATSON brothers of the Wanganui Judo Club continued their success across the Tasman with gold medals at the international open tournament in Queensland at the weekend, Wanganui Chronicle article on 11/3/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

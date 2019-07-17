@@ -4,11 +4,12 @@ date:
 description: "The Whanganui contingent who competed in Rotorua last weekend. WHS students, from left, Dylan Smith, Trazarn Ryland-Annabell, Callum Sturzaker, Jemma Barnes, Brody Casey, Kaelin Mooney & Max Holloway."
 featured-image: 
 excerpt: "NIGHT RIDERS: The Whanganui contingent who competed in Rotorua last weekend. WHS students, from left, Dylan Smith, Trazarn Ryland-Annabell, Callum Sturzaker, Jemma Barnes, Brody Casey, Kaelin Mooney and Max Holloway."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

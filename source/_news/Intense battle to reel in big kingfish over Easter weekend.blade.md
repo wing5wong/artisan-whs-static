@@ -4,14 +4,16 @@ date: 2019-04-26
 description: "It was a great Easter weekend break for local fisherman Te Arepa Whareaitu, who hauled in a big kingfish at North Mole pier..."
 featured-image: 
 excerpt: "It was a great Easter weekend break for local fisherman Te Arepa Whareaitu, who hauled in a big kingfish at North Mole pier."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://www.nzherald.co.nz/resizer/ZyWimFS-6jNageZIJ3ecO1QlrKI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/STQZNQHLWFAGBLB3UMFDHV6AIU.jpg" alt="Te Arepa Whareaitu with his 17kg kingfish Photo / Supplied" /><br /><span>Te Arepa Whareaitu with his 17kg kingfish <br /><em>Photo / Supplied</em></span></p>
+<p><img src="https://www.nzherald.co.nz/resizer/ZyWimFS-6jNageZIJ3ecO1QlrKI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/STQZNQHLWFAGBLB3UMFDHV6AIU.jpg" alt="Te Arepa Whareaitu with his 17kg kingfish Photo / Supplied" /></p>
+<p><span>Te Arepa Whareaitu with his 17kg kingfish <br /><em>Photo / Supplied</em></span></p>
 <p class="element element-paragraph "><br />It was a great Easter weekend break for local fisherman and ex WHS student Te Arepa Whareaitu, who hauled in a big kingfish at North Mole pier.</p>
 <p class="element element-paragraph ">The fish was caught around 8.30am on Good Friday, weighing in at 17 kilograms and was 1.1 metres long.</p>
 <p class="element element-paragraph ">On his first cast of the morning Whareaitu caught a kahawai and after recasting, it took about 15 minutes before the kingfish hooked on.</p>

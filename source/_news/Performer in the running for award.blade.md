@@ -4,11 +4,12 @@ date:
 description: "BIG TIME:  Former WHS student, Seth Haapu's song 10 years is up for the 2016 APRA Silver Scroll, Wanganui Chronicle article on 25/7/16..."
 featured-image: 
 excerpt: "BIG TIME:  Former WHS student, Seth Haapu's song 10 years is up for the 2016 APRA Silver Scroll..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>BIG TIME: &nbsp;Former WHS student, Seth Haapu's song <em>10 years</em> is up for the 2016 APRA Silver Scroll.</strong></p>

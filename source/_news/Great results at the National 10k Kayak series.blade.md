@@ -4,11 +4,12 @@ date:
 description: "Congratulations to the following students WHS who were at the National 10k Kayak series last weekend.."
 featured-image: 
 excerpt: "Congratulations to the following WHS students who were at the National 10k Kayak series last weekend and won their age group races."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Congratulations to the following students WHS who were at the National 10k Kayak series last weekend and won their age group races!&nbsp;</strong></p>

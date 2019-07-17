@@ -4,11 +4,12 @@ date: 2018-01-23
 description: "Former WHS student Lily Meade was a standout in the U17 slalom girls and set a personal best in the jumps event at Lake Wiritoa..."
 featured-image: 
 excerpt: "Former WHS student Lily Meade was a standout in the U17 slalom girls and set a personal best in the jumps event at Lake Wiritoa."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Former WHS student Lily Meade was a standout in the U17 slalom girls and set a personal best in the jumps event at Lake Wiritoa.</strong></p>

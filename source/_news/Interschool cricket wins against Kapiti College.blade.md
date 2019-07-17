@@ -4,11 +4,12 @@ date: 2019-04-04
 description: "Interschool cricket exchange between Kapiti College and WHS went well on Tuesday April 2nd..."
 featured-image: 
 excerpt: "Interschool cricket exchange between Kapiti College and WHS went well on Tuesday April 2nd."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/56675785_1224622487686855_3129346281768484864_n.jpg?_nc_cat=103&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=6029303185840e83a08e6bfc1b07552a&amp;oe=5D459FCA" alt="Image may contain: 4 people, people smiling, outdoor and nature" /></span></p>

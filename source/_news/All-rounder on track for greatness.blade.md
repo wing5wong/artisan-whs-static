@@ -4,11 +4,12 @@ date: 2018-08-30
 description: "Whanganui High School student Rebecca Baker is an all round athlete with choices..."
 featured-image: 
 excerpt: "Whanganui High School student Rebecca Baker is an all round athlete with choices."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/5b872a69ff2a7c03cc000572/rebecca-baker-snip-article-30-aug.PNG"
+	 - image: "/uploads/5b872cf7ff2a7c03cc00057a/rebecca-on-turf-30-aug.PNG"
+	 - image: "/uploads/5b872ce7ff2a7c03cc000578/rebecca-running-30-aug.PNG"
+	 - image: "/uploads/5b872d07ff2a7c03cc00057c/rebecca-standing-30-aug.PNG"
+	
 ---
 
 <p><strong>Whanganui High School student Rebecca Baker is an all round athlete with choices.</strong></p>

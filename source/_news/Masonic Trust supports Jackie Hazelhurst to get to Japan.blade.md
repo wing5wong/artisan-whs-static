@@ -4,11 +4,12 @@ date:
 description: "The Ruapehu-Manawatu Masonic District Youth Trust have recently given WHS Head Girl Jackie Hazelhurst a grant to assist her in getting to Japan..."
 featured-image: 
 excerpt: "The Ruapehu-Manawatu Masonic District Youth Trust have recently given WHS Head Girl Jackie Hazelhurst a grant to assist her in getting to Japan."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Darol Pointon giving Whanganui High School Head Girl Jackie Hazelhurst her grant.</span></p>

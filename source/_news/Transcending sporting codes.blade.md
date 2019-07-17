@@ -4,11 +4,12 @@ date:
 description: "Internationally ranked speed skater Renee Teers (second left) reveals her running form in the WHS intermediate girls 100m heat at Cooks Gardens yesterday..."
 featured-image: 
 excerpt: "Internationally ranked speed skater Renee Teers (second left) reveals her running form in the WHS intermediate girls 100m heat at Cooks Gardens yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>CROSS CODES: Internationally ranked speed skater Renee Teers (second left) reveals her running form in the WHS intermediate girls 100m heat at Cooks Gardens yesterday.</span></p>

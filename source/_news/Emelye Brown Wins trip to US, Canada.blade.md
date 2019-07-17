@@ -4,11 +4,12 @@ date: 2018-08-13
 description: "Emelye Brown took out the NZ Lions Young Speechmaker Contest, earning a trip to North America..."
 featured-image: 
 excerpt: "Emelye Brown took out the NZ Lions Young Speechmaker Contest, earning a trip to North America in December."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Emelye Brown took out the NZ Lions Young Speechmaker Contest, earning a trip to North America in December.<br /><em></em></h4>

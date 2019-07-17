@@ -4,11 +4,12 @@ date:
 description: "Sarya Lower, Elena Forlong & newcomer Amelia Cronin all did well at the NZ Short Course Swimming Champs held at the National Aquatic Centre in Auckland, 2-6 October 2016..."
 featured-image: 
 excerpt: "WHS students Sarya Lower, Elena Forlong and newcomer Amelia Cronin all did well at the NZ Short Course Swimming Champs held at the National Aquatic Centre on the North Shore of Auckland between 2-6 October 2016."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>WHS students&nbsp;Sarya Lower, Elena Forlong and newcomer Amelia Cronin all did well at the NZ Short Course Swimming Champs held at the National Aquatic Centre on the North Shore of Auckland between 2-6 October 2016.</p>

@@ -4,11 +4,12 @@ date:
 description: "WHS runners up in the Manawatu Division 1 Secondary School finals played at Palmerston North on Thursday night, 25 August..."
 featured-image: 
 excerpt: "WHS runners up in the Manawatu Division 1 Secondary School finals played at Palmerston North on Thursday night, 25 August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>It was a disappointing Manawatu division 1 secondary school finals day for Whanganui High School as both first XI teams were beaten by Waiopehu College on Thursday night.</p>

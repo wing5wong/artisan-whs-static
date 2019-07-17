@@ -4,11 +4,12 @@ date:
 description: "The WHS debating team (from left) - Vincent Collins, Boston Flanagan-Connors, Gabrielle Penn, Connor Cresswell, Jeanne-Marie Bonnet, Jack Southee, Jackie-Hazelhurst, Alister Hughes and Raoul Sarup."
 featured-image: 
 excerpt: "The WHS debating team (from left) - Vincent Collins, Boston Flanagan-Connors, Gabrielle Penn, Connor Cresswell, Jeanne-Marie Bonnet, Jack Southee, Jackie-Hazelhurst, Alister Hughes and Raoul Sarup."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong style="line-height: 1.5;">STRENGTH TO STRENGTH: The Wanganui High School debating team (from left) - Vincent Collins, Boston Flanagan-Connors, Gabrielle Penn, Connor Cresswell, Jeanne-Marie Bonnet, Jack Southee, Jackie-Hazelhurst, Alister Hughes and Raoul Sarup.</strong></p>

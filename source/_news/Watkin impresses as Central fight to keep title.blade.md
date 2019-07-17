@@ -4,11 +4,12 @@ date:
 description: "CAPTAIN JESS: Whanganui's Jessica Watkin is leading her CD women's team by example at the national Under-21 tournament in Auckland, Wanganui Chronicle article on 21/12/16..."
 featured-image: 
 excerpt: "CAPTAIN JESS: Whanganui's Jessica Watkin is leading her CD women's team by example at the national Under-21 tournament in Auckland."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>CAPTAIN JESS: Whanganui's Jessica Watkin is leading her CD women's team by example at the national Under-21 tournament in Auckland.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Wanganui hockey export  and former WHS student Martin Atkinson has a long haul without matchplay until his tour of Australia with the New Zealand Futures Under 23 squad."
 featured-image: 
 excerpt: "Wanganui hockey export Martin Atkinson has a long haul without matchplay until his tour of Australia with the New Zealand Futures Under 23 squad, from Wanganui Chronicle article on 8/10/15."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>ON ATTACK: Martin Atkinson (black) in action against a Canadian selection last season is now poised to take on the Australians with the NZ Under 23 side next month.</span></p>

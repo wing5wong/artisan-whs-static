@@ -4,11 +4,12 @@ date:
 description: "Six years ago Rosie Brown left school with an ambition to work hard and become successful - the specifics were irrelevant. Now the former Whanganui High School student is cracking the big time..."
 featured-image: 
 excerpt: "Six years ago Rosie Brown left school with an ambition to work hard and become successful - the specifics were irrelevant. Now the former Whanganui High School student is cracking the big time as the senior international officer at Deakin University in Melbourne."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FLYING HIGH: Senior international officer at Deakin University, Rosie Brown, travels to Japan with students.</span></p>

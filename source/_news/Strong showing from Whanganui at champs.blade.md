@@ -4,11 +4,12 @@ date: 2019-04-04
 description: "Karl Loebe will start as one of the favourites in the Intermediate boys at the NISS Track & Field Champs in Tauranga..."
 featured-image: 
 excerpt: "Karl Loebe will start as one of the favourites in the Intermediate boys at the NISS Track & Field Champs in Tauranga."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/qPJSYgSR9Ntn4-RCLUO4mXj9KDI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/AVNNT6AR6NHH3IJAUMKKRBOPNA.jpg" alt="Karl Loebe will start as one of the favourites in the Intermediate boys at the North Island Championships and his German qualifying time set at last week's club night could prove hard to beat in that grade." /></p>

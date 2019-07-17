@@ -4,11 +4,12 @@ date: 2018-03-20
 description: "The Whanganui High School Motocross crew at the Rotorua Schools event, 16 & 17 March 2018..."
 featured-image: 
 excerpt: "The Whanganui High School Motocross crew at the Rotorua Schools event, 16 and 17 March 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>TOP 10 EFFORT: </strong>The WHS motocross crew at the Rotorua School event. From left, Jaxon Watt, Riki Wainhouse, Michael Ross, Alex Luff-Scott, Tom Gilligan, Scott Emerson, Flynn Phillips, Troy Bullock, Logan Smith, James Rountree, Layton Mallinder, Jack Nayler, Ben Emerson, Blake Rountree, Ajah Sullivan, Olly Dennison.</p>

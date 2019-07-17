@@ -4,11 +4,12 @@ date:
 description: "FRIEND VERSUS FRIEND: Former WHS student, Lou Tyson [left] was in a cook-off against her friend Jethro Gardiner, Wanganui Chronicle article on 22/6/16..."
 featured-image: 
 excerpt: "FRIEND VERSUS FRIEND: Lou Tyson [left] was in a cook-off against her friend Jethro Gardiner."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FRIEND VERSUS FRIEND: Former WHS student, Lou Tyson [left] was in a cook-off against her friend Jethro Gardiner.</span></p>

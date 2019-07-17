@@ -4,11 +4,12 @@ date: 2018-06-14
 description: "LIFE at Whanganui High School news article in the River City Press on 14 June 2018..."
 featured-image: 
 excerpt: "LIFE at Whanganui High School news article in the River City Press on 14 June 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Photo: Rebecca Baker, WSS Cross Country Champion<strong></strong></p>

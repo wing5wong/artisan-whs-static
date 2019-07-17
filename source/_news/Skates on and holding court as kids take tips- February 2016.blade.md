@@ -4,11 +4,12 @@ date:
 description: "LISTEN UP: Whanganui's former NBL Nelson Giant & International Impact camp player Akira Marsters (former WHS student) addresses the hopefuls preparing for Whanganui representative basketball yesterday"
 featured-image: 
 excerpt: "LISTEN UP: Whanganui's former NBL Nelson Giant & International Impact camp player Akira Marsters (former WHS student) addresses the hopefuls preparing for Whanganui representative basketball yesterday"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

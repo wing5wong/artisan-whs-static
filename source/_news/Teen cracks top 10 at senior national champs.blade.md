@@ -4,11 +4,12 @@ date: 2018-03-03
 description: "An improved performance at the 2nd round of National MX champs has moved James Rountree up into the Top 10..."
 featured-image: 
 excerpt: "An improved performance at the second round of the national motocross championships has moved James Rountree up into the Top 10 in points."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>LIFTING UP:&nbsp;An improved performance at the second round of the national motocross championships has moved James Rountree up into the Top 10 in points.</strong></p>

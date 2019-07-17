@@ -4,11 +4,12 @@ date: 2018-09-24
 description: "WHS band The Remnant scooped the Te Reo award in the Tangata Beats competition at the national..."
 featured-image: 
 excerpt: "WHS band The Remnant scooped the Te Reo award in the Tangata Beats competition at the national Smokefreerockquest final."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba95a6fff2a7c1309000010/tangata-beats.gif"
+	
+	
+	
+	
 ---
 
 <h3 class="element element-paragraph">Whanganui High School band The Remnant scooped the Te Reo award in the Tangata Beats competition at the national Smokefreerockquest final.</h3>

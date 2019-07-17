@@ -4,11 +4,12 @@ date: 2018-08-01
 description: "Whanganui heavyweight Keightley Watson is shaping up as a world beater on the international judo mat..."
 featured-image: 
 excerpt: "Whanganui heavyweight Keightley Watson is shaping up as a world beater on the international judo mat."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><span>Whanganui heavyweight Keightley Watson is shaping up as a world beater on the international judo mat.<br /></span></h3>

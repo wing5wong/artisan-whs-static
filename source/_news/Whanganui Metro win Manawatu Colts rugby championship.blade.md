@@ -4,11 +4,12 @@ date: 2018-07-30
 description: "The Whanganui Metro team (chiefly ex WHS students) celebrate their Manawatu Colts champ win at Arena Manawatu."
 featured-image: 
 excerpt: "The Whanganui Metro team (chiefly ex WHS students) celebrate their Manawatu Colts championship win at Arena Manawatu."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The Whanganui Metro team <span>(chiefly ex WHS students)&nbsp;</span>celebrate their Manawatu Colts championship win at Arena Manawatu on Saturday.<br />PHOTO / Jared Smith</span></p>

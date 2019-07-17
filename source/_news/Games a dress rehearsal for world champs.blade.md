@@ -4,11 +4,12 @@ date: 2018-03-29
 description: "Rebecca Benge on the way through at the National Mounted Games at Horse of the Year..."
 featured-image: 
 excerpt: "Rebecca Benge shows no fear while sister Kelli clips her ticket on the way through at the National Mounted Games at Horse of the Year in Hastings last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>FEARLESS:&nbsp;&nbsp;</strong><span><strong>Rebecca Benge shows no fear while sister Kelli clips her ticket on the way through at the National Mounted Games at Horse of the Year in Hastings last week.</strong> <br /><em>PHOTO / Tyler Bumby</em></span></p>

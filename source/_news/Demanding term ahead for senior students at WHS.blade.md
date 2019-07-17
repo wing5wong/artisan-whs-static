@@ -4,11 +4,12 @@ date:
 description: "Demanding term ahead for senior students at WHS, Principal Letter to Parents/Caregivers, Wanganui Secondary School News, River City Press article on 20/10/16..."
 featured-image: 
 excerpt: "Demanding term ahead for senior students at WHS, Principal Letter to Parents/Caregivers, Wanganui Secondary School News."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Dear Parents, Caregivers and Friends of the School&nbsp;</p>

@@ -4,11 +4,12 @@ date: 2018-08-16
 description: "Gala Recital fundraiser to support 3 young Brass Musicians, including Ethan Mancer..."
 featured-image: 
 excerpt: "Gala Recital fundraiser to support 3 young Brass Musicians, including Ethan Mancer."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Photo: Even the cows enjoy Ethan&rsquo;s playing.</span></p>

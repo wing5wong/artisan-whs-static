@@ -4,11 +4,12 @@ date:
 description: "Metro's Brayden Maua (former WHS student last year) in action earlier this year. The Whanganui side face their biggest match of the season when they come up against Massey White being played at WHS..."
 featured-image: 
 excerpt: "Metro's Brayden Maua (former WHS student last year) in action earlier this year. The Whanganui side face their biggest match of the season when they come up against Massey White being played at Whanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Metro's Brayden Maua (former WHS student last year) in action earlier this year. The Whanganui side face their biggest match of the season when they come up against Massey White.</span></p>

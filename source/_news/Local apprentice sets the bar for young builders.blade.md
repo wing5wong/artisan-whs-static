@@ -4,11 +4,12 @@ date:
 description: "Whanganui building apprentice and former WHS student Ethan Bailey was congratulated by government minister Louise Upston on Wednesday..."
 featured-image: 
 excerpt: "Whanganui building apprentice and former WHS student Ethan Bailey was congratulated by government minister Louise Upston on Wednesday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>TOP EFFORT: Former WHS student&nbsp;Ethan Bailey with Dave Higgins (left), Gloria McGuire and Rex McGill of BCITO, Ian Higgins, Tee-Jay Horrell of Shane Stone, Minister Louise Upton and Whanganui National candidate Harete Hipango.</p>

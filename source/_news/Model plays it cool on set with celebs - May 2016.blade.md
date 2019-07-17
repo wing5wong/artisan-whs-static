@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Jack Stratton-Smith moved to Melbourne to pursue an acting career, and has already met numerous A-list actors, Wanganui Chronicle article on 7/5/16..."
 featured-image: 
 excerpt: "Former WHS student Jack Stratton-Smith moved to Melbourne to pursue an acting career, and has already met numerous A-list actors, Wanganui Chronicle article on 7/5/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

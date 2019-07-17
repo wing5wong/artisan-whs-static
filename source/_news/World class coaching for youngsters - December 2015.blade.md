@@ -4,11 +4,12 @@ date:
 description: "LAPPING IT UP: Thirteen-year-old Tayla Brunger soaks up the knowledge from Whanganui world class paddler and former WHS student Max Brown during yesterday's holiday programme kayaking session."
 featured-image: 
 excerpt: "LAPPING IT UP: Thirteen-year-old Tayla Brunger soaks up the knowledge from Whanganui world class paddler and former WHS student Max Brown during yesterday's holiday programme kayaking session."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

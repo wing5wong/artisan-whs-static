@@ -4,11 +4,12 @@ date:
 description: "TERTIARY SKILLS:  UCOL transition manager Jaime Court (left with award-winning students Daniel Taurua, WHS student Scott Gray and co-ordinator Debbie Smith, Wanganui Chronicle article on 16/11/15..."
 featured-image: 
 excerpt: "TERTIARY SKILLS:  UCOL transition manager Jaime Court (left) with award-winning students Daniel Taurua, WHS student Scott Gray and co-ordinator Debbie Smith, Wanganui Chronicle article on 16/11/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>TERTIARY SKILLS: &nbsp;UCOL transition manager Jaime Court (left with award-winning students Daniel Taurua, <strong>WHS student</strong> <strong>Scott Gray</strong> and co-ordinator Debbie Smith.</p>

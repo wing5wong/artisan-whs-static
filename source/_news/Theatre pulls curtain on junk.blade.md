@@ -4,11 +4,12 @@ date: 2018-06-22
 description: "Wanganui Repertory Theatre enthusiasts, from left: Ella Chapman, Meynell Smith, & ex students, Reuben Janes & Reid Tucker..."
 featured-image: 
 excerpt: "Wanganui Repertory Theatre enthusiasts, from left: Ella Chapman, 15, Meynell Smith, 16, and former WHS students, Reuben Janes, 23 and Reid Tucker, 18."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Wanganui Repertory Theatre enthusiasts, from left: Ella Chapman, 15, Meynell Smith, 16, and former WHS students, Reuben Janes, 23 and Reid Tucker, 18. <br /><em>PHOTO / Jesse King</em></span></p>

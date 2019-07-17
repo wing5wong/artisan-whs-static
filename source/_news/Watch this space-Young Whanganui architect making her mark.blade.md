@@ -4,11 +4,12 @@ date:
 description: "Former Whanganui High School student Darni Struijck is now a graduate architect at Dalgleish Architects in Whanganui..."
 featured-image: 
 excerpt: "Former Whanganui High School student Darni Struijck is now a graduate architect at Dalgleish Architects in Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WATCH THE SPACE: Former Whanganui High School student Darni Struijck is now a graduate architect at Dalgleish Architects in Whanganui. <br />PHOTO: Stuart Munro</span></p>

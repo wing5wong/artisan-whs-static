@@ -4,11 +4,12 @@ date:
 description: "Wanganui City Mission foodbank shelves got a top-up yesterday thanks to donations from year 9 and 10 students at Wanganui High School, Wanganui Chronicle article on 4/12/15..."
 featured-image: 
 excerpt: "Wanganui City Mission foodbank shelves got a top-up yesterday thanks to donations from year 9 and 10 students at Wanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui City Mission foodbank shelves got a top-up yesterday thanks to donations from year 9 and 10 students at Wanganui High School.</p>

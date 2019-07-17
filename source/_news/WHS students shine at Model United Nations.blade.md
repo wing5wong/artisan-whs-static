@@ -4,11 +4,12 @@ date:
 description: "Special congratulations to WHS students Ali Gammeter, Ben Power & Nanea Schurhammer who won best overall delegation at the annual MUN day..."
 featured-image: 
 excerpt: "Special congratulations to WHS students Ali Gammeter, Ben Power and Nanea Schurhammer who won best overall delegation at the annual MUN day held at Whanganui Girls College on Friday 24 March."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58db3cb4b8d39a417f0001ee/nigeria-winning-delegation.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58dd6533b8d39a417f00035b/Palestine...jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58dd651eb8d39a417f000358/Germany...jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58dd6542b8d39a417f00035d/Spain...jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58dd655fb8d39a417f000361/Turkey...jpg"
 ---
 
 <p dir="ltr"><strong>Special congratulations to WHS students <strong>Ben Power,&nbsp;</strong><strong>Nanea Schurhammer&nbsp;<strong>and&nbsp;</strong></strong>Ali Gammeter who won best overall delegation at the annual MUN day held at Whanganui Girls College on Friday 24 March.</strong></p>

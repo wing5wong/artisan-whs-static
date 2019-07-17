@@ -4,11 +4,12 @@ date:
 description: "WHS Waka Ama are into Semis today (7 April) at Rotorua and we're in champs for 2 of our 4 races and plate for the other 2."
 featured-image: 
 excerpt: "WHS Waka Ama are into Semis today (7 April) at Rotorua and we're in champs for 2 of our 4 races and plate for the other 2."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

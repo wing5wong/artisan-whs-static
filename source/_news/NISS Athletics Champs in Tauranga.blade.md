@@ -4,11 +4,12 @@ date: 2019-04-06
 description: "WHS results of NISS Athletics Champs in Tauranga, Day 1..."
 featured-image: 
 excerpt: "WHS results of NISS Athletics Champs in Tauranga, Day 1."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/56866414_1226134334202337_3670862226668912640_n.jpg?_nc_cat=105&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=427f9d952481b47023011bb873213c18&amp;oe=5D03A474" alt="Image may contain: one or more people, shoes and outdoor" /></span></p>

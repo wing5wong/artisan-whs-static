@@ -4,11 +4,12 @@ date:
 description: "The Wanganui High School 1st XV has slipped to third on the Manawatu McDonalds Colts division rugby championship table after a 27-13 loss to reigning champions Massey White at the weekend..."
 featured-image: 
 excerpt: "The Wanganui High School 1st XV has slipped to third on the Manawatu McDonalds Colts division rugby championship table after a 27-13 loss to reigning champions Massey White at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>WHS 1st XV will take on fully committed Metro men.</p>

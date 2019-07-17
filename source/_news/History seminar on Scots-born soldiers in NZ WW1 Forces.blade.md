@@ -4,11 +4,12 @@ date:
 description: "WHS teacher Grant Collie will be talking about Scots-born soldiers in the New Zealand Tunnelling Company in WW1, as part of the series of history seminars organised by Massey University..."
 featured-image: 
 excerpt: "WHS teacher Grant Collie will be talking about Scots-born soldiers in the New Zealand Tunnelling Company in WW1, as part of the series of history seminars organised by Massey University."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The dedication of the wall to the tunnellers at Carriere.</span></p>

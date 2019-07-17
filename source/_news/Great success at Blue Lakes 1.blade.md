@@ -4,11 +4,12 @@ date:
 description: "Congratulations to Katie Foster and Sophie Brooke who finished 1st in the K2 200m & 500m at the Blue Lakes 1 Kayaking sprints in Rotorua on 8 & 9 October 2016..."
 featured-image: 
 excerpt: "Congratulations to Katie Foster and Sophie Brooke who finished 1st in the K2 200m & 500m at the Blue Lakes 1 Kayaking sprints in Rotorua on 8 & 9 October 2016"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Congratulations to WHS students Katie Foster (right) &amp; Sophie Brooke who finished 1st in the K2 200m &amp; 500m. &nbsp;Jessica Thompson &amp; Anna Clifton were 3rd in both of these events.</p>

@@ -4,11 +4,12 @@ date:
 description: "Congratulations to our Boys and Girls 1st XI Hockey teams for making the Grand Finals in the Secondary School Div 1 Grade in Manawatu next week.."
 featured-image: 
 excerpt: "Congratulations .... to our Boys and Girls 1st XI Hockey teams for both making the Grand Finals in the Secondary School Div 1 Grade in Manawatu next week.."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>CONGRATULATIONS.... to our Boys and Girls 1st XI Hockey teams for both making the Grand Finals in the Secondary School Division 1 Grade in Manawatu next week...... woohoo!&nbsp;</span><span class="_5mfr _47e3"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /></span></p>

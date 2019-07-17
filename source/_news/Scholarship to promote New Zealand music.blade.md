@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Liam Wooding has been chosen for a prestigious piano school in Australia, Wanganui Chronicle article on 17/1/17..."
 featured-image: 
 excerpt: "Former WHS student Liam Wooding has been chosen for a prestigious piano school in Australia."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student Liam Wooding has been chosen for a prestigious piano school in Australia.</p>

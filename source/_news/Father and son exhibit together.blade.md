@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School student, Abishai (left) and Sharad Dohare have their work on display at Fine Arts Whanganui..."
 featured-image: 
 excerpt: "Whanganui High School student, Abishai (left) and Sharad Dohare have their work on display at Fine Arts Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>DIVERSITY:&nbsp; Whanganui High School student,&nbsp;Abishai (left) and Sharad Dohare have their work on display at Fine Arts Whanganui.</strong> <br />PICTURE / Paul Brooks</span></p>

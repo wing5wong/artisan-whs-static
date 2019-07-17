@@ -4,11 +4,12 @@ date:
 description: "Congratulations to all of our WHS competitors who had excellent results in the Whanganui Regional Chamber Music Festival on Friday 9 June 2017..."
 featured-image: 
 excerpt: "Congratulations to all of our WHS competitors who had excellent results in the Whanganui Regional Chamber Music Festival on Friday 9 June 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Friday 9 June was the Whanganui Regional Chamber Music Festival. </strong></p>

@@ -4,16 +4,16 @@ date: 2019-04-13
 description: "Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week."
 featured-image: 
 excerpt: "Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://www.nzherald.co.nz/resizer/s00iJmVlrmNfWQTBUcozE1RSFBg=/620x412/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/GMY6F3X2P5BODF2AZHJMPLOZHU.jpg" alt="Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week. Photo/Lewis Gardner" /></p>
-<p><span><br />Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week. <br /><em>PHOTO / Lewis Gardner</em></span></p>
-<p class="element element-paragraph">Whanganui artist Jason Dufty says he was delighted when Bill Milbank invited him to exhibit his first solo show at his Bell St Gallery.</p>
+<p><img src="https://www.nzherald.co.nz/resizer/s00iJmVlrmNfWQTBUcozE1RSFBg=/620x412/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/GMY6F3X2P5BODF2AZHJMPLOZHU.jpg" alt="Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week. Photo/Lewis Gardner" /><br />Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week.&nbsp;<br /><em>PHOTO / Lewis Gardner</em></p>
+<p class="element element-paragraph"><br />Whanganui artist Jason Dufty says he was delighted when Bill Milbank invited him to exhibit his first solo show at his Bell St Gallery.</p>
 <p class="element element-paragraph">"I've never done a series of works before," he said.</p>
 <p class="element element-paragraph">"My work is usually standalone pieces so I'm grateful to Bill for encouraging me to do this because I've really enjoyed it."</p>
 <p class="element element-paragraph"><em>Disappearing Shanghai</em>&nbsp;is based on Dufty's experiences of living in the Chinese city and exploring the ruins of the historic buildings as they are swallowed by the development of modern architecture.</p>

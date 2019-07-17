@@ -4,11 +4,12 @@ date:
 description: "WINNING RUN: The Wanganui U18 team make it two from two representative match-ups after first beating Thames Valley 22-18 then Horwhenua-Kapiti 46-14 last Saturday."
 featured-image: 
 excerpt: "WINNING RUN: The Wanganui U18 team make it two from two representative match-ups after first beating Thames Valley 22-18 then Horwhenua-Kapiti 46-14 last Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WINNING RUN: The Wanganui U18 team make it two from two representative match-ups after first beating Thames Valley 22-18 then Horwhenua-Kapiti 46-14 last Saturday.</span></p>

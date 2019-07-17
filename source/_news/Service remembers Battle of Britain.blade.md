@@ -4,11 +4,12 @@ date:
 description: "Sargeant Brandon Kidd (WHS student) reads during the service at the gathering to remember the anniversary of the Battle of Britain on Sunday..."
 featured-image: 
 excerpt: "Sargeant Brandon Kidd (WHS student) reads during the service overseen by Squadron leader and chaplain Roger Black at the gathering to remember the anniversary of the Battle of Britain on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>SERVICE: Sargeant Brandon Kidd (WHS student) reads during the service overseen by Squadron leader and chaplain Roger Black. <br />PHOTO / Stuart Munro.</span></p>

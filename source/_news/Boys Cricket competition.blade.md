@@ -4,11 +4,12 @@ date:
 description: "Congratulations to WHS 1st XI Cricket team who competed in the Whanganui Secondary School Cup T20 competition on Wednesday..."
 featured-image: 
 excerpt: "Congratulations to WHS 1st XI Cricket team who competed in the Whanganui Secondary School Cup T20 competition on Wednesday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Congratulations to WHS 1st XI Cricket team</strong> who competed in the Whanganui Secondary School Cup T20 competition on Wednesday.</p>

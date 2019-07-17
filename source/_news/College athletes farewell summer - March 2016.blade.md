@@ -4,11 +4,12 @@ date:
 description: "WANGANUI High School had its first cricket interschool on Friday , February 26 at Victoria Park against Wairarapa College, article from Wanganui Chronicle on 9/3/16..."
 featured-image: 
 excerpt: "WANGANUI High School had its first cricket interschool on Friday , February 26 at Victoria Park against Wairarapa College, article from Wanganui Chronicle on 9/3/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

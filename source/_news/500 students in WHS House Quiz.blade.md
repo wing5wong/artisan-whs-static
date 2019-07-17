@@ -4,11 +4,12 @@ date: 2018-08-09
 description: "500 students in Whanganui High School House Quiz promoting friendly rivalry..."
 featured-image: 
 excerpt: "500 students in Whanganui High School House Quiz promoting friendly rivalry."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span>Quiz organisers: <br />From left Raoul Sarup (Head of Academia), Owen Parkinson, Luke Forrester, George Iliffe, Brady Sui, Yolanda Zhao.<br /></span></span>Front row from left, Pravinesh Dayal, Alexandra Nicoloff, Sarah Torrie, Natasha Khan, Rhea Colaabavala (Head of Academia), Linda Hardcastle (Teacher in charge).</p>

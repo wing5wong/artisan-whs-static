@@ -4,11 +4,12 @@ date: 2018-08-08
 description: "WHS goal shoot Montel Vaiao Aki was in hot form on Monday night premier netball game against Kaiwhaiki..."
 featured-image: 
 excerpt: "WHS goal shoot Montel Vaiao Aki was in hot form on Monday night premier netball game against Kaiwhaiki."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b725f64b8d39a6d05000952/Kara-Adrole-chron-8-aug.gif"
+	
+	
+	
+	
 ---
 
 <p>WHS goal shoot Montel Vaiao Aki was in hot form on Monday night premier netball game against Kaiwhaiki.<br />PHOTOS / Bevan Conley</p>

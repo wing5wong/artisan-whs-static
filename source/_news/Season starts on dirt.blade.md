@@ -4,11 +4,12 @@ date:
 description: "Oliver Dennison (WHS student) will be hoping to run in the Top 3 of the 14-16 250cc class, which will be great build up for the NZ Junior Motocross champs..."
 featured-image: 
 excerpt: "Whanganui's Oliver Dennison (WHS student) will be hoping to run in the Top 3 of the 14-16 250cc class, which will be great build up for the NZ Junior Motocross championships next weekend in New Plymouth."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui's Oliver Dennison (WHS student) will be hoping to run in the Top 3 of the 14-16 250cc class, which will be great build up for the NZ Junior Motocross championships next weekend in New Plymouth.</span></p>

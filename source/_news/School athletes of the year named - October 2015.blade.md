@@ -4,11 +4,12 @@ date:
 description: "TEAM WINNER: Kayla Spencer (pictured) and Jessica Brougham (absent) were winners of the Senior Team of the year award, Wanganui Chronicle article on 29/10/15..."
 featured-image: 
 excerpt: "TEAM WINNER: Kayla Spencer (pictured) and Jessica Brougham (absent) were winners of the Senior Team of the year award."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>TEAM WINNER: Kayla Spencer (pictured) and Jessica Brougham (absent) were winners of the Senior Team of the year award.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Hinera O'Rourke, creating stars from her back bedroom..."
 featured-image: 
 excerpt: "Former WHS student Hinera O'Rourke, creating stars from her back bedroom."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student Hinera O'Rourke, creating stars from her back bedroom.</p>

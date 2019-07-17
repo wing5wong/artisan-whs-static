@@ -4,11 +4,12 @@ date: 2018-03-07
 description: "The salvage crew prepares to remove Mark Johnston's rolled car from the track after a third heat incident..."
 featured-image: 
 excerpt: "The salvage crew prepares to remove Mark Johnston's rolled car from the track after a third heat incident."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The salvage crew prepares to remove Mark Johnston's rolled car from the track after a third heat incident.<br /><em>PHOTO by Stockcarscene.</em></p>

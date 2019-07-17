@@ -4,11 +4,12 @@ date:
 description: "The annual Whanganui Secondary Schools Cross Country will be in full swing on the Wanganui Collegiate Golf Course on Thursday afternoon..."
 featured-image: 
 excerpt: "The annual Whanganui Secondary Schools Cross Country will be in full swing on the Wanganui Collegiate Golf Course on Thursday afternoon."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The annual Whanganui Secondary Schools Cross Country will be in full swing on the Wanganui Collegiate Golf Course on Thursday afternoon. <br />PHOTO: Rob van Dort</span></p>

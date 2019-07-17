@@ -4,11 +4,12 @@ date:
 description: "ON SONG: Kerwyn Morgan (pictured earlier in the season) gave Wanganui High School impetus in a tight game against Kaierau on Monday night, from Wanganui Chronicle article on 29/7/15..."
 featured-image: 
 excerpt: "ON SONG: Kerwyn Morgan (pictured earlier in the season) gave Wanganui High School impetus in a tight game against Kaierau on Monday night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>ON SONG: Kerwyn Morgan (pictured earlier in the season) gave Wanganui High School impetus in a tight game against Kaierau on Monday night.</span></p>

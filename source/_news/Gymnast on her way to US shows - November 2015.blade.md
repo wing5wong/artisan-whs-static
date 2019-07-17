@@ -4,11 +4,12 @@ date:
 description: "BACK TO THE WORLD: Wanganui's Millie Manning (WHS student) is once again training hard and fundraising to travel to overseas competition with the NZ Development team, Wanganui Chronicle 10/11/15..."
 featured-image: 
 excerpt: "BACK TO THE WORLD: Wanganui's Millie Manning (WHS student) is once again training hard and fundraising to travel to overseas competition with the NZ Development team, Wanganui Chronicle article on 10/11/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>BACK TO THE WORLD: Wanganui's Millie Manning (WHS student) is once again training hard and fundraising to travel to overseas competition with the NZ Development team.</p>

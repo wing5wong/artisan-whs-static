@@ -4,11 +4,12 @@ date:
 description: "Former Whanganui High School student Michaela Watson has just received her NCEA level 3 results, Wanganui Chronicle article on 18/1/17..."
 featured-image: 
 excerpt: "Former Whanganui High School student Michaela Watson has just received her NCEA level 3 results."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former Whanganui High School student Michaela Watson has just received her NCEA level 3 results. <br />PHOTO: Natalie Sixtus.</span><strong></strong></p>

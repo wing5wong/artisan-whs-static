@@ -4,11 +4,12 @@ date: 2019-01-24
 description: "Outstanding results for students at the Wellington Long Course Championships..."
 featured-image: 
 excerpt: "Outstanding results for students at the Wellington Long Course Championships."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Outstanding results for students at the Wellington Long Course Championships.</strong></p>

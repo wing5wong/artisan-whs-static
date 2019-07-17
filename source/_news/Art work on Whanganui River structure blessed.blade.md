@@ -4,11 +4,12 @@ date: 2018-05-26
 description: "Whanganui High School student Emma Henare, 14, designed the art work on a new structure at Whanganui's Mosquito Point..."
 featured-image: 
 excerpt: "Whanganui High School student Emma Henare, 14, designed the art work on a new structure at Whanganui's Mosquito Point."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span>Whanganui High School student Emma Henare, 14, designed the art work on a new structure at Whanganui's Mosquito Point. <br /></span></h4>

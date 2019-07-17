@@ -4,11 +4,12 @@ date:
 description: "WHS student Allyssa Pram, accompanied by Paul Ellery, sings Schubert's Frulingsglaube..."
 featured-image: 
 excerpt: "Vocal Concert: WHS student Allyssa Pram, accompanied by Paul Ellery, sings Schubert's Frulingsglaube."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Vocal Concert: WHS student Allyssa Pram, accompanied by Paul Ellery, sings Schubert's Frulingsglaube.<br />PHOTO / Bevan Conley</span></p>

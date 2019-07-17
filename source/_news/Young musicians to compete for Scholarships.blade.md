@@ -4,11 +4,12 @@ date: 2018-09-13
 description: "Young musicians to compete for Scholarships including WHS student Ben Power (left)..."
 featured-image: 
 excerpt: "Young musicians to compete for Scholarships including WHS student Ben Power."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Young musicians to compete for Scholarships, including WHS student <strong>Ben Power </strong>(left).</span></p>

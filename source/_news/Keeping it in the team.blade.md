@@ -4,11 +4,12 @@ date:
 description: "Melissa Hylton (left), Hunting & Fishing owner Nicola Skedgwell (middle) & ex WHS student Kane Watkin (right) diverting hockey from the turf to the shop..."
 featured-image: 
 excerpt: "Melissa Hylton (left), Wanganui Hunting and Fishing owner Nicola Skedgwell (middle) and former WHS student Kane Watkin (right) diverting hockey from the turf to the shop."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Melissa Hylton (left), Wanganui Hunting and Fishing owner Nicola Skedgwell (middle) and former WHS student Kane Watkin (right) diverting hockey from the turf to the shop. <br />PHOTO: Bevan Conley</span></p>

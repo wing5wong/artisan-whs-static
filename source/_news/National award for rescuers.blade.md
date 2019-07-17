@@ -4,11 +4,12 @@ date: 2018-03-17
 description: "Clarissa Nowak (left) & Alex Forlong helped win national recognition with their rescue efforts..."
 featured-image: 
 excerpt: "Whanganui lifeguards Clarissa Nowak (left) and Alex Forlong helped win national recognition with their rescue efforts at Kai Iwi last month."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Whanganui lifeguards and former/current WHS students' Clarissa Nowak (left) and Alex Forlong helped win national recognition with their rescue efforts at Kai Iwi last month.</strong> <br /><em>PHOTO / Bevan Conley</em></span></p>

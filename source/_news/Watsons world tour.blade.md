@@ -4,11 +4,12 @@ date:
 description: "Despite the jet lag, Keightley Watson had a strong performance at the Auckland Open Judo International alongside his follow Whanganui exponents last weekend..."
 featured-image: 
 excerpt: "Despite the jet lag, Keightley Watson had a strong performance at the Auckland Open Judo International alongside his follow Whanganui exponents last weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Despite the jet lag, WHS student Keightley Watson had a strong performance at the Auckland Open Judo International alongside his follow Whanganui exponents last weekend.</strong></p>

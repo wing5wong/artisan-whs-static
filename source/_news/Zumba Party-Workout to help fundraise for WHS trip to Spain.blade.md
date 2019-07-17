@@ -4,11 +4,12 @@ date: 2018-11-15
 description: "Senior Spanish students from Whanganui High School will be going to Spain next year in the July holidays..."
 featured-image: 
 excerpt: "Senior Spanish students from Whanganui High School will be going to Spain next year in the July holidays."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bdb9aa1ff2a7c39a8000265/Zumba-poster.jpg"
+	
+	
+	
+	
 ---
 
 <p class="BasicParagraph" style="text-indent: 0cm;"><span class="CharacterStyle1"><span lang="EN-GB"><em>Photo:</em> WHS student Gabrielle Sturdee, Yehymy Mciver-Ramirez and WHS Spanish teacher Queralt Scott.</span></span></p>

@@ -4,11 +4,12 @@ date:
 description: "Lifesaver Samantha Miller gets a lift from Ethan Mancer, Joanna Love hoists the euphonium Vincent Collins gives Clarissa Nowak a pick-me-up, Wanganui Chronicle article on 21/11/16..."
 featured-image: 
 excerpt: "Lifesaver Samantha Miller gets a lift from Ethan Mancer, Joanna Love hoists the euphonium Vincent Collins gives Clarissa Nowak a pick-me-up, Wanganui Chronicle article on 21/11/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Lifesaver Samantha Miller gets a lift from Ethan Mancer, Joanna Love hoists the euphonium Vincent Collins gives Clarissa Nowak a pick-me-up.<br />PHOTO courtesy of Stuart Munro.</p>

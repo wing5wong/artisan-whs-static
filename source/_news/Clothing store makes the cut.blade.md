@@ -4,11 +4,12 @@ date:
 description: "KILT assistant manager and former Whanganui High School student Nadine Staples and manager Hollie Allen at their Victoria Ave Store..."
 featured-image: 
 excerpt: "KILT assistant manager and former Whanganui High School student Nadine Staples and manager Hollie Allen at their Victoria Ave Store."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>IN THE RUNNING: KILT assistant manager and former Whanganui High School student Nadine Staples and manager Hollie Allen at their Victoria Ave Store.<br />PHOTO / STUART MUNRO</p>

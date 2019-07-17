@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Nalini Singh digging a 'banana circle' in the Amazon jungle in Peru..."
 featured-image: 
 excerpt: "Former Whanganui High School student Nalini Singh digging a 'banana circle' in the Amazon jungle in Peru."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>PERMACULTURE: Former Whanganui High School student Nalini Singh digging a 'banana circle' in the Amazon jungle in Peru.</span></p>

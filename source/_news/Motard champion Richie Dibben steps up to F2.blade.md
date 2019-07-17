@@ -4,11 +4,12 @@ date: 2018-12-26
 description: "The Barracks crew, Richie Dibben left, Brian Bernard, Paul Blinkhorne, Chris Dibben, Mick Paul & Logan Kenny ready for battle..."
 featured-image: 
 excerpt: "The Barracks crew, Richie Dibben left, Brian Bernard, Paul Blinkhorne, Chris Dibben, Mick Paul & Logan Kenny are ready for battle."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Barracks crew, Richie Dibben left, Brian Bernard, Paul Blinkhorne, Chris Dibben, Mick Paul and Logan Kenny are ready for battle.</p>

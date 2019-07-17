@@ -4,14 +4,16 @@ date: 2019-04-11
 description: "Athletes Jonathan Maples, Tayla Brunger & Andres Hernandez are ready to tackle North American track..."
 featured-image: 
 excerpt: "Whanganui athletes Jonathan Maples, Tayla Brunger & Andres Hernandez are race fit and ready to tackle North American track form on three consecutive weekends."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://www.nzherald.co.nz/resizer/98reFEsrYgLp9dwBUYaqzfRqo4s=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/I47ULZ7YPVHJZD4QUEUQYQDMAI.jpg" alt="Whanganui athletes Jonathan Maples, left, Tayla Brunger and Andres Hernandez are race fit and ready to tackle North American track form on three consecutive weekends." /><br /><br /><span>Whanganui athletes <strong>Jonathan Maples</strong>, left, Tayla Brunger and Andres Hernandez are race fit and ready to tackle North American track form on three consecutive weekends.</span><br /><em>Photo / Supplied</em></p>
+<p><img src="https://www.nzherald.co.nz/resizer/98reFEsrYgLp9dwBUYaqzfRqo4s=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/I47ULZ7YPVHJZD4QUEUQYQDMAI.jpg" alt="Whanganui athletes Jonathan Maples, left, Tayla Brunger and Andres Hernandez are race fit and ready to tackle North American track form on three consecutive weekends." /></p>
+<p><span>Whanganui athletes <strong>Jonathan Maples</strong>, left, Tayla Brunger and Andres Hernandez are race fit and ready to tackle North American track form on three consecutive weekends.</span><br /><em>Photo / Supplied</em></p>
 <p class="element element-paragraph"><br />Three Whanganui athletes step up the pace as they follow in the footsteps of others from the River City who have tested themselves against hot North American form on the track.</p>
 <p class="element element-paragraph">Whanganui Collegiate students Tayla Brunger and Andres Hernandez and former Whanganui High School deputy head boy<strong> Jonathan Maples</strong> left from Whanganui Airport on Monday aiming to equal or better the performances of other young athletes from the River City over recent years to tour California.</p>
 <p class="element element-paragraph">In 2015 Max Attwell and Geordie Beamish , the former is current New Zealand Decathlon Champion and the latter won the NCAA Division 1 Indoor Mile in March, made the trip, while Harry Symes and Oliver O'Leary competed in 2016 and Lexi Maples, Jordan Hume, Olivia Seymour and Grace Godfrey toured in 2017.</p>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Kahurangi Sturmey has been nominated to trial for the Hurricanes Franchise development camp..."
 featured-image: 
 excerpt: "Former WHS student Kahurangi Sturmey has been nominated to trial for the Hurricanes Franchise development camp from 12-17 December and to participate in a tournament on Saturday 16 December."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Well done to former student and Sports Dux 2016 Kahurangi Sturmey who has been nominated to trial for the Hurricanes Franchise development camp! <br />All the best for the trials.</strong></p>

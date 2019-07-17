@@ -4,11 +4,12 @@ date:
 description: "FOOTY FAN: Whanganui referee Matt Stoneman (former WHS student) is a fan of both the indoor and outdoor game and is now a Fifa qualified futsal ref, one of just three in the country..."
 featured-image: 
 excerpt: "FOOTY FAN: Whanganui referee Matt Stoneman (former WHS student) is a fan of both the indoor and outdoor game and is now a Fifa qualified futsal ref, one of just three in the country."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>FOOTY FAN: Whanganui referee Matt Stoneman (former WHS student) is a fan of both the indoor and outdoor game and is now a Fifa qualified futsal ref, one of just three in the country.<br />PHOTO: Natalie Sixtus.&nbsp;</p>

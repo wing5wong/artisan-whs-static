@@ -4,16 +4,16 @@ date: 2019-04-17
 description: "Four WHS students received financial support from the Mega Mitre 10 Future Champions Trust 2019..."
 featured-image: 
 excerpt: "Four WHS students were part of the 7 recipients who received financial support from the Mega Mitre 10 Future Champions Trust 2019"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/57570176_1233268006822303_2367237371981725696_n.jpg?_nc_cat=108&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=80722bbece4232941fb2bdbcd4f2f331&amp;oe=5D6A07C9" alt="Image may contain: 9 people, people smiling, people standing" /></p>
-<p>&nbsp;</p>
-<h4>Well done to our WHS students who received financial support from the Mega Mitre 10 Future Champions Trust tonight.&nbsp;</h4>
+<p><span style="color: #222222; font-size: 1.2em;">Well done to our WHS students who received financial support from the Mega Mitre 10 Future Champions Trust tonight.&nbsp;</span></p>
 <p>The trust aims to provide financial support<span class="text_exposed_show">&nbsp;to high achieving individual Wanganui youth.<br /></span></p>
 <p><strong><span class="text_exposed_show">Four WHS students were part of the 7 recipients!&nbsp;<br />Congratulations to Jack Clifton, Lucas Thompson, Renee Teers and Chase Morpeth.</span></strong></p>
 <div class="text_exposed_show">

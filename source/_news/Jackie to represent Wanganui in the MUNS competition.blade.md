@@ -4,11 +4,12 @@ date:
 description: "WHS student Jackie Hazelhurst has qualified to represent this region in the National United Nation Speech Competition to be held in Auckland on 27 May..."
 featured-image: 
 excerpt: "WHS student Jackie Hazelhurst has qualified to represent this region in the National United Nation Speech Competition to be held in Auckland on 27 May..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

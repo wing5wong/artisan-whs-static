@@ -4,11 +4,12 @@ date:
 description: "LEADING THE WAY: Whanganui MP Chester Borrows (left) and Whanganui Youth MP Timothy Rowe lean on the shoulders of Premier John Ballance, Wanganui Chronicle article on 10/10/15...."
 featured-image: 
 excerpt: "LEADING THE WAY: Whanganui MP Chester Borrows (left) and Whanganui Youth MP Timothy Rowe lean on the shoulders of Premier John Ballance, Wanganui Chronicle article on 10/10/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>LEADING THE WAY: Whanganui MP Chester Borrows (left) and Whanganui Youth MP Timothy Rowe lean on the shoulders of Premier John Ballance.</span></p>

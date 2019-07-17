@@ -4,14 +4,16 @@ date: 2019-04-30
 description: "Vouchers are presented to Whanganui Hospital. From left: Fred Loveridge, Kerry O'Sullivan, Marian Butler..."
 featured-image: 
 excerpt: "Vouchers are presented to Whanganui Hospital. From left: Fred Loveridge, Kerry O'Sullivan, Marian Butler, Trish Silk, Dean Butler and Russell Simpson."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://www.nzherald.co.nz/resizer/ZegVaDT7kYeq5xpzSnPWoTp0Kl8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/NZCFSCIA5JBP5HUOIGCJBHS5EI.jpg" alt="Vouchers are presented to Whanganui Hospital. From left: Fred Loveridge, Kerry O'Sullivan, Marian Butler, Trish Silk, Dean Butler and Russell Simpson. Photo / Supplied" />Vouchers are presented to Whanganui Hospital. From left: <strong>Fred Loveridge</strong>, Kerry O'Sullivan, Marian Butler, Trish Silk, Dean Butler and Russell Simpson.&nbsp;<br /><em>Photo / Supplied</em></p>
+<p><img src="https://www.nzherald.co.nz/resizer/ZegVaDT7kYeq5xpzSnPWoTp0Kl8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/NZCFSCIA5JBP5HUOIGCJBHS5EI.jpg" alt="Vouchers are presented to Whanganui Hospital. From left: Fred Loveridge, Kerry O'Sullivan, Marian Butler, Trish Silk, Dean Butler and Russell Simpson. Photo / Supplied" /></p>
+<p>Vouchers are presented to Whanganui Hospital. From left: <strong>Fred Loveridge</strong>, Kerry O'Sullivan, Marian Butler, Trish Silk, Dean Butler and Russell Simpson.&nbsp;<br /><em>Photo / Supplied</em></p>
 <p class="element element-paragraph "><br />One of Gabby Devine's wishes was to put a smile of the faces of children and families going through adversity, and it's safe to say a donation from her charity has done just that.</p>
 <p class="element element-paragraph ">Starlit Hope has donated $4000 worth of food and petrol vouchers to Whanganui Hospital, with the vouchers to go to families with children in hospital.</p>
 <p class="element element-paragraph ">The charity was started by Gabby in 2013 who was going through intensive chemotherapy, radiation, and major surgeries to fight a rare type of bone cancer.</p>

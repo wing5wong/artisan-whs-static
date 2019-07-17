@@ -4,11 +4,12 @@ date:
 description: "Anton Mckay with son and former WHS student, Shaquille (right) at his graduation from airforce training, Wanganui Chronicle article on 23/8/16..."
 featured-image: 
 excerpt: "Anton Mckay with son and former WHS student, Shaquille (right) at his graduation from airforce training."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FLIGHT PATH: Anton Mckay with son and former WHS student, Shaquille (right) at his graduation from airforce training.</span></p>

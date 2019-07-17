@@ -4,11 +4,12 @@ date:
 description: "MVP:  WHS goal defence Kahurangi Sturmey edged out Kaierau's and former WHS player, Eleanor Hogan for the MVP honours in the Premier netball final."
 featured-image: 
 excerpt: "MVP:  Whanganui High School goal defence Kahurangi Sturmey edged out Kaierau's and former WHS player, Eleanor Hogan for the Most Valuable Player honours in the Premier netball final on Monday night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>MVP: &nbsp;Whanganui High School goal defence Kahurangi Sturmey edged out former WHS player,&nbsp;Kaierau's, Eleanor Hogan for the Most Valuable Player honours in the Premier netball final on Monday night.</strong></p>

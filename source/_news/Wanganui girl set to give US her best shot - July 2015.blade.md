@@ -4,11 +4,12 @@ date:
 description: "HELLO AMERICA:  Former WHS student Amber-Rose Thompson-Newth sneaks in a bit of practice at Castlecliff before starting a US golf and study scholarship, Wanganui Chronicle article on 23/7/15..."
 featured-image: 
 excerpt: "HELLO AMERICA:  Former WHS student Amber-Rose Thompson-Newth sneaks in a bit of practice at Castlecliff before starting a US golf and study scholarship"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>HELLO AMERICA: Former WHS student&nbsp;Amber-Rose Thompson-Newth sneaks in a bit of practice at Castlecliff before starting a US golf and study scholarship</p>

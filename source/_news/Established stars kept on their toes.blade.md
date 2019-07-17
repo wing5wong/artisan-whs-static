@@ -4,11 +4,12 @@ date: 2018-03-16
 description: "Rebecca Baker on her way to the New Zealand Schools junior 1500m title last December..."
 featured-image: 
 excerpt: "Rebecca Baker on her way to the New Zealand Schools junior 1500m title last December."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>TOP PERFORMER:&nbsp; Rebecca Baker on her way to the New Zealand Schools junior 1500m title last December.</strong></p>

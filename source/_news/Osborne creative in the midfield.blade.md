@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School player Blair Osborne had just joined the Heartlands squad to cover injuries and was creative in the midfield - including helping set up an 80m team try..."
 featured-image: 
 excerpt: "Whanganui High School player Blair Osborne had just joined the Heartlands squad to cover injuries and was creative in the midfield - including helping set up an 80m team try..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4 id="articleTitle" class="articleTitle">Whanganui lifts Heartland to win.<br />Whanganui High School player Blair Osborne had just joined the Heartlands squad to cover injuries and was creative in the midfield - including helping set up an 80m team try.&nbsp;</h4>

@@ -4,11 +4,12 @@ date:
 description: "It was a 12 medal haul for the six Whanganui judokas who attended the Waikato/Bay of Plenty championships in Rotorua over the long weekend..."
 featured-image: 
 excerpt: "It was a 12 medal haul for the six Whanganui judokas who attended the Waikato/Bay of Plenty championships in Rotorua over the long weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Back row, left, <strong>Keightley Watson (WHS student), Kasey Watson (recently left WHS)</strong>, <strong>Brierley Watson (WHS student)</strong>. Middle left, Marshall Littlefiar, Adam Frieslaar. Front, Callaghan Watson.</span></p>

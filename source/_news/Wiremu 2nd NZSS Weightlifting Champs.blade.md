@@ -4,11 +4,12 @@ date:
 description: "Well done to Wiremu Rogan who represented WHS at the NZSS Weightlifting Champs..."
 featured-image: 
 excerpt: "Well done to Wiremu Rogan who was away on the weekend representing Whanganui High School at the NZSS Weightlifting Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59a8c585b8d39a35a5000500/Wiremu-Rogan-doing-weights.jpg"
+	
+	
+	
+	
 ---
 
 <p><strong>Well done to Wiremu Rogan who was away on the weekend representing Whanganui High School at the NZSS Weightlifting Champs.&nbsp;</strong></p>

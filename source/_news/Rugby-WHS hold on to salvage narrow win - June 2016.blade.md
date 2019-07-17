@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School 1st XV victorious in the first Whanganui derby of the McDonald's Manawatu Colts competition on Saturday, Wanganui Chronicle article on 20/6/16..."
 featured-image: 
 excerpt: "Whanganui High School 1st XV victorious in the first Whanganui derby of the McDonald's Manawatu Colts competition on Saturday, Wanganui Chronicle article on 20/6/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>NO WAY THROUGH: Metro first-five and former WHS student Hareangi Meihana takes on WHS tackler Sheldon Pakinga-Manhire.</span></p>

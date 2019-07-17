@@ -4,11 +4,12 @@ date:
 description: "CHILL VIBES: Whanganui band Drones, from left are Ethan Coleman (drums), Adam Robinson (rhythm guitar), Andrew Condon (bass) and Isaac Chamberlain (lead guitar)."
 featured-image: 
 excerpt: "CHILL VIBES: Whanganui band Drones, from left are Ethan Coleman (drums), Adam Robinson (rhythm guitar), Andrew Condon (bass) and Isaac Chamberlain (lead guitar)."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>CHILL VIBES: Whanganui band Drones, from left are Ethan Coleman (drums), Adam Robinson (rhythm guitar), Andrew Condon (bass) and Isaac Chamberlain (lead guitar).</p>

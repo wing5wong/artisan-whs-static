@@ -4,11 +4,12 @@ date: 2018-08-23
 description: "Whanganui's Jordan Cohen has cut a path to the national under-18 side with his performances for Central..."
 featured-image: 
 excerpt: "Whanganui's Jordan Cohen has cut a path to the national under-18 side with his performances for Central."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b7f5b6dff2a7c03cc0002ff/Untitled-1.gif"
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Photo: Whanganui's Jordan Cohen (green) has cut a path to the national under-18 side with his performances for Central, and features in this picture against Northland.<br />PHOTO / Photosport</p>

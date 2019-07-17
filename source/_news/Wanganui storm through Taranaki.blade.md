@@ -4,11 +4,12 @@ date:
 description: "Wanganui second-five Kameli Kuruyabaki (former WHS student) scored two tries in Wanganui's historic victory over Taranaki Development in Hawera on Saturday, Wanganui Chronicle article on 31/7/16..."
 featured-image: 
 excerpt: "Wanganui second-five Kameli Kuruyabaki (former WHS student) scored two tries in Wanganui's historic victory over Taranaki Development in Hawera on Saturday, Wanganui Chronicle article on 31/7/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui second-five Kameli Kuruyabaki (former WHS student) scored two tries in Wanganui's historic victory over Taranaki Development in Hawera on Saturday.</p>

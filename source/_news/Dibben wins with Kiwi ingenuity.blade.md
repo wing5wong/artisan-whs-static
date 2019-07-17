@@ -4,11 +4,12 @@ date:
 description: "KIWI STYLE: Whanganui's Richie Dibben wins round 2 of the FIM Asia Supermoto Championship in Indonesia at the weekend ahead of Frenchman Lewis Cornish (left) and Malaysian Modh Al Amirul in third..."
 featured-image: 
 excerpt: "KIWI STYLE: Whanganui's Richie Dibben wins round 2 of the FIM Asia Supermoto Championship in Indonesia at the weekend ahead of Frenchman Lewis Cornish (left) and Malaysian Modh Al Amirul in third."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>KIWI STYLE: Whanganui's Richie Dibben (former WHS student) wins round 2 of the FIM Asia Supermoto Championship in Indonesia at the weekend ahead of Frenchman Lewis Cornish (left) and Malaysian Modh Al Amirul in third.</span></p>

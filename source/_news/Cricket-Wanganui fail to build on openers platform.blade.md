@@ -4,11 +4,12 @@ date:
 description: "Wanganui opener Jess Watkins lines up a shot on her way to a half-century against Hawke's Bay in the regional under-18 girls cricket tournament, Wanganui Chronicle article on 15/1/16..."
 featured-image: 
 excerpt: "Wanganui opener Jess Watkins lines up a shot on her way to a half-century against Hawke's Bay in the regional under-18 girls cricket tournament, Wanganui Chronicle article on 15/1/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5698d550b8d39a2c7c001b8d/Cricket-J-Watkins.H-Williams-15.1.16.jpg"
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

@@ -4,11 +4,12 @@ date:
 description: "The People fronted by Stan Manthyng, Chloe Franklin-Browne and former WHS students Debbie Head and Dylan Stanford (in background)..."
 featured-image: 
 excerpt: "The People fronted by Stan Manthyng, Chloe Franklin-Browne and former WHS students Debbie Head and Dylan Stanford (in background)..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The People fronted by Stan Manthyng, Chloe Franklin-Browne and former WHS students Debbie Head and Dylan Stanford (in background).<br />PHOTO: Liz Wylie</span></p>

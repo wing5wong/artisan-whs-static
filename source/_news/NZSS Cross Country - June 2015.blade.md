@@ -4,11 +4,12 @@ date:
 description: "NZSS Cross Country was held in Dunedin on Saturday 20 June 2015.  WHS students Emma Rainey, Rebecca Baker, Sam Luff and Travis Bayler were lucky to get home after the flooding in the Wanganui region.."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>NZSS Cross Country was held in Dunedin on Saturday 20 June 2015. &nbsp;WHS students Emma Rainey, Rebecca Baker, Sam Luff and Travis Bayler were lucky to get home after the flooding in the Wanganui region.</span></p>

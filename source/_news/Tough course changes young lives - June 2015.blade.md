@@ -4,11 +4,12 @@ date:
 description: "INSPIRATION: Former WHS student Shannon Julius was a spirited speaker at Wanganui District Council Chamber last week, Wanganui Chronicle article on 2/6/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>INSPIRATION: Former WHS student Shannon Julius was a spirited speaker at Wanganui District Council Chamber last week.</span></p>

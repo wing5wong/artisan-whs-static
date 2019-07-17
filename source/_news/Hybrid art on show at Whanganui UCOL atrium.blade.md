@@ -4,11 +4,12 @@ date:
 description: "Sonia Forsey (front), Mina Bourke, ex WHS student Jodie McLay, Lucja Orlowski, Sarah Bolland, Kitty Wake & Lisa Curran have work on show at UCOL.."
 featured-image: 
 excerpt: "Sonia Forsey (front), Mina Bourke, former WHS student Jodie McLay, Lucja Orlowski, Sarah Bolland, Kitty Wake and Lisa Curran have work on show at UCOL."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c82487b8d39a191700016e/Jodie-Mclays-painting.jpg"
+	
+	
+	
+	
 ---
 
 <p><span>HYBRID ARTISTS: Sonia Forsey (front), Mina Bourke, former WHS student <strong>Jodie McLay</strong>, Lucja Orlowski, Sarah Bolland, Kitty Wake and Lisa Curran have work on show at UCOL. <br />PHOTO / Stuart Munro.</span></p>

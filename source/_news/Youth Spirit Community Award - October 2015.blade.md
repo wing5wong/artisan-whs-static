@@ -4,11 +4,12 @@ date:
 description: "Congratuations to Alexander Torrie from Wanganui High School for being a Finalist for the Youth Spirit Community Award held at the Wanganui War Memorial Centre on Monday 12 October."
 featured-image: 
 excerpt: "Congratuations to Alexander Torrie from Wanganui High School for being a Finalist for the Youth Spirit Community Award held at the Wanganui War Memorial Centre on Monday 12 October."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Congratuations to <strong>Alexander Torrie</strong> from Wanganui High School for being a Finalist for the Youth Spirit Community Award held at the Wanganui War Memorial Centre on Monday 12 October.</p>

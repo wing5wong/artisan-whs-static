@@ -4,11 +4,12 @@ date: 2018-11-08
 description: "Congrats to Tony Sundman, Youth Work Coordinator for YMCA Central who led a group (including student Tamara Johnson)..."
 featured-image: 
 excerpt: "Congratulations to Tony Sundman, Youth Work Coordinator for YMCA Central who led a group (including WHS student Tamara Johnson) clean-up of G.F. Moore Drive next to the YMCA."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Congratulations to Tony Sundman, Youth Work Coordinator for YMCA Central who led a group (including WHS student Tamara Johnson - right of photo) clean-up of G.F. Moore Drive next to the YMCA. He advises that their next plan is to plant trees.</span></p>

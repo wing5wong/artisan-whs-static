@@ -4,11 +4,12 @@ date:
 description: "Some of the WHS performers in 'Live at the Opera House' get in the mood for the show. Colin Hedivan and Jeanette Jones complete the picture..."
 featured-image: 
 excerpt: "Some of the WHS performers in 'Live at the Opera House' get in the mood for the show. Colin Hedivan and Jeanette Jones complete the picture."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Some of the WHS performers in <em>Live at the Opera House</em> get in the mood for the show. Colin Hedivan and Jeanette Jones complete the picture. <br />PICTURE / PAUL BROOKS</span></p>

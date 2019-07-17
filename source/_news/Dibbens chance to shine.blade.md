@@ -4,11 +4,12 @@ date:
 description: "NEW GROUND: Whanganui racer Richie Dibben (119) will be in unchartered territory without his own trusty bike for round two of the FIM Asia Supermoto Championship in Indonesia this weekend."
 featured-image: 
 excerpt: "NEW GROUND: Whanganui racer Richie Dibben (119) will be in unchartered territory without his own trusty bike for round two of the FIM Asia Supermoto Championship in Indonesia this weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>NEW GROUND: Whanganui racer (and former WHS student) Richie Dibben (119) will be in unchartered territory without his own trusty bike for round two of the FIM Asia Supermoto Championship in Indonesia this weekend.</span></p>

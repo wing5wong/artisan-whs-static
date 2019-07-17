@@ -4,11 +4,12 @@ date: 2019-03-09
 description: "Former winner of the Whanganui Musicians' Club songwriting competition, Kate Van Elswijk, who overcame a vision..."
 featured-image: 
 excerpt: "Former winner of the Whanganui Musicians' Club songwriting competition, Kate Van Elswijk, who overcame a vision impairment to compete on The Voice Australia."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former winner of the Whanganui Musicians' Club songwriting competition, Kate Van Elswijk, who overcame a vision impairment to compete on The Voice Australia. <br /><em>PHOTO / Stuart Munro</em></span></p>

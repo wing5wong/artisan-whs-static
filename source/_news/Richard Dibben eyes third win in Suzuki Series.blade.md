@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Richard Dibben picked up another victory in the SuperMotard class at the Manfeild round of the Suzuki Series on Sunday, Wanganui Chronicle article on 15/12/15..."
 featured-image: 
 excerpt: "Former WHS student Richard Dibben picked up another victory in the SuperMotard class at the Manfeild round of the Suzuki Series on Sunday, Wanganui Chronicle article on 15/12/15...."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <figure><figcaption><br /></figcaption></figure>

@@ -4,11 +4,12 @@ date:
 description: "Despite his youth, former WHS student Hamish Cameron already has an extensive theatrical background..."
 featured-image: 
 excerpt: "Despite his youth, former WHS student Hamish Cameron already has an extensive theatrical background."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>FLASHER: &nbsp;Hamish Cameron in the zone.</p>

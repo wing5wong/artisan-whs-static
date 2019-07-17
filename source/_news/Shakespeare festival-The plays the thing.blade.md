@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School students Jaydn Thorby-Reid (white shirt), Rhiannon Free (being lifted) and Noah Payne (orange) acting a Midsummer Nights Dream..."
 featured-image: 
 excerpt: "Whanganui High School students Jaydn Thorby-Reid (white shirt), Rhiannon Free (being lifted) and Noah Payne (orange) acting a Midsummer Nights Dream."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui High School students Jaydn Thorby-Reid (white shirt), Rhiannon Free (being lifted) and Noah Payne (orange) acting a Midsummer Nights Dream. <br />PHOTO/ STUART MUNRO</span></p>

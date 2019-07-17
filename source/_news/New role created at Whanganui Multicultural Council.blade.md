@@ -1,18 +1,19 @@
 ---
 title: "New role created at Whanganui Multicultural Council"
 date: 2018-08-03
-description: "Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of RangitÄ«kei/ Whanganui..."
+description: "Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of Rangitīkei/ Whanganui..."
 featured-image: 
-excerpt: "Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of RangitÄ«kei/Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of Rangitīkei/Whanganui."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><span>Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of RangitÄ«kei/ Whanganui.</span><br />PHOTO /&nbsp;<span>Bevan Conley.</span></p>
-<p class="element element-paragraph">With a focus on preventing domestic violence and everyday racism, the Multicultural Council of RangitÄ«kei/Whanganui has employed a part-time co-ordinator.</p>
+<p><span>Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of Rangitīkei/ Whanganui.</span><br />PHOTO /&nbsp;<span>Bevan Conley.</span></p>
+<p class="element element-paragraph">With a focus on preventing domestic violence and everyday racism, the Multicultural Council of Rangitīkei/Whanganui has employed a part-time co-ordinator.</p>
 <p class="element element-paragraph">Juan-Carlos Penn-Reina (former WHS student) is usually known as Carlos Penn. He has a Whanganui father and Colombian mother. He started the new job a month ago, works 10 hours a week from home and can be contacted on 022 325 6384.</p>
 <p class="element element-paragraph">The council held a successful pot luck dinner this month, where people could talk about domestic violence.</p>
 <p class="element element-paragraph">President Vijeshwar Prasad said the combined stress of adapting to a new culture and getting by financially could easily boil over into violence for migrants.</p>

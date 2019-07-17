@@ -4,11 +4,12 @@ date:
 description: "ON A ROLL: Sporting a cast on her broken arm, Whanganui's Renee Teers was in excellent form to finish in a three-way tie for the cadet girls title at the Oceania Speed Skating Championships in Timaru"
 featured-image: 
 excerpt: "ON A ROLL: Sporting a cast on her broken arm, Whanganui's Renee Teers was in excellent form to finish in a three-way tie for the cadet girls title at the Oceania Speed Skating Championships in Timaru over Easter Weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

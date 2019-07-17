@@ -4,11 +4,12 @@ date:
 description: "Ready for the walk this Saturday are (from left) Tui Gower with Abbott, Suzan Timms-Lees standing and Sandy McAllen with Vera..."
 featured-image: 
 excerpt: "Ready for the walk this Saturday are (from left) Tui Gower with Abbott, Suzan Timms-Lees standing and Sandy McAllen with Vera."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FUNDRAISERS: Ready for the walk this Saturday are (from left) Tui Gower with Abbott, Suzan Timms-Lees standing and Sandy McAllen with Vera. <br />PICTURE / PAUL BROOKS</span></p>

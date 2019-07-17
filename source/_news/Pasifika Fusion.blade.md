@@ -4,11 +4,12 @@ date:
 description: "Well done to our WHS Pasifika group who performed at the Regent on Broadway in Palmerston North this week (26 and 27 July) at Pasifika Fusion 2017..."
 featured-image: 
 excerpt: "Well done to our Whanganui High School Pasifika group who performed at the Regent on Broadway in Palmerston North this week (26 and 27 July) at Pasifika Fusion 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Well done to our Whanganui High School Pasifika group who performed at the Regent on Broadway in Palmerston North this week (26 and 27 July) at Pasifika Fusion 2017.</span></p>

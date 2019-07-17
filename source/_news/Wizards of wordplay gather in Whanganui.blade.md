@@ -4,16 +4,17 @@ date: 2019-04-20
 description: "Lynne Butler (left) challenges Rosie Cleary to a game of Scrabble for fun before they meet each other in competition..."
 featured-image: 
 excerpt: "Lynne Butler (left) challenges Rosie Cleary to a game of Scrabble for fun before they meet each other in competition this weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/0algzMXaS9kQqyX_JY9ONMiFnb8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/H6LXJJOWMFEPHNEX6MHQ4Y4NAI.jpg" alt="Lynne Butler (left) challenges Rosie Cleary to a game of Scrabble for fun before they meet each other in competition this weekend. Photo / Jesse King" /></p>
-<p><span><br />Lynne Butler (left) challenges WHS teacher Rosie Cleary to a game of Scrabble for fun before they meet each other in competition this weekend. <br /><em>PHOTO / Jesse King</em></span></p>
-<p class="element element-paragraph">For one word in Scrabble, 302 points is more than adequate.</p>
+<p><span>Lynne Butler (left) challenges WHS teacher <strong>Rosie Cleary</strong> to a game of Scrabble for fun before they meet each other in competition this weekend. <br /><em>PHOTO / Jesse King</em></span></p>
+<p class="element element-paragraph"><br />For one word in Scrabble, 302 points is more than adequate.</p>
 <p class="element element-paragraph">And adequate is the word Lynne Butler played when setting a New Zealand record in 2011.</p>
 <p class="element element-paragraph">It was the most points ever awarded for a seven-letter word when Butler blew her opponent off the board at St John's Club in Whanganui.</p>
 <p class="element element-paragraph">Butler said she played the word at the bottom left of the board from her view.</p>

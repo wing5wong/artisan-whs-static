@@ -4,11 +4,12 @@ date: 2018-08-15
 description: "Cypress Kani-Hurinui is Rusty, Lucky's daughter. Cypress is a Year 13 student at WHS and is blessed with a voice!.."
 featured-image: 
 excerpt: "Cypress Kani-Hurinui is Rusty, Lucky's daughter. Cypress is a Year 13 student at WHS and is blessed with a voice!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Let me use this space to rave about&nbsp;<em>The Blue Orchid</em>.</p>

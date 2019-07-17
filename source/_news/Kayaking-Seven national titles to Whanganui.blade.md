@@ -4,11 +4,12 @@ date:
 description: "Winner Taris Harker (83), second-placed Andrew Mowlem (56) & bronze medallist Whanganui paddler & former WHS student Toby Brooke in fierce comp throughout the national open men's 10km."
 featured-image: 
 excerpt: "Eventual winner Taris Harker (83), second-placed Andrew Mowlem (56) and bronze medallist Whanganui paddler and former WHS student Toby Brooke in fierce competition throughout the national open men's 10km championship."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Eventual winner Taris Harker (83), second-placed Andrew Mowlem (56) and bronze medallist Whanganui paddler and former WHS student <strong>Toby Brooke</strong> in fierce competition throughout the national open men's 10km championship.</span></p>

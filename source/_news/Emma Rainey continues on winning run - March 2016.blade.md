@@ -4,11 +4,12 @@ date:
 description: "FAB FOUR: Whanganui hockey stars (from left) Ben Pilet, Reid Atkinson, Lee Moir, Emma Rainey have made the Central Under-21 rep teams to compete at the national regional tournament in Dunedin in May."
 featured-image: 
 excerpt: "FAB FOUR: Whanganui hockey stars (from left) Ben Pilet, Reid Atkinson, Lee Moir, Emma Rainey have made the Central Under-21 rep teams to compete at the national regional tournament in Dunedin in May."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

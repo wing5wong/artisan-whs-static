@@ -1,14 +1,15 @@
 ---
 title: "Amelia Chandulal-Mackay performing in 'Maleficent'"
 date: 
-description: "Former WHS student Amelia Chandulal-Mackay performing in â€˜Maleficentâ€™ on 29/30 April..."
+description: "Former WHS student Amelia Chandulal-Mackay performing in ‘Maleficent’ on 29/30 April..."
 featured-image: 
-excerpt: "Former WHS student Amelia Chandulal-Mackay performing in â€˜Maleficentâ€™ on 29/30 April."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Former WHS student Amelia Chandulal-Mackay performing in ‘Maleficent’ on 29/30 April."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student Amelia Chandulal-Mackay performing in &lsquo;Maleficent&rsquo; on 29/30 April.</p>

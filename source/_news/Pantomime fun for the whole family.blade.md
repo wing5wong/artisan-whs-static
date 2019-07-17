@@ -4,11 +4,12 @@ date:
 description: "The cast of Red Riding Hood dominated by WHS students, opening at Repertory Theatre in December 2016..."
 featured-image: 
 excerpt: "The cast of Red Riding Hood dominated by WHS students, opening at Repertory Theatre in December 2016."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The cast of Red Riding Hood dominated by WHS students: front left, Konrad Shaw and Brylee Noble and Millie Manning (2nd to right) and Ben Clow (right, former student)<br />PHOTO/STUART MUNRO.&nbsp;</p>

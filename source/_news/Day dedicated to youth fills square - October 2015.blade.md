@@ -4,11 +4,12 @@ date:
 description: "MINGLING: Rangatahi workers Peter London and Kiri Wilson (centre) shared the day dedicated to young people with WHS student Tayla Mack (left), 14, and Maddison Hatch, 12."
 featured-image: 
 excerpt: "MINGLING: Rangatahi workers Peter London and Kiri Wilson (centre) shared the day dedicated to young people with WHS student Tayla Mack (left), 14, and Maddison Hatch, 12."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>MINGLING: Rangatahi workers Peter London and Kiri Wilson (centre) shared the day dedicated to young people with WHS student Tayla Mack (left), 14, and Maddison Hatch, 12.</span></p>

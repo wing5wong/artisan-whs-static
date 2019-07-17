@@ -4,11 +4,12 @@ date:
 description: "Dr Sandra Moore's position at the Aramoho Health Centre will be taken by her son, former WHS student Dr Chris Jacques, Wanganui Chronicle article on 26/1/17..."
 featured-image: 
 excerpt: "Dr Sandra Moore's position at the Aramoho Health Centre will be taken by her son, former WHS student Dr Chris Jacques."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Dr Sandra Moore's position at the Aramoho Health Centre will be taken by her son, former WHS student Dr Chris Jacques.<br />PHOTO: Bevan Conley&nbsp;</p>

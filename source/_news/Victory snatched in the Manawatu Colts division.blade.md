@@ -4,11 +4,12 @@ date:
 description: "For the second row on end the Whanganui High School 1st XV have finished runners-up to Massey White in the Manawatu Colts division after narrowly beaten again in Saturday's final..."
 featured-image: 
 excerpt: "For the second row on end the Whanganui High School 1st XV have finished runners-up to Massey White in the Manawatu Colts division after narrowly beaten again in Saturday's final."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Whanganui High School 1st XV had victory snatched from their grasp in the final of the Manawatu McDonalds Rugby Colts competition in Palmerston North on Saturday.</p>

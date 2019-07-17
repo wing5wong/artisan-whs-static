@@ -4,11 +4,12 @@ date:
 description: "The Mountain Bike Champs were held at Pauri Lake on Friday 23 June. Here are the WHS results of the day..."
 featured-image: 
 excerpt: "The Mountain Bike Champs were held at Pauri Lake on Friday 23 June. Here are the WHS results of the day."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>2017 Mountain Bike Champs were held at Pauri Lake on Friday 23 June.</strong></p>

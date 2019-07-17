@@ -4,11 +4,12 @@ date: 2019-03-13
 description: "Brass Whanganui is creating a sound canvas of which Whanganui High School student Luke Squire will be a part of..."
 featured-image: 
 excerpt: "Brass Whanganui is creating a sound canvas of which Whanganui High School student Luke Squire will be a part of."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Brass Whanganui is creating a sound canvas, of which&nbsp;Whanganui High School student Luke Squire will be a part of, performing at the Royal Whanganui Opera House on Saturday 30 March and Sunday 31 March.</strong><br /><em>PHOTO / Paul Brooks</em></span></p>

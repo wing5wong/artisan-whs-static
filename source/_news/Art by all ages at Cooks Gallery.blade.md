@@ -4,16 +4,17 @@ date: 2019-03-27
 description: "Tutor & Art Society President Rei Hendry with Yth Councillor Ara Molijn who led the working party organizing the exhibition..."
 featured-image: 
 excerpt: "Tutor & Art Society President Rei Hendry with Youth Councillor Ara Molijn who led the Youth Committee working party in organizing the exhibition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span><img src="https://www.nzherald.co.nz/resizer/1eKhV663JYW4SG4V4UmkPe4uZ4w=/620x617/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/2TL733GWKNGSLO5ODYLNGPSZGE.jpg" alt="In the youth exhibition New Aotearoa, are tutor and Art Society President Rei Hendry with Youth Councillor Ara Molijn. Picture / Paul Brooks" /></span></span></p>
 <p><span><span>In the youth exhibition New Aotearoa, are tutor and Art Society President Rei Hendry with Youth Councillor Ara Molijn who led the Youth Committee working party in organizing the exhibition.</span><br /><em>PHOTO / Paul Brooks</em></span></p>
-<p class="element element-paragraph">Variety sums up the work on offer at Cooks Gallery over the two weekends of Artists Open Studios.</p>
+<p class="element element-paragraph"><br />Variety sums up the work on offer at Cooks Gallery over the two weekends of Artists Open Studios.</p>
 <p class="element element-paragraph">The efforts of a large group of society members is on panels, walls and easels and reflects a vast amount of talent.</p>
 <p class="element element-paragraph">In a departure from past exhibitions, each artist has been allocated a bay in which they can show their work and paint if they wish.</p>
 <p class="element element-paragraph">"We're all enjoying the participation. It's just great, there's so much of it," says society publicity officer Judy Webby. "It's more personalised, because people can ask questions while the artist is working."</p>

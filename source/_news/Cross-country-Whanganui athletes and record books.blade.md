@@ -4,11 +4,12 @@ date:
 description: "WHS distance athlete Rebecca Baker is in no danger of being left out of the record books..."
 featured-image: 
 excerpt: "Whanganui High School distance athlete Rebecca Baker is in no danger of being left out of the record books."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whanganui High School distance athlete Rebecca Baker is in no danger of being left out of the record books.<br />PHOTO / STUART MUNRO</p>

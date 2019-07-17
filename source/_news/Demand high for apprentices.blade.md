@@ -4,11 +4,12 @@ date:
 description: "Strong Electrical apprentices and former WHS students Karl Stephens, left, and Joshua Ashworth..."
 featured-image: 
 excerpt: "Strong Electrical apprentices and former WHS students Karl Stephens, left, and Joshua Ashworth."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>ON THE JOB: Strong Electrical apprentices and former WHS students Karl Stephens, left, and Joshua Ashworth. <br />PHOTO: Stuart Munro</span></p>

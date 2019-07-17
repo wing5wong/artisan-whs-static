@@ -4,16 +4,17 @@ date: 2019-04-25
 description: "Whanganui racer James Rountree is aiming for podium finishes in two classes in one of his final flings in the junior ranks..."
 featured-image: 
 excerpt: "Whanganui racer James Rountree is aiming for podium finishes in two classes in one of his final flings in the junior ranks."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/AsxW2CWp-bgEqNmzvx1JG97jdWM=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/KUDZS7OK6ZHR7FWG5MKS6TUJEM.jpg" alt="Whanganui rider James Rountree aims for podium finishes in two class during his last fling at national junior level this weekend." /></p>
 <p><strong>Whanganui rider James Rountree aims for podium finishes in two class during his last fling at national junior level this weekend.</strong><br /><em>Photo / Supplied</em></p>
-<p class="element element-paragraph">Whanganui racer James Rountree is aiming for podium finishes in two classes in one of his final flings in the junior ranks.</p>
+<p class="element element-paragraph"><br />Whanganui racer James Rountree is aiming for podium finishes in two classes in one of his final flings in the junior ranks.</p>
 <p class="element element-paragraph">Rountree turns 17 in June and has targeted the New Zealand Motocross Championships on the Flips MX Park near Foxton this weekend as one of his major chances to add to his podium tally before moving up the grades.</p>
 <p class="element element-paragraph">Rountree will race in the 15-16 years 125cc class on his Yamaha YZ125 and the 14-16 years 250cc class on his Yamaha YZF250 and his good recent form he is hoping for a top three placing in each class at his last junior nationals.</p>
 <p class="element element-paragraph">The Year 13 Whanganui High School student will have a total of 14 races over busy three days this weekend.</p>

@@ -4,11 +4,12 @@ date:
 description: "Photo of experienced skaters, Rebecca Smith and Nicole Travers, formerly of Wanganui High School, Wanganui Chronicle article on 27/11/15..."
 featured-image: 
 excerpt: "Photo of experienced skaters, Rebecca Smith and Nicole Travers, formerly of Wanganui High School, Wanganui Chronicle article on 27/11/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Photo of experienced skaters, Rebecca Smith and Nicole Travers, formerly of Wanganui High School.</p>

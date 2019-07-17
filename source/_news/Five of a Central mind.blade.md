@@ -4,11 +4,12 @@ date:
 description: "The Whanganui players, all students from WHS, selected to play for the Central teams at the national under 18 tournament. Emma Rainey, left, Joanna Bell, Joseph Redpath, Ryan Gray, Jordan Cohen..."
 featured-image: 
 excerpt: "The Whanganui players, all students from WHS, selected to play for the Central teams at the national under 18 tournament. Emma Rainey, left, Joanna Bell, Joseph Redpath, Ryan Gray, Jordan Cohen..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>The Whanganui players, all students from WHS, selected to play for the Central teams at the national under 18 tournament. Emma Rainey, left, Joanna Bell, Joseph Redpath, Ryan Gray, Jordan Cohen.</strong></p>

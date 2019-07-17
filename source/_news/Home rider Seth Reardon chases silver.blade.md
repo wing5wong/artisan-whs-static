@@ -4,16 +4,17 @@ date: 2019-04-17
 description: "Whanganui dirt bike ace Seth Reardon in battle for second place in NZ championships..."
 featured-image: 
 excerpt: "Whanganui dirt bike ace Seth Reardon in battle for second place in NZ championships."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong data-bind="text: imageTitle"><img src="https://i.prcdn.co/img?regionKey=sLtComtQaO5aB4RHJsjsPQ%3d%3d" alt="" /></strong></p>
-<p><strong data-bind="text: imageTitle"><br />Whanganui's Seth Reardon (Yamaha YZ250FX), in the running for a runner-up finish this season.<br /></strong><em>PHOTO / Andy McGechan, BikesportNZ.com</em></p>
-<p data-bind="text: $data">New Zealand has a new crosscountry champion, but there&rsquo;s still plenty at stake with the final round coming up in six weeks&rsquo; time. And Whanganui rider Seth Reardon is very much in the running for silver.</p>
+<p><strong data-bind="text: imageTitle">Whanganui's Seth Reardon (Yamaha YZ250FX), in the running for a runner-up finish this season.<br /></strong><em>PHOTO / Andy McGechan, BikesportNZ.com</em></p>
+<p data-bind="text: $data"><br />New Zealand has a new crosscountry champion, but there&rsquo;s still plenty at stake with the final round coming up in six weeks&rsquo; time. And Whanganui rider Seth Reardon is very much in the running for silver.</p>
 <p data-bind="text: $data">Raglan dirt bike ace Jason Dickey made it three wins from three starts as he raced to victory at the third round of four in the 2019 New Zealand Cross Country Championships in Marlborough on Sunday, but the fight remains to see who will else will join him on the series&rsquo; podium.</p>
 <p data-bind="text: $data">Only three of the rounds are counted, as riders discard their one worst result, so Dickey&rsquo;s 1-1-1 scorecard thus far means the chase for the coveted senior title is over for 2019.</p>
 <p data-bind="text: $data">Dickey won the three-hour senior race at round one near Norsewood in February and round two near Mosgiel in March and so he was clearly the favourite to win again in Marlborough on Sunday.</p>

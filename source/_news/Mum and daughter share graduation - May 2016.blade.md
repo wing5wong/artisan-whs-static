@@ -4,11 +4,12 @@ date:
 description: "IN THE FAMILY: Andrea Thornton and daughter Hannah Ratcliffe (former WHS student) at their graduation. Both women graduated with Masters of Nursing degrees, Wanganui Chronicle article on 25/5/16..."
 featured-image: 
 excerpt: "IN THE FAMILY: Andrea Thornton and daughter Hannah Ratcliffe (former WHS student) at their graduation. Both women graduated with Masters of Nursing degrees, Wanganui Chronicle article on 25/5/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

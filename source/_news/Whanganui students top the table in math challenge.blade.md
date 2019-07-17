@@ -4,11 +4,12 @@ date:
 description: "Winning team from WHS (from left) George Iliffe, Josiah Kirk, Owen Parkinson and Massey University Vice-Chancellor Professor Jan Thomas..."
 featured-image: 
 excerpt: "Winning team from Whanganui High School (from left) George Iliffe, Josiah Kirk, Owen Parkinson and Massey University Vice-Chancellor Professor Jan Thomas."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>PROBLEM SOLVERS: Winning team from Whanganui High School (from left) George Iliffe, Josiah Kirk, Owen Parkinson and Massey University Vice-Chancellor Professor Jan Thomas.</strong></p>

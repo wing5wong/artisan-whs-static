@@ -4,11 +4,12 @@ date: 2018-03-29
 description: "A Former WHS AFS student who loved the experience has returned to Whanganui for a 3 month stint..."
 featured-image: 
 excerpt: "A Former WHS AFS student who loved the experience has returned to Whanganui for a 3 month stint."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Dan returns to Whanganui from Iceland after AFS year in 2014.</p>

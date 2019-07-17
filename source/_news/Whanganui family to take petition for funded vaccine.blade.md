@@ -6,11 +6,12 @@ featured-image:
 excerpt: "Photo / Supplied
 
 The family of Chloe Boniface are gathering signatures for a petition urging the Government to fully fund all meningitis vaccines and provide more education about the disease."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Photo: Tarsha and Chloe Boniface. A petition by Chloe's aunt is urging the Government to make meningitis vaccinations free.<br /><em>Photo / Supplied</em></span></p>

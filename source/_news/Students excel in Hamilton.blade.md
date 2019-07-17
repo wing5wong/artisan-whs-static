@@ -4,11 +4,12 @@ date: 2019-02-14
 description: "Connor Munro highlighted his improved hurdle technique in winning the Centre Championship 110 metre hurdles..."
 featured-image: 
 excerpt: "Connor Munro highlighted his improved hurdle technique in winning the Centre Championship 110 metre hurdles."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6f5aa9ff2a7c6f500004e4/Connor-Munro-18.1.19-Chron.jpg"
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Connor Munro</strong> <strong>highlighted his improved hurdle technique in winning the Centre Championship 110 metre hurdles on Tuesday.</strong><br /><em>Photo / Supplied</em></p>

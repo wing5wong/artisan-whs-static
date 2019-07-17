@@ -4,11 +4,12 @@ date:
 description: "TEAM WORK: Wanganui High School's adventure racers will be problem-solving on Great Barrier Island this weekend in the Get 2 Go national finals, Wanganui Chronicle article on 3/12/15..."
 featured-image: 
 excerpt: "TEAM WORK: Wanganui High School's adventure racers (from left) Saskia Knight, Sarya Niutao, Levi Carroll, Lauryn Jeans, Kate Belsham (in boat), Connor Munro, Jimi Blinkhorne and Travis Bayler will be problem-solving on Great Barrier Island this weekend in the Get 2 Go national finals."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>TEAM WORK: Wanganui High School's adventure racers (from left) Saskia Knight, Sarya Niutao, Levi Carroll, Lauryn Jeans, Kate Belsham (in boat), Connor Munro, Jimi Blinkhorne and Travis Bayler will be problem-solving on Great Barrier Island this weekend in the Get 2 Go national finals.</span></p>

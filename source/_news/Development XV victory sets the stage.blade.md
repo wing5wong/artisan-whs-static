@@ -4,11 +4,12 @@ date:
 description: "Fullback and former WHS student Grayson Tihema diving in to score his try at the end of the first half against Wairarapa-Bush Development on Saturday..."
 featured-image: 
 excerpt: "Fullback and former WHS student Grayson Tihema diving in to score his try at the end of the first half against Wairarapa-Bush Development on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Fullback and former WHS student <strong>Grayson Tihema</strong> diving in to score his try at the end of the first half against Wairarapa-Bush Development on Saturday.</span></p>

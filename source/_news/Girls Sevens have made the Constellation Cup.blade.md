@@ -4,11 +4,12 @@ date:
 description: "Big Congrats to our WHS Girls 7's team who have made the constellation cup final today at NZSS Condor Sevens..."
 featured-image: 
 excerpt: "Big Congrats to our WHS Girls 7's team who have made the constellation cup final today at NZSS Condor Sevens."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5844867ab8d39a3eff000180/tv-shots-8.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5844866fb8d39a3eff00017e/tv-shots-7.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58448655b8d39a3eff000178/tv-shots-4.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58448666b8d39a3eff00017c/tv-shots-6.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58448633b8d39a3eff000172/tv-shots-1.jpg"
 ---
 
 <p><strong>Big Congrats to our Girls 7's team who have made the constellation cup final today at NZSS Condor Sevens.&nbsp;</strong></p>

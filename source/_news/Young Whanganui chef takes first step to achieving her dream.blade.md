@@ -4,11 +4,12 @@ date:
 description: "Cookery graduate and former WHS student Hannah Cairncross is now a catering assistant for Compass Group New Zealand at Mars Petcare in Whanganui..."
 featured-image: 
 excerpt: "Cookery graduate and former WHS student Hannah Cairncross is now a catering assistant for Compass Group New Zealand at Mars Petcare in Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Cookery graduate and former WHS student&nbsp;Hannah Cairncross is now a catering assistant for Compass Group New Zealand at Mars Petcare in Whanganui. <br />PHOTO: Bevan Conley</span></p>

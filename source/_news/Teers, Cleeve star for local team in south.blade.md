@@ -4,11 +4,12 @@ date: 2019-02-09
 description: "Whanganui's Renee Teers, left, heading on the outside to win the Intermediate Women's 500m in Timaru last weekend..."
 featured-image: 
 excerpt: "Whanganui's Renee Teers, left, heading on the outside of Serenity Griffith, Ella Benson, and Charlotte Clarke to win the Intermediate Women's 500m in Timaru last weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui's <strong>Renee Teers</strong>, left, heading on the outside of Serenity Griffith, Ella Benson, and Charlotte Clarke to <strong>win the Intermediate Women's 500m in Timaru last weekend.</strong></span><br /><em>Photo / Supplied</em></p>

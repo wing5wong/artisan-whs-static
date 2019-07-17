@@ -4,11 +4,12 @@ date:
 description: "BACK FOR MORE: The NZ U23 crew (from left) Kurtis Imrie (Mana) and former WHS students, Whanganui's Toby Brooke, Max Brown and Aiden Nossiter take a break at last year's Worlds in Portugal."
 featured-image: 
 excerpt: "BACK FOR MORE: The NZ U23 crew (from left) Kurtis Imrie (Mana) and former WHS students, Whanganui's Toby Brooke, Max Brown and Aiden Nossiter take a break at last year's Worlds in Portugal. All are again in the frame for the Worlds in Belarus in July."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

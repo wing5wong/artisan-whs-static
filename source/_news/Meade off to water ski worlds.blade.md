@@ -4,11 +4,12 @@ date:
 description: "Whanganui's Brent Meade (former WHS student) was a late inclusion in the New Zealand team for the Under 21 World Champs in Ukraine..."
 featured-image: 
 excerpt: "Whanganui's Brent Meade (former WHS student) was a late inclusion in the New Zealand team for the Under 21 World Champs in Ukraine."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui's Brent Meade (former WHS student)&nbsp;was a late inclusion in the New Zealand team for the Under 21 World Champs in Ukraine. <br />PHOTO / CAUDWELL STUDIOS</span></p>

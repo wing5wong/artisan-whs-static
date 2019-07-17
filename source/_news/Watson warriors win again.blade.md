@@ -4,11 +4,12 @@ date:
 description: "Kasey Watson, Callaghan Watson & Keightley Watson with their Sydney medals.The Watson family has continued their success at international judo tournaments with a trio of medals at the recent Sydney..."
 featured-image: 
 excerpt: "Kasey Watson, Callaghan Watson & Keightley Watson with their Sydney medals.The Watson family has continued their success at international judo tournaments with a trio of medals at the recent Sydney Open at Olympic Park."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Kasey Watson, Callaghan Watson and Keightley Watson with their Sydney medals.</strong></p>

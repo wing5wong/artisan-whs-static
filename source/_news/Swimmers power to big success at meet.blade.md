@@ -4,11 +4,12 @@ date:
 description: "Whanganui Swim Team members (back left) Shannon Schimanski & WHS students Sarya Lower, Naimh Hogan & Alex Forlong at the national age group champs.."
 featured-image: 
 excerpt: "The performances of Whanganui Swim Team members (back left) Shannon Schimanski, Sarya Lower, Naimh Hogan and Alex Forlong at the national age group champs were nothing short of outstanding."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>The performances of Whanganui Swim Team members (back left) Shannon Schimanski, and WHS students Sarya Lower, Naimh Hogan and Alex Forlong at the national age group champs were nothing short of outstanding.</strong></p>

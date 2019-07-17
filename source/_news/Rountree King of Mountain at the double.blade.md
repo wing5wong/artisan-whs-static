@@ -4,11 +4,12 @@ date: 2019-01-23
 description: "Whanganui's James Rountree (Yamaha YZ250F), on his way to winning his second major motocross trophy for the summer..."
 featured-image: 
 excerpt: "Whanganui's James Rountree (Yamaha YZ250F), on his way to winning his second major motocross trophy for the summer."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Whanganui's James Rountree (Yamaha YZ250F), on his way to winning his second major motocross trophy for the summer.</strong> <br /><em>PHOTO / Andy McGechan</em></span></p>

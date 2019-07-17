@@ -4,16 +4,17 @@ date: 2019-03-28
 description: "Mentoree Merle Chant and street artist Hayley Welsh meet ahead of Whanganui Walls which kicks off on Thursday..."
 featured-image: 
 excerpt: "Mentoree Merle Chant and street artist Hayley Welsh meet ahead of Whanganui Walls which kicks off on Thursday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong><img src="https://external-syd2-1.xx.fbcdn.net/safe_image.php?d=AQAxKkLpGWguQPQD&amp;w=540&amp;h=282&amp;url=https%3A%2F%2Fwww.nzherald.co.nz%2Fresizer%2FIuwXA7k9iahPfEWXM91K2kqiS4M%3D%2F1200x0%2Fsmart%2Ffilters%3Aquality%2870%29%2Farc-anglerfish-syd-prod-nzme.s3.amazonaws.com%2Fpublic%2FSAIUQEMNZFFTNOKWMPDHJCHIQU.jpg&amp;cfs=1&amp;upscale=1&amp;fallback=news_d_placeholder_publisher&amp;_nc_hash=AQAd9O1hwUe3z-t3" alt="" /></strong></span></p>
 <p><span><strong>Mentoree Merle Chant and street artist Hayley Welsh meet ahead of Whanganui Walls which kicks off on Thursday.</strong> <br /><em>PHOTO / Zaryd Wilson</em></span></p>
-<p class="element element-paragraph">Whanganui's inaugural street art festival gets under way on Thursday morning with international and New Zealand-based artists working throughout the lower CBD.</p>
+<p class="element element-paragraph"><br />Whanganui's inaugural street art festival gets under way on Thursday morning with international and New Zealand-based artists working throughout the lower CBD.</p>
 <p class="element element-paragraph">The visiting artists landed on Monday and have spent three days getting to know the area, starting with a pirate-themed welcome cruise on the Whanganui River.</p>
 <p class="element element-paragraph">Whanganui Walls is being held over four days with eight artists creating original street art work on fresh walls in the lower two blocks of the CBD.</p>
 <p class="element element-paragraph">One of it's organisers, Simon Ormerod, said it was a great opportunity for the public to watch street artists in action.</p>

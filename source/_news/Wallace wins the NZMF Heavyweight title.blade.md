@@ -4,11 +4,12 @@ date: 2018-12-10
 description: "Wallace won the NZMF Heavyweight title in Timaru. Trainer, Gallacher said his fighter will have a break over the New Year..."
 featured-image: 
 excerpt: "Brendon Wallace won the NZMF Heavyweight title in Timaru. Trainer, Gallacher said his fighter will have a break over the New Year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Brendon Wallace won the NZMF Heavyweight title in Timaru. Trainer, Gallacher (ex WHS student) said his fighter will have a break over the New Year.<br /><em>Photo / File</em></p>

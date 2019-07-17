@@ -4,11 +4,12 @@ date: 2018-07-18
 description: "Leading Marine Technician (Propulsion) William Kerse in the main engineering room on HMNZS Te Mana."
 featured-image: 
 excerpt: "Leading Marine Technician (Propulsion) William Kerse in the main engineering room on HMNZS Te Mana."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Leading Marine Technician (Propulsion) William Kerse in the main engineering room on HMNZS Te Mana. <br /><em>Photo / Supplied</em></span></p>

@@ -4,11 +4,12 @@ date:
 description: "ON TOP:  WHS students Jack Southee, Sam Conley and Vitek Sosnowski who tackled alcohol abuse in their video for young film-makers at the Wanganui War Memorial Hall last Friday night."
 featured-image: 
 excerpt: "ON TOP:  WHS students Jack Southee, Sam Conley and Vitek Sosnowski who tackled alcohol abuse in their video for young film-makers at the Wanganui War Memorial Hall last Friday night as the annual awards for the Yeah Hard 30 Second Ad Competition were announced, from Wanganui Chronicle article on 17/9/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>ON TOP: &nbsp;WHS students Jack Southee, Sam Conley and Vitek Sosnowski who tackled alcohol abuse in their video.&nbsp;</span></p>

@@ -4,11 +4,12 @@ date:
 description: "WHS student Sophie Wham is one of 10 artists to enter her work in the youth award category for the 2017 Belton, Smith and Associates Limited Whanganui Arts Review..."
 featured-image: 
 excerpt: "WHS student Sophie Wham is one of 10 artists to enter her work in the youth award category for the 2017 Belton, Smith and Associates Limited Whanganui Arts Review."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WHS student&nbsp;Sophie Wham is one of 10 artists to enter her work in the youth award category for the 2017 Belton, Smith and Associates Limited Whanganui Arts Review. <br />PHOTO: Bevan Conley.</span></p>

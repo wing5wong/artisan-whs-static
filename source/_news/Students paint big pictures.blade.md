@@ -4,11 +4,12 @@ date:
 description: "Whanganui UCOL Bachelor of Design and Arts students (from left) Kitty Wake, Jodie McLay (former WHS student), Zoe Alexander, Shanna Ashworth and Lisa Currin with their Big Paintings."
 featured-image: 
 excerpt: "Whanganui UCOL Bachelor of Design and Arts students (from left) Kitty Wake, Jodie McLay (former WHS student), Zoe Alexander, Shanna Ashworth and Lisa Currin with their Big Paintings."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui UCOL Bachelor of Design and Arts students (from left) Kitty Wake, Jodie McLay (former WHS student), Zoe Alexander, Shanna Ashworth and Lisa Currin with their Big Paintings.<br />PHOTO courtesy of Bevan Conley.&nbsp;</span></p>

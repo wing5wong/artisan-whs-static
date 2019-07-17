@@ -4,11 +4,12 @@ date:
 description: "WHS students, Alex Forlong - Outstanding Sportsmanship & Michael Hiroti - Most Outstanding Male swimmer at the Wanganui Swimming Club's prizegiving on Sunday 31 July, Wanganui Chronicle article 1/8/16"
 featured-image: 
 excerpt: "WHS students, Alex Forlong - Outstanding Sportsmanship & Michael Hiroti - Most Outstanding Male swimmer at the Wanganui Swimming Club's prizegiving on Sunday 31 July, Wanganui Chronicle article 1/8/16"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WHS students' Alex Forlong - Outstanding Sportsmanship; <br />Michael Hiroti - Most Outstanding Male swimmer <br />at the Wanganui Swimming Club's prizegiving on Sunday 31 July.</strong> <br />Above photo are all of the&nbsp;<span>Wanganui Swimming Club's trophy and medal recipients.</span></p>

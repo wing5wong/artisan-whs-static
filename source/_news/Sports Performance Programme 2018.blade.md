@@ -4,11 +4,12 @@ date:
 description: "Whanganui High school has been in the process of developing a sport pathway for the last 18 months..."
 featured-image: 
 excerpt: "Whanganui High school has been in the process of developing a sport pathway for the last 18 months."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Photo: Rebecca Baker with her winning GOLD medal at NZSS athletics this year.<br />Rebecca has been on this programme for 18 months!<br />&nbsp;</p>

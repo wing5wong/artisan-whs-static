@@ -4,11 +4,12 @@ date:
 description: "Brothers, Keightley and Callaghan Watson came back with three gold medals and two silvers from the South Island Judo Championships in Christchurch..."
 featured-image: 
 excerpt: "Brothers, Keightley and Callaghan Watson came back with three gold medals and two silvers from the South Island Judo Championships in Christchurch."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4 class="element element-paragraph">Brothers, Keightley and Callaghan Watson came back with three gold medals and two silvers from the South Island Judo Championships in Christchurch.</h4>

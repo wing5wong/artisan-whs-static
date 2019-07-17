@@ -4,11 +4,12 @@ date: 2018-12-15
 description: "Kerry O'Sullivan and Fred Loveridge of Whisky Mama to present a free concert to encourage young musicians..."
 featured-image: 
 excerpt: "Kerry O'Sullivan and Fred Loveridge of Whisky Mama have teamed up with Caroline Norton to present a free concert to encourage young musicians."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Kerry O'Sullivan and Fred Loveridge (Music tutor at WHS) of Whisky Mama have teamed up with Caroline Norton to present a free concert to encourage young musicians. <br /><em>Photo / Supplied</em></span></p>

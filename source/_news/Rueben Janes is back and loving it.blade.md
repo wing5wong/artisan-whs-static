@@ -4,11 +4,12 @@ date: 2018-07-04
 description: "Rueben Janes is back and loving it..."
 featured-image: 
 excerpt: "Rueben Janes is back and loving it."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former WHS student Reuben Janes. <br />PHOTO / Ashleigh Morris</span></p>

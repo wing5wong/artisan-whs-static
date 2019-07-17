@@ -4,11 +4,12 @@ date: 2019-03-09
 description: "The WHS Visual Art Dept had another PROUD evening last night at the '2019 Patillo Whanganui Arts Review'..."
 featured-image: 
 excerpt: "The Visual Art Dept had another PROUD evening last night at the \"2019 patillo Whanganui Arts Review\""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033f/Rose-Hird-Y11-Rohi.-Award-Winner.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033c/Jack-Burrows-Y13.Moutoa-Soldier.special-judge-mention.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033e/Lily-Claypole.ex.Plastic..special-judge-mention.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033d/various-whs-artists.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea000340/various-whs-artists.no.2jpg.jpg"
 ---
 
 <p><strong>The Visual Art Department had another PROUD evening last night at the '2019 patillo Whanganui Arts Review'.&nbsp;</strong></p>

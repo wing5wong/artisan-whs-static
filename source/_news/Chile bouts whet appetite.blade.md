@@ -4,11 +4,12 @@ date:
 description: "Whanganui teenager and High School student Keightley Watson throws and controls his opposition at the Sydney International..."
 featured-image: 
 excerpt: "Whanganui teenager and High School student Keightley Watson throws and controls his opposition at the Sydney International."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>ON TOP: Whanganui teenager and High School student Keightley Watson throws and controls his opposition at the Sydney International.</p>

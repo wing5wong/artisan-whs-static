@@ -4,11 +4,12 @@ date:
 description: "CHALLENGE: WHS cast members Shaila Hawkins (top, clockwise) Jonathan Maples, Millie Manning, Trey Willis, Sam Conley, Grace Jones and Ayzak Bennett in rehearsal for the 2016 Stage Challenge..."
 featured-image: 
 excerpt: "CHALLENGE: WHS cast members Shaila Hawkins (top, clockwise) Jonathan Maples, Millie Manning, Trey Willis, Sam Conley, Grace Jones and Ayzak Bennett in rehearsal for the 2016 Stage Challenge..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;"><br /></span></p>

@@ -4,11 +4,12 @@ date: 2018-07-17
 description: "Past and present WHS students where part of the band celebrating their win at the NZ Brass Band Champs in Blenheim..."
 featured-image: 
 excerpt: "Past and present WHS students where part of the band celebrating their win at the NZ Brass Band Champs in Blenheim."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>The band celebrates its wins - with B Grade shield held at left centre by former student Ethan Mancer.</strong> <br /><strong><br />Past and present WHS students where part of the band celebrating their win at the NZ Brass Band Champs in Blenheim.</strong><br /><em>Photo / supplied</em></span></p>

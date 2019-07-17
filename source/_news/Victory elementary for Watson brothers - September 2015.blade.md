@@ -4,11 +4,12 @@ date:
 description: "FLIPPING HECK: WHS student Keightley Watson drops his opponent during his complete dominance of the senior boys 66kg and over grade, Wanganui Chronicle article 9/9/15..."
 featured-image: 
 excerpt: "FLIPPING HECK: WHS student Keightley Watson drops his opponent during his complete dominance of the senior boys 66kg and over grade."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FLIPPING HECK: WHS student&nbsp;Keightley Watson drops his opponent during his complete dominance of the senior boys 66kg and over grade.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Joe Wainhouse won the MX-3 class at the Wellington Motocross Championships on Sunday..."
 featured-image: 
 excerpt: "Former WHS student Joe Wainhouse won the MX-3 class at the Wellington Motocross Championships on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>WINNER: Former WHS student Joe Wainhouse won the MX-3 class at the Wellington Motocross Championships on Sunday. WHS student Jaxon Watt was 4th in the 12-16 year olds 85cc class.<br />PHOTO: Supplied.</p>

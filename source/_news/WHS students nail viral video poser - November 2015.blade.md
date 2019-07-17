@@ -4,11 +4,12 @@ date:
 description: "WANGANUI WINNERS:  Elia Nicolin (left), Amaan Merchant and Julian Schurhammer of Wanganui High School earned a national science award, Wanganui Chronicle article on 9/11/15..."
 featured-image: 
 excerpt: "WANGANUI WINNERS:  Elia Nicolin (left), Amaan Merchant and Julian Schurhammer of Wanganui High School earned a national science award, Wanganui Chronicle article on 9/11/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WANGANUI WINNERS: &nbsp;Elia Nicolin (left), Amaan Merchant and Julian Schurhammer of Wanganui High School earned a national science award.</strong></p>

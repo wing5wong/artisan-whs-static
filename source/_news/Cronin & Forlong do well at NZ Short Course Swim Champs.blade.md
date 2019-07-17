@@ -4,11 +4,12 @@ date:
 description: "Amelia Cronin obtained personal best swims & Alex Forlong maintained her 16-yr-old national rankings at the NZ Short Course Swimming Champs..."
 featured-image: 
 excerpt: "Amelia Cronin obtained personal best swims in all of her events & Alex Forlong maintained her 16-yr-old national rankings of 11th in the 400m IM & 12th in the 200m butterfly at the NZ Short Course Swimming Champs in Auckland, 3-7 October 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>WHS students: Amelia Cronin obtained personal best swims in all of her events &amp; Alex Forlong maintained her 16-yr-old national rankings of 11th in the 400m IM &amp; 12th in the 200m butterfly at the NZ Short Course Swimming Champs in Auckland, 3-7 October 2017.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS students Millar, Pakinga-Manhire & Bowater played well for the Wanganui U18 squad against Poverty Bay U18 in Gisborne on Saturday 24 September..."
 featured-image: 
 excerpt: "Former WHS students Millar, Pakinga-Manhire & Bowater played well for the Wanganui U18 squad against Poverty Bay U18 in Gisborne on Saturday 24 September."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The Wanganui Under 18 squad and senior officials of the WRFU got a quick trip to Gisborne thanks to team sponsors Air Chathams on Saturday.</span></p>

@@ -4,11 +4,12 @@ date: 2018-09-22
 description: "The WHS group prepares for the first stage of a trip to China, flying Air Chathams from Whanganui to Auckland..."
 featured-image: 
 excerpt: "The WHS group prepares for the first stage of a trip to China, flying Air Chathams from Whanganui to Auckland."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The Whanganui High School group prepares for the first stage of a trip to China, flying Air Chathams from Whanganui to Auckland. <br /><em>PHOTO / Stuart Munro</em></span></p>

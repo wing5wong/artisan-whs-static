@@ -4,11 +4,12 @@ date:
 description: "SYDNEY BOUND: Wanganui Swimming Club's Elena Forlong & Shannon Schimanski have made history as the first NZ representatives from the Wanganui Swimming Club..."
 featured-image: 
 excerpt: "SYDNEY BOUND: Wanganui Swimming Club's Elena Forlong & Shannon Schimanski have made history as the first NZ representatives from the Wanganui Swimming Club."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>SYDNEY BOUND: &nbsp;Wanganui Swimming Club's Elena Forlong (pictured above) and Shannon Schimanski have made history as the first New Zealand representatives from the Wanganui Swimming Club.</p>

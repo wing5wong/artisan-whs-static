@@ -4,11 +4,12 @@ date:
 description: "WHS student Daniel Wilson shows off his engineering handiwork at Axiam Metals last week. Student and employers reap benefits of programme..."
 featured-image: 
 excerpt: "WHS student Daniel Wilson shows off his engineering handiwork at Axiam Metals last week. Student and employers reap benefits of programme."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>HOLIDAY JOB: WHS student Daniel Wilson shows off his engineering handiwork at Axiam Metals last week.</span></p>

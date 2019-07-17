@@ -4,11 +4,12 @@ date:
 description: "CD REP: Joseph Redpath will be one of three Central District age group reps in the WHS 1st X1 for tonight's semi-final clash with WCS, Wanganui Chronicle article on 17/8/16..."
 featured-image: 
 excerpt: "CD REP: Joseph Redpath will be one of three Central District age group reps in the WHS 1st X1 for tonight's semi-final clash with WCS."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>CD REP: Joseph Redpath will be one of three Central District age group reps in the WHS 1st X1 for tonight's semi-final clash with WCS.</strong></p>

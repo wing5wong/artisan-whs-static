@@ -4,11 +4,12 @@ date:
 description: "Even a cracked head in his CRF450 Honda was not enough to stop hometown racer Richie Dibben from an unbeaten run and a new lap record in the super moto class..."
 featured-image: 
 excerpt: "Even a cracked head in his CRF450 Honda was not enough to stop hometown racer Richie Dibben from an unbeaten run and a new lap record in the super moto class."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <figure><figcaption><figure></figure></figcaption></figure>

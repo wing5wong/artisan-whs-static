@@ -4,11 +4,12 @@ date:
 description: "Checking out the Wanganui Water Ski Club's new support boat are national under 17 champion WHS student Lily Meade, Trevor Fowler and Molly Deroles..,"
 featured-image: 
 excerpt: "Checking out the Wanganui Water Ski Club's new support boat are national under 17 champion WHS student Lily Meade, Trevor Fowler and Molly Deroles."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Checking out the Wanganui Water Ski Club's new support boat are national under 17 champion WHS student Lily Meade, Trevor Fowler and Molly Deroles.</p>

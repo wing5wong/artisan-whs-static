@@ -4,11 +4,12 @@ date: 2018-03-05
 description: "In the Youth Ministocks WHS student Kaelin Mooney (26V) took the second race by a mere 0.02 seconds..."
 featured-image: 
 excerpt: "In the Youth Ministocks WHS student Kaelin Mooney (26V) took the second race by a mere 0.02 seconds."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa1f612ff2a7c6bfc000a3d/stock-cars-chron-photo-5-march.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa1f69cb8d39a7499000a5e/stock-cars-2-chron-photo-5-march.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa1f6abff2a7c6bfc000a3f/stock-cars-3-chron-photo-5-march.jpg"
+	
+	
 ---
 
 <p><strong>In the Youth Ministocks WHS student Kaelin Mooney (26V) took the second race by a mere 0.02 seconds at the Oceanview Speedway on the weekend.</strong></p>

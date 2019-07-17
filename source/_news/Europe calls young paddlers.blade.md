@@ -4,11 +4,12 @@ date: 2018-07-07
 description: "The journey to Europe began for Whanganui's latest NZ kayaking representatives Liam Lace & Jack Clifton..."
 featured-image: 
 excerpt: "The journey to Europe began for Whanganui's latest New Zealand kayaking representatives Liam Lace and Jack Clifton on Friday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>The journey to Europe began for Whanganui's latest New Zealand kayaking representatives Liam Lace and Jack Clifton on Friday.</strong><br /><em>PHOTO / Bevan Conley</em></p>

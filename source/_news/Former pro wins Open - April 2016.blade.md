@@ -4,11 +4,12 @@ date:
 description: "HOT FAVOURITE: Former professional and No1 seed Joseph Watts (foreground) justified his favouritism with victory in the Wanganui Squash Men's Open at the weekend, Wanganui Chronicle article on 28/4/16"
 featured-image: 
 excerpt: "HOT FAVOURITE: Former professional and No1 seed Joseph Watts (former WHS student - foreground) justified his favouritism with victory in the Wanganui Squash Men's Open at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

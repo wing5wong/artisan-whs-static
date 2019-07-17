@@ -4,11 +4,12 @@ date:
 description: "Expatriate Catalonian Queralt Scott (and WHS Spanish teacher) hopes for a peaceful solution to the troubles in her former homeland."
 featured-image: 
 excerpt: "Expatriate Catalonian Queralt Scott (and WHS Spanish teacher) hopes for a peaceful solution to the troubles in her former homeland."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Expatriate Catalonian Queralt Scott (and WHS Spanish teacher) hopes for a peaceful solution to the troubles in her former homeland. <br />PHOTO / Stuart Munro.</span></p>

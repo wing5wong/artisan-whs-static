@@ -4,11 +4,12 @@ date:
 description: "Former WHS student, Whanganui Youth MP Timothy Rowe visiting MP Chester Borrows in his Wellington office, Wanganui Chronicle article on 17/7/16..."
 featured-image: 
 excerpt: "Former WHS student, Whanganui Youth MP Timothy Rowe visiting MP Chester Borrows in his Wellington office, Wanganui Chronicle article on 17/7/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student, Whanganui Youth MP Timothy Rowe visiting MP Chester Borrows in his Wellington office.</p>

@@ -4,11 +4,12 @@ date:
 description: "Electrical apprentice and former Whanganui High School student Nathan Brown will compete against the country's top electrical apprentices..."
 featured-image: 
 excerpt: "Electrical apprentice and former Whanganui High School student Nathan Brown will compete against the country's top electrical apprentices in the Master Electricians Challenge competition final in August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Electrical apprentice and former Whanganui High School student Nathan Brown will compete against the country's top electrical apprentices in the Master Electricians Challenge competition final in August.<br /></span></p>

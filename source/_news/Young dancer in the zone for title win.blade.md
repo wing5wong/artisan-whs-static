@@ -4,11 +4,12 @@ date: 2018-10-08
 description: "Emma Henare said the Zynergy Mega Crew provided her with a great opportunity to learn hip hop, have fun & make friends..."
 featured-image: 
 excerpt: "Emma Henare (front, third from right in yellow) said the Zynergy Mega Crew provided her with a great opportunity to learn hip hop, have fun and make friends."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Emma Henare (front, third from right in yellow) said the Zynergy Mega Crew provided her with a great opportunity to learn hip hop, have fun and make friends.<br /><em>Photo / Supplied</em></span></p>

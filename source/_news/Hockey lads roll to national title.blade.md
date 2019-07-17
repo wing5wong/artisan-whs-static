@@ -4,11 +4,12 @@ date:
 description: "Coach Carlin Barry has taken Cody Lockett, Jimi Blinkhorne (WHS student), Eli Zinsli (WHS student), Mitchell Lockett & the rest of the Whanganui roller hockey youth team through to National honours..."
 featured-image: 
 excerpt: "ROLLER CHAMPS: Coach Carlin Barry has taken Cody Lockett, Jimi Blinkhorne (WHS student), Eli Zinsli (WHS student), Mitchell Lockett, and the rest of the Whanganui roller hockey youth team through to national honours."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>ROLLER CHAMPS: (left to right) Coach Carlin Barry has taken Cody Lockett, Jimi Blinkhorne (WHS student), Eli Zinsli (WHS student), Mitchell Lockett, and the rest of the Whanganui roller hockey youth team through to national honours.</strong></p>

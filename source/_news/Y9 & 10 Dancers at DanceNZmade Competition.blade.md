@@ -4,11 +4,12 @@ date:
 description: "These dancers are our WHS Year 9 and 10 Dancers who competed at the DanceNZmade Competition Finals..."
 featured-image: 
 excerpt: "These dancers are our WHS Year 9 and 10 Dancers who competed at the DanceNZmade Competition Finals in Palmerston North on the 23 September at the Regent Theatre."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59e429f4b8d39a463b0002ae/21766843_366144673807877_2030323803760000513_n.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59e429e7b8d39a463b0002ac/21764918_366144660474545_2127535213830015918_n.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59e429dbb8d39a463b0002aa/21761606_366144663807878_1452166141909288440_n.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59e430cbb8d39a463b0002b4/Dance-NZ-Made-image.jpg"
+	
 ---
 
 <p><strong>These dancers are our Year 9 and 10 Dancers who competed at the&nbsp;DanceNZmade Competition Finals in Palmerston North on the 23&nbsp;September at the Regent Theatre.&nbsp;</strong></p>

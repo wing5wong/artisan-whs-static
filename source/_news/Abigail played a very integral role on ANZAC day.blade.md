@@ -4,11 +4,12 @@ date:
 description: "WHS student Abigail Watt played a very integral role on ANZAC day at four different services around Whanganui, Brunswick and Marton..."
 featured-image: 
 excerpt: "WHS student Abigail Watt played a very integral role on ANZAC day at four different services around Whanganui, Brunswick and Marton."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui High School student Abigail Watt played a very integral role on ANZAC day at four different services around Whanganui, Brunswick and Marton. </strong></p>

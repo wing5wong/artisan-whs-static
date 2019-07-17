@@ -4,11 +4,12 @@ date:
 description: "FRONTRUNNERS: Whanganui athletes Louis Hogan (WHS right) & Christian Conder (WCS middle) will be rivals on Saturday & teammates on Sunday in Rotorua this weekend, competing in the NZSS Cross Country.."
 featured-image: 
 excerpt: "FRONTRUNNERS: Whanganui athletes Louis Hogan (WHS green on the right) and Christian Conder (WCS blue in the middle) will be rivals on Saturday and teammates on Sunday in Rotorua this weekend, competing in the NZSS Cross Country Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;"><strong>FRONTRUNNERS: Whanganui athletes Louis Hogan (WHS green on the right)</strong> and Christian Conder (WCS blue in the middle) will be rivals on Saturday and teammates on Sunday in Rotorua this weekend, competing in the NZ</span><span style="line-height: 1.5;">SS Cross Country Champs.</span></p>

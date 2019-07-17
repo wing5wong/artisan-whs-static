@@ -4,11 +4,12 @@ date:
 description: "Wanganui Judo Club fighters Kasey Watson (white) and Aiden Voice run through a practice session ahead of the national training camp at Springvale Stadium this weekend, Wanganui Chronicle 11 Feb 2015.."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui Judo Club fighters Kasey Watson (white) and Aiden Voice run through a practice session ahead of the national training camp at Springvale Stadium this weekend.</p>

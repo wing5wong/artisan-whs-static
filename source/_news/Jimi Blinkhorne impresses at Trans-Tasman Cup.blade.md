@@ -4,11 +4,12 @@ date: 2018-05-16
 description: "Whanganui skater Jimi Blinkhorne won the MVP & Supreme Sportsmanship Award..."
 featured-image: 
 excerpt: "Whanganui skater Jimi Blinkhorne won the MVP & supreme sportsmanship award at the Trans-Tasman Cup in Queensland last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><span>Whanganui skater JIMI BLINKHORNE won the&nbsp;MVP &amp; Supreme Sportsmanship Award at the Trans-Tasman Cup in Queensland last week. </span></h3>

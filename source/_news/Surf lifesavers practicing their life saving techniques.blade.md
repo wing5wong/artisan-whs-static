@@ -4,11 +4,12 @@ date:
 description: "Surf lifesavers Clarissa Nowak and Alex Furlong, both WHS students, were practising their life saving techniques at Castlecliff this week."
 featured-image: 
 excerpt: "Surf lifesavers Clarissa Nowak and Alex Furlong, both WHS students, were practising their life saving techniques at Castlecliff this week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Surf lifesavers Clarissa Nowak and Alex Furlong, both WHS students, were practising their life saving techniques at Castlecliff this week.&nbsp;</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Three members of a fine cast of the play The Pohutukawa Tree - Carey Knapp (Clive Atkinson), former WHS student Shaila Hawkins (Sylvia Atkinson) and Karen Hughes (Isobel Atkinson)..."
 featured-image: 
 excerpt: "Three members of a fine cast of the play The Pohutukawa Tree - Carey Knapp (Clive Atkinson), former WHS student Shaila Hawkins (Sylvia Atkinson) and Karen Hughes (Isobel Atkinson)."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Three members of a fine cast of the play <em>The Pohutukawa Tree</em> - Carey Knapp (Clive Atkinson), former WHS student Shaila Hawkins (Sylvia Atkinson) and Karen Hughes (Isobel Atkinson).</p>

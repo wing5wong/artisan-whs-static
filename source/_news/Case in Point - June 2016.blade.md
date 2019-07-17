@@ -4,11 +4,12 @@ date:
 description: "GROWING: Former WHS student, Amelia Chandulal-Mackay said she has grown a lot during a year of study with the Orlando Ballet School in Florida, Wanganui Chronicle article on 11/6/16..."
 featured-image: 
 excerpt: "GROWING: Former WHS student, Amelia Chandulal-Mackay said she has grown a lot during a year of study with the Orlando Ballet School in Florida."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>GROWING: Former WHS student, Amelia Chandulal-Mackay said she has grown a lot during a year of study with the Orlando Ballet School in Florida.</p>

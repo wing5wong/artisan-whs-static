@@ -4,11 +4,12 @@ date:
 description: "Well done to our Y12 students who are coaching our school teams this year for Netball. Thanks to Sport Whanganui for giving them volunteer hoodies."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Well done to our Y12 students who are coaching our school teams this year for Netball; Bailee Baxter (left), Kate Denzel and Georgia Young.</span></p>

@@ -4,11 +4,12 @@ date: 2018-08-05
 description: "Rebecca Baker & coach Greg Fromont. Rebecca came 2nd in the NZ Open Cross Country Champs in Wellington..."
 featured-image: 
 excerpt: "Rebecca Baker & coach Greg Fromont. Rebecca came 2nd in the NZ Open Cross Country Champs in Wellington."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b6908d4b8d39a6d05000674/both-rebecca-and-nat.gif"
+	
+	
+	
+	
 ---
 
 <h4><span>Rebecca Baker and coach Greg Fromont.</span></h4>

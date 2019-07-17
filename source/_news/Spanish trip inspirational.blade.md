@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School student Jimi Blinkhorne (left) and Aussie mate Ash Clee shared the experience of a month-long roller hockey training camp in Spain..."
 featured-image: 
 excerpt: "Whanganui High School student Jimi Blinkhorne (left) and Aussie mate Ash Clee shared the experience of a month-long roller hockey training camp in Spain."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Jimi Blinkhorne (left) and Aussie mate Ash Clee shared the experience of a month-long roller hockey training camp in Spain.</span></p>

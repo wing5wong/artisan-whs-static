@@ -4,11 +4,12 @@ date:
 description: "Congratulations to Whanganui High School students, Jack Southee, Nusr Ghamri and Mikaya Teki - your Bullying-Free NZ Week competition entry has won First Prize in the Senior Short Film Category..."
 featured-image: 
 excerpt: "Congratulations to Whanganui High School students, Jack Southee, Nusr Ghamri and Mikaya Teki - your Bullying-Free NZ Week competition entry has won First Prize in the Senior Short Film Category."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Dear Jack and Whanganui High School Team Members, Nusr and Mikaya&nbsp;</p>

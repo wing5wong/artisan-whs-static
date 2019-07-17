@@ -4,11 +4,12 @@ date: 2018-07-02
 description: "Fiction Addiction from left to right: Calum Sinclair, Benjamin White, Laura Mackintosh & Toni Adams..."
 featured-image: 
 excerpt: "Fiction Addiction from left to right: Calum Sinclair, Benjamin White, Laura Mackintosh and Toni Adams."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Fiction Addiction from left to right: Calum Sinclair, Benjamin White, Laura Mackintosh and Toni Adams.</strong> <br /><em>Photo / Supplied</em></span></p>

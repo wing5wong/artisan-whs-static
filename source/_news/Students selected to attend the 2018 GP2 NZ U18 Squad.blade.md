@@ -4,11 +4,12 @@ date:
 description: "Woohoo!! Well done Jack Clifton, Liam Lace and Lucas Thompson on your selection to attend the 2018 GP2 in the New Zealand Under 18 Squad..."
 featured-image: 
 excerpt: "Woohoo!! Well done Jack Clifton, Liam Lace and Lucas Thompson on your selection to attend the 2018 GP2 in the New Zealand Under 18 Squad."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Woohoo!!&nbsp; Well done Jack Clifton, Liam Lace and Lucas Thompson on your selection!<br />All the best!&nbsp; &nbsp;<span class="_5mfr _47e3"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /></span></p>

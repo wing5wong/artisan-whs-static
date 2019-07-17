@@ -4,11 +4,12 @@ date:
 description: "Whanganui musicians Auaha have released their highly anticipated album Te Pari o Auahatanga. Former WHS student, Te Paerata Tichbon..."
 featured-image: 
 excerpt: "Whanganui musicians Auaha have released their highly anticipated album Te Pari o Auahatanga, The Flood of Inspiration. One of the members is former WHS student, Te Paerata Tichbon."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Auaha musicians</strong> Ariana Tikao (left), Alistair Fraser, Elise Goodge, <strong>Te Paerata Tichbon</strong> (former WHS student), Matiu Bartlett and Brad McMillan (at back).</span></p>
@@ -21,7 +22,7 @@ gallery-image-5:
 <p class="element element-paragraph">The members of Auaha are Ariana Tikao, Alistair Fraser, Elise Goodge, Matiu Bartlett, Brad McMillan and Te Paerata Tichbon.</p>
 <p class="element element-paragraph">They are from different backgrounds musically, but are drawn together by their common interest in taonga puoro (traditional Māori instruments).</p>
 <p class="element element-paragraph">Group members come from Whanganui, Wellington and Wairoa.</p>
-<p class="element element-paragraph">Their river guide and local musician, Charles Ranginui of Te Ä€tihaunui-a-Papārangi, also contributed a song to the album.</p>
+<p class="element element-paragraph">Their river guide and local musician, Charles Ranginui of Te Ātihaunui-a-Papārangi, also contributed a song to the album.</p>
 <p class="element element-paragraph">The recording and production was done by Sacha Keating of Te Aio Productions.</p>
 <p class="element element-paragraph">After three days' journey, the group alighted from the river and ensconced themselves at Koriniti Marae to complete recording of the new tracks.</p>
 <p class="element element-paragraph">As fate would have it though, the river began flooding again, and they had to evacuate and relocate to Whanganui or risk being trapped possibly for weeks.</p>

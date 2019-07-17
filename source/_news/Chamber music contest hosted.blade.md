@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School's Trio Lane are Brenna Hadley (flute), Oscar Zhang (piano) and Cypress Kani-Hurinui (voice) at NZ Community Trust Chamber Music Contest held at Wanganui Collegiate School..."
 featured-image: 
 excerpt: "Whanganui High School's Trio Lane are Brenna Hadley (flute), Oscar Zhang (piano) and Cypress Kani-Hurinui (voice) at NZ Community Trust Chamber Music Contest held at Wanganui Collegiate School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>HIGHLY COMMENDED: Whanganui High School's Trio Lane are Brenna Hadley (flute), Oscar Zhang (piano) and Cypress Kani-Hurinui (voice) at NZ Community Trust Chamber Music Contest held at Wanganui Collegiate School.</strong> <br />PICTURE / STUART MUNRO</span></p>

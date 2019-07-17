@@ -4,11 +4,12 @@ date:
 description: "Congratulations to the following WHS students who have made the Wanganui U18 Rugby Representative Team for 2017..."
 featured-image: 
 excerpt: "Congratulations to the following WHS students who have made the Wanganui U18 Rugby Representative Team for 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Congratulations to the following students who have made the Wanganui U18 Rugby Representative Team for 2017.&nbsp;</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "What a fantastic evening we had at our latest Improv Night! The performers, hostess & audience all lit up the Repertory Theatre on Sat night for our first show of 2016 & what a hilarious show it was!"
 featured-image: 
 excerpt: "What a fantastic evening we had at our latest Improv Night! The performers, hostess and audience all lit up the Repertory Theatre on Saturday night for our first show of 2016 and what a hilarious show it was!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

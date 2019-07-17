@@ -1,14 +1,15 @@
 ---
 title: "Extreme Tours 2017"
 date: 
-description: "WHS Outdoor Education Department combined with the International Department to run an â€œExtreme Tourâ€ to the South Island..."
+description: "WHS Outdoor Education Department combined with the International Department to run an “Extreme Tour” to the South Island..."
 featured-image: 
-excerpt: "During the Easter Holidays the Whanganui High School Outdoor Education Department combined with the International Department to run an â€œExtreme Tourâ€ to the South Island."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "During the Easter Holidays the Whanganui High School Outdoor Education Department combined with the International Department to run an “Extreme Tour” to the South Island."
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c85ea2b8d39a191700019c/IMG_5530.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c85ed8b8d39a19170001a4/IMG_5772.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c85ec0b8d39a19170001a0/IMG_5571.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c85eb0b8d39a191700019e/IMG_5545.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c85f2bb8d39a19170001a6/IMG_5802.jpg"
 ---
 
 <p>During the Easter Holidays the Whanganui High School Outdoor Education Department combined with the International Department to run an <strong>&ldquo;Extreme Tour&rdquo; to the South Island.</strong></p>

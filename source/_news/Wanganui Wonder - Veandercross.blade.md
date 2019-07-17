@@ -4,11 +4,12 @@ date: 2018-11-26
 description: "Whanganui High School teacher Chris Turner and his cheeky champion Veandercross..."
 featured-image: 
 excerpt: "Whanganui High School teacher Chris Turner and his cheeky champion Veandercross."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whanganui High School teacher Chris Turner and his cheeky champion Veandercross.<br /><br /><br /></p>

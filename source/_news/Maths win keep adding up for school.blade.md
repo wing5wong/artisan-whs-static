@@ -4,11 +4,12 @@ date: 2018-07-02
 description: "The winning WHS team in action, from left to right: Ben Power, Ahimsha Saravanapavan & Nanea Schurhammer..."
 featured-image: 
 excerpt: "The winning WHS team in action, from left to right: Ben Power, Ahimsha Saravanapavan & Nanea Schurhammer."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>The winning Whanganui High School team in action, from left to right: Ben Power, Ahimsha Saravanapavan and Nanea Schurhammer.</strong> <br /><em>Photo / Supplied</em></span></p>

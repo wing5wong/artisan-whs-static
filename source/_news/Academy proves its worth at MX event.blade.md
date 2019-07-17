@@ -4,11 +4,12 @@ date:
 description: "GUTSY RIDE: Wanganui junior academy rider Jaxon Watt (WHS student) powered into 6th in the 12-16 85cc class at the Wellington Motocross Champs in Foxton at the weekend..."
 featured-image: 
 excerpt: "Wanganui junior academy rider Jaxon Watt (WHS student) powered into 6th in the 12-16 85cc class at the Wellington Motocross Champs in Foxton at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>GUTSY RIDE: Wanganui junior academy rider Jaxon Watt (WHS student) powered into 6th in the 12-16 85cc class at the Wellington Motocross Champs in Foxton at the weekend.<br />PHOTO courtesy of Blake Rountree.&nbsp;</span></p>

@@ -4,11 +4,12 @@ date:
 description: "THE BROS: Whanganui riders Joe (left) and Riki Waninhouse have placed in their respective grades in the Central Cross Country Series, Wanganui Chronicle article on 15/6/16..."
 featured-image: 
 excerpt: "THE BROS: Whanganui riders Joe (left) and Riki Waninhouse have placed in their respective grades in the Central Cross Country Series."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>THE BROS: Whanganui riders Joe (left) and Riki Waninhouse have placed in their respective grades in the Central Cross Country Series.</p>

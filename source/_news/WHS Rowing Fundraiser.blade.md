@@ -4,11 +4,12 @@ date: 2018-08-23
 description: "Whanganui High School Rowing Fundraiser. Please support our WHS Rowers for the upcoming season..."
 featured-image: 
 excerpt: "Whanganui High School Rowing Fundraiser. Please support our WHS Rowers for the upcoming season."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Whanganui High School Rowing Fundraiser</h4>

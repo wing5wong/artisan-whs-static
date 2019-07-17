@@ -4,11 +4,12 @@ date:
 description: "Great day at Central 6 in Palmerston Nth on Monday 8 August for our WHS Junior sports teams..."
 featured-image: 
 excerpt: "Great day at Central 6 in Palmerston Nth on Monday 8 August for our WHS Junior sports teams."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59af244ab8d39a35a5000701/good-3.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59af2453b8d39a35a5000703/good-4.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59af243bb8d39a35a50006ff/good-2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59af24adb8d39a35a500070d/good-4.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59af2486b8d39a35a5000707/good-2.jpg"
 ---
 
 <p><strong>WELL DONE Whanganui High School......Champions of Central 6 overall....woohoo!!</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School would like to host Ranby again..."
 featured-image: 
 excerpt: "Whanganui High School would like to host Ranby again."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Whanganui High School would like to host Ranby again.</p>

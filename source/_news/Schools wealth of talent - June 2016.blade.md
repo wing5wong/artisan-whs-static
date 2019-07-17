@@ -4,11 +4,12 @@ date:
 description: "Last Monday Marie and I watched Whanganui High School's performing arts production Live at the Opera House, Wanganui Midweek article 'Front Bit' with Paul Brooks 8/6/16..."
 featured-image: 
 excerpt: "Last Monday Marie and I watched Whanganui High School's performing arts production Live at the Opera House, Wanganui Midweek article 'Front Bit' with Paul Brooks 8/6/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Last Monday Marie and I watched Whanganui High School's performing arts production&nbsp;<em>Live at the Opera House</em></strong>, then, on Saturday, we followed it up with the final night of&nbsp;<em>Rise</em>, a musical presented by Whanganui Girls' College.</p>

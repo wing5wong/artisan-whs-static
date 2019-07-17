@@ -4,11 +4,12 @@ date:
 description: "Whanganui carpentry apprentice & ex WHS student Jack Aplin (right) at the Central Nth Island Apprentice of the Year awards.."
 featured-image: 
 excerpt: "Whanganui carpentry apprentice & former WHS student Jack Aplin (right) with his employer, Glenn Wadsworth of W&W Construction, at the Central North Island Apprentice of the Year awards last weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>PASSIONATE APPRENTICE: Whanganui carpentry apprentice &nbsp;and former WHS student Jack Aplin (right) with his employer, Glenn Wadsworth of W&amp;W Construction, at the Central North Island Apprentice of the Year awards last weekend. </span></p>

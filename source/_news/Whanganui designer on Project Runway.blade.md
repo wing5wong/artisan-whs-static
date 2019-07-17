@@ -4,11 +4,12 @@ date: 2018-09-15
 description: "Whanganui born designer Kerry Ranginui is a contestant on the first series of Project Runway NZ..."
 featured-image: 
 excerpt: "Whanganui born designer Kerry Ranginui is a contestant on the first series of Project Runway NZ."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b9ed8acff2a7c2965000472/Kerry-Ranginui-head-shot-only-from-Chron.jpg"
+	
+	
+	
+	
 ---
 
 <p><span><strong>Whanganui born designer Kerry Ranginui is a contestant on the first series of Project Runway NZ.</strong> <br />Photo / Supplied</span></p>

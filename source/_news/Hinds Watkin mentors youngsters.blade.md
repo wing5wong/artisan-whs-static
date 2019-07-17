@@ -4,11 +4,12 @@ date: 2018-01-04
 description: "Classy CD Hinds all-rounder Jessica Watkin is mentoring her youthful hometown Whanganui team in the Cricket Express Girls Under-18 Tournament at Victoria Park..."
 featured-image: 
 excerpt: "Classy CD Hinds all-rounder Jessica Watkin is mentoring her youthful hometown Whanganui team in the Cricket Express Girls Under-18 Tournament at Victoria Park this week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>MENTOR: Classy CD Hinds all-rounder Jessica Watkin is mentoring her youthful hometown Whanganui team in the Cricket Express Girls Under-18 Tournament at Victoria Park this week. <br /><em>PHOTO / Stuart Munro</em></span></p>

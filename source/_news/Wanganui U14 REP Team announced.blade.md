@@ -4,11 +4,12 @@ date:
 description: "Congratulations to the WHS boys who have made the Wanganui U14 Rugby team..."
 featured-image: 
 excerpt: "Congratulations to the WHS boys who have made the Wanganui U14 Rugby team."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>A BIG congratulations to our WHS rugby boys who have made the Wanganui U14 REP Rugby team to travel to Taupo to attend a Provincial Union Development Camp 17-19 July. <br />Well done boys!<br /></strong>(Lisa Murphy, Sports Co-ordinator)</p>

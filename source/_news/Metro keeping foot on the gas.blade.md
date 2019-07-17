@@ -4,11 +4,12 @@ date:
 description: "The St Johns Metro lads, the majority being former Whanganui High School students, are shaping up to break the Manawatu Colts division hoodoo."
 featured-image: 
 excerpt: "The St Johns Metro lads, the majority being former Whanganui High School students, are shaping up to break the Manawatu Colts division hoodoo."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">METRO MEN: The St Johns Metro lads, the majority being former Whanganui High School students,&nbsp;are shaping up to break the Manawatu Colts division hoodoo. &nbsp;</p>

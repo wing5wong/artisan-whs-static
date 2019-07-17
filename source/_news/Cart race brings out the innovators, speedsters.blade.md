@@ -4,11 +4,12 @@ date:
 description: "WHS student Lily Rose Claypole had a different perspective than most of the competitors at the Soapbox Derby..."
 featured-image: 
 excerpt: "WHS student Lily Rose Claypole had a different perspective than most of the competitors at the Soapbox Derby."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>DOWN LOW: WHS student Lily Rose Claypole had a different perspective than most of the competitors at the Soapbox Derby.<br />PHOTO: Stuart Munro&nbsp;</p>

@@ -4,11 +4,12 @@ date:
 description: "WHS student Osborne able to breach the defence of the Wairarapa Bush U18 team in Masterton on Saturday 1 October..."
 featured-image: 
 excerpt: "WHS student Osborne able to breach the defence of the Wairarapa Bush U18 team in Masterton on Saturday 1 October."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WHS student Osborne able to breach the defence of the Wairarapa Bush U18 team in Masterton on Saturday 1 October.</strong></p>

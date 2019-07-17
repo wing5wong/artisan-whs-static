@@ -1,14 +1,15 @@
 ---
 title: "\"Flight of Discovery\" winners"
 date: 
-description: "Sophie Baldwin and Jack Walker, both from WHS, enjoyed their 20 minute â€œFlight of Discoveryâ€ in the school holidays at the Commercial Pilot Academy..."
+description: "Sophie Baldwin and Jack Walker, both from WHS, enjoyed their 20 minute “Flight of Discovery” in the school holidays at the Commercial Pilot Academy..."
 featured-image: 
-excerpt: "Sophie Baldwin and Jack Walker, both from WHS, enjoyed their 20 minute â€œFlight of Discoveryâ€ in the October school holidays at the Commercial Pilot Academy."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Sophie Baldwin and Jack Walker, both from WHS, enjoyed their 20 minute “Flight of Discovery” in the October school holidays at the Commercial Pilot Academy."
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59e92b3eb8d39a463b00054b/Sophie-Baldwin-fly-academy-my-self.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59e92b7ab8d39a463b00054f/Sophie-Baldwin-fly-academy-with-instructor.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59e92b67b8d39a463b00054d/Sophie-Baldwin-fly-academy-taking-off.jpg"
+	
+	
 ---
 
 <p><strong>Sophie Baldwin and Jack Walker, both from WHS, enjoyed their 20 minute &ldquo;Flight of Discovery&rdquo; in the October school holidays at the Commercial Pilot Academy in Wanganui.</strong></p>

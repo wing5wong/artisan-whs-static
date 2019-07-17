@@ -4,11 +4,12 @@ date:
 description: "Former WHS student, Shaila Hawkins as Audrey and Chris Pedley as Seymour with carnivorous plant Audrey II in Little Shop of Horrors..."
 featured-image: 
 excerpt: "Former WHS student, Shaila Hawkins as Audrey and Chris Pedley as Seymour with carnivorous plant Audrey II in Little Shop of Horrors."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FEED ME: Former WHS student, <strong>Shaila Hawkins</strong> as Audrey and Chris Pedley as Seymour with carnivorous plant Audrey II in Little Shop of Horrors.</span></p>

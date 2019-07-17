@@ -4,11 +4,12 @@ date:
 description: "Aaron Rose (former WHS student) and Amelia Stanley raise up with a wheel stand. The NZ Sidecar Championship will be decided at Oceanview over the next two evenings..."
 featured-image: 
 excerpt: "Aaron Rose (former WHS student) and Amelia Stanley raise up with a wheel stand. The NZ Sidecar Championship will be decided at Oceanview over the next two evenings."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Wheels up: &nbsp;Aaron Rose (f<span>ormer WHS student)</span> and Amelia Stanley raise up with a wheel stand. The NZ Sidecar Championship will be decided at Oceanview over the next two evenings.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui student (and former WHS student) Scott Flutey back from Rwanda and the Commonwealth Summer School, Wanganui Chronicle article on 6/10/16..."
 featured-image: 
 excerpt: "Whanganui student (and former WHS student) Scott Flutey back from Rwanda and the Commonwealth Summer School"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>HOME VISIT: &nbsp;Whanganui student (and former WHS student) Scott Flutey back from Rwanda and the Commonwealth Summer School.</p>

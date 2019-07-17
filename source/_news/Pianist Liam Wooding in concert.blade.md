@@ -4,11 +4,12 @@ date:
 description: "Pianist and former Whanganui High School student Liam Wooding returns to his home town to play at concert on July 7 2017..."
 featured-image: 
 excerpt: "Pianist and former Whanganui High School student Liam Wooding returns to his home town to play at concert on July 7 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Pianist and former Whanganui High School student Liam Wooding returns to his home town to play at concert on July 7. <br />Photo / File</span></p>

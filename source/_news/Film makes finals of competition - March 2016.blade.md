@@ -4,11 +4,12 @@ date:
 description: "TOP CREW: Former WHS student; Director & lead actor Jharaiz Kiriona (left) with Wings team members Olivia Preston, Georgina Bloomfield, Grace Goulter & Antony Redgrave at Tropfest on Saturday night."
 featured-image: 
 excerpt: "TOP CREW: Former WHS student; Director & lead actor Jharaiz Kiriona (left) with Wings team members Olivia Preston, Georgina Bloomfield, Grace Goulter & Antony Redgrave at Tropfest on Saturday night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

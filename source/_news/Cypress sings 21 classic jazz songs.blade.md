@@ -4,11 +4,12 @@ date: 2018-07-19
 description: "Cypress Kani-Hurinui sings 21 classic jazz songs in The Blue Orchid play..."
 featured-image: 
 excerpt: "Cypress Kani-Hurinui sings 21 classic jazz songs in The Blue Orchid play."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Attn Jazz lovers - The Blue Orchid play should appeal to you</p>

@@ -4,11 +4,12 @@ date: 2018-10-16
 description: "Luke Watts & ex students Jonty Thomson 2nd Tonks Boat Race. Zeah Brewer, Niamh Monk, Jaimee Bridger & Ella Dudley 3rd..."
 featured-image: 
 excerpt: "Luke Watts & former WHS students Jonty Thomson 2nd Tonks Small Boat Race. WHS students Zeah Brewer, Niamh Monk, Jaimee Bridger & Ella Dudley were 3rd."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Luke Watts &amp; former student Jonty Thomson finished second in the Tonks Small Boat Race on Sunday.&nbsp; Students&nbsp;Zeah Brewer, Niamh Monk, Jaimee Bridger &amp; Ella Dudley were third on the podium.</strong><br /></span><em>PHOTO / Lewis Gardner</em></p>

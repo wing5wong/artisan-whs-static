@@ -4,11 +4,12 @@ date: 2019-04-06
 description: "Whanganui artists Glen Hutchins and Fleur Wickes are risking fate and trying a little tenderness at Space Gallery..."
 featured-image: 
 excerpt: "Whanganui artists Glen Hutchins and Fleur Wickes are risking fate and trying a little tenderness at Space Gallery."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=Wkys7PZhdC8ePfxIDVtnZQ%3d%3d" alt="" /></p>

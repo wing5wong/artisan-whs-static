@@ -4,11 +4,12 @@ date:
 description: "ON TARGET: Striker Jordan Gilmore lines up the Collegiate goalie to help WHS cruise home 7-1 last week."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>ON TARGET: Striker Jordan Gilmore lines up the Collegiate goalie to help WHS cruise home 7-1 last week.</p>

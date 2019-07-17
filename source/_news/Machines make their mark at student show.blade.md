@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Eva Harkness with her tape measure machine at Edith Gallery in Taupo Quay..."
 featured-image: 
 excerpt: "Former WHS student Eva Harkness with her tape measure machine at Edith Gallery in Taupo Quay."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>MEASURED MOTION: Former WHS student Eva Harkness with her tape measure.<br />PHOTO / Stuart Munro.</p>

@@ -4,11 +4,12 @@ date:
 description: "LOVING IT: Former WHS student, Constable Michelle Evans loves all parts of her job, good and bad, Wanganui Chronicle article on 16/1/16..."
 featured-image: 
 excerpt: "LOVING IT: Former WHS student, Constable Michelle Evans loves all parts of her job, good and bad."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

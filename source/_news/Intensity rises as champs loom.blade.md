@@ -1,14 +1,15 @@
 ---
 title: "Intensity rises as champs loom"
 date: 2019-02-21
-description: "School athletesâ€™ performances at big club night this week show off rising talent as bigger contests approach..."
+description: "School athletes’ performances at big club night this week show off rising talent as bigger contests approach..."
 featured-image: 
-excerpt: "School athletesâ€™ performances at big club night this week show off rising talent as bigger contests approach."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "School athletes’ performances at big club night this week show off rising talent as bigger contests approach."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p data-bind="text: $data">As we get to the business end of the season the number competing and the intensity of performance rises. By the time this is published Whanganui Girls College and Cullinane College will have had their schools championships, <strong>Whanganui High School</strong> hold their championships today and Whanganui Collegiate hold the annual Inter House Match on Saturday evening.</p>

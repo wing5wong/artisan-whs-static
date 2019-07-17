@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Liam Wooding is to play solo piano recital in Whanganui on Sundary 28 February at 3pm in the Prince Edward Auditorium, Wanganui Midweek article on 25/2/16..."
 featured-image: 
 excerpt: "Liam's recital for Chamber Music Wanganui launches the 2016 season as a prelude to the Celebrity Subscription Series and will be on Sunday, February 28 at 3pm in the Prince Edward Auditorium, Wanganui Collegiate School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

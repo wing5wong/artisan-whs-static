@@ -4,11 +4,12 @@ date:
 description: "Former WHS student TINEKE Paurini (left) and Teresa Leef with their entry in this year's mural competition, Wanganui Midweek article on 30/7/15..."
 featured-image: 
 excerpt: "Former WHS student TINEKE Paurini (left) and Teresa Leef with their entry in this year's mural competition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student TINEKE Paurini (left) and Teresa Leef with their entry in this year's mural competition.</p>

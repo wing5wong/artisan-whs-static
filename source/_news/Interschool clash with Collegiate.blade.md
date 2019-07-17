@@ -4,11 +4,12 @@ date:
 description: "Great day out in the sun at Collegiate today (Wednesday 23 August) for our inter school clash..."
 featured-image: 
 excerpt: "Great day out in the sun at Collegiate today (Wednesday 23 August) for our inter school clash."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Great day out in the sun at Collegiate today for our inter school clash, Wednesday 23 August.&nbsp;</span></p>

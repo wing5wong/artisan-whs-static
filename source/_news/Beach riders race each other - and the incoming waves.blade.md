@@ -4,11 +4,12 @@ date: 2018-12-29
 description: "WHS old-boy Ben Dowman was runnerup in the 450cc class at the Beach Races held at South Beach, the first since 1991..."
 featured-image: 
 excerpt: "WHS old-boy Ben Dowman was runnerup in the 450cc class at the Beach Races held at South Beach, the first since 1991."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c358c67ff2a7c185300040b/Ben-dowman-bikes-at-southbeach-chron-29-dec.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c358c5eff2a7c1853000409/Ben-dowman-bikes-2at-southbeach-chron-29-dec.jpg"
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><span>Mitch Rowe, right, was winner of the Offroad Motocross (Overs) division, with <span>WHS old-boy&nbsp;</span>Ben Dowman runnerup.</span></p>

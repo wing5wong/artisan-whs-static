@@ -4,11 +4,12 @@ date:
 description: "Overall Wanganui Schools sailing Regatta winner Jack Southee (WHS) is flanked portside by third-placed Felix Schrider (WCS) with second-placed Tom Evans (WCS) starboard, Wanganui Chronicle 23/3/16..."
 featured-image: 
 excerpt: "Overall Wanganui Schools sailing Regatta winner Jack Southee (WHS) is flanked portside by third-placed Felix Schrider (WCS) with second-placed Tom Evans (WCS) starboard, Wanganui Chronicle 23/3/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

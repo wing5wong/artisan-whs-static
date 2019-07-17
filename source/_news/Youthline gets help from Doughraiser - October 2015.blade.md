@@ -4,11 +4,12 @@ date:
 description: "GOOD WORKS:  Pictured at Domino's Pizza in Wanganui last night are Sarah Spence (left) and Francesca Palmer, both former Wanganui High School students, Wanganui Chronicle article on 29 October.."
 featured-image: 
 excerpt: "GOOD WORKS:  Pictured at Domino's Pizza in Wanganui last night are Sarah Spence (left) and Francesca Palmer, both former Wanganui High School students, Wanganui Chronicle article on 29 October..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>GOOD WORKS: &nbsp;Pictured at Domino's Pizza in Wanganui last night are Sarah Spence (left) and Francesca Palmer, both former Wanganui High School students.</p>

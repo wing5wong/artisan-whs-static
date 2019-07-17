@@ -4,11 +4,12 @@ date:
 description: "Dylan Bowater, Griffin Culver and Adam Bolt (Cullinane) from our WHS 1st XV who are this week at the U18 Hurricanes Rugby Camp along with Harry Unsworth from Collegiate."
 featured-image: 
 excerpt: "Dylan Bowater, Griffin Culver and Adam Bolt (Cullinane) from our WHS 1st XV who are this week at the U18 Hurricanes Rugby Camp along with Harry Unsworth from Collegiate."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Good Luck to Dylan Bowater, Griffin Culver and Adam Bolt (Cullinane) from our WHS 1st XV who are this week at the U18 Hurricanes Rugby Camp along with Harry Unsworth from Collegiate.&nbsp;</span></p>

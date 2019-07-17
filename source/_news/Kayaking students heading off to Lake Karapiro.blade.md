@@ -4,11 +4,12 @@ date:
 description: "WHS Kayaking students heading off to the NZCT Canoe Sprint nationals & Oceania Champs at Lake Karapiro this weekend... some results..."
 featured-image: 
 excerpt: "WHS Kayaking students heading off to the NZCT Canoe Sprint nationals & Oceania Champs at Lake Karapiro this weekend... some results.."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>15 Feb:</strong> Good Luck to our WHS Kayaking students heading off to the NZCT Canoe Sprint nationals &amp; oceania champs at Lake Karapiro this weekend.</span></p>

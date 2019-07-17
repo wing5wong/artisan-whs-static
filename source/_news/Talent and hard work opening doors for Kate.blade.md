@@ -4,11 +4,12 @@ date:
 description: "The winner of last month's Musicians' Club songwriting competition, former WHS student Kate Van Elswijk, overcame a vision impairment to compete on The Voice Australia..."
 featured-image: 
 excerpt: "The winner of last month's Musicians' Club songwriting competition, former WHS student Kate Van Elswijk, overcame a vision impairment to compete on The Voice Australia."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>A SONGWRITER'S VISION: The winner of last month's Musicians' Club songwriting competition, former WHS student Kate Van Elswijk, overcame a vision impairment to compete on <em>The Voice Australia</em>. <br />PHOTO: Stuart Munro</span></p>

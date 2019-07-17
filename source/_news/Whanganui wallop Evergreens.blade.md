@@ -4,11 +4,12 @@ date: 2018-08-28
 description: "The victorious Whanganui women with their Manawatū Women's Premier Reserve hockey trophy..."
 featured-image: 
 excerpt: "The victorious Whanganui women with their Manawatū Women's Premier Reserve hockey trophy."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The victorious Whanganui women (including WHS students'&nbsp;<strong>Charlotte Baker, Olivia Smith, Chantelle de Koning and Lucy Skedgwell; along with the WHS Girls 1st XI Coach, Melissa Goff</strong>) with their Manawatū Women's Premier Reserve hockey trophy. <br />Photo / Supplied</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Netball Wanganui had a spoil of riches for their older age group representative team trials with the best turnout in several years..."
 featured-image: 
 excerpt: "Netball Wanganui had a spoil of riches for their older age group representative team trials with the best turnout in several years."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Netball Wanganui had a spoil of riches for their older age group representative team trials with the best turnout in several years.</p>

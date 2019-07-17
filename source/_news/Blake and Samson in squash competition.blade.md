@@ -4,11 +4,12 @@ date: 2018-09-26
 description: "WHS students Samson Power and Blake Hoskin both did well at the Whanganui Squash Club Champs..."
 featured-image: 
 excerpt: "WHS students Samson Power and Blake Hoskin both did well at the Whanganui Squash Club Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Not all divisional winners made it to the Whanganui Squash Club Championship photo shoot.<br /><em>Photo / Supplied</em></p>

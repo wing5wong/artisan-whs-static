@@ -4,11 +4,12 @@ date: 2018-04-06
 description: "Congratulations to both our WHS junior debating teams for winning their first debates..."
 featured-image: 
 excerpt: "Congratulations to both our WHS junior debating teams for winning their first debates."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ad03073b8d39a7499001556/Team-Kakariki.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ad03058ff2a7c6bfc00152b/feedback-2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ad0303cb8d39a7499001554/both-teams.jpg"
+	
+	
 ---
 
 <p><strong>Congratulations to both junior debating teams for winning their first debates.&nbsp;</strong></p>

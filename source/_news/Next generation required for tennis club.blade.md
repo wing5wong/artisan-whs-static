@@ -4,11 +4,12 @@ date:
 description: "Whanganui tennis needs more youngsters like WHS student Sam Russell to fill the shoes of talented players who have moved on..."
 featured-image: 
 excerpt: "Whanganui tennis needs more youngsters like WHS student Sam Russell to fill the shoes of talented players who have moved on."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>STEPPING UP: Whanganui tennis needs more youngsters like WHS student Sam Russell to fill the shoes of talented players who have moved on.</strong></p>

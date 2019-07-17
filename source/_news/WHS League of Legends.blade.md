@@ -4,11 +4,12 @@ date:
 description: "Our Whanganui High School League of Legends team have made it to the Nationals!"
 featured-image: 
 excerpt: "Our Whanganui High School League of Legends team have made it to the Nationals!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Our Whanganui High School League of Legends team have made it to the Nationals!..of&nbsp;New Zealand's first secondary school eSports competition.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "CHAMPION STYLE: Wanganui Mountain Bike Club member and Wanganui High School student Lochie Steedman - current Manawatu under-17 winter series title-holder - navigates some cross-country terrain."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>CHAMPION STYLE: Wanganui Mountain Bike Club member and Wanganui High School student Lochie Steedman - current Manawatu under-17 winter series title-holder - navigates some cross-country terrain.</span></p>

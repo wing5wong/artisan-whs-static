@@ -4,11 +4,12 @@ date:
 description: "Wanganui hockey export Martin Atkinson will grasp the opportunity to join a newly created New Zealand youth team with both hands after his selection in the NZ Futures Under 23 squad to play Australia"
 featured-image: 
 excerpt: "Wanganui hockey export and former WHS student Martin Atkinson will grasp the opportunity to join a newly created New Zealand youth team with both hands after his selection in the NZ Futures Under 23 squad to play Australia in a five-test series in November."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>EARLY DAYS: &nbsp;Martin Atkinson (right), newest selection for the New Zealand Under-23 team, back when still playing for Tech College Old Boys at Gonville Domain.</span></p>

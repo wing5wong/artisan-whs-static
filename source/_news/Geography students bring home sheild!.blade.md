@@ -4,11 +4,12 @@ date:
 description: "Congratulations to Leila Collinson, Elena Egorov & Hamish Beissel who won gold at the Maatangi Whenua Geography competition held at Massey University on Thursday 11 August."
 featured-image: 
 excerpt: "Congratulations to Leila Collinson, Elena Egorov and Hamish Beissel who won gold at the Maatangi Whenua Geography competition held at Massey University on Thursday 11 August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Congratulations to Leila Collinson, Elena Egorov and Hamish Beissel who won gold at the Maatangi Whenua Geography competition held at Massey University on Thursday 11 August.</strong></p>

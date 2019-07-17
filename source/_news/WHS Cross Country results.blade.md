@@ -4,11 +4,12 @@ date: 2018-05-09
 description: "A fantastic day was had at our WHS Cross Country event held on Wednesday 9 May 2018..."
 featured-image: 
 excerpt: "A fantastic day was had at our WHS Cross Country event held on Wednesday 9 May 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>A fantastic day was had at our Whanganui High School Cross Country event held on Wednesday 9 May 2018:</p>

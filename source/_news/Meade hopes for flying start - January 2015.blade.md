@@ -4,11 +4,12 @@ date:
 description: "Wanganui waterskier Lily Meade will compete in the Wanganui Gold Star tournament this weekend, just a week after the junior world champs in Peru, from the Wanganui Chronicle article 16 Jan 2015...."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>WANGANUI waterskier Lily Meade has returned from her debut world champs and is gearing up for her home tournament this weekend.</p>

@@ -4,11 +4,12 @@ date:
 description: ""
 featured-image: 
 excerpt: "Congratulations to our Phillips Electrical WHS A1 netball team who won their semi final on Monday night against Marist 60-39."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Congratulations to our Phillips Electrical WHS A1 netball team who won their semi final on Monday night against Marist 60-39. </span></p>

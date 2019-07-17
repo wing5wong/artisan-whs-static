@@ -4,11 +4,12 @@ date: 2018-04-28
 description: "Writer Anna Ryan (former WHS student) with hard copies of her two self-published books..."
 featured-image: 
 excerpt: "Writer Anna Ryan (former WHS student) with hard copies of her two self-published books."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Writer Anna Ryan (former WHS student) with hard copies of her two self-published books.</strong><br /><em>PHOTO / Bevan Conley</em></p>

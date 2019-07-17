@@ -4,11 +4,12 @@ date:
 description: "Our Junior Colts Cricket team are over in Napier at the moment playing in the Junior Cricket Tournament. At the opening ceremony our boys won best dressed team!"
 featured-image: 
 excerpt: "Our Junior Colts Cricket team are over in Napier at the moment playing in the Junior Cricket Tournament. At the opening ceremony our boys looked very smart in their Blazers winning best dressed team!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Our Junior Colts Cricket team are over in Napier at the moment playing in the Junior Cricket Tournament.</span></p>

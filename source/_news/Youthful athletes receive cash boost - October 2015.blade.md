@@ -6,11 +6,12 @@ One of those faces to receive a grant was Wanganui High School student Blair Osb
 featured-image: 
 excerpt: "Five new faces are the latest recipients of grants from the Mitre 10 Mega Wanganui Future Champions Trust.
 One of those faces to receive a grant was Wanganui High School student Blair Osborne."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Five new faces are the latest recipients of grants from the Mitre 10 Mega Wanganui Future Champions Trust.</p>

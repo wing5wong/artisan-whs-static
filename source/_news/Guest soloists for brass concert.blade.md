@@ -4,11 +4,12 @@ date:
 description: "Former WHS students Kyle Lawson and Bradley Mancer will feature as guest soloists in the upcoming Brass Whanganui concert at Christ Church."
 featured-image: 
 excerpt: "Former WHS students Kyle Lawson and Bradley Mancer will feature as guest soloists in the upcoming Brass Whanganui concert held on October 31 at 2pm at Christ Church on Wicksteed St."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>This weekend two of Whanganui's most recent successful brass exports will be returning to the city to perform.&nbsp;Former WHS students Kyle Lawson and Bradley Mancer will feature as guest soloists in the upcoming Brass Whanganui concert at Christ Church.</strong></p>

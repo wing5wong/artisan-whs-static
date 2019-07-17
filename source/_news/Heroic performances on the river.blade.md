@@ -4,11 +4,12 @@ date: 2018-05-18
 description: "Both past & present WHS students had heroic performances at the Winter Series races on the Whanganui River..."
 featured-image: 
 excerpt: "Both past & present Whanganui High School students had heroic performances at the Winter Series races on the Whanganui River."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Both&nbsp;past and present Whanganui High School students had heroic performances at the Winter Series races on the Whanganui River.</strong></p>

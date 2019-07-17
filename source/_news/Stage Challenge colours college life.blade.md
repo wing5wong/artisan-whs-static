@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School's winning performance at the 2016 Stage Challenge..."
 featured-image: 
 excerpt: "Whanganui High School's winning performance at the 2016 Stage Challenge."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WINNERS: Whanganui High School's winning performance at the 2016 Stage Challenge.</strong></p>

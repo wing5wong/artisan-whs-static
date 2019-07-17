@@ -4,11 +4,12 @@ date:
 description: "FULL SWING: Whanganui's Timara Wallace (WHS student) on the uneven bars at the Wanganui Boys & Girls gym open championships on Saturday, Wanganui Chronicle article on 3/6/16..."
 featured-image: 
 excerpt: "FULL SWING: Whanganui's Timara Wallace on the uneven bars at the Wanganui Boys & Girls gym open championships on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FULL SWING: Whanganui's Timara Wallace (WHS student) on the uneven bars at the Wanganui Boys &amp; Girls gym open championships on Saturday.</span></p>

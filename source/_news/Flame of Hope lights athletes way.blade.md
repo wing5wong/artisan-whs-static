@@ -4,11 +4,12 @@ date:
 description: "Athlete Grant McCullough (who also works as a Teacher Aide in the Te Atawhai Special Unit at WHS) holding the Flame of  Hope (behind the cup)..."
 featured-image: 
 excerpt: "Athlete Grant McCullough (who also works as a Teacher Aide in the Te Atawhai Special Unit at WHS) holding the Flame of  Hope (behind the cup)."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>OLYMPICS INSPIRATIONS: Athlete Grant McCullough (who also works as a Teacher Aide in the Te Atawhai Special Unit at Whanganui High School) and Constable Rob Dickson hold the Flame of&nbsp; Hope as the Law Enforcement Torch Relay visits the Peter Snell statue in Cooks Gardens.<br />PHOTO / Stuart Munro.</p>

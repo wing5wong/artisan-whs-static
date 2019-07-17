@@ -1,14 +1,15 @@
 ---
 title: "High School girls having singing roles in 'The Tempest'"
 date: 2018-02-08
-description: "Allyssa Pram who will be singing along with Leigh-ana Hale in â€˜The Tempestâ€™..."
+description: "Allyssa Pram who will be singing along with Leigh-ana Hale in ‘The Tempest’..."
 featured-image: 
-excerpt: "Allyssa Pram who will be singing along with Leigh-ana Hale in â€˜The Tempestâ€™"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Allyssa Pram who will be singing along with Leigh-ana Hale in ‘The Tempest’"
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span>Allyssa Pram who will be singing along with Leigh-ana Hale in &lsquo;<em>The Tempest</em>&rsquo;</span></span></p>

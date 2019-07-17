@@ -4,11 +4,12 @@ date:
 description: "MUD PACK: WHS student Jordan Hatch cleared out from the pack to finish third overall in the B Grade class at the Wanganui Motorcycle Club's flat track series, Wanganui Chronicle article on 18/11/15..."
 featured-image: 
 excerpt: "MUD PACK: WHS student Jordan Hatch cleared out from the pack to finish third overall in the B Grade class at the Wanganui Motorcycle Club's flat track series, Wanganui Chronicle article on 18/11/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>MUD PACK: <strong>WHS student Jordan Hatch</strong> cleared out from the pack to finish third overall in the B Grade class at the Wanganui Motorcycle Club's flat track series.</span></p>

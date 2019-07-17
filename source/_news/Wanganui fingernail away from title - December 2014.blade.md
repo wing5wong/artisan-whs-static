@@ -4,11 +4,12 @@ date:
 description: "WHS mixed touch team coming within a whisker of claiming the NZ Secondary Schools title at Papakura's Bruce Pulman, from the Wanganui Chronicle article 19 Dec 2014...."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;">For the second time in two years, the Wanganui High School mixed touch team came within a whisker of claiming the New Zealand Secondary Schools title at Papakura's Bruce Pulman at the weekend.</span></p>

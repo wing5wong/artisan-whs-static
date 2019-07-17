@@ -4,11 +4,12 @@ date: 2018-04-10
 description: "Whanganui High School's Rebecca Baker took out the 1500m-3000m double with classy national-level performances..."
 featured-image: 
 excerpt: "Whanganui High School's Rebecca Baker took out the 1500m-3000m double with classy national-level performances."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba1c513ff2a7c2965000742/Baker-Charlotte-10-april.jpg"
+	
+	
+	
+	
 ---
 
 <h3 class="element element-paragraph">Whanganui High School's Rebecca Baker took out the 1500m-3000m double with classy national-level performances.</h3>

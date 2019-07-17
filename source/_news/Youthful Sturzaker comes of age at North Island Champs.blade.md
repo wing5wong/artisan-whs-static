@@ -4,11 +4,12 @@ date: 2019-01-04
 description: "Callum Sturzaker took the 15V Whanganui Stockcar to second place in the North Island championships..."
 featured-image: 
 excerpt: "Callum Sturzaker took the 15V Whanganui Stockcar to second place in the North Island championships."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Callum Sturzaker took the 15V Whanganui Stockcar to second place in the North Island championships.<br /></strong><em>Photo / Supplied</em></p>

@@ -4,11 +4,12 @@ date:
 description: "CENTRAL DUTIES: Whanganui international Emma Rainey is one of possibly seven from the River City playing in the combined Taranaki/Whanganui women's team in Palmerston North over Queen's Birthday..."
 featured-image: 
 excerpt: "CENTRAL DUTIES: Whanganui international Emma Rainey is one of possibly seven from the River City playing in the combined Taranaki/Whanganui women's team in Palmerston North over Queen's Birthday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>CENTRAL DUTIES: Whanganui international Emma Rainey (WHS student) is one of possibly seven from the River City playing in the combined Taranaki/Whanganui women's team in Palmerston North over Queen's Birthday.</strong></p>

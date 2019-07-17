@@ -4,11 +4,12 @@ date:
 description: "Congratulations to former WHS student Katrina Hunter, who has graduated from NZ School of Tourism and is now employed with Disney World Orlando."
 featured-image: 
 excerpt: "Congratulations to former WHS student Katrina Hunter, who has graduated from NZ School of Tourism and is now employed with Disney World Orlando."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/595eeb00b8d39a317d000717/katrina-hunter-other-photo.PNG"
+	
+	
+	
+	
 ---
 
 <p>Congratulations to former WHS student Katrina Hunter, who has graduated from NZ School of Tourism and is now employed with Disney World Orlando.</p>

@@ -4,11 +4,12 @@ date: 2018-09-27
 description: "From busking at the Whanganui River Markets to opening for Tiki Taane, Ra Costelloe is making moves in music..."
 featured-image: 
 excerpt: "From busking at the Whanganui River Markets to opening for Tiki Taane, Ra Costelloe is making moves in music."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span>From busking at the Whanganui River Markets to opening for Tiki Taane, Ra Costelloe is making moves in music.</span><br /><em>PHOTO / Stuart Munro</em></span></p>

@@ -4,16 +4,17 @@ date: 2019-03-28
 description: "Travis Bayler, Karl Loebe, Sophie Andrews, Maysin Katene, Georgina Forrester & Connor Munro - winners at major meetings"
 featured-image: 
 excerpt: "Travis Bayler, Karl Loebe, Sophie Andrews, Maysin Katene, Georgina Forrester & Connor Munro were all winners at major meetings recently."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJK9IQ8TNBoT-VKM8RLc0EegEiVsDaIFPn4MRpPZC6BYsFrT17g" alt="Image result for athletics images" /></strong></p>
 <p class="element element-paragraph"><strong>Travis Bayler, Karl Loebe, Sophie Andrews, Maysin Katene, Georgina Forrester and Connor Munro were all winners at major meetings recently.</strong></p>
-<p class="element element-paragraph">Leading Whanganui athletes were in action in major meetings over the weekend at three different North Island venues.</p>
+<p class="element element-paragraph"><br />Leading Whanganui athletes were in action in major meetings over the weekend at three different North Island venues.</p>
 <p class="element element-paragraph">The first in action was 14-year-old Sophie Williams who had been invited to run in a top women's 100 metre field at the Sir Graeme Douglas International Track Challenge in Auckland.</p>
 <p class="element element-paragraph">Unfortunately, her action was not down the 100 metre straight as a delayed flight, an accident on the motorway and grid-locked traffic meant she missed the race.</p>
 <p class="element element-paragraph">The journey from the Airport to Waitakere was close to three hours. Her day was rescued by joining a New Zealand 4 x 100 team to record an outstanding 46.79 with Williams running the first leg handing on to NZ international Portia Bing. Bing had won the 100 metres earlier that night.</p>

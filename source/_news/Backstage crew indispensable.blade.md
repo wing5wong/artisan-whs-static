@@ -4,11 +4,12 @@ date:
 description: "INDISPENSABLE: The Red Riding Hood Crew, Wanganui Midweek article on 7/12/16..."
 featured-image: 
 excerpt: "INDISPENSABLE: The Red Riding Hood Crew."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>INDISPENSABLE: The Red Riding Hood Crew.&nbsp;</span><br /><span>PICTURE / Harmony May</span></p>

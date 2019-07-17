@@ -4,11 +4,12 @@ date: 2018-12-06
 description: "Good Luck to coach Sean Brown & our WHS Touch team in Auckland this weekend for the NZSS Nationals..."
 featured-image: 
 excerpt: "Good Luck to coach Sean Brown and our WHS Touch team in Auckland this weekend for the NZSS Nationals."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Good Luck to coach Sean Brown and our WHS Touch team in Auckland this weekend for the NZSS Nationals!&nbsp;</span></p>

@@ -4,11 +4,12 @@ date:
 description: "WHS motocross riders Blake Rountree, James Rountree & Oliver Dennison with their trophy from the Taranaki Secondary Schools championships..."
 featured-image: 
 excerpt: "Whanganui High School motocross riders Blake Rountree, James Rountree and Oliver Dennison with their trophy from the Taranaki Secondary Schools championships on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1d549b8d39a417f0006d7/3-WHS-winners-in-uniform-re-SS-champs-at-March-2017.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1d557b8d39a417f0006d9/motocross-boys-from-WHS--champs-March-2017.jpg"
+	
+	
+	
 ---
 
 <p><strong>Whanganui High School motocross riders Blake Rountree, James Rountree and Oliver Dennison with their trophy from the Taranaki Secondary Schools championships on Sunday.</strong></p>

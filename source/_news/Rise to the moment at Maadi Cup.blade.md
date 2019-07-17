@@ -4,11 +4,12 @@ date: 2018-03-20
 description: "Thousands of rowers will line up for hundreds of races in the NZSS Rowing Champs & Maadi Cup..."
 featured-image: 
 excerpt: "Thousands of rowers will line up for hundreds of races this week in the NZ Secondary School Rowing Champs and the Maadi Cup."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>BEST OF THE BEST: Thousands of rowers will line up for hundreds of races this week in the NZ Secondary School Rowing Champs and the Maadi Cup.<br /><em>PHOTO / File</em></span></p>

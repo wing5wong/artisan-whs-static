@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School student Tokorangi Poa has won a national award for his artwork..."
 featured-image: 
 excerpt: "Whanganui High School student Tokorangi Poa has won a national award for his artwork."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>MAIRE TOHROA: Whanganui High School student Tokorangi Poa has won a national award for his artwork.</h4>

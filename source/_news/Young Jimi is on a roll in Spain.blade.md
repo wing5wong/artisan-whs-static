@@ -4,11 +4,12 @@ date:
 description: "Whanganui teenager Jimi Blinkhorne (centre) will add to skills learned during age group tests in Australia at a month-long roller hockey training camp in Spain..."
 featured-image: 
 excerpt: "Whanganui teenager Jimi Blinkhorne (centre) will add to skills learned during age group tests in Australia at a month-long roller hockey training camp in Spain."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>ON TOUR: Whanganui teenager Jimi Blinkhorne (centre) will add to skills learned during age group tests in Australia at a month-long roller hockey training camp in Spain.</strong></p>

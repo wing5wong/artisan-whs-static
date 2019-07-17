@@ -4,11 +4,12 @@ date: 2018-02-15
 description: "The pain strokes kick in to get the AWRC crew Luke Watts (front), Nathan Luff, Guy Thomson & Levi Carroll into the men's senior coxless four final..."
 featured-image: 
 excerpt: "The pain strokes kick in to get the AWRC crew Luke Watts (front), Nathan Luff, Guy Thomson and Levi Carroll into the men's senior coxless four final at the nationals at Karapiro."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>POWER ON: The pain strokes kick in to get the AWRC crew of Luke Watts (front) and&nbsp;<strong>current/former WHS students'</strong>, Nathan Luff, Guy Thomson and Levi Carroll into the men's senior coxless four final at the nationals at Karapiro.</strong> <br /><em>PHOTO / Steve McArthur</em></span></p>

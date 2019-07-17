@@ -4,11 +4,12 @@ date:
 description: "WHS students, Lucas Thompson (left) and Jack Clifton had the power on the water to bring home the bulk of Whanganui's medals and national titles..."
 featured-image: 
 excerpt: "WHS students, Lucas Thompson (left) and Jack Clifton had the power on the water to bring home the bulk of Whanganui's medals and national titles."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>PADDLE POWER: WHS students, Lucas Thompson (left) and Jack Clifton had the power on the water to bring home the bulk of Whanganui's medals and national titles.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "STRONG SUPPORT: Kayaker and former WHS student Aiden Nossiter with Vet Care Training students after he took them out for a lesson on Whanganui River, with the donation going towards his quest..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>STRONG SUPPORT: Kayaker and former WHS student Aiden Nossiter with Wanganui Vet Care Training students Lauren De Vincentis (left), and Elyse Butters after he took them out for a lesson on Whanganui River, with the donation going towards his quest for the Under-23 World Championships.</span></p>

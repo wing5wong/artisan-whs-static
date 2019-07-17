@@ -4,11 +4,12 @@ date: 2018-02-22
 description: "Some of the guests, teachers and students at Whanganui High School's launch of the House System..."
 featured-image: 
 excerpt: "Some of the guests, teachers and students at Whanganui High School's launch of the House System."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Some of the guests, teachers and students at Whanganui High School's launch of the House System.</strong></p>

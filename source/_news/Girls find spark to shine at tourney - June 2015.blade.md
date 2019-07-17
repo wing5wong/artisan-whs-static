@@ -4,11 +4,12 @@ date:
 description: "GOAL TIME: Wanganui U17 GS Taliah Su'a (WHS student) is strong to the ball against Hutt Valley at the Steffersen Netball Tournament in Palmerston North, Wanganui Chronicle article on 18/6/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>GOAL TIME: Wanganui U17 GS Taliah Su'a (Wanganui High School <span>student</span>) is strong to the ball against Hutt Valley while teammates GA Te Manawanui Tapa-Ranginui and C Kataraina Hakaraia provide back-up at the Steffersen Netball Tournament in Palmerston North.</span></p>

@@ -4,11 +4,12 @@ date: 2018-06-21
 description: "Jack Mitchell Anyon is committed to recycling in his cafe/shop..."
 featured-image: 
 excerpt: "Jack Mitchell Anyon is committed to recycling in his cafe/shop."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Unique cafe/shop - proud to have almost nothing new - recycling in action.</span></p>

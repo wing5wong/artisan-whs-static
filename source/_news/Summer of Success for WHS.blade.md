@@ -4,11 +4,12 @@ date:
 description: "Summer of Success for WHS - Wanganui Secondary School News in the River City Press 20/4/17..."
 featured-image: 
 excerpt: "Summer of Success for WHS - Wanganui Secondary School News in the River City Press 20/4/17."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/590814b8b8d39a6a96000497/photo-for-RCP-20-April-2017.jpg"
+	
+	
+	
+	
 ---
 
 <p><strong>Summer of Success for WHS</strong> - Wanganui Secondary School News - River City Press 20/4/17</p>

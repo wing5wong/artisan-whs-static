@@ -4,11 +4,12 @@ date:
 description: "WHS teachers Queralt Scott, Marilyn Wilkie & Beverly Stuart; Antonio Salas & Andrea Gardner with support from Whanganui District Council, are bringing 11 films to Whanganui audiences with free..."
 featured-image: 
 excerpt: "WHS teachers Queralt Scott, Marilyn Wilkie & Beverly Stuart; Antonio Salas & Andrea Gardner with support from Whanganui District Council, are bringing 11 films to Whanganui audiences with free screenings from October 19 until November 11 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Ricardo Darin (left), Norma Aleandro and Hector Alterio in a scene from Argentinian comedy Son of the Bride.</span></p>

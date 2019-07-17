@@ -4,11 +4,12 @@ date:
 description: "New graduates: Former WHS student Jai Stephens (left) and Elliot Copeland are enjoying the range of opportunities a provincial law firm provides."
 featured-image: 
 excerpt: "New graduates: Former WHS student Jai Stephens (left) and Elliot Copeland are enjoying the range of opportunities a provincial law firm provides."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>New graduates: Former WHS student Jai Stephens (left) and Elliot Copeland are enjoying the range of opportunities a provincial law firm provides.</span></p>

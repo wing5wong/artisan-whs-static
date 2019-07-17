@@ -4,14 +4,15 @@ date:
 description: "REBECCA BAKER - GOLD Medal...  #1 in NZ for the Junior Girls 1500 mtr run at the NZSS Athletic Champs..."
 featured-image: 
 excerpt: "REBECCA BAKER - GOLD Medal...  #1 in NZ for the Junior Girls 1500 mtr run at the NZSS Athletic Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25e6f4b8d39a41ae000064/WHS-Athletics-Team-heading-to-the-NZSS-Athletics-Champs-in-Hastings,-1-Dec-2017.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25e6e8b8d39a41ae000062/rebecca-half-way-thro.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbe6b8d39a41ae00003a/Rebecca-running-1500.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbd9b8d39a41ae000038/Rebecca-Baker-GOLD-medal-Dec-2017.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbccb8d39a41ae000036/Rebecca-Baker-GOLD-medal-by-herself-Dec-2017.jpg"
 ---
 
-<h4>Woohoo!!!!&nbsp; <br />REBECCA BAKER....... you star&nbsp;&nbsp;<span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fb4/1/16/2b50.png" alt="" width="16" height="16" /><span class="_7oe">â­ï¸</span></span><br />GOLD MEDAL.... #1 in NZ for Junior Girls 1500 mtr run at the NZSS Athletic Champs!&nbsp;</h4>
+<h4>Woohoo!!!!&nbsp; <br />REBECCA BAKER....... you star&nbsp;&nbsp;<span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fb4/1/16/2b50.png" alt="" width="16" height="16" /><span class="_7oe">⭐️</span></span><br />GOLD MEDAL.... #1 in NZ for Junior Girls 1500 mtr run at the NZSS Athletic Champs!&nbsp;</h4>
 <h4>Amazing result..... well done!&nbsp; &nbsp;<span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fbe/1/16/1f3c6.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /><br />&nbsp;</span></h4>
 <p><a href="https://www.facebook.com/1755438068069518/videos/2006065436340112/?fref=mentions">W<span>atch our Superstar Rebecca Baker easily win the Junior Girls 1500 mtr final at the NZSS Athletic Champs!!</span></a></p>
 <p>Way to go Rebecca !!!!</p>

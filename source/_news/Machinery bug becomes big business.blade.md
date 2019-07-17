@@ -5,11 +5,12 @@ description: "Former WHS student Thomas Matthews is the ultimate go-getter.An id
 featured-image: 
 excerpt: "Former Whanganui High School student Thomas Matthews is the ultimate go-getter.
 An idea that started when he got the \"machinery bug\" has been transformed into Matthews Agriculture, of which he is the founder and owner."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Founder and owner of Matthews Agriculture Thomas Matthews with this seasons barley crop. <br />PHOTO: Bevan Conley.</span></p>

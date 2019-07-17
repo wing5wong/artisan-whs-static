@@ -4,11 +4,12 @@ date: 2018-06-05
 description: "Young musicians Ethan Mancer & Sarah Wright have been selected for National Youth Brass Band of NZ..."
 featured-image: 
 excerpt: "Young musicians Ethan Mancer & Sarah Wright have been selected for National Youth Brass Band of NZ..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3 class="element element-paragraph">Young Whanganui musicians Ethan Mancer and Sarah Wright have been selected for both the National Youth Brass Band and the National Secondary Schools' Brass Band.</h3>

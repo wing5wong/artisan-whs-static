@@ -4,11 +4,12 @@ date:
 description: "Team 'Bees Knees'/WHS students; Katie Foster, Rosa Spence, Shayla O'Mahony & Phoebe Brown came 2nd overall in the 5km teams event at the Mudmuster race..."
 featured-image: 
 excerpt: "Team 'Bees Knees'/WHS students; Katie Foster, Rosa Spence, Shayla O'Mahony & Phoebe Brown came 2nd overall in the 5km teams event at the Mudmuster race."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Team 'Bees Knees'/WHS students; Katie Foster, Rosa Spence, Shayla O'Mahony &amp; Phoebe Brown came 2nd overall in the 5km teams event at the Mudmuster race held on Saturday 15 October 2016.&nbsp;</p>

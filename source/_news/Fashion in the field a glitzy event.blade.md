@@ -4,11 +4,12 @@ date: 2018-12-03
 description: "The crowd at Whanganui's Christmas at the Races was so well dressed, judge Kerry Ranginui said..."
 featured-image: 
 excerpt: "The crowd at Whanganui's Christmas at the Races was so well dressed that more could have entered the Fashion in the Field event, judge Kerry Ranginui said."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The crowd at Whanganui's Christmas at the Races was so well dressed that more could have entered the Fashion in the Field event, judge Kerry Ranginui said.<br /><em>PHOTOS / Bevan Conley</em></p>

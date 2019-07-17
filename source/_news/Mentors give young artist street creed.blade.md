@@ -4,11 +4,12 @@ date: 2019-04-06
 description: "Hayley was quickly sharing advice with Merle who was explaining the processes behind her portfolio work at Walls Art..."
 featured-image: 
 excerpt: "Hayley was quickly sharing advice with Merle who was explaining the processes behind her portfolio work at Whanganui Walls."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><img src="https://www.nzherald.co.nz/resizer/bbRvtSVf1ZoZZYrs-QuzuH9t7_M=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/HUGTIGSGGZEQJCFKDIXTBSCO5M.jpg" alt="They had only known each other for a day, but Hayley was quickly sharing advice with Merle who was explaining the processes behind her portfolio work. Photo / Jesse King " /></p>

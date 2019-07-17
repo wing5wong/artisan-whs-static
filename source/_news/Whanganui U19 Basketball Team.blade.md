@@ -4,11 +4,12 @@ date:
 description: "Well done to our WHS students who are in the Whanganui U19 Basketball Team and qualified for Nationals coming 3rd at the qualifying tournament in the weekend."
 featured-image: 
 excerpt: "Well done to our WHS students who are in the Whanganui U19 Basketball Team and qualified for Nationals coming 3rd at the qualifying tournament in the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Well done to our WHS students who are in the <strong>Whanganui U19 Basketball Team</strong> and qualified for Nationals coming 3rd at the qualifying tournament in the weekend. </span></p>

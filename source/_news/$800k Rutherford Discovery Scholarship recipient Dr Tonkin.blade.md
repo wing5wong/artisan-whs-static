@@ -4,11 +4,12 @@ date: 2018-11-24
 description: "Dr Jonathan Tonkin has received a $800,000 Rutherford Discovery Scholarship for his ecological research programme..."
 featured-image: 
 excerpt: "Dr Jonathan Tonkin has received a $800,000 Rutherford Discovery Scholarship for his ecological research programme."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Dr Jonathan Tonkin has received a $800,000 Rutherford Discovery Scholarship for his ecological research programme.</span></p>

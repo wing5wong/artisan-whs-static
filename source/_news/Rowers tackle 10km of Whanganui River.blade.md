@@ -4,11 +4,12 @@ date:
 description: "The AWRC team of past and present WHS students won the day at the Whanganui River Challenge..."
 featured-image: 
 excerpt: "The AWRC team of past and present WHS students won the day at the Whanganui River Challenge."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">The Aramoho Wanganui Rowing Club's senior men's eight and Union Boat Club's Philippa Baker-Hogan and were the top of the podium at the Whanganui River Challenge yesterday morning.</p>

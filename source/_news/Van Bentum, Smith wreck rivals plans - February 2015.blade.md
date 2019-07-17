@@ -4,11 +4,12 @@ date:
 description: "UPSETTERS: Rebecca Smith and Jessica van Bentum are Europe-bound after causing an upset in the senior women's relay at the 2015 NZ banked track championships in Timaru, Wanganui Chronicle 19 Feb 2015"
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>UPSETTERS: &nbsp;Former WHS students Rebecca Smith and Jessica van Bentum are Europe-bound after causing an upset in the senior women's relay at the 2015 NZ banked track championships in Timaru.</p>

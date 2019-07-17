@@ -4,11 +4,12 @@ date:
 description: "SKILLS: Whanganui's Jimi Blinkhorne (WHS student) carves through the Aussie pack during the national U16 Trans Tasman Cup clash in Auckland at the end of August, Wanganui Chronicle article on 6/9/16.."
 featured-image: 
 excerpt: "SKILLS: Whanganui's Jimi Blinkhorne (WHS student) carves through the Aussie pack during the national U16 Trans Tasman Cup clash in Auckland at the end of August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>SKILLS: Whanganui's Jimi Blinkhorne (WHS student) carves through the Aussie pack during the national U16 Trans Tasman Cup clash in Auckland at the end of August.</strong></p>

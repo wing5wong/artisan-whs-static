@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School student Ana Gilligan is an author, and that's all she's ever wanted to be..."
 featured-image: 
 excerpt: "Whanganui High School student Ana Gilligan is an author, and that's all she's ever wanted to be..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>AUTHOR: &nbsp;Ana Gilligan with Koda</strong><br />PHOTO / PAUL BROOKS</p>

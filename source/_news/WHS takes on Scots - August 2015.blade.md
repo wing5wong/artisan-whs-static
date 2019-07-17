@@ -4,11 +4,12 @@ date:
 description: "THE Wanganui High School 1st XV will put itself to the test when it tackles Scots College at Cooks Gardens on Saturday in a Land Rover 1st XV competition clash, Wanganui Chronicle article 13/8/15..."
 featured-image: 
 excerpt: "THE Wanganui High School 1st XV will put itself to the test when it tackles Scots College at Cooks Gardens on Saturday in a Land Rover 1st XV competition clash."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>THE Wanganui High School 1st XV will put itself to the test when it tackles Scots College at Cooks Gardens on Saturday in a Land Rover 1st XV competition clash.</p>

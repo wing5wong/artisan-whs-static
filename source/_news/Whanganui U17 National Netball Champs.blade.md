@@ -4,11 +4,12 @@ date:
 description: "Whanganui's goal keep Catherine Nauga (WHS student) leaps to halt a Waitakere 1 attack during the national U17 netball tournament in Auckland..."
 featured-image: 
 excerpt: "Whanganui's goal keep Catherine Nauga (WHS student) leaps to halt a Waitakere 1 attack, while team mate and goal defence He-Mari Simon awaits the fallout during the national U17 netball tournament in Auckland."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>ON DEFENCE: Whanganui's goal keep Catherine Nauga (WHS student)&nbsp;leaps to halt a Waitakere 1 attack, while team mate and goal defence He-Mari Simon awaits the fallout during the national U17 netball tournament in Auckland.<br />PHOTO / Lisa Murphy</span></p>

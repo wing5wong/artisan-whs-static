@@ -4,11 +4,12 @@ date: 2018-07-02
 description: "Carpentry apprentice Steve Christensen concentrates on the job in hand..."
 featured-image: 
 excerpt: "Carpentry apprentice Steve Christensen concentrates on the job in hand."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Carpentry apprentice (and former WHS student) Steve Christensen concentrates on the job in hand. <br /><em>PHOTO / Stuart Munro</em></span></p>

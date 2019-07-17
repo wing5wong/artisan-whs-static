@@ -4,11 +4,12 @@ date:
 description: "Working With Children graduate Rachel Toohill (former WHS student) is presented with her certificate..."
 featured-image: 
 excerpt: "Working With Children graduate Rachel Toohill (former WHS student) is presented with her certificate by tutors Amy Fitzgerald (left) and Michaela Newman (right)."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Working With Children graduate Rachel Toohill (former WHS student) is presented with her certificate by tutors Amy Fitzgerald (left) and Michaela Newman (right). <br />PHOTO / Karen Hughes</span></p>

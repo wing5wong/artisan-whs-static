@@ -4,11 +4,12 @@ date: 2019-03-27
 description: "Whanganui High School athletes enjoy a record year..."
 featured-image: 
 excerpt: "Whanganui High School athletes enjoy a record year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4 class="element element-paragraph"><img style="color: #333333; font-size: 14px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6Uq2qa-dYQb2268um7QRR2nQ5dc2GUU9VP5DqE3cpaUwvl_I" alt="Image result for sign with word sports on it" /></h4>

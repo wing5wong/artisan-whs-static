@@ -4,11 +4,12 @@ date:
 description: "Among the many achievements of WHS student, Vincent Collins is the opportunity to perform Shakespeare in stage at the famous Globe Theatre in London..."
 featured-image: 
 excerpt: "Among the many achievements of WHS student, Vincent Collins is the opportunity to perform Shakespeare in stage at the famous Globe Theatre in London..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>FOR THE BARD: Among the many achievements of WHS student Vincent Collins is the opportunity to perform Shakespeare in stage at the famous Globe Theatre in London.&nbsp;<br />PHOTO courtesy of Paul Brooks.&nbsp;</strong></p>

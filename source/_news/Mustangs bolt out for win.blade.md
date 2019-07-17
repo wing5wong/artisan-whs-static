@@ -4,11 +4,12 @@ date: 2019-03-20
 description: "Cameron Hollis about to hit to the outfield during Castlecliff Club Mustangs' win over raiders in Palmerston North..."
 featured-image: 
 excerpt: "Cameron Hollis about to hit to the outfield during Castlecliff Club Mustangs' win over raiders in Palmerston North at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Cameron Hollis about to hit to the outfield during Castlecliff Club Mustangs' win over raiders in Palmerston North at the weekend. <br /><em>Photo / Supplied</em></span></p>

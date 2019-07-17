@@ -4,11 +4,12 @@ date:
 description: "It was another haul of tennis trophies for the talented Butters clan as Kyle Butters and his siblings Sam and Paris won titles at the 90th Aotearoa Maori Tennis Championships in Hamilton last week..."
 featured-image: 
 excerpt: "It was another haul of tennis trophies for the talented Butters clan as Kyle Butters and his siblings Sam and Paris won titles at the 90th Aotearoa Maori Tennis Championships in Hamilton last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>All former WHS students; Sam, left, Paris and Kyle Butters with their trophies from the Maori Tennis Championships in Hamilton on Thursday.</strong></p>

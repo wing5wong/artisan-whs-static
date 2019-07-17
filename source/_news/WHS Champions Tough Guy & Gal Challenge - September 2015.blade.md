@@ -4,11 +4,12 @@ date:
 description: "WHS Champions Tough Guy & Gal Challenge, 7 September 2015 in Wellington"
 featured-image: 
 excerpt: "WHS Champions Tough Guy & Gal Challenge, Wellington, 7 September 2015."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WHS Champions Tough Guy &amp; Gal Challenge, Wellington, 7 September 2015.</span></p>

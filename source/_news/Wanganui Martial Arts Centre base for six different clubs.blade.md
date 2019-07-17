@@ -4,11 +4,12 @@ date:
 description: "Wayne Watson and his son, Wanganui High School student Kasey, aged 16, NZ champion and third in Oceania, River City Press article on 17/3/16..."
 featured-image: 
 excerpt: "Wayne Watson and his son, Wanganui High School student Kasey, aged 16, NZ champion and third in Oceania, River City Press article on 17/3/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

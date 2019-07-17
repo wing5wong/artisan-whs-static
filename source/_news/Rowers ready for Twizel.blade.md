@@ -4,11 +4,12 @@ date:
 description: "Representing AWRC in Twizel are cox Niamh Mullany, Ben Tijsen-Cox, Cameron Lawrence - all WHS students - along with Guy Thomson, Nathan Luff, Luke Watts, James Sandston and Hugh Pawson..."
 featured-image: 
 excerpt: "Representing AWRC in Twizel are cox Niamh Mullany, Ben Tijsen-Cox, Cameron Lawrence - all WHS students - along with Guy Thomson, Nathan Luff, Luke Watts, James Sandston and Hugh Pawson."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Aramoho Whanganui Rowing Club members, both present and former, will be looking to make a strong showing when the NZ Rowing Championship Regatta begins on Twizel's Lake Ruataniwha today.</span></p>

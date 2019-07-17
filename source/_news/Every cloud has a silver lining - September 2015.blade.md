@@ -4,11 +4,12 @@ date:
 description: "SOUNDING: Founteen-year-old Wanganui High School student Ben Power entertains on the piano, Wanganui Chronicle article on 28/9/15..."
 featured-image: 
 excerpt: "SOUNDING: Founteen-year-old Wanganui High School student Ben Power entertains on the piano, Wanganui Chronicle article on 28/9/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>SOUNDING: Founteen-year-old Wanganui High School student <strong>Ben Power</strong> entertains on the piano</p>

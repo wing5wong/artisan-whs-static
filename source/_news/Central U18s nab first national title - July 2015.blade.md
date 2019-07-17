@@ -4,11 +4,12 @@ date:
 description: "CHAMPIONS: WHS students Ryan Gray (left), Lee Moir and Ben Pilet, whose Central North Island team won the 2015 Under 18 Men's Regional on Saturday, Wanganui Chronicle article on 14/7/15..."
 featured-image: 
 excerpt: "CHAMPIONS: WHS students Ryan Gray (left), Lee Moir and Ben Pilet, whose Central North Island team won the 2015 Under 18 Men's Regional on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>CHAMPIONS: WHS students Ryan Gray (left), Lee Moir and Ben Pilet, whose Central North Island team won the 2015 Under 18 Men's Regional tournament on Saturday.</p>

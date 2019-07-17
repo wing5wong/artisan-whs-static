@@ -4,11 +4,12 @@ date:
 description: "CAST: The very talented on-stage component of Red Riding Hood, Wanganui Midweek article..."
 featured-image: 
 excerpt: "CAST: The very talented on-stage component of Red Riding Hood."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>CAST: The very talented on-stage component of Red Riding Hood. <br />PICTURE: Lizz Hudson</span></p>

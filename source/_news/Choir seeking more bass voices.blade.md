@@ -4,11 +4,12 @@ date: 2018-01-24
 description: "Joanna Love (WHS teacher) would like to see (and hear) more men in the Lyric Singers..."
 featured-image: 
 excerpt: "Joanna Love (WHS teacher) would like to see (and hear) more men in the Lyric Singers."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>BASSES: Joanna Love (WHS teacher) would like to see (and hear) more men in the Lyric Singers. <br /><em>PHOTO / Paul Brooks</em></span></p>

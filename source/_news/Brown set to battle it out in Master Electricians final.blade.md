@@ -4,11 +4,12 @@ date:
 description: "Former Whanganui High School student Nathan Brown set to battle it out in Master Electricians Challenge final..."
 featured-image: 
 excerpt: "Former Whanganui High School student Nathan Brown set to battle it out in Master Electricians Challenge final."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former Whanganui High School student Nathan Brown set to battle it out in Master Electricians Challenge final.</span></p>

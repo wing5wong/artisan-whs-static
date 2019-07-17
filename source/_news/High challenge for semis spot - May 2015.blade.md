@@ -4,11 +4,12 @@ date:
 description: "After two narrow losses in the opening games of the Manawatu colts club competition, the Wanganui High School 1st XV have climbed into touching distance of the top four, Wanganui Chronicle 21/5/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>After two narrow losses in the opening games of the Manawatu colts club competition, the Wanganui High School 1st XV have climbed into touching distance of the top four.</p>

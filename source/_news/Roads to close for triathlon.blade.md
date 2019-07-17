@@ -4,11 +4,12 @@ date:
 description: "Major roads in central Whanganui will be closed between Wednesday 29 March and Friday 31 March because of a triathlon..."
 featured-image: 
 excerpt: "Major roads in central Whanganui will be closed between Wednesday 29 March and Friday 31 March because of a triathlon."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The Aquathlon and Tag Team are part of the David Jones Suzuki NZ Schools Triathlon Champs in Whanganui beginning today.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School hockey players Joanne Bell (left), Emma Rainey, Rebecca Baker, Jordan Cohen, Ryan Gray and Patrick Madder are on Central U18 hockey duty in Whangarei in Tournament week..."
 featured-image: 
 excerpt: "Whanganui High School hockey players Joanne Bell (left), Emma Rainey, Rebecca Baker, Jordan Cohen, Ryan Gray and Patrick Madder are on Central U18 hockey duty in Whangarei in Tournament week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui High School hockey players Joanne Bell (left), Emma Rainey, Rebecca Baker, Jordan Cohen, Ryan Gray and Patrick Madder are on Central U18 hockey duty in Whangarei in Tournament week.</strong></p>

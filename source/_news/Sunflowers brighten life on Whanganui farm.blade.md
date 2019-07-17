@@ -4,11 +4,12 @@ date: 2019-01-18
 description: "Rachel and Chris Davison have added sunflowers to maize and turnip plantings on their Rapanui Rd dairy farm."
 featured-image: 
 excerpt: "Rachel and Chris Davison have added sunflowers to maize and turnip plantings on their Rapanui Rd dairy farm."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Rachel (formerly Rachel Nixon, WHS student) and Chris Davison have added sunflowers to maize and turnip plantings on their Rapanui Rd dairy farm. <br /><em>PHOTO / Lewis Gardner</em></span></p>

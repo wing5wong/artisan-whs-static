@@ -4,11 +4,12 @@ date: 2018-08-21
 description: "It was the final day of the season at Languards Bluff & James Rountree pulled off a remarkable double..."
 featured-image: 
 excerpt: "It was the final day of the season at Languards Bluff & James Rountree pulled off a remarkable double."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The Harvey Round Motors Isuzu Winter Series MX ended on Sunday with over 150 riders in each event. <br />PHOTO / Stuart Munro</span></p>

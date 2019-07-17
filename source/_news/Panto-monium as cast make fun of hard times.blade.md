@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Benjamin Clow as Jack and Chris McKenzie as his mother in Wanganui Repertory Theatre's production of Roger Hall's Jack and the Beanstalk..."
 featured-image: 
 excerpt: "Former WHS student Benjamin Clow as Jack and Chris McKenzie as his mother in Wanganui Repertory Theatre's production of Roger Hall's Jack and the Beanstalk."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former WHS student Benjamin Clow as Jack and Chris McKenzie as his mother in Wanganui Repertory Theatre's production of Roger Hall's&nbsp;</span><em>Jack and the Beanstalk</em><span>. <br /><em>Photo / Supplied</em></span></p>

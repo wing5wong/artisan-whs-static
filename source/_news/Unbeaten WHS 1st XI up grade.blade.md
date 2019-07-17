@@ -4,11 +4,12 @@ date: 2018-09-12
 description: "WHS 1st X1 hockey captain Jordan Cohen has the Founders Cup at his feet after he & his team carried their unbeaten season..."
 featured-image: 
 excerpt: "WHS 1st X1 hockey captain Jordan Cohen has the Founders Cup at his feet after he and his team carried their unbeaten season through Tournament Week in Palmerston North last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span>WHS 1st X1 hockey captain Jordan Cohen has the Founders Cup at his feet after he and his team carried their unbeaten season through Tournament Week in Palmerston North last week.</span></h4>

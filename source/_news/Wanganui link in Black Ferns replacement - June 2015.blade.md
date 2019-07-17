@@ -4,11 +4,12 @@ date:
 description: "A former Wanganui High School girl Sosoli Talawadua, nee Tofa, will join the Black Ferns for next week's tour of Canada, Wanganui Chronicle article on 19/6/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>A former Wanganui High School girl will join the Black Ferns for next week's tour of Canada.</strong></p>

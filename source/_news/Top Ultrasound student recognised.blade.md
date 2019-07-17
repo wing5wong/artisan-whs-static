@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Saxon Toomer was recently presented with the Sarah Brown Award for the being the top of his class in Ultrasound..."
 featured-image: 
 excerpt: "Former WHS student Saxon Toomer was recently presented with the Sarah Brown Award for the being the top of his class in Ultrasound."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>UCOL Bachelor of Applied Science (Medical Imaging Technology) student Saxon Toomer (former WHS student) was recently presented with the Sarah Brown Award for the being the top of his class in Ultrasound.</p>

@@ -4,11 +4,12 @@ date: 2018-03-21
 description: "WHS students Evan Ross & Portia Sharp lead the way organising a fundraiser for guide dogs like Abbot..."
 featured-image: 
 excerpt: "Whanganui High School students Evan Ross (17) and Portia Sharp (17) lead the way organising a fundraiser for guide dogs like Abbot."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ab873d8b8d39a7499000fae/Evan-R--Portia-S-DOG-fundraiser-guide-dogs-chron-21-March.jpg"
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui High School students Evan Ross (17) and Portia Sharp (17) lead the way organising a fundraiser for guide dogs like Abbot. <br /><em>PHOTOS / Bevan Conley</em></span></p>

@@ -4,11 +4,12 @@ date: 2018-02-08
 description: "Sad news of the passing of Mr Rankin, staff member of 41 years..."
 featured-image: 
 excerpt: "Nigel Rankin, Teacher - Whanganui High School"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Dear Parents and Caregivers,</strong></p>

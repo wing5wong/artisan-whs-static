@@ -4,11 +4,12 @@ date:
 description: "WHS 1st XI Boys Hockey team WON their FINAL in the Secondary School Division 1 Comp in Palmerston North tonight against Fielding High 2-1 in overtime.."
 featured-image: 
 excerpt: "WHS 1st XI Boys Hockey team won their final in Palmerston North tonight against Fielding High 2-1 in overtime."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Woohoo!! #1 2017..... WHS 1st XI Boys Hockey team WON their FINAL in the Secondary School Division 1 Competition in Palmerston North tonight (Wednesday 23 August) against Fielding High 2-1 in overtime.&nbsp;</strong></p>

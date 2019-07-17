@@ -4,11 +4,12 @@ date:
 description: "Wanganui prop Viki Tofa (former WHS student) got up close and personal with the Thames Valley forwards on Saturday..."
 featured-image: 
 excerpt: "Wanganui prop Viki Tofa (former WHS student) got up close and personal with the Thames Valley forwards on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui prop Viki Tofa (former WHS student) got up close and personal with the Thames Valley forwards on Saturday.<br />PHOTO courtesy of Natalie Sixtus.</p>

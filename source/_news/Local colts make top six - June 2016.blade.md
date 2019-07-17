@@ -4,11 +4,12 @@ date:
 description: "PLAY MAKER: WHS first five Mitchell Millar played a major role in his team's win over the Dolphins on Saturday scoring a try and kicking all conversions, Wanganui Chronicle article on 29/6/16..."
 featured-image: 
 excerpt: "PLAY MAKER: WHS first five Mitchell Millar played a major role in his team's win over the Dolphins on Saturday scoring a try and kicking all conversions."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>PLAY MAKER: WHS first five Mitchell Millar played a major role in his team's win over the Dolphins on Saturday scoring a try and kicking all conversions.</strong></p>

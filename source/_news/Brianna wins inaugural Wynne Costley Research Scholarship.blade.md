@@ -4,11 +4,12 @@ date: 2018-10-20
 description: "Brianna Walker receives the Wynne Costley Research Scholarship award from National Council of Women Whanganui..."
 featured-image: 
 excerpt: "Brianna Walker receives the Wynne Costley Research Scholarship award from National Council of Women Whanganui branch president Jenny Saywood."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd7b35dff2a7c39a800017b/Wynne-C-winners.RCP-25-octjpg.jpg"
+	
+	
+	
+	
 ---
 
 <h4><span>Brianna Walker receives the Wynne Costley Research Scholarship award from National Council of Women Whanganui branch president Jenny Saywood.</span><br /><em></em></h4>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Vilimoni Koroi, in Kaierau colours for the 2014 Whanganui club sevens, has just been named in the All Black Sevens team for this weekend's Wellington Sevens..."
 featured-image: 
 excerpt: "Former WHS student Vilimoni Koroi, in Kaierau colours for the 2014 Whanganui club sevens, has just been named in the All Black Sevens team for this weekend's Wellington Sevens"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Vilimoni Koroi, in Kaierau colours for the 2014 Whanganui club sevens, has just been named in the All Black Sevens team for this weekend's Wellington Sevens.</p>

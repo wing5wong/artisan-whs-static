@@ -4,11 +4,12 @@ date:
 description: "A great day of chess for WHS students at the Manawatu School Pupil Chess Championship..."
 featured-image: 
 excerpt: "A great day of chess for Whanganui High School students at the Manawatu School Pupil Chess Championship, which was held on Wednesday 27 September at the Fielding Civic Centre in Feilding."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>A great day&nbsp;of chess <strong>for Whanganui High School students&nbsp;</strong>at the Manawatu School Pupil Chess Championship,&nbsp;</strong>which was held on Wednesday 27 September at the Fielding Civic Centre in Feilding.<br />Results and links below and titles.<br />(Nick Staples, TIC)</p>

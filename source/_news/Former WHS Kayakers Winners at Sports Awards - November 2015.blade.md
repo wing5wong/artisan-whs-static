@@ -4,11 +4,12 @@ date:
 description: "TEAM MAN:  Former WHS students' Kayaker Aiden Nossiter accepts the Junior Team award on behalf of himself and team mate Max Brown, Wanganui Chronicle article on 23/11/15..."
 featured-image: 
 excerpt: "TEAM MAN:  Former WHS students' Kayaker Aiden Nossiter accepts the Junior Team award on behalf of himself and team mate Max Brown."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>TEAM MAN: &nbsp;Former WHS Kayaker Aiden Nossiter accepts the Junior Team award on behalf of himself and team mate Max Brown at the 2015 Ray White Wanganui Sports Awards held at the Wanganui Racecourse on Friday 20 November.<span style="line-height: 1.5;">&nbsp;</span></p>

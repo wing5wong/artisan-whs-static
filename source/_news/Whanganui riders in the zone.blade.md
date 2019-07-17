@@ -4,11 +4,12 @@ date:
 description: "WHS student Ella Kingston on Miss Eve (left) and Adrienne Swan on Sonrise Essence rose to the occasion to finish third in the Junior Pairs at Zone Games level..."
 featured-image: 
 excerpt: "Whanganui High School student Ella Kingston on Miss Eve and Adrienne Swan on Sonrise Essence rose to the occasion to finish third in the Junior Pairs at Zone Games level earlier this month."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Whanganui High School student Ella Kingston</strong>&nbsp;<strong>on Miss Eve<strong>&nbsp;(left)</strong></strong> <strong>and Adrienne Swan on Sonrise Essence rose to the occasion to finish third in the Junior Pairs at Zone Games level earlier this month.<br /></strong>Photo: supplied.</span></p>

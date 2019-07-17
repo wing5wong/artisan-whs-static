@@ -4,11 +4,12 @@ date:
 description: "Wanganui High School-educated Vilimoni Koroi has been one of the most talked about young stars on the 2017 World Rugby Sevens series..."
 featured-image: 
 excerpt: "Wanganui High School-educated Vilimoni Koroi has been one of the most talked about young stars on the 2017 World Rugby Sevens series."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Wanganui High School-educated Vilimoni Koroi has been one of the most talked about young stars on the 2017 World Rugby Sevens series.</strong></p>

@@ -4,11 +4,12 @@ date: 2018-05-21
 description: "Graham Hall in front of a bevy of student art work at the Wanganui Community Arts Centre..."
 featured-image: 
 excerpt: "Graham Hall in front of a bevy of student art work at the Wanganui Community Arts Centre."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Graham Hall in front of a bevy of student art work at the Wanganui Community Arts Centre.</strong> <br />PHOTO / Stuart Munro</span></p>

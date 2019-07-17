@@ -4,11 +4,12 @@ date:
 description: "Wanganui teenager Ashlee Barlow and her ageing mare Phoenician Poem beat 17 rivals to win Supreme Champion Show Pony in their class at the Horse of the Year Show in Hastings,Wanganui Chronicle 26/3/15"
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>LOVE AFFAIR: &nbsp;Wanganui teenager Ashlee Barlow and her ageing mare Phoenician Poem beat 17 rivals to win Supreme Champion Show Pony in their class at the Horse of the Year Show in Hastings at the weekend.</p>

@@ -4,11 +4,12 @@ date:
 description: "SUPPORT PLEASE: This classy trio of Wanganui kayakers, Max Brown (left), Aiden Nossiter and Toby Brooke, have just 13 weeks to raise money to get to the 2015 Junior and Under-23 World Sprint Champions"
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>SUPPORT PLEASE: This classy trio of Wanganui kayakers, former WHS students Max Brown (left), Aiden Nossiter and Toby Brooke, have just 13 weeks to raise money to get to the 2015 Junior and Under-23 World Sprint Championships in Lisbon, Portugal.</span></p>

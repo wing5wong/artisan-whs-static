@@ -4,16 +4,17 @@ date: 2019-04-22
 description: "Air cadets and WHS students Reuben Gould (left), Max McIntyre & Sophie Baldwin cleaning war graves at Cemetery..."
 featured-image: 
 excerpt: "Air cadets and Whanganui High School students Reuben Gould (left), Max McIntyre and Sophie Baldwin cleaning war graves at Aramoho Cemetery."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/CnUEBJrPfXtsD8Kt2aRO0Bznj-c=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/UNKO4NEVTREDRMW4Z4522OXBTA.jpg" alt="Air cadets Reuben Gould (left), Max McIntyre and Sophie Baldwin cleaning war graves at Aramoho Cemetery. Photo/Bevan Conley" /></p>
-<p><br /><span><strong>Air cadets and Whanganui High School students Reuben Gould (left), Max McIntyre and Sophie Baldwin cleaning war graves at Aramoho Cemetery.</strong> <br /><em>PHOTO / Bevan Conley</em></span></p>
-<p class="element element-paragraph">They may be long gone, and some have no living descendants in Whanganui, but thanks to a group of local youth, their graves are well tended.</p>
+<p><span><strong>Air cadets and Whanganui High School students Reuben Gould (left), Max McIntyre and Sophie Baldwin cleaning war graves at Aramoho Cemetery.</strong> <br /><em>PHOTO / Bevan Conley</em></span></p>
+<p class="element element-paragraph"><br />They may be long gone, and some have no living descendants in Whanganui, but thanks to a group of local youth, their graves are well tended.</p>
 <p class="element element-paragraph">Whanganui air, sea and army cadets have been cleaning headstones on servicemen and women's graves in the lead-up to Anzac day.</p>
 <p class="element element-paragraph">It is something they do every year and air cadet Brandon Kidd said they discovered some previously untended graves at Heads Rd Cemetery on Friday.</p>
 <p class="element element-paragraph">"They are really old and date back to the 1850s, during the New Zealand Land Wars.</p>

@@ -4,11 +4,12 @@ date:
 description: "ON KEY: Te Paerata Tichbon (left) and Michael Peterson work closely together as Why Vibrations; band winners of Whanganui's Smokefreerockquest, Wanganui Chronicle article on 13/6/16..."
 featured-image: 
 excerpt: "ON KEY: Te Paerata Tichbon (left) and Michael Peterson work closely together as Why Vibrations; band winners of Whanganui's Smokefreerockquest."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>ON KEY: Te Paerata Tichbon (left) and Michael Peterson work closely together as Why Vibrations.</strong></p>

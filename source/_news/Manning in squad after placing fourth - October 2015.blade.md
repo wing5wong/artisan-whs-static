@@ -4,11 +4,12 @@ date:
 description: "ALOHA:  WHS student, gymnast Millie Manning will represent New Zealand in Hawaii in January, after her standout performances at the National Gymsports Championships in Auckland last week."
 featured-image: 
 excerpt: "ALOHA: Wanganui gymnast Millie Manning will represent New Zealand in Hawaii in January, after her standout performances at the National Gymsports Championships in Auckland last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>ALOHA: Wanganui High School student, gymnast Millie Manning will represent New Zealand in Hawaii in January, after her standout performances at the National Gymsports Championships in Auckland last week.</p>

@@ -5,11 +5,12 @@ description: "Wanganui High School Cultural Festival 2015.
 What a great night. Flooding in Wanganui but almost 400 people turned out to celebrate all the cultural groups at school."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Wanganui High School Cultural Festival 2015.</span></p>

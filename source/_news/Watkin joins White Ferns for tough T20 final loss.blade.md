@@ -4,11 +4,12 @@ date: 2018-07-03
 description: "Whanganu's White Fern Jessica Watkin worked her way into the 1st XI on their England tour..."
 featured-image: 
 excerpt: "Whanganu's White Fern Jessica Watkin worked her way into the 1st XI on their England tour.."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whanganu's White Fern Jessica Watkin worked her way into the 1st XI on their England tour, but that just meant sharing in the disappointment of the loss to England in the women's Tri Series Twenty20 final at Chelmsford.</p>

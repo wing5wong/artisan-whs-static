@@ -4,11 +4,12 @@ date:
 description: "Whanganui racer Richie Dibben and mechanic brother Mike (both former WHS students) receive shelter from the searing heat in the Philippines as the countdown starts to race time..."
 featured-image: 
 excerpt: "Whanganui racer Richie Dibben and mechanic brother Mike (both former WHS students) receive shelter from the searing heat in the Philippines as the countdown starts to race time."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>SHELTERED: Whanganui racer Richie Dibben and mechanic brother Mike (both former WHS students) receive shelter from the searing heat in the Philippines as the countdown starts to race time.</span></p>

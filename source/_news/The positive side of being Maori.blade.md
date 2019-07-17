@@ -4,11 +4,12 @@ date:
 description: "Former Whanganui High School student Leigh-Marama McLachlan endorses Maori development through journalism..."
 featured-image: 
 excerpt: "Former Whanganui High School student Leigh-Marama McLachlan endorses Maori development through journalism."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former Whanganui High School student Leigh-Marama McLachlan endorses Maori development through journalism. <br />Photo/ supplied.</span></p>

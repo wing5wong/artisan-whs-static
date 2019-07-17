@@ -4,11 +4,12 @@ date:
 description: "Former Silver Fern/former WHS student, Joline Henry (centre, back) was in Whanganui recently to launch the Community Good Sports campaign, Wanganui Chronicle article on 22/8/16..."
 featured-image: 
 excerpt: "Former Silver Fern/former WHS student, Joline Henry (centre, back) was in Whanganui recently to launch the Community Good Sports campaign."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>ROLE MODELS:</strong> &nbsp;The Community Good Sports campaign was launched last week by, from back from left, Tess Petley (For Our Kids), Joshua Callaghan (Wanganui City College), <strong>Joline Henry (former Silver Fern/former WHS student),</strong> <strong>Ruhia Tamati (Whanganui High School)</strong>,<strong> Jack Southee (Dub.Dee.See.Youth Committee/former WHS student).</strong><br />Front from left is, Isla Jones, Nehemiah Su'a, Harry Jurgens (all student ambassadors from St John's Hill School).&nbsp;</span></p>

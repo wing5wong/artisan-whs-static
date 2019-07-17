@@ -4,11 +4,12 @@ date:
 description: "GOOD FORM: Whanganui gymnasts Crista Yum (left) WHS student Millie Manning (right) Amorangi Rayner (centre) and Amardin Firaza took their talents to the National Gymsports Championship last week..."
 featured-image: 
 excerpt: "GOOD FORM: Whanganui gymnasts Crista Yum (left) Millie Manning (right) Amorangi Rayner (centre) and Amardin Firaza took their talents to the National Gymsports Championship last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>GOOD FORM: Whanganui gymnasts Crista Yum (left), <strong>WHS student</strong>&nbsp;<strong>Millie Manning</strong> (right) Amorangi Rayner (centre) and Amardin Firaza took their talents to the National Gymsports Championship last week.<br />PHOTO courtesy of Robbie Hill.&nbsp;</span></p>

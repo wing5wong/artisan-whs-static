@@ -4,11 +4,12 @@ date:
 description: "GUEST CHEF: Peter Gordon talks to students at WHS about his Whanganui beginnings and career path, Wanganui Chronicle article on 31/5/16..."
 featured-image: 
 excerpt: "GUEST CHEF: Peter Gordon talks to students at WHS about his Whanganui beginnings and career path, Wanganui Chronicle article on 31/5/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/574dfcefb8d39a469d001885/IMG_0001.JPG"
+	 - image: "/uploads/574dfcd0b8d39a469d001883/IMG_0002.JPG"
+	 - image: "/uploads/574dfcb5b8d39a469d001881/IMG_0003.JPG"
+	 - image: "/uploads/574dfc75b8d39a469d00187d/IMG_0005.JPG"
+	 - image: "/uploads/574dfc52b8d39a469d00187b/IMG_0006.JPG"
 ---
 
 <p><strong>GUEST CHEF: Peter Gordon talks to students at WHS about his Whanganui beginnings and career path.</strong></p>

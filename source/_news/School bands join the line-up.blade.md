@@ -4,11 +4,12 @@ date: 2018-12-19
 description: "Whiskey Mama is hosting two Whanganui High School bands at Rock on the River on January 6..."
 featured-image: 
 excerpt: "Whiskey Mama is hosting two Whanganui High School bands at Rock on the River on January 6."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whiskey Mama is hosting two Whanganui High School bands at Rock on the River on January 6.</p>

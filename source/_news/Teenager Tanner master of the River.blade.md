@@ -4,11 +4,12 @@ date:
 description: "WHS students first/second in the Whanganui River Challenge. Cambell Tanner came first, followed by Jack Clifton. The event was held on 29 & 30 October 2016."
 featured-image: 
 excerpt: "WHS students first/second in the Whanganui River Challenge. Cambell Tanner came first, followed by Jack Clifton. The event was held on Saturday 29 & Sunday 30 October 2016."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former WHS student Erica Tanner, front left, and Barry Hurley, front right, head out for the start of the Whanganui River Challenge yesterday.<br />PHOTO: Stuart Munro.</span></p>

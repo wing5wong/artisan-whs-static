@@ -4,11 +4,12 @@ date:
 description: "Congratulations to the U19 boys and girls rugby sevens squads for some great performances on the weekend in Taranaki."
 featured-image: 
 excerpt: "Congratulations to the U19 boys and girls rugby sevens squads for some great performances on the weekend in Taranaki."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span>Congratulations to the U19 boys and girls rugby sevens squads for some great performances on the weekend in Taranaki. </span></span></p>

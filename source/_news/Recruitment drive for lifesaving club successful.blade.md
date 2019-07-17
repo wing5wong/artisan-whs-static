@@ -4,11 +4,12 @@ date:
 description: "Wanganui Surf Lifeguard members Shannon Schimanski, Mia Gemmel, Kaya Dobbie (WHS) and Alex Forlong (WHS) with some of the new gear donated by Whanganui businesses, Wanganui Chronicle 5/9/16..."
 featured-image: 
 excerpt: "Wanganui Surf Lifeguard members Shannon Schimanski, Mia Gemmel, Kaya Dobbie (WHS) and Alex Forlong (WHS) with some of the new gear donated by Whanganui businesses."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui Surf Lifeguard members Shannon Schimanski, Mia Gemmel, <strong>Kaya Dobbie (WHS) and Alex Forlong (WHS)</strong> with some of the new gear donated by Whanganui businesses.</p>

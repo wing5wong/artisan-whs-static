@@ -4,11 +4,12 @@ date: 2019-01-12
 description: "Parents of Whanganui High School seniors are being told not to fret over a uniform change for 2019..."
 featured-image: 
 excerpt: "Parents of Whanganui High School seniors are being told not to fret over a uniform change for 2019."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Parents of Whanganui High School seniors are being told not to fret over a uniform change many were concerned would force them into forking out for clothes that could be worn for as little as 16 weeks.</p>

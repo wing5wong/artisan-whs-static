@@ -4,11 +4,12 @@ date: 2019-02-22
 description: "Former WHS students' Josh and Jake Hollis and Rikki Leigh Madams are all doing well in Softball..."
 featured-image: 
 excerpt: "Former WHS students' Josh and Jake Hollis and Rikki Leigh Madams are all doing well in Softball."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Former WHS students' Josh and Jake Hollis and Rikki Leigh Madams are all doing well in Softball.</p>

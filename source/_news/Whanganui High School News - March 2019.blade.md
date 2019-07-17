@@ -4,11 +4,12 @@ date: 2019-03-31
 description: "Whanganui High School News, from the Principal : River City Press, March 2019..."
 featured-image: 
 excerpt: "Whanganui High School News, from the Principal : River City Press, March 2019."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong><span style="text-decoration: underline;"><br /></span></strong></p>

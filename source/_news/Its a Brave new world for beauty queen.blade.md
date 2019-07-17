@@ -4,11 +4,12 @@ date: 2018-09-27
 description: "Jessica Tyson speaking at a recent Brave workshop at Nga Tawa School in Marton..."
 featured-image: 
 excerpt: "Jessica Tyson speaking at a recent Brave workshop at Nga Tawa School in Marton."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Jessica Tyson speaking at a recent Brave workshop at Nga Tawa School in Marton. <br /><em>Photo / Supplied</em></span></p>

@@ -4,11 +4,12 @@ date:
 description: "Well done to WHS student Charlie Brown in year 11 who has just passed his level 2 accreditation football referee exam..."
 featured-image: 
 excerpt: "Well done to WHS student Charlie Brown in year 11 who has just passed his level 2 accreditation football referee exam."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Well done to Charlie Brown in year 11 who has just passed his level 2 accreditation football referee exam. </strong></p>

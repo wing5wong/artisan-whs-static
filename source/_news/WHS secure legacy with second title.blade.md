@@ -4,11 +4,12 @@ date:
 description: "The victorious WHS Mixed Touch team with their second national secondary schools title in two years... Wanganui Chronicle article on 13/12/16..."
 featured-image: 
 excerpt: "The victorious WHS Mixed Touch team with their second national secondary schools title in two years."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><strong>The victorious WHS Mixed Touch team with their second national secondary schools title in two years.</strong></h3>

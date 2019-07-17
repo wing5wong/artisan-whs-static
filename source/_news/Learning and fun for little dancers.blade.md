@@ -4,11 +4,12 @@ date: 2019-02-20
 description: "Ready Set Dance Teacher Tori Rivers with pupils Millie Davy (left) and Macey Spicer."
 featured-image: 
 excerpt: "Ready Set Dance Teacher Tori Rivers with pupils Millie Davy (left) and Macey Spicer."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Ready Set Dance Teacher Tori Rivers with pupils Millie Davy (left) and Macey Spicer.<br /><em>Photo / Supplied</em></p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School geography and history teacher, Bevan Hunter is in his stamp element at the stamp and coin fair..."
 featured-image: 
 excerpt: "Whanganui High School geography and history teacher, Bevan Hunter is in his stamp element at the stamp and coin fair."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ae0d02b8d39a35a5000679/stamp-collection.jpg"
+	
+	
+	
+	
 ---
 
 <p><span>HAPPY HOBBY: Whanganui High School geography and history teacher, Bevan Hunter is in his stamp element at the stamp and coin fair. <br />PHOTO / Stuart Munro</span></p>

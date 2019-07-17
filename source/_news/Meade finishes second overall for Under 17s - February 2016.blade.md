@@ -4,11 +4,12 @@ date:
 description: "WHANGANUI waterskiier Lily Meade (WHS) finished second overall for the Under 17 girls division for her Oz/Kiwi team in the international series against Australia at Lake Karapiro's Piarere yesterday."
 featured-image: 
 excerpt: "WHANGANUI waterskiier / WHS student Lily Meade finished second overall for the Under 17 girls division for her Oz/Kiwi team in the international series against Australia at Lake Karapiro's Piarere yesterday, Wanganui Chronicle article on 15/2/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

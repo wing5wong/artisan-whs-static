@@ -4,11 +4,12 @@ date: 2018-07-05
 description: "PressPatron founder Alex Clark is passionate about ensuring the future of high quality journalism..."
 featured-image: 
 excerpt: "PressPatron founder Alex Clark is passionate about ensuring the future of high quality journalism."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>PressPatron founder Alex Clark is passionate about ensuring the future of high quality journalism.</span><br /><em>PHOTO /&nbsp; Victoria University of Wellington</em></p>

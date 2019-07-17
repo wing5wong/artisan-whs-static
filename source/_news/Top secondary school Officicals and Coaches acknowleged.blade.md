@@ -4,11 +4,12 @@ date:
 description: "WHS student Charlie Brown was named Official of the Year at the Whanganui Secondary Schools Sports Awards..."
 featured-image: 
 excerpt: "WHS student Charlie Brown was named Official of the Year at the Whanganui Secondary Schools Sports Awards at Cullinane College."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>BUSY REF: WHS student Charlie Brown was named&nbsp;Official of the Year at the Whanganui Secondary Schools Sports Awards at Cullinane College.</h4>

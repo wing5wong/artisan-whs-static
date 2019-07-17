@@ -4,11 +4,12 @@ date:
 description: "Former WHS student, Christie Teki (right) with Michelle Sigley and their first children's book, Mummy Has Wheels..."
 featured-image: 
 excerpt: "Former WHS student, Christie Teki (right) with Michelle Sigley and their first children's book, Mummy Has Wheels."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>COLOURFUL: Former WHS student, Christie Teki (right) with Michelle Sigley and their first children's book, Mummy Has Wheels. <br />PHOTO: &nbsp;Paul Brooks</span></p>

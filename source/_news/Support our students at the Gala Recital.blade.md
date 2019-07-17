@@ -4,11 +4,12 @@ date: 2018-08-25
 description: "Support our students at the Gala Recital, presented by Brass Whanganui on Saturday 25 August..."
 featured-image: 
 excerpt: "Support our students at the Gala Recital, presented by Brass Whanganui on Saturday 25 August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b7b94f2ff2a7c03cc000056/Gala-Recital-poster-sarah-wright-mancers-25-aug.gif"
+	
+	
+	
+	
 ---
 
 <p><strong>Support our students (both past and present) at the Gala Recital.</strong></p>

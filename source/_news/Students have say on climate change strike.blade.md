@@ -4,11 +4,12 @@ date: 2019-03-16
 description: "Organiser Ali Gammeter, 17, gave a spirited speech at the school strike for climate..."
 featured-image: 
 excerpt: "Organiser Ali Gammeter, 17, gave a spirited speech at the school strike for climate."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Organiser Ali Gammeter, 17, gave a spirited speech at the school strike for climate. <br /><em>PHOTOS / Stuart Munro</em></span></p>

@@ -4,11 +4,12 @@ date:
 description: "Josh Hill, right, pictured here with father Hunter and brother Stave, from Wanganui Chronicle article 13/5/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Josh Hill, right, pictured here with father Hunter and brother Stave.</span></p>

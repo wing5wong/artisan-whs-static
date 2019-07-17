@@ -4,11 +4,12 @@ date:
 description: "Wanganui Under 15 captain Rebecca Baker scored three goals in the win over Manawatu B in Timaru..."
 featured-image: 
 excerpt: "Wanganui Under 15 captain Rebecca Baker scored three goals in the win over Manawatu B in Timaru."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Wanganui Under 15 captain Rebecca Baker scored three goals in the win over Manawatu B in Timaru.</strong></p>

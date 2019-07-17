@@ -4,11 +4,12 @@ date:
 description: "LAID LOW: Whanganui waterskier Lily Meade is bedridden by glandular fever, but has gained selection to the NZ team to compete at the World Junior Water Skiing Championships in Chile in January..."
 featured-image: 
 excerpt: "LAID LOW: Whanganui waterskier Lily Meade is bedridden by glandular fever, but has gained selection to the NZ team to compete at the World Junior Water Skiing Championships in Chile in January..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

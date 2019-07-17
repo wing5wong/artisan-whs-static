@@ -4,11 +4,12 @@ date:
 description: "WHS were overall winners of the Central 6 Junior Sports on Friday in Wanganui on Friday 18 November 2016."
 featured-image: 
 excerpt: "WHS were overall winners of the Central 6 Junior Sports on Friday in Wanganui on Friday 18 November 2016."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5832504ab8d39a2982000110/bowling2yes.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5832503bb8d39a298200010e/bowling3yes.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58325013b8d39a298200010a/batting2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58325005b8d39a2982000108/batting3.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58324ff5b8d39a2982000106/batting4.jpg"
 ---
 
 <p><strong>WHS were overall winners of the Central 6 Junior Sports on Friday in Wanganui. </strong></p>

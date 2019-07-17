@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Dylan Martin and Hadi Gurton from Sustainable Whanganui with some of the signs that they hope will encourage Masters Games participants to recycle..."
 featured-image: 
 excerpt: "Former WHS student Dylan Martin and Hadi Gurton from Sustainable Whanganui with some of the signs that they hope will encourage Masters Games participants to recycle."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former WHS student Dylan Martin and Hadi Gurton from Sustainable Whanganui with some of the signs that they hope will encourage Masters Games participants to recycle. <br />PHOTO: Bevan Conley.</span></p>

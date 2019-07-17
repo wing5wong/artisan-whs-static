@@ -4,11 +4,12 @@ date: 2018-05-22
 description: "Sophie Brooke, Jack Clifton, Lucas Thompson & Liam Lace held their own at inaugural Asia Pacific Sprint Kayak Regatta.."
 featured-image: 
 excerpt: "Sophie Brooke, back left, Jack Clifton, Lucas Thompson & Liam Lace held their own at the inaugural Asia Pacific Sprint Kayak Regatta in Adelaide on May 12-13."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Sophie Brooke, back left, Jack Clifton, Lucas Thompson and Liam Lace held their own at the inaugural Asia Pacific Sprint Kayak Regatta in Adelaide on May 12-13.</strong><br />Photo / File</p>

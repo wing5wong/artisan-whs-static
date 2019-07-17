@@ -4,11 +4,12 @@ date:
 description: "LOCAL HOPE: WHS student Sam Russell will fly the flag for the Wanganui Tennis Club at the Slazenger Wanganui Junior Open, which starts tomorrow, Wanganui Chronicle article on 25/9/15..."
 featured-image: 
 excerpt: "LOCAL HOPE: WHS student Sam Russell will fly the flag for the Wanganui Tennis Club at the Slazenger Wanganui Junior Open, which starts tomorrow, Wanganui Chronicle article on 25/9/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>LOCAL HOPE: WHS student Sam Russell will fly the flag for the Wanganui Tennis Club at the Slazenger Wanganui Junior Open, which starts tomorrow.</p>

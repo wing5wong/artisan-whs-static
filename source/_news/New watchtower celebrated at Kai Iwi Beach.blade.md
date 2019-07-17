@@ -4,11 +4,12 @@ date:
 description: "Lifeguard and builder Matthew Newell (former WHS student) cuts the ribbon at the Kai Iwi Surf Lifeguard Watch Tower opening..."
 featured-image: 
 excerpt: "Lifeguard and builder Matthew Newell (former WHS student) cuts the ribbon at the Kai Iwi Surf Lifeguard Watch Tower opening."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a83a0adb8d39a42a40005f1/Matthew-Newell-tower-for-lifeguardsno-2.jpg"
+	
+	
+	
+	
 ---
 
 <p><span>Lifeguard and builder Matthew Newell (former WHS student) cuts the ribbon at the Kai Iwi Surf Lifeguard Watch Tower opening. <br /><em>Photo / Bevan Conley</em></span></p>

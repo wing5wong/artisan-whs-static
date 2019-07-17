@@ -4,11 +4,12 @@ date: 2018-08-28
 description: "Nominations are invited....for the election of one student representative to the WHS Board of Trustees 2018..."
 featured-image: 
 excerpt: "Nominations are invited....for the election of one student representative to the WHS Board of Trustees 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Student Trustee<br /><br /></h4>

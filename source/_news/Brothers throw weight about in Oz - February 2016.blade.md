@@ -4,11 +4,12 @@ date:
 description: "WHANGANUI judo siblings Keightley (right - WHS student) and Callaghan Watson have just returned from a successful raid of Australian gold and silver, Wanganui Chronicle article on 26/2/16..."
 featured-image: 
 excerpt: "TRANSTASMAN TRIUMPH: Whanganui's judo brothers Callaghan (left) and Keightley Watson won medals at the ACT International Judo tournament recently. Here they are joined by Mark Brewer, the Sydney-based member of the New Zealand OJU Continental Cup team, who coached the Watsons in Canberra."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

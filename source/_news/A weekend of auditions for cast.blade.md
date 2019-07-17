@@ -4,11 +4,12 @@ date: 2018-05-16
 description: "The cast of Ringing the Changes: including ex WHS students, Caius Wrigglesworth, Reuben Janes & Brie Parkinson..."
 featured-image: 
 excerpt: "The cast of Ringing the Changes: Jamie O'Hagen, Mikayla Walker, Caius Wrigglesworth, Reuben Janes, Jess Alder, Cathy Gribble, Brie Parkinson and Meynell Smith. Missing: Meg McPhail and Chris Stedman."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The cast of&nbsp;</span><em>Ringing the Changes</em><span>:&nbsp; Jamie O'Hagen, Mikayla Walker, Caius Wrigglesworth (former WHS student), Reuben Janes <span>(former WHS student)</span>, Jess Alder, Cathy Gribble, Brie Parkinson <span>(former WHS student)&nbsp;</span>and Meynell Smith. Missing: Meg McPhail and Chris Stedman. <br /><em>PHOTO / Ashleigh Morris</em></span></p>

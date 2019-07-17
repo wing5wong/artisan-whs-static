@@ -4,11 +4,12 @@ date: 2018-05-03
 description: "Rebecca Baker, is one of two Whanganui athletes rated highly on the New Zealand 1500m under 18 rankings..."
 featured-image: 
 excerpt: "Rebecca Baker, is one of two Whanganui athletes rated highly on the New Zealand 1500m under 18 rankings."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Rebecca Baker, is one of two Whanganui athletes rated highly on the New Zealand 1500m under 18 rankings.</strong><br /><em>PHOTO / Supplied</em></p>

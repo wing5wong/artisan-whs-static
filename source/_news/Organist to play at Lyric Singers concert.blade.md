@@ -4,11 +4,12 @@ date:
 description: "Leonard Cave with Lyric Singers' conductor Joanna Love (WHS teacher) and singing dog Fletcher..."
 featured-image: 
 excerpt: "Leonard Cave with Lyric Singers' conductor Joanna Love (WHS teacher) and singing dog Fletcher."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>MAESTRO: Leonard Cave with Lyric Singers' conductor Joanna Love (WHS teacher) and singing dog Fletcher. <br />PICTURE / PAUL BROOKS</span></p>

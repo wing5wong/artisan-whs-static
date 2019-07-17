@@ -4,11 +4,12 @@ date:
 description: "Whanganui judoka Keightley Watson has had an outstanding year..."
 featured-image: 
 excerpt: "Whanganui judoka Keightley Watson has had an outstanding year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Whanganui judoka Keightley Watson has had an outstanding year.</h4>

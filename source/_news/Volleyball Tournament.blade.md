@@ -4,11 +4,12 @@ date:
 description: "WHS Volleyball teams competing at the National Secondary School Volleyball Champs held at Central Energy Trust Arena, Palmerston North, 26 March - 31 March 2017..."
 featured-image: 
 excerpt: "WHS Volleyball teams competing at the National Secondary School Volleyball Champs held at Central Energy Trust Arena, Palmerston North, 26 March - 31 March 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1db52b8d39a417f0006df/17629841_771616379654137_2676009228426701831_n.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e31b18b8d39a417f0007af/IMG_0259-opening-ceremony.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e31b0cb8d39a417f0007ad/girlsIMG_0293-blocking.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e31b00b8d39a417f0007a9/girlsIMG_0287-on-defense.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e31af4b8d39a417f0007a7/girlsIMG_0286-Meghan-passing.jpg"
 ---
 
 <p><span>WHS Volleyball teams competing at the National Secondary School Volleyball Champs held at Central Energy Trust Arena, Palmerston North, 26 March - 31 March 2017.</span></p>

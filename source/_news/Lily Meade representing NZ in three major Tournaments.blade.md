@@ -4,11 +4,12 @@ date:
 description: "WHS student Lily Meade has represented NZ in three major Tournaments this year plus had awesome results in the Water Ski Nationals..."
 featured-image: 
 excerpt: "WHS student Lily Meade has represented NZ in three major Tournaments this year plus had  awesome results in the Water Ski Nationals held over Easter at Lake Karapiro."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong><span style="font-family: Arial, sans-serif; font-size: small;">Whanganui High School student&nbsp;Lily Meade has represented NZ in three major Tournaments this year plus had&nbsp;awesome results in the Water Ski Nationals held over Easter at Lake Karapiro.</span></strong></p>

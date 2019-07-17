@@ -4,11 +4,12 @@ date:
 description: "BIG LEAGUE: Wanganui's Sammy Murphy looks to shoot over the Kapi Mana defence at the national championships in Auckland, watched by centre Haley Addenbrooke and goal attack Rachael Lynch."
 featured-image: 
 excerpt: "BIG LEAGUE: Wanganui's Sammy Murphy looks to shoot over the Kapi Mana defence at the national championships in Auckland, watched by centre Haley Addenbrooke and goal attack Rachael Lynch, from Wanganui Chronicle article on 3/10/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>BIG LEAGUE: Wanganui's <strong>Sammy Murphy (WHS)</strong> looks to shoot over the Kapi Mana defence at the national championships in Auckland, watched by centre <strong>Haley Addenbrooke (former WHS)</strong>&nbsp;and goal attack Rachael Lynch.</span></p>

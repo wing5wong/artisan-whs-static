@@ -4,11 +4,12 @@ date: 2019-03-01
 description: "It was a fabulous day on Friday 1 March for our surfing trip to New Plymouth for our International surfing students..."
 featured-image: 
 excerpt: "It was a fabulous day on Friday 1 March for our surfing trip to New Plymouth for our International surfing students."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>It was a fabulous day on Friday 1 March for our surfing trip to New Plymouth for our International surfing students.</span></p>

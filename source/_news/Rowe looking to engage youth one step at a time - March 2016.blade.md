@@ -4,11 +4,12 @@ date:
 description: "FUTURE POLITICIAN?: Whanganui Youth MP Timothy Rowe (right) with mentor Whanganui MP Chester Borrows, article from Wanganui Chronicle on 31/3/16..."
 featured-image: 
 excerpt: "FUTURE POLITICIAN?: Whanganui Youth MP Timothy Rowe (right) with mentor Whanganui MP Chester Borrows..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

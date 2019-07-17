@@ -4,11 +4,12 @@ date:
 description: "STRONG ADVOCATE: Whanganui High School board members say departing principal Garry Olver has always put student achievement at the forefront, Wanganui Chronicle article on 10/8/16..."
 featured-image: 
 excerpt: "STRONG ADVOCATE: Whanganui High School board members say departing principal Garry Olver has always put student achievement at the forefront."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>STRONG ADVOCATE: Whanganui High School board members say departing principal Garry Olver has always put student achievement at the forefront.</p>

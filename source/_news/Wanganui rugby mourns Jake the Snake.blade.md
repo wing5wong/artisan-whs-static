@@ -4,11 +4,12 @@ date:
 description: "The Wanganui rugby community is in mourning following the death of one of their bright young prospects Jake Alabaster..."
 featured-image: 
 excerpt: "The Wanganui rugby community is in mourning following the death of one of their bright young prospects Jake Alabaster."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>HUGE POTENTIAL: Jake Alabaster after Border won the Premier club title in 2016.</span></p>

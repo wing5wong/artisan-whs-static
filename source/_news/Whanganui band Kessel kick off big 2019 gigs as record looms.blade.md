@@ -4,11 +4,12 @@ date: 2019-01-15
 description: "Whanganui rock band Kessel (ex WHS students) hope to turn two and half years of graft into a successful 2019..."
 featured-image: 
 excerpt: "Whanganui rock band Kessel (ex WHS students) hope to turn two and half years of graft into a successful 2019."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Kessel formed in Whanganui in 2016, begin the year with hometown gigs.<br /><em>Photo / Supplied</em></span></p>

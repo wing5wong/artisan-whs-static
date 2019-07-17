@@ -4,11 +4,12 @@ date:
 description: "DOUBLE BLUE: Whanganui rep cricket team wicketkeeper (and former WHS student) Chris Sharrock was honoured for two codes at the Massey University Sporting Blues Awards on Tuesday."
 featured-image: 
 excerpt: "DOUBLE BLUE: Whanganui rep cricket team wicketkeeper and former WHS student Chris Sharrock was honoured for two codes at the Massey University Sporting Blues Awards on Tuesday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>DOUBLE BLUE: Whanganui rep cricket team wicketkeeper (and former WHS student) Chris Sharrock was honoured for two codes at the Massey University Sporting Blues Awards on Tuesday.</p>

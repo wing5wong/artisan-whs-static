@@ -4,11 +4,12 @@ date:
 description: "Whanganui contingent Rebecca Baker (left), Emma Rainey, Jo Bell, Jordan Cohen, Ryan Gray and Patrick Madder (all students of WHS) help the Central Hockey teams..."
 featured-image: 
 excerpt: "Whanganui contingent Rebecca Baker (left), Emma Rainey, Jo Bell, Jordan Cohen, Ryan Gray and Patrick Madder (all students of WHS) help the Central men and women's teams to top four at the U18 nationals in Whangarei."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>HELPING HAND: Whanganui contingent Rebecca Baker (left), Emma Rainey, Jo Bell, Jordan Cohen, Ryan Gray and Patrick Madder (all students of WHS) help the Central men and women's teams to top four at the U18 nationals in Whangarei.</strong></p>

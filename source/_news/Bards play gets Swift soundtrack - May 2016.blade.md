@@ -4,11 +4,12 @@ date:
 description: "The stage in the Whanganui High School hall has been transformed into an Athenian forest for the opening night of a A Midsummer Night's Dream tonight, Wanganui Chronicle article on 11/5/16..."
 featured-image: 
 excerpt: "The stage in the Whanganui High School hall has been transformed into an Athenian forest for the opening night of a A Midsummer Night's Dream tonight."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

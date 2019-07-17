@@ -4,11 +4,12 @@ date:
 description: "Champions again: The Wanganui Under 20's following winning the Hurricanes Regional title in Palmerston North on Saturday, Wanganui Chronicle article on 28/8/16..."
 featured-image: 
 excerpt: "Champions again: The Wanganui Under 20's following winning the Hurricanes Regional title in Palmerston North on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Champions again: The Wanganui Under 20's following winning the Hurricanes Regional title in Palmerston North on Saturday.</span></p>

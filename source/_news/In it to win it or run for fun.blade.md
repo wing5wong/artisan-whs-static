@@ -4,11 +4,12 @@ date:
 description: "Rebecca Baker leads the way to win the junior girls' race at the Whanganui High School cross country at Springvale Park yesterday..."
 featured-image: 
 excerpt: "Rebecca Baker leads the way to win the junior girls' race at the Whanganui High School cross country at Springvale Park yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>OUT IN FRONT: Rebecca Baker leads the way to win the junior girls' race at the Whanganui High School cross country at Springvale Park yesterday.<br />PHOTO: Stuart Munro<br /><br /></p>

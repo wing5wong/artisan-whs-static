@@ -4,11 +4,12 @@ date: 2018-08-08
 description: "North Harbour's Becky Woods & Waikato's Sosoli Talawadua with their newborns at the season launch in Auckland..."
 featured-image: 
 excerpt: "North Harbour's Becky Woods and Waikato's Sosoli Talawadua with their newborns at the season launch in Auckland."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>North Harbour's Becky Woods and Waikato's Sosoli Talawadua (former WHS student - nee Tofa) with their newborns at the combined Mitre 10 Cup and Farah Palmer Cup season launch in Auckland. <br />PHOTO / William Booth / www.photosport.nz</span></p>

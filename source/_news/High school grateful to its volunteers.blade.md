@@ -6,11 +6,12 @@ WHS would like to say a huge THANK YOU to all our coaches and managers who every
 featured-image: 
 excerpt: "At WHS our sports teams are coached and managed by volunteers.
 WHS would like to say a huge THANK YOU to all our coaches and managers who every week give up their time to coach our teams."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57a7c3adb8d39a2071001096/Colm-Smyth-in-gym.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57a7c375ff2a7c38fb001089/Bryn-Parry--Kent-Rivers.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57a7c306b8d39a2071001094/Netall-coach--players.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57a7c2b0ff2a7c38fb001087/Netball-coach--girls.jnrjpg.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57a7c268b8d39a2071001092/Netball-coach--girls.jpg"
 ---
 
 <p><span style="line-height: 1.5;">High school grateful to its volunteers.</span></p>

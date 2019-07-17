@@ -1,14 +1,15 @@
 ---
 title: "WHS UN delegates"
 date: 
-description: "On Friday 30 October WHS took 5 delegations of students to the Annual Wanganui Junior Model United Nations event at Girlâ€™s College."
+description: "On Friday 30 October WHS took 5 delegations of students to the Annual Wanganui Junior Model United Nations event at Girl’s College."
 featured-image: 
-excerpt: "On Friday 30 October WHS took 5 delegations of students to the Annual Wanganui Junior Model United Nations event at Girlâ€™s College."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "On Friday 30 October WHS took 5 delegations of students to the Annual Wanganui Junior Model United Nations event at Girl’s College."
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5642a74ab8d39a21360013cc/Best-Dressed-30.jpg"
+	
+	
+	
+	
 ---
 
 <p>On Friday 30&nbsp;October our school took 5 delegations of students to the Annual Wanganui Junior Model United Nations event at Girl&rsquo;s College.</p>

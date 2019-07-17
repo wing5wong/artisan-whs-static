@@ -4,11 +4,12 @@ date:
 description: "SEA NYMPHS: WHS Year 13 students (from left) Abby Hurley, Jadzia Morris, Hypatia Orchard and Sapere Simon got wet rather than wedded at the midwinter swim at Castlecliff Beach yesterday..."
 featured-image: 
 excerpt: "SEA NYMPHS: Whanganui High School Year 13 students (from left) Abby Hurley, Jadzia Morris, Hypatia Orchard and Sapere Simon got wet rather than wedded at the midwinter swim at Castlecliff Beach yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>SEA NYMPHS: Whanganui High School Year 13 students (from left) Abby Hurley, Jadzia Morris, Hypatia Orchard and Sapere Simon got wet rather than wedded at the midwinter swim at Castlecliff Beach yesterday.</p>

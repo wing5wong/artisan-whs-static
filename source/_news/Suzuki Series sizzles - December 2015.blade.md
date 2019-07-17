@@ -4,11 +4,12 @@ date:
 description: "DOUBLE JOY for former WHS student: Whanganui's Richard Dibben (Honda) won both SuperMoto races, Wanganui Chronicle article on 9/12/15..."
 featured-image: 
 excerpt: "DOUBLE JOY for former WHS student: Whanganui's Richard Dibben (Honda) won both SuperMoto races."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>DOUBLE JOY for former WHS student: Whanganui's Richard Dibben (Honda) won both SuperMoto races.</span></p>

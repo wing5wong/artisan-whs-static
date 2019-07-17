@@ -4,11 +4,12 @@ date:
 description: "ARAMOHO Wanganui Rowing Club's hot streak continued on Lake Ruataniwha from the second day of A Finals at the Bankstream NZ Rowing Champs at Twizel yesterday, Wanganui Chronicle article 21 Feb 2015..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>ARAMOHO Wanganui Rowing Club's hot streak continued on Lake Ruataniwha with three more gold medals and a bronze from the second day of A Finals at the Bankstream NZ Rowing Champs at Twizel yesterday.</p>

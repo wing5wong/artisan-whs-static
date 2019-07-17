@@ -4,11 +4,12 @@ date: 2019-03-12
 description: "Munro, Bayler, and Jonathan Maples were part of a composite team that took bronze in the Senior Men's 4x100m Relay..."
 featured-image: 
 excerpt: "Munro, Bayler, and Jonathan Maples were part of a composite team that took bronze in the Senior Men's 4x100m Relay."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Munro, Bayler, and Jonathan Maples were part of a composite team that took bronze in the Senior Men's 4x100m Relay.</strong></p>

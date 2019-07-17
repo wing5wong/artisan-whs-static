@@ -4,11 +4,12 @@ date:
 description: "Like all good pantomimes, Red Riding Hood ends well, Wanganui Midweek article on 14/12/16..."
 featured-image: 
 excerpt: "Like all good pantomimes, Red Riding Hood ends well."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>HAPPY ENDING: Like all good pantomimes, Red Riding Hood ends well. <br />PICTURE: Lizz Hudson</span></p>

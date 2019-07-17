@@ -4,11 +4,12 @@ date: 2019-01-17
 description: "Keightley & his fellow medal winners in Junior Men U21, 100kg+ grade at the 43rd Matsuru Dutch Espior Judo Open..."
 featured-image: 
 excerpt: "Whanganui judoka Keightley Watson, right, and his fellow medal winners in the Junior Men U21, 100kg+ grade at the 43rd Matsuru Dutch Espior Judo Open in Holland at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui judoka Keightley Watson, right, and his fellow medal winners in the Junior Men U21, 100kg+ grade at the 43rd Matsuru Dutch Espior Judo Open in Holland at the weekend.</strong><br /><em>Photo / Supplied</em></p>

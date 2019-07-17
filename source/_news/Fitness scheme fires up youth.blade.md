@@ -4,16 +4,17 @@ date: 2019-04-10
 description: "Fitness programme motivating some Whanganui Youth Service clients giving them a much-needed confidence boost..."
 featured-image: 
 excerpt: "Fitness programme motivating some Whanganui Youth Service clients giving them a much-needed confidence boost."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/p3h36WPetCgSknxzWJu3kIRlBH8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/EC6RSLYPJRCRXJUTF3GWLUYLSU.jpg" alt="Using Castlecliff Beach for training are (from left) specialist case worker Jesse Hamilton-Hall, Wiremu Tamehana, Xavier Thomson, Braxton Nikora-Whale, Amos Goldsack and Tala Thompson." /></p>
 <p><span>Using Castlecliff Beach for training are (from left) specialist case worker <strong>Jesse Hamilton-Hall, Wiremu Tamehana</strong>, Xavier Thomson, Braxton Nikora-Whale, <strong>Amos Goldsack</strong> and Tala Thompson (highlighted are former students).</span><br /><em>Photos / Supplied</em></p>
-<p class="element element-paragraph">An early morning fitness programme is motivating some Whanganui Youth Service clients to get out of bed and giving them a much-needed confidence boost.</p>
+<p class="element element-paragraph"><br />An early morning fitness programme is motivating some Whanganui Youth Service clients to get out of bed and giving them a much-needed confidence boost.</p>
 <p class="element element-paragraph">Specialist case workers Jacob Makara-Moreland and Jesse Hamilton-Hall are running the two-month trial programme three mornings a week for five of their Youth Service clients, some of whom come from challenging backgrounds.</p>
 <p class="element element-paragraph">"The fitness programme came about when we went to visit young people at home," Makara-Moreland said.</p>
 <p class="element element-paragraph">"At midday they'd still be in bed, which concerned us. They'd have been up all night playing games.</p>

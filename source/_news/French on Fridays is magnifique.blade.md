@@ -4,11 +4,12 @@ date: 2018-07-02
 description: "Annushka Forrest writes some French phrases on the whiteboard for Durie Hill School students to learn..."
 featured-image: 
 excerpt: "Annushka Forrest writes some French phrases on the whiteboard for Durie Hill School students to learn."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/5b3d319db8d39a41290000f4/French--durie-hill-annushka-chron-2-july.snip-photo.PNG"
+	
+	
+	
+	
 ---
 
 <p><span>Annushka Forrest writes some French phrases on the whiteboard for Durie Hill School students to learn. <br /><em>PHOTOS / Stuart Munro</em></span></p>

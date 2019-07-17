@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School head girl Jackie Hazelhurst is heading to Japan in August to attend International School of Asia Karuizawa in Japan..."
 featured-image: 
 excerpt: "Whanganui High School head girl Jackie Hazelhurst is heading to Japan in August to attend International School of Asia Karuizawa in Japan."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Whanganui High School head girl Jackie Hazelhurst is heading to Japan in August to attend International School of Asia Karuizawa in Japan.</strong> <br />PHOTO: Stuart Munro.</span></p>

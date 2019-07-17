@@ -4,11 +4,12 @@ date: 2018-09-05
 description: "Whanganui's Seth Reardon moves into second at the midway point of the NZXC cross country series..."
 featured-image: 
 excerpt: "Whanganui's Seth Reardon moves into second at the midway point of the NZXC cross country series."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui's Seth Reardon moves into second at the midway point of the NZXC cross country series.</strong></p>

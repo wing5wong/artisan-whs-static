@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School Spanish teacher Beverley Stuart brings a slice of Peru back home..."
 featured-image: 
 excerpt: "Whanganui High School Spanish teacher Beverley Stuart brings a slice of Peru back home."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whanganui High School Spanish teacher Beverley Stuart brings a slice of Peru back home.&nbsp;<br />PHOTO: Stuart Munro</p>

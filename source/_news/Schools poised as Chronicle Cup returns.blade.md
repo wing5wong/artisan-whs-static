@@ -4,11 +4,12 @@ date: 2018-10-24
 description: "Henry Kilmister, United's Freddie Wilson & WHS' Jordan Candish (right) align to launch the new Whanganui Chronicle SS Cup..."
 featured-image: 
 excerpt: "Collegiate's Henry Kilmister (left), United's Freddie Wilson & WHS' Jordan Candish align to launch the new Whanganui Chronicle Secondary School Cup cricket tournament last year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Collegiate's Henry Kilmister, United's Freddie Wilson and <strong>WHS' Jordan Candish </strong>(right) align to launch the new Whanganui Chronicle Secondary School Cup cricket tournament last year.</span></p>

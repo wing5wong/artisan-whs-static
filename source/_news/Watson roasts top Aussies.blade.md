@@ -4,11 +4,12 @@ date: 2019-02-20
 description: "Whanganui heavyweight Keightley Watson allows nothing to stand his way at the ACT Judo International Open in Canberra..."
 featured-image: 
 excerpt: "Whanganui heavyweight Keightley Watson allows nothing to stand his way at the ACT Judo International Open in Canberra at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui heavyweight Keightley Watson allows nothing to stand his way at the ACT Judo International Open in Canberra at the weekend.</span><br /><em>Photo / Supplied</em></p>

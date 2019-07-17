@@ -4,11 +4,12 @@ date: 2018-08-16
 description: "Former WHS student Chris Harris is one of the four Aramoho Rowers named in NZ team for world champs..."
 featured-image: 
 excerpt: "Former WHS student Chris Harris is one of the four Aramoho Rowers named in NZ team for world champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Former WHS student Chris Harris is one of the four Aramoho Rowers named in NZ team for world champs.</p>

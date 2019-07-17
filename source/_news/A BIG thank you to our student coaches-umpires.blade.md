@@ -4,11 +4,12 @@ date:
 description: "A BIG thank you to our students at WHS who coached and umpired our school teams this year."
 featured-image: 
 excerpt: "A BIG thank you to our students at WHS who coached and umpired our school teams this year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>A BIG thank you to our students who coached and umpired our school teams this year!</strong></p>

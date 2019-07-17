@@ -4,11 +4,12 @@ date:
 description: "CALL UP: Whanganui all-rounder Jess Watkin has been called into the White Ferns training camp at Lincoln in Christchurch next week after again signing with the CD Hinds, Wanganui Chronicle 29/6/16..."
 featured-image: 
 excerpt: "CALL UP: Whanganui all-rounder Jess Watkin has been called into the White Ferns training camp at Lincoln in Christchurch next week after again signing with the CD Hinds."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>CALL UP: Whanganui all-rounder Jess Watkin (WHS student) has been called into the White Ferns training camp at Lincoln in Christchurch next week after again signing with the CD Hinds.</strong></p>

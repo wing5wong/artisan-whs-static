@@ -4,11 +4,12 @@ date:
 description: "A newly formed Whanganui Secondary Schools Sports Council met for their first meeting of the year on Monday. WHS Heads of Sport, Ryan Gray and Emma Rainey were part of the team..."
 featured-image: 
 excerpt: "A newly formed Whanganui Secondary Schools Sports Council met for their first meeting of the year on Monday. WHS Heads of Sport, Ryan Gray and Emma Rainey were part of the team."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>A newly formed Whanganui Secondary Schools Sports Council met for their first meeting of the year on Monday. <br />WHS Heads of Sport, Ryan Gray and Emma Rainey were part of the team.&nbsp;</span></p>

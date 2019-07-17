@@ -4,11 +4,12 @@ date: 2018-06-12
 description: "Kieran O'Donnell was the top goalscorer for the Wanganui Lightning in the Lower North Island Inline Hockey League..."
 featured-image: 
 excerpt: "Former WHS student Kieran O'Donnell was the top goalscorer for the Wanganui Lightning in the Lower North Island Inline Hockey League."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former WHS student Kieran O'Donnell was the top goalscorer for the Wanganui Lightning in the Lower North Island Inline Hockey League at the weekend.</span></p>

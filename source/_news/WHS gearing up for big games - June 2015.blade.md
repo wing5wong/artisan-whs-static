@@ -4,11 +4,12 @@ date:
 description: "TALL TIMBER: The Celtic lads struggle to match the height and reach of WHS's 2.03m (6ft 8in) Raniera Walker, Wanganui Chronicle article on 10/6/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>TALL TIMBER: The Celtic lads struggle to match the height and reach of WHS's 2.03m (6ft 8in) Raniera Walker.</span></p>

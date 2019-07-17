@@ -4,11 +4,12 @@ date:
 description: "WHS student, Jessica Watkin is now a senior member of the Central District Hinds, although she and her team mates struggled for runs against the Wellington Blaze at the weekend..."
 featured-image: 
 excerpt: "WHS student, Jessica Watkin is now a senior member of the Central District Hinds, although she and her team mates struggled for runs against the Wellington Blaze at the weekend..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WHS student, Jessica Watkin is now a senior member of the Central District Hinds</strong>, although she and her team mates struggled for runs against the Wellington Blaze at the weekend.</p>

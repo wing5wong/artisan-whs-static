@@ -4,11 +4,12 @@ date:
 description: "SMART KIDS: WHS student Sidney Filer, left, and Reuben Stedman who will soon be travelling to Boston for the Clubhouse Teen Summit, Wanganui Chronicle article on 12/7/16..."
 featured-image: 
 excerpt: "SMART KIDS: WHS student Sidney Filer, left, and Reuben Stedman who will soon be travelling to Boston for the Clubhouse Teen Summit."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>SMART KIDS: <strong>WHS student Sidney Filer</strong>, left, and Reuben Stedman who will soon be travelling to Boston for the Clubhouse Teen Summit.</p>

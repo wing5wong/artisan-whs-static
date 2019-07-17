@@ -4,11 +4,12 @@ date:
 description: "Rounding out the speakers for the Great Debate is WHS old boy former NZ debating team member Rhaz Solomon & current High School student Gabrielle Penn, a reserve for the national schools debating team"
 featured-image: 
 excerpt: "Rounding out the speakers for the Great Debate is WHS old boy former NZ debating team member Rhaz Solomon & current High School student Gabrielle Penn, a reserve for the national schools debating team"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>TV presenter Mark Sainsbury is coming to Whanganui.</p>

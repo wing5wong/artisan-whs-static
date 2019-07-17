@@ -4,11 +4,12 @@ date:
 description: "THREE-WAY SPLIT: Te Reo Paki, Sammy Murphy and Kelera Kuruyabaki battle for possession under the net in last night's Wanganui championship final, Wanganui Chronicle article 11/8/15..."
 featured-image: 
 excerpt: "THREE-WAY SPLIT: Te Reo Paki, Sammy Murphy and Kelera Kuruyabaki battle for possession under the net in last night's Wanganui championship final."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>THREE-WAY SPLIT: Te Reo Paki, Sammy Murphy and Kelera Kuruyabaki battle for possession under the net in last night's Wanganui championship final.</p>

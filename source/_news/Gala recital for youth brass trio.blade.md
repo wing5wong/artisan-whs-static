@@ -4,11 +4,12 @@ date: 2018-08-25
 description: "WHS students Sarah Wright and Ethan Mancer will play at Saturday's gala recital at Sarjeant on the Quay..."
 featured-image: 
 excerpt: "WHS students Sarah Wright and Ethan Mancer will play at Saturday's gala recital at Sarjeant on the Quay."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WHS students Sarah Wright and Ethan Mancer will play at Saturday's gala recital at Sarjeant on the Quay.</strong><br />Photo / Supplied</p>

@@ -4,11 +4,12 @@ date: 2018-06-04
 description: "Former WHS student Tracy Phillips spent much of the 2000s policing in Whanganui..."
 featured-image: 
 excerpt: "Former WHS student Tracy Phillips spent much of the 2000s policing in Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former Whanganui High School student Tracy Phillips spent much of the 2000s policing in Whanganui.</p>

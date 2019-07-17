@@ -4,11 +4,12 @@ date:
 description: "WHS students Rebecca Baker and Sophie Andrews had great results at the NISS Athletics Championships held at Mt Smart Stadium in Auckland on the weekend..."
 featured-image: 
 excerpt: "WHS students Rebecca Baker and Sophie Andrews had great results at the NISS Athletics Championships held at Mt Smart Stadium in Auckland on the weekend..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5705b75eb8d39a7681000b15/15008.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5705b749b8d39a7681000b13/16008.jpg"
+	
+	
+	
 ---
 
 <p><span>The Whanganui Secondary Schools team had a successful journey north to the North Island Secondary Schools Championships in Auckland on the weekend.</span></p>

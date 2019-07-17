@@ -4,11 +4,12 @@ date:
 description: "Former WHS students Gabrielle Hiri and Paris Butters will represent Wanganui at the Renouf Tennis Centre in Wellington..."
 featured-image: 
 excerpt: "Former WHS students Gabrielle Hiri and Paris Butters will represent Wanganui at the Renouf Tennis Centre in Wellington."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Wanganui representative tennis season will conclude with a big weekend in the capital as a squad of eight compete in the Hexagonal at the Renouf Tennis Centre today.</p>

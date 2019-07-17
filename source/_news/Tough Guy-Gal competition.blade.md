@@ -4,11 +4,12 @@ date:
 description: "On Friday 26 of May, WHS took 11 students to the lower north island Tough Guy/Gal competition held just out of Wellington..."
 featured-image: 
 excerpt: "On Friday 26 of May, WHS took 11 students to the lower north island Tough Guy/Gal competition held just out of Wellington."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86cc4b8d39a19170001e6/medals-3-girls.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86cb9b8d39a19170001e4/medals-3-boys.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86c96b8d39a19170001de/good-muddy-shot-of-students.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86ca3b8d39a19170001e0/great-photo-of-girl.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86caeb8d39a19170001e2/group-at-finish-with-medals.jpg"
 ---
 
 <p><strong>On Friday 26&nbsp;of May, WHS took 11 students to the lower north island Tough Guy/Gal competition held just out of Wellington.</strong></p>

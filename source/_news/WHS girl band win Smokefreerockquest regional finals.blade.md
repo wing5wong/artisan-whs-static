@@ -4,11 +4,12 @@ date:
 description: "All girl four piece Straight Lace from WHS took out the Whanganui regional final of Smokefreerockquest..."
 featured-image: 
 excerpt: "All girl four piece Straight Lace from Whanganui High School took out the Whanganui regional final of Smokefreerockquest in front of a crowd of over 200 at Whanganui Opera House on Saturday night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><strong>All girl four piece Straight Lace from Whanganui High School took out the Whanganui regional final of Smokefreerockquest in front of a crowd of over 200 at Whanganui Opera House on Saturday night.</strong></h3>

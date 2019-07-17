@@ -4,11 +4,12 @@ date: 2018-03-28
 description: "Five Whanganui Speed Skaters part of NZ team to take on Australians in Oceania Speed skating Champs..."
 featured-image: 
 excerpt: "Five Whanganui Speed Skaters are heading to Timaru over Easter as part of the NZ team to take on the Australians in the Oceania Speed skating Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>FAST FIVE:&nbsp;&nbsp;<span>Whanganui speed skaters (from left) <strong>Renee Teers</strong>, Drew Brennan, Andrew Jones (centre), Chase Morpeth and <strong>Monique Cleeve</strong> are expected to shine at the Oceania Championships in Timaru this weekend.</span></p>

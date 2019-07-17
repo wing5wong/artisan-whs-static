@@ -4,11 +4,12 @@ date:
 description: "SILVER: The Wanganui Under 15 Blue team were second in A Grade at the Molly Dorne tournament, Wanganui Chronicle article on 30/6/16..."
 featured-image: 
 excerpt: "SILVER: The Wanganui Under 15 Blue team were second in A Grade at the Molly Dorne tournament."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>SILVER: The Wanganui Under 15 Blue team were second in A Grade at the Molly Dorne tournament.</span></p>

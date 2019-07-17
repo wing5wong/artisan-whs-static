@@ -4,11 +4,12 @@ date:
 description: "Congratulations for WHS student Emelye Brown for representing the Whanganui region in the National United Nations Speech Competition..."
 featured-image: 
 excerpt: "Congratulations for WHS student Emelye Brown for representing the Whanganui region in the National United Nations Speech Competition held in Wellington on 30 June 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Congratulations for WHS student Emelye Brown for representing the Whanganui region in the National United Nations Speech Competition held in Wellington on 30 June 2017.</strong></p>

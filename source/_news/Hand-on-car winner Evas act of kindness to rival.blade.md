@@ -4,11 +4,12 @@ date: 2018-08-08
 description: "Eva Harknes (left) won a 2005 Ford Fiesta in Ucol's hand-on-car competition & gifted her old car..."
 featured-image: 
 excerpt: "Eva Harknes (left) won a 2005 Ford Fiesta in Ucol's hand-on-car competition & gifted her old car to runner-up Heather Leeves."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Eva Harknes (left) won a 2005 Ford Fiesta from Wanganui Motors in Ucol's hand-on-car competition and gifted her old car to runner-up Heather Leeves. <br />PHOTO / Bevan Conley.</span></p>

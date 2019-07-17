@@ -4,11 +4,12 @@ date: 2018-10-09
 description: "Whanganui High School student Ben Power will be playing a musical interlude at the Poetry event held in the Sarjeant Gallery..."
 featured-image: 
 excerpt: "Whanganui High School student Ben Power will be playing a musical interlude at the Poetry event held in the Sarjeant Gallery."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui High School student&nbsp;Ben Power will be playing a musical interlude at the Poetry event held in the Sarjeant Gallery.</strong></p>

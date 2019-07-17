@@ -4,11 +4,12 @@ date:
 description: "Wanganui Park School College from Shepparton, Melbourne Australia visit WHS 16-18 November."
 featured-image: 
 excerpt: "Wanganui Park School College from Shepparton, Melbourne Australia visit WHS 16-18 November."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/564d0a5ab8d39a2136001c0c/Girls-hard-out-before.after-game.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/564d0a51b8d39a2136001c0a/Girls-coming-up-with-strategies.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/564d0a39b8d39a2136001c08/Girls-fun-photo.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/564d0a14b8d39a2136001c04/Both-teams-photo-together-nice.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/564d09d0b8d39a2136001bfe/Both-teams-exchanging-papers.jpg"
 ---
 
 <p><span>Great netball &amp; tennis games were played 16-18 November against Wanganui Park School College from Shepparton, Melbourne, Australia on their North Island NZ Tour. </span></p>

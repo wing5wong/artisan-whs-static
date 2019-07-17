@@ -4,11 +4,12 @@ date: 2018-10-01
 description: "Well done to Abbey Hocquard (Year 13) for featuring in the Mini Print International of Cadaques..."
 featured-image: 
 excerpt: "Well done to Abbey Hocquard (Year 13) for featuring in the Mini Print International of Cadaques."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Well done to Abbey Hocquard (Year 13) for featuring in the Mini Print International of Cadaques 2018.</h4>

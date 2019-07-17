@@ -4,11 +4,12 @@ date: 2018-09-03
 description: "CONGRATS to Lily Claypole for getting her \"Portrait of a Young Artist\" accepted as a finalist for the Wallace SS Art Awards..."
 featured-image: 
 excerpt: "Congratulations to Lily Claypole for getting her \"Portrait of a Young Artist\" accepted as a finalist for the Wallace Secondary School Art Awards."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Congratulations to Lily Claypole for getting her "Portrait of a Young Artist" accepted as a finalist for the Wallace Secondary School Art Awards.&nbsp;</h4>

@@ -4,11 +4,12 @@ date:
 description: "Former Whanganui man Jack Judd-Nuttall talks to presenter Holly Willoughby in the British reality TV show Meet the Parents..."
 featured-image: 
 excerpt: "Former Whanganui man Jack Judd-Nuttall talks to presenter Holly Willoughby in the British reality TV show Meet the Parents."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former Whanganui man Jack Judd-Nuttall talks to presenter Holly Willoughby in the British reality TV show Meet the Parents. <br />Photo: Supplied</span></p>

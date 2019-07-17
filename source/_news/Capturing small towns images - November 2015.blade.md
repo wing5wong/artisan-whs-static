@@ -4,11 +4,12 @@ date:
 description: "DUNEDIN-BASED photographer and former WHS student Samantha Matthews was faced with an unexpected challenge while putting together her latest exhibition, Wanganui Chronicle article on 23/11/15..."
 featured-image: 
 excerpt: "DUNEDIN-BASED photographer and former WHS student Samantha Matthews was faced with an unexpected challenge while putting together her latest exhibition, Wanganui Chronicle article on 23/11/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>DUNEDIN-BASED photographer and former WHS student Samantha Matthews was faced with an unexpected challenge while putting together her latest exhibition.</p>

@@ -4,11 +4,12 @@ date:
 description: "Roberta Thornley's exhibition 'A Serious Girl' is on at Sarjeant on the Quay. A Serious Girl follows a teenager, former WHS student Millie Manning..."
 featured-image: 
 excerpt: "Roberta Thornley's exhibition 'A Serious Girl' is on at Sarjeant on the Quay. A Serious Girl follows a teenager, former WHS student Millie Manning, in the months between leaving school & heading off  to Denmark to purse gymnastics."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Roberta Thornley's exhibition 'A Serious Girl' is on at Sarjeant on the Quay. <br />PHOTO: Bevan Conley</p>

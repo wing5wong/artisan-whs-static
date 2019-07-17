@@ -4,11 +4,12 @@ date:
 description: "GOT YOUR BACK: The Whanganui Under-17 girls celebrate winning their inaugural games as a team at the weekend, Wanganui Chronicle article on 15/3/15..."
 featured-image: 
 excerpt: "GOT YOUR BACK: The Whanganui Under-17 girls celebrate winning their inaugural games as a team at the weekend, Wanganui Chronicle article on 15/3/15... ."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

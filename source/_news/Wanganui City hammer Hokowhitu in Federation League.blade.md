@@ -4,16 +4,17 @@ date: 2019-04-22
 description: "Wanganui City's Max Davidson looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park..."
 featured-image: 
 excerpt: "Wanganui City's Max Davidson (ex WHS student) looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park today."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/vdTgjJc5omK8V-_2skvvffDR3gc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/KHMNIHG66FANHLRFOE2OFNYVOU.jpg" alt="Wanganui City's Max Davidson looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park today." /></p>
-<p><span><br />Wanganui City's <strong>Max Davidson</strong> (ex WHS student) looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park today.</span></p>
-<p class="element element-paragraph">The sinner returned a saint as a quartet of goals by Zane Robinson set up a convincing 4-1 victory for Versatile Wanganui City to get their first 2019 trot in the winner's circle of Lotto Federation League at Wembley Park today.</p>
+<p><span>Wanganui City's <strong>Max Davidson</strong> (ex WHS student) looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park today.</span></p>
+<p class="element element-paragraph"><br />The sinner returned a saint as a quartet of goals by Zane Robinson set up a convincing 4-1 victory for Versatile Wanganui City to get their first 2019 trot in the winner's circle of Lotto Federation League at Wembley Park today.</p>
 <p class="element element-paragraph">Facing a Hokowhitu FC side who tried too many individual bursts and struggled to contain City's pace and excellent passing chains amongst a rejigged midfield and wing, City could have been up by four goals at halftime if the tip of the spear had not been so blunt in front of goal.</p>
 <p class="element element-paragraph">Several shots were pushed wide as <strong>Jordan Joblin-Hall, Kyle Graham-Luke and Max Davidson</strong> dominated proceedings, while co-coach <strong>Anthony Bell</strong> took his pace over to the new position of wing.</p>
 <p class="element element-paragraph">That swap saw Robinson, just back from his red card suspension, moved into the striker position and the decision came up gold in the third quarter of the match as Hokowhitu tried to push forward but continued their raft of turnovers.</p>

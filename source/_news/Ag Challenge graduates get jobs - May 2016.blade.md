@@ -4,11 +4,12 @@ date:
 description: "Former WHS Construction students Boaz Darby, Jared Stewart and Nicholas Glentworth at their Ag Challenge course, Rivercity Press article 19 May..."
 featured-image: 
 excerpt: "Former WHS Construction students Boaz Darby, Jared Stewart and Nicholas Glentworth at their Ag Challenge course, Rivercity Press article..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

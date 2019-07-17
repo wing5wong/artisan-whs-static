@@ -4,11 +4,12 @@ date:
 description: "Make-up artist, former WHS student Nika Steele takes the digital stage. A Whanganui make-up artist is making her big debut by vlogging..."
 featured-image: 
 excerpt: "Make-up artist, former WHS student Nika Steele takes the digital stage. A Whanganui make-up artist is making her big debut by vlogging."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Make-up artist, former WHS student Nika Steele takes the digital stage. <br />PHOTO: Caleb Kingi</span></p>

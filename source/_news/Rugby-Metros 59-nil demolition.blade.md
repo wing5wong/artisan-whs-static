@@ -4,11 +4,12 @@ date:
 description: "Metro's Lochie Steedman (former WHS student) steps out to the try line for one of nine scored against Kia Toa at the Kaierau Country Club on Saturday..."
 featured-image: 
 excerpt: "Metro's Lochie Steedman (former WHS student) steps out to the try line for one of nine scored against Kia Toa at the Kaierau Country Club on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Metro's Lochie Steedman (former WHS student) steps out to the try line for one of nine scored against Kia Toa at the Kaierau Country Club on Saturday. <br />PHOTO / Sarah Lourie</span></p>

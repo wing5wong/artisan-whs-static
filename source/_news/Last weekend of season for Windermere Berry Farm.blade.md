@@ -4,11 +4,12 @@ date:
 description: "Amara Rae (left), Jaime Rae and WHS student Mikal Terrey say goodbye from Windermere Berry Farm..."
 featured-image: 
 excerpt: "Amara Rae (left), Jaime Rae and WHS student Mikal Terrey say goodbye from Windermere Berry Farm."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Amara Rae (left), Jaime Rae and WHS student Mikal Terrey say goodbye from Windermere Berry Farm. <br />PHOTO: Bevan Conley</span></p>

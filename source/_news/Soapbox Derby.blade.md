@@ -4,11 +4,12 @@ date:
 description: "WHS student Shea Robinson stands with his soapbox collection. The Totalspan Soapbox Derby on Monday 23 January on Queens Park Hill in Wanganui..."
 featured-image: 
 excerpt: "WHS student Shea Robinson stands with his soapbox collection. The Totalspan Soapbox Derby on Monday 23 January on Queens Park Hill in Wanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>DERBY CRAFT: WHS student Shea Robinson stands with his soapbox collection, including the new NZ Couriers van, with help from Cutting Edge Mowers, Totalspan, Morrie Gibbons Signs, Garmac Engineering, Hiremaster and dad. </span></p>

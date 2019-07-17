@@ -4,11 +4,12 @@ date: 2018-10-04
 description: "Former WHS students Elena Morgan & Abigail Livesay will join their Mothers for the 'Like Mother, Like Daughter' concert..."
 featured-image: 
 excerpt: "Former WHS students Elena Morgan and Abigail Livesay will join their Mothers for the 'Like Mother, Like Daughter' concert at Jane Winstone Chapel."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bbbf956ff2a7c68e500023b/Abigail-Livesay-Jane-Winstone-RCP.jpg"
+	
+	
+	
+	
 ---
 
 <p><span>Elena Morgan and Ingrid Culliford (photo) will join Winifred and Abigail Livesay for the Like Mother, Like Daughter concert at Jane Winstone Chapel on Sunday. <br /><em>Photo / Supplied</em></span></p>

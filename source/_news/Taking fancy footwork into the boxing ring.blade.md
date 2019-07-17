@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Ardon England is preparing for a charity boxing match in Auckland; stepping off the dance floor and into the boxing ring..."
 featured-image: 
 excerpt: "Former WHS student Ardon England is preparing for a charity boxing match in Auckland in October; stepping off the dance floor and into the boxing ring."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span>Former WHS student Ardon England is preparing for a charity boxing match in Auckland in October;</span>&nbsp;stepping off the dance floor and into the boxing ring. <br />PHOTO / Stuart Munro</span></p>

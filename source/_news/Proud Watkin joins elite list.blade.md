@@ -4,11 +4,12 @@ date: 2018-05-30
 description: "The Whanganui logo will take centre stage when Jess Watkin pads up for the White Ferns in Britain..."
 featured-image: 
 excerpt: "The Whanganui logo will take centre stage when Jess Watkin pads up for the White Ferns in Britain thanks to avid cricket fan, Mayor Hamish McDouall."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span>The Whanganui logo will take centre stage when Jess Watkin pads up for the White Ferns in Britain thanks to avid cricket fan, Mayor Hamish McDouall. </span></h4>

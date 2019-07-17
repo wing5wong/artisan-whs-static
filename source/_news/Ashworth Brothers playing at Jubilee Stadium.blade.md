@@ -4,11 +4,12 @@ date:
 description: "Three former WHS students; brothers' Joel, Matthew and Joshua Ashworth will be playing In-Line Hockey at Jubilee stadium this weekend in the Lower North Island Senior A League..."
 featured-image: 
 excerpt: "Three former WHS students; brothers Joel, Matthew and Joshua Ashworth will be playing In-Line Hockey at Jubilee stadium this weekend in the Lower North Island Senior A League"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;">The Wanganui Lightning United want to make this weekend's round of the Lower North Island Senior A League all about them at Jubilee Stadium.</span></p>

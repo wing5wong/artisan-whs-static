@@ -4,16 +4,17 @@ date: 2019-03-20
 description: "The reigning King of Crankworx Sam Blenkinsop, born and bred in Whanganui, begins the defence of his crown in Rotorua"
 featured-image: 
 excerpt: "The reigning King of Crankworx Sam Blenkinsop, born and bred in Whanganui, begins the defence of his crown in Rotorua this week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong><img src="https://www.nzherald.co.nz/resizer/Oo9UlsxL2qeQOvKyyK_Ayq5Kawo=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/7AWYADRAJBFJRDI4L4CPQ7J5UU.jpg" alt="Sam Blenkinsop has a laugh after winning the Crankworx Rotorua Downhill last year. Photo / Getty Images" /></strong></span></p>
 <p><span><strong>Sam Blenkinsop has a laugh after winning the Crankworx Rotorua Downhill last year.</strong> <br /><em>PHOTO / Getty Images</em></span></p>
-<p class="element element-paragraph">Crankworx Rotorua is under way and there is royalty in the house.</p>
+<p class="element element-paragraph"><br />Crankworx Rotorua is under way and there is royalty in the house.</p>
 <p class="element element-paragraph">The reigning King of Crankworx Sam Blenkinsop, born and bred in Whanganui, begins the defence of his crown in Rotorua this week.</p>
 <p class="element element-paragraph">Consistency was key for Blenkinsop in 2018 as he racked up podium finishes at Crankworx events all over the world to claim the overall title.</p>
 <p class="element element-paragraph">"I felt like I came into the season pretty strong last year, I had some good testing going into it and the trails really suited me here in New Zealand. I'm pretty excited, I feel like just having fun on the bike and enjoying everything around it.</p>

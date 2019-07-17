@@ -4,11 +4,12 @@ date:
 description: "POSTER GIRL: WHS student Niamh O'Connell with her Red Riding Hood poster, Wanganui Midweek article on 9/11/16..."
 featured-image: 
 excerpt: "POSTER GIRL: WHS student Niamh O'Connell with her Red Riding Hood poster."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>POSTER GIRL: WHS student Niamh O'Connell with her Red Riding Hood poster.<br />PHOTO courtesy of Harmony May.&nbsp;</span></p>

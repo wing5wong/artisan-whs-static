@@ -4,11 +4,12 @@ date: 2018-09-13
 description: "Hannah Rowe, left, will join fellow White Fern Jess Watkin to promote and grow the girls game in Whanganui."
 featured-image: 
 excerpt: "Hannah Rowe, left, will join fellow White Fern Jess Watkin to promote and grow the girls game in Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Hannah Rowe, left, will join fellow White Fern Jess Watkin to promote and grow the girls game in Whanganui.</span><br />Photo / Supplied</p>

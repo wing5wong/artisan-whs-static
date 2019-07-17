@@ -4,15 +4,16 @@ date: 2019-03-27
 description: "Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia for the Quiz night..."
 featured-image: 
 excerpt: "Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia for the Quiz night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/B2RJnJuoSEybjOki2robH1SiOo8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/UG3KPBMXH5A47PETK526XHF5YY.jpg" alt="Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia." /></p>
-<p><em>Photo</em> /&nbsp;Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia.</p>
+<p>Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia.</p>
 <p class="element element-paragraph"><br />In July this year, a group of Whanganui High School Spanish language students are going to Spain.</p>
 <p class="element element-paragraph">Between now and then, fundraising activities include a quiz night this Saturday at the Gonville Bowling Club.</p>
 <p class="element element-paragraph">"Senior students have been asking for this [trip] for the past couple of years," says Spanish teacher Queralt Scott. "It's going to be expensive. We need 20 to go [to make it cost effective] so we opened it to photography and art students because we're going to see museums and there's a lot of art in Spain.</p>

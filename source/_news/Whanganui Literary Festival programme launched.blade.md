@@ -4,11 +4,12 @@ date:
 description: "Whanganui Literary Festival Trust members, from left, Lyn White, Gillian Tasker and WHS teacher Mary-Ann Ewing at the launch..."
 featured-image: 
 excerpt: "Whanganui Literary Festival Trust members, from left, Lyn White, Gillian Tasker and Whanganui High School teacher Mary-Ann Ewing at the launch of the Whanganui Literary Festival."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui Literary Festival Trust members, from left, Lyn White, Gillian Tasker and Whanganui High School teacher Mary-Ann Ewing at the launch of the Whanganui Literary Festival. <br />Photo/Bevan Conley</span></p>

@@ -4,15 +4,16 @@ date: 2019-04-01
 description: "Whanganui High School finishes fourth at North Island Secondary Schools Motocross Championships in Rotorua..."
 featured-image: 
 excerpt: "Whanganui High School finishes fourth at North Island Secondary Schools Motocross Championships in Rotorua."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong><img src="https://www.nzherald.co.nz/resizer/IheIQ-0RYpyOIIlSnkj6nGLBR8Q=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/RQRLW74NANAPJNCX5ZM5YGK7NA.jpg" alt="The Whanganui High School contingent at the North Island Championships in Rotorua on Friday. Top left, Alex Luff Scott , Riki Wainhouse, James Rountree. Bottom, Troy Bullock, Ajah Sullivan." /></strong></p>
-<p><strong>The Whanganui High School contingent at the North Island Championships in Rotorua on Friday. Top left, Alex Luff Scott , Riki Wainhouse, James Rountree. Bottom, Troy Bullock, Ajah Sullivan.</strong><br /><em>PHOTO / Supplied</em></p>
+<p><strong>The Whanganui High School contingent at the North Island Championships in Rotorua on Friday. Top left, Alex Luff Scott , Riki Wainhouse, James Rountree. Bottom, Troy Bullock, Ajah Sullivan.</strong><br /><em>PHOTO / Supplied<br /><br /></em></p>
 <h3>Motocross: Whanganui High School finishes fourth at North Island Secondary Schools Championships in Rotorua.</h3>
 <p class="element element-paragraph">Even when far from home, the Whanganui High School team had another strong collective performance at the North Island Secondary Schools Motocross Championships in Rotorua on Friday.</p>
 <p class="element element-paragraph">Crown jewel for the group of local riders who attend these events has always been <strong>James Rountree</strong>, who was the defending champion from 2018 in both the 250cc and 125cc class for 15-19 Years.</p>

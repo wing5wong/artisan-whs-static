@@ -4,11 +4,12 @@ date:
 description: "Wanganui Chronicle's and former Whanganui High School student Christina Forsyth (left) hands over a cheque to Women's Refuge Whanganui chairwoman Paula Wade."
 featured-image: 
 excerpt: "Wanganui Chronicle's and former Whanganui High School student Christina Forsyth (left) hands over a cheque to Women's Refuge Whanganui chairwoman Paula Wade."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>FUNDRAISER: Wanganui Chronicle's and former Whanganui High School student Christina Forsyth (left) hands over a cheque to Women's Refuge Whanganui chairwoman Paula Wade.</p>

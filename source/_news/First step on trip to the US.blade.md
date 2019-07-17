@@ -4,11 +4,12 @@ date:
 description: "Wanganui Golf Club's Fergus Smith (former WHS student) at the start of the club fundraiser round for his big move to university in Iowa, USA"
 featured-image: 
 excerpt: "Wanganui Golf Club's Fergus Smith (former WHS student) at the start of the club fundraiser round for his big move to university in Iowa, USA"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>HEADING STATESIDE: Wanganui Golf Club's Fergus Smith (former WHS student) at the start of the club fundraiser round for his big move to university in Iowa, USA.<br /></strong>PHOTO / STUART MUNRO</p>

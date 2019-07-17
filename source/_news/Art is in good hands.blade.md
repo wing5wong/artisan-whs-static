@@ -4,11 +4,12 @@ date:
 description: "People's Choice winner Jovanna Penn-Reina (left), organiser Tamara Stratton, winners Eloise Young (WHS student), Mikayla Baldwin (WHS student), Xanthe Cohen & Aranga Molijn (WHS student) at the awards"
 featured-image: 
 excerpt: "People's Choice winner Jovanna Penn-Reina (left), organiser Tamara Stratton, winners Eloise Young (WHS student), Mikayla Baldwin (WHS student), Xanthe Cohen and Aranga Molijn (WHS student) at the awards night last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>TALENTED YOUTH: People's Choice winner Jovanna Penn-Reina (left), organiser Tamara Stratton, <strong>winners Eloise Young (WHS student), Mikayla Baldwin (WHS student)</strong>, Xanthe Cohen and <strong>Aranga Molijn (WHS student)</strong>&nbsp;at the awards night last week.</span></p>

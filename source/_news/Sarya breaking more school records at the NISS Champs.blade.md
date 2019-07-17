@@ -4,11 +4,12 @@ date:
 description: "Sarya Lower has broken more school records in the weekend at the North Island Secondary School Swim Champs..."
 featured-image: 
 excerpt: "Sarya Lower has broken more school records in the weekend at the North Island Secondary School Swim Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Sarya Lower has broken more school records in the weekend at the North Island Secondary School Swim Champs!&nbsp;</strong><br /><strong>Amazing stuff Sarya. </strong><br /><strong></strong></p>

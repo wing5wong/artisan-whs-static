@@ -4,11 +4,12 @@ date: 2018-05-22
 description: "The Whanganui High School touch team are raising funds to take part in the biggest touch tournament in the world..."
 featured-image: 
 excerpt: "The Whanganui High School touch team are raising funds to take part in the biggest touch tournament in the world."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>The Whanganui High School touch team are raising funds to take part in the biggest touch tournament in the world.</strong> <br />Photo / Supplied</span></p>

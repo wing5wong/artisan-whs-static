@@ -4,11 +4,12 @@ date: 2018-10-12
 description: "Whanganui High School Students recognised in the Wynne Costley Research Scholarship Awards..."
 featured-image: 
 excerpt: "Whanganui High School Students recognised in the Wynne Costley Research Scholarship Awards."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Congratulations to (L-R): Olivia Bedwell, Rhian Robertson, Brianna Walker, Hannah Lawler - all prize winners in the Wynne Costley Research Scholarship Awards.</strong></p>

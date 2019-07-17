@@ -4,11 +4,12 @@ date: 2018-10-08
 description: "Young Artist Scholarship 2017 winner Mikayla Baldwin. Entries open for Young Artist Scholarship 2018..."
 featured-image: 
 excerpt: "Young Artist Scholarship 2017 winner Mikayla Baldwin. Entries open for Young Artist Scholarship 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Young Artist Scholarship 2017 winner</strong> <strong>Mikayla Baldwin.</strong> <br /><em>PHOTO / Paul Brooks</em></span></p>

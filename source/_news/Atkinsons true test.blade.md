@@ -4,11 +4,12 @@ date:
 description: "It was a hot baptism on a pouring wet evening at Lloyd Elsmore Park for Whanganui hockey export Martin Atkinson, as he made his test debut in the 4-2 loss to Australia on Thursday night..."
 featured-image: 
 excerpt: "It was a hot baptism on a pouring wet evening at Lloyd Elsmore Park for Whanganui hockey export Martin Atkinson, as he made his test debut in the 4-2 loss to Australia on Thursday night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student Martin Atkinson's true test.</p>

@@ -4,16 +4,17 @@ date: 2019-03-27
 description: "Seth Reardon parks up after an epic battle with NZ X-country series leader Jason Dickey (58) & third placegetter..."
 featured-image: 
 excerpt: "Whanganui's Seth Reardon parks up after an epic battle with NZ X-country series leader Jason Dickey (58) and Sunday's third placegetter Brandon Given (5)."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><img src="https://www.nzherald.co.nz/resizer/vOICTZcHbWEkzryeM4ZrAWU1KFA=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/DLCVMVHH3NCURO2UEUXJWFLWYA.jpg" alt="Whanganui's Seth Reardon parks up after an epic battle with NZ X-country series leader Jason Dickey (58) and Sunday's third placegetter Brandon Given (5). " /></span></p>
 <p><span>Whanganui's Seth Reardon parks up after an epic battle with NZ X-country series leader Jason Dickey (58) and Sunday's third placegetter Brandon Given (5).</span><br /><em>Photo / Supplied</em></p>
-<p class="element element-paragraph">Twice as much race time on his bike is translating into multiple successes for Whanganui Yamaha ace Seth Reardon.</p>
+<p class="element element-paragraph"><br />Twice as much race time on his bike is translating into multiple successes for Whanganui Yamaha ace Seth Reardon.</p>
 <p class="element element-paragraph">The just-turned 21-year-old is currently running with the leaders in two very different bike disciplines and, with races still to be run in both the separate competitions, he fancies his chances of tasting even more glory before the year is out.</p>
 <p class="element element-paragraph">Reardon took his 2019-model Yamaha YZ250FX to finish overall runner-up at the second round of four in this year's New Zealand Cross-country Championships near Mosgiel on Sunday and that result, added to his fourth placing at the series opener near Norsewood in February, has boosted him into the No.2 spot in the title chase.</p>
 <div class="element element-image">

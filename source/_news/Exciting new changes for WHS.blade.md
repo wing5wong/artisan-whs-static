@@ -4,11 +4,12 @@ date: 2018-02-08
 description: "New International students for Whanganui High School 2018..."
 featured-image: 
 excerpt: "New International students for Whanganui High School 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>New International students for Whanganui High School 2018.</strong></p>

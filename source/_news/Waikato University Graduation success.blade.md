@@ -4,11 +4,12 @@ date:
 description: "Congratulations to Liam Wooding and Therese Bourne, both former WHS students, who graduated from the University of Waikato in May 2017."
 featured-image: 
 excerpt: "Congratulations to Liam Wooding and Therese Bourne, both former WHS students, who graduated from the University of Waikato in May 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>In May the University of Waikato held Graduation Ceremonies.</p>

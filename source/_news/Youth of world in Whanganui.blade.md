@@ -4,11 +4,12 @@ date: 2018-03-08
 description: "Whanganui Mayor Hamish McDouall fronts a welcome for international students..."
 featured-image: 
 excerpt: "Whanganui Mayor Hamish McDouall fronts a welcome for international students."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui Mayor Hamish McDouall fronts a welcome for international students. <br /><em>PHOTO / Bevan Conley</em></span></p>

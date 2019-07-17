@@ -4,11 +4,12 @@ date:
 description: "Congratulations to our Whanganui High School 'Male and Female DUX ARTIUM' for 2017:  JACK SOUTHEE & SOPHIE WHAM..."
 featured-image: 
 excerpt: "Congratulations to our Whanganui High School 'Male and Female Dux Artium' for 2017:  JACK SOUTHEE & SOPHIE WHAM"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ffef44b8d39a7731000735/Sophie-Wham.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ffef32b8d39a7731000733/Untitled-1.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ffef4eb8d39a7731000737/Principal-award-for-excellence.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ffef5bb8d39a7731000739/group-of-cultural-winners.jpg"
+	
 ---
 
 <h4>Congratulations to our Whanganui High School 'Male and Female DUX ARTIUM' for 2017:<br />JACK SOUTHEE &amp; SOPHIE WHAM</h4>

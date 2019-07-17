@@ -4,15 +4,16 @@ date: 2019-03-23
 description: "WHS student Rose Hird is the winner of the youth award in the 2019 Whanganui Arts Review for her self-portrait Rōhi..."
 featured-image: 
 excerpt: "Whanganui High School student Rose Hird is the winner of the youth award in the 2019 Whanganui Arts Review for her self-portrait Rōhi."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><img src="https://www.nzherald.co.nz/resizer/xlFn5VaAYqzzdqaMNa6Pfw6USFg=/620x945/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/OXYL4GXTRBFULCCC4Y6DJQELVQ.jpg" alt="Rose Hird with her winning painting Rohi on show at the Sarjeant Gallery in Whanganui. Photo/Stuart Munro" /></span></p>
-<p><span>Youth Award winner Rose Hird was one of a record number of young entrants to submit their work for the Whanganui Arts Review this year. <br /><em>PHOTO / Stuart Munro</em></span></p>
+<p><span>Youth Award winner Rose Hird was one of a record number of young entrants to submit their work for the Whanganui Arts Review this year. <br /><em>PHOTO / Stuart Munro<br /><br /></em></span></p>
 <h3 class="element element-paragraph">Whanganui High School student Rose Hird is the winner of the youth award in the 2019 Whanganui Arts Review for her self-portrait&nbsp;<em>Rōhi</em>.</h3>
 <p class="element element-paragraph">The 15-year-old's work was selected for the WDC Youth Committee Youth Recognition Award by judge Andrew Clifford, of Te Uru Waitakere Contemporary Gallery in Auckland.</p>
 <p class="element element-paragraph">"I based it on Rita Angus' painting&nbsp;<em>Rutu</em>," says Hird.</p>

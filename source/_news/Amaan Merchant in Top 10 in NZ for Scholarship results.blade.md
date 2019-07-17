@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Amaan Merchant in Top 10 in NZ for Scholarship results, River City Press article on 11/2/16..."
 featured-image: 
 excerpt: "Former WHS student Amaan Merchant in Top 10 in NZ for Scholarship results, River City Press article on 11/2/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="BasicParagraph"><span class="CharacterStyle1"><strong><span lang="EN-GB">Samina, Amaan and Mohib Merchant</span></strong></span></p>

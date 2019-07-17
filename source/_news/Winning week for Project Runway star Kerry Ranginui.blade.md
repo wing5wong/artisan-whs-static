@@ -4,11 +4,12 @@ date: 2018-12-07
 description: "Sitting in a judge's seat at the Wanganui Racecourse was a nice change of pace for Kerry Ranginui..."
 featured-image: 
 excerpt: "Kerry Ranginui appraises the outfits of Ballet School Dropouts Dahlia Dangerous and Trillian at the Whanganui Christmas at the Races event."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Kerry Ranginui appraises the outfits of Ballet School Dropouts Dahlia Dangerous and Trillian at the Whanganui Christmas at the Races event. <br /><em>PHOTO / Bevan Conley</em></span></p>

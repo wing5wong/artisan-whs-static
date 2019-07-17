@@ -4,11 +4,12 @@ date: 2018-09-25
 description: "Clarissa Nowak & Alex Forlong were involved in the rescue off Kai Iwi Beach which won rescue of the year."
 featured-image: 
 excerpt: "Clarissa Nowak and Alex Forlong were involved in the rescue off Kai Iwi Beach which won rescue of the year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bb5b1eeff2a7c68e50000e4/Clarissa-Nowak-NZ-top-surf-rescue.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9a2f9ff2a7c1309000020/chron-25-sept-lifesavings.jpg"
+	 - image: "/uploads/5ba9a2b6ff2a7c130900001e/chron-25-sept-watch-tower.PNG"
+	
+	
 ---
 
 <h4><span>Clarissa Nowak and Alex Forlong were involved in the rescue off Kai Iwi Beach which won rescue of the year. The majority of the rescuers were past/present WHS students.</span></h4>

@@ -4,11 +4,12 @@ date:
 description: "Ingrid Culliford, Deborah Wai Kahope and former WHS student Liam Wooding (on piano) perform at Sarjeant on the Quay last Sunday..."
 featured-image: 
 excerpt: "Ingrid Culliford, Deborah Wai Kahope and former WHS student Liam Wooding perform at Sarjeant on the Quay last Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>TALENTED TRIO: Ingrid Culliford, Deborah Wai Kahope and former WHS student <strong>Liam Wooding</strong> (on piano) perform at Sarjeant on the Quay last Sunday.<br />PHOTO: Liz Wylie</p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui judoka Keightley Watson mixes it with world heavyweights in Holland for the next five weeks..."
 featured-image: 
 excerpt: "Whanganui judoka Keightley Watson mixes it with world heavyweights in Holland for the next five weeks."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>BIG TIME:&nbsp;<span>Whanganui judoka Keightley Watson mixes it with world heavyweights in Holland for the next five weeks.</span><br /><em>Photo / Supplied</em></p>

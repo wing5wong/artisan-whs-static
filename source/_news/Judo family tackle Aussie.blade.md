@@ -4,11 +4,12 @@ date:
 description: "TROPHY HUNTER: WHS student Keightley Watson already has the Australian ACT and Queensland judo titles in the bag and is aiming to add the Sydney International title in his grade..."
 featured-image: 
 excerpt: "TROPHY HUNTER: Keightley Watson already has the Australian ACT and Queensland judo titles in the bag and is aiming to add the Sydney International title in his grade."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>TROPHY HUNTER: WHS student Keightley Watson already has the Australian ACT and Queensland judo titles in the bag and is aiming to add the Sydney International title in his grade.</strong></p>

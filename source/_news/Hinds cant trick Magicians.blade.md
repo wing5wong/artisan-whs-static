@@ -4,11 +4,12 @@ date:
 description: "The Hinds put the Magicians into bat and they scored 146-3, with spinner Jessica Watkin (WHS student) finishing with 0-28 from her four overs."
 featured-image: 
 excerpt: "The Hinds put the Magicians into bat and they scored 146-3, with spinner Jessica Watkin finishing with 0-28 from her four overs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Central District Hinds and their Whanganui players were beaten by 31 runs in their Twenty20 game with the Canterbury Magicians at Hagley Oval in Christchurch yesterday.</p>

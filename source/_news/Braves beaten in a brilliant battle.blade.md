@@ -4,16 +4,17 @@ date: 2019-03-27
 description: "The Castlecliff Club Mustangs softball team finished fourth of 13 teams in the Manawatu Senior Men's Reserve grade..."
 featured-image: 
 excerpt: "The Castlecliff Club Mustangs softball team finished fourth of 13 teams in the Manawatu Senior Men's Reserve grade competition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><img src="https://i.prcdn.co/img?regionKey=H%2fP06B2NtYN7Hpsm%2bl5BPg%3d%3d" alt="" /></span></p>
 <p><span>The Castlecliff Club Mustangs softball team finished fourth of 13 teams in the Manawatu Senior Men's Reserve grade competition.<br /><em>Photo / Supplied</em></span></p>
-<p class="element element-paragraph">Ezi Finance Wanganui Braves havemade the playoff for third in the Manawatu Senior Men's Premier grade softball competition after a narrow loss on Saturday.</p>
+<p class="element element-paragraph"><br />Ezi Finance Wanganui Braves havemade the playoff for third in the Manawatu Senior Men's Premier grade softball competition after a narrow loss on Saturday.</p>
 <p class="element element-paragraph">Braves went down to Bluesox 6-4 in a marathon game that went to eleven innings and took over three hours before a winner could be established.</p>
 <p class="element element-paragraph">Some spectators around Colquhoun Park in Palmerston North could not recall a more exciting game unfold. The game befitting a grand final some said.</p>
 <p class="element element-paragraph">After the regulation seven innings, the tense game was locked at one a piece.</p>

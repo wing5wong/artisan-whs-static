@@ -4,11 +4,12 @@ date:
 description: "Winner of senior honours at the Secondary School Sport awards in Wanganui last night Erica Tanner of Wanganui High School receives her award from netball international Joline Henry."
 featured-image: 
 excerpt: "Winner of senior honours at the Secondary School Sport awards in Wanganui last night Erica Tanner of Wanganui High School receives her award from netball international Joline Henry. Erica won the award for her kayaking and multisport achievements at the awards night held at the Wanganui Girls' College hall."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Year 13</strong><span>&nbsp;</span><strong>Wanganui High School kayaker Erica Tanner claimed the Senior Sportswoman of the Year title</strong><span>.</span></p>

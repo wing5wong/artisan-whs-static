@@ -4,11 +4,12 @@ date: 2018-09-11
 description: "Whanganui's James Rountree was the best 15-19 year old rider in both his bike divisions at the NISSs Motocross champs..."
 featured-image: 
 excerpt: "Whanganui's James Rountree was the best 15-19 year old rider in both his bike divisions at the NISSs Motocross champs on Friday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Whanganui's James Rountree was the best 15-19 year old rider in both his bike divisions at the North Island Secondary Schools Motocross championships on Friday finishing 1st in both.</h4>

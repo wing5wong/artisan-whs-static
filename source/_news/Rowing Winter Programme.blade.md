@@ -4,11 +4,12 @@ date: 2018-04-25
 description: "Rowing Winter Programme starts on Monday 30 April at 4pm at the Aramoho Rowing Club..."
 featured-image: 
 excerpt: "Rowing Winter Programme starts on Monday 30 April at 4pm at the Aramoho Rowing Club."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>ROWING - Winter Programme Term 2&nbsp;</strong></p>

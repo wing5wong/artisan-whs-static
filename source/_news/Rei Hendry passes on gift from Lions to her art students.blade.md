@@ -4,11 +4,12 @@ date:
 description: "The Wanganui Lions Club recently donated $1,000 to Rei Hendry in recognition for all the help and art work supplied by Rei and her students at her Art House to Kowhai Park..."
 featured-image: 
 excerpt: "The Wanganui Lions Club recently donated $1,000 to Rei Hendry in recognition for all the help and art work supplied by Rei and her students at her Art House to Kowhai Park."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Back row - Brian Collins and Tom Johnson from Lions, <strong>Cameron Boyd</strong> (former WHS student), <strong>WHS student Dylan Wilkie</strong> and Hayley McConachy; <br />Front - <strong>Stephanie Lockwood</strong> (former WHS student), Rei Hendry and <strong>Daisy Wilkie</strong> (former WHS student).</p>

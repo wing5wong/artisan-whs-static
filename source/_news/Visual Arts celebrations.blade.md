@@ -4,11 +4,12 @@ date:
 description: "The celebrations continue in the Visual Arts Department at Whanganui High School..."
 featured-image: 
 excerpt: "The celebrations continue in the Visual Arts Department at Whanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a1e2a5ab8d39a25b6000aea/Mikayla-Baldwin-1.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a1e2a9db8d39a25b6000aee/Mikayla-Baldwin-3.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a1e2a7ab8d39a25b6000aec/Mikayla-Baldwin-2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a1e2b78b8d39a25b6000af8/Tiana-Absolum-cert-of-dist.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a1e2b1fb8d39a25b6000af4/Lily-Claypole-cert-of-dist.jpg"
 ---
 
 <p><strong><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif;">The celebrations continue in the Visual Arts Department..&nbsp;</span></strong></p>

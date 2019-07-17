@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School students India-Rose Wallace (left) and Holly-Rae Mete team up in the newly-launched Monday evening secondary novice doubles league on home court..."
 featured-image: 
 excerpt: "Whanganui High School students India-Rose Wallace (left) and Holly-Rae Mete team up in the newly-launched Monday evening secondary novice doubles league on home court."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>DOUBLE UP: Whanganui High School students India-Rose Wallace (left) and Holly-Rae Mete team up in the newly-launched Monday evening secondary novice doubles league on home court.</span></p>

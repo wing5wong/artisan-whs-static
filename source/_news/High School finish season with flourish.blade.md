@@ -4,11 +4,12 @@ date:
 description: "After nine games in five days, the tired Whanganui High School and Wanganui Collegiate players get together after their match yesterday, Wanganui Chronicle article on 2/9/16..."
 featured-image: 
 excerpt: "After nine games in five days, the tired Whanganui High School and Wanganui Collegiate players get together after their match yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>After nine games in five days, the tired Whanganui High School and Wanganui Collegiate players get together after their match yesterday.</span></p>

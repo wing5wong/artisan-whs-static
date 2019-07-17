@@ -4,11 +4,12 @@ date: 2018-09-27
 description: "Rebecca Scown, centre, & the recipients of the latest round of funding from the Mitre 10 Mega Futures Champions Trust..."
 featured-image: 
 excerpt: "Rebecca Scown, centre, and the recipients of the latest round of funding from the Mitre 10 Mega Futures Champions Trust."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Rebecca Scown, centre, and the recipients of the latest round of funding from the Mitre 10 Mega Futures Champions Trust.</span><br /><em>Photo / Supplied</em></p>

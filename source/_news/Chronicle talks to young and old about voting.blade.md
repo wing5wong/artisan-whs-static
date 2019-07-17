@@ -4,11 +4,12 @@ date:
 description: "Some of Whanganui's youngest voters talk about what matters to them this election. From left: Caius Wrigglesworth, Penny Lilburn, and WHS students' McKenzie Tunua and Jack Southee..."
 featured-image: 
 excerpt: "Some of Whanganui's youngest voters talk about what matters to them this election. From left: Caius Wrigglesworth, Penny Lilburn, and WHS students' McKenzie Tunua and Jack Southee."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Some of Whanganui's youngest voters talk about what matters to them this election. <br />From left: Caius Wrigglesworth, Penny Lilburn, and <strong>WHS students' McKenzie Tunua and Jack Southee.</strong> <br />PHOTO'S/Bevan Conley</span></p>

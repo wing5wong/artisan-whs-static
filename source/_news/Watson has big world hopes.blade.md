@@ -4,11 +4,12 @@ date:
 description: "Whanganui judoka Keightley Watson will definitely head to the Cadet Worlds in Chile, but is still mulling it over with family about a year or more at the Olympic Training Camp in Budapest..."
 featured-image: 
 excerpt: "Whanganui judoka Keightley Watson will definitely head to the Cadet Worlds in Chile, but is still mulling it over with family about a year or more at the Olympic Training Camp in Budapest."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui judoka Keightley Watson will definitely head to the Cadet Worlds in Chile, but is still mulling it over with family about a year or more at the Olympic Training Camp in Budapest.</strong></p>

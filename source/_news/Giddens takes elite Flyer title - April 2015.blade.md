@@ -4,11 +4,12 @@ date:
 description: "RAIN RACE: Former WHS student Hayley Giddens (centre) comes home as the first woman to finish the Active Post Taupo to Rotorua 100km Flyer in horrible conditions on Saturday,Wanganui Chronicle 21/4/15"
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>RAIN RACE: Former Wanganui High School student Hayley Giddens (centre) comes home as the first woman to finish the Active Post Taupo to Rotorua 100km Flyer in horrible conditions on Saturday.</span></p>

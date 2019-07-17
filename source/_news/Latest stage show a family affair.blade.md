@@ -4,11 +4,12 @@ date:
 description: "The Atkinson family, as cast in Repertory's production of The Pohutukawa Tree - Carey Knapp (Clive Atkinson), former WHS student Shaila Hawkins (Sylvia Atkinson) and Karen Hughes (Isobel Atkinson)..."
 featured-image: 
 excerpt: "The Atkinson family, as cast in Repertory's production of The Pohutukawa Tree - Carey Knapp (Clive Atkinson), former WHS student Shaila Hawkins (Sylvia Atkinson) and Karen Hughes (Isobel Atkinson)."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>FAMILY AFFAIR:&nbsp;The Atkinson family, as cast in Repertory's production of <strong><em>The Pohutukawa Tree</em> </strong>- Carey Knapp (Clive Atkinson), former WHS student Shaila Hawkins (Sylvia Atkinson) and Karen Hughes (Isobel Atkinson).<br />PHOTO:&nbsp;<span>Repertory Theatre</span></p>

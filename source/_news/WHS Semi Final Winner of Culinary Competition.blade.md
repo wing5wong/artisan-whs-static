@@ -4,11 +4,12 @@ date:
 description: "WHS Semi Final Winner of the National Secondary Schools Regional Culinary Challenge Competition held in New Plymouth on 13 June. Charlotte Taylor (left) and Olivia Caird and their winning dishes..."
 featured-image: 
 excerpt: "WHS Semi Final Winner of the National Secondary Schools Regional Culinary Challenge Competition held in New Plymouth on 13 June. Charlotte Taylor and Olivia Caird and their winning dishes..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/57678826b8d39a2071000046/CookingDishes.Charlotte-Taylor--Olivia-Caird.Culinary-Comp-13.6.JPG"
+	
+	
+	
+	
 ---
 
 <p><span>Charlotte Taylor (left) and Olivia Caird and their winning dishes at the semi finals of the National Secondary Schools Regional Culinary Challenge Competition held&nbsp;in&nbsp;New Plymouth on 13</span><span style="line-height: 1.5;">&nbsp;June. </span></p>

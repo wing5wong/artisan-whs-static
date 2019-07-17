@@ -4,11 +4,12 @@ date: 2018-08-03
 description: "WHS House Quiz was a huge success thanks to the efforts of our 2018 Academic Prefects..."
 featured-image: 
 excerpt: "WHS House Quiz was a huge success thanks to the efforts of our 2018 Academic Prefects."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p dir="ltr"><span>August 3, 2018 marked a very important day in Whanganui High School history as almost 500 students made their way over to the Jubilee Stadium to participate in the inaugural 'WHS House Quiz'. The Quiz was a huge success with teams dressing up and getting involved in the positive atmosphere brought about by the music, entertainment and most importantly, the challenging Quiz questions.</span></p>

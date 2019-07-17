@@ -4,11 +4,12 @@ date:
 description: "WHS students performing in A Midsummer Night's Dream during the regional Shakespeare festival in Whanganui..."
 featured-image: 
 excerpt: "Whanganui High School students performing in A Midsummer Night's Dream during the regional Shakespeare festival in Whanganui in April."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whanganui High School students performing in A Midsummer Night's Dream during the regional Shakespeare festival in Whanganui in April.<br />Photo: File.</p>

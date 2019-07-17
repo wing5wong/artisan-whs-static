@@ -4,11 +4,12 @@ date:
 description: "Joanna Love (WHS teacher) & Rosemary McGregor (front) present Lyn Hughes, Audrey Fowler, Vivienne Stevenson & Dorothy Trail with a funding boost..."
 featured-image: 
 excerpt: "Joanna Love (WHS teacher) and Rosemary McGregor (front) present Lyn Hughes, Audrey Fowler, Vivienne Stevenson and Dorothy Trail with a funding boost."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Joanna Love (WHS teacher)&nbsp;and Rosemary McGregor (front) present Lyn Hughes, Audrey Fowler, Vivienne Stevenson and Dorothy Trail with a funding boost. <br /><em>Photo by Stuart Munro.</em></span></p>

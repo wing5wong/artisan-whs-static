@@ -4,11 +4,12 @@ date:
 description: "ON TOUR: Wanganui kayakers and former WHS students Max Brown (left), Toby Brooke, Aiden Nossiter, before heading off to the junior worlds last year, from Wanganui Chronicle article 23/4/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>ON TOUR: Wanganui kayakers and former WHS students Max Brown (left), Toby Brooke, Aiden Nossiter, before heading off to the junior worlds last year.</span></p>

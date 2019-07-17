@@ -4,11 +4,12 @@ date: 2018-08-27
 description: "Students from Whanganui's sister city Nagaizumi-cho enjoyed Bushy Park, Canaan Honey House & Sarjeant Gallery..."
 featured-image: 
 excerpt: "Students from Whanganui's sister city Nagaizumi-cho enjoyed taking in Bushy Park, Canaan Honey House & the Sarjeant Gallery during their visit."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Students from Whanganui's sister city Nagaizumi-cho enjoyed taking in Bushy Park, Canaan Honey House and the Sarjeant Gallery during their visit. <br />PHOTO / Stuart Munro</span></p>

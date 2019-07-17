@@ -4,11 +4,12 @@ date: 2019-01-28
 description: "Ross Kinnerley took five wickets in the space of nine overs yesterday for Wanganui to bowl out Taranaki..."
 featured-image: 
 excerpt: "Ross Kinnerley took five wickets in the space of nine overs yesterday for Wanganui to bowl out Taranaki for first innings points in the Furlong Cup."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WHS old boy <strong>Ross Kinnerley</strong> took five wickets in the space of nine overs yesterday for Wanganui to bowl out Taranaki for first innings points in the Furlong Cup.</span><br /><em>Photo / File</em></p>

@@ -4,11 +4,12 @@ date:
 description: "Lucas Thompson, Sophie Brooke and Jack Clifton are up in Karapiro this weekend for their 2nd CRNZ high performance athlete pathway camp for kayaking."
 featured-image: 
 excerpt: "Lucas Thompson, Sophie Brooke and Jack Clifton are up in Karapiro this weekend for their 2nd CRNZ high performance athlete pathway camp for kayaking."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <div class="_1dwg _1w_m">

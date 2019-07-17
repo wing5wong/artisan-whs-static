@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School sports teams will be out to make a little bit of history as they attend national schools tournaments over the next two weekends..."
 featured-image: 
 excerpt: "Whanganui High School sports teams will be out to make a little bit of history as they attend national schools tournaments over the next two weekends."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><span>ON DEBUT: The WHS girls sevens team who will be attending their first Condor Sevens: Kahurangi Sturmey (back left), Keilani Tyrell, Daina Pa'a, Montel Vaiao Aki, Kara Adrole, Te Wai Robertson. Anastasia Tamaniyaga (front left), Raumati McDonnell, De Ann Tyrell, Kerwyn Morgan, Iriaka Mason. Absent, Charis Perofeta.</span></span></p>

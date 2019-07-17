@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School rower Niamh Monk with coach Dave Dudley and her bronze at the North Island championships. Monk will be trying for another medal at the Maadi Cup..."
 featured-image: 
 excerpt: "Whanganui High School rower Niamh Monk with coach Dave Dudley and her bronze at the North Island championships. Monk will be trying for another medal at the Maadi Cup."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui High School rower Niamh Monk with coach Dave Dudley and her bronze at the North Island championships. Monk will be trying for another medal at the Maadi Cup.</span></p>

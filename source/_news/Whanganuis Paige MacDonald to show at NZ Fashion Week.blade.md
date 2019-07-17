@@ -4,11 +4,12 @@ date: 2018-07-31
 description: "Whanganui's Paige MacDonald has been selected for NZ Fashion Week's Miromoda Showcase..."
 featured-image: 
 excerpt: "Whanganui's Paige MacDonald has been selected for NZ Fashion Week's Miromoda Showcase."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><span>Paige MacDonald has been selected for NZ Fashion Week's Miromoda Showcase. </span></h3>

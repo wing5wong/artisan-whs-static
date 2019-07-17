@@ -4,11 +4,12 @@ date: 2018-09-25
 description: "Ex-Whanganui High School athlete powers to title in Tauranga winning his very first marathon..."
 featured-image: 
 excerpt: "Ex-Whanganui High School athlete powers to title in Tauranga winning his very first marathon..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Ex-Whanganui High School athlete powers to title in Tauranga winning his very first marathon.</strong><br /></span></p>

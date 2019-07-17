@@ -4,11 +4,12 @@ date:
 description: "READY FOR HISTORY: The first senior Wanganui team at the nationals in 15 years is coach Lisa Murphy (back left), Renee Butler, Kelera Kuruyabaki, Sammy Murphy, Suzanne Guilford, Te Atawahi McDonnell,"
 featured-image: 
 excerpt: "READY FOR HISTORY: The first senior Wanganui team at the nationals in 15 years is coach Lisa Murphy (back left), Renee Butler, Kelera Kuruyabaki, Sammy Murphy, Suzanne Guilford, Te Atawahi McDonnell, manager Donna Jeffery; Karaihi Peina (front left), Loni Martin, Rachael Lynch, Hayley Addenbrooke, Sophie Collins and Eleanor Hogan."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>READY FOR HISTORY: The first senior Wanganui team at the nationals in 15 years is coach Lisa Murphy (back left), Renee Butler (WHS), Kelera Kuruyabaki (former WHS), Sammy Murphy (WHS), Suzanne Guilford<span>&nbsp;(former WHS)</span>, Te Atawahi McDonnell, manager Donna Jeffery; Karaihi Peina (front left), Loni Martin, Rachael Lynch, Hayley Addenbrooke<span>&nbsp;(former WHS)</span>, Sophie Collins and Eleanor Hogan<span>&nbsp;(former WHS)</span>.</span></p>

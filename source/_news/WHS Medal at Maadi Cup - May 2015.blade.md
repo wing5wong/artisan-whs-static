@@ -4,11 +4,12 @@ date:
 description: "Wanganui High School went away to Lake Karapiro in March with a strong 27 rowers to compete in the Aon Secondary School Maadi Cup Regatta, from River City Press article on 7/5/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Gold medal winners of the Maadi Cup 2015 Jessica Brougham and Kayla Spencer.</strong></p>

@@ -4,11 +4,12 @@ date: 2019-02-15
 description: "Dylan Martin comes in as the new spinner at Victoria Park in the Furlong Cup..."
 featured-image: 
 excerpt: "Dylan Martin comes in as the new spinner at Victoria Park in the Furlong Cup."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Dylan Martin</strong>&nbsp;(WHS old boy) comes in as the new spinner.&nbsp; For<span>&nbsp;the past two seasons he has been one of the most consistent trundlers for United amongst their spinners group.<br /><em>Photo / File</em></span></span></p>

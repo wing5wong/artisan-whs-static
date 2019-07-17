@@ -4,11 +4,12 @@ date:
 description: "WORK TO DO: Wanganui high school's Jake Hooper tries to find a way through the defence in Wanganui U18 vs Wellington U18 A at Gonville Domain on Saturday, Wanganui Chronicle article 16/6/16..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WORK TO DO: Wanganui high school's Jake Hooper tries to find a way through the defence in Wanganui U18 vs Wellington U18 A at Gonville Domain on Saturday.</span></p>

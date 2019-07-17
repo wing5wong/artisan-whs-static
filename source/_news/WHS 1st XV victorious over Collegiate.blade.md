@@ -4,11 +4,12 @@ date:
 description: "Collegiate halfback and captain Josh Lennox is caught by the Whanganui High School tacklers in the big game at Cooks Gardens on Wednesday night, Wanganui Chronicle article on 12/8/16..."
 featured-image: 
 excerpt: "Collegiate halfback and captain Josh Lennox is caught by the Whanganui High School tacklers in the big game at Cooks Gardens on Wednesday night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57ba3c5cb8d39a2071001610/boys-walking-towards-camera.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57ba3c4dff2a7c38fb001607/coming-onto-field.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57ba3c3eb8d39a207100160e/coming-onto-field-2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57ba3c29ff2a7c38fb001605/whs-haka.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/57ba3c1ab8d39a207100160c/whs--haka.jpg"
 ---
 
 <p>Collegiate halfback and captain Josh Lennox is caught by the <strong>Whanganui High School tacklers in the big game at Cooks Gardens on Wednesday night.</strong></p>

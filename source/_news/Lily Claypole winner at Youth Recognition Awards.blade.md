@@ -4,11 +4,12 @@ date: 2018-03-12
 description: "Lily Claypole, winner of the WDC Youth Committee Youth Recognition Award with her video work..."
 featured-image: 
 excerpt: "Lily Claypole, winner of the WDC Youth Committee Youth Recognition Award with her video work."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa5d393ff2a7c6bfc000ade/IDENTITY-Mikayla-Baldwin.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa5d426b8d39a7499000b03/SIR-COLIN-MEADS-Abishai-Dohare.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa5d3bdb8d39a7499000b01/IF-ONLY-Maia-Falkner.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa5d327b8d39a7499000afd/6-SIDED-Abbey-Hoqcquard.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa5d379b8d39a7499000aff/HOLD-FIRE-Graham-Hall.jpg"
 ---
 
 <p><strong>Lily Claypole, winner of the WDC Youth Committee Youth Recognition Award with her video work&nbsp;<a href="https://www.facebook.com/166439157186971/videos/350118042152414/"><em>"Through a Glass Darkly"</em></a></strong></p>

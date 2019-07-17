@@ -4,11 +4,12 @@ date: 2018-08-30
 description: "WHS athletes tuned up for Tournament Week when hosting Wanganui Collegiate in their annual sports exchange..."
 featured-image: 
 excerpt: "WHS athletes tuned up for Tournament Week when hosting Wanganui Collegiate in their annual sports exchange."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The WHS boys basketball team claimed the WCS scalp 55-45 during their annual sports exchange last week.</span></p>

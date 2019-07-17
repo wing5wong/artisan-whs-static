@@ -4,11 +4,12 @@ date: 2018-04-12
 description: "High School Girls Touch Rugby going to International Tournament in Brisbane..."
 featured-image: 
 excerpt: "High School Girls Touch Rugby going to International Tournament in Brisbane."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>High School Girls Touch Rugby going to International Tournament in Brisbane.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "The winners of the 2017 Ray White Whanganui Sports Awards are announced at War Memorial Hall tonight..."
 featured-image: 
 excerpt: "The winners of the 2017 Ray White Whanganui Sports Awards are announced at War Memorial Hall tonight."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">It is Whanganui sporting community's glittering evening to get together under one roof when the winners of the 2017 Ray White Whanganui Sports Awards are announced at War Memorial Hall tonight.</p>

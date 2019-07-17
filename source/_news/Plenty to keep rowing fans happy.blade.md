@@ -4,11 +4,12 @@ date: 2018-08-01
 description: "Aramoho Whanganui Rowing Club prizegiving recipients; all of which are past/present WHS students bar one..."
 featured-image: 
 excerpt: "Aramoho Whanganui Rowing Club prizegiving recipients; all of which are past/present WHS students bar one."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b615817b8d39a6d050003a0/Prizegiving-Aramoho-club-Chron-1-aug-2018.gif"
+	
+	
+	
+	
 ---
 
 <p><span>Aramoho Whanganui Rowing Club prizegiving recipients included (from back left) Jonty Thompson, James Sandston, Luke Watts, Guy Thompson and Nathan Luff; (middle) Hugh Pawson, Ally Bennett and Rylee Dudley; (front) Levi Carroll and Niamh Mullany on Jacob Groves' knee. All of which are past/present WHS students bar one.<br />Photo / Supplied.</span></p>

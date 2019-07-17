@@ -4,11 +4,12 @@ date:
 description: "WHS student Eden Smith came back from his spill in the 300m time trial to win the 500m sprint ahead of rival Nick Frame for the intermediate men's grade at the Banked Track Nationals in Timaru."
 featured-image: 
 excerpt: "RISE AND FALL: WHS student Eden Smith came back from his spill in the 300m time trial to win the 500m sprint ahead of rival Nick Frame for the intermediate men's grade at the Banked Track Nationals in Timaru, Wanganui Chronicle article on 13/2/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

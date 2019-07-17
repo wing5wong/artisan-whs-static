@@ -4,11 +4,12 @@ date: 2018-12-09
 description: "Congratulations WHS Girls Touch Team who came 7th in the 2018 NZSS Touch Champs in Auckland 7-9 December..."
 featured-image: 
 excerpt: "Congratulations WHS Girls Touch Team who came 7th in the 2018 NZSS Touch Champs in Auckland 7-9 December."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <div id="id_5c0ed0b0234df4068979716" class="text_exposed_root text_exposed">
@@ -18,7 +19,7 @@ gallery-image-5:
 <p># Great experience, young team, all return for 2019 season</p>
 <p># Beat Mt Albert Grammar to place 7th</p>
 <p># Day 1, wins over Manukura &amp; St Hilda's placed team in Top 8</p>
-<p><span class="_5mfr"><span class="_6qdm">â­ï¸</span></span>&nbsp;Rebecca Tamati, selected for NZSS Tournament Team!!</p>
+<p><span class="_5mfr"><span class="_6qdm">⭐️</span></span>&nbsp;Rebecca Tamati, selected for NZSS Tournament Team!!</p>
 <p>Well done girls, can't wait to see what next year brings!!</p>
 <p><em>Mr Sean Brown</em><br /><em>TIC Touch</em></p>
 <div>&nbsp;</div>

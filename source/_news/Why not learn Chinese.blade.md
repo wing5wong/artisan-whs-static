@@ -4,11 +4,12 @@ date:
 description: "Why not learn Chinese? NZ Chinese Language Week, written by Beck Ding, WHS Chinese teacher..."
 featured-image: 
 excerpt: "Why not learn Chinese? NZ Chinese Language Week, written by Beck Ding, WHS Chinese teacher."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Why not learn Chinese? NZ Chinese Language Week<br />Stall in Trafalgar Square on Sunday</p>

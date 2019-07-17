@@ -4,11 +4,12 @@ date:
 description: "WELL TRAVELLED: Expat Wanganui netballer Jodi Brown is living in Dunedin while playing for the Pulse, from Wanganui Chronicle article 14/3/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>For ex-pat Wanganui netballer and Silver Fern Jodi Brown, the most important matches to win in this season's ANZ Championship are the Kiwi derbies.</p>

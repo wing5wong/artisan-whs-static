@@ -4,11 +4,12 @@ date:
 description: "Wanganui High School assistant principal Nola Todd says staff and students are pleased to have such a strong and committed group making up the student leadership team for 2016."
 featured-image: 
 excerpt: "Wanganui High School assistant principal Nola Todd says staff and students are pleased to have such a strong and committed group making up the student leadership team for 2016."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/56e60502b8d39a3ca3001e6a/WHS-Maori-leaders-2016.jpg"
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

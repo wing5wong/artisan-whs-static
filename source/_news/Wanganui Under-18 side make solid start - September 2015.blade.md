@@ -4,11 +4,12 @@ date:
 description: "The Wanganui Under-18 team got their five-game campaign off to a good start by thwarting a late comeback from Horowhenua-Kapiti with a 25-17 win in Levin on Saturday, Wanganui Chronicle article 1/9/15"
 featured-image: 
 excerpt: "The Wanganui Under-18 team got their five-game campaign off to a good start by thwarting a late comeback from Horowhenua-Kapiti with a 25-17 win in Levin on Saturday. WHS student Daniel Kauika scored the opening try and Harerangi Meihana landed a penalty shortly before halftime for a 13-7 advantage."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Wanganui Under-18 team got their five-game campaign off to a good start by thwarting a late comeback from Horowhenua-Kapiti with a 25-17 win in Levin on Saturday. WHS student <strong>Daniel Kauika</strong> scored the opening try and <strong>Harerangi Meihana</strong> landed a penalty shortly before halftime for a 13-7 advantage.</p>

@@ -4,16 +4,18 @@ date: 2019-03-20
 description: "Former WHS student Mark Lace is living his dream of dancing for a living..."
 featured-image: 
 excerpt: "Former WHS student Mark Lace is living his dream of dancing for a living."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
+<p>&nbsp;</p>
 <p>Former WHS student <strong>Mark Lace</strong> is living his dream of dancing for a living.<br /><em>PHOTO / Paul Brooks</em></p>
 <div data-bind="foreach: articleBlocks">
-<p data-bind="text: $data">The 22-year-old came home last month for a holiday and Midweek caught up with him before he left to teach a session at Sharyn Underwood School of Dance.</p>
+<p data-bind="text: $data"><br />The 22-year-old came home last month for a holiday and Midweek caught up with him before he left to teach a session at Sharyn Underwood School of Dance.</p>
 <p data-bind="text: $data">&ldquo;Hip-hop today,&rdquo; he says. &ldquo;Sometimes I&rsquo;ll delve into other styles, but it&rsquo;s mostly hip-hop if I have a choice.</p>
 <p data-bind="text: $data">&ldquo;I train in hip-hop the most, at the moment, that&rsquo;s where I&rsquo;m putting a lot of my time.&rdquo;</p>
 <p data-bind="text: $data">Mark learned to dance from the age of 9, under the tutelage of Sharyn Underwood. As a senior, he was part of a group that accompanied Sharyn to Sydney to see opportunities for dancers. The performing arts school called Ettingshausen&rsquo;s was one of the facilities they saw and at which they spent a full day.</p>

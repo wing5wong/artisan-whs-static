@@ -4,11 +4,12 @@ date: 2018-07-25
 description: "Toka Poa, Cypress Kani-Hirinui & Wiremu Rogan of WHS performing at the Training For You graduation ceremony..."
 featured-image: 
 excerpt: "Toka Poa, Cypress Kani-Hirinui and Wiremu Rogan of Whanganui High School performing at the Training For You graduation ceremony."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Photo: Toka Poa, Cypress Kani-Hirinui and Wiremu Rogan of Whanganui High School performing at the Training For You graduation ceremony.<br />PHOTO / Karen Hughes, Training For You.</p>

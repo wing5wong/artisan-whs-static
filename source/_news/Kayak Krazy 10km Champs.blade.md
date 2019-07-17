@@ -4,11 +4,12 @@ date:
 description: "Well done to our WHS students who finished strong at the National 10km Series for Kayaking which was held in Rotorua on Saturday 27 August."
 featured-image: 
 excerpt: "Well done to our WHS students who finished strong at the National 10km Series for Kayaking which was held in Rotorua on Saturday 27 August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Well done to our WHS students who finished strong at the National 10km Series for Kayaking which was held in Rotorua on Saturday 27 August.</strong></p>

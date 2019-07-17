@@ -4,11 +4,12 @@ date: 2018-08-06
 description: "Eva Harkness won Ucol Whanganui's hand on car competition after a marathon 38-hour stay..."
 featured-image: 
 excerpt: "Eva Harkness won Ucol Whanganui's hand on car competition after a marathon 38-hour stay."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b68cf1ab8d39a6d05000660/Mikaya-Teki-ex-nearly-car-winner-chron-6-Aug.gif"
+	
+	
+	
+	
 ---
 
 <p><span>Eva Harkness won Ucol Whanganui's hand on car competition after a marathon 38-hour stay. <br />PHOTO / Bevan Conley</span></p>

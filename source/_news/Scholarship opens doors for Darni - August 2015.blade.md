@@ -4,11 +4,12 @@ date:
 description: "PASSION: Former WHS student Architect Darni Struijck completed her thesis with help from Kelly and Associates, Wanganui Chronicle article on 3/8/15..."
 featured-image: 
 excerpt: "PASSION: Former WHS student Architect Darni Struijck completed her thesis with help from Kelly and Associates."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>PASSION: Former WHS student Architect Darni Struijck completed her thesis with help from Kelly and Associates.</p>

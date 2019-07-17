@@ -4,11 +4,12 @@ date:
 description: "UP AND OVER: Joseph Redpath, WHS student, makes short work of the police fitness test course at Jubilee Stadium yesterday. Looking on is Constable Paul Miller, Wanganui Chronicle article on 5/8/15..."
 featured-image: 
 excerpt: "UP AND OVER: Joseph Redpath, Wanganui High School student, makes short work of the police fitness test course at Jubilee Stadium yesterday. Looking on is Constable Paul Miller."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>UP AND OVER: Joseph Redpath, Wanganui High School student, makes short work of the police fitness test course at Jubilee Stadium yesterday. Looking on is Constable Paul Miller.</span></p>

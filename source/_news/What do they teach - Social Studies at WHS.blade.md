@@ -4,11 +4,12 @@ date:
 description: "River City Press is doing a series on what they teach at Secondary School. For this issue we spoke with Grant Collie, Studies Studies teacher at Whanganui High School and his students."
 featured-image: 
 excerpt: "River City Press is doing a series on what they teach at Secondary School. For this issue we spoke with Grant Collie, Studies Studies teacher at Whanganui High School and his students."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="BasicParagraph"><span class="CharacterStyle1"><span lang="EN-GB">Rachel, Sophie, Lydia, Imogen, Sophie, Leigh-ana and Rebekah&nbsp;</span></span>(absent: Jae) with the toiletries they collected.</p>

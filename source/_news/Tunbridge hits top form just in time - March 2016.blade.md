@@ -4,11 +4,12 @@ date:
 description: "LEAP OF FAITH: Former WHS student, Whanganui's Joel Tunbridge wins the final round of the elite men's competition at the National Mountainbike Champion-ships in Wanaka on Saturday."
 featured-image: 
 excerpt: "LEAP OF FAITH: Former WHS student, Whanganui's Joel Tunbridge wins the final round of the elite men's competition at the National Mountainbike Champion-ships in Wanaka on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

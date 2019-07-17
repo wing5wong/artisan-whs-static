@@ -4,11 +4,12 @@ date:
 description: "ON THE MAT: Whanganui gymnast and WHS student, Millie Manning is poised to begin her floor routine at the Waitara Open earlier this month, Wanganui Chronicle article on 24/8/16..."
 featured-image: 
 excerpt: "ON THE MAT: Whanganui gymnast and WHS student, Millie Manning is poised to begin her floor routine at the Waitara Open earlier this month."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>ON THE MAT: Whanganui gymnast and WHS student, Millie Manning is poised to begin her floor routine at the Waitara Open earlier this month.</p>

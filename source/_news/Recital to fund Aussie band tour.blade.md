@@ -4,11 +4,12 @@ date: 2018-08-15
 description: "Sarah Wright is taking her cornet to tour with the National Youth Brass Band of NZ..."
 featured-image: 
 excerpt: "Sarah Wright is taking her cornet to tour with the National Youth Brass Band of NZ."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Sarah Wright is taking her cornet to tour with the National Youth Brass Band of NZ.</strong> <br />PHOTO / Paul Brooks</span></p>

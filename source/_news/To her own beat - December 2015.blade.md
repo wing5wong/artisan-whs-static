@@ -4,11 +4,12 @@ date:
 description: "Snare drummer & former WHS student Marianne Kirby is off to the pipe band world champion-ships, Wanganui Chronicle article on 5/12/15..."
 featured-image: 
 excerpt: "Snare drummer & former WHS student Marianne Kirby is off to the pipe band world champion-ships."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Snare drummer &amp; former WHS student Marianne Kirby is off to the pipe band world champion-ships.</p>

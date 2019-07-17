@@ -4,11 +4,12 @@ date: 2019-02-21
 description: "Whanganui paddlers return from Sprint Kayak Nationals with 14 gold medals..."
 featured-image: 
 excerpt: "Whanganui paddlers return from Sprint Kayak Nationals with 14 gold medals."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3 class="element element-paragraph">The 18-strong Whanganui crew, majority being Whanganui High School students, returned home from the Sprint Kayak Nationals on Lake Karapiro with 14 GOLD!!</h3>

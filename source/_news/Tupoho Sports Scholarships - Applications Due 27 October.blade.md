@@ -4,11 +4,12 @@ date:
 description: "The Tupoho Whānau Trust is pleased to announce the opening of nominations toward the 2017/2018 Tupoho Sports Scholarships. Applications Due 27 October 2017."
 featured-image: 
 excerpt: "The Tupoho Whānau Trust is pleased to announce the opening of nominations toward the 2017/2018 Tupoho Sports Scholarships. Applications Due 27 October 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The Tupoho Whānau Trust is pleased to announce the opening of nominations toward the 2017/2018 Tupoho Sports Scholarships.&nbsp; </span></p>

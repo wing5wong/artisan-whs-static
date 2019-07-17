@@ -4,11 +4,12 @@ date:
 description: "Chase Morpeth, Andrew Jones (former WHS student) and WHS student Renee Teers are competing for their country in Queensland this Easter..."
 featured-image: 
 excerpt: "Chase Morpeth, Andrew Jones (former WHS student) and WHS student Renee Teers are competing for their country in Queensland this Easter."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>SILVER FERN STREAK:&nbsp;<span>Chase Morpeth, Andrew Jones (<span>former WHS student)</span> and WHS student Renee Teers are competing for their country in Queensland this Easter.</span></p>

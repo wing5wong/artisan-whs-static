@@ -4,11 +4,12 @@ date:
 description: "WHS student Cypress Kani-Hurinui performing with Trio Lane at the NZ Community Trust Chamber Music Contest..."
 featured-image: 
 excerpt: "Whanganui High School student Cypress Kani-Hurinui performing with Trio Lane at the New Zealand Community Trust Chamber Music Contest on Friday. More than 90 young musicians from the Whanganui region competed in the annual New Zealand Community Trust Chamber Music Contest on Friday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui High School student Cypress Kani-Hurinui performing with Trio Lane at the New Zealand Community Trust Chamber Music Contest on Friday.</strong></p>

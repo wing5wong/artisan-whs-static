@@ -4,11 +4,12 @@ date:
 description: "CRUNCH TIME: Wanganui High School No7 Dylan Bowater (head gear) meets solid opposition at home on Saturday, Wanganui Chronicle article on 18/5/16..."
 featured-image: 
 excerpt: "CRUNCH TIME: Wanganui High School No7 Dylan Bowater (head gear) meets solid opposition at home on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><br /></span></p>

@@ -4,11 +4,12 @@ date: 2019-04-17
 description: "Whanganui Girl Guides (from left) Jeannie Hird, Brianna Lindsay, Charlotte Hardy and Autumn Lilley with their Aoraki Awards..."
 featured-image: 
 excerpt: "Whanganui Girl Guides (from left) Jeannie Hird, Brianna Lindsay, Charlotte Hardy and Autumn Lilley with their Aoraki Awards."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/NTUyBHNPJEOCouRD-nJrIXSEd6Q=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/FSJPTNZHNBDFZNRFW3BZYCCJKY.jpg" alt="Whanganui Girl Guides (from left) Jeannie Hird, Brianna Lindsay, Charlotte Hardy and Autumn Lilley with their Aoraki Awards." /></p>

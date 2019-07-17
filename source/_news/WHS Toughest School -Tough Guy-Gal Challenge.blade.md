@@ -4,11 +4,12 @@ date: 2018-05-25
 description: "On Friday 25 May 18 of the toughest WHS students went to the Tough Guy/Gal challenge held in Wellington..."
 featured-image: 
 excerpt: "On Friday 25 May 18 of the toughest Whanganui High School students went to the Tough Guy/Gal challenge held in Wellington."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f59c3b8d39a7499002127/finish-line-x2.othergif.gif"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f59b7ff2a7c6bfc0020d7/finish-line-x2.gif"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f59d0ff2a7c6bfc0020d9/finish-line-x3.gif"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f599db8d39a7499002125/gp-at-finish-line.gif"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f59ddb8d39a7499002129/receiving-awards.gif"
 ---
 
 <p><strong>On Friday 25&nbsp;May 18 of the toughest Whanganui High School students went to the Tough Guy/Gal challenge held in Wellington.</strong></p>

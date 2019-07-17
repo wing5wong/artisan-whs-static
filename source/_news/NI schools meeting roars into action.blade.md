@@ -4,11 +4,12 @@ date: 2018-09-08
 description: "WHS was well represented with over a dozen entries at this years NISS's Motocross Champs..."
 featured-image: 
 excerpt: "WHS was well represented with over a dozen entries at this years NISS's Motocross champs in Wanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">The start gate dropping for the Year 12-16 85cc race at the North Island Secondary Schools Motocross championships this morning.<br />PHOTO / Bevan Conley</p>

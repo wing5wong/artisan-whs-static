@@ -4,11 +4,12 @@ date: 2019-02-02
 description: "Aramoho-Whanganui's Niamh Monk was third in the Girls Under 18 single scull at the Cambridge Town Cup regatta..."
 featured-image: 
 excerpt: "Aramoho-Whanganui's Niamh Monk was third in the Girls Under 18 single scull at the Cambridge Town Cup regatta."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Aramoho-Whanganui's Niamh Monk was third in the Girls Under 18 single scull at the Cambridge Town Cup regatta.</strong><br /><em>Photo / Supplied</em></p>

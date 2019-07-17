@@ -4,11 +4,12 @@ date:
 description: "Eric Head, with Jordan Candish, Timothy Roebuck, Quinn Mailman, Joseph Redpath, Matthew Zimmerman, and Cole Brasting. Reece Hoobin, Wiremu Hiri, Cameron MacKintosh, Kohlt Coveny, Hamish Broadhead."
 featured-image: 
 excerpt: "WHS 1st XI Boys Cricket Team - Eric Head, with Jordan Candish, Timothy Roebuck, Quinn Mailman, Joseph Redpath, Matthew Zimmerman, and Cole Brasting. Reece Hoobin, Wiremu Hiri, Cameron MacKintosh, Kohlt Coveny, Hamish Broadhead."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

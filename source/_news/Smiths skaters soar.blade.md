@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Hannah Smith helped guide several Whanganui artistic skaters to medals at the Central Districts league last weekend, Wanganui Chronicle article on 11/11/16..."
 featured-image: 
 excerpt: "Former WHS student Hannah Smith helped guide several Whanganui artistic skaters to medals at the Central Districts league last weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student Hannah Smith helped guide several Whanganui artistic skaters to medals at the Central Districts league last weekend.</p>

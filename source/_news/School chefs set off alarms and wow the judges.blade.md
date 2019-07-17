@@ -4,11 +4,12 @@ date:
 description: "Charlotte Taylor (left), Linda Hardcastle, Matt Hirini, Olivia Caird & Dean Wong. Absent,Sarah Hatchet. Four WHS cooking student lost count of the number of hours they spent preparing for a regional.."
 featured-image: 
 excerpt: "Charlotte Taylor (left), Linda Hardcastle, Matt Hirini, Olivia Caird & Dean Wong. Absent,Sarah Hatchet. Four WHS cooking student lost count of the number of hours they spent preparing for a regional..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>FINE FOOD: Charlotte Taylor (left), Linda Hardcastle, Matt Hirini, Olivia Caird and Dean Wong. Absent, Sarah Hatchet.</strong><br />PHOTO/STUART MUNRO</p>

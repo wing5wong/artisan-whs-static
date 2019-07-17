@@ -4,11 +4,12 @@ date: 2018-02-14
 description: "Maddi, Chris and Jacqui all play a part in staging The Tempest at Bason Botanic Gardens..."
 featured-image: 
 excerpt: "Maddi, Chris and Jacqui all play a part in staging The Tempest at Bason Botanic Gardens."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>THE MCKENZIES: Maddi, Chris and Jacqui all play a part in staging <em>The Tempest</em> at Bason Botanic Gardens.</strong><br /><em>PHOTO / Paul Brooks</em></p>

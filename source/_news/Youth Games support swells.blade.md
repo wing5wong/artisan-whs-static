@@ -4,11 +4,12 @@ date:
 description: "Authors of the Den of Dragons People's Choice winner, WHS teacher Andy Lock (left) and Dilan Raj have been bringing the Youth Games to life and will launch at Queen's Birthday..."
 featured-image: 
 excerpt: "Authors of the Den of Dragons People's Choice winner, WHS teacher Andy Lock (left) and Dilan Raj have been bringing the Youth Games to life and will launch at Queen's Birthday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>BREATHING LIFE: Authors of the Den of Dragons People's Choice winner, WHS teacher Andy Lock (left) and Dilan Raj have been bringing the Youth Games to life and will launch at Queen's Birthday.<br />PHOTO: Steve Caudwell&nbsp;</span></p>

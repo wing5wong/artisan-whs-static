@@ -4,11 +4,12 @@ date:
 description: "WHS has three new national champions as Emma Rainey, Joanne Bell & Rebecca Baker were part of the successful Central team at the Vantage Under-18 National Regional Hockey Tournament."
 featured-image: 
 excerpt: "Whanganui High School has three new national champions as Emma Rainey, Joanne Bell and Rebecca Baker were part of the successful Central team at the Vantage Under-18 National Regional Hockey Tournament in Whangarei."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><strong>CHAMPIONS:&nbsp;The champion Central Under girls team at the National Regional Tournament in Whangarei.</strong></h3>

@@ -4,11 +4,12 @@ date: 2018-02-06
 description: "Black Ferns Sosoli Talawadua & Toka Natua have volunteered their services at this years Raft Race..."
 featured-image: 
 excerpt: "Black Ferns Sosoli Talawadua & Toka Natua have volunteered their services to help a team make the finish line in style at this years Raft Race."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a8cca60b8d39a749900008c/Sosoli-world-champ-August-2017head-shot-only.jpg"
+	
+	
+	
+	
 ---
 
 <p><span><strong>Black Ferns Sosoli Talawadua (nee Tofa / former WHS student)&nbsp;</strong><span>and Toka Natua have volunteered their services</span> to help a team make the finish line in style at this years Raft Race.</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School & Wanganui Collegiate will play each other to see who finishes best of the locals on finals day at the lower North Island secondary schools tournament this morning at Laird Park"
 featured-image: 
 excerpt: "Whanganui High School & Wanganui Collegiate will play each other to see who finishes best of the locals on finals day at the lower North Island secondary schools tournament this morning at Laird Park"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whanganui High School and Wanganui Collegiate will play each other to see who finishes best of the locals on finals day at the lower North Island secondary schools tournament this morning at Laird Park.</p>

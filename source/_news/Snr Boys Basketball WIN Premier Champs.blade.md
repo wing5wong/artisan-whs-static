@@ -4,11 +4,12 @@ date:
 description: "Well done to our Senior Boys Basketball Team winning the Premier Secondary School Champs last night (Friday 25 August) at Springvale Stadium.."
 featured-image: 
 excerpt: "Well done to our Senior Boys Basketball Team winning the Premier Secondary School Champs last night (Friday 25 August) at Springvale Stadium.,"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>But wait there's more...</span><br /><strong>Well done to our Senior Boys Basketball Team winning the Premier Secondary School Champs last night (Friday 25 August) at Springvale Stadium!&nbsp;</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "SPEARHEAD: Some of the local athletes taking Whanganui to the world received their Future Champions Trust grants at Mitre 10 Mega yesterday. Parents of other recipients and the trustees also attended."
 featured-image: 
 excerpt: "SPEARHEAD: Some of the local athletes taking Whanganui to the world received their Future Champions Trust grants at Mitre 10 Mega yesterday. Parents of other recipients and the trustees also attended."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;"><br /></span></p>

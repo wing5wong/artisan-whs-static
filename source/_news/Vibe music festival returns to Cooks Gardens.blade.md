@@ -4,11 +4,12 @@ date: 2018-12-13
 description: "The vibe. music festival returns to Cooks Gardens this Saturday..."
 featured-image: 
 excerpt: "The vibe. music festival returns to Cooks Gardens this Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c368819ff2a7c1853000441/vibe-rcp-13-dec.png"
+	
+	
+	
+	
 ---
 
 <p>The vibe. music festival returns to Cooks Gardens this Saturday.</p>

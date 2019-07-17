@@ -4,11 +4,12 @@ date: 2018-06-08
 description: "It was a dream debut for White Fern Jessica Watkin, who smashed 77 not out in the Twenty20 win over Ireland in Dublin..."
 featured-image: 
 excerpt: "It was a dream debut for White Fern Jessica Watkin, who smashed 77 not out in the Twenty20 win over Ireland in Dublin yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>It was a dream debut for White Fern Jessica Watkin, who smashed 77 not out in the Twenty20 win over Ireland in Dublin yesterday.</h4>

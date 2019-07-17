@@ -4,11 +4,12 @@ date: 2018-07-14
 description: "Whanganui High School student Bradley McDowell is the WORLD'S TOP JUNIOR COWBOY..."
 featured-image: 
 excerpt: "Whanganui High School student Bradley McDowell is the WORLD'S TOP JUNIOR COWBOY."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><span>WORLD'S TOP KID COWBOY ... and he lives here in Whanganui. <br /><em></em></span></h3>

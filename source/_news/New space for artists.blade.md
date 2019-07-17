@@ -1,14 +1,15 @@
 ---
 title: "New space for artists"
 date: 2019-02-15
-description: "Whanganui Womenâ€™s Network manager Carla Donson & Space Gallery owner Sarah Williams prepare for the opening & launch"
+description: "Whanganui Women’s Network manager Carla Donson & Space Gallery owner Sarah Williams prepare for the opening & launch"
 featured-image: 
-excerpt: "Whanganui Womenâ€™s Network manager Carla Donson and Space Gallery owner Sarah Williams prepare for the opening and launch on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Whanganui Women’s Network manager Carla Donson and Space Gallery owner Sarah Williams prepare for the opening and launch on Saturday."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Whanganui Women&rsquo;s Network manager Carla Donson and Space Gallery owner Sarah Williams prepare for the opening and launch on Saturday.<strong></strong></p>

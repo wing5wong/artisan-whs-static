@@ -4,11 +4,12 @@ date: 2018-12-06
 description: "Whanganui paddlers Toby Brooke & Max Brown are fresh out of the water after winning the K2 1000m at the Blue Lakes..."
 featured-image: 
 excerpt: "Whanganui paddlers Toby Brooke, left) and Max Brown are fresh out of the water after winning the K2 1000m at the Blue Lakes 2 Sprint Kayak Regatta in Rotorua at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui paddlers Toby Brooke, (left) and Max Brown are fresh out of the water after winning the K2 1000m at the Blue Lakes 2 Sprint Kayak Regatta in Rotorua at the weekend.</strong><br /><em>Photo / Supplied</em></p>

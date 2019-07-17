@@ -4,11 +4,12 @@ date:
 description: "WHS teacher Graham Hall with the Whanganui River Print. WHS students/teachers/former teachers have all contributed to this magnificent art piece, article from Wanganui Chronicle on 8/12/16..."
 featured-image: 
 excerpt: "WHS teacher Graham Hall with the Whanganui River Print. It's 20m long and is made of 42 panels, each one produced by a different artist. It's the Whanganui River Print, a woodcut representation of the Whanganui River on paper."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58489d55b8d39a3eff000714/Imogen-Maguire.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58489d27b8d39a3eff000708/Alexzander-Nightingale.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58489d63b8d39a3eff000718/Niamh-OConnell.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58489d3bb8d39a3eff00070e/Grace-Pratt.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58489d72b8d39a3eff00071c/Tibet-Ranginui.jpg"
 ---
 
 <p><strong>WHS teacher Graham Hall with the Whanganui River Print.<br />Printmakers capture essence of Whanganui River.<br /></strong>(Below are the prints made by WHS students/teachers/former teachers that have contributed to this magnificent art piece).</p>

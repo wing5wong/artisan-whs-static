@@ -4,11 +4,12 @@ date:
 description: "WHS teacher, Mignon Stevenson completed the Honolulu Marathon, her first international event, in smart time for her finishers medal..."
 featured-image: 
 excerpt: "WHS teacher, Mignon Stevenson completed the Honolulu Marathon, her first international event, in smart time for her finishers medal."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>INTERNATIONAL DEBUT: Lighty-framed Whanganui athlete Mignon Stevenson completed the Honolulu Marathon, her first international event, in smart time for her finishers medal. <br /><em>PHOTO / Stuart Munro</em></span></p>

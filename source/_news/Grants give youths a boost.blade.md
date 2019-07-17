@@ -4,11 +4,12 @@ date: 2019-03-12
 description: "Shea Robinson & Thor Wrigglesworth are the first to benefit from the Rotary Club of Wanganui North's new sponsorship prog..."
 featured-image: 
 excerpt: "Shea Robinson (left) and Thor Wrigglesworth are the first local youths to benefit from the Rotary Club of Wanganui North's new sponsorship programme."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WHS students Shea Robinson (left) and Thor Wrigglesworth are the first local youths to benefit from the Rotary Club of Wanganui North's new sponsorship programme.</span><br /><em>Photo / Suppied</em></p>

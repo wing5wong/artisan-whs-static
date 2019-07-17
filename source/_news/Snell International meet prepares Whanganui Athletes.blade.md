@@ -4,11 +4,12 @@ date: 2019-03-07
 description: "WHS won the girls section & Rebecca Baker took out a 1st & 2nd at the Snell International meet at Cooks Gardens..."
 featured-image: 
 excerpt: "WHS won the girls section & Rebecca Baker took out a 1st & 2nd at the Snell International meet at Cooks Gardens."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Whanganui High School won the girls section and Rebecca Baker took out a first and second at the Snell International meet at Cooks Gardens on Saturday 2 March.</strong></p>

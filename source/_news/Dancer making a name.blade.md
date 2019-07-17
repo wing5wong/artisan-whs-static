@@ -4,11 +4,12 @@ date:
 description: "ENTERTAINER: For Ardon England (former WHS student), Whanganui's home, but Auckland is where his future is, Wanganui Midweek article on 3 November 2016..."
 featured-image: 
 excerpt: "ENTERTAINER: For Ardon England (former WHS student), Whanganui's home, but Auckland is where his future is, Midweek article on 3 November 2016..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>ENTERTAINER: For Ardon England (former WHS student),&nbsp;Whanganui's home, but Auckland is where his future is.<br />PHOTO courtesy of Paul Brooks. &nbsp;</p>

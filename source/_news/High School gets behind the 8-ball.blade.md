@@ -4,11 +4,12 @@ date: 2018-09-05
 description: "WHS is one of seven schools from the country competing at the NSS 8-Ball champs this weekend..."
 featured-image: 
 excerpt: "WHS is one of seven schools from the country competing at the NSS 8-Ball champs this weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Photo:&nbsp;<span>Whanganui High School's Nick Staples with player-students Julian Brennan and Owen Parkinson and coach Graeme Couper at last year's championships.</span></p>

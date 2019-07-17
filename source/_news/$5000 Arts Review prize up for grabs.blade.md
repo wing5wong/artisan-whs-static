@@ -4,11 +4,12 @@ date: 2019-02-02
 description: "Whanganui artists Glen Hayward, Elva Abbott and Mikayla Baldwin are preparing their Arts Review entries..."
 featured-image: 
 excerpt: "Whanganui artists Glen Hayward, Elva Abbott and Mikayla Baldwin are preparing their Arts Review entries."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui artists Glen Hayward, Elva Abbott and former WHS student Mikayla Baldwin are preparing their Arts Review entries. <br /><em>PHOTO / Michael McKeagg</em></span></p>
@@ -33,7 +34,7 @@ gallery-image-5:
 <p class="element element-paragraph">"I think creating art is the most irritating pleasure a person can have," she says.</p>
 <p class="element element-paragraph">Now 92, she still loves to paint and will be submitting one of her works this year.</p>
 <div class="element element-image">
-<div class="fullscreen-btn btn-light svg-bg svg-gallery-fullscreen-icon">&nbsp;</div>
+<div class="fullscreen-btn svg-bg svg-gallery-fullscreen-icon">&nbsp;</div>
 <figure><img id="" class="responsively-lazy inline-img loaded" src="https://www.nzherald.co.nz/resizer/jFfVWRqYAnqMxLes2-NH-m_uKhk=/620x475/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/44HDUP7AQJG25PZCT3UYGBVZ6I.jpg" alt="Veteran Arts Review submitter Elva Abbott with one of her paintings in 1984. Photo / Supplied" data-srcset="//www.nzherald.co.nz/resizer/6ln_jAXxKc7xWYYKusfbHA8M0fk=/320x245/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/44HDUP7AQJG25PZCT3UYGBVZ6I.jpg 320w,//www.nzherald.co.nz/resizer/wXa_uciuLJizpsQp6ZwBYTURGQ0=/375x287/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/44HDUP7AQJG25PZCT3UYGBVZ6I.jpg 375w,//www.nzherald.co.nz/resizer/jFfVWRqYAnqMxLes2-NH-m_uKhk=/620x475/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/44HDUP7AQJG25PZCT3UYGBVZ6I.jpg 620w" /><figcaption><span>Veteran Arts Review submitter Elva Abbott with one of her paintings in 1984. Photo / Supplied</span>
 <div class="social-shares">&nbsp;</div>
 </figcaption></figure></div>

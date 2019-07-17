@@ -4,11 +4,12 @@ date:
 description: "Vincent Collins and Caitlyn Friedel from Wanganui High School won the recent Shakespeare competition in Whanganui, River City Press article on 7/4/16..."
 featured-image: 
 excerpt: "Vincent Collins and Caitlyn Friedel from Wanganui High School won the recent Shakespeare competition in Whanganui, River City Press article on 7/4/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

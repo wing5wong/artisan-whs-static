@@ -4,11 +4,12 @@ date:
 description: "It was touch & go on the rough waters of Lake Wiritoa, but the Wanganui Water Ski Club got through their entire Gold Star tournament for 44 top skiers on the weekend, including WHS student Lily Meade"
 featured-image: 
 excerpt: "It was touch & go on the rough waters of Lake Wiritoa, but the Wanganui Water Ski Club got through their entire Gold Star tournament for 44 top skiers on the weekend, including WHS student Lily Meade."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>(PHOTO CREDIT - STEVE CAUDWELL)</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "Team NZ helmsman Peter Burling steering a path to America's Cup immortality.. Helmsman's mum a high achiever from Whanganui High School..."
 featured-image: 
 excerpt: "Team NZ helmsman Peter Burling steering a path to America's Cup immortality.. Helmsman's mum a high achiever from Whanganui High School..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/594b3af9b8d39a5fde000161/burlings-family-photo.jpg"
+	
+	
+	
+	
 ---
 
 <p><span><strong>Team NZ helmsman Peter Burling steering a path to America's Cup immortality.</strong><br /><strong>Helmsman's mum a high achiever from Whanganui High School.</strong><br />PHOTO: NZME</span></p>

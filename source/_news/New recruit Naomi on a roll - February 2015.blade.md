@@ -4,11 +4,12 @@ date:
 description: "RIDING HIGH: New national women's skateboard champion Naomi Craig finds some air down at the Kowhai Park skate bowl, from the Wanganui Chronicle article 12 Feb 2015..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>RIDING HIGH: &nbsp;New national women's skateboard champion Naomi Craig finds some air down at the Kowhai Park skate bowl.</p>

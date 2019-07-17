@@ -4,11 +4,12 @@ date: 2018-03-21
 description: "Judy Webby (former WHS teacher) with some of the work on display at Cooks Gallery..."
 featured-image: 
 excerpt: "Judy Webby (former WHS teacher) with some of the work on display at Cooks Gallery."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Judy Webby (former WHS teacher) with some of the work on display at Cooks Gallery. <br /><em>PHOTO / Paul Brooks</em></p>

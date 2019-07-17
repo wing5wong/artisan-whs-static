@@ -1,14 +1,15 @@
 ---
 title: "Local Mancer brothers playing in National Youth Band"
 date: 
-description: "Former WHS students Bradley and Jacob Mancer are both in the National Youth Brass Band and will be playing in the Bandâ€™s tour between January 25 and 28 2017..."
+description: "Former WHS students Bradley and Jacob Mancer are both in the National Youth Brass Band and will be playing in the Band’s tour between January 25 and 28 2017..."
 featured-image: 
-excerpt: "Former WHS students Bradley and Jacob Mancer are both in the National Youth Brass Band and will be playing in the Bandâ€™s tour between January 25 and 28 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Former WHS students Bradley and Jacob Mancer are both in the National Youth Brass Band and will be playing in the Band’s tour between January 25 and 28 2017."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS students Bradley Mancer and brother Jacob to the left of Bradley.</p>

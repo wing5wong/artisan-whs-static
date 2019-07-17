@@ -4,11 +4,12 @@ date: 2018-08-31
 description: "Whanganui High School News, from the Principal - River City Press, August 2018..."
 featured-image: 
 excerpt: "Whanganui High School News, from the Principal - River City Press, August 2018."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Download our <a href="http://c1940652.r52.cf0.rackcdn.com/5b85f9daff2a7c03cc000507/Rivercity-Press-Newsletter---August-2018.pdf">Whanganui High School News, from the Principal - River City Press, August 2018</a></strong></p>

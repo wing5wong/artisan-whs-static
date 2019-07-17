@@ -4,11 +4,12 @@ date:
 description: "Outstanding result tonight making it a double gold for our hockey teams at WHS with the 1st XI Girls team winning their final against Horowhenua 3-2..."
 featured-image: 
 excerpt: "Outstanding result tonight (Thursday 24 August) making it a double gold for our hockey teams at WHS with the 1st XI Girls team winning their final against Horowhenua 3-2 in overtime."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Woohoo!! Outstanding result tonight (Thursday 24 August) making it a double gold for our hockey teams at WHS with the 1st XI Girls team winning their final against Horowhenua 3-2 in overtime!! &nbsp;<span class="_5mfr _47e3"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/fbe/1/16/1f3c6.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /></span></strong></p>

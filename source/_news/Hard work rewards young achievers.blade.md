@@ -4,11 +4,12 @@ date: 2018-02-26
 description: "Whanganui High School scholarship students Alister Hughes, Vincent Collins and Boston Flanagan-Connors cut cake to celebrate..."
 featured-image: 
 excerpt: "Whanganui High School scholarship students Alister Hughes, Vincent Collins and Boston Flanagan-Connors cut cake to celebrate."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a936e3eff2a7c6bfc00039f/Schol-students-chron-26-feb.jpg"
+	
+	
+	
+	
 ---
 
 <p><span><strong>BEAMING: Whanganui High School scholarship students Alister Hughes, Vincent Collins and Boston Flanagan-Connors cut cake to celebrate.</strong> <br /><em>PHOTO / Emma Russell</em></span></p>

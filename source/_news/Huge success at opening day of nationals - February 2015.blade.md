@@ -4,11 +4,12 @@ date:
 description: "AWESOME QUARTET: Aiden Nossiter, Erica Tanner, Max Brown and Toby Brooke at Lake Karapiro, from the Wanganui Chronicle article 14 Feb 2015..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>AWESOME QUARTET: &nbsp;Aiden Nossiter, Erica Tanner, Max Brown and Toby Brooke at Lake Karapiro.</p>

@@ -4,11 +4,12 @@ date: 2018-09-20
 description: "AWRC head coach Pedro Figueira leaves Whanganui with a heavy heart after 18 months in the job..."
 featured-image: 
 excerpt: "AWRC head coach Pedro Figueira leaves Whanganui with a heavy heart after 18 months in the job."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Aramoho Wanganui Rowing Club head coach Pedro Figueira leaves Whanganui with a heavy heart after 18 months in the job. <br /><em>PHOTO / Stuart Munro</em></span></p>

@@ -4,11 +4,12 @@ date: 2018-12-12
 description: "Women's Refuge manager accepts a donation from Lyric Singers Joanna Love, Anne Marie Gray & Judy Stein..."
 featured-image: 
 excerpt: "Women's Refuge manager Heather accepts a welcome donation from Lyric Singers Joanna Love, Anne Marie Gray and Judy Stein."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Women's Refuge manager Heather accepts a welcome donation from Lyric Singers Joanna Love (WHS teacher), Anne Marie Gray and Judy Stein. <br /><em>PHOTO / Bevan Conley</em></span></p>

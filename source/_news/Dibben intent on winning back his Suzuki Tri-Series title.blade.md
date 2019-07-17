@@ -4,11 +4,12 @@ date:
 description: "Whanganui rider Richie Dibben (former WHS student) is on a mission to reclaim his Suzuki Tri-Series super moto title this season..."
 featured-image: 
 excerpt: "Whanganui rider Richie Dibben (former WHS student) is on a mission to reclaim his Suzuki Tri-Series super moto title this season."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui rider Richie Dibben (<span>former WHS student)</span> is on a mission to reclaim his Suzuki Tri-Series super moto title this season. <br />PHOTO / Andy McGechan</span></p>

@@ -4,11 +4,12 @@ date:
 description: "A BIG congratulations to WHS student Tiaho Hamahona Taiaroa who has made the NZ Rugby League U16 squad to attend a National High Performance Camp!"
 featured-image: 
 excerpt: "A BIG congratulations to WHS student Tiaho Hamahona Taiaroa who has made the NZ Rugby League U16 squad to attend a National High Performance Camp!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>A BIG congratulations to WHS student Tiaho Hamahona Taiaroa who has made the NZ Rugby League U16 squad to attend a National High Performance Camp!&nbsp;</strong><br /><strong>Well done Tiaho!</strong></p>

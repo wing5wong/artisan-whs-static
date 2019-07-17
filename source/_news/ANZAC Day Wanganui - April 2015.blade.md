@@ -4,11 +4,12 @@ date:
 description: "ANZAC Day Wanganui, Wanganui Chronicle photo 25/4/15."
 featured-image: 
 excerpt: "ANZAC Day Wanganui, Wanganui Chronicle photo 25/4/15."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h1>&nbsp;</h1>

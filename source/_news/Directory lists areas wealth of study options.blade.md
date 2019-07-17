@@ -4,11 +4,12 @@ date:
 description: "PROSPECTS:(fromleft) Elena Egorov, Rhea Colaabavala, Jackie Hazelhurst,Tamara Stratton, Jack Southee, Jonathon DeJongh, Macy Duxfieldand Vincent Collins in the UCOL studio."
 featured-image: 
 excerpt: "PROSPECTS:(fromleft) Elena Egorov, Rhea Colaabavala, Jackie Hazelhurst,Tamara Stratton, Jack Southee, Jonathon DeJongh, Macy Duxfieldand Vincent Collins in the UCOL studio."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>PROSPECTS:(from left) Elena Egorov (WHS), Rhea Colaabavala (WHS), Jackie Hazelhurst (WHS),Tamara Stratton, Jack Southee (WHS), Jonathon DeJongh, Macy Duxfield and Vincent Collins in the UCOL studio.</span></p>

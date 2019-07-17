@@ -4,11 +4,12 @@ date:
 description: "Members of Whanganui band Cool Meditation are Kereama Irimana, (left), Luke Whanarere, Rodney Tetawhero, former WHS student Justis Manley-Green, Jackson Kui-Rickit, Te Oranga Whanarere &Stevie Collier"
 featured-image: 
 excerpt: "ON HAND: Members of Whanganui band Cool Meditation are Kereama Irimana, (left), Luke Whanarere, Rodney Tetawhero, former WHS student Justis Manley-Green, Jackson Kui-Rickit, Te Oranga Whanarere and Stevie Collier. Missing is Temepara Waitai."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>ON HAND: Members of Whanganui band Cool Meditation are Kereama Irimana, (left), Luke Whanarere, Rodney Tetawhero, former WHS student Justis Manley-Green, Jackson Kui-Rickit, Te Oranga Whanarere and Stevie Collier. Missing is another former WHS student Temepara Waitai.</span></p>

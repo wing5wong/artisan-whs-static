@@ -4,11 +4,12 @@ date:
 description: "Phillips Electrical Wanganui High School and Wanganui Car Centre Kaierau remain unbeaten and are on the maximum 9 points in the Premier 1 Wanganui Netball Championship..."
 featured-image: 
 excerpt: "Phillips Electrical Wanganui High School and Wanganui Car Centre Kaierau remain unbeaten and are on the maximum 9 points in the Premier 1 Wanganui Netball Championship..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;">THE TOP four from the end of last season are beginning to sort themselves out with the points table in the Premier 1 Wanganui Netball Championship almost a mirror image of last year after three rounds.<br /></span></p>

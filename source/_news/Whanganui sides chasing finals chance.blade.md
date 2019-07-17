@@ -4,11 +4,12 @@ date:
 description: "WHS outlasted Old Boys Marist Cafe Cuba Lightning Dolphins 24-17, Wanganui Chronicle article on 19/7/16..."
 featured-image: 
 excerpt: "WHS outlasted Old Boys Marist Cafe Cuba Lightning Dolphins 24-17"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The next two weeks will set the scene for the finals of the Manawatu McDonalds Colts rugby championship with the two Whanganui teams snapping at the heels of the defending titleholders.</p>

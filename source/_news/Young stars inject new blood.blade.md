@@ -4,11 +4,12 @@ date:
 description: "REHEARSAL: WHS students Brylee Noble and Konrad Shaw in rehearsal on Roger Hall's Red Riding Hood, Wanganui Midweek article on 20/10/16..."
 featured-image: 
 excerpt: "WHS students Brylee Noble and Konrad Shaw in rehearsal on Roger Hall's Red Riding Hood."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>REHEARSAL: WHS students Brylee Noble and Konrad Shaw in rehearsal.<br />PHOTO courtesy of Harmony May.&nbsp;</p>

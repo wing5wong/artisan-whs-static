@@ -4,11 +4,12 @@ date:
 description: "Year 8 Scholarship Winners 2017 - Whanganui High School"
 featured-image: 
 excerpt: "Year 8 Scholarship Winners 2017 - Whanganui High School"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Year 8 Scholarship Winners 2017:</strong></p>

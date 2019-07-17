@@ -4,11 +4,12 @@ date:
 description: "FALTERED: The WHS lads stumbled at the final hurdle when finishing runners-up in the McDonald's Manawatu Colts competition in Palmerston North at the weekend, Wanganui Chronicle article on 5/8/15..."
 featured-image: 
 excerpt: "FALTERED: The Wanganui High School lads stumbled at the final hurdle when finishing runners-up in the McDonald's Manawatu Colts competition in Palmerston North at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FALTERED: The Wanganui High School lads stumbled at the final hurdle when finishing runners-up in the McDonald's Manawatu Colts competition in Palmerston North at the weekend.</span></p>

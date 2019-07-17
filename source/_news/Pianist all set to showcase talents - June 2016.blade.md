@@ -4,11 +4,12 @@ date:
 description: "Wanganui Music Society is teaming up with Whanganui pianist Liam Wooding for a recital next month, Wanganui Chronicle article on 28/6/16..."
 featured-image: 
 excerpt: "Wanganui Music Society is teaming up with Whanganui pianist Liam Wooding for a recital next month."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui Music Society is teaming up with Whanganui pianist Liam Wooding for a recital next month.</p>

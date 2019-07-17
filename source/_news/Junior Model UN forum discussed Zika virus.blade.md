@@ -4,11 +4,12 @@ date:
 description: "Junior Model UN forum discussed Zika virus and plight of refugees. WHS students Callista Booth-Richards, Leah Aiono and Katja Mokha were the delegation representing Turkey..."
 featured-image: 
 excerpt: "Junior Model UN forum discussed Zika virus and plight of refugees. WHS students Callista Booth-Richards, Leah Aiono and Katja Mokha were the delegation representing Turkey."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="BasicParagraph"><span class="CharacterStyle1"><span lang="EN-GB">Delegation representing Turkey from Whanganui High School <span>(left to right)&nbsp;</span>- Callista Booth-Richards, Leah Aiono and Katja Mokha. Between them they have connections to other countries such as England, Ireland, Kuwait, India, Germany and Samoa.</span></span></p>

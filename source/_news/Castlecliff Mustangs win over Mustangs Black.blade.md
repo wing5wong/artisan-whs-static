@@ -4,11 +4,12 @@ date: 2019-04-10
 description: "Castlecliff Club Mustangs victorious over Mustangs Black in battle for WSA Reserve Cup on Saturday."
 featured-image: 
 excerpt: "Castlecliff Club Mustangs victorious over Mustangs Black in battle for WSA Reserve Cup on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/qkbRsfNd9EDm_AZyXv_dkp88pDQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/6KM5XY7XR5B63LBZ22CVNPADM4.jpg" alt="Castlecliff Club Mustangs victorious over Mustangs Black in battle for WSA Reserve Cup on Saturday." /></p>

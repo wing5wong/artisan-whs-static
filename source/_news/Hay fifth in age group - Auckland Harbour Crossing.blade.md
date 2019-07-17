@@ -4,16 +4,17 @@ date: 2019-04-10
 description: "Andrew Hay finished a creditable fifth in his age group in his first ever 2km Double Auckland Harbour Crossing..."
 featured-image: 
 excerpt: "Andrew Hay finished a creditable fifth in his age group in his first ever 2km Double Auckland Harbour Crossing."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/IXZj-19EIQ6N8ZgLt9zQqAHaY40=/620x827/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/SNOJ57JYOFBFRJPWOWOYADZR6E.jpg" alt="Whanganui teenager Andrew Hay finished fifth in his age group on debut in the Harcourts Cooper and Co Double Auckland Harbour Crossing on Saturday." /></p>
 <p><strong>Whanganui teenager Andrew Hay has finished a creditable fifth in his age group in his first ever Harcourts Cooper and Co Double Auckland Harbour Crossing.</strong><br /><em>Photos / Supplied</em></p>
-<p class="element element-paragraph">At 8am on Saturday morning in teeming rain the Whanganui High School 14-year-old swam under the clip-on lanes of the iconic Harbour Bridge from off the rocks in front of West Haven Marina to Northcote Point and back covering a distance of 2km.</p>
+<p class="element element-paragraph"><br />At 8am on Saturday morning in teeming rain the Whanganui High School 14-year-old swam under the clip-on lanes of the iconic Harbour Bridge from off the rocks in front of West Haven Marina to Northcote Point and back covering a distance of 2km.</p>
 <p class="element element-paragraph">More than 1500 swimmers from all around New Zealand (and some from overseas) competed in two events comprising a single crossing (1km), which 500 people entered, and the double crossing (2km) which more than 1000 people competed in.</p>
 <p>Hay finished a credible fifth in his age group which comprised 42 similarly aged swimmers and he placed 39th overall in an open age field comprising more than 1000 competitive swimmers.</p>
 <p class="element element-paragraph">His time, 26 minutes 24 seconds, was considered a good result by his coach considering he started 30 seconds behind the lead pack of 100 higher ranked swimmers. He swam past and around 60 of the swimmers who started in front of him at the staggered start on his way to the finish line.</p>

@@ -4,11 +4,12 @@ date: 2018-05-31
 description: "WSS Cross Country Championship Year 9 boys winner Nat Kirk & Senior girls winner Rebecca Baker had a strong finish..."
 featured-image: 
 excerpt: "WSS Cross Country Championship Year 9 boys winner Nat Kirk & Senior girls winner Rebecca Baker had a strong finish on the Tawhero Golf Course track."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WSS Cross Country Championship Year 9 boys winner Nat Kirk &amp; Senior girls winner Rebecca Baker had a strong finish on the Tawhero Golf Course track on Thursday 24 May 2018.</strong></p>

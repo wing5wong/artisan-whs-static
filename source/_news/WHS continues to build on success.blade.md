@@ -4,11 +4,12 @@ date:
 description: "The Central U18 Girls Hockey Team won gold at the recent national competition with the Boys team winning silver. WHS had three players in each team..."
 featured-image: 
 excerpt: "The Central U18 Girls Hockey Team won gold at the recent national competition with the Boys team winning silver. Whanganui High School had three players in each team."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>PHOTO: Ryan Gray, Patrick Madder, Jordan Cohen, Emma Rainey, Joanna Bell and Rebecca Baker. &nbsp;The Central U18 Girls Hockey Team won gold at the recent national competition with the Boys team winning silver. Whanganui High School had three players in each team.</p>

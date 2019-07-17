@@ -4,11 +4,12 @@ date: 2019-01-01
 description: "Tough start to the Women's Burger King Super Smash for Central District Hinds & their Whanganui White Fern Watkin..."
 featured-image: 
 excerpt: "It has been a tough start to the Women's Burger King Super Smash for the Central District Hinds and their Whanganui White Fern Jessica Watkin."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">It has been a tough start to the Women's Burger King Super Smash for the Central District Hinds and their Whanganui White Fern Jessica Watkin.<br /><em>Photo / File</em></p>

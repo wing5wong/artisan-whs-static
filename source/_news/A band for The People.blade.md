@@ -4,11 +4,12 @@ date:
 description: "The People are Matt Edmonds, Georgie Ormond, Alex Penfold, Ian Bartlett, former WHS students Dylan Stanford and Debbie Head, Chloe Franklin-Brown and Stan Manthyng..."
 featured-image: 
 excerpt: "The People are Matt Edmonds, Georgie Ormond, Alex Penfold, Ian Bartlett, former WHS students Dylan Stanford and Debbie Head, Chloe Franklin-Brown and Stan Manthyng."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The People are Matt Edmonds, Georgie Ormond, Alex Penfold, Ian Bartlett, former WHS students Dylan Stanford and Debbie Head, Chloe Franklin-Brown and Stan Manthyng. <br />PHOTO: Tia Ranginui</span></p>

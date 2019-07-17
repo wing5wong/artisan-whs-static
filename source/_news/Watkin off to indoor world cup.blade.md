@@ -4,11 +4,12 @@ date:
 description: "Whanganui cricket prodigy Jessica Watkin is heading back indoors to once again pull on the black shirt with her selection in the NZ U21 Women's team to play at the World Indoor Cricket Fed World Cup.."
 featured-image: 
 excerpt: "Whanganui cricket prodigy Jessica Watkin is heading back indoors to once again pull on the black shirt with her selection in the NZ U21 Women's team to play at the World Indoor Cricket Federation (WICF) World Cup next month."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Whanganui cricket prodigy Jessica Watkin is heading back indoors to once again pull on the black shirt with her selection in the New Zealand Under 21 Women's team to play at the World Indoor Cricket Federation (WICF) World Cup next month.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "WANGANUI U15 RUGBY CHAMPS 2017 - WHS U15 GOLD TEAM..."
 featured-image: 
 excerpt: "WANGANUI U15 RUGBY CHAMPS 2017 - WHS U15 GOLD TEAM."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59a8be89b8d39a35a50004f2/handing-over-cup.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59a8be91b8d39a35a50004f4/mixed-teams.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59a8bedab8d39a35a50004f8/mixed-teams.jpg"
+	
+	
 ---
 
 <div class="_1dwg _1w_m">

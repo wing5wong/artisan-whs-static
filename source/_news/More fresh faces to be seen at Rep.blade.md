@@ -1,14 +1,15 @@
 ---
 title: "More fresh faces to be seen at Rep"
 date: 
-description: "Lauren Karl (left), Ben Power (WHS student) and BjÃ¶rn Walczak all have a role in the up-coming show Red Riding Hood to be played at the Repertory Theatre in Wanganui..."
+description: "Lauren Karl (left), Ben Power (WHS student) and Björn Walczak all have a role in the up-coming show Red Riding Hood to be played at the Repertory Theatre in Wanganui..."
 featured-image: 
-excerpt: "Lauren Karl (left), Ben Power (WHS student) and BjÃ¶rn Walczak all have a role in the up-coming show Red Riding Hood to be played at the Repertory Theatre in Wanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Lauren Karl (left), Ben Power (WHS student) and Björn Walczak all have a role in the up-coming show Red Riding Hood to be played at the Repertory Theatre in Wanganui."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Lauren Karl (left), Ben Power (WHS student) and Bj&ouml;rn Walczak all have a role in the up-coming show Red Riding Hood to be played at the Repertory Theatre in Wanganui.<br /><span>PHOTO courtesy of Harmony May.</span>&nbsp;</p>

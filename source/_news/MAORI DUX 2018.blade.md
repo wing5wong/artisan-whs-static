@@ -6,11 +6,12 @@ JOSIAH KIRK..."
 featured-image: 
 excerpt: "Congratulations to our Whanganui High School Māori Dux for 2018:
 Josiah Kirk"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/5bdf80bdff2a7c39a80002f3/IMG_4762.JPG"
+	 - image: "/uploads/5bdf8c15ff2a7c39a80002fc/IMG_4893.JPG"
+	 - image: "/uploads/5bdf879bff2a7c39a80002f9/IMG_4889.JPG"
+	 - image: "/uploads/5bdf7e77ff2a7c39a80002e1/IMG_4934.JPG"
+	 - image: "/uploads/5bdf7f0eff2a7c39a80002e9/IMG_4952.JPG"
 ---
 
 <h4>Congratulations to our Whanganui High School Māori Dux for 2018:<br />JOSIAH KIRK</h4>

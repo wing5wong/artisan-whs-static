@@ -4,11 +4,12 @@ date: 2018-06-28
 description: "Winners of the Reading & Literacy in Manawatu Readers Cup for Y9 students..."
 featured-image: 
 excerpt: "Winners of the Reading & Literacy in Manawatu Readers Cup for Y9 students."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Winners of the Reading &amp; Literacy in Manawatu Readers Cup for Year 9 students.</h4>

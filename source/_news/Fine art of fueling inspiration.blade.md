@@ -4,11 +4,12 @@ date:
 description: "STATE OF THE ARTS: WHS student Vincent Collins and Tamara-Claire Stratton at the Feeling Inspired Youth Arts Review at the Edith Gallery, Wanganui Chronicle article on 20/7/16..."
 featured-image: 
 excerpt: "STATE OF THE ARTS: WHS student Vincent Collins and Tamara-Claire Stratton at the Feeling Inspired Youth Arts Review at the Edith Gallery."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>STATE OF THE ARTS: WHS student Vincent Collins and Tamara-Claire Stratton at the Feeling Inspired Youth Arts Review at the Edith Gallery.</p>

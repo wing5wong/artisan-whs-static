@@ -4,11 +4,12 @@ date: 2018-04-04
 description: "WHS Junior A Girls Volleyball team won over Girls College to be the top junior girls team in Whanganui..."
 featured-image: 
 excerpt: "WHS Junior A Girls Volleyball team won over Girls College to be the top junior girls team in Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/5ac54b0cb8d39a7499001305/Junior-A-Girls.JPG"
+	 - image: "/uploads/5ac54b41b8d39a7499001307/Senior-A-Girls.JPG"
+	 - image: "/uploads/5ac54b1fff2a7c6bfc0012cd/Junior-B-Girls.JPG"
+	 - image: "/uploads/5ac54bf1b8d39a749900130b/Y12-Social-Team.JPG"
+	
 ---
 
 <p><strong>Whanganui High School Junior A Girls Volleyball team won over Girls College to be the top Junior Girls team in Whanganui.</strong></p>

@@ -4,11 +4,12 @@ date: 2018-06-27
 description: "WHS goal shoot Montel Vaiao Aki produced a solid performance to help her side to a 55-46 win over Kaiwhaiki..."
 featured-image: 
 excerpt: "WHS goal shoot Montel Vaiao Aki produced a solid performance to help her side to a 55-46 win over Kaiwhaiki."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>WHS goal shoot Montel Vaiao Aki produced a solid performance to help her side to a 55-46 win over Kaiwhaiki on Monday night.</strong> <br /><em>PHOTO / Bevan Conley</em></span></p>

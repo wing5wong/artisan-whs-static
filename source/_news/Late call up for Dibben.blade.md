@@ -4,11 +4,12 @@ date:
 description: "AUSSIE BOUND: Whanganui racer Richard Dibben (former WHS student) gained a late call up to represent New Zealand in the Asia Supermoto Championship around the streets of Newcastle this weekend."
 featured-image: 
 excerpt: "AUSSIE BOUND: Whanganui racer Richard Dibben (former WHS student) gained a late call up to represent New Zealand in the Asia Supermoto Championship around the streets of Newcastle this weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>AUSSIE BOUND: Whanganui racer Richard Dibben (former WHS student) gained a late call up to represent New Zealand in the Asia Supermoto Championship around the streets of Newcastle this weekend.</p>

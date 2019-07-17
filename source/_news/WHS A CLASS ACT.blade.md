@@ -4,11 +4,12 @@ date:
 description: "The cast, crew, teachers and supporters from '29 Below' which won the 2016 National State Challenge, Wanganui Chronicle article on 21/9/16..."
 featured-image: 
 excerpt: "The cast, crew, teachers and supporters from '29 Below' which won the 2016 National State Challenge."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WINNERS ARE GRINNERS: Cast, crew, teachers and supporters celebrate the Stage Challenge victory at Whanganui High School yesterday.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "Hamming it up at last year's inaugural Improv Night were Paul Collins, Jessica Alder, Reuben Janes (former WHS student), and Phil Portland, with ornamental hostess Jenda at the back."
 featured-image: 
 excerpt: "Hamming it up at last year's inaugural Improv Night were Paul Collins, Jessica Alder, Reuben Janes (former WHS student), and Phil Portland, with ornamental hostess Jenda at the back."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

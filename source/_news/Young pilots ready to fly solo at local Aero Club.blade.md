@@ -4,11 +4,12 @@ date:
 description: "Nathan Mauchline, Chief Flying Instructor, congratulates Cameron Allardice on completion of his first solo flight..."
 featured-image: 
 excerpt: "Nathan Mauchline, Chief Flying Instructor, congratulates WHS student, Cameron Allardice on completion of his first solo flight."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c47843b8d39a1917000030/flying-leroy-johston-ex-chron-sept.jpg"
+	
+	
+	
+	
 ---
 
 <p><span>Nathan Mauchline, Chief Flying Instructor, congratulates WHS student, <strong>Cameron Allardice</strong> <strong>on completion of his first solo flight.</strong></span></p>

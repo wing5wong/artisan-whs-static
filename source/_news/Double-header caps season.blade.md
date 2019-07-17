@@ -4,11 +4,12 @@ date: 2018-06-07
 description: "Whanganui's Seth Reardon will be pushing hard at the 2018 New Zealand Enduro Championships..."
 featured-image: 
 excerpt: "Whanganui's Seth Reardon will be pushing hard for the AA Grade win this weekend and also to win his combined under-200cc two-stroke class and under-300cc four-stroke class."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui's Seth Reardon will be pushing hard for the AA Grade win this weekend and also to win his combined under-200cc two-stroke class and under-300cc four-stroke class.<br /><em>PHOTO /&nbsp;Andy McGechan</em></span></p>

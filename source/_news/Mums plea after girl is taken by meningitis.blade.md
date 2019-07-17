@@ -4,11 +4,12 @@ date: 2018-12-11
 description: "Former WHS student Chloe Boniface ... who died in her university room."
 featured-image: 
 excerpt: "Former WHS student Chloe Boniface ... who died in her university room."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former WHS student Chloe Boniface ... who died in her university room.</span><br /><em>Photo / Supplied</em></p>
@@ -68,6 +69,6 @@ gallery-image-5:
 <p class="element element-paragraph">"I don't want another family to lose their child because they weren't aware. I really want there to be more information out there for students and parents," she said.</p>
 <p class="element element-paragraph">"Had we have known about this disease we would have gone to our doctor and received the information we needed.</p>
 <p class="element element-paragraph">"I know there are many people out there who don't want to get vaccinated and that is their decision, but if there was something given to parents in open day packs or some sort of information given when looking into university or boarding school dorms around the first year being such a high risk then maybe, just maybe, more will be okay."</p>
-<p class="element element-paragraph">â–  The life of Chloe Sarah-Leeann Boniface, beloved daughter of Tarsha and Ricky, big sister to Corbin, was celebrated with a service in Whanganui on November 13. Instead of flowers, people were invited to make donations to Greenpeace - the future marine biologist would have been proud.</p>
+<p class="element element-paragraph">■ The life of Chloe Sarah-Leeann Boniface, beloved daughter of Tarsha and Ricky, big sister to Corbin, was celebrated with a service in Whanganui on November 13. Instead of flowers, people were invited to make donations to Greenpeace - the future marine biologist would have been proud.</p>
 <p class="element element-paragraph"><em>By Vera Alves</em><br /><em>Whanganui Chronicle 11/12/18</em></p>
 

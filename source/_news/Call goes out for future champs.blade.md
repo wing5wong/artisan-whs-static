@@ -4,11 +4,12 @@ date:
 description: "Class hockey player and Whanganui High School student, Emma Rainey is a prime example of a Whanganui Future Champion..."
 featured-image: 
 excerpt: "Class hockey player and Whanganui High School student, Emma Rainey is a prime example of a Whanganui Future Champion."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Class hockey player and Whanganui High School student, Emma Rainey is a prime example of a Whanganui Future Champion.</strong></p>

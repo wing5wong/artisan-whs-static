@@ -4,11 +4,12 @@ date:
 description: "Darcy Britton's precious tandem bike has been returned to him - and whoever stole it left a note explaining why they did so..."
 featured-image: 
 excerpt: "Darcy Britton's precious tandem bike has been returned to him - and whoever stole it left a note explaining why they did so."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Darcy Britton with his brother Tyson Timmins on Darcy's tandem bike. <br />PHOTO / Lewis Gardner</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Jake Alabaster's memorial service will be on the same Cooks Gardens field where he won the 2016 Premier club championship with Border last year..."
 featured-image: 
 excerpt: "Jake Alabaster's memorial service will be on the same Cooks Gardens field where he won the 2016 Premier club championship with Border last year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Jake Alabaster's memorial service will be on the same Cooks Gardens field where he won the 2016 Premier club championship with Border last year.</span></p>

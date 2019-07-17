@@ -4,11 +4,12 @@ date: 2018-05-17
 description: "Workshop for High School bands/solo acts who are entering the Rockquest..."
 featured-image: 
 excerpt: "Workshop for High School bands/solo acts who are entering the Rockquest."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Workshop for High School bands/solo acts who are entering the Rockquest.</span></p>

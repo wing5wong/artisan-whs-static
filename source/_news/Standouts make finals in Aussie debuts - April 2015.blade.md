@@ -4,11 +4,12 @@ date:
 description: "Wanganui's standout teenage swimmers Elena Forlong (WHS student) & Shannon Schimanski competed strongly in their debut for their country at the Australian Age Group Champs.."
 featured-image: 
 excerpt: "Wanganui's standout teenage swimmers Elena Forlong (WHS student) & Shannon Schimanski competed strongly in their debut for their country at the Australian Age Group Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui's standout teenage swimmers Elena Forlong (above -&nbsp;<span>Wanganui High School student</span>) and <span>Shannon Schimanski</span>&nbsp;competed strongly in their debut for their country at the Australian Age Group Championships last week.</p>

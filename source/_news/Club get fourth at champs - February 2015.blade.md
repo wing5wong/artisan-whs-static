@@ -4,11 +4,12 @@ date:
 description: "SUNNY DAYS: The Whanganui Kayak Club team at Lake Karapiro, from the Wanganui Chronicle article 20 Feb 2015..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>SUNNY DAYS: The Whanganui Kayak Club team at Lake Karapiro.</p>

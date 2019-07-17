@@ -4,11 +4,12 @@ date:
 description: "Wanganui's outstanding women's cricket all-rounder Jessica Watkin has been selected in the New Zealand Under-18 Indoor women's team off to the 2015 WICF Junior World Series in Brisbane."
 featured-image: 
 excerpt: "Wanganui's outstanding women's cricket all-rounder Jessica Watkin has been selected in the New Zealand Under-18 Indoor women's team off to the 2015 WICF Junior World Series in Brisbane."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;">Wanganui's outstanding women's cricket all-rounder Jessica Watkin has been selected in the New Zealand Under-18 Indoor women's team off to the 2015 WICF Junior World Series in Brisbane.</span></p>

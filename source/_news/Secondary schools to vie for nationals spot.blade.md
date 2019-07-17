@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School take on Rangitikei College in a Whanganui girls' match at City College yesterday, Wanganui Chronicle article on 22 September..."
 featured-image: 
 excerpt: "Whanganui High School take on Rangitikei College in a Whanganui girls' match at City College yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>GAME ON: Whanganui High School take on Rangitikei College in a Whanganui girls' match at City College yesterday.<br />PHOTO courtesy of Bevan Conley.</p>

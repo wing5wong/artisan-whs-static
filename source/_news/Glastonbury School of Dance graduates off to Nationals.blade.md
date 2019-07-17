@@ -1,14 +1,15 @@
 ---
 title: "Glastonbury School of Dance graduates off to Nationals"
 date: 2018-10-18
-description: "Jared and Reeve with Jonny Williams, participant in the Dancing With the Starsâ€™ TV programme, providing extra coaching..."
+description: "Jared and Reeve with Jonny Williams, participant in the Dancing With the Stars’ TV programme, providing extra coaching..."
 featured-image: 
-excerpt: "Jared and Reeve with Jonny Williams, participant in the Dancing With the Starsâ€™ TV programme, providing extra coaching."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Jared and Reeve with Jonny Williams, participant in the Dancing With the Stars’ TV programme, providing extra coaching."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <div id="id_5bd6281eb545e7c22987828" class="text_exposed_root text_exposed">

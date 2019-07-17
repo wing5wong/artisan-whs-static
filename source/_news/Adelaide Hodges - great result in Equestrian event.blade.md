@@ -4,11 +4,12 @@ date:
 description: "Congratulations to Adelaide Hodges for coming 1st riding Rusty Nuts' n Bolts in Accumulator (show jumping event) at Nga Tawa's 125th Anniverary Show Jumping Tournament at the end of March."
 featured-image: 
 excerpt: "Congratulations to Adelaide Hodges for coming 1st riding Rusty Nuts' n Bolts in Accumulator (show jumping event) at Nga Tawa's 125th Anniverary Show Jumping Tournament at the end of March."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

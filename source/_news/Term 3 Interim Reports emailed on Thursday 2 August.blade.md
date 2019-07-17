@@ -4,11 +4,12 @@ date: 2018-08-07
 description: "We understand that some families may not have received the Term 3 Interim Report which was emailed on Thursday 2 August.."
 featured-image: 
 excerpt: "We understand that some families may not have received the Term 3 Interim Report which was emailed on Thursday 2 August."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Re: Term 3 Interim Report 2018&nbsp;</strong></p>

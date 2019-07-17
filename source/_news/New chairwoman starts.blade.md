@@ -4,11 +4,12 @@ date: 2019-01-16
 description: "Gillian Tasker (left) and Mary-Ann Ewing toast the success of the Literary Festival..."
 featured-image: 
 excerpt: "Gillian Tasker (left) and Mary-Ann Ewing toast the success of the Literary Festival."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Gillian Tasker (left) and <strong>Mary-Ann Ewing</strong> toast the success of the Literary Festival.<strong data-bind="text: imageTitle"><br /></strong><em>PHOTO / Paul Brooks</em></p>

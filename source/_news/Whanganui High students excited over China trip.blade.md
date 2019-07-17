@@ -4,11 +4,12 @@ date:
 description: "Students from WHS will be broadening their education with a spell in China next year..."
 featured-image: 
 excerpt: "Students from Whanganui High School will be broadening their education with a spell in China next year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Students from Whanganui High School will be broadening their education with a spell in China next year.</p>

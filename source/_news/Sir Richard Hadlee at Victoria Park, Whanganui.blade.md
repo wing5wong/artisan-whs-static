@@ -1,14 +1,15 @@
 ---
 title: "Sir Richard Hadlee at Victoria Park, Whanganui"
 date: 
-description: "NZâ€™s greatest cricketer Sir Richard Hadlee will be at Victoria Park today for the local book launch..."
+description: "NZ’s greatest cricketer Sir Richard Hadlee will be at Victoria Park today for the local book launch..."
 featured-image: 
-excerpt: "New Zealandâ€™s greatest cricketer Sir Richard Hadlee will be at Victoria Park today, Wednesday 20 September, for the local book launch of his labour of love 'The Skipperâ€™s Diary'."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "New Zealand’s greatest cricketer Sir Richard Hadlee will be at Victoria Park today, Wednesday 20 September, for the local book launch of his labour of love 'The Skipper’s Diary'."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>New Zealand&rsquo;s greatest cricketer Sir Richard Hadlee will be at Victoria Park today, Wednesday 20 September, for the local book launch of his labour of love 'The Skipper&rsquo;s Diary'</strong> - a compilation piece on the successful 1949 New Zealand tour of England, which was captained by his father Walter Hadlee.</p>

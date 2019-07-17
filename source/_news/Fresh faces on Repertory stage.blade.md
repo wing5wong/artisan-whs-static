@@ -4,11 +4,12 @@ date:
 description: "FRESH FACES: WHS students Ben Clow (former student) and Bee Kirk at work during rehearsals for the upcoming production of Little Red Riding Hood at Repertory Theatre..."
 featured-image: 
 excerpt: "WHS students Ben Clow (former student) and Bee Kirk at work during rehearsals for the upcoming production of Little Red Riding Hood at Repertory Theatre."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>FRESH FACES: WHS students Ben Clow&nbsp;(former student)&nbsp;and Bee Kirk at work during rehearsals for the upcoming production of Little Red Riding Hood at Repertory Theatre.</p>

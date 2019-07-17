@@ -4,11 +4,12 @@ date: 2018-10-20
 description: "Former student Max Holloway's car has been rebuilt for the new season with big things expected for 81V..."
 featured-image: 
 excerpt: "Former student Max Holloway's car has been rebuilt for the new season with big things expected for 81V."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former student <strong>Max Holloway's</strong> car has been rebuilt for the new season with big things expected for 81V.<br /><em>Photo / Supplied</em></p>

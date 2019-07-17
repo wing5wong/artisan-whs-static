@@ -4,11 +4,12 @@ date: 2019-03-20
 description: "Former WHS student Cole McKenzie was amongst the people celebrating the LSV course graduation..."
 featured-image: 
 excerpt: "Former WHS student Cole McKenzie was amongst the people celebrating the LSV course graduation."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Celebrating the LSV graduation are (from left) Maia Rauhina, Joseph Martini-Rerekura, Mayor Hamish McDouall, Work and Income regional commissioner Gloria Campbell, Cole McKenzie and Jordan Kake.</span><br /><em>Photo / Supplied</em></p>

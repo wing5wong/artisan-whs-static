@@ -4,11 +4,12 @@ date: 2019-03-02
 description: "Past/present WHS students Campbell Monk, Cameron Lawrence & Adrian Van Bussel all do well at the NZ Champs..."
 featured-image: 
 excerpt: "The Aramoho/Petone Men's Composite Club Coxed Four who won bronze at the New Zealand Champs. From left, Campbell Monk (cox), Matt Cummings (Petone), Cameron Lawrence, Jack Pringle, Adrian Van Bussel."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>The Aramoho/</strong>Petone<strong> Men's Composite Club</strong> <strong>Coxed Four who won bronze at the New Zealand Champs.</strong> From left, <strong>Campbell Monk (cox)</strong>, Matt Cummings (Petone), <strong>Cameron Lawrence</strong>, Jack Pringle, <strong>Adrian Van Bussel</strong>.</span><br /><em>Photo / Supplied</em></p>

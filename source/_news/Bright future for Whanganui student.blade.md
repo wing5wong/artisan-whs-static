@@ -4,11 +4,12 @@ date:
 description: "Whanganui student Faith Chadfield (former WHS student Faith Unga) is looking forward to a career as a kindergarten teacher..."
 featured-image: 
 excerpt: "Whanganui student Faith Chadfield (former WHS student Faith Unga) is looking forward to a career as a kindergarten teacher."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui student Faith Chadfield (former WHS student Faith Unga) is looking forward to a career as a kindergarten teacher. <br />Photo: Supplied</span></p>

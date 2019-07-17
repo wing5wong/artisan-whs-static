@@ -4,11 +4,12 @@ date:
 description: "WHS's Jessica Brougham and Kayla Spencer completed a stunning summer on the water with gold in the girls under-18 double sculls at the 2015 Maadi Cup at Lake Karapiro last week, Chronicle 30/3/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui High School's Jessica Brougham and Kayla Spencer completed a stunning summer on the water with gold in the girls under-18 double sculls at the 2015 Maadi Cup at Lake Karapiro last week.</p>

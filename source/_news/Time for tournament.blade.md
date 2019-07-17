@@ -4,11 +4,12 @@ date:
 description: "The Whanganui High School students who are off to tournament week, Wanganui Chroncile article on 26/8/16..."
 featured-image: 
 excerpt: "The Whanganui High School students who are off to tournament week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>The Whanganui High School students who are off to tournament week.</strong></p>

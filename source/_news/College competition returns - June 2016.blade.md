@@ -4,11 +4,12 @@ date:
 description: "Wanganui Rugby Union development officer Justin Lock (centre) is no only helping to drive the resurrected secondary schools competition, but he also refereed yesterday's WHS/Ruapehu U15 clash..."
 featured-image: 
 excerpt: "Wanganui Rugby Union development officer Justin Lock (centre) is no only helping to drive the resurrected secondary schools competition, but he also refereed yesterday's WHS/Ruapehu U15 clash..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>LOCKED IN: Wanganui Rugby Union development officer Justin Lock (centre) is no only helping to drive the resurrected secondary schools competition,&nbsp;but he also refereed yesterday's WHS/Ruapehu U15 clash.</span></p>

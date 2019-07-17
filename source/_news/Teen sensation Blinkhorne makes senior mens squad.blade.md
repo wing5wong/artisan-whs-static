@@ -4,11 +4,12 @@ date: 2018-03-28
 description: "Jimi Blinkhorne is named in the NZ senior men's team to play Australia in a three test series in Queensland..."
 featured-image: 
 excerpt: "Whanganui teenage roller hockey sensation Jimi Blinkhorne is named in the New Zealand senior men's team to play Australia in a three test seris in Queensland in May."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span>Whanganui teenage roller hockey sensation Jimi Blinkhorne is named in the New Zealand senior men's team to play Australia in a three test series in Queensland in May.</span></h4>

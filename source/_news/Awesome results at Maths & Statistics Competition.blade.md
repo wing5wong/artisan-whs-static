@@ -4,11 +4,12 @@ date:
 description: "WHS were a close 2nd in the annual Massey Manawatu Maths and Statistics (M3S) Competition held in Palmerston North on Thursday 30 June..."
 featured-image: 
 excerpt: "WHS were a close 2nd in the annual Massey Manawatu Maths and Statistics (M3S) Competition held in Palmerston North on Thursday 30 June..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "/uploads/577dd2daff2a7c38fb0006b5/Vincent-Collins,-Alistair-Hughes--Jackie-Hazelhurt-all-sitting.JPG"
+	 - image: "/uploads/577dd1dbff2a7c38fb0006ad/Vincent-Collins,-Alistair-Hughes--Jackie-Hazelhurt-standing.JPG"
+	 - image: "/uploads/577dd2c4b8d39a20710006b5/Alistair-Hughes--Jackie-Hazelhurst.JPG"
+	 - image: "/uploads/577dd23bff2a7c38fb0006b1/Liam-Jones--James-Yu.JPG"
+	 - image: "/uploads/577dd226b8d39a20710006b1/Julia-Van-Niekerk.JPG"
 ---
 
 <p><span>WHS had two teams competing at the annual Massey Manawatu Maths and Statistics&nbsp;(M3S)&nbsp;Competition held in Palmerston North on Thursday 30 June.</span></p>

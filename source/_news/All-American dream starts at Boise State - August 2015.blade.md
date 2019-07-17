@@ -4,11 +4,12 @@ date:
 description: "ON THE UP: Former Wanganui High School student Kyle Butters is off to Idaho to play American college tennis, Wanganui Chronicle article 11/8/15..."
 featured-image: 
 excerpt: "ON THE UP: Former Wanganui High School student Kyle Butters is off to Idaho to play American college tennis."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>ON THE UP: Former Wanganui High School student Kyle Butters is off to Idaho to play American college tennis.</p>

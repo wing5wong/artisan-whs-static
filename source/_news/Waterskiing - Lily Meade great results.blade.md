@@ -4,11 +4,12 @@ date: 2018-03-05
 description: "Lily Meade won the individual Under 21 women's division on her home water..."
 featured-image: 
 excerpt: "Former WHS student Lily Meade won the individual Under 21 women's division on her home water."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Former Whanganui High School student Lily Meade WON the individual Under 21 women's division on her home water.</strong></p>

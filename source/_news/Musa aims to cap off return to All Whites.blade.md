@@ -4,11 +4,12 @@ date:
 description: "Former WHS student James Musa earned his second All Whites cap in the 6-1 win over the Solomon Islands on Friday..."
 featured-image: 
 excerpt: "Former WHS student James Musa earned his second All Whites cap in the 6-1 win over the Solomon Islands on Friday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Former WHS student James Musa earned his second All Whites cap in the 6-1 win over the Solomon Islands on Friday.</strong></p>

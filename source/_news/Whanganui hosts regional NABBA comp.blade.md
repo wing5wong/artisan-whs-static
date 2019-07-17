@@ -4,16 +4,17 @@ date: 2019-03-30
 description: "Michaela Sullenberger, centre, winning the most competitive division at the 2017 NABBA Championships..."
 featured-image: 
 excerpt: "Michaela Sullenberger, centre, winning the most competitive division at the 2017 NABBA Championships..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><span><img src="https://www.nzherald.co.nz/resizer/W5olhZdLahNIvsu5QvsiUVNlOlc=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/SN7OD3ZQNNEUBHZFWRKL4O6HOI.jpg" alt="Michaela Sullenberger, centre, at the 2017 championships." /></span></p>
 <p class="element element-paragraph"><span>Michaela Sullenberger, centre, winning the most competitive division at the 2017 NABBA Championships.<br /><em>PHOTO / Supplied</em></span></p>
-<p class="element element-paragraph">Revitalise Natural Health &amp; Fitness Centre will be trying to hang onto their Top Gym prize with a much smaller contingent at the NABBA Manawatu/Wanganui Championships tomorrow night.</p>
+<p class="element element-paragraph"><br />Revitalise Natural Health &amp; Fitness Centre will be trying to hang onto their Top Gym prize with a much smaller contingent at the NABBA Manawatu/Wanganui Championships tomorrow night.</p>
 <p class="element element-paragraph">For the third year in a row, Whanganui gets to host the regional competition, because Palmerston North has been award hosting rights for the 2019 NABBA NZ Nationals, being held on October 26-27.</p>
 <p class="element element-paragraph">After two years being held in the Royal Wanganui Opera House, tonight's show is in the War Memorial Centre, and the entry numbers are expected to be down from the 30 who took part last year, being around 15-20.</p>
 <p class="element element-paragraph">Revitalise's Audrey O'Keefe, NABBA's 2017 New Zealand Trainer of the Year, said three of her members are taking part, which is also all of the locals.</p>

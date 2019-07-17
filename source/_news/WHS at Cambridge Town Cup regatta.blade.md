@@ -4,11 +4,12 @@ date:
 description: "GASPING: Aramoho Wanganui Rowing Club's L Watts, J Sandston, T Monaghan & Hugh Pawson (former WHS student) won the senior men's coxless four at the Cambridge Town Cup regatta at Lake Karapiro."
 featured-image: 
 excerpt: "GASPING: Aramoho Wanganui Rowing Club's Luke Watts, James Sandston, Thomas Monaghan and Hugh Pawson (former WHS student) won the senior men's coxless four at the Cambridge Town Cup regatta at Lake Karapiro at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span style="line-height: 1.5;"><br /></span></p>

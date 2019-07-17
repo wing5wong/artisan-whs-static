@@ -4,11 +4,12 @@ date: 2019-03-14
 description: "Melanie Thompson has answered the call that has been ringing in her ears for years. And now the student teacher..."
 featured-image: 
 excerpt: "Melanie Thompson has answered the call that has been ringing in her ears for years. And now the student teacher."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p data-bind="text: $data">Former WHS student Melanie Thompson has answered the call that has been ringing in her ears for years.</p>

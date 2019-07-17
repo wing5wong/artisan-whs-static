@@ -4,11 +4,12 @@ date: 2019-03-19
 description: "Seth Reardon finished fifth as the 2019 Yamaha-sponsored NZ Enduro Champs kicked off in the Thames-Coromandel..."
 featured-image: 
 excerpt: "Whanganui's Seth Reardon finished fifth as the 2019 Yamaha-sponsored NZ Enduro Championships kicked off in the Thames-Coromandel District."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Whanganui's Seth Reardon finished fifth as the 2019 Yamaha-sponsored New Zealand Enduro Championships kicked off in the Thames-Coromandel District at the weekend as Helensville's Tom Buxton shined out among the talent-packed field on the premier AA course.<br /><em>Photo / File</em></p>

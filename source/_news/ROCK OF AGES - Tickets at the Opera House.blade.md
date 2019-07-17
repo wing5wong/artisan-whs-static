@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School Performing Arts is staging the Broadway Smash Hit Production ROCK OF AGES at the Royal Wanganui Opera House, Wednesday 10 May - Saturday 13 May inclusive..."
 featured-image: 
 excerpt: "Whanganui High School Performing Arts is staging the Broadway Smash Hit Production ROCK OF AGES at the Royal Wanganui Opera House, Wednesday 10 May - Saturday 13 May inclusive."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui High School Performing Arts is staging the Broadway Smash Hit Production&nbsp;</strong><em><span><strong>ROCK OF AGES</strong>&nbsp;</span></em></p>

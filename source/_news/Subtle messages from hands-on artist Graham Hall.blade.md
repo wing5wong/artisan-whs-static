@@ -4,11 +4,12 @@ date:
 description: "Artist Graham Hall with two woodcuts from his Handscape exhibition which is showing at Space Gallery.  Graham teaches Art at Whanganui High School..."
 featured-image: 
 excerpt: "Artist Graham Hall with two woodcuts from his Handscape exhibition which is showing at Space Gallery.  Graham teaches Art at Whanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Artist Graham Hall with two woodcuts from his Handscape exhibition which is showing at Space Gallery. Graham teaches Art at Whanganui High School.&nbsp;<br />PHOTO/Stuart Munro</span></p>

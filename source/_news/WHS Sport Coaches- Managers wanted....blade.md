@@ -4,11 +4,12 @@ date: 2018-02-23
 description: "Whanganui High School Sports Coaches/Managers wanted..."
 featured-image: 
 excerpt: "Whanganui High School Sports Coaches/Managers wanted..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><strong>WHS SPORTS COACHES/MANAGERS WANTED...&nbsp;</strong></h4>

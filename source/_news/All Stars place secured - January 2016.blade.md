@@ -4,11 +4,12 @@ date:
 description: "IN THE ZONE: Whanganui swimmer Elena Forlong has gained selection to the All Stars lower North Island zone team after excellent performances at the Wellington Regionals at the weekend."
 featured-image: 
 excerpt: "IN THE ZONE: Whanganui swimmer Elena Forlong has gained selection to the All Stars lower North Island zone team after excellent performances at the Wellington Regionals at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

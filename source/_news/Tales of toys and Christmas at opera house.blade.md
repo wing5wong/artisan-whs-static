@@ -4,11 +4,12 @@ date:
 description: "Christmas spirits Hannah Lewis (WHS student - back left), Niamh Hogan (WHS student) and Anna Durning with Leila Collinson (WHS student) as Mary..."
 featured-image: 
 excerpt: "Christmas spirits Hannah Lewis (WHS student - back left), Niamh Hogan (WHS student) and Anna Durning with Leila Collinson (WHS student) as Mary.."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Christmas spirits <strong>Hannah Lewis</strong> (<span>WHS student -&nbsp;</span>back left), <strong>Niamh Hogan</strong> (<span>WHS student)</span> and Anna Durning with <strong>Leila Collinson</strong> (<span>WHS student)</span> as Mary, Connor Jenkins as Tomtom and Makenzie Tate as Bo Peep. <br />PHOTO / Bevan Conley</span></p>

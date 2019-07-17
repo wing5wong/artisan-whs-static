@@ -4,11 +4,12 @@ date: 2018-01-30
 description: "Six Whanganui school leavers, including former WHS student Mikal Terrey, are ready for their work journey and they've got the passport to prove it..."
 featured-image: 
 excerpt: "Six Whanganui school leavers, including former Whanganui High School student Mikal Terrey, are ready for their work journey and they've got the passport to prove it."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph">Six Whanganui school leavers, including former Whanganui High School student Mikal Terrey, are ready for their work journey and they've got the passport to prove it.</p>

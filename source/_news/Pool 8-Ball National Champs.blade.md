@@ -4,11 +4,12 @@ date: 2018-09-07
 description: "WHS had a team of seven boys competing in the 2018 NZSS National 8-Ball Championships in Hamilton."
 featured-image: 
 excerpt: "WHS had a team of seven boys competing in the 2018 NZSS National 8-Ball Championships in Hamilton."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b99b246ff2a7c2965000366/Boys-at-hamilton.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b99b218ff2a7c296500035a/photo-3.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b99b218ff2a7c296500035c/photo-hamilton.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b99b218ff2a7c2965000359/photo-2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b99b257ff2a7c2965000368/photo-1.jpg"
 ---
 
 <p>WHS had a team of seven boys competing in the 2018 New Zealand Secondary School National 8-Ball Championships in Hamilton on Friday 7 September.</p>

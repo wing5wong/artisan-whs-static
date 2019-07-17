@@ -4,11 +4,12 @@ date:
 description: "SAFE RELATIONSHIPS: WHS students Mika Gordon and Mandy Miller, and Constable Paul Miller, were part of the Loves-Me-Not programme the school's senior students participated in at the YMCA yesterday..."
 featured-image: 
 excerpt: "SAFE RELATIONSHIPS: Wanganui High School students Mika Gordon and Mandy Miller, and Constable Paul Miller, were part of the Loves-Me-Not programme the school's senior students participated in at the YMCA yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

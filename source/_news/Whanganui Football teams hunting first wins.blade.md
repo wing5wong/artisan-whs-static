@@ -4,16 +4,17 @@ date: 2019-04-20
 description: "Anthony Bell in action against North End at Wembley Park last year. Bell says City are aiming to make the park a fortress..."
 featured-image: 
 excerpt: "Anthony Bell in action against North End at Wembley Park last year. Bell says City are aiming to make the park a fortress when they take on Hokowhitu FC there this weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/KEhMkqBoKzDh8IuZ9pZV1gNzSrc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/SEP5Y2NC45GAPHOC2QB6AGGLJA.jpg" alt="Anthony Bell in action against North End at Wembley Park last year. Bell says City are aiming to make the park a fortress when they take on Hokowhitu FC there this weekend. Photo / Bevan Conley" /></p>
-<p><span><br />Anthony Bell in action against North End at Wembley Park last year. Bell says City are aiming to make the park a fortress when they take on Hokowhitu FC there this weekend. <br /><em>PHOTO / Bevan Conley</em></span></p>
-<p class="element element-paragraph">While the kids are out hunting for chocolate eggs, GJ Gardner Homes Wanganui Athletic and Versatile Wanganui City FC will be hunting vital wins this Easter.</p>
+<p><span>Anthony Bell in action against North End at Wembley Park last year. Bell says City are aiming to make the park a fortress when they take on Hokowhitu FC there this weekend. <br /><em>PHOTO / Bevan Conley</em></span></p>
+<p class="element element-paragraph"><br />While the kids are out hunting for chocolate eggs, GJ Gardner Homes Wanganui Athletic and Versatile Wanganui City FC will be hunting vital wins this Easter.</p>
 <p class="element element-paragraph">Both teams are heading into the third round of the Federation League winless having lost by one goal last weekend and drawing against each other in round one.</p>
 <p class="element element-paragraph">City player/coach Anthony Bell said a win against Hokowhitu FC at Wembley Park this Saturday would do wonders for his team's confidence.</p>
 <p class="element element-paragraph">"We are going out to grab three points and our goal this season is to make Wembley Park a fortress," Bell said.</p>

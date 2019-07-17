@@ -4,11 +4,12 @@ date:
 description: "Linda Hardcastle & Marion Campbell, had time to talk to me about their work as costume designers & creators while at Repertory Theatre measuring cast members for their Red Riding Hood costumes..."
 featured-image: 
 excerpt: "Busy ladies, Linda Hardcastle and Marion Campbell, had time to talk to me about their work as costume designers and creators while at Repertory Theatre measuring cast members for their Red Riding Hood costumes."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>COSTUMIERS: WHS teacher Linda Hardcastle (left) and Marion Campbell. <br />PICTURE / HARMONY MAY.</span></p>

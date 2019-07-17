@@ -4,11 +4,12 @@ date:
 description: "The best efforts of Whanganui's Jessica Watkin was not enough to prevent her Central District Hinds suffering a two wicket loss to the Wellington Blaze at Lincoln Green in Canterbury on Thursday."
 featured-image: 
 excerpt: "The best efforts of Whanganui's Jessica Watkin was not enough to prevent her Central District Hinds suffering a two wicket loss to the Wellington Blaze at Lincoln Green in Canterbury on Thursday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The best efforts of Whanganui's Jessica Watkin was not enough to prevent her Central District Hinds suffering a two wicket loss to the Wellington Blaze at Lincoln Green in Canterbury on Thursday.</p>

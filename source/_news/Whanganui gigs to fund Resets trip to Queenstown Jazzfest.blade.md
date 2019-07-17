@@ -4,11 +4,12 @@ date:
 description: "Reset are, from left, Daniel Waho, Matt Mareikura, Charlie Peina, Maynard Mason and WHS Instrumental Music Tutor, Fred Loveridge..."
 featured-image: 
 excerpt: "Reset are, from left, Daniel Waho, Matt Mareikura, Charlie Peina, Maynard Mason and WHS Instrumental Music Tutor, Fred Loveridge."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>NEW SOUND: &nbsp;<span>Reset are, from left, Daniel Waho, Matt Mareikura, Charlie Peina, Maynard Mason and WHS Instrumental Music Tutor, <strong>Fred Loveridge</strong>. <br />Photo / Supplied.</span></p>

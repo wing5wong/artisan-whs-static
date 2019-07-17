@@ -4,11 +4,12 @@ date:
 description: "Ex WHS student Chris Breuer, Hamish Bennett, Dylan Gallien, Harry Symes, & captain Dylan Bowater (ex WHS) after the NZ Heartland XV defeated Auckland Dev..."
 featured-image: 
 excerpt: "Ex WHS student Chris Breuer, Hamish Bennett, Dylan Gallien, Harry Symes, and captain Dylan Bowater (ex WHS) after the NZ Heartland XV defeated Auckland Dev at the Jock Hobbs Memorial U19 tournament."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>HEARTLAND PRIDE:&nbsp;Ex WHS student <strong>Chris Breuer</strong>, Hamish Bennett, Dylan Gallien, Harry Symes, and captain <strong>Dylan Bowater</strong> (ex WHS) after the NZ Heartland XV defeated Auckland Development at the Jock Hobbs Memorial Under-19 tournament.<br />Photo/ Supplied</span></p>

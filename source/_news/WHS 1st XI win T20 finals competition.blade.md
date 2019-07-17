@@ -4,11 +4,12 @@ date:
 description: "Congratulations to our 1st XI Cricket team with a win against Cullinane on Monday 20 March 2017 to take out the Wanganui T20 competition..."
 featured-image: 
 excerpt: "Congratulations to our 1st XI Cricket team with a win against Cullinane on Monday 20 March 2017 to take out the Wanganui T20 competition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Toss: Cullinane captain Raemon Teki (left) and WHS counterpart Quinn Mailman flank umpires Shaun Anderson and Thomas Redpath at the toss, won by Cullinane.</p>

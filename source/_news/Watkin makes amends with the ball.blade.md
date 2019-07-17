@@ -4,11 +4,12 @@ date: 2019-03-06
 description: "Whanganui's Jess Watkin plays her part in the Hinds 247 run win over the Otago Sparks on Sunday..."
 featured-image: 
 excerpt: "Whanganui's Jess Watkin plays her part in the Hinds 247 run win over the Otago Sparks on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui's Jess Watkin plays her part in the Hinds 247 run win over the Otago Sparks on Sunday.</span><br /><em>Photo / Supplied</em></p>

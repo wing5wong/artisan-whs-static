@@ -4,11 +4,12 @@ date:
 description: "PREMIER SCHOLAR: Amaan Merchant, pictured with parents Samina and Mohib Merchant, is the highest achiever of several at Wanganui High School, Wanganui Chronicle article on 15/2/16..."
 featured-image: 
 excerpt: "PREMIER SCHOLAR: Amaan Merchant, pictured with parents Samina and Mohib Merchant, is the highest achiever of several at Wanganui High School, Wanganui Chronicle article on 15/2/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

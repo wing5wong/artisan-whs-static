@@ -4,11 +4,12 @@ date:
 description: "WHS teacher, Colin Hedivan poses with Audrey II as it devours a fluffy-slippered (former WHS student) Shaila Hawkins..."
 featured-image: 
 excerpt: "WHS teacher, Colin Hedivan poses with Audrey II as it devours a fluffy-slippered (former WHS student) Shaila Hawkins."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>HUNGRY: WHS teacher, Colin Hedivan poses with Audrey II as it devours a fluffy-slippered <span>(former WHS student)&nbsp;</span>Shaila Hawkins. <br />PICTURE / Paul Brooks.</span></p>

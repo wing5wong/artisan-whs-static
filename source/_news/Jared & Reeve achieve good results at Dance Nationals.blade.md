@@ -3,12 +3,13 @@ title: "Jared & Reeve achieve good results at Dance Nationals"
 date: 2018-10-25
 description: "Whanganui's Junior Dancesport couple, Jared Sim & Reeve Watson, can be very proud of their results from NZ Champs..."
 featured-image: 
-excerpt: "Whanganui's Junior Dancesport couple, Jared Sim & Reeve Watson, can be very proud of their results from this yearâ€™s NZ Champs."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Whanganui's Junior Dancesport couple, Jared Sim & Reeve Watson, can be very proud of their results from this year’s NZ Champs."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="BasicParagraph"><strong>&ldquo;Whanganui's Junior Dancesport couple, Jared Sim (WHS student) and Reeve Watson, can be very proud of their results from this year&rsquo;s New Zealand Championships held in Hamilton over Labour weekend,&rdquo;</strong> says their Dancesport coach, Mark Glastonbury.</p>

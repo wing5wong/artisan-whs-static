@@ -4,11 +4,12 @@ date:
 description: "It is another stacked card for this evening's 2016 Ray White Whanganui Sports Awards at the Wanganui Racecourse. WHS students/former students and teachers are amongst the nominees..."
 featured-image: 
 excerpt: "It is another stacked card for this evening's 2016 Ray White Whanganui Sports Awards at the Wanganui Racecourse. WHS students/former students and teachers are amongst the nominees..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Who will be this year's Supreme Award winner at the 2016 Ray White Whanganui Sports Awards.<br />WHS students/former students and teachers are amongst the nominees (see highlighted below).&nbsp;</strong></p>

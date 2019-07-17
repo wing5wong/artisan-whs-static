@@ -4,11 +4,12 @@ date:
 description: "Some of the WHS staff members canoeing on the Whanganui River..."
 featured-image: 
 excerpt: "Some of the WHS staff members canoeing on the Whanganui River."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Some of the WHS staff members canoeing on the Whanganui River.</strong></p>

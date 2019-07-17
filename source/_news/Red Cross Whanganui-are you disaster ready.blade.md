@@ -4,11 +4,12 @@ date:
 description: "Red Cross team leader David Russell (left) with team members (from left) Mike Carson, Pam Hiroti, Paulette Archer & former WHS student Shaun Jarman"
 featured-image: 
 excerpt: "Red Cross team leader David Russell (left) with team members (from left) Mike Carson, Pam Hiroti, Paulette Archer, and former WHS student Shaun Jarman outside the Red Cross truck."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Red Cross team leader David Russell (left) with team members (from left) Mike Carson, Pam Hiroti, Paulette Archer, and former WHS student Shaun Jarman outside the Red Cross truck. <br />PHOTO/ Stuart Munro</span></p>

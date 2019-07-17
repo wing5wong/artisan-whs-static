@@ -4,11 +4,12 @@ date:
 description: "WHS student Rebecca Baker has been a prolific goal scorer for the Wanganui Under 15 girls team in the national championship tournament in Nelson, Wanganui Chronicle article on 1 October..."
 featured-image: 
 excerpt: "WHS student Rebecca Baker has been a prolific goal scorer for the Wanganui Under 15 girls team in the national championship tournament in Nelson."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>WHS student&nbsp;Rebecca Baker (left) has been a prolific goal scorer for the Wanganui Under 15 girls team in the national championship tournament in Nelson.</strong></p>

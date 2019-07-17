@@ -4,11 +4,12 @@ date:
 description: "PODIUM FINISH: Whanganui's Ollie Dennison finished second in his class at the Epic Events four-hour endurance race in Taupo, Wanganui Chronicle article on 3/11/16..."
 featured-image: 
 excerpt: "PODIUM FINISH: Whanganui's Ollie Dennison finished second in his class at the Epic Events four-hour endurance race in Taupo."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>PODIUM FINISH: Whanganui's Ollie Dennison finished second in his class at the Epic Events four-hour endurance race in Taupo.</strong></p>

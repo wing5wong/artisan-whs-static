@@ -4,11 +4,12 @@ date: 2018-10-03
 description: "Whanganui allrounder Jessica Watkin and her White Fern teammates lose T20 International series to Australia..."
 featured-image: 
 excerpt: "Whanganui allrounder Jessica Watkin and her White Fern teammates lose T20 International series to Australia."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui allrounder Jessica Watkin and her White Fern teammates lose T20 International series to Australia.</span></p>

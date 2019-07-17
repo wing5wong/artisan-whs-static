@@ -4,11 +4,12 @@ date:
 description: "The Kotahi Aroha crew at the Waka Ama Sprint Nationals. Back from left, Tanginoa Matthews, Daniel Kauika, Poutama Hamahona-Taiaroa. Front, Josh Larkin, Matenga Tamehana, Corbin Warren."
 featured-image: 
 excerpt: "The Kotahi Aroha crew at the Waka Ama Sprint Nationals. WHS students/former students, back from left, Tanginoa Matthews, Daniel Kauika, Poutama Hamahona-Taiaroa. Front, Josh Larkin, Matenga Tamehana, Corbin Warren, Wanganui Chronicle article on 6/2/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

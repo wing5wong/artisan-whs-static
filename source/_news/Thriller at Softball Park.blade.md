@@ -4,11 +4,12 @@ date: 2019-01-21
 description: "The Mustangs and Kapiti pose together after a tight cup final at Softball Park this afternoon..."
 featured-image: 
 excerpt: "The Mustangs and Kapiti pose together after a tight cup final at Softball Park this afternoon."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The Mustangs and Kapiti pose together after a tight cup final at Softball Park this afternoon.</span><br /><em>PHOTOS / Bevan Conley</em></p>

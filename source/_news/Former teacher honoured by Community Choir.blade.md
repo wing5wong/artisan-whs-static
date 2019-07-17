@@ -4,11 +4,12 @@ date: 2018-05-24
 description: "Former WHS Music teacher, Teiron Jones honoured by Wanganui Community Choir..."
 featured-image: 
 excerpt: "Former WHS Music teacher, Teiron Jones honoured by Wanganui Community Choir."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui Community Choir presenting Memorial Concert this Saturday in honour of former Whanganui High School Music teacher Teiron Jones.</p>

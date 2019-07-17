@@ -4,11 +4,12 @@ date:
 description: "Wanganui Youth Ministock racers and WHS students Jemma Barnes and Trazarn Ryland-Annabell (former student), at the Christmas market with their cars, promoting the Oceanview 5000..."
 featured-image: 
 excerpt: "Wanganui Youth Ministock racers and WHS students Jemma Barnes and Trazarn Ryland-Annabell (former student), at the Christmas market with their cars, promoting the Oceanview 5000."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui Youth Ministock racers and WHS students Jemma Barnes and Trazarn Ryland-Annabell (former student), at the Christmas market with their cars, promoting the Oceanview 5000.</p>

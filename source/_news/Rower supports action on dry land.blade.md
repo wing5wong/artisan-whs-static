@@ -4,11 +4,12 @@ date: 2018-04-28
 description: "New Zealand rower Simon Watson will welcome a new tradition to Whanganui this Mother's Day..."
 featured-image: 
 excerpt: "New Zealand rower Simon Watson will welcome a new tradition to Whanganui this Mother's Day."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Bronze medal winner and former WHS student Simon Watson will assist with the first Jennian Homes Mother's Day Fun Run/Walk to be held in Whanganui. <br /><em>Photo / Supplied</em></span></p>

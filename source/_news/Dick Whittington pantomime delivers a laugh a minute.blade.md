@@ -4,11 +4,12 @@ date: 2018-12-18
 description: "Phil Hudson as the wicked widow takes centre stage in Dick Whittington and his Cat at Wanganui Repertory Theatre..."
 featured-image: 
 excerpt: "Phil Hudson as the wicked widow takes centre stage in Dick Whittington and his Cat at Wanganui Repertory Theatre."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Phil Hudson as the wicked widow takes centre stage in Dick Whittington and his Cat at Wanganui Repertory Theatre. <br /><em>Photo / Supplied</em></span></p>

@@ -4,11 +4,12 @@ date:
 description: "Wanganui cricketer Jessica Watkin gave an allrounder's effort for the Central Districts Hinds but it was not enough to prevent a five wicket loss to the Otago Sparks in their 50-over match in..."
 featured-image: 
 excerpt: "Wanganui cricketer Jessica Watkin gave an allrounder's effort for the Central Districts Hinds but it was not enough to prevent a five wicket loss to the Otago Sparks in their 50-over match in Alexandra on Sunday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong><br /></strong></span></p>

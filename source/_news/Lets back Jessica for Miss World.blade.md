@@ -4,11 +4,12 @@ date: 2018-11-30
 description: "Miss World New Zealand Jessica Tyson makes friends on a visit to Old Town Hainan in China..."
 featured-image: 
 excerpt: "Miss World New Zealand Jessica Tyson makes friends on a visit to Old Town Hainan in China."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Miss World New Zealand<span>&nbsp;</span>makes friends on a visit to Old Town Hainan in China. <br /><em>Photo / Supplied</em></span></p>

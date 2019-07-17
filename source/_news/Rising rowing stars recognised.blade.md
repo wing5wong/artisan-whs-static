@@ -4,11 +4,12 @@ date:
 description: "The large group of girls from the Aramoho Wanganui Rowing Club gather for the photo shoot at prizegiving.."
 featured-image: 
 excerpt: "The large group of girls from the Aramoho Wanganui Rowing Club gather for the photo shoot at prizegiving."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The large group of girls from the Aramoho Wanganui Rowing Club gather for the photo shoot at prizegiving.</span></p>

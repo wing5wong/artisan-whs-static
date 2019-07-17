@@ -6,11 +6,12 @@ Wanganui Lions Club President Stuart Kelly with from the left: Sam Bridger (ex W
 featured-image: 
 excerpt: "Lions Club announces Bob Horsley Scholarship winners.
 Wanganui Lions Club President Stuart Kelly with from the left: Sam Bridger (ex WHS 2016), Jayden Rhodes and Luke Foster."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Lions Club announces Bob Horsley Scholarship winners.<br /><br /><span>Wanganui Lions Club President Stuart Kelly with from the left: Sam Bridger (ex WHS 2016), Jayden Rhodes and Luke Foster</span></p>

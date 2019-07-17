@@ -4,11 +4,12 @@ date:
 description: "CULTURE CLUB: The Wanganui Toyota Swim Team culture has helped them return home from the Wellington Regional Short Course Winter Champs with the Tawa Trophy for best team stats..."
 featured-image: 
 excerpt: "CULTURE CLUB: The Wanganui Toyota Swim Team culture has helped them return home from the Wellington Regional Short Course Winter Champs with the Tawa Trophy for best team stats."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>CULTURE CLUB: The Wanganui Toyota Swim Team culture has helped them return home from the Wellington Regional Short Course Winter Champs with the Tawa Trophy for best team stats.&nbsp;</span></p>

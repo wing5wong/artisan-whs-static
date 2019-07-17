@@ -4,11 +4,12 @@ date: 2018-08-02
 description: "Attn Jazz lovers - The Blue Orchid, showing at the Amdram Theatre, should appeal to you..."
 featured-image: 
 excerpt: "Attn Jazz lovers - The Blue Orchid, showing at the Amdram Theatre, should appeal to you."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Attn Jazz lovers - <em>The Blue Orchid</em>&nbsp;, showing at the Amdram Theatre, should appeal to you.<br /></span>Written and Directed by Graham Dack.</p>

@@ -4,11 +4,12 @@ date:
 description: "IT ADDS UP: Jo Redpath, Connor Cresswell and Alan Wong are the top regional team, from Wanganui Chronicle article on 30/6/15..."
 featured-image: 
 excerpt: "IT ADDS UP: Jo Redpath, Connor Cresswell and Alan Wong are the top regional team, from Wanganui Chronicle article on 30/6/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>IT ADDS UP: Jo Redpath, Connor Cresswell and Alan Wong are the top regional team.</span></p>

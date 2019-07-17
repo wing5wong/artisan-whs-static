@@ -4,11 +4,12 @@ date:
 description: "NEW SKIPPER: Ross Brown will be at the helm of Whanganui High School until a permanent principal is appointed, Wanganui Cronicle article on 22/8/16..."
 featured-image: 
 excerpt: "NEW SKIPPER: Ross Brown will be at the helm of Whanganui High School until a permanent principal is appointed."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>NEW SKIPPER: Ross Brown will be at the helm of Whanganui High School until a permanent principal is appointed.</span></p>

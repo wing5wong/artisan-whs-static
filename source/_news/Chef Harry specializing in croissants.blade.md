@@ -4,11 +4,12 @@ date: 2018-04-26
 description: "Former WHS student Harry Newrick loves cooking focusing on croissants along with French pastries..."
 featured-image: 
 excerpt: "Former WHS student Harry Newrick loves cooking focusing on croissants along with French pastries."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b270d7eb8d39a749900241f/Harry-Newrick-RCP-26-April-cooking.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b270d92ff2a7c6bfc0023d8/Harry-Newrick-RCP-26-April-no-2cooking.jpg"
+	
+	
+	
 ---
 
 <p>Photo: Chef Harry specializing in croissants &ndash; at age 14</p>

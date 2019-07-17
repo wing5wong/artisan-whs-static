@@ -4,11 +4,12 @@ date: 2018-09-27
 description: "Kathmandu is giving Whanganui judoka Keightley Watson a hand on his climb to the top..."
 featured-image: 
 excerpt: "Kathmandu is giving Whanganui judoka Keightley Watson a hand on his climb to the top."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Kathmandu is giving Whanganui judoka Keightley Watson a hand on his climb to the top.<br /><em>PHOTO / Stuart Munro</em></span></p>

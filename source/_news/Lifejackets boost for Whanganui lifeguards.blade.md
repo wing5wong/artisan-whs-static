@@ -4,11 +4,12 @@ date:
 description: "Shane Nottage of Spark hands over 12 lifejackets to former WHS student, lifeguard Vincent Nowak, watched by WHS students Alex Forlong & Kaya Dobbie & former WHS students Nowak, Miller & McDonald..."
 featured-image: 
 excerpt: "Shane Nottage of Spark hands over 12 lifejackets to former WHS student, lifeguard Vincent Nowak, watched by (from left) Glen Collins, Mia Gemmel, Shannon Schimanski, WHS students Alex Forlong and Kaya Dobbie and former WHS students Clarissa Nowak, Samantha Miller and Sarah McDonald (all Whanganui Surf Lifesaving members)."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>SPARK TO HELP: Shane Nottage of Spark hands over 12 lifejackets to former WHS student, lifeguard Vincent Nowak, watched by (from left) Glen Collins, Mia Gemmel, Shannon Schimanski, WHS students Alex Forlong and Kaya Dobbie and former WHS students Clarissa Nowak, Samantha Miller and Sarah McDonald (all Whanganui Surf Lifesaving members).</span></p>

@@ -4,11 +4,12 @@ date:
 description: "Congratulations to our Whanganui High School DUX LITTERARUM for 2017: ALISTER HUGHES..."
 featured-image: 
 excerpt: "Congratulations to our Whanganui High School DUX LITTERARUM for 2017: ALISTER HUGHES."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a0c9941b8d39a25b60001c7/DUX-2017-Alister-Hughes.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a0c9a1fb8d39a25b60001c9/DUX-runner-up-Vincent-Collins.jpg"
+	
+	
+	
 ---
 
 <h4>Congratulations to our Whanganui High School DUX LITTERARUM for 2017:<br />ALISTER HUGHES</h4>

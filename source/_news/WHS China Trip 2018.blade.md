@@ -4,11 +4,12 @@ date: 2018-09-13
 description: "WHS is one of ten schools in NZ that won funding from Education NZ towards visiting their sister schools in China..."
 featured-image: 
 excerpt: "WHS is one of ten schools in NZ that won funding from Education NZ towards visiting their sister schools in China."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba174b4ff2a7c29650006b9/logo-in-chinese.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba174c1ff2a7c29650006bb/Logo-in-english.jpg"
+	
+	
+	
 ---
 
 <h4>China Trip 2018&nbsp;</h4>

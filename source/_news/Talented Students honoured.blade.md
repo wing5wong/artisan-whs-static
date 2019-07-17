@@ -4,11 +4,12 @@ date:
 description: "WHS student Emma Rainey receives her Senior Sportswomen of the Year trophy from guest speaker Kayla Whitelock..."
 featured-image: 
 excerpt: "WHS student Emma Rainey receives her Senior Sportswomen of the Year trophy from guest speaker Kayla Whitelock, former NZ Blacksticks captain."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>WHS student Emma Rainey receives her Senior Sportswomen of the Year trophy&nbsp;from guest speaker Kayla Whitelock, former NZ Blacksticks captain.</h4>

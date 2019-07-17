@@ -4,11 +4,12 @@ date:
 description: "The Metro lads, of which a large percent are former WHS players, packed a punch when beating Massey White 18-17 at Cooks Gardens on Saturday..."
 featured-image: 
 excerpt: "The Metro lads, of which a large percent are former WHS players, packed a punch when beating Massey White 18-17 at Cooks Gardens on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>The Metro lads, of which a large percent are former WHS players, packed a punch when beating Massey White 18-17 at Cooks Gardens on Saturday. <br />PHOTO / Bevan Conley</span></p>

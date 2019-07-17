@@ -4,11 +4,12 @@ date: 2019-04-01
 description: "Sitting 2nd overall in Group A, Whanganui's Ross Travers, & by extension his son Shane, who also competes in the Radioactive boat"
 featured-image: 
 excerpt: "Sitting second overall in Group A, Whanganui's Ross Travers, and by extension his son Shane, who also competes in the Radioactive boat"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/5gR1ZRoViAxMLC9WNGU_-ehML_g=/620x414/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/D3H74LJVCJELJLCAHIUXSO7REI.jpg" alt="Action from the Whanganui Jetsprints." /></p>

@@ -4,16 +4,17 @@ date: 2019-04-01
 description: "The Women's Shape class competitors pose at the NABBA Manawatu/Wanganui Champs, including Michaela Sullenberger..."
 featured-image: 
 excerpt: "The Women's Shape class competitors pose at the NABBA Manawatu/Wanganui Championships at War Memorial Centre on Saturday afternoon, including former WHS student Michaela Sullenberger, second from the right."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><img src="https://www.nzherald.co.nz/resizer/FVE8ExjhcL1t383EKvykquoTZxI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/MDTYIN64ENAM5PHF75G3V5KHSM.jpg" alt="The Women's Shape class competitors pose at the NABBA Manawatu/Wanganui Championships at War Memorial Centre on Saturday afternoon." /></span></p>
 <p><span>The Women's Shape class competitors pose at the NABBA Manawatu/Wanganui Championships at War Memorial Centre on Saturday afternoon, including former WHS student&nbsp;<span>Michaela Sullenberger, second from the right.<br /><em>PHOTO / Lewis Gardner</em></span></span></p>
-<p class="element element-paragraph">The numbers game caught up with Revitalise Natural Health &amp; Fitness Centre at the NABBA Manawatu/Wanganui Championships on Saturday night.</p>
+<p class="element element-paragraph"><br />The numbers game caught up with Revitalise Natural Health &amp; Fitness Centre at the NABBA Manawatu/Wanganui Championships on Saturday night.</p>
 <p class="element element-paragraph">Three clients from Revitalise represented the entirety of the local contingent from the 16 entrants, from which two entered both individually and as a mixed pair to add another category.</p>
 <p class="element element-paragraph">The prestigious Top Gym prize went to Human Movement Fitness Centre from Palmerston North, who brought over five competitors &ndash; the same number which Revitalise entered in 2018 when they finally won the title after six years of trying.</p>
 <p class="element element-paragraph">"Not happy, not happy. Oh well, next year," said trainer Audrey O'Keefe.</p>

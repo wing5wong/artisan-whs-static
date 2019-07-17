@@ -4,11 +4,12 @@ date:
 description: "SPEEDSTER: WHS student Elena Forlong is fourth fastest in the country in the 100m butterfly, Wanganui Chonicle article on 19/8/15..."
 featured-image: 
 excerpt: "SPEEDSTER: WHS student Elena Forlong is fourth fastest in the country in the 100m butterfly."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>SPEEDSTER: WHS student Elena Forlong is fourth fastest in the country in the 100m butterfly.</p>

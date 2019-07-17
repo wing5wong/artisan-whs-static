@@ -6,11 +6,12 @@ ETHAN MANCER & LILY CLAYPOLE..."
 featured-image: 
 excerpt: "Congratulations to our Whanganui High School 'Male and Female DUX ARTIUM' for 2018:
 ETHAN MANCER & LILY CLAYPOLE"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd2df0eff2a7c39a8000088/Dux-Artium-Female-Lily-Claypole.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd2def8ff2a7c39a8000086/Dux-Artium-Male-Ethan-Mancer.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd2dee2ff2a7c39a8000084/Principals-Cup-for-Excellence-in-the-Arts-Abbey-Hocquard.jpg"
+	 - image: "/uploads/5bd2e2e1ff2a7c39a800008e/Slide134.JPG"
+	 - image: "/uploads/5bd2e2d4ff2a7c39a800008c/Slide132.JPG"
 ---
 
 <h4>Congratulations to our Whanganui High School 'Male and Female DUX ARTIUM' for 2018:<br />ETHAN MANCER &amp; LILY CLAYPOLE</h4>

@@ -4,11 +4,12 @@ date: 2018-07-11
 description: "Both Tasman Tanning Premier Whanganui Rugby MVP's were former Whanganui High School students..."
 featured-image: 
 excerpt: "Both Tasman Tanning Premier Whanganui Rugby MVP's were former Whanganui High School students."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Both&nbsp;Tasman Tanning Premier Whanganui Rugby MVP's were former Whanganui High School students.</strong></p>

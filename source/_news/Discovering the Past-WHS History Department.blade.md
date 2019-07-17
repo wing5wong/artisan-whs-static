@@ -4,11 +4,12 @@ date:
 description: "WHS Level 1 History students have been looking at how we honour the past by looking at the many monuments of Whanganui..."
 featured-image: 
 excerpt: "Over the past 6 weeks the History Department at WHS has been extremely busy. The Level 1 students have been looking at how we honour the past by looking at the many monuments of Whanganui."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58db3900b8d39a417f0001e8/hanspand-monument-queens-park.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58db3f73b8d39a417f0001f8/rememberence-book-at-the-memorial-hall-(2).jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58db3f8ab8d39a417f0001fa/IMG_20170223_135630-(1).jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58dc491ab8d39a417f0002be/outside-the-cenotaph-L23.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/58dc4972b8d39a417f0002c0/laying-wreath-at-cenotaph-L23-students.jpg"
 ---
 
 <p><strong>Discovering the Past: WHS History Department</strong></p>

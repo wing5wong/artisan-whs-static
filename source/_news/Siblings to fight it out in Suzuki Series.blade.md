@@ -4,11 +4,12 @@ date: 2018-12-20
 description: "Siblings, Michael and Lucy Dowman, to fight it out in Suzuki Series..."
 featured-image: 
 excerpt: "Siblings, Michael and Lucy Dowman, to fight it out in Suzuki Series."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Siblings,&nbsp;<span>Michael and Lucy Dowman (past/present WHS students),</span> to fight it out in Suzuki Series.</span></p>

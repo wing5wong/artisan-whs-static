@@ -4,14 +4,16 @@ date: 2019-05-01
 description: "Meningitis fundraiser is Chloe's voice. Family raise $4000 in memory of her..."
 featured-image: 
 excerpt: "Meningitis fundraiser is Chloe's voice. Family raise $4000 in memory of her."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://www.nzherald.co.nz/resizer/QKP_xv4RE-lQgtJqu-6pd_0B23w=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/4MEXVULGBNFZPPMABZIPU34SMA.jpg" alt="Tarsha Boniface and her daughter Chloe who passed away last year. Photo / Supplied" /><br /><span>Tarsha Boniface and her daughter Chloe who passed away last year. <br /><em>Photo / Supplied</em></span></p>
+<p><img src="https://www.nzherald.co.nz/resizer/QKP_xv4RE-lQgtJqu-6pd_0B23w=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/4MEXVULGBNFZPPMABZIPU34SMA.jpg" alt="Tarsha Boniface and her daughter Chloe who passed away last year. Photo / Supplied" /></p>
+<p><span>Tarsha Boniface and her daughter Chloe who passed away last year. <br /><em>Photo / Supplied</em></span></p>
 <p class="element element-paragraph "><br />A month-long fundraising effort has come up with more than $4000 for the New Zealand Meningitis Foundation.</p>
 <p class="element element-paragraph ">The fundraiser was led by Tarsha and Ricky Boniface, whose daughter, Chloe Boniface, died from meningitis in November last year.</p>
 <p class="element element-paragraph ">Tarsha said it was one way the family could deal with the grief of losing Chloe, while also raising awareness and funds.</p>

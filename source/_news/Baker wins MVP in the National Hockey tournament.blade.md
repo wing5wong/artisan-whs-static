@@ -4,11 +4,12 @@ date:
 description: "Congratulations to WHS student Rebecca Baker who won MVP of the whole tournament!.."
 featured-image: 
 excerpt: "Congratulations to WHS student Rebecca Baker who won MVP of the whole tournament!"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Congratulations to Rebecca Baker who won MVP of the whole tournament!</h4>

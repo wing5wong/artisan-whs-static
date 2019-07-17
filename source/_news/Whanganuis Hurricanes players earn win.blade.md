@@ -4,11 +4,12 @@ date:
 description: "Former WHS students Dylan Bowater and Ethan Robinson get the points for team to beat Hawkes Bay Under 19..."
 featured-image: 
 excerpt: "The ten Whanganui members of the Hurricanes Heartland U20 team celebrate their win over Hawkes Bay U19 in Napier on Saturday. Former WHS students Dylan Bowater and Ethan Robinson get the points."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The ten Whanganui members of the Hurricanes Heartland Under 20 team celebrate their win over Hawkes Bay Under 19 in Napier on Saturday.</p>

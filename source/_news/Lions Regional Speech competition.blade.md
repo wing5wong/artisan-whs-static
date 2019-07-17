@@ -4,11 +4,12 @@ date: 2018-06-10
 description: "Congratulations to the WHS girls' who participated in the Lion's Regional Speech competition..."
 featured-image: 
 excerpt: "Congratulations to the WHS girls' who participated in the Lion's Regional Speech competition. L>R; WINNER Emelye Brown, Candice Clark & Arafia Khan who came third."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4>Congratulations to the Whanganui High School girls' who participated in the Lion's Regional Speech competition. L&gt;R; WINNER&nbsp;Emelye Brown, Candice Clark and Arafia Khan who came third.&nbsp;</h4>

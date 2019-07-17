@@ -4,11 +4,12 @@ date:
 description: "Familiar faces to perform for gallery, former student Liam Wooding and musical director of the recent WHS production 'Annie', from Wanganui Chronicle article on 23/5/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>A local soprano and pianist are teaming up for the latest concert in the Musicians For The Sarjeant series.</p>

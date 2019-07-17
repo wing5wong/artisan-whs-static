@@ -4,11 +4,12 @@ date: 2018-05-15
 description: "Lining up for the men's board shorts competition was former WHS student Joel Ashworth (second to right)..."
 featured-image: 
 excerpt: "Lining up for the men's board shorts competition was former WHS student Joel Ashworth (second to right)."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Lining up for the men's board shorts competition were, from left, Han Tran, Manish Pande, Shivain Sethi, <strong>Joel Ashworth</strong> (former student), and Sean Hoeflich.</span><br /><em>PHOTO / Lewis Gardner</em></p>

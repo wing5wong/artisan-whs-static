@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School Head Boy, Jack Southee said there was frustrations on the youth committee but it is moving in the right direction..."
 featured-image: 
 excerpt: "Whanganui High School Head Boy, Jack Southee said there was frustrations on the youth committee but it is moving in the right direction."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui High School Head Boy, Jack Southee said there was frustrations on the youth committee but it is moving in the right direction. <br />PHOTO / Bevan Conley</span></p>

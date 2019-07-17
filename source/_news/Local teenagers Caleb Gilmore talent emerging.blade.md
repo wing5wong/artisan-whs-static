@@ -4,15 +4,16 @@ date: 2019-04-04
 description: "Whanganui teenager Caleb Gilmore (27) leads the tight pack of Gixxer riders at Manfeild at the weekend..."
 featured-image: 
 excerpt: "Whanganui teenager Caleb Gilmore (27) leads the tight pack of Gixxer riders at Manfeild at the weekend with fellow Whanganui racer Cameron Goldfinch (28) in close pursuit."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><img src="https://www.nzherald.co.nz/resizer/ZFWUN4N1gxrhnS2XqxjwP0XGjcQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/Z362WOBACJAZXIJLLR6DAFP2AY.jpg" alt="Whanganui teenager Caleb Gilmore (27) leads the tight pack of Gixxer riders at Manfeild at the weekend with fellow Whanganui racer Cameron Goldfinch (28) in close pursuit. Photo / Andy McGechan, BikesportNZ.com" /></span></p>
-<p><span>Whanganui teenager <strong>Caleb Gilmore</strong> (27) leads the tight pack of Gixxer riders at Manfeild at the weekend with fellow Whanganui racer Cameron Goldfinch (28) in close pursuit. <br /><em>PHOTO / Andy McGechan, BikesportNZ.com</em></span></p>
+<p><span>Whanganui teenager <strong>Caleb Gilmore</strong> (27) leads the tight pack of Gixxer riders at Manfeild at the weekend with fellow Whanganui racer Cameron Goldfinch (28) in close pursuit. <br /><em>PHOTO / Andy McGechan, BikesportNZ.com<br /><br /></em></span></p>
 <h4 class="element element-paragraph">Whanganui teenager Caleb Gilmore is beginning to show signs of natural ability in a relatively short time after his podium finish in the Suzuki Gixxer 150 class at round four of the New Zealand Superbike Championships at Manfeild over the weekend.</h4>
 <p class="element element-paragraph">The 15-year-old Whanganui High School student has only been racing since October last year and finished second overall in the class after a close battle that came down to countback to determine the round winner.</p>
 <p class="element element-paragraph">The racing was so tight at Manfeild that Gilmore finished the weekend first equal, only losing out to Taupiri's Zak Fuller on the countback rule (with Fuller having placed better that Gilmore in the last of the three races), while riders in third and fourth overall, series leader Hamilton's Jesse Stroud (son of nine-time New Zealand champion superbike rider Andrew) and Greymouth's Clark and Fountain, also ended the weekend with identical points.</p>

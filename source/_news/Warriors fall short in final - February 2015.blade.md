@@ -4,11 +4,12 @@ date:
 description: "BACK TO BACK: Former WHS student Kyle Heibner receives the Spike Richardson Memorial Trophy as most outstanding driver of the weekend, from the Wanganui Chronicle article 10 Feb 2015..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>BACK TO BACK: &nbsp;Former WHS student Kyle Heibner receives the Spike Richardson Memorial Trophy as most outstanding driver of the weekend.</p>

@@ -4,11 +4,12 @@ date: 2018-05-26
 description: "Ethan Smith (left), Baz Muir & Dylan Thorby-Reid, of NLC, at Whanganui music video location Virginia Lake..."
 featured-image: 
 excerpt: "Ethan Smith, Baz Muir and Dylan Thorby-Reid, of NLC, at Whanganui music video location Virginia Lake."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Former Whanganui High School students' Ethan Smith (left), Baz Muir and Dylan Thorby-Reid, of NLC, at Whanganui music video location Virginia Lake. <br /><em>PHOTO / Stuart Munro</em></span></p>

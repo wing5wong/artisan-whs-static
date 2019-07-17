@@ -4,11 +4,12 @@ date:
 description: "Central led well by WHS student Jessica Watkin as Otago crumble, Wanganui Chronicle article on 19/12/15..."
 featured-image: 
 excerpt: "Central led well by WHS student Jessica Watkin as Otago crumble, Wanganui Chronicle article on 19/12/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Central led well by Watkin as Otago crumble.</strong></p>

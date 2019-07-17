@@ -4,11 +4,12 @@ date:
 description: "Halfback and former WHS student Cameron Davies was in great form for the Wanganui Under 20's in the Hurricanes Development Series, being named Player of the Tournament..."
 featured-image: 
 excerpt: "Halfback and former WHS student Cameron Davies was in great form for the Wanganui Under 20's in the Hurricanes Development Series, being named Player of the Tournament."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Halfback and former WHS student <strong>Cameron Davies</strong> was in great form for the Wanganui Under 20's in the Hurricanes Development Series, being named Player of the Tournament.<br />PHOTO / Merrilyn George</span></p>

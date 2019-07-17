@@ -4,11 +4,12 @@ date:
 description: "YOUNG GUN: Jessica Watkin was named the Central Hinds best young player in the Central District Player of the Year awards lists, from the Wanganui Chronicle article on 10/4/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>YOUNG GUN: Jessica Watkin was named the Central Hinds best young player in the Central District Player of the Year awards lists.</span></p>

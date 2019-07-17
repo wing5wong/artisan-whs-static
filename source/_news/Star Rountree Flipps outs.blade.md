@@ -4,14 +4,16 @@ date: 2019-05-01
 description: "Finn Lennox, Troy Bullock, Chase Williamson, Ajah Sullivan & Alex Luff Scott take time out at the 2019 NZ Jnr Motocross"
 featured-image: 
 excerpt: "Budding Whanganui motocross riders Finn Lennox, left, Troy Bullock, Chase Williamson, Ajah Sullivan and Alex Luff Scott take time out at the 2019 New Zealand Junior Motocross Championships at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://www.nzherald.co.nz/resizer/46OZb8DiGZFOQMVQKSHHiuNP_cM=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/RZQMVXRG6FFO3BQL52CGMOW2KY.jpg" alt="Budding Whanganui motocross riders Finn Lennox, left, Troy Bullock, Chase Williamson, Ajah Sullivan and Alex Luff Scott take time out at the 2019 New Zealand Junior Motocross Championships at the weekend." />Budding Whanganui motocross riders Finn Lennox, left, <strong>Troy Bullock</strong>, Chase Williamson, <strong>Ajah Sullivan and Alex Luff Scott</strong> take time out at the 2019 New Zealand Junior Motocross Championships at the weekend.<br /><em>Photo / Supplied</em></p>
+<p><img src="https://www.nzherald.co.nz/resizer/46OZb8DiGZFOQMVQKSHHiuNP_cM=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/RZQMVXRG6FFO3BQL52CGMOW2KY.jpg" alt="Budding Whanganui motocross riders Finn Lennox, left, Troy Bullock, Chase Williamson, Ajah Sullivan and Alex Luff Scott take time out at the 2019 New Zealand Junior Motocross Championships at the weekend." /></p>
+<p>Budding Whanganui motocross riders Finn Lennox, left, <strong>Troy Bullock</strong>, Chase Williamson, <strong>Ajah Sullivan and Alex Luff Scott</strong> take time out at the 2019 New Zealand Junior Motocross Championships at the weekend.<br /><em>Photo / Supplied</em></p>
 <p class="element element-paragraph "><br />Bad lucked dogged Whanganui rider <strong>James Rountree</strong> in his final test in national junior ranks at the New Zealand Motocross Championships near Foxton at the weekend.</p>
 <p class="element element-paragraph "><strong>Rountree</strong> was aiming for podium finishes in two classes in his final fling in the junior ranks and all was going well when he qualified fourth in both the 15-16 year 125cc and 14-16 year 250cc classes on what is colloquially known as Flipps track at Himatangi.</p>
 <p class="element element-paragraph "><span class="ellipsis">However, the teenager crashed in race one of his 125cc class damaging his ankle and ultimately ruling him out of contention for the rest of the championships.&nbsp;</span><span class="paywall">Rountree turns 17 in June, so moves up in grade for future competition.</span></p>

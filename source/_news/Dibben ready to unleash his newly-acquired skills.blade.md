@@ -4,11 +4,12 @@ date: 2019-01-08
 description: "Whanganui rider Richie Dibben is itching to get rolling in actual race time..."
 featured-image: 
 excerpt: "Whanganui rider Richie Dibben is itching to get rolling in actual race time."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui rider Richie Dibben is itching to get rolling in actual race time.</span><br /><em>Photo / Supplied</em></p>

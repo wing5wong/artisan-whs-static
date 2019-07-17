@@ -4,11 +4,12 @@ date:
 description: "WHS student/Wanganui Athletic's Blake Sherman, left, Majre Apiata-Cook and coach Symon King (not shown)are excited for their Central Football squad's games in Australia this coming week..."
 featured-image: 
 excerpt: "WHS student/Wanganui Athletic's Blake Sherman, left, Majre Apiata-Cook and coach Symon King (not shown)are excited for their Central Football squad's games in Australia this coming week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>SYDNEY BOUND: WHS student/Wanganui Athletic's&nbsp;Blake Sherman, left, Majre Apiata-Cook and coach Symon King (not shown)are excited for their Central Football squad's games in Australia this coming week.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "Wanganui High School students braved the wind and rain for a super-hero-themed fun run to raise funds for Hospice Wanganui yesterday, Wanganui Chronicle article on 13/6/15..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui High School students braved the wind and rain for a super-hero-themed fun run to raise funds for Hospice Wanganui yesterday.</p>

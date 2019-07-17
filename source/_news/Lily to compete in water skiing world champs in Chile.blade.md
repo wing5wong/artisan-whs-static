@@ -4,11 +4,12 @@ date:
 description: "WHS student Lily Meade to compete in water skiing world champs in Chile, River City Press article on 28/7/16..."
 featured-image: 
 excerpt: "WHS student Lily Meade to compete in water skiing world champs in Chile."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong><span>(PHOTO CREDIT - STEVE CAUDWELL)</span><br />WHS student Lily Meade to compete in water skiing world champs in Chile.</strong></p>

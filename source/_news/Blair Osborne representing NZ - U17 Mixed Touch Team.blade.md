@@ -4,11 +4,12 @@ date:
 description: "Well done to Blair Osborne who has just returned from the Gold Coast, Australia representing NZ in the U17 Mixed Touch Team."
 featured-image: 
 excerpt: "Well done to Blair Osborne who has just returned from the Gold Coast, Australia representing NZ in the U17 Mixed Touch Team."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><br /></span></p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui's Seth Readon claimed the Central Enduro Championship under 300cc class, but missed the overall series win by a whisker..."
 featured-image: 
 excerpt: "Whanganui's Seth Readon claimed the Central Enduro Championship under 300cc class, but missed the overall series win by a whisker."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui's Seth Readon (former WHS student) claimed the Central Enduro Championship under 300cc class, but missed the overall series win by a whisker.</strong></p>

@@ -4,11 +4,12 @@ date:
 description: "Former WHS student Emma Carroll was spending a few days in her home city before she jets off to a student exchange at Nanyang Technological University in Singapore, Wanganui Chronicle article 29/12/16"
 featured-image: 
 excerpt: "Former WHS student Emma Carroll was spending a few days in her home city before she jets off to a student exchange at Nanyang Technological University in Singapore."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Former WHS student&nbsp;<span>Emma Carroll enjoys the view from Durie Hill in Whanganui before departing for Singapore next week.<br />PHOTO: Lewis Gardiner.&nbsp;</span></p>

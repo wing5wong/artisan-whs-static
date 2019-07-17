@@ -4,11 +4,12 @@ date:
 description: "She may have left Whanganui High School with no qualifications, but Renae Flett was judged Manawatu's top dairy manager this year, Wanganui Chronicle article on 26/5/16..."
 featured-image: 
 excerpt: "She may have left Whanganui High School with no qualifications, but Renae Flett was judged Manawatu's top dairy manager this year, Wanganui Chronicle article on 26/5/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><br /></span></p>

@@ -4,11 +4,12 @@ date:
 description: "NAME FOR THE FUTURE: Former WHS student Martin Atkinson wore the NZ Futures Under-23 colours proudly in Canberra, Wanganui Chronicle article on 7/12/15..."
 featured-image: 
 excerpt: "NAME FOR THE FUTURE: Former WHS student Martin Atkinson wore the NZ Futures Under-23 colours proudly in Canberra."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>NAME FOR THE FUTURE: &nbsp;Former WHS student Martin Atkinson wore the NZ Futures Under-23 colours proudly in Canberra.</span></p>

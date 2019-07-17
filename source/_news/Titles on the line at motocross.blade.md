@@ -4,11 +4,12 @@ date:
 description: "WHS student Jaxon Watt, of Wanganui Balance Accountants Junior Motocross Academy, is running first overall for the 12-16 year 85cc class leading..."
 featured-image: 
 excerpt: "WHS student Jaxon Watt, of Wanganui Balance Accountants Junior Motocross Academy, is running first overall for the 12-16 year 85cc class leading into the fifth and final round of the Winter Series tomorrow."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FRONT RUNNER: WHS student Jaxon Watt, of Wanganui Balance Accountants Junior Motocross Academy, is running first overall for the 12-16 year 85cc class leading into the fifth and final round of the Winter Series tomorrow.</span></p>

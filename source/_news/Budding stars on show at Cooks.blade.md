@@ -4,11 +4,12 @@ date:
 description: "Promising track runner Paris Munro proved she was also a dab hand at high jumping during the Whanganui High School Junior Track and Field Championships at Cooks Gardens yesterday..."
 featured-image: 
 excerpt: "Promising track runner Paris Munro proved she was also a dab hand at high jumping during the Whanganui High School Junior Track and Field Championships at Cooks Gardens yesterday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>MULTI TALENTED: Promising track runner Paris Munro proved she was also a dab hand at high jumping during the Whanganui High School Junior Track and Field Championships at Cooks Gardens yesterday.</span></p>

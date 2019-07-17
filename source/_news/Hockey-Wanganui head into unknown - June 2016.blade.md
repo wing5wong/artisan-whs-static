@@ -4,11 +4,12 @@ date:
 description: "ONE TO WATCH: WHS student Rebecca Baker continues to stand out for the combined Wanganui team in the Manawatu Division 2 competition, Wanganui Chronicle article on 14/6/16..."
 featured-image: 
 excerpt: "ONE TO WATCH: WHS student Rebecca Baker continues to stand out for the combined Wanganui team in the Manawatu Division 2 competition."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>ONE TO WATCH: WHS student Rebecca Baker continues to stand out for the combined Wanganui team in the Manawatu Division 2 competition.</p>

@@ -4,11 +4,12 @@ date:
 description: "FINAL STEP: Admitted to the bar on Thursday were Petra Allan (former WHS student), left, Nicole Slight (former WHS student), Caroline McHardy, Nick Robertson (former WHS student) & Sophie Nevill..."
 featured-image: 
 excerpt: "FINAL STEP: Admitted to the bar on Thursday were Petra Allan (former WHS student), left, Nicole Slight (former WHS student), Caroline McHardy, Nick Robertson (former WHS student) & Sophie Nevill..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>FINAL STEP: Admitted to the bar on Thursday were <strong>Petra Allan</strong> (former WHS student), left, <strong>Nicole Slight</strong> <span>(former WHS student)</span>, Caroline McHardy, <strong>Nick Robertson</strong><span>&nbsp;(former WHS student)</span>. and Sophie Nevill (front).</span></p>

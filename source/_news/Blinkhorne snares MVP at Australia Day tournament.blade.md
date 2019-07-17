@@ -4,11 +4,12 @@ date: 2019-01-30
 description: "Whanganui roller hockey talent Jimi Blinkhorne (centre), playing for Mordialloc, shares the MVP title with two from..."
 featured-image: 
 excerpt: "Whanganui roller hockey talent Jimi Blinkhorne (centre), playing for Mordialloc, shares the MVP title with two from..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>Whanganui roller hockey talent and former WHS student, Jimi Blinkhorne (centre), playing for Mordialloc, shares the MVP title with two from Northsports' runner-up side in the under-20 grade at the Australia Day Cup tournament in Melbourne.</strong><br /><em>Photo / Supplied</em></p>

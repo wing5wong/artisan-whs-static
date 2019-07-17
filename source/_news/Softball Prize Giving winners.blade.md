@@ -4,11 +4,12 @@ date:
 description: "Congratulations to Leighton Kotuhi-Brown & Shanice Campbell that Represented Manawatu at the U17 Girls Nationals..."
 featured-image: 
 excerpt: "Congratulations to our two WHS players Leighton Kotuhi-Brown & Shanice Campbell that Represented Manawatu at the Under 17 Girls Nationals held in Palmerston North in January 2017."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Photo: &nbsp;<span>Shanice Campbell (left) &amp;&nbsp;<span>Leighton Kotuhi-Brown.</span></span></p>

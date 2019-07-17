@@ -4,11 +4,12 @@ date:
 description: "Thomas Conder (left) and WHS student Liam Jones racing together alongside Kowhai Park during the Gavin Collins Half Marathon on Saturday..."
 featured-image: 
 excerpt: "Thomas Conder (left) and WHS student Liam Jones racing together alongside Kowhai Park during the Gavin Collins Half Marathon on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Thomas Conder (left) and <strong>WHS student Liam Jones</strong> racing together alongside Kowhai Park during the Gavin Collins Half Marathon on Saturday. <br />PHOTO / Tanysha-Rochelle Jones</span></p>

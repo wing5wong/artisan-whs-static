@@ -4,11 +4,12 @@ date:
 description: "The Cancer Society's Survivors' Lap on Saturday was an emotional one for Whanganui's Chiet family..."
 featured-image: 
 excerpt: "The Cancer Society's Survivors' Lap on Saturday was an emotional one for Whanganui's Chiet family."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Cancer Society's Survivors' Lap on Saturday was an emotional one for Whanganui's Chiet family.</p>

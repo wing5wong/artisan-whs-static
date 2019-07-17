@@ -4,11 +4,12 @@ date: 2018-02-22
 description: "The Mitre 10 Mega Wanganui Future Champions Trust funding round is now open..."
 featured-image: 
 excerpt: "The Mitre 10 Mega Wanganui Future Champions Trust funding round is now open and the Trust is welcoming applications."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Left to right: Philippa Baker-Hogan, Sera Raj (accepting funding on behalf of her sister Tara Raj), Liam Back,<strong> Jordan Cohen,</strong> Genna Maples. (Absent is <strong>Fergus Smith</strong>).</span></p>

@@ -4,11 +4,12 @@ date:
 description: "All former WHS students; Alexandra James, Rebecca Todd, Rebekah O'Leary and Elena Morgan are the latest recipients of the Wynne Costley study awards, Wanganui Midweek article 30/3/16..."
 featured-image: 
 excerpt: "All former WHS students; Alexandra James, Rebecca Todd, Rebekah O'Leary and Elena Morgan are the latest recipients of the Wynne Costley study awards, Wanganui Midweek article 30/3/16..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

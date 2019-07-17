@@ -1,14 +1,15 @@
 ---
 title: "Snow Skiing 2017"
 date: 
-description: "Whanganui High School took two team up to this yearâ€™s North Island Ski Champs, held on Turoa Ski Field from 17 to 20 of September..."
+description: "Whanganui High School took two team up to this year’s North Island Ski Champs, held on Turoa Ski Field from 17 to 20 of September..."
 featured-image: 
-excerpt: "Whanganui High School took two team up to this yearâ€™s North Island Ski Champs, held on Turoa Ski Field from 17 to 20 of September."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "Whanganui High School took two team up to this year’s North Island Ski Champs, held on Turoa Ski Field from 17 to 20 of September."
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86a16b8d39a19170001d8/group-no-2-shot.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86a2db8d39a19170001dc/mountain-shot-2.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86a26b8d39a19170001da/mountain-shot.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c86a03b8d39a19170001d6/group-moving-shot.jpg"
+	
 ---
 
 <p><strong>Snow Skiing 2017</strong></p>

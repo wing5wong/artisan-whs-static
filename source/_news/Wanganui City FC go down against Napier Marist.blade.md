@@ -4,16 +4,17 @@ date: 2019-04-16
 description: "Anthony Bell was able to get on the score sheet, but Wanganui City FC missed out on the points when losing 3-2 to Napier...."
 featured-image: 
 excerpt: "Anthony Bell was able to get on the score sheet, but Versatile Wanganui City FC missed out on the points when losing 3-2 to Napier Marist."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/YjezGFV4DPXuBVOMqXluGQxcgcU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/N2NM35NEPJFUROV7G3GHQQBEII.jpg" alt="Anthony Bell was able to get on the score sheet, but Versatile Wanganui City FC missed out on the points when losing 3-2 to Napier Marist on Sunday. Photo / Bevan Conley " /></p>
-<p><br /><span>Former WHS student Anthony Bell was able to get on the score sheet, but Versatile Wanganui City FC missed out on the points when losing 3-2 to Napier Marist on Sunday. <br /><em>PHOTO / Bevan Conley</em></span></p>
-<p class="element element-paragraph">It was 1-1 at halftime, but when the fulltime whistle blew in Napier on Sunday, Napier Marist celebrated a victory over Versatile Wanganui City FC in the Federation League.</p>
+<p><span>Former WHS student Anthony Bell was able to get on the score sheet, but Versatile Wanganui City FC missed out on the points when losing 3-2 to Napier Marist on Sunday. <br /><em>PHOTO / Bevan Conley</em></span></p>
+<p class="element element-paragraph"><br />It was 1-1 at halftime, but when the fulltime whistle blew in Napier on Sunday, Napier Marist celebrated a victory over Versatile Wanganui City FC in the Federation League.</p>
 <p class="element element-paragraph">Marist scored two second half goals to City's one, claiming all three competition points in a narrow 3-2 win, leaving them in sixth position in the standings.</p>
 <p class="element element-paragraph">The loss means City are yet to taste success two weeks into the season, having played out a 0-0 draw against GJ Gardner Homes Wanganui Athletic in week one.</p>
 <p class="element element-paragraph">City player/coach Anthony Bell said it is always a tough ask to make the three-plus hour drive to Napier and come away with a win.</p>

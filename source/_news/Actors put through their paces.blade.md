@@ -4,11 +4,12 @@ date:
 description: "AUDITIONS: This photo highlights the fun and group spirit that exists with Colin Hedivan's directing style, Wanganui Midweek article on 5 October..."
 featured-image: 
 excerpt: "AUDITIONS: This photo highlights the fun and group spirit that exists with Colin Hedivan's directing style."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>AUDITIONS: This photo highlights the fun and group spirit that exists with Colin Hedivan's directing style.<br /><span>PHOTO courtesy of Karen Wrigglesworth</span>&nbsp;</span></p>

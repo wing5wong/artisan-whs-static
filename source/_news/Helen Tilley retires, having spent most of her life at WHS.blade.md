@@ -4,11 +4,12 @@ date:
 description: "Helen Tilley retires, having spent most of her life at Whanganui High School..."
 featured-image: 
 excerpt: "Helen Tilley retires, having spent most of her life at Whanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="BasicParagraph"><span class="CharacterStyle1"><span lang="EN-GB">Helen Tilley went to Whanganui High School as a student, returned as a teacher of Geography in 1969, &lsquo;retired&rsquo; in 2005, came back to supervise senior students either studying or doing external courses but is now really retiring. She hasn&rsquo;t added up the number of students she has taught but it would be in multiples of thousands.</span></span></p>

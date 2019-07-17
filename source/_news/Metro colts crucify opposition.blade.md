@@ -4,11 +4,12 @@ date:
 description: "Metro's Brayden Maua (former WHS student last year) is taken to ground during his side's 91-7 thrashing of Fielding Old Boys' Oroua at Spriggens Park on Good Friday..."
 featured-image: 
 excerpt: "Metro's Brayden Maua (former WHS student last year) is taken to ground during his side's 91-7 thrashing of Fielding Old Boys' Oroua at Spriggens Park on Good Friday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>GROUNDED: Metro's Brayden Maua (former WHS student last year) is taken to ground during his side's 91-7 thrashing of Fielding Old Boys' Oroua at Spriggens Park on Good Friday.<br />PHOTO: Stuart Munro.&nbsp;</p>

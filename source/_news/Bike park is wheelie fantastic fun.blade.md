@@ -4,11 +4,12 @@ date: 2018-12-17
 description: "Lochlan Watson, 14, pulls a scooter trick on the senior track at the official opening of the Whanganui Community Bike Park..."
 featured-image: 
 excerpt: "Lochlan Watson, 14, pulls a scooter trick on the senior track at the official opening of the Whanganui Community Bike Park on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>WHS student Lochlan Watson pulls a scooter trick on the senior track at the official opening of the Whanganui Community Bike Park on Saturday.</span><br /><em>PHOTO / Stuart Munro</em></p>

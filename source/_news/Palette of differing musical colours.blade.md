@@ -4,11 +4,12 @@ date:
 description: "Former Whanganui High School students Elena Morgan and Max Munneke back in town for a concert..."
 featured-image: 
 excerpt: "Former Whanganui High School students Elena Morgan and Max Munneke back in town for a concert."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p class="element element-paragraph"><strong>Former Whanganui High School students&nbsp;Elena Morgan and&nbsp;Max Munneke back in town for a concert.</strong></p>

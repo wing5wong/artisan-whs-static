@@ -4,11 +4,12 @@ date:
 description: "Click the heading to read about Millie Manning's success in gymnastics from the Wanganui Chronicle article 20 Nov 2014..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui teenager Millie Manning was unfazed by the heat of competition at the Singapore Prime Invitational gymnastics event this month.</p>

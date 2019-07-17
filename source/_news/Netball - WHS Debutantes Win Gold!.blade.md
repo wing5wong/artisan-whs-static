@@ -4,14 +4,16 @@ date: 2019-05-01
 description: "WHS Gold team, went through unbeaten to win the U18 title on debut at International Netball Festival Gold Coast in Australia..."
 featured-image: 
 excerpt: "The WHS Gold team, flanked by co-coaches Lisa Murphy (left) & Kim Flower, went through unbeaten to win the U18 title on debut at the International Netball Festival Gold Coast in Australia last week."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://www.nzherald.co.nz/resizer/Q-xMNRofVJvlPTCTDlbZJz8j8k0=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/G7QL56INFVAVZOPXWKW2SXJ7SU.jpg" alt="The Whanganui High School Gold team, flanked by co-coaches Lisa Murphy (left) and Kim Flower, went through unbeaten to win the U18 title on debut at the International Netball Festival Gold Coast in Australia last week." /><br /><span><strong>The Whanganui High School Gold team, flanked by co-coaches Lisa Murphy (left) and Kim Flower, went through unbeaten to win the U18 title on debut at the International Netball Festival Gold Coast in Australia last week.</strong><br /><em>Photo / Supplied<br /><br /></em></span></p>
+<p><img src="https://www.nzherald.co.nz/resizer/Q-xMNRofVJvlPTCTDlbZJz8j8k0=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/G7QL56INFVAVZOPXWKW2SXJ7SU.jpg" alt="The Whanganui High School Gold team, flanked by co-coaches Lisa Murphy (left) and Kim Flower, went through unbeaten to win the U18 title on debut at the International Netball Festival Gold Coast in Australia last week." /></p>
+<p><span><strong>The Whanganui High School Gold team, flanked by co-coaches Lisa Murphy (left) and Kim Flower, went through unbeaten to win the U18 title on debut at the International Netball Festival Gold Coast in Australia last week.</strong><br /><em>Photo / Supplied<br /><br /></em></span></p>
 <h3 class="element element-paragraph ">Whanganui High School dominated the under-18 section of the annual International Netball Festival Gold Coast going through the tournament unbeaten.</h3>
 <p class="element element-paragraph ">On debut at the age group tournament, WHS sent two teams to compete in the under-8 division - WHS Gold and WHS Green - purely as a development exercise to blood young players at high level. The age group tournament is open to under-13, under-15 and under-18 teams.</p>
 <p class="element element-paragraph ">The tournament featured 12 teams in the under-18 grade, including six from Australia, one from Fiji and five from New Zealand.</p>

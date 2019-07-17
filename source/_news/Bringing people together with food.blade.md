@@ -4,11 +4,12 @@ date:
 description: "Former Whanganui High School student Erin Stone is now a top chef in Canada..."
 featured-image: 
 excerpt: "Former Whanganui High School student Erin Stone is now a top chef in Canada."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span><strong>Former Whanganui High School student Erin Stone is now a top chef in Canada.</strong> PHOTO/EMMA RUSSELL</span></p>

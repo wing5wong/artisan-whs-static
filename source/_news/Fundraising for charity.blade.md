@@ -4,11 +4,12 @@ date: 2018-06-06
 description: "Tutor Rosie Rendell with students Azaria and Mariaan with their home baking..."
 featured-image: 
 excerpt: "Tutor Rosie Rendell with students Azaria and Mariaan with their home baking."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Tutor Rosie Rendell (left - ex WHS student) with students Azaria (<span>ex WHS student)</span> and Mariaan with their home baking.</span><br /><em>PHOTO / Paul Brooks</em></p>

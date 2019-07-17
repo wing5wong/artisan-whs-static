@@ -4,11 +4,12 @@ date:
 description: "Quick Time: Laura O'Keeffe finished second in the New Zealand open water swim champs 16 and 17 year-olds 10km race, from the Wanganui Chronicle article 16 Jan 2015...."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>QUICK TIME: &nbsp;Laura O'Keeffe finished second in the New Zealand open water swim champs 16 and 17 year-olds 10km race.</p>

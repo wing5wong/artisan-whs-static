@@ -4,11 +4,12 @@ date:
 description: "GREAT SHOT: WHS student Bradley McDowell won the young gun national Cowboy Action Shooting title, Wanganui Chronicle article on 23/11/15..."
 featured-image: 
 excerpt: "GREAT SHOT: WHS student Bradley McDowell won the young gun national Cowboy Action Shooting title, Wanganui Chronicle article on 23/11/15..."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>GREAT SHOT: WHS student Bradley McDowell won the young gun national Cowboy Action Shooting title.</p>

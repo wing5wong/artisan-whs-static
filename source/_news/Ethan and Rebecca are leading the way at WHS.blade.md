@@ -4,11 +4,12 @@ date: 2019-02-21
 description: "Head boy Ethan Cohen and head girl Rebecca Baker are leading the way for the future of young students at WHS..."
 featured-image: 
 excerpt: "Head boy Ethan Cohen and head girl Rebecca Baker are leading the way for the future of young students at Whanganui High School."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span>Head boy Ethan Cohen and head girl Rebecca Baker are leading the way for the future of young students at Whanganui High School. <br /><em></em></span></h4>

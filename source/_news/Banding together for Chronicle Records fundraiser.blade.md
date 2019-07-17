@@ -4,11 +4,12 @@ date: 2019-02-01
 description: "Whanganui rock band Kessel will be joined by Pull Down the Sun and The Mean Owls to raise funds for Chronicle Records..."
 featured-image: 
 excerpt: "Whanganui rock band Kessel will be joined by Pull Down the Sun and The Mean Owls to raise funds for Chronicle Records."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>Whanganui rock band Kessel (WHS old boys) will be joined by Pull Down the Sun and The Mean Owls to raise funds for Chronicle Records. <br /><em>Photo / Supplied</em></span></p>

@@ -4,11 +4,12 @@ date:
 description: "Ambrose O'Rourke and WHS student Scott Gray (right) proudly displaying the first new Anschutz .22 smallbore target rifle which was jointly funded by Whanganui Community Foundation and Pub Charity."
 featured-image: 
 excerpt: "Ambrose O'Rourke and WHS student Scott Gray (right) proudly displaying the first new Anschutz .22 smallbore target rifle which was jointly funded by Whanganui Community Foundation and Pub Charity."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>&nbsp;</p>

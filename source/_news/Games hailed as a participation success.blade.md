@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School students, Feyth Hogan & Heavenlee Larkin in action at the Laird Park courts on Thursday as part of the inaugural Whanganui Youth Games that wrapped up yesterday afternoon..."
 featured-image: 
 excerpt: "Whanganui High School students, Feyth Hogan & Heavenlee Larkin in action at the Laird Park courts on Thursday as part of the inaugural Whanganui Youth Games that wrapped up yesterday afternoon."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/593de2e3b8d39a0f850005f2/gold-medal-for-Jun-A1.gif"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5939fc29b8d39a0f85000498/Blake-Sherman-gold.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/593f5008b8d39a0f8500074d/chron-of-boy-with-ball.jpg"
+	
+	
 ---
 
 <p><span>FULL EXTENSION: Whanganui High School students, Feyth Hogan and Heavenlee Larkin in action at the Laird Park courts on Thursday.<br />Photo: Supplied.</span></p>

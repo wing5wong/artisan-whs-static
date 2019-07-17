@@ -4,11 +4,12 @@ date: 2018-02-21
 description: "Whanganui skater Renee Teers winning the Open Women's 15km Elimination at the Banked Track Nationals in Hamilton..."
 featured-image: 
 excerpt: "Whanganui skater Renee Teers winning the Open Women's 15km Elimination at the Banked Track Nationals in Hamilton."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>OPEN COMPANY: Whanganui skater Renee Teers winning the Open Women's 15km Elimination at the Banked Track Nationals in Hamilton.<br /></strong><em>PHOTO / Supplied</em></p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui High School student Leila Collinson was the fourth sister to complete the Spirit of Adventure voyage..."
 featured-image: 
 excerpt: "Whanganui High School student Leila Collinson was the fourth sister to complete the Spirit of Adventure voyage."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a2461cfb8d39a11de000135/Leila-Collinson.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a2461ecb8d39a11de000139/Zara-Collinson.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a2461b5b8d39a11de000133/Aysha-Collinson.jpg"
+	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a2461e0b8d39a11de000137/Sophia-Collinson.jpg"
+	
 ---
 
 <p><span><strong>Whanganui High School student Leila Collinson was the fourth sister to complete the Spirit of Adventure voyage.</strong> <br />Photos' / supplied</span></p>

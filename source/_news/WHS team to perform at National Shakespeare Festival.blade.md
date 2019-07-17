@@ -1,14 +1,15 @@
 ---
 title: "WHS team to perform at National Shakespeare Festival"
 date: 2018-05-24
-description: "A team of four year 11 students from WHS will be performing at the Shakespeareâ€™s Globe Centre NZ (SGCNZ) festival..."
+description: "A team of four year 11 students from WHS will be performing at the Shakespeare’s Globe Centre NZ (SGCNZ) festival..."
 featured-image: 
-excerpt: "A team of four year 11 students from WHS will be performing at the Shakespeareâ€™s Globe Centre NZ (SGCNZ) festival in Wellington."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+excerpt: "A team of four year 11 students from WHS will be performing at the Shakespeare’s Globe Centre NZ (SGCNZ) festival in Wellington."
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><em>Photo: </em>Lachlan Baxter (left) and&nbsp;Jayden Grant.&nbsp;</p>

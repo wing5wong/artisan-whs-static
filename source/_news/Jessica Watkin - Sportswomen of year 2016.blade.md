@@ -4,11 +4,12 @@ date:
 description: "ALL ROUNDER: Whanganui High School's Jessica Watkin strides on the national cricket stage won her the Secondary School Sportswomen of the Year title last night, Wednesday 26 October 2016..."
 featured-image: 
 excerpt: "ALL ROUNDER: Whanganui High School's Jessica Watkin strides on the national cricket stage won her the Secondary School Sportswomen of the Year title last night."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><strong>ALL ROUNDER: Whanganui High School's Jessica Watkin strides on the national cricket stage won her the Secondary School Sportswomen of the Year title last night.</strong></h3>

@@ -4,11 +4,12 @@ date: 2018-11-19
 description: "Rebecca Baker speaks after being named National Junior Sportsperson of the Year..."
 featured-image: 
 excerpt: "Rebecca Baker speaks after being named National Junior Sportsperson of the Year."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><span>Rebecca Baker speaks after being named National Junior Sportsperson of the Year!!</span></h3>

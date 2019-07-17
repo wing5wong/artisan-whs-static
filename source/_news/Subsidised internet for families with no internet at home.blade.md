@@ -4,14 +4,16 @@ date: 2019-04-25
 description: "From left: Kat Schroyens, Jordan Rees holding a JUMP modem & Stephen Hormann with Alistair Fraser..."
 featured-image: 
 excerpt: "Whanganui Library staff, from left: Kat Schroyens, Jordan Rees holding a JUMP modem & Stephen Hormann with Alistair Fraser the Whanganui JUMP Ambassador."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
-<p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/57611858_2236409263064726_5002753837384073216_n.jpg?_nc_cat=103&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=5ac07e28dbecbaa15acac54fad0f82ca&amp;oe=5D72C637" alt="" /><br /><span>Whanganui Library staff, from left: Kat Schroyens,&nbsp;</span><strong>Jordan Rees&nbsp;</strong><span>(ex WHS student)&nbsp;holding a JUMP modem and Stephen Hormann with Alistair Fraser the Whanganui JUMP Ambassador.</span></p>
+<p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/57611858_2236409263064726_5002753837384073216_n.jpg?_nc_cat=103&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=5ac07e28dbecbaa15acac54fad0f82ca&amp;oe=5D72C637" alt="" /></p>
+<p><span>Whanganui Library staff, from left: Kat Schroyens,&nbsp;</span><strong>Jordan Rees&nbsp;</strong><span>(ex WHS student)&nbsp;holding a JUMP modem and Stephen Hormann with Alistair Fraser the Whanganui JUMP Ambassador.</span></p>
 <p><br />Families with children up to 18 years old and with no current broadband connection at home are eligible to participate in the JUMP programme.&nbsp;</p>
 <p>JUMP is a not for profit and community driven programme which enables more children to go online outside of classroom hours and get on the right side of the digital divide. As classroom learning goes digital, students without broadband at home are at risk of being left behind.&nbsp;<span class="text_exposed_show"><br /></span></p>
 <p><span class="text_exposed_show">JUMP provides a low-cost and easy plug-in-and-go solution for families with a free modem preloaded with 30GB. Top up vouchers are only $10 for 30GB and are available from supermarkets and service stations. This prepaid and contract-free service uses the Skinny network and provides &ldquo;wireless&rdquo; home broadband via a 4G mobile signal - thus no landline is required.<br /></span></p>

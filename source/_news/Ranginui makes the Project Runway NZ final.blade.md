@@ -4,11 +4,12 @@ date: 2018-12-12
 description: "Whanganui contestant Kerry Ranginui has made the final of Project Runway..."
 featured-image: 
 excerpt: "Whanganui contestant Kerry Ranginui has made the final of Project Runway."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h4><span>Whanganui contestant Kerry Ranginui has made the final of Project Runway!</span></h4>

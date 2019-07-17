@@ -4,11 +4,12 @@ date:
 description: "DOMINANT: WHS hooker Hamish Broadhead lines up a throw during his team's total domination of Te Kawau on Saturday, from Wanganui Chronicle article on 22/7/15..."
 featured-image: 
 excerpt: "DOMINANT: WHS hooker Hamish Broadhead lines up a throw during his team's total domination of Te Kawau on Saturday."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>DOMINANT: WHS hooker Hamish Broadhead lines up a throw during his team's total domination of Te Kawau on Saturday.</p>

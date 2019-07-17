@@ -4,11 +4,12 @@ date:
 description: "The Drones win talent competition. Three of the four members in the band are former WHS students; left to right, Adam Robinson, Isaac Chamberlain, Ethan Coleman and other member Andrew Condon..."
 featured-image: 
 excerpt: "The Drones win talent competition. Three of the four members in the band are former WHS students; left to right, Adam Robinson, Isaac Chamberlain, Ethan Coleman and other member Andrew Condon."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The Drones win talent competition. Three of the four members in the band are former WHS students; left to right, Adam Robinson, Isaac Chamberlain, Ethan Coleman and other member Andrew Condon.</p>

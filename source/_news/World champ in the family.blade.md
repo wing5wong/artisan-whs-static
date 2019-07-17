@@ -4,11 +4,12 @@ date:
 description: "Whanganui parents Sandra and Eddie Tofa are massively proud to welcome women's world rugby cup winning daughter Sosoli Talawandua..."
 featured-image: 
 excerpt: "Whanganui parents Sandra and Eddie Tofa are massively proud to welcome women's world rugby cup winning daughter Sosoli Talawandua (former WHS student) home from Belfast."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <h3><span><strong>Whanganui parents Sandra and Eddie Tofa are massively proud to welcome women's world rugby cup winning daughter Sosoli Talawandua (former WHS student) home from Belfast.</strong></span></h3>

@@ -4,11 +4,12 @@ date:
 description: "WHS student Vincent Collins has received a contribution from the Ruapehu-Manawatu Districts Masonic Youth Trust, represented by secretary Colin Johnson (right). The picture is of the Globe Theatre."
 featured-image: 
 excerpt: "WHS student Vincent Collins has received a contribution from the Ruapehu-Manawatu Districts Masonic Youth Trust, represented by secretary Colin Johnson."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><span>GLOBE TROTTING: WHS student Vincent Collins has received a contribution from the Ruapehu-Manawatu Districts Masonic Youth Trust, represented by secretary Colin Johnson (right). The picture is of the Globe Theatre. <br />PICTURE: Paul Brooks</span></p>

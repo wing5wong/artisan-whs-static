@@ -4,11 +4,12 @@ date:
 description: "Print maker and WHS teacher, Graham Hall is putting together 20 metre wood cut print of the Whanganui River, Wanganui Chronicle article on 12/9/16..."
 featured-image: 
 excerpt: "Print maker and WHS teacher, Graham Hall is putting together 20 metre wood cut print of the Whanganui River."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Print maker and WHS teacher, Graham Hall is putting together 20 metre wood cut print of the Whanganui River.</p>

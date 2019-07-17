@@ -4,11 +4,12 @@ date:
 description: "Click heading to read about how Taliah Su'a is achieving on a world scale with the help of an online language tool, from the Wanganui Chronicle 17th Nov 2014...."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>Wanganui High School student Taliah Su'a has achieved a score of 52,000 points for Spanish learning on Language Perfect, an online study platform.</p>

@@ -4,11 +4,12 @@ date:
 description: "Whanganui paddlers (from left) Matt Foster (Katie's Dad), Ben Foster (WHS), Liam Lace (WHS), Katie Foster (WHS), Cambell Tanner (WHS), Brian Scott, Erica Tanner (former WHS), Anna & Jack Clifton (WHS)"
 featured-image: 
 excerpt: "PADDLE POWER:  Whanganui paddlers (from left) Matt Foster (Katie's Dad), Ben Foster (WHS), Liam Lace (WHS), Katie Foster (WHS), Cambell Tanner (WHS), Brian Scott, Erica Tanner (former WHS), Anna Clifton and Jack Clifton (WHS) were stars of the National 10km Championships in Rotorua at the weekend."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p><strong>PADDLE POWER: &nbsp;Whanganui paddlers (from left) Matt Foster (Katie's Dad), Ben Foster (WHS), Liam Lace (WHS), Katie Foster (WHS), Cambell Tanner (WHS), Brian Scott, Erica Tanner (former WHS), Anna Clifton and Jack Clifton (WHS) were stars of the <span style="line-height: 1.5;">National 10km Championships in Rotorua at the weekend.</span></strong></p>

@@ -4,11 +4,12 @@ date:
 description: "The 2015 pro tour has started on a positive note for Wanganui expat Nick Gillespie and former WHS student, Wanganui Chronicle article 10 Feb 2015..."
 featured-image: 
 excerpt: ""
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+image_gallery:
+	
+	
+	
+	
+	
 ---
 
 <p>The 2015 pro tour has started on a positive note for Wanganui expat Nick Gillespie and former WHS student.</p>
