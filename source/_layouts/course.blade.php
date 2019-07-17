@@ -125,7 +125,7 @@ $subjectAreaCourses = $courses->filter(function($c) use ($page){
 <ul>
 @foreach($subjectAreaCourses as $c)
 <li>
-    <a href="{{$c->getPath()}}">[{{ $c->title }}] {{ $course->name }} ({{$course->course_level}})</a>
+    <a href="{{$c->getPath()}}">{{ $c->name }} ({{$c->course_level}})</a>
 </li>
 @endforeach
 </ul>
