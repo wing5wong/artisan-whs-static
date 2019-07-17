@@ -8,10 +8,16 @@
     {{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}}
     @if ($page->image)
     <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
-    <img src="{{ $page->image }}"  style="object-fit: cover; max-width:100%">
+    <img src="{{ $page->image }}"  style="object-fit: cover; max-width:100%; display: block;">
     @endif
     
     @yield('postContent')
+
+    @if(is_array($page->image_gallery))
+        @foreach($page->image_gallery as $image)
+            <img src="{{$image->image}}" alt="{{$image->description}}" title="{{$image->title}}">
+        @endforeach
+    @endif
 
  
     @include('_partials.lastReviewed')
