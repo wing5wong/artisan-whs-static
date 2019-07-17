@@ -5,7 +5,7 @@ description: "Former Whanganui footballer and WHS student James Musa makes news 
 featured-image: 
 excerpt: "Former Whanganui footballer and WHS student James Musa makes news in the United States."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59b21127b8d39a35a50009f8/MUSA-the-man-8-Sept-chron.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59b21127b8d39a35a50009f8/MUSA-the-man-8-Sept-chron.jpg"
 	
 	
 	

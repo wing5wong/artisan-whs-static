@@ -5,11 +5,11 @@ description: "Congratulations to the Winners of our Sports Awards held on the ev
 featured-image: 
 excerpt: "Congratulations to the Winners of our Sports Awards held on the evening of Thursday 15 October 2015 at the Wanganui Racecourse."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56246f33b8d39a7a41000060/Dux-Ludorum-Aleisha-Rainey.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56246f01b8d39a7a4100005e/Dux-Ludorum-Daniel-Kauika.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56246ee5b8d39a7a4100005c/Leadership-in-Sport-Sammy-Murphy.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56246ebbb8d39a7a4100005a/Sportsmanship-Ben-Pilet.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56246e75b8d39a7a41000058/Service-to-Sport-Karihi-Potaka-Osborne-Whanarere.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56246f33b8d39a7a41000060/Dux-Ludorum-Aleisha-Rainey.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56246f01b8d39a7a4100005e/Dux-Ludorum-Daniel-Kauika.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56246ee5b8d39a7a4100005c/Leadership-in-Sport-Sammy-Murphy.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56246ebbb8d39a7a4100005a/Sportsmanship-Ben-Pilet.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56246e75b8d39a7a41000058/Service-to-Sport-Karihi-Potaka-Osborne-Whanarere.jpg"
 ---
 
 <p>A great night was had by all at our Sports awards last Thursday night. <br />A big thank you to Sammy Murphy and Tim Rowe (Head of Sport) and their sports prefect team for their help in running the awards.&nbsp;</p>

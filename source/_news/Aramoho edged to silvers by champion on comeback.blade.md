@@ -5,7 +5,7 @@ description: "Former WHS students, Luke Watts and Hugh Pawson got silver in the 
 featured-image: 
 excerpt: "Former WHS students, Luke Watts and Hugh Pawson got silver in the men's senior double sculls at the NZ Rowing Championships."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58aa093ab8d39a3eff002ef5/Silver-medal-coxed-four-Feb-2017-twizel.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58aa093ab8d39a3eff002ef5/Silver-medal-coxed-four-Feb-2017-twizel.jpg"
 	
 	
 	

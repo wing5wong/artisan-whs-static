@@ -5,11 +5,11 @@ description: "NZ # 1.... Gold Medal for Matthew Wright and Nathan Luff  in the B
 featured-image: 
 excerpt: "NZ # 1.... Gold Medal for Matthew Wright and Nathan Luff  in the BU18 LW double. Bronze Medal Winner U18 single - Nathan Luff at Maadi Cup, Rotorua on Saturday 9 April 2016."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/57100404b8d39a76810014a8/Matthew-Wright-and-Nathan-Luff-in-Twizel-Chron-14.4.16.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/570c1c56b8d39a7681001144/Team-photo.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/570c1c35b8d39a7681001140/walking-with-banner-in-distanct.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/570c1c44b8d39a7681001142/walking-with-banner.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/570c1c17b8d39a768100113e/Team-photo-with-WHS-banner.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/57100404b8d39a76810014a8/Matthew-Wright-and-Nathan-Luff-in-Twizel-Chron-14.4.16.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/570c1c56b8d39a7681001144/Team-photo.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/570c1c35b8d39a7681001140/walking-with-banner-in-distanct.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/570c1c44b8d39a7681001142/walking-with-banner.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/570c1c17b8d39a768100113e/Team-photo-with-WHS-banner.jpg"
 ---
 
 <p>&nbsp;</p>

@@ -5,11 +5,11 @@ description: "FINALLY: After finishing runners-up two years on end, coach Sean B
 featured-image: 
 excerpt: "FINALLY: After finishing runners-up two years on end, coach Sean Brown has guided his Wanganui High School mixed touch team to victory in the New Zealand Secondary Schools Championships."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b921eeb8d39a7859000834/both-teams-lined-up.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b921daff2a7c26a90007e0/action-shot-1.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b921c9b8d39a7859000832/action-shot-2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b921bdff2a7c26a90007de/action-shot-3.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56b921abb8d39a7859000830/action-shot-4.png"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56b921eeb8d39a7859000834/both-teams-lined-up.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56b921daff2a7c26a90007e0/action-shot-1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56b921c9b8d39a7859000832/action-shot-2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56b921bdff2a7c26a90007de/action-shot-3.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56b921abb8d39a7859000830/action-shot-4.png"
 ---
 
 <p><strong><br /></strong></p>

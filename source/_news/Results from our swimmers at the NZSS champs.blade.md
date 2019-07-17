@@ -5,7 +5,7 @@ description: "Results from our WHS swimmers at the NZSS champs in Wellington, 9-
 featured-image: 
 excerpt: "Results from our WHS swimmers at the NZSS champs in Wellington, 9-11 September 2016."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/57d62290b8d39a2071001d0e/9197Secondary-Schools-Banner-2016.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/57d62290b8d39a2071001d0e/9197Secondary-Schools-Banner-2016.jpg"
 	
 	
 	

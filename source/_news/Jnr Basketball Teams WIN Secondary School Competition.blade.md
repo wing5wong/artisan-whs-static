@@ -5,8 +5,8 @@ description: "Well done to our WHS Junior Boys & Girls Basketball Teams tonight 
 featured-image: 
 excerpt: "Well done to our WHS Junior Boys & Girls Basketball Teams tonight (Friday 25 August) winning the final in the Secondary School Competition."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59a8e095b8d39a35a5000522/Winning-Girls.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59a8e089b8d39a35a5000520/winning-boys-August-2017.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59a8e095b8d39a35a5000522/Winning-Girls.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59a8e089b8d39a35a5000520/winning-boys-August-2017.jpg"
 	
 	
 	

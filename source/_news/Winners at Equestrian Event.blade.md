@@ -5,9 +5,9 @@ description: "WHS's team of five riders at the Whanganui Interschool Gymkhana ca
 featured-image: 
 excerpt: "WHS's team of five riders at the Whanganui Interschool Gymkhana came away as winners."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5924aef6b8d39a0a7c00076c/4-whs-girls-on-horses.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5924af31b8d39a0a7c000770/Emma-Forrester-holding-cup-and-ribbons.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5924aecfb8d39a0a7c000768/Emma-cup--2-others-with-ribbons--LW.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5924aef6b8d39a0a7c00076c/4-whs-girls-on-horses.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5924af31b8d39a0a7c000770/Emma-Forrester-holding-cup-and-ribbons.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5924aecfb8d39a0a7c000768/Emma-cup--2-others-with-ribbons--LW.jpg"
 	
 	
 ---

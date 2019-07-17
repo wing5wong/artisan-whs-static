@@ -5,11 +5,11 @@ description: "WHS 2017 Cultural Festival - fantastic evening!"
 featured-image: 
 excerpt: "WHS 2017 Cultural Festival - fantastic evening!"
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/594992b9b8d39a5fde0000c1/1.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5949929db8d39a5fde0000bf/2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59499289b8d39a5fde0000bd/3.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59499276b8d39a5fde0000bb/4.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59499a04b8d39a5fde0000c3/Pasifika-group.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/594992b9b8d39a5fde0000c1/1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5949929db8d39a5fde0000bf/2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59499289b8d39a5fde0000bd/3.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59499276b8d39a5fde0000bb/4.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59499a04b8d39a5fde0000c3/Pasifika-group.jpg"
 ---
 
 <p><strong>2017&nbsp;Cultural Festival</strong></p>

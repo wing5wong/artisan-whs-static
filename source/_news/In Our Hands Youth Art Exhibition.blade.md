@@ -5,11 +5,11 @@ description: "We are super proud of our WHS students for participating in the Wh
 featured-image: 
 excerpt: "We are super proud of our WHS students for participating in the Whanganui District Council Youth Committee \"In Our Hands\" Youth Art Exhibition."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59b9e238b8d39a35a5000cb8/In-Our-Hands-poster.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59b9dc41b8d39a35a5000cb0/Eloise-Young-winning-painting.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59b9dc39b8d39a35a5000cae/Ilan-Ben-Ezras-winning-photo.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59b9dc2db8d39a35a5000cac/Prizewinners-with-Eloise-Young.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59b9dea7b8d39a35a5000cb4/In-our-Hands-printout-from-RCP.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59b9e238b8d39a35a5000cb8/In-Our-Hands-poster.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59b9dc41b8d39a35a5000cb0/Eloise-Young-winning-painting.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59b9dc39b8d39a35a5000cae/Ilan-Ben-Ezras-winning-photo.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59b9dc2db8d39a35a5000cac/Prizewinners-with-Eloise-Young.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59b9dea7b8d39a35a5000cb4/In-our-Hands-printout-from-RCP.jpg"
 ---
 
 <p><strong><span>The prizewinners who were at the prizegiving. <br />Eloise Young, 3rd from left, Mikayla Baldwin 4th from left and Ara Moljin far right.</span></strong></p>

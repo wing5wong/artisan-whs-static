@@ -5,11 +5,11 @@ description: "Whanganui High School head students Jack Southee and Jackie Hazelh
 featured-image: 
 excerpt: "Whanganui High School head students Jack Southee and Jackie Hazelhurst spoke of a generation which is growing up in different times at the Dawn Service."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8d1b8d39a6a96000310/returned-service-flag.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8a8b8d39a6a9600030c/flags.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8c1b8d39a6a9600030e/pipes-up-front-flags-behind.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5902ab67b8d39a6a96000316/dawn-service.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8e4b8d39a6a96000312/whs-heads-longer-distance-away.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8d1b8d39a6a96000310/returned-service-flag.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8a8b8d39a6a9600030c/flags.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8c1b8d39a6a9600030e/pipes-up-front-flags-behind.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5902ab67b8d39a6a96000316/dawn-service.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8e4b8d39a6a96000312/whs-heads-longer-distance-away.jpg"
 ---
 
 <p>Whanganui High School head students Jack Southee and Jackie Hazelhurst spoke of a generation which is growing up in different times at the Dawn Service.<br />PHOTOS:&nbsp;<span>Bevan Conley.</span></p>

@@ -5,11 +5,11 @@ description: "Congratulations Jeanne-Marie Bonnet - 2016 DUX of WHS..."
 featured-image: 
 excerpt: "Congratulations Jeanne-Marie Bonnet - 2016 DUX of WHS."
 image_gallery:
-	 - image: "/uploads/58365c6eb8d39a165e00019f/Dux-of-the-School-Jeanne-Marie-Bonnet.JPG"
-	 - image: "/uploads/58365c8ab8d39a165e0001a1/Proxime-Accessit---Methmi-Perera.JPG"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58375103b8d39a165e00028c/12456.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5837511eb8d39a165e00028e/11248.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58365f88b8d39a165e0001a3/14479.jpg"
+     - image: "/uploads/58365c6eb8d39a165e00019f/Dux-of-the-School-Jeanne-Marie-Bonnet.JPG"
+     - image: "/uploads/58365c8ab8d39a165e0001a1/Proxime-Accessit---Methmi-Perera.JPG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58375103b8d39a165e00028c/12456.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5837511eb8d39a165e00028e/11248.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58365f88b8d39a165e0001a3/14479.jpg"
 ---
 
 <h4>Congratulations:-</h4>

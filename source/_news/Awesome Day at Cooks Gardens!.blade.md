@@ -5,11 +5,11 @@ description: "What an awesome day had by all today at Cooks Gardens with the Jun
 featured-image: 
 excerpt: "What an awesome day had by all today at Cooks Gardens with the Junior School and staff of WHS."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa58b8d39a3eff000847/WHS-made-by-students-best.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa4bb8d39a3eff000845/sack4.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa3cb8d39a3eff000843/sack3.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa31b8d39a3eff000841/sack2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa21b8d39a3eff00083f/sack1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa58b8d39a3eff000847/WHS-made-by-students-best.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa4bb8d39a3eff000845/sack4.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa3cb8d39a3eff000843/sack3.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa31b8d39a3eff000841/sack2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5849fa21b8d39a3eff00083f/sack1.jpg"
 ---
 
 <p><strong>Fabulous human WHS ...... Team effort &nbsp;<span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v6/ff8/1/16/1f44d_1f3fc.png" alt="" width="16" height="16" /></span></strong></p>

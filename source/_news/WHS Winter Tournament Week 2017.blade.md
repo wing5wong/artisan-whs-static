@@ -5,11 +5,11 @@ description: "Whanganui High School had 10 teams competing in the Winter Tournam
 featured-image: 
 excerpt: "Whanganui High School had 10 teams competing in the Winter Tournament Week all over New Zealand."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59beee74b8d39a25890000a4/Hockey-girls-teams-photo.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c194bfb8d39a3d400000a7/Rugby-1st-XV-website-1-lisa.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c194cab8d39a3d400000a9/Rugby-1st-XV-website-2-lisa.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c194b2b8d39a3d400000a5/Jnr-boys-bball-from-lisa-website-2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c194a0b8d39a3d400000a3/Jnr-boys-bball-from-lisa-website-1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59beee74b8d39a25890000a4/Hockey-girls-teams-photo.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59c194bfb8d39a3d400000a7/Rugby-1st-XV-website-1-lisa.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59c194cab8d39a3d400000a9/Rugby-1st-XV-website-2-lisa.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59c194b2b8d39a3d400000a5/Jnr-boys-bball-from-lisa-website-2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59c194a0b8d39a3d400000a3/Jnr-boys-bball-from-lisa-website-1.jpg"
 ---
 
 <p>Whanganui High School had 10 teams competing in the Winter Tournament Week all over New Zealand.</p>

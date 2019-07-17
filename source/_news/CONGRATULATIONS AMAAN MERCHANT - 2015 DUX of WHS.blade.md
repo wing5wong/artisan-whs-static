@@ -5,10 +5,10 @@ description: "Congratulations Amaan Merchant - 2015 DUX of WHS"
 featured-image: 
 excerpt: "Congratulations Amaan Merchant - 2015 DUX of WHS"
 image_gallery:
-	 - image: "/uploads/56428ceeb8d39a21360013c2/IMG_1124.JPG"
-	 - image: "/uploads/56428d2bb8d39a21360013c4/IMG_1131.JPG"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/563bf50fb8d39a2136000a94/12294.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/563bf44db8d39a2136000a8e/13291.jpg"
+     - image: "/uploads/56428ceeb8d39a21360013c2/IMG_1124.JPG"
+     - image: "/uploads/56428d2bb8d39a21360013c4/IMG_1131.JPG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/563bf50fb8d39a2136000a94/12294.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/563bf44db8d39a2136000a8e/13291.jpg"
 	
 ---
 

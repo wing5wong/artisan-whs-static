@@ -5,8 +5,8 @@ description: "The Wanganui High School tennis team will once again go through to
 featured-image: 
 excerpt: "The Wanganui High School tennis team will once again go through to represent Tennis Central at the NZSS Championship finals after beating Wanganui Collegiate 4-2 in the zonal qualifier on Wednesday, Wanganui Chronicle article on 4/3/16..."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56d8d24ab8d39a3ca3000ea1/12032.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56d8d212b8d39a3ca3000e9f/12367.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56d8d24ab8d39a3ca3000ea1/12032.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56d8d212b8d39a3ca3000e9f/12367.jpg"
 	
 	
 	

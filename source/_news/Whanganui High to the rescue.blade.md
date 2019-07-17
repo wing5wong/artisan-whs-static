@@ -5,7 +5,7 @@ description: "WHS has come to the party and ensured the Mark Ranby Invitational 
 featured-image: 
 excerpt: "Whanganui High School has come to the party and ensured the Mark Ranby Invitational 1st XV rugby tournament has a future."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59af1e14b8d39a35a50006f1/mark-ranby-invit-photo-that-was-in-chron.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59af1e14b8d39a35a50006f1/mark-ranby-invit-photo-that-was-in-chron.jpg"
 	
 	
 	

@@ -5,8 +5,8 @@ description: "The Opening of our Multi Sport Complex took place today, Tuesday 2
 featured-image: 
 excerpt: "The Opening of our Multi Sport Complex took place today, Tuesday 20 October, at first break."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56258bbeb8d39a7a410002c9/Opening-of-Multi-Sport-Complex-20.10.15-basketball.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/56258b7fb8d39a7a410002c5/Opening-of-Multi-Sport-Complex-20.10.15-tennis.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56258bbeb8d39a7a410002c9/Opening-of-Multi-Sport-Complex-20.10.15-basketball.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/56258b7fb8d39a7a410002c5/Opening-of-Multi-Sport-Complex-20.10.15-tennis.jpg"
 	
 	
 	

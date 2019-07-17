@@ -5,11 +5,11 @@ description: "Great night at the Dub Dee See Whanganui Secondary School Sports a
 featured-image: 
 excerpt: "Great night at the Dub Dee See Whanganui Secondary School Sports awards for WHS on Wednesday 26 October 2016."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5812a831b8d39a20710031da/Jessica-Watkin-Senior-Sportswomen-of-the-year.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5812a824ff2a7c37a30015e8/Bradley-McDowell-Junior-Sportsman-of-the-year.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5812a812b8d39a20710031d8/Touch-Rugby-best-team.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5812a800ff2a7c37a30015e6/Diana-Taha-Williams-Cribb-winner-Official-of-the-year.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5812a7ecb8d39a20710031d6/WHS-group-shot-of-winners.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5812a831b8d39a20710031da/Jessica-Watkin-Senior-Sportswomen-of-the-year.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5812a824ff2a7c37a30015e8/Bradley-McDowell-Junior-Sportsman-of-the-year.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5812a812b8d39a20710031d8/Touch-Rugby-best-team.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5812a800ff2a7c37a30015e6/Diana-Taha-Williams-Cribb-winner-Official-of-the-year.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5812a7ecb8d39a20710031d6/WHS-group-shot-of-winners.jpg"
 ---
 
 <p><span>Great night at the Dub Dee See Whanganui Secondary School Sports awards for WHS tonight....&nbsp;</span></p>

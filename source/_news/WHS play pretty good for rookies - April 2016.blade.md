@@ -5,10 +5,10 @@ description: "FOR first-timers in the format, the WHS basketballers acquitted th
 featured-image: 
 excerpt: "FOR first-timers in the format, the Wanganui High School basketballers acquitted themselves very well by finishing fourth in both the Junior and Senior boys divisions at the BBNZ Secondary School 3X3 National Slam in Auckland last weekend."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5732ab54b8d39a469d00078b/WHS-Senior-3x3-team.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5732ab41b8d39a469d000789/WHS-Junior-3x3-team.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5732ab2ab8d39a469d000787/game-time.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5732ab18b8d39a469d000785/game-time-2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5732ab54b8d39a469d00078b/WHS-Senior-3x3-team.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5732ab41b8d39a469d000789/WHS-Junior-3x3-team.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5732ab2ab8d39a469d000787/game-time.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5732ab18b8d39a469d000785/game-time-2.jpg"
 	
 ---
 

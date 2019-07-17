@@ -5,11 +5,11 @@ description: "WHS Boys and Girls Softball teams compete at Fraser Park, Hutt Val
 featured-image: 
 excerpt: "WHS Boys and Girls Softball teams compete at Fraser Park, Hutt Valley for the Division 2 North Island Secondary School Champs, Tuesday 28 March - Friday 31 March 2017."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf8fb8d39a417f0006c5/17620411_769020326580409_6711251320249680742_o.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf9bb8d39a417f0006c7/17630014_769650903184018_1074129627729286570_n.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf81b8d39a417f0006c3/17499378_769650883184020_2170688348355071166_n.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf76b8d39a417f0006c1/17458310_769650923184016_7765740769490902668_n-(1).jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf6bb8d39a417f0006bf/8.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf8fb8d39a417f0006c5/17620411_769020326580409_6711251320249680742_o.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf9bb8d39a417f0006c7/17630014_769650903184018_1074129627729286570_n.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf81b8d39a417f0006c3/17499378_769650883184020_2170688348355071166_n.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf76b8d39a417f0006c1/17458310_769650923184016_7765740769490902668_n-(1).jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e1cf6bb8d39a417f0006bf/8.jpg"
 ---
 
 <p>WHS Boys and Girls Softball teams compete at Fraser Park, Hutt Valley for the Division 2 North Island Secondary School Champs, Tuesday 28 March - Friday 31 March 2017.</p>

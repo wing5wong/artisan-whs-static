@@ -5,11 +5,11 @@ description: "LEGGING IT: Emma Rainey claimed the U19 girls race at the annual W
 featured-image: 
 excerpt: "LEGGING IT: Emma Rainey claimed the U19 girls race at the annual Wanganui High School cross-country at the new venue Virginia Lake."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5743d0fcb8d39a469d0012c9/U15-Winner---Rebecca-Baker.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5743d0e2b8d39a469d0012c7/U15-Winner---Travis-Bayler.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5743d092b8d39a469d0012c3/U16-Winner---Kayla-Lee-Wainwright-and-2nd-place-Monique-Cleeve.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5743d074b8d39a469d0012c1/U16-Winner---Loris-Knigge.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5743d045b8d39a469d0012bf/U19-Winner---Emma-Rainey.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5743d0fcb8d39a469d0012c9/U15-Winner---Rebecca-Baker.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5743d0e2b8d39a469d0012c7/U15-Winner---Travis-Bayler.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5743d092b8d39a469d0012c3/U16-Winner---Kayla-Lee-Wainwright-and-2nd-place-Monique-Cleeve.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5743d074b8d39a469d0012c1/U16-Winner---Loris-Knigge.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5743d045b8d39a469d0012bf/U19-Winner---Emma-Rainey.jpg"
 ---
 
 <p>&nbsp;</p>

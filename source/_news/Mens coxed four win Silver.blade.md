@@ -5,7 +5,7 @@ description: "The crew was coxed by WHS Y12 student Niamh Mullany; Y13 Ben Tijse
 featured-image: 
 excerpt: "The crew was coxed by WHS Y12 student Niamh Mullany; Y13 Ben Tijsen-Cox, ex students Nathan Luff, Guy Thomson plus James Sandston were the crew."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58aa093ab8d39a3eff002ef5/Silver-medal-coxed-four-Feb-2017-twizel.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58aa093ab8d39a3eff002ef5/Silver-medal-coxed-four-Feb-2017-twizel.jpg"
 	
 	
 	

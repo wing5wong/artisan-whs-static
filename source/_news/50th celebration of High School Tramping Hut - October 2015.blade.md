@@ -5,7 +5,7 @@ description: "On Saturday 31 October, WHS is inviting “all past and present WH
 featured-image: 
 excerpt: "A group of Wanganui High School students, teachers and parent helpers on a Hut working bee."
 image_gallery:
-	 - image: "/uploads/5643b336b8d39a21360015ac/David-Lupton-cutting-50th-cake.JPG"
+     - image: "/uploads/5643b336b8d39a21360015ac/David-Lupton-cutting-50th-cake.JPG"
 	
 	
 	

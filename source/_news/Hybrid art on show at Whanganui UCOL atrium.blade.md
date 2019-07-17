@@ -5,7 +5,7 @@ description: "Sonia Forsey (front), Mina Bourke, ex WHS student Jodie McLay, Luc
 featured-image: 
 excerpt: "Sonia Forsey (front), Mina Bourke, former WHS student Jodie McLay, Lucja Orlowski, Sarah Bolland, Kitty Wake and Lisa Curran have work on show at UCOL."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59c82487b8d39a191700016e/Jodie-Mclays-painting.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59c82487b8d39a191700016e/Jodie-Mclays-painting.jpg"
 	
 	
 	

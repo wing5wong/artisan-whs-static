@@ -5,11 +5,11 @@ description: "Eleven WHS athletes qualified for and competed with distinction at
 featured-image: 
 excerpt: "Eleven WHS athletes qualified for and competed with distinction at last weekend’s North Island secondary school athletics on 8 & 9 April in Inglewood."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58ec37b9b8d39a0396000262/NISS-Champs-in-Inglewood-8-April-2017.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58f56f34b8d39a0396000502/Rebecca-baker-running.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58f56f50b8d39a0396000506/Sophie-Andrews-2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58f56f60b8d39a0396000508/Sophie-Andrews.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58f56f28b8d39a0396000500/boy-running.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58ec37b9b8d39a0396000262/NISS-Champs-in-Inglewood-8-April-2017.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58f56f34b8d39a0396000502/Rebecca-baker-running.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58f56f50b8d39a0396000506/Sophie-Andrews-2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58f56f60b8d39a0396000508/Sophie-Andrews.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58f56f28b8d39a0396000500/boy-running.jpg"
 ---
 
 <p><strong>Eleven Whanganui High school athletes qualified for and competed with distinction at last weekend&rsquo;s North Island secondary school athletics in Inglewood. The team of 11 was part of a Whanganui secondary schools team and most were competing at this top level for the 1<sup>st</sup> time.</strong></p>

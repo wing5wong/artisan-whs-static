@@ -5,10 +5,10 @@ description: "Lily Claypole and Toka Poa, both Whanganui High School year 12 stu
 featured-image: 
 excerpt: "Lily Claypole and Toka Poa, both Whanganui High School year 12 students, have their images selected in the Wallace Secondary School Art Awards competition."
 image_gallery:
-	 - image: "/uploads/59b9e4eeb8d39a35a5000cc0/art2-lily-claypole.PNG"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59b9f1bcb8d39a35a5000cc8/big-poster-no-2.jpg"
-	 - image: "/uploads/59b9e4e1b8d39a35a5000cbe/art1-photo.PNG"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59b9f1afb8d39a35a5000cc6/big-poster-no-1.jpg"
+     - image: "/uploads/59b9e4eeb8d39a35a5000cc0/art2-lily-claypole.PNG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59b9f1bcb8d39a35a5000cc8/big-poster-no-2.jpg"
+     - image: "/uploads/59b9e4e1b8d39a35a5000cbe/art1-photo.PNG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59b9f1afb8d39a35a5000cc6/big-poster-no-1.jpg"
 	
 ---
 

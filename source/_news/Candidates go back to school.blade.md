@@ -5,9 +5,9 @@ description: "Candidates go back to class at teachers' invitation at Whanganui H
 featured-image: 
 excerpt: "Candidates go back to class at teachers' invitation at Whanganui High School."
 image_gallery:
-	 - image: "/uploads/59ae23a0b8d39a35a500068f/Labour-MP.PNG"
-	 - image: "/uploads/59ae2392b8d39a35a500068d/First-MP.PNG"
-	 - image: "/uploads/59ae2385b8d39a35a500068b/Green-MP.PNG"
+     - image: "/uploads/59ae23a0b8d39a35a500068f/Labour-MP.PNG"
+     - image: "/uploads/59ae2392b8d39a35a500068d/First-MP.PNG"
+     - image: "/uploads/59ae2385b8d39a35a500068b/Green-MP.PNG"
 	
 	
 ---

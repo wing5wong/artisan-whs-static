@@ -5,11 +5,11 @@ description: "WHS bass-player Tane Venter from the four-piece girl band Straight
 featured-image: 
 excerpt: "WHS bass-player Tane Venter from the four-piece girl band Straight Lace who won the Smokefreerockquest finals on Saturday night held at the Royal Wanganui Opera House."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b83d6b8d39a0a7c000c38/Girl-band-1.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/592bac05b8d39a0a7c000c6a/Boy--girl-butterfly-1.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b6e42b8d39a0a7c000c16/Space-Cactus-from-WHS-celebrate-chron-29-May.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b9147b8d39a0a7c000c46/Boys-band-girl-singer-1.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/592b9162b8d39a0a7c000c4c/boys-jump-suits-1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/592b83d6b8d39a0a7c000c38/Girl-band-1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/592bac05b8d39a0a7c000c6a/Boy--girl-butterfly-1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/592b6e42b8d39a0a7c000c16/Space-Cactus-from-WHS-celebrate-chron-29-May.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/592b9147b8d39a0a7c000c46/Boys-band-girl-singer-1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/592b9162b8d39a0a7c000c4c/boys-jump-suits-1.jpg"
 ---
 
 <p><span><strong>WHS bass-player Tane Venter from the four-piece girl band Straight Lace who won the Smokefreerockquest finals on Saturday night held at the Royal Wanganui Opera House.</strong><br />PHOTO: Lewis Gardner</span></p>

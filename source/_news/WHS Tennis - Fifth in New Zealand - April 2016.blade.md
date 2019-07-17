@@ -5,11 +5,11 @@ description: "WHS Mixed tennis team finished fifth in New Zealand at the Nationa
 featured-image: 
 excerpt: "WHS Mixed tennis team finished fifth in New Zealand at the National Secondary Schools Teams finals at the Scarbro Centre in Auckland, April 2016..."
 image_gallery:
-	 - image: "/uploads/5732a823b8d39a469d00077f/DSC_0139.JPG"
-	 - image: "/uploads/5732a794b8d39a469d00077b/DSC_0142.JPG"
-	 - image: "/uploads/5732a7c3b8d39a469d00077d/DSC_0146.JPG"
-	 - image: "/uploads/5732a770b8d39a469d000779/DSC_0150.JPG"
-	 - image: "/uploads/5732a750b8d39a469d000777/DSC_0151.JPG"
+     - image: "/uploads/5732a823b8d39a469d00077f/DSC_0139.JPG"
+     - image: "/uploads/5732a794b8d39a469d00077b/DSC_0142.JPG"
+     - image: "/uploads/5732a7c3b8d39a469d00077d/DSC_0146.JPG"
+     - image: "/uploads/5732a770b8d39a469d000779/DSC_0150.JPG"
+     - image: "/uploads/5732a750b8d39a469d000777/DSC_0151.JPG"
 ---
 
 <p align="center">&nbsp;</p>

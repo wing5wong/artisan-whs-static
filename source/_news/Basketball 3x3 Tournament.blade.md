@@ -5,11 +5,11 @@ description: "WHS Boys 3x3 Basketball teams played at ASB Arena,Tauranga for the
 featured-image: 
 excerpt: "WHS Boys 3x3 Basketball teams played at ASB Arena,Tauranga for the Secondary Schools 3x3 National Slam, 30 March - 1 April 2017."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e1d0abb8d39a417f0006c9/the-team-with-coaches.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e19207b8d39a417f000621/shot.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e191e4b8d39a417f00061d/shot-5.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e191b5b8d39a417f00061b/shot-4.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58e19197b8d39a417f000616/shot-3.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e1d0abb8d39a417f0006c9/the-team-with-coaches.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e19207b8d39a417f000621/shot.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e191e4b8d39a417f00061d/shot-5.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e191b5b8d39a417f00061b/shot-4.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58e19197b8d39a417f000616/shot-3.jpg"
 ---
 
 <p><span>WHS Boys 3x3 Basketball teams played at ASB Arena,Tauranga for the Secondary Schools 3x3 National Slam, 30 March - 1 April 2017.</span></p>

@@ -5,7 +5,7 @@ description: "Both the Wanganui High School first XI teams made it through their
 featured-image: 
 excerpt: "Both the Wanganui High School first XI teams made it through their Manawatu division 1 secondary school hockey semifinals on Thursday night, but through entirely different methods."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/57ba2aa3b8d39a20710015ee/WHS-beat-Colleg-into-Manawatu-finals-boys-in-huddle-Aug-2016.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/57ba2aa3b8d39a20710015ee/WHS-beat-Colleg-into-Manawatu-finals-boys-in-huddle-Aug-2016.jpg"
 	
 	
 	

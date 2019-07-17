@@ -5,11 +5,11 @@ description: "Awesome results for WHS in the NZSS Multisport Championships which
 featured-image: 
 excerpt: "Awesome results for WHS in the NZSS Multisport Championships which were held alongside the 3D multisport event on Sunday 5 June in Rotorua."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5779caebb8d39a2071000543/Festival-Logo.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/577c7735ff2a7c38fb000630/WHS-students-that-competed.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/577c77abb8d39a2071000633/at-bikes.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/577c779eff2a7c38fb000634/at-kayaking.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/577c7781b8d39a2071000631/Girl-no-215.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5779caebb8d39a2071000543/Festival-Logo.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/577c7735ff2a7c38fb000630/WHS-students-that-competed.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/577c77abb8d39a2071000633/at-bikes.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/577c779eff2a7c38fb000634/at-kayaking.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/577c7781b8d39a2071000631/Girl-no-215.jpg"
 ---
 
 <p>The secondary school multisport championships were held alongside the 3D multisport event on Sunday 5 June&nbsp;in Rotorua.</p>

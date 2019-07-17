@@ -5,7 +5,7 @@ description: "Whanganui teenager James Rountree (WHS student) has claimed fifth 
 featured-image: 
 excerpt: "Whanganui teenager James Rountree (WHS student) has claimed fifth in his class at the New Zealand Junior Motocross Championships in New Plymouth at the weekend."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5907d1eab8d39a6a9600047f/James-RountreeNZ-Junior-Nationals-in-New-Ply.action-shotjpg.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5907d1eab8d39a6a9600047f/James-RountreeNZ-Junior-Nationals-in-New-Ply.action-shotjpg.jpg"
 	
 	
 	

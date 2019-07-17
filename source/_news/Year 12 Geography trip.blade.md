@@ -5,11 +5,11 @@ description: "Recent photos from our Level 2 Geography trip to the South Island 
 featured-image: 
 excerpt: "Recent photos from our Level 2 Geography trip to the South Island in April 2017."
 image_gallery:
-	 - image: "/uploads/59488aaeb8d39a5fde000064/Capture.PNG1.PNG"
-	 - image: "/uploads/59488abdb8d39a5fde000066/Capture.PNG2.PNG"
-	 - image: "/uploads/59488ac6b8d39a5fde000068/Capture.PNG3.PNG"
-	 - image: "/uploads/59488ad0b8d39a5fde00006a/Capture.PNG4.PNG"
-	 - image: "/uploads/59488adab8d39a5fde00006c/Capture.PNG5.PNG"
+     - image: "/uploads/59488aaeb8d39a5fde000064/Capture.PNG1.PNG"
+     - image: "/uploads/59488abdb8d39a5fde000066/Capture.PNG2.PNG"
+     - image: "/uploads/59488ac6b8d39a5fde000068/Capture.PNG3.PNG"
+     - image: "/uploads/59488ad0b8d39a5fde00006a/Capture.PNG4.PNG"
+     - image: "/uploads/59488adab8d39a5fde00006c/Capture.PNG5.PNG"
 ---
 
 <p>Recent photos from our Level 2 Geography trip to the South Island in April.</p>

@@ -5,7 +5,7 @@ description: "Cellist Elena Morgan and pianist Max Munneke will perform a mix of
 featured-image: 
 excerpt: "Cellist Elena Morgan and pianist Max Munneke will perform a mix of modern music and masterpieces next Saturday 22 July at the Whanganui War Memorial Concert Chamber."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/595ef2cfb8d39a317d00071b/Liam-wooding-July-chron.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/595ef2cfb8d39a317d00071b/Liam-wooding-July-chron.gif"
 	
 	
 	

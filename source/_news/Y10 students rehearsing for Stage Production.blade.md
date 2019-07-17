@@ -5,7 +5,7 @@ description: "Introducing 11 of the 19 extremely talented WHS Year 10 students w
 featured-image: 
 excerpt: "Introducing 11 of the 19 extremely talented WHS Year 10 students who are rehearsing to make Rock of Ages, the best show we've ever staged."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58c9dfe6b8d39a3eff0046e7/Poster.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58c9dfe6b8d39a3eff0046e7/Poster.jpg"
 	
 	
 	

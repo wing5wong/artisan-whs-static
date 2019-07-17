@@ -5,11 +5,11 @@ description: "On 9 November WHS sent 8 teams to take part in the Annual Wanganui
 featured-image: 
 excerpt: "On 9 November WHS sent 8 teams to take part in the Annual Wanganui Junior Model United Nations day at Girls’ College. Congratulations to Leah Aiona, Callista Booth-Richards and Katja Mokha and their Turkey team who were awarded Winning Delegation & Best Dressed Delegation."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58251a66b8d39a7ade00008b/turkey-winners.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58251b73ff2a7c7cf400008e/vietnam-winners.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58251b51b8d39a7ade000091/CHILE.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58251b3cff2a7c7cf400008c/DENMARK-(1).jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58251b21b8d39a7ade00008f/france.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58251a66b8d39a7ade00008b/turkey-winners.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58251b73ff2a7c7cf400008e/vietnam-winners.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58251b51b8d39a7ade000091/CHILE.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58251b3cff2a7c7cf400008c/DENMARK-(1).jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58251b21b8d39a7ade00008f/france.jpg"
 ---
 
 <p dir="ltr"><strong>PHOTO: <br />TURKEY &ndash; Winning Delegation &amp; Best Dressed Delegation:<br />Leah Aiono, Katja Mokha, Callista booth-Richards.<br /></strong></p>

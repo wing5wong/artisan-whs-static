@@ -5,10 +5,10 @@ description: "Top pupils reflect on their years at WHS, Wanganui Chronicle artic
 featured-image: 
 excerpt: "Top pupils reflect on their years at WHS, Wanganui Chronicle article on 25/11/15..."
 image_gallery:
-	 - image: "/uploads/5654ca5eb8d39a2136002282/Head-Prefects.JPG"
-	 - image: "/uploads/5654cf0fb8d39a2136002288/Deputy-Head-Prefects.JPG"
-	 - image: "/uploads/5654ced8b8d39a2136002286/IMG_1124.JPG"
-	 - image: "/uploads/5654cabcb8d39a2136002284/IMG_1131.JPG"
+     - image: "/uploads/5654ca5eb8d39a2136002282/Head-Prefects.JPG"
+     - image: "/uploads/5654cf0fb8d39a2136002288/Deputy-Head-Prefects.JPG"
+     - image: "/uploads/5654ced8b8d39a2136002286/IMG_1124.JPG"
+     - image: "/uploads/5654cabcb8d39a2136002284/IMG_1131.JPG"
 	
 ---
 

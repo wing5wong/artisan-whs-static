@@ -5,7 +5,7 @@ description: "Former WHS student Catherine Williams is second in command of the 
 featured-image: 
 excerpt: "Former WHS student Catherine Williams is second in command of the Holland America Line ship Zaandam."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/58708982b8d39a3eff00157f/Catherine-Williams-2nd-in-com-of-this-ship.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/58708982b8d39a3eff00157f/Catherine-Williams-2nd-in-com-of-this-ship.jpg"
 	
 	
 	

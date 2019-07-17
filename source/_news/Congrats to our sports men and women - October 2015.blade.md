@@ -5,11 +5,11 @@ description: "Congrats to our sports men and women who were nominated for the WS
 featured-image: 
 excerpt: "Congrats to our sports men and women who were nominated for the WSS Sports Awards on Wednesday 28 October at the Girls College Hall."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc77b8d39a2136000042/Kasey-Watson-accepting-cup.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc6db8d39a2136000040/Erica-Tanner-with-cup.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc5db8d39a213600003e/Kayla-Spencer-receiving-award.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc54b8d39a213600003c/Kayla-Spencer-with-silver-plate.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc30b8d39a213600003a/WHS-Boys-sitting-at-event.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc77b8d39a2136000042/Kasey-Watson-accepting-cup.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc6db8d39a2136000040/Erica-Tanner-with-cup.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc5db8d39a213600003e/Kayla-Spencer-receiving-award.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc54b8d39a213600003c/Kayla-Spencer-with-silver-plate.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5632bc30b8d39a213600003a/WHS-Boys-sitting-at-event.jpg"
 ---
 
 <p><span>Congrats to our sports men and women who were nominated for the Wanganui Secondary Sports Awards tonight at Girls College Hall. </span></p>

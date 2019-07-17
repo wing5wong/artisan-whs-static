@@ -5,7 +5,7 @@ description: "WHS students Charlotte Taylor placed 3rd (left) and Olivia Caird p
 featured-image: 
 excerpt: "WHS students Charlotte Taylor placed 3rd (left) and Olivia Caird placed 1st, receiving the overall winning school award from Phil Healy, director of Kai Catering at UCOL."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/57579c5ab8d39a469d002703/UCOL-omelette-competition-7.6.16-Chron.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/57579c5ab8d39a469d002703/UCOL-omelette-competition-7.6.16-Chron.jpg"
 	
 	
 	

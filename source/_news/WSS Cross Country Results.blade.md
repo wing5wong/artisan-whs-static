@@ -5,11 +5,11 @@ description: "WHS took a team of 42 students to the WSS Cross Country held at Co
 featured-image: 
 excerpt: "Whanganui High School took a team of 42 students to the WSS Cross Country held at Collegiate School yesterday afternoon."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb23b8d39a0f85000088/boys-x-country-photo-used-for-news-shot-instead-of-colleg-photo.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb2bb8d39a0f8500008a/liam-connor--Travis-with-certif.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb19b8d39a0f85000086/3-boys-with-cert-at-least-1-whs-boy.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb50b8d39a0f8500008e/group-of-girls-standing.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb37b8d39a0f8500008c/whs-girl-winner.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb23b8d39a0f85000088/boys-x-country-photo-used-for-news-shot-instead-of-colleg-photo.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb2bb8d39a0f8500008a/liam-connor--Travis-with-certif.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb19b8d39a0f85000086/3-boys-with-cert-at-least-1-whs-boy.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb50b8d39a0f8500008e/group-of-girls-standing.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb37b8d39a0f8500008c/whs-girl-winner.jpg"
 ---
 
 <p><span>Whanganui High School took a team of 42 students to the WSS Cross Country held at Collegiate School yesterday afternoon.</span></p>

@@ -5,11 +5,11 @@ description: "Well done to our WHS Junior Girls 'Round the Lake Relay' Team who 
 featured-image: 
 excerpt: "Well done to our WHS Junior Girls 'Round the Lake Relay' Team who won their grade on Monday."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ba0875b8d39a35a5000d3a/rebecca-baker-1st-in-goup-of-4.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ba07b1b8d39a35a5000d26/girls-about-to-tag-team.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ba07dfb8d39a35a5000d2a/girls-tag-teaming.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ba0803b8d39a35a5000d2e/girls-tagging-no-3-good.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59ba0818b8d39a35a5000d30/girls-tagging-no-4.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59ba0875b8d39a35a5000d3a/rebecca-baker-1st-in-goup-of-4.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59ba07b1b8d39a35a5000d26/girls-about-to-tag-team.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59ba07dfb8d39a35a5000d2a/girls-tag-teaming.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59ba0803b8d39a35a5000d2e/girls-tagging-no-3-good.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59ba0818b8d39a35a5000d30/girls-tagging-no-4.jpg"
 ---
 
 <h3><strong>Well done to our Junior Girls 'Round the Lake Relay' Team who won their grade on Monday.&nbsp;</strong></h3>

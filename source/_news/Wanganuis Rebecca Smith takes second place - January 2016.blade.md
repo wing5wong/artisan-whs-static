@@ -5,7 +5,7 @@ description: "Former WHS student Rebecca Smith (middle) chases hard for second p
 featured-image: 
 excerpt: "Former WHS student Rebecca Smith (middle) chases hard for second place in the ladies 42km marathon at the Cemetery Circuit course yesterday."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5698d777b8d39a2c7c001b8f/Skaters-girls-behind-each-other.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5698d777b8d39a2c7c001b8f/Skaters-girls-behind-each-other.jpg"
 	
 	
 	

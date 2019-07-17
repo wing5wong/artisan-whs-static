@@ -5,11 +5,11 @@ description: "Aramoho-Wanganui's Luke Watts won gold in the mens senior single s
 featured-image: 
 excerpt: "Aramoho-Wanganui's Luke Watts won gold in the mens senior single sculls, senior coxless quad sculls and silver in the double sculls in the North Island Championships."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/589d1947b8d39a3eff002906/placing-cards-1.png"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/589d1939b8d39a3eff002904/placing-cards-2.png"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/589d1925b8d39a3eff002902/placing-cards-3.png"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/589d1916b8d39a3eff002900/placing-cards-4.png"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/589d1906b8d39a3eff0028fe/placing-cards-5.png"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/589d1947b8d39a3eff002906/placing-cards-1.png"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/589d1939b8d39a3eff002904/placing-cards-2.png"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/589d1925b8d39a3eff002902/placing-cards-3.png"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/589d1916b8d39a3eff002900/placing-cards-4.png"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/589d1906b8d39a3eff0028fe/placing-cards-5.png"
 ---
 
 <p><span>Aramoho-Wanganui's Luke Watts won gold in the mens senior single sculls, senior coxless quad sculls and silver in the double sculls in the North Island Championships. <br />PHOTO: &nbsp;Bevan Conley.</span></p>
