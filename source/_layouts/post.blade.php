@@ -15,7 +15,7 @@
 
     @if(is_array($page->image_gallery))
         @foreach($page->image_gallery as $image)
-            <img src="{{$image->image}}" alt="{{$image->description}}" title="{{$image->title}}">
+            <img src="{{$image["image"]}}" alt="{{$image->description}}" title="{{$image->title}}">
         @endforeach
     @endif
 
