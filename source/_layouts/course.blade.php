@@ -3,7 +3,7 @@
 @section('title', $page->title)
 
 @section('content')
-<h1 class="decorated py-3 mb-4">{{ $page->title }} - {{ $course->name }}</h1>
+<h1 class="decorated py-3 mb-4">{{ $page->title }} - {{ $page->name }}</h1>
 
 {!! $page !!}
 
