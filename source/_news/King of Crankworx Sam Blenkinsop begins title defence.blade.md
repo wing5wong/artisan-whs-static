@@ -5,11 +5,11 @@ description: "The reigning King of Crankworx Sam Blenkinsop, born and bred in Wh
 featured-image: 
 excerpt: "The reigning King of Crankworx Sam Blenkinsop, born and bred in Whanganui, begins the defence of his crown in Rotorua this week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong><img src="https://www.nzherald.co.nz/resizer/Oo9UlsxL2qeQOvKyyK_Ayq5Kawo=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/7AWYADRAJBFJRDI4L4CPQ7J5UU.jpg" alt="Sam Blenkinsop has a laugh after winning the Crankworx Rotorua Downhill last year. Photo / Getty Images" /></strong></span></p>

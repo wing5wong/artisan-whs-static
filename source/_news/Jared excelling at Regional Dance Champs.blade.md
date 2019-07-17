@@ -5,11 +5,11 @@ description: "Jared Sim and his dance partner have come away with fantastic resu
 featured-image: 
 excerpt: "Jared Sim and his dance partner have come away with fantastic results at Regional Dance Championships 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Jared Sim and his dance partner have come away with fantastic results at Regional Dance Championships 2018.</h4>

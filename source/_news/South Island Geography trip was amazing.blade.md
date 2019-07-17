@@ -5,11 +5,11 @@ description: "The NCEA L2 Geography students went on a 9 day adventure across th
 featured-image: 
 excerpt: "The NCEA level 2 Geography students went on a 9 day adventure across the South Island in the second week of April learning about the geography of the region."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/59835306_2197451070304059_1424142788064182272_n.jpg?_nc_cat=106&amp;_nc_eui2=AeFAAQvFxgptpqpOkgzSj0l4k34aLoqwZ0qqgFYgicUElAv9ns6Kf4PVUb7YfPutX_v0lh9TCEKXWRQGfsQI1dawwdBPcP_1nLsbydtWOAJ76g&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=d58882eadff8638ebe892d9a10d9f4bc&amp;oe=5D5DE450" alt="Image may contain: one or more people, sky, ocean, outdoor, water and nature" /></p>

@@ -5,11 +5,11 @@ description: "Congratulations to our WHS U16 & U17 Girls Rowing Quads who won Si
 featured-image: 
 excerpt: "Congratulations to our WHS U16 & U17 Girls Rowing Quads who won Silver & Bronze at the NISS Rowing Champs..."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa20965ff2a7c6bfc000a5b/girls-U16-squad-SILVER.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa20959b8d39a7499000a7a/girls-U16-squad-on-diasis-with-othersSILVER.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa206e4ff2a7c6bfc000a55/girls-U17-squad-in-action.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa206d5b8d39a7499000a74/girls-U17-squad-bronze-medal.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa206f1b8d39a7499000a76/girls-U17-squad-on-diasis-with-othersjpg.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5aa20965ff2a7c6bfc000a5b/girls-U16-squad-SILVER.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5aa20959b8d39a7499000a7a/girls-U16-squad-on-diasis-with-othersSILVER.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5aa206e4ff2a7c6bfc000a55/girls-U17-squad-in-action.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5aa206d5b8d39a7499000a74/girls-U17-squad-bronze-medal.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5aa206f1b8d39a7499000a76/girls-U17-squad-on-diasis-with-othersjpg.jpg"
 ---
 
 <p><strong>Congratulations to our WHS U16 &amp; U17 Girls Rowing Quads who&nbsp;won SILVER &amp; BRONZE at the North Island Secondary School Rowing Championships.</strong></p>

@@ -5,11 +5,11 @@ description: "Ngakuira Osborne & Kashif Shuja are the Rivercity Squash Club wome
 featured-image: 
 excerpt: "Whanganui's Ngakuira Osborne (former WHS student) & Palmerston North's Kashif Shuja are the Rivercity Squash Club women's division 1 and men's open winners for 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui's Ngakuira Osborne (former WHS student) and Palmerston North's Kashif Shuja are the Rivercity Squash Club women's division 1 and men's open winners for 2018.</span><br /><em>Photo / Supplied</em></p>

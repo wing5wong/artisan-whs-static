@@ -5,11 +5,11 @@ description: "ALL DECKED OUT: Wanganui High School in their new uniforms, provid
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>ALL DECKED OUT: &nbsp;Wanganui High School in their new uniforms, provided by funding from Pub Charity.</p>

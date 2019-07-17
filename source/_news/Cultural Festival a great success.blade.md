@@ -6,11 +6,11 @@ What a great night. Flooding in Wanganui but almost 400 people turned out to cel
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Wanganui High School Cultural Festival 2015.</span></p>

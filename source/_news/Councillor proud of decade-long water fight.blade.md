@@ -5,11 +5,11 @@ description: "Rangitīkei District Council's first Māori woman councillor Soray
 featured-image: 
 excerpt: "Rangitīkei District Council's first Māori woman councillor Soraya Peke-Mason is not standing again this year."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

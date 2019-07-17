@@ -5,11 +5,11 @@ description: "The hard training is over, there is nothing that can be added in t
 featured-image: 
 excerpt: "The hard training is over, there is nothing that can be added in the two days before the New Zealand Secondary Schools Cross Country in Timaru on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

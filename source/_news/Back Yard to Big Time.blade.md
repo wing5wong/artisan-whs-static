@@ -5,11 +5,11 @@ description: "Jess Watkin is back home in Whanganui after a maiden White Ferns t
 featured-image: 
 excerpt: "Jess Watkin is back home in Whanganui after a maiden White Ferns tour which earned her a contract with the national side."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Jess Watkin is back home in Whanganui after a maiden White Ferns tour which earned her a contract with the national side.</strong> <br />PHOTO / Bevan Conley</span></p>

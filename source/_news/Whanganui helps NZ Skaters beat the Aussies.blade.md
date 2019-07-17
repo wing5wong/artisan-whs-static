@@ -5,11 +5,11 @@ description: "Both Renee Teers & Monique Cleeve do well at the Oceania champs in
 featured-image: 
 excerpt: "Both Renee Teers & Monique Cleeve do well at the Oceania champs in Timaru."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>WHS students Renee Teers (left) and Monique Cleeve (former student) do well at the Oceania Speed Skating Championships in Timaru.</strong></p>

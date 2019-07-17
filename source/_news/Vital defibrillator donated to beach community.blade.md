@@ -5,11 +5,11 @@ description: "Diane Henare (left), George Handley, Casey Graham (WHS teacher) wi
 featured-image: 
 excerpt: "Vital defibrillator donated to beach community by the Henare family, residents of the Kai Iwi Beach community."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>DONATION: Diane Henare (left), George Handley, Casey Graham (<span>WHS teacher)</span> with Mikaere Graham (15 months) and Eva Graham (6, seated) around the new defibrillator and tamper-proof cabinet. <br />PHOTO / Paul Brooks</span></p>

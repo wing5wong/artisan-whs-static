@@ -5,11 +5,11 @@ description: "Whanganui High Schools annual Prefects Leadership Camp - Monday 30
 featured-image: 
 excerpt: "Whanganui High Schools annual Prefects Leadership Camp - Monday 30 April & Tuesday 1 May 2018."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b060ea4ff2a7c6bfc001ff4/Main-photo-4.jpg"
-	 - image: "/uploads/5b05fb78ff2a7c6bfc001fd4/IMG_3515.JPG"
-	 - image: "/uploads/5b05fb11ff2a7c6bfc001fb5/IMG_3539.JPG"
-	 - image: "/uploads/5b05fb18ff2a7c6bfc001fb7/IMG_3548.JPG"
-	 - image: "/uploads/5b05fb0eff2a7c6bfc001fb2/IMG_3535.JPG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b060ea4ff2a7c6bfc001ff4/Main-photo-4.jpg"
+     - image: "/uploads/5b05fb78ff2a7c6bfc001fd4/IMG_3515.JPG"
+     - image: "/uploads/5b05fb11ff2a7c6bfc001fb5/IMG_3539.JPG"
+     - image: "/uploads/5b05fb18ff2a7c6bfc001fb7/IMG_3548.JPG"
+     - image: "/uploads/5b05fb0eff2a7c6bfc001fb2/IMG_3535.JPG"
 ---
 
 <h3>Whanganui High Schools annual&nbsp;Prefects Leadership Camp was on Monday 30 April &amp; Tuesday 1 May 2018.</h3>

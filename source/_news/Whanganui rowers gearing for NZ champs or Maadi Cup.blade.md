@@ -5,11 +5,11 @@ description: "Whanganui rowers, including WHS past/present students are gearing 
 featured-image: 
 excerpt: "Whanganui rowers, including WHS past/present students are gearing for New Zealand Championships or Maadi Cup."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whanganui rowers, including WHS past/present students are gearing for New Zealand Championships or Maadi Cup.</p>

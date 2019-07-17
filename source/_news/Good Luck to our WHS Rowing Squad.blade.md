@@ -5,11 +5,11 @@ description: "Good Luck to our WHS Rowing Squad who are heading to Lake Karapiro
 featured-image: 
 excerpt: "Good Luck to our WHS Rowing Squad who are heading to Lake Karapiro."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Good Luck to our WHS Rowing Squad who are heading to Lake Karapiro today for the Karapiro Xmas Regatta this weekend with Aramoho Whanganui Rowing Club.&nbsp;</span></p>

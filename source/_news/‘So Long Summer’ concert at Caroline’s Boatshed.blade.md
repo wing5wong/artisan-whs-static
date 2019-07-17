@@ -5,11 +5,11 @@ description: "Whiskey Mama will be playing at the ‘So Long Summer’ concert a
 featured-image: 
 excerpt: "Whiskey Mama will be playing at the ‘So Long Summer’ concert at Caroline’s Boatshed on Sunday 17 March 2019."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><em>Whiskey Mama</em> will be playing at the&nbsp;<span>&lsquo;So Long Summer&rsquo; concert at Caroline&rsquo;s Boatshed on Sunday 17 March 2019.</span></p>

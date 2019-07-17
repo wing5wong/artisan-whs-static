@@ -5,11 +5,11 @@ description: "Whanganui's Seth Reardon, on Yamaha, could be a rider to watch out
 featured-image: 
 excerpt: "Whanganui's Seth Reardon, on Yamaha, could be a rider to watch out for at Whangamata this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui's Seth Reardon, on Yamaha, could be a rider to watch out for at Whangamata this weekend. <br /><em>PHOTO / Andy McGechan, BikesportNZ.com</em></span></p>

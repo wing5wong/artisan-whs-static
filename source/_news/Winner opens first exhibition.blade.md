@@ -5,11 +5,11 @@ description: "Mikayla Baldwin will open her first solo exhibition at Fine Arts W
 featured-image: 
 excerpt: "Mikayla Baldwin will open her first solo exhibition at Fine Arts Whanganui next week."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b1db884b8d39a74990022dd/Mikayla-Baldwin-poster-like-chron-2-June-2018.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b1db884b8d39a74990022dd/Mikayla-Baldwin-poster-like-chron-2-June-2018.jpg"
+    
+    
+    
+    
 ---
 
 <h3><span>Mikayla Baldwin will open her first solo exhibition at Fine Arts Whanganui next week.<br /></span></h3>

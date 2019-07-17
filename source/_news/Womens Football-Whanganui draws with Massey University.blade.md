@@ -5,11 +5,11 @@ description: "Teenager Eva Thompson (left) of Football Whanganui played well in 
 featured-image: 
 excerpt: "Teenager Eva Thompson (left) of Football Whanganui played well in her debut game in the starting lineup"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br />Teenager <strong>Eva Thompson</strong> (left) played well in her debut game in the staring lineup.<br /><em>PHOTO / Lewis Gardner (photo to come)</em></p>

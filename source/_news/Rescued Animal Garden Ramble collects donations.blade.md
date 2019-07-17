@@ -5,11 +5,11 @@ description: "Pernille Struijck and Adam Watkins visited the Rescued Animal Gard
 featured-image: 
 excerpt: "Pernille Struijck and Adam Watkins visited the Rescued Animal Garden Ramble with Doug the spitz and Rose the rottweiler."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former WHS student Pernille Struijck and WHS teacher Adam Watkins visited the Rescued Animal Garden Ramble with Doug the spitz and Rose the rottweiler.</span><br /><em>PHOTO / Stuart Munro</em></p>

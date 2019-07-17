@@ -5,11 +5,11 @@ description: "Congratulations to our WHS Rowers who were away in the weekend at 
 featured-image: 
 excerpt: "Congratulations to our WHS Rowers who were away in the weekend at the North Island Club Champs at Lake Karapiro."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Congratulations to our WHS Rowers who were away in the weekend at the North Island Club Champs at Lake Karapiro competing for Aramoho Whanganui Rowing Club winning GOLD and SILVER Medals. </strong></p>

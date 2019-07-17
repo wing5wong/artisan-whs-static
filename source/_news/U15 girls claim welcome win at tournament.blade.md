@@ -5,11 +5,11 @@ description: "Eileen Hodges-coached U15 Whanganui girls' rep team posted their f
 featured-image: 
 excerpt: "The Eileen Hodges-coached under-15 Whanganui girls' rep team posted their first win against Manawatu at the Central Districts age-group cricket tournament in Palmerston North."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The Eileen Hodges-coached under-15 Whanganui girls' rep team posted their first win against Manawatu at the Central Districts age-group cricket tournament in Palmerston North last week.<br /><em>Photo / Supplied<br /><br /></em></p>

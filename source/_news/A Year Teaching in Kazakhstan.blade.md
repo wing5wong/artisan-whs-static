@@ -5,11 +5,11 @@ description: "Alan and Shelly with Alan wearing a traditional outfit presented t
 featured-image: 
 excerpt: "Alan and Shelly with Alan wearing a traditional outfit presented to him by the school in Kazakhstan."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph"><strong>A Year Teaching in Kazakhstan</strong></p>

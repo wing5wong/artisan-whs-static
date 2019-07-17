@@ -5,11 +5,11 @@ description: "Noah Belchambers (front) pictured with band Late Night Tales won t
 featured-image: 
 excerpt: "Noah Belchambers (front) pictured with band Late Night Tales won the Smokefreerockquest musicianship award and will be competing for house points in Battle of the Houses performances that will be judged by NZ celebrities."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>&nbsp;What's on in Whanganui this week?</h4>

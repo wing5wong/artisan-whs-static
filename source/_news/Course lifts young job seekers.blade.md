@@ -5,11 +5,11 @@ description: "Former student Jahzia Puohotaua took part in a six-week course hel
 featured-image: 
 excerpt: "Former student Jahzia Puohotaua took part in a six-week course held at Burnham Military Camp for young people."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Jarome Hammon, Whanganui mayor Hamish McDouall, LJ Moka-Piripi, former WHS student<strong> Jahzia Puohotaua</strong>, Ministry of Social Development regional labour market manager Lu Scanlon and Angel Skelton. <br /><em>PHOTO / Stuart Munro</em></span></p>

@@ -5,11 +5,11 @@ description: "Wanganui Athletic's Jake Simcox has eyes for the ball during Satur
 featured-image: 
 excerpt: "Wanganui Athletic's Jake Simcox has eyes for the ball during Saturday's loss to Napier Marist at Wembley Park."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

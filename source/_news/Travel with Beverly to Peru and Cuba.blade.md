@@ -5,11 +5,11 @@ description: "WHS Spanish teacher Beverly Stuart lived in Peru for 12 years runn
 featured-image: 
 excerpt: "WHS teacher Beverly Stuart lived in Peru for 12 years running a pizza restaurant and working with tourists while also bringing up a family."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph">WHS Spanish teacher Beverly Stuart lived in Peru for 12 years running a pizza restaurant and working with tourists while also bringing up a family. She came to Whanganui to help look after her parents and didn&rsquo;t plan to stay long but she fell in love with the community. She would go back for the &ldquo;odd summer holidays&rdquo; but it wasn&rsquo;t until 2007 that she decided to set up her own business taking New Zealanders, initially to Peru and then later to Cuba.</p>

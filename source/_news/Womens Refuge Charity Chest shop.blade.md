@@ -5,11 +5,11 @@ description: "Former WHS student Liberty Bracegirdle is among a number of women 
 featured-image: 
 excerpt: "Former WHS student Liberty Bracegirdle is among a number of women volunteering to help at the Women’s Refuge Charity Chest shop."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Sara Owen, Lynda Armstrong and former WHS student Liberty Bracegirdle (middle) are among a number of women who have volunteered to help at the Women&rsquo;s Refuge Charity Chest shop, which opens this Saturday and will be selling top of the range clothing for the next three weeks.</span></p>

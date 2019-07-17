@@ -5,11 +5,11 @@ description: "Whanganui High School results in the NISS Athletics, 6-7 April 201
 featured-image: 
 excerpt: "Whanganui High School results in the NISS Athletics, 6-7 April 2019 in Tauranga Domain, Tauranga."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Results of NISS Athletics</h4>

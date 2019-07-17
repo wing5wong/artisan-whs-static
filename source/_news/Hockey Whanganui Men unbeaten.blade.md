@@ -5,11 +5,11 @@ description: "Patrick Madder and a predominantly young Whanganui men's team cont
 featured-image: 
 excerpt: "Patrick Madder and a predominantly young Whanganui men's team continued their unbeaten streak in Hockey Manawatu Premier Reserve grade after beating Marton Hockey Club on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/_C6cQZfs9jAv4RaJ0ZRWIF0A4e0=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/RPXYFXNETFC2JMEGOF7X6VKJLQ.jpg" alt="Patrick Madder and a predominantly young Whanganui men's team continued their unbeaten streak in Hockey Manawatu Premier Reserve grade after beating Marton Hockey Club on Saturday." /></p>

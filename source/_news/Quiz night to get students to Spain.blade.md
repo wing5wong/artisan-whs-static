@@ -5,11 +5,11 @@ description: "Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated
 featured-image: 
 excerpt: "Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia for the Quiz night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/B2RJnJuoSEybjOki2robH1SiOo8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/UG3KPBMXH5A47PETK526XHF5YY.jpg" alt="Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia." /></p>

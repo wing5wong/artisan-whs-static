@@ -5,11 +5,11 @@ description: "Whanganui's Seth Reardon continues to lead the New Zealand Enduro 
 featured-image: 
 excerpt: "Whanganui's Seth Reardon (Yamaha YZ250FX) continues to lead the New Zealand Enduro Championships after five rounds."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://www.nzherald.co.nz/resizer/Oqxu52HiHQ0wCn_ui4uq1xBGDLc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/7Y3AU7UB2JEA7DGRVOOIX4XQSA.jpg" alt="Whanganui's Seth Reardon (Yamaha YZ250FX) continues to lead the New Zealand Enduro Championships after five rounds. Photo by Andy McGechan, BikesportNZ.com " /></p>

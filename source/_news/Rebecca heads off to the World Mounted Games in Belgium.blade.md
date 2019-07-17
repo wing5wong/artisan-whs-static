@@ -5,11 +5,11 @@ description: "Rebecca Benge heads off to the World Mounted Games in Belgium repr
 featured-image: 
 excerpt: "Rebecca Benge heads off to the World Mounted Games in Belgium representing NZ."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>All the best to our Y13 student Rebecca Benge as she heads off today to the World Mounted Games in Belgium representing New Zealand.&nbsp;</span></h4>

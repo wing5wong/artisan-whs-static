@@ -5,11 +5,11 @@ description: "WHS's 'Trio Lane', Brenna Hadley, Oscar Zhang & Cypress Kani-Hurin
 featured-image: 
 excerpt: "WHS's competitors of the Chamber Music Competition 2017, 'Trio Lane' are Brenna Hadley (flute), Oscar Zhang (piano) & Cypress Kani-Hurinui (voice)."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whanganui High School's competitors of the Chamber Music Competition 2017, <em>'Trio Lane'</em> are Brenna Hadley (flute), Oscar Zhang (piano) and Cypress Kani-Hurinui (voice).<br /><em>PHOTO / Stuart Munro</em></p>

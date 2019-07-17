@@ -5,11 +5,11 @@ description: "Glastonbury Dance Studio competitors, including WHS student Jared 
 featured-image: 
 excerpt: "Glastonbury Dance Studio competitors, including WHS student Jared Sim, at the NZ Open One Dance Champs."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Glastonbury Dance Studio competitors, including WHS student Jared Sim, at the NZ Open One Dance Championships.</p>

@@ -5,11 +5,11 @@ description: "Whanganui's Special Olympians came third in both of their basketba
 featured-image: 
 excerpt: "There was tremendous excitment for a group of Whanganui's Special Olympians who came third in both of their basketball divisions at the Special Olympics Manawatu tournament"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://www.nzherald.co.nz/resizer/RLteBaWZv1-oA5MASp62JpczT5s=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/D5AM5YH4BBBMTJD6MKPC27THRY.jpg" alt="" /></p>

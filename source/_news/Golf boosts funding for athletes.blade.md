@@ -5,11 +5,11 @@ description: "Sophie Brooke (left) & Rebecca Benge help out at the barbecue M10 
 featured-image: 
 excerpt: "Sophie Brooke (left) and Rebecca Benge help out at the barbecue at the M10 Mega Wanganui Future Champs Trust golf tournament last Friday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Sophie Brooke (left) and Rebecca Benge help out at the barbecue at the M10 Mega Wanganui Future Champs Trust golf tournament last Friday.<br /><em>Photo / Paul Brooks</em></span></p>

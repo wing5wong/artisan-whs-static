@@ -5,11 +5,11 @@ description: "Swade Wallace gets his hand raised for beating Ethan Bickers at Ni
 featured-image: 
 excerpt: "Swade Wallace gets his hand raised for beating Ethan Bickers at Night of Assassins 3 at Springvale Stadium."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Swade Wallace (former WHS student) gets his hand raised for beating Ethan Bickers at Night of Assassins 3 at Springvale Stadium.</span><br /><em>PHOTO / Stuart Munro</em></p>

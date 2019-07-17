@@ -5,11 +5,11 @@ description: "Whanganui High School leads the charge for anti-bullying week..."
 featured-image: 
 excerpt: "Whanganui High School leads the charge for anti-bullying week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/kP3PrIQ34Tt99RmT1b9RTpppgXU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/TNGVO4X4TNERJMCL5KDIOS43EA.jpg" alt="Whanganui High School students write out kind messages in exchange for a cookie as part of anti-bullying week. Photo / Caitlin Currie " /></p>

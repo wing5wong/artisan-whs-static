@@ -5,11 +5,11 @@ description: "Finn Lennox, Troy Bullock, Chase Williamson, Ajah Sullivan & Alex 
 featured-image: 
 excerpt: "Budding Whanganui motocross riders Finn Lennox, left, Troy Bullock, Chase Williamson, Ajah Sullivan and Alex Luff Scott take time out at the 2019 New Zealand Junior Motocross Championships at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/46OZb8DiGZFOQMVQKSHHiuNP_cM=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/RZQMVXRG6FFO3BQL52CGMOW2KY.jpg" alt="Budding Whanganui motocross riders Finn Lennox, left, Troy Bullock, Chase Williamson, Ajah Sullivan and Alex Luff Scott take time out at the 2019 New Zealand Junior Motocross Championships at the weekend." /></p>

@@ -5,11 +5,11 @@ description: "Charlotte Stent finished third on the MVP leader-board & was named
 featured-image: 
 excerpt: "Whanganui's Charlotte Stent finished third on the MVP leader-board and was named on the Cricket Express Festival of Cricket dream team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Whanganui's Charlotte Stent finished third on the MVP leader-board and was named on the Cricket Express Festival of Cricket dream team.&nbsp;<br /></span><em></em></h4>

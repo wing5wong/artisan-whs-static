@@ -5,11 +5,11 @@ description: "Air cadets and WHS students Reuben Gould (left), Max McIntyre & So
 featured-image: 
 excerpt: "Air cadets and Whanganui High School students Reuben Gould (left), Max McIntyre and Sophie Baldwin cleaning war graves at Aramoho Cemetery."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/CnUEBJrPfXtsD8Kt2aRO0Bznj-c=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/UNKO4NEVTREDRMW4Z4522OXBTA.jpg" alt="Air cadets Reuben Gould (left), Max McIntyre and Sophie Baldwin cleaning war graves at Aramoho Cemetery. Photo/Bevan Conley" /></p>

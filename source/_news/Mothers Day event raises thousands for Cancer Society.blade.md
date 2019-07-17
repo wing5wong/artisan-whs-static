@@ -5,11 +5,11 @@ description: "Rosie Rendell (left) gives mum Samantha White a Mothers' Day smooc
 featured-image: 
 excerpt: "Rosie Rendell (left) gives mum Samantha White a Mothers' Day smooch at the cancer fundraiser."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/9X6wVS3wrXNL9ZBM-chj5GUm1jE=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/N5ASCYXHZVFSRMZDW6VE3M3B3I.jpg" alt="Rosie Rendell (left) gives mum Samantha White a Mothers' Day smooch. Photo / Lewis Gardner" /></p>

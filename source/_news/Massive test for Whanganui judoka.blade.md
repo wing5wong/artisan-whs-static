@@ -5,11 +5,11 @@ description: "Whanganui judoka Keightley Watson (left) mixes it with Dutch mento
 featured-image: 
 excerpt: "Whanganui judoka Keightley Watson (left) mixes it with Dutch mentor Grim Vuijsters and an English training partner in the Netherlands."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>BIG TIME: Whanganui judoka Keightley Watson (left) mixes it with Dutch mentor Grim Vuijsters and an English training partner in the Netherlands.</span></p>

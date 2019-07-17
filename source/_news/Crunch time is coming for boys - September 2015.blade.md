@@ -5,11 +5,11 @@ description: "ON A MISSION: Ag Challenge Wanganui Under-16 rugby coach John Chur
 featured-image: 
 excerpt: "ON A MISSION: Ag Challenge Wanganui Under-16 rugby coach John Church has one last chance to ready his lads for battle in the Hurricanes Under 16 tournament at the end of the month."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The Ag Challenge Wanganui Under-16 rugby team has one more match to prepare for the Hurricanes Under-16 tournament in Levin at the end of the month after a last-minute loss to Manawatu on Monday.</p>

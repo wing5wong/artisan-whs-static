@@ -5,11 +5,11 @@ description: "Our NCEA Level 3 Geography & Tourism students had a fantastic visi
 featured-image: 
 excerpt: "The NCEA Level 3 Geography and Tourism students had a fantastic visit to the Gold Coast of Australia to have a behind the scenes look at the tourism industry."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;NCEA Level 3 <span>Geography and Tourism&nbsp;</span>students had a fantastic visit to the Gold Coast!</p>

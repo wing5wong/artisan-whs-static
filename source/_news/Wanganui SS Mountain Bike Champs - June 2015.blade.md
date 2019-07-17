@@ -5,11 +5,11 @@ description: "Well done to our students who represented the school in the Wangan
 featured-image: 
 excerpt: "Well done to our students who represented the school in the Wanganui Secondary School Mountain Bike Champs on Friday 12 June at Harakeke Forest in Wanganui..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Well done to our students who represented the school on Friday 12 June at Harakeke Forest in Wanganui.</p>

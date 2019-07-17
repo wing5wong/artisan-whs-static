@@ -5,11 +5,11 @@ description: "Whanganui Mayor Hamish McDouall fronts a welcome for international
 featured-image: 
 excerpt: "Whanganui Mayor Hamish McDouall fronts a welcome for international students."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui Mayor Hamish McDouall fronts a welcome for international students. <br /><em>PHOTO / Bevan Conley</em></span></p>

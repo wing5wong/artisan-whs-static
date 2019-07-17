@@ -5,11 +5,11 @@ description: "Government MPs have been in Whanganui touting what the Budget can 
 featured-image: 
 excerpt: "Government MPs have been in Whanganui touting what last week's Budget can do for the region, including Labour adviser Tim Easton."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/a7fif0VZMkzTa0nARL7a4GGJomc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/EHA7MAFPC5COPDMAZBN4NLJUUI.jpg" alt="Labour adviser Tim Easton, &Aring;h&Auml;riu MP Greg O'Connor, and Labour List MP Kieran McAnulty. Photo / Bevan Conley" /></p>

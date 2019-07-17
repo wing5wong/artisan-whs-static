@@ -5,11 +5,11 @@ description: "Ardon England felt like he was \"the only gay in the village\" gro
 featured-image: 
 excerpt: "Ardon England felt like he was \"the only gay in the village\" growing up in Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><span>Former WHS student Ardon England felt like he was "the only gay in the village" growing up in Whanganui.</span><br /><em>Photo / Supplied</em></span></p>

@@ -5,11 +5,11 @@ description: "Whanganui High School students Ailie McDonald and Mikayla Baldwin 
 featured-image: 
 excerpt: "Whanganui High School students Ailie McDonald and Mikayla Baldwin are both Gen Zers."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bad9707ff2a7c1309000204/Mikaya-baldwin.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bad9707ff2a7c1309000203/Ailie-McDonald.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bad9b5aff2a7c1309000207/Capture.jpg"
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bad9707ff2a7c1309000204/Mikaya-baldwin.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bad9707ff2a7c1309000203/Ailie-McDonald.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bad9b5aff2a7c1309000207/Capture.jpg"
+    
+    
 ---
 
 <p class="element element-paragraph"><span>Ailie McDonald's website Salt Doll is providing her with an overview of how to run a business.</span><br /><em>PHOTOS / Stuart Munro</em></p>

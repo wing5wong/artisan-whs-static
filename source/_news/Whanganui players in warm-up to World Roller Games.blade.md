@@ -5,11 +5,11 @@ description: "Jimi Blinkhorne is among the starting line-up of the 12-strong squ
 featured-image: 
 excerpt: "Jimi Blinkhorne is among the starting line-up of the 12-strong squad, NZ senior men's roller hockey team in Barcelona, Spain."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

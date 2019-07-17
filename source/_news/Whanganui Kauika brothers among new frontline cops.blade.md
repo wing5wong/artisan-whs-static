@@ -5,11 +5,11 @@ description: "Joshua and Riki Kauika are award winning graduates from the Royal 
 featured-image: 
 excerpt: "Joshua and Riki Kauika are award winning graduates from the Royal New Zealand Police College."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>WHS old boys' Joshua and Riki Kauika are award winning graduates from the Royal New Zealand Police College.</strong><br /><em>Photo / Supplied</em></p>

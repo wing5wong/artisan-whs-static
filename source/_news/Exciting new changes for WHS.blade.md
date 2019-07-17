@@ -5,11 +5,11 @@ description: "New International students for Whanganui High School 2018..."
 featured-image: 
 excerpt: "New International students for Whanganui High School 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>New International students for Whanganui High School 2018.</strong></p>

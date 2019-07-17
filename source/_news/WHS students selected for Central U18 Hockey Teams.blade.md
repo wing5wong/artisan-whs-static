@@ -5,11 +5,11 @@ description: "Congratulations to Connor Hoskin, Rebecca Baker & Patrick Madder f
 featured-image: 
 excerpt: "Congratulations to Connor Hoskin, Rebecca Baker and Patrick Madder for being selected into the Central U18 Hockey Teams for 2019."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/59899131_1248564705292633_435118038631579648_n.jpg?_nc_cat=109&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=5d876ff94597ed285559e99090f3e145&amp;oe=5D5F2ED5" alt="Image may contain: 3 people, people smiling, people standing and outdoor" /></p>

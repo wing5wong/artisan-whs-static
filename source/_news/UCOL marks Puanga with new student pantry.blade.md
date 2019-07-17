@@ -5,11 +5,11 @@ description: "UCOL Whanganui has been celebrating Puanga all week with nourishin
 featured-image: 
 excerpt: "UCOL Whanganui has been celebrating Puanga all week with nourishing winter food and the Wednesday celebrations coincided with the launch of a new student pantry."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://www.nzherald.co.nz/resizer/hwyxE1WBcRKDuT5QE_4BDKlp1as=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/ZW7SOS4L4JHEJOPORFP7KB35EU.jpg" alt="Student advocate Rebekah O'Donoghue (left) and students Ciana Kui, Roema Tatupu and Summer Ruissen-Hohaia celebrate Puanga with hot soup in the UCOL Whanganui atrium. Photo / Liz Wylie" /></p>

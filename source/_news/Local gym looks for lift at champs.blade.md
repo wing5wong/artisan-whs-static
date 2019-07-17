@@ -5,11 +5,11 @@ description: "The Women's Shape class competitors pose at the NABBA Manawatu/Wan
 featured-image: 
 excerpt: "The Women's Shape class competitors pose at the NABBA Manawatu/Wanganui Championships at War Memorial Centre on Saturday afternoon, including former WHS student Michaela Sullenberger, second from the right."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><img src="https://www.nzherald.co.nz/resizer/FVE8ExjhcL1t383EKvykquoTZxI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/MDTYIN64ENAM5PHF75G3V5KHSM.jpg" alt="The Women's Shape class competitors pose at the NABBA Manawatu/Wanganui Championships at War Memorial Centre on Saturday afternoon." /></span></p>

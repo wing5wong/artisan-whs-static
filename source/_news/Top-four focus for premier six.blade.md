@@ -5,11 +5,11 @@ description: "All six teams in the Netball Whanganui premier one championship wi
 featured-image: 
 excerpt: "All six teams in the Netball Whanganui premier one championship will have their sights firmly set on making the top four with round one of the competition ending on Monday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">All six teams in the Netball Whanganui premier one championship will have their sights firmly set on making the top four with round one of the competition ending on Monday night.</p>

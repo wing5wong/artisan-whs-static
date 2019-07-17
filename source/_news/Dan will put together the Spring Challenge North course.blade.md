@@ -5,11 +5,11 @@ description: "Dan Moore is the event director and course designer of the Spring 
 featured-image: 
 excerpt: "Dan Moore, is the event director and course designer of the Spring Challenge North adventure endurance race for females."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/9VWIV7Hd-sY4LyNIG5RgzvDMbcg=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/GYJHBHLXWJHY5OND7JV4PVUAOE.jpg" alt="Competitors in last year's Spring Challenge North event. Photo / File " /></p>

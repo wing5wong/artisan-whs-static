@@ -5,11 +5,11 @@ description: "A hāngī pit was dug, food was cooked and a meal was shared at Wh
 featured-image: 
 excerpt: "A hāngī pit was dug, food was cooked and a meal was shared at Whanganui High School to celebrate Matariki."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

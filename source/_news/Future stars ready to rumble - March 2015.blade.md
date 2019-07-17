@@ -5,11 +5,11 @@ description: "YOUNG GUNS: Brayden Maua v Earl-Jay Pehi will be one of the antici
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span style="line-height: 1.5;">YOUNG GUNS: Brayden Maua v Earl-Jay Pehi will be one of the anticipated match-ups on the undercard of the River City Rumble tonight.</span></p>

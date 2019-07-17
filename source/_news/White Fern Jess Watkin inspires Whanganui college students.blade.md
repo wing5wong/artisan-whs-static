@@ -5,11 +5,11 @@ description: "White Fern Jess Watkin delivers an inspirational talk at Cullinane
 featured-image: 
 excerpt: "White Fern Jess Watkin delivers an inspirational talk at Cullinane College afternoon assembly yesterday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>White Fern Jess Watkin delivers an inspirational talk at Cullinane College afternoon assembly yesterday.</span></p>

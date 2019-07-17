@@ -5,11 +5,11 @@ description: "Lily Meade - who was selected to represent New Zealand at January'
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Lily Meade - who was selected to represent New Zealand at January's Junior World Championships in Peru - will enter the Open Women's Trickers event for the first time.</p>

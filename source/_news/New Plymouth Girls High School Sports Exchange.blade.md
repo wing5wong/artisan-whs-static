@@ -5,11 +5,11 @@ description: "Great sports exchange today against New Plymouth Girls High School
 featured-image: 
 excerpt: "Great sports exchange today against New Plymouth Girls High School."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65318346_2278896842159481_2884216761425592320_n.jpg?_nc_cat=107&amp;_nc_eui2=AeFC6gqTH0wC7IPKCnTy5OXM5MfSFDk9EjI5ZuvFDMU7UGWDo4fyQ0B49yWwTMqnmtTI4InWZsPPS3sf36a0uDq_OcgpAH2aQdVrd4yyrShJag&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=327fa9fbe7155f786dac02e6f69864a5&amp;oe=5DBE5996" alt="Image may contain: 2 people, people playing sports and outdoor" /></span></p>

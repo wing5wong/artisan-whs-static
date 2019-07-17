@@ -5,11 +5,11 @@ description: "WHS Boys U17 Football Team win against Collegiate on Saturday 1 Au
 featured-image: 
 excerpt: "WHS Boys U17 Football Team win against Collegiate on Saturday 1 August."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55bed8ddff2a7c7363000f37/Boys-U17-Football-v-Colleg1-1.8.15.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55bed8f1ff2a7c7363000f39/Boys-U17-Football-v-Colleg2-1.8.15.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55bed8feff2a7c7363000f3b/Boys-U17-Football-v-Colleg3-1.8.15.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55bed90aff2a7c7363000f3d/Boys-U17-Football-v-Colleg4-1.8.15.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55bed914ff2a7c7363000f3f/Boys-U17-Football-v-Colleg5-1.8.15.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55bed8ddff2a7c7363000f37/Boys-U17-Football-v-Colleg1-1.8.15.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55bed8f1ff2a7c7363000f39/Boys-U17-Football-v-Colleg2-1.8.15.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55bed8feff2a7c7363000f3b/Boys-U17-Football-v-Colleg3-1.8.15.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55bed90aff2a7c7363000f3d/Boys-U17-Football-v-Colleg4-1.8.15.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55bed914ff2a7c7363000f3f/Boys-U17-Football-v-Colleg5-1.8.15.gif"
 ---
 
 <p><span>Well done to our Boys U17 Football team who beat Collegiate 11-0 on Saturday 1 August. </span></p>

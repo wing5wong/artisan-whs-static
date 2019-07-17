@@ -5,11 +5,11 @@ description: "Swimming club coach Andy McLay is leaving Whanganui after five yea
 featured-image: 
 excerpt: "Swimming club coach Andy McLay is leaving Whanganui after five years service."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/yNTVLE_XNOZ8SrLKQR-9R-ycZls=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/VO7VNTCSX5EFDA3F623GGNZCVM.jpg" alt="Swimming club coach Andy McLay is leaving Whanganui after five years service." /></p>

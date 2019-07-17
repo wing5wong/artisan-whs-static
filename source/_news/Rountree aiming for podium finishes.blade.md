@@ -5,11 +5,11 @@ description: "Whanganui racer James Rountree is aiming for podium finishes in tw
 featured-image: 
 excerpt: "Whanganui racer James Rountree is aiming for podium finishes in two classes in one of his final flings in the junior ranks."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/AsxW2CWp-bgEqNmzvx1JG97jdWM=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/KUDZS7OK6ZHR7FWG5MKS6TUJEM.jpg" alt="Whanganui rider James Rountree aims for podium finishes in two class during his last fling at national junior level this weekend." /></p>

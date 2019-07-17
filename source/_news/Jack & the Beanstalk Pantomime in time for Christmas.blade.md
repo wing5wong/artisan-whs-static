@@ -5,11 +5,11 @@ description: "Colin Hedivan of Performing Arts at Whanganui High Schools in fron
 featured-image: 
 excerpt: "Colin Hedivan of Performing Arts at Whanganui High Schools in front of a Year 9 dance class."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Colin Hedivan of Performing Arts at Whanganui High Schools in front of a Year 9 dance class.</span></p>

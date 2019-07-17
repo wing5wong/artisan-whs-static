@@ -5,11 +5,11 @@ description: "Attn Jazz lovers - The Blue Orchid, showing at the Amdram Theatre,
 featured-image: 
 excerpt: "Attn Jazz lovers - The Blue Orchid, showing at the Amdram Theatre, should appeal to you."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Attn Jazz lovers - <em>The Blue Orchid</em>&nbsp;, showing at the Amdram Theatre, should appeal to you.<br /></span>Written and Directed by Graham Dack.</p>

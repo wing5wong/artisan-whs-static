@@ -5,11 +5,11 @@ description: "Wanganui Athletic's Scott Burney in a goal-mouth scramble with Hav
 featured-image: 
 excerpt: "Wanganui Athletic's Scott Burney in a goal-mouth scramble with Havelock North's Campbell Whitworth and Nick Hayward."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/G9CHMPGKQZNVrC66Byy4EiLD1JQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/6XKG5ADNENHGPDVR7JIRLAA4AQ.jpg" alt="Wanganui Athletic's Scott Burney in a goal-mouth scramble with Havelock North's Campbell Whitworth and Nick Hayward. Photo/ Lewis Gardner " /></p>

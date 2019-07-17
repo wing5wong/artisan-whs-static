@@ -5,11 +5,11 @@ description: "Whanganui High School band The Remnant are getting ready for Frida
 featured-image: 
 excerpt: "Whanganui High School band The Remnant are getting ready for Friday's Smokefree Tangata Beats finals in Auckland."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba4175aff2a7c2965000946/The-Remnant-21-septfront-page-snip.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba4176bff2a7c2965000948/The-Remnant-21-septchron-photosnip.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba411ebff2a7c2965000942/Tangata-Beats-midweek-15-aug.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba412b8ff2a7c2965000944/The-Remnant-winners.jpg"
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba4175aff2a7c2965000946/The-Remnant-21-septfront-page-snip.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba4176bff2a7c2965000948/The-Remnant-21-septchron-photosnip.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba411ebff2a7c2965000942/Tangata-Beats-midweek-15-aug.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba412b8ff2a7c2965000944/The-Remnant-winners.jpg"
+    
 ---
 
 <h4><span>Whanganui High School band 'The Remnant' are getting ready for Friday's Smokefree Tangata Beats finals in Auckland.</span></h4>

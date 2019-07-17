@@ -5,11 +5,11 @@ description: "The importance of consecutive Women's Federation League wins for t
 featured-image: 
 excerpt: "The importance of claiming consecutive Women's Federation League wins for the first time in their history cannot be overstated for Whanganui"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/D5vM6ESU-tbhHakAtkmFCYWTucY=/620x412/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/QVLBWUEGSZBEHG7D6T27K4GYJE.jpg" alt="Candice Armstrong contests the ball with the Taradale defenders." /></p>

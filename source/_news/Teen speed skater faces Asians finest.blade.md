@@ -5,11 +5,11 @@ description: "Whanganui speed skater Renee Teers seeks to qualify for the World 
 featured-image: 
 excerpt: "Whanganui speed skater Renee Teers seeks to qualify for the World Champs in the Asian Roller Skating Champs."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b872ed8ff2a7c03cc000582/Renee-Teers-chron-30-aug.gif"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b872ed8ff2a7c03cc000582/Renee-Teers-chron-30-aug.gif"
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui speed skater Renee Teers seeks to qualify for the World Champs in the Asian Roller Skating Championships in South Korea beginning next week.</strong></p>

@@ -5,11 +5,11 @@ description: "Mimesis is Lily Claypole’s debut solo exhibition has eight photo
 featured-image: 
 excerpt: "Mimesis is Lily Claypole’s debut solo exhibition has eight photographic works on display, each mimicking the subject and elements that make up PreRaphaelite paintings."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65246009_2275610602488105_7512507913693298688_n.jpg?_nc_cat=105&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=2dbaaec1c3b0d0ac9804e251b20a3251&amp;oe=5DC73E7A" alt="Image may contain: 1 person, closeup" /></p>

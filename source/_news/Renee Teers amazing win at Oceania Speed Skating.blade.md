@@ -5,11 +5,11 @@ description: "Renee Teers on the 15km Elimination podium on her way to winning t
 featured-image: 
 excerpt: "Whanganui teenager Renee Teers on the 15km Elimination podium on her way to winning the Oceania Speed Skating overall junior champion title in Brisbane over Easter."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/n4CIOWt_g4hyOq7wz-AbCbNBRnw=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/QSXODU7LFRCR7BD7P7G3MZVCHA.jpg" alt="South Canterbury skaters Rosheane O'Connor (third) and Charlotte Clarke (second) flank Whanganui teenager Renee Teers on the 15km Elimination podium on her way to winning the Oceania Speed Skating overall junior champion title in Brisbane over Easter." /></p>

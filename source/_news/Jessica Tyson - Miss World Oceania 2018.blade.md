@@ -5,11 +5,11 @@ description: "Congratulations to our former girl of WHS Jessica Tyson - Miss Wor
 featured-image: 
 excerpt: "Congratulations to our former girl of WHS Jessica Tyson - Miss World Oceania 2018!"
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c131d2dff2a7c185300004e/jessica-tyson-miss-oceania-green-dress.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c131d3cff2a7c1853000050/jessica-tyson--Miss-world.jpg"
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c131d2dff2a7c185300004e/jessica-tyson-miss-oceania-green-dress.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c131d3cff2a7c1853000050/jessica-tyson--Miss-world.jpg"
+    
+    
+    
 ---
 
 <h4>Jessica Tyson - Miss World Oceania 2018</h4>

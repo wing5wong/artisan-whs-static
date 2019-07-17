@@ -5,11 +5,11 @@ description: "The WHS 1st X1 boys' Hockey team is heading for the division one s
 featured-image: 
 excerpt: "The WHS 1st X1 boys' Hockey team is heading for the division one secondary school semifinal."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>ON THE RISE: &nbsp;The WHS 1st XI Boys' Hockey team is heading for the division one secondary school semifinal. &nbsp;The team is (back,left) Sam Pilet, Ben Luff-Scott, Ben Pilet, Joseph Redpath, Tom Adkins, Jack Pilet, Reuben Gedye, Bryn Lewis Jones; (front,left) Ronan Spence, Jimi Blinkhorne, Jordan Cohen, Ethan Cohen, Ryan Gray, Lochlan James, Travis Bayler.</p>

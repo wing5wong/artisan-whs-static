@@ -5,11 +5,11 @@ description: "Year 8 Scholarship winners 2018 - Incoming Whanganui High School S
 featured-image: 
 excerpt: "Year 8 Scholarship winners 2018 - Incoming Whanganui High School Students are."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>&nbsp;</h4>

@@ -5,11 +5,11 @@ description: "LIGHTING MAN: Exchange student Julius Stoerrle manned the lighting
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>LIGHTING MAN: Exchange student Julius Stoerrle manned the lighting desk for Annie.</p>

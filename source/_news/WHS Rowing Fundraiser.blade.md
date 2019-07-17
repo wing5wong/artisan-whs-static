@@ -5,11 +5,11 @@ description: "Whanganui High School Rowing Fundraiser. Please support our WHS Ro
 featured-image: 
 excerpt: "Whanganui High School Rowing Fundraiser. Please support our WHS Rowers for the upcoming season."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Whanganui High School Rowing Fundraiser</h4>

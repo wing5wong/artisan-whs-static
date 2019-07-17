@@ -5,11 +5,11 @@ description: "MORNING RIVER SWIM: Wanganui High School student Stefan Hannan on 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>MORNING RIVER SWIM: Wanganui High School student Stefan Hannan on the way to winning the Bridge to Bridge 3km swim in February, 2014.</p>

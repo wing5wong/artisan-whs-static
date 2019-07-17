@@ -5,11 +5,11 @@ description: "Pedro Figueira (front centre) with WHS rowers & volunteer coach Pe
 featured-image: 
 excerpt: "Pedro Figueira (front centre) with Whanganui High School rowers and volunteer coach Peter Smith."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Pedro Figueira (front centre) with Whanganui High School rowers and volunteer coach Peter Smith (in red with high-viz). <br /><em>PHOTO / Paul Brooks</em></span></p>

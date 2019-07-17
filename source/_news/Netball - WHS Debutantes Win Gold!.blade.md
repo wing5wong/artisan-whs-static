@@ -5,11 +5,11 @@ description: "WHS Gold team, went through unbeaten to win the U18 title on debut
 featured-image: 
 excerpt: "The WHS Gold team, flanked by co-coaches Lisa Murphy (left) & Kim Flower, went through unbeaten to win the U18 title on debut at the International Netball Festival Gold Coast in Australia last week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/Q-xMNRofVJvlPTCTDlbZJz8j8k0=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/G7QL56INFVAVZOPXWKW2SXJ7SU.jpg" alt="The Whanganui High School Gold team, flanked by co-coaches Lisa Murphy (left) and Kim Flower, went through unbeaten to win the U18 title on debut at the International Netball Festival Gold Coast in Australia last week." /></p>

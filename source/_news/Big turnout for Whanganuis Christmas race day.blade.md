@@ -5,11 +5,11 @@ description: "Enjoying Whanganui's big race day are former WHS students' Rose Wa
 featured-image: 
 excerpt: "Enjoying Whanganui's big race day are former WHS students' Rose Wainhouse, Aleisha Rainey, Josh Rainey, James Dorgan and Sarah McDonald."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Enjoying Whanganui's big race day are former WHS students' Rose Wainhouse, Aleisha Rainey, Josh Rainey, James Dorgan and Sarah McDonald.</span></p>

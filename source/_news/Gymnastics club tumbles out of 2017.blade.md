@@ -5,11 +5,11 @@ description: "Tara Knight completes her landing, watched by coach Nadine Pascoe 
 featured-image: 
 excerpt: "Tara Knight completes her landing, watched by coach Nadine Pascoe (former WHS student), at the Wanganui Boys and Girls Gym Club end of year programme event at Springvale Stadium."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Tara Knight completes her landing, watched by coach Nadine Pascoe (former WHS student), at the Wanganui Boys and Girls Gym Club end of year programme event at Springvale Stadium.<br /><em>PHOTO / Bevan Conley</em></span></p>

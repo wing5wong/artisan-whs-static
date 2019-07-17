@@ -5,11 +5,11 @@ description: "IN THE RUNNING: Former WHS student Jamie Newell will compete in Ha
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>IN THE RUNNING: Former WHS student Jamie Newell will compete in Hamilton on May 26 to 28 for the title Master Electricians Electrical <strong>Apprentice</strong> of the Year.</p>

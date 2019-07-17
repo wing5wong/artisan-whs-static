@@ -5,11 +5,11 @@ description: "All the best to our 'STAGE ART' performers competing at the Regent
 featured-image: 
 excerpt: "All the best to our 'STAGE ART' performers who will be competing at the Regent on Broadway in Palmerston North tonight at 6:00pm."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>All the best to our 'STAGE ART' performers (formerly Stage Challenge) who will be competing at the Regent on Broadway in Palmerston North tonight at 6:00pm</p>

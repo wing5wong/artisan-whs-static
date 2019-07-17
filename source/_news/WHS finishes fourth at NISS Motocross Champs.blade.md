@@ -5,11 +5,11 @@ description: "Whanganui High School finishes fourth at North Island Secondary Sc
 featured-image: 
 excerpt: "Whanganui High School finishes fourth at North Island Secondary Schools Motocross Championships in Rotorua."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong><img src="https://www.nzherald.co.nz/resizer/IheIQ-0RYpyOIIlSnkj6nGLBR8Q=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/RQRLW74NANAPJNCX5ZM5YGK7NA.jpg" alt="The Whanganui High School contingent at the North Island Championships in Rotorua on Friday. Top left, Alex Luff Scott , Riki Wainhouse, James Rountree. Bottom, Troy Bullock, Ajah Sullivan." /></strong></p>

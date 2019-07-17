@@ -5,11 +5,11 @@ description: "WHS Japanese students performed a traditional dance at the annual 
 featured-image: 
 excerpt: "WHS Japanese students performed a traditional dance at the annual International Cultural Festival."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Whanganui High School International Cultural Festival - Fantastic night by amazingly talented students!</span></h4>

@@ -5,11 +5,11 @@ description: "Congratulations to Lily Claypole (Year 12) for winning People's Ch
 featured-image: 
 excerpt: "Congratulations to Lily Claypole (Year 12) for winning People's Choice Award from the Wallace Secondary Schools Art Awards."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>NEWS FLASH: Congratulations to Lily Claypole (Year 12) for winning People's Choice Award from the Wallace Secondary Schools Art Awards.</h4>

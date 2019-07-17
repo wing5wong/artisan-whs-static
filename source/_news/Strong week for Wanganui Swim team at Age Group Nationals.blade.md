@@ -5,11 +5,11 @@ description: "Ethan Bryers holds up two of his three silver medals from the Aon 
 featured-image: 
 excerpt: "Ethan Bryers holds up two of his three silver medals from the Aon National Age Group Championships last week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Whanganui High School student, Ethan Bryers holds up two of his three silver medals from the Aon National Age Group Championships last week.</h4>

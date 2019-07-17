@@ -5,11 +5,11 @@ description: "Brie is busy juggling two roles at the moment; mother to Jaxson, &
 featured-image: 
 excerpt: "Brie Parkinson is busy juggling two important roles at the moment — mother to Jaxson, & production manager for Repertory Theatre’s latest production, Ugly Customers"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

@@ -5,11 +5,11 @@ description: "Former WHS student Cameron Goldfinch competes this season in the n
 featured-image: 
 excerpt: "Former WHS student Cameron Goldfinch competes this season in the new Suzuki Gixxer 150 Cup series."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>DEBUT: Former WHS student Cameron Goldfinch competes this season in the new Suzuki Gixxer 150 Cup series.<br /><em>PHOTO / Peter Goldfinch</em></p>

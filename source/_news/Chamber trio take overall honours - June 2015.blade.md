@@ -5,11 +5,11 @@ description: "MUSICAL RUSH: Still Rushin', a trio from Wanganui High School, pre
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>MUSICAL RUSH: Still Rushin', a trio from Wanganui High School, presented music by Shostakovich. They were (from left) Jeanne-Marie Bonnet, Zara Collinson and Grace Jones.</span></p>

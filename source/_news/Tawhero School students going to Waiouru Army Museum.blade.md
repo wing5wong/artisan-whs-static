@@ -5,11 +5,11 @@ description: "Tawhero School students going to Waiouru Army Museum – thanks to
 featured-image: 
 excerpt: "Tawhero School students going to Waiouru Army Museum – thanks to Freemasons."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Tawhero School students going to Waiouru Army Museum &ndash; thanks to Freemasons</p>

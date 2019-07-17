@@ -5,11 +5,11 @@ description: "The Castlecliff Club Mustangs softball team finished fourth of 13 
 featured-image: 
 excerpt: "The Castlecliff Club Mustangs softball team finished fourth of 13 teams in the Manawatu Senior Men's Reserve grade competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><img src="https://i.prcdn.co/img?regionKey=H%2fP06B2NtYN7Hpsm%2bl5BPg%3d%3d" alt="" /></span></p>

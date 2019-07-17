@@ -5,11 +5,11 @@ description: "Click on the heading to read more about WHS student Sam Malcolm se
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former Wanganui High School first-five Sam Malcolm has been named in the New Zealand Under 20s training squad.</p>

@@ -5,11 +5,11 @@ description: "Keightley wins GOLD at the Matsuru Dutch Open..."
 featured-image: 
 excerpt: "Keightley wins GOLD at the Matsuru Dutch Open."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><strong>It just keeps getting better for WHS student Keightley Watson, winning gold at the Matsuru Dutch Open. </strong></h3>

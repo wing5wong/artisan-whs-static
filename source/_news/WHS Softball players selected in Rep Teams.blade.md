@@ -5,11 +5,11 @@ description: "Congratulations to our WHS Softball players who have selected to r
 featured-image: 
 excerpt: "Congratulations to our WHS Softball players who have selected to represent Wanganui and Manawatu in the Central Regions Tournaments."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Congratulations to our WHS Softball players who have selected to represent Wanganui and Manawatu in the Central Regions Tournaments</strong> Sunday 26 November and 10 December in Palmerston North and Hastings.</p>

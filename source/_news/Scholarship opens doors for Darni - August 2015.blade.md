@@ -5,11 +5,11 @@ description: "PASSION: Former WHS student Architect Darni Struijck completed her
 featured-image: 
 excerpt: "PASSION: Former WHS student Architect Darni Struijck completed her thesis with help from Kelly and Associates."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>PASSION: Former WHS student Architect Darni Struijck completed her thesis with help from Kelly and Associates.</p>

@@ -5,11 +5,11 @@ description: "Jack Overweel did well in the 'Quarter Lake' race at the 42nd Lake
 featured-image: 
 excerpt: "Jack Overweel did well in the 'Quarter Lake' race at the 42nd Lake Taupo Cycle Challenge."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bfcc2a7ff2a7c39a8000d75/Jack-O-Taupo-race-Nov-2018-number.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bfcc2a7ff2a7c39a8000d75/Jack-O-Taupo-race-Nov-2018-number.jpg"
+    
+    
+    
+    
 ---
 
 <p><strong>WHS student Jack Overweel did well in the 40 km 'Quarter Lake' race at the Half the Lake race at the 42nd Lake Taupo Cycle Challenge.<br /></strong><em>Photo / Supplied</em></p>

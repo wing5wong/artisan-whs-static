@@ -5,11 +5,11 @@ description: "School athletes’ performances at big club night this week show o
 featured-image: 
 excerpt: "School athletes’ performances at big club night this week show off rising talent as bigger contests approach."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p data-bind="text: $data">As we get to the business end of the season the number competing and the intensity of performance rises. By the time this is published Whanganui Girls College and Cullinane College will have had their schools championships, <strong>Whanganui High School</strong> hold their championships today and Whanganui Collegiate hold the annual Inter House Match on Saturday evening.</p>

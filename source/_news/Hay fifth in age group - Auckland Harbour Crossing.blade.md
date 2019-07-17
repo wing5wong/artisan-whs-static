@@ -5,11 +5,11 @@ description: "Andrew Hay finished a creditable fifth in his age group in his fir
 featured-image: 
 excerpt: "Andrew Hay finished a creditable fifth in his age group in his first ever 2km Double Auckland Harbour Crossing."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/IXZj-19EIQ6N8ZgLt9zQqAHaY40=/620x827/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/SNOJ57JYOFBFRJPWOWOYADZR6E.jpg" alt="Whanganui teenager Andrew Hay finished fifth in his age group on debut in the Harcourts Cooper and Co Double Auckland Harbour Crossing on Saturday." /></p>

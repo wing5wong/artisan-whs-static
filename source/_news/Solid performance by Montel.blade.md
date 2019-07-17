@@ -5,11 +5,11 @@ description: "WHS goal shoot Montel Vaiao Aki produced a solid performance to he
 featured-image: 
 excerpt: "WHS goal shoot Montel Vaiao Aki produced a solid performance to help her side to a 55-46 win over Kaiwhaiki."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>WHS goal shoot Montel Vaiao Aki produced a solid performance to help her side to a 55-46 win over Kaiwhaiki on Monday night.</strong> <br /><em>PHOTO / Bevan Conley</em></span></p>

@@ -5,11 +5,11 @@ description: "Mikayla Baldwin was the recipient of the 'Artists Open Studios Wha
 featured-image: 
 excerpt: "WHS student Mikayla Baldwin was the recipient of the 'Artists Open Studios Whanganui - Peoples Choice'..."
 image_gallery:
-	 - image: "/uploads/5ab07e64ff2a7c6bfc000d85/front-of-booklet.PNG"
-	 - image: "/uploads/5ab07e7db8d39a7499000db0/written-in-back-page.PNG"
-	
-	
-	
+     - image: "/uploads/5ab07e64ff2a7c6bfc000d85/front-of-booklet.PNG"
+     - image: "/uploads/5ab07e7db8d39a7499000db0/written-in-back-page.PNG"
+    
+    
+    
 ---
 
 <p><strong>Whanganui High School student Mikayla Baldwin was the recipient of the 'Artists Open Studios Whanganui - Peoples Choice' and was awarded the honour of having her work as this years cover of the guide 2018 and $200 from the Fine Arts Gallery Whanganui.</strong></p>

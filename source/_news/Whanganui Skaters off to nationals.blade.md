@@ -5,11 +5,11 @@ description: "A squad of 10 young Whanganui artistic skaters are off to the NZ A
 featured-image: 
 excerpt: "A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic Roller Sports Championships in New Plymouth."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://i.prcdn.co/img?regionKey=Ogwn6vq%2bnEJoqdKQYCYLqg%3d%3d" alt="" /></p>

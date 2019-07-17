@@ -5,11 +5,11 @@ description: "Marist halfback Rory Gudsell runs in one of his team's nine tries 
 featured-image: 
 excerpt: "Marist halfback Rory Gudsell runs in one of his team's nine tries playing Ratana at Spriggens Park on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

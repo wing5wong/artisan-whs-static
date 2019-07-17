@@ -5,11 +5,11 @@ description: "St Johns Club Whanganui Metro begin Manawatu Colts season with 26-
 featured-image: 
 excerpt: "St Johns Club Whanganui Metro begin Manawatu Colts season with 26-17 win over Massey White."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/KB1pAbTn6dh5czZbKOqFeGmUkKk=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/S3DSUGCYHRDNXH5TJRQJ3X5A2M.jpg" alt="St Johns Club Whanganui Metro begin Manawatu Colts season with 26-17 win over Massey White." /></p>

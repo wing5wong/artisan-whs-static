@@ -5,11 +5,11 @@ description: "Finals Day at Laird Park on Saturday 29 August for WHS Netball Tea
 featured-image: 
 excerpt: "Finals Day at Laird Park on Saturday 29 August for WHS Netball Teams."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55e390a0ff2a7c0777000a15/Netball-2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55e39097ff2a7c0777000a13/Netball-3.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55e3908dff2a7c0777000a11/Netball-4.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55e39084ff2a7c0777000a0f/Netball-5.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55e39079ff2a7c0777000a0d/Netball-6.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55e390a0ff2a7c0777000a15/Netball-2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55e39097ff2a7c0777000a13/Netball-3.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55e3908dff2a7c0777000a11/Netball-4.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55e39084ff2a7c0777000a0f/Netball-5.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55e39079ff2a7c0777000a0d/Netball-6.jpg"
 ---
 
 <p><span>Finals Day at Laird Park on Saturday 29 August for WHS Netball Teams. </span></p>

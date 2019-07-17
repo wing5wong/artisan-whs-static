@@ -5,11 +5,11 @@ description: "1st place at the Chess Competition were our A Team students.  L-R;
 featured-image: 
 excerpt: "1st place at the Chess Competition were our A Team students.  L-R;  Victor Xie, Dekin Chadfield and Shae Kairau."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/64319945_2263344460381386_5015282183972061184_n.jpg?_nc_cat=101&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=f74271021075ee8a58f47e598611b09a&amp;oe=5D810D07" alt="Image may contain: 3 people, people smiling, people standing" /></p>

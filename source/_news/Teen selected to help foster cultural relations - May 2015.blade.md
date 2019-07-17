@@ -5,11 +5,11 @@ description: "ADVENTURE AHEAD: Mika Gordon leaves Wanganui for Thailand next wee
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>ADVENTURE AHEAD: Wanganui High School student Mika Gordon leaves Wanganui for Thailand next week, where she will attend school to learn and teach.</span></p>

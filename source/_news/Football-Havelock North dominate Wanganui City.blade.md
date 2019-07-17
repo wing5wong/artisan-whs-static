@@ -5,11 +5,11 @@ description: "Havelock North Wanderers midfielder Sam Waddington derails Wanganu
 featured-image: 
 excerpt: "Havelock North Wanderers midfielder Sam Waddington derails Wanganui City's Jordan Joblin-Hall in the Central Federation match at Guthrie Park, Hastings."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/uDKopDCDzmOYYrUPSjDt2E942b8=/620x574/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/DHQYYMTGS5GJDD7QWF3QKIQ5AE.jpg" alt="Havelock North Wanderers midfielder Sam Waddington derails Wanganui City's Jorbin Goblin-Hall in the Central Federation match at Guthrie Park, Hastings, today. Photo/Paul Taylor" /></p>

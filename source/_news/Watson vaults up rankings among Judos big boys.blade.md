@@ -5,11 +5,11 @@ description: "Keightley Watson, right, has risen sharply up the world rankings a
 featured-image: 
 excerpt: "Keightley Watson has risen sharply up the world rankings with his bronze in the 100kg+ senior men division at the 2018 Perth Oceania Open at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Keightley Watson, right, has risen sharply up the world rankings with his bronze in the 100kg+ senior men division at the 2018 Perth Oceania Open at the weekend.</strong><br /><em>Photo / Supplied</em></span></p>

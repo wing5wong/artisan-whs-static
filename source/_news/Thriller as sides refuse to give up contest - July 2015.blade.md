@@ -5,11 +5,11 @@ description: "ON SONG: Kerwyn Morgan (pictured earlier in the season) gave Wanga
 featured-image: 
 excerpt: "ON SONG: Kerwyn Morgan (pictured earlier in the season) gave Wanganui High School impetus in a tight game against Kaierau on Monday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>ON SONG: Kerwyn Morgan (pictured earlier in the season) gave Wanganui High School impetus in a tight game against Kaierau on Monday night.</span></p>

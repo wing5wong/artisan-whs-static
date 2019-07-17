@@ -5,11 +5,11 @@ description: "WHS student Jared Sim (left) will be one of the competitors at the
 featured-image: 
 excerpt: "WHS student Jared Sim (left) will be one of the competitors at the Dancesport Champs on Saturday 5 May 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS student Jared Sim (left) will be one of the competitors at the Dancesport Champs.</span></p>

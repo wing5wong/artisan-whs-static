@@ -5,11 +5,11 @@ description: "HEADING STATESIDE: Wanganui golfer and former WHS student Amber-Ro
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>HEADING STATESIDE: Wanganui golfer and former WHS student Amber-Rose Thompson-Newth has received two offers to join an American university on full scholarship.</span></p>

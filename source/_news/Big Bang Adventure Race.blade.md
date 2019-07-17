@@ -5,11 +5,11 @@ description: "On 4 November WHS took 4 teams of 4 to the Big Bang 6 hour adventu
 featured-image: 
 excerpt: "On 4 November WHS took 4 teams of 4 to the Big Bang 6 hour adventure race just out of Levin."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a08d53ab8d39a7731000b68/group-before-departing.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a04be1fb8d39a773100093b/20171104_070439.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a04be61b8d39a7731000942/20171104_070529.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a04be45b8d39a773100093f/20171104_070513.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a04be34b8d39a773100093d/20171104_070451.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a08d53ab8d39a7731000b68/group-before-departing.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a04be1fb8d39a773100093b/20171104_070439.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a04be61b8d39a7731000942/20171104_070529.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a04be45b8d39a773100093f/20171104_070513.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a04be34b8d39a773100093d/20171104_070451.jpg"
 ---
 
 <p>On 4&nbsp;November Whanganui High School took 4 teams of 4 to the Big Bang 6 hour adventure race just out of Levin.&nbsp;</p>

@@ -5,11 +5,11 @@ description: "Aspen Fell and Callista Booth-Richards achievements at the Upper H
 featured-image: 
 excerpt: "Congratulations to Aspen Fell and Callista Booth-Richards on their recent success at the Upper Hutt Open Day, Artistic Roller Skating Competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65631066_2285523924830106_5642304468105035776_n.jpg?_nc_cat=103&amp;_nc_oc=AQnnH0BwmJGIhQkm4Zt_TcDsd6MYiO1xtGcguJRiM-clEQLgDlI-btR8sHXQUZLUt8w&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=3ec5e0fb176e4f9a3a247e1a16a20900&amp;oe=5D8334FE" alt="Image may contain: 2 people, people smiling, people standing and shoes" /></p>

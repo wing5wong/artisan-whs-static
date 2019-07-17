@@ -5,11 +5,11 @@ description: "Fergus Smith was a recipient of the latest round of Mitre 10 Mega 
 featured-image: 
 excerpt: "Wanganui Golf Club's and former WHS student Fergus Smith was a recipient of the latest round of Mitre 10 Mega Future Champions Trust funding."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui Golf Club's and former WHS student Fergus Smith was a recipient of the latest round of Mitre 10 Mega Future Champions Trust funding.<br /><em>PHOTO / Stuart Munro</em></p>

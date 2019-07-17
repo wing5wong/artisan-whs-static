@@ -5,11 +5,11 @@ description: "Winners of the Reading & Literacy in Manawatu Readers Cup for Y9 s
 featured-image: 
 excerpt: "Winners of the Reading & Literacy in Manawatu Readers Cup for Y9 students."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Winners of the Reading &amp; Literacy in Manawatu Readers Cup for Year 9 students.</h4>

@@ -5,11 +5,11 @@ description: "Whanganui heavyweight Keightley Watson is shaping up as a world be
 featured-image: 
 excerpt: "Whanganui heavyweight Keightley Watson is shaping up as a world beater on the international judo mat."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><span>Whanganui heavyweight Keightley Watson is shaping up as a world beater on the international judo mat.<br /></span></h3>

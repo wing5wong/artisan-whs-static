@@ -5,11 +5,11 @@ description: "Whanganui's Seth Reardon is in third spot in NZ champs, with rival
 featured-image: 
 excerpt: "Whanganui's Seth Reardon is in third spot in NZ champs, with rivals heading overseas, may have a shot."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/cyqDW9HqY77WFOCWg3FjcM1mALM=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/EI2VGN4CZZFIJG55VK6RTWEDK4.jpg" alt="By remaining consistent, Whanganui's Seth Reardon (Yamaha) is possibly now in a prime position to win his first national title. Photo by Andy McGechan " /></p>

@@ -5,11 +5,11 @@ description: "WHS results at the WSS Cross Country held at Tawhero Golf Course o
 featured-image: 
 excerpt: "WHS results at the WSS Cross Country held at Tawhero Golf Course on Thursday 23 May 2019."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui Secondary School Cross Country was held at Tawhero Golf Course yesterday&nbsp; &nbsp;<span class="_5mfr"><span class="_6qdm">🏃&zwj;♂️</span></span><span class="_5mfr"><span class="_6qdm">🏃&zwj;♀️</span></span></p>

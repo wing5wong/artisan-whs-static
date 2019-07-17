@@ -5,11 +5,11 @@ description: "VICTORY IN HIS SIGHTS: Wanganui High School's Daniel Kauika powers
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Daniel Kauika powers to the finish line in 1:0316 to win Gold in the J19 Boys W1 250m final at the 2015 ActivePost National Secondary School Waka Ama Championships in Rotorua last week.</p>

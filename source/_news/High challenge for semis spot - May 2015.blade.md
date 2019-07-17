@@ -5,11 +5,11 @@ description: "After two narrow losses in the opening games of the Manawatu colts
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>After two narrow losses in the opening games of the Manawatu colts club competition, the Wanganui High School 1st XV have climbed into touching distance of the top four.</p>

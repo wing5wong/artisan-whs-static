@@ -5,11 +5,11 @@ description: "Whanganui audiences who caught the Matariki Glow Show may not be a
 featured-image: 
 excerpt: "Whanganui audiences who caught the Matariki Glow Show at the Opera House this week may not be aware that one of the talented team behind it is from Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/HFpHalxBXpTO6oH32efc8OJLfhM=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/NVLWZECBUJCM7H2CMUZ4EPV3JA.jpg" alt="Whanganui export Midge Perez enjoyed a recent holiday in Thailand as a break from his busy life teaching and producing music and theatre. Photo/Supplied" /></p>

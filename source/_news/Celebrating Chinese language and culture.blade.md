@@ -5,11 +5,11 @@ description: "Beck Ding guides Year 9 Chinese language students through a callig
 featured-image: 
 excerpt: "Beck Ding guides Year 9 Chinese language students through a calligraphy class at Whanganui High School."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Beck Ding guides Year 9 Chinese language students through a calligraphy class at Whanganui High School.</strong> <br />PHOTO / Lewis Gardner</span></p>

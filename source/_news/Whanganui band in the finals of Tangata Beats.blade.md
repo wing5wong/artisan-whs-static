@@ -5,11 +5,11 @@ description: "WHS Band 'The Remnant' performed at this year's Smokefreerockquest
 featured-image: 
 excerpt: "WHS Band 'The Remnant' performed at this year's Smokefreerockquest & qualified to perform in the Tangata Beats section."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The Remnant (from left) Chester Nevil, Cypress Kani-Hurinui, Joshua Waitai and Tokararangi Poa. Absent is Wiremu Rogan. <br />PHOTO / Paul Brooks</span></p>

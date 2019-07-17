@@ -5,11 +5,11 @@ description: "WHS Prefect team took to the streets of Wellington to participate 
 featured-image: 
 excerpt: "WHS Prefect team took to the streets of Wellington on 20-21 March to participate in team bonding activities in order to grow closer as a prefect team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/56184165_2147438225305344_9055330178678390784_n.jpg?_nc_cat=110&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=968c836776c2680139a9092df5bd5111&amp;oe=5D4084EA" alt="Image may contain: 6 people, people smiling, sky and outdoor" /></p>

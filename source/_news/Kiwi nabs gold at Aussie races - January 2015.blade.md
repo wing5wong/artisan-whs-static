@@ -5,11 +5,11 @@ description: "HEFTY HAUL: Wanganui rower Liberty Bracegirdle won four gold medal
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>HEFTY HAUL: &nbsp;Wanganui rower Liberty Bracegirdle won four gold medals competing at the MRA Regatta in Australia.</p>

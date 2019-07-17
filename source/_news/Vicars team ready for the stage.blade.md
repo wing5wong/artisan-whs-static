@@ -5,11 +5,11 @@ description: "The Vicar of Dibley will be at Amdram Theatre for the next week. M
 featured-image: 
 excerpt: "The Vicar of Dibley will be at Amdram Theatre for the next week. Mike and I have loved being part of the team"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

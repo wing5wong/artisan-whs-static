@@ -5,11 +5,11 @@ description: "Fantastic results for Ethan Bryers and Cheyenne Nightingale at the
 featured-image: 
 excerpt: "Fantastic results for Ethan Bryers and Cheyenne Nightingale at the NISS Championships on Saturday 11 May."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/60612666_2216592475056585_4308355409141301248_n.jpg?_nc_cat=106&amp;_nc_eui2=AeEYBRdbDFLcpX_4kJMX8c-dTfpQmJXLXwTJjQWe5_YPVRboIfC_zA_AEZpcYY1zdjiCN3gGEw2dXES4ti55a41rDuqpooL-awqtfvibkieHEQ&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=7629880b940fdddd00a41c581160a627&amp;oe=5D98DABA" alt="Image may contain: 2 people, people smiling, closeup" /></p>

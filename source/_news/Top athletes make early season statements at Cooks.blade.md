@@ -5,11 +5,11 @@ description: "Whanganui's leading middle distance specialists Rebecca Baker (pic
 featured-image: 
 excerpt: "Whanganui's leading middle distance specialists Rebecca Baker & Liam Back make early season statements on Tuesday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Whanganui's leading middle distance specialists</strong> <span><strong>Rebecca Baker</strong> (pictured) and&nbsp;</span>Liam Back make early season statements on Tuesday night.</span></p>

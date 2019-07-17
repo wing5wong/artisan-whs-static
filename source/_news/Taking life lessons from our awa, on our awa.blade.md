@@ -5,11 +5,11 @@ description: "Whanganui's Ash Patea - educator, river guide and entrepreneur, wi
 featured-image: 
 excerpt: "Whanganui's Ash Patea - educator, river guide and entrepreneur, with more to come."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui's Ash Patea (former WHS student) - educator, river guide and entrepreneur, with more to come.</span></p>

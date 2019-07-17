@@ -5,11 +5,11 @@ description: "Congratulations Mr Barnett who ran the Ironman 70.3 World Champs i
 featured-image: 
 excerpt: "Congratulations Mr Barnett who ran the Ironman 70.3 World Champs in 4:40 hours!"
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caf20ff2a7c03cc00066a/2.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caf11ff2a7c03cc000668/3.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caeeeff2a7c03cc000666/4.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caee0ff2a7c03cc000664/5.gif"
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caf20ff2a7c03cc00066a/2.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caf11ff2a7c03cc000668/3.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caeeeff2a7c03cc000666/4.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caee0ff2a7c03cc000664/5.gif"
+    
 ---
 
 <h4>Congratulations Mr Barnett, our Head of Outdoor Education teacher!!</h4>

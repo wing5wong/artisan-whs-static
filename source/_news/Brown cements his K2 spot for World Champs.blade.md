@@ -5,11 +5,11 @@ description: "Max Brown (left), & Kiwi K2 teammate Kurtis Imrie have made the NZ
 featured-image: 
 excerpt: "Whanganui paddler Max Brown (left), and Kiwi K2 teammate Kurtis Imrie have made the New Zealand team for the Canoe Sprint World Championships in Hungary in August."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

@@ -5,11 +5,11 @@ description: "Central Districts' Jess Watkin smashes 11 sixes in double-century 
 featured-image: 
 excerpt: "Central Districts' Jess Watkin smashes 11 sixes in double-century at national under-21 tourney."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Wellington's bowlers had no answer to Central Districts' Jess Watkin who clobbered 200 off 123 balls at the national under-21 tournament in Auckland.</strong></p>

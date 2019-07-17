@@ -5,11 +5,11 @@ description: "Workshop for High School bands/solo acts who are entering the Rock
 featured-image: 
 excerpt: "Workshop for High School bands/solo acts who are entering the Rockquest."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Workshop for High School bands/solo acts who are entering the Rockquest.</span></p>

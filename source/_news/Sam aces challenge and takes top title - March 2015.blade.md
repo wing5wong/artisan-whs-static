@@ -5,11 +5,11 @@ description: "GOOD WIN:Sam Russell of WHS took out the secondary school boys' ti
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>GOOD WIN: &nbsp;Sam Russell of Wanganui High School took out the secondary school boys' title at the Wanganui Tennis Club's jun champs, beating Collegiate's Issei Kirosaki in the final.</p>

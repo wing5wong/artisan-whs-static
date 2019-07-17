@@ -5,11 +5,11 @@ description: "Michaela Sullenberger (former student), centre, competing in the N
 featured-image: 
 excerpt: "Whanganui's Michaela Sullenberger (former student), centre, competing in the Novice Shape division at the 2017 NABBA Manawatu/Wanganui/Taranaki champs."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5afbb372ff2a7c6bfc001d95/Audrey-okeeffe-receiving-award-11-may-2018.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5afbb372ff2a7c6bfc001d95/Audrey-okeeffe-receiving-award-11-may-2018.jpg"
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui's <strong>Michaela Sullenberger</strong> (former student), centre, competing with Eden McBeth Kibblewhite, left and Nathalie van Weers in the Novice Shape division at the 2017 NABBA Manawatu/ Wanganui/Taranaki championships.<br /><em>PHOTO / File</em></span></p>

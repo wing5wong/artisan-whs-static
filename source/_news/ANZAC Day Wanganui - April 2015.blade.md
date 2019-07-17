@@ -5,11 +5,11 @@ description: "ANZAC Day Wanganui, Wanganui Chronicle photo 25/4/15."
 featured-image: 
 excerpt: "ANZAC Day Wanganui, Wanganui Chronicle photo 25/4/15."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h1>&nbsp;</h1>

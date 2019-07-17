@@ -5,11 +5,11 @@ description: "Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for t
 featured-image: 
 excerpt: "Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of Rangitīkei/Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of Rangitīkei/ Whanganui.</span><br />PHOTO /&nbsp;<span>Bevan Conley.</span></p>

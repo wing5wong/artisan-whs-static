@@ -5,11 +5,11 @@ description: "A fractured fibula has relegated Whanganui judoka Keightley Watson
 featured-image: 
 excerpt: "A fractured fibula has relegated Whanganui judoka Keightley Watson to the injured list giving him a well-earned rest back home in New Zealand."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>LAID UP:&nbsp;&nbsp;<span>A fractured fibula has relegated Whanganui judoka Keightley Watson to the injured list giving him a well-earned rest back home in New Zealand.<br />PHOTO / Bevan Conley</span></p>

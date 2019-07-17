@@ -5,11 +5,11 @@ description: "Wanganui's own Lily Meade with unbeaten performances at Lake Wirit
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>WANGANUI'S own Lily Meade franked the form that gained her selection to the junior world water skiing championships in Peru with unbeaten performances at Lake Wiritoa at the weekend.</p>

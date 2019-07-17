@@ -6,11 +6,11 @@ Click on above for more information..."
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span style="line-height: 1.5;">This week is an exciting week for our school with the start of the redevelopment of our school outdoor courts. The WHS Board has been working hard to make sure the new facility is up to standard for our PE classes to use as part of their curriculum and a wide range of our sports teams for their training's.&nbsp;</span></p>

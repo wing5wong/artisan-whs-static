@@ -5,11 +5,11 @@ description: "The Whanganui High School kapa haka group, Kia Whaiora, welcomes v
 featured-image: 
 excerpt: "The Whanganui High School kapa haka group, Kia Whaiora, welcomes visitors bringing the school a taonga at a special assembly."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>The Whanganui High School kapa haka group, Kia Whaiora, welcomes visitors bringing the school a taonga at a special assembly. The gift is their story of the origin of the Whanganui River.<br /></strong><em>PHOTO / Bevan Conley</em><br /><strong><br /><a href="http://www.nzherald.co.nz/wanganui-chronicle/news/article.cfm?c_id=1503426&amp;objectid=11996013">Watch video of WHS Kapa Haka group</a></strong></p>

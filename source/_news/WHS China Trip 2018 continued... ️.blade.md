@@ -5,11 +5,11 @@ description: "Students all happy and safe! Here we are staying in a hotel withou
 featured-image: 
 excerpt: "Students all happy and safe! Here we are staying in a hotel without wifi so if you have a message to pass on then please add to this email thread."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span class="_5mfr _47e3"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/fc6/1/16/1f1e8_1f1f3.png" alt="" width="16" height="16" /></span>&nbsp;WHS China Trip 2018&nbsp;&nbsp;<span class="_5mfr _47e3"><img class="img" src="https://static.xx.fbcdn.net/images/emoji.php/v9/fb6/1/16/2708.png" alt="" width="16" height="16" /></span></p>

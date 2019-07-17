@@ -5,11 +5,11 @@ description: "Cigna's Nathan Thomas was impressed with Clarissa Nowak's academic
 featured-image: 
 excerpt: "Cigna's Nathan Thomas was impressed with Clarissa Nowak's academic ability, communication skills and community involvement."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Cigna's Nathan Thomas was impressed with Clarissa Nowak's academic ability, communication skills and community involvement. <br />Photo / Supplied</span></p>

@@ -5,11 +5,11 @@ description: "Winter Tournament Week, Monday 31 August until Friday 4 September.
 featured-image: 
 excerpt: "Winter Tournament Week, Monday 31 August until Friday 4 September. Good Luck WHS teams!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Wishing good luck to all our sports teams heading away to tournament week this week.</span></p>

@@ -5,11 +5,11 @@ description: "STANDOUTS: Wanganui High School's Jessica Brougham and Kayla Spenc
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>STANDOUTS: &nbsp;Wanganui High School's Jessica Brougham and Kayla Spencer will be two of the leading local rowers to compete at the school championships today.</p>

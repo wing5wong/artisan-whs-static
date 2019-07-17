@@ -5,11 +5,11 @@ description: "Whanganui returnee Nick Robertson & Whanga-newbie Rebecca Hay are 
 featured-image: 
 excerpt: "Whanganui returnee Nick Robertson and Whanga-newbie Rebecca Hay are laying down the law."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui returnee <strong>Nick Robertson</strong> and Whanga-newbie Rebecca Hay are laying down the law. <br /><em>PHOTO / Stuart Munro</em></span></p>

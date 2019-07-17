@@ -5,11 +5,11 @@ description: "Isaiah Tubayan and Christina Donne-Lee stumbling on the letter V a
 featured-image: 
 excerpt: "Isaiah Tubayan and Christina Donne-Lee stumbling on the letter V at Spelling Bee semifinal."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Isaiah Tubayan and Christina Donne-Lee were eliminated from the Spelling Bee after stumbling on the words veritable and vapidity respectively. <br />Photo / Supplied</span></p>

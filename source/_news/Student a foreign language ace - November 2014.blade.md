@@ -5,11 +5,11 @@ description: "Click heading to read about how Taliah Su'a is achieving on a worl
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui High School student Taliah Su'a has achieved a score of 52,000 points for Spanish learning on Language Perfect, an online study platform.</p>

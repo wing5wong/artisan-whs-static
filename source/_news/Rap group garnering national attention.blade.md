@@ -5,11 +5,11 @@ description: "Jono and Ben's Guy Williams has been in Whanganui filming with Wha
 featured-image: 
 excerpt: "Jono and Ben's Guy Williams has been in Whanganui filming a segment with Whanganui rap group Machete Clan."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b9198dcff2a7c2965000022/Isaac-Chamberlain-chron-5-sept-guy-williams.gif"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b9198dcff2a7c2965000022/Isaac-Chamberlain-chron-5-sept-guy-williams.gif"
+    
+    
+    
+    
 ---
 
 <p><span>Jono and Ben's Guy Williams, second from left, has been in Whanganui filming a segment with Whanganui rap group Machete Clan, all former WHS students.</span></p>

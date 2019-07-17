@@ -5,11 +5,11 @@ description: "CONGRATS to Lily Claypole for getting her \"Portrait of a Young Ar
 featured-image: 
 excerpt: "Congratulations to Lily Claypole for getting her \"Portrait of a Young Artist\" accepted as a finalist for the Wallace Secondary School Art Awards."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Congratulations to Lily Claypole for getting her "Portrait of a Young Artist" accepted as a finalist for the Wallace Secondary School Art Awards.&nbsp;</h4>

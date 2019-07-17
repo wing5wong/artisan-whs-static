@@ -5,11 +5,11 @@ description: "WHS student Riki and Shayne Wainhouse with their prizes from the 4
 featured-image: 
 excerpt: "WHS student Riki and Shayne Wainhouse with their prizes from the 4 Hour and Junior 90 cross country endurance racing at Taupo on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>WHS student Riki and Shayne Wainhouse with their prizes from the 4 Hour and Junior 90 cross country endurance racing at Taupo on Saturday.</strong></p>

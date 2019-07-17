@@ -5,11 +5,11 @@ description: "Monk (cox), Bridger, Hogan, Murphy (stroke) & Manville win gold at
 featured-image: 
 excerpt: "Aramoho Whanganui win gold in the women’s club coxed four at the NI Rowing Champs. The crew Monk (cox), Bridger, Hogan, Murphy (stroke) & Manville."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Aramoho Whanganui win gold in the women&rsquo;s club coxed four at the North Island Rowing Champs on Lake Karapiro. The crew (in yellow and red and all from WHS) with coach Dave Dudley are Campbell Monk (cox), Jaimee Bridger, Grace Hogan (former student), Niamh Murphy (stroke) and Mikayla Manville.<br /><em></em></h4>

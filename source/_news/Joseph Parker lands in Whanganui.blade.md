@@ -5,11 +5,11 @@ description: "Champion boxer Joseph Parker arrives for 4-day Whanganui visit..."
 featured-image: 
 excerpt: "Champion boxer Joseph Parker arrives for 4-day Whanganui visit."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Champion boxer Joseph Parker arrives for 4-day Whanganui visit.&nbsp; He<span>&nbsp;gives the thumbs up to star struck fans as he enters the Whanganui Airport terminal.</span><br />PHOTO /&nbsp; Stuart Munro</span></p>

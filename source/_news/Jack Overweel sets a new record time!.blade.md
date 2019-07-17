@@ -5,11 +5,11 @@ description: "Jack Overweel produced another 1st, 2nd & 3rd at the Club Scratch 
 featured-image: 
 excerpt: "Jack Overweel produced another 1st, 2nd and 3rd at the Club Scratch Race Championships held at Johnston Park in Feilding on Tuesday 19 February."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Jack Overweel produced another 1st, 2nd and 3rd!</h4>

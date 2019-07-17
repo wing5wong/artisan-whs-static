@@ -5,11 +5,11 @@ description: "WHS House Quiz 2019 was a huge success! Hundreds of students atten
 featured-image: 
 excerpt: "WHS House Quiz 2019 was a huge success! Hundreds of students attended, and an eventful day was had by all."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>House Quiz 2019</span></h4>

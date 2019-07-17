@@ -5,11 +5,11 @@ description: "Congratulations to our WHS athletes who have made the NISS Champs 
 featured-image: 
 excerpt: "Congratulations to our WHS athletes who have made the NISS Champs Athletics Team."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ab886f6ff2a7c6bfc000f97/Students-going-to-NISS-champs-in-April.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ab886f6ff2a7c6bfc000f97/Students-going-to-NISS-champs-in-April.jpg"
+    
+    
+    
+    
 ---
 
 <p><span>Congratulations to the below WHS athletes who have made the Wanganui Secondary School Athletics team to compete at the North Island Secondary School Champs in Wanganui on April 6-8.&nbsp;</span></p>

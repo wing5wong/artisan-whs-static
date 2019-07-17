@@ -6,11 +6,11 @@ Held at Waiouru Army Military camp on Thursday 21 May."
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

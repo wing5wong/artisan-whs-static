@@ -5,11 +5,11 @@ description: "Wanganui High School went away to Lake Karapiro in March with a st
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Gold medal winners of the Maadi Cup 2015 Jessica Brougham and Kayla Spencer.</strong></p>

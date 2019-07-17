@@ -5,11 +5,11 @@ description: "Former WHS Music teacher, Teiron Jones honoured by Wanganui Commun
 featured-image: 
 excerpt: "Former WHS Music teacher, Teiron Jones honoured by Wanganui Community Choir."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui Community Choir presenting Memorial Concert this Saturday in honour of former Whanganui High School Music teacher Teiron Jones.</p>

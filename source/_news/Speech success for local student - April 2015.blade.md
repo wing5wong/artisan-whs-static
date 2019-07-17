@@ -5,11 +5,11 @@ description: "OUTSTANDING: Waimarama Matena with NZ Police's Central District co
 featured-image: 
 excerpt: "OUTSTANDING: Waimarama Matena with NZ Police's Central District commander Superintendent Sue Schwalger after winning the regional 2015 Race Unity Speech Award..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>OUTSTANDING: Waimarama Matena with NZ Police's Central District commander Superintendent Sue Schwalger after winning the regional 2015 Race Unity Speech Award. Police sponsor the contest.</p>

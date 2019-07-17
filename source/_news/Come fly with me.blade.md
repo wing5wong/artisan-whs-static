@@ -5,11 +5,11 @@ description: "Jared Kirk wants a future where he can share the joy of travel wit
 featured-image: 
 excerpt: "Jared Kirk wants a future where he can share the joy of travel with his family through his flying."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c05b9c9ff2a7c39a8000f2b/Jared-Kirk-photo-of-planes-1-Dec-2018.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c05b9c9ff2a7c39a8000f2b/Jared-Kirk-photo-of-planes-1-Dec-2018.jpg"
+    
+    
+    
+    
 ---
 
 <p><span>Former WHS student Jared Kirk wants a future where he can share the joy of travel with his family through his flying.</span><br /><em>PHOTO /&nbsp;Jacob McSweeny</em></p>

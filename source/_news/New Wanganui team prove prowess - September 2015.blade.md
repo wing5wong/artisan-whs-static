@@ -5,11 +5,11 @@ description: "TEAM STAR: Wanganui's Hannah Smith (former WHS student) was the be
 featured-image: 
 excerpt: "TEAM STAR: Wanganui's Hannah Smith (former WHS student) was the best local performer at the artistic skating national championships in Taranaki."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>TEAM STAR: Wanganui's Hannah Smith (former WHS student)&nbsp;was the best local performer at the artistic skating national championships in Taranaki.</span></p>

@@ -5,11 +5,11 @@ description: "Laura Hardcastle wins prestigious New Zealand Law Foundation Clear
 featured-image: 
 excerpt: "Laura Hardcastle wins prestigious New Zealand Law Foundation Cleary Memorial Prize."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Ex Whanganui High School student,&nbsp;Laura Hardcastle, wins prestigious New Zealand Law Foundation Prize.</h4>

@@ -5,11 +5,11 @@ description: "Carla Donson (left) and Sarah Williams with works by Mike Marsh an
 featured-image: 
 excerpt: "Carla Donson (left) and Sarah Williams with works by Mike Marsh and Whanganui High School teacher Graham Hall."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>NIGHT ART: Carla Donson (left) and Sarah Williams with works by Mike Marsh and <strong>Whanganui High School teacher Graham Hall.</strong></span></p>

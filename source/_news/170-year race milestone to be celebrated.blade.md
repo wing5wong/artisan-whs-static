@@ -5,11 +5,11 @@ description: "Kerry Ranginui is the celebrity judge for today's fashion stakes a
 featured-image: 
 excerpt: "Kerry Ranginui is the celebrity judge for today's fashion stakes at the Wanganui Jockey Club Races."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former WHS student Kerry Ranginui is the celebrity judge for today's fashion stakes at the Wanganui Jockey Club Races.<br /><em>Photo / File<br /><br /></em></p>

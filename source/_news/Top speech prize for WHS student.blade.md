@@ -5,11 +5,11 @@ description: "Sophia 'Unga-Cribb brought home the Taa Turi Kara trophy for winni
 featured-image: 
 excerpt: "Sophia 'Unga-Cribb brought home the Taa Turi Kara trophy for winning the junior English speech section."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>It was a successful outing at the Ngā Manu Kōrero competition final for Sophia 'Unga-Cribb who brought home the Taa Turi Kara trophy for winning the junior English speech section. <br /></span></h4>

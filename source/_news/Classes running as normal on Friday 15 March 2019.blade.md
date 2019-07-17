@@ -5,11 +5,11 @@ description: "Classes will be running as normal on Friday 15 March 2019 with reg
 featured-image: 
 excerpt: "WHS classes will be running as normal on Friday 15 March 2019 with regards to the national Student strike action for Climate change..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whanganui High School classes will be running as normal on Friday 15 March 2019 with regards to the national Student strike action for Climate change.</p>

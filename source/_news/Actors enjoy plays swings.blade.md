@@ -5,11 +5,11 @@ description: "Mikayla Walker, former WHS student Caius Wrigglesworth & Meynell S
 featured-image: 
 excerpt: "Mikayla Walker, former WHS student Caius Wrigglesworth & Meynell Smith cast members of Ringing Changes."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Mikayla Walker, former WHS student Caius Wrigglesworth and Meynell Smith. <br />PHOTO / Ashleigh Morris</span></p>

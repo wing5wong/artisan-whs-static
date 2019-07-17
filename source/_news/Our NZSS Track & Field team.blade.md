@@ -5,11 +5,11 @@ description: "All the best to Coach Greg Fromont, Manager Elaine Baker & our 17 
 featured-image: 
 excerpt: "All the best to Coach Greg Fromont, Manager Elaine Baker and our 17 WHS Students in Dunedin this weekend at the NZSS Track & Field Champs!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>All the best to Coach Greg Fromont, Manager Elaine Baker and our 17 WHS Students in Dunedin this weekend at the NZSS Track &amp; Field Champs!!! Go Hard team!!</p>

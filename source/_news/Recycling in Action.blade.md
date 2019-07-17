@@ -5,11 +5,11 @@ description: "Jack Mitchell Anyon is committed to recycling in his cafe/shop..."
 featured-image: 
 excerpt: "Jack Mitchell Anyon is committed to recycling in his cafe/shop."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Unique cafe/shop - proud to have almost nothing new - recycling in action.</span></p>

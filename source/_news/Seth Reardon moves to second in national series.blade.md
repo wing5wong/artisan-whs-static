@@ -5,11 +5,11 @@ description: "Whanganui's Seth Reardon has moved up to second overall following 
 featured-image: 
 excerpt: "Whanganui's Seth Reardon has moved up to second overall following Round 2 of the 2019 NZ Cross-country Championships at Mosgiel"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><img src="https://www.nzherald.co.nz/resizer/PMe8UUoCR0vcFQuT-k_7bkNOsjo=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/HRABL5FR6BANHA2P77IVJOJC24.jpg" alt="Whanganui's Seth Reardon." /></p>

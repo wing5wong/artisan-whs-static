@@ -5,11 +5,11 @@ description: "The Wanganui Under 15 boys hockey team with their National Champio
 featured-image: 
 excerpt: "The Wanganui Under 15 boys hockey team with their National Championship medals in Invercargill on Saturday 7 October 2017."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>The Wanganui Under 15 boys hockey team with their National Championship medals in Invercargill on Saturday 7 October 2017.</h4>

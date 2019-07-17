@@ -5,11 +5,11 @@ description: "WHS Band 'The Remnant' won this year's regional Smokefreerockquest
 featured-image: 
 excerpt: "WHS Band 'The Remnant' won this year's regional Smokefreerockquest final at the Opera House on Saturday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><span>'THE REMNANT' WON this year's regional Smokefreerockquest final at the Opera House on Saturday night.</span></h3>

@@ -5,11 +5,11 @@ description: "This year, WHS took a team of 9 up to Rotorua on Sunday 23 June to
 featured-image: 
 excerpt: "This year, WHS took a team of 9 up to Rotorua on Sunday 23 June to complete in Hillary Challenge Adventure Racing event."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Hillary Challenge Adventure Race</h4>

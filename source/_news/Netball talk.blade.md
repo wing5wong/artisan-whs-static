@@ -5,11 +5,11 @@ description: "Phillips Electrical WHS had the bye on Monday night, but they are 
 featured-image: 
 excerpt: "Phillips Electrical Whanganui High School had the bye on Monday night. They are continuing their winning run in the Manawatu Secondary Schools A1 grade Saturday comp"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://www.goldsmithssu.org/asset/Organisation/6447/netball-logo.png?thumbnail_width=300&amp;thumbnail_height=300&amp;resize_type=CropToFit" alt="Image result for netball image" /></p>

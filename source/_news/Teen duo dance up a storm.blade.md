@@ -5,11 +5,11 @@ description: "Two WHS students have claimed 14 national titles at the New Zealan
 featured-image: 
 excerpt: "Two Whanganui High School students have claimed 14 national titles at the New Zealand National Open One Dance Championships."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/64448651_2256358621079970_1616830087708016640_n.jpg?_nc_cat=106&amp;_nc_eui2=AeHLVe1Gh-nYV_UaW7PYVB6aUwRayqEsEaSUFSWvbGCsWXJTWtJ-rBkClPGr4Nq1WCHQmc-raKS3Ts9ak6m-WtAmds6vjJ8m70z7OuwjLWhH8Q&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=28d9ff187324544dbb1b72aa3a03860e&amp;oe=5D82C1AF" alt="Image may contain: 2 people, people smiling" /></p>

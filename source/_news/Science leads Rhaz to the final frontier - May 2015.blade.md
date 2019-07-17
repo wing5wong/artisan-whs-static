@@ -5,11 +5,11 @@ description: "LAUNCH READY: Physics whiz Rhaz Solomon of Wanganui High School wi
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>LAUNCH READY: Physics whiz Rhaz Solomon of Wanganui High School will gain astronautic experience at Space Camp in America.</span></p>

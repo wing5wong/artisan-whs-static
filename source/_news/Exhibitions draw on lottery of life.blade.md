@@ -5,11 +5,11 @@ description: "Whanganui artists Glen Hutchins and Fleur Wickes are risking fate 
 featured-image: 
 excerpt: "Whanganui artists Glen Hutchins and Fleur Wickes are risking fate and trying a little tenderness at Space Gallery."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=Wkys7PZhdC8ePfxIDVtnZQ%3d%3d" alt="" /></p>

@@ -5,11 +5,11 @@ description: "Andersons Menswear have opened a second store in the old Eades Spo
 featured-image: 
 excerpt: "Andersons Menswear have opened a second store in the old Eades Sports shop at 184 Victoria Ave to supply not only school uniforms.."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Andersons opens dedicated school uniform shop</strong>.</p>

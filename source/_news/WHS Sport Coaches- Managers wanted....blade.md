@@ -5,11 +5,11 @@ description: "Whanganui High School Sports Coaches/Managers wanted..."
 featured-image: 
 excerpt: "Whanganui High School Sports Coaches/Managers wanted..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><strong>WHS SPORTS COACHES/MANAGERS WANTED...&nbsp;</strong></h4>

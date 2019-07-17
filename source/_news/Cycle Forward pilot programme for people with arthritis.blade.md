@@ -5,11 +5,11 @@ description: "Greg Fromont says the Cycle Forward programme is changing the live
 featured-image: 
 excerpt: "Greg Fromont says the Cycle Forward programme is changing the lives of people with arthritis."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/xhst9GiKstvib07cCJzl0PtEtTI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/MRIATWP5BFB3FKDHMMDKJUGTAY.jpg" alt="Greg Fromont says the Cycle Forward programme is changing the lives of people with arthritis." /></p>

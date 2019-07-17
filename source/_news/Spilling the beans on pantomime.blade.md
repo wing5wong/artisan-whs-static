@@ -5,11 +5,11 @@ description: "Former WHS students, Brie Parkinson and Benjamin Clow, stars of Ja
 featured-image: 
 excerpt: "Former WHS students, Brie Parkinson and Benjamin Clow, stars of Jack and the Beanstalk."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>THESPIANS: Former WHS students, Brie Parkinson and Benjamin Clow, stars of Jack and the Beanstalk. <br /><em>Photo: Ashlyn Morris</em></span></p>

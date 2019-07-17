@@ -5,11 +5,11 @@ description: "Former WHS student Chloe Boniface ... who died in her university r
 featured-image: 
 excerpt: "Former WHS student Chloe Boniface ... who died in her university room."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former WHS student Chloe Boniface ... who died in her university room.</span><br /><em>Photo / Supplied</em></p>

@@ -5,11 +5,11 @@ description: "Lochlan Watson, 14, pulls a scooter trick on the senior track at t
 featured-image: 
 excerpt: "Lochlan Watson, 14, pulls a scooter trick on the senior track at the official opening of the Whanganui Community Bike Park on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS student Lochlan Watson pulls a scooter trick on the senior track at the official opening of the Whanganui Community Bike Park on Saturday.</span><br /><em>PHOTO / Stuart Munro</em></p>

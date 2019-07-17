@@ -5,11 +5,11 @@ description: "Sad news of the passing of Mr Rankin, staff member of 41 years..."
 featured-image: 
 excerpt: "Nigel Rankin, Teacher - Whanganui High School"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Dear Parents and Caregivers,</strong></p>

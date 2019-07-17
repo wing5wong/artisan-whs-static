@@ -5,11 +5,11 @@ description: "Several of the recreational athletes of the Wanganui Boys & Girls 
 featured-image: 
 excerpt: "Several of the recreational athletes of the Wanganui Boys & Girls Gym Club got their first taste of competition in Hawera on Sunday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65826072_2288888281160337_5418495281383604224_n.jpg?_nc_cat=100&amp;_nc_oc=AQl7XUciwpsM8PDY1lNTWU8fmdXJy-OZGYwtbfW2sEX17HywVnLvvIxWuyUelbul3eI&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=e9f440689615701d1b102cbab20e15d6&amp;oe=5D7909EE" alt="Image may contain: 2 people, closeup" /></p>

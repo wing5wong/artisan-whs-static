@@ -5,11 +5,11 @@ description: "GIVING A BOOST: Becky Stanley & Tyler Pomeroy with Wanganui Financ
 featured-image: 
 excerpt: "GIVING A BOOST: Becky Stanley and Tyler Pomeroy (WHS student) with Wanganui Finance’s Jackie Dowman and Barb Turner."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>GIVING A BOOST: Becky Stanley and Tyler Pomeroy (WHS student) with Wanganui Finance&rsquo;s Jackie Dowman and Barb Turner.</span><br /><em>PHOTO / Lin Ferguson</em></p>

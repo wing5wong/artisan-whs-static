@@ -5,11 +5,11 @@ description: "Travis Bayler ran the race of his life to win the Senior 400m reco
 featured-image: 
 excerpt: "Travis Bayler ran the race of his life to win the Senior 400m recording a magnificent personal best & his first sub 50 second effort (49.92)."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c099509ff2a7c39a8000fe7/Travis-Bayler-1st-snr-boys-400m.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c0994faff2a7c39a8000fe5/Rebecca-Baker-3rd-3000m.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c0994eaff2a7c39a8000fe3/Snr-boys-2nd-relay.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c0994dbff2a7c39a8000fe1/Jnr-boys-2nd-relay.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c0994cbff2a7c39a8000fdf/NZSS-Athletics-team.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c099509ff2a7c39a8000fe7/Travis-Bayler-1st-snr-boys-400m.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c0994faff2a7c39a8000fe5/Rebecca-Baker-3rd-3000m.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c0994eaff2a7c39a8000fe3/Snr-boys-2nd-relay.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c0994dbff2a7c39a8000fe1/Jnr-boys-2nd-relay.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c0994cbff2a7c39a8000fdf/NZSS-Athletics-team.jpg"
 ---
 
 <p><strong>Travis Bayler (centre) ran the race of his life to win the Senior 400m after an outstanding surge from an outside lane to record a magnificent personal best and his first sub 50 second effort (49.92).</strong></p>

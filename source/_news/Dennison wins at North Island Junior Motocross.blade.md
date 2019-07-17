@@ -5,11 +5,11 @@ description: "Consistency pays handsomely for Whanganui's latest motocross champ
 featured-image: 
 excerpt: "Consistency pays handsomely for Whanganui's latest motocross champ and former WHS student Ollie Dennison."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Consistency pays handsomely for Whanganui's latest motocross champ and former WHS student Ollie Dennison.</strong><br /><em>Photo / Supplied</em></span></p>

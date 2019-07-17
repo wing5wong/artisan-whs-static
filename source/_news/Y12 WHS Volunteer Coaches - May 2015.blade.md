@@ -5,11 +5,11 @@ description: "Well done to our Y12 students who are coaching our school teams th
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Well done to our Y12 students who are coaching our school teams this year for Netball; Bailee Baxter (left), Kate Denzel and Georgia Young.</span></p>

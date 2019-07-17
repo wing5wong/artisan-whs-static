@@ -5,11 +5,11 @@ description: "R Butters-Chamberlain, only local girl footballer at Central Feder
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>SOLE SPOTLIGHT: Wanganui High School student Rebekah Butters-Chamberlain is the only local girl footballer at Central Federation level and has her last representative game of the summer season against Waikato-Bay of Plenty tomorrow.</span></p>

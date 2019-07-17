@@ -5,11 +5,11 @@ description: "Whanganui High School News, from the Principal - River City Press,
 featured-image: 
 excerpt: "Whanganui High School News, from the Principal - River City Press, February 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Download our</strong> </span><strong><a href="http://c1940652.r52.cf0.rackcdn.com/5aa6ebdbb8d39a7499000b3d/Rivercity-Press-newsletter-Feb-2018.pdf">Whanganui High School News, from the Principal - River City Press, February 2018.</a></strong></p>

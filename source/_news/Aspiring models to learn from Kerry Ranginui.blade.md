@@ -5,11 +5,11 @@ description: "Designer Kerry Trent Ranginui will share his Project Runway NZ exp
 featured-image: 
 excerpt: "Designer Kerry Trent Ranginui will share his Project Runway NZ experience with aspiring Whanganui models."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c91d334ff2a7c25ea000556/Kerry-Ranginui.Jo-Mickelborough-chron-8.3.19.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c91d334ff2a7c25ea000556/Kerry-Ranginui.Jo-Mickelborough-chron-8.3.19.jpg"
+    
+    
+    
+    
 ---
 
 <p><strong>Designer Kerry Trent Ranginui will share his Project Runway NZ experience with aspiring Whanganui models.<br /></strong><em>Photos / Supplied</em></p>

@@ -5,11 +5,11 @@ description: "Josh Hill, right, pictured here with father Hunter and brother Sta
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Josh Hill, right, pictured here with father Hunter and brother Stave.</span></p>

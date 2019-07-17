@@ -5,11 +5,11 @@ description: "WHS was able to bring its whole 1500 student body together for the
 featured-image: 
 excerpt: "Whanganui High School was able to bring its whole 1500 student body together for the first time this year at Cooks Gardens for their annual sports day yesterday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>SCHOOL SPORTS: <strong>Whanganui</strong> <strong>High</strong> <strong>School</strong> was able to bring its whole 1500 student body together for the first time this year at Cooks Gardens for their annual sports day yesterday.<br /><em>PHOTO / Bevan Conley</em></p>

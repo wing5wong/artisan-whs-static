@@ -5,11 +5,11 @@ description: "Win Livesay & her daughter, Abigail & Ingrid Culliford & her daugh
 featured-image: 
 excerpt: "Ingrid Culliford and her daughter, Elena Morgan and Win Livesay and her daughter, Abigail, have a lot in common and will show it when performing in a concert."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bbbf2cbff2a7c68e5000237/Elena-Morgan-Jane-Winstone-RCP.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bbbf2cbff2a7c68e5000237/Elena-Morgan-Jane-Winstone-RCP.jpg"
+    
+    
+    
+    
 ---
 
 <p><span><em>Photo:</em> Win with her daughter Abigail.</span></p>

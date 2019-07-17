@@ -5,11 +5,11 @@ description: "Future Champions Sera Raj (standing in for sister Tara Raj), Liam 
 featured-image: 
 excerpt: "Philippa Baker Hogan with Future Champions Sera Raj (standing in for sister Tara Raj), Liam Back, WHS student Jordan Cohen, Genna Maples (absent - ex WHS student Fergus Smith)."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Philippa Baker Hogan with <strong>Future Champions</strong> Sera Raj (standing in for sister Tara Raj), Liam Back, WHS student<strong> Jordan Cohen</strong>, Genna Maples (absent - ex WHS student&nbsp;<strong>Fergus Smith</strong>).<br />Photo / Supplied.</span></p>

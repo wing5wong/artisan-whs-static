@@ -5,11 +5,11 @@ description: "Barista Ginny Thomson and shift manager William Raaymakers are som
 featured-image: 
 excerpt: "Barista Ginny Thomson and shift manager William Raaymakers are some young McDonald's talent."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/GeachYeTHQA6WqoRuxIk2vVKyuA=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/I3NCKM23H5FO5N3H3ICMS56Y3I.jpg" alt="Barista Ginny Thomson and shift manager William Raaymakers are some young McDonald's talent. Photo / Bevan Conley " /></p>

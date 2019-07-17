@@ -5,11 +5,11 @@ description: "Keightley Watson (left) had a solid warmup towards his tour to Hon
 featured-image: 
 excerpt: "Whanganui judo exponent Keightley Watson (left) had a solid warmup towards his tour to Hong Kong with a six medal haul at the Waikato Bays Open in Rotorua."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3>Whanganui judo exponent Keightley Watson (left) had a solid warmup towards his tour to Hong Kong next month with a six medal haul at the Waikato Bays Open in Rotorua at the weekend.</h3>

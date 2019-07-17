@@ -5,11 +5,11 @@ description: "WHS wing attack Teagan Tapa delivers some quality ball during her 
 featured-image: 
 excerpt: "WHS wing attack Teagan Tapa delivers some quality ball during her side's 68-37 win over Cullinane on Monday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS wing attack Teagan Tapa delivers some quality ball during her side's 68-37 win over Cullinane on Monday night. <br /><em>PHOTO / Bevan Conley</em></span></p>

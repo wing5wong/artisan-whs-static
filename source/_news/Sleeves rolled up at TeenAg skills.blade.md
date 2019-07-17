@@ -5,11 +5,11 @@ description: "WHS students Tyler Pomeroy and Rawiri Lindsay, both 15, attach rub
 featured-image: 
 excerpt: "WHS students Tyler Pomeroy and Rawiri Lindsay, both 15, attach rubber-ware to cups used for milking cows."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS students Tyler Pomeroy and Rawiri Lindsay, both 15, attach rubber-ware to cups used for milking cows. <br /><em>PHOTO / Stuart Munro</em></span></p>

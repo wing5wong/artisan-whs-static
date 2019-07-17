@@ -5,11 +5,11 @@ description: "Former WHS student Nick Gillespie is on track to win his second Cr
 featured-image: 
 excerpt: "Former WHS student Nick Gillespie is on track to win his second Craigs Investment Partners Pin High Wanganui Pro-Am after coming back to the Belmont Links clubhouse at three under par yesterday afternoon."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The weather is holding and Wanganui expat and former WHS student Nick Gillespie is on track to win his second Craigs Investment Partners Pin High Wanganui Pro-Am after coming back to the Belmont Links clubhouse at three under par yesterday afternoon.</p>

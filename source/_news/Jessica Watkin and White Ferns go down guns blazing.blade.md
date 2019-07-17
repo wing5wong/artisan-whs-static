@@ -5,11 +5,11 @@ description: "Whanganui allrounder Jessica Watkin and her White Fern teammates l
 featured-image: 
 excerpt: "Whanganui allrounder Jessica Watkin and her White Fern teammates lose T20 International series to Australia."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui allrounder Jessica Watkin and her White Fern teammates lose T20 International series to Australia.</span></p>

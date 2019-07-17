@@ -5,11 +5,11 @@ description: "Wanganui High School students braved the wind and rain for a super
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui High School students braved the wind and rain for a super-hero-themed fun run to raise funds for Hospice Wanganui yesterday.</p>

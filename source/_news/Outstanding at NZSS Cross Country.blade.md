@@ -5,11 +5,11 @@ description: "Outstanding day for our WHS Cross Country athletes in Taupo at the
 featured-image: 
 excerpt: "Outstanding day for our WHS Cross Country athletes in Taupo at the NZSS National Champs on Saturday 16 June."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b26f0cbff2a7c6bfc0023ce/Rebecca.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b26f0bcb8d39a7499002415/Nat-kirk.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b26f0d9b8d39a7499002417/Prizegiving-for-web.gif"
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b26f0cbff2a7c6bfc0023ce/Rebecca.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b26f0bcb8d39a7499002415/Nat-kirk.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b26f0d9b8d39a7499002417/Prizegiving-for-web.gif"
+    
+    
 ---
 
 <p><strong>Outstanding day for our Cross Country athletes in Taupo at the NZSS National Champs on Saturday 16 June.&nbsp;</strong></p>

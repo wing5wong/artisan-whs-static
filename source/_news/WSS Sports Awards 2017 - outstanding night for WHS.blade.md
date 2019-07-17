@@ -5,11 +5,11 @@ description: "OUTSTANDING awards evening for WHS tonight at the Whanganui Second
 featured-image: 
 excerpt: "Outstanding awards evening for WHS tonight at the Whanganui Secondary School Sports Awards!"
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59fa76c6b8d39a77310005ec/Sportswomen-of-the-Year-Emma-Rainey-with-guest-speaker-former-NZ-Blacksticks-captain-Kayla-Whitelock.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59fa80dfb8d39a77310005f4/Keightley-Watson-NOT-with-Principal-Princ-Cup-Most-outstanding.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59fa76e3b8d39a77310005ee/Winning-Team-WHS-Mixed-Touch-team.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59fa91beb8d39a77310005f8/Charlie-Brown-chron.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59fa769bb8d39a77310005e6/Future-Champions-Trust-recipient-Jordan-Cohen-NZ-U18-Hockey-Dev-Camp-in-December-2017.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59fa76c6b8d39a77310005ec/Sportswomen-of-the-Year-Emma-Rainey-with-guest-speaker-former-NZ-Blacksticks-captain-Kayla-Whitelock.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59fa80dfb8d39a77310005f4/Keightley-Watson-NOT-with-Principal-Princ-Cup-Most-outstanding.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59fa76e3b8d39a77310005ee/Winning-Team-WHS-Mixed-Touch-team.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59fa91beb8d39a77310005f8/Charlie-Brown-chron.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59fa769bb8d39a77310005e6/Future-Champions-Trust-recipient-Jordan-Cohen-NZ-U18-Hockey-Dev-Camp-in-December-2017.jpg"
 ---
 
 <h3><strong>OUTSTANDING awards evening for WHS tonight at the Whanganui Secondary School Sports Awards!&nbsp; &nbsp;<span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fbe/1/16/1f3c6.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fbe/1/16/1f3c6.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fbe/1/16/1f3c6.png" alt="" width="16" height="16" /></span></strong><strong><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fbe/1/16/1f3c6.png" alt="" width="16" height="16" /><br /><br /></span></strong></h3>

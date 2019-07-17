@@ -5,11 +5,11 @@ description: "Wanganui Athletic's Jude Hiri & his team will not want to believe 
 featured-image: 
 excerpt: "Wanganui Athletic's Jude Hiri & his team will not want to believe the press of Havelock North when they come to Wembley Park"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/IfLMHFfZxpt2JpVXkNud9983AAA=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/HEJ3BFIWYBFQDBMM5HMD4MYRSQ.jpg" alt="After getting up over Massey last Saturday, Wanganui Athletic's Jude Hiri (centre) and his team will not want to believe the press of Havelock North when they come to Wembley Park tomorrow." /></p>

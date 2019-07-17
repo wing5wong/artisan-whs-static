@@ -5,11 +5,11 @@ description: "Former WHS student Jamie Newell with the winning 4.6kg cray and an
 featured-image: 
 excerpt: "Former WHS student Jamie Newell with the winning 4.6kg cray and another at 4.2kg at the fishing competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former WHS student <strong>Jamie Newell</strong> with the winning 4.6kg cray and another at 4.2kg. <br /><em>PHOTO / Bevan Conley</em></span></p>

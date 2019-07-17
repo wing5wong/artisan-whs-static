@@ -5,11 +5,11 @@ description: "On Friday 18 May wear a pink shirt or accessory to show your suppo
 featured-image: 
 excerpt: "On Friday 18 May please wear a pink shirt or accessory to show your support of Whanganui High School being a bully-free environment."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Pink Shirt Day - Friday 18 May 2018.</strong></p>

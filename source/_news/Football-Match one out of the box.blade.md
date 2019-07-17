@@ -5,11 +5,11 @@ description: "Wanganui's City Dan Aplin looking to clear the New Plymouth Ranger
 featured-image: 
 excerpt: "Wanganui's City Dan Aplin looking to clear the New Plymouth Rangers keeper to get his shot away during Saturday's amazing 6-6 draw at Wembley Park."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/_bST4kOnf8rA4Tp1I0SFOYVDwx8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/CTYIOHUMHZCOJIJDIAZVSQTOTU.jpg" alt="Wanganui's City Dan Aplin looking to clear the New Plymouth Rangers keeper to get his shot away during Saturday's amazing 6-6 draw at Wembley Park." /></p>

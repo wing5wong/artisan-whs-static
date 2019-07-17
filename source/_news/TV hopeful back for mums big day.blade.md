@@ -5,11 +5,11 @@ description: "Cathy Ranginui celebrated her retirement from nursing with her dau
 featured-image: 
 excerpt: "Cathy Ranginui celebrated her retirement from nursing with her daughter Tracey, grandsons Finley and Darcy and son Kerry."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Cathy Ranginui celebrated her retirement from nursing with her daughter Tracey, grandsons Finley and Darcy and son Kerry. <br /><em>PHOTO / Bevan Conley</em></span></p>

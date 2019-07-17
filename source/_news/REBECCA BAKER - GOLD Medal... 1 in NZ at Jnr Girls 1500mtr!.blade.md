@@ -5,11 +5,11 @@ description: "REBECCA BAKER - GOLD Medal...  #1 in NZ for the Junior Girls 1500 
 featured-image: 
 excerpt: "REBECCA BAKER - GOLD Medal...  #1 in NZ for the Junior Girls 1500 mtr run at the NZSS Athletic Champs."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25e6f4b8d39a41ae000064/WHS-Athletics-Team-heading-to-the-NZSS-Athletics-Champs-in-Hastings,-1-Dec-2017.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25e6e8b8d39a41ae000062/rebecca-half-way-thro.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbe6b8d39a41ae00003a/Rebecca-running-1500.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbd9b8d39a41ae000038/Rebecca-Baker-GOLD-medal-Dec-2017.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbccb8d39a41ae000036/Rebecca-Baker-GOLD-medal-by-herself-Dec-2017.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a25e6f4b8d39a41ae000064/WHS-Athletics-Team-heading-to-the-NZSS-Athletics-Champs-in-Hastings,-1-Dec-2017.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a25e6e8b8d39a41ae000062/rebecca-half-way-thro.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbe6b8d39a41ae00003a/Rebecca-running-1500.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbd9b8d39a41ae000038/Rebecca-Baker-GOLD-medal-Dec-2017.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a25cbccb8d39a41ae000036/Rebecca-Baker-GOLD-medal-by-herself-Dec-2017.jpg"
 ---
 
 <h4>Woohoo!!!!&nbsp; <br />REBECCA BAKER....... you star&nbsp;&nbsp;<span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fb4/1/16/2b50.png" alt="" width="16" height="16" /><span class="_7oe">⭐️</span></span><br />GOLD MEDAL.... #1 in NZ for Junior Girls 1500 mtr run at the NZSS Athletic Champs!&nbsp;</h4>

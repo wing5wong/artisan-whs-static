@@ -5,11 +5,11 @@ description: "WHS student Callista Booth-Richards took gold in both the Prelimin
 featured-image: 
 excerpt: "WHS student Callista Booth-Richards took gold in both the Preliminary Figures and Preliminary Solo Dance."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>ALL SMILES:&nbsp; The successful Whanganui artistic skaters after their medal haul at the Laurie Hastie Open Day in Palmerston North.</span><br /><em>Photo / Supplied</em></p>

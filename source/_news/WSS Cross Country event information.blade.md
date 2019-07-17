@@ -5,11 +5,11 @@ description: "Information leading up to the WSS Cross Country Championships on T
 featured-image: 
 excerpt: "Information leading up to the WSS Cross Country Championships on Thursday 23 May."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=L38BnF4VB4nGluML9lFR1w%3d%3d" alt="" /></p>

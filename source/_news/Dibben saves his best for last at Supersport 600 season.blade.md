@@ -5,11 +5,11 @@ description: "Whanganui's Richie Dibben finished ninth overall on debut in the S
 featured-image: 
 excerpt: "Whanganui's Richie Dibben finished ninth overall on debut in the Supersport 600 class of the national Superbike Championships."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/9ib7m00N4Va5XDb14f-EWXScypw=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/4JVC5RWDCVBH7AHJKI6XKQD75Y.jpg" alt="Whanganui's Richie Dibben finished ninth overall on debut in the Supersport 600 class of the national Superbike Championships. Photo / Andy McGechan" /></p>

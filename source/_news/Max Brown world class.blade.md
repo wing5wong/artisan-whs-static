@@ -5,11 +5,11 @@ description: "Whanganui paddler Max Brown has gained selection to the NZ sprint 
 featured-image: 
 excerpt: "Whanganui paddler Max Brown has gained selection to the New Zealand sprint team to contest the ICF World Cup series in Poland and Germany in May."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Whanganui paddler and former WHS student Max Brown has gained selection to the New Zealand sprint team to contest the ICF World Cup series in Poland and Germany in May.</span><br /><em></em></h4>

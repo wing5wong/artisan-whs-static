@@ -5,11 +5,11 @@ description: "Special Olympics Whanganui basketballers tested their skills again
 featured-image: 
 excerpt: "Special Olympics Whanganui basketballers tested their skills against a WHS girls team ahead of their first tournament in Palmerston North this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65271318_2275632482485917_3528827258758234112_n.jpg?_nc_cat=102&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=61b8b72894fc5c9245659a80e395e52b&amp;oe=5DBD989A" alt="Image may contain: one or more people and basketball court" /></p>

@@ -5,11 +5,11 @@ description: "Vouchers are presented to Whanganui Hospital. From left: Fred Love
 featured-image: 
 excerpt: "Vouchers are presented to Whanganui Hospital. From left: Fred Loveridge, Kerry O'Sullivan, Marian Butler, Trish Silk, Dean Butler and Russell Simpson."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/ZegVaDT7kYeq5xpzSnPWoTp0Kl8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/NZCFSCIA5JBP5HUOIGCJBHS5EI.jpg" alt="Vouchers are presented to Whanganui Hospital. From left: Fred Loveridge, Kerry O'Sullivan, Marian Butler, Trish Silk, Dean Butler and Russell Simpson. Photo / Supplied" /></p>

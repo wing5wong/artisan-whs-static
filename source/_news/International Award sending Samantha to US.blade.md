@@ -5,11 +5,11 @@ description: "Samantha Tennent is looking forward to visiting farms in Minnesota
 featured-image: 
 excerpt: "Samantha Tennent is looking forward to visiting farms in Minnesota when she flies to America as part of an international agricultural award that she has won."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/aNtZoY25JRyNLwE40VixyqJyVxU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/NL23CIXUJNE4VPYJCBT6HFVWI4.jpg" alt="Samantha Tennent is looking forward to visiting farms in Minnesota when she flies to America as part of an international agricultural award that she has won. Photo / Supplied" /></p>

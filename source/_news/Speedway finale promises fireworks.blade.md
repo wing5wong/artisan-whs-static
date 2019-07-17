@@ -5,11 +5,11 @@ description: "Former WHS students Heibner, McIntosh, Holloway & Sturzaker all pa
 featured-image: 
 excerpt: "Former WHS students Heibner, McIntosh, Holloway & Sturzaker all part of the star-studded field at Oceanviews final meeting of the season."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">The 2017-18 speedway season will end with a bang tonight.</p>

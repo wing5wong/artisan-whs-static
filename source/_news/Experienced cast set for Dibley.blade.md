@@ -5,11 +5,11 @@ description: "Chris's wife Jacqui is an integral part of the show, The Vicar of 
 featured-image: 
 excerpt: "Chris's wife Jacqui is an integral part of the show, The Vicar of Dibley. \"I would not direct a show if I did not have my wife involved, because she is just awesome.\""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

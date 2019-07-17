@@ -5,11 +5,11 @@ description: "Whanganui athletes Jimi Blinkhorne & Dean Fitness have been named 
 featured-image: 
 excerpt: "Whanganui athletes Jimi Blinkhorne & Dean Fitness have been named in the NZ Roller Hockey team for the World Roller Games in Spain next month."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

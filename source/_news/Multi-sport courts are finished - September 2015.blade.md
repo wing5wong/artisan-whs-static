@@ -5,11 +5,11 @@ description: "WHS Multi-sport courts are finished!!"
 featured-image: 
 excerpt: "WHS Multi-sport courts are finished!!"
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55f72e15b8d39a37870005cf/multi-sport-courts-finished-at-whs-sept-2015-1.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55f72e15b8d39a37870005cf/multi-sport-courts-finished-at-whs-sept-2015-1.jpg"
+    
+    
+    
+    
 ---
 
 <p><span style="line-height: 1.5;">WHS Multi-sport courts are finished!!</span></p>

@@ -5,11 +5,11 @@ description: "WHS student trip to China in September/October with Mandarin teach
 featured-image: 
 excerpt: "WHS student trip to China in September/October with Mandarin teacher Beck Ding."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif;">Whanganui High School teacher of Mandarin, Beck Ding.</span></p>

@@ -5,11 +5,11 @@ description: "TRIALLISTS: The journey begins for Wanganui rowers Kayla Spencer (
 featured-image: 
 excerpt: "TRIALLISTS: The journey begins for Wanganui rowers Kayla Spencer (front) Jessica Brougham after gaining selection to the national junior trial squad at Lake Karapiro."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>TRIALLISTS: The journey begins for Wanganui rowers Kayla Spencer (front) and Jessica Brougham after gaining selection to the national junior trial squad at Lake Karapiro next week.</p>

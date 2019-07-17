@@ -5,11 +5,11 @@ description: "Ryan Slight bowled very well the last time Wanganui United played 
 featured-image: 
 excerpt: "Ryan Slight bowled very well the last time Wanganui United played New Plymouth Old Boys at Victoria Park, and his team will need more of the same tomorrow."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS old boy Ryan Slight bowled very well the last time Wanganui United played New Plymouth Old Boys at Victoria Park, and his team will need more of the same tomorrow.</span><br /><em>Photo / File</em></p>

@@ -5,11 +5,11 @@ description: "Y12 students from WHS, Emelye Brown & Arafia Khan, were winners at
 featured-image: 
 excerpt: "Year 12 students from WHS, Emelye Brown & Arafia Khan, were winners at the recent Lions’ Regional Speech Competition"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Photo: <strong>Emelye and Arafia</strong></span></p>

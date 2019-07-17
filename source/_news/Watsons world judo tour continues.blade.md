@@ -5,11 +5,11 @@ description: "Keightley Watson (right) of Whanganui with his medals from the ACT
 featured-image: 
 excerpt: "Keightley Watson (right) of Whanganui with his medals from the ACT International Judo Open in Canberra last weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>CANBERRA SUCCESS: New Zealanders Christyn Jones (Auckland), Louise Kelly (Nelson) and <strong>Keightley Watson (Whanganui) with their medals from the ACT International Judo Open in Canberra last weekend.</strong></span><br /><em>PHOTO / Supplied</em></p>

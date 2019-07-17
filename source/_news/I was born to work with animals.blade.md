@@ -5,11 +5,11 @@ description: "Melanie Thompson has answered the call that has been ringing in he
 featured-image: 
 excerpt: "Melanie Thompson has answered the call that has been ringing in her ears for years. And now the student teacher."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p data-bind="text: $data">Former WHS student Melanie Thompson has answered the call that has been ringing in her ears for years.</p>

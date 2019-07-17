@@ -5,11 +5,11 @@ description: "Fiona Pickering, Anna Hartman and WHS teacher Leanne Gale (left) w
 featured-image: 
 excerpt: "Fiona Pickering, Anna Hartman and WHS teacher Leanne Gale were among hundreds at the Butler property."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>SUN SOAKED: Fiona Pickering, Anna Hartman and WHS teacher Leanne Gale (left) were among hundreds at the Butler property. <br /><em>PHOTO / Stuart Munro</em></span></p>

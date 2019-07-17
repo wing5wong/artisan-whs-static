@@ -5,11 +5,11 @@ description: "AT WORK: Cleaning graves for posterity are (from left) Mitchell Br
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>AT WORK: Cleaning graves for posterity are (from left) Mitchell Brett-Atkins, Anastasia O'Leary and Leon Harnett with local cadets.</span></p>

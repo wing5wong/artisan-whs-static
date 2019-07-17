@@ -5,11 +5,11 @@ description: "He may not have won the first challenge but Project Runway contest
 featured-image: 
 excerpt: "He may not have won the first challenge but Project Runway contestant Kerry Ranginui did his home city proud on the show's first episode."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bb58577ff2a7c68e50000b8/kerry-walking.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bb57e4fff2a7c68e500008e/host-with-tvnz-sign.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bb583f7ff2a7c68e50000b0/everyone.jpgbetter.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bb5840aff2a7c68e50000b2/kerry.jpghis-head-only.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bb58429ff2a7c68e50000b4/line-up.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bb58577ff2a7c68e50000b8/kerry-walking.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bb57e4fff2a7c68e500008e/host-with-tvnz-sign.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bb583f7ff2a7c68e50000b0/everyone.jpgbetter.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bb5840aff2a7c68e50000b2/kerry.jpghis-head-only.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bb58429ff2a7c68e50000b4/line-up.jpg"
 ---
 
 <p>He may not have won the first challenge but Project Runway contestant Kerry Ranginui did his home city proud on the show's first episode.</p>

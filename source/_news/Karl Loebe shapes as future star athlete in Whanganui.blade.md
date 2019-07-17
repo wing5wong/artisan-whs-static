@@ -5,11 +5,11 @@ description: "German exchange student Karl Loebe has improved substantially sinc
 featured-image: 
 excerpt: "German exchange student Karl Loebe has improved substantially since joining the Whanganui High School athletics programme less than a year ago."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>German exchange student Karl Loebe has improved substantially since joining the Whanganui High School athletics programme less than a year ago.</strong><br /><em>Photo / Supplied</em></p>

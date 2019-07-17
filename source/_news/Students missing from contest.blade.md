@@ -5,11 +5,11 @@ description: "Whanganui Blue team, the majority of players consisting of WHS stu
 featured-image: 
 excerpt: "Whanganui Blue team, of which the majority of players consisting of WHS students, did well at the Nth Island U15 Netball Champs in New Plymouth."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui Blue team, of which the majority of players consisting of WHS students, did well at the North Island U15 Netball Championships.</span></p>

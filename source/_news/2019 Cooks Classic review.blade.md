@@ -5,11 +5,11 @@ description: "Connor Munro should be delighted with his debut, winning the 400m 
 featured-image: 
 excerpt: "Connor Munro should be delighted with his debut, winning the 400m hurdles at the Cooks Classic on Tuesday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Connor Munro should be delighted with his debut, winning the 400m hurdles at the Cooks Classic on Tuesday.</strong><br /><em>PHOTO / Stuart Munro</em></p>

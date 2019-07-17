@@ -5,11 +5,11 @@ description: "Ex-Whanganui High School athlete powers to title in Tauranga winni
 featured-image: 
 excerpt: "Ex-Whanganui High School athlete powers to title in Tauranga winning his very first marathon..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Ex-Whanganui High School athlete powers to title in Tauranga winning his very first marathon.</strong><br /></span></p>

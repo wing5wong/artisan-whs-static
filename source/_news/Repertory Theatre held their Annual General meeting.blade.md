@@ -5,11 +5,11 @@ description: "Brie Parkinson & Reid Tucker have both been selected to be on the 
 featured-image: 
 excerpt: "Brie Parkinson & Reid Tucker have both been selected to be on the committee of the Wanganui Repertory Theatre."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=P308KUK0%2bkAJtOqExatkVg%3d%3d" alt="" /></p>

@@ -5,11 +5,11 @@ description: "Winger Reuben Downes beats an Old Boys Marist defender to score Me
 featured-image: 
 excerpt: "Winger Reuben Downes beats an Old Boys Marist defender to score Metro's only points in the 21-5 loss to the visitors at Spriggens Park on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/MMDHEsMeX4Tpu9fKWaFh3RXOBf4=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/MHLDLKQPFFFPHNKYZ2GRR22J3I.jpg" alt="Winger Reuben Downes beats an Old Boys Marist defender to score Metro's only points in the 21-5 loss to the visitors at Spriggens Park on Saturday. Photo / Lewis Gardner" /></p>

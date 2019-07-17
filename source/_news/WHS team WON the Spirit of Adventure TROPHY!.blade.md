@@ -5,11 +5,11 @@ description: "WHS team WON the Spirit of Adventure TROPHY!. as well as cooked me
 featured-image: 
 excerpt: "WHS team WON the Spirit of Adventure TROPHY!. as well as cooked meals, raised sails & took on three other schools in a series of activities."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Oops... looks like there is a small detail that the Chronicle forgot to include in this article!</p>

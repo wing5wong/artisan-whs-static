@@ -5,11 +5,11 @@ description: "A guard of honour was formed to mark Bill Tanner's 50 years as a f
 featured-image: 
 excerpt: "A guard of honour was formed to mark Bill Tanner's 50 years as a football referee."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/47BthDRSB3pJBJZ5dk4aZ1l06X8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/O6ITUUG5NZFPLBEDIRUBLGP2VA.jpg" alt="A guard of honour was formed to mark Bill Tanner's 50 years as a football referee. Photo/ Bevan Conley " /></p>

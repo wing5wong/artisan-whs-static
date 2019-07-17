@@ -5,11 +5,11 @@ description: "WHS student Kaelin Mooney's brand new Ministock is immaculate. The
 featured-image: 
 excerpt: "WHS student Kaelin Mooney's brand new Ministock is immaculate. The Oceanview Speedway season starts this Sunday on 29 October."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS student Kaelin Mooney's brand new Ministock is immaculate.&nbsp;The Oceanview Speedway season starts this Sunday on 29 October.</span></p>

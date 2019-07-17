@@ -5,11 +5,11 @@ description: "Waireti Hill (6) gets her face painted by Cypris Hill (13) at Whan
 featured-image: 
 excerpt: "Waireti Hill (6) gets her face painted by WHS student Cypris Hill (13) at Whanganui's 2018 Children's Day."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Waireti Hill (6) gets her face painted by WHS student Cypris Hill (13) at Whanganui's 2018 Children's Day. <br /><em>PHOTO / Bevan Conley</em></span></p>

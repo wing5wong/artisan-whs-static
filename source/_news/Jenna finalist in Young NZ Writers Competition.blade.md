@@ -5,11 +5,11 @@ description: "Jenna Mareikura-Lacy has had a short story accepted for publicatio
 featured-image: 
 excerpt: "Jenna Mareikura-Lacy has had a short story accepted for publication by \"Write Off Line 2019\".  The competition topic was: “Something Strange Happened in Rotorua.”"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Finalist in Young NZ Writers Competition -&nbsp;<span>Jenna Mareikura-Lacy!<br /></span></h4>

@@ -5,11 +5,11 @@ description: "Eden Ruissen studied hair and beauty through U-Skills and was name
 featured-image: 
 excerpt: "Three Whanganui High School students were the big winners at UCOL's U-Skills Academy Award Evening."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bda469aff2a7c39a8000202/Eden-Ruissen-USkills-other-photo-31-oct.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bda469aff2a7c39a8000202/Eden-Ruissen-USkills-other-photo-31-oct.jpg"
+    
+    
+    
+    
 ---
 
 <h4 class="element element-paragraph"><span>Eden Ruissen studied hair and beauty through U-Skills and was named as the outstanding student for 2018.</span></h4>

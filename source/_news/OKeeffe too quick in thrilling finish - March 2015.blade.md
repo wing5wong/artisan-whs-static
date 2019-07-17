@@ -5,11 +5,11 @@ description: "O'Keeffe 'too quick' in thrilling finish, from the article in the 
 featured-image: 
 excerpt: "After coming second overall last year, Wanganui Swimming Club member Laura O'Keeffe made it out of the water in 34m 1s, just under three minutes faster than her time in 2014."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>O'Keeffe 'too quick' in thrilling finish.</p>

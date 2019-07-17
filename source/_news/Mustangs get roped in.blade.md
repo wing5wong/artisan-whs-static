@@ -5,11 +5,11 @@ description: "Trent Hemi shared pitching duties with Danny Green in Mustangs’ 
 featured-image: 
 excerpt: "Trent Hemi shared pitching duties with Danny Green in Mustangs’ 4-2 loss to Levin United on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>WHS old boy <strong>Trent Hemi</strong> shared pitching duties with Danny Green in Mustangs&rsquo; 4-2 loss to Levin United on Saturday.</p>

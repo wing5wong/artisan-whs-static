@@ -5,11 +5,11 @@ description: "Former student Max Munneke was one of the talented NZ students awa
 featured-image: 
 excerpt: "Former student Max Munneke was one of the talented New Zealand students awarded a Prime Minister's Scholarship."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Former student Max&nbsp;Munneke was one of the talented New Zealand students awarded a Prime Minister's Scholarship.</strong></p>

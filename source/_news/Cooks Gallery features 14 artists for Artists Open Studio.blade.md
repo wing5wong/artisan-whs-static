@@ -5,11 +5,11 @@ description: "Member Judy Webby next to her painting to which she is putting the
 featured-image: 
 excerpt: "Member Judy Webby next to her painting to which she is putting the final touches for the Artists Open Studio."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/55935580_2194163980622588_8814569589263302656_n.jpg?_nc_cat=104&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=8617290d184ccb492d344b415bd85e18&amp;oe=5D067F57" alt="Image may contain: 1 person" /></p>

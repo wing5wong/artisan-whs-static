@@ -5,11 +5,11 @@ description: "Lily Frederikse says this installation by Raewyn Tauira Paterson a
 featured-image: 
 excerpt: "Lily Frederikse says this installation by Raewyn Tauira Paterson at Hasting's City Art Gallery is one of her favourite places."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Lily Frederikse says this installation by Raewyn Tauira Paterson at Hasting's City Art Gallery is one of her favourite places. <br /><em>PHOTO / Bill Kearns</em></span></p>

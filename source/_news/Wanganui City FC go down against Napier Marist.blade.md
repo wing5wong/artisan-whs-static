@@ -5,11 +5,11 @@ description: "Anthony Bell was able to get on the score sheet, but Wanganui City
 featured-image: 
 excerpt: "Anthony Bell was able to get on the score sheet, but Versatile Wanganui City FC missed out on the points when losing 3-2 to Napier Marist."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/YjezGFV4DPXuBVOMqXluGQxcgcU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/N2NM35NEPJFUROV7G3GHQQBEII.jpg" alt="Anthony Bell was able to get on the score sheet, but Versatile Wanganui City FC missed out on the points when losing 3-2 to Napier Marist on Sunday. Photo / Bevan Conley " /></p>

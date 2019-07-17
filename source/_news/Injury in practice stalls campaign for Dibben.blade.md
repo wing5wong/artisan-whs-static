@@ -5,11 +5,11 @@ description: "Richie Dibben & one of his co-sponsors Brian Bernard, aims to reco
 featured-image: 
 excerpt: "Richie Dibben & one of his co-sponsors Brian Bernard, aims to recover from injury in time to race the final leg of the Suzuki Series in F2."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former WHS student Richie Dibben, right, and one of his co-sponsors Brian Bernard, aims to recover from injury in time to race the final leg of the Suzuki Series in F2 on his brand new Suzuki GSXR600 machines.</span><br /><em>Photo / Supplied</em></p>

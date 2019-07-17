@@ -5,11 +5,11 @@ description: "Whanganui Rugby's Division 2 coming down to the last games..."
 featured-image: 
 excerpt: "Whanganui Rugby's Division 2 coming down to the last games."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/xy620PiJGON7QV5tqgWofSMGL-0=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/LA56DAEI4BDALNQNOCNSUQNQPA.jpg" alt="Taihape fullback and tryscorer Tyler Rogers-Holden moves through the Pirates defence in his team's win at Spriggens Park on Saturday." /></p>

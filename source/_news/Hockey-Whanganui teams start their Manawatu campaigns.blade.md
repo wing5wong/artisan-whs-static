@@ -5,11 +5,11 @@ description: "Tyler Nicoll-Hylton & his Tech College Old Boys team are having to
 featured-image: 
 excerpt: "Tyler Nicoll-Hylton and his Tech College Old Boys team are having to work their way back to Hockey Manawatu's top grade after being relegated for 2019."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/SFP_HF_e6V6l9cYJebw9fXv4A_Q=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/4NE24PLN4JF2FB3EARFGT2FQKA.jpg" alt="Tyler Nicoll-Hylton and his Tech College Old Boys team are having to work their way back to Hockey Manawatu's top grade after being relegated for 2019." /><br /><strong></strong></p>

@@ -5,11 +5,11 @@ description: "Whanganui High School goal shoot Montel Vaiao Aki piled on the poi
 featured-image: 
 excerpt: "Whanganui High School goal shoot Montel Vaiao Aki piled on the points in Monday s win over Cullinane College."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui High School goal shoot Montel Vaiao Aki piled on the points in Monday s win over Cullinane College.</span></p>

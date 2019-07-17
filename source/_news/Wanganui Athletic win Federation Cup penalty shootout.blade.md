@@ -5,11 +5,11 @@ description: "Two goals by Scott Burney, allowed Wanganui Athletic to prevail ov
 featured-image: 
 excerpt: "Two goals by Scott Burney, including a controversial one in the last minute of extra time, allowed Wanganui Athletic to prevail over Port Hill United via penalty shootout in Napier."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/2RHobLscwYnVdoxD9AZIocjgL_4=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/TGGUMCVCYVC3TFBHDSKQWZ7QXA.jpg" alt="Two goals by Scott Burney, including a controversial one in the last minute of extra time, allowed Wanganui Athletic to prevail over Port Hill United via penalty shootout in Napier." /></p>

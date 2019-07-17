@@ -5,11 +5,11 @@ description: "UCOL Whanganui cookery students ahead of the Taranaki Hospitality 
 featured-image: 
 excerpt: "UCOL Whanganui cookery students ahead of the Taranaki Hospitality Competitions in New Plymouth."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

@@ -5,11 +5,11 @@ description: "Former WHS student Lily Meade was a standout in the U17 slalom gir
 featured-image: 
 excerpt: "Former WHS student Lily Meade was a standout in the U17 slalom girls and set a personal best in the jumps event at Lake Wiritoa."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>Former WHS student Lily Meade was a standout in the U17 slalom girls and set a personal best in the jumps event at Lake Wiritoa.</strong></p>

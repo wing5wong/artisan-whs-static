@@ -5,11 +5,11 @@ description: "Blake Hoskin had a fine 91 run partnership with team mate Carter H
 featured-image: 
 excerpt: "Blake Hoskin had a fine 91 run partnership with team mate Carter Hobbs to help his U14 Wanganui side beat Taranaki by three wickets on Sunday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Blake Hoskin</strong> <strong>had a fine 91 run partnership</strong> with team mate Carter Hobbs to help his U14 Wanganui side beat Taranaki by three wickets on Sunday.</span><br /><em>Photos / Supplied</em></p>

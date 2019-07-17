@@ -5,11 +5,11 @@ description: "On Friday 22 March Zac Clark was invited, by the Brothers, to sit 
 featured-image: 
 excerpt: "On Friday 22 March 2019 Zac Clark was invited, by the Brothers, to sit at the front of the Prayer room to read what he had written to them."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/11052015_879066165472963_7691963681481841066_n.jpg?_nc_cat=101&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=46633ed1ac96eb69a358cbb01c014fef&amp;oe=5D04D9F0" alt="No photo description available." /></p>

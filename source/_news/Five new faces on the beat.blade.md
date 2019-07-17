@@ -5,11 +5,11 @@ description: "New police constables Fraser Kinnerley, Josh Houlahan (former stud
 featured-image: 
 excerpt: "New police constables Fraser Kinnerley, Josh Houlahan (former student), Sreejith Sreekumar, Jake Bone & Beth Beech."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b9b06a0ff2a7c29650003ec/Josh-Houlahan-small-photo-of-just-him.jpg"
-	 - image: "/uploads/5b9b058dff2a7c29650003e3/Josh-Houlahan-police-14-Sept-chron.PNG"
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b9b06a0ff2a7c29650003ec/Josh-Houlahan-small-photo-of-just-him.jpg"
+     - image: "/uploads/5b9b058dff2a7c29650003e3/Josh-Houlahan-police-14-Sept-chron.PNG"
+    
+    
+    
 ---
 
 <p><span>New police constables Fraser Kinnerley, Josh Houlahan (former student), Sreejith Sreekumar, Jake Bone and Beth Beech are starting out in their new careers in Whanganui.</span></p>

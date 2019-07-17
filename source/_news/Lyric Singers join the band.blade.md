@@ -5,11 +5,11 @@ description: "Local student musicians feature as guest artists in the Lyric Sing
 featured-image: 
 excerpt: "Local student musicians feature as guest artists in the Lyric Singers' Taking Flight concert, featuring Brass Whanganui this Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

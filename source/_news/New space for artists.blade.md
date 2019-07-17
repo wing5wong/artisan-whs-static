@@ -5,11 +5,11 @@ description: "Whanganui Women’s Network manager Carla Donson & Space Gallery o
 featured-image: 
 excerpt: "Whanganui Women’s Network manager Carla Donson and Space Gallery owner Sarah Williams prepare for the opening and launch on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whanganui Women&rsquo;s Network manager Carla Donson and Space Gallery owner Sarah Williams prepare for the opening and launch on Saturday.<strong></strong></p>

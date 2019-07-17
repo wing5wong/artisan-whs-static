@@ -5,11 +5,11 @@ description: "Heath McKenzie is a busy lad, playing football, cricket & athletic
 featured-image: 
 excerpt: "Fifteen-year-old Heath McKenzie, a year 10 student at Whanganui High School, is a busy lad, playing football, cricket and athletics when he's not rehearsing for his lead role in Dick Whittington and His Cat."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>Fifteen-year-old Heath McKenzie, a year 10 student at Whanganui High School, is a busy lad, playing football, cricket and athletics when he's not rehearsing for his lead role in&nbsp;<em>Dick Whittington and His Cat</em>.</strong></p>

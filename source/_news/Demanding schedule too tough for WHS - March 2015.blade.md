@@ -5,11 +5,11 @@ description: "WHS had a good start to their netball season, with the wider squad
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui High School had a good start to their netball season, with the wider squad of 12 finishing third at the Super School Invitational tournament at Arena Manawatu on Sunday.</p>

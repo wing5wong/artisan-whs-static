@@ -5,11 +5,11 @@ description: "CHANGING COLOURS: In a reversal of the recent trend, former Pirate
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>CHANGING COLOURS: In a reversal of the recent trend, former Pirates midfielder and ex Wanganui High School student Kameli Kuruyabaki has moved over to Kaierau and will face his old team tomorrow.</span></p>

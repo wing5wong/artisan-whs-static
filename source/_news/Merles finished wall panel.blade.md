@@ -5,11 +5,11 @@ description: "Merle Chant's finished wall panel at the Whanganui Walls Street Ar
 featured-image: 
 excerpt: "Merle Chant's finished wall panel at the Whanganui Walls Street Art Festival on the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/55920911_571654943332055_2535112516707549184_n.jpg?_nc_cat=100&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=8885d3ba20619be9208167faa7b139cc&amp;oe=5D048BBB" alt="No photo description available." /></p>

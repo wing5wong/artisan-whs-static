@@ -5,11 +5,11 @@ description: "DONE DEAL:Freedom2Play's owner Pushkar Kilkarni & Wanganui senior 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>DONE DEAL: Freedom2Play's owner Pushkar Kilkarni and Wanganui senior representative cricketer (and former WHS student) Ryan Slight shake on the company securing naming rights for the NZ Club Champs Cricket 6s.</span></p>

@@ -5,11 +5,11 @@ description: "Almost 100 WHS students were involved in 'Uncovering Alice', a pro
 featured-image: 
 excerpt: "Almost 100 Whanganui High School students were involved in 'Uncovering Alice', a production about the Lake Alice Hospital."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><span>Almost 100 Whanganui High School students were involved in the winning performance at Stage Art with&nbsp;<em>'Uncovering Alice'</em>, a production about the Lake Alice Hospital. <br /></span></h3>

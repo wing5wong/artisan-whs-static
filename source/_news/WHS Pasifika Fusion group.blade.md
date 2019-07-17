@@ -5,11 +5,11 @@ description: "WHS Pasifika had a truly wonderful experience at this years Pasifi
 featured-image: 
 excerpt: "WHS Pasifika had a truly wonderful experience at this years Pasifika Fusion festival held in Palmerston North."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Photo: WHS Pasifika Group performing at Pasifika Fusion 2018</strong></p>

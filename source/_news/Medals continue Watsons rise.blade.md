@@ -5,11 +5,11 @@ description: "Whanganui's Keightley Watson, left, with his silver medal in the S
 featured-image: 
 excerpt: "Whanganui's Keightley Watson, left, with his silver medal in the Senior Men's 100kg+ at the Sydney Judo International, alongside gold medal winner Liam Park."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c7ef6e9ff2a7c25ea000058/Keightley-gold-4.3.19-cropped.chron.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c7ef5bbff2a7c25ea000054/Keigthley-Chron-4.3.19.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c7ef5ceff2a7c25ea000056/Callaghan-bronze-4.3.jpg"
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c7ef6e9ff2a7c25ea000058/Keightley-gold-4.3.19-cropped.chron.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c7ef5bbff2a7c25ea000054/Keigthley-Chron-4.3.19.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c7ef5ceff2a7c25ea000056/Callaghan-bronze-4.3.jpg"
+    
+    
 ---
 
 <h3><span>Whanganui's Keightley Watson, left, with his silver medal in the Senior Men's 100kg+ at the Sydney Judo International, alongside gold medal winner Liam Park.</span></h3>

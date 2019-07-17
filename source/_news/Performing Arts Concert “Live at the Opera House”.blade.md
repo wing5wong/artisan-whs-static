@@ -5,11 +5,11 @@ description: "The best of the best WHS Performing Arts students took to the stag
 featured-image: 
 excerpt: "The best of the best WHS Performing Arts students took to the stage at The Royal Wanganui Opera House on 2 September 2017."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The best of the best Performing Arts students took to the stage at The Royal Wanganui Opera House on 2&nbsp;September.</p>

@@ -5,11 +5,11 @@ description: "Congratulations to our WHS 'Girl and Boy SPORTS DUX' for 2018; KER
 featured-image: 
 excerpt: "Congratulations to our WHS 'Girl and Boy SPORTS DUX' for 2018; KERWYN MORGAN & JORDAN COHEN."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bce5c00ff2a7c68e5000685/Sport-Dux--Principal-Award-Kerwyn-Jordan-and-Rebecca.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bce5c00ff2a7c68e5000685/Sport-Dux--Principal-Award-Kerwyn-Jordan-and-Rebecca.jpg"
+    
+    
+    
+    
 ---
 
 <h4>Congratulations to our Whanganui High School 'Girl and Boy SPORTS DUX' for 2018:&nbsp;<br /><span>KERWYN MORGAN &amp; JORDAN COHEN</span></h4>

@@ -5,11 +5,11 @@ description: "Louis Redshaw (7P) & WHS student Kaelin Mooney (26V) are chasing t
 featured-image: 
 excerpt: "Louis Redshaw (7P) and WHS student Kaelin Mooney (26V) are chasing the West Coast Youth Ministocks title tonight."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Louis Redshaw (7P) and WHS student Kaelin Mooney (26V) are chasing the West Coast Youth Ministocks title tonight at the Oceanview Family Speedway.<br /><em>Photos / Supplied</em><br /><br /></p>

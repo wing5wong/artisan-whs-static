@@ -5,11 +5,11 @@ description: "The Whanganui Metro team (chiefly ex WHS students) celebrate their
 featured-image: 
 excerpt: "The Whanganui Metro team (chiefly ex WHS students) celebrate their Manawatu Colts championship win at Arena Manawatu."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The Whanganui Metro team <span>(chiefly ex WHS students)&nbsp;</span>celebrate their Manawatu Colts championship win at Arena Manawatu on Saturday.<br />PHOTO / Jared Smith</span></p>

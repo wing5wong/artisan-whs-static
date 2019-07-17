@@ -5,11 +5,11 @@ description: "Constable Nadine Staples of Whanganui is loving her move from flor
 featured-image: 
 excerpt: "Constable Nadine Staples of Whanganui is loving her move from floristry to policing."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><span>Constable Nadine Staples <span>(former WHS student)&nbsp;</span>of Whanganui is loving her move from floristry to policing.&nbsp;<br /><em>PHOTO / Bevan Conley</em></span></span></p>

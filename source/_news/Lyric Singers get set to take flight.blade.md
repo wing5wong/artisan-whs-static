@@ -5,11 +5,11 @@ description: "The Lyric singers of Whanganui will present their mid-year concert
 featured-image: 
 excerpt: "The Lyric singers of Whanganui will present their mid-year concert at Trinity Methodist Church later this month."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://external-syd2-1.xx.fbcdn.net/safe_image.php?d=AQB6FlZkShOFXSv_&amp;w=540&amp;h=282&amp;url=https%3A%2F%2Fwww.nzherald.co.nz%2Fresizer%2FlNmNwPTNF9wamHIhFXIrBYJPBd8%3D%2F1200x0%2Fsmart%2Ffilters%3Aquality%2870%29%2Farc-anglerfish-syd-prod-nzme.s3.amazonaws.com%2Fpublic%2F4TDS4R3ISBBX5AUNUSH6OZDV24.jpg&amp;cfs=1&amp;upscale=1&amp;fallback=news_d_placeholder_publisher&amp;_nc_eui2=AeFXzN3vkwNaau6e34L2gnb64I89hV6XcwIp7XK3tUS0GytubDPtzRoQpXQQV2jogQMrDlw9CDVCMqTg7YDgvbW2O7sAGVr8boiP31po5VA21A&amp;_nc_hash=AQBuGUfElMxLKyef" alt="" /></p>

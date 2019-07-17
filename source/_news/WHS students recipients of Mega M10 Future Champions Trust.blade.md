@@ -5,11 +5,11 @@ description: "Four WHS students received financial support from the Mega Mitre 1
 featured-image: 
 excerpt: "Four WHS students were part of the 7 recipients who received financial support from the Mega Mitre 10 Future Champions Trust 2019"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/57570176_1233268006822303_2367237371981725696_n.jpg?_nc_cat=108&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=80722bbece4232941fb2bdbcd4f2f331&amp;oe=5D6A07C9" alt="Image may contain: 9 people, people smiling, people standing" /></p>

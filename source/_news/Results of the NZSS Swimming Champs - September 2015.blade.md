@@ -5,11 +5,11 @@ description: "SIX OF THE BEST: Wanganui swimmers (from left) Shannon Schimanski 
 featured-image: 
 excerpt: "SIX OF THE BEST: Wanganui swimmers (from left) Shannon Schimanski (WCS), Grace Hogan, Alex Forlong, Sarya Lower, Jaimee Bridger, Merle Goepfert (all WHS) made their presence felt at the New Zealand Secondary Schools Swimming Championships in Hamilton at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>SIX OF THE BEST: Wanganui swimmers (from left) Shannon Schimanski (WCS), Grace Hogan, Alex Forlong, Sarya Lower, Jaimee Bridger, Merle Goepfert (all WHS) made their presence felt at the New Zealand Secondary Schools Swimming Championships <span>at the Te Rapa waterworld&nbsp;</span>in Hamilton at the weekend.</span></p>

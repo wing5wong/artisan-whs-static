@@ -5,11 +5,11 @@ description: "STARS: The Wanganui Hits Sydney choir received a standing ovation 
 featured-image: 
 excerpt: "STARS: The Wanganui Hits Sydney choir received a standing ovation at the Sydney Opera House, from Wanganui Chronicle article on 24/7/15..."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55b1906eff2a7c7363000038/Choir-close-up-sydney-july-2015.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55b1907cff2a7c736300003a/Choir-close-up-no-2-sydney-july-2015.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55b19091ff2a7c736300003c/Choir-distant-sydney-july-2015.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55b1909dff2a7c736300003e/Choir-distant-hands-raised-sydney-july-2015.gif"
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55b1906eff2a7c7363000038/Choir-close-up-sydney-july-2015.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55b1907cff2a7c736300003a/Choir-close-up-no-2-sydney-july-2015.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55b19091ff2a7c736300003c/Choir-distant-sydney-july-2015.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55b1909dff2a7c736300003e/Choir-distant-hands-raised-sydney-july-2015.gif"
+    
 ---
 
 <p>Singing at the Sydney Opera House was a "once-in-a-lifetime experience" according to Wanganui High School choir member Sophie Couper.</p>

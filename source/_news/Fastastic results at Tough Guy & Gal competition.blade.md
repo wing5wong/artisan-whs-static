@@ -5,11 +5,11 @@ description: "Fantastic results for WHS students competing in the Lower North Is
 featured-image: 
 excerpt: "Fantastic results for WHS students competing in the Lower North Island Tough Guy & Gal competition held just out of Wellington."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Tough Guy &amp; Gal&nbsp;competition</h4>

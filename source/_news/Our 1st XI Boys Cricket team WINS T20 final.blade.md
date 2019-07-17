@@ -5,11 +5,11 @@ description: "Congratulations to the WHS 1st XI Boys Cricket team who won the Ce
 featured-image: 
 excerpt: "Congratulations to the WHS 1st XI Boys Cricket team who won the Central Districts T20 Final this afternoon against Feilding High, Wednesday 1 November."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>CONGRATULATIONS to the WHS 1st XI Boys Cricket team who WON the CENTRAL DISTRICTS T20 FINAL this afternoon against Feilding High, Wednesday 1 November.</strong></p>

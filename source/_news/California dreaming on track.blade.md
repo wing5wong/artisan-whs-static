@@ -5,11 +5,11 @@ description: "Athletes Jonathan Maples, Tayla Brunger & Andres Hernandez are rea
 featured-image: 
 excerpt: "Whanganui athletes Jonathan Maples, Tayla Brunger & Andres Hernandez are race fit and ready to tackle North American track form on three consecutive weekends."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/98reFEsrYgLp9dwBUYaqzfRqo4s=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/I47ULZ7YPVHJZD4QUEUQYQDMAI.jpg" alt="Whanganui athletes Jonathan Maples, left, Tayla Brunger and Andres Hernandez are race fit and ready to tackle North American track form on three consecutive weekends." /></p>

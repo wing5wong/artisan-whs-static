@@ -5,11 +5,11 @@ description: "JUNIOR TEAM OF THE YEAR 2017 Wanganui Ray White Sports Awards: WHS
 featured-image: 
 excerpt: "JUNIOR TEAM OF THE YEAR 2017 Wanganui Ray White Sports Awards: WHS Mixed Touch Team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>CONGRATULATIONS&nbsp; &nbsp; &nbsp; &nbsp;</span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fbe/1/16/1f3c6.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/fbe/1/16/1f3c6.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /></span><span class="_5mfr _47e3"><img class="img" src="https://www.facebook.com/images/emoji.php/v9/f8c/1/16/1f389.png" alt="" width="16" height="16" /><span class="_7oe"><br /></span></span><span>To our Mixed Touch Team who won the 'Junior Team of the Year' at the Ray White Sports Awards on Friday 17 November at the Whanganui War Memorial Centre.</span></h4>

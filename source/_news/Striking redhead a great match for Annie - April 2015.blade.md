@@ -5,11 +5,11 @@ description: "SHAILA-ANNE Hawkins has become a redhead for the title role in thi
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>SHAILA-ANNE Hawkins has become a redhead for the title role in this year's Wanganui High School production of Annie.</span></p>

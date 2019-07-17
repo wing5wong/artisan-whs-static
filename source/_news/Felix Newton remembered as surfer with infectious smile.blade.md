@@ -5,11 +5,11 @@ description: "Whanganui surfer Felix Newton died after crashing his ute into Wha
 featured-image: 
 excerpt: "Whanganui surfer Felix Newton died after crashing his ute into Whanganui River in the early hours of Christmas Day 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui surfer Felix Newton died after crashing his ute into Whanganui River in the early hours of Christmas Day 2018. <br /><em>Photo / Supplied</em></span></p>

@@ -5,11 +5,11 @@ description: "Protecta Insurance River City Park Up 2018 raised nearly $3,500 fo
 featured-image: 
 excerpt: "Protecta Insurance River City Park Up 2018 raised nearly $3,500 for local charities, including Coastguard Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Protecta Insurance River City Park Up 2018 raised nearly $3,500 for local charities.</p>

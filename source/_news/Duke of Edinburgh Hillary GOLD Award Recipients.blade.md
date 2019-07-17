@@ -5,11 +5,11 @@ description: "On Saturday 17 February 2018 five WHS students celebrated their co
 featured-image: 
 excerpt: "On Saturday 17 February 2018 five WHS students joined a group of students from around the country to celebrate their completion of the GOLD Duke of Edinburgh Hillary Award."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><strong>On Saturday 17&nbsp;February five Whanganui High School students joined a group of students from around the country to celebrate their completion of the GOLD Duke of Edinburgh Hillary Award at Government House in Wellington.</strong></h3>

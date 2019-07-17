@@ -5,11 +5,11 @@ description: "Pauline Hiroti started dancing with a YMCA programme when she was 
 featured-image: 
 excerpt: "Pauline Hiroti started dancing with a YMCA programme when she was 12. Now she is about to obtain a Ph.D. from Auckland University in dance studies."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph">Former WHS student Pauline Hiroti started dancing with a YMCA programme when she was 12. Now she is about to obtain a Ph.D. from Auckland University in dance studies and could follow an academic career, but instead wants to give back to the community by inspiring others to dance.</p>

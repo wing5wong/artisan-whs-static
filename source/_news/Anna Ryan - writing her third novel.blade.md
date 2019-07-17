@@ -5,11 +5,11 @@ description: "Former WHS student Anna Ryan is only 24, works full time but has b
 featured-image: 
 excerpt: "Former WHS student Anna Ryan is only 24, works full time but has been able to publish two books on Amazon in the last three months."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Anna Ryan is only 24, works full time but has been able to publish two books on Amazon in the last three months.</strong> The first was &lsquo;The Lady in the Coat&rsquo; written in the horror/mystery genre and her second book published earlier this month is &lsquo;Amelia.&rdquo; It will be the first in a detective series under the title of &lsquo;Sly and Hoki.&rsquo;</span></p>

@@ -5,11 +5,11 @@ description: "Mizaan Lees (58V) takes Luke Miers (15P) to the wall in Heat 2 at 
 featured-image: 
 excerpt: "Mizaan Lees (58V) takes Luke Miers (15P) to the wall in Heat 2 at Oceanview Speedway."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former WHS student Mizaan Lees (58V) takes Luke Miers (15P) to the wall in Heat 2 at Oceanview Speedway.<br /><em>PHOTO / SB O'Hagan Photography</em></p>

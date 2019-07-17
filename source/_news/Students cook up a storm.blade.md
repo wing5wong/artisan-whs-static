@@ -5,11 +5,11 @@ description: "We brought home 8 medals from the NZ Chefs Regional Cooking Compet
 featured-image: 
 excerpt: "WHS brought home 8 medals from the NZ Chefs Regional Cooking Competitions in Taranaki on Monday 18 June 2018."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b29ba22ff2a7c6bfc002409/9.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b29ba15b8d39a749900244d/8.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b29ba30b8d39a749900244f/Aragorns-big-brekkie-stack.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b29b9ecff2a7c6bfc002405/5.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b29b9fbb8d39a749900244b/6.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b29ba22ff2a7c6bfc002409/9.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b29ba15b8d39a749900244d/8.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b29ba30b8d39a749900244f/Aragorns-big-brekkie-stack.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b29b9ecff2a7c6bfc002405/5.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b29b9fbb8d39a749900244b/6.gif"
 ---
 
 <h3><strong>We brought home 8 medals from the NZ Chefs Regional Cooking Competitions.</strong></h3>

@@ -5,11 +5,11 @@ description: "WHS middle distance runner Rebecca Baker is sure be among the lead
 featured-image: 
 excerpt: "Whanganui High School middle distance runner Rebecca Baker is sure be among the leaders at the New Zealand Schools Cross Country in June."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/wQmCW5PycXtsnRIjjc0r6nKpBZg=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/ROXCEEIYSRB37KEFJDBFK3A2HI.jpg" alt="Whanganui High School middle distance runner Rebecca Baker is sure be among the leaders at the New Zealand Schools Cross Country in June." /></p>

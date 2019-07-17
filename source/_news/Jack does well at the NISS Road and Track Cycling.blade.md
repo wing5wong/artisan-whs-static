@@ -5,11 +5,11 @@ description: "Jack has just competed at the NISS road and track cycling. He plac
 featured-image: 
 excerpt: "Jack has just competed at the NISS road and track cycling. He placed 4th in the road race out of 68 entrants and 6th in the criterium."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

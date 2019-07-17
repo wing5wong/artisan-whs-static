@@ -5,11 +5,11 @@ description: "High School Girls Touch Rugby going to International Tournament in
 featured-image: 
 excerpt: "High School Girls Touch Rugby going to International Tournament in Brisbane."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>High School Girls Touch Rugby going to International Tournament in Brisbane.</strong></p>

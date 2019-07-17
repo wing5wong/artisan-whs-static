@@ -5,11 +5,11 @@ description: "Sarah Wright is taking her cornet to tour with the National Youth 
 featured-image: 
 excerpt: "Sarah Wright is taking her cornet to tour with the National Youth Brass Band of NZ."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Sarah Wright is taking her cornet to tour with the National Youth Brass Band of NZ.</strong> <br />PHOTO / Paul Brooks</span></p>

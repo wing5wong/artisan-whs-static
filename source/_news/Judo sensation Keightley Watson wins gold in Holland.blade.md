@@ -5,11 +5,11 @@ description: "Teenage Whanganui judo prodigy Keightley Watson decks an opponent 
 featured-image: 
 excerpt: "Teenage Whanganui judo prodigy Keightley Watson decks an opponent on his way to gold at the Matsuru Dutch Open Espoir in Holland on Sunday morning New Zealand time."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><span>DECKED: Teenage Whanganui judo prodigy Keightley Watson decks an opponent on his way to gold at the Matsuru Dutch Open Espoir in Holland on Sunday morning New Zealand time.</span></h3>

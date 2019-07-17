@@ -5,11 +5,11 @@ description: "The Wanganui Special Olympics bocce team - including Grant McCullo
 featured-image: 
 excerpt: "The Wanganui Special Olympics bocce team (including Grant McCullough who works as a Teacher Aide in the Te Atawhai Special Unit at WHS) and supporters celebrate the team's success at the National Summer Games."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WINNING TEAM:&nbsp;The Wanganui Special Olympics bocce team (including <strong>Grant McCullough</strong> who works as a Teacher Aide in the Te Atawhai Special Unit at WHS) and supporters celebrate the team's success at the National Summer Games.</span></p>

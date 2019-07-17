@@ -5,11 +5,11 @@ description: "It was a fabulous day on Friday 1 March for our surfing trip to Ne
 featured-image: 
 excerpt: "It was a fabulous day on Friday 1 March for our surfing trip to New Plymouth for our International surfing students."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>It was a fabulous day on Friday 1 March for our surfing trip to New Plymouth for our International surfing students.</span></p>

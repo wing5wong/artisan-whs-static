@@ -5,11 +5,11 @@ description: "A new year begins at Whanganui High School.  Message from Martin M
 featured-image: 
 excerpt: "A new year begins at Whanganui High School.  Message from Martin McAllen, Principal."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>(Photo taken at WHS Athletics Day of which the whole school was a part of, 21 February 2019)</p>

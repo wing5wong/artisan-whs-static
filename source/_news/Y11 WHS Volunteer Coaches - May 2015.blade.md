@@ -5,11 +5,11 @@ description: "Well done to our Y11 students who are coaching our school teams th
 featured-image: 
 excerpt: "Well done to our Y11 students who are coaching our school teams this year for Netball. Thanks to Sport Whanganui for giving them volunteer hoodies."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span style="line-height: 1.5;">Well done to our Y11 students who are coaching our school teams this year for Netball; Britney Rourangi (back left), Daina Pa'a, Monique Cleeve (front left) and MacKenzie Tunua.</span></p>

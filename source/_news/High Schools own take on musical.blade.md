@@ -5,11 +5,11 @@ description: "Sophia 'Unga Cribb sings her heart out in Whanganui High School's 
 featured-image: 
 excerpt: "Sophia 'Unga Cribb sings her heart out in Whanganui High School's performance of Once On This Island."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5af3ade4ff2a7c6bfc001c53/sophia-Unga-plus..-3-may.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5af3ade4ff2a7c6bfc001c53/sophia-Unga-plus..-3-may.jpg"
+    
+    
+    
+    
 ---
 
 <p><span><strong>Sophia 'Unga Cribb sings her heart out in Whanganui High School's performance of <em>Once On This Island</em>.</strong> <br /><em>PHOTO /&nbsp; Bevan Conley</em></span><strong></strong></p>

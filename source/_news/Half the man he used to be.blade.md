@@ -5,11 +5,11 @@ description: "In 2014, Adrian Campbell weighed just under 200 kilograms. Five ye
 featured-image: 
 excerpt: "In 2014, Adrian Campbell weighed just under 200 kilograms. Five years later, he weighs 99.6."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/khphEG0lh62RXUgDehLbTHsh-aY=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/SOID5XN4AZGTJDZ7S3RPRISPR4.jpg" alt="In 2014, Adrian Campbell weighed just under 200 kilograms. Five years later, he weighs 99.6. Photo / Supplied" /></p>

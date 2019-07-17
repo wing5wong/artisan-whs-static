@@ -5,11 +5,11 @@ description: "A team of four year 11 students from WHS will be performing at the
 featured-image: 
 excerpt: "A team of four year 11 students from WHS will be performing at the Shakespeare’s Globe Centre NZ (SGCNZ) festival in Wellington."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><em>Photo: </em>Lachlan Baxter (left) and&nbsp;Jayden Grant.&nbsp;</p>

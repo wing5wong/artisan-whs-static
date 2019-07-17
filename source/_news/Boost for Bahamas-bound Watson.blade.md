@@ -5,11 +5,11 @@ description: "Kathmandu is giving Whanganui judoka Keightley Watson a hand on hi
 featured-image: 
 excerpt: "Kathmandu is giving Whanganui judoka Keightley Watson a hand on his climb to the top."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Kathmandu is giving Whanganui judoka Keightley Watson a hand on his climb to the top.<br /><em>PHOTO / Stuart Munro</em></span></p>

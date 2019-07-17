@@ -5,11 +5,11 @@ description: "Former WHS student Deborah Adesanya, will have one of her patients
 featured-image: 
 excerpt: "Former WHS student Deborah Adesanya, will have one of her patients feature in the upcoming TV series ‘The Surgery Ship’ screening on National Geographic."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Julien with Deborah Adesanya,&nbsp;<span>one of her patients featuring in the upcoming TV series &lsquo;The Surgery Ship&rsquo;</span></strong></p>

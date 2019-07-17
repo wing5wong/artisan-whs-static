@@ -5,11 +5,11 @@ description: "Winning everything on offer in his class at the Burt Munro Challen
 featured-image: 
 excerpt: "Winning everything on offer in his class at the Burt Munro Challenge weekend was thirsty work for Whanganui's Richie Dibben."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Winning everything on offer in his class at the Burt Munro Challenge weekend was thirsty work for Whanganui's Richie Dibben.</strong> <br /><em>PHOTO / Vanessa Adcock Photography</em></span></p>

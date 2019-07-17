@@ -5,11 +5,11 @@ description: "Marist prop Viki Tofa on another powerful charge in his team's big
 featured-image: 
 excerpt: "Marist prop Viki Tofa on another powerful charge in his team's big win over neighbours Pirates at Spriggens Park this afternoon."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/dm-W37damHiU6QyGZr2yTKdRDDU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/TDF7HCMRHZHZJKQTQ46RPNEFXM.jpg" alt="Marist prop Viki Tofa on another powerful charge in his team's big win over neighbours Pirates at Spriggens Park this afternoon." /></p>

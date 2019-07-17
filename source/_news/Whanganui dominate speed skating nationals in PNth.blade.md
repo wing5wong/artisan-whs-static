@@ -5,11 +5,11 @@ description: "Former/past WHS students excelling at the National Speed Skating C
 featured-image: 
 excerpt: "Former/past WHS students excelling at the National Speed Skating Champs in Palmerston North."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c649cbeff2a7c6f50000177/NZ-speed-skating-12.1.19-chron.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c649cbeff2a7c6f50000177/NZ-speed-skating-12.1.19-chron.jpg"
+    
+    
+    
+    
 ---
 
 <p><span><strong>WHS student Chase Morpeth secured the Oscar for the most outstanding performance across all grades and gender at the NZ Speed Skating Champs!!</strong></span><br /><em>Photo / Supplied</em></p>

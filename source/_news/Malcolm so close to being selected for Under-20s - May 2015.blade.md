@@ -5,11 +5,11 @@ description: "CLOSE SHAVE: Former WHS student 19-year-old Sam Malcolm may have j
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>CLOSE SHAVE: Former WHS student 19-year-old Sam Malcolm may have just missed the cut for the NZ Under-20 World Championship squad, but was proud to have worn and played in the black jersey.</span></p>

@@ -6,11 +6,11 @@ Click on above for more information..."
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>HAPPY: Jack Kennedy pictured with a successful WHS student Shea-Lee Phillips back in 2012.</p>

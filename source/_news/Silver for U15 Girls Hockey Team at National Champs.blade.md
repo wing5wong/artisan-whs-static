@@ -5,11 +5,11 @@ description: "Eight of the Wanganui Girls U15 Hockey team who claimed SILVER at 
 featured-image: 
 excerpt: "Eight of the Wanganui Girls Under 15 Hockey team who claimed SILVER at the National Champs Tournament were WHS students."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>The Wanganui Girls Under 15 Hockey team claimed a SILVER Medal at the National Championships Tournament in Carterton 1-6 October 2018.</h4>

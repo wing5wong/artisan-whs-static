@@ -5,11 +5,11 @@ description: "Whanganui athlete Rebecca Baker (4th outer) looms up to finish sec
 featured-image: 
 excerpt: "Whanganui athlete Rebecca Baker (4th outer) looms up to finish second in the women's 1500m in a personal best time at the Regional League final meeting in Masterton at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui athlete and High School student Rebecca Baker (4th outer) looms up to finish second in the women's 1500m in a personal best time at the Regional League final meeting in Masterton at the weekend.<br /></strong>PHOTO / Jo Murray</p>

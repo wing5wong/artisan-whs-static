@@ -5,11 +5,11 @@ description: "Funding to bolster Whanganui High School efforts in summer sports 
 featured-image: 
 excerpt: "An NZCT grant will help pay Greg Fromont & KiwiSport funding will go to Elaine Baker (middle) so they can help Lisa Murphy with developing athletes at Whanganui High School."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>An NZCT grant will help pay Greg Fromont and KiwiSport funding will go to Elaine Baker (middle) so they can help Lisa Murphy with developing athletes at Whanganui High School. <br /><em>PHOTO / Bevan Conley</em></span></p>

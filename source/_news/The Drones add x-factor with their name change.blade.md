@@ -5,11 +5,11 @@ description: "Whanganui band Drxnes are (from left) Adam Robinson, Rob Reynolds,
 featured-image: 
 excerpt: "Whanganui band Drxnes are (from left) Adam Robinson, Rob Reynolds, Hayden Molineux, Ethan Coleman and Isaac Chamberlain. (highlighted names former WHS students)"
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a8cd965ff2a7c6bfc00008a/the-drones-album-cover-12-feb-2018.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a8cd965ff2a7c6bfc00008a/the-drones-album-cover-12-feb-2018.jpg"
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui band Drxnes are (from left) <strong>Adam Robinson</strong>, Rob Reynolds, Hayden Molineux, <strong>Ethan Coleman and Isaac Chamberlain</strong>. (highlighted names former WHS students)<br /><em>PHOTO / Supplied</em></span></p>

@@ -5,11 +5,11 @@ description: "Kalvin Field, Graham McLay, former WHS students' Brooke & Tyler Lo
 featured-image: 
 excerpt: "Kalvin Field, Graham McLay, former WHS students' Brooke & Tyler Lock participating in NZME's second Whanganui Charity Golf Tournament sponsored by Mitre 10 Mega Wanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Kalvin Field, Graham McLay, former WHS students'&nbsp;<strong>Brooke Lock and Tyler Lock,</strong> and John Broad all enjoyed a day off work at the golf. Golfers participating in NZME's second Whanganui Charity Golf Tournament sponsored by Mitre 10 Mega Wanganui.<br /><em>PHOTO / Bevan Conley</em></span></p>

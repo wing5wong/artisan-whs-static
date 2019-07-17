@@ -5,11 +5,11 @@ description: "Women's Refuge Whanganui manager Heather accepts a funding boost f
 featured-image: 
 excerpt: "Women's Refuge Whanganui manager Heather accepts a funding boost from advertising consultant Christina Forsyth."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Women's Refuge Whanganui manager Heather accepts a funding boost from advertising consultant (and former WHS student) Christina Forsyth. <br /><em>PHOTO / Bevan Conley</em></span></p>

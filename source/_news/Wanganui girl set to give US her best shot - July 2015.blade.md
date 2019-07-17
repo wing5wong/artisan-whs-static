@@ -5,11 +5,11 @@ description: "HELLO AMERICA:  Former WHS student Amber-Rose Thompson-Newth sneak
 featured-image: 
 excerpt: "HELLO AMERICA:  Former WHS student Amber-Rose Thompson-Newth sneaks in a bit of practice at Castlecliff before starting a US golf and study scholarship"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>HELLO AMERICA: Former WHS student&nbsp;Amber-Rose Thompson-Newth sneaks in a bit of practice at Castlecliff before starting a US golf and study scholarship</p>

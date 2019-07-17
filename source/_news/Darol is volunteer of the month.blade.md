@@ -5,11 +5,11 @@ description: "Volunteer of the Month: Darol Pointon, former WHS staff member..."
 featured-image: 
 excerpt: "Volunteer of the Month: Darol Pointon, former WHS staff member."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=6H%2f7MQ12GFhx%2f8kDgGf3iQ%3d%3d" alt="" /></p>

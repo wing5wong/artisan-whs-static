@@ -5,11 +5,11 @@ description: "Shaan Stuart has returned home from the United States to rejoin Wa
 featured-image: 
 excerpt: "Shaan Stuart has returned home from the United States to rejoin Wanganui Athletic in their match with Napier Marist tomorrow at Wembley Park."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/DSKfwPejqUcC2lVBiUG0gE_d5U8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/F4AK2KJGQ5EHDHLQTMX55CKBKE.jpg" alt="Shaan Stuart has returned home from the United States to rejoin Wanganui Athletic in their match with Napier Marist tomorrow at Wembley Park." /></p>

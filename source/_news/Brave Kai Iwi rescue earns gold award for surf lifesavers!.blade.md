@@ -5,11 +5,11 @@ description: "Six former WHS students received their second National Award for a
 featured-image: 
 excerpt: "Six former WHS students received their second National Award for a dramatic rescue at Kai Iwi Beach last year."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/bqq9c0NLJVwtBGanRSXhJxJNY5s=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/AYNLLXMY3RAF5BZ6KLMXTNQDGY.jpg" alt="Lifeguard Clarissa Nowak is one of a team of Whanganui Surf Lifesavers to receive a second national award for a dramatic rescue at Kai Iwi Beach last year. Photo / File" /></p>

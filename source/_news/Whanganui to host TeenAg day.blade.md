@@ -5,11 +5,11 @@ description: "Whanganui High School TeenAg runners-up Sarah Lightband, Oliver Ke
 featured-image: 
 excerpt: "Whanganui High School TeenAg runners-up Sarah Lightband, Oliver Keelty, Isaac Te Huna and Angus Pitkethley."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Whanganui High School TeenAg runners-up Sarah Lightband, Oliver Keelty, Isaac Te Huna and Angus Pitkethley.</strong> <br />Photo / Supplied</span></p>

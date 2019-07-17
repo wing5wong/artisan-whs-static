@@ -5,11 +5,11 @@ description: "WHS players Olivia Smith and Rebecca Baker loom large in the NPGH 
 featured-image: 
 excerpt: "Whanganui High School players Olivia Smith (green and gold left) and Rebecca Baker loom large in the NPGH goal during the annual sporting exchange hockey clash."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://www.nzherald.co.nz/resizer/mrSGcH9Z2fvTosb6OJM7vPIid9M=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/HWG3T5MR6BHAHLAV7NZ7Q4VVPM.jpg" alt="Whanganui High School players Olivia Smith (green and gold left) and Rebecca Baker loom large in the NPGH goal during the annual sporting exchange hockey clash won 32-27 by the visitors." /></p>

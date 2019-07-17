@@ -5,11 +5,11 @@ description: "Both past & present WHS students had heroic performances at the Wi
 featured-image: 
 excerpt: "Both past & present Whanganui High School students had heroic performances at the Winter Series races on the Whanganui River."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>Both&nbsp;past and present Whanganui High School students had heroic performances at the Winter Series races on the Whanganui River.</strong></p>

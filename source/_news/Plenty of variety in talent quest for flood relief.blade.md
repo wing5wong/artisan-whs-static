@@ -5,11 +5,11 @@ description: "Some of Wanganui's best young talent will be stage tonight in the 
 featured-image: 
 excerpt: "Some of Wanganui's best young talent will be stage tonight in the Wanganui High School Hall for the Centre Stage 2015 talent quest."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Some of Wanganui's best young talent will be stage tonight in the Wanganui High School Hall for the Centre Stage 2015 talent quest.</p>

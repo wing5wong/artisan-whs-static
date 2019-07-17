@@ -5,11 +5,11 @@ description: "Wanganui Arts Society publicist Judy Webby looks at John Singleton
 featured-image: 
 excerpt: "Wanganui Arts Society publicist Judy Webby looks at John Singleton's painting of a soldier, Woodbine Willy."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Wanganui Arts Society publicist Judy Webby looks at John Singleton's painting of a soldier, Woodbine Willy. <br /><em>PHOTO / Stuart Munro</em></span></p>

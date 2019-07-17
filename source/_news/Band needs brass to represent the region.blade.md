@@ -5,11 +5,11 @@ description: "Brass Whanganui are calling on community support to help them repr
 featured-image: 
 excerpt: "Brass Whanganui are calling on community support to help them represent New Zealand in China."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/MqnI63A4kZwRIomPreZDzKaW-vw=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/2O3JFLUT3RH2XNYNYVQDBUXUL4.jpg" alt="Brass Whanganui are calling on community support to help them represent New Zealand in China. photo/Supplied" /></p>

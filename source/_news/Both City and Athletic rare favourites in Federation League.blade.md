@@ -5,11 +5,11 @@ description: "Both Wanganui City and Athletic rare favourites in Federation Leag
 featured-image: 
 excerpt: "Both Wanganui City and Athletic rare favourites in Federation League."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/DCsRiqhrYr51kzOkG0zdVwvKGAs=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/JFPJPK7NVZGQFMHWW4IVMTAPRQ.jpg" alt="With a couple of key players away, the likes of Wanganui City's Alex Judd-Nuttall will have to step up against New Plymouth Rangers at Wembley Park tomorrow." /></p>

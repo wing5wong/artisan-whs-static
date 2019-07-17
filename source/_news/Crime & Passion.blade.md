@@ -5,11 +5,11 @@ description: "Writer Anna Ryan (former WHS student) with hard copies of her two 
 featured-image: 
 excerpt: "Writer Anna Ryan (former WHS student) with hard copies of her two self-published books."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Writer Anna Ryan (former WHS student) with hard copies of her two self-published books.</strong><br /><em>PHOTO / Bevan Conley</em></p>

@@ -5,11 +5,11 @@ description: "Whiskey Mama will be joined by two up & coming WHS bands – ‘Fe
 featured-image: 
 excerpt: "Whiskey Mama will be joined by two up & coming WHS bands – ‘Ferris’ and ‘In Business’ at Caroline's Boatshed."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c647e3cff2a7c6f50000163/Ferris--Carolines.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c647e55ff2a7c6f50000165/Ferris-Band--Carolines......-13.12.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c647e64ff2a7c6f50000167/Ferris-Band--Carolines..-13.12.jpg"
-	 - image: "/uploads/5c647ea4ff2a7c6f5000016b/In-Business-performing..--Carolines.PNG"
-	 - image: "/uploads/5c647e78ff2a7c6f50000169/In-Business-performing--Carolines.PNG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c647e3cff2a7c6f50000163/Ferris--Carolines.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c647e55ff2a7c6f50000165/Ferris-Band--Carolines......-13.12.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c647e64ff2a7c6f50000167/Ferris-Band--Carolines..-13.12.jpg"
+     - image: "/uploads/5c647ea4ff2a7c6f5000016b/In-Business-performing..--Carolines.PNG"
+     - image: "/uploads/5c647e78ff2a7c6f50000169/In-Business-performing--Carolines.PNG"
 ---
 
 <p>Rock on the River coming to Caroline&rsquo;s Boatshed &ndash; 6 January 2019.</p>

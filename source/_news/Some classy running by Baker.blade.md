@@ -5,11 +5,11 @@ description: "A win in the junior girls' 1500m by Rebecca Baker puts WHS in the 
 featured-image: 
 excerpt: "A win in the junior girls' 1500m by Rebecca Baker puts Whanganui High School in the frame at the NZ Secondary Schools champs in Hawkes Bay over the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>A win in the junior girls' 1500m by Rebecca Baker puts Whanganui High School in the frame at the NZ Secondary Schools champs in Hawkes Bay over the weekend.</strong></p>

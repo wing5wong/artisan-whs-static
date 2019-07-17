@@ -5,11 +5,11 @@ description: "Wanganui Lightning are hosting the inline hockey tournament on 9 &
 featured-image: 
 excerpt: "Wanganui Lightning are hosting the inline hockey tournament on 9 & 10 June..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">The Wanganui Lightning hope this weekend is the chance to finally go all the way and win their home round of the Lower North Island Inline Hockey League at Jubilee Stadium.<br /><em>Photo / File</em></p>

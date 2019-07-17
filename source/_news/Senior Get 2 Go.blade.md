@@ -5,11 +5,11 @@ description: "On 1 March WHS took 7 teams down to Waikanae for the Senior Get 2 
 featured-image: 
 excerpt: "On 1 March WHS took 7 teams down to Waikanae for the Senior Get 2 Go 3 hour adventure race."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f6691b8d39a7499002131/at-bikes.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f6677b8d39a749900212f/4-girls-other.2gif.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f6683ff2a7c6bfc0020e1/4-girls-other.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f666bff2a7c6bfc0020df/4-girls.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f665db8d39a749900212d/3-boys.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f6691b8d39a7499002131/at-bikes.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f6677b8d39a749900212f/4-girls-other.2gif.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f6683ff2a7c6bfc0020e1/4-girls-other.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f666bff2a7c6bfc0020df/4-girls.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f665db8d39a749900212d/3-boys.gif"
 ---
 
 <p><strong>Senior Get 2 Go&nbsp;</strong></p>

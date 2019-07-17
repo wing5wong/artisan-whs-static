@@ -5,11 +5,11 @@ description: "SUNNY DAYS: The Whanganui Kayak Club team at Lake Karapiro, from t
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>SUNNY DAYS: The Whanganui Kayak Club team at Lake Karapiro.</p>

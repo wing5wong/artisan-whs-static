@@ -5,11 +5,11 @@ description: "WHS chefs came so close to winning the recent regional cooking com
 featured-image: 
 excerpt: "WHS cooking representatives came so close to winning the recent regional cooking competitions in Taranaki, missing out by only 0.3 of a mark."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

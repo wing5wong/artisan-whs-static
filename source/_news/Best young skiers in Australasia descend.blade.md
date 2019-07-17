@@ -5,11 +5,11 @@ description: "Lily Meade will be skiing up one division against a stacked Aussie
 featured-image: 
 excerpt: "Hometown girl & former WHS student Lily Meade will be skiing up one division against a stacked Aussie selection in the OZ Kiwi Water Ski Challenge."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>UP A GRADE: Hometown girl and former WHS student <strong>Lily Meade</strong> will be skiing up one division against a stacked Aussie selection in the OZ Kiwi Water Ski Challenge starting Friday on Lake Wiritoa. <br /><em>PHOTO / Sabrina East</em></span></p>

@@ -5,11 +5,11 @@ description: "Scott Burney had an eventful match with the opening goal, letting 
 featured-image: 
 excerpt: "Scott Burney had an eventful match with the opening goal, letting a team mate get another, then being involved in a head clash that saw a Hokowhitu player leave the field."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://www.nzherald.co.nz/resizer/nH7hncnLR2TnTr7EO8ConfI-mSE=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/Z5G3IYJ6MRCTFMQXQKWPF7BUEA.jpg" alt="Scott Burney had an eventful match with the opening goal, letting a team mate get another, then being involved in a head clash that saw a Hokowhitu player leave the field." /></p>

@@ -5,11 +5,11 @@ description: "Congratulations to ex student Griffin Culver who is on the bench f
 featured-image: 
 excerpt: "Congratulations to ex student Griffin Culver who is on the bench for the Manawatu Turbo's Rugby Team this Wednesday in their first pre season game against Hawkes Bay."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Congratulations to ex student Griffin Culver who is on the bench for the Manawatu Turbo's Rugby Team this Wednesday in their first pre season game against Hawkes Bay.&nbsp;</p>

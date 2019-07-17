@@ -5,11 +5,11 @@ description: "Brass Whanganui's own soloist, former WHS student Jacob Mancer, wi
 featured-image: 
 excerpt: "Brass Whanganui's own soloist, former WHS student Jacob Mancer, will pay Eflat horn on Somewhere Over The Rainbow."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Brass Whanganui will present an afternoon of movie magic on Sunday.</span></p>

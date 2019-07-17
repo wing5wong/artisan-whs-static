@@ -5,11 +5,11 @@ description: "Congratulations to Roman Kotuhi-Brown, who won the Junior Māori S
 featured-image: 
 excerpt: "Congratulations to Roman Kotuhi-Brown, who won the Rāwhiti Ihaka Junior Māori Speech Competition at Ngā Manu Kōrero Regionals held in Opunake yesterday!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br />&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65305682_2280490812000084_6449644696393220096_n.jpg?_nc_cat=104&amp;_nc_oc=AQn4UJukkRp-94XcjqCDBh9fybOoL5Ny-Y_9-qYQDeyJCtFw5OSGf2ReRguPu65AORI&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=7b320bc3e6ac6318fc68be3ec72aa457&amp;oe=5DB44413" alt="Image may contain: 1 person, smiling" /></p>

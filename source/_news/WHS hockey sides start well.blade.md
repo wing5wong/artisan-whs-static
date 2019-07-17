@@ -5,11 +5,11 @@ description: "WHS 1st X1 boys hockey captain Jordan Cohen takes control during h
 featured-image: 
 excerpt: "WHS 1st X1 boys hockey captain Jordan Cohen takes control during his side's 3-0 win over Wanganui Collegiate during Founders Cup play during Tournament Week in PN."
 image_gallery:
-	 - image: "/uploads/5b91ab34ff2a7c2965000042/A1-netball-in-PN-chron-6-sept.PNG"
-	
-	
-	
-	
+     - image: "/uploads/5b91ab34ff2a7c2965000042/A1-netball-in-PN-chron-6-sept.PNG"
+    
+    
+    
+    
 ---
 
 <p><span>WHS 1st X1 boys hockey captain Jordan Cohen takes control during his side's 3-0 win over Wanganui Collegiate during Founders Cup play during Tournament Week in Palmerston North. <br /><em>PHOTO / Cindy Hoskin</em></span></p>

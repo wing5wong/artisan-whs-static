@@ -5,11 +5,11 @@ description: "Most of these WHS riders (Rotorua comp earlier this year) will be 
 featured-image: 
 excerpt: "Most of these WHS riders (Rotorua competition earlier this year) will be competing in the action at the NISS Champs at Languard Bluff on Friday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The majority of these Whanganui High School riders who competed in Rotorua earlier this year will again be in action at the North Island Secondary Schools Championship at Languard Bluff on Friday.</span></p>

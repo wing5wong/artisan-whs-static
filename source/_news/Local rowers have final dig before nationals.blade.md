@@ -5,11 +5,11 @@ description: "AWRC's Mahina Barritt & Ranita Kirk relax after coming third in th
 featured-image: 
 excerpt: "AWRC's Mahina Barritt and Ranita Kirk relax after coming third in the Womens Novice double sculls at the Whanganui Rowing Championships on the river on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>AWRC's Mahina Barritt and Ranita Kirk (both WHS students) relax after coming third in the Womens Novice double sculls at the Whanganui Rowing Championships on the river on Saturday.</strong><br /><em>PHOTO / Lewis Gardiner</em></p>

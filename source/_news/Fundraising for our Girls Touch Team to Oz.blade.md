@@ -5,11 +5,11 @@ description: "Fundraising for our Girls Touch Team to Brisbane, Australia in Oct
 featured-image: 
 excerpt: "Fundraising for our Girls Touch Team to Brisbane, Australia in October 2018."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b51af8eb8d39a4129000745/Touch-team-fundraiser-hungi-chop-suey.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b51a8ccb8d39a4129000743/CASINO-NIGHT-POSTER.jpg"
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b51af8eb8d39a4129000745/Touch-team-fundraiser-hungi-chop-suey.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b51a8ccb8d39a4129000743/CASINO-NIGHT-POSTER.jpg"
+    
+    
+    
 ---
 
 <h4>Help support our Touch Girls get to Oz</h4>

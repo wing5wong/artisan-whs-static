@@ -5,11 +5,11 @@ description: "Former WHS student Adam Hutchinson receiving a national award for 
 featured-image: 
 excerpt: "Former Whanganui High School student Adam Hutchinson receiving a national award for his tourism app that started as a hobby."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Former Whanganui High School student Adam Hutchinson receiving a national award for his tourism app that started as a hobby.</strong> <br /><em>PHOTO / Supplied</em></span></p>

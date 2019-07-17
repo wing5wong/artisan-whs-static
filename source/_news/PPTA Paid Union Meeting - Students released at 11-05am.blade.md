@@ -5,11 +5,11 @@ description: "Special Newsletter regarding a Paid Union Meeting held in Palmerst
 featured-image: 
 excerpt: "Special Newsletter regarding a Paid Union Meeting held in Palmerston North on Tuesday 25 June 2019."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>A Paid Union Meeting on Tuesday 25 June 2019</h4>

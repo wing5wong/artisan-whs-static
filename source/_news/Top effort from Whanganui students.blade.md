@@ -5,11 +5,11 @@ description: "Summer tournament week this year featured WHS competing around NZ 
 featured-image: 
 excerpt: "Summer tournament week this year featured Whanganui High School competing around New Zealand in eight different sports."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5abbf61cff2a7c6bfc00111a/WHS-crew-at-Rotorua-Schools-events-19-March.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5abbf61cff2a7c6bfc00111a/WHS-crew-at-Rotorua-Schools-events-19-March.jpg"
+    
+    
+    
+    
 ---
 
 <p><strong>THE CREW:&nbsp; The Whanganui High School Maadi Cup crew.</strong><br /><em>Photo / Supplied</em></p>

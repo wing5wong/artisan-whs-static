@@ -5,11 +5,11 @@ description: "Whanganui Metro coach Mark Cosford was pleased with the performanc
 featured-image: 
 excerpt: "Whanganui Metro coach Mark Cosford was pleased with the performances of Mason Johnson and Louis Devine."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/0UfSOM5X9oQeRvgaRjv8EwJ9kg4=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/DMQF4RISCNBXLCFQDXZX4BGWUQ.jpg" alt="Whanganui Metro coach Mark Cosford was pleased with the performances of Mason Johnson and Louis Devine returning from injury, but lamented a loss of intensity from his side. Photo / Bevan Conley" /></p>

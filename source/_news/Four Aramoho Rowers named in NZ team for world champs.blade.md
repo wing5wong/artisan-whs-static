@@ -5,11 +5,11 @@ description: "Former WHS student Chris Harris is one of the four Aramoho Rowers 
 featured-image: 
 excerpt: "Former WHS student Chris Harris is one of the four Aramoho Rowers named in NZ team for world champs."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">Former WHS student Chris Harris is one of the four Aramoho Rowers named in NZ team for world champs.</p>

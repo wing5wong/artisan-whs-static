@@ -5,11 +5,11 @@ description: "Thomas Monaghan (left), Luke Watts, Hugh Pawson and Hamish Maxwell
 featured-image: 
 excerpt: "Thomas Monaghan (left), Luke Watts, Hugh Pawson and Hamish Maxwell qualify for Henley Royal Regatta on the River Thames."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/DK8vtIntG3EaxW_A3XA25qlRcwc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/OWHKO7ZH75DLHD5MAGXQN5XD7E.jpg" alt="Thomas Monaghan, left, Luke Watts, Hugh Pawson and Hamish Maxwell flew out today to compete at the prestigious Henley Royal Regatta on the River Thames in early July. Photo by Patrick Monaghan" /></p>

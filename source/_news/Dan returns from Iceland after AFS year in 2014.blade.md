@@ -5,11 +5,11 @@ description: "A Former WHS AFS student who loved the experience has returned to 
 featured-image: 
 excerpt: "A Former WHS AFS student who loved the experience has returned to Whanganui for a 3 month stint."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Dan returns to Whanganui from Iceland after AFS year in 2014.</p>

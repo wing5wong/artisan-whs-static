@@ -5,11 +5,11 @@ description: "Former Whanganui High School student Gabby MacDonald in her new of
 featured-image: 
 excerpt: "Former Whanganui High School student Gabby MacDonald in her new office."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former Whanganui High School student Gabby MacDonald in her new office. <br /><em>PHOTO / supplied</em></span></p>

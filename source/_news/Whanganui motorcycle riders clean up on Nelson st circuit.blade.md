@@ -5,11 +5,11 @@ description: "The Whanganui team Jayden Carrick (left), and former WHS students'
 featured-image: 
 excerpt: "The Whanganui team Jayden Carrick (left), and former WHS students' Ben Dowman, Richie Dibben and Scott Dowman stand ready to do battle on the streets of Nelson on Tuesday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The Whanganui team Jayden Carrick (left), and former WHS students' Ben Dowman, Richie Dibben and Scott Dowman stand ready to do battle on the streets of Nelson on Tuesday.</span></p>

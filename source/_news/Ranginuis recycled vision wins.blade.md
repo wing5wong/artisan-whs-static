@@ -5,11 +5,11 @@ description: "Kerry Ranginui and Judy Gao discuss the unconventional materials c
 featured-image: 
 excerpt: "Kerry Ranginui and Judy Gao discuss the unconventional materials challenge on Project Runway NZ."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bc7a0a2ff2a7c68e50004d1/PR-nz-2.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bc7a0a2ff2a7c68e50004d1/PR-nz-2.jpg"
+    
+    
+    
+    
 ---
 
 <p><span>Kerry Ranginui and Judy Gao discuss the unconventional materials challenge on Project Runway NZ. <br /><em>Photo / Supplied</em></span></p>

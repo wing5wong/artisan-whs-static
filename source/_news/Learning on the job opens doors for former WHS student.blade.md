@@ -5,11 +5,11 @@ description: "Former Whanganui High School student Brooke Polkinghorne, 27, righ
 featured-image: 
 excerpt: "Former Whanganui High School student Brooke Polkinghorne, 27, right where she wants to be."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former Whanganui High School student Brooke Polkinghorne, 27, right where she wants to be. <br />PHOTO / Stuart Munro</span></p>

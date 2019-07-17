@@ -5,11 +5,11 @@ description: "WHS bands dominate the upcoming SMOKEFREEROCKQUEST 2018 regional f
 featured-image: 
 excerpt: "WHS bands dominate the upcoming SMOKEFREEROCKQUEST 2018 regional finals on Saturday, June 9 at the Opera House with 13 of the 19 bands."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Whanganui High School bands dominate the upcoming SMOKEFREEROCKQUEST 2018 regional finals on Saturday, June 9 at the Opera House with 13 of the 19 bands.</strong> The other bands come from Rangitikei, Ruapehu College and Taumarunui High School.</span></p>

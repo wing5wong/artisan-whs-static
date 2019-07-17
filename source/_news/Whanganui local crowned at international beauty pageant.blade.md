@@ -5,11 +5,11 @@ description: "Whanganui's Jessica Tyson runner up in the Miss Global City..."
 featured-image: 
 excerpt: "Whanganui's Jessica Tyson runner up in the Miss Global City."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui's Jessica Tyson runner up in the Miss Global City.</span></p>

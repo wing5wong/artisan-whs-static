@@ -5,11 +5,11 @@ description: "The Whanganui High School touch team are raising funds to take par
 featured-image: 
 excerpt: "The Whanganui High School touch team are raising funds to take part in the biggest touch tournament in the world."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>The Whanganui High School touch team are raising funds to take part in the biggest touch tournament in the world.</strong> <br />Photo / Supplied</span></p>

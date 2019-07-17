@@ -5,11 +5,11 @@ description: "Wanganui kayaker Erica Tanner has created history with her selecti
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img style="line-height: 1.5;" src=http://c1940652.r52.cf0.rackcdn.com/549393dfb8d39a1d810011b4/Erica-Tanner,-Kamar-photo-for-website,Kayaking.jpg alt="" /></p>

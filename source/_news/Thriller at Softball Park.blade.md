@@ -5,11 +5,11 @@ description: "The Mustangs and Kapiti pose together after a tight cup final at S
 featured-image: 
 excerpt: "The Mustangs and Kapiti pose together after a tight cup final at Softball Park this afternoon."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The Mustangs and Kapiti pose together after a tight cup final at Softball Park this afternoon.</span><br /><em>PHOTOS / Bevan Conley</em></p>

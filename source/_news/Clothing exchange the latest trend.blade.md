@@ -5,11 +5,11 @@ description: "Emily Kara hosted her first clothing library at Frank Bar alongsid
 featured-image: 
 excerpt: "Emily Kara (middle) hosted her first clothing library in march at Frank Bar alongside her friends Krystal Simpson (left) and Danielle Mallasch."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

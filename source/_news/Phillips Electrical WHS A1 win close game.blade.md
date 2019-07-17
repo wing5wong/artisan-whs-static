@@ -5,11 +5,11 @@ description: "WHS's Montel Vaiao Aki was able to shoot her team to victory in th
 featured-image: 
 excerpt: "Whanganui High School's Montel Vaiao Aki was able to shoot her team to victory in the dying minutes against Kaierau A1 at Springvale Stadium on Monday evening."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/2XFkrCWnF7LpgFU_33Izt5UjlIg=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/LVXOSWXLRZBC7PHLFLI6GH3A7I.jpg" alt="Whanganui High School's Montel Vaiao Aki was able to shoot her team to victory in the dying minutes against Kaierau A1 at Springvale Stadium on Monday evening." /></p>

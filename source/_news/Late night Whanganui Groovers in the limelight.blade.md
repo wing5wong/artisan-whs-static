@@ -5,11 +5,11 @@ description: "Whanganui band Late Night Tales are Bayley Blythe (left), Jonathan
 featured-image: 
 excerpt: "Whanganui band Late Night Tales are Bayley Blythe (left), Jonathan Stolk, Jack McCoubrie, Cameron Walker, James Rowe & Noah Belchambers."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bb169c8ff2a7c13090002d5/Rosetta-Road-Album.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bb169c8ff2a7c13090002d5/Rosetta-Road-Album.jpg"
+    
+    
+    
+    
 ---
 
 <p><span><strong><br />Whanganui band Late Night Tales are Bayley Blythe (left), Jonathan Stolk, Jack McCoubrie, Cameron Walker, James Rowe and Noah Belchambers.</strong> <br />&nbsp; <em>PHOTO / Stuart Munro</em><br /></span><em><a href="https://www.nzherald.co.nz/wanganui-chronicle/news/article.cfm?c_id=1503426&amp;objectid=12130788">VIDEO / Stuart Munro</a></em></p>

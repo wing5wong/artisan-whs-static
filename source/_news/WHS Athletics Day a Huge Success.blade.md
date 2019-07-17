@@ -5,11 +5,11 @@ description: "Well done today Whanganui High School - Inter-house Athletics at C
 featured-image: 
 excerpt: "Well done today Whanganui High School - Inter-house Athletics at Cooks Gardens. What an amazing day!"
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6be9ff2a7c6bfc000241/Rebecca-Baker-running.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6bcfff2a7c6bfc00023f/boys-running.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6bddb8d39a749900025c/boys-running-2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6bc1b8d39a749900025a/boys-at-finish-line.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6b8cb8d39a7499000256/Awa.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6be9ff2a7c6bfc000241/Rebecca-Baker-running.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6bcfff2a7c6bfc00023f/boys-running.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6bddb8d39a749900025c/boys-running-2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6bc1b8d39a749900025a/boys-at-finish-line.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6b8cb8d39a7499000256/Awa.jpg"
 ---
 
 <h4><span>Well done today Whanganui High School. <br />What an amazing day!</span></h4>

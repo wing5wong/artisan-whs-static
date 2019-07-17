@@ -5,11 +5,11 @@ description: "Whanganui artists Glen Hayward, Elva Abbott and Mikayla Baldwin ar
 featured-image: 
 excerpt: "Whanganui artists Glen Hayward, Elva Abbott and Mikayla Baldwin are preparing their Arts Review entries."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui artists Glen Hayward, Elva Abbott and former WHS student Mikayla Baldwin are preparing their Arts Review entries. <br /><em>PHOTO / Michael McKeagg</em></span></p>

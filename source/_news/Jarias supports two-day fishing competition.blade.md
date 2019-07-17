@@ -5,11 +5,11 @@ description: "Tai Puia with grandson Jarias Smith, has only missed one surf cast
 featured-image: 
 excerpt: "Tai Puia (left), with grandson and WHS student Jarias Smith, has only missed one surf casting competition at South Beach in all the years it has run."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Tai Puia (left), with grandson and WHS student<strong> Jarias Smith</strong>, has only missed one surf casting competition at South Beach in all the years it has run.</span><br /><em>PHOTO / Bevan Conley</em></p>

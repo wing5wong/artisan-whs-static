@@ -5,11 +5,11 @@ description: "UNITED ARAB EMIRATES: WINNER - BEST DELEGATION; Toni Adams, Laura 
 featured-image: 
 excerpt: "On Thursday 1 November students from WHS joined students from other schools in Whanganui to take part in the annual Junior MUNs day held at Whanganui Girls’ College."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc590ff2a7c39a8000320/20181101_100420.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc571ff2a7c39a800031a/20181101_100735.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc571ff2a7c39a8000318/20181101_100612.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc592ff2a7c39a8000323/20181101_100522.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc592ff2a7c39a8000322/20181101_100441.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc590ff2a7c39a8000320/20181101_100420.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc571ff2a7c39a800031a/20181101_100735.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc571ff2a7c39a8000318/20181101_100612.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc592ff2a7c39a8000323/20181101_100522.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc592ff2a7c39a8000322/20181101_100441.jpg"
 ---
 
 <h4>UNITED ARAB EMIRATES: WINNER - <br />BEST DELEGATION; Toni Adams, Laura Mackintosh, Calum Sinclair.</h4>

@@ -5,11 +5,11 @@ description: "Brodie Hurndell, Carlin Barry & Jimi Blinkhorne are aiming to even
 featured-image: 
 excerpt: "Whanganui skaters Brodie Hurndell, Carlin Barry & Jimi Blinkhorne are aiming to even the score for New Zealand in the Tans-Tasman Cup roller hockey test match with Austraila."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Whanganui skaters Brodie Hurndell, Carlin Barry and Jimi Blinkhorne are aiming to even the score for New Zealand in the Tans-Tasman Cup roller hockey test match with Austraila in Queensland this week.</span></h4>

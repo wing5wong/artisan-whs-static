@@ -5,11 +5,11 @@ description: "In celebraton of Samoan Language week WHS's Pasifika Group was inv
 featured-image: 
 excerpt: "In celebraton of Samoan Language week Whanganui High Schools Pasifika Group was invited to attend Gonville Kindergarten’s annual Fia Fia Day, to perform and share our love of the cultures from the Pacific Islands with the students."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>WHS Pasifika Group visit school for Samoan Language Week.</h4>

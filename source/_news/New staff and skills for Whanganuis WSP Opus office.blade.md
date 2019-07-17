@@ -5,11 +5,11 @@ description: "WSP Opus has welcomed new staff and students (from left) Julian Ka
 featured-image: 
 excerpt: "WSP Opus has welcomed new staff and students (from left) Julian Kasner, Melayna Yukhnevich, Anthony Rooke, Ai Lena Tomioka, Carlos Gaona and Melody Che."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>NEW: WSP Opus has welcomed new staff and students (from left) Julian Kasner, Melayna Yukhnevich, Anthony Rooke, Ai Lena Tomioka, Carlos Gaona and Melody Che.</span><br /><em>PHOTO / Bevan Conley</em></p>

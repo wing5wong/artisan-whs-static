@@ -5,11 +5,11 @@ description: "Vibe. Music Festival at Cooks Gardens on Saturday 15 December feat
 featured-image: 
 excerpt: "Vibe. Music Festival at Cooks Gardens on Saturday 15 December 2018 features our very own students from bands 'Late Night Tales', 'The Remnant'.."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fdcaff2a7c39a8000b5b/Jack-Mccoubrie-chron-25-sept-2018.jpg"
-	 - image: "/uploads/5bf5fd7dff2a7c39a8000b59/jack-with-guitar.PNG"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fdefff2a7c39a8000b5d/The-Remnant-winners.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fcf8ff2a7c39a8000b51/kings-to-head-vibe.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fd22ff2a7c39a8000b55/green-party-member-Chloe-Swarbrick-will-be-there.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fdcaff2a7c39a8000b5b/Jack-Mccoubrie-chron-25-sept-2018.jpg"
+     - image: "/uploads/5bf5fd7dff2a7c39a8000b59/jack-with-guitar.PNG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fdefff2a7c39a8000b5d/The-Remnant-winners.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fcf8ff2a7c39a8000b51/kings-to-head-vibe.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fd22ff2a7c39a8000b55/green-party-member-Chloe-Swarbrick-will-be-there.jpg"
 ---
 
 <div class="row">

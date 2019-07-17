@@ -5,11 +5,11 @@ description: "WHS was well represented with over a dozen entries at this years N
 featured-image: 
 excerpt: "WHS was well represented with over a dozen entries at this years NISS's Motocross champs in Wanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">The start gate dropping for the Year 12-16 85cc race at the North Island Secondary Schools Motocross championships this morning.<br />PHOTO / Bevan Conley</p>

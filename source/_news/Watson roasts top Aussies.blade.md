@@ -5,11 +5,11 @@ description: "Whanganui heavyweight Keightley Watson allows nothing to stand his
 featured-image: 
 excerpt: "Whanganui heavyweight Keightley Watson allows nothing to stand his way at the ACT Judo International Open in Canberra at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui heavyweight Keightley Watson allows nothing to stand his way at the ACT Judo International Open in Canberra at the weekend.</span><br /><em>Photo / Supplied</em></p>

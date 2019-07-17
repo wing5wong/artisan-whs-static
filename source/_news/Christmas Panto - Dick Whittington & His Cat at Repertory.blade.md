@@ -5,11 +5,11 @@ description: "Some of the cast of Dick Whittington and His Cat at Carlton School
 featured-image: 
 excerpt: "Some of the cast of Dick Whittington and His Cat at Carlton School to promote the upcoming show."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph"><span class="CharacterStyle1"><span lang="EN-GB">Some of the cast of&nbsp;</span></span><em>Dick Whittington and His Cat</em>&nbsp;<span lang="EN-GB">at Carlton School to promote the upcoming show.&nbsp; L&gt;R; <strong>Ronan Shaw,</strong> Chris McKenzie, <strong>Maddison McKenzie and Heath McKenzie.</strong></span></p>

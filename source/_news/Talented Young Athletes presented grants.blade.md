@@ -5,11 +5,11 @@ description: "The first Mitre 10 Mega Future Champions Trust round of 2019 has g
 featured-image: 
 excerpt: "The first Mitre 10 Mega Future Champions Trust round of 2019 has granted $9,500 to seven successful athletes from Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/58778999_2248667585172227_5991069036744540160_n.jpg?_nc_cat=110&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=fbf292895c0bf7dec9d80f3750c8fd65&amp;oe=5D5BFCE0" alt="Image may contain: 9 people, people smiling, people standing" /></p>

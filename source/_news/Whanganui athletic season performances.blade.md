@@ -5,11 +5,11 @@ description: "Former national jnr champ Rebecca Baker (WHS) is now second seeded
 featured-image: 
 excerpt: "Former national junior champion Rebecca Baker (WHS) is now second seeded senior middle distance runner and Whanganuui's best."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Former national junior champion Rebecca Baker (WHS) is now second seeded senior middle distance runner and Whanganui's best.</strong><br /><em>Photo / File</em></p>

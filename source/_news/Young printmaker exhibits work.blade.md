@@ -5,11 +5,11 @@ description: "Mikayla Baldwin presents her first exhibition this month at Fine A
 featured-image: 
 excerpt: "Mikayla Baldwin presents her first exhibition this month at Fine Arts Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Mikayla Baldwin presents her first exhibition this month at Fine Arts Whanganui. <br /></span></h4>

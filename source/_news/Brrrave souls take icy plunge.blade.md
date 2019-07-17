@@ -5,11 +5,11 @@ description: "Former WHS students' Erica Tanner, Abby Hurley and Jadzia Morris w
 featured-image: 
 excerpt: "Former WHS students' Erica Tanner, Abby Hurley and Jadzia Morris with their balloon \"flotation devices\"."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former WHS students' Erica Tanner, Abby Hurley and Jadzia Morris with their balloon "flotation devices". <br /><em>PHOTO / Stuart Munro</em></span></p>

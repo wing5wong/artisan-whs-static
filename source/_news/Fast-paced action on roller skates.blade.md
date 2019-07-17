@@ -5,11 +5,11 @@ description: "West Coast Bombers, including former student Lily Claypole, will o
 featured-image: 
 excerpt: "West Coast Bombers, including former student Lily Claypole, will once again host their foremost roller derby event AllDay Derby on June 22 at Jubilee Stadium."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://i.prcdn.co/img?regionKey=1hBafLq%2bC4Do4fV1%2bPnLog%3d%3d" alt="" /></p>

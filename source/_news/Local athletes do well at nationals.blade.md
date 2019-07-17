@@ -5,11 +5,11 @@ description: "Munro, Bayler, and Jonathan Maples were part of a composite team t
 featured-image: 
 excerpt: "Munro, Bayler, and Jonathan Maples were part of a composite team that took bronze in the Senior Men's 4x100m Relay."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>Munro, Bayler, and Jonathan Maples were part of a composite team that took bronze in the Senior Men's 4x100m Relay.</strong></p>

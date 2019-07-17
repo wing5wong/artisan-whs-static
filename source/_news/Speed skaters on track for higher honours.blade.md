@@ -5,11 +5,11 @@ description: "Whanganui skaters Renee Teers & Chase Morpeth will be an influenti
 featured-image: 
 excerpt: "Whanganui skaters Josh Valentine (left), Renee Teers, Drew Brennan and Chase Morpeth will be an influential part of the Kiwi team at the Oceania championships in Brisbane this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=tjkn2KRe%2fc8T4yEXam7UBw%3d%3d" alt="" /></p>

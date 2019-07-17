@@ -5,11 +5,11 @@ description: "WORD WARRIORS: Wanganui High School's Gabrielle Penn (left), Rhaz 
 featured-image: 
 excerpt: "WORD WARRIORS: Wanganui High School's Gabrielle Penn (left), Rhaz Solomon and Jackie Hazelhurst represented the region in debating team finals."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WORD WARRIORS: Wanganui High School's Gabrielle Penn (left), Rhaz Solomon and Jackie Hazelhurst represented the region in debating team finals last week.</span></p>

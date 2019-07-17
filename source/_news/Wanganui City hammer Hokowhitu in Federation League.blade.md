@@ -5,11 +5,11 @@ description: "Wanganui City's Max Davidson looks to fire in a cross kick during 
 featured-image: 
 excerpt: "Wanganui City's Max Davidson (ex WHS student) looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park today."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/vdTgjJc5omK8V-_2skvvffDR3gc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/KHMNIHG66FANHLRFOE2OFNYVOU.jpg" alt="Wanganui City's Max Davidson looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park today." /></p>

@@ -5,11 +5,11 @@ description: "RNZ's Maori Correspondent & former WHS student, Leigh-Marama McLac
 featured-image: 
 excerpt: "RNZ's Maori Correspondent & former WHS student, Leigh-Marama McLachlan will now report out of Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>RNZ's Maori Correspondent &amp; former WHS student, Leigh-Marama McLachlan will now report out of Whanganui.<br /><em>PHOTO / Jacob McSweeny</em></p>

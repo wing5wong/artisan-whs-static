@@ -5,11 +5,11 @@ description: "Whanganui High School teacher Chris Turner and his cheeky champion
 featured-image: 
 excerpt: "Whanganui High School teacher Chris Turner and his cheeky champion Veandercross."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whanganui High School teacher Chris Turner and his cheeky champion Veandercross.<br /><br /><br /></p>

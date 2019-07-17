@@ -5,11 +5,11 @@ description: "Former WHS student Joel Rudolph learning the ropes the hard way - 
 featured-image: 
 excerpt: "Former WHS student Joel Rudolph learning the ropes the hard way - and on the receiving end!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>KAPOW: Former WHS student Joel Rudolph learning the ropes the hard way - and on the receiving end!<br /><em>PHOTO / Supplied</em></p>

@@ -5,11 +5,11 @@ description: "TEAMMATES: Former WHS student, Wanganui's Chris Sharrock (left) an
 featured-image: 
 excerpt: "TEAMMATES: Former WHS student, Wanganui's Chris Sharrock (left) and Indonesian student Ernest Sulivan collect the Taranaki Badminton Open men's doubles trophy at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>TEAMMATES: &nbsp;Former WHS student, Wanganui's Chris Sharrock (left) and Indonesian student Ernest Sulivan collect the Taranaki Badminton Open men's doubles trophy at the weekend.</span></p>

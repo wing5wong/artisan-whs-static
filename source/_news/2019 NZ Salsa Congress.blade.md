@@ -5,11 +5,11 @@ description: "Sophie & Tobias Perkins attended / preformed at a two day workshop
 featured-image: 
 excerpt: "Sophie and Tobias Perkins second year preforming at the Wellington Congress where they attended a two day workshop held by Salsa Champions from around the world."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>2019 NZ Salsa Congress&nbsp;<br /><br /></span></h4>

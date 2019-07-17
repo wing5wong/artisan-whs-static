@@ -5,11 +5,11 @@ description: "All the best to our Girls Touch Team away this weekend in Auckland
 featured-image: 
 excerpt: "All the best to our Girls Touch Team away this weekend in Auckland competing at the NZSS Nationals."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>All the best to our Girls Touch Team away this weekend in Auckland competing at the NZSS Nationals, 8-10 December 2017.....Go hard Girls!!</span></p>

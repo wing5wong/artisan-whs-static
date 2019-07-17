@@ -5,11 +5,11 @@ description: "Jared Sim and Reeve Watson win 14 dance titles at NZ One Dance Ope
 featured-image: 
 excerpt: "Jared Sim and Reeve Watson win 14 dance titles at NZ One Dance Open Championships."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>&nbsp;<br />Jared &amp; Reeve win 14 dance titles at NZ One Dance Open Championships</h4>

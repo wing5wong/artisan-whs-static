@@ -5,11 +5,11 @@ description: "Abbey Hocquard won the Young Photographer Award & Nathaniel Kirk w
 featured-image: 
 excerpt: "Abbey Hocquard won the Young Photographer Award & Nathaniel Kirk won the Junior 2D Artist Award..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3 class="element element-paragraph"><span>Abbey Hocquard won the Young Photographer Award &amp; Nathaniel Kirk won the Junior 2D Artist Award.</span></h3>

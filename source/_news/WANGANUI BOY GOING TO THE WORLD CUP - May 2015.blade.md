@@ -5,11 +5,11 @@ description: "Former Wanganui High School student Sam Malcolm has been called in
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>WANGANUI BOY GOING TO THE WORLD CUP</strong></p>

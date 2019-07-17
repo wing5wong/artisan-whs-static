@@ -5,11 +5,11 @@ description: "WHS Swimming results from Wellington 2015 Short Course Championshi
 featured-image: 
 excerpt: "WHS Swimming results from Wellington 2015 Short Course Championships held in Wellington on 18 and 19 July 2015."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wellington winter (short course) champs is one of the largest short course (25 meter pool) events in the country behind only Auckland and NZ champs. &nbsp;It was held at the Wellington Regional Aquatic Centre, Kilbirnie, Wellington on 18 &amp; 19 July.</p>

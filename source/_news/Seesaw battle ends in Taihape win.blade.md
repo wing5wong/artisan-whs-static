@@ -5,11 +5,11 @@ description: "Seesaw battle between the Kaierau and Taihape Rugby teams on the w
 featured-image: 
 excerpt: "Seesaw battle between the Kaierau and Taihape Rugby teams on the weekend, but former WHS players do their team proud."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/5YQDfvITTTjKfAwBAl_b8JT61KU=/620x443/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/N6JU3RPRTFDLVKBPRVKHNVOHVA.jpg" alt="Matt Ashworth, along with locking partner Josh Lane, dominated the lineout, but Kaierau could not capitalise across the field." /></p>

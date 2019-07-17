@@ -5,11 +5,11 @@ description: "O’Durkins Irish Band Playing at the Rosies Grand Irish Bar this 
 featured-image: 
 excerpt: "O’Durkins Irish Band Playing at the Rosies Grand Irish Bar this weekend for St Patricks."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>O&rsquo;Durkins Irish Band Playing at the Rosies Grand Irish Bar this weekend for St Patricks, including WHS staff member Carol Molan.</p>

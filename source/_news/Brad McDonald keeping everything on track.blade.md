@@ -5,11 +5,11 @@ description: "Whanganui's Brad McDonald, left, with co-driver Dennis Olsen after
 featured-image: 
 excerpt: "Whanganui's Brad McDonald, left, with co-driver Dennis Olsen after Earl Bamber Motorsports won the Bathurst 12 Hour."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c7cb11fff2a7c25ea000019/Brad-McDonald-other-photo.23.2.19-Chron-motor-racing.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c7cb11fff2a7c25ea000019/Brad-McDonald-other-photo.23.2.19-Chron-motor-racing.jpg"
+    
+    
+    
+    
 ---
 
 <p>Whanganui's <strong>Brad McDonald</strong> (former WHS student), left, with co-driver Dennis Olsen after Earl Bamber Motorsports won the Bathurst 12 Hour earlier this month.<br /><em>Photo / Supplied</em></p>

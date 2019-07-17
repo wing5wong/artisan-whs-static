@@ -5,11 +5,11 @@ description: "Brad Mancer's proud moment - ANZAC Dawn service is held at Anzac C
 featured-image: 
 excerpt: "Brad Mancer's proud moment - ANZAC Dawn service is held at Anzac Cove in commemoration on Gallipoli Peninsula."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ae7e299ff2a7c6bfc0018ed/Brad-Mancer-Gallipoli-from-distance.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ae7e299ff2a7c6bfc0018ed/Brad-Mancer-Gallipoli-from-distance.jpg"
+    
+    
+    
+    
 ---
 
 <h4><span>Brad Mancer's proud moment - ANZAC Dawn service is held at Anzac Cove in commemoration on Gallipoli Peninsula.&nbsp;</span></h4>

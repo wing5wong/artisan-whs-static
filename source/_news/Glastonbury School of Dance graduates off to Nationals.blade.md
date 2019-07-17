@@ -5,11 +5,11 @@ description: "Jared and Reeve with Jonny Williams, participant in the Dancing Wi
 featured-image: 
 excerpt: "Jared and Reeve with Jonny Williams, participant in the Dancing With the Stars’ TV programme, providing extra coaching."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <div id="id_5bd6281eb545e7c22987828" class="text_exposed_root text_exposed">

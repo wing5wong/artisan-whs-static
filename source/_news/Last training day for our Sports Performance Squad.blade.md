@@ -5,11 +5,11 @@ description: "Last training today for our Sports Performance/Development Pathway
 featured-image: 
 excerpt: "Last training today for our Sports Performance/Development Pathway Squad at WHS with coach Greg Fromont."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Last training today for our Sports Performance/Development Pathway Squad with coach Greg Fromont, 19 December 2017.&nbsp;</span></p>

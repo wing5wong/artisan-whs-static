@@ -5,11 +5,11 @@ description: "Former WHS student Trent McInlay broke his back three years ago no
 featured-image: 
 excerpt: "Former WHS student Trent McInlay broke his back three years ago now he is back motocross racing with his dad Grant."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b5161dbb8d39a4129000723/Trent-McInlay-on-bike-chron-17-July.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b5161b8b8d39a4129000721/Trent-McInlay-in-air-chron-17-July.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b5161fcb8d39a4129000725/Trent-McInlay-racing-chron-17-July.gif"
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b5161dbb8d39a4129000723/Trent-McInlay-on-bike-chron-17-July.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b5161b8b8d39a4129000721/Trent-McInlay-in-air-chron-17-July.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b5161fcb8d39a4129000725/Trent-McInlay-racing-chron-17-July.gif"
+    
+    
 ---
 
 <p><span><span>Former WHS student Trent McInlay&nbsp;</span>broke his back three years ago now he is back racing with his dad Grant</span>&nbsp;at Landguard's Bluff.<br /><em>PHOTOS / Bevan Conley</em></p>

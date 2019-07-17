@@ -5,11 +5,11 @@ description: "The Whanganui hockey girls wait to embark on their journey to the 
 featured-image: 
 excerpt: "The Whanganui hockey girls wait to embark on their journey to the U15 National Championships in Timaru where they are subsequently unbeaten after four pool games."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The Whanganui hockey girls wait to embark on their journey to the U15 National Championships in Timaru where they are subsequently unbeaten after four pool games.</span></p>

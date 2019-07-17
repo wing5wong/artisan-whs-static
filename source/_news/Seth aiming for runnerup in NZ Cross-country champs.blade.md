@@ -5,11 +5,11 @@ description: "Reardon will be among the riders hoping to secure season runnerup 
 featured-image: 
 excerpt: "Whanganui's Seth Reardon will be among the riders hoping to secure season runnerup when the 2019 NZ Cross-country Championships wrap up near Taumarunui this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/2EBo_-jwuN6NJmF1enJJo9SZZls=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/FPTAO7FKMBHGLE2UCLBD5YRERQ.jpg" alt="Seth Reardon." /></p>

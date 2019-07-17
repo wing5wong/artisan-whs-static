@@ -5,11 +5,11 @@ description: "Young Artist Scholarship winner Mikayla Baldwin will have a solo e
 featured-image: 
 excerpt: "Young Artist Scholarship winner Mikayla Baldwin will have a solo exhibition at Whanganui Fine Arts Gallery in 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>WINNER: Young Artist Scholarship winner Mikayla Baldwin will have a solo exhibition at Whanganui Fine Arts Gallery in 2018.</strong> <br />PHOTO / Gail Imhoff</span></p>

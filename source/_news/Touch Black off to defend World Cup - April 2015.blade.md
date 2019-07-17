@@ -5,11 +5,11 @@ description: "BACK THE COACH: After guiding the Wanganui High School touch teams
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>BACK THE COACH: After guiding the Wanganui High School touch teams to another good season, veteran Touch Black Sean Brown is off again for the start of the Touch Rugby World Cup next week.</span></p>

@@ -5,11 +5,11 @@ description: "Seb Newton was named the inaugural winner of the Felix Newton Trop
 featured-image: 
 excerpt: "Seb Newton was named the inaugural winner of the Felix Newton Trophy for riding the best wave at the Cold Water Classic on Sunday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>&nbsp;That's for you, bro</h4>

@@ -5,11 +5,11 @@ description: "Good luck to our Junior A1 Netball team who head to Palmerston Nor
 featured-image: 
 excerpt: "Good luck to our Junior A1 Netball team who head to Palmerston North tomorrow morning to play in the Horizon Junior SS Netball Tournament for the weekend at Vautier Park, 11/9/15..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Good luck to our Junior A1 Netball team who head to Palmerston North tomorrow morning to play in the Horizon Junior Secondary School Netball Tournament for the weekend. Games are at Vautier Park both Saturday and Sunday. All the best girls!!</span></p>

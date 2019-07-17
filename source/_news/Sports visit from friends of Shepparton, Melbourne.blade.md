@@ -5,11 +5,11 @@ description: "Great couple of days for our Junior Netball teams plus 4 tennis pl
 featured-image: 
 excerpt: "Great couple of days for our Junior Netball A1 & A2 teams plus 4 tennis players this week hosting Wanganui Park Secondary School from Shepparton, Melbourne."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a17819fb8d39a25b60008ef/Shepparton--WHS-teams-together-nov-2017.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a17819fb8d39a25b60008ef/Shepparton--WHS-teams-together-nov-2017.jpg"
+    
+    
+    
+    
 ---
 
 <p><strong>Great couple of days for our Junior Netball A1 &amp; A2 teams plus 4 tennis players this week hosting Wanganui Park Secondary School from Shepparton, Melbourne.&nbsp;</strong></p>

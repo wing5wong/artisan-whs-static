@@ -5,11 +5,11 @@ description: "Olivia Wood-Bodley became interested in optometry when she couldn'
 featured-image: 
 excerpt: "Olivia Wood-Bodley became interested in optometry when she couldn't see the screens in her university lecture theatre."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/QRa5jbUev_eebAOF09-htk3kJM0=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/EUCEKVAN4RFPZOP5YATKIOIFRQ.jpg" alt="Olivia Wood-Bodley became interested in optometry when she couldn't see the screens in her university lecture theatre." /></p>

@@ -5,11 +5,11 @@ description: "WHS students Samson Power and Blake Hoskin both did well at the Wh
 featured-image: 
 excerpt: "WHS students Samson Power and Blake Hoskin both did well at the Whanganui Squash Club Champs."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">Not all divisional winners made it to the Whanganui Squash Club Championship photo shoot.<br /><em>Photo / Supplied</em></p>

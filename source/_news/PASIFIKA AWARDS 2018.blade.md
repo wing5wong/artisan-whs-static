@@ -5,11 +5,11 @@ description: "On November 2, WHS hosted its first Pasifika Awards ceremony at th
 featured-image: 
 excerpt: "On November 2, WHS hosted its first Pasifika Awards ceremony at the Whanganui Function Centre."
 image_gallery:
-	 - image: "/uploads/5be0e0bcff2a7c39a8000360/mattea-1.PNG"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5be0e432ff2a7c39a800037c/Mattea.jpg"
-	 - image: "/uploads/5be0e0faff2a7c39a8000364/misty-1.PNG"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5be0e45dff2a7c39a8000380/MIsty.jpg"
-	 - image: "/uploads/5be0e0daff2a7c39a8000362/Jasmin-1.PNG"
+     - image: "/uploads/5be0e0bcff2a7c39a8000360/mattea-1.PNG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5be0e432ff2a7c39a800037c/Mattea.jpg"
+     - image: "/uploads/5be0e0faff2a7c39a8000364/misty-1.PNG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5be0e45dff2a7c39a8000380/MIsty.jpg"
+     - image: "/uploads/5be0e0daff2a7c39a8000362/Jasmin-1.PNG"
 ---
 
 <p dir="ltr"><strong>On November 2 2018, WHS hosted its first Pasifika Awards ceremony at the Whanganui Function Centre. </strong></p>

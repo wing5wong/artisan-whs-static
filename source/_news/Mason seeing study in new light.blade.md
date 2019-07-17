@@ -5,11 +5,11 @@ description: "Former WHS student Mason seeing study in new light with a new pair
 featured-image: 
 excerpt: "Mason seeing study in new light with a new pair of spectacles."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Mason Coker has Irlen Syndrome which causes his brain to have difficulty processing white light but a new pair of spectacles really help him out. <br />PHOTO / Karen Hughes</span></p>

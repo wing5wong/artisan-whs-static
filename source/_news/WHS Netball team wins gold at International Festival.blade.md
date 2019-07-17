@@ -5,11 +5,11 @@ description: "Whanganui High School Netball team wins gold at International Netb
 featured-image: 
 excerpt: "Whanganui High School Netball team wins gold at International Netball Festival on Gold Coast."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/59706003_2258195594219426_4977626187053400064_n.jpg?_nc_cat=110&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=ccb4009764f810aa2e46ddfe55d593fd&amp;oe=5D58B4DB" alt="Image may contain: 11 people, people smiling" /></span></p>

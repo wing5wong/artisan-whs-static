@@ -5,11 +5,11 @@ description: "Whanganui judo exponent and former WHS student Finn Brown is named
 featured-image: 
 excerpt: "Whanganui judo exponent and former WHS student Finn Brown is named Manawatu Campus Sportsman of the Year."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59e7d798b8d39a463b0004c6/Finn-Brown-manawatu-sports-award-chron-19-oct.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59e7d798b8d39a463b0004c6/Finn-Brown-manawatu-sports-award-chron-19-oct.jpg"
+    
+    
+    
+    
 ---
 
 <h3><strong>Whanganui judo exponent and former WHS student Finn Brown is named Manawatu Campus Sportsman of the Year.</strong></h3>

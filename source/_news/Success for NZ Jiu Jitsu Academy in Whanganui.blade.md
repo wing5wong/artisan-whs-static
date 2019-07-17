@@ -5,11 +5,11 @@ description: "Local masters - from left: Sensei Shanon Casson, Sensei Mat Hanna 
 featured-image: 
 excerpt: "Local masters - from left: Sensei Shanon Casson, Sensei Mat Hanna (current competition winner), and Sensei Damian Takarangi."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <div id="id_5caffc74983483959004556" class="text_exposed_root text_exposed">

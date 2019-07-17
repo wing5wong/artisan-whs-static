@@ -5,11 +5,11 @@ description: "Nominations are invited....for the election of one student represe
 featured-image: 
 excerpt: "Nominations are invited....for the election of one student representative to the WHS Board of Trustees 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Student Trustee<br /><br /></h4>

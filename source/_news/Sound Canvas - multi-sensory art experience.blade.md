@@ -5,11 +5,11 @@ description: "Sound Canvas will be a multi-sensory experience for art and music 
 featured-image: 
 excerpt: "Sound Canvas will be a multi-sensory experience for art and music lovers at the Royal Wanganui Opera House next weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><img src="https://www.nzherald.co.nz/resizer/cYAJxMf7Ga565qfFx2Q1dVZF-rI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/TFBKE76PSVFIFI7F5GC6JVPC2E.jpg" alt="Sound Canvas will be a multi-sensory experience for art and music lovers at the Royal Wanganui Opera House next weekend." /></span></p>

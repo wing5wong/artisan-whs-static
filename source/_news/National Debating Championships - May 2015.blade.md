@@ -5,11 +5,11 @@ description: "The National Debating Championships on 26 May was held at Victoria
 featured-image: 
 excerpt: "The National Debating Championships on 26 May was held at Victoria University in Wellington.  Congratulations to WHS students Rhaz Solomon, Gabrielle Penn and Jackie Hazelhurst who came 3rd."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Congratulations to WHS students <strong>Rhaz Solomon</strong>, <strong>Gabrielle Penn</strong> and <strong>Jackie Hazelhurst</strong> who came 3rd at the National Debating Championships&nbsp;held at Victoria University in Wellington on 26 May 2015.</p>

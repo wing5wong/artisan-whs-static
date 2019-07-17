@@ -5,11 +5,11 @@ description: "About 80 students from the Whanganui region took to the stage to c
 featured-image: 
 excerpt: "About 80 students from the Whanganui region took to the stage to compete in the NZCT Schools Chamber Music Contest."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/64744339_2263229387059560_661104589088489472_n.jpg?_nc_cat=108&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=84e97de48a92798724ec01b57f6b2573&amp;oe=5D870638" alt="Image may contain: 4 people, people smiling" /></p>

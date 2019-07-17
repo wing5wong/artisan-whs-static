@@ -5,11 +5,11 @@ description: "Whanganui's Rebecca Benge added another championship to her resume
 featured-image: 
 excerpt: "Whanganui's Rebecca Benge added another championship to her resume with the Under 17 title at the conclusion of the National Individual Mounted Games."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>STRONG ENTRIES: Whanganui's Rebecca Benge added another championship to her resume with the Under 17 title at the conclusion of the National Individual Mounted Games at the racecourse yesterday afternoon.</strong></p>

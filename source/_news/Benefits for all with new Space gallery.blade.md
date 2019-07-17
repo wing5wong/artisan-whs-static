@@ -5,11 +5,11 @@ description: "Ready for the next exhibition at Space are Craig Winton, Leonie Sh
 featured-image: 
 excerpt: "Ready for the next exhibition at Space are Craig Winton, Leonie Sharp and Sarah Williams."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/1Bia_4sAb6FGK13hpe8WRO459AI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/5WNZFYFVJZBINMYEDOLQMS7Y6I.jpg" alt="Ready for the next exhibition at Space are Craig Winton, Leonie Sharp and Sarah Williams. PICTURE / PAUL BROOKS" /></p>

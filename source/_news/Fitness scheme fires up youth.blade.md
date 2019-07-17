@@ -5,11 +5,11 @@ description: "Fitness programme motivating some Whanganui Youth Service clients 
 featured-image: 
 excerpt: "Fitness programme motivating some Whanganui Youth Service clients giving them a much-needed confidence boost."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/p3h36WPetCgSknxzWJu3kIRlBH8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/EC6RSLYPJRCRXJUTF3GWLUYLSU.jpg" alt="Using Castlecliff Beach for training are (from left) specialist case worker Jesse Hamilton-Hall, Wiremu Tamehana, Xavier Thomson, Braxton Nikora-Whale, Amos Goldsack and Tala Thompson." /></p>

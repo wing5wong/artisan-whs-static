@@ -5,11 +5,11 @@ description: "Abigail Livesay was the accompanist in the Wanganui Community Choi
 featured-image: 
 excerpt: "Abigail Livesay was the accompanist in the Wanganui Community Choir's Musicals and Movies Through the Decades concert recently"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

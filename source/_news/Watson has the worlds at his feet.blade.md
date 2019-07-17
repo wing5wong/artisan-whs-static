@@ -5,11 +5,11 @@ description: "Whanganui heavyweight judoka Keightley Watson has a busy itinerary
 featured-image: 
 excerpt: "Teenage Whanganui heavyweight judoka Keightley Watson (white) has a busy itinerary this year earning valuable world ranking points."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/Kz_evhMz6gT0X8EPXIiEywWCKT8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/GW7RZYCP6BAPJLM7ZY4U3LG55I.jpg" alt="Teenage Whanganui heavyweight judoka Keightley Watson (white) has a busy itinerary this year earning valuable world ranking points." /></p>

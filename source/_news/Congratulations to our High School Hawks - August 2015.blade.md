@@ -7,11 +7,11 @@ featured-image:
 excerpt: "Congratulations to our High School Hawks for claiming the
 TryZone Cup for 2015 - Under 14 Under 65 KG Division."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Congratulations to our High School Hawks for claiming the</span><br /><span>TryZone Cup for 2015 - Under 14 Under 65 KG Division</span></p>

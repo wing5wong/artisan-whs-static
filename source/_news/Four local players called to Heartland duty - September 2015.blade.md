@@ -5,11 +5,11 @@ description: "Former WHS students Joe Edwards (Kaierau) and Dominic Broadhead (K
 featured-image: 
 excerpt: "Former WHS students Joe Edwards (Kaierau) and Dominic Broadhead (Kaierau) received the call-up to the 25-man team, which consists of U19 representatives from all 12 Heartland unions."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The good news continued for four members of the HYRC Series-winning Wanganui Under-20s after they were named in the New Zealand Heartland XV to attend the Jock Hobbs Memorial Under-19 competition in Taupo this month.</p>

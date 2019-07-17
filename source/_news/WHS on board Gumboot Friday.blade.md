@@ -5,11 +5,11 @@ description: "It's a sunny Friday, students are walking around the WHS grounds w
 featured-image: 
 excerpt: "It's a sunny Friday, students are walking around the Whanganui High School grounds wearing black jackets, white shirts, grey shorts and ... gumboots?"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/BLVpKJFGTNgv8W_9mW7czblJUDk=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/KAWB34WZE5HCBD6JEMZ5X7SLMA.jpg" alt="Whanganui High School prefects Cameron Russell, Thomas Friedel and Jack Clifton (all 17) have a bit of fun with the hula hoops in-between obstacle course races. Photo / Jesse King " /></p>

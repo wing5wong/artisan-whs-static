@@ -5,11 +5,11 @@ description: "NZCS director Geg Nixon with junior systems engineer Courteney Nix
 featured-image: 
 excerpt: "NZCS director Geg Nixon with junior systems engineer Courteney Nixon (former WHS student)."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>New Zealand Computing Solutions director Geg Nixon with junior systems engineer Courteney Nixon (former WHS student).<br />PHOTO / Bevan Conley</p>

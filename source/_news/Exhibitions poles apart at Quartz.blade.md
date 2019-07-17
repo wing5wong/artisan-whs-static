@@ -5,11 +5,11 @@ description: "Ann McNamara with some of her collection in Ann's Choice, an exhib
 featured-image: 
 excerpt: "Ann McNamara with some of her collection in Ann's Choice, an exhibition at Quartz Museum of Studio Ceramics."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b726d86b8d39a6d05000964/Ann-McNamara-midweekother-30-may-2018.gif"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b726d86b8d39a6d05000964/Ann-McNamara-midweekother-30-may-2018.gif"
+    
+    
+    
+    
 ---
 
 <p><span>Ann McNamara (former WHS teacher) with some of her collection in Ann's Choice, an exhibition at Quartz Museum of Studio Ceramics. <br />PHOTO / Paul Brooks</span></p>

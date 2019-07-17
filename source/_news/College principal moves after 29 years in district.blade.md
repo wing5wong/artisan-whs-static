@@ -5,11 +5,11 @@ description: "During his time at Cullinane College, principal Kevin Shore opened
 featured-image: 
 excerpt: "During his time at Cullinane College, principal Kevin Shore opened the renovated learning centre."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>During his time at Cullinane College, principal Kevin Shore opened the renovated learning centre.</span></p>

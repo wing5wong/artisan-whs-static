@@ -5,11 +5,11 @@ description: "Ashlyn Morris (left) & Maddi McKenzie are Ethel and Cecil respecti
 featured-image: 
 excerpt: "Ashlyn Morris (left) and Maddi McKenzie are Ethel and Cecil respectively in Dick Whittington and his Cat."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Ashlyn Morris (left) and Maddi McKenzie are Ethel and Cecil respectively in Dick Whittington and his Cat. <br /><em>PHOTO / Jacqui McKenzie</em></span></p>

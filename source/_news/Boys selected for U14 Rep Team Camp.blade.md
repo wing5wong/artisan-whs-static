@@ -5,11 +5,11 @@ description: "Congratulations to the WHS boys who have made the U14 Rep Rugby Ca
 featured-image: 
 excerpt: "Congratulations to the WHS boys who have made the U14 Rep Rugby Camp."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b51702fb8d39a412900072b/U14-Rep-Team-camps-boys-MUL-facebook.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b51702fb8d39a412900072b/U14-Rep-Team-camps-boys-MUL-facebook.jpg"
+    
+    
+    
+    
 ---
 
 <p><span>Congratulations to the Whanganui High School boys who have made the U14 Rep Rugby Camp.</span></p>

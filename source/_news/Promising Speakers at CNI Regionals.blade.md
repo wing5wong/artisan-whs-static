@@ -5,11 +5,11 @@ description: "Merle Chante (left) - Most Promising Speaker; & Leah Aiono - Promi
 featured-image: 
 excerpt: "Merle Chante - Most Promising Speaker; & Leah Aiono - Promising Speaker award at the CNI Regional Debating Tournament held at Whanganui High School."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Merle Chante (left) - Most Promising Speaker; and&nbsp;Leah Aiono - Promising Speaker award at the <span>Russell McVeagh New Zealand Schools' Debating Championships 2018,&nbsp;</span>Central North Island Regional Tournament held at Whanganui High School on 17 and 18 March 2018.</strong></p>

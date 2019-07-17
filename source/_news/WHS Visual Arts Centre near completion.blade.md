@@ -5,11 +5,11 @@ description: "Work on the redesigned, visual arts centre at Whanganui High Schoo
 featured-image: 
 excerpt: "Work on the redesigned, visual arts centre at Whanganui High School is scheduled to be completed on 14 December 2017."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a2dee89b8d39a41ae000461/Untitled-2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a2dee5fb8d39a41ae00045f/Untitled-1.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a2deed6b8d39a41ae000463/Untitled-3.jpg"
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a2dee89b8d39a41ae000461/Untitled-2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a2dee5fb8d39a41ae00045f/Untitled-1.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a2deed6b8d39a41ae000463/Untitled-3.jpg"
+    
+    
 ---
 
 <p>Whanganui High School's new Visual Arts Centre blends in with the rest of the school buildings and classrooms on site.&nbsp; It is expected to be completed next Thursday.</p>

@@ -5,11 +5,11 @@ description: "Jason Dufty is holding his first solo exhibition Disappearing Shan
 featured-image: 
 excerpt: "Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/s00iJmVlrmNfWQTBUcozE1RSFBg=/620x412/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/GMY6F3X2P5BODF2AZHJMPLOZHU.jpg" alt="Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week. Photo/Lewis Gardner" /><br />Jason Dufty is holding his first solo exhibition Disappearing Shanghai at Milbank Gallery this week.&nbsp;<br /><em>PHOTO / Lewis Gardner</em></p>

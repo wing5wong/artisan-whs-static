@@ -5,11 +5,11 @@ description: "On Wednesday 3 July, Whanganui High School held our annual Junior 
 featured-image: 
 excerpt: "On Wednesday 3 July, Whanganui High School held our annual Junior Speech Competitions."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>&nbsp;</h4>

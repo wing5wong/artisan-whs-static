@@ -5,11 +5,11 @@ description: "Mentoree Merle Chant and street artist Hayley Welsh meet ahead of 
 featured-image: 
 excerpt: "Mentoree Merle Chant and street artist Hayley Welsh meet ahead of Whanganui Walls which kicks off on Thursday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong><img src="https://external-syd2-1.xx.fbcdn.net/safe_image.php?d=AQAxKkLpGWguQPQD&amp;w=540&amp;h=282&amp;url=https%3A%2F%2Fwww.nzherald.co.nz%2Fresizer%2FIuwXA7k9iahPfEWXM91K2kqiS4M%3D%2F1200x0%2Fsmart%2Ffilters%3Aquality%2870%29%2Farc-anglerfish-syd-prod-nzme.s3.amazonaws.com%2Fpublic%2FSAIUQEMNZFFTNOKWMPDHJCHIQU.jpg&amp;cfs=1&amp;upscale=1&amp;fallback=news_d_placeholder_publisher&amp;_nc_hash=AQAd9O1hwUe3z-t3" alt="" /></strong></span></p>

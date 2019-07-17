@@ -5,11 +5,11 @@ description: "Stella Warner was part of a strong back four for Whanganui whose d
 featured-image: 
 excerpt: "Stella Warner was part of a strong back four for Whanganui whose defence let in only one goal on Sunday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/einfFoPhaIRpW7NCHJYqOwlWXKw=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/JU6RFYKJNFFGBOZYRGVZQ7WHFU.jpg" alt="Stella Warner was part of a strong back four for Whanganui whose defence let in only one goal on Sunday. Here she tries to get the ball past Feilding's Louise Thompson. Photo / Bevan Conley" /></p>

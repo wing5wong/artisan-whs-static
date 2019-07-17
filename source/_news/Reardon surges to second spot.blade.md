@@ -5,11 +5,11 @@ description: "Whanganui's Seth Reardon moves into second at the midway point of 
 featured-image: 
 excerpt: "Whanganui's Seth Reardon moves into second at the midway point of the NZXC cross country series."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui's Seth Reardon moves into second at the midway point of the NZXC cross country series.</strong></p>

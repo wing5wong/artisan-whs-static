@@ -5,11 +5,11 @@ description: "A fresh batch of potential stars step out for the first time as th
 featured-image: 
 excerpt: "A fresh batch of potential stars step out for the first time on Saturday as the season opens for the St Johns Club Whanganui Metro Colts rugby team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=t1aYwS4YEe%2fDLqdP5%2f4zgA%3d%3d" alt="" /></p>

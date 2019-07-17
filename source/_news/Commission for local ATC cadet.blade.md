@@ -5,11 +5,11 @@ description: "Kalib Matthews recently completed an eight-day NZ Cadet Forces Com
 featured-image: 
 excerpt: "Kalib Matthews recently completed an eight-day New Zealand Cadet Forces Commissioning Course at the Royal New Zealand Air Force base at Ohakea."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

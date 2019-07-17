@@ -5,11 +5,11 @@ description: "WHS students Jemma Barnes & Kaelin Mooney in the action at the fin
 featured-image: 
 excerpt: "WHS students Jemma Barnes & Kaelin Mooney in the action at the final Speedway meeting."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ad6a8c1ff2a7c6bfc00161e/Oceanview-7-april-fireworks.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ad6a8c1ff2a7c6bfc00161e/Oceanview-7-april-fireworks.jpg"
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">WHS students Jemma Barnes &amp; Kaelin Mooney in the action at the final Speedway meeting.</p>

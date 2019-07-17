@@ -5,11 +5,11 @@ description: "It was the tip of the bow ball preventing the AWRC's coxless four 
 featured-image: 
 excerpt: "It was the tip of the bow ball preventing the AWRC's coxless four from advancing to the 2nd round of the Wyfold Challenge Cup on the River Thames"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

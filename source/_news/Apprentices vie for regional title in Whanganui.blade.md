@@ -5,11 +5,11 @@ description: "Carpentry apprentice Steve Christensen concentrates on the job in 
 featured-image: 
 excerpt: "Carpentry apprentice Steve Christensen concentrates on the job in hand."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Carpentry apprentice (and former WHS student) Steve Christensen concentrates on the job in hand. <br /><em>PHOTO / Stuart Munro</em></span></p>

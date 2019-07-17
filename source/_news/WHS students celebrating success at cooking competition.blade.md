@@ -5,11 +5,11 @@ description: "Linda Hardcastle, HOD Food and Nutrition at WHS, said “the stude
 featured-image: 
 excerpt: "Linda Hardcastle, HOD Food and Nutrition at WHS, said “the students gained 8 gold, 5 silver, 4 bronze and three Participation Certificates from the UCOL competition.”"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4 class="BasicParagraph">Whanganui High School students have had a great year so far winning multiple awards at both the NZ Chefs Hospitality regional competitions held in New Plymouth in June and in the recent UCOL schools hospitality competition on Friday 17 August.</h4>

@@ -5,11 +5,11 @@ description: "It was a great Easter weekend break for local fisherman Te Arepa W
 featured-image: 
 excerpt: "It was a great Easter weekend break for local fisherman Te Arepa Whareaitu, who hauled in a big kingfish at North Mole pier."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/ZyWimFS-6jNageZIJ3ecO1QlrKI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/STQZNQHLWFAGBLB3UMFDHV6AIU.jpg" alt="Te Arepa Whareaitu with his 17kg kingfish Photo / Supplied" /></p>

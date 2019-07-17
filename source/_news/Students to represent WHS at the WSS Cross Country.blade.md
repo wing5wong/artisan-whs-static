@@ -5,11 +5,11 @@ description: "The following students are representing WHS at the WSS Cross Count
 featured-image: 
 excerpt: "The following students have been named to represent WHS at the WSS Cross Country on Thursday May 23rd at Tawhero Golf Course."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Students representing WHS at the WSS Cross Country.</strong></p>

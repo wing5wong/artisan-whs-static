@@ -5,11 +5,11 @@ description: "Youngsters mix it with the oldies at the NZ Masters Games..."
 featured-image: 
 excerpt: "Youngsters mix it with the oldies at the NZ Masters Games."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>It is New Zealand Masters Games time. How quickly two years has passed since the last and how eagerly has the 30th edition starting Friday been anticipated.</p>

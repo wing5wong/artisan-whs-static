@@ -5,11 +5,11 @@ description: "Whanganui's White Fern Jessica Watkin continues to be involved in 
 featured-image: 
 excerpt: "Whanganui's White Fern Jessica Watkin continues to be involved in record setting innings against Ireland overnight on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui's White Fern Jessica Watkin continues to be involved in record setting innings as her team plundered a world record 490-4 in their first One Day International against Ireland overnight on Saturday, NZ time.</strong></p>

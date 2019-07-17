@@ -5,11 +5,11 @@ description: "WHS students Alex Forlong & Alex Vinnell assisted in a power point
 featured-image: 
 excerpt: "WHS students Alex Forlong & Alex Vinnell assisted in compiling a truly wonderful power point presentation at First Vets for the Patronage visit of Dame Patsy Reddy."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Whanganui High School students Alex Forlong and Alex Vinnell (sitting middle background) assisted in&nbsp;compiling a truly wonderful power point presentation at First Vets for the Patronage visit of Dame Patsy Reddy.</h4>

@@ -5,11 +5,11 @@ description: "Lynne Butler (left) challenges Rosie Cleary to a game of Scrabble 
 featured-image: 
 excerpt: "Lynne Butler (left) challenges Rosie Cleary to a game of Scrabble for fun before they meet each other in competition this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/0algzMXaS9kQqyX_JY9ONMiFnb8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/H6LXJJOWMFEPHNEX6MHQ4Y4NAI.jpg" alt="Lynne Butler (left) challenges Rosie Cleary to a game of Scrabble for fun before they meet each other in competition this weekend. Photo / Jesse King" /></p>

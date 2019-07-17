@@ -5,11 +5,11 @@ description: "SPORTY:  Wanganui High School athletes (left) Sam Luff, Travis Bay
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>SPORTY: &nbsp;Wanganui High School athletes (left) Sam Luff, Travis Bayler, Rebecca Baker and Emma Rainey will represent the school at the National Secondary Schools Cross Country in Dunedin.</p>

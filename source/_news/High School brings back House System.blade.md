@@ -5,11 +5,11 @@ description: "Some of the guests, teachers and students at Whanganui High School
 featured-image: 
 excerpt: "Some of the guests, teachers and students at Whanganui High School's launch of the House System."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Some of the guests, teachers and students at Whanganui High School's launch of the House System.</strong></p>

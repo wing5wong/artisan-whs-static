@@ -5,11 +5,11 @@ description: "Former WHS student Michaela Carr soon to open Country Café & Play
 featured-image: 
 excerpt: "Former WHS student Michaela Carr soon to open Country Café & Playground."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Country Caf&eacute; &amp; Playground &ndash; to open soon</p>

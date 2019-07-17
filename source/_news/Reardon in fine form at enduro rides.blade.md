@@ -5,11 +5,11 @@ description: "Former WHS student Seth Reardon reaps gold after the final rounds 
 featured-image: 
 excerpt: "Former WHS student Seth Reardon reaps gold after the final rounds of the Central and North Island enduro series."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Whanganui's Seth Reardon reaps gold after the final rounds of the Central and North Island enduro series near Masteron last weekend.</h4>

@@ -5,11 +5,11 @@ description: "Former WHS student Georgia Flower with her Room 6 students at Chur
 featured-image: 
 excerpt: "Former WHS student Georgia Flower with her Room 6 students at Churton School celebrating Loud Shirt Day."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The photograph shows students in Room 6, along with their teacher and former WHS student, Georgia Flower, giving a big shout out in support of a friend with a hearing impairment.</span></p>

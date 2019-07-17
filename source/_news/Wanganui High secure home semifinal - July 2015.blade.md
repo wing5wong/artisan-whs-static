@@ -5,11 +5,11 @@ description: "DOMINANT: WHS hooker Hamish Broadhead lines up a throw during his 
 featured-image: 
 excerpt: "DOMINANT: WHS hooker Hamish Broadhead lines up a throw during his team's total domination of Te Kawau on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>DOMINANT: WHS hooker Hamish Broadhead lines up a throw during his team's total domination of Te Kawau on Saturday.</p>

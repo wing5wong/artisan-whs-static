@@ -5,11 +5,11 @@ description: "Well done today to our 16 students who represented WHS in the WSS 
 featured-image: 
 excerpt: "Well done today to our 16 students who represented WHS in the WSS Mountain Bike Champs at Pauri Lake MTB Course, Kaitoke on Friday 22 June."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b319ab3ff2a7c6bfc0024f0/Libby--Rebecca-placings.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b319ad0b8d39a749900253d/James-Rountree-placings.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b319af9b8d39a749900253f/Arlo-Johnston-placings.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b319b0dff2a7c6bfc0024f4/Ashlea-Hale-placing.jpg"
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b319ab3ff2a7c6bfc0024f0/Libby--Rebecca-placings.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b319ad0b8d39a749900253d/James-Rountree-placings.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b319af9b8d39a749900253f/Arlo-Johnston-placings.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b319b0dff2a7c6bfc0024f4/Ashlea-Hale-placing.jpg"
+    
 ---
 
 <p><strong>Well done today to our 16 students who represented WHS in the WSS Mountain Bike Champs at Pauri Lake MTB Course, Kaitoke on Friday 22 June.</strong></p>

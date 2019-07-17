@@ -5,11 +5,11 @@ description: "Brothers Ben and Scott Emerson, who both competed in the 13-16 Yea
 featured-image: 
 excerpt: "Brothers Ben and Scott Emerson, who both competed in the 13-16 Year 85cc class, were getting air on Sunday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Brothers Ben and Scott Emerson (both WHS students), who both competed in the 13-16 Year 85cc class, were getting air on Sunday.<br />Photos / Supplied</span></p>

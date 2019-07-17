@@ -5,11 +5,11 @@ description: "Roger Brasell and Sue Watson, left, with Kate Watson (nee Neilson)
 featured-image: 
 excerpt: "Roger Brasell and Sue Watson, left, with Kate Watson (nee Neilson), Simon Watson (holding baby George Watson)..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Roger Brasell and Sue Watson, left, with <strong>Kate Watson </strong>(nee Neilson),<strong> Simon Watson</strong> (holding baby George Watson), James Richardson, <strong>Penny Richardson </strong>(nee Brasell), Carina Brasell and <strong>Tim Brasell </strong>(highlighted former WHS students).<br /><em>PHOTO / JODIE GRAHAM</em></span></p>

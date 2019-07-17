@@ -5,11 +5,11 @@ description: "Rebecca Baker & Jordan Cohen selected in the New Zealand Under 18 
 featured-image: 
 excerpt: "Rebecca Baker & Jordan Cohen selected in the New Zealand Under 18 Development camps in December 2018."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Rebecca Baker and Jordan Cohen will be looking forward to a busy December with their selections in the New Zealand Under 18 Development camps.<br /></strong>Photo / File</p>

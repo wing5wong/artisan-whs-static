@@ -5,11 +5,11 @@ description: "Gillian Tasker (left) and Mary-Ann Ewing toast the success of the 
 featured-image: 
 excerpt: "Gillian Tasker (left) and Mary-Ann Ewing toast the success of the Literary Festival."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Gillian Tasker (left) and <strong>Mary-Ann Ewing</strong> toast the success of the Literary Festival.<strong data-bind="text: imageTitle"><br /></strong><em>PHOTO / Paul Brooks</em></p>

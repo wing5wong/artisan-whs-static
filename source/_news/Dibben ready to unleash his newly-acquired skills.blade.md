@@ -5,11 +5,11 @@ description: "Whanganui rider Richie Dibben is itching to get rolling in actual 
 featured-image: 
 excerpt: "Whanganui rider Richie Dibben is itching to get rolling in actual race time."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui rider Richie Dibben is itching to get rolling in actual race time.</span><br /><em>Photo / Supplied</em></p>

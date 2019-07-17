@@ -5,11 +5,11 @@ description: "A big second half comeback saw Team Ritesh Football Whanganui get 
 featured-image: 
 excerpt: "A big second half comeback, including a goal in the final minute, saw Team Ritesh Football Whanganui get out of Memorial Park."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/NmARpgpiOqR0xA7lMcAD7CzbO7Q=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/OA4L4CSTGVEOPDXBYGYWKMTQDE.jpg" alt="Alice Hetherington came on to score a goal in Whanganui's second half comeback against Marist on Sunday." /></p>

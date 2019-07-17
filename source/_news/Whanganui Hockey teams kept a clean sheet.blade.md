@@ -5,11 +5,11 @@ description: "The Whanganui Hockey teams swept the weekend with victories in the
 featured-image: 
 excerpt: "The Whanganui teams swept the weekend and both also kept a clean sheet with victories in their Hockey Manawatu divisions on Saturday at Gonville Domain."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong><img src="http://3.imimg.com/data3/BG/ME/GLADMIN-10658/hockey-sticks-500x500.jpg" alt="Image result for hockey stick and ball photo" /></strong></p>

@@ -5,11 +5,11 @@ description: "Kerry Ranginui (left) & Clayton Barnett shared tales of their Whan
 featured-image: 
 excerpt: "Kerry Ranginui (left) and Clayton Barnett shared tales of their Whanganui childhoods as well as food and fashion tips when they met for the first time in Auckland."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Kerry Ranginui (left) and Clayton Barnett shared tales of their Whanganui childhoods as well as food and fashion tips when they met for the first time in Auckland last week. <br /><em>Photo / Supplied</em></span></p>

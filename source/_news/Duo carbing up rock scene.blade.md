@@ -5,11 +5,11 @@ description: "Nicole Gaffney & James Stuteley are pictured at a Waikato service 
 featured-image: 
 excerpt: "Nicole Gaffney & James Stuteley are pictured at a Waikato service station with their band's touring car."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Nicole Gaffney and James Stuteley are pictured at a Waikato service station with their band's touring car.&nbsp;<br /><em>Photo / Supplied</em></span></p>

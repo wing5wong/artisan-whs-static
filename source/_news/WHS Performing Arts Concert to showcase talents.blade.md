@@ -5,11 +5,11 @@ description: "Whanganui High School students will battle out their talents on st
 featured-image: 
 excerpt: "Whanganui High School students will battle out their talents on stage to create a night filled with dance, drama and music."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>&nbsp;<br />WHS Performing Arts Concert 2019</h4>

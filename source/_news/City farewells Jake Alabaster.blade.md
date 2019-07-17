@@ -5,11 +5,11 @@ description: "Jake Mitchell Alabaster was brought onto the Cooks Gardens rugby f
 featured-image: 
 excerpt: "Jake Mitchell Alabaster was brought onto the Cooks Gardens rugby field one final time in front of his biggest crowd yesterday afternoon."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59dad54cb8d39a787b000354/Jake-carrying-him.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59dad55cb8d39a787b000356/jake-casket.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59dad58ab8d39a787b00035a/Jake-crowd-in-rain.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59dad53cb8d39a787b000352/Jake-haka.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/59dad5a6b8d39a787b00035c/Jake-walking-after.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59dad54cb8d39a787b000354/Jake-carrying-him.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59dad55cb8d39a787b000356/jake-casket.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59dad58ab8d39a787b00035a/Jake-crowd-in-rain.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59dad53cb8d39a787b000352/Jake-haka.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/59dad5a6b8d39a787b00035c/Jake-walking-after.jpg"
 ---
 
 <p>Mouners gather in their hundreds at Cooks Gardens on Friday 6 October to pay their respects to Jake Mitchell Alabaster, Saturday 17 April 1993 - Saturday 30 September 2017.<br />PHOTOS / Stuart Munro</p>

@@ -5,11 +5,11 @@ description: "Wanganui City's Max Davidson is likely to switch from the forwards
 featured-image: 
 excerpt: "Wanganui City's Max Davidson is likely to switch from the forwards to defence as his team look to counterattack Palmerston North Marist's attacking weapons at Memorial Park Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/AmLvFneNwyFdUlPOM5JcO8wj9fE=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/MKSPSP4OZZCHRNWL7YXYNFOTHE.jpg" alt="Wanganui City's Max Davidson is likely to switch from the forwards to defence as his team look to counterattack Palmerston North Marist's attacking weapons at Memorial Park Saturday." /></p>

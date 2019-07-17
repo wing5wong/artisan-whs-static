@@ -5,11 +5,11 @@ description: "TALL TIMBER: The Celtic lads struggle to match the height and reac
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>TALL TIMBER: The Celtic lads struggle to match the height and reach of WHS's 2.03m (6ft 8in) Raniera Walker.</span></p>

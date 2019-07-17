@@ -5,11 +5,11 @@ description: "Whanganui's Toby Brooke on his way to second in the K1 5000 final 
 featured-image: 
 excerpt: "Whanganui's Toby Brooke on his way to second in the K1 5000 final at the NZCT NZ Canoe Sprint Champs at Lake Karapiro."
 image_gallery:
-	 - image: "/uploads/5aa1c8d1b8d39a7499000a50/Max-Brown-chron-1-march.PNG"
-	
-	
-	
-	
+     - image: "/uploads/5aa1c8d1b8d39a7499000a50/Max-Brown-chron-1-march.PNG"
+    
+    
+    
+    
 ---
 
 <p><span><strong>POWERHOUSE: Whanganui's Toby Brooke&nbsp;(former student) on his way to second in the K1 5000 final at the NZCT New Zealand Canoe Sprint Championships at Lake Karapiro over the weekend.</strong> <br /><em>PHOTOS / Jamie Troughton</em></span></p>

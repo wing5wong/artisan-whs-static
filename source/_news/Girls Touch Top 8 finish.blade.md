@@ -5,11 +5,11 @@ description: "Congratulations WHS Girls Touch Team who came 7th in the 2018 NZSS
 featured-image: 
 excerpt: "Congratulations WHS Girls Touch Team who came 7th in the 2018 NZSS Touch Champs in Auckland 7-9 December."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <div id="id_5c0ed0b0234df4068979716" class="text_exposed_root text_exposed">

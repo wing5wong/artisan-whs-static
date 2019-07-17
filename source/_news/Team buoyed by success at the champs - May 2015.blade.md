@@ -5,11 +5,11 @@ description: "SWIMMING SUCCESS: Subway Wanganui swim team from left, Shannon Sch
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>SWIMMING SUCCESS: Subway Wanganui swim team from left, Shannon Schimanski, Laura O'Keeffe (WHS student), Sarya Lower, Elena Forlong (WHS student) competed at the New Zealand age group championships.</span></p>

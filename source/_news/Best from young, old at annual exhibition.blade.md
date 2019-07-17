@@ -5,11 +5,11 @@ description: "Judy Webby of Wanganui Arts Society with her painting depicting an
 featured-image: 
 excerpt: "Judy Webby of Wanganui Arts Society with her painting depicting an old barn on the O'Leary farm."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Judy Webby of Wanganui Arts Society with her painting depicting an old barn on the O'Leary farm. <br /><em>Photo / Stuart Munro</em></span></p>

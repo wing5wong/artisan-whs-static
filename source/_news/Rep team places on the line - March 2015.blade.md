@@ -5,11 +5,11 @@ description: "NO1 SEED: Sam Russell, 15, at the start of the junior championship
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>NO 1 SEED: &nbsp;Sam Russell, 15, at the start of the junior championships yesterday afternoon at the Wanganui Tennis Club.</p>

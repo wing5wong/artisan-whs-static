@@ -5,11 +5,11 @@ description: "Click the heading to read about Millie Manning's success in gymnas
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui teenager Millie Manning was unfazed by the heat of competition at the Singapore Prime Invitational gymnastics event this month.</p>

@@ -5,11 +5,11 @@ description: "Young musicians to compete for Scholarships including WHS student 
 featured-image: 
 excerpt: "Young musicians to compete for Scholarships including WHS student Ben Power."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Young musicians to compete for Scholarships, including WHS student <strong>Ben Power </strong>(left).</span></p>

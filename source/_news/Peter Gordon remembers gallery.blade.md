@@ -5,11 +5,11 @@ description: "The Sarjeant is a favourite of Peter Gordon's (former Whanganui Hi
 featured-image: 
 excerpt: "The Sarjeant is a favourite of Peter Gordon's (former Whanganui High School student)."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa1c17bff2a7c6bfc000a2f/Peter-Gordon-nice-chron-28-feb.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5aa1c17bff2a7c6bfc000a2f/Peter-Gordon-nice-chron-28-feb.jpg"
+    
+    
+    
+    
 ---
 
 <p>HOME:&nbsp;&nbsp;The Sarjeant is a favourite of Peter Gordon's (former Whanganui High School student).</p>

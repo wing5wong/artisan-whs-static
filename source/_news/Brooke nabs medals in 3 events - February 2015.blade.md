@@ -5,11 +5,11 @@ description: "SYDNEY SUCCESS: Former WHS student Toby Brooke, seen here competin
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>SYDNEY SUCCESS: &nbsp;Former WHS student Toby Brooke, seen here competing at the nationals at Lake Karapiro, had team and individual success at the Australian GP2 at the weekend.</p>

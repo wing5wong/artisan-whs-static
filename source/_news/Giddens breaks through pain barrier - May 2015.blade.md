@@ -5,11 +5,11 @@ description: "It was her final ride in New Zealand before heading back to her pr
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>It was her final ride in New Zealand before heading back to her professional team in America so Wanganui's Hayley Giddens made sure she was up in the seat for a long time.</p>

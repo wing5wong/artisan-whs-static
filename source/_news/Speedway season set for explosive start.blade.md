@@ -5,11 +5,11 @@ description: "Former student Max Holloway's car has been rebuilt for the new sea
 featured-image: 
 excerpt: "Former student Max Holloway's car has been rebuilt for the new season with big things expected for 81V."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former student <strong>Max Holloway's</strong> car has been rebuilt for the new season with big things expected for 81V.<br /><em>Photo / Supplied</em></p>

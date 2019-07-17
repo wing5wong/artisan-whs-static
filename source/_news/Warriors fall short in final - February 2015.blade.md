@@ -5,11 +5,11 @@ description: "BACK TO BACK: Former WHS student Kyle Heibner receives the Spike R
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>BACK TO BACK: &nbsp;Former WHS student Kyle Heibner receives the Spike Richardson Memorial Trophy as most outstanding driver of the weekend.</p>

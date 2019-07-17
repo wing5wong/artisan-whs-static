@@ -5,11 +5,11 @@ description: "WHS student Jared Sim winning events at Wellington Spirit of Ballr
 featured-image: 
 excerpt: "WHS student Jared Sim winning events at Wellington Spirit of Ballroom Champs held in Wellington."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whanganui dancers do well at Wellington Spirit of Ballroom Championships.</p>

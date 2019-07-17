@@ -5,11 +5,11 @@ description: "RARE RELAXING MOMENT: Taking a break in Portugal are New Zealand t
 featured-image: 
 excerpt: "RARE RELAXING MOMENT: Taking a break in Portugal are New Zealand team members Kurtis Imrie (left) and Wanganui's former WHS students Toby Brooke, Max Brown and Aiden Nossiter."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>RARE RELAXING MOMENT: &nbsp;Taking a break in Portugal are New Zealand team members Kurtis Imrie (left) and Wanganui's former WHS students Toby Brooke, Max Brown and Aiden Nossiter.</p>

@@ -5,11 +5,11 @@ description: "Toronto Arrows hero of the moment was Whanganui High School star, 
 featured-image: 
 excerpt: "Toronto Arrows hero of the moment was Whanganui High School star, Sam Malcolm!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>&nbsp;<br />Sam's playing top rugby in the US<br /><br /></h4>

@@ -5,11 +5,11 @@ description: "Premier rugby returned to a picturesque Ratana Pa for the first ti
 featured-image: 
 excerpt: "Premier rugby returned to a picturesque Ratana Pa for the first time since 2017 today, as the home side won a one-pointer thriller over Pirates."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/a9DxcnWyq93EKlegVylndFMBbYc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/5QHDMJQGYNEWJMJLHADGXPTMIU.jpg" alt="Premier rugby returned to a picturesque Ratana Pa for the first time since 2017 today, as the home side won a one-pointer thriller over Pirates. Photo by Jared Smith." /></p>

@@ -5,11 +5,11 @@ description: "Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition
 featured-image: 
 excerpt: "Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the recent Nga Manu Korero Regionals."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

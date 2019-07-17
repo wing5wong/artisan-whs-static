@@ -5,11 +5,11 @@ description: "Good luck to our WHS cricket girls who are playing for Wanganui th
 featured-image: 
 excerpt: "Good luck to our WHS cricket girls who are playing for Wanganui this week in Palmerston North."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Good luck to our WHS cricket girls who are playing for Wanganui this week in Palmerston North.</span></p>

@@ -5,11 +5,11 @@ description: "Josh Valentine leads Chase Morpeth, Jake Duggan & Jackson Fellows 
 featured-image: 
 excerpt: "Josh Valentine leads Chase Morpeth, Jake Duggan and Jackson Fellows in the chase of tearaway pacemaker and eventual Men's B grade 5km winner Drew Brennan during the St John's Club Rivercity Tour."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Josh Valentine leads Chase Morpeth, Jake Duggan and Jackson Fellows in the chase of tearaway pacemaker and eventual Men's B grade 5km winner Drew Brennan during the St John's Club Rivercity Tour.</span></p>

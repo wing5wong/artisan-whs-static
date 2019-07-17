@@ -5,11 +5,11 @@ description: "You can take nothing for granted in Lotto Federation League footba
 featured-image: 
 excerpt: "You can take nothing for granted in Lotto Federation League football. Absolutely nothing."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://images.all-free-download.com/images/graphiclarge/football_theme_picture_07_hd_pictures_168216.jpg" alt="Image result for football images" /></p>

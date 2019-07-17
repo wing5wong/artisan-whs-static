@@ -5,11 +5,11 @@ description: "Congratulations to Rebecca Baker and ex student Joanna Bell in win
 featured-image: 
 excerpt: "Congratulations to Rebecca Baker and ex student Joanna Bell in winning the NZ U18 Nationals for Hockey representing Central."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b5175c5b8d39a4129000735/NZ-National-hockey-team-photo-MUL-facebook.gif"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b5175c5b8d39a4129000735/NZ-National-hockey-team-photo-MUL-facebook.gif"
+    
+    
+    
+    
 ---
 
 <p><strong>Congratulations to Rebecca Baker (left) and ex student Joanna Bell who have been away last week at the NZ U18 Nationals for Hockey representing Central.&nbsp;</strong></p>

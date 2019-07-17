@@ -5,11 +5,11 @@ description: "Jemma Tan takes yet another wicket for Whanganui in the CD Seconda
 featured-image: 
 excerpt: "Fourteen-year-old allrounder Jemma Tan takes yet another wicket for Whanganui in the CD Secondary Schools Under-18 Tournament at Victoria Park, this time against Manawatu."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Fourteen-year-old allrounder Jemma Tan (WHS student) takes yet another wicket for Whanganui in the CD Secondary Schools Under-18 Tournament at Victoria Park, this time against Manawatu.</strong> <br /><em>PHOTO / Stuart Munro</em></span></p>

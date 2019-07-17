@@ -5,11 +5,11 @@ description: "Wanganui High School rowers landed five gold medals at the Aon NZ 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui High School rowers landed five gold medals at the Aon NZ North Island Secondary School Championships at the weekend.</p>

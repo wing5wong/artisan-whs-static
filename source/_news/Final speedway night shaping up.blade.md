@@ -5,11 +5,11 @@ description: "Max Holloway gets airborne over the front wheel of Richard Watkins
 featured-image: 
 excerpt: "Max Holloway gets airborne over the front wheel of Richard Watkins at Oceanview Speedway. The season climaxes tonight with the West Coast champs."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><img src="https://www.nzherald.co.nz/resizer/zJOdFES2uflh_7jHPDWDW6kKgTI=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/OHOMHEKXXVBIJCNVIF27MFVXOM.jpg" alt="Max Holloway gets airborne over the front wheel of Richard Watkins at Oceanview Speedway. The season climaxes tonight with the West Coast champs. Photos by SB O'Hagan Photography " /></p>

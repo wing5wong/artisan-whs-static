@@ -5,11 +5,11 @@ description: "Kerry Ranginui caught up with his former tutor Leanne Gale on a re
 featured-image: 
 excerpt: "Kerry Ranginui caught up with his former tutor Leanne Gale on a recent visit home."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bfcb2a7ff2a7c39a8000d6b/Kerry-Ranginui-story-other-artists-24-Nov-chron.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bfcb2a7ff2a7c39a8000d6b/Kerry-Ranginui-story-other-artists-24-Nov-chron.jpg"
+    
+    
+    
+    
 ---
 
 <p><span><strong>Kerry Ranginui caught up with his former tutor, now WHS teacher, Leanne Gale on a recent visit home.</strong> <br /><em>Photo/Supplied</em></span></p>

@@ -5,11 +5,11 @@ description: "Wanganui City's Anthony Bell remembers what a tough challenge Have
 featured-image: 
 excerpt: "Although it's been a couple of seasons since they played each other, Wanganui City's Anthony Bell remembers what a tough challenge Havelock North can be at home."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/oIPADMnLABpP5802QYHAz7gG1Qg=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/PLT2TINNJFBC7AZ56WKNPFSHPU.jpg" alt="Although it's been a couple of seasons since they played each other, Wanganui City's Anthony Bell remembers what a tough challenge Havelock North can be at home." /></p>

@@ -5,11 +5,11 @@ description: "Whanganui off-roader Seth Reardon is right in the hunt for a podiu
 featured-image: 
 excerpt: "Whanganui off-roader Seth Reardon is right in the hunt for a podium finish in the national champs."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>WINNING FORM:&nbsp; Whanganui off-roader Seth Reardon is right in the hunt for a podium finish in the national champs.</strong><br /><em>PHOTO / Supplied</em></p>

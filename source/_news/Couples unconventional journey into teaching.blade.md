@@ -5,11 +5,11 @@ description: "Tim & Maggie Pauro spent three years studying a bachelor of teachi
 featured-image: 
 excerpt: "Tim and Maggie Pauro spent three years studying a bachelor of teaching while raising five children at their Ranana home on the Whanganui River Road."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Tim and Maggie Pauro spent three years studying a bachelor of teaching while raising five children at their Ranana home on the Whanganui River Road. <br /><em>PHOTO / Stuart Munro</em></span></p>

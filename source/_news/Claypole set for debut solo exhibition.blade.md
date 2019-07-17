@@ -5,11 +5,11 @@ description: "Lily Claypole will open her first solo exhibition Mimesis at Whang
 featured-image: 
 excerpt: "Lily Claypole will open her first solo exhibition Mimesis at Whanganui Fine Arts Gallery next week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/E2ScloC_ZAe75gcYqSZwiJwdH78=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/GVUZW6D72BDHNCDXPMK5JF5J7A.jpg" alt="Lily Claypole will open her first solo exhibition Mimesis at Whanganui Fine Arts Gallery next week. Photo/Bevan Conley" /></p>

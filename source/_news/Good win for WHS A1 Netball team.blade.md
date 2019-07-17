@@ -5,11 +5,11 @@ description: "Whanganui High School defender Kara Adrole was joined by newcomer 
 featured-image: 
 excerpt: "Whanganui High School defender Kara Adrole was joined by newcomer Tima Tuinasoni in defence on Monday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/e1Kt6a33GaXz1BznVcPdwoQBYyQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/Z3VQDGMMMZCQLBRZUOZ72DCCRY.jpg" alt="Whanganui High School defender Kara Adrole was joined by newcomer Tima Tuinasoni in defence on Monday night. Photo / Bevan Conley" /></p>

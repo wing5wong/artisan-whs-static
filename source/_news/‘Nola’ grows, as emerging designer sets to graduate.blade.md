@@ -5,11 +5,11 @@ description: "Well on her way as an emerging designer, 2018 was a big year for e
 featured-image: 
 excerpt: "Well on her way as an emerging designer, 2018 was a big year for ex WHS student Paige MacDonald."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <div id="id_5c63456e92bbf6a81242575" class="text_exposed_root text_exposed" style="display: inline; font-family: inherit;">Well on her way as an emerging designer, 2018 was a big year for former WHS student&nbsp;<strong>Paige MacDonald</strong>, Ngati Kahungungu, a UCOL Bachelor of Design and Arts - Level 7 - Whanganui student, who combined study, growing her own label &lsquo;Nola&rsquo; and going to New Zealand Fashion Week.</div>

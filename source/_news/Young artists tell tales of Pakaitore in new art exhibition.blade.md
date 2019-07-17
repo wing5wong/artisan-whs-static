@@ -5,11 +5,11 @@ description: "Teachers David Pearce (left), Cath Sleyer, Graham Hall and Diana P
 featured-image: 
 excerpt: "Teachers David Pearce (left), Cath Sleyer, Graham Hall and Diana Pottinger with their students work at the Pākaitore exhibition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/cj4uc9uJEf1A9IrPi8pzTAfw8ms=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/B5O3PLMUEFEGBDCEOJNNS737KM.jpg" alt="Teachers David Pearce (left), Cath Sleyer, Graham Hall and Diana Pottinger with their students work at the P&Auml;kaitore exhibition. Photo/Bevan Conley" /></p>

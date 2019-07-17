@@ -5,11 +5,11 @@ description: "Football Whanganui are now on a dynamic three-game winning streak 
 featured-image: 
 excerpt: "Team Ritesh Football Whanganui are now on a dynamic three-game winning streak after besting Massey University 3-2 in Palmerston North on Thursday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;&nbsp;<br /><img src="https://images.all-free-download.com/images/graphiclarge/football_theme_picture_07_hd_pictures_168216.jpg" alt="Image result for football images" /></p>

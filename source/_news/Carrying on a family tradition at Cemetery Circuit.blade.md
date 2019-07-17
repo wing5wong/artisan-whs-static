@@ -5,11 +5,11 @@ description: "Craig (Cudge) Scott has been part of the track set up crew for ove
 featured-image: 
 excerpt: "Craig (Cudge) Scott has been part of the track set up crew for over 40 years and now son Alex Scott is taking over his job."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Craig (Cudge) Scott has been part of the track set up crew for over 40 years and now son Alex Scott (WHS student) is taking over his job</span><br /><em>PHOTO / Stuart Munro</em></p>

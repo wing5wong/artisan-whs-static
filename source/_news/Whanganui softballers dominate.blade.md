@@ -5,11 +5,11 @@ description: "Ben Hollis (ex student) had a great day with the bat for Mustangs 
 featured-image: 
 excerpt: "Ben Hollis (ex student) had a great day with the bat for Mustangs smashing three automatic home runs during his side's 13-4 drubbing of Linton in Palmerston North on Saturday."
 image_gallery:
-	 - image: "/uploads/5c009ec9ff2a7c39a8000e21/Hollis-boys-ex-chron-28-Nov-team.PNG"
-	
-	
-	
-	
+     - image: "/uploads/5c009ec9ff2a7c39a8000e21/Hollis-boys-ex-chron-28-Nov-team.PNG"
+    
+    
+    
+    
 ---
 
 <p><span><strong>Ben Hollis</strong> (ex student) had a great day with the bat for Mustangs smashing three automatic home runs during his side's 13-4 drubbing of Linton in Palmerston North on Saturday.</span></p>

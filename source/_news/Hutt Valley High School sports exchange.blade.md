@@ -5,11 +5,11 @@ description: "A great day was had at Hutt Valley High School yesterday for our f
 featured-image: 
 excerpt: "A great day was had at Hutt Valley High School yesterday for our first winter sports exchange."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/64578324_2264775663571599_3602630924505710592_n.jpg?_nc_cat=104&amp;_nc_eui2=AeHL_MoaOKVDDXsqwsKU2IzJHUMUEeukhoSTloRN-OY5KoM0guJ8E9TK5ydts6aViWz1STU2rduvrl5ym_dpuou3lBctya7kfRozcUufr_XUpQ&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=c54cb838d89e1e427dc5189da269ff38&amp;oe=5DC0A3CC" alt="Image may contain: 4 people, people smiling, people playing sports and outdoor" /></p>

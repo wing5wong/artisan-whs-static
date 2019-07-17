@@ -5,11 +5,11 @@ description: "These oil paintings and woodcuts were created by Graham Hall’s A
 featured-image: 
 excerpt: "These oil paintings and woodcuts were created by Graham Hall’s Art students at Wanganui High School, in response to the moa collections at the Museum."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55dbbfe1ff2a7c07770002ea/Museum-Moa.David-Mariner.14.8.15.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55dbbfb3ff2a7c07770002e8/Museum-Moa.Elisa-Scholz.14.8.15.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55dbc3c7ff2a7c07770002f2/Museum-Moa.Tibet-Ranginui.14.8.15.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55dbc35eff2a7c07770002f0/Museum-Moa.Jess-Watkins.14.8.15.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/55dbbf24ff2a7c07770002e2/Museum-Moa.Niamh-OConnell.14.8.15.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55dbbfe1ff2a7c07770002ea/Museum-Moa.David-Mariner.14.8.15.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55dbbfb3ff2a7c07770002e8/Museum-Moa.Elisa-Scholz.14.8.15.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55dbc3c7ff2a7c07770002f2/Museum-Moa.Tibet-Ranginui.14.8.15.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55dbc35eff2a7c07770002f0/Museum-Moa.Jess-Watkins.14.8.15.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/55dbbf24ff2a7c07770002e2/Museum-Moa.Niamh-OConnell.14.8.15.jpg"
 ---
 
 <p><span>These oil paintings and woodcuts were created by Graham Hall&rsquo;s Art students at Wanganui High School, in response to the moa collections at the Museum. </span></p>

@@ -5,11 +5,11 @@ description: "The Junior Wheel Race top three: Jack Overweel, left, Ewan Cousins
 featured-image: 
 excerpt: "The Junior Wheel Race top three: Jack Overweel, left, Ewan Cousins and Riley Tunnicliffe."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><span><strong>The Junior Wheel Race top three:&nbsp; Jack Overweel</strong>, left, Ewan Cousins and Riley Tunnicliffe.&nbsp;<br /><em>PHOTO / Lewis Gardner</em> </span></p>

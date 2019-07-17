@@ -5,11 +5,11 @@ description: "From left: Kat Schroyens, Jordan Rees holding a JUMP modem & Steph
 featured-image: 
 excerpt: "Whanganui Library staff, from left: Kat Schroyens, Jordan Rees holding a JUMP modem & Stephen Hormann with Alistair Fraser the Whanganui JUMP Ambassador."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/57611858_2236409263064726_5002753837384073216_n.jpg?_nc_cat=103&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=5ac07e28dbecbaa15acac54fad0f82ca&amp;oe=5D72C637" alt="" /></p>

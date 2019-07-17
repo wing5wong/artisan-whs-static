@@ -5,11 +5,11 @@ description: "TOE TO TOE: Brayden Maua lands a kick on Earl-Jay Pehi during the 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>TOE TO TOE: WHS student Brayden Maua lands a kick on Earl-Jay Pehi during the fight of the night at the River City Rumble.</span></p>

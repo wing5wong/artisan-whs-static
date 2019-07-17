@@ -5,11 +5,11 @@ description: "Whanganui Kayak Club paddlers mix it with double world U23 canoe s
 featured-image: 
 excerpt: "Lucas Thompson, Jack Clifton & Liam Lace prepare for a Grand Prix regatta in Australia early in the New Year."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Photo - RIVERSIDE: Whanganui Kayak Club paddlers mix it with double world U23 canoe sprint champion Aimee Fisher (centre back) last week.</span></p>

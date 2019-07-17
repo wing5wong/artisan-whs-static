@@ -5,11 +5,11 @@ description: "Four current and expat Whanganui Players have been on quite the ad
 featured-image: 
 excerpt: "Four current and expat Whanganui Players have been on quite the adventure in the past week as the NZ Ambassadors XV defeated the Czech Republic"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65095540_1305140989643294_7985726160531095552_n.jpg?_nc_cat=105&amp;_nc_oc=AQnUoXzhLmXLP3-aFUeunoJlS-NtNmDmQbYxkXsDND7GejXjAsKXKOQmjllTqaUXCuY&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=6032a66c16a523489fad42306ba9c08c&amp;oe=5DBCCFE0" alt="Image may contain: 20 people, people smiling, outdoor" /><br /><em>Photo / Supplied</em></p>

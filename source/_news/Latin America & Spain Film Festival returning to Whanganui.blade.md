@@ -5,11 +5,11 @@ description: "Latin America & Spain Film Festival returning to Whanganui thanks 
 featured-image: 
 excerpt: "Latin America & Spain Film Festival returning to Whanganui thanks to Beverly Stuart, Andrea Gardner, Queralt Scott & Marilyn Wilkie."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph"><em>Photo:</em> The Hispanic Arts Group: L-R;&nbsp;&nbsp;Beverly Stuart, Andrea Gardner, Queralt Scott &amp; Marilyn Wilkie (three of whom are WHS teachers).</p>

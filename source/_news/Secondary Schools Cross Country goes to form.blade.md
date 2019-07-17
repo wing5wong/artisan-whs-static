@@ -5,11 +5,11 @@ description: "Whanganui Secondary Schools Cross Country produced few surprises w
 featured-image: 
 excerpt: "Last week's Whanganui Secondary Schools Cross Country produced few surprises with titles going with the form book, nevertheless there was some excellent races on the Tawhero Golf Course"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

@@ -5,11 +5,11 @@ description: "WHS old-boy Scott Dowman set the second fastest time of the day at
 featured-image: 
 excerpt: "WHS old-boy Scott Dowman set the second fastest time of the day at the Okoia Hill Climb."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS old-boy&nbsp;Scott Dowman set the second fastest time of the day at the Okoia Hill Climb.<br /><em>PHOTOS / Lewis Gardner</em></span></p>

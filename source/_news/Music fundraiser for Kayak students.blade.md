@@ -5,11 +5,11 @@ description: "Nigel Brooke fundraising for WHS students Jack Clifton & Lucas Tho
 featured-image: 
 excerpt: "Nigel Brooke fundraising for WHS students Jack Clifton & Lucas Thompson who will be representing NZ in the Junior World Kayak Champs in Pitesti, Romania in August."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=BHFW65BURWBP6QFKXgqeog%3d%3d" alt="" /></p>

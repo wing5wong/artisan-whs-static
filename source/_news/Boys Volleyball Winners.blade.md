@@ -5,11 +5,11 @@ description: "Congratulations to our WHS Boys Volleyball Team winning the final 
 featured-image: 
 excerpt: "Congratulations to our WHS Boys Volleyball Team winning the final against Waiopehu College in Palmerston North last night."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a17800fb8d39a25b60008eb/win-against-Waiopehu-College-in-Palmerston-Nth-backs.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a178002b8d39a25b60008e9/win-against-Waiopehu-College-in-Palmerston-Nth.jpg"
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a17800fb8d39a25b60008eb/win-against-Waiopehu-College-in-Palmerston-Nth-backs.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a178002b8d39a25b60008e9/win-against-Waiopehu-College-in-Palmerston-Nth.jpg"
+    
+    
+    
 ---
 
 <p><strong>Congratulations to our WHS Boys Volleyball Team winning the final against Waiopehu College in Palmerston North last night! (Monday&nbsp;<strong>20 November)</strong></strong></p>

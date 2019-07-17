@@ -5,11 +5,11 @@ description: "With 34 former representatives included 74 players named for  Wang
 featured-image: 
 excerpt: "With 34 former representatives included in the 74 players named for Saturday’s Steelform Wanganui rugby trial at Cooks Gardens there is a wealth of talent for the selection panel to view."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://images.unsplash.com/photo-1517340650606-17091f8e86ed?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;w=1000&amp;q=80" alt="white, blue, and red football on green grass" /></p>

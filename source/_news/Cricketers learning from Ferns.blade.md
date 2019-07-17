@@ -5,11 +5,11 @@ description: "White Ferns Lauren Down, left, & Jess Watkin reminisce as they men
 featured-image: 
 excerpt: "White Ferns Lauren Down, left, and Jess Watkin reminisce as they mentor teams at the very tournament in Whanganui that shaped their careers in years gone by."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>White Ferns Lauren Down, left, and Jess Watkin reminisce as they mentor teams at the very tournament in Whanganui that shaped their careers in years gone by.</span><br /><em>PHOTO / Stuart Munro</em></p>

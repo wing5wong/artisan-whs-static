@@ -5,11 +5,11 @@ description: "Chris Breuer and Daniel Kauika, both students from Wanganui High S
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Chris </strong><span><strong>Breuer</strong> and <strong>Daniel Kauika</strong>, both students from Wanganui High School, have been included on the&nbsp;</span>Hurricanes U18 Players Selected For Development Camp on 17 June 2015.</p>

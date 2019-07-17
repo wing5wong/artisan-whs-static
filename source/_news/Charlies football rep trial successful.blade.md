@@ -5,11 +5,11 @@ description: "Congratulations to WHS student Charlie Cardie who was selected as 
 featured-image: 
 excerpt: "Congratulations to WHS student Charlie Cardie who was selected as a football rep (phase 1) within Central Football Wanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Congratulations to WHS student Charlie Cardie who was selected as a football rep (phase 1) within Central Football Wanganui. </span></p>

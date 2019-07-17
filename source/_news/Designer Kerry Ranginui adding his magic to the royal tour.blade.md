@@ -5,11 +5,11 @@ description: "Snap! Meghan & Kerry with the Karen Walker designed coat that has 
 featured-image: 
 excerpt: "It's a coat that has been turning heads as the royal tour gathers pace ... and one of the designers behind it is none other than Whanganui's Kerry Ranginui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Snap! Meghan and Kerry with the Karen Walker designed coat.</span></h4>

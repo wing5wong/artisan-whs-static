@@ -5,11 +5,11 @@ description: "Linda & representatives from Youth with Diabetes, including WHS Ye
 featured-image: 
 excerpt: "Linda and representatives from Youth with Diabetes, including WHS Year 13 student Mark O'Shanassy, receiving a cheque from Plumber Dan."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><span>Linda and representatives from Youth with Diabetes, including WHS Year 13 student <strong>Mark O'Shanassy</strong>, receiving a cheque from Plumber Dan.<br /><em>Photo / Supplied</em></span></span></p>

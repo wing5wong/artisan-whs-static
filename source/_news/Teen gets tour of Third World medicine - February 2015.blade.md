@@ -5,11 +5,11 @@ description: "WORTH IT: While she no longer wants to be a doctor, Anastasia O'Le
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>WORTH IT: &nbsp;While she no longer wants to be a doctor, Anastasia O'Leary recommends the experience to others.</p>

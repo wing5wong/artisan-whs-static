@@ -5,11 +5,11 @@ description: "Judy Webby (former WHS teacher) with some of the work on display a
 featured-image: 
 excerpt: "Judy Webby (former WHS teacher) with some of the work on display at Cooks Gallery."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Judy Webby (former WHS teacher) with some of the work on display at Cooks Gallery. <br /><em>PHOTO / Paul Brooks</em></p>

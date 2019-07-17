@@ -5,11 +5,11 @@ description: "Club Metro head chef Darlene Hall, left, and restaurant administra
 featured-image: 
 excerpt: "Club Metro head chef Darlene Hall, left, and restaurant administrator Stacey Cromarty were happy to be working for charity."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/D9-WbS3lxWXD-KNh_LHz4s_SvFU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/3LMTAXJ2DRHZTECF2WE75LQZY4.jpg" alt="Club Metro head chef Darlene Hall, left, and restaurant administrator Stacey Cromarty were happy to be working for charity." /></p>

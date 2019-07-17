@@ -5,11 +5,11 @@ description: "Whanganui dirt bike ace Seth Reardon in battle for second place in
 featured-image: 
 excerpt: "Whanganui dirt bike ace Seth Reardon in battle for second place in NZ championships."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong data-bind="text: imageTitle"><img src="https://i.prcdn.co/img?regionKey=sLtComtQaO5aB4RHJsjsPQ%3d%3d" alt="" /></strong></p>

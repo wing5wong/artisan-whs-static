@@ -5,11 +5,11 @@ description: "WHS principal Martin McAllen, with Sarah Gorringe & Tonyka Te Rang
 featured-image: 
 excerpt: "WHS principal Martin McAllen, with Sarah Gorringe &Tonyka Te Rangi from Smart Start Care & Education Centre, & Diane Howard, WHS's vocational studies director."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui High School principal Martin McAllen, with Sarah Gorringe and Tonyka Te Rangi from Smart Start Care and Education Centre, and Diane Howard, WHS's vocational studies director.</span></p>

@@ -5,11 +5,11 @@ description: "Addison, Magnus and Anna. Magnus the Bernese mountain dog helps Ad
 featured-image: 
 excerpt: "Addison, Magnus and Anna. Magnus the Bernese mountain dog helps Addison feel relaxed and confident in the classroom."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Addison, Magnus and Anna (former WHS teacher). Magnus the Bernese mountain dog helps Addison feel relaxed and confident in the classroom. <br /><em>Photo / Supplied</em></span></p>

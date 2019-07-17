@@ -5,11 +5,11 @@ description: "Whanganui heavyweight judoka Keightley Watson has made a solid sta
 featured-image: 
 excerpt: "Whanganui heavyweight judoka Keightley Watson has made a solid start to the 2018 Asian Cup with two podium finishes in the first leg in Hong Kong."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Whanganui's Keightley Watson, second from right, was on the podium twice at the 2018 Asian Cup first leg in Hong Kong.</strong> <br /><em>Photo/ Supplied</em></span></p>

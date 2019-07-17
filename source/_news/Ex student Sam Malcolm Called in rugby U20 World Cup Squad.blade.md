@@ -5,11 +5,11 @@ description: "Former High School students - Jack van Bussel, Scott Bowater and S
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span style="line-height: 1.5;">Former High School students - Jack van Bussel, Scott Bowater and Sam Malcolm. &nbsp;Jack and Sam were NZ Rugby Institute Representatives 2014.</span></p>

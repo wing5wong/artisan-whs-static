@@ -5,11 +5,11 @@ description: "EXHAUSTED: Former WHS student Toby Brooke after a race at Lake Kar
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>EXHAUSTED: &nbsp;Former WHS student Toby Brooke after a race at Lake Karapiro. He will need recovery time before heading to Sydney for the Australian GP2 competition.</p>

@@ -5,11 +5,11 @@ description: "Former WHS student Liza Ciora (on left) and Shanon Casson at the N
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former WHS student Liza Ciora (on left) and Shanon Casson at the NZ Jiu Jitsu Academy Dojo.</p>

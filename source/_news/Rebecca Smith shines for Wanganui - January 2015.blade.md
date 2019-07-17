@@ -5,11 +5,11 @@ description: "Wanganui's Rebecca Smith, a distance skater, pulled off a surprisi
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui's Rebecca Smith (former WHS student), a distance skater, pulled off a surprising second place in the Senior Women's 500m sprint behind Begg and ahead of Dania Gibbs.</p>

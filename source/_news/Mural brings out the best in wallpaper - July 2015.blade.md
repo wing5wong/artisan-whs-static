@@ -5,11 +5,11 @@ description: "Former WHS student TINEKE Paurini (left) and Teresa Leef with thei
 featured-image: 
 excerpt: "Former WHS student TINEKE Paurini (left) and Teresa Leef with their entry in this year's mural competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former WHS student TINEKE Paurini (left) and Teresa Leef with their entry in this year's mural competition.</p>

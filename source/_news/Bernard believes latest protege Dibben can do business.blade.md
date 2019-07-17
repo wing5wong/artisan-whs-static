@@ -5,11 +5,11 @@ description: "Former NZ superbike champion Brian Bernard & his Formula 2 protege
 featured-image: 
 excerpt: "Former NZ superbike champion Brian Bernard & his Formula 2 protege Richie Dibben ready themselves for round one of the national champs at Ruapuna in Christchurch this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former New Zealand superbike champion Brian Bernard and his Formula 2 protege Richie Dibben ready themselves for round one of the national championships at Ruapuna in Christchurch this weekend.</span><br /><em>Photo / Supplied</em></p>

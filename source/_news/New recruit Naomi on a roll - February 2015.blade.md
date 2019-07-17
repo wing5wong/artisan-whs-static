@@ -5,11 +5,11 @@ description: "RIDING HIGH: New national women's skateboard champion Naomi Craig 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>RIDING HIGH: &nbsp;New national women's skateboard champion Naomi Craig finds some air down at the Kowhai Park skate bowl.</p>

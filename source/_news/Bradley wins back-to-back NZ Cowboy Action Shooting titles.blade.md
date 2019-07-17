@@ -5,11 +5,11 @@ description: "Sharpshooting Whanganui teenager has won back-to-back open NZ Cowb
 featured-image: 
 excerpt: "Sharpshooting Whanganui teenager has won back-to-back open New Zealand Cowboy Action Shooting titles at the nationals in Ashburton at the weekend."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bf4d39cff2a7c39a8000b1d/Bradley-Jnr-world-title-photo-dad-sent-in.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bf4d39cff2a7c39a8000b1d/Bradley-Jnr-world-title-photo-dad-sent-in.jpg"
+    
+    
+    
+    
 ---
 
 <h4><span>Sharpshooting Whanganui teenager has won back-to-back open New Zealand Cowboy Action Shooting titles at the nationals in Ashburton at the weekend.</span></h4>

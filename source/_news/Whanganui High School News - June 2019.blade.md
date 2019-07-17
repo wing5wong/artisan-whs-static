@@ -5,11 +5,11 @@ description: "Whanganui High School News - June 2019. Celebrating Success of our
 featured-image: 
 excerpt: "Whanganui High School News - June 2019. Celebrating Success of our Students‼️"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Whanganui High School News - June 2019<br /><br /></span></h4>

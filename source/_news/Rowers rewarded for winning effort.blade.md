@@ -5,11 +5,11 @@ description: "Siena McLean, left, Levi Carroll (WHS student), Jamie Harris and B
 featured-image: 
 excerpt: "Siena McLean, left, Levi Carroll (WHS student), Jamie Harris and Blake Hogan after winning their Under 20 and Under 17 categories at the Billy Webb Challenge."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Siena McLean, left, <strong>Levi Carroll</strong> (WHS student), Jamie Harris and Blake Hogan after winning their Under 20 and Under 17 categories at the Billy Webb Challenge.</span></p>

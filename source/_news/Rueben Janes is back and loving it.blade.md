@@ -5,11 +5,11 @@ description: "Rueben Janes is back and loving it..."
 featured-image: 
 excerpt: "Rueben Janes is back and loving it."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former WHS student Reuben Janes. <br />PHOTO / Ashleigh Morris</span></p>

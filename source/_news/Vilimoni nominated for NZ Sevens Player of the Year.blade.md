@@ -5,11 +5,11 @@ description: "Expat Whanganui player Vilimoni Koroi is nominated for NZ Sevens P
 featured-image: 
 excerpt: "Expat Whanganui player Vilimoni Koroi is nominated for NZ Sevens Player of the Year, while his Commonwealth Games gold medal winning side is nominated for NZ Team of the Year."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Expat Whanganui player Vilimoni Koroi is nominated for NZ Sevens Player of the Year, while his Commonwealth Games gold medal winning side is nominated for NZ Team of the Year.</strong></p>

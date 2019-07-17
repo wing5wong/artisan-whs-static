@@ -5,11 +5,11 @@ description: "New purpose-built premises in Springvale for Kip McGrath Education
 featured-image: 
 excerpt: "New purpose-built premises in Springvale for Kip McGrath Education Centre."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

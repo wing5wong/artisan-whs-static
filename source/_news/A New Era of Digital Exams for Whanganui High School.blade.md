@@ -5,11 +5,11 @@ description: "This puts Whanganui High School right at the cutting-edge of asses
 featured-image: 
 excerpt: "This puts Whanganui High School right at the cutting-edge of assessment readiness within New Zealand secondary schools."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Tēnā koutou,&nbsp;</p>

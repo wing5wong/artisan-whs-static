@@ -5,11 +5,11 @@ description: "Whanganui High School students Akshima Marwah, Sophie Maxey and Ro
 featured-image: 
 excerpt: "Whanganui High School students Akshima Marwah, Sophie Maxey and Rose Hird representing Nigeria."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui High School students Akshima Marwah, Sophie Maxey and Rose Hird representing Nigeria. <br />PHOTO / Stuart Munro</span></p>

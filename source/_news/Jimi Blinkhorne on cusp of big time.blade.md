@@ -5,11 +5,11 @@ description: "Whanganui teenager Jimi Blinkhorne was named MVP in the senior men
 featured-image: 
 excerpt: "Whanganui teenager Jimi Blinkhorne was named MVP in the senior men's division at the Australia Day Cup national club championships in Melbourne last week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui teenager Jimi Blinkhorne was named MVP in the senior men's division at the Australia Day Cup national club championships in Melbourne last week.</strong><br /><em>PHOTO / Lewis Gardner</em></p>

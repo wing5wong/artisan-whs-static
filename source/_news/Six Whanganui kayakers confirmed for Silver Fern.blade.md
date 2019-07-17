@@ -5,11 +5,11 @@ description: "Max Brown, left, & Toby Brooke, will be returning to World Champs 
 featured-image: 
 excerpt: "Max Brown, left, & Toby Brooke, will be returning to World Champs competition plus four other students from WHS."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Former students Max Brown, left, and Toby Brooke, will be returning to World Championships competition in July, plus four other students from Whanganui High School.</strong></p>

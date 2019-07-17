@@ -5,11 +5,11 @@ description: "Six out of the seven recipients of the Mitre 10 Mega Futures Champ
 featured-image: 
 excerpt: "Six out of the seven recipients of the Mitre 10 Mega Futures Champions Trust were WHS students."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Rebecca Scown, centre, and the recipients of the latest round of funding from the Mitre 10 Mega Futures Champions Trust, announced yesterday afternoon.<br /><em>PHOTO / Stuart Munro</em></p>

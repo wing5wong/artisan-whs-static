@@ -5,11 +5,11 @@ description: "WHS bands take out a podium finish at Rockquest on Saturday night.
 featured-image: 
 excerpt: "WHS bands take out a podium finish at Rockquest on Saturday night. 1st In Business, 2nd Ocean Loaf, 3rd Kiwi Juice; plus other awards include..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3>Whanganui High School band 'In Business' wins Rockquest!<br /><br /></h3>

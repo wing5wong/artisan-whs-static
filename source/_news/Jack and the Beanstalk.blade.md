@@ -5,11 +5,11 @@ description: "Jack & the Beanstalk opens on 15 December & features current/forme
 featured-image: 
 excerpt: "Jack and the Beanstalk opens on 15 December & features current/former WHS Students & Performing Arts staff on the production team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Looking for something to do in the holidays...</span></p>

@@ -5,11 +5,11 @@ description: "Whanganui's Seth Reardon, won the senior U450cc class at the Woodv
 featured-image: 
 excerpt: "Whanganui's Seth Reardon, won the senior U450cc class at the Woodville Motocross GP."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Former WHS student Seth Reardon, won the senior U450cc class at the Woodville Motocross GP.</strong></p>

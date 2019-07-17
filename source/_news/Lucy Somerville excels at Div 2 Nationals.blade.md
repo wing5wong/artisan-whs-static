@@ -5,11 +5,11 @@ description: "Lucy Somerville has achieved a full set (gold, silver and bronze) 
 featured-image: 
 excerpt: "Lucy Somerville has achieved a full set (gold, silver and bronze) of Swimming NZ medals at the Div 2 competition in Dunedin!.."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui Swim Team 14-year-old Lucy Somerville pushed the boundaries at the NZ Division 2 Championships in Dunedin.</strong></p>

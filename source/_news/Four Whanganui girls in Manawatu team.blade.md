@@ -5,11 +5,11 @@ description: "Paris Munro & Levani Pari have been named in the Manawatu rep girl
 featured-image: 
 excerpt: "WHS students Paris Munro & Levani Pari have been named in the Manawatu rep girls team to compete at the Aon U15 National Basketball Tournament in Auckland."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Paris Munro has won a spot in the Manawatu team alongside three fellow Whanganui girls to compete at the Aon National U15 Basketball Tournament in Auckland in July.</strong><br /><em>PHOTO / Stuart Munro</em></p>

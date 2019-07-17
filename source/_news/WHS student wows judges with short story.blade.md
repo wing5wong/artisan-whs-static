@@ -5,11 +5,11 @@ description: "A WHS student has impressed the judges with her creative mind in t
 featured-image: 
 excerpt: "A Whanganui High School student has impressed the judges with her creative mind in the New Zealand Secondary School Writing Competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

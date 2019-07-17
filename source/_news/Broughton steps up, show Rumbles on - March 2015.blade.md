@@ -5,11 +5,11 @@ description: "WRESTLE FEST: Wanganui's Sabin Hayward pulls Kapiti's Ryo Maeda ba
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WRESTLE FEST: Wanganui's Sabin Hayward pulls Kapiti's Ryo Maeda back enough to set up a knee strike in their modified Muay Thai fight at the River City Rumble on Saturday.</span></p>

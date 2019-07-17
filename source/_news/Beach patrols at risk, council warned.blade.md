@@ -5,11 +5,11 @@ description: "Unless funding for Whanganui's surf lifeguards is increased they w
 featured-image: 
 excerpt: "Unless funding for Whanganui's surf lifeguards is increased they will have to leave beaches unguarded and swimmers in danger on more days next summer, Matthew Newell says."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/U-Tx7upTTwlsTiJh2vVyWG-PEoQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/ZVZQ3RAVM5G2JIOKWVI6RQSHF4.jpg" alt="Lifeguard Matthew Newell was to the fore when the Kai Iwi surf lifeguard watchtower opened in 2017. Photo / File" /></p>

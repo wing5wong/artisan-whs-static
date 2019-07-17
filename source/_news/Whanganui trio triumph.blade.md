@@ -5,11 +5,11 @@ description: "Lucas Thompson (left), Jack Clifton & Liam Lace bring home gold, s
 featured-image: 
 excerpt: "Whanganui paddlers Lucas Thompson (left), Jack Clifton & Liam Lace bring home gold, silver & bronze for NZ from the Canoe Sprint Oceania Championships & Grand Prix 2 in Sydney."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a8649b5b8d39a42a4000762/boys-win-gold-chron.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a8649b5b8d39a42a4000762/boys-win-gold-chron.jpg"
+    
+    
+    
+    
 ---
 
 <h3><strong>Whanganui paddlers Lucas Thompson (left), Jack Clifton and Liam Lace bring home gold, silver and bronze for New Zealand from the Canoe Sprint Oceania Championships and Grand Prix 2 in Sydney.</strong></h3>

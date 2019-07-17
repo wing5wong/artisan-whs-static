@@ -5,11 +5,11 @@ description: "Lyric Singers will present their mid-year concert, ‘Taking Fligh
 featured-image: 
 excerpt: "Lyric Singers will present their mid-year concert, ‘Taking Flight’ on Saturday, June 22 in Trinity Methodist Church."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/62605095_2317719054933746_2050397900843778048_n.jpg?_nc_cat=109&amp;_nc_eui2=AeHASAzXTIyElmEuiftuVWgite31f46u4EHMY0bN6utOWzLUWI-9ZgNtAeyHTRijrSbyijBbd7lxbWfVg7ncD8HFWLB09GYz3Qm0pyIfV65kSg&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=5eb52382926f1b0c4d7065325bd144f1&amp;oe=5D8574B8" alt="Image may contain: one or more people, people sitting and shoes" /></p>

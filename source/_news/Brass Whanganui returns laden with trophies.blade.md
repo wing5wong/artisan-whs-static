@@ -5,11 +5,11 @@ description: "Brass Whanganui returns laden with trophies; including our Sarah W
 featured-image: 
 excerpt: "Brass Whanganui returns laden with trophies; including our Sarah Wright; Junior cornet champion and second junior overall."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Brass Whanganui returns laden with trophies; including our Sarah Wright; Junior cornet champion and second junior overall!<br /><em></em></h4>

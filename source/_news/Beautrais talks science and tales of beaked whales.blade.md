@@ -5,11 +5,11 @@ description: "Keith Beautrais talks science and tales of beaked whales. Whanganu
 featured-image: 
 excerpt: "Keith Beautrais talks science and tales of beaked whales. Whanganui's connection to the mysterious beaked whale..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/Alh1I87Dmljpk_PWO-l2u8Ynoak=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/LQ2MSB3AFFHAFD6H3U4QK6XU7Y.jpg" alt="George Shepherd measures the skull of the Shepherd's Beaked Whale he discovered and reassembled from bones. Photo / Whanganui Regional Museum" /></p>

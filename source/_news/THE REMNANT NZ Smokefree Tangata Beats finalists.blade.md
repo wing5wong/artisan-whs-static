@@ -5,11 +5,11 @@ description: "CONGRATULATIONS to WHS band 'THE REMNANT' Cypress Kani-Hurinui, To
 featured-image: 
 excerpt: "CONGRATULATIONS to WHS band 'THE REMNANT' Cypress Kani-Hurinui, Toka Poa, Wiremu Rogan, Joshua Waitai, Chester Nevil."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><span>CONGRATULATIONS to WHS band 'THE REMNANT' Cypress Kani-Hurinui, Toka Poa, Wiremu Rogan, Joshua Waitai, Chester Nevil. </span></h3>

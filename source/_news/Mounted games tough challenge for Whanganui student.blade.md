@@ -5,11 +5,11 @@ description: "Rebecca Benge had to leave Cindy and Blitz behind and competed on 
 featured-image: 
 excerpt: "Rebecca Benge had to leave Cindy and Blitz behind and competed on a borrowed mount in Belgium."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Rebecca Benge had to leave Cindy and Blitz behind and competed on a borrowed mount in Belgium.</span><br /><em>Photo / Supplied</em></p>

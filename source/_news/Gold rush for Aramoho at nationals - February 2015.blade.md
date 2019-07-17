@@ -5,11 +5,11 @@ description: "The men's club coxed four medal winners consisting of, from left, 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The men's club coxed four medal winners consisting of, from left, Tom Monaghan, James Clark, Jack Hughes, Hugh Pawson and cox Ella Wilsher, with coach Ian Weenink.</p>

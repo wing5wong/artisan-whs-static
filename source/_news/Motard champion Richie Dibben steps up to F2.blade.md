@@ -5,11 +5,11 @@ description: "The Barracks crew, Richie Dibben left, Brian Bernard, Paul Blinkho
 featured-image: 
 excerpt: "The Barracks crew, Richie Dibben left, Brian Bernard, Paul Blinkhorne, Chris Dibben, Mick Paul & Logan Kenny are ready for battle."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The Barracks crew, Richie Dibben left, Brian Bernard, Paul Blinkhorne, Chris Dibben, Mick Paul and Logan Kenny are ready for battle.</p>

@@ -5,11 +5,11 @@ description: "BRIGHT SPARK: Wanganui electrical apprentice and former WHS studen
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>BRIGHT SPARK: Wanganui electrical apprentice and former WHS student Jamie Newell has won the regional heat in the annual Master's Electricians' Challenge.</span></p>

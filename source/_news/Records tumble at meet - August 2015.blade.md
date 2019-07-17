@@ -5,11 +5,11 @@ description: "SPEEDSTER: WHS student Elena Forlong is fourth fastest in the coun
 featured-image: 
 excerpt: "SPEEDSTER: WHS student Elena Forlong is fourth fastest in the country in the 100m butterfly."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>SPEEDSTER: WHS student Elena Forlong is fourth fastest in the country in the 100m butterfly.</p>

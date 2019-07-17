@@ -5,11 +5,11 @@ description: "Our 3x3 Boys Basketball team finished their tournament off on a hi
 featured-image: 
 excerpt: "Our 3x3 Boys Basketball team finished their tournament off on a high note today (23 March 2018) winning both their games."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ab960deff2a7c6bfc000fdb/better2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ab96129b8d39a7499001008/first-one.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ab9613eff2a7c6bfc000fdd/better3.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ab96152b8d39a749900100a/better4.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ab96181ff2a7c6bfc000fdf/team-photo.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ab960deff2a7c6bfc000fdb/better2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ab96129b8d39a7499001008/first-one.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ab9613eff2a7c6bfc000fdd/better3.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ab96152b8d39a749900100a/better4.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ab96181ff2a7c6bfc000fdf/team-photo.jpg"
 ---
 
 <p><span>Our 3x3 Boys Basketball team finished their tournament off on a high note today (23 March 2018) winning both their games.</span></p>

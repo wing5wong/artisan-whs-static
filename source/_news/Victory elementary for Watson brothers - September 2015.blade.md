@@ -5,11 +5,11 @@ description: "FLIPPING HECK: WHS student Keightley Watson drops his opponent dur
 featured-image: 
 excerpt: "FLIPPING HECK: WHS student Keightley Watson drops his opponent during his complete dominance of the senior boys 66kg and over grade."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>FLIPPING HECK: WHS student&nbsp;Keightley Watson drops his opponent during his complete dominance of the senior boys 66kg and over grade.</span></p>

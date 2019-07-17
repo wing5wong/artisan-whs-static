@@ -5,11 +5,11 @@ description: "Historic NZSS's Cross Country being a happy hunting ground for Wha
 featured-image: 
 excerpt: "Historic NZSS's Cross Country being a happy hunting ground for Whanganui athletes, including Nat Kirk & his WHS athletics coach Greg Fromont."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><span>Historic NZ Seconadary Schools Cross Country being a happy hunting ground for Whanganui athletes.</span><br />Photo: Nat Kirk and his WHS athletics coach Greg Fromont at the NZSS Cross Country champs in Taupo.&nbsp;</span><br /><em>Photo / Supplied</em></p>

@@ -5,11 +5,11 @@ description: "Former WHS old boy, Charles Quirk with the wahaika awarded to him 
 featured-image: 
 excerpt: "Former WHS old boy, Charles Quirk with the wahaika awarded to him by No 9 Squadron Support Committee."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/A5PqLmKM1T8PFQk0PsXXQEYZe0g=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/4NPP6BOWT5BQLLAYMIS67XOLAM.jpg" alt="Charles Quirk with the wahaika awarded to him by No 9 Squadron Support Committee. PICTURE / SUPPLIED" /></p>

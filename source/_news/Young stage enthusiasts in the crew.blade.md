@@ -5,11 +5,11 @@ description: "Former WHS student Reid Tucker (left) & Jamie O'Hagan are assistin
 featured-image: 
 excerpt: "Former WHS student Reid Tucker (left) & Jamie O'Hagan are two young men assisting with the production of Repertory Theatre's next offering Ringing the Changes."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former WHS student Reid Tucker (left) and&nbsp;<span>Jamie O'Hagan are two young men assisting with the production of Repertory Theatre's next offering&nbsp;</span><em>Ringing the Changes</em><span>.</span><br />PHOTO / Ashleigh Morris</p>

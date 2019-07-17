@@ -5,11 +5,11 @@ description: "Collegiate's Henry Kilmister (left), WHS' Jordan Candish and Unite
 featured-image: 
 excerpt: "Collegiate's Henry Kilmister (left), WHS' Jordan Candish and United's Freddie Wilson align to launch the new Wanganui Chronicle Secondary School Cup tournament."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Collegiate's Henry Kilmister (left), <strong>WHS' Jordan Candish</strong> and United's Freddie Wilson align to launch the new Wanganui Chronicle Secondary School Cup tournament at Victoria Park on Wednesday.</span><br />PHOTO / Stuart Munro.</p>

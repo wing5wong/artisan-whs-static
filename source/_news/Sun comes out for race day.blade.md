@@ -5,11 +5,11 @@ description: "Former WHS student Millie Prince was selling t-shirts the Cemetery
 featured-image: 
 excerpt: "Former WHS student Millie Prince was selling t-shirts the Cemetery Circuit merchandise tent."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c35bce8ff2a7c1853000427/group-of-kids-cem-circuit-chron-27-dec.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c35bce8ff2a7c1853000427/group-of-kids-cem-circuit-chron-27-dec.jpg"
+    
+    
+    
+    
 ---
 
 <p><span>Former WHS student Millie Prince was selling t-shirts the Cemetery Circuit merchandise tent. <br /><em>PHOTO / Zaryd Wilson</em></span></p>

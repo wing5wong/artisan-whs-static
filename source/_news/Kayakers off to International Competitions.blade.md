@@ -5,11 +5,11 @@ description: "WHS students Jack Clifton, Lucas Thompson and Sophie Brooke all of
 featured-image: 
 excerpt: "WHS students Jack Clifton, Lucas Thompson and Sophie Brooke all off overseas to represent New Zealand."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/57064260_2215299671842352_4088376701887709184_n.jpg?_nc_cat=102&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=063dc5628b5577ba4001f347c57149f5&amp;oe=5D2B2F74" alt="Image may contain: 3 people, people smiling, people standing, sky, outdoor and nature" /></span></h4>

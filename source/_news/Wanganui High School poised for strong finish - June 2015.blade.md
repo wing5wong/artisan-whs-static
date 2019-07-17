@@ -5,11 +5,11 @@ description: "The Wanganui High School 1st XV is poised for a strong finish in t
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The Wanganui High School 1st XV is poised for a strong finish in the Manawatu Club Rugby Colts competition after winning its last away game for the season at the weekend.</p>

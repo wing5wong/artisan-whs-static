@@ -5,11 +5,11 @@ description: "Six Whanganui school leavers, including former WHS student Mikal T
 featured-image: 
 excerpt: "Six Whanganui school leavers, including former Whanganui High School student Mikal Terrey, are ready for their work journey and they've got the passport to prove it."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">Six Whanganui school leavers, including former Whanganui High School student Mikal Terrey, are ready for their work journey and they've got the passport to prove it.</p>

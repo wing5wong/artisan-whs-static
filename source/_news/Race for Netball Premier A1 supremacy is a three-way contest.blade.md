@@ -5,11 +5,11 @@ description: "As the Netball Whanganui Premier A1 Championship season winds down
 featured-image: 
 excerpt: "As the Netball Whanganui Premier A1 Championship season winds down to the pointy end the race for supremacy is shaping up as a three-way contest."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://www.goldsmithssu.org/asset/Organisation/6447/netball-logo.png?thumbnail_width=300&amp;thumbnail_height=300&amp;resize_type=CropToFit" alt="Image result for netball image" /></p>

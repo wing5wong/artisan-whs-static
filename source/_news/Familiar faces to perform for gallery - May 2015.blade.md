@@ -5,11 +5,11 @@ description: "Familiar faces to perform for gallery, former student Liam Wooding
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>A local soprano and pianist are teaming up for the latest concert in the Musicians For The Sarjeant series.</p>

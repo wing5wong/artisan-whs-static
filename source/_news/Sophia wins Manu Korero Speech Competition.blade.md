@@ -5,11 +5,11 @@ description: "SOPHIA 'UNGA-CRIBB - WINNNER of the Junior English section for Man
 featured-image: 
 excerpt: "SOPHIA 'UNGA-CRIBB - WINNNER of the Junior English section for Manu Korero Nationals 2018."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9cab9ff2a7c130900003a/logo.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9c68aff2a7c1309000030/Sophia-on-Stage-(002).jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9c697ff2a7c1309000032/Sophia-Unga-Cribb-jnr-award.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9c6d0ff2a7c1309000036/photo-of-Sophia-Unga-Cribb--others.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9c67bff2a7c130900002e/Sophia-and-the-Kids.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9cab9ff2a7c130900003a/logo.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9c68aff2a7c1309000030/Sophia-on-Stage-(002).jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9c697ff2a7c1309000032/Sophia-Unga-Cribb-jnr-award.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9c6d0ff2a7c1309000036/photo-of-Sophia-Unga-Cribb--others.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9c67bff2a7c130900002e/Sophia-and-the-Kids.jpg"
 ---
 
 <h4>SOPHIA 'UNGA-CRIBB<br />WINNNER - Junior English section for Manu Korero Nationals 2018.</h4>

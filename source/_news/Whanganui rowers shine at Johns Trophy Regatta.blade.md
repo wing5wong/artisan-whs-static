@@ -5,11 +5,11 @@ description: "The Aramoho Whanganui Rowing Club squad that competed at the Johns
 featured-image: 
 excerpt: "The Aramoho Whanganui Rowing Club squad, the majority being WHS students, that competed at the Johns Trophy Regatta in Waitara at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The Aramoho Whanganui Rowing Club squad, the majority being WHS students, that competed at the Johns Trophy Regatta in Waitara at the weekend.</span></p>

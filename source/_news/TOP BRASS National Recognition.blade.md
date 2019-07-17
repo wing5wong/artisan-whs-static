@@ -5,11 +5,11 @@ description: "Young musicians Ethan Mancer & Sarah Wright have been selected for
 featured-image: 
 excerpt: "Young musicians Ethan Mancer & Sarah Wright have been selected for National Youth Brass Band of NZ..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3 class="element element-paragraph">Young Whanganui musicians Ethan Mancer and Sarah Wright have been selected for both the National Youth Brass Band and the National Secondary Schools' Brass Band.</h3>

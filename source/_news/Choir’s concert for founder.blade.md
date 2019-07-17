@@ -5,11 +5,11 @@ description: "Lynn Whiteside (left), musical director & conductor of Wanganui Co
 featured-image: 
 excerpt: "Lynn Whiteside (left), musical director and conductor of Wanganui Community Choir with pianist Abby Livesay."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Lynn Whiteside (left), musical director and conductor of Wanganui Community Choir with pianist and former WHS student Abby Livesay.</span><br /><em>PHOTO / Supplied</em></p>

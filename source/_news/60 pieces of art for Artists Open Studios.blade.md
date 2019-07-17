@@ -5,11 +5,11 @@ description: "Judy Webby, ex-head of Art at WHS with one of her paintings at Coo
 featured-image: 
 excerpt: "Judy Webby, ex-head of Art at WHS with one of her paintings at Cooks Gallery."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui Art Society has 60 pieces of art for Artists Open Studios.</p>

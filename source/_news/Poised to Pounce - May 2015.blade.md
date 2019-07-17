@@ -5,11 +5,11 @@ description: "POISED TO POUNCE: Rebecca Baker (green, left), WHS runner, stalks 
 featured-image: 
 excerpt: "POISED TO POUNCE: Rebecca Baker (green, left), Wanganui High School runner, stalks the early leaders before clearing out to win the Year 9 Girls' event in Waiouru..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>POISED TO POUNCE: Rebecca Baker (green, left), Wanganui High School runner, stalks the early leaders before clearing out to win the Year 9 Girls' event in Waiouru last week.</p>

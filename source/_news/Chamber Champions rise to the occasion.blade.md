@@ -5,11 +5,11 @@ description: "WHS emsembles WON eight out of the twelve awards at the Chamber Mu
 featured-image: 
 excerpt: "WHS emsembles WON eight out of the twelve awards at the Chamber Music Contest on Friday 8 June at the Prince Edward Auditorium."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>A record number of twelve entries from Whanganui High School (there were thirty entries from the Whanganui District altogether) performed at the 2018 District Rounds of the NZCT&nbsp;<strong>Chamber Music Contest&nbsp;</strong><span>on Friday 8 June at the Prince Edward Auditorium, Wanganui Collegiate School.</span></strong></p>

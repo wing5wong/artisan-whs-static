@@ -5,11 +5,11 @@ description: "Whanganui paddler Toby Brooke, right, finished third overall in th
 featured-image: 
 excerpt: "Whanganui paddler Toby Brooke, right, finished third overall behind winner Andy Mowlem and Sam Mayhew in the Vaikobi King and Queen of the Harbour ocean race in Auckland at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span><strong><img src="https://www.nzherald.co.nz/resizer/Z3_bY3bOK6g5DIB-AC2Y0XM2Lfs=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/L3MCZI32MJHFND4VHDFV4OK6K4.jpg" alt="Whanganui paddler Toby Brooke, right, finished third overall behind winner Andy Mowlem and Sam Mayhew in the Vaikobi King and Queen of the Harbour ocean race in Auckland at the weekend." /></strong></span></h4>

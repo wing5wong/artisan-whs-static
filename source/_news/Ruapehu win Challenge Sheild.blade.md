@@ -5,11 +5,11 @@ description: "McCarthy's Transport Ruapehu 34-27 victory over Dave Hoskin Carrie
 featured-image: 
 excerpt: "McCarthy's Transport Ruapehu 34-27 victory over Dave Hoskin Carriers Marist at Ohakune's Rochfort Park."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/JCtpDvj5Uq4gNw2ckGLEn9MhfMs=/620x465/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/HGTRES372RBFTMVOWG2PTZXD34.jpg" alt="" /><br /><em>Photos / File</em></p>

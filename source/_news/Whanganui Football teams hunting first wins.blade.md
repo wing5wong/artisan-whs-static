@@ -5,11 +5,11 @@ description: "Anthony Bell in action against North End at Wembley Park last year
 featured-image: 
 excerpt: "Anthony Bell in action against North End at Wembley Park last year. Bell says City are aiming to make the park a fortress when they take on Hokowhitu FC there this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/KEhMkqBoKzDh8IuZ9pZV1gNzSrc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/SEP5Y2NC45GAPHOC2QB6AGGLJA.jpg" alt="Anthony Bell in action against North End at Wembley Park last year. Bell says City are aiming to make the park a fortress when they take on Hokowhitu FC there this weekend. Photo / Bevan Conley" /></p>

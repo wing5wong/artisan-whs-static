@@ -5,11 +5,11 @@ description: "Whanganui teenager James Rountree wins Summer Cross junior title i
 featured-image: 
 excerpt: "Whanganui teenager James Rountree wins Summer Cross junior title in Whakatane."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Whanganui teenager James Rountree wins Summer Cross junior title in Whakatane.</h4>

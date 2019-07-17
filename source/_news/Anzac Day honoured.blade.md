@@ -5,11 +5,11 @@ description: "Major Tim Easton was guest speaker from the NZ Army 5/7 RNZIR at a
 featured-image: 
 excerpt: "Major Tim Easton was guest speaker from the NZ Army 5/7 RNZIR at an assembly to honour the Anzacs."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=z1u2x8wJ2ftUESR1L8C%2bmA%3d%3d" alt="" />&nbsp;</p>

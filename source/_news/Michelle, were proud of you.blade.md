@@ -5,11 +5,11 @@ description: "Constable Michelle Evans donned a black scarf on her head whilst s
 featured-image: 
 excerpt: "Constable Michelle Evans donned a black scarf on her head whilst standing guard outside the Christchurch Memorial Park Cemetery on Friday, a week after the mosque shootings."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p data-bind="text: $data"><img src="https://i.prcdn.co/img?regionKey=5fgOA%2bp3tULEa%2fipxwF54Q%3d%3d" alt="" /></p>

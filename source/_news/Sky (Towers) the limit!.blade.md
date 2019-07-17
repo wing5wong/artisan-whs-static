@@ -5,11 +5,11 @@ description: "Britney Walsh & Caitlyn Butlin won BRONZE at the National Secondar
 featured-image: 
 excerpt: "Britney Walsh and Caitlyn Butlin last week represented Whanganui & Taranaki at the National Secondary School’s Culinary Challenge winning BRONZE!"
 image_gallery:
-	 - image: "/uploads/5b984e22ff2a7c29650002d2/DSC03417.JPG"
-	 - image: "/uploads/5b984e22ff2a7c29650002d3/DSC03420.JPG"
-	 - image: "/uploads/5b984e22ff2a7c29650002d4/DSC03421.JPG"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b987ca8ff2a7c29650002e9/41199951_2201702209872102_5554235656894414848_n.jpg"
-	 - image: "/uploads/5b984e90ff2a7c29650002de/DSC03428.JPG"
+     - image: "/uploads/5b984e22ff2a7c29650002d2/DSC03417.JPG"
+     - image: "/uploads/5b984e22ff2a7c29650002d3/DSC03420.JPG"
+     - image: "/uploads/5b984e22ff2a7c29650002d4/DSC03421.JPG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b987ca8ff2a7c29650002e9/41199951_2201702209872102_5554235656894414848_n.jpg"
+     - image: "/uploads/5b984e90ff2a7c29650002de/DSC03428.JPG"
 ---
 
 <h3>Britney Walsh (right) and Caitlyn Butlin represented Whanganui and Taranaki on 4 September at the National Secondary School&rsquo;s Culinary Challenge winning BRONZE!</h3>

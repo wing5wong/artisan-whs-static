@@ -5,11 +5,11 @@ description: "Four former WHS students have been selected to represent NZ Touch 
 featured-image: 
 excerpt: "Four former WHS students have been selected to represent New Zealand Touch Rugby teams."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Photo: Mitchell Millar and Ruhia Tamati at the Youth Trans Tasman series in 2017.</strong></p>

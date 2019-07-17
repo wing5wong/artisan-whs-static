@@ -5,11 +5,11 @@ description: "Hello Mrs Su'a, I wanted to thank you again for the great time I h
 featured-image: 
 excerpt: "Hello Mrs Su'a, I wanted to thank you again for the great time I had at Whanganui High School."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/60987782_2218102974905535_1831301732060102656_n.jpg?_nc_cat=111&amp;_nc_eui2=AeF2bBCNiHInWK8YSw0eAWhn8LMyTF5nJYsEVCbLLjrAEybO_6xoTuA_9CCNiYT77P5yJmw1fY1KNz3pRz9Ml9OCO8fhtAElkJJ3xcaHR_DyXQ&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=2f14c8f6655d1331d4f6f34c60dfeff1&amp;oe=5D5B5099" alt="Image may contain: one or more people, child, outdoor, water and nature" /></p>

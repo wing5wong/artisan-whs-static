@@ -5,11 +5,11 @@ description: "Whanganui teenager Caleb Gilmore (27) leads the tight pack of Gixx
 featured-image: 
 excerpt: "Whanganui teenager Caleb Gilmore (27) leads the tight pack of Gixxer riders at Manfeild at the weekend with fellow Whanganui racer Cameron Goldfinch (28) in close pursuit."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><img src="https://www.nzherald.co.nz/resizer/ZFWUN4N1gxrhnS2XqxjwP0XGjcQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/Z362WOBACJAZXIJLLR6DAFP2AY.jpg" alt="Whanganui teenager Caleb Gilmore (27) leads the tight pack of Gixxer riders at Manfeild at the weekend with fellow Whanganui racer Cameron Goldfinch (28) in close pursuit. Photo / Andy McGechan, BikesportNZ.com" /></span></p>

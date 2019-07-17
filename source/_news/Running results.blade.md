@@ -5,11 +5,11 @@ description: "Running the road mile are J Payne, Nat Kirk & Karl Loebe (both WHS
 featured-image: 
 excerpt: "Running the road mile are Josh Payne, Nat Kirk & Karl Loebe (both WHS students), Ben Conder, Chris Lines & former WHS student Luke Watts."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Running the road mile are Josh Payne, Nat Kirk and Karl Loebe (both WHS students), Ben Conder, Chris Lines and former WHS student Luke Watts.<br />PHOTO / Tanysha-Rochelle Jones.</p>

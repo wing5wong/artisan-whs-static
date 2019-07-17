@@ -5,11 +5,11 @@ description: "Champion Whanganui Judoka Keightley Watson returns from Holland nu
 featured-image: 
 excerpt: "Champion Whanganui judoka Keightley Watson returns from Holland nursing a leg injury."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>INJURED LIST:&nbsp;&nbsp;<span>Champion Whanganui judoka Keightley Watson returns from Holland nursing a leg injury.</span><br /><em>Photo / Supplied</em></p>

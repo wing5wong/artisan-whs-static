@@ -5,11 +5,11 @@ description: "Whanganui High School houses collected two car loads of cans and t
 featured-image: 
 excerpt: "Whanganui High School houses collected two car loads of cans and toiletries for Women's Refuge Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/XvSbV2qjIER4E-OiWc2J6a_ljmc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/O46ZCTY22JDHFDXENKK7CAVW2U.jpg" alt="Whanganui High School houses collected two car loads of cans and toiletries for Women's Refuge Whanganui. Photo / Bevan Conley" /></p>

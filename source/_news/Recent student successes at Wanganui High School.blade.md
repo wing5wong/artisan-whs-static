@@ -5,11 +5,11 @@ description: "Recent student successes at Wanganui High School, by Principal Mr 
 featured-image: 
 excerpt: "Recent student successes at Wanganui High School, by Principal Mr Garry Olver, article in the River City Press on 3/9/15..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="Body"><strong>WHS choir competed in the International Choral Festival in Sydney and received silver medals.</strong></p>

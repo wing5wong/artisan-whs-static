@@ -5,11 +5,11 @@ description: "Whanganui High School students Nicholas Spence (left) and Ben Walk
 featured-image: 
 excerpt: "Whanganui High School students Nicholas Spence (left) and Ben Walkley made a stand against bullying."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui High School students Nicholas Spence (left) and Ben Walkley made a stand against bullying.</strong><br />Photo / Supplied</p>

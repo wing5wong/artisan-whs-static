@@ -5,11 +5,11 @@ description: "WHS support Anti-Bullying Week 14-18 May and Pink Shirt Day on 18 
 featured-image: 
 excerpt: "WHS support Anti-Bullying Week 14-18 May and Pink Shirt Day on 18 May."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Whanganui High School support Anti-Bullying Week and Pink Shirt Day.</h4>

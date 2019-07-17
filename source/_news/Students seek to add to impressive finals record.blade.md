@@ -5,11 +5,11 @@ description: "The long-term dominance of two teams continues after the finalists
 featured-image: 
 excerpt: "The long-term dominance of two teams continues after the finalists for the Wanganui Premier One Netball Championship emerged on Monday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The long-term dominance of two teams continues after the finalists for the Wanganui Premier One Netball Championship emerged on Monday night.</p>

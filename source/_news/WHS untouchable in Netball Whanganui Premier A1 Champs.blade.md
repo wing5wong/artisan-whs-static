@@ -5,11 +5,11 @@ description: "Philips Electrical Whanganui High School A1 continued to frustrate
 featured-image: 
 excerpt: "Philips Electrical Whanganui High School A1 continued to frustrate rivals on Monday night, beating Kaierau A2 64-42 in the..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/66373314_2292090267506805_3076327435940134912_n.jpg?_nc_cat=106&amp;_nc_eui2=AeGBDztBY6W_Ls1MzHpPlnWsiF7FZ-DekhklBI8aKB3IZFxiGYOKAtPrj1Sq6j8iwjuZ40ZvfXibiEcAL5_HInPNfc2wJrcZ-zJQn5Kh6tVUcA&amp;_nc_oc=AQm_DdVl1_MSW7BZ5UylZNHXA4flY1_jC8TC00VC4GMTLQn9PsKi8j2_IgofmzaJQL8&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=19abeaedad6dc2412ed155311443919e&amp;oe=5DB7796D" alt="Image may contain: 4 people, people smiling, people playing sports and basketball court" /></p>

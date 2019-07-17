@@ -5,11 +5,11 @@ description: "Talented Whanganui athlete Liam Jones sprints hard at the end of h
 featured-image: 
 excerpt: "Talented Whanganui athlete Liam Jones sprints hard at the end of his victorious marathon debut in Wellington."
 image_gallery:
-	 - image: "/uploads/5b3d6982b8d39a412900012c/liam-and-peter-jones.PNG"
-	
-	
-	
-	
+     - image: "/uploads/5b3d6982b8d39a412900012c/liam-and-peter-jones.PNG"
+    
+    
+    
+    
 ---
 
 <p><strong>Talented Whanganui athlete Liam Jones (former WHS student) sprints hard at the end of his victorious marathon debut in Wellington at the weekend.<br /></strong><em>PHOTOS / Tanysha-Rochelle Jones</em></p>

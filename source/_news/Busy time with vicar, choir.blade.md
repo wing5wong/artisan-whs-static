@@ -5,11 +5,11 @@ description: "Director Chris McKenzie can take a bow, as can the actors and ever
 featured-image: 
 excerpt: "Director Chris McKenzie can take a bow, as can the actors and everyone who helped present The Vicar of Dibley. It was a riot and so very true to the TV series."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65050816_2268429446539554_7983451683290087424_n.jpg?_nc_cat=109&amp;_nc_oc=AQkvtZPHYv78vhKOJabwXCdXGcB5kcNm47gMo5TRsx_544BHusEIiTUi4RJhUXMe7qU&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=32756d7d4f762a6da0a8c9693977538d&amp;oe=5D844FFD" alt="Image may contain: 8 people, people smiling, people standing" /></p>

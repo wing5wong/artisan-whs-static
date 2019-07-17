@@ -5,11 +5,11 @@ description: "Young Artist Scholarship 2018 winner Lily Claypole will hold her f
 featured-image: 
 excerpt: "Young Artist Scholarship 2018 winner Lily Claypole will hold her first solo exhibition in June 2019."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/3KxHKjcw_BjwOLLWzZ3AQKAThII=/620x620/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/2RU2HWCC6RESBN3RBZGKRA4FCQ.jpg" alt="Young Artist Scholarship 2018 winner Lily Claypole will hold her first solo exhibition in June. Photo/Liz Wylie" /></p>

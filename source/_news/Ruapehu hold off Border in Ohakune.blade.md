@@ -5,11 +5,11 @@ description: "Millar, who had a 21st birthday to celebrate, converted the tries 
 featured-image: 
 excerpt: "Millar, who had a 21st birthday to celebrate, converted the tries plus added another penalty to put his team in the catbird seat at 27-3."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/cp5J3HQ3asXlGqqxeuV9XFznxig=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/G534WDH4RJHERAB73H275B25QI.jpg" alt="Ruapehu's Troy Brown holds his former midfield partner and current Border first-five Craig Clare, who still offloads at Rochfort Park." /></p>

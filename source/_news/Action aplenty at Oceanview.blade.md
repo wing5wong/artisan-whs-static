@@ -5,11 +5,11 @@ description: "The salvage crew prepares to remove Mark Johnston's rolled car fro
 featured-image: 
 excerpt: "The salvage crew prepares to remove Mark Johnston's rolled car from the track after a third heat incident."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The salvage crew prepares to remove Mark Johnston's rolled car from the track after a third heat incident.<br /><em>PHOTO by Stockcarscene.</em></p>

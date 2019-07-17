@@ -5,11 +5,11 @@ description: "Development officer Eneliko Fa'atau has been recruiting players, w
 featured-image: 
 excerpt: "Development officer Eneliko Fa'atau has been recruiting players, while the keystone is the return home of Sosoli Talawadua."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/Fa0galrnOe7sbTE3UTx9F2tbhzU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/XXXKAVXZXRBLXMAAZDT3FXEPIU.jpg" alt="Wanganui Rugby is looking to grow the women's game in the province with initiatives like the module game held at Cooks Gardens on Saturday." /></p>

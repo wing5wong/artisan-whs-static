@@ -5,11 +5,11 @@ description: "Liam Lace (left), Lucas Thompson, Jack Clifton & Sophie Brooke to 
 featured-image: 
 excerpt: "Whanganui paddlers Liam Lace (left), Lucas Thompson, Jack Clifton & Sophie Brooke are primed to impress in the Kiwi junior team at the Asia Pacific Sprint Kayak Regatta in Adelaide this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Whanganui paddlers Liam Lace (left), Lucas Thompson, Jack Clifton and Sophie Brooke, all students from Whanganui High School, are primed to impress in the Kiwi junior team at the Asia Pacific Sprint Kayak Regatta in Adelaide this weekend.</h4>

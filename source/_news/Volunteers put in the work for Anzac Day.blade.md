@@ -5,11 +5,11 @@ description: "Air Training Corps cadet & WHS student Georgia Hiscotte, helped la
 featured-image: 
 excerpt: "Air Training Corps cadet & WHS student Georgia Hiscotte, who helped lay poppies on gravestones says volunteering for Anzac Day is all about being grateful for the service of those who went to war."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/1shnKyq7r639i1J1fxiRIXVqKFo=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/7L6QBWM2HVHJPDHWFBXIQMSZLM.jpg" alt="Paul Hiscotte and Air Training Corps cadet Georgia Hiscotte helped lay poppies on gravestones. Photos/ Lewis Gardner" /></p>

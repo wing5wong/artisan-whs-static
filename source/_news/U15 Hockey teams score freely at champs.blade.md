@@ -5,11 +5,11 @@ description: "With seven goals in two games, Blake Hoskin is top scorer for the 
 featured-image: 
 excerpt: "With seven goals in two games, Blake Hoskin is top scorer for the Whanganui boys at their National U15 Hockey championships in Dunedin."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bb5a9a5ff2a7c68e50000da/U15-champs-girls-team-chron-3-oct.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bb5a9a5ff2a7c68e50000da/U15-champs-girls-team-chron-3-oct.jpg"
+    
+    
+    
+    
 ---
 
 <p><span>With seven goals in two games, <strong>Blake Hoskin</strong> is top scorer for the Whanganui boys at their National U15 Hockey championships in Dunedin. <br /><em>PHOTO / Cindy Hoskin</em></span></p>

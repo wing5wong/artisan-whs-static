@@ -5,11 +5,11 @@ description: "Meningitis fundraiser is Chloe's voice. Family raise $4000 in memo
 featured-image: 
 excerpt: "Meningitis fundraiser is Chloe's voice. Family raise $4000 in memory of her."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/QKP_xv4RE-lQgtJqu-6pd_0B23w=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/4MEXVULGBNFZPPMABZIPU34SMA.jpg" alt="Tarsha Boniface and her daughter Chloe who passed away last year. Photo / Supplied" /></p>

@@ -5,11 +5,11 @@ description: "Quick Time: Laura O'Keeffe finished second in the New Zealand open
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>QUICK TIME: &nbsp;Laura O'Keeffe finished second in the New Zealand open water swim champs 16 and 17 year-olds 10km race.</p>

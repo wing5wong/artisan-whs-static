@@ -5,11 +5,11 @@ description: "Wanganui High School had 10 teams away for Secondary School Tourna
 featured-image: 
 excerpt: "Wanganui High School had 10 teams away for Secondary School Tournament Week throughout New Zealand."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui High School had 10 teams away for Secondary School Tournament Week throughout New Zealand. The teams played some great games and enjoyed the experience of being at a week long&nbsp;tournament. WHS would also like to say a big thank you to all the staff and parent coaches and managers that go away with our teams. Without your support this would not be possible.&nbsp;</p>

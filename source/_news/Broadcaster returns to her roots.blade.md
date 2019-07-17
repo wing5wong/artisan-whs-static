@@ -5,11 +5,11 @@ description: "Whanganui returnee & former student Nicky Rennie will soon celebra
 featured-image: 
 excerpt: "Whanganui returnee & former student Nicky Rennie will soon celebrate 30 years in broadcasting."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>ON AIR: Whanganui returnee Nicky Rennie will soon celebrate 30 years in broadcasting. <br /><em>PHOTO / Supplied</em></span></p>

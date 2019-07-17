@@ -5,11 +5,11 @@ description: "WHS Outdoor Education teacher, Mr Barnett - 2nd in his age group a
 featured-image: 
 excerpt: "Whanganui High School Outdoor Education teacher, Mr Barnett - 2nd in his age group at the Half Ironman in Taupo on Saturday 8 December!"
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c0dc84bff2a7c39a8001130/BJ-image-of-ironman-taupo.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c0dcb03ff2a7c39a8001132/BJ-love-taupo-sign.jpg"
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c0dc84bff2a7c39a8001130/BJ-image-of-ironman-taupo.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c0dcb03ff2a7c39a8001132/BJ-love-taupo-sign.jpg"
+    
+    
+    
 ---
 
 <h3>Whanganui High School Outdoor Education teacher, Mr Barnett - 2nd in his age group at the 2018 IRONMAN 70.3 Taupo on Saturday 8 December!</h3>

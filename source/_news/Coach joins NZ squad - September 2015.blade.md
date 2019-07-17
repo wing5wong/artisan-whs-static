@@ -5,11 +5,11 @@ description: "WHS student Jimi Blinkhorne chosen to represent NZ in the U14 Tran
 featured-image: 
 excerpt: "WHS student Jimi Blinkhorne chosen to represent NZ in the U14 Trans Tasman Roller Hockey tournament in Dandenong, Melbourne on 1st & 2nd August, Wanganui Midweek article on 26 August..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>BACK ROW, FROM LEFT: &nbsp;Mitchell Lockett , Eli Zinsli, Jimi Blinkhorne, Cody Lockett. &nbsp;FRONT ROW: Ricky Wilkinson (left), Paige Teki-Langford.</p>

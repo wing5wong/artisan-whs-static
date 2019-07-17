@@ -5,11 +5,11 @@ description: "James Rountree came 10th and 13th in his divisions at the Australi
 featured-image: 
 excerpt: "James Rountree came 10th and 13th in his divisions at the Australian Junior Championships."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>James Rountree came 10th and 13th in his divisions at the Australian Junior Championships.<br /></strong><em>Photo / Supplied</em></p>

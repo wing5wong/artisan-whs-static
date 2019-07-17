@@ -5,11 +5,11 @@ description: "Thousands of rowers will line up for hundreds of races in the NZSS
 featured-image: 
 excerpt: "Thousands of rowers will line up for hundreds of races this week in the NZ Secondary School Rowing Champs and the Maadi Cup."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>BEST OF THE BEST: Thousands of rowers will line up for hundreds of races this week in the NZ Secondary School Rowing Champs and the Maadi Cup.<br /><em>PHOTO / File</em></span></p>

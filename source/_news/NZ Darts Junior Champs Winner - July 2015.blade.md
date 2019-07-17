@@ -5,11 +5,11 @@ description: "Congratulations to Sam Luff (left) of WHS winning 3 medals at the 
 featured-image: 
 excerpt: "Congratulations to Sam Luff (left) of WHS winning 3 medals at the NZ Darts Council Junior/Youth Championship which was held at the Wainuiomata Darts Association on 12-14 July 2015."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span style="line-height: 1.5;">Well done to WHS student Sam Luff (left) who bought home 3 medals from the NZ Junior/Youth Darts Nationals in the school holidays (12-14 July 2015) at Wainuiomata.&nbsp;</span></p>

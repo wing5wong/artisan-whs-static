@@ -5,11 +5,11 @@ description: "Young People helped by Rotary North Sponsorship Programme - includ
 featured-image: 
 excerpt: "Young People helped by Rotary North Sponsorship Programme - including WHS students Lucas, Leticia, Sophie & Madalyn..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <div id="id_5cf868d089e7a8933133850" class="text_exposed_root text_exposed">

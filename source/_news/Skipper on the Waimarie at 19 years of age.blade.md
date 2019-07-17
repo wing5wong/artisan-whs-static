@@ -5,11 +5,11 @@ description: "If you have been on the PS Waimarie recently you might have notice
 featured-image: 
 excerpt: "If you have been on the PS Waimarie recently you might have noticed a new, young skipper. It is Ronan Marshall, age 19!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Ronan Marshall &ndash; Waimarie Skipper at 19!</h4>

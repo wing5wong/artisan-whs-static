@@ -5,11 +5,11 @@ description: "People's Choice winner Ioane Wairua-Pohe Takiari and Young Artist 
 featured-image: 
 excerpt: "People's Choice winner Ioane Wairua-Pohe Takiari and Young Artist Scholarship winner Lily Claypole."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bfcb8fcff2a7c39a8000d6f/Lily-Claypole-fine-arts-schol-winner-photo-Fine-Arts-WU-post.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bfcb944ff2a7c39a8000d71/Lily-Claypole-fine-arts-schol--mikayla-in-background-winner-photo-Fine-Arts-WU-post.jpg"
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bfcb8fcff2a7c39a8000d6f/Lily-Claypole-fine-arts-schol-winner-photo-Fine-Arts-WU-post.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bfcb944ff2a7c39a8000d71/Lily-Claypole-fine-arts-schol--mikayla-in-background-winner-photo-Fine-Arts-WU-post.jpg"
+    
+    
+    
 ---
 
 <p><span>People's Choice winner Ioane Wairua-Pohe Takiari and..</span></p>

@@ -5,11 +5,11 @@ description: "ROWING REUNION: Gus Pawson, now at the University of Auckland , he
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>ROWING REUNION: &nbsp;Gus Pawson, now at the University of Auckland (former WHS student), helping AWRC teammate Luke Watts with his single sculls boat at Cambridge on the weekend.</p>

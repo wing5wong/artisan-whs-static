@@ -5,11 +5,11 @@ description: "Harvey Burke, 10, is all smiles as he hangs out with officer Joel 
 featured-image: 
 excerpt: "Harvey Burke, 10, is all smiles as he hangs out with officer Joel Martin at the open day."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b2b3246ff2a7c6bfc002480/Joel-Martin-ex-Police-no-1.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b2b3265b8d39a74990024cb/Joel-Martin-ex-Police-no-2.gif"
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b2b3246ff2a7c6bfc002480/Joel-Martin-ex-Police-no-1.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b2b3265b8d39a74990024cb/Joel-Martin-ex-Police-no-2.gif"
+    
+    
+    
 ---
 
 <p>Photo: Harvey Burke, 10, is all smiles as he hangs out with officer Joel Martin at the open day.</p>

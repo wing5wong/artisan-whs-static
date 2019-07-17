@@ -5,11 +5,11 @@ description: "The boys were placed in a higher division than 2017, reflecting th
 featured-image: 
 excerpt: "The boys were placed in a higher division than 2017, reflecting their good performance the previous year."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5abc2be5b8d39a7499001169/29496566_953857844763322_8385916120657297408_n.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5abc2be5ff2a7c6bfc001135/29512723_953857858096654_1026612297457467392_n.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5abc2be5ff2a7c6bfc001134/29511869_953857831429990_2565648681915121664_n.jpg"
-	 - image: "/uploads/5abc2ad3b8d39a749900115e/P1060033.JPG"
-	 - image: "/uploads/5abc2ad8b8d39a749900115f/P1060073.JPG"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5abc2be5b8d39a7499001169/29496566_953857844763322_8385916120657297408_n.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5abc2be5ff2a7c6bfc001135/29512723_953857858096654_1026612297457467392_n.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5abc2be5ff2a7c6bfc001134/29511869_953857831429990_2565648681915121664_n.jpg"
+     - image: "/uploads/5abc2ad3b8d39a749900115e/P1060033.JPG"
+     - image: "/uploads/5abc2ad8b8d39a749900115f/P1060073.JPG"
 ---
 
 <p><span>This year WHS just took the boys team to National tournament in Palmerston North as the girls team is rebuilding after losing a lot of senior&nbsp;players&nbsp;last year.&nbsp; </span></p>

@@ -5,11 +5,11 @@ description: "Tutor & Art Society President Rei Hendry with Yth Councillor Ara M
 featured-image: 
 excerpt: "Tutor & Art Society President Rei Hendry with Youth Councillor Ara Molijn who led the Youth Committee working party in organizing the exhibition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><span><img src="https://www.nzherald.co.nz/resizer/1eKhV663JYW4SG4V4UmkPe4uZ4w=/620x617/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/2TL733GWKNGSLO5ODYLNGPSZGE.jpg" alt="In the youth exhibition New Aotearoa, are tutor and Art Society President Rei Hendry with Youth Councillor Ara Molijn. Picture / Paul Brooks" /></span></span></p>

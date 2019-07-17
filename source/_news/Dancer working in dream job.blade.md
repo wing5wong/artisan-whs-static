@@ -5,11 +5,11 @@ description: "Former WHS student Mark Lace is living his dream of dancing for a 
 featured-image: 
 excerpt: "Former WHS student Mark Lace is living his dream of dancing for a living."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

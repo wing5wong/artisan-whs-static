@@ -5,11 +5,11 @@ description: "Second-year bachelor of design and art students with their exhibit
 featured-image: 
 excerpt: "Second-year bachelor of design and art students with their exhibition Test Space, from left, former WHS student Paige MacDonald, Erana Kaa, Lucja Orlowski and Sarah Barron."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Second-year bachelor of design and art students with their exhibition Test Space, from left, former WHS student <strong>Paige MacDonald</strong>, Erana Kaa, Lucja Orlowski and Sarah Barron. <br />Photo/Bevan Conley.</span></p>

@@ -5,11 +5,11 @@ description: "Congratulations to both our WHS junior debating teams for winning 
 featured-image: 
 excerpt: "Congratulations to both our WHS junior debating teams for winning their first debates."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ad03073b8d39a7499001556/Team-Kakariki.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ad03058ff2a7c6bfc00152b/feedback-2.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5ad0303cb8d39a7499001554/both-teams.jpg"
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ad03073b8d39a7499001556/Team-Kakariki.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ad03058ff2a7c6bfc00152b/feedback-2.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5ad0303cb8d39a7499001554/both-teams.jpg"
+    
+    
 ---
 
 <p><strong>Congratulations to both junior debating teams for winning their first debates.&nbsp;</strong></p>

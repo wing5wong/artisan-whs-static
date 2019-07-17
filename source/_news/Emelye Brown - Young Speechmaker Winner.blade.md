@@ -5,11 +5,11 @@ description: "Emelye Brown - Young Speechmaker Winner of the New Zealand Lions C
 featured-image: 
 excerpt: "Emelye Brown - Young Speechmaker Winner of the New Zealand Lions Clubs on Saturday 4 August."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b67d464b8d39a6d05000626/booklet.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b67d477b8d39a6d05000628/Emelye-Brown-standing-with-3-others.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b67d44fb8d39a6d05000624/with-certificate--others.gif"
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b67d464b8d39a6d05000626/booklet.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b67d477b8d39a6d05000628/Emelye-Brown-standing-with-3-others.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b67d44fb8d39a6d05000624/with-certificate--others.gif"
+    
+    
 ---
 
 <h3>Emelye Brown - Young Speechmaker WINNER of the New Zealand Lions Clubs</h3>

@@ -5,11 +5,11 @@ description: "Wanganui High School 1st XV winners over Eketahuna-Bush on Saturda
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui High School 1st XV winners over Eketahuna-Bush on Saturday in the first home game of the Manawatu Colts division competition.</p>

@@ -5,11 +5,11 @@ description: "Past & present WHS employees Pat McNamara & Joanna Love winners of
 featured-image: 
 excerpt: "Past and present Whanganui High School employees Pat McNamara and Joanna Love winners of the 'B' Grade Mixed Tennis Doubles."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Past and present Whanganui High School employees<strong>&nbsp;</strong>Pat McNamara and Joanna Love winners of the 'B' Grade Mixed Tennis Doubles.</p>

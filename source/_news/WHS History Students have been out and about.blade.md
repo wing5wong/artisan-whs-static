@@ -5,11 +5,11 @@ description: "WHS History students have been out and about - Handspan Monument, 
 featured-image: 
 excerpt: "WHS History Students have been out and about to the Handspan Monument, Boer War Memorial, Paikatore & Waiouru War Museum."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8ab7ff2a7c6f50000394/y11-in-Paikatore.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8a58ff2a7c6f5000038c/handspan-monument.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8a44ff2a7c6f5000038a/handspan-monument-wu.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8d65ff2a7c6f50000396/y11-at-the-Boer-War-Memorial.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8a7bff2a7c6f5000038e/Waiouru-War-Museum.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8ab7ff2a7c6f50000394/y11-in-Paikatore.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8a58ff2a7c6f5000038c/handspan-monument.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8a44ff2a7c6f5000038a/handspan-monument-wu.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8d65ff2a7c6f50000396/y11-at-the-Boer-War-Memorial.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8a7bff2a7c6f5000038e/Waiouru-War-Museum.jpg"
 ---
 
 <p>In the last few days senior History students have been busy! Last Thursday (14<sup>th</sup>) the Level 1 students did a walking tour of Whanganui and visited several monuments in the City. This is part of their assessment titled <strong>How we Remember</strong>. A highlight for many was the visit to the Alexander Research Library where students were able to look up family events from the archives.</p>

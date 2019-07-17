@@ -5,11 +5,11 @@ description: "Mitchell Millar scored all of Ruapehu's points in their low scorin
 featured-image: 
 excerpt: "Mitchell Millar scored all of Ruapehu's points in their low scoring win over Taihape at Rochfort Park on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/8f3HIcQPWB4IlzYgHt1y_U_FkGs=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/ITLVJCRHQFHHVMSBIYSKLQGXUI.jpg" alt="Mitchell Millar scored all of Ruapehu's points in their low scoring win over Taihape at Rochfort Park on Saturday. Photo by Merrilyn George." /></p>

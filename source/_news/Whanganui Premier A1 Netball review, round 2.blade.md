@@ -5,11 +5,11 @@ description: "Whanganui Premier A1 Netball review from the second round on Monda
 featured-image: 
 excerpt: "Whanganui Premier A1 Netball review from the second round on Monday night at Springvale Stadium."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/wo1OLzZQyRSQaZLydJXI5Dnc1Ck=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/V45IEMFLGZCXJMKAKCYZZNRJ5A.jpg" alt="Rebekah Alabaster shoots for Kaierau A1 against Kaierau A2 in Springvale Stadium on Monday night. Photos / Merrilyn George" /></p>

@@ -5,11 +5,11 @@ description: "Lily Claypole is the recipient of the Wanganui District Council Yo
 featured-image: 
 excerpt: "Lily Claypole is the recipient of the Wanganui District Council Youth Committee Youth Recognition Award with her MP4 file on flash drive entry Through a Glass Darkly."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>Lily Claypole of WHS is the recipient of the Wanganui District Council Youth Committee Youth Recognition Award with her MP4 file on flash drive entry <em>Through a Glass Darkly.<br /></em><strong><strong><a href="https://www.facebook.com/166439157186971/videos/350118042152414/">Lily Claypole's winning moving image&nbsp;<em>"Through a Glass Darkly"</em></a></strong></strong></strong></p>

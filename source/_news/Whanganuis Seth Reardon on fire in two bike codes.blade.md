@@ -5,11 +5,11 @@ description: "Seth Reardon parks up after an epic battle with NZ X-country serie
 featured-image: 
 excerpt: "Whanganui's Seth Reardon parks up after an epic battle with NZ X-country series leader Jason Dickey (58) and Sunday's third placegetter Brandon Given (5)."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><img src="https://www.nzherald.co.nz/resizer/vOICTZcHbWEkzryeM4ZrAWU1KFA=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/DLCVMVHH3NCURO2UEUXJWFLWYA.jpg" alt="Whanganui's Seth Reardon parks up after an epic battle with NZ X-country series leader Jason Dickey (58) and Sunday's third placegetter Brandon Given (5). " /></span></p>

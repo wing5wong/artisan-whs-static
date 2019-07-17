@@ -5,11 +5,11 @@ description: "Former Wanganui High School student Max Carroll is leaving Sport W
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former Wanganui High School student Max Carroll is leaving Sport Whanganui to play and work in sport overseas.</p>

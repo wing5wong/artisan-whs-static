@@ -5,11 +5,11 @@ description: "Whanganui contestant Kerry Ranginui has made the final of Project 
 featured-image: 
 excerpt: "Whanganui contestant Kerry Ranginui has made the final of Project Runway."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Whanganui contestant Kerry Ranginui has made the final of Project Runway!</span></h4>

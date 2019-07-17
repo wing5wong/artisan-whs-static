@@ -5,11 +5,11 @@ description: "Friday 12 June saw WHS hold a mufti day and fun run. The cost for 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Friday the 12th of June saw Wanganui High School hold a mufti day and fun run. The cost for the day was a gold coin donation with all the profits going to Hospice Wanganui. Here holding the cheque is (left) Valda Brechmanis for Hospice Wanganui and the organising prefects Sammy Murphy and Tim Rowe.</p>

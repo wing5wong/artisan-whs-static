@@ -5,11 +5,11 @@ description: "OFF STATESIDE: Wanganui's All White and former WHS student James M
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>OFF STATESIDE: &nbsp;Wanganui's All White and former WHS student&nbsp;James Musa will playing for the Saint Louis Football Club in 2015.</p>

@@ -5,11 +5,11 @@ description: "Clarissa Nowak patrols Castlecliff Beach, as she was in the moment
 featured-image: 
 excerpt: "Clarissa Nowak patrols Castlecliff Beach, as she was in the moments before she became involved in the rescue of the year in February."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Clarissa Nowak patrols Castlecliff Beach, as she was in the moments before she became involved in the rescue of the year in February. <br /></span></h4>

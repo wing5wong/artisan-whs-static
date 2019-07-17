@@ -5,11 +5,11 @@ description: "Expat Whanganui footballer James Musa reunites with his Phoenix Ri
 featured-image: 
 excerpt: "Expat Whanganui footballer James Musa reunites with his Phoenix Rising boss, the legendary Chelsea and Ivory Coast striker Didier Drogba.."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c7f4464ff2a7c25ea0000c4/Phoenix-Rising-emblem-black-and-red.png"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c7f4464ff2a7c25ea0000c4/Phoenix-Rising-emblem-black-and-red.png"
+    
+    
+    
+    
 ---
 
 <h3>Expat Whanganui footballer James Musa reunites with his Phoenix Rising boss, the legendary Chelsea and Ivory Coast striker Didier Drogba after resigning with the Arizona team for the 2019 season.<br /><em></em></h3>

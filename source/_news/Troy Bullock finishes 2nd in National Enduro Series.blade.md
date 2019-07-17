@@ -5,11 +5,11 @@ description: "Whanganui junior Troy Bullock finishes 2nd in the National Enduro 
 featured-image: 
 excerpt: "Whanganui junior Troy Bullock on his way to second at the North Island Cross Country Series where he accumulated enough points to finish runner-up in the National Enduro Series."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<img src="https://www.nzherald.co.nz/resizer/NqdqN3GNrzlUT0TeZaUpRzIlay0=/360x384/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/KXED3SMG7JDP5FEDT4VXYQTJ5M.jpg" alt="Image result for enduro troy bullock wanganui chronicle" /></p>

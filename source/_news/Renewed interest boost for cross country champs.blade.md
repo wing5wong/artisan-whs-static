@@ -5,11 +5,11 @@ description: "Rebecca Baker will start as the favourite in the senior girls even
 featured-image: 
 excerpt: "Rebecca Baker will start as the favourite in the senior girls event in the secondary schools cross country."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Rebecca Baker will start as the favourite in the senior girls event in the secondary schools cross country.</strong> <br />PHOTO / Stuart Munro</span></p>

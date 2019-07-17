@@ -5,11 +5,11 @@ description: "Cornet player & former WHS student Kyle Lawson will perform with B
 featured-image: 
 excerpt: "Cornet player & former WHS student Kyle Lawson will perform with Brass Whanganui at Christ Church."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>TOP SOLOIST: Whanganui's bright export and former WHS student is back in town for one concert only tomorrow.</strong> <br /><em>PHOTO / Bevan Conley</em></span></p>

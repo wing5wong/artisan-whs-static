@@ -5,11 +5,11 @@ description: "On Saturday 7 July 2018 WHS senior students and their partners gat
 featured-image: 
 excerpt: "On Saturday 7 July 2018 Whanganui High School senior students and their partners gathered together for a 'Night Under the Stars'."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>WHS Ball 2018</h4>

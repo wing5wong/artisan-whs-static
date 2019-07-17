@@ -5,11 +5,11 @@ description: "Mikayla Baldwin encourages young Whanganui artists to submit their
 featured-image: 
 excerpt: "Mikayla Baldwin encourages young Whanganui artists to submit their work for the 2018 Young Artist Scholarship."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Mikayla Baldwin encourages young Whanganui artists to submit their work for the 2018 Young Artist Scholarship. <br /><em>PHOTO / Stuart Munro</em></span></p>

@@ -5,11 +5,11 @@ description: "Metro lock Mason Johnson returns from injury along with fellow for
 featured-image: 
 excerpt: "Metro lock Mason Johnson returns from injury along with fellow forward pack leader Louis Devine to tackle Manawatu Colts."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/7m8ZNoS9nNsKX9JRwZxluzRV9wQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/E2XXD7Q6IRDT7BCZ22AOWFX4AQ.jpg" alt="Metro lock Mason Johnson (blue) returns from injury along with fellow forward pack leader Louis Devine to tackle Manawatu Colts competition frontrunners Feilding Yellow at Macnab Domain in Kaiwhaiki on Saturday." /></p>

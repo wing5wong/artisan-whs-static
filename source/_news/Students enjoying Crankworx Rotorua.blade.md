@@ -5,11 +5,11 @@ description: "Past/present students enjoying the pace at Crankworx Rotorua 19-24
 featured-image: 
 excerpt: "Past/present students enjoying the pace at Crankworx Rotorua 19-24 March 2019.."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TB52DtnKzrDgzwpzJmTLizNBrFRCNoe3UFpKegPHYRYcD1Bm" alt="Image result for crankworx rotorua images" /></p>

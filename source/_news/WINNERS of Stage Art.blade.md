@@ -5,11 +5,11 @@ description: "On 31 August we took 81 performers & 13 crew to PN to compete in t
 featured-image: 
 excerpt: "On Friday 31 August we took 81 performers & 13 crew to Palmerston North to compete in the Regional Stage Art competition and came away with 1st place!!!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>This year saw a different competition for Stage Challenge and a very short time frame to construct a winning worthy performance. This year we tackled the mis treatment of children in Lake Alice.</h4>

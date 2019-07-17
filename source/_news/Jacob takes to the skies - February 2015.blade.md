@@ -5,11 +5,11 @@ description: "JACOB Smith receives his wings from Air NZ Captain Darin Stringer 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>JACOB Smith receives his wings from Air NZ Captain Darin Stringer at the Walsh awards ceremony.</p>

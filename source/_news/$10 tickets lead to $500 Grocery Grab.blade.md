@@ -5,11 +5,11 @@ description: "Whanganui High School Rowing Grocery Grab fundraiser was a great s
 featured-image: 
 excerpt: "Whanganui High School Rowing Grocery Grab fundraiser was a great success on Sunday morning at New World."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><em>Photo:</em> Jonty Thomson, Levi Carroll, James Clear, Trevor Tutty, James Ross, (New World Manager on the day) Kylie Tasker and Niamh Mullany. (Jonty, Levi and Niamh are High School rowing captains and James sold one of the winning tickets).</span></p>

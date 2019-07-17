@@ -5,11 +5,11 @@ description: "Marist's Josaia Bogileka with the ball during Saturday's match aga
 featured-image: 
 excerpt: "Marist's Josaia Bogileka with the ball during Saturday's match against Nga matapouri at Spriggens Park."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=U820xKWoCPWQk6iUashhJw%3d%3d" alt="" /></p>

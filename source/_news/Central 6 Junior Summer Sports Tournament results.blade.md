@@ -5,11 +5,11 @@ description: "Results from the Central 6 Junior Summer Sports Tournament, which 
 featured-image: 
 excerpt: "Results from the Central 6 Junior Summer Sports Tournament, which was held in Wanganui on Friday 17 November."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e59b8d39a25b60008f5/good-girls.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e4eb8d39a25b60008f3/good-girl.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e69b8d39a25b60008f9/good-boy-serving.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e62b8d39a25b60008f7/good-boy-going-over-net.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e9cb8d39a25b6000901/girls-running.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e59b8d39a25b60008f5/good-girls.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e4eb8d39a25b60008f3/good-girl.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e69b8d39a25b60008f9/good-boy-serving.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e62b8d39a25b60008f7/good-boy-going-over-net.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5a178e9cb8d39a25b6000901/girls-running.jpg"
 ---
 
 <p><strong>Central 6 Results - Friday 17 November</strong></p>

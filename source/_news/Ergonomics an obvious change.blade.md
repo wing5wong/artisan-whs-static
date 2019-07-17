@@ -5,11 +5,11 @@ description: "Former WHS student Anita Beyer is using her nursing skills and mor
 featured-image: 
 excerpt: "Former WHS student Anita Beyer is using her nursing skills and more in her new ergonomics career."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former WHS student <strong>Anita Beyer</strong> is using her nursing skills and more in her new ergonomics career.<br /><em>PHOTO / Paul Brooks</em></p>

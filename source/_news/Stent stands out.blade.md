@@ -5,11 +5,11 @@ description: "Charlotte Stent was sitting second on the Under-18 Tournament MVP 
 featured-image: 
 excerpt: "Whanganui allrounder Charlotte Stent was sitting second on the Under-18 Tournament MVP leaderboard on Friday and featured in the CriqHQ Dream Team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui allrounder Charlotte Stent was sitting second on the Under-18 Tournament MVP leaderboard on Friday and featured in the CriqHQ Dream Team.</strong><br /><em>PHOTO / Stuart Munro</em></p>

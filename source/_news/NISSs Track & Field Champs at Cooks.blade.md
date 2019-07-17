@@ -5,11 +5,11 @@ description: "WHS runner Travis Bayler will attempt the 400 metre/800 metre doub
 featured-image: 
 excerpt: "WHS runner Travis Bayler will attempt the 400 metre/800 metre double at the NISS's Track & Field Champs at Cooks Gardens this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>DOUBLE DUTY: Whanganui High School runner <strong>Travis Bayler</strong> will attempt the 400 metre/800 metre double at the North Island Secondary Schools Track and Field Champs at Cooks Gardens this weekend.</span></p>

@@ -5,11 +5,11 @@ description: "HOME AND HOSED: Wanganui High School's Brad Elgar flies in for one
 featured-image: 
 excerpt: "HOME AND HOSED: Wanganui High School's Brad Elgar flies in for one of his team's 10 tries to two against Freyberg on Saturday, Wanganui Chronicle article on 15/7/15..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>HOME AND HOSED: Wanganui High School's Brad Elgar flies in for one of his team's 10 tries to two against Freyberg on Saturday.</span></p>

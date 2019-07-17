@@ -5,11 +5,11 @@ description: "Stella Warner looks to set up a chance in the first half at the Fo
 featured-image: 
 excerpt: "Stella Warner looks to set up a chance in the first half at the Football Whanganui games against Massey University."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/9Kdlpp3UwwoPcpsVyOQzewSqwNc=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/5ED43TTAB5E7BMNB3HY4KM7BVE.jpg" alt="Stella Warner looks to set up a chance in the first half." /></p>

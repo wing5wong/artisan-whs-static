@@ -5,11 +5,11 @@ description: "Whanganui's Junior Dancesport couple, Jared Sim & Reeve Watson, ca
 featured-image: 
 excerpt: "Whanganui's Junior Dancesport couple, Jared Sim & Reeve Watson, can be very proud of their results from this year’s NZ Champs."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph"><strong>&ldquo;Whanganui's Junior Dancesport couple, Jared Sim (WHS student) and Reeve Watson, can be very proud of their results from this year&rsquo;s New Zealand Championships held in Hamilton over Labour weekend,&rdquo;</strong> says their Dancesport coach, Mark Glastonbury.</p>

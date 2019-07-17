@@ -5,11 +5,11 @@ description: "Wanganui waterskier Lily Meade will compete in the Wanganui Gold S
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>WANGANUI waterskier Lily Meade has returned from her debut world champs and is gearing up for her home tournament this weekend.</p>

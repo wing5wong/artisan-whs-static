@@ -5,11 +5,11 @@ description: "Travis Bayler looks to open up the Marton defenders in the first h
 featured-image: 
 excerpt: "Whanganui's Travis Bayler looks to open up the Marton defenders in the first half of their 4-3 win over Marton HC in the Hockey Manawatu Premier Reserve Men's game at Gonville on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/5AskO_nrDSSOBVUEI0R_lf0JsCo=/620x413/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/BQ2M5YJEVFGYXAYJKWXLCQRLXQ.jpg" alt="Travis Bayler looks to open up the Marton defenders in the first half." /></p>

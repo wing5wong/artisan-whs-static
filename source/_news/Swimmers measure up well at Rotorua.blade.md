@@ -5,11 +5,11 @@ description: "A team of seven young Whanganui swimmers gained valuable experienc
 featured-image: 
 excerpt: "A team of seven young Whanganui swimmers aged between 12 and 14 gained valuable experience at the New Zealand Division 2 meet in Rotorua last week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>THE FUTURE:&nbsp;&nbsp;<span>Seven young Whanganui swimmers <strong>Blair Gowan</strong> (left), <strong>Ben White, Cheyenne Nightingale</strong>, Nikki Forlong, Jack Robertson, <strong>Lucy Somerville</strong> and <strong>Lennart Nowak</strong> with coach Andy McClay are possible future stars.<br /><span>(highlighted - WHS students)</span><br /><em>Photo / Supplied</em></span></p>

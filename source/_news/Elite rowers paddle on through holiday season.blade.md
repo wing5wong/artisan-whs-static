@@ -5,11 +5,11 @@ description: "Aramoho Wanganui rower Luke Watts was one of the stars of the Hawk
 featured-image: 
 excerpt: "Aramoho Wanganui rower Luke Watts was one of the stars of the Hawkes Bay Cup regatta winning the men's 250m Single Scull Sprint earlier this month."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Aramoho Wanganui rower&nbsp;Luke Watts was one of the stars of the Hawkes Bay Cup regatta winning the men's 250m Single Scull Sprint earlier this month. <br /><em>PHOTO / Steve MacArthur</em></span></p>

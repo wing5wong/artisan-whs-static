@@ -5,11 +5,11 @@ description: "Whanganui's Seth Reardon claimed the season runnerup placing he wa
 featured-image: 
 excerpt: "Whanganui's Seth Reardon claimed the season runnerup placing he was after at the final round of the New Zealand Cross-country Championships on farmland near Taupo on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/toxhAL3wiF35JwHsT578dYlgXKA=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/AZ7PVZQUIRAB7GC4XH3SG2HSDQ.jpg" alt="Seth Reardon. Photo by Andy McGechan, BikesportNZ.com " /></p>

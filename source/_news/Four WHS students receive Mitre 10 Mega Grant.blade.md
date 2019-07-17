@@ -5,11 +5,11 @@ description: "WHS students received the Mitre 10 Mega grant included Renee Teers
 featured-image: 
 excerpt: "Attending the Mitre 10 Mega Future Champions Trust grant ceremony included WHS students Renee Teers, Lucas Thompson, Chase Morpeth and Jack Clifton."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://i.prcdn.co/img?regionKey=fzQD9UxLeRZQm6BPi0J9gQ%3d%3d" alt="" /></p>

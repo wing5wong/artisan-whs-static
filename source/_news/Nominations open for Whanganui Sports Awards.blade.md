@@ -5,11 +5,11 @@ description: "Kerri Gowler, left, and Chris Harris, right, as joint Supreme Awar
 featured-image: 
 excerpt: "Kerri Gowler, left, and Chris Harris, right, as joint Supreme Award winners at the 2017 Whanganui Sports Awards."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Kerri Gowler, left, and former WHS student Chris Harris, right, as joint Supreme Award winners at the 2017 Whanganui Sports Awards.</span></p>

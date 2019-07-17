@@ -5,11 +5,11 @@ description: "WHS took a Team of Chess players to complete in the Chess Power Re
 featured-image: 
 excerpt: "WHS took a Team of Chess players to complete in the Chess Power Regional Tournament."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44c7ff2a7c1309000151/Luke-Pearson-1st-Chess-Tourny-WU-2018.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44b9ff2a7c130900014e/WHS-2nd-team-Chess-tounry-WU-2018.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44b9ff2a7c130900014d/Playing-chess-tourny-WU-2018.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44a8ff2a7c130900014b/Chess-Power-Tourny-Reg-in-WU-logo.jpg"
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44c7ff2a7c1309000151/Luke-Pearson-1st-Chess-Tourny-WU-2018.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44b9ff2a7c130900014e/WHS-2nd-team-Chess-tounry-WU-2018.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44b9ff2a7c130900014d/Playing-chess-tourny-WU-2018.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44a8ff2a7c130900014b/Chess-Power-Tourny-Reg-in-WU-logo.jpg"
+    
 ---
 
 <p>Whanganui High School took a Team of Chess players to complete in the Chess Power Regional Tournament at Wanganui Intermediate on Friday 25 May 2018.</p>

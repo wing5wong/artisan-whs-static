@@ -5,11 +5,11 @@ description: "'MIMESIS' - Lily Claypole. This is Lily's first public solo exhibi
 featured-image: 
 excerpt: "'MIMESIS' - Lily Claypole. This is Lily's first public solo exhibition. An exhibition of dramatic and evocative photographs – not to be missed"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>'MIMESIS' - Lily Claypole&nbsp;<span>(2018 WHS Dux Artium Female!)</span></span></h4>

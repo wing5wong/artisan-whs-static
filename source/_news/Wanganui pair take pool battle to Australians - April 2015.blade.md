@@ -5,11 +5,11 @@ description: "Wanganui Swimming Club prospects Elena Forlong and Shannon Schmans
 featured-image: 
 excerpt: "Wanganui Swimming Club prospects Elena Forlong and Shannon Schmanski in Sydney with the Swimming NZ team for the start of the Australian Age Group Champs..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui Swimming Club prospects Elena Forlong (above<span>)</span>&nbsp;and <span>Shannon Schmanski&nbsp;</span>have touched down in Sydney with the Swimming NZ team for the start of the Australian Age Group Championships today.</p>

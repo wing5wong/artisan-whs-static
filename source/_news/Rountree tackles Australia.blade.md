@@ -5,11 +5,11 @@ description: "FIM Oceania Challenge Cup rivals Whanganui's James Rountree (left)
 featured-image: 
 excerpt: "FIM Oceania Challenge Cup rivals Whanganui's James Rountree (left) and Australian Brad West, have fun as they mock up an arm wrestle before the weekend's racing began."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>FIM Oceania Challenge Cup rivals Whanganui's James Rountree (left) and Australian Brad West, have fun as they mock up an arm wrestle before the weekend's racing began. <br /><em>PHOTO / Andy McGechan</em></span></p>

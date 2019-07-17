@@ -5,11 +5,11 @@ description: "Graham Hall in front of a bevy of student art work at the Wanganui
 featured-image: 
 excerpt: "Graham Hall in front of a bevy of student art work at the Wanganui Community Arts Centre."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Graham Hall in front of a bevy of student art work at the Wanganui Community Arts Centre.</strong> <br />PHOTO / Stuart Munro</span></p>

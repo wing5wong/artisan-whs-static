@@ -5,11 +5,11 @@ description: "Embarking on aboricultural apprentice training is former WHS stude
 featured-image: 
 excerpt: "Embarking on aboricultural apprentice training is former WHS student Matthew Walker (right)."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><img src="https://i.prcdn.co/img?regionKey=gYyjnHnBorb3wX5CxtEs8w%3d%3d" alt="" /></span></p>

@@ -5,11 +5,11 @@ description: "WHS student Ali Gammeter will represent Whanganui in next year's Y
 featured-image: 
 excerpt: "Ali Gammeter will represent Whanganui in next year's Youth Parliament."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>WHS student Ali Gammeter will represent Whanganui in next year's Youth Parliament.</strong><br /><em>PHOTO / Bevan Conley</em></span></p>

@@ -5,11 +5,11 @@ description: "WHS Athletics recent success, and the cross over to other codes th
 featured-image: 
 excerpt: "WHS Athletics recent success, and the cross over to other codes through the performance pathway."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>WHS Athletics recent success, and the cross over to other codes through the performance pathway.</strong></p>

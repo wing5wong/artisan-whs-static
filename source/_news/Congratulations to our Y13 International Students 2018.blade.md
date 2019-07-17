@@ -5,11 +5,11 @@ description: "Congratulations and all the best to our Year 13 International Stud
 featured-image: 
 excerpt: "Congratulations and all the best to our Year 13 International Students of 2018."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5be4db7dff2a7c39a800050c/Heads-of-International-2019.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5be4dce8ff2a7c39a8000510/cultural-awards-zhang.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5be4de74ff2a7c39a8000516/endorse-with-colours.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5be4de83ff2a7c39a8000518/colours.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5be4de4aff2a7c39a8000514/boy-on-stage.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5be4db7dff2a7c39a800050c/Heads-of-International-2019.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5be4dce8ff2a7c39a8000510/cultural-awards-zhang.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5be4de74ff2a7c39a8000516/endorse-with-colours.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5be4de83ff2a7c39a8000518/colours.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5be4de4aff2a7c39a8000514/boy-on-stage.jpg"
 ---
 
 <p><strong>Congratulations and all the best to our Year 13 International Students of 2018!</strong></p>

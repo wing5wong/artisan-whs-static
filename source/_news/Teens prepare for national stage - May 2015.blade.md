@@ -5,11 +5,11 @@ description: "WANGANUI hockey is in excellent health with six teenagers selected
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>WANGANUI hockey is in excellent health with six teenagers selected for Central North Island under-18 duties at the nationals in July.</p>

@@ -5,11 +5,11 @@ description: "Former WHS students Max Brown (left) and Toby Brooke (right) join 
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Former Wanganui High School students Max Brown (left) and Toby Brooke (right) join Aiden Nossiter (absent) to compete in the 2015 Junior and U23 World Sprint Championships in Lisbon, Portugal.</span></p>

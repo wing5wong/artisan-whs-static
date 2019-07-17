@@ -6,11 +6,11 @@ Click on above for more information..."
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span style="line-height: 1.5;">Congratulations to our Y13 students, Ben Luff Scott, Reuben Gedye, Josh Parker Tegan Pope, Kody Hamahona-Stark, Waimarama Matena and Caitlin MacDonald. Absent: Kyle Hall. </span></p>

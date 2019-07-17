@@ -5,11 +5,11 @@ description: "Click heading to read about the 2014 NCEA examinations, from the 1
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>For the 1940 Wanganui students sitting this year's NCEA and New Zealand Scholarship exams the coming few weeks could make or break their high school careers.</p>

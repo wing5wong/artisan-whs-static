@@ -5,11 +5,11 @@ description: "Clive Rennie was Deputy Principal at Whanganui High School from 19
 featured-image: 
 excerpt: "Clive Rennie was Deputy Principal at Whanganui High School from 1986 to 1991."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Clive Rennie was Deputy Principal at Whanganui High School from 1986 to 1991</strong> before becoming Principal of Rangitikei High School in Marton, Mountain View in Timaru and Otago Boys High. In 2005, he says, &ldquo;I had problems urinating and so I went to the doctor, who assumed incorrectly as I was to learn, that it was a bladder infection. After a number of repeat visits it was diagnosed as bladder cancer.&rdquo;</span></p>

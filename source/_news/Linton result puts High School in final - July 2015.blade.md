@@ -5,11 +5,11 @@ description: "KICKS MATTER: Mitch Millar's boot helped the Wanganui High School 
 featured-image: 
 excerpt: "KICKS MATTER: Mitch Millar's boot helped the Wanganui High School 1st XV into the Manawatu Colts final with a 24-22 win over Linton."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>KICKS MATTER: Mitch Millar's boot helped the Wanganui High School 1st XV into the Manawatu Colts final with a 24-22 win over Linton.</span></p>

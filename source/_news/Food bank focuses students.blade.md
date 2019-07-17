@@ -5,11 +5,11 @@ description: "Former students Kayla Stampa & Thomas Adams among the UCOL student
 featured-image: 
 excerpt: "Maria Miyao, Ty Weeks, Mel Te Patu, Kayla Stampa (former student), Coral Hannah & Thomas Adams (former student) with donated goods they helped collect for the student food bank."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Maria Miyao, Ty Weeks, Mel Te Patu, Kayla Stampa (former student), Coral Hannah &amp; Thomas Adams&nbsp;<span>(former student)&nbsp;</span>with donated goods they helped collect for the student food bank. <br /><em>PHOTO / Stuart Munro</em></span></p>

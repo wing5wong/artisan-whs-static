@@ -5,11 +5,11 @@ description: "Whanganui's Jimi Blinkhorne (left) and his Aussie roller hockey ma
 featured-image: 
 excerpt: "Whanganui's Jimi Blinkhorne (left) and his Aussie roller hockey mate Ash Clee will catch up again for the Australia Day National Club Championships in January."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui's Jimi Blinkhorne (left) and his Aussie roller hockey mate Ash Clee will catch up again for the Australia Day National Club Championships in January.<br /><em>Photo / Supplied</em></span></p>

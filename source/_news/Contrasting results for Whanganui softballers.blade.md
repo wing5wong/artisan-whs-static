@@ -5,11 +5,11 @@ description: "Former WHS students' Josh and Jake Hollis and Rikki Leigh Madams a
 featured-image: 
 excerpt: "Former WHS students' Josh and Jake Hollis and Rikki Leigh Madams are all doing well in Softball."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">Former WHS students' Josh and Jake Hollis and Rikki Leigh Madams are all doing well in Softball.</p>

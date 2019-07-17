@@ -5,11 +5,11 @@ description: "Talented teenager Ethan Bryers is on his way to the top after gain
 featured-image: 
 excerpt: "Talented Whanganui teenager Ethan Bryers is on his way to the top after gaining selection to the Swimming NZ Bronze Male squad."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://www.nzherald.co.nz/resizer/fhzjvAGBApKWl65GcfaB4uVbtQQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/W4YUIS43HRHCJDGEV7PBCF4GBY.jpg" alt="Talented Whanganui teenager Ethan Bryers is on his way to the top after gaining selection to the Swimming NZ Bronze Male squad." /></p>

@@ -5,11 +5,11 @@ description: "Congratulations to Nat Kirk & Abbey Hocquard who won their section
 featured-image: 
 excerpt: "CONGRATULATIONS to Nat Kirk (Year 9) and Abbey Hocquard (Year 13) who won their sections at The Waimarino Art Awards 2018."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b3d9d76b8d39a412900014b/Abbey-Hocquard-photo-500-SL-July-4.gif"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5b3d9d87b8d39a412900014d/Nat-Kirk-Jnr-500-2D-Artist-SL-July-4.gif"
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b3d9d76b8d39a412900014b/Abbey-Hocquard-photo-500-SL-July-4.gif"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5b3d9d87b8d39a412900014d/Nat-Kirk-Jnr-500-2D-Artist-SL-July-4.gif"
+    
+    
+    
 ---
 
 <p><strong>CONGRATULATIONS to Nat Kirk (Year 9) and Abbey Hocquard (Year 13) who won their sections at The Waimarino Art Awards 2018.<br /><br /></strong></p>

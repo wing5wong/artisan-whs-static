@@ -5,11 +5,11 @@ description: "Kyle Graham-Luke grabbed a hat-trick of goals for Wanganui City in
 featured-image: 
 excerpt: "Kyle Graham-Luke grabbed a hat-trick of goals for Wanganui City in their exciting Federation Cup win over Hawera at Turuturu Park today."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/nbRZHFYgu9ZDz6u75Zy-bxqlrIU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/EEXDQFHUANEINI3GYR4PGJHXJQ.jpg" alt="Kyle Graham-Luke grabbed a hat-trick of goals for Wanganui City in their exciting Federation Cup win over Hawera at Turuturu Park today." /></p>

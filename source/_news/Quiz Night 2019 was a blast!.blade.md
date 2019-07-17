@@ -5,11 +5,11 @@ description: "Quiz Night on Thursday 7 March 2019 at Whanganui High School was a
 featured-image: 
 excerpt: "Quiz Night on Thursday 7 March 2019 at Whanganui High School was a blast!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Quiz Night 2019 was a blast!</h4>

@@ -5,11 +5,11 @@ description: "GOT YOUR BACK: Former WHS students Aiden Nossiter (left) competes 
 featured-image: 
 excerpt: "GOT YOUR BACK: Former WHS students Aiden Nossiter (left) competes with Toby Brooke on the Whanganui River. Nossiter and teammate Max Brown helped Brooke get ready for international competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>GOT YOUR BACK: Former WHS students Aiden Nossiter (left) competes with Toby Brooke on the Whanganui River. Nossiter and teammate Max Brown helped Brooke get ready for international competition.</span></p>

@@ -5,11 +5,11 @@ description: "Starting the concert at Pauls Road Live this year will be ‘In Bu
 featured-image: 
 excerpt: "Starting the concert at Pauls Road Live this year will be ‘In Business’, a year 10 group of students from Whanganui High School."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The annual concert at 42 Pauls Road in Whanganui East has become a feature of Whanganui&rsquo;s musical calendar. It is at 42 Pauls Road where there is plenty of space not only for folding chairs and blankets as well as a chilly bin of food and drinks but also for parking. Gates open at 11am with the music starting at noon.&nbsp;</p>

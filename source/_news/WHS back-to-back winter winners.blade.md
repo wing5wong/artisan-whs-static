@@ -5,11 +5,11 @@ description: "The WHS girls basketballers produced one of three outright wins fo
 featured-image: 
 excerpt: "The WHS girls basketballers produced one of three outright wins for the school to help win the annual Central 6 Junior Sports Tournament in Palmerston."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>The WHS girls basketballers produced one of three outright wins for the school to help win the annual Central 6 Junior Sports Tournament in Palmerston North on Tuesday.<br /></span></p>

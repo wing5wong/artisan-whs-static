@@ -5,11 +5,11 @@ description: "Whiskey Mama is hosting two Whanganui High School bands at Rock on
 featured-image: 
 excerpt: "Whiskey Mama is hosting two Whanganui High School bands at Rock on the River on January 6."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whiskey Mama is hosting two Whanganui High School bands at Rock on the River on January 6.</p>

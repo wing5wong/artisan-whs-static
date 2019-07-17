@@ -5,11 +5,11 @@ description: "Whanganui High School has changed the names of some of its buildin
 featured-image: 
 excerpt: "Whanganui High School has changed the names of some of its buildings and taken on additional names for others."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

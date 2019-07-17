@@ -5,11 +5,11 @@ description: "Whanganui's Seth Reardon (Yamaha YZ250FX), winner of the opening r
 featured-image: 
 excerpt: "Whanganui's Seth Reardon (Yamaha YZ250FX), winner of the opening round of the Central Cross-country Series."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bebaa11ff2a7c39a800075d/Seth-Reardon-with-trophy-Chron-14-nov.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bebaa11ff2a7c39a800075d/Seth-Reardon-with-trophy-Chron-14-nov.jpg"
+    
+    
+    
+    
 ---
 
 <p><span><strong>Whanganui's Seth Reardon (Yamaha YZ250FX), winner of the opening round of the Central Cross-country Series on Sunday.</strong> <br /><em>Photo / Andy McGechan</em></span></p>

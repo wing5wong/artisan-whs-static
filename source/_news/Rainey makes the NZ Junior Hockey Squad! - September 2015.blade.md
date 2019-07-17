@@ -5,11 +5,11 @@ description: "A big congratulations to Emma Rainey, Y11 student at WHS who has m
 featured-image: 
 excerpt: "A big congratulations to Emma Rainey, Y11 student at WHS who has made the NZ Junior Hockey Squad."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>A big congratulations to Emma Rainey, Y11 student at WHS who has made the NZ Junior Hockey Squad.</strong></p>

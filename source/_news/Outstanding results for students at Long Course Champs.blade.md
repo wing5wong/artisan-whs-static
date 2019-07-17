@@ -5,11 +5,11 @@ description: "Outstanding results for students at the Wellington Long Course Cha
 featured-image: 
 excerpt: "Outstanding results for students at the Wellington Long Course Championships."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Outstanding results for students at the Wellington Long Course Championships.</strong></p>

@@ -5,11 +5,11 @@ description: "Congratulations to our WHS boys making the Wanganui U17 Softball T
 featured-image: 
 excerpt: "Congratulations to our WHS boys who have made the Wanganui U17 Softball Team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Congratulations to our WHS boys who have made the Wanganui U17 Softball Team.</strong>&nbsp;</span></p>

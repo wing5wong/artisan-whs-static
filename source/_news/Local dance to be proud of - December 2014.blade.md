@@ -5,11 +5,11 @@ description: "STRONGER: Former WHS student Amelia Chandulal-Mackay just before l
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>STRONGER: &nbsp;Former WHS student Amelia Chandulal-Mackay just before leaving for Sydney late last year.</p>

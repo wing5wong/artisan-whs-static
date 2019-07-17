@@ -5,11 +5,11 @@ description: "Rebecca Scown, centre, & the recipients of the latest round of fun
 featured-image: 
 excerpt: "Rebecca Scown, centre, and the recipients of the latest round of funding from the Mitre 10 Mega Futures Champions Trust."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Rebecca Scown, centre, and the recipients of the latest round of funding from the Mitre 10 Mega Futures Champions Trust.</span><br /><em>Photo / Supplied</em></p>

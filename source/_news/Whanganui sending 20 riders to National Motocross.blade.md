@@ -5,11 +5,11 @@ description: "Whanganui junior rider James Rountree (WHS student) looks to step 
 featured-image: 
 excerpt: "Whanganui junior rider James Rountree (WHS student) looks to step it up a notch at the Honda New Zealand Motocross Grand Prix at Woodville."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>With two years to go in the 15-16-year grade, Whanganui junior rider&nbsp;<strong>James Rountree</strong>&nbsp;looks to step it up a notch at the Honda New Zealand Motocross Grand Prix at Woodville this weekend.</span><br /><em>PHOTO / Blake Rountree</em></p>

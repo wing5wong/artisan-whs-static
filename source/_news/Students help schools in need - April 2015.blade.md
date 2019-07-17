@@ -5,11 +5,11 @@ description: "COMMUNITY MINDED: Wanganui High School Gateway students Tanginoa M
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>COMMUNITY MINDED: Wanganui High School Gateway students Tanginoa Mathews, James Van Elswyck, Sean Farrington, Chris Breuer, Tayla Mischefski, Wipaki Pakai, Matthew McKenzie and Nikita Atkinson-Edwards volunteered to help Aramoho School after a spate of vandalism.</span></p>

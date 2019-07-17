@@ -5,11 +5,11 @@ description: "Former WHS students' Brittany Jones and Kaylee Morrison are two lo
 featured-image: 
 excerpt: "Former WHS students' Brittany Jones and Kaylee Morrison are two local women employed as flight attendants by Air Chathams."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>FLYING: Former WHS students' Brittany Jones and Kaylee Morrison are two local women employed as flight attendants by Air Chathams.<br />PHOTO / Paul Brooks</p>

@@ -5,11 +5,11 @@ description: "Kaelin Mooney scored the eighth goal in Whanganui's rout of an und
 featured-image: 
 excerpt: "Kaelin Mooney scored the eighth goal in Whanganui's rout of an undermanned Marist B at Gonville on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

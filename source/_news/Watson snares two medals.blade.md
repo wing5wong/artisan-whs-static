@@ -5,11 +5,11 @@ description: "Keightley Watson, far left, with another medal at the Macau Asian 
 featured-image: 
 excerpt: "Keightley Watson, far left, with another medal at the Macau Asian Cup in China at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Keightley Watson, far left, with another medal at the Macau Asian Cup in China at the weekend.</strong><br /><em>Photo / Supplied.</em></span></p>

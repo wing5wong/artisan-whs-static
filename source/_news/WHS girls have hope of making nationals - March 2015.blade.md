@@ -5,11 +5,11 @@ description: "PIVOTAL PLAYER: Jess Watkin will play a major role in the fortunes
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>PIVOTAL PLAYER: &nbsp;Jess Watkin will play a major role in the fortunes of Wanganui High School against Palmerston North Girls High at Victoria Park this morning.</p>

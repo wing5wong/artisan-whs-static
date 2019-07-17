@@ -5,11 +5,11 @@ description: "Whanganui's White Fern Jessica Watkin impressed with the ball agai
 featured-image: 
 excerpt: "Whanganui's White Fern Jessica Watkin impressed with the ball against the touring Indian Women's team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whanganui's White Fern Jessica Watkin impressed with the ball against the touring Indian Women's team, but it wasn't enough to prevent a 138 run hammering for her Central Districts Hinds in Napier on Friday.</p>

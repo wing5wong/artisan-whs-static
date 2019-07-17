@@ -5,11 +5,11 @@ description: "Whanganui U16 roller hockey side wins back-to-back national titles
 featured-image: 
 excerpt: "Whanganui U16 roller hockey side wins back-to-back national titles over Labour Weekend. Three of the U16s, brothers Mitchell and Cody Lockett and Eli Zinsli (all WHS students) also lined up in the division 2 Wanganui team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>TWICE AS GOOD: The Wanganui U16 roller hockey team; Amelia Neale, left, Mitchell Lockett (WHS student), Brodie Hurndell, Carlin Barry (coach), Eli Zinsli <strong>(WHS student)</strong>, Cody Lockett <strong>(WHS student)</strong>, Mike Groves and goalie Jacob Hazeldine.<br /></strong>Photo / Supplied</p>

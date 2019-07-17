@@ -5,11 +5,11 @@ description: "Senior students from Whanganui Secondary Schools are participating
 featured-image: 
 excerpt: "Senior students from Whanganui Secondary Schools are participating in an exhibition called ‘Pakaitore’ at the Whanganui Community Art Centre on Taupo Quay."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4><span>Pakaitore &ndash; Senior Student art exhibition</span></h4>

@@ -5,11 +5,11 @@ description: "Bands, a magician and an a capella group gave it their all for a s
 featured-image: 
 excerpt: "Bands, a magician and an a capella group gave it their all for a special fundraising talent quest at Wanganui High School on Saturday night."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>WINNERS of the Wanganui Secondary Schools combined competition were&nbsp;<strong>Eleishah Hodson and Te Paerata Tichbon of Wanganui High School.&nbsp;</strong>The Sea Syd crew also gained third place with Ben Clow filling Finn Brown&rsquo;s role in the performance. <span>&nbsp;</span></p>

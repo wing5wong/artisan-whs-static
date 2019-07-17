@@ -5,11 +5,11 @@ description: "Well done to Nat Kirk coming 2nd at the North Island Club Cross Co
 featured-image: 
 excerpt: "Well done to Nat Kirk coming 2nd at the North Island Club Cross Country Champs on Saturday 7 July in Taupo."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Well done to Nat Kirk coming 2nd at the North Island Club Cross Country Champs on Saturday 7 July in Taupo.&nbsp;</strong></p>

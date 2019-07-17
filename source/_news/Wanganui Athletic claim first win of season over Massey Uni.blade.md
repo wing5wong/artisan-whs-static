@@ -5,11 +5,11 @@ description: "Wanganui Athletic's Jude Hiri holds off Massey University's Blair 
 featured-image: 
 excerpt: "Wanganui Athletic's Jude Hiri holds off Massey University's Blair Lankshear at Wembley Park on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/XvBuo8Y6EF366Vz_tItkIR_dTWQ=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/FQZ3HJHSJNHRRDM3K2UBHCJMTY.jpg" alt="Wanganui Athletic's Jude Hiri holds off Massey University's Blair Lankshear at Wembley Park on Saturday. Photos/ Lewis Gardner" /></p>

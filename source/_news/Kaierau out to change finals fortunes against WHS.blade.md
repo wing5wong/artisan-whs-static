@@ -5,11 +5,11 @@ description: "Phillips Electrical Wanganui High School and Wanganui Car Centre K
 featured-image: 
 excerpt: "Phillips Electrical Wanganui High School and Wanganui Car Centre Kaierau will once again play off for the title at Springvale Stadium tonight Monday 10 August."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>That they are finalists is almost a formality these days. But who will be this year's Premier 1 netball champions is anything but.</p>

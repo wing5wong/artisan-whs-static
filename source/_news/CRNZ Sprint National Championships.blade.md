@@ -5,11 +5,11 @@ description: "Results from our WHS students representing Wanganui at the CRNZ Sp
 featured-image: 
 excerpt: "Results from our WHS students representing Wanganui at the CRNZ Sprint National Championships."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd205ff2a7c6f500003cc/51849604_1195507497265021_2916920386174058496_n.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd205ff2a7c6f500003c9/51818538_1195507380598366_741374487013883904_o.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd20bff2a7c6f500003d5/52392554_1195507533931684_4477201873606017024_n.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd20bff2a7c6f500003d7/52565978_1195507523931685_8679867771204403200_n.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd20bff2a7c6f500003d6/52439638_1195507570598347_8481737214693212160_n.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd205ff2a7c6f500003cc/51849604_1195507497265021_2916920386174058496_n.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd205ff2a7c6f500003c9/51818538_1195507380598366_741374487013883904_o.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd20bff2a7c6f500003d5/52392554_1195507533931684_4477201873606017024_n.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd20bff2a7c6f500003d7/52565978_1195507523931685_8679867771204403200_n.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd20bff2a7c6f500003d6/52439638_1195507570598347_8481737214693212160_n.jpg"
 ---
 
 <p><strong>Overall results from our WHS students representing Wanganui at the CRNZ Sprint National Championships.</strong></p>

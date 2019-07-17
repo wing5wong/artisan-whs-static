@@ -5,11 +5,11 @@ description: "Successful season for the Curtain Bank. Volunteer, Brooke Sula (fo
 featured-image: 
 excerpt: "Successful season for the Curtain Bank. Volunteer, Brooke Sula (former WHS student) surrounded by curtains."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Successful season for the Curtain Bank.</p>

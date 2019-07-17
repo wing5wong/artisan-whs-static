@@ -5,11 +5,11 @@ description: "The WHS Visual Art Dept had another PROUD evening last night at th
 featured-image: 
 excerpt: "The Visual Art Dept had another PROUD evening last night at the \"2019 patillo Whanganui Arts Review\""
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033f/Rose-Hird-Y11-Rohi.-Award-Winner.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033c/Jack-Burrows-Y13.Moutoa-Soldier.special-judge-mention.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033e/Lily-Claypole.ex.Plastic..special-judge-mention.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033d/various-whs-artists.jpg"
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea000340/various-whs-artists.no.2jpg.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033f/Rose-Hird-Y11-Rohi.-Award-Winner.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033c/Jack-Burrows-Y13.Moutoa-Soldier.special-judge-mention.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033e/Lily-Claypole.ex.Plastic..special-judge-mention.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea00033d/various-whs-artists.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c85cfa4ff2a7c25ea000340/various-whs-artists.no.2jpg.jpg"
 ---
 
 <p><strong>The Visual Art Department had another PROUD evening last night at the '2019 patillo Whanganui Arts Review'.&nbsp;</strong></p>

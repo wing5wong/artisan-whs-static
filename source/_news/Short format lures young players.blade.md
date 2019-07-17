@@ -5,11 +5,11 @@ description: "Hannah Rowe, left, will join fellow White Fern Jess Watkin to prom
 featured-image: 
 excerpt: "Hannah Rowe, left, will join fellow White Fern Jess Watkin to promote and grow the girls game in Whanganui."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Hannah Rowe, left, will join fellow White Fern Jess Watkin to promote and grow the girls game in Whanganui.</span><br />Photo / Supplied</p>

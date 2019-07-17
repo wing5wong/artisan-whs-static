@@ -5,11 +5,11 @@ description: "Great Achievement for our 1st XI Boys Hockey Team who came second 
 featured-image: 
 excerpt: "Great Achievement for our 1st XI Boys Hockey Team who came second in the Manawatu Secondary School Division 1 final against Waiopehu on Thursday 20 August."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Great Achievement for our 1st XI Boys Hockey Team who came second in the&nbsp;<span>Manawatu Secondary School Division 1 final against&nbsp;<span>Waiopehu on Thursday 20 August in Palmerston North. &nbsp;</span></span></p>

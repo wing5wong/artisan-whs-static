@@ -5,11 +5,11 @@ description: "The Wanganui High School 1st XV will tackle Eketahuna-Bush on Satu
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The Wanganui High School 1st XV will tackle Eketahuna-Bush on Saturday in its first home game of the Manawatu Colts division competition.</p>

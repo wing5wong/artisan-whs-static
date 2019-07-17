@@ -5,11 +5,11 @@ description: "Whanganui racer Seth Reardon has finished 4th in the second round 
 featured-image: 
 excerpt: "Whanganui racer Seth Reardon has finished 4th in the second round of the Yamaha NZXC Cross Country Series."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Whanganui racer Seth Reardon (former WHS student) has finished fourth in the second round of the Yamaha NZXC Cross Country Series.<br />IMAGE / NZXC - Home / Facebook<br /><br /></p>

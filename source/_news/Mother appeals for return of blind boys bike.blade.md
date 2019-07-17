@@ -5,11 +5,11 @@ description: "WHS student Darcy Britton, who is blind, and his mother, Colleen L
 featured-image: 
 excerpt: "Whanganui High School student Darcy Britton, who is blind, and his mother, Colleen Lee, are appealing for the return of Darcy's tandem bike."
 image_gallery:
-	 - image: "/uploads/59e549d4b8d39a463b00036a/Darcy-Britton-stolen-bike.-with-writingPNG.PNG"
-	
-	
-	
-	
+     - image: "/uploads/59e549d4b8d39a463b00036a/Darcy-Britton-stolen-bike.-with-writingPNG.PNG"
+    
+    
+    
+    
 ---
 
 <p><span><strong>Whanganui High School student Darcy Britton, who is blind, and his mother, Colleen Lee, are appealing for the return of Darcy's tandem bike (photo below of similar bike).</strong><br />PHOTO / Anne-Marie McDonald</span></p>

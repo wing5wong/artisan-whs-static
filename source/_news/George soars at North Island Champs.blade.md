@@ -5,11 +5,11 @@ description: "George Davy finished fifth in the Enduro division at the NZ School
 featured-image: 
 excerpt: "George Davy finished fifth in the Enduro division at the NZ Schools North Island Mountain Bike Championships."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/asCmWsXKqvyLIYgTrQC9PGmSmMo=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/SOIMKDJMBBFF3CIIAZWW7JZQOQ.jpg" alt="George Davy finished fifth in the Enduro division at the NZ Schools North Island Mountain Bike Championships." /></p>

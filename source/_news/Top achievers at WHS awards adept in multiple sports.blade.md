@@ -5,11 +5,11 @@ description: "Girl & Boy Sport Dux; Kerwyn Morgan & Jordan Cohen flank Most Outs
 featured-image: 
 excerpt: "Girl Sport Dux Kerwyn Morgan & Boys Sport Dux Jordan Cohen flank Most Outstanding Sporting Achievement winner Rebecca Baker at the WHS Sports Awards."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><span>Girl Sport Dux Kerwyn Morgan and Boys Sport Dux Jordan Cohen flank Most Outstanding Sporting Achievement winner Rebecca Baker at the Whanganui High School Sports Awards last week.</span></h3>

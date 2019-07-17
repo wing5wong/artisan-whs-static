@@ -5,11 +5,11 @@ description: "Former student Simon Dibben part of prizegiving vouchers won in th
 featured-image: 
 excerpt: "Former student Simon Dibben part of prizegiving vouchers won in the Mitre 10 Heartland Competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="/uploads/5be4e388ff2a7c39a800051a/Simon-Dibben-midweek-names-7-nov.PNG" alt="" /></p>

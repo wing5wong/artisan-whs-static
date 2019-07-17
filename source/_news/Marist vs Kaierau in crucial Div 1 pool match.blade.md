@@ -5,11 +5,11 @@ description: "Cross town rivals Marist and Kaierau are both meeting each other a
 featured-image: 
 excerpt: "Cross town rivals Dave Hoskin Carriers Marist and Wanganui Car Centre Kaierau are both meeting each other along the row on Saturday"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;<br /><img src="https://www.nzherald.co.nz/resizer/qN3kfbQI7VfxikalSdy10JrpAQw=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/ZEIG7D3XPBCUXDUXGCDTX7TRDM.jpg" alt="Marist's Taione Ratu taking the ball up against Kaierau in the season opener at Spriggens Park. Marist will be looking for payback for that loss in Saturday's crucial game at the Country Club." /></p>

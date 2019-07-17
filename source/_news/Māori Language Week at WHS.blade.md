@@ -5,11 +5,11 @@ description: "To support the promotion of Te Wiki o Te Reo Māori, WHS will be h
 featured-image: 
 excerpt: "To support the promotion of Te Wiki o Te Reo Māori, WHS will be hosting a rock finding competition."
 image_gallery:
-	 - image: "/uploads/5b959711ff2a7c29650001b9/snip-photo-supporting-Maori-language-week.PNG"
-	
-	
-	
-	
+     - image: "/uploads/5b959711ff2a7c29650001b9/snip-photo-supporting-Maori-language-week.PNG"
+    
+    
+    
+    
 ---
 
 <h4>Māori Language Week 2018<strong> <br /></strong></h4>

@@ -5,11 +5,11 @@ description: "HARD EARNED: The Wanganui Under-20s after their victory at the Int
 featured-image: 
 excerpt: "HARD EARNED: Daniel Kauika had another solid game at fullback and made good breaks out wide in the Wanganui Under-20s victory game at the International Rugby Academy in Palmerston North."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>HARD EARNED: WHS student <strong>Daniel Kauika</strong> had another solid game at fullback and made good breaks out wide in the Wanganui Under-20s victory game at the International Rugby Academy in Palmerston North.&nbsp;</p>

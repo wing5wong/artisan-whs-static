@@ -5,11 +5,11 @@ description: "Team Ritesh Football Whanganui made it two wins for the season for
 featured-image: 
 excerpt: "Team Ritesh Football Whanganui made it two wins for the season for the first time in their three year history of Women's Federation League"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><br /><img src="https://images.all-free-download.com/images/graphiclarge/football_theme_picture_07_hd_pictures_168216.jpg" alt="Image result for football images" /></p>

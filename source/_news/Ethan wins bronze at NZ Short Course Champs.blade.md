@@ -5,11 +5,11 @@ description: "Ethan Bryers with his bronze in the 400m 14-year-old boys 400m fre
 featured-image: 
 excerpt: "WHS student Ethan Bryers and his bronze in the 400m 14-year-old boys 400m freestyle, the only medal for Whanganui, at the National Short Course Swimming Championships in Auckland last week."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bbeb390ff2a7c68e50002f9/NZ-Short-course-swim-champ-chron-11-oct.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bbeb390ff2a7c68e50002f9/NZ-Short-course-swim-champ-chron-11-oct.jpg"
+    
+    
+    
+    
 ---
 
 <p><span><span><strong>WHS student Ethan Bryers and his bronze in the 400m 14-year-old boys 400m freestyle</strong>, the only medal for Whanganui.</span></span></p>

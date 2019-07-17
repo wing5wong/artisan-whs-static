@@ -5,11 +5,11 @@ description: "Tim Easton – Returns to Whanganui via Army postings at Afghanist
 featured-image: 
 excerpt: "Tim Easton – Returns to Whanganui via Army postings at Afghanistan and Egypt"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Tim Easton &ndash; Returns to Whanganui via Army postings at Afghanistan and Egypt</p>

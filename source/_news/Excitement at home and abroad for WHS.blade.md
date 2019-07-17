@@ -5,11 +5,11 @@ description: "Twenty-seven students across all year levels & three staff members
 featured-image: 
 excerpt: "Twenty-seven students across all year levels & three staff members travelled on a sixteen-day trip via Beijing & the Great Wall to one of our overseas sister schools in Xuzhou, China."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5bd64e5dff2a7c39a8000124/Sophia-and-Trophy.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5bd64e5dff2a7c39a8000124/Sophia-and-Trophy.jpg"
+    
+    
+    
+    
 ---
 
 <p>Photo: Twenty-seven WHS students and three teachers in China.</p>

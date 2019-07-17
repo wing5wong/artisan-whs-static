@@ -5,11 +5,11 @@ description: "WHS students Niamh Monk, Ally Bennett & Blake Hogan all had fantas
 featured-image: 
 excerpt: "WHS students Niamh Monk, Ally Bennett and Blake Hogan all had fantastic results in their races at the Billy Webb Challenge event on the Whanganui River."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5c075069ff2a7c39a8000f88/Billy-Webb-chron-3-dec.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5c075069ff2a7c39a8000f88/Billy-Webb-chron-3-dec.jpg"
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>WHS students&nbsp;Niamh Monk, Ally Bennett and&nbsp;Blake Hogan all had fantastic&nbsp;results in their races at the Billy Webb Challenge event on the Whanganui River.<br /></strong><em>PHOTO / Bevan Conley</em></p>

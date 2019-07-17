@@ -5,11 +5,11 @@ description: "WHS band 'The Have', who were the 2002 national winners, were fant
 featured-image: 
 excerpt: "WHS band 'The Have', who were the 2002 national winners, were fantastic."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui High School band <em>'The Have'</em>, who were the 2002 national winners, were fantastic.<br /></strong><em>Photo L&gt;R:&nbsp;&nbsp;Brodie White, Blair Gibson, Peter Mangan &amp; Mike Tweed.<strong><br /></strong>(photo from www.muzic.net.nz)</em></p>

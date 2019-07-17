@@ -5,11 +5,11 @@ description: "Top Cornet player Kyle Lawson features in Brass Whanganui concert 
 featured-image: 
 excerpt: "Top Cornet player Kyle Lawson features in Brass Whanganui concert this Sunday."
 image_gallery:
-	 - image: "http://c1940652.r52.cf0.rackcdn.com/5aa6e5dab8d39a7499000b3b/Kyle-Lawson-CARDcornet-soloist-chron-24-feb.jpg"
-	
-	
-	
-	
+     - image: "http://c1940652.r52.cf0.rackcdn.com/5aa6e5dab8d39a7499000b3b/Kyle-Lawson-CARDcornet-soloist-chron-24-feb.jpg"
+    
+    
+    
+    
 ---
 
 <p><strong>Former WHS student Kyle Lawson with WHS Instrumental Music Tutor of Brass Bruce Jellyman.</strong></p>

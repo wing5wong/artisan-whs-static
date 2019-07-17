@@ -5,11 +5,11 @@ description: "Whanganui's biggest rowing weekend December 1-2; Toyota Jury Cup o
 featured-image: 
 excerpt: "Whanganui's biggest rowing weekend of the season December 1-2; Toyota Jury Cup over 2 km & 10th anniversary Billy Webb Single 5km."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">Whanganui's biggest rowing weekend of the season went off splendidly on December 1-2 with the Toyota Jury Cup over 2km and 10th anniversary Billy Webb Single 5km raced on consecutive days.<br /><em>Photo / Jacs Rush</em></p>

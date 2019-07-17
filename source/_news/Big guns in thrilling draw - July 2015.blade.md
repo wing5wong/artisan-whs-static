@@ -5,11 +5,11 @@ description: "BACK ON TOP: Kerwyn Morgan did her part to put defending champions
 featured-image: 
 excerpt: "BACK ON TOP: Kerwyn Morgan did her part to put defending champions WHS back on top of the points table against Kaiwhaiki on Monday night, from Wanganui Chronicle article on 1/7/15..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>BACK ON TOP: Kerwyn Morgan did her part to put defending champions WHS back on top of the points table against Kaiwhaiki on Monday night.</span></p>

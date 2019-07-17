@@ -5,11 +5,11 @@ description: "Colin McKinney (left) and Heath McKenzie play father and son in Am
 featured-image: 
 excerpt: "Colin McKinney (left) and Heath McKenzie play father and son in Amdram's production of The Vicar of Dibley."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/w-kwD1cNF5QuQgRPqUf4EzZsocE=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/XCN6NPMLEVDDHIA6ZBMMFP2WEI.jpg" alt="Colin McKinney (left) and Heath McKenzie play father and son in Amdram's production of The Vicar of Dibley. PICTURE / PAUL BROOKS" /></p>

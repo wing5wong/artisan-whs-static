@@ -5,11 +5,11 @@ description: "Congratulations to WHS student Rebecca Baker who won MVP of the wh
 featured-image: 
 excerpt: "Congratulations to WHS student Rebecca Baker who won MVP of the whole tournament!"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h4>Congratulations to Rebecca Baker who won MVP of the whole tournament!</h4>

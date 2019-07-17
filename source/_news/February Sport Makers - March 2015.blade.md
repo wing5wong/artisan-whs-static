@@ -5,11 +5,11 @@ description: "Mikal Terrey, one of February's winning Lotto Volunteers, from the
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Mikal Terrey, one of February's winning Lotto Volunteers.</p>

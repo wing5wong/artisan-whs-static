@@ -5,11 +5,11 @@ description: "GOING GLOBAL: Former Wanganui woman Megan Smith has been named hea
 featured-image: 
 excerpt: ""
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>GOING GLOBAL: &nbsp;Former Wanganui woman and ex Wanganui High School student Megan Smith has been named head of global sales and marketing for software company TotalView Solutions.</p>
