@@ -51,7 +51,7 @@
         <h2 class="mb-2 w-100">
             {{ $title }}
         </h2>
-        <a class="btn btn-light mt-2" href="/{{$col}}">More Information</a>
+        <a class="btn btn-light mt-2" href="/news-and-events/{{$col}}">More Information</a>
     </div>
     @endforeach
 </div>
