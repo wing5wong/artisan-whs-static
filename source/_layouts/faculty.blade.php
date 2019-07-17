@@ -29,7 +29,7 @@
         <ul>
         @foreach($subjectCourses as $course)
         <li>
-            <a href="{{$course->getPath()}}">{{ $course->level }} {{ $course->name }}</a>
+            <a href="{{$course->getPath()}}">{{ $course->level }} {{ $course->name }} ({{ $course->course_level }})</a>
         </li>
         @endforeach
         </ul>

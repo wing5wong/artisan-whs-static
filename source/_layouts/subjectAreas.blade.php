@@ -21,7 +21,7 @@
 <ul>
     @foreach($subjectAreaCourses as $c)
 <li>
-    <a href="{{$c->getPath()}}">{{ $c->title }}</a>
+    <a href="{{$c->getPath()}}">[{{ $c->title }}] {{ $course->name }} ({{$course->course_level}})</a>
 </li>
     @endforeach
 </ul>

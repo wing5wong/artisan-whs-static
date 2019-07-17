@@ -3,7 +3,7 @@
 @section('title', $page->title)
 
 @section('content')
-<h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
+<h1 class="decorated py-3 mb-4">{{ $page->title }} - {{ $course->name }}</h1>
 
 {!! $page !!}
 
@@ -125,7 +125,7 @@ $subjectAreaCourses = $courses->filter(function($c) use ($page){
 <ul>
 @foreach($subjectAreaCourses as $c)
 <li>
-<a href="{{$c->getPath()}}">{{ $c->title }}</a>
+    <a href="{{$c->getPath()}}">[{{ $c->title }}] {{ $course->name }} ({{$course->course_level}})</a>
 </li>
 @endforeach
 </ul>

@@ -19,7 +19,7 @@ pagination:
     </div>
     <div class="col-10">
         <h2>{{$n->title}}<br>
-            <small>{{ date('F j, Y', $n->date) }} </small>
+            <small class="text-muted">{{ date('F j, Y', $n->date) }} </small>
         </h2>
         <div class="row">
             <div class="col-10">
