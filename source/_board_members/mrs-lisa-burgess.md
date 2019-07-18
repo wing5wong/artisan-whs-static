@@ -3,12 +3,16 @@ title: Lisa Burgess
 position: Member
 category: Board Member
 ---
-I have been employed as a full time teacher of English and Social Studies at WHS for the past 10 years. I am currently in charge of the Year 11 English courses. My teacher inquiry is focused on literacy for our at risk students as they enter Year 11. I have had one of my children educated at WHS, and I have coached basketball and hockey during this time.
+I am a full-time Teacher of English and Teacher-in-Charge of Year 11 English.  I have managed hockey and basketball teams and am continuing with the latter in 2019.
 
+ 
 
+I have been the Staff Trustee for the past three years.  During this time, I was involved with the Principal’s appointment in 2017.  Following the changes to the Health and Safety legislation, I was also involved in the establishment of the Health and Safety Committee and subsequent ticketing system.
 
-As the Staff Trustee on the Board I want to ensure that there is open and transparent communication from the Board to the Staff, and vice versa. Over the last six years I have watched lots of positive change occur but often at the expense of the good will and morale of the Staff. I would like to work with the Board to ensure that Staff have an avenue to express their views without prejudice. I believe there is a need for Staff to have a better understanding of the Board’s processes and decisionmaking.
+ 
 
+During my ten years at Whanganui High School I have witnessed a change to the clientele in our classes, and the diverse range of educational and pastoral needs which are associated with them.  I believe it is important that the BOT are aware of this and the additional pressure which this puts on the school systems and staff.  I believe we need to be proactive in dealing with these changes and support the staff in working to help students gain success in this current climate.
 
+ 
 
-I am approachable, open minded and ready to assist Staff in a confidential and supportive way. I believe that in the past there has been an unnecessary distance in the relationship between the Staff and the Board. We both have the interest of the students and the wider community at the forefront of our minds. I believe if we work together using a positive framework we can achieve much more. I will be a strong advocate for you and welcome the opportunity to represent the Staff as part of this process.
+I would also like to continue with the push for the BOT to look at and address the wellbeing of our large and hard-working staff, both inside and outside the classroom .  I believe providing a healthy and safe working environment, for both staff and students, is a priority for the board and should be the focus over the next three years.  Great learning environment = happy teachers = successful students.
