@@ -61,7 +61,7 @@ return [
             ],
             [
                 'title' => 'News',
-                'url' => '/news-and-events/news-articles'
+                'url' => '/news-and-events/news'
             ],
             [
                 'title' => 'Upcoming Events',
