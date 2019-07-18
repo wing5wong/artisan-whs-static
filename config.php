@@ -123,7 +123,7 @@ return [
             'tags' => [],
         ],
         'news' => [
-            'path' => 'news/{filename}',
+            'path' => 'news/{-filename}',
             'sort' => ['-date','title'],
             'extends' => '_layouts.post',
             'section' => 'postContent',
