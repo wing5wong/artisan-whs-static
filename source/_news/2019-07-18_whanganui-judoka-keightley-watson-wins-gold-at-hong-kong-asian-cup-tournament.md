@@ -10,10 +10,6 @@ short: >-
   Whanganui heavyweight judoka Keightley Watson has won gold in the Hong Kong
   Asian Cup over the weekend.
 ---
-Whanganui heavyweight judoka Keightley Watson has won gold in the Hong Kong Asian Cup over the weekend.
-
-
-
 Watson won his gold medal in the plus 100kg junior men's division after a below par performance by his own standards the previous weekend in the Macau Asian Cup where he lost the bronze medal.
 
 
