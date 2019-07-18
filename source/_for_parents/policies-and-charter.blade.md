@@ -5,11 +5,11 @@ intro: >-
   Our school charter is updated on an annual basis & school policies on a yearly
   or three yearly cycle. Including curriculum, review & planning, good employer,
   finance & property;health, safety & well-being and admin.
-extends: _layouts.policies-and-charter
 ---
 ## School Charter
 
-Our School Charter is updated on an annual basis and is available below:\
+Our School Charter is updated on an annual basis and is available below:
+
 [View the 2019 Whanganui High School Charter](https://res.cloudinary.com/whanganuihigh/image/upload/v1563408635/School%20Documents/Charter/WHS_Charter_2019.pdf)
 
 ## School Representatives
