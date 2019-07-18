@@ -5,11 +5,10 @@ intro: >-
   Our school charter is updated on an annual basis & school policies on a yearly
   or three yearly cycle. Including curriculum, review & planning, good employer,
   finance & property;health, safety & well-being and admin.
-extends: _layouts.policies-and-charter
 ---
 ## School Charter
 
-Our School Charter is updated on an annual basis and is available below:  
+Our School Charter is updated on an annual basis and is available below:\
 [View the 2019 Whanganui High School Charter](https://res.cloudinary.com/whanganuihigh/image/upload/v1563408635/School%20Documents/Charter/WHS_Charter_2019.pdf)
 
 ## School Representatives
@@ -19,3 +18,7 @@ Students representing Whanganui High School in any co- curricular activity are e
 Whanganui High School representatives are bound by the Smoke, Drug, and Alcohol Free conditions under which all events are managed
 
 [Read the full criteria for representing Whanganui High School](http://c1940652.r52.cf0.rackcdn.com/575f26cab8d39a469d002e26/WHANGANUI-HIGH-SCHOOL-REPRESENTATIVES.pdf)
+
+## Annual Report
+
+[Read the 2018 Annual Report](https://res.cloudinary.com/whanganuihigh/image/upload/v1563492511/School%20Documents/Annual%20Report/0189_2018_AudFin_Whanganui_High_School.pdf)
