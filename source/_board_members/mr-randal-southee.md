@@ -1,6 +1,6 @@
 ---
 title: Mr Randal Southee
-position: Board Chairperson
+position: Member
 category: Board Member
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1557888924/staff/20181019-_MB66417_r.jpg

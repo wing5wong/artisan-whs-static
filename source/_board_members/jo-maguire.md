@@ -1,6 +1,6 @@
 ---
 title: Jo Maguire
-position: Member
+position: Board Chairperson
 category: Board Member
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1556755638/BoT/Jo-Maguire.png
@@ -10,8 +10,6 @@ Tēnā koutou katoa
  
 
 My name is Jo Maguire. I am married to Paul, who is a former pupil of the school, and we have two daughters attending Whanganui High School in Year 10 and Year 12.
-
- 
 
 I am the Deputy Principal at St Johns Hill School and have been a teacher for over 25 years, working in both low and high decile schools. I work with families, whanau, teachers, our community and agencies every day to support them on their learning pathway.
 
