@@ -35,4 +35,4 @@ Late September Watson travels to Japan as part of the New Zealand senior squad o
 "It would be nice to have some of these tournaments closer to home and not have to travel sometimes up to 30 hours to the other side of the world days before competing, but unfortunately the tournaments that count are all in the Asian or European continents so travel has become essential in his progression in the sport regardless whether it is for training or competing." father Ross Watson said.
 
 By Iain Hyndman  
-Whanganui Chronicle
+Whanganui Chronicle 18/7/19
