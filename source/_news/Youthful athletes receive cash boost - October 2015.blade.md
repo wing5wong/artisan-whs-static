@@ -3,7 +3,7 @@ title: "Youthful athletes receive cash boost - October 2015"
 date: 
 description: "Five new faces are the latest recipients of grants from the Mitre 10 Mega Wanganui Future Champions Trust.
 One of those faces to receive a grant was Wanganui High School student Blair Osborne."
-featured-image: /uploads/5639289bb8d39a2136000517/OSBOURNE.JPG
+image: /uploads/5639289bb8d39a2136000517/OSBOURNE.JPG
 excerpt: "Five new faces are the latest recipients of grants from the Mitre 10 Mega Wanganui Future Champions Trust.
 One of those faces to receive a grant was Wanganui High School student Blair Osborne."
 image_gallery:

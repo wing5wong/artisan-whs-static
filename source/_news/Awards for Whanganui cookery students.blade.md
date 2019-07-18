@@ -2,7 +2,7 @@
 title: "Awards for Whanganui cookery students"
 date: 2019-06-06
 description: "UCOL Whanganui cookery students ahead of the Taranaki Hospitality Competitions in New Plymouth..."
-featured-image: 
+image: 
 excerpt: "UCOL Whanganui cookery students ahead of the Taranaki Hospitality Competitions in New Plymouth."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Head coach Andy McLay leaving Whanganui"
 date: 2019-05-14
 description: "Swimming club coach Andy McLay is leaving Whanganui after five years service."
-featured-image: 
+image: 
 excerpt: "Swimming club coach Andy McLay is leaving Whanganui after five years service."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Troy Bullock finishes 2nd in National Enduro Series"
 date: 2019-05-30
 description: "Whanganui junior Troy Bullock finishes 2nd in the National Enduro Series..."
-featured-image: 
+image: 
 excerpt: "Whanganui junior Troy Bullock on his way to second at the North Island Cross Country Series where he accumulated enough points to finish runner-up in the National Enduro Series."
 image_gallery:
     

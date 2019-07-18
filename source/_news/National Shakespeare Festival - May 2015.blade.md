@@ -2,7 +2,7 @@
 title: "National Shakespeare Festival - May 2015"
 date: 
 description: "WHS winners at The National Shakespeare Festival held at St James Theatre in Wellington on 30 May 2015. Congratulations to Larissa Hutchins, Connor Bourne and Vincent Collins."
-featured-image: 
+image: 
 excerpt: "WHS winners at The National Shakespeare Festival held at St James Theatre in Wellington on 30 May 2015. Congratulations to Larissa Hutchins, Connor Bourne and Vincent Collins."
 image_gallery:
     

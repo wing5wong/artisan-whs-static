@@ -2,7 +2,7 @@
 title: "\"Champions' arrive at Wembley"
 date: 2019-05-04
 description: "Wanganui Athletic's Jude Hiri & his team will not want to believe the press of Havelock North when they come to Wembley Park..."
-featured-image: 
+image: 
 excerpt: "Wanganui Athletic's Jude Hiri & his team will not want to believe the press of Havelock North when they come to Wembley Park"
 image_gallery:
     

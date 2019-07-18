@@ -2,7 +2,7 @@
 title: "Sam's playing top rugby in the US"
 date: 2019-06-19
 description: "Toronto Arrows hero of the moment was Whanganui High School star, Sam Malcolm!.."
-featured-image: 
+image: 
 excerpt: "Toronto Arrows hero of the moment was Whanganui High School star, Sam Malcolm!"
 image_gallery:
     

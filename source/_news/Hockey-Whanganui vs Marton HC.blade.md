@@ -2,7 +2,7 @@
 title: "Hockey: Whanganui vs Marton HC"
 date: 2019-05-07
 description: "Travis Bayler looks to open up the Marton defenders in the first half of their 4-3 win over Marton HC in the Hockey Manawatu"
-featured-image: 
+image: 
 excerpt: "Whanganui's Travis Bayler looks to open up the Marton defenders in the first half of their 4-3 win over Marton HC in the Hockey Manawatu Premier Reserve Men's game at Gonville on Saturday."
 image_gallery:
     

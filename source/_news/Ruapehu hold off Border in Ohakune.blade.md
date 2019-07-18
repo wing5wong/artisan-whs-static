@@ -2,7 +2,7 @@
 title: "Ruapehu hold off Border in Ohakune"
 date: 2019-05-13
 description: "Millar, who had a 21st birthday to celebrate, converted the tries plus added another penalty to put his team..."
-featured-image: 
+image: 
 excerpt: "Millar, who had a 21st birthday to celebrate, converted the tries plus added another penalty to put his team in the catbird seat at 27-3."
 image_gallery:
     

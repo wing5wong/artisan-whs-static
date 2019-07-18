@@ -2,7 +2,7 @@
 title: "Hockey: Whanganui teams start their Manawatu campaigns"
 date: 2019-04-27
 description: "Tyler Nicoll-Hylton & his Tech College Old Boys team are having to work their way back to Hockey Manawatu's top grade..."
-featured-image: 
+image: 
 excerpt: "Tyler Nicoll-Hylton and his Tech College Old Boys team are having to work their way back to Hockey Manawatu's top grade after being relegated for 2019."
 image_gallery:
     

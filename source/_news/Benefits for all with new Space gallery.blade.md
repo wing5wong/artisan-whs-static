@@ -2,7 +2,7 @@
 title: "Benefits for all with new Space gallery"
 date: 2019-04-24
 description: "Ready for the next exhibition at Space are Craig Winton, Leonie Sharp and Sarah Williams..."
-featured-image: 
+image: 
 excerpt: "Ready for the next exhibition at Space are Craig Winton, Leonie Sharp and Sarah Williams."
 image_gallery:
     

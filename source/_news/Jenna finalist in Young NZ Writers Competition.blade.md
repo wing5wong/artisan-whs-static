@@ -2,7 +2,7 @@
 title: "Jenna finalist in Young NZ Writers Competition"
 date: 2019-06-03
 description: "Jenna Mareikura-Lacy has had a short story accepted for publication by \"Write Off Line 2019\".  The competition topic was..."
-featured-image: 
+image: 
 excerpt: "Jenna Mareikura-Lacy has had a short story accepted for publication by \"Write Off Line 2019\".  The competition topic was: “Something Strange Happened in Rotorua.”"
 image_gallery:
     

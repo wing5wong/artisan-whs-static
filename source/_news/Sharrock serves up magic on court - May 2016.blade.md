@@ -2,7 +2,7 @@
 title: "Sharrock serves up magic on court - May 2016"
 date: 
 description: "WHANGANUI'S Chris Sharrock claimed his third senior open grade badminton title in six months when he and partner Rowena Devathasan won the mixed doubles at the Manawatu Open last weekend..."
-featured-image: 
+image: 
 excerpt: "WHANGANUI'S Chris Sharrock claimed his third senior open grade badminton title in six months when he and partner Rowena Devathasan won the mixed doubles at the Manawatu Open last weekend."
 image_gallery:
     

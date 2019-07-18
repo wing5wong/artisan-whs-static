@@ -2,7 +2,7 @@
 title: "Exhibitions draw on lottery of life"
 date: 2019-04-06
 description: "Whanganui artists Glen Hutchins and Fleur Wickes are risking fate and trying a little tenderness at Space Gallery..."
-featured-image: 
+image: 
 excerpt: "Whanganui artists Glen Hutchins and Fleur Wickes are risking fate and trying a little tenderness at Space Gallery."
 image_gallery:
     

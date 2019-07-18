@@ -2,7 +2,7 @@
 title: "Year 9 students did us proud at the Manawatu Readers Cup"
 date: 2019-06-19
 description: "Year 9 students did us proud at the Manawatu Readers Cup held at the Feilding Civic Centre on Wednesday 19 June..."
-featured-image: 
+image: 
 excerpt: "Year 9 students did us proud at the Manawatu Readers Cup held at the Feilding Civic Centre on Wednesday 19 June."
 image_gallery:
     

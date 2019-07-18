@@ -2,7 +2,7 @@
 title: "Photo finish denies crew win at regatta on Thames"
 date: 2019-07-05
 description: "It was the tip of the bow ball preventing the AWRC's coxless four from advancing to the 2nd round of the Wyfold Challenge Cup..."
-featured-image: 
+image: 
 excerpt: "It was the tip of the bow ball preventing the AWRC's coxless four from advancing to the 2nd round of the Wyfold Challenge Cup on the River Thames"
 image_gallery:
     

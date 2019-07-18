@@ -2,7 +2,7 @@
 title: "Wanganui Athletic 'humbled' by rampant Havelock North"
 date: 2019-05-06
 description: "Wanganui Athletic's Scott Burney in a goal-mouth scramble with Havelock North's Campbell Whitworth and Nick Hayward..."
-featured-image: 
+image: 
 excerpt: "Wanganui Athletic's Scott Burney in a goal-mouth scramble with Havelock North's Campbell Whitworth and Nick Hayward."
 image_gallery:
     

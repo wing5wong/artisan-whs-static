@@ -2,7 +2,7 @@
 title: "CONGRATULATIONS JEANNE-MARIE BONNET - 2016 DUX of WHS"
 date: 
 description: "Congratulations Jeanne-Marie Bonnet - 2016 DUX of WHS..."
-featured-image: /uploads/58365c6eb8d39a165e00019f/Dux-of-the-School-Jeanne-Marie-Bonnet.JPG
+image: /uploads/58365c6eb8d39a165e00019f/Dux-of-the-School-Jeanne-Marie-Bonnet.JPG
 excerpt: "Congratulations Jeanne-Marie Bonnet - 2016 DUX of WHS."
 image_gallery:
      - image: "/uploads/58365c6eb8d39a165e00019f/Dux-of-the-School-Jeanne-Marie-Bonnet.JPG"

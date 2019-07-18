@@ -2,7 +2,7 @@
 title: "Vicar's team ready for the stage"
 date: 2019-06-19
 description: "The Vicar of Dibley will be at Amdram Theatre for the next week. Mike and I have loved being part of the team..."
-featured-image: 
+image: 
 excerpt: "The Vicar of Dibley will be at Amdram Theatre for the next week. Mike and I have loved being part of the team"
 image_gallery:
     

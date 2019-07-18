@@ -2,7 +2,7 @@
 title: "WHS leads the charge for anti-bullying week"
 date: 2019-05-18
 description: "Whanganui High School leads the charge for anti-bullying week..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School leads the charge for anti-bullying week."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Half the man he used to be"
 date: 2019-05-11
 description: "In 2014, Adrian Campbell weighed just under 200 kilograms. Five years later, he weighs 99.6..."
-featured-image: 
+image: 
 excerpt: "In 2014, Adrian Campbell weighed just under 200 kilograms. Five years later, he weighs 99.6."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Football: Match one out of the box"
 date: 2019-06-17
 description: "Wanganui's City Dan Aplin looking to clear the New Plymouth Rangers keeper to get his shot away during Saturday's..."
-featured-image: 
+image: 
 excerpt: "Wanganui's City Dan Aplin looking to clear the New Plymouth Rangers keeper to get his shot away during Saturday's amazing 6-6 draw at Wembley Park."
 image_gallery:
     

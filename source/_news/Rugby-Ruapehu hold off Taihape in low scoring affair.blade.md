@@ -2,7 +2,7 @@
 title: "Rugby: Ruapehu hold off Taihape in low scoring affair"
 date: 2019-04-29
 description: "Mitchell Millar scored all of Ruapehu's points in their low scoring win over Taihape at Rochfort Park on Saturday..."
-featured-image: 
+image: 
 excerpt: "Mitchell Millar scored all of Ruapehu's points in their low scoring win over Taihape at Rochfort Park on Saturday."
 image_gallery:
     

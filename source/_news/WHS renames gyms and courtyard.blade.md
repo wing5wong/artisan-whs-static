@@ -2,7 +2,7 @@
 title: "WHS renames gyms and courtyard"
 date: 2019-06-18
 description: "Whanganui High School has changed the names of some of its buildings and taken on additional names for others..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School has changed the names of some of its buildings and taken on additional names for others."
 image_gallery:
     

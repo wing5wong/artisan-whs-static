@@ -2,7 +2,7 @@
 title: "Men's coxed four win Silver"
 date: 
 description: "The crew was coxed by WHS Y12 student Niamh Mullany; Y13 Ben Tijsen-Cox, ex students Nathan Luff, Guy Thomson plus James Sandston were the crew..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/58aa092ab8d39a3eff002ef3/Silver-medal-(actual)coxed-four-Feb-2017-twizel.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/58aa092ab8d39a3eff002ef3/Silver-medal-(actual)coxed-four-Feb-2017-twizel.jpg
 excerpt: "The crew was coxed by WHS Y12 student Niamh Mullany; Y13 Ben Tijsen-Cox, ex students Nathan Luff, Guy Thomson plus James Sandston were the crew."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58aa093ab8d39a3eff002ef5/Silver-medal-coxed-four-Feb-2017-twizel.jpg"

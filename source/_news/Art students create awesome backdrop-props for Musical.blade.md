@@ -2,7 +2,7 @@
 title: "Art students create awesome backdrop/props for Musical"
 date: 
 description: "WHS Art students create an awesome backdrop and props for the St Johns Hill School upcoming Year 6 Musical “The Amazing Adventures of Superstan” held at St Johns Hill school on 6 and 7 December..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5833734bb8d39a2982000237/backdrop-compilation.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5833734bb8d39a2982000237/backdrop-compilation.jpg
 excerpt: "WHS Art students create an awesome backdrop and props for the St Johns Hill School upcoming Musical “The Amazing Adventures of Superstan” held at St Johns Hill school on 6 and 7 December."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/583373a4b8d39a2982000243/DSC_0005-H.jpg"

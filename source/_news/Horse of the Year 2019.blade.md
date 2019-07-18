@@ -2,7 +2,7 @@
 title: "Horse of the Year 2019"
 date: 2019-03-17
 description: "Two of our students took part in the Horse of the Year 2019 which was in Hawkes Bay, 12-17 March..."
-featured-image: 
+image: 
 excerpt: "Two of our students took part in the Horse of the Year 2019 which was in Hawkes Bay, 12-17 March."
 image_gallery:
     

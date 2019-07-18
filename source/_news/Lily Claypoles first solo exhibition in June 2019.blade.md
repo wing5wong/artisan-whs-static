@@ -2,7 +2,7 @@
 title: "Lily Claypole's first solo exhibition in June 2019"
 date: 2019-05-04
 description: "Young Artist Scholarship 2018 winner Lily Claypole will hold her first solo exhibition in June 2019..."
-featured-image: 
+image: 
 excerpt: "Young Artist Scholarship 2018 winner Lily Claypole will hold her first solo exhibition in June 2019."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "George soars at North Island Champs"
 date: 2019-04-09
 description: "George Davy finished fifth in the Enduro division at the NZ Schools North Island Mountain Bike Champs..."
-featured-image: 
+image: 
 excerpt: "George Davy finished fifth in the Enduro division at the NZ Schools North Island Mountain Bike Championships."
 image_gallery:
     

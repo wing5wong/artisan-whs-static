@@ -2,7 +2,7 @@
 title: "Students to represent WHS at the WSS Cross Country"
 date: 2019-05-11
 description: "The following students are representing WHS at the WSS Cross Country on Thursday 23 May at Tawhero Golf Course..."
-featured-image: 
+image: 
 excerpt: "The following students have been named to represent WHS at the WSS Cross Country on Thursday May 23rd at Tawhero Golf Course."
 image_gallery:
     

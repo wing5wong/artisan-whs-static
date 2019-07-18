@@ -2,7 +2,7 @@
 title: "Whanganui designer on Project Runway"
 date: 2018-09-15
 description: "Whanganui born designer Kerry Ranginui is a contestant on the first series of Project Runway NZ..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b9ed831ff2a7c2965000470/Kerry-Ranginui260--project-runway-chron-15-sept.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5b9ed831ff2a7c2965000470/Kerry-Ranginui260--project-runway-chron-15-sept.jpg
 excerpt: "Whanganui born designer Kerry Ranginui is a contestant on the first series of Project Runway NZ."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b9ed8acff2a7c2965000472/Kerry-Ranginui-head-shot-only-from-Chron.jpg"

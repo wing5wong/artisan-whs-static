@@ -2,7 +2,7 @@
 title: "Young artists tell tales of Pakaitore in new art exhibition"
 date: 2019-05-22
 description: "Teachers David Pearce (left), Cath Sleyer, Graham Hall and Diana Pottinger with their students work at the Pākaitore exhibition."
-featured-image: 
+image: 
 excerpt: "Teachers David Pearce (left), Cath Sleyer, Graham Hall and Diana Pottinger with their students work at the Pākaitore exhibition."
 image_gallery:
     

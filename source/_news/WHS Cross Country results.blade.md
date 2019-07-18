@@ -1,30 +1,27 @@
 ---
-title: "WHS Cross Country Results"
-date: 2018-05-09
-description: "A fantastic day was had at our WHS Cross Country event held on Wednesday 9 May 2018..."
-featured-image: /uploads/5b0f8a3fff2a7c6bfc0020f8/Cross-Country-Photo-2018.JPG
-excerpt: "A fantastic day was had at our WHS Cross Country event held on Wednesday 9 May 2018."
+title: "WHS Cross Country results"
+date: 
+description: "WHS Cross Country results which were held at Springvale Park on Tuesday 16 May..."
+image: http://c1940652.r52.cf0.rackcdn.com/591e7854b8d39a0a7c000380/start-of-boys.jpg
+excerpt: "WHS Cross Country results which were held at Springvale Park on Tuesday 16 May."
 image_gallery:
-    
-    
-    
+     - image: "http://c1940652.r52.cf0.rackcdn.com/591e786eb8d39a0a7c000384/start-of-girls.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/591e7854b8d39a0a7c000380/start-of-boys.jpg"
+     - image: "http://c1940652.r52.cf0.rackcdn.com/591e7864b8d39a0a7c000382/boys-from-behind.jpg"
     
     
 ---
 
-<p>A fantastic day was had at our Whanganui High School Cross Country event held on Wednesday 9 May 2018:</p>
-<p><strong><strong>Results:</strong></strong></p>
-<p><strong><strong>Y9 Girls&nbsp;</strong></strong></p>
-<p><strong>Charlotte Baker 1<sup>st<br /></sup></strong><strong>Lauren Phillips&nbsp;2<sup>nd<br /></sup></strong><strong>Jemma Tan 3<sup>rd</sup></strong></p>
-<p><strong><strong>Y9 Boys&nbsp;</strong></strong></p>
-<p><strong>Nat Kirk 1<sup>st<br /></sup></strong><strong>Keane Metekingi 2<sup>nd<br /></sup></strong><strong><strong>Morgan Murray 3<sup>rd</sup></strong></strong></p>
-<p><strong><strong><strong>Jnr Girls</strong></strong></strong></p>
-<p><strong>Paris Munro 1<sup>st<br /></sup></strong><strong>Rebekah Phillips 2<sup>nd<br /></sup></strong><strong>Riana Tamati 3<sup>rd</sup></strong></p>
-<p><strong><strong><strong>Jnr Boys&nbsp;</strong></strong></strong></p>
-<p><strong>Blair Gowan 1<sup>st<br /></sup></strong><strong>Jordan Vlaanderen 2<sup>nd<br /></sup></strong><strong><strong><strong>Ryan Bayler 3<sup>rd</sup></strong></strong></strong></p>
-<p><strong><strong><strong><strong>Snr Girls&nbsp;</strong></strong></strong></strong></p>
-<p><strong>Rebecca Baker 1<sup>st<br /></sup></strong><strong>Renee Teers 2<sup>nd<br /></sup></strong><strong>Rebecca Tamati 3<sup>rd</sup></strong></p>
-<p><strong><strong><strong><strong>Snr Boys&nbsp;</strong></strong></strong></strong></p>
-<p><strong>Travis Bayler 1<sup>st<br /></sup></strong><strong>Flynn Hogan 2<sup>nd<br /></sup></strong><strong>Joseph Read 3<sup>rd<br /><br /></sup></strong></p>
-<p><strong>Well done, congratulations to you all!</strong></p>
+<p><strong>Cross Country Results&nbsp;</strong>which were held at Springvale Park on Tuesday 16 May.</p>
+<p>Y9 Girls&nbsp;<br />1st - Paris Munro<br />2nd - Hollyrae Mete-Renata<br />3rd - Grace Walford</p>
+<div class="text_exposed_show">
+<p>Y9 Boys&nbsp;<br />1st - Blair Gowan<br />2nd - Jordan Viaanderen<br />3rd - Matthew Teka</p>
+<p>Junior Girls&nbsp;<br />1st - Rebecca Baker<br />2nd - Libby Abbott<br />3rd - Renee Teers</p>
+<p>Junior Boys&nbsp;<br />1st - Ethan Cox<br />2nd - Connor Hoskin<br />3rd - Kane Tweedale</p>
+<p>Senior Girls&nbsp;<br />1st - Monique Cleeve<br />2nd - Mikal Terrey<br />3rd - Amber Andrews</p>
+<p>Senior Boys&nbsp;<br />1st - Liam Jones<br />2nd - Travis Bayler<br />3rd - Flynn Hogan</p>
+<p>Well done to all competitors, staff and support staff that helped make it a great day!&nbsp;</p>
+<p>We will now select a WHS team to compete at the WSS next Thursday 25th May at Collegiate School.</p>
+<p>(Lisa Murphy, Sports Co-ordinator)</p>
+</div>
 

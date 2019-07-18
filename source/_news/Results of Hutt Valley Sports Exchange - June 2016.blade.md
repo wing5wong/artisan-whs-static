@@ -2,7 +2,7 @@
 title: "Results of Hutt Valley Sports Exchange - June 2016"
 date: 
 description: "Well done to our teams that played at home in the Inter school against Hutt Valley High School last Thursday 23 June..  photo's to follow.."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5779c00cff2a7c38fb00051b/13537748_627981077351002_4403867566642261455_n.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5779c00cff2a7c38fb00051b/13537748_627981077351002_4403867566642261455_n.jpg
 excerpt: "Well done to our teams that played at home in the Inter school against Hutt Valley High School last Thursday 23 June..  photo's to follow.."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5779c323ff2a7c38fb000547/13557662_627980917351018_8576295844303152638_n.jpg"

@@ -2,7 +2,7 @@
 title: "Whanganui football referee Bill Tanner racks up 50 years"
 date: 2019-06-15
 description: "A guard of honour was formed to mark Bill Tanner's 50 years as a football referee..."
-featured-image: 
+image: 
 excerpt: "A guard of honour was formed to mark Bill Tanner's 50 years as a football referee."
 image_gallery:
     

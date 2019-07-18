@@ -2,7 +2,7 @@
 title: "Whanganui hosts regional NABBA comp"
 date: 2019-03-30
 description: "Michaela Sullenberger, centre, winning the most competitive division at the 2017 NABBA Championships..."
-featured-image: 
+image: 
 excerpt: "Michaela Sullenberger, centre, winning the most competitive division at the 2017 NABBA Championships..."
 image_gallery:
     

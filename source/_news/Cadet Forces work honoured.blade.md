@@ -2,7 +2,7 @@
 title: "Cadet Forces work honoured"
 date: 2019-05-29
 description: "Former WHS old boy, Charles Quirk with the wahaika awarded to him by No 9 Squadron Support Committee..."
-featured-image: 
+image: 
 excerpt: "Former WHS old boy, Charles Quirk with the wahaika awarded to him by No 9 Squadron Support Committee."
 image_gallery:
     

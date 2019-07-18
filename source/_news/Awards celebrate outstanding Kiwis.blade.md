@@ -2,7 +2,7 @@
 title: "Awards celebrate outstanding Kiwis"
 date: 2019-06-22
 description: "Supreme Award winner Peter Gordon - Kea World Class New Zealand awards on Friday 21 June 2019..."
-featured-image: 
+image: 
 excerpt: "Supreme Award winner Peter Gordon - Kea World Class New Zealand awards on Friday 21 June 2019"
 image_gallery:
     

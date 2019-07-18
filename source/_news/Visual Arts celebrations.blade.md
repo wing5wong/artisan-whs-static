@@ -2,7 +2,7 @@
 title: "Visual Arts celebrations"
 date: 
 description: "The celebrations continue in the Visual Arts Department at Whanganui High School..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5a1e2dd8b8d39a25b6000afa/Mikayla-Baldwin-main-website-photo.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5a1e2dd8b8d39a25b6000afa/Mikayla-Baldwin-main-website-photo.jpg
 excerpt: "The celebrations continue in the Visual Arts Department at Whanganui High School."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5a1e2a5ab8d39a25b6000aea/Mikayla-Baldwin-1.jpg"

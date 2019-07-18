@@ -2,7 +2,7 @@
 title: "NZ Ambassadors XV in Prague"
 date: 2019-06-28
 description: "Four current and expat Whanganui Players have been on quite the adventure in the past week as the NZ Ambassadors XV..."
-featured-image: 
+image: 
 excerpt: "Four current and expat Whanganui Players have been on quite the adventure in the past week as the NZ Ambassadors XV defeated the Czech Republic"
 image_gallery:
     

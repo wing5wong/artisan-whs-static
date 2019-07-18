@@ -2,7 +2,7 @@
 title: "Race for Netball Premier A1 supremacy is a three-way contest"
 date: 2019-06-26
 description: "As the Netball Whanganui Premier A1 Championship season winds down to the pointy end the race for supremacy is.."
-featured-image: 
+image: 
 excerpt: "As the Netball Whanganui Premier A1 Championship season winds down to the pointy end the race for supremacy is shaping up as a three-way contest."
 image_gallery:
     

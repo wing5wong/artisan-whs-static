@@ -2,7 +2,7 @@
 title: "Wanganui Athletic claim first win of season over Massey Uni"
 date: 2019-04-29
 description: "Wanganui Athletic's Jude Hiri holds off Massey University's Blair Lankshear at Wembley Park on Saturday..."
-featured-image: 
+image: 
 excerpt: "Wanganui Athletic's Jude Hiri holds off Massey University's Blair Lankshear at Wembley Park on Saturday."
 image_gallery:
     

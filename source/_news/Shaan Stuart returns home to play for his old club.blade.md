@@ -2,7 +2,7 @@
 title: "Shaan Stuart returns home to play for his old club"
 date: 2019-05-25
 description: "Shaan Stuart has returned home from the United States to rejoin Wanganui Athletic in their match with Napier Marist..."
-featured-image: 
+image: 
 excerpt: "Shaan Stuart has returned home from the United States to rejoin Wanganui Athletic in their match with Napier Marist tomorrow at Wembley Park."
 image_gallery:
     

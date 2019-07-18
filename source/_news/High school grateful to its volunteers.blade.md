@@ -3,7 +3,7 @@ title: "High school grateful to its volunteers"
 date: 
 description: "At WHS our sports teams are coached and managed by volunteers.
 WHS would like to say a huge THANK YOU to all our coaches and managers who every week give up their time to coach our teams."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/57a7c198b8d39a2071001090/boys-out-of-feild-rugby.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/57a7c198b8d39a2071001090/boys-out-of-feild-rugby.jpg
 excerpt: "At WHS our sports teams are coached and managed by volunteers.
 WHS would like to say a huge THANK YOU to all our coaches and managers who every week give up their time to coach our teams."
 image_gallery:

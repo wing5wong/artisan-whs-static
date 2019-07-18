@@ -2,7 +2,7 @@
 title: "Chef serves up his life story in a return to his old school"
 date: 
 description: "GUEST CHEF: Peter Gordon talks to students at WHS about his Whanganui beginnings and career path, Wanganui Chronicle article on 31/5/16..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/574cb593b8d39a469d00176e/Peter-Gordon-Chef.Hospitality-students-Chron-31.5.16.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/574cb593b8d39a469d00176e/Peter-Gordon-Chef.Hospitality-students-Chron-31.5.16.jpg
 excerpt: "GUEST CHEF: Peter Gordon talks to students at WHS about his Whanganui beginnings and career path, Wanganui Chronicle article on 31/5/16..."
 image_gallery:
      - image: "/uploads/574dfcefb8d39a469d001885/IMG_0001.JPG"

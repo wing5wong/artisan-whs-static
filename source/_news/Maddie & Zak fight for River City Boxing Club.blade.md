@@ -2,7 +2,7 @@
 title: "Maddie & Zak fight for River City Boxing Club"
 date: 2019-06-05
 description: "Maddie Buckeridge and Zak Turner were runners-up in their divisions at the North Island Golden Gloves Championships..."
-featured-image: 
+image: 
 excerpt: "Maddie Buckeridge and Zak Turner were runners-up in their divisions at the North Island Golden Gloves Championships."
 image_gallery:
     

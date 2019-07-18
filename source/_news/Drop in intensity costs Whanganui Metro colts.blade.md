@@ -2,7 +2,7 @@
 title: "Drop in intensity costs Whanganui Metro colts"
 date: 2019-05-16
 description: "Whanganui Metro coach Mark Cosford was pleased with the performances of Mason Johnson and Louis Devine..."
-featured-image: 
+image: 
 excerpt: "Whanganui Metro coach Mark Cosford was pleased with the performances of Mason Johnson and Louis Devine."
 image_gallery:
     

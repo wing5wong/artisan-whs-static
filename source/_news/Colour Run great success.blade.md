@@ -2,7 +2,7 @@
 title: "Colour Run great success"
 date: 
 description: "Great afternoon of fun at WHS today with the Sports Prefects Colour Run with all donations going to 9 year old Wanganui girl Amelia Bennett who has cancer."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/57cf3b42b8d39a2071001b64/good-group-shot-with-check-and-family.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/57cf3b42b8d39a2071001b64/good-group-shot-with-check-and-family.jpg
 excerpt: "Great afternoon of fun at WHS today with the Sports Prefects Colour Run with all donations going to 9 year old Wanganui girl Amelia Bennett who has cancer."
 image_gallery:
      - image: "/uploads/57c35c1cb8d39a207100184d/Colour-Run-for-Amelia-Bennett.JPG"

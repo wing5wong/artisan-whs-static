@@ -2,7 +2,7 @@
 title: "KATE awesome performances on THE VOICE"
 date: 
 description: "Former WHS student Kate Van Elswijk made it to the Battle Rounds of The Voice Australia, June 2016..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b45e702b8d39a4129000469/kate-singing.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5b45e702b8d39a4129000469/kate-singing.gif
 excerpt: "Former WHS student Kate Van Elswijk made it to the Battle Rounds of The Voice Australia, June 2016..."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/579964dcff2a7c38fb000c7d/Kate-Vanelswik-2016.jpg"

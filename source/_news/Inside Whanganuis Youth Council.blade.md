@@ -2,7 +2,7 @@
 title: "Inside Whanganui's Youth Council"
 date: 2018-06-23
 description: "Current Whanganui District Council youth committee co-chairs Ara Molijn (left) and Rhea Colaabavala..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b306358ff2a7c6bfc0024cc/Ara-Molijn-(left)-and-Rhea-Colaabavala.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5b306358ff2a7c6bfc0024cc/Ara-Molijn-(left)-and-Rhea-Colaabavala.gif
 excerpt: "Current Whanganui District Council youth committee co-chairs Ara Molijn (left) and Rhea Colaabavala."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b306c3ab8d39a749900251d/Capture.gif"

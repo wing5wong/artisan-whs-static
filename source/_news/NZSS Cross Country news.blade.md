@@ -2,7 +2,7 @@
 title: "NZSS Cross Country news"
 date: 
 description: "WOW.....AMAZING Racing today from our WHS cross country team in Christchurch at the NZSS Champs..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5976a2b4b8d39a1a9e000b19/3-girls.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5976a2b4b8d39a1a9e000b19/3-girls.jpg
 excerpt: "WOW.....AMAZING Racing today from our WHS cross country team in Christchurch at the NZSS Champs."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5948a2e7b8d39a5fde00009c/before-they-go-in-a-line-with-princial1.jpg"

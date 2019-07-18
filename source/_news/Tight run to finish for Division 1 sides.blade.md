@@ -2,7 +2,7 @@
 title: "Tight run to finish for Division 1 sides"
 date: 2019-06-10
 description: "Marist halfback Rory Gudsell runs in one of his team's nine tries playing Ratana at Spriggens Park on Saturday..."
-featured-image: 
+image: 
 excerpt: "Marist halfback Rory Gudsell runs in one of his team's nine tries playing Ratana at Spriggens Park on Saturday."
 image_gallery:
     

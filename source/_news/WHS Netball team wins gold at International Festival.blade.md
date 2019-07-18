@@ -2,7 +2,7 @@
 title: "WHS Netball team wins gold at International Festival"
 date: 2019-05-09
 description: "Whanganui High School Netball team wins gold at International Netball Festival on Gold Coast..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School Netball team wins gold at International Netball Festival on Gold Coast."
 image_gallery:
     

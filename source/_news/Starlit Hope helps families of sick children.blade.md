@@ -2,7 +2,7 @@
 title: "Starlit Hope helps families of sick children"
 date: 2019-04-30
 description: "Vouchers are presented to Whanganui Hospital. From left: Fred Loveridge, Kerry O'Sullivan, Marian Butler..."
-featured-image: 
+image: 
 excerpt: "Vouchers are presented to Whanganui Hospital. From left: Fred Loveridge, Kerry O'Sullivan, Marian Butler, Trish Silk, Dean Butler and Russell Simpson."
 image_gallery:
     

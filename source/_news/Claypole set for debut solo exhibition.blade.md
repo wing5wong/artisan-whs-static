@@ -2,7 +2,7 @@
 title: "Claypole set for debut solo exhibition"
 date: 2019-06-08
 description: "Lily Claypole will open her first solo exhibition Mimesis at Whanganui Fine Arts Gallery next week..."
-featured-image: 
+image: 
 excerpt: "Lily Claypole will open her first solo exhibition Mimesis at Whanganui Fine Arts Gallery next week."
 image_gallery:
     

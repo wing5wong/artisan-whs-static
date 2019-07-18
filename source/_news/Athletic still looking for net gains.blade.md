@@ -2,7 +2,7 @@
 title: "Athletic still looking for net gains"
 date: 2019-05-27
 description: "Wanganui Athletic's Jake Simcox has eyes for the ball during Saturday's loss to Napier Marist at Wembley Park..."
-featured-image: 
+image: 
 excerpt: "Wanganui Athletic's Jake Simcox has eyes for the ball during Saturday's loss to Napier Marist at Wembley Park."
 image_gallery:
     

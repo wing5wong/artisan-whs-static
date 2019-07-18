@@ -2,7 +2,7 @@
 title: "Strong showing from Whanganui at champs"
 date: 2019-04-04
 description: "Karl Loebe will start as one of the favourites in the Intermediate boys at the NISS Track & Field Champs in Tauranga..."
-featured-image: 
+image: 
 excerpt: "Karl Loebe will start as one of the favourites in the Intermediate boys at the NISS Track & Field Champs in Tauranga."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Paerangatahi Regional Kapa Haka Competitions"
 date: 2018-06-21
 description: "Paerangatahi Regional Kapa Haka Competitions were held in Waitara on 21 June 2018..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b5560fbb8d39a41290007f8/pafter-they-performed-320.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5b5560fbb8d39a41290007f8/pafter-they-performed-320.gif
 excerpt: "Paerangatahi Regional Kapa Haka Competitions were held in Waitara on 21 June 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b5548f6b8d39a41290007c1/dwhaea-lynnaire-and-the-kapa-haka-group.gif"

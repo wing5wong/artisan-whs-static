@@ -2,7 +2,7 @@
 title: "Bouquet of the week"
 date: 2019-05-02
 description: "Bouquet of the week: Pharmacy 145 staff; including former WHS student Leila McGrath (right)..."
-featured-image: 
+image: 
 excerpt: "Bouquet of the week: Pharmacy 145 staff; including former WHS student Leila McGrath."
 image_gallery:
     

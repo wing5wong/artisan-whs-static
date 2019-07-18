@@ -2,7 +2,7 @@
 title: "Henley Royal Regatta races beckon"
 date: 2019-06-24
 description: "Thomas Monaghan (left), Luke Watts, Hugh Pawson and Hamish Maxwell qualify for Henley Royal Regatta on the River Thames.."
-featured-image: 
+image: 
 excerpt: "Thomas Monaghan (left), Luke Watts, Hugh Pawson and Hamish Maxwell qualify for Henley Royal Regatta on the River Thames."
 image_gallery:
     

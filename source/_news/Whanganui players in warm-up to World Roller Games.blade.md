@@ -2,7 +2,7 @@
 title: "Whanganui players in warm-up to World Roller Games"
 date: 2019-07-03
 description: "Jimi Blinkhorne is among the starting line-up of the 12-strong squad, NZ senior men's roller hockey team in Barcelona, Spain..."
-featured-image: 
+image: 
 excerpt: "Jimi Blinkhorne is among the starting line-up of the 12-strong squad, NZ senior men's roller hockey team in Barcelona, Spain."
 image_gallery:
     

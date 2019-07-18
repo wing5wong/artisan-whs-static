@@ -2,7 +2,7 @@
 title: "U18 Girls Sevens team win curtain raiser"
 date: 
 description: "WHS Girls Keilani Tyrell, Kahurangi Sturmey & De-Ann Tyrell are part of the Wanganui U18 girls sevens team who played and beat Horowhenua/Kapiti girls..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5803ea78b8d39a2071002bef/WHS-players-Keilani-Tyrell,-Kahurangi-Sturmey--De-Ann-Tyrell.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5803ea78b8d39a2071002bef/WHS-players-Keilani-Tyrell,-Kahurangi-Sturmey--De-Ann-Tyrell.jpg
 excerpt: "WHS Girls Keilani Tyrell, Kahurangi Sturmey & De-Ann Tyrell are part of the Wanganui U18 girls sevens team who played and beat Horowhenua/Kapiti girls.."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5803ea78b8d39a2071002bef/WHS-players-Keilani-Tyrell,-Kahurangi-Sturmey--De-Ann-Tyrell.jpg"

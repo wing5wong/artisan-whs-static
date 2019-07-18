@@ -2,7 +2,7 @@
 title: "Recruits climbing tree to a career"
 date: 2019-03-22
 description: "Embarking on aboricultural apprentice training is former WHS student Matthew Walker (right)..."
-featured-image: 
+image: 
 excerpt: "Embarking on aboricultural apprentice training is former WHS student Matthew Walker (right)."
 image_gallery:
     

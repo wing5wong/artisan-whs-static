@@ -2,7 +2,7 @@
 title: "New Plymouth Girls High School Sports Exchange"
 date: 2019-06-25
 description: "Great sports exchange today against New Plymouth Girls High School..."
-featured-image: 
+image: 
 excerpt: "Great sports exchange today against New Plymouth Girls High School."
 image_gallery:
     

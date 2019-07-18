@@ -2,7 +2,7 @@
 title: "Jimi Blinkhorne named in 2019 NZ Roller Hockey team"
 date: 2019-03-28
 description: "Jimi Blinkhorne named in 2019 NZ Roller Hockey Senior Mens team to compete at World Roller Games 2019 in Barcelona..."
-featured-image: 
+image: 
 excerpt: "Jimi Blinkhorne named in 2019 NZ Roller Hockey Senior Mens team to compete at World Roller Games 2019 in Barcelona."
 image_gallery:
     

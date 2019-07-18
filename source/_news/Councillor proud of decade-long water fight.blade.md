@@ -2,7 +2,7 @@
 title: "Councillor proud of decade-long water fight"
 date: 2019-06-22
 description: "Rangitīkei District Council's first Māori woman councillor Soraya Peke-Mason is not standing again this year..."
-featured-image: 
+image: 
 excerpt: "Rangitīkei District Council's first Māori woman councillor Soraya Peke-Mason is not standing again this year."
 image_gallery:
     

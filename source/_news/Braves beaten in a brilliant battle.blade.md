@@ -2,7 +2,7 @@
 title: "Braves beaten in a brilliant battle"
 date: 2019-03-27
 description: "The Castlecliff Club Mustangs softball team finished fourth of 13 teams in the Manawatu Senior Men's Reserve grade..."
-featured-image: 
+image: 
 excerpt: "The Castlecliff Club Mustangs softball team finished fourth of 13 teams in the Manawatu Senior Men's Reserve grade competition."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Principal Appointment"
 date: 
 description: "The Board of Trustees are delighted to confirm the appointment of Martin McAllen, as the new Principal of Whanganui High School.  Martin will be commencing in this role from the 29 January 2017."
-featured-image: 
+image: 
 excerpt: "The Board of Trustees are delighted to confirm the appointment of Martin McAllen, as the new Principal of Whanganui High School.  Martin will be commencing in this role from the 29 January 2017."
 image_gallery:
     

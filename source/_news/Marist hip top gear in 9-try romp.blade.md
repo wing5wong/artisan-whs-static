@@ -2,7 +2,7 @@
 title: "Marist hip top gear in 9-try romp"
 date: 2019-05-13
 description: "Marist prop Viki Tofa on another powerful charge in his team's big win over neighbours Pirates at Spriggens Park..."
-featured-image: 
+image: 
 excerpt: "Marist prop Viki Tofa on another powerful charge in his team's big win over neighbours Pirates at Spriggens Park this afternoon."
 image_gallery:
     

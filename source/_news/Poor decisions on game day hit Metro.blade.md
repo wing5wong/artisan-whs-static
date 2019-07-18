@@ -2,7 +2,7 @@
 title: "Poor decisions on game day hit Metro"
 date: 2019-06-20
 description: "Winger Reuben Downes beats an Old Boys Marist defender to score Metro's only points in the 21-5 loss to the visitors..."
-featured-image: 
+image: 
 excerpt: "Winger Reuben Downes beats an Old Boys Marist defender to score Metro's only points in the 21-5 loss to the visitors at Spriggens Park on Saturday."
 image_gallery:
     

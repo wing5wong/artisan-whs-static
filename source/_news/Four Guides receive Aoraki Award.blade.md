@@ -2,7 +2,7 @@
 title: "Four Guides receive Aoraki Award"
 date: 2019-04-17
 description: "Whanganui Girl Guides (from left) Jeannie Hird, Brianna Lindsay, Charlotte Hardy and Autumn Lilley with their Aoraki Awards..."
-featured-image: 
+image: 
 excerpt: "Whanganui Girl Guides (from left) Jeannie Hird, Brianna Lindsay, Charlotte Hardy and Autumn Lilley with their Aoraki Awards."
 image_gallery:
     

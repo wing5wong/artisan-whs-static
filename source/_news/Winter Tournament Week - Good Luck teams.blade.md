@@ -2,7 +2,7 @@
 title: "Winter Tournament Week - Good Luck teams"
 date: 
 description: "Winter Tournament Week, Monday 31 August until Friday 4 September. Good Luck WHS teams!"
-featured-image: 
+image: 
 excerpt: "Winter Tournament Week, Monday 31 August until Friday 4 September. Good Luck WHS teams!"
 image_gallery:
     

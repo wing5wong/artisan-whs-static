@@ -2,7 +2,7 @@
 title: "Mentors give young artist street creed"
 date: 2019-04-06
 description: "Hayley was quickly sharing advice with Merle who was explaining the processes behind her portfolio work at Walls Art..."
-featured-image: 
+image: 
 excerpt: "Hayley was quickly sharing advice with Merle who was explaining the processes behind her portfolio work at Whanganui Walls."
 image_gallery:
     

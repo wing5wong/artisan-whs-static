@@ -2,7 +2,7 @@
 title: "WHS Cross Country was a great day!"
 date: 2019-05-08
 description: "WHS Cross Country on Wednesday 8 May was a great day!"
-featured-image: 
+image: 
 excerpt: "WHS Cross Country on Wednesday 8 May was a great day!"
 image_gallery:
     

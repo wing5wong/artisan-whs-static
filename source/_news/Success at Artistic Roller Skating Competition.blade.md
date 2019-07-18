@@ -2,7 +2,7 @@
 title: "Success at Artistic Roller Skating Competition"
 date: 2019-06-23
 description: "Aspen Fell and Callista Booth-Richards achievements at the Upper Hutt Open Day, Artistic Roller Skating Competition..."
-featured-image: 
+image: 
 excerpt: "Congratulations to Aspen Fell and Callista Booth-Richards on their recent success at the Upper Hutt Open Day, Artistic Roller Skating Competition."
 image_gallery:
     

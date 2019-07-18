@@ -2,7 +2,7 @@
 title: "WSS Cross Country Results"
 date: 
 description: "WHS took a team of 42 students to the WSS Cross Country held at Collegiate School..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/592b4e51b8d39a0a7c000bf8/whs-girl-winner.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/592b4e51b8d39a0a7c000bf8/whs-girl-winner.jpg
 excerpt: "Whanganui High School took a team of 42 students to the WSS Cross Country held at Collegiate School yesterday afternoon."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5930eb23b8d39a0f85000088/boys-x-country-photo-used-for-news-shot-instead-of-colleg-photo.jpg"

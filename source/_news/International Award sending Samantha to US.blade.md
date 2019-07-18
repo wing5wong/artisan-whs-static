@@ -2,7 +2,7 @@
 title: "International Award sending Samantha to US"
 date: 2019-05-10
 description: "Samantha Tennent is looking forward to visiting farms in Minnesota as part of an international agricultural award..."
-featured-image: 
+image: 
 excerpt: "Samantha Tennent is looking forward to visiting farms in Minnesota when she flies to America as part of an international agricultural award that she has won."
 image_gallery:
     

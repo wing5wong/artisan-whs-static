@@ -4,7 +4,7 @@ date:
 description: "WHS are the NATIONAL WINNERS of 2016 STAGE CHALLENGE: 
 '29 Below' depicting the Pike Mine Disaster.
 WELL DONE to the Teachers, Cast & Crew!!!"
-featured-image: http://c1940652.r52.cf0.rackcdn.com/57e0abbdb8d39a2071001fa8/Stage-challenge-website-banner.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/57e0abbdb8d39a2071001fa8/Stage-challenge-website-banner.jpg
 excerpt: "WHS are the NATIONAL WINNERS of 2016 STAGE CHALLENGE: 
 '29 Below' depicting the Pike Mine Disaster."
 image_gallery:

@@ -2,7 +2,7 @@
 title: "Not a memorable exchange for WHS"
 date: 2019-06-27
 description: "WHS players Olivia Smith and Rebecca Baker loom large in the NPGH goal during the annual sporting exchange clash..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School players Olivia Smith (green and gold left) and Rebecca Baker loom large in the NPGH goal during the annual sporting exchange hockey clash."
 image_gallery:
     

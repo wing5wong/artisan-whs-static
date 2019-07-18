@@ -2,7 +2,7 @@
 title: "Chase Morpeth - Bronze Medal at USA Track & Road Champs"
 date: 2019-05-14
 description: "Chase Morpeth won a BRONZE Medal in the 100m sprint at the USA Track & Road Championships held at Colorado Springs."
-featured-image: 
+image: 
 excerpt: "Chase Morpeth won a BRONZE Medal in the 100m sprint at the USA Track & Road Championships held at Colorado Springs, 7-14 May 2019."
 image_gallery:
     

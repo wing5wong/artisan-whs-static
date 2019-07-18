@@ -2,7 +2,7 @@
 title: "\"Tangata\" finalist  2019 Focus On Ability Short Film Awards"
 date: 2019-06-25
 description: "We’re excited to announce that our school's documentary, \"Tangata\" is a finalist in the 2019 Focus On Ability Short Film..."
-featured-image: 
+image: 
 excerpt: "We’re excited to announce that our school's documentary, \"Tangata\" is a finalist in the 2019 Focus On Ability Short Film Awards."
 image_gallery:
     

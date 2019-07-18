@@ -2,7 +2,7 @@
 title: "Dan will put together the Spring Challenge North course"
 date: 2019-06-05
 description: "Dan Moore is the event director and course designer of the Spring Challenge North adventure endurance race for females..."
-featured-image: 
+image: 
 excerpt: "Dan Moore, is the event director and course designer of the Spring Challenge North adventure endurance race for females."
 image_gallery:
     

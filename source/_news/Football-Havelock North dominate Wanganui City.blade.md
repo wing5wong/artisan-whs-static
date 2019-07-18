@@ -2,7 +2,7 @@
 title: "Football: Havelock North dominate Wanganui City"
 date: 2019-04-29
 description: "Havelock North Wanderers midfielder Sam Waddington derails Wanganui City's Jordan Joblin-Hall in the Central Federation"
-featured-image: 
+image: 
 excerpt: "Havelock North Wanderers midfielder Sam Waddington derails Wanganui City's Jordan Joblin-Hall in the Central Federation match at Guthrie Park, Hastings."
 image_gallery:
     

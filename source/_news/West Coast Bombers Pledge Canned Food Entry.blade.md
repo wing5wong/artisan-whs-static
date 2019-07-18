@@ -2,7 +2,7 @@
 title: "West Coast Bombers Pledge Canned Food Entry"
 date: 2019-06-20
 description: "West Coast Bombers Pledge Canned Food Entry for All Day this Saturday 22 June at Jubilee Stadium..."
-featured-image: 
+image: 
 excerpt: "West Coast Bombers Pledge Canned Food Entry for All Day this Saturday 22 June at Jubilee Stadium."
 image_gallery:
     

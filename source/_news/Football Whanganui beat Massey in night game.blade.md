@@ -2,7 +2,7 @@
 title: "Football Whanganui beat Massey in night game"
 date: 2019-06-22
 description: "Football Whanganui are now on a dynamic three-game winning streak after besting Massey University 3-2 in Palmerston Nth..."
-featured-image: 
+image: 
 excerpt: "Team Ritesh Football Whanganui are now on a dynamic three-game winning streak after besting Massey University 3-2 in Palmerston North on Thursday night."
 image_gallery:
     

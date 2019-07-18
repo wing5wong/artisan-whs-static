@@ -2,7 +2,7 @@
 title: "WHS student claims first place at regional Manu Korero"
 date: 2019-07-05
 description: "Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the recent Nga Manu Korero Regionals..."
-featured-image: 
+image: 
 excerpt: "Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the recent Nga Manu Korero Regionals."
 image_gallery:
     

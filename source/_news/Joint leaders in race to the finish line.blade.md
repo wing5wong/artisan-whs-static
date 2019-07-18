@@ -2,7 +2,7 @@
 title: "Joint leaders in race to the finish line"
 date: 2019-04-10
 description: "Whanganui rider Seth Reardon rounds out the top five, while a see-saw battle has begun to develop in this year’s NZ Enduro.."
-featured-image: 
+image: 
 excerpt: "Whanganui rider Seth Reardon rounds out the top five, while a see-saw battle has begun to develop in this year’s New Zealand Enduro Championships, with two men now sharing the top spot in the premier grade."
 image_gallery:
     

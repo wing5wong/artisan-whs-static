@@ -2,7 +2,7 @@
 title: "All-rounder on track for greatness"
 date: 2018-08-30
 description: "Whanganui High School student Rebecca Baker is an all round athlete with choices..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b872196ff2a7c03cc000568/Rebecca-Baker320-chron-30-aug.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5b872196ff2a7c03cc000568/Rebecca-Baker320-chron-30-aug.gif
 excerpt: "Whanganui High School student Rebecca Baker is an all round athlete with choices."
 image_gallery:
      - image: "/uploads/5b872a69ff2a7c03cc000572/rebecca-baker-snip-article-30-aug.PNG"

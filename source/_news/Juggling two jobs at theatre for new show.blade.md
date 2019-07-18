@@ -2,7 +2,7 @@
 title: "Juggling two jobs at theatre for new show"
 date: 2019-05-29
 description: "Brie is busy juggling two roles at the moment; mother to Jaxson, & production manager for Repertory Theatre’s..."
-featured-image: 
+image: 
 excerpt: "Brie Parkinson is busy juggling two important roles at the moment — mother to Jaxson, & production manager for Repertory Theatre’s latest production, Ugly Customers"
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Engine problems at Shelterview"
 date: 2019-04-01
 description: "Sitting 2nd overall in Group A, Whanganui's Ross Travers, & by extension his son Shane, who also competes in the Radioactive boat"
-featured-image: 
+image: 
 excerpt: "Sitting second overall in Group A, Whanganui's Ross Travers, and by extension his son Shane, who also competes in the Radioactive boat"
 image_gallery:
     

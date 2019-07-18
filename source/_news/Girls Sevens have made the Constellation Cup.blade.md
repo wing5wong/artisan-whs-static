@@ -2,7 +2,7 @@
 title: "Girls Sevens have made the Constellation Cup"
 date: 
 description: "Big Congrats to our WHS Girls 7's team who have made the constellation cup final today at NZSS Condor Sevens..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/584486a4b8d39a3eff000186/team-named-on-board.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/584486a4b8d39a3eff000186/team-named-on-board.jpg
 excerpt: "Big Congrats to our WHS Girls 7's team who have made the constellation cup final today at NZSS Condor Sevens."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5844867ab8d39a3eff000180/tv-shots-8.jpg"

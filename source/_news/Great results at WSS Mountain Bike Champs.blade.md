@@ -2,7 +2,7 @@
 title: "Great results at WSS Mountain Bike Champs"
 date: 2018-06-22
 description: "Well done today to our 16 students who represented WHS in the WSS Mountain Bike Champs at Pauri Lake MTB Course..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b3d4409b8d39a4129000124/group-shot350-some-with-certificates.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5b3d4409b8d39a4129000124/group-shot350-some-with-certificates.gif
 excerpt: "Well done today to our 16 students who represented WHS in the WSS Mountain Bike Champs at Pauri Lake MTB Course, Kaitoke on Friday 22 June."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b319ab3ff2a7c6bfc0024f0/Libby--Rebecca-placings.jpg"

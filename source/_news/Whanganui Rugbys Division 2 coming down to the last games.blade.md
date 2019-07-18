@@ -2,7 +2,7 @@
 title: "Whanganui Rugby's Division 2 coming down to the last games"
 date: 2019-05-20
 description: "Whanganui Rugby's Division 2 coming down to the last games..."
-featured-image: 
+image: 
 excerpt: "Whanganui Rugby's Division 2 coming down to the last games."
 image_gallery:
     

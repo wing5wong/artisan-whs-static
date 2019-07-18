@@ -2,7 +2,7 @@
 title: "Cycle Forward pilot programme for people with arthritis"
 date: 2019-05-06
 description: "Greg Fromont says the Cycle Forward programme is changing the lives of people with arthritis..."
-featured-image: 
+image: 
 excerpt: "Greg Fromont says the Cycle Forward programme is changing the lives of people with arthritis."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "WHS Performing Arts Concert to showcase talents"
 date: 2019-06-18
 description: "Whanganui High School students will battle out their talents on stage to create a night filled with dance, drama and music..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School students will battle out their talents on stage to create a night filled with dance, drama and music."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Sheilah Winn Shakespeare Festival"
 date: 2018-04-08
 description: "WHS students competed in the annual SGCNZ Uni of Otago Sheila Winn Shakespeare Festival."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5ae15076ff2a7c6bfc00171f/Shakespeare-Festival-grp-shot.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5ae15076ff2a7c6bfc00171f/Shakespeare-Festival-grp-shot.gif
 excerpt: "WHS students competed in the annual SGCNZ Uni of Otago Sheila Winn Shakespeare Festival."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5ae14f3fff2a7c6bfc00171d/Shakespeare-Festival-2-students.jpg"

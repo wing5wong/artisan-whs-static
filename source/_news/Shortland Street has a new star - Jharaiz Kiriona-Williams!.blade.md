@@ -2,7 +2,7 @@
 title: "Shortland Street has a new star - Jharaiz Kiriona-Williams!"
 date: 2019-05-16
 description: "Shortland Street has a new star - former Whanganui High School student, Jharaiz Kiriona-Williams!.."
-featured-image: 
+image: 
 excerpt: "Shortland Street has a new star - former Whanganui High School student, Jharaiz Kiriona-Williams!"
 image_gallery:
     

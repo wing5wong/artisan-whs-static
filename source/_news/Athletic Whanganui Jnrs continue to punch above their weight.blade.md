@@ -2,7 +2,7 @@
 title: "Athletic Whanganui Jnrs continue to punch above their weight"
 date: 2019-05-09
 description: "WHS middle distance runner Rebecca Baker is sure be among the leaders at the NZ Schools Cross Country in June..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School middle distance runner Rebecca Baker is sure be among the leaders at the New Zealand Schools Cross Country in June."
 image_gallery:
     

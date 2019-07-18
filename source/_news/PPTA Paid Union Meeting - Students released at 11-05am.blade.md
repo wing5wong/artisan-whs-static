@@ -2,7 +2,7 @@
 title: "PPTA Paid Union Meeting - Students released at 11:05am"
 date: 2019-06-25
 description: "Special Newsletter regarding a Paid Union Meeting held in Palmerston North on Tuesday 25 June 2019..."
-featured-image: 
+image: 
 excerpt: "Special Newsletter regarding a Paid Union Meeting held in Palmerston North on Tuesday 25 June 2019."
 image_gallery:
     

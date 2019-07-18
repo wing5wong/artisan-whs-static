@@ -2,7 +2,7 @@
 title: "Pakaitore – Senior Student art exhibition"
 date: 2019-05-23
 description: "Senior students from Whanganui Secondary Schools are participating in an exhibition called ‘Pakaitore’ at the..."
-featured-image: 
+image: 
 excerpt: "Senior students from Whanganui Secondary Schools are participating in an exhibition called ‘Pakaitore’ at the Whanganui Community Art Centre on Taupo Quay."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Celebrating success at the Opera House next week"
 date: 2019-06-13
 description: "Noah Belchambers (front) pictured with band Late Night Tales won the Smokefreerockquest musicianship award"
-featured-image: 
+image: 
 excerpt: "Noah Belchambers (front) pictured with band Late Night Tales won the Smokefreerockquest musicianship award and will be competing for house points in Battle of the Houses performances that will be judged by NZ celebrities."
 image_gallery:
     

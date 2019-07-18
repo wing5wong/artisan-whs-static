@@ -2,7 +2,7 @@
 title: "WHS students selected for Central U18 Hockey Teams"
 date: 2019-05-10
 description: "Congratulations to Connor Hoskin, Rebecca Baker & Patrick Madder for being selected into the Central U18 Hockey Teams 2019..."
-featured-image: 
+image: 
 excerpt: "Congratulations to Connor Hoskin, Rebecca Baker and Patrick Madder for being selected into the Central U18 Hockey Teams for 2019."
 image_gallery:
     

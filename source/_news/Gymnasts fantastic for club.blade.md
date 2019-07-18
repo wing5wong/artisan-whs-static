@@ -2,7 +2,7 @@
 title: "Gymnasts 'fantastic' for club"
 date: 2019-06-28
 description: "Several of the recreational athletes of the Wanganui Boys & Girls Gym Club got their first taste of competition in Hawera on..."
-featured-image: 
+image: 
 excerpt: "Several of the recreational athletes of the Wanganui Boys & Girls Gym Club got their first taste of competition in Hawera on Sunday."
 image_gallery:
     

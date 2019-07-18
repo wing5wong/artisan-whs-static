@@ -2,7 +2,7 @@
 title: "Matariki Glow Show creator from River City"
 date: 2019-06-14
 description: "Whanganui audiences who caught the Matariki Glow Show may not be aware that one of the talented team behind it is from.."
-featured-image: 
+image: 
 excerpt: "Whanganui audiences who caught the Matariki Glow Show at the Opera House this week may not be aware that one of the talented team behind it is from Whanganui."
 image_gallery:
     

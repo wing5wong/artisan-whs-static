@@ -2,7 +2,7 @@
 title: "Club Metro dons its pink for charity"
 date: 2019-05-27
 description: "Club Metro head chef Darlene Hall, left, and restaurant administrator Stacey Cromarty were happy to be working for charity..."
-featured-image: 
+image: 
 excerpt: "Club Metro head chef Darlene Hall, left, and restaurant administrator Stacey Cromarty were happy to be working for charity."
 image_gallery:
     

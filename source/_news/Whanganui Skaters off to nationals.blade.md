@@ -2,7 +2,7 @@
 title: "Whanganui Skaters off to nationals"
 date: 2019-07-03
 description: "A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic Roller Sports Championships in New Plymouth..."
-featured-image: 
+image: 
 excerpt: "A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic Roller Sports Championships in New Plymouth."
 image_gallery:
     

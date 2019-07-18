@@ -2,7 +2,7 @@
 title: "Fabulous night had at the 2019 WHS Ball"
 date: 2019-07-06
 description: "2019’s WHS Ball, ‘When In Rome’, had students enter a Roman inspired theme at the Whanganui Racecourse..."
-featured-image: 
+image: 
 excerpt: "2019’s Whanganui High School Ball, ‘When In Rome’, had students enter a Roman inspired theme at the Whanganui Racecourse on the evening of Saturday, the 6th of July."
 image_gallery:
     

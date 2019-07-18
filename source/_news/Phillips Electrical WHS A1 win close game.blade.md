@@ -2,7 +2,7 @@
 title: "Phillips Electrical WHS A1 win close game"
 date: 2019-05-22
 description: "WHS's Montel Vaiao Aki was able to shoot her team to victory in the dying minutes against Kaierau A1 at Springvale Stadium..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School's Montel Vaiao Aki was able to shoot her team to victory in the dying minutes against Kaierau A1 at Springvale Stadium on Monday evening."
 image_gallery:
     

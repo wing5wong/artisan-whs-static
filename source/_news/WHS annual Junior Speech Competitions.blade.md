@@ -2,7 +2,7 @@
 title: "WHS annual Junior Speech Competitions"
 date: 2019-07-03
 description: "On Wednesday 3 July, Whanganui High School held our annual Junior Speech Competitions..."
-featured-image: 
+image: 
 excerpt: "On Wednesday 3 July, Whanganui High School held our annual Junior Speech Competitions."
 image_gallery:
     

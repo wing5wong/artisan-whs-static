@@ -2,7 +2,7 @@
 title: "Tawhero School students going to Waiouru Army Museum"
 date: 2019-05-30
 description: "Tawhero School students going to Waiouru Army Museum – thanks to Freemasons"
-featured-image: 
+image: 
 excerpt: "Tawhero School students going to Waiouru Army Museum – thanks to Freemasons."
 image_gallery:
     

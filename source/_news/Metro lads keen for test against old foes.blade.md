@@ -2,7 +2,7 @@
 title: "Metro lads keen for test against old foes"
 date: 2019-03-28
 description: "A fresh batch of potential stars step out for the first time as the season opens for the Whanganui Metro Colts rugby team..."
-featured-image: 
+image: 
 excerpt: "A fresh batch of potential stars step out for the first time on Saturday as the season opens for the St Johns Club Whanganui Metro Colts rugby team."
 image_gallery:
     

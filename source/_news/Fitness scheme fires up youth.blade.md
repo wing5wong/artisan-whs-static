@@ -2,7 +2,7 @@
 title: "Fitness scheme fires up youth"
 date: 2019-04-10
 description: "Fitness programme motivating some Whanganui Youth Service clients giving them a much-needed confidence boost..."
-featured-image: 
+image: 
 excerpt: "Fitness programme motivating some Whanganui Youth Service clients giving them a much-needed confidence boost."
 image_gallery:
     

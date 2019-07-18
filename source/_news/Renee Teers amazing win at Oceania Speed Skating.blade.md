@@ -2,7 +2,7 @@
 title: "Renee Teers amazing win at Oceania Speed Skating"
 date: 2019-05-02
 description: "Renee Teers on the 15km Elimination podium on her way to winning the Oceania Speed Skating overall junior champion title"
-featured-image: 
+image: 
 excerpt: "Whanganui teenager Renee Teers on the 15km Elimination podium on her way to winning the Oceania Speed Skating overall junior champion title in Brisbane over Easter."
 image_gallery:
     

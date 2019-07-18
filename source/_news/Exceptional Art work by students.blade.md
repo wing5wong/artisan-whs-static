@@ -2,7 +2,7 @@
 title: "Exceptional Art work by students"
 date: 2018-05-20
 description: "Exceptional work by WHS students at 'A song for Parihaka' Exhibition of Paintings & Prints, Whanganui Community Art Centre.."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b208434b8d39a74990023a8/good.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5b208434b8d39a74990023a8/good.gif
 excerpt: "Exceptional work by WHS students at 'A song for Parihaka' Exhibition of Paintings and Prints, Whanganui Community Art Centre 11-20 May 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5afe411cb8d39a7499001ea6/32564405_375871339577084_1627283144753283072_n.jpg"

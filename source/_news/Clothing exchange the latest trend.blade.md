@@ -2,7 +2,7 @@
 title: "Clothing exchange the latest trend"
 date: 2019-06-08
 description: "Emily Kara hosted her first clothing library at Frank Bar alongside her friends Krystal Simpson & Danielle Mallasch..."
-featured-image: 
+image: 
 excerpt: "Emily Kara (middle) hosted her first clothing library in march at Frank Bar alongside her friends Krystal Simpson (left) and Danielle Mallasch."
 image_gallery:
     

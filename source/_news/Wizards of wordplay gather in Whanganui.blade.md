@@ -2,7 +2,7 @@
 title: "Wizards of wordplay gather in Whanganui"
 date: 2019-04-20
 description: "Lynne Butler (left) challenges Rosie Cleary to a game of Scrabble for fun before they meet each other in competition..."
-featured-image: 
+image: 
 excerpt: "Lynne Butler (left) challenges Rosie Cleary to a game of Scrabble for fun before they meet each other in competition this weekend."
 image_gallery:
     

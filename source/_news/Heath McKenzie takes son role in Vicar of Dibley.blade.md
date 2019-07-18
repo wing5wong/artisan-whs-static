@@ -2,7 +2,7 @@
 title: "Heath McKenzie takes son role in Vicar of Dibley"
 date: 2019-05-29
 description: "Colin McKinney (left) and Heath McKenzie play father and son in Amdram's production of The Vicar of Dibley..."
-featured-image: 
+image: 
 excerpt: "Colin McKinney (left) and Heath McKenzie play father and son in Amdram's production of The Vicar of Dibley."
 image_gallery:
     

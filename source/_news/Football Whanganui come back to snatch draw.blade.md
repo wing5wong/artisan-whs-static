@@ -2,7 +2,7 @@
 title: "Football Whanganui come back to snatch draw"
 date: 2019-05-28
 description: "A big second half comeback saw Team Ritesh Football Whanganui get out of Memorial Park..."
-featured-image: 
+image: 
 excerpt: "A big second half comeback, including a goal in the final minute, saw Team Ritesh Football Whanganui get out of Memorial Park."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Whanganui students obtain scholarships for UCOL study"
 date: 
 description: "Hannah Neilson and Tom Clark both received scholarships to go towards study in UCOL programmes..."
-featured-image: 
+image: 
 excerpt: "Hannah Neilson and Tom Clark both received scholarships to go towards study in UCOL programmes."
 image_gallery:
     

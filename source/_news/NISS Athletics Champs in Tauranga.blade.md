@@ -2,7 +2,7 @@
 title: "NISS Athletics Champs in Tauranga"
 date: 2019-04-06
 description: "WHS results of NISS Athletics Champs in Tauranga, Day 1..."
-featured-image: 
+image: 
 excerpt: "WHS results of NISS Athletics Champs in Tauranga, Day 1."
 image_gallery:
     

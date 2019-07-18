@@ -2,7 +2,7 @@
 title: "Repertory Theatre held their Annual General meeting"
 date: 2019-05-15
 description: "Brie Parkinson & Reid Tucker have both been selected to be on the committee of the Wanganui Repertory Theatre..."
-featured-image: 
+image: 
 excerpt: "Brie Parkinson & Reid Tucker have both been selected to be on the committee of the Wanganui Repertory Theatre."
 image_gallery:
     

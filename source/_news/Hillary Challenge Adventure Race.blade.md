@@ -2,7 +2,7 @@
 title: "Hillary Challenge Adventure Race"
 date: 2019-06-23
 description: "This year, WHS took a team of 9 up to Rotorua on Sunday 23 June to complete in Hillary Challenge Adventure Racing event..."
-featured-image: 
+image: 
 excerpt: "This year, WHS took a team of 9 up to Rotorua on Sunday 23 June to complete in Hillary Challenge Adventure Racing event."
 image_gallery:
     

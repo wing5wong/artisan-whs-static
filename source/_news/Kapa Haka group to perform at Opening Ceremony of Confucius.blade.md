@@ -2,7 +2,7 @@
 title: "Kapa Haka group to perform at Opening Ceremony of Confucius"
 date: 2019-07-03
 description: "All the best to our Kapa Haka group who are heading off to perform at the Opening Ceremony of the Confucius Institutes..."
-featured-image: 
+image: 
 excerpt: "All the best to our Kapa Haka group who are heading off to perform at the Opening Ceremony of the Confucius Institutes gathering tomorrow in Wellington"
 image_gallery:
     

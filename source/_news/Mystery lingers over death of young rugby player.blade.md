@@ -2,7 +2,7 @@
 title: "Mystery lingers over death of young rugby player"
 date: 
 description: "Mystery lingers over death of young rugby player Jake Alabaster..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/59d2e899b8d39a191700066c/Jake-Alabaster-with-Marist-club.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/59d2e899b8d39a191700066c/Jake-Alabaster-with-Marist-club.jpg
 excerpt: "Mystery lingers over death of young rugby player Jake Alabaster."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Football Whanganui come up short against Massey"
 date: 2019-06-03
 description: "Stella Warner looks to set up a chance in the first half at the Football Whanganui games against Massey University..."
-featured-image: 
+image: 
 excerpt: "Stella Warner looks to set up a chance in the first half at the Football Whanganui games against Massey University."
 image_gallery:
     

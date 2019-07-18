@@ -2,7 +2,7 @@
 title: "Well done to our swimmers at the NZSS Swimming Champs"
 date: 
 description: "Well done to our swimmers who went to Hamilton for the NZSS swim champs, 14/9/15..."
-featured-image: 
+image: 
 excerpt: "Well done to our swimmers who went to Hamilton for the NZSS swim champs, 14/9/15..."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "WHS band 'In Business' wins Rockquest"
 date: 2019-06-10
 description: "WHS bands take out a podium finish at Rockquest on Saturday night. 1st In Business, 2nd Ocean Loaf, 3rd Kiwi Juice.."
-featured-image: 
+image: 
 excerpt: "WHS bands take out a podium finish at Rockquest on Saturday night. 1st In Business, 2nd Ocean Loaf, 3rd Kiwi Juice; plus other awards include..."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Students win in debut on national stage"
 date: 2018-09-24
 description: "WHS band The Remnant scooped the Te Reo award in the Tangata Beats competition at the national..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5ba95a1aff2a7c130900000c/The-Remnant-(002).gif
+image: http://c1940652.r52.cf0.rackcdn.com/5ba95a1aff2a7c130900000c/The-Remnant-(002).gif
 excerpt: "WHS band The Remnant scooped the Te Reo award in the Tangata Beats competition at the national Smokefreerockquest final."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5ba95a6fff2a7c1309000010/tangata-beats.gif"

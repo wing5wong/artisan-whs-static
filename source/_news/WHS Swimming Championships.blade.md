@@ -2,7 +2,7 @@
 title: "WHS Swimming Championships"
 date: 2019-02-15
 description: "WHS Swimming Champs were held on Friday 15 February. There was awesome House Spirit by all involved..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5c6cccefff2a7c6f500003c7/smaller.250.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5c6cccefff2a7c6f500003c7/smaller.250.jpg
 excerpt: "WHS Swimming Champs were held on Friday 15 February. There was awesome House Spirit by all involved."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5c6ccbbaff2a7c6f500003bc/51953761_1194834177332353_2401700898234433536_n.jpg"

@@ -3,7 +3,7 @@ title: "Three WHS netballers named in the A Grade tournament team"
 date: 
 description: "WHS netballers had 3 players named in the A Grade tournament team. 
 Congratulations Montel Vaiao Aki (left), Ruhia Tamati (middle) and Kahurangi Sturmey."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/57cc9ec9b8d39a2071001a91/3-WHS-students-selected-for-tourny-team-1.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/57cc9ec9b8d39a2071001a91/3-WHS-students-selected-for-tourny-team-1.jpg
 excerpt: "WHS netballers had 3 players named in the A Grade tournament team. 
 Congratulations Montel Vaiao Aki (left), Ruhia Tamati (middle) and Kahurangi Sturmey."
 image_gallery:

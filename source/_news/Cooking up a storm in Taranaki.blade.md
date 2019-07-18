@@ -2,7 +2,7 @@
 title: "Cooking up a storm in Taranaki"
 date: 2019-05-27
 description: "Six WHS students competed in the Regional NZ Chefs cooking competitions held in New Plymouth. Olea Drummond"
-featured-image: 
+image: 
 excerpt: "Six WHS students competed in the Regional NZ Chefs cooking competitions held in New Plymouth on Monday 27 May. Olea Drummond received a Gold for her dish..."
 image_gallery:
     

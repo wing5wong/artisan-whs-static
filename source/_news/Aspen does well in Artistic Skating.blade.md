@@ -2,7 +2,7 @@
 title: "Aspen does well in Artistic Skating"
 date: 2019-06-08
 description: "Congratulations to Aspen Fell, who did her Artistic Skating dance medal 6 in the weekend and passed with no resits..."
-featured-image: 
+image: 
 excerpt: "Congratulations to Aspen Fell, who did her Artistic Skating dance medal 6 in the weekend and passed with no resits."
 image_gallery:
     

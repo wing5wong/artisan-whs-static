@@ -2,7 +2,7 @@
 title: "Senior Get 2 Go Adventure Racing"
 date: 
 description: "This year is the first year that Hillary Outdoors has held a Senior Get 2 Go Adventure Race. WHS took 7 teams down to the race with 3 Boys Teams and 2 girls teams..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/59c86822b8d39a19170001d2/good-action-shot.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/59c86822b8d39a19170001d2/good-action-shot.jpg
 excerpt: "This year is the first year that Hillary Outdoors has held a Senior Get 2 Go Adventure Race. WHS took 7 teams down to the race with 3 Boys Teams and 2 girls teams."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59c86632b8d39a19170001c8/20170301_120929.jpg"

@@ -2,7 +2,7 @@
 title: "Reardon National runnerup in Motocross"
 date: 2019-05-27
 description: "Whanganui's Seth Reardon claimed the season runnerup placing he was after at the final round of the NZ Cross-country..."
-featured-image: 
+image: 
 excerpt: "Whanganui's Seth Reardon claimed the season runnerup placing he was after at the final round of the New Zealand Cross-country Championships on farmland near Taupo on Saturday."
 image_gallery:
     

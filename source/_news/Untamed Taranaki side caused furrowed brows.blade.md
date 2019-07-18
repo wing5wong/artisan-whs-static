@@ -2,7 +2,7 @@
 title: "Untamed Taranaki side caused furrowed brows"
 date: 2019-06-22
 description: "You can take nothing for granted in Lotto Federation League football. Absolutely nothing..."
-featured-image: 
+image: 
 excerpt: "You can take nothing for granted in Lotto Federation League football. Absolutely nothing."
 image_gallery:
     

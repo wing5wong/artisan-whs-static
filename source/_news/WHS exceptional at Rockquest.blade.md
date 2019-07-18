@@ -2,7 +2,7 @@
 title: "WHS exceptional at Rockquest"
 date: 
 description: "WHS just swept all three placings in the band category at Smokefree RockQuest Whanganui..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/592b4bdab8d39a0a7c000bf6/WHS-musicians-backstage-at-the-Opera-House,-ready-to-rock-at-Smokefree-RockQuest.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/592b4bdab8d39a0a7c000bf6/WHS-musicians-backstage-at-the-Opera-House,-ready-to-rock-at-Smokefree-RockQuest.jpg
 excerpt: "WHS just swept all three placings in the band category at Smokefree RockQuest Whanganui."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/592b4bdab8d39a0a7c000bf6/WHS-musicians-backstage-at-the-Opera-House,-ready-to-rock-at-Smokefree-RockQuest.jpg"

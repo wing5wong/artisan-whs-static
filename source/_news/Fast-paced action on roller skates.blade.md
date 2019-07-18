@@ -2,7 +2,7 @@
 title: "Fast-paced action on roller skates"
 date: 2019-06-19
 description: "West Coast Bombers, including former student Lily Claypole, will once again host their foremost roller derby event All-Day.."
-featured-image: 
+image: 
 excerpt: "West Coast Bombers, including former student Lily Claypole, will once again host their foremost roller derby event AllDay Derby on June 22 at Jubilee Stadium."
 image_gallery:
     

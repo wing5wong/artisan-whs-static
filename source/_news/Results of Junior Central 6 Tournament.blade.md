@@ -2,7 +2,7 @@
 title: "Results of Junior Central 6 Tournament"
 date: 
 description: "WHS Results of Junior Central 6 Tournament which took place in Hawkes Bay on Tuesday 9 August..."
-featured-image: 
+image: 
 excerpt: "WHS Results of Junior Central 6 Tournament which took place in Hawkes Bay on Tuesday 9 August."
 image_gallery:
     

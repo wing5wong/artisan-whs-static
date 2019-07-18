@@ -2,7 +2,7 @@
 title: "Lyric Singers get set to take flight"
 date: 2019-06-12
 description: "The Lyric singers of Whanganui will present their mid-year concert later this month, with guest vocalist Leigh-ana Hale..."
-featured-image: 
+image: 
 excerpt: "The Lyric singers of Whanganui will present their mid-year concert at Trinity Methodist Church later this month."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Wanganui City hammer Hokowhitu in Federation League"
 date: 2019-04-22
 description: "Wanganui City's Max Davidson looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park..."
-featured-image: 
+image: 
 excerpt: "Wanganui City's Max Davidson (ex WHS student) looks to fire in a cross kick during his team's big win over Hokowhitu FC at Wembley Park today."
 image_gallery:
     

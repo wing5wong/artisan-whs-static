@@ -2,7 +2,7 @@
 title: "Leading athletes at major meets"
 date: 2019-03-28
 description: "Travis Bayler, Karl Loebe, Sophie Andrews, Maysin Katene, Georgina Forrester & Connor Munro - winners at major meetings"
-featured-image: 
+image: 
 excerpt: "Travis Bayler, Karl Loebe, Sophie Andrews, Maysin Katene, Georgina Forrester & Connor Munro were all winners at major meetings recently."
 image_gallery:
     

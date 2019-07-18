@@ -2,7 +2,7 @@
 title: "Athletic bounce back with solid win"
 date: 2019-06-10
 description: "Scott Burney had an eventful match with the opening goal, letting a team mate get another, then being involved in a head..."
-featured-image: 
+image: 
 excerpt: "Scott Burney had an eventful match with the opening goal, letting a team mate get another, then being involved in a head clash that saw a Hokowhitu player leave the field."
 image_gallery:
     

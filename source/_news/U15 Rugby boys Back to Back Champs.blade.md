@@ -2,7 +2,7 @@
 title: "U15 Rugby boys Back to Back Champs"
 date: 2018-08-01
 description: "Whanganui High School U15 Green Rugby Team back to back Champs..."
-featured-image: /uploads/5b63ccc7b8d39a6d05000571/DSC_1303.JPG
+image: /uploads/5b63ccc7b8d39a6d05000571/DSC_1303.JPG
 excerpt: "Whanganui High School U15 Green Rugby Team back to back Champs."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b63ea49b8d39a6d05000594/DSC_0021.jpg"

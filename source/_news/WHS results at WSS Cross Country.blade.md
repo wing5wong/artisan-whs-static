@@ -2,7 +2,7 @@
 title: "WHS results at WSS Cross Country"
 date: 2019-05-23
 description: "WHS results at the WSS Cross Country held at Tawhero Golf Course on Thursday 23 May 2019..."
-featured-image: 
+image: 
 excerpt: "WHS results at the WSS Cross Country held at Tawhero Golf Course on Thursday 23 May 2019."
 image_gallery:
     

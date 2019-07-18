@@ -2,7 +2,7 @@
 title: "Netball talk"
 date: 2019-06-19
 description: "Phillips Electrical WHS had the bye on Monday night, but they are continuing their winning run in the Manawatu A1 grade..."
-featured-image: 
+image: 
 excerpt: "Phillips Electrical Whanganui High School had the bye on Monday night. They are continuing their winning run in the Manawatu Secondary Schools A1 grade Saturday comp"
 image_gallery:
     

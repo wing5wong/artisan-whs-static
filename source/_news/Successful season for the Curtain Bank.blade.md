@@ -2,7 +2,7 @@
 title: "Successful season for the Curtain Bank"
 date: 2019-05-30
 description: "Successful season for the Curtain Bank. Volunteer, Brooke Sula (former WHS student) surrounded by curtains..."
-featured-image: 
+image: 
 excerpt: "Successful season for the Curtain Bank. Volunteer, Brooke Sula (former WHS student) surrounded by curtains."
 image_gallery:
     

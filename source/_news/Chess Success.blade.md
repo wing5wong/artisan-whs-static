@@ -2,7 +2,7 @@
 title: "Chess Success"
 date: 2019-06-13
 description: "1st place at the Chess Competition were our A Team students.  L-R;  Victor Xie, Dekin Chadfield and Shae Kairau..."
-featured-image: 
+image: 
 excerpt: "1st place at the Chess Competition were our A Team students.  L-R;  Victor Xie, Dekin Chadfield and Shae Kairau."
 image_gallery:
     

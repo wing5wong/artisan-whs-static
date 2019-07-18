@@ -2,7 +2,7 @@
 title: "'In Business' rocked at Paul's Rd Concert"
 date: 2019-03-03
 description: "WHS band, In Business, were the first band to front the annual Whanganui Paul’s Rd Music Festival on Sunday 3 March..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5c7f465dff2a7c25ea0000c6/In-Business.250---Copy.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5c7f465dff2a7c25ea0000c6/In-Business.250---Copy.jpg
 excerpt: "Whanganui High School band, In Business, were the first band to front the annual Whanganui Paul’s Rd Music Festival on Sunday 3 March."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5c7f4679ff2a7c25ea0000ca/53278926_361261698054097_6080976592174055424_n.jpg"

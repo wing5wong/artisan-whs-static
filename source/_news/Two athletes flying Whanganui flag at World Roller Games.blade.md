@@ -2,7 +2,7 @@
 title: "Two athletes flying Whanganui flag at World Roller Games"
 date: 2019-06-20
 description: "Whanganui athletes Jimi Blinkhorne & Dean Fitness have been named in the NZ Roller Hockey team for the World Roller.."
-featured-image: 
+image: 
 excerpt: "Whanganui athletes Jimi Blinkhorne & Dean Fitness have been named in the NZ Roller Hockey team for the World Roller Games in Spain next month."
 image_gallery:
     

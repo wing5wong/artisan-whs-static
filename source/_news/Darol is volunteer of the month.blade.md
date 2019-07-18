@@ -2,7 +2,7 @@
 title: "Darol is volunteer of the month"
 date: 2019-05-29
 description: "Volunteer of the Month: Darol Pointon, former WHS staff member..."
-featured-image: 
+image: 
 excerpt: "Volunteer of the Month: Darol Pointon, former WHS staff member."
 image_gallery:
     

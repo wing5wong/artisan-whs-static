@@ -2,7 +2,7 @@
 title: "WHS Junior Girls 'Round the Lake Relay' winners"
 date: 
 description: "Well done to our WHS Junior Girls 'Round the Lake Relay' Team who won their grade on Monday..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/59ba052eb8d39a35a5000cea/girls-x-four-group.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/59ba052eb8d39a35a5000cea/girls-x-four-group.jpg
 excerpt: "Well done to our WHS Junior Girls 'Round the Lake Relay' Team who won their grade on Monday."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59ba0875b8d39a35a5000d3a/rebecca-baker-1st-in-goup-of-4.jpg"

@@ -2,7 +2,7 @@
 title: "WHS team WON the Spirit of Adventure TROPHY!"
 date: 2019-04-17
 description: "WHS team WON the Spirit of Adventure TROPHY!. as well as cooked meals, raised sails & took on three other schools in a series of activities."
-featured-image: 
+image: 
 excerpt: "WHS team WON the Spirit of Adventure TROPHY!. as well as cooked meals, raised sails & took on three other schools in a series of activities."
 image_gallery:
     

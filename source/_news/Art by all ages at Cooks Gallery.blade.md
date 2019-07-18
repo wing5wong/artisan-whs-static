@@ -2,7 +2,7 @@
 title: "Art by all ages at Cooks Gallery"
 date: 2019-03-27
 description: "Tutor & Art Society President Rei Hendry with Yth Councillor Ara Molijn who led the working party organizing the exhibition..."
-featured-image: 
+image: 
 excerpt: "Tutor & Art Society President Rei Hendry with Youth Councillor Ara Molijn who led the Youth Committee working party in organizing the exhibition."
 image_gallery:
     

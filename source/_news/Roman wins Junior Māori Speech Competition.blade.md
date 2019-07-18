@@ -2,7 +2,7 @@
 title: "Roman wins Junior Māori Speech Competition"
 date: 2019-06-28
 description: "Congratulations to Roman Kotuhi-Brown, who won the Junior Māori Speech Comp at Ngā Manu Kōrero Regionals..."
-featured-image: 
+image: 
 excerpt: "Congratulations to Roman Kotuhi-Brown, who won the Rāwhiti Ihaka Junior Māori Speech Competition at Ngā Manu Kōrero Regionals held in Opunake yesterday!"
 image_gallery:
     

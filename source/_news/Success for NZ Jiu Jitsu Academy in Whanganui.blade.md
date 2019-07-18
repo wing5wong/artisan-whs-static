@@ -2,7 +2,7 @@
 title: "Success for NZ Jiu Jitsu Academy in Whanganui"
 date: 2019-04-04
 description: "Local masters - from left: Sensei Shanon Casson, Sensei Mat Hanna (current comp winner) & Sensei Damian Takarangi..."
-featured-image: 
+image: 
 excerpt: "Local masters - from left: Sensei Shanon Casson, Sensei Mat Hanna (current competition winner), and Sensei Damian Takarangi."
 image_gallery:
     

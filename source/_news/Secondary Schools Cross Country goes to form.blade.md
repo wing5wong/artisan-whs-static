@@ -2,7 +2,7 @@
 title: "Secondary Schools Cross Country goes to form"
 date: 2019-05-30
 description: "Whanganui Secondary Schools Cross Country produced few surprises with titles going with the form book, nevertheless..."
-featured-image: 
+image: 
 excerpt: "Last week's Whanganui Secondary Schools Cross Country produced few surprises with titles going with the form book, nevertheless there was some excellent races on the Tawhero Golf Course"
 image_gallery:
     

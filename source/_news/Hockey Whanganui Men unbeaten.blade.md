@@ -2,7 +2,7 @@
 title: "Hockey Whanganui Men unbeaten"
 date: 2019-06-18
 description: "Patrick Madder and a predominantly young Whanganui men's team continued their unbeaten streak in Hockey Manawatu"
-featured-image: 
+image: 
 excerpt: "Patrick Madder and a predominantly young Whanganui men's team continued their unbeaten streak in Hockey Manawatu Premier Reserve grade after beating Marton Hockey Club on Saturday."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Matariki celebrated at WHS"
 date: 2019-06-22
 description: "A hāngī pit was dug, food was cooked and a meal was shared at Whanganui High School to celebrate Matariki..."
-featured-image: 
+image: 
 excerpt: "A hāngī pit was dug, food was cooked and a meal was shared at Whanganui High School to celebrate Matariki."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Whanganui Hockey men lock in their middle division spot"
 date: 2019-06-11
 description: "Whanganui Hockey's Kaelin Mooney scored for the second match in a row in their win against College B on Saturday..."
-featured-image: 
+image: 
 excerpt: "Whanganui Hockey's Kaelin Mooney scored for the second match in a row in their win against College B on Saturday."
 image_gallery:
     

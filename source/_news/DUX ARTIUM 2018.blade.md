@@ -3,7 +3,7 @@ title: "DUX ARTIUM 2018"
 date: 2018-10-25
 description: "Congratulations to our Whanganui High School 'Male and Female DUX ARTIUM' for 2018:
 ETHAN MANCER & LILY CLAYPOLE..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5bd2e53dff2a7c39a8000092/Ethan--Lily320.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5bd2e53dff2a7c39a8000092/Ethan--Lily320.jpg
 excerpt: "Congratulations to our Whanganui High School 'Male and Female DUX ARTIUM' for 2018:
 ETHAN MANCER & LILY CLAYPOLE"
 image_gallery:

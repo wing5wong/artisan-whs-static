@@ -2,7 +2,7 @@
 title: "Ethan Bryers is on his way to the top"
 date: 2019-06-27
 description: "Talented teenager Ethan Bryers is on his way to the top after gaining selection to the Swimming NZ Bronze Male squad..."
-featured-image: 
+image: 
 excerpt: "Talented Whanganui teenager Ethan Bryers is on his way to the top after gaining selection to the Swimming NZ Bronze Male squad."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Big Bang Adventure Race"
 date: 
 description: "On 4 November WHS took 4 teams of 4 to the Big Bang 6 hour adventure race just out of Levin..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5a04bbedb8d39a7731000937/20171104_070333.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5a04bbedb8d39a7731000937/20171104_070333.jpg
 excerpt: "On 4 November WHS took 4 teams of 4 to the Big Bang 6 hour adventure race just out of Levin."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5a08d53ab8d39a7731000b68/group-before-departing.jpg"

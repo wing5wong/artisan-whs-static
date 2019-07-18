@@ -2,7 +2,7 @@
 title: "NZRU president visits Wanganui"
 date: 2019-05-01
 description: "Marist's Josaia Bogileka with the ball during Saturday's match against Nga matapouri at Spriggens Park..."
-featured-image: 
+image: 
 excerpt: "Marist's Josaia Bogileka with the ball during Saturday's match against Nga matapouri at Spriggens Park."
 image_gallery:
     

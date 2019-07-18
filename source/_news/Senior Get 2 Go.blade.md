@@ -2,7 +2,7 @@
 title: "Senior Get 2 Go"
 date: 2018-03-01
 description: "On 1 March WHS took 7 teams down to Waikanae for the Senior Get 2 Go 3 hour adventure race..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b0f664eff2a7c6bfc0020dd/Untitled-1.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5b0f664eff2a7c6bfc0020dd/Untitled-1.gif
 excerpt: "On 1 March WHS took 7 teams down to Waikanae for the Senior Get 2 Go 3 hour adventure race."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f6691b8d39a7499002131/at-bikes.gif"

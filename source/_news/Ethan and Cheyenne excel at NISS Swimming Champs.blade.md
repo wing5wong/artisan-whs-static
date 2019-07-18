@@ -2,7 +2,7 @@
 title: "Ethan and Cheyenne excel at NISS Swimming Champs"
 date: 2019-05-11
 description: "Fantastic results for Ethan Bryers and Cheyenne Nightingale at the NISS Championships on Saturday 11 May..."
-featured-image: 
+image: 
 excerpt: "Fantastic results for Ethan Bryers and Cheyenne Nightingale at the NISS Championships on Saturday 11 May."
 image_gallery:
     

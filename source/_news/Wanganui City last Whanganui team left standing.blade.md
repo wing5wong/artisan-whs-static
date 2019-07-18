@@ -2,7 +2,7 @@
 title: "Wanganui City last Whanganui team left standing"
 date: 2019-06-04
 description: "Kyle Graham-Luke grabbed a hat-trick of goals for Wanganui City in their exciting Federation Cup win over Hawera at..."
-featured-image: 
+image: 
 excerpt: "Kyle Graham-Luke grabbed a hat-trick of goals for Wanganui City in their exciting Federation Cup win over Hawera at Turuturu Park today."
 image_gallery:
     

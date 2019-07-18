@@ -2,7 +2,7 @@
 title: "Jack does well at the NISS Road and Track Cycling"
 date: 2019-07-08
 description: "Jack has just competed at the NISS road and track cycling. He placed 4th in the road race out of 68 entrants and 6th in the..."
-featured-image: 
+image: 
 excerpt: "Jack has just competed at the NISS road and track cycling. He placed 4th in the road race out of 68 entrants and 6th in the criterium."
 image_gallery:
     

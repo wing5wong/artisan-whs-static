@@ -2,7 +2,7 @@
 title: "Busy time with vicar, choir"
 date: 2019-06-26
 description: "Director Chris McKenzie can take a bow, as can the actors and everyone who helped present The Vicar of Dibley..."
-featured-image: 
+image: 
 excerpt: "Director Chris McKenzie can take a bow, as can the actors and everyone who helped present The Vicar of Dibley. It was a riot and so very true to the TV series."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Whanganui High School News - June 2019"
 date: 2019-06-30
 description: "Whanganui High School News - June 2019. Celebrating Success of our Students‼️"
-featured-image: 
+image: 
 excerpt: "Whanganui High School News - June 2019. Celebrating Success of our Students‼️"
 image_gallery:
     

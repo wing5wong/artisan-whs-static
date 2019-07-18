@@ -2,7 +2,7 @@
 title: "Lyric Singers’ Take Flight"
 date: 2019-06-13
 description: "Lyric Singers will present their mid-year concert, ‘Taking Flight’ on Saturday, June 22 in Trinity Methodist Church..."
-featured-image: 
+image: 
 excerpt: "Lyric Singers will present their mid-year concert, ‘Taking Flight’ on Saturday, June 22 in Trinity Methodist Church."
 image_gallery:
     

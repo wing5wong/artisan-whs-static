@@ -2,7 +2,7 @@
 title: "Amdram’s production of 'The Vicar of Dibley'"
 date: 2019-06-05
 description: "Jayne Fields & Tori Whibley play Geraldine & Alice, the vicar & the verger, in Amdram’s production of the Vicar of Dibley..."
-featured-image: 
+image: 
 excerpt: "Jayne Fields and Tori Whibley play Geraldine and Alice — the vicar and the verger — in Amdram’s production of the Vicar of Dibley."
 image_gallery:
     

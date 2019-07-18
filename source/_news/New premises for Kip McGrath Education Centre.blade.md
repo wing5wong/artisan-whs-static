@@ -2,7 +2,7 @@
 title: "New premises for Kip McGrath Education Centre"
 date: 2019-06-20
 description: "New purpose-built premises in Springvale for Kip McGrath Education Centre..."
-featured-image: 
+image: 
 excerpt: "New purpose-built premises in Springvale for Kip McGrath Education Centre."
 image_gallery:
     

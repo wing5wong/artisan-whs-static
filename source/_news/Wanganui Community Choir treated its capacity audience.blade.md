@@ -2,7 +2,7 @@
 title: "Wanganui Community Choir treated its capacity audience"
 date: 2019-06-12
 description: "Abigail Livesay was the accompanist in the Wanganui Community Choir's Musicals & Movies Through the Decades concert"
-featured-image: 
+image: 
 excerpt: "Abigail Livesay was the accompanist in the Wanganui Community Choir's Musicals and Movies Through the Decades concert recently"
 image_gallery:
     

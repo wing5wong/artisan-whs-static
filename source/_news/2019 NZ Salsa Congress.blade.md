@@ -2,7 +2,7 @@
 title: "2019 NZ Salsa Congress"
 date: 2019-06-03
 description: "Sophie & Tobias Perkins attended / preformed at a two day workshop held by Salsa Champions from around the world..."
-featured-image: 
+image: 
 excerpt: "Sophie and Tobias Perkins second year preforming at the Wellington Congress where they attended a two day workshop held by Salsa Champions from around the world."
 image_gallery:
     

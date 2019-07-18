@@ -2,7 +2,7 @@
 title: "Rugby: Ratana's return to the Pa is victory over Pirates"
 date: 2019-04-29
 description: "Premier rugby returned to a picturesque Ratana Pa for the first time since 2017 today, as the home side won a one-pointer"
-featured-image: 
+image: 
 excerpt: "Premier rugby returned to a picturesque Ratana Pa for the first time since 2017 today, as the home side won a one-pointer thriller over Pirates."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Y9 & 10 Dancers at DanceNZmade Competition"
 date: 
 description: "These dancers are our WHS Year 9 and 10 Dancers who competed at the DanceNZmade Competition Finals..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/59e429c1b8d39a463b0002a8/21761606_366144663807878_1452166141909288440x2_n.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/59e429c1b8d39a463b0002a8/21761606_366144663807878_1452166141909288440x2_n.jpg
 excerpt: "These dancers are our WHS Year 9 and 10 Dancers who competed at the DanceNZmade Competition Finals in Palmerston North on the 23 September at the Regent Theatre."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59e429f4b8d39a463b0002ae/21766843_366144673807877_2030323803760000513_n.jpg"

@@ -2,7 +2,7 @@
 title: "Students selected for NZ Touch Squads - April 2016"
 date: 
 description: "WHS students selected for NZ Touch Squads, April 2016..."
-featured-image: 
+image: 
 excerpt: "WHS students selected for NZ Touch Squads, April 2016..."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5702dac4b8d39a76810004c3/13084.jpg"

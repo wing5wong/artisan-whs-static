@@ -2,7 +2,7 @@
 title: "Students head to Central RPC Camp"
 date: 2018-05-25
 description: "All the best to Y13 students Levi Carroll & Jonty Thomson & Y12 student Niamh Monk as they head away to the Central RPC..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b20729bb8d39a749900239c/CENTRAL-ROWING-image.gif
+image: http://c1940652.r52.cf0.rackcdn.com/5b20729bb8d39a749900239c/CENTRAL-ROWING-image.gif
 excerpt: "All the best to Y13 students Levi Carroll & Jonty Thomson & Y12 student Niamh Monk as they head away to the Central RPC Camp."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b206fceff2a7c6bfc002356/RPC-Camp-Levi-Carroll-May-2018.jpg"

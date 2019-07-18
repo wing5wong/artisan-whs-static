@@ -2,7 +2,7 @@
 title: "Annika's bright rowing future in Germany"
 date: 2019-05-21
 description: "Hello Mrs Su'a, I wanted to thank you again for the great time I had at Whanganui High School..."
-featured-image: 
+image: 
 excerpt: "Hello Mrs Su'a, I wanted to thank you again for the great time I had at Whanganui High School."
 image_gallery:
     

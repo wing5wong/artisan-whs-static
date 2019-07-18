@@ -2,7 +2,7 @@
 title: "Band needs brass to represent the region"
 date: 2019-05-03
 description: "Brass Whanganui are calling on community support to help them represent New Zealand in China..."
-featured-image: 
+image: 
 excerpt: "Brass Whanganui are calling on community support to help them represent New Zealand in China."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "U15s faring well at national champs - September 2015"
 date: 
 description: "The Wanganui Under-15 boys and girls hockey teams are faring well at their respective national age-group championships, from Wanganui Chronicle article on 30/9/15..."
-featured-image: 
+image: 
 excerpt: "The Wanganui Under-15 boys and girls hockey teams are faring well at their respective national age-group championships, from Wanganui Chronicle article on 30/9/15..."
 image_gallery:
     

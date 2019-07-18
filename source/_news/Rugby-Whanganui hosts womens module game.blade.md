@@ -2,7 +2,7 @@
 title: "Rugby: Whanganui hosts women's module game"
 date: 2019-06-17
 description: "Development officer Eneliko Fa'atau has been recruiting players, while the keystone is the return home of Sosoli Talawadua..."
-featured-image: 
+image: 
 excerpt: "Development officer Eneliko Fa'atau has been recruiting players, while the keystone is the return home of Sosoli Talawadua."
 image_gallery:
     

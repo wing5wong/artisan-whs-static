@@ -2,7 +2,7 @@
 title: "Wealth of talent for the selectors"
 date: 2019-06-12
 description: "With 34 former representatives included 74 players named for  Wanganui rugby trial there is a wealth of talent for the selection"
-featured-image: 
+image: 
 excerpt: "With 34 former representatives included in the 74 players named for Saturday’s Steelform Wanganui rugby trial at Cooks Gardens there is a wealth of talent for the selection panel to view."
 image_gallery:
     

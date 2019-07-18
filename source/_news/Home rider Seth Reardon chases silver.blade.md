@@ -2,7 +2,7 @@
 title: "Home rider Seth Reardon chases silver"
 date: 2019-04-17
 description: "Whanganui dirt bike ace Seth Reardon in battle for second place in NZ championships..."
-featured-image: 
+image: 
 excerpt: "Whanganui dirt bike ace Seth Reardon in battle for second place in NZ championships."
 image_gallery:
     

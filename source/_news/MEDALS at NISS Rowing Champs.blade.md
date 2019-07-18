@@ -2,7 +2,7 @@
 title: "MEDALS at NISS Rowing Champs"
 date: 2018-03-04
 description: "Congratulations to our WHS U16 & U17 Girls Rowing Quads who won Silver & Bronze at the NISS Rowing Champs..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5aa20948ff2a7c6bfc000a59/girls-U16-squad-SILVER.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5aa20948ff2a7c6bfc000a59/girls-U16-squad-SILVER.jpg
 excerpt: "Congratulations to our WHS U16 & U17 Girls Rowing Quads who won Silver & Bronze at the NISS Rowing Champs..."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5aa20965ff2a7c6bfc000a5b/girls-U16-squad-SILVER.jpg"

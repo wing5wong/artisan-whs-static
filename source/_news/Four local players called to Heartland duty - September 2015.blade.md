@@ -2,7 +2,7 @@
 title: "Four local players called to Heartland duty - September 2015"
 date: 
 description: "Former WHS students Joe Edwards (Kaierau) and Dominic Broadhead (Kaierau) received the call-up to the 25-man team, which consists of U19 representatives from all 12 Heartland unions."
-featured-image: 
+image: 
 excerpt: "Former WHS students Joe Edwards (Kaierau) and Dominic Broadhead (Kaierau) received the call-up to the 25-man team, which consists of U19 representatives from all 12 Heartland unions."
 image_gallery:
     

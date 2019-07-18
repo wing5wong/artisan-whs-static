@@ -2,7 +2,7 @@
 title: "That's for you, bro"
 date: 2019-06-11
 description: "Seb Newton was named the inaugural winner of the Felix Newton Trophy for riding the best wave at the Cold Water..."
-featured-image: 
+image: 
 excerpt: "Seb Newton was named the inaugural winner of the Felix Newton Trophy for riding the best wave at the Cold Water Classic on Sunday."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Basketball: Whanganui's Special Olympians came third"
 date: 2019-06-29
 description: "Whanganui's Special Olympians came third in both of their basketball divisions at the Special Olympics Manawatu tournament..."
-featured-image: 
+image: 
 excerpt: "There was tremendous excitment for a group of Whanganui's Special Olympians who came third in both of their basketball divisions at the Special Olympics Manawatu tournament"
 image_gallery:
     

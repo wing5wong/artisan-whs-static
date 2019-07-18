@@ -2,7 +2,7 @@
 title: "Watson has the worlds at his feet"
 date: 2019-06-13
 description: "Whanganui heavyweight judoka Keightley Watson has a busy itinerary this year earning valuable world ranking points..."
-featured-image: 
+image: 
 excerpt: "Teenage Whanganui heavyweight judoka Keightley Watson (white) has a busy itinerary this year earning valuable world ranking points."
 image_gallery:
     

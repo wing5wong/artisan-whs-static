@@ -2,7 +2,7 @@
 title: "Whanganui Metro - key players back from injury"
 date: 2019-05-09
 description: "Metro lock Mason Johnson returns from injury along with fellow forward pack leader Devine to tackle Manawatu Colts..."
-featured-image: 
+image: 
 excerpt: "Metro lock Mason Johnson returns from injury along with fellow forward pack leader Louis Devine to tackle Manawatu Colts."
 image_gallery:
     

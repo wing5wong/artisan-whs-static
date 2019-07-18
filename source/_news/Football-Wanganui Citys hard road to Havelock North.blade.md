@@ -2,7 +2,7 @@
 title: "Football: Wanganui City's hard road to Havelock North"
 date: 2019-04-27
 description: "Wanganui City's Anthony Bell remembers what a tough challenge Havelock North can be at home..."
-featured-image: 
+image: 
 excerpt: "Although it's been a couple of seasons since they played each other, Wanganui City's Anthony Bell remembers what a tough challenge Havelock North can be at home."
 image_gallery:
     

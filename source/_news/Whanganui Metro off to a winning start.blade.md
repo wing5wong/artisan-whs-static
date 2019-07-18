@@ -2,7 +2,7 @@
 title: "Whanganui Metro off to a winning start"
 date: 2019-04-03
 description: "St Johns Club Whanganui Metro begin Manawatu Colts season with 26-17 win over Massey White..."
-featured-image: 
+image: 
 excerpt: "St Johns Club Whanganui Metro begin Manawatu Colts season with 26-17 win over Massey White."
 image_gallery:
     

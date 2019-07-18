@@ -2,7 +2,7 @@
 title: "Athletes make the journey south to NZSS Cross Country Champs"
 date: 2019-06-13
 description: "The hard training is over, there is nothing that can be added in the two days before the NZSS Cross Country in Timaru..."
-featured-image: 
+image: 
 excerpt: "The hard training is over, there is nothing that can be added in the two days before the New Zealand Secondary Schools Cross Country in Timaru on Saturday."
 image_gallery:
     

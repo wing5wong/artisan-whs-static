@@ -2,7 +2,7 @@
 title: "Both City and Athletic rare favourites in Federation League"
 date: 2019-06-15
 description: "Both Wanganui City and Athletic rare favourites in Federation League..."
-featured-image: 
+image: 
 excerpt: "Both Wanganui City and Athletic rare favourites in Federation League."
 image_gallery:
     

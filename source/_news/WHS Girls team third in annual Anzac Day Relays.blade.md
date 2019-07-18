@@ -2,7 +2,7 @@
 title: "WHS Girls team third in annual Anzac Day Relays"
 date: 2019-05-02
 description: "WHS's girls team claimed third at Scoutlands at the annual Wanganui Harrier Club Anzac Day Relays..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School's girls team claimed third at Scoutlands and that team features the nationally-ranked Rebecca Baker, her sister Charlotte, promising hurdler Paris Munro and Jemma Tan."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Tupoho applications open for Maori athletes"
 date: 
 description: "WHS has had eight present/former students that have received a Scholarship from the Tupoho Whānau Trust in the past. This year it will be presented at the Whanganui Sports Awards on Nov 18 at the..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/581bd12dff2a7c1600000016/Gabrielle-Hiri-2013-recipient.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/581bd12dff2a7c1600000016/Gabrielle-Hiri-2013-recipient.jpg
 excerpt: "WHS has had eight present/former students that have received a Scholarship from the Tupoho Whānau Trust in the past. This year it will be presented at the Whanganui Sports Awards on Nov 18 at the Whanganui Racecourse."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/581bd186b8d39a06a100001a/Daniel-Kauika-2014-recipient.jpg"

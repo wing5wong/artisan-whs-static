@@ -2,7 +2,7 @@
 title: "WHS Winter Tournament Week 2017"
 date: 
 description: "Whanganui High School had 10 teams competing in the Winter Tournament Week all over New Zealand..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/59c48bddb8d39a1917000046/Great-Netball-photo-for-web.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/59c48bddb8d39a1917000046/Great-Netball-photo-for-web.jpg
 excerpt: "Whanganui High School had 10 teams competing in the Winter Tournament Week all over New Zealand."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59beee74b8d39a25890000a4/Hockey-girls-teams-photo.jpg"

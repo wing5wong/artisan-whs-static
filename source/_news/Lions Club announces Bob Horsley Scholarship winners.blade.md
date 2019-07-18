@@ -3,7 +3,7 @@ title: "Lions Club announces Bob Horsley Scholarship winners"
 date: 
 description: "Lions Club announces Bob Horsley Scholarship winners.
 Wanganui Lions Club President Stuart Kelly with from the left: Sam Bridger (ex WHS 2016)..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5938d2e4b8d39a0f8500043b/Sam-Bridger-ex-WHS-schol-winner-RCP-1-June.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5938d2e4b8d39a0f8500043b/Sam-Bridger-ex-WHS-schol-winner-RCP-1-June.jpg
 excerpt: "Lions Club announces Bob Horsley Scholarship winners.
 Wanganui Lions Club President Stuart Kelly with from the left: Sam Bridger (ex WHS 2016), Jayden Rhodes and Luke Foster."
 image_gallery:

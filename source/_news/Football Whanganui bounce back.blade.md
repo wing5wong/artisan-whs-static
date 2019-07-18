@@ -2,7 +2,7 @@
 title: "Football Whanganui bounce back"
 date: 2019-06-11
 description: "Team Ritesh Football Whanganui made it two wins for the season for the first time in their three year history of Women's Fed..."
-featured-image: 
+image: 
 excerpt: "Team Ritesh Football Whanganui made it two wins for the season for the first time in their three year history of Women's Federation League"
 image_gallery:
     

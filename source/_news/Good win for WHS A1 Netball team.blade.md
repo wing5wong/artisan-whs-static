@@ -2,7 +2,7 @@
 title: "Good win for WHS A1 Netball team"
 date: 2019-05-29
 description: "Whanganui High School defender Kara Adrole was joined by newcomer Tima Tuinasoni in defence on Monday night..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School defender Kara Adrole was joined by newcomer Tima Tuinasoni in defence on Monday night."
 image_gallery:
     

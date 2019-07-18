@@ -2,7 +2,7 @@
 title: "Jack Overweel - 1st U15 Boys WCNI Road Champs"
 date: 2019-04-14
 description: "Jack Overweel - 1st U15 Boys West Coast North Island Age Group Road Champs held in Hawera on Sunday 14 April 2019..."
-featured-image: 
+image: 
 excerpt: "Jack Overweel - 1st U15 Boys West Coast North Island Age Group Road Champs held in Hawera on Sunday 14 April 2019..."
 image_gallery:
     

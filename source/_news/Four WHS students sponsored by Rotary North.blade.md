@@ -2,7 +2,7 @@
 title: "Four WHS students sponsored by Rotary North"
 date: 2019-05-30
 description: "Young People helped by Rotary North Sponsorship Programme - including WHS students Lucas, Leticia, Sophie & Madalyn..."
-featured-image: 
+image: 
 excerpt: "Young People helped by Rotary North Sponsorship Programme - including WHS students Lucas, Leticia, Sophie & Madalyn..."
 image_gallery:
     

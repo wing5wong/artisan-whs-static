@@ -2,7 +2,7 @@
 title: "Experienced cast set for Dibley"
 date: 2019-06-19
 description: "Chris's wife Jacqui is an integral part of the show, The Vicar of Dibley. \"I would not direct a show if I did not have my wife..."
-featured-image: 
+image: 
 excerpt: "Chris's wife Jacqui is an integral part of the show, The Vicar of Dibley. \"I would not direct a show if I did not have my wife involved, because she is just awesome.\""
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "'MIMESIS' - Lily Claypole"
 date: 2019-06-15
 description: "'MIMESIS' - Lily Claypole. This is Lily's first public solo exhibition. An exhibition of dramatic & evocative photographs..."
-featured-image: 
+image: 
 excerpt: "'MIMESIS' - Lily Claypole. This is Lily's first public solo exhibition. An exhibition of dramatic and evocative photographs – not to be missed"
 image_gallery:
     

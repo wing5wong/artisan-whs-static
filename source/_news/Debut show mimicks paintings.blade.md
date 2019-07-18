@@ -2,7 +2,7 @@
 title: "Debut show mimicks paintings"
 date: 2019-06-19
 description: "Mimesis is Lily Claypole’s debut solo exhibition has eight photographic works on display, each mimicking the subject and..."
-featured-image: 
+image: 
 excerpt: "Mimesis is Lily Claypole’s debut solo exhibition has eight photographic works on display, each mimicking the subject and elements that make up PreRaphaelite paintings."
 image_gallery:
     

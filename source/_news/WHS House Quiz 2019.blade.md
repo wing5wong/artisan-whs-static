@@ -2,7 +2,7 @@
 title: "WHS House Quiz 2019"
 date: 2019-05-24
 description: "WHS House Quiz 2019 was a huge success! Hundreds of students attended, and an eventful day was had by all..."
-featured-image: 
+image: 
 excerpt: "WHS House Quiz 2019 was a huge success! Hundreds of students attended, and an eventful day was had by all."
 image_gallery:
     

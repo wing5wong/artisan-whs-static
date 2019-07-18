@@ -2,7 +2,7 @@
 title: "Talented Young Athletes presented grants"
 date: 2019-05-02
 description: "The first Mitre 10 Mega Future Champions Trust round of 2019 has granted $9,500 to 7 successful athletes from Whanganui..."
-featured-image: 
+image: 
 excerpt: "The first Mitre 10 Mega Future Champions Trust round of 2019 has granted $9,500 to seven successful athletes from Whanganui."
 image_gallery:
     

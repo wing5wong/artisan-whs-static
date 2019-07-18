@@ -2,7 +2,7 @@
 title: "Gillespie battles conditions for 4th - September 2015"
 date: 
 description: "A strong final round in horrible conditions saw ex-pat Wanganui Golf professional and former WHS student Nick Gillespie finish fourth at the Men's Carrus Open in Tauranga on Sunday."
-featured-image: 
+image: 
 excerpt: "A strong final round in horrible conditions saw ex-pat Wanganui Golf professional and former WHS student Nick Gillespie finish fourth at the Men's Carrus Open in Tauranga on Sunday, Wanganui Chronicle article on 22/9/15..."
 image_gallery:
     

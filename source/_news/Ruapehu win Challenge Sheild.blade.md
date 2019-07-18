@@ -2,7 +2,7 @@
 title: "Ruapehu win Challenge Sheild"
 date: 2019-05-20
 description: "McCarthy's Transport Ruapehu 34-27 victory over Dave Hoskin Carriers Marist at Ohakune's Rochfort Park..."
-featured-image: 
+image: 
 excerpt: "McCarthy's Transport Ruapehu 34-27 victory over Dave Hoskin Carriers Marist at Ohakune's Rochfort Park."
 image_gallery:
     

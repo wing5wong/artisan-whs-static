@@ -2,7 +2,7 @@
 title: "Seesaw battle ends in Taihape win"
 date: 2019-05-06
 description: "Seesaw battle between the Kaierau and Taihape Rugby teams on the weekend, but former WHS players do their team proud..."
-featured-image: 
+image: 
 excerpt: "Seesaw battle between the Kaierau and Taihape Rugby teams on the weekend, but former WHS players do their team proud."
 image_gallery:
     

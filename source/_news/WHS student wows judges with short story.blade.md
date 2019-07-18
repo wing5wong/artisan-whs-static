@@ -2,7 +2,7 @@
 title: "WHS student wows judges with short story"
 date: 2019-06-19
 description: "A WHS student has impressed the judges with her creative mind in the New Zealand Secondary School Writing Competition..."
-featured-image: 
+image: 
 excerpt: "A Whanganui High School student has impressed the judges with her creative mind in the New Zealand Secondary School Writing Competition."
 image_gallery:
     

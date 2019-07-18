@@ -2,7 +2,7 @@
 title: "Meningitis fundraiser is Chloe's voice"
 date: 2019-05-01
 description: "Meningitis fundraiser is Chloe's voice. Family raise $4000 in memory of her..."
-featured-image: 
+image: 
 excerpt: "Meningitis fundraiser is Chloe's voice. Family raise $4000 in memory of her."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Big night for WHS sports stars"
 date: 
 description: "Kahurangi Sturmey and Blair Osborne are the Sports Dux for Whanganui High School in 2016, Wanganui Chronicle article on 15 October 2016..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5803e7e8ff2a7c37a3001018/Dux-Sports-Awards-2016-Kahurangi-Sturmey--Blair-Osborne.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5803e7e8ff2a7c37a3001018/Dux-Sports-Awards-2016-Kahurangi-Sturmey--Blair-Osborne.jpg
 excerpt: "Kahurangi Sturmey and Blair Osborne are the Sports Dux for Whanganui High School in 2016."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/580947ddff2a7c37a3001251/Principals-Cup-Jessica-Watkin--Emma-Rainey-most-outstanding-sports--perf.jpg"

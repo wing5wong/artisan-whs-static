@@ -2,7 +2,7 @@
 title: "Students enjoying Crankworx Rotorua"
 date: 2019-03-24
 description: "Past/present students enjoying the pace at Crankworx Rotorua 19-24 March 2019..."
-featured-image: 
+image: 
 excerpt: "Past/present students enjoying the pace at Crankworx Rotorua 19-24 March 2019.."
 image_gallery:
     

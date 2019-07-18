@@ -2,7 +2,7 @@
 title: "Students had a fantastic visit to the Gold Coast"
 date: 2019-06-08
 description: "Our NCEA Level 3 Geography & Tourism students had a fantastic visit to the Gold Coast of Australia to have a behind the..."
-featured-image: 
+image: 
 excerpt: "The NCEA Level 3 Geography and Tourism students had a fantastic visit to the Gold Coast of Australia to have a behind the scenes look at the tourism industry."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Dancer working in dream job"
 date: 2019-03-20
 description: "Former WHS student Mark Lace is living his dream of dancing for a living..."
-featured-image: 
+image: 
 excerpt: "Former WHS student Mark Lace is living his dream of dancing for a living."
 image_gallery:
     

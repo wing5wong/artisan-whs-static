@@ -2,7 +2,7 @@
 title: "Optometrist Olivia Wood-Bodley working in Whanganui"
 date: 2019-05-15
 description: "Olivia Wood-Bodley became interested in optometry when she couldn't see the screens in her university lecture theatre..."
-featured-image: 
+image: 
 excerpt: "Olivia Wood-Bodley became interested in optometry when she couldn't see the screens in her university lecture theatre."
 image_gallery:
     

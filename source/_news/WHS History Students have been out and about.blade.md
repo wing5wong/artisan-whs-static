@@ -2,7 +2,7 @@
 title: "WHS History Students have been out and about"
 date: 2019-02-18
 description: "WHS History students have been out and about - Handspan Monument, Boer War Memorial, Paikatore and Waiouru War..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5c6c8a20ff2a7c6f50000388/handspan--war-museum.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5c6c8a20ff2a7c6f50000388/handspan--war-museum.jpg
 excerpt: "WHS History Students have been out and about to the Handspan Monument, Boer War Memorial, Paikatore & Waiouru War Museum."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5c6c8ab7ff2a7c6f50000394/y11-in-Paikatore.jpg"

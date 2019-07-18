@@ -2,7 +2,7 @@
 title: "WHS Athletics Day a Huge Success"
 date: 2018-02-22
 description: "Well done today Whanganui High School - Inter-house Athletics at Cooks Gardens. What an amazing day!"
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5a8f6ddab8d39a7499000260/boys-at-finish-linesquare-version.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5a8f6ddab8d39a7499000260/boys-at-finish-linesquare-version.jpg
 excerpt: "Well done today Whanganui High School - Inter-house Athletics at Cooks Gardens. What an amazing day!"
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5a8f6be9ff2a7c6bfc000241/Rebecca-Baker-running.jpg"

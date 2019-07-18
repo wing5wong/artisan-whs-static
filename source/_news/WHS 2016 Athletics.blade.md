@@ -2,7 +2,7 @@
 title: "WHS 2016 Athletics"
 date: 
 description: "WHS 2016 Athletics..."
-featured-image: 
+image: 
 excerpt: "WHS 2016 Athletics..."
 image_gallery:
     

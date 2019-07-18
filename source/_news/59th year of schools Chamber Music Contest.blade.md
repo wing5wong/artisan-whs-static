@@ -2,7 +2,7 @@
 title: "59th year of schools Chamber Music Contest"
 date: 2019-06-17
 description: "About 80 students from the Whanganui region took to the stage to compete in the NZCT Schools Chamber Music Contest..."
-featured-image: 
+image: 
 excerpt: "About 80 students from the Whanganui region took to the stage to compete in the NZCT Schools Chamber Music Contest."
 image_gallery:
     

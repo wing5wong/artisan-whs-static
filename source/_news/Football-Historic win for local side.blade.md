@@ -2,7 +2,7 @@
 title: "Football: Historic win for local side"
 date: 2019-06-18
 description: "The importance of consecutive Women's Federation League wins for the first time cannot be overstated for Whanganui..."
-featured-image: 
+image: 
 excerpt: "The importance of claiming consecutive Women's Federation League wins for the first time in their history cannot be overstated for Whanganui"
 image_gallery:
     

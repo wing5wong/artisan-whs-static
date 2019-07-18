@@ -2,7 +2,7 @@
 title: "Cooks Gallery features 14 artists for Artists Open Studio"
 date: 2019-03-28
 description: "Member Judy Webby next to her painting to which she is putting the final touches for the Artists Open Studio..."
-featured-image: 
+image: 
 excerpt: "Member Judy Webby next to her painting to which she is putting the final touches for the Artists Open Studio."
 image_gallery:
     

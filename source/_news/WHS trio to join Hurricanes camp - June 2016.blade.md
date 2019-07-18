@@ -2,7 +2,7 @@
 title: "WHS trio to join Hurricanes camp - June 2016"
 date: 
 description: "WHS trio to join Hurricanes camp, Wanganui Chronicle article on 27/6/16..."
-featured-image: 
+image: 
 excerpt: "WHS trio to join Hurricanes camp."
 image_gallery:
     

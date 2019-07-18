@@ -2,7 +2,7 @@
 title: "Whanganui Premier A1 Netball review, round 2"
 date: 2019-05-15
 description: "Whanganui Premier A1 Netball review from the second round on Monday night at Springvale Stadium..."
-featured-image: 
+image: 
 excerpt: "Whanganui Premier A1 Netball review from the second round on Monday night at Springvale Stadium."
 image_gallery:
     

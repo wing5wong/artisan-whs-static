@@ -2,7 +2,7 @@
 title: "Teen duo dance up a storm"
 date: 2019-06-13
 description: "Two WHS students have claimed 14 national titles at the New Zealand National Open One Dance Championships..."
-featured-image: 
+image: 
 excerpt: "Two Whanganui High School students have claimed 14 national titles at the New Zealand National Open One Dance Championships."
 image_gallery:
     

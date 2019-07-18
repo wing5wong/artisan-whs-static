@@ -2,7 +2,7 @@
 title: "Wanganui Athletic win Federation Cup penalty shootout"
 date: 2019-05-13
 description: "Two goals by Scott Burney, allowed Wanganui Athletic to prevail over Port Hill United via penalty shootout in Napier..."
-featured-image: 
+image: 
 excerpt: "Two goals by Scott Burney, including a controversial one in the last minute of extra time, allowed Wanganui Athletic to prevail over Port Hill United via penalty shootout in Napier."
 image_gallery:
     

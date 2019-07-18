@@ -2,7 +2,7 @@
 title: "Renee Teers top in-line skater in Oceania Junior Ladies"
 date: 2019-04-25
 description: "Renee Teers named top in-line skater Junior Ladies at the Oceania Speed Skating Championships in Brisbane over Easter..."
-featured-image: 
+image: 
 excerpt: "Renee Teers named top in-line skater Junior Ladies at the Oceania Speed Skating Championships in Brisbane over Easter."
 image_gallery:
     

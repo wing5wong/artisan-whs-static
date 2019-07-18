@@ -2,7 +2,7 @@
 title: "Charlie Brown selected to referee for NZ at Uni Champs"
 date: 2019-05-10
 description: "Congratulations to Charlie Brown who was selected by New Zealand Football to referee at the National University Champs..."
-featured-image: 
+image: 
 excerpt: "Congratulations to Charlie Brown who was selected by New Zealand Football to referee at the National University Champs."
 image_gallery:
     

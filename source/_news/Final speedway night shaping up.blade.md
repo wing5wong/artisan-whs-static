@@ -2,7 +2,7 @@
 title: "Final speedway night shaping up"
 date: 2019-04-06
 description: "Max Holloway gets airborne over the front wheel of Richard Watkins at Oceanview Speedway. The season climaxes tonight..."
-featured-image: 
+image: 
 excerpt: "Max Holloway gets airborne over the front wheel of Richard Watkins at Oceanview Speedway. The season climaxes tonight with the West Coast champs."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Whanganui men close in on goal"
 date: 2019-05-28
 description: "Kaelin Mooney scored the eighth goal in Whanganui's rout of an undermanned Marist B at Gonville on Saturday..."
-featured-image: 
+image: 
 excerpt: "Kaelin Mooney scored the eighth goal in Whanganui's rout of an undermanned Marist B at Gonville on Saturday."
 image_gallery:
     

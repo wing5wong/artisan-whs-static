@@ -2,7 +2,7 @@
 title: "Dibben dips into Aussie"
 date: 2019-06-06
 description: "Racer Richie Dibben & his major sponsor Mick Paul flank Kiwi superbike legend Aaron Slight during a fundraising..."
-featured-image: 
+image: 
 excerpt: "Whanganui racer Richie Dibben and his major sponsor Mick Paul flank Kiwi superbike legend Aaron Slight during a fundraising evening at Barracks Bar."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "WHS students have a great time at Junior MUNs"
 date: 2018-11-01
 description: "UNITED ARAB EMIRATES: WINNER - BEST DELEGATION; Toni Adams, Laura Mackintosh, Calum Sinclair at Junior MUNs."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5bdfdd4eff2a7c39a800032e/top-photos-for-main-350.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5bdfdd4eff2a7c39a800032e/top-photos-for-main-350.jpg
 excerpt: "On Thursday 1 November students from WHS joined students from other schools in Whanganui to take part in the annual Junior MUNs day held at Whanganui Girls’ College."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bdfc590ff2a7c39a8000320/20181101_100420.jpg"

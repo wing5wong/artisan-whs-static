@@ -2,7 +2,7 @@
 title: "Beautrais talks science and tales of beaked whales"
 date: 2019-05-11
 description: "Keith Beautrais talks science and tales of beaked whales. Whanganui's connection to the mysterious beaked whale..."
-featured-image: 
+image: 
 excerpt: "Keith Beautrais talks science and tales of beaked whales. Whanganui's connection to the mysterious beaked whale..."
 image_gallery:
     

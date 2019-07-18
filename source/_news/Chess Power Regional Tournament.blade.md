@@ -2,7 +2,7 @@
 title: "Chess Power Regional Tournament"
 date: 2018-05-25
 description: "WHS took a Team of Chess players to complete in the Chess Power Regional Tournament..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5bac480eff2a7c1309000153/Playing-chess-tourny-WU-2018.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5bac480eff2a7c1309000153/Playing-chess-tourny-WU-2018.jpg
 excerpt: "WHS took a Team of Chess players to complete in the Chess Power Regional Tournament."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bac44c7ff2a7c1309000151/Luke-Pearson-1st-Chess-Tourny-WU-2018.jpg"

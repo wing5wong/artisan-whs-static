@@ -2,7 +2,7 @@
 title: "NISS Athletics Championship results - April 2016"
 date: 
 description: "WHS students Rebecca Baker and Sophie Andrews had great results at the NISS Athletics Championships held at Mt Smart Stadium in Auckland on the weekend..."
-featured-image: 
+image: 
 excerpt: "WHS students Rebecca Baker and Sophie Andrews had great results at the NISS Athletics Championships held at Mt Smart Stadium in Auckland on the weekend..."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5705b75eb8d39a7681000b15/15008.jpg"

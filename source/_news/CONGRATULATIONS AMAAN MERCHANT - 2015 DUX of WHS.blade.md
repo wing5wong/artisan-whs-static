@@ -2,7 +2,7 @@
 title: "CONGRATULATIONS AMAAN MERCHANT - 2015 DUX of WHS"
 date: 
 description: "Congratulations Amaan Merchant - 2015 DUX of WHS"
-featured-image: /uploads/56428ccab8d39a21360013c0/IMG_1124.JPG
+image: /uploads/56428ccab8d39a21360013c0/IMG_1124.JPG
 excerpt: "Congratulations Amaan Merchant - 2015 DUX of WHS"
 image_gallery:
      - image: "/uploads/56428ceeb8d39a21360013c2/IMG_1124.JPG"

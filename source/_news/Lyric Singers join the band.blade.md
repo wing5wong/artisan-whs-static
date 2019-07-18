@@ -2,7 +2,7 @@
 title: "Lyric Singers join the band"
 date: 2019-06-19
 description: "Local student musicians feature as guest artists in the Lyric Singers' Taking Flight concert, featuring Brass Whanganui..."
-featured-image: 
+image: 
 excerpt: "Local student musicians feature as guest artists in the Lyric Singers' Taking Flight concert, featuring Brass Whanganui this Saturday."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Football: Whanganui women find new flair"
 date: 2019-04-16
 description: "Stella Warner was part of a strong back four for Whanganui whose defence let in only one goal on Sunday..."
-featured-image: 
+image: 
 excerpt: "Stella Warner was part of a strong back four for Whanganui whose defence let in only one goal on Sunday."
 image_gallery:
     

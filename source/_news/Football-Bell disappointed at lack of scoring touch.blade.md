@@ -2,7 +2,7 @@
 title: "Football: Bell disappointed at lack of scoring touch"
 date: 2019-05-20
 description: "It was a frustrating afternoon for Wanganui City's Alex Judd-Nuttall and his team against PN Marist at Memorial Park..."
-featured-image: 
+image: 
 excerpt: "It was a frustrating afternoon for Wanganui City's Alex Judd-Nuttall and his team against PN Marist at Memorial Park on Saturday."
 image_gallery:
     

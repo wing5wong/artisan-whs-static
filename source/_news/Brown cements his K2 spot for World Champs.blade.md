@@ -2,7 +2,7 @@
 title: "Brown cements his K2 spot for World Champs"
 date: 2019-06-19
 description: "Max Brown (left), & Kiwi K2 teammate Kurtis Imrie have made the NZ team for the Canoe Sprint World Champs in Hungary..."
-featured-image: 
+image: 
 excerpt: "Whanganui paddler Max Brown (left), and Kiwi K2 teammate Kurtis Imrie have made the New Zealand team for the Canoe Sprint World Championships in Hungary in August."
 image_gallery:
     

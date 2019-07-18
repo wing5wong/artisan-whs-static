@@ -2,7 +2,7 @@
 title: "Whanganui Hockey teams kept a clean sheet"
 date: 2019-05-21
 description: "The Whanganui Hockey teams swept the weekend with victories in their Manawatu divisions..."
-featured-image: 
+image: 
 excerpt: "The Whanganui teams swept the weekend and both also kept a clean sheet with victories in their Hockey Manawatu divisions on Saturday at Gonville Domain."
 image_gallery:
     

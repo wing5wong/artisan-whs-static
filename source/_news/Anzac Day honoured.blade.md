@@ -2,7 +2,7 @@
 title: "Anzac Day honoured"
 date: 2019-04-17
 description: "Major Tim Easton was guest speaker from the NZ Army 5/7 RNZIR at an assembly to honour the Anzacs..."
-featured-image: 
+image: 
 excerpt: "Major Tim Easton was guest speaker from the NZ Army 5/7 RNZIR at an assembly to honour the Anzacs."
 image_gallery:
     

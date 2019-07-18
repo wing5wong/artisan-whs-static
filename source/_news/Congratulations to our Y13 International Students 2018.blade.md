@@ -2,7 +2,7 @@
 title: "Congratulations to our Y13 International Students 2018"
 date: 2018-11-06
 description: "Congratulations and all the best to our Year 13 International Students of 2018..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5be4d195ff2a7c39a800050a/cup-students-together.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5be4d195ff2a7c39a800050a/cup-students-together.jpg
 excerpt: "Congratulations and all the best to our Year 13 International Students of 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5be4db7dff2a7c39a800050c/Heads-of-International-2019.jpg"

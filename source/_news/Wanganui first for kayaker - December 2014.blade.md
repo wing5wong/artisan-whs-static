@@ -2,7 +2,7 @@
 title: "Wanganui first for kayaker - December 2014"
 date: 
 description: "Wanganui kayaker Erica Tanner has created history with her selection in the New Zealand Under 18 Women's team... - from the Wanganui Chronicle article 19 Dec 2014...."
-featured-image: 
+image: 
 excerpt: ""
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Quiz night to get students to Spain"
 date: 2019-03-27
 description: "Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia for the Quiz night..."
-featured-image: 
+image: 
 excerpt: "Sarah Hird, Queralt Scott and Cat Sleyer with a paella kit donated by Ambrosia for the Quiz night."
 image_gallery:
     

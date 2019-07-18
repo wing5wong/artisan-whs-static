@@ -2,7 +2,7 @@
 title: "Commission for local ATC cadet"
 date: 2019-06-19
 description: "Kalib Matthews recently completed an eight-day NZ Cadet Forces Commissioning Course at the Royal New Zealand Air Force"
-featured-image: 
+image: 
 excerpt: "Kalib Matthews recently completed an eight-day New Zealand Cadet Forces Commissioning Course at the Royal New Zealand Air Force base at Ohakea."
 image_gallery:
     

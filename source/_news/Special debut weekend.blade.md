@@ -2,7 +2,7 @@
 title: "Special debut weekend"
 date: 2019-06-20
 description: "Special Olympics Whanganui basketballers tested their skills against a WHS girls team ahead of their first tournament in..."
-featured-image: 
+image: 
 excerpt: "Special Olympics Whanganui basketballers tested their skills against a WHS girls team ahead of their first tournament in Palmerston North this weekend."
 image_gallery:
     

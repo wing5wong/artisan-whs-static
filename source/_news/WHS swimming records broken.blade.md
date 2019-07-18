@@ -2,7 +2,7 @@
 title: "WHS swimming records broken"
 date: 
 description: "WHS Swimming Championships were on Monday 27 February. We had two new records broken by Sarya Lower..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/58bcc705b8d39a3eff003d49/Sarya-Lower-breathestroke-1.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/58bcc705b8d39a3eff003d49/Sarya-Lower-breathestroke-1.jpg
 excerpt: "WHS Swimming Championships were on Monday 27 February. We had two new records broken by Sarya Lower."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58bcc765b8d39a3eff003d53/Sarya-Lower-1.jpg"

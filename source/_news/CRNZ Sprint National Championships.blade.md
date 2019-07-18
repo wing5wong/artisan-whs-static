@@ -2,7 +2,7 @@
 title: "CRNZ Sprint National Championships"
 date: 2019-02-18
 description: "Results from our WHS students representing Wanganui at the CRNZ Sprint National Championships..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5c6cd35bff2a7c6f500003dd/Kayaking-regatta-Feb-MULsnipped-400.sports-facebook.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5c6cd35bff2a7c6f500003dd/Kayaking-regatta-Feb-MULsnipped-400.sports-facebook.jpg
 excerpt: "Results from our WHS students representing Wanganui at the CRNZ Sprint National Championships."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5c6cd205ff2a7c6f500003cc/51849604_1195507497265021_2916920386174058496_n.jpg"

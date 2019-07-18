@@ -2,7 +2,7 @@
 title: "UCOL marks Puanga with new student pantry"
 date: 2019-07-01
 description: "UCOL Whanganui has been celebrating Puanga all week with nourishing winter food & coincided with the launch of..."
-featured-image: 
+image: 
 excerpt: "UCOL Whanganui has been celebrating Puanga all week with nourishing winter food and the Wednesday celebrations coincided with the launch of a new student pantry."
 image_gallery:
     

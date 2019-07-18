@@ -2,7 +2,7 @@
 title: "New Plymouth Girls High School Sports Exchange results"
 date: 
 description: "Well done to our students who took part in the New Plymouth Girls High School Sports Exchange yesterday Wednesday 28 June."
-featured-image: 
+image: 
 excerpt: "Well done to our students who took part in the New Plymouth Girls High School Sports Exchange yesterday Wednesday 28 June."
 image_gallery:
     

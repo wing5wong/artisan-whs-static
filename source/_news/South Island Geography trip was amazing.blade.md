@@ -2,7 +2,7 @@
 title: "South Island Geography trip was amazing"
 date: 2019-04-14
 description: "The NCEA L2 Geography students went on a 9 day adventure across the South Island learning about the geography of the region."
-featured-image: 
+image: 
 excerpt: "The NCEA level 2 Geography students went on a 9 day adventure across the South Island in the second week of April learning about the geography of the region."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Fantastic results for students in National Photo Comp"
 date: 2019-05-31
 description: "Congratulations to Jack Donaldson and Zoe Bracegirdle for their fantastic results in the North Shore Junior Photography Comp..."
-featured-image: 
+image: 
 excerpt: "Congratulations to Jack Donaldson and Zoe Bracegirdle for their fantastic results in the North Shore Junior Photography Competition."
 image_gallery:
     

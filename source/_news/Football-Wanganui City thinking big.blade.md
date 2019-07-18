@@ -2,7 +2,7 @@
 title: "Football: Wanganui City thinking big"
 date: 2019-05-18
 description: "Wanganui City's Max Davidson is likely to switch from the forwards to defence as his team look to counterattack Palmerston..."
-featured-image: 
+image: 
 excerpt: "Wanganui City's Max Davidson is likely to switch from the forwards to defence as his team look to counterattack Palmerston North Marist's attacking weapons at Memorial Park Saturday."
 image_gallery:
     

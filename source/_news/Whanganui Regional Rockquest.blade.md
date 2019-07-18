@@ -3,7 +3,7 @@ title: "Whanganui Regional Rockquest"
 date: 
 description: "Wanganui Regional Rockquest Results 2016
 Winners of the band category – “WHY VIBRATIONS” Te Paerata Tichbon (guitar/vocalist)and Michael Petersen (drummer)"
-featured-image: /uploads/5766f7b4ff2a7c38fb000010/_DSC3697.JPG
+image: /uploads/5766f7b4ff2a7c38fb000010/_DSC3697.JPG
 excerpt: "Wanganui Regional Rockquest Results 2016
 Winners of the band category – “WHY VIBRATIONS” Te Paerata Tichbon (guitar/vocalist)and Michael Petersen (drummer)"
 image_gallery:

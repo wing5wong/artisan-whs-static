@@ -2,7 +2,7 @@
 title: "Agent's donation helps local youth shine"
 date: 2019-06-04
 description: "Kylie Martin of Shine City (left) accepts a welcome contribution from Lyn Wickham and Emma Tipper..."
-featured-image: 
+image: 
 excerpt: "Kylie Martin of Shine City (left) accepts a welcome contribution from Lyn Wickham and Emma Tipper."
 image_gallery:
     

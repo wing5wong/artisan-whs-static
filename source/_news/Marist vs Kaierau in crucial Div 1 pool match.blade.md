@@ -2,7 +2,7 @@
 title: "Marist vs Kaierau in crucial Div 1 pool match"
 date: 2019-06-21
 description: "Cross town rivals Marist and Kaierau are both meeting each other along the row on Saturday..."
-featured-image: 
+image: 
 excerpt: "Cross town rivals Dave Hoskin Carriers Marist and Wanganui Car Centre Kaierau are both meeting each other along the row on Saturday"
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Results of Hawera Sports Exchange"
 date: 
 description: "Great sports exchange today, Thursday 2 June, at school against Hawera High School.. photo's to follow.."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5779bfaab8d39a2071000515/13335808_617123458436764_3148174644201918237_n.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5779bfaab8d39a2071000515/13335808_617123458436764_3148174644201918237_n.jpg
 excerpt: "Great sports exchange today, Thursday 2 June, at school against Hawera High School."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5756440cb8d39a469d002464/13319954_617123891770054_1495023199003281487_n.jpg"

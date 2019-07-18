@@ -2,7 +2,7 @@
 title: "Brave Kai Iwi rescue earns gold award for surf lifesavers!"
 date: 2019-05-06
 description: "Six former WHS students received their second National Award for a dramatic rescue at Kai Iwi Beach last year..."
-featured-image: 
+image: 
 excerpt: "Six former WHS students received their second National Award for a dramatic rescue at Kai Iwi Beach last year."
 image_gallery:
     

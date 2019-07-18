@@ -2,7 +2,7 @@
 title: "WSS Cross Country event information"
 date: 2019-05-23
 description: "Information leading up to the WSS Cross Country Championships on Thursday 23 May."
-featured-image: 
+image: 
 excerpt: "Information leading up to the WSS Cross Country Championships on Thursday 23 May."
 image_gallery:
     

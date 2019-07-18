@@ -2,7 +2,7 @@
 title: "Rose Hird is the winner of the youth award in the 2019!"
 date: 2019-03-23
 description: "WHS student Rose Hird is the winner of the youth award in the 2019 Whanganui Arts Review for her self-portrait Rōhi..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School student Rose Hird is the winner of the youth award in the 2019 Whanganui Arts Review for her self-portrait Rōhi."
 image_gallery:
     

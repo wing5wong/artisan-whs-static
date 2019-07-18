@@ -2,7 +2,7 @@
 title: "Reardon the enduro frontrunner"
 date: 2019-06-26
 description: "Whanganui's Seth Reardon (Yamaha YZ250FX), leading the New Zealand Enduro Championships after four of seven rounds.."
-featured-image: 
+image: 
 excerpt: "Whanganui's Seth Reardon (Yamaha YZ250FX), leading the New Zealand Enduro Championships after four of seven rounds."
 image_gallery:
     

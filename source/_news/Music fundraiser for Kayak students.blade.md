@@ -2,7 +2,7 @@
 title: "Music fundraiser for Kayak students"
 date: 2019-05-29
 description: "Nigel Brooke fundraising for WHS students Jack Clifton & Lucas Thompson who will be representing NZ in the Junior World Kayak"
-featured-image: 
+image: 
 excerpt: "Nigel Brooke fundraising for WHS students Jack Clifton & Lucas Thompson who will be representing NZ in the Junior World Kayak Champs in Pitesti, Romania in August."
 image_gallery:
     

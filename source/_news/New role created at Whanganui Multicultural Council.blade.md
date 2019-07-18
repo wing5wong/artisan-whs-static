@@ -2,7 +2,7 @@
 title: "New role created at Whanganui Multicultural Council"
 date: 2018-08-03
 description: "Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of Rangitīkei/ Whanganui..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/5b66c4b1b8d39a6d0500060e/carlos-penn-3-aug-2018-chron.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/5b66c4b1b8d39a6d0500060e/carlos-penn-3-aug-2018-chron.jpg
 excerpt: "Juan-Carlos Penn-Reina (Carlos Penn) is the new co-ordinator for the Multicultural Council of Rangitīkei/Whanganui."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "MPs tout Budget benefits for city"
 date: 2019-06-07
 description: "Government MPs have been in Whanganui touting what the Budget can do for the region, including adviser Tim Easton..."
-featured-image: 
+image: 
 excerpt: "Government MPs have been in Whanganui touting what last week's Budget can do for the region, including Labour adviser Tim Easton."
 image_gallery:
     

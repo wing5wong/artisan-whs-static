@@ -2,7 +2,7 @@
 title: "Fastastic results at Tough Guy & Gal competition"
 date: 2019-05-25
 description: "Fantastic results for WHS students competing in the Lower North Island Tough Guy & Gal competition held..."
-featured-image: 
+image: 
 excerpt: "Fantastic results for WHS students competing in the Lower North Island Tough Guy & Gal competition held just out of Wellington."
 image_gallery:
     

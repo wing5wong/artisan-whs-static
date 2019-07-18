@@ -2,7 +2,7 @@
 title: "'Beats by Bartok' were amazing at National Chamber Music"
 date: 2019-06-15
 description: "So proud of 'Beats by Bartok' Congrats Ben Power, Ahimsha Saravanapavan, Sophie Andrews & Joseph Petersen..."
-featured-image: 
+image: 
 excerpt: "So proud of 'Beats by Bartok' Congratulations Ben Power, Ahimsha Saravanapavan, Sophie Andrews and Joseph Petersen."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "McDonald's franchisee has ketchup in his veins"
 date: 2019-05-08
 description: "Barista Ginny Thomson and shift manager William Raaymakers are some young McDonald's talent."
-featured-image: 
+image: 
 excerpt: "Barista Ginny Thomson and shift manager William Raaymakers are some young McDonald's talent."
 image_gallery:
     

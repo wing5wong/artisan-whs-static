@@ -2,7 +2,7 @@
 title: "Jakob scored the winning breakaway goal"
 date: 2019-05-14
 description: "Jakob Moorehouse scored the winning breakaway goal for Whanganui against Massey Reserves on Saturday..."
-featured-image: 
+image: 
 excerpt: "Jakob Moorehouse scored the winning breakaway goal for Whanganui against Massey Reserves on Saturday in Palmerston North."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Jared & Reeve are NZ National Champs in Dance Competition"
 date: 2019-06-02
 description: "WHS has gained two NZ National Champions in both Jared Sim and Reeve Watson in the National Open One Dance"
-featured-image: 
+image: 
 excerpt: "Whanganui High School has gained two New Zealand National Champions in both Jared Sim and Reeve Watson in the National Open One Dance Championships."
 image_gallery:
     

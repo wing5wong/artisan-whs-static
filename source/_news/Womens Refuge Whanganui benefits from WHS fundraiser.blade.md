@@ -2,7 +2,7 @@
 title: "Women's Refuge Whanganui benefits from WHS fundraiser"
 date: 2019-07-09
 description: "Whanganui High School houses collected two car loads of cans and toiletries for Women's Refuge Whanganui..."
-featured-image: 
+image: 
 excerpt: "Whanganui High School houses collected two car loads of cans and toiletries for Women's Refuge Whanganui."
 image_gallery:
     

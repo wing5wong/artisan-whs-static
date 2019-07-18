@@ -2,7 +2,7 @@
 title: "Beach patrols at risk, council warned"
 date: 2019-05-11
 description: "Unless funding for Whanganui's surf lifeguards is increased they will have to leave beaches unguarded & swimmers..."
-featured-image: 
+image: 
 excerpt: "Unless funding for Whanganui's surf lifeguards is increased they will have to leave beaches unguarded and swimmers in danger on more days next summer, Matthew Newell says."
 image_gallery:
     

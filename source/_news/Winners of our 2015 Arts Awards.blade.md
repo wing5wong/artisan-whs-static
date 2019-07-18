@@ -2,7 +2,7 @@
 title: "Winners of our 2015 Arts Awards"
 date: 
 description: "Congratulations to the Winners of our Arts Awards held on the evening of Thursday 22 October 2015 in our School Hall.  Read the full story for photos..."
-featured-image: http://c1940652.r52.cf0.rackcdn.com/562977a8b8d39a7a410009f5/Cultual-Prefects.jpg
+image: http://c1940652.r52.cf0.rackcdn.com/562977a8b8d39a7a410009f5/Cultual-Prefects.jpg
 excerpt: "Congratulations to the Winners of our Arts Awards held on the evening of Thursday 22 October 2015 in our School Hall.  Read the full story for photos..."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/56297c6bb8d39a7a410009fb/Sophie--Finn-together.jpg"

@@ -2,7 +2,7 @@
 title: "WHS Kowhai Debating Team winners"
 date: 2019-07-02
 description: "Congratulations to our WHS Kowhai Debating Team who won their debate against Freyberg High School this week..."
-featured-image: 
+image: 
 excerpt: "Congratulations to our WHS Kowhai Debating Team who won their debate against Freyberg High School this week."
 image_gallery:
     

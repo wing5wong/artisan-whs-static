@@ -2,7 +2,7 @@
 title: "High School Chefs miss out on Nationals by 0.3 of a mark"
 date: 2019-06-13
 description: "WHS chefs came so close to winning the recent regional cooking competitions in Taranaki, missing out by only 0.3 of a mark."
-featured-image: 
+image: 
 excerpt: "WHS cooking representatives came so close to winning the recent regional cooking competitions in Taranaki, missing out by only 0.3 of a mark."
 image_gallery:
     

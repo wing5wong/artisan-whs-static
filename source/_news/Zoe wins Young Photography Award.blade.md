@@ -2,7 +2,7 @@
 title: "Zoe wins Young Photography Award"
 date: 2019-07-03
 description: "Congratulations to Zoe Bracegirdle for winning the Young Photography Award at the Waimarino Art Awards..."
-featured-image: 
+image: 
 excerpt: "Congratulations to Zoe Bracegirdle for winning the Young Photography Award (14-18 yr olds) at the Waimarino Art Awards, with her photograph \"Poison\"."
 image_gallery:
     

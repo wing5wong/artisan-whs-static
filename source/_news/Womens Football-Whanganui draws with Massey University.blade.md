@@ -2,7 +2,7 @@
 title: "Women's Football: Whanganui draws with Massey University"
 date: 2019-05-07
 description: "Teenager Eva Thompson (left) of Football Whanganui played well in her debut game in the starting lineup..."
-featured-image: 
+image: 
 excerpt: "Teenager Eva Thompson (left) of Football Whanganui played well in her debut game in the starting lineup"
 image_gallery:
     

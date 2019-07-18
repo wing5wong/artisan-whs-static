@@ -2,7 +2,7 @@
 title: "Bryers reigns at nationals"
 date: 2019-04-24
 description: "History-making Ethan Bryers returns home from the 2019 AON NZ Age Group Champs in Wellington with a national title..."
-featured-image: 
+image: 
 excerpt: "History-making Toyota Whanganui Swim Club teenager Ethan Bryers returns home from the 2019 AON NZ Age Group Championships in Wellington with a national title."
 image_gallery:
     

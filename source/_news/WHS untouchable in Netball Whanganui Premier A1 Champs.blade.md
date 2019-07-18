@@ -2,7 +2,7 @@
 title: "WHS untouchable in Netball Whanganui Premier A1 Champs"
 date: 2019-07-03
 description: "Philips Electrical Whanganui High School A1 continued to frustrate rivals on Monday night, beating Kaierau A2 64-42 in the..."
-featured-image: 
+image: 
 excerpt: "Philips Electrical Whanganui High School A1 continued to frustrate rivals on Monday night, beating Kaierau A2 64-42 in the..."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Mothers' Day event raises thousands for Cancer Society"
 date: 2019-05-13
 description: "Rosie Rendell (left) gives mum Samantha White a Mothers' Day smooch at the cancer fundraiser..."
-featured-image: 
+image: 
 excerpt: "Rosie Rendell (left) gives mum Samantha White a Mothers' Day smooch at the cancer fundraiser."
 image_gallery:
     
