@@ -2,14 +2,14 @@
 title: "Whanganui teachers work together on National Standards"
 date: 
 description: "Food technology teachers at their moderation meeting hosted by Whanganui High School..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59bf31b0b8d39a25890000d4/Moderation-meeting-Tech-teachers-Hardcastle--Tui.jpg
 excerpt: "Food technology teachers at their moderation meeting hosted by Whanganui High School on Tuesday 12 September."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Food technology teachers at their moderation meeting hosted by Whanganui High School on Tuesday 12 September. <br />From left: Anil Singh, Linda Hardcastle (WHS teacher)</span>, Christine England and Tui Bermeister (WHS teacher)<br />PHOTO / Bevan Conley.</p>

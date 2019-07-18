@@ -2,14 +2,14 @@
 title: "Students selected for NZ U20 Mixed Touch team"
 date: 
 description: "Congratulations to Y13 students Mitchell Millar, Ruhia Tamati and ex student Taniko Tamehana in making the NZ U20 Mixed Touch team to play in the Youth Trans Tasman Series in Auckland in January 2017."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5817a9e3b8d39a20710032a0/Touch-ball.png
 excerpt: "Congratulations to Y13 students Mitchell Millar, Ruhia Tamati and ex student Taniko Tamehana in making the NZ U20 Mixed Touch team to play in the Youth Trans Tasman Series in Auckland in January 2017"
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Congratulations to Year 13 students Mitchell Millar, Ruhia Tamati and ex student Taniko Tamehana in making the NZ U20 Mixed Touch team to play in the Youth Trans Tasman Series in Auckland in January 2017</strong>. </span></p>

@@ -2,7 +2,7 @@
 title: "Jnr A Girls Volleyball top team"
 date: 2018-04-04
 description: "WHS Junior A Girls Volleyball team won over Girls College to be the top junior girls team in Whanganui..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5ac54e3ab8d39a749900130d/Junior-A-Girls.jpg
 excerpt: "WHS Junior A Girls Volleyball team won over Girls College to be the top junior girls team in Whanganui."
 image_gallery:
      - image: "/uploads/5ac54b0cb8d39a7499001305/Junior-A-Girls.JPG"

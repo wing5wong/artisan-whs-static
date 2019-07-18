@@ -2,14 +2,14 @@
 title: "Watson wins GOLD"
 date: 
 description: "INTERNATIONAL STARS: Whanganui brothers Callaghan and WHS student Keightley Watson (right) are the golden boys of open international judo competition, Wanganui Chronicle article on 16/8/16..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/57b38e1aff2a7c38fb00142c/Keightley-gold-at-Int-Judo-Comp-Chron-16-Aug-2016.jpg
 excerpt: "INTERNATIONAL STARS: Whanganui brothers Callaghan (left) and WHS student Keightley Watson are the golden boys of open international judo competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>INTERNATIONAL STARS: Whanganui brothers Callaghan and WHS student Keightley Watson (right) are the golden boys of open international judo competition.</strong></p>

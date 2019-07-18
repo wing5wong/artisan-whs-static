@@ -2,7 +2,7 @@
 title: "Charitable trust manufacturing bee ware"
 date: 2018-06-02
 description: "Former WHS student Aaron Johnson works with the wood offcuts, breaking them down into kindling..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b1ef15cb8d39a7499002323/Aaron-Johnson-ex-chron-2-june-WU-enterprises.gif
 excerpt: "Former WHS student Aaron Johnson works with the wood offcuts, breaking them down into kindling at Wanganui Enterprises."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b1da6d5ff2a7c6bfc00228e/Aaron-Johnson-2ex-chron-2-june-WU-enterprises.jpg"

@@ -2,7 +2,7 @@
 title: "WHS Arts/Cultural stars"
 date: 
 description: "Shaila-Anne Hawkins and Te Paerata Tichbon - Arts/Cultural Dux for Whanganui High School 2016."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5837686fb8d39a165e00029a/Prizegiving2016.jpg
 excerpt: "Shaila-Anne Hawkins and Te Paerata Tichbon - Arts/Cultural Dux for Whanganui High School 2016."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58114b1cff2a7c37a300154f/Shaila-Anne-Hawkins-Dux-Artium-female.jpg"

@@ -2,14 +2,14 @@
 title: "Family answers call for Volunteer Week"
 date: 
 description: "WHS student AJ Malili-Malo-Lauano (right) & his family answers call for Volunteer Week..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5976a130b8d39a1a9e000b13/AJ-Malili-Malo-Lauano-Volunteer-wk-chron-24-June.jpg
 excerpt: "Whanganui High School student AJ Malili-Malo-Lauano and his family answers call for Volunteer Week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Whanganui High School student AJ Malili-Malo-Lauano (right) and his family answers call for Volunteer Week.</strong><br /><br />PHOTO - FAMILY AFFAIR: From left: Angela Malili-Malo-Lauano, Kane Todd, Elisala&nbsp;<span>Malili-Malo-Lauano, Manila&nbsp;<span>Malili-Malo-Lauano and AJ&nbsp;<span>Malili-Malo-Lauano.</span><br />Photo / Supplied</span></span></p>

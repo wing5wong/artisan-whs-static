@@ -3,7 +3,7 @@ title: "WHS and Secondary School Cross Country results - May 2015"
 date: 
 description: "Wanganui High School Cross Country Results 2015.
 Held at Waiouru Army Military camp on Thursday 21 May."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/55654de0ff2a7c746d000af4/WSS-X-Country-21.5.15(3).jpg
 excerpt: ""
 image_gallery:
     

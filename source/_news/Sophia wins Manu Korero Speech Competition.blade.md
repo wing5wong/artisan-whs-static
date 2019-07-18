@@ -2,7 +2,7 @@
 title: "Sophia wins Manu Korero Speech Competition"
 date: 2018-09-18
 description: "SOPHIA 'UNGA-CRIBB - WINNNER of the Junior English section for Manu Korero Nationals 2018..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5ba9d5eaff2a7c130900004f/Sophia-and-Trophy280-(002).jpg
 excerpt: "SOPHIA 'UNGA-CRIBB - WINNNER of the Junior English section for Manu Korero Nationals 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5ba9cab9ff2a7c130900003a/logo.jpg"

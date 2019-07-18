@@ -2,7 +2,7 @@
 title: "NISS Rowing Championships 2019"
 date: 2019-03-10
 description: "Results of NISS Rowing Championships 2019, Lake Karapiro, 8-10 March 2019..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5c85e2afff2a7c25ea000382/1st-one-for-website.330.jpg
 excerpt: "Results of NISS Rowing Championships 2019, Lake Karapiro, 8-10 March 2019."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5c85e49dff2a7c25ea000386/53781152_1209445305871240_8301804310061121536_n.jpg"

@@ -7,9 +7,9 @@ excerpt: "WHS students Rebecca Baker and Sophie Andrews had great results at the
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5705b75eb8d39a7681000b15/15008.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/5705b749b8d39a7681000b13/16008.jpg"
-	
-	
-	
+    
+    
+    
 ---
 
 <p><span>The Whanganui Secondary Schools team had a successful journey north to the North Island Secondary Schools Championships in Auckland on the weekend.</span></p>

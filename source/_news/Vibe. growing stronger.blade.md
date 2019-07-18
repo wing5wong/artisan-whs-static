@@ -2,7 +2,7 @@
 title: "Vibe. growing stronger"
 date: 2018-10-23
 description: "Organisers are hoping to sell at least 1000 tickets to this year's vibe. music festival on 15 December 2018..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5bd28c77ff2a7c39a8000072/crowd.jpg
 excerpt: "Organisers are hoping to sell at least 1000 tickets to this year's vibe. music festival on 15 December 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bd28c90ff2a7c39a8000074/organiser-Josie-Verhaaren.jpg"

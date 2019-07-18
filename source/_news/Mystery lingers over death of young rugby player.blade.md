@@ -2,14 +2,14 @@
 title: "Mystery lingers over death of young rugby player"
 date: 
 description: "Mystery lingers over death of young rugby player Jake Alabaster..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59d2e899b8d39a191700066c/Jake-Alabaster-with-Marist-club.jpg
 excerpt: "Mystery lingers over death of young rugby player Jake Alabaster."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Jake Alabaster started his club career with Marist, before moving to Border. <br />He is pictured (centre) after Border won the premier championship last year. <br />PHOTO / Bevan Conley</span></p>

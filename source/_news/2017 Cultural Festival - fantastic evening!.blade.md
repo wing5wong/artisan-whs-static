@@ -2,7 +2,7 @@
 title: "2017 Cultural Festival - fantastic evening!"
 date: 
 description: "WHS 2017 Cultural Festival - fantastic evening!"
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59499216b8d39a5fde0000b7/3.jpg
 excerpt: "WHS 2017 Cultural Festival - fantastic evening!"
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/594992b9b8d39a5fde0000c1/1.jpg"

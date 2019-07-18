@@ -2,14 +2,14 @@
 title: "Tunbridge hits top form just in time - March 2016"
 date: 
 description: "LEAP OF FAITH: Former WHS student, Whanganui's Joel Tunbridge wins the final round of the elite men's competition at the National Mountainbike Champion-ships in Wanaka on Saturday."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/56d7882cb8d39a3ca3000cdb/Joel-Tunbridge-wins-final-round-Wananka-March-2016.jpg
 excerpt: "LEAP OF FAITH: Former WHS student, Whanganui's Joel Tunbridge wins the final round of the elite men's competition at the National Mountainbike Champion-ships in Wanaka on Saturday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

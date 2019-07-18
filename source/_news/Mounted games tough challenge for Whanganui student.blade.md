@@ -2,7 +2,7 @@
 title: "Mounted games tough challenge for Whanganui student"
 date: 2018-09-17
 description: "Rebecca Benge had to leave Cindy and Blitz behind and competed on a borrowed mount in Belgium..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b9f14a2ff2a7c2965000486/Rebecca-Benge-Chron-17-Sept-2018.jpg
 excerpt: "Rebecca Benge had to leave Cindy and Blitz behind and competed on a borrowed mount in Belgium."
 image_gallery:
     

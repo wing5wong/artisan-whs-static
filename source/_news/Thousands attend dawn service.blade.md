@@ -2,7 +2,7 @@
 title: "Thousands attend dawn service"
 date: 
 description: "Whanganui High School head students Jack Southee and Jackie Hazelhurst spoke of a generation which is growing up in different times at the Dawn Service..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5902a86cb8d39a6a96000302/anzac-day-whs-heads.jpg
 excerpt: "Whanganui High School head students Jack Southee and Jackie Hazelhurst spoke of a generation which is growing up in different times at the Dawn Service."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5902a8d1b8d39a6a96000310/returned-service-flag.jpg"

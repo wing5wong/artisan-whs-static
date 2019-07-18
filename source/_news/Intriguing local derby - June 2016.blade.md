@@ -5,11 +5,11 @@ description: "Colts clash sees Whanganui High School as early favourite playing 
 featured-image: 
 excerpt: "Colts clash sees Whanganui High School as early favourite playing at home, Wanganui Chronicle article on 16/6/16..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Colts clash sees Whanganui High School as early favourite playing at home.</strong></p>

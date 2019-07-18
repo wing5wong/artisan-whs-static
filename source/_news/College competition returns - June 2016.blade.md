@@ -2,14 +2,14 @@
 title: "College competition returns - June 2016"
 date: 
 description: "Wanganui Rugby Union development officer Justin Lock (centre) is no only helping to drive the resurrected secondary schools competition, but he also refereed yesterday's WHS/Ruapehu U15 clash..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/574f817cb8d39a469d001c61/WHS-v-Ruapehu-U15-college-comp-2.6.16-Chron.jpg
 excerpt: "Wanganui Rugby Union development officer Justin Lock (centre) is no only helping to drive the resurrected secondary schools competition, but he also refereed yesterday's WHS/Ruapehu U15 clash..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>LOCKED IN: Wanganui Rugby Union development officer Justin Lock (centre) is no only helping to drive the resurrected secondary schools competition,&nbsp;but he also refereed yesterday's WHS/Ruapehu U15 clash.</span></p>

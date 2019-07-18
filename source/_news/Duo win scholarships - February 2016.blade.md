@@ -5,11 +5,11 @@ description: "Wanganui High School students are two of 55 to receive DairyNZ sch
 featured-image: 
 excerpt: "Wanganui High School students are two of 55 to receive DairyNZ scholarships to study agriculture or science."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Wanganui High School students are two of 55 to receive DairyNZ scholarships to study agriculture or science. &nbsp;</p>

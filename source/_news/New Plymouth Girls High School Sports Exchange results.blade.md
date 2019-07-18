@@ -5,11 +5,11 @@ description: "Well done to our students who took part in the New Plymouth Girls 
 featured-image: 
 excerpt: "Well done to our students who took part in the New Plymouth Girls High School Sports Exchange yesterday Wednesday 28 June."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <div class="_1dwg _1w_m">

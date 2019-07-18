@@ -5,11 +5,11 @@ description: "Hannah Neilson and Tom Clark both received scholarships to go towa
 featured-image: 
 excerpt: "Hannah Neilson and Tom Clark both received scholarships to go towards study in UCOL programmes."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph"><span class="CharacterStyle1"><span lang="EN-GB">A number of Whanganui students received scholarships to go towards study in UCOL programmes. Two local secondary school students were awarded Excellence scholarships worth $9,000 each to go towards study in a UCOL degree programme in 2017. They were: </span></span></p>

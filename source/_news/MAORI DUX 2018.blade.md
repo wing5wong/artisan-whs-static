@@ -3,7 +3,7 @@ title: "MAORI DUX 2018"
 date: 2018-11-01
 description: "Congratulations to our Whanganui High School Māori Dux for 2018:
 JOSIAH KIRK..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5bdf7ab8ff2a7c39a80002d7/Josiah-Kirk-Maori-350-Dux.jpg
 excerpt: "Congratulations to our Whanganui High School Māori Dux for 2018:
 Josiah Kirk"
 image_gallery:

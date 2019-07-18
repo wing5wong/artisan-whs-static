@@ -2,7 +2,7 @@
 title: "WHS Tennis - Fifth in New Zealand - April 2016"
 date: 
 description: "WHS Mixed tennis team finished fifth in New Zealand at the National Secondary Schools Teams finals at the Scarbro Centre in Auckland, April 2016..."
-featured-image: 
+featured-image: /uploads/5732a664b8d39a469d000767/DSC_0225.JPG
 excerpt: "WHS Mixed tennis team finished fifth in New Zealand at the National Secondary Schools Teams finals at the Scarbro Centre in Auckland, April 2016..."
 image_gallery:
      - image: "/uploads/5732a823b8d39a469d00077f/DSC_0139.JPG"

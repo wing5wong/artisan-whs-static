@@ -2,7 +2,7 @@
 title: "Exciting new changes for WHS"
 date: 2018-02-08
 description: "New International students for Whanganui High School 2018..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a8641ecb8d39a42a400075c/overseas-students-photo-rcp-8-feb.jpg
 excerpt: "New International students for Whanganui High School 2018."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Mini Teen Ag event"
 date: 2018-09-26
 description: "A Mini Teen Ag event was held at the Wanganui Racecourse on the morning of Wednesday 26 September..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5bad89c3ff2a7c13090001f7/_DSC0348.320jpg.jpg
 excerpt: "A Mini Teen Ag event was held at the Wanganui Racecourse on the morning of Wednesday 26 September 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bad7d97ff2a7c13090001ef/_DSC0270.jpg"

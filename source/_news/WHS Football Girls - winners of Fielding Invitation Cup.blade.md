@@ -5,11 +5,11 @@ description: "Wanganui High School 1st XI girls won the Fielding Invitational Cu
 featured-image: 
 excerpt: "Wanganui High School 1st XI girls won the Fielding Invitational Cup for the second year running."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Wanganui High School 1st XI won the Fielding Invitational Cup for the second year running.</strong></p>

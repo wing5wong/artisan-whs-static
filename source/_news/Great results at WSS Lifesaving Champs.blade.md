@@ -2,7 +2,7 @@
 title: "Great results at WSS Lifesaving Champs"
 date: 2018-03-02
 description: "Great display of Lifesaving from our WHS students this morning at the WSS Lifesaving Champs..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5aa1fb15b8d39a7499000a60/28379435_942576679224772_7806505868282822656_n-(1).jpg
 excerpt: "Great display of Lifesaving from our WHS students this morning at the WSS Lifesaving Champs."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5aa1fb60b8d39a7499000a66/28660828_942576559224784_3588064096244727808_n-(1).jpg"

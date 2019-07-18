@@ -2,7 +2,7 @@
 title: "Congratulations to our junior debating teams"
 date: 2018-04-06
 description: "Congratulations to both our WHS junior debating teams for winning their first debates..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5ad0308cff2a7c6bfc00152d/Winners-1.jpg
 excerpt: "Congratulations to both our WHS junior debating teams for winning their first debates."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5ad03073b8d39a7499001556/Team-Kakariki.jpg"

@@ -2,7 +2,7 @@
 title: "Volleyball Boys great ambassadors"
 date: 2018-03-23
 description: "The boys were placed in a higher division than 2017, reflecting their good performance the previous year..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5abc2e0bff2a7c6bfc00113a/Boys-with-coach.jpg
 excerpt: "The boys were placed in a higher division than 2017, reflecting their good performance the previous year."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5abc2be5b8d39a7499001169/29496566_953857844763322_8385916120657297408_n.jpg"

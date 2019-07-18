@@ -2,7 +2,7 @@
 title: "High school laud high achievers"
 date: 2018-11-01
 description: "WHS rower Niamh Monk (Senior National Sportswoman of the Year), Kerwyn Morgan (Coach of the Year) Rebecca Baker (Junior Sportswoman) & Jordan Cohen (Senior Sportsman)..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5be1fb24ff2a7c39a80003b3/Chron-1-Nov-all-4-of-them-together.jpg
 excerpt: "WHS rower Niamh Monk (Senior National Sportswoman of the Year), Kerwyn Morgan (Coach of the Year) Rebecca Baker (Junior Sportswoman) & Jordan Cohen (Senior Sportsman)."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5be23e44ff2a7c39a80003fb/011118WCSMawards11.jpg"

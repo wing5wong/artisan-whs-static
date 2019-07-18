@@ -2,14 +2,14 @@
 title: "Brass Whanganui punched well above their weight"
 date: 
 description: "WHS student Ethan Mancer was part of Brass Whanganui who punched well above their weight at the National Brass Band Competitions in Napier over the weekend, Wanganui Chronicle article on 19/7/16..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5795b045ff2a7c38fb000afa/14122.jpg
 excerpt: "WHS student Ethan Mancer was part of Brass Whanganui who punched well above their weight at the National Brass Band Competitions in Napier over the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>WHS student Ethan Mancer was part of Brass Whanganui who punched well above their weight at the National Brass Band Competitions in Napier over the weekend.</strong></p>

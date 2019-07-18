@@ -5,11 +5,11 @@ description: "Five WHS Year 9 students won the regional finals of the VEX IQ Rob
 featured-image: 
 excerpt: "Five WHS Year 9 students won the regional finals of the VEX IQ Robotic Competition on Saturday 28 November at PNBHS; Josiah Booth-Richards, Jack Burrows, Reuben Gould, Levi Harvey and Cameron Russell..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Congratulations to five of our Year 9 students for winning the regional finals of the VEX IQ Robotic Competition on Saturday 28 November at PNBHS; Josiah Booth-Richards, Jack Burrows, Reuben Gould, Levi Harvey and Cameron Russell.</p>

@@ -2,14 +2,14 @@
 title: "Cart race brings out the innovators, speedsters"
 date: 
 description: "WHS student Lily Rose Claypole had a different perspective than most of the competitors at the Soapbox Derby..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58a25453b8d39a3eff0029fd/lilyrose-claypole-soapbox-derby-24-Jan-2017.jpg
 excerpt: "WHS student Lily Rose Claypole had a different perspective than most of the competitors at the Soapbox Derby."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>DOWN LOW: WHS student Lily Rose Claypole had a different perspective than most of the competitors at the Soapbox Derby.<br />PHOTO: Stuart Munro&nbsp;</p>

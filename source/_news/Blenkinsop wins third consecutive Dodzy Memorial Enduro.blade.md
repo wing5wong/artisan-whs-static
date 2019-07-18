@@ -2,14 +2,14 @@
 title: "Blenkinsop wins third consecutive Dodzy Memorial Enduro"
 date: 
 description: "Three-time champion, former WHS student, Sam Blenkinsop in action during the Dodzy Memorial Enduro mountainbike race held at the Wairoa Gorge..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58990ceab8d39a3eff002761/Sam-Blenkinsop-ex-3-time-champ-Feb-2017.jpg
 excerpt: "Three-time champion, former WHS student, Sam Blenkinsop in action during the Dodzy Memorial Enduro mountainbike race held at the Wairoa Gorge."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Three-time champion, former WHS student, Sam Blenkinsop in action during the Dodzy Memorial Enduro mountainbike race held at the Wairoa Gorge.<br /><strong>PHOTO: Mark Bridgwater&nbsp;</strong></span></p>

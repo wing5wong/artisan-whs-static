@@ -2,14 +2,14 @@
 title: "Power providing the musical accompaniment"
 date: 
 description: "WHS student Ben Power is providing the musical accompaniment to the Repertory Theatre's production of Red Riding Hood, Wanganui Midweek article 12/10/16..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58056387b8d39a2071002c63/Little-Red-Riding-Hood-meeting-with-a-wolf-Stock-Vector.jpg
 excerpt: "WHS student Ben Power is providing the musical accompaniment to the Repertory Theatre's production of Red Riding Hood."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS student Ben Power is providing the musical accompaniment to the&nbsp;<span>Repertory Theatre's production of&nbsp;<em>Red Riding Hood.</em></span></span></p>

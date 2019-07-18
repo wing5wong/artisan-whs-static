@@ -2,7 +2,7 @@
 title: "Tournament Week Wrap Up!"
 date: 2018-09-07
 description: "Well done to our WHS Winter Tournament Teams who did so well..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b95cdffff2a7c29650001d7/320-snip41199763_1086601838155588_4260360197580521472_n.gif
 excerpt: "Well done to our WHS Winter Tournament Teams who did so well."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b95c271ff2a7c29650001bf/41199763_1086601838155588_4260360197580521472_n.jpg"

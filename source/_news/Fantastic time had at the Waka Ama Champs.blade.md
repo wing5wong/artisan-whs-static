@@ -2,7 +2,7 @@
 title: "Fantastic time had at the Waka Ama Champs"
 date: 2018-03-23
 description: "WHS girls enjoying the National Secondary School Waka Ama Championships 2018..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b3d949eb8d39a4129000144/29572803_10204223299098948_310-950758593896745075_n.gif
 excerpt: "WHS girls enjoying the National Secondary School Waka Ama Championships 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b3d8dd2b8d39a412900013e/29511209_10204223151415256_6755935853269863574_n.jpg"

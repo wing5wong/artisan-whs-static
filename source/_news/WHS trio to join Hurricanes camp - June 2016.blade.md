@@ -5,11 +5,11 @@ description: "WHS trio to join Hurricanes camp, Wanganui Chronicle article on 27
 featured-image: 
 excerpt: "WHS trio to join Hurricanes camp."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>A host of current and ex-pat Whanganui rugby schoolboys have been chosen for the Hurricanes Under 18 coaching camp in Masterton next month.</strong></p>

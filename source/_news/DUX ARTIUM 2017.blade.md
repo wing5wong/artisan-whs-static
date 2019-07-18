@@ -2,7 +2,7 @@
 title: "DUX ARTIUM 2017"
 date: 
 description: "Congratulations to our Whanganui High School 'Male and Female DUX ARTIUM' for 2017:  JACK SOUTHEE & SOPHIE WHAM..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a1dc4d3b8d39a25b6000a9a/DUX-Jack--Sophie-with-green-surround.jpg
 excerpt: "Congratulations to our Whanganui High School 'Male and Female Dux Artium' for 2017:  JACK SOUTHEE & SOPHIE WHAM"
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59ffef44b8d39a7731000735/Sophie-Wham.jpg"

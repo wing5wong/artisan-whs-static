@@ -2,7 +2,7 @@
 title: "Vibe. Music Festival"
 date: 2018-11-22
 description: "Vibe. Music Festival at Cooks Gardens on Saturday 15 December features our very own students from bands 'Late Night Tales', 'The Remnant'..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5bf5f5f9ff2a7c39a8000b4f/poster-300.jpg
 excerpt: "Vibe. Music Festival at Cooks Gardens on Saturday 15 December 2018 features our very own students from bands 'Late Night Tales', 'The Remnant'.."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bf5fdcaff2a7c39a8000b5b/Jack-Mccoubrie-chron-25-sept-2018.jpg"

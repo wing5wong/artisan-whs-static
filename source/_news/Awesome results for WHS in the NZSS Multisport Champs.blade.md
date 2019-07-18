@@ -2,7 +2,7 @@
 title: "Awesome results for WHS in the NZSS Multisport Champs"
 date: 
 description: "Awesome results for WHS in the NZSS Multisport Championships which were held alongside the 3D multisport event on Sunday 5 June in Rotorua..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/577c7735ff2a7c38fb000630/WHS-students-that-competed.jpg
 excerpt: "Awesome results for WHS in the NZSS Multisport Championships which were held alongside the 3D multisport event on Sunday 5 June in Rotorua."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5779caebb8d39a2071000543/Festival-Logo.jpg"

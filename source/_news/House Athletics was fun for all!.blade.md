@@ -2,7 +2,7 @@
 title: "House Athletics was fun for all!"
 date: 2019-02-21
 description: "BRILLIANT Day at Cooks Gardens with our WHS House Athletics on Thursday 21 February..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5c74d876ff2a7c6f500005d0/20.croppedjpg.330.jpg
 excerpt: "BRILLIANT Day at Cooks Gardens with our WHS House Athletics on Thursday 21 February."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5c74a1d9ff2a7c6f5000056b/20.jpg"

@@ -5,11 +5,11 @@ description: "WHANGANUI'S Chris Sharrock claimed his third senior open grade bad
 featured-image: 
 excerpt: "WHANGANUI'S Chris Sharrock claimed his third senior open grade badminton title in six months when he and partner Rowena Devathasan won the mixed doubles at the Manawatu Open last weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

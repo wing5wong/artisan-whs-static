@@ -2,14 +2,14 @@
 title: "WHS students nail viral video poser - November 2015"
 date: 
 description: "WANGANUI WINNERS:  Elia Nicolin (left), Amaan Merchant and Julian Schurhammer of Wanganui High School earned a national science award, Wanganui Chronicle article on 9/11/15..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5642548bb8d39a2136001335/National-Science-Award-2015.Merchant.Nicolin.Schurhammer.-Chron.jpg
 excerpt: "WANGANUI WINNERS:  Elia Nicolin (left), Amaan Merchant and Julian Schurhammer of Wanganui High School earned a national science award, Wanganui Chronicle article on 9/11/15..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>WANGANUI WINNERS: &nbsp;Elia Nicolin (left), Amaan Merchant and Julian Schurhammer of Wanganui High School earned a national science award.</strong></p>

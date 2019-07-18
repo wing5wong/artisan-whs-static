@@ -5,11 +5,11 @@ description: "Congratulations to those students that have been selected to make 
 featured-image: 
 excerpt: "Congratulations to those students that have been selected to make up the 2016 WHS Student Leadership Team - click here to read more...."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Head Girl: Jeanne-Marie Bonnet</strong></p>

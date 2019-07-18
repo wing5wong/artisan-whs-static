@@ -2,7 +2,7 @@
 title: "Hawera High School Sports Exchange"
 date: 
 description: "A great day was had in Hawera today, Thursday 10 August, for our sports teams against Hawera High School..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59af406cb8d39a35a5000791/good4.330jpg.jpg
 excerpt: "A great day was had in Hawera today, Thursday 10 August, for our sports teams against Hawera High School."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59af3a9cb8d39a35a5000765/good.jpg"

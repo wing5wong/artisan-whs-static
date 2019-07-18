@@ -2,14 +2,14 @@
 title: "Backstage crew indispensable"
 date: 
 description: "INDISPENSABLE: The Red Riding Hood Crew, Wanganui Midweek article on 7/12/16..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/585c4692b8d39a3eff001171/Red-Riding-Hood-Crew-Midweek-7-Dec-2016.jpg
 excerpt: "INDISPENSABLE: The Red Riding Hood Crew."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>INDISPENSABLE: The Red Riding Hood Crew.&nbsp;</span><br /><span>PICTURE / Harmony May</span></p>

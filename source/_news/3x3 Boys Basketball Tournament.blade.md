@@ -2,7 +2,7 @@
 title: "3x3 Boys Basketball Tournament"
 date: 2018-03-23
 description: "Our 3x3 Boys Basketball team finished their tournament off on a high note..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5ab96209b8d39a749900100c/trying-out.jpg
 excerpt: "Our 3x3 Boys Basketball team finished their tournament off on a high note today (23 March 2018) winning both their games."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5ab960deff2a7c6bfc000fdb/better2.jpg"

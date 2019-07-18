@@ -2,7 +2,7 @@
 title: "Whanganui High School's Netball season"
 date: 
 description: "Well done to our Whanganui High School Netball teams over the Netball season..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a307e81b8d39a41ae000812/girls-netball-winning-team.jpg
 excerpt: "Well done to our Whanganui High School Netball teams over the Netball season."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59b9f9d1b8d39a35a5000cd4/21730973_859579497524491_6139557049139244687_n.jpg"

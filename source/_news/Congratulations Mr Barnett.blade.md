@@ -2,7 +2,7 @@
 title: "Congratulations Mr Barnett"
 date: 2018-09-02
 description: "Congratulations Mr Barnett who ran the Ironman 70.3 World Champs in 4:40 hours!.."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b8caecbff2a7c03cc000662/1.gif
 excerpt: "Congratulations Mr Barnett who ran the Ironman 70.3 World Champs in 4:40 hours!"
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b8caf20ff2a7c03cc00066a/2.gif"

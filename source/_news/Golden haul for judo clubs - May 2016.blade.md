@@ -5,11 +5,11 @@ description: "WHS past and present students did well at the North Wellington Jud
 featured-image: 
 excerpt: "WHS past and present students did well at the North Wellington Judo Open held at Wanganui High School at the weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>&nbsp;</p>

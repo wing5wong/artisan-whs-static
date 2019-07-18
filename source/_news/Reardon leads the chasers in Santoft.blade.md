@@ -2,14 +2,14 @@
 title: "Reardon leads the chasers in Santoft"
 date: 
 description: "Whanganui apprentice engineer and former WHS student Seth Reardon finished runnerup at the fifth round of the Central Enduro Champ Series..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59b215cdb8d39a35a50009fe/Seth-Reardon-29-Aug.jpg
 excerpt: "Whanganui apprentice engineer and former WHS student Seth Reardon finished runnerup at the fifth round of the Central Enduro Championship Series near Bulls on Sunday."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Whanganui's Seth Reardon (Yamaha YZ250FX) in solid form in the Santoft Forest near Bulls on Sunday. <br />PHOTO by Andy McGechan, BikesportNZ.com</span></p>

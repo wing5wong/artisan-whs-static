@@ -2,7 +2,7 @@
 title: "SIX GOLDS over THREE DIVISIONS"
 date: 2018-10-31
 description: "Whanganui teenage judo sensation Keightley Watson has made NZ history by winning six golds over three divisions..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5bda66f7ff2a7c39a8000220/with-cup.290-jpg.jpg
 excerpt: "Whanganui teenage judo sensation Keightley Watson has made New Zealand history by winning six golds over three divisions"
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bda3046ff2a7c39a80001fe/Keighley-1st-in-history-CHRON-31-oct.jpg"

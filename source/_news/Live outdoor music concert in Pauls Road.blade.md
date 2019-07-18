@@ -2,7 +2,7 @@
 title: "Live outdoor music concert in Pauls Road"
 date: 2019-02-21
 description: "Starting the concert at Pauls Road Live this year will be ‘In Business’, a year 10 group of students from Whanganui High School..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5c7cb9cdff2a7c25ea00001f/In-Business.250.jpg
 excerpt: "Starting the concert at Pauls Road Live this year will be ‘In Business’, a year 10 group of students from Whanganui High School."
 image_gallery:
     

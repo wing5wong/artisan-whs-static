@@ -3,7 +3,7 @@ title: "Two-thirds of drivers pass their test - May 2015"
 date: 
 description: "HAPPY: Jack Kennedy pictured with a successful WHS student Shea-Lee Phillips back in 2012, Wanganui Chronicle article on 19/5/15...  
 Click on above for more information..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/555a4e8bff2a7c746d00040a/Shea-Lee-Phillips-re-drivers-licence,19.5.15.jpg
 excerpt: ""
 image_gallery:
     

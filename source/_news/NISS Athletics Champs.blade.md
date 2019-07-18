@@ -2,7 +2,7 @@
 title: "NISS Athletics Champs"
 date: 
 description: "Eleven WHS athletes qualified for and competed with distinction at last weekend’s North Island secondary school athletics on 8 & 9 April in Inglewood."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58f56f6db8d39a039600050a/team-shot.jpg
 excerpt: "Eleven WHS athletes qualified for and competed with distinction at last weekend’s North Island secondary school athletics on 8 & 9 April in Inglewood."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58ec37b9b8d39a0396000262/NISS-Champs-in-Inglewood-8-April-2017.jpg"

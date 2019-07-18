@@ -2,7 +2,7 @@
 title: "‘So Long Summer’ concert at Caroline’s Boatshed"
 date: 2019-03-07
 description: "Whiskey Mama will be playing at the ‘So Long Summer’ concert at Caroline’s Boatshed on Sunday 17 March 2019..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5c92ff54ff2a7c25ea0005b0/Wiskey-Mama-FredLoveridge-RCP-7.3.19.jpg
 excerpt: "Whiskey Mama will be playing at the ‘So Long Summer’ concert at Caroline’s Boatshed on Sunday 17 March 2019."
 image_gallery:
     

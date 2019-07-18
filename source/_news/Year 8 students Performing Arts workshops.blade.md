@@ -2,7 +2,7 @@
 title: "Year 8 students Performing Arts workshops"
 date: 
 description: "80 Year 8 students came to WHS on 15 November for our annual Year 8 Performing Arts workshops..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a1e24e5b8d39a25b6000ade/website-shot.jpg
 excerpt: "80 Year 8 students came to WHS on 15 November for our annual Year 8 Performing Arts workshops..."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5a1e20c1b8d39a25b6000aba/23473178_384866458602365_110664794745128630_n.jpg"

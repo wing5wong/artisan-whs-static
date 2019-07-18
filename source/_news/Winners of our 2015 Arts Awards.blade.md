@@ -2,14 +2,14 @@
 title: "Winners of our 2015 Arts Awards"
 date: 
 description: "Congratulations to the Winners of our Arts Awards held on the evening of Thursday 22 October 2015 in our School Hall.  Read the full story for photos..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/562977a8b8d39a7a410009f5/Cultual-Prefects.jpg
 excerpt: "Congratulations to the Winners of our Arts Awards held on the evening of Thursday 22 October 2015 in our School Hall.  Read the full story for photos..."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/56297c6bb8d39a7a410009fb/Sophie--Finn-together.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/56297c26b8d39a7a410009f9/Julius-Stoerrle---Outstanding-Contribution.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/56297be6b8d39a7a410009f7/Sophie-Couper---Outstanding-Leadership-no-2.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/55f62656b8d39a3787000153/Sydney-Choir-RCP-3.9.15.jpg"
-	
+    
 ---
 
 <p><span>A great night was had by all at our Arts Awards last night.&nbsp;</span><br /><span>A big thank you to Sophie Couper and Finn Brown (Head of Culture) and their cultural prefect team for their help in running the awards.</span></p>

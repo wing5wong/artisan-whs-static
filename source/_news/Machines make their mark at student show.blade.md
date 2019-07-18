@@ -2,14 +2,14 @@
 title: "Machines make their mark at student show"
 date: 
 description: "Former WHS student Eva Harkness with her tape measure machine at Edith Gallery in Taupo Quay..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59c8296fb8d39a1917000174/Eva-Harkness-ex-show-at-edith-gallery-23-sept-chron.jpg
 excerpt: "Former WHS student Eva Harkness with her tape measure machine at Edith Gallery in Taupo Quay."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>MEASURED MOTION: Former WHS student Eva Harkness with her tape measure.<br />PHOTO / Stuart Munro.</p>

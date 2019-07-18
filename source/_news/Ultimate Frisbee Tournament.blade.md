@@ -2,7 +2,7 @@
 title: "Ultimate Frisbee Tournament"
 date: 
 description: "WHS Ultimate Frisbee team went to Owen Delany Park in Taupo on 27 & 28 March to compete in the 2017 NZSS Ultimate Champs..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58ec13a2b8d39a03960001fe/group-shot-mixed-2.jpg
 excerpt: "WHS Ultimate Frisbee team went to Owen Delany Park in Taupo on 27 & 28 March to compete in the 2017 NZSS Ultimate Champs."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58ec13bcb8d39a0396000200/bus-bay.jpg"

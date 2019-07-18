@@ -2,7 +2,7 @@
 title: "Duke of Edinburgh Hillary GOLD Award Recipients"
 date: 2018-02-19
 description: "On Saturday 17 February 2018 five WHS students celebrated their completion of the GOLD Duke of Edinburgh Hillary Award at Government House..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a8a650cb8d39a749900001e/Gold-Awards-at-Wellinton-feb-2018.jpg
 excerpt: "On Saturday 17 February 2018 five WHS students joined a group of students from around the country to celebrate their completion of the GOLD Duke of Edinburgh Hillary Award."
 image_gallery:
     

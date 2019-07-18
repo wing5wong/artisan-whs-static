@@ -2,7 +2,7 @@
 title: "Talent Quest Winners"
 date: 
 description: "Congratulations to the winners of our Talent Quest:-  1st Seth Scimshaw;  2nd Finn Brown, Connor Bourne, Mitchell Brett-Atkins;  3rd Te Paerata Tichbon, Eleishah Hodson."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/55ff581eb8d39a3787000e9a/Talent-Quest-98.jpg
 excerpt: "Congratulations to the winners of our Talent Quest:-  1st Seth Scimshaw;  2nd Finn Brown, Connor Bourne, Mitchell Brett-Atkins;  3rd Te Paerata Tichbon, Eleishah Hodson."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/55ff58f1b8d39a3787000eae/Talent-Quest-107.jpg"

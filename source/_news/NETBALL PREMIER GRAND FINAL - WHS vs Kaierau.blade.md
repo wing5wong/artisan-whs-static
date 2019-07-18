@@ -3,14 +3,14 @@ title: "NETBALL PREMIER GRAND FINAL - WHS vs Kaierau"
 date: 
 description: "Netball Premier Grand Final - WHS vs Kaierau, Monday 8 August at Springvale Stadium
 Game starts at 7.30pm."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b45e69bb8d39a4129000467/2016-netball-grand-final.gif
 excerpt: "Netball Premier Grand Final - WHS vs Kaierau, Monday 8 August at Springvale Stadium. Game starts at 7.30pm."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h2><strong>Netball Premier Grand Final - WHS vs Kaierau</strong></h2>

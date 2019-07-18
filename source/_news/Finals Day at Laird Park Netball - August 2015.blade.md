@@ -2,7 +2,7 @@
 title: "Finals Day at Laird Park Netball - August 2015"
 date: 
 description: "Finals Day at Laird Park on Saturday 29 August for WHS Netball Teams."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/55e38dacff2a7c07770009cf/netball-1.jpg
 excerpt: "Finals Day at Laird Park on Saturday 29 August for WHS Netball Teams."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/55e390a0ff2a7c0777000a15/Netball-2.jpg"

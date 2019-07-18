@@ -2,7 +2,7 @@
 title: "Ailie and Mikayla are both Gen Zers"
 date: 2018-09-22
 description: "Whanganui High School students Ailie McDonald and Mikayla Baldwin are both Gen Zers..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5bad9707ff2a7c1309000203/Ailie-McDonald.jpg
 excerpt: "Whanganui High School students Ailie McDonald and Mikayla Baldwin are both Gen Zers."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bad9707ff2a7c1309000204/Mikaya-baldwin.jpg"

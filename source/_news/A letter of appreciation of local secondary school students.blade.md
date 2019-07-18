@@ -5,11 +5,11 @@ description: "\"Whanganui High School, their parents and the boys and the girl, 
 featured-image: 
 excerpt: "\"Whanganui High School, their parents and the boys and the girl, should be very proud of themselves\", Ann Butler sent River City Press the following letter..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph"><span class="CharacterStyle1"><span lang="EN-GB">Ann Butler sent River City Press the following letter:</span></span></p>

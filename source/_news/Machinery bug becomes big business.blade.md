@@ -2,15 +2,15 @@
 title: "Machinery 'bug' becomes big business"
 date: 
 description: "Former WHS student Thomas Matthews is the ultimate go-getter.An idea that started when he got the \"machinery bug\" has been transformed into Matthews Agriculture, of which he is the founder & owner."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/588faa4eb8d39a3eff00226f/Matthews-Agriculture-Thomas-Matthews-(ex-stud)-chron-Jan-2017.jpg
 excerpt: "Former Whanganui High School student Thomas Matthews is the ultimate go-getter.
 An idea that started when he got the \"machinery bug\" has been transformed into Matthews Agriculture, of which he is the founder and owner."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Founder and owner of Matthews Agriculture Thomas Matthews with this seasons barley crop. <br />PHOTO: Bevan Conley.</span></p>

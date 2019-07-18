@@ -2,7 +2,7 @@
 title: "Judo sensation Keightley Watson wins gold in Holland"
 date: 2018-01-17
 description: "Teenage Whanganui judo prodigy Keightley Watson decks an opponent on his way to gold at the Matsuru Dutch Open Espoir in Holland on Sunday morning NZ time..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a84ee17b8d39a42a4000662/Keightley-17-Jan.jpg
 excerpt: "Teenage Whanganui judo prodigy Keightley Watson decks an opponent on his way to gold at the Matsuru Dutch Open Espoir in Holland on Sunday morning New Zealand time."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Wanganui High have pick of talented runners - May 2016"
 date: 
 description: "LEGGING IT: Emma Rainey claimed the U19 girls race at the annual Wanganui High School cross-country at the new venue Virginia Lake, Wanganui Chronicle article on 19/5/16..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/573d2913b8d39a469d000fa6/WHS-cross-country--Virg.Lake-Emma-Rainey--Louis-Hogan.jpg
 excerpt: "LEGGING IT: Emma Rainey claimed the U19 girls race at the annual Wanganui High School cross-country at the new venue Virginia Lake."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5743d0fcb8d39a469d0012c9/U15-Winner---Rebecca-Baker.jpg"

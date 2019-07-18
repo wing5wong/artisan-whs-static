@@ -2,7 +2,7 @@
 title: "Performing Arts Concert “Live at the Opera House”"
 date: 
 description: "The best of the best WHS Performing Arts students took to the stage at The Royal Wanganui Opera House on 2 September 2017..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59e7def7b8d39a463b0004ca/Live-at-the-opera-house-sign.jpg
 excerpt: "The best of the best WHS Performing Arts students took to the stage at The Royal Wanganui Opera House on 2 September 2017."
 image_gallery:
     

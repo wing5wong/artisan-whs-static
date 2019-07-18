@@ -2,7 +2,7 @@
 title: "Sam Blenkinsop wins world title"
 date: 2018-08-22
 description: "Whanganui mountain biker Sam Blenkinsop wins world title at the Canadian Open Downhill track..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b7ca5bbff2a7c03cc0000fc/Sam-Blenkinsop-chron-22-aug.gif
 excerpt: "Whanganui mountain biker Sam Blenkinsop wins world title at the Canadian Open Downhill track."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b7caae9ff2a7c03cc000108/sam-blenk-chron-22-aug-front-page.gif"

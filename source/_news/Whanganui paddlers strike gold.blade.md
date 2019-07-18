@@ -2,14 +2,14 @@
 title: "Whanganui paddlers strike gold"
 date: 
 description: "WHS students, Lucas Thompson (left) and Jack Clifton had the power on the water to bring home the bulk of Whanganui's medals and national titles..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58ae60eab8d39a3eff00326e/Lucas-Thompson--Jack-Clifton-paddlers-chron-23-Feb-17.jpg
 excerpt: "WHS students, Lucas Thompson (left) and Jack Clifton had the power on the water to bring home the bulk of Whanganui's medals and national titles."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>PADDLE POWER: WHS students, Lucas Thompson (left) and Jack Clifton had the power on the water to bring home the bulk of Whanganui's medals and national titles.</strong></p>

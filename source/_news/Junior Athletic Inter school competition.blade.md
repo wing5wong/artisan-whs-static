@@ -5,11 +5,11 @@ description: "Well done to our Junior Athletic teams at WHS who competed over th
 featured-image: 
 excerpt: "Well done to our Junior Athletic teams at WHS who competed over the last 4 weeks on Tuesday Nights in the Junior Inter school competition."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Well done to our Junior Athletic teams who competed over the last 4 weeks on Tuesday Nights in the Junior Inter school competition.&nbsp;</strong></p>

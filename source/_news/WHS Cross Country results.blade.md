@@ -2,7 +2,7 @@
 title: "WHS Cross Country Results"
 date: 2018-05-09
 description: "A fantastic day was had at our WHS Cross Country event held on Wednesday 9 May 2018..."
-featured-image: 
+featured-image: /uploads/5b0f8a3fff2a7c6bfc0020f8/Cross-Country-Photo-2018.JPG
 excerpt: "A fantastic day was had at our WHS Cross Country event held on Wednesday 9 May 2018."
 image_gallery:
     

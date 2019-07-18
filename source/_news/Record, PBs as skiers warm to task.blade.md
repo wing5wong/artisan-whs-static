@@ -2,7 +2,7 @@
 title: "Record, PBs as skiers warm to task"
 date: 2018-01-23
 description: "Former WHS student Lily Meade was a standout in the U17 slalom girls and set a personal best in the jumps event at Lake Wiritoa..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a85e95ab8d39a42a4000724/Lily-Meade-photo-whs.jpg
 excerpt: "Former WHS student Lily Meade was a standout in the U17 slalom girls and set a personal best in the jumps event at Lake Wiritoa."
 image_gallery:
     

@@ -2,7 +2,7 @@
 title: "Get 2 Go Adventure Racing"
 date: 
 description: "This year Whanganui High School took 2 teams up to New Plymouth for the Junior (year 9 and 10) Get 2 Go regional competition..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59c8641ab8d39a19170001bc/action-shot-on-boards.jpg
 excerpt: "This year Whanganui High School took 2 teams up to New Plymouth for the Junior (year 9 and 10) Get 2 Go regional competition. Each team was made up of 4 boys and 4 girls."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59c86405b8d39a19170001ba/line-up-of-group.jpg"

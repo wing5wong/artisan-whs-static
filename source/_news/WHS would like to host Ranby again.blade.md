@@ -2,14 +2,14 @@
 title: "WHS would like to host Ranby again"
 date: 
 description: "Whanganui High School would like to host Ranby again..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59b216ebb8d39a35a5000a02/WHS-wld-like-to-host-Ranby-Inv-again-8-Sept-chron.jpg
 excerpt: "Whanganui High School would like to host Ranby again."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph">Whanganui High School would like to host Ranby again.</p>

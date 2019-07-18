@@ -2,14 +2,14 @@
 title: "Graham Hall - Worldwide Print Competition"
 date: 
 description: "Congratulations to Whanganui High School teacher Graham Hall who has entered the 8th Biannual Print Competition - Worldwide Competition..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/597a9055b8d39a1a9e000ca8/thumbs_The-adventure-of-the-Hero-crossing-the-first-threshold.jpg
 excerpt: "Congratulations to Whanganui High School teacher Graham Hall who has entered the 8th Biannual Print Competition - Worldwide Competition."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/597a9055b8d39a1a9e000ca8/thumbs_The-adventure-of-the-Hero-crossing-the-first-threshold.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/597a9064b8d39a1a9e000caa/thumbs_The-adventure-of-the-Hero-master-of-two-worlds.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/597a906bb8d39a1a9e000cac/thumbs_The-adventure-of-the-Hero-road-of-trials.jpg"
-	
-	
+    
+    
 ---
 
 <p><strong><span id="docs-internal-guid-7777b33b-86c0-e4af-95ef-0c361241cda3"><span>Congratulations to Whanganui High School teacher Graham Hall who has entered the 8th Biannual Print Competition - Worldwide Competition.</span></span></strong></p>

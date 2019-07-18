@@ -2,14 +2,14 @@
 title: "Blackburn Girls on front cover of American Teenview Magazine"
 date: 
 description: "Former WHS students, Leila and Roimata Blackburn on front cover of American Teenview Magazine 2016."
-featured-image: 
+featured-image: /uploads/56d8c9e7b8d39a3ca3000e97/Blackburn-Girls-in-American-Teenview-Magazine.JPG
 excerpt: "Former WHS students, Leila and Roimata Blackburn on front cover of American Teenview Magazine 2016."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former WHS students, Leila and Roimata Blackburn on front cover of the American Magazine Teenview 2016.</p>

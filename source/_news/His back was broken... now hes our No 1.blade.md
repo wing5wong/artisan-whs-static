@@ -2,7 +2,7 @@
 title: "His back was broken... now he's our No 1"
 date: 2018-07-17
 description: "Former WHS student Trent McInlay broke his back three years ago now he is back motocross racing with his dad Grant..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b516198b8d39a412900071f/Trent-McInlay-with-dad-chron-17-July.gif
 excerpt: "Former WHS student Trent McInlay broke his back three years ago now he is back motocross racing with his dad Grant."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b5161dbb8d39a4129000723/Trent-McInlay-on-bike-chron-17-July.gif"

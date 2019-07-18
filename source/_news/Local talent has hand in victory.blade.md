@@ -2,14 +2,14 @@
 title: "Local talent has hand in victory"
 date: 
 description: "Ex WHS student Chris Breuer, Hamish Bennett, Dylan Gallien, Harry Symes, & captain Dylan Bowater (ex WHS) after the NZ Heartland XV defeated Auckland Dev..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59b7037bb8d39a35a5000ba4/U19-rugby-tourny-breuer-bowater-chron-12-Sept.jpg
 excerpt: "Ex WHS student Chris Breuer, Hamish Bennett, Dylan Gallien, Harry Symes, and captain Dylan Bowater (ex WHS) after the NZ Heartland XV defeated Auckland Dev at the Jock Hobbs Memorial U19 tournament."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>HEARTLAND PRIDE:&nbsp;Ex WHS student <strong>Chris Breuer</strong>, Hamish Bennett, Dylan Gallien, Harry Symes, and captain <strong>Dylan Bowater</strong> (ex WHS) after the NZ Heartland XV defeated Auckland Development at the Jock Hobbs Memorial Under-19 tournament.<br />Photo/ Supplied</span></p>

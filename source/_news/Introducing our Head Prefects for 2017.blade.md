@@ -5,11 +5,11 @@ description: "Introducing our Whanganui High School Head Prefect for 2017 - Rive
 featured-image: 
 excerpt: "Introducing our Whanganui High School Head Prefect for 2017 - River City Press News, February 2017."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <h3><strong>Introducing our Head Prefects for 2017<br /></strong></h3>

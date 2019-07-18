@@ -5,11 +5,11 @@ description: "WHS Results of Junior Central 6 Tournament which took place in Haw
 featured-image: 
 excerpt: "WHS Results of Junior Central 6 Tournament which took place in Hawkes Bay on Tuesday 9 August."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>Well done to our Junior sports teams who went to Hawkes Bay on Tuesday for the Central 6 Tournament.&nbsp;</span></p>

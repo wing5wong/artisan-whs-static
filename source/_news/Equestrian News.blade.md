@@ -2,7 +2,7 @@
 title: "Equestrian News"
 date: 2018-10-19
 description: "Jaime Hogg won the Pony Equitation Showhunter class at The Royal A & P Show held in Hawkes Bay 17-19 October 2018..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5bd25a0aff2a7c39a8000068/Jaimee-Hogg-with-ribbons-280-2.jpg
 excerpt: "Jaime Hogg won the Pony Equitation Showhunter class at The Royal A & P Show held in the Hawkes Bay 17-19 October 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bd25616ff2a7c39a8000056/Jaimee-Hogg-with-ribbons.jpg"

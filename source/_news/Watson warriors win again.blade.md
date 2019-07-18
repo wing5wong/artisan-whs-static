@@ -2,14 +2,14 @@
 title: "Watson warriors win again"
 date: 
 description: "Kasey Watson, Callaghan Watson & Keightley Watson with their Sydney medals.The Watson family has continued their success at international judo tournaments with a trio of medals at the recent Sydney..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/57df22e8b8d39a2071001f40/Kasey,-Callaghan--Keightley-medal-at-Sydney-Sept-2016.jpg
 excerpt: "Kasey Watson, Callaghan Watson & Keightley Watson with their Sydney medals.The Watson family has continued their success at international judo tournaments with a trio of medals at the recent Sydney Open at Olympic Park."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Kasey Watson, Callaghan Watson and Keightley Watson with their Sydney medals.</strong></p>

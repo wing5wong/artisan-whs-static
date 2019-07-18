@@ -2,7 +2,7 @@
 title: "Emelye Brown - Young Speechmaker Winner"
 date: 2018-08-04
 description: "Emelye Brown - Young Speechmaker Winner of the New Zealand Lions Clubs on Saturday 4 August..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b7b87bcff2a7c03cc00004e/Emelye-Brown-front-pic-280-standing-with-3-others.gif
 excerpt: "Emelye Brown - Young Speechmaker Winner of the New Zealand Lions Clubs on Saturday 4 August."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b67d464b8d39a6d05000626/booklet.gif"

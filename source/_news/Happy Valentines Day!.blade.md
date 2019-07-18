@@ -2,7 +2,7 @@
 title: "Happy Valentines Day!"
 date: 2019-02-14
 description: "Happy Valentines Day from a group of WHS prefects, who made it extra special delivering cupcakes and roses..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5c75a5b4ff2a7c6f50000601/Boxes-of-heart-cupcakes300.jpg
 excerpt: "Happy Valentines Day from a group of prefects, including the Head's of Social, who made it extra special delivering cupcakes and roses."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5c75a0fcff2a7c6f500005e9/Boxes-of-heart-cupcakes-closeup.jpg"

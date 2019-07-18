@@ -2,7 +2,7 @@
 title: "WHS Fun Run album"
 date: 
 description: "WHS Fun Run album, period 5, Thursday 28 September 2017..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59e45280b8d39a463b0002f2/cover-photo-of-girls-jumping-in-air.jpg
 excerpt: "WHS Fun Run album, period 5, Thursday 28 September 2017."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59e453c5b8d39a463b000300/22008214_866114910204283_2074614341865346292_n.jpg"

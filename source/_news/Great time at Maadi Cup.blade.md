@@ -2,7 +2,7 @@
 title: "Great time at Maadi Cup"
 date: 2018-03-25
 description: "Great week of rowing from our squad of 19 facing all weather conditions!.."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5ab9630fff2a7c6bfc000fe1/tryinggroup-photo-from-Lisa-Murphy.jpg
 excerpt: "Great week of rowing from our squad of 19 facing all weather conditions!"
 image_gallery:
      - image: "/uploads/5abc33d2b8d39a749900118d/DSC_0134.JPG"

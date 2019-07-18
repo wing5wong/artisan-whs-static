@@ -2,7 +2,7 @@
 title: "Pool 8-Ball National Champs"
 date: 2018-09-07
 description: "WHS had a team of seven boys competing in the 2018 NZSS National 8-Ball Championships in Hamilton."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b99b48dff2a7c2965000374/photo-1.280.jpg
 excerpt: "WHS had a team of seven boys competing in the 2018 NZSS National 8-Ball Championships in Hamilton."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b99b246ff2a7c2965000366/Boys-at-hamilton.jpg"

@@ -2,14 +2,14 @@
 title: "Young stars inject new blood"
 date: 
 description: "REHEARSAL: WHS students Brylee Noble and Konrad Shaw in rehearsal on Roger Hall's Red Riding Hood, Wanganui Midweek article on 20/10/16..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58095666b8d39a2071002e3a/Red-Riding-Hood-Brylee-Noble--Konrad-Shaw-midweek-oct-2016.jpg
 excerpt: "WHS students Brylee Noble and Konrad Shaw in rehearsal on Roger Hall's Red Riding Hood."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>REHEARSAL: WHS students Brylee Noble and Konrad Shaw in rehearsal.<br />PHOTO courtesy of Harmony May.&nbsp;</p>

@@ -2,14 +2,14 @@
 title: "Haere Ra, Chris"
 date: 
 description: "SCHOOL SUPPORT: Jacqui McKenzie (left), Natalie Campbell, Diane Calman, Nola Todd, Ross Brown, Mikaya Teki, Jackie Hazelhurst & Jack Southee represented WHS - funeral of popular doctor Chris Cresswell"
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58816671b8d39a3eff001da3/WHS-support.jpg
 excerpt: "SCHOOL SUPPORT: Jacqui McKenzie (left), Natalie Campbell, Diane Calman, Nola Todd, Ross Brown, Mikaya Teki, Jackie Hazelhurst & Jack Southee represented WHS at the funeral of popular doctor Chris Cresswell."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58815916b8d39a3eff001d85/Chris-Cresswell-funeral-chron-9-jan-2017.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/58816651b8d39a3eff001da1/Son-Connor-Cresswell-speech.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/58816630b8d39a3eff001d9f/Chris-Cresswell-sister-Nicola-Dickie,-nephew-Angus--son-Connor.jpg"
-	
-	
+    
+    
 ---
 
 <p>SCHOOL SUPPORT:&nbsp;Jacqui McKenzie (left), Natalie Campbell, Diane Calman, Nola Todd, Ross Brown, Mikaya Teki, Jackie Hazelhurst and Jack Southee represented Whanganui High School at the funeral of popular doctor Chris Cresswell.<br />Connor Cresswell was Head Boy at Whanganui High School last year.&nbsp;</p>

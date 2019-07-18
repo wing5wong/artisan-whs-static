@@ -2,14 +2,14 @@
 title: "Teens jet off for tournament"
 date: 
 description: "WHS student/Wanganui Athletic's Blake Sherman, left, Majre Apiata-Cook and coach Symon King (not shown)are excited for their Central Football squad's games in Australia this coming week..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5782caf6ff2a7c38fb000750/Blake-Sherman-WU-Athletics-re-Central-Football-to-Oz-8-July-Chron.jpg
 excerpt: "WHS student/Wanganui Athletic's Blake Sherman, left, Majre Apiata-Cook and coach Symon King (not shown)are excited for their Central Football squad's games in Australia this coming week."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>SYDNEY BOUND: WHS student/Wanganui Athletic's&nbsp;Blake Sherman, left, Majre Apiata-Cook and coach Symon King (not shown)are excited for their Central Football squad's games in Australia this coming week.</strong></p>

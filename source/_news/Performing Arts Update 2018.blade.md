@@ -2,7 +2,7 @@
 title: "Performing Arts Update 2018"
 date: 2018-06-30
 description: "WHS Arts students continue to feature heavily in the media with reports of their on-going successes both locally and..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b340b61ff2a7c6bfc002554/Rock1-The-Remnant-1st-place300.gif
 excerpt: "WHS Arts students continue to feature heavily in the media with reports of their on-going successes on stage, in exhibitions, both locally and in the North Island."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b3410ceff2a7c6bfc002556/Sophia-Unga-Chron-3-May.jpg"

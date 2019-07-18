@@ -2,7 +2,7 @@
 title: "WSS Swimming Champs - good day at the pool"
 date: 2018-03-02
 description: "Well done to our WHS swimmers today who had a great day in the pool at the WSS Champs..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5aa59876ff2a7c6bfc000ab0/front-page.jpg
 excerpt: "Well done to our WHS swimmers today who had a great day in the pool at the WSS Champs."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5aa599f7ff2a7c6bfc000ab6/4.jpg"

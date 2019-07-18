@@ -2,14 +2,14 @@
 title: "Nalini measures 'success' in human terms"
 date: 
 description: "Former WHS student Nalini Singh digging a 'banana circle' in the Amazon jungle in Peru..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59bee307b8d39a258900009c/Nalini-Singh-success-overseas-chron-16-Sept.jpg
 excerpt: "Former Whanganui High School student Nalini Singh digging a 'banana circle' in the Amazon jungle in Peru."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>PERMACULTURE: Former Whanganui High School student Nalini Singh digging a 'banana circle' in the Amazon jungle in Peru.</span></p>

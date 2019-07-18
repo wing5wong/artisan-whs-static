@@ -2,7 +2,7 @@
 title: "Go 4 12 Adventure Race"
 date: 2018-04-14
 description: "On 14 April WHS entered 2 teams into the NZ Adventure Racing Champs held in the Hawkes Bay..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b0f6b43ff2a7c6bfc0020e5/floatable-raft-with-students.gif
 excerpt: "On 14 April WHS entered 2 teams into the NZ Adventure Racing Championships held in the Hawkes Bay."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f6b94ff2a7c6bfc0020eb/running-mixed.gif"

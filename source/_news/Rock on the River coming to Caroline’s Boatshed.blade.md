@@ -2,7 +2,7 @@
 title: "Rock on the River coming to Caroline’s Boatshed"
 date: 2018-12-13
 description: "Whiskey Mama will be joined by two up & coming WHS bands – ‘Ferris’ and ‘In Business’ at Caroline's Boatshed..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5c647b87ff2a7c6f5000015b/Rock-on-the-Rive-300--Carolines-13.12.18.jpg
 excerpt: "Whiskey Mama will be joined by two up & coming WHS bands – ‘Ferris’ and ‘In Business’ at Caroline's Boatshed."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5c647e3cff2a7c6f50000163/Ferris--Carolines.jpg"

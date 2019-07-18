@@ -2,7 +2,7 @@
 title: "WHS 1st XI Hockey Boys vs Collegiate"
 date: 
 description: "Congratulations to our WHS 1st XI Hockey Boys for their win against Collegiate 4-1; Thursday 4 August."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/57a9319fff2a7c38fb00118a/main-shot.jpg
 excerpt: "Congratulations to our WHS 1st XI Hockey Boys for their win against Collegiate 4-1; Thursday 4 August."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/57a9334dff2a7c38fb00119c/huddle-at-beginning.jpg"

@@ -2,7 +2,7 @@
 title: "Outstanding at NZSS Cross Country"
 date: 2018-06-16
 description: "Outstanding day for our WHS Cross Country athletes in Taupo at the NZSS National Champs on Saturday 16 June..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b26eefaff2a7c6bfc0023ca/both-rebecca-and-nat.gif
 excerpt: "Outstanding day for our WHS Cross Country athletes in Taupo at the NZSS National Champs on Saturday 16 June."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b26f0cbff2a7c6bfc0023ce/Rebecca.gif"

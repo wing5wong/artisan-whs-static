@@ -2,14 +2,14 @@
 title: "Little horror, big laughs at Amdram"
 date: 
 description: "WHS teacher, Colin Hedivan poses with Audrey II as it devours a fluffy-slippered (former WHS student) Shaila Hawkins..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59c48a8fb8d39a1917000040/Little-shop-of-horror-with-colin-hedivan.jpg
 excerpt: "WHS teacher, Colin Hedivan poses with Audrey II as it devours a fluffy-slippered (former WHS student) Shaila Hawkins."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>HUNGRY: WHS teacher, Colin Hedivan poses with Audrey II as it devours a fluffy-slippered <span>(former WHS student)&nbsp;</span>Shaila Hawkins. <br />PICTURE / Paul Brooks.</span></p>

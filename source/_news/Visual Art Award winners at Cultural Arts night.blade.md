@@ -2,7 +2,7 @@
 title: "Visual Art Award winners at Cultural Arts night"
 date: 
 description: "Visual Art Award winners at Cultural Arts night on 2 November at the Opera House..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a1e3691b8d39a25b6000afc/Toka-with-cup.jpg
 excerpt: "Visual Art Award winners at Cultural Arts night on 2 November at the Opera House."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5a1e3d5fb8d39a25b6000b22/Lily-Meade-most-outstanding-Art-student-of-the-year-photo-1.jpg"

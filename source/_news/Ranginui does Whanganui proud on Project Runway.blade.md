@@ -2,7 +2,7 @@
 title: "Ranginui does Whanganui proud on Project Runway"
 date: 2018-10-04
 description: "He may not have won the first challenge but Project Runway contestant Kerry Ranginui did his home city proud..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5bb5812cff2a7c68e50000ae/PR-nz-2.310jpg.jpg
 excerpt: "He may not have won the first challenge but Project Runway contestant Kerry Ranginui did his home city proud on the show's first episode."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5bb58577ff2a7c68e50000b8/kerry-walking.jpg"

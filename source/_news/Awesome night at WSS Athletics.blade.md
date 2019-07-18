@@ -2,14 +2,14 @@
 title: "Awesome night at WSS Athletics"
 date: 
 description: "WHS had an awesome night at the Whanganui Secondary Schools Athletic Championships  at Cooks Gardens on Wednesday 15 March 2017..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59e598d6b8d39a463b0003c0/Rebecca-Baker-running.jpg
 excerpt: "WHS had an awesome night at the Whanganui Secondary Schools Athletic Championships  at Cooks Gardens on Wednesday 15 March 2017."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58c9d632b8d39a3eff0046d9/shotput-girl.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/58c9d644b8d39a3eff0046db/shotput-girl.2jpg.jpg"
      - image: "http://c1940652.r52.cf0.rackcdn.com/58c9d652b8d39a3eff0046dd/shotput-girl.3jpg.jpg"
-	
-	
+    
+    
 ---
 
 <p><strong>AWESOME Night at the WSS athletics tonight at Cooks Gardens....&nbsp;</strong></p>

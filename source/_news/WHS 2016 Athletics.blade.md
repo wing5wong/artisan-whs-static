@@ -5,11 +5,11 @@ description: "WHS 2016 Athletics..."
 featured-image: 
 excerpt: "WHS 2016 Athletics..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>We held two days of athletics this year with the Y9-10 compulsory day of over 600 students taking part and competing in their form classes throughout the day.</p>

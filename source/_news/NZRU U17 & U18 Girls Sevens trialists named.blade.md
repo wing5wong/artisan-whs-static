@@ -2,14 +2,14 @@
 title: "NZRU U17 & U18 Girls Sevens trialists named"
 date: 
 description: "Former WHS student Kahurangi Sturmey has been nominated to trial for the Hurricanes Franchise development camp..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59598fb7b8d39a317d0002b7/2017-NZRU-U1718-girls-7s-trailists-named.jpg
 excerpt: "Former WHS student Kahurangi Sturmey has been nominated to trial for the Hurricanes Franchise development camp from 12-17 December and to participate in a tournament on Saturday 16 December."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>Well done to former student and Sports Dux 2016 Kahurangi Sturmey who has been nominated to trial for the Hurricanes Franchise development camp! <br />All the best for the trials.</strong></p>

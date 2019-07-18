@@ -2,14 +2,14 @@
 title: "Student given nod for national debating team"
 date: 
 description: "WHS student Alister Hughes has been chosen for the New Zealand secondary schools debating team..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59769ef8b8d39a1a9e000b0f/Alister-Hughes-NZSS-debating-team.jpg
 excerpt: "WHS student Alister Hughes has been chosen for the New Zealand secondary schools debating team."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>WELL SPOKEN:&nbsp;&nbsp;<strong>Whanganui High School student</strong>&nbsp;Alister Hughes has been chosen for the New Zealand Secondary Schools Debating team.</strong> <br />PHOTO / Bevan Conley</span></p>

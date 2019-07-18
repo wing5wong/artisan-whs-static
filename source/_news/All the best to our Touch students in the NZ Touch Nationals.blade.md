@@ -5,11 +5,11 @@ description: "WHS have 19 students representing the School and Wanganui at the N
 featured-image: 
 excerpt: "WHS have 19 students representing the School and Wanganui at the NZ Touch Nationals is Christchurch this weekend."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>WHS have 19 students representing the School and Wanganui at the NZ Touch Nationals is Christchurch this weekend. </span></p>

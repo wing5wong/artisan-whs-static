@@ -2,14 +2,14 @@
 title: "Rountree leads Whanganui Jnr Motocross riders at Nationals"
 date: 
 description: "Whanganui teenager James Rountree (WHS student) has claimed fifth in his class at the New Zealand Junior Motocross Championships in New Plymouth..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59e5a4d7b8d39a463b0003e4/James-Rountree-off-overseas-chron-26-sept.jpg
 excerpt: "Whanganui teenager James Rountree (WHS student) has claimed fifth in his class at the New Zealand Junior Motocross Championships in New Plymouth at the weekend."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5907d1eab8d39a6a9600047f/James-RountreeNZ-Junior-Nationals-in-New-Ply.action-shotjpg.jpg"
-	
-	
-	
-	
+    
+    
+    
+    
 ---
 
 <p class="NoParagraphStyle"><strong>Whanganui teenager James Rountree (WHS student) has claimed fifth in his class at the New Zealand Junior Motocross Championships in New Plymouth at the weekend.&nbsp;<br />PHOTO: Blake Rountree</strong></p>

@@ -2,7 +2,7 @@
 title: "SPORTS DUX 2017"
 date: 
 description: "Congratulations to our WHS 'Girl and Boy SPORTS DUX' for 2017; DE-ANN TYRELL & MAIRANGI TAMEHANA..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a1dc5b7b8d39a25b6000a9c/DUX-twin-photo-with-green-surrounds.jpg
 excerpt: "Congratulations to our Whanganui High School 'Girl and Boy SPORTS DUX' for 2017; DE-ANN TYRELL & MAIRANGI TAMEHANA. Congratulations Keightley Watson; Principals Cup for Most Outstanding Performance."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59f145a2b8d39a7731000337/De-Ann-Tyrell-girl-sports-dux.jpg"

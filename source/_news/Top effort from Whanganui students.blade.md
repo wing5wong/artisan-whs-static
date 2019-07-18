@@ -2,7 +2,7 @@
 title: "Top effort from Whanganui students"
 date: 2018-03-28
 description: "Summer tournament week this year featured WHS competing around NZ in eight different sports..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b2b06f1ff2a7c6bfc002462/WHS-Maadi-Cup-crew-in-school-uniform-with-principal.gif
 excerpt: "Summer tournament week this year featured Whanganui High School competing around New Zealand in eight different sports."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5abbf61cff2a7c6bfc00111a/WHS-crew-at-Rotorua-Schools-events-19-March.jpg"

@@ -2,14 +2,14 @@
 title: "WHS slices up the competition"
 date: 
 description: "WHS slices up the competition - Olivia Caird and Charlotte Taylor won Bronze in the Final of the National Secondary Schools Culinary Challenge (NSSCC), courtesy of River City Press article on 8/9/16.."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/57d71ad7ff2a7c37a30001eb/Olivia-Caird--Charlotte-Taylor-Bronze-medal-NSS-Culinary-challenge-Aug-Sept-2016.jpg
 excerpt: "WHS slices up the competition - Olivia Caird and Charlotte Taylor won Bronze in the Final of the National Secondary Schools Culinary Challenge (NSSCC)."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="BasicParagraph"><strong><span class="CharacterStyle1"><span lang="EN-GB">Two students from Wanganui High School have won a Bronze medal in the Final of the National Secondary Schools Culinary Challenge (NSSCC).</span></span></strong></p>

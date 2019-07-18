@@ -2,7 +2,7 @@
 title: "2017 was an AMAZING year for WHS SPORT"
 date: 
 description: "What an AMAZING year WHS has had with sport. Here are a few great moments we have had!.."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a305468b8d39a41ae0007f5/fun-run.jpg
 excerpt: "What an amazing year WHS has had with sport. Here are a few great moments we have had!"
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5a30719db8d39a41ae000801/Lucas-Thompson--Jack-Clifton-paddlers-chron-23-Feb-17.jpg"

@@ -2,14 +2,14 @@
 title: "Father and son explore diversity at gallery"
 date: 
 description: "Whanganui High School student Abishai and Sharad Dohare are exhibiting their drawing and photography talents at Whanganui Fine Arts Gallery..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59d2e367b8d39a1917000668/Abishai--dad-chron-30-sept.jpg
 excerpt: "Whanganui High School student Abishai and Sharad Dohare are exhibiting their drawing and photography talents at Whanganui Fine Arts Gallery."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span><strong>Whanganui High School student Abishai and Sharad Dohare are exhibiting their drawing and photography talents at Whanganui Fine Arts Gallery.</strong> <br />PHOTO / Stuart Munro</span></p>

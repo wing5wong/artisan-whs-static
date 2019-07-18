@@ -2,7 +2,7 @@
 title: "Students cook up a storm"
 date: 2018-06-18
 description: "We brought home 8 medals from the NZ Chefs Regional Cooking Competitions in Taranaki on Monday 18 June 2018..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b29c7f9ff2a7c6bfc00240f/1-web-size.gif
 excerpt: "WHS brought home 8 medals from the NZ Chefs Regional Cooking Competitions in Taranaki on Monday 18 June 2018."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b29ba22ff2a7c6bfc002409/9.gif"

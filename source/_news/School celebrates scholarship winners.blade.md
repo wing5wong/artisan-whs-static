@@ -2,14 +2,14 @@
 title: "School celebrates scholarship winners"
 date: 
 description: "Whanganui High School scholarship winners at a special morning tea at the school, pictured here with the school current head and deputy head boys and girls..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58ab675ab8d39a3eff00301d/WHS-scholarship-winners-end-2016-beg-2017-morning-t.jpg
 excerpt: "Whanganui High School scholarship winners at a special morning tea at the school, pictured here with the school current head and deputy head boys and girls."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><strong>HIGH TEA: Whanganui High School scholarship winners at a special morning tea at the school. <br /> Back row (from left) Isabella Henderson, Gabrielle Penn, Abby Hurley, Connor Cresswell, Alan Wang, Alister Hughes, Kate Denzel, Nusr Ghamri (deputy head boy). <br />Front row (from left) Mikaya Teki (deputy head girl), Jeanne-Marie Bonnet, Jack Southee (head boy), Jackie Hazelhurst (head girl), Zara Collinson. <br />Absent: Methmi Perera, Regan Davey.</strong></p>

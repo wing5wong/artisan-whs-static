@@ -3,7 +3,7 @@ title: "Y13 WHS Volunteer Coaches - May 2015"
 date: 
 description: "These students are coaching our school teams in Hockey, Football and Netball this year, 18/5/15.
 Click on above for more information..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/55596d2eb8d39a5068000337/Y13-Volunteer-Coaches.-18.5.15.jpg
 excerpt: ""
 image_gallery:
     

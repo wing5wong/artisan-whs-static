@@ -2,7 +2,7 @@
 title: "WHS students shine at Model United Nations"
 date: 
 description: "Special congratulations to WHS students Ali Gammeter, Ben Power & Nanea Schurhammer who won best overall delegation at the annual MUN day..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58db3cb4b8d39a417f0001ee/nigeria-winning-delegation.jpg
 excerpt: "Special congratulations to WHS students Ali Gammeter, Ben Power and Nanea Schurhammer who won best overall delegation at the annual MUN day held at Whanganui Girls College on Friday 24 March."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58db3cb4b8d39a417f0001ee/nigeria-winning-delegation.jpg"

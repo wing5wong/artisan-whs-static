@@ -2,7 +2,7 @@
 title: "Bi-annual visit from Australian school great success"
 date: 
 description: "Wanganui Park School College from Shepparton, Melbourne Australia visit WHS 16-18 November."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/564d0791b8d39a2136001bdc/Both-teams-photo-together-nice.jpg
 excerpt: "Wanganui Park School College from Shepparton, Melbourne Australia visit WHS 16-18 November."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/564d0a5ab8d39a2136001c0c/Girls-hard-out-before.after-game.jpg"

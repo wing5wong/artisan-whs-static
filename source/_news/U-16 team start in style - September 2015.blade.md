@@ -5,11 +5,11 @@ description: "The Wanganui Under-16 team had a strong start to their Hurricanes 
 featured-image: 
 excerpt: "The Wanganui Under-16 team had a strong start to their Hurricanes Division B tournament in Levin, beating East Coast U-16 29-7 in Levin yesterday, from Wanganui Chronicle article on 29/9/15..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The Wanganui Under-16 team had a strong start to their Hurricanes Division B tournament in Levin, beating East Coast U-16 29-7 in Levin yesterday.</p>

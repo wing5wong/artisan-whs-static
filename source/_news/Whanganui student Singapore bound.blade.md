@@ -2,14 +2,14 @@
 title: "Whanganui student Singapore bound"
 date: 
 description: "Former WHS student Emma Carroll was spending a few days in her home city before she jets off to a student exchange at Nanyang Technological University in Singapore, Wanganui Chronicle article 29/12/16"
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5869fd11b8d39a3eff00133c/emma-carroll-off-to-singapore-Jan-dec-2016.jpg
 excerpt: "Former WHS student Emma Carroll was spending a few days in her home city before she jets off to a student exchange at Nanyang Technological University in Singapore."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>Former WHS student&nbsp;<span>Emma Carroll enjoys the view from Durie Hill in Whanganui before departing for Singapore next week.<br />PHOTO: Lewis Gardiner.&nbsp;</span></p>

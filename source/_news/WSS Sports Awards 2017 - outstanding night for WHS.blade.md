@@ -2,7 +2,7 @@
 title: "WSS Sports Awards 2017 - outstanding night for WHS"
 date: 
 description: "OUTSTANDING awards evening for WHS tonight at the Whanganui Secondary School Sports Awards!"
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59fa8324b8d39a77310005f6/all-the-awards-winner--space-Keightley-added.jpg
 excerpt: "Outstanding awards evening for WHS tonight at the Whanganui Secondary School Sports Awards!"
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/59fa76c6b8d39a77310005ec/Sportswomen-of-the-Year-Emma-Rainey-with-guest-speaker-former-NZ-Blacksticks-captain-Kayla-Whitelock.jpg"

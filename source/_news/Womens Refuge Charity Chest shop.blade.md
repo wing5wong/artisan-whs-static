@@ -2,7 +2,7 @@
 title: "Women's Refuge Charity Chest shop"
 date: 2018-09-20
 description: "Former WHS student Liberty Bracegirdle is among a number of women volunteering to help at the Women’s Refuge Charity..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5ba95945ff2a7c1309000008/Liberty-Bracegirle-Rcp-20-sept-330.jpg
 excerpt: "Former WHS student Liberty Bracegirdle is among a number of women volunteering to help at the Women’s Refuge Charity Chest shop."
 image_gallery:
     

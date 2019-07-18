@@ -2,14 +2,14 @@
 title: "Dancer making a name"
 date: 
 description: "ENTERTAINER: For Ardon England (former WHS student), Whanganui's home, but Auckland is where his future is, Wanganui Midweek article on 3 November 2016..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/581bd61ab8d39a06a1000020/Ex-Ardon-England-dancer-making-a-name-Midweek-3-Nov-2016.jpg
 excerpt: "ENTERTAINER: For Ardon England (former WHS student), Whanganui's home, but Auckland is where his future is, Midweek article on 3 November 2016..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>ENTERTAINER: For Ardon England (former WHS student),&nbsp;Whanganui's home, but Auckland is where his future is.<br />PHOTO courtesy of Paul Brooks. &nbsp;</p>

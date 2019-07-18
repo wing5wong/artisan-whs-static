@@ -2,7 +2,7 @@
 title: "REBECCA BAKER - GOLD Medal... 1 in NZ at Jnr Girls 1500mtr!"
 date: 
 description: "REBECCA BAKER - GOLD Medal...  #1 in NZ for the Junior Girls 1500 mtr run at the NZSS Athletic Champs..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5a25d2c1b8d39a41ae00003c/Rebecca-running-1500.jpg
 excerpt: "REBECCA BAKER - GOLD Medal...  #1 in NZ for the Junior Girls 1500 mtr run at the NZSS Athletic Champs."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5a25e6f4b8d39a41ae000064/WHS-Athletics-Team-heading-to-the-NZSS-Athletics-Champs-in-Hastings,-1-Dec-2017.jpg"

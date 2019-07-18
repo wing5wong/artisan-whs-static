@@ -2,7 +2,7 @@
 title: "GALLIPOLI BUGLER'S PROUD MOMENT"
 date: 2018-04-27
 description: "Brad Mancer's proud moment - ANZAC Dawn service is held at Anzac Cove in commemoration on Gallipoli Peninsula..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5ae7e24db8d39a749900191d/Brad-Mancer-Gallipoli-chron-27-April.jpg
 excerpt: "Brad Mancer's proud moment - ANZAC Dawn service is held at Anzac Cove in commemoration on Gallipoli Peninsula."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5ae7e299ff2a7c6bfc0018ed/Brad-Mancer-Gallipoli-from-distance.jpg"

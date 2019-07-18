@@ -5,11 +5,11 @@ description: "The Wanganui Under-15 boys and girls hockey teams are faring well 
 featured-image: 
 excerpt: "The Wanganui Under-15 boys and girls hockey teams are faring well at their respective national age-group championships, from Wanganui Chronicle article on 30/9/15..."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p>The Wanganui Under-15 boys and girls hockey teams are faring well at their respective national age-group championships.</p>

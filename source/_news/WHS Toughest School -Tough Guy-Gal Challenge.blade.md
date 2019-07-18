@@ -2,7 +2,7 @@
 title: "WHS Toughest School : Tough Guy/Gal Challenge"
 date: 2018-05-25
 description: "On Friday 25 May 18 of the toughest WHS students went to the Tough Guy/Gal challenge held in Wellington..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/5b0f599db8d39a7499002125/gp-at-finish-line.gif
 excerpt: "On Friday 25 May 18 of the toughest Whanganui High School students went to the Tough Guy/Gal challenge held in Wellington."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/5b0f59c3b8d39a7499002127/finish-line-x2.othergif.gif"

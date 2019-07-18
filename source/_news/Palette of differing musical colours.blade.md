@@ -2,14 +2,14 @@
 title: "Palette of differing musical colours"
 date: 
 description: "Former Whanganui High School students Elena Morgan and Max Munneke back in town for a concert..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59cabb98b8d39a19170003b6/Max--Elena-together.jpg
 excerpt: "Former Whanganui High School students Elena Morgan and Max Munneke back in town for a concert."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p class="element element-paragraph"><strong>Former Whanganui High School students&nbsp;Elena Morgan and&nbsp;Max Munneke back in town for a concert.</strong></p>

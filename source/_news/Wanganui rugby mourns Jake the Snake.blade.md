@@ -2,14 +2,14 @@
 title: "Wanganui rugby mourns 'Jake the Snake'"
 date: 
 description: "The Wanganui rugby community is in mourning following the death of one of their bright young prospects Jake Alabaster..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/59d2e599b8d39a191700066a/Jake-Alabaster-after-border-win.jpg
 excerpt: "The Wanganui rugby community is in mourning following the death of one of their bright young prospects Jake Alabaster."
 image_gallery:
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ---
 
 <p><span>HUGE POTENTIAL: Jake Alabaster after Border won the Premier club title in 2016.</span></p>

@@ -2,14 +2,14 @@
 title: "Life on bridge gives window to world"
 date: 
 description: "Former WHS student Catherine Williams is second in command of the Holland America Line ship Zaandam, Wanganui Chronicle article on 4/1/17..."
-featured-image: 
+featured-image: http://c1940652.r52.cf0.rackcdn.com/58708976b8d39a3eff00157d/Catherine-Williams-2nd-in-command-of-ship-4-Jan-2017.jpg
 excerpt: "Former WHS student Catherine Williams is second in command of the Holland America Line ship Zaandam."
 image_gallery:
      - image: "http://c1940652.r52.cf0.rackcdn.com/58708982b8d39a3eff00157f/Catherine-Williams-2nd-in-com-of-this-ship.jpg"
-	
-	
-	
-	
+    
+    
+    
+    
 ---
 
 <p><span>ON DECK: Catherine on duty in cold climes.</span><br /><span>Former WHS student,Catherine is second in command of the Holland America Line ship Zaandam (pictured below).</span></p>
