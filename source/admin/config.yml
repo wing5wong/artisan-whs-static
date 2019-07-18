@@ -42,6 +42,7 @@ collections:
     folder: "source/_news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    summary: "{{year}}-{{month}}-{{day}} | {{title}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
