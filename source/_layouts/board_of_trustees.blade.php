@@ -27,7 +27,7 @@
 <?php
 $coopted = $board_members->filter(function($member){ return $member->category == "Co-opted Member";})
 ?>
-@if($coopted)
+@if(count($coopted))
 <h2 class="decorated d-table">Co-opted Members</h2>
 <div class="row no-gutters">
     @foreach($coopted as $member)
