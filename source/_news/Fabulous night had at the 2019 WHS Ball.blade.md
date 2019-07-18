@@ -1,19 +1,15 @@
 ---
-title: "Fabulous night had at the 2019 WHS Ball"
-date: 2019-07-06
-description: "2019’s WHS Ball, ‘When In Rome’, had students enter a Roman inspired theme at the Whanganui Racecourse..."
-image: 
-excerpt: "2019’s Whanganui High School Ball, ‘When In Rome’, had students enter a Roman inspired theme at the Whanganui Racecourse on the evening of Saturday, the 6th of July."
-image_gallery:
-    
-    
-    
-    
-    
+title: Fabulous night had at the 2019 WHS Ball
+date: 2019-07-06T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563426103/News/66503734_2300238610025304_565209862133252096_n.jpg.jpg
+description: >-
+  2019’s WHS Ball, ‘When In Rome’, had students enter a Roman inspired theme at
+  the Whanganui Racecourse...
+short: >-
+  2019’s WHS Ball, ‘When In Rome’, had students enter a Roman inspired theme at
+  the Whanganui Racecourse...
 ---
-
-<h4>&nbsp;<br />* 2019 Whanganui High School Ball *</h4>
-<p><br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/66503734_2300238610025304_565209862133252096_n.jpg?_nc_cat=100&amp;_nc_oc=AQk2nN4sLIR-bzZ4hRrXR-JUMpjmWx0uq_5w9UhRBhp0A4mSXCdPaxnRPtbdh2WMg1o&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=7ed628b704c97aafd1b5698f978ecbc5&amp;oe=5DAF1E1C" alt="No photo description available." /></p>
 <p><br />2019&rsquo;s Whanganui High School Ball, &lsquo;When In Rome&rsquo;, had students enter a Roman inspired theme at the Whanganui Racecourse on the evening of Saturday, the 6th of July.</p>
 <p>The Heads of Social, Ella Dudley and Jarad Knight, and their team of prefects spent the majority of Friday decorating the venue from head to toe. From the entrance, to the photo backdrop, to the table settings, the night was soon filled with memories, amazingly catered food and music for everyone to enjoy, as the Class of 2019&rsquo;s night was captured through various talented photographers.</p>
 <p>A huge thank you to everyone who contributed to the evening, helped behind the scenes and everything in between in making the night a success.</p>
@@ -29,4 +25,3 @@ image_gallery:
 <p><em><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/66202294_2300240136691818_8159417124767399936_n.jpg?_nc_cat=103&amp;_nc_oc=AQmFOoWsDkKRowu3Sw9EELaFh2Vp_B9agN-sjVTGuCozrZ7egmb-_P36jHkVj5iUE84&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=7603ea954e11aea3cebe32dccb7506cd&amp;oe=5DB133EA" alt="Image may contain: 2 people, people smiling, people standing" /></em></p>
 <p><em><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/64768999_2300239830025182_9006725777546280960_n.jpg?_nc_cat=109&amp;_nc_oc=AQlBoylTMYNRZ9N1Dfm4LSIszVDMIqfo-mCw1rbW5NuCwsQkJNAlXKS0hRie3vHHl84&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=2d57570f1c12b89b62f8b377a2cdd943&amp;oe=5DBE0CFA" alt="Image may contain: 2 people, people smiling, people standing" /></em></p>
 <p><em><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/66743501_2300239753358523_7653786262985244672_n.jpg?_nc_cat=111&amp;_nc_oc=AQnQc71_nQQkGiWnktrebaYLCkRwrdSNMymDmNhQRC7JHzfZgSySvxAnSy2G3iCJMJA&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=191e7fccfc997fd54bdffe7ae4bc71d4&amp;oe=5D7A4B8A" alt="Image may contain: 9 people, people smiling, people standing, people dancing, night and indoor" /></em></p>
-
