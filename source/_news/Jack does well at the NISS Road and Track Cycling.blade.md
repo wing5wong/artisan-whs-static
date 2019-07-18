@@ -1,6 +1,8 @@
 ---
 title: Jack does well at the NISS Road and Track Cycling
 date: 2019-07-08T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563425819/News/66636774_1294075627408207_7345657397840445440_n.jpg.jpg
 description: >-
   Jack has just competed at the NISS road and track cycling. He placed 4th in
   the road race out of 68 entrants and 6th in the...
