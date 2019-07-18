@@ -27,10 +27,7 @@ Central U18 boys team manager Darrell Hoskin said while no Whanganui players sco
 
 "Wellington \[Capital] went first and missed, but we didn't so we won the match," Hoskin said.
 
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1563419879/News/SD46P2TKZNHYRJ4THWIFOT6LZQ.jpg)
-
-\
-Whanganui's Patrick Madder weaves a path through the North Harbour defence during Central's 4-3 win over North Harbour in pool play at the National U18 Hockey Tournament in Wellington.
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1563419879/News/SD46P2TKZNHYRJ4THWIFOT6LZQ.jpg "Whanganui's Patrick Madder weaves a path through the North Harbour defence during Central's 4-3 win over North Harbour in pool play at the National U18 Hockey Tournament in Wellington.")
 
 Meanwhile, players not making their regional representative sides gathered to play in the national association's under-18 tournament with Whanganui fielding a boys team at Pukekohe.
 
