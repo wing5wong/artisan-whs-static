@@ -5,7 +5,7 @@ intro: >-
   Our school charter is updated on an annual basis & school policies on a yearly
   or three yearly cycle. Including curriculum, review & planning, good employer,
   finance & property;health, safety & well-being and admin.
-  extends: _layouts.policies-and-charter
+extends: _layouts.policies-and-charter
 ---
 ## School Charter
 
