@@ -10,8 +10,6 @@ short: >-
   Jack has just competed at the NISS road and track cycling. He placed 4th in
   the road race out of 68 entrants and 6th in the...
 ---
-<p>&nbsp;</p>
-<p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/66636774_1294075627408207_7345657397840445440_n.jpg?_nc_cat=110&amp;_nc_oc=AQn0LV9SPdZrdZ2fxoXoHmD-KCx6J7lBFIShbgNobj1gvTcojwDt47xTC0ZHlyxXJyY&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=3db4f0ec6653ad0c7f9b91caeeab4e3a&amp;oe=5DC717FE" alt="Image may contain: people riding bicycles, bicycle and outdoor" /></p>
 <p><br />Congrats Jack Overweel!!&nbsp;</p>
 <p>Jack has just competed at the North Island Secondary School Road and Track Cycling Championships held on 6-7 July in Cambridge. He placed 4th in the road race out of 68 entrants and 6th in the criterium.</p>
 <p>Track cycling he came third overall as it was an omnium event, he did, however, win the U15 515m scratch race.</p>
