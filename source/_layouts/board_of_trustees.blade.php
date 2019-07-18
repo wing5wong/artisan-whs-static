@@ -23,9 +23,14 @@
     @endforeach
 </div>
 
+
+<?php
+$coopted = $board_members->filter(function($member){ return $member->category == "Co-opted Member";})
+?>
+@if($coopted)
 <h2 class="decorated d-table">Co-opted Members</h2>
 <div class="row no-gutters">
-    @foreach($board_members->filter(function($member){ return $member->category == "Co-opted Member";}) as $member)
+    @foreach($coopted as $member)
     <div class="col-12 col-md-4 p-5">
             <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
     
@@ -36,6 +41,7 @@
         </div>
     @endforeach
 </div>
+@endif
 
 
 <h2 class="decorated d-table">Also in Attendance</h2>
