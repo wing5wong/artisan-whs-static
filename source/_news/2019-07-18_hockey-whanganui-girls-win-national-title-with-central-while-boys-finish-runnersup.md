@@ -85,5 +85,5 @@ Bayler and a number of his team mates will have a quick turnaround by returning 
 
 It is their second game of Hockey Manawatu's Premier Group B round, and Whanganui need a good result after losing their opening match to High School Hockey Club A, 5-3 on July 7.
 
-_By Jared Smith_\
+_By Jared Smith_  
 _Whanganui Chronicle 16/7/19_
