@@ -39,5 +39,5 @@ Coached by former Black Sticks player Robbie Matthews, the Whanganui boys had an
 
 Whanganui finished 13th in this tournament last season, so we're hoping to go better this time round," Matthews said.
 
-By Iain Hyndman  
-Whanganui Chronicle 10/7/19
+_By Iain Hyndman_  
+_Whanganui Chronicle 10/7/19_
