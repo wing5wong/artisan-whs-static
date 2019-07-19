@@ -18,9 +18,9 @@ pagination:
         <img src="{{ $n->image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}" style="object-fit: cover;width: 100%;">
     </div>
     <div class="col-10">
-        <h2>{{$n->title}}<br>
+        <h3>{{$n->title}}<br>
             @if($n->date)<small class="text-muted">{{ date('F j, Y', $n->date) }} </small>@endif
-        </h2>
+        </h3>
         <div class="row">
             <div class="col-10">
                 {{ $n->excerpt}}
