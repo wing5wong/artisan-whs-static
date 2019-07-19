@@ -1,6 +1,6 @@
 ---
 title: More volunteer planters needed
-date: 2019-07-19T03:43:53.633Z
+date: 2019-07-10T03:43:53.633Z
 description: >-
   Whanganui High School has contributed to the planting along the Castlecliff
   coastline.
