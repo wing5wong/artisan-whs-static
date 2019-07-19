@@ -4,7 +4,7 @@ title: >-
   Cup in Rotterdam
 date: 2019-07-17T03:51:45.629Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1563508339/News/6U4RGEZND5CELCULHYG2LCFUII.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563509521/News/Chris_Harris_snip_small.jpg
 description: >
   Three elite Kiwi rowers still eligible to wear the Aramoho Wanganui Rowing
   Club colours made finals at the World Rowing Cup III in Rotterdam,
