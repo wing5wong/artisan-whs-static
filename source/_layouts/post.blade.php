@@ -16,11 +16,7 @@
     @if(is_array($page->image_gallery))
         @foreach($page->image_gallery as $image)
         <a href="{{$image["image"]}}">
-            <img src="{{ str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,q_80,w_300/",$image["image"])}}" @isset($image["description"])
-            alt="{{$image["description"]}}" 
-            @endisset @isset($image["title"])
-            title="{{$image["title"]}}"
-            @endisset>
+            <img src="{{ str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,q_80,w_300/",$image["image"])}}" @isset($image["description"])alt="{{$image["description"]}}"@endisset @isset($image["title"])title="{{$image["title"]}}"@endisset>
         </a>
         @endforeach
     @endif
