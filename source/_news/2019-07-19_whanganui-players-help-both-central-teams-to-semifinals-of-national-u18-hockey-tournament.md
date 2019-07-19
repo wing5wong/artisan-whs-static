@@ -38,5 +38,5 @@ With just three minutes to play in the last pool play game, three teams could ha
 
 In the end hosts Capital managed to cling on and qualify on goal difference despite a 4-2 loss to Northland on Tuesday evening.
 
-_By Iain Hyndman_\
+_By Iain Hyndman_  
 _Whanganui Chronicle 11/7/19_
