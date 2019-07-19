@@ -19,13 +19,9 @@ Enrolment Application Forms and supporting documentation for 2020 enrolments sho
 
 The School will respond to all applicants as soon as possible.
 
-
-
 ## Prospectus
 
-[Download the current prospectus](http://c1940652.r52.cf0.rackcdn.com/5c4a799bff2a7c18530007ed/2018-Prospectus.pdf)
-
-
+[Download the current prospectus](https://res.cloudinary.com/whanganuihigh/image/upload/v1563495283/School%20Documents/Enrolment/2019_Prospectus.pdf)
 
 ## Application Forms
 
