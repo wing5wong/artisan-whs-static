@@ -1,6 +1,6 @@
 ---
 title: Workshop at Whanganui High School aims to improve art techniques for teachers
-date: 2019-07-19T04:46:13.900Z
+date: 2019-07-15T04:46:13.900Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563511698/News/2MVHBHRZYRAHHHEXCATGYJNKSY.jpg
 description: >
