@@ -161,7 +161,7 @@ return [
             ],
             [
                 'title' => 'Scholarship Opportunities',
-                'url' => '/for-parents/scholarship-opportunities'
+                'url' => '/for-parents/scholarships'
             ],
             [
                 'title' => 'Guide to NCEA',
