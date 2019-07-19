@@ -26,7 +26,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
 
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Emergency", name: "is_emergency", widget: "boolean", default: false}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -45,15 +45,15 @@ collections:
     summary: "{{year}}-{{month}}-{{day}} | {{title}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
         name: "image"
         widget: "image"
         required: false
-      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
-      - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Short Intro", name: "short", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Image Gallery"
         name: "image_gallery"
@@ -71,7 +71,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
@@ -98,7 +98,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Filename"
@@ -115,7 +115,7 @@ collections:
     slug: "{{slug}}"
 
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
@@ -137,7 +137,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
+      - {label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs"}
       - {label: "Position", name: "position", widget: "string", required: false}
       - label: "Category"
         label_singular: "Category"
@@ -160,7 +160,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
@@ -180,14 +180,14 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
         name: "image"
         widget: "image"
         required: false
-      - {label: "Description", name: "description", widget: "text", default: "SHORT search engine snippet text"}
+      - {label: "Description", name: "description", widget: "text", hint: "SHORT search engine snippet text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Image Gallery"
         name: "image_gallery"
@@ -205,7 +205,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Intro", name: "intro", widget: "text", required: false}
       - label: "Image Filename"
@@ -228,7 +228,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
@@ -281,7 +281,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: "Image Filename"
@@ -299,7 +299,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
@@ -318,7 +318,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
@@ -335,7 +335,7 @@ collections:
     summary: "{{title}} - {{name}}"
 
     fields:
-    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Title", name: "title", widget: "string"}
     - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
     - {label: "Name", name: "name", widget: "string"}
     - {label: "Code", name: "code", widget: "string"}
@@ -372,7 +372,7 @@ collections:
     create: true
 
     fields:
-    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Title", name: "title", widget: "string"}
     - {label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayField: [title"]}
     - {label: "Description", name: "description", widget: "text"}
     - {label: "URL", name: "pdf", widget: "string"}
@@ -436,7 +436,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-    - {label: "Title", name: "title", widget: "string", default: "Dux X YYYY"}
+    - {label: "Title", name: "title", widget: "string", hint: "Dux X YYYY"}
     - {label: "Date", name: "date", widget: "date"}
     - label: "Award"
       name: "award"
@@ -456,7 +456,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - name: "policyAreas"
         label: "Policy Areas"
         label_singular: "Policy Area"
@@ -485,7 +485,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
+      - {label: "Title", name: "title", widget: "string", hint: "Jack Donaldson and Emelye Brown"}
       - label: "Category"
         label_singular: "Category"
         name: "category"
@@ -508,8 +508,8 @@ collections:
     summary: "{{title}} - {{position}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Mr Joe Bloggs"}
-      - {label: "Position", name: "position", widget: "string", default: ""}
+      - {label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs"}
+      - {label: "Position", name: "position", widget: "string", required: false}
       - label: "Departments"
         label_singular: "Department"
         name: "departments"
@@ -556,7 +556,7 @@ collections:
     slug: "{{slug}}"
   
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Term X"}
+      - {label: "Title", name: "title", widget: "string", hint: "Term X"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
     
@@ -568,7 +568,7 @@ collections:
     slug: "{{slug}}"
   
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
@@ -588,7 +588,7 @@ collections:
     slug: "{{slug}}"
   
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -615,7 +615,7 @@ collections:
     create: true
     folder: "source/_pages"
     fields:
-      - {label: "Title", name: "title", widget: "string", default: "Title"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Extends", name: "extends", widget: "string"}
       - {label: "custom Path", name: "customPath", widget: "string", required: false}
