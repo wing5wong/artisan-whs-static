@@ -8,21 +8,21 @@ The tuition fee covers four or part terms from the starting date for the student
 
 [2019 International Student Application Form](http://c1940652.r52.cf0.rackcdn.com/5ac82d05b8d39a7499001385/WHS_Application-19.pdf)
 
-**Tuition Fee:** NZ $13,250\
+**Tuition Fee:** NZ $13,250  
 (or NZ $3500 per ten-week term for shorter stay students.)
 
 This is the normal starting level for international students unless they have the prior approval of Whanganui High School.
 
 Includes up an English classes and a conversation class.
 
-**First Year Premium Fee:** NZ $15,000\
+**First Year Premium Fee:** NZ $15,000  
 (or NZ $4000 per ten-week term for shorter stay students.)
 
 This course is designed for new students who require a lot of English language support in the first year.
 
 Includes 3 to 6 English classes including special Intensive English classes, a conversation class and ESOL classes.
 
-**Homestay :** NZ $11,250\
+**Homestay :** NZ $11,250  
 (for a full academic year of 45 weeks or $250 per week for a part of a year.)
 
 * Provision of a single room for the student  
@@ -43,7 +43,7 @@ The homestay fee does not cover the following:
 * Personal spending (between $NZ50 and $NZ70 per week). Parents may pay personal funds to the school and the school will set up a bank account whereby a set amount will be automatically paid into the student's account each week.  
 * Toll calls 
 
-**Guardian: NZ $2500**\
+**Guardian: NZ $2500**  
 This is mandatory for students under 14 years and recommended for other young students. The student does not live with the guardian.
 
 The native speaking guardian is responsible for:  
@@ -68,7 +68,8 @@ This full travel insurance policy covers personal effects, health and accident i
 
 All our international students are placed in homestays to provide total immersion in the English language in a warm, caring family environment. The school carefully assesses and manages all homestays having regular contact with them to ensure the student and host parents are happy.
 
-Home stay: $NZ 11,250 (for a 45 week year or $250 per week for part of a year ) \
+Home stay: $NZ 11,250 (for a 45 week year or $250 per week for part of a year )
+
 The homestay fee covers the following:  
 
 * All the expenses involved in living as a member of a family  
