@@ -56,5 +56,5 @@ While teaching he went to a printmaking workshop at the Wanganui Regional Commun
 
 The workshop is being run by Common Knowledge NZ LTD and is set to run from 9am until 5pm every day.
 
-_By Jesse King_  \
+_By Jesse King_  
 _Whanganui Chronicle 15/7/19_
