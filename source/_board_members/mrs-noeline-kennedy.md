@@ -1,6 +1,5 @@
 ---
 title: Noeline Kennedy
-position: Member
 category: Also in Attendance
 ---
 I have held the position of Bursar at Wanganui High School since 1997. I am responsible for the financial management services of the school, including financial reporting and budgeting. In addition, a component of my role is payroll management and overall responsibility for the school’s support staff.
