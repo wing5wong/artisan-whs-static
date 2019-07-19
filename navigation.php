@@ -153,7 +153,7 @@ return [
             ],
             [
                 'title' => 'Graduate Student Profile',
-                'url' => '/for-parentsgraduate-student-profile'
+                'url' => '/for-parents/graduate-student-profile'
             ],
             [
                 'title' => 'Edith Wheal Scholarship',
