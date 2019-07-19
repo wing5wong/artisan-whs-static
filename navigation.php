@@ -160,7 +160,7 @@ return [
                 'url' => '/for-parents/edith-wheal-scholarship'
             ],
             [
-                'title' => 'Schoalrship Opportunities',
+                'title' => 'Scholarship Opportunities',
                 'url' => '/for-parents/scholarship-opportunities'
             ],
             [
