@@ -82,5 +82,5 @@ A council survey on parking will be released to the public shortly, with the res
 
 The upgrade is expected to begin early next year and be funded from meter revenue surpluses.
 
-_By Abe Leach_  \
+_By Abe Leach_  
 _Whanganui Chronicle 13/7/19_
