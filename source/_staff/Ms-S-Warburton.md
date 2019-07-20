@@ -1,6 +1,6 @@
 ---
-title: Mr G. Foster - Bagpipes
-position: 
+title: Ms S. Warburton
+position: Violin
 departments:
   - Instrumental Music Tutors
 ---

@@ -1,6 +1,6 @@
 ---
-title: Mr B. Jellyman - Brass
-position: 
+title: Mrs A. Gregory
+position: Violin
 departments:
   - Instrumental Music Tutors
 ---

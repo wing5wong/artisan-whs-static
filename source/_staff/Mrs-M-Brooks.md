@@ -1,6 +1,6 @@
 ---
-title: Mrs M. Brooks - Piano/Voice
-position: 
+title: Mrs M. Brooks
+position: Piano/Voice
 departments:
   - Instrumental Music Tutors
 ---

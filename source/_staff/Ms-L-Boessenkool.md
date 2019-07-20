@@ -1,6 +1,6 @@
 ---
-title: Ms N. St Pierre - Piano/Flute
-position: 
+title: Ms L. Boessenkool
+position: Flute
 departments:
   - Instrumental Music Tutors
 ---

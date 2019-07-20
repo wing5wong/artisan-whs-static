@@ -1,6 +1,6 @@
 ---
-title: Mrs A. Hunt - Strings
-position: 
+title: Mrs A. Hunt
+position: Strings
 departments:
   - Instrumental Music Tutors
 ---

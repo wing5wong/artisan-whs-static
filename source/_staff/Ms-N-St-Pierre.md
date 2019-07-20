@@ -1,6 +1,6 @@
 ---
-title: Ms S. Warburton - Violin
-position: 
+title: Ms N. St Pierre
+position: Piano/Flute
 departments:
   - Instrumental Music Tutors
 ---

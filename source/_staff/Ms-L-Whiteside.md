@@ -1,6 +1,6 @@
 ---
-title: Mr M. Franklin-Browne - Drums
-position: 
+title: Ms L. Whiteside
+position: Vocal
 departments:
   - Instrumental Music Tutors
 ---
