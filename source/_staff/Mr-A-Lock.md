@@ -1,7 +1,6 @@
 ---
 title: Mr A. Lock
-position: '-'
+position: 
 departments:
   - Physical Education and Health
 ---
-
