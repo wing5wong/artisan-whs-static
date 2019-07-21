@@ -1,6 +1,6 @@
 ---
 title: Ms C. Davies
-position: '-'
+position:
 departments:
   - Te Atawhai Special Needs
 ---

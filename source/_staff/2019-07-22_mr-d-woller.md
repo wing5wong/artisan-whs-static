@@ -1,6 +1,6 @@
 ---
 title: Mr D. Woller
 departments:
-  - Support and Ancilliary
+  - Te Atawhai Special Needs
 ---
 

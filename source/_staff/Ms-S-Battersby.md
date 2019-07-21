@@ -1,6 +1,6 @@
 ---
 title: Ms S. Battersby
-position: Teacher Aide/Administrator Vocational Studies & Gateway
+position:
 departments:
   - Vocational Studies / Gateway
 ---

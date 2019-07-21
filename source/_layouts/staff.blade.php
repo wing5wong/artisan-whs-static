@@ -60,7 +60,7 @@ foreach([
 "Te Atawhai (Special Needs)",
 "Technology",
 "Vocational Studies / Gateway",
-"Board of Trustees",
+"Te Atawhai Special Needs"
 ] as $dept){
 
 $filteredStaff = $staff->filter(function($s) use ($dept){

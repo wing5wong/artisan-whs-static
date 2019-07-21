@@ -1,6 +1,7 @@
 ---
 title: Mr H. Wilson
-position: 
+position: Dean of Moana House
 departments:
+  - Deans
   - Technology
 ---

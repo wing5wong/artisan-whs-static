@@ -2,7 +2,7 @@
 title: Mrs L. Su'a
 position: 
 departments:
-  -  Science
+  -  Social Sciences
   -  International
 ---
 Lee Su'a took over the position of International Dean in July 2017\. Lee is responsible for the pastoral and general well-being of al the International Students.  Her teaching career started in 1991 where she worked in a bi-lingual school here in Whanganui.   She then travelled to the United Kingdom where she taught in a school with predominantly ESL students and studied for her certificate in TESOL.  Since returning to Whanganui she has continued to study and more recently, has been teaching Junior Science and ESL.
