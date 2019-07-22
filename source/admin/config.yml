@@ -111,7 +111,7 @@ collections:
     label: "About WHS Pages"
     label_singular: "About WHS Page"
     folder: "source/_about"
-    create: true
+    create: false
     slug: "{{slug}}"
 
     fields:
@@ -156,7 +156,7 @@ collections:
     label: "Curriculum Pages"
     label_singular: "Curriculum Entry"
     folder: "source/_curriculum"
-    create: true
+    create: false
     slug: "{{slug}}"
     
     fields:
@@ -201,7 +201,7 @@ collections:
     label: "For Parents Pages"
     label_singular: "For Parents Page"
     folder: "source/_for_parents"
-    create: true
+    create: false
     slug: "{{slug}}"
     
     fields:
@@ -224,7 +224,7 @@ collections:
     label: "International Pages"
     label_singular: "International Page"
     folder: "source/_international"
-    create: true
+    create: false
     slug: "{{slug}}"
     
     fields:
@@ -277,7 +277,7 @@ collections:
     label: "News and Events Pages"
     label_singular: "News and Events Page"
     folder: "source/_news_and_events"
-    create: true
+    create: false
     slug: "{{slug}}"
     
     fields:

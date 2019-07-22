@@ -152,6 +152,10 @@ return [
                 'url' => '/for-parents/policies-and-charter'
             ],
             [
+                'title' => 'Annual Report - Financial Statements',
+                'url' => '/for-parents/annual-report-financial-statements/'
+            ],
+            [
                 'title' => 'Graduate Student Profile',
                 'url' => '/for-parents/graduate-student-profile'
             ],
