@@ -20,4 +20,4 @@ She also came second in Youth International Dance of which she had to compete in
 
 Overall this gives Callista the highest placings in Whanganui.
 
-Well done Callista, great results!
+Congratulations Callista, well done!
