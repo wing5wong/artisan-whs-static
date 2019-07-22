@@ -20,5 +20,5 @@ We will keep you posted about this awesome trip organised from the Languages Dep
 
 We presented this great project almost a year ago... and we are leaving on Sunday!! Woohoo!!
 
-_Queralt Scott_\
+_Queralt Scott_  
 _Spanish teacher_
