@@ -8,7 +8,9 @@
     {{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}}
     @if ($page->image)
     <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
+    <a href="{{ $page->image }}" title="{{$page->image_title}}" alt="{{$page->image_alt}}">
     <img src="{{ $page->image }}"  style="object-fit: cover; max-width:100%; display: block;">
+</a>
     @endif
     
     @yield('postContent')
@@ -22,6 +24,18 @@
     @endif
 
  
+
+ <style>
+
+a.featured[title]:after {
+  content: attr(title);
+  padding: 4px 8px;
+  color: #FFF;
+ background-color:black;
+ display: block;
+    }
+
+     </style>
     @include('_partials.lastReviewed')
     
 @endsection

@@ -52,8 +52,8 @@ collections:
         name: "image"
         widget: "image"
         required: false
-      - label: "Image Caption"
-        name: "image_caption"
+      - label: "Image Title"
+        name: "image_title"
         widget: "string"
         required: false
       - label: "Image Alt"
