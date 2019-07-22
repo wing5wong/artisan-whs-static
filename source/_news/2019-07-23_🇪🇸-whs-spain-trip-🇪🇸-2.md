@@ -14,7 +14,7 @@ Day #2 Madrid ☀️😊😍😉☀️
 
 We are a bit tired from the looong trip, but everyone is doing amazing 😘🎉 We enjoyed the city, the Royal Palace, the great art in the big museums here, and we visited one of the ⚽️ icons in town.
 
-Queralt Scott
+Queralt Scott  
 
 Spanish teacher
 
