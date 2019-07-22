@@ -30,6 +30,9 @@ Ngā mihi nui
 
 
 
-Martin McAllen – Principal  \
-MEd Leadership with First Class Honours  \
+Martin McAllen – Principal  
+MEd Leadership with First Class Honours  
 PG DipEd Leadership, BA, Dip Tchg
+  
+Whanganui Secondary School News 
+River City Press 11/7/19
