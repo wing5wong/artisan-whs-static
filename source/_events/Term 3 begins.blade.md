@@ -1,7 +1,10 @@
 ---
-title: Term 3 begins
-date: 2019-07-22T00:00:00.000Z
-description: .
-short: .
+title: "Term 3 begins"
+date: 2019-07-22
+description: ""
+image: 
+excerpt: ""
 ---
-Term 3 begins - Monday 22 July
+
+<h4><br />Term 3 begins - Monday 22 July</h4>
+
