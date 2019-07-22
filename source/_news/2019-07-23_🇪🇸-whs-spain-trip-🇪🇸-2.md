@@ -1,8 +1,16 @@
 ---
-title: WHS SPAIN TRIP
+title: WHS SPAIN TRIP - Day 1 & 2
 date: 2019-07-11T22:15:03.752Z
-description: "WHS SPAIN TRIP\nAfter a slight email glitch here is Day 1 and 2 of our Spain adventures:\nDay #1 Whanganui-Madrid \U0001F389✈️\U0001F609☀️\U0001F60D\U0001F389\U0001F389\nDay #2 Madrid ☀️\U0001F60A\U0001F60D\U0001F609☀️\n"
-short: "WHS SPAIN TRIP\nAfter a slight email glitch here is Day 1 and 2 of our Spain adventures:\nDay #1 Whanganui-Madrid \U0001F389✈️\U0001F609☀️\U0001F60D\U0001F389\U0001F389\nDay #2 Madrid ☀️\U0001F60A\U0001F60D\U0001F609☀️\n"
+description: |
+  WHS SPAIN TRIP
+  After a slight email glitch here is Day 1 and 2 of our Spain adventures:
+  Day #1 Whanganui-Madrid 
+  Day #2 Madrid 
+short: |
+  WHS SPAIN TRIP
+  After a slight email glitch here is Day 1 and 2 of our Spain adventures:
+  Day #1 Whanganui-Madrid 
+  Day #2 Madrid
 ---
 WHS SPAIN TRIP
 
