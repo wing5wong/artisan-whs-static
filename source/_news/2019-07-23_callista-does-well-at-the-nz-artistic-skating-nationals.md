@@ -16,7 +16,7 @@ Artistic Skater, Callista Booth-Richards has had great results at the recent New
 
 Callista was placed first in Advanced Figures and therefore is the current National Champion for this grade.
 
-She also came second in Youth International Dance of which she had to compete in both Solo Dance and Freedance Combined. 
+She also came second in Youth International Dance where she had to compete in both Solo Dance and Freedance Combined. 
 
 Overall this gives Callista the highest placings in Whanganui.
 
