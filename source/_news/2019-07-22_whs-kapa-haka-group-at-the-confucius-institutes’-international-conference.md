@@ -20,8 +20,8 @@ The opening ceremony on the morning of Thursday, 4 July was an absolutely fantas
 
 Ngā mihi nui
 
-Martin McAllen – Principal\
-MEd Leadership with First Class Honours\
+Martin McAllen – Principal  
+MEd Leadership with First Class Honours  
 PG DipEd Leadership, BA, Dip Tchg
 
 _Whanganui Secondary School News  
