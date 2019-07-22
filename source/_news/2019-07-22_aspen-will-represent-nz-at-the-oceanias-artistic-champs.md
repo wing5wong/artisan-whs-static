@@ -1,5 +1,5 @@
 ---
-title: Aspen will represent NZ at the Oceania's Artistic Champs
+title: Aspen will represent NZ at the Oceania's Artistic Champs in Melbourne
 date: 2019-07-20T03:23:19.846Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563766044/News/Aspen_Fell_best_pic.selected_to_represent_NZ_Oceanias_Artistic_Champs_2019_Melbourne_October..jpg
