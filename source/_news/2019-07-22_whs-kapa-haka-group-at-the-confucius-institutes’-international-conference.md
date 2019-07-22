@@ -1,5 +1,7 @@
 ---
-title: WHS Kapa Haka group at the Confucius Institutes’ International Conference
+title: >-
+  WHS Kapa Haka group performing at the Confucius Institutes’ International
+  Conference
 date: 2019-07-03T04:20:10.760Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563769259/News/Best_RCP_11.7.19.Kapa_Haka_2.jpg
@@ -20,8 +22,8 @@ The opening ceremony on the morning of Thursday, 4 July was an absolutely fantas
 
 Ngā mihi nui
 
-Martin McAllen – Principal  
-MEd Leadership with First Class Honours  
+Martin McAllen – Principal\
+MEd Leadership with First Class Honours\
 PG DipEd Leadership, BA, Dip Tchg
 
 _Whanganui Secondary School News  
