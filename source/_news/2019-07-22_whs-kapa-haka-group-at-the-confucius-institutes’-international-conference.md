@@ -24,5 +24,5 @@ Martin McAllen – Principal\
 MEd Leadership with First Class Honours\
 PG DipEd Leadership, BA, Dip Tchg
 
-_Whanganui Secondary School News 
+_Whanganui Secondary School News  
 River City Press 11/7/19_
