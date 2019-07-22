@@ -19,3 +19,5 @@ Callista was placed first in Advanced Figures and therefore is the current Natio
 She also came second in Youth International Dance of which she had to compete in both Solo Dance and Freedance Combined. 
 
 Overall this gives Callista the highest placings in Whanganui.
+
+Well done Callista, great results!
