@@ -1,5 +1,5 @@
 ---
-title: WHS SPAIN TRIP - Last day in Barcelona
+title: WHS SPAIN TRIP - Last day in Barcelona!
 date: 2019-07-20T22:38:54.578Z
 description: |-
   WHS SPAIN TRIP.  
