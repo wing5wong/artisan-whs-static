@@ -1,6 +1,7 @@
 ---
 title: Mr B. Parry
-position: 
+position: Dean of Awa House
 departments:
+  - Deans
   - Physical Education and Health
 ---

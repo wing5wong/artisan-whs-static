@@ -1,6 +1,7 @@
 ---
 title: Miss L. Martin
-position: HOF Physical Education & Health
+position: Dean of Whenua House, HOF Physical Education & Health
 departments:
+  - Deans
   - Physical Education and Health
 ---

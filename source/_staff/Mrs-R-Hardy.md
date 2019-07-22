@@ -1,6 +1,7 @@
 ---
 title: Mrs R. Hardy
-position: 
+position: PB4L Co-ordinator
 departments:
   - Mathematics
+  - Deans
 ---

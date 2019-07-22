@@ -1,6 +1,7 @@
 ---
 title: Ms R. Kennedy
-position: 
+position: Dean of Awa House 
 departments:
   - Mathematics
+  - Deans
 ---

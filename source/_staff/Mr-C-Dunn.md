@@ -1,6 +1,6 @@
 ---
 title: Mr C. Dunn
-position: 
+position: HOF Digital Technology, Timetabling
 departments:
   - Digital Technology
   - Study / External Studies

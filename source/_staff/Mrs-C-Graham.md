@@ -1,6 +1,7 @@
 ---
 title: Mrs C. Graham
-position: 
+position: Dean of Moana House
 departments:
   - Physical Education and Health
+  - Deans
 ---
