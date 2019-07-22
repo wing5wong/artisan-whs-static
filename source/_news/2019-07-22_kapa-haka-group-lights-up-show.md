@@ -10,6 +10,5 @@ short: >-
   WHS Kapa Haka group lights up show at Confucius Institute Regional Conference
   in Wellington.
 ---
-_By Lucy Drake  
-
-Whanganui Chronicle 10/7/19_
+_By Lucy Drake_\
+_Whanganui Chronicle 10/7/19_
