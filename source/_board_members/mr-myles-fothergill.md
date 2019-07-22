@@ -2,6 +2,8 @@
 title: Mr Myles Fothergill
 position: Member
 category: Board Member
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563763973/BoT/Myles_Fothergill_-_Photo.png
 ---
 I am a local family man and business owner of Q-West Boat Builders based in Whanganui.  Having also been involved in various governance roles over the past 12 years across various business sectors, I am particularly passionate about education and supporting youth into meaningful employment through trade training.  
 
