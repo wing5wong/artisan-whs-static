@@ -1,6 +1,6 @@
 ---
 title: Mrs A. Ferretti
-position: French/Spanish
+position: Director of International Students, French/Spanish
 departments:
   -  Languages
   -  International

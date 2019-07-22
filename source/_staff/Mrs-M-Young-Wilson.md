@@ -1,6 +1,7 @@
 ---
 title: Mrs M. Young-Wilson
-position: 
+position: Chinese
 departments:
   - Social Sciences
+  - Languages
 ---

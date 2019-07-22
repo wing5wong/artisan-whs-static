@@ -1,6 +1,6 @@
 ---
 title: Mrs A. Van De Vyver
-position: Teacher Aide - International Dept
+position:
 departments:
-  - Support and Ancilliary
+  - International
 ---
