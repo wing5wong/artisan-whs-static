@@ -1,6 +1,6 @@
 ---
 title: Mrs K. McKenzie
-position: Learning Support Centre
+position: 
 departments:
-  - Support and Ancilliary
+  - Learning Support Centre
 ---
