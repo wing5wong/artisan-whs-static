@@ -2,6 +2,8 @@
 title: Mr Robert Sewell
 position: Member
 category: Board Member
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563763973/BoT/Rob_Sewell_-_Photo.jpg
 ---
 I am Whanganui born and bred and have been living here on and off for most of my life.  In 2014 we made a conscious decision to relocate back to Whanganui partly for lifestyle, but primarily because of the availability and access to high quality secondary school education.
 
