@@ -2,6 +2,8 @@
 title: Mr Keki Colaabavala
 position: Member
 category: Board Member
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563763971/BoT/Keki_-_Photo.jpg
 ---
 My name is Keki F D Colaabavala, people know me as Keki.  I have a son in Whanganui High School, Year 10, while my other son is in Whanganui Intermediate School, Year 7.  My daughter was a full time student at WHS, having been the Academic Prefect for 2018.  She achieved a scholarship from Otago University as well as a full scholarship from Auckland University.
 
