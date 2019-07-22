@@ -1,6 +1,6 @@
 ---
 title: Rebekah represented NZ in the Junior Polocrosse team who played in Australia
-date: 2019-07-22T04:39:01.924Z
+date: 2019-07-14T04:39:01.924Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563770635/News/Rebekah_Phillips_rep_NZ_in_the_NZ_U16_Jnr_polocrosse_team_who_played_the_Australian_Junior_team_in_Narrabri_NSW_last_weekendpolocross1.jpg
 description: >-
