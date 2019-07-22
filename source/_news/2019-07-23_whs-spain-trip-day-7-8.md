@@ -10,10 +10,11 @@ short: |-
 ---
 WHS SPAIN TRIP
 
-Day#7&8: 
+Day#7&8:
+
 The amazing Alhambra in Granada 😍😉 😊😊 
 Night in Murcia, and a super quick stop in Valencia and the long way to Barcelona. We see the Mediterranean Sea for the first time 😊 
 The students are going great! and they are loooving this very different culture 😉 ¡siiii!! 🎉🎉
 
-_Queralt Scott_\
+_Queralt Scott_  
 _Spanish teacher_
