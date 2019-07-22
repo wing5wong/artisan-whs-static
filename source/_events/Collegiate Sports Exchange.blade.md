@@ -11,3 +11,5 @@ description: ''
 <p><span>If you are keen to do this you will need to sign up in the Seddon Gym Foyer by Tuesday 23 July. </span></p>
 <p><span>You WILL NOT be able to go over if you have not signed up. </span></p>
 <p><span>See Mrs Murphy in Seddon Gym Office if you have any queries.</span></p>
+
+Please meet at the back of the gyms at 2nd break on Wednesday to walk over together as a school.
