@@ -1,5 +1,5 @@
 ---
-title: WHS SPAIN TRIP - Day 3
+title: WHS SPAIN TRIP - Day 3 & 4
 date: 2019-07-22T22:23:09.092Z
 description: |
   WHS SPAIN TRIP
