@@ -72,7 +72,7 @@ return in_array($dept,$s->departments);
 ->map(function($person){
     $string = $person->title;
     if($person->position){
-        $string .= " (" . $person->position . ")";
+        $string .= " - " . $person->position;
     }
 return $string;
 })->toArray();
