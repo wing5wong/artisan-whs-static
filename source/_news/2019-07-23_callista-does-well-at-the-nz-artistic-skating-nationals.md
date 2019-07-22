@@ -12,10 +12,10 @@ short: >
   New Zealand Artistic Skating Nationals
    in New Plymouth.
 ---
-Artistic Skater, Callista Booth-Richards has had great results at the recent New Zealand Artistic Skating Nationals in New Plymouth. 
+Artistic Skater, Callista Booth-Richards has had great results at the recent New Zealand Artistic Skating Nationals in New Plymouth. 
 
-Callista was placed first, and therefore is the current National Champion for Advanced Figures.
+Callista was placed first in Advanced Figures and therefore is the current National Champion for this grade.
 
-She also came second in Youth International Dance: Solo Dance and Freedance Combined. 
+She also came second in Youth International Dance of which she had to compete in both Solo Dance and Freedance Combined. 
 
 Overall this gives Callista the highest placings in Whanganui.
