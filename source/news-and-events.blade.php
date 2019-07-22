@@ -34,7 +34,7 @@
 
         <ul>
             @foreach($events->filter(function($e){
-            return $e->date and (strtotime($e->date) > strtotime(date()));
+            return true //; $e->date and (strtotime($e->date) > strtotime(date()));
             })->take(5) as $event)
             <li>
                 {{ date('F j, Y', $event->date) }} - <a href="{{$event->getPath()}}">{{ $event->title }}</a>
