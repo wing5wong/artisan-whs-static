@@ -1,11 +1,9 @@
 ---
-title: "Hawera High School Exchange"
-date: 2019-08-13
-description: ""
-image: 
-excerpt: ""
+title: Hawera High School Exchange
+date: 2019-08-13T00:00:00.000Z
+description: ''
 ---
 
 <h4><br />Hawera High School Exchange</h4>
-<p>To be played away.&nbsp;</p>
+(to be played away)
 
