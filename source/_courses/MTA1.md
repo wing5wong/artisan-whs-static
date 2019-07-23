@@ -1,11 +1,11 @@
 ---
 title: MTA1
-name: Trigonometry and Algebra NCEA 1
+name: Trigonometry and Algebra
 code: MTA1
 subject_area: Trigonometry & Algebra
-date: 2019-07-01T02:05:54.384Z
+date: 2019-07-23T02:05:54.384Z
 year: '11'
-type: Level 1 Core
+type: Core
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
