@@ -1,14 +1,13 @@
 ---
 title: PEHE
-name: Physical Education Year 9
+name: Physical Education
 code: PEHE
 subject_area: P.E/Health
 date: 2019-07-01T02:19:04.019Z
 year: '9'
-type: "Compulsory\t - Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
 credits: .
 entry_requirements: ''
