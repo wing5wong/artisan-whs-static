@@ -5,6 +5,6 @@ description: ''
 ---
 **Interim Report**
 
-Interim Reports will be e-mailed to parents with email addresses and posted to parents without email addresses. 
+A report will be e-mailed to parents with email addresses and posted to parents without email addresses. 
 
 It will contain information related to the Student Achievement Conferences.
