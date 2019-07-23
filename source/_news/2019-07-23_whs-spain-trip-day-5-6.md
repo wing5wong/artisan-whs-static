@@ -8,6 +8,10 @@ description: |
 short: |
   WHS SPAIN TRIP. 
   Day#5&6
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1563849265/News/18.jpg
+    description: Spain Trip - Day 5 & 6.
 ---
 WHS SPAIN TRIP
 

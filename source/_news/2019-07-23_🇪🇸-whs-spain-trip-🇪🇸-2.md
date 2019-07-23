@@ -13,6 +13,10 @@ short: |
   After a slight email glitch here is Day 1 and 2 of our Spain adventures:
   Day #1 Whanganui-Madrid 
   Day #2 Madrid
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1563849392/News/6.jpg
+    description: Spain Trip - Day 1 & 2.
 ---
 WHS SPAIN TRIP
 
