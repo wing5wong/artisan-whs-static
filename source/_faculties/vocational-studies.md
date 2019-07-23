@@ -6,6 +6,11 @@ tags:
   - About WHS
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1562015249/faculties/Vocational_Studies_-_Combined.jpg
+hofs:
+  - Mrs D. Howard
+ahofs:
+  - Miss J. Gregory
+  - Mr P. Keene
 ---
 _**Overview**_
 
