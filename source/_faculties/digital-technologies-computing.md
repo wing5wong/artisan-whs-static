@@ -9,7 +9,8 @@ image: >-
 intro: >-
   In Digital Technologies, students develop knowledge and skills using a wide
   range of exciting internet and computing technologies.
-hofs: Mr C. Dunn
+hofs:
+  - Mr C. Dunn
 ---
 Welcome to the Digital Technologies Department. Our facilities include 5 fully functioning computer labs, high speed fibre internet and over 120 networked computers. We also have other various networked pods around the school for student use.
 
