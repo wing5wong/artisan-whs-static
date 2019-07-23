@@ -1,11 +1,8 @@
 ---
-title: "Student Achievement Conferences"
-date: 2019-08-07
-description: ""
-image: 
-excerpt: ""
+title: Student Achievement Conferences
+date: 2019-08-07T00:00:00.000Z
+description: ''
 ---
 
 <h4><br />Whanganui High School<br />Student Achievement Conferences</h4>
-<p>More information to follow the beginning of Term 3.</p>
-
+(School Gymnasiums)
