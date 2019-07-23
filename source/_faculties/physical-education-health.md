@@ -9,6 +9,11 @@ image: >-
 intro: >-
   In Health and Physical Education, students learn about their own well-being,
   and that of others and society, in health-related and movement contexts.
+hofs:
+  - Miss L. Martin
+ahofs:
+  - Mr J. Barnett
+  - Mrs M. Bennetts
 ---
 **Staff - Who are we?**
 
