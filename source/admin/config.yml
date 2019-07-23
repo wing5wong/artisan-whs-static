@@ -317,6 +317,8 @@ collections:
         required: false
       - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Heads of Faculty", name: hofs, required: false, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayField: [title"]}
+      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayField: [title"]}
 
   - name: "subject_areas"
     label: "Subject Areas"
