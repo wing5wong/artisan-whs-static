@@ -3,6 +3,9 @@ title: 'Hockey: Whanganui players in Central''s unbeaten run'
 date: 2019-07-10T03:10:00.699Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563418425/News/Connor_Patrick_Chron_10.7.19.jpg
+image_title: >-
+  Connor Hoskin gets the handshake from Central captain Daniel Foss, while
+  fellow Whanganui player Patrick Madder looks on.
 description: >-
   Whanganui has provided the experience in both the unbeaten boys' and girls'
   Central U18 squads as the national tournament.
