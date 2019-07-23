@@ -14,7 +14,7 @@ leads_to:
   - MPS3
   - MTA3
   - MGC3
-credits: '17'
+credits: '15'
 entry_requirements: 20 credits from MAE1 and HOF/TIC approval
 course_fees: >-
   Cambridge Examination Fee. Students need a Graphics calculator for this
