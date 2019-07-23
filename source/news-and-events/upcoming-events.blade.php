@@ -18,6 +18,7 @@ pagination:
 
 
 <div class="row mb-5">
+    <div class="col">
     <table class="table table-striped table-borderless table-hover">
         @foreach($pagination->items as $event)
         <tr>
@@ -27,7 +28,7 @@ pagination:
         </tr>
         @endforeach
     </table>
-    
+</div>
 </div>
 
 
