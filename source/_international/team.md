@@ -1,8 +1,7 @@
 ---
 title: International Team
-image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1554243763/Oliver_Keelty_won_Male_Instructor_award.jpg
-extends: _layouts.international.team
+date: 2019-07-23T03:56:43.214Z
+image: ''
 ---
 
 The international team is made up of these people
