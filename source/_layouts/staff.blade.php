@@ -5,7 +5,10 @@
 
 {{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}} @if ($page->image)
 <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
-<img src="{{ $page->image }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
+<a href="{{ $page->image }}" @if($page->image_title)title="{{$page->image_title}}"@endif @if($page->image_alt)alt="{{$page->image_alt}}"@endif class="featured">
+        <img src="{{ $page->image }}"  style="object-fit: cover; max-width:100%; display: block;">
+    </a>
+@endif @yield('postContent')
 
 <h2 class="d-inline-block decorated">Senior Leadership Team</h2>
 <div class="row">

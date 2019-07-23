@@ -4,8 +4,10 @@
 <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
 @if ($page->image)
-<!--<img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">-->
-<img src="{{ $page->image }}" style="object-fit: cover;width: 100%;">
+<!--<img src="{{ $page->image }}" class="featured-image" style="object-fit: cover; height: 250px; width: 100%;">-->
+<a href="{{ $page->image }}" @if($page->image_title)title="{{$page->image_title}}"@endif @if($page->image_alt)alt="{{$page->image_alt}}"@endif class="featured">
+        <img src="{{ $page->image }}"  style="object-fit: cover; max-width:100%; display: block;">
+    </a>
  @endif
 
 @yield('postContent')
