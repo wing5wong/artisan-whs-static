@@ -1,9 +1,9 @@
 ---
 title: MCA3
-name: Calculus & Algebra Extension NCEA 3
+name: Calculus & Algebra Extension
 code: MCA3
 subject_area: Calculus & Algebra Extension
-date: 2019-07-01T01:54:19.386Z
+date: 2019-07-23T01:54:19.386Z
 year: '13'
 type: Level 3 - Selected Students
 course_duration: Full Year
