@@ -24,24 +24,7 @@ perPage: 25
         </tr>
         @endforeach
     </table>
-    {{--
-        @foreach($pagination->items as $event)
-    <div class="col-sm-12 col-md-6 col-lg-4">
-        <div class="card bg-light mb-3 mb-3" style="max-width: 18rem;">
-            <img class="card-img-top"
-                src="{{ $event->image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}"
-                style="object-fit: contain; max-height: 200px">
-            <div class="card-header">{{ date('F j, Y', $event->date) }}</div>
-            <div class="card-body">
-                <h5 class="card-title">{{$event->title}}</h5>
-                <p class="card-text">
-                    <a href="{{$event->getPath()}}">Event Details</a>
-                </p>
-            </div>
-        </div>
-    </div>
-    @endforeach
-    --}}
+    
 </div>
 
 
