@@ -12,7 +12,7 @@
 
     <div class="row">
 @foreach($prefects->groupBy('category') as $these=>$people)
-<div class="col-4">
+<div class="col-4 mb-5">
 <h3>{!! $these !!}</h3>
 {!! $people->last()->title !!}
 <img src="{{$people->last()->image}}" />
