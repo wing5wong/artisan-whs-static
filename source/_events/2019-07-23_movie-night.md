@@ -9,3 +9,5 @@ Next week is our annual movie night where "Shrek" will play in the hall on Thurs
 Tickets are $5.00 at the door, with a gold coin for popcorn or hot chocolate. 
 
 Bring your friends and a blanket for an awesome evening.
+
+All proceeds are going towards a new sound system for the school.
