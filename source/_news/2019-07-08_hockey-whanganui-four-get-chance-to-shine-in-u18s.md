@@ -3,6 +3,10 @@ title: 'Hockey: Whanganui four get chance to shine in U18s'
 date: 2019-07-06T02:50:06.851Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1562554948/News/U18_Central_tourn.Baker.Hoskin.Madder_Chron_6.7.19.jpg
+image_title: >-
+  The four Whanganui players selected for the Central U18 squads for tournament
+  week are (from left) Patrick Madder, Connor Hoskin, Rebecca Baker (WHS
+  students) and Sophie Redmayne.  Photo / Jared Smith.
 description: >-
   The four Whanganui players selected for the Central Under 18 squads for
   tournament week. From left, Patrick Madder, Connor Hoskin, Rebecca Baker, and

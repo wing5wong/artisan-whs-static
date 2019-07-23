@@ -5,6 +5,10 @@ title: >-
 date: 2019-07-11T03:09:22.158Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563506064/News/HLH3FSXRHRFKLPO7KRO724FJWI.jpg
+image_title: >-
+  Whanganui players Rebecca Baker, left, and Sophie Redmayne don the green strip
+  and help Central make the semifinals of the Vantage U18 National Tournament in
+  Wellington.  Photo / Supplied.
 description: >-
   Whanganui players Rebecca Baker, left, and Sophie Redmayne don the green strip
   and help Central make the semifinals of the Vantage U18 National Tournament in

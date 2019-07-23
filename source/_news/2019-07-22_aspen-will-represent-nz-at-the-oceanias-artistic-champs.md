@@ -3,6 +3,9 @@ title: Aspen will represent NZ at the Oceania's Artistic Champs in Melbourne
 date: 2019-07-20T03:23:19.846Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563766044/News/Aspen_Fell_best_pic.selected_to_represent_NZ_Oceanias_Artistic_Champs_2019_Melbourne_October..jpg
+image_title: >-
+  Aspen performing at the Artistic Roller Skating Championships in New
+  Plymouth.  Photo courtesy of Skate Nation.
 description: >
   Aspen Fell has been selected by international judges, at the Artistic Roller
   Skating Championships, to represent NZ at the Oceanias Artistic Championships

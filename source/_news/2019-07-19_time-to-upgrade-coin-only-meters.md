@@ -3,6 +3,7 @@ title: Time to upgrade coin-only meters?
 date: 2019-07-13T05:05:21.088Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563512740/News/LCNTGVIZTZCQ3OPJVQBYFENUNM.jpg
+image_title: 'WHS teacher, Bridget Rison. Photo / Abe Leach'
 description: Bridget Rison said having machines that only take coins is a bit outdated.
 short: Bridget Rison said having machines that only take coins is a bit outdated.
 ---

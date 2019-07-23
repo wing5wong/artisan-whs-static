@@ -1,6 +1,7 @@
 ---
 title: WHS SPAIN TRIP - Day 3 & 4
-date: 2019-07-22T22:23:09.092Z
+date: 2019-07-11T22:23:09.092Z
+image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1563846975/News/13.jpg'
 description: |
   WHS SPAIN TRIP
   Day#3 Toledo:
