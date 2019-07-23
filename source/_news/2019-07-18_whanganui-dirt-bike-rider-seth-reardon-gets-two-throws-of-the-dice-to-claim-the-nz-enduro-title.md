@@ -5,6 +5,10 @@ title: >-
 date: 2019-07-17T03:39:16.795Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563421240/News/QUXTSU4HOBHKVAGTRE4U5H4A5M.jpg
+image_title: >-
+  National enduro series leader, Whanganui's Seth Reardon, gets two throws of
+  the dice in the final two rounds near Hokitika this weekend. Photo / JW
+  Photography.
 description: >-
   Whanganui dirt bike rider Seth Reardon gets two throws of the dice to claim
   the NZ enduro title
