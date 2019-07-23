@@ -1,20 +1,20 @@
 ---
-title: "WHS annual Junior Speech Competitions"
-date: 2019-07-03
-description: "On Wednesday 3 July, Whanganui High School held our annual Junior Speech Competitions..."
-image: 
-excerpt: "On Wednesday 3 July, Whanganui High School held our annual Junior Speech Competitions."
-image_gallery:
-    
-    
-    
-    
-    
+title: WHS annual Junior Speech Competitions
+date: 2019-07-03T00:00:00.000Z
+description: >-
+  On Wednesday 3 July, Whanganui High School held our annual Junior Speech
+  Competitions...
+short: >-
+  On Wednesday 3 July, Whanganui High School held our annual Junior Speech
+  Competitions...
 ---
-
 <h4>&nbsp;</h4>
 <h4>Year 10 winners:</h4>
-<p><br /><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/65643179_2290578077658024_3031976577144455168_n.jpg?_nc_cat=102&amp;_nc_eui2=AeFZ8gHzHoUesixI-ky5uWyGpKIPAwxmse0sBvxWbIoiy-o5IfmOSUbWmoddvkfVfXaDdmEWXBVon1hwuUgkzKB_ap3vl41fldlgOvXZWR9u5A&amp;_nc_oc=AQmULhSdwFB6YaHNQ_oW_6ta2eJZu80MoP5odh3wYpZacaKfwH4SFKXDrjJqUtGqcWY&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=b1799f78c9667168a332831c41bda6d0&amp;oe=5DBA89DF" alt="Image may contain: 3 people, people smiling, people standing and indoor" /></p>
+
+
+![]()
+
+
 <p><strong>1st Lauren Phillips (middle)</strong><br /><strong>2nd Olivia Bedwell (right)</strong><br /><strong>3rd Nat Kirk (left)</strong></p>
 <p>Year 10 Highly Commended:&nbsp;<br />Hinekura Pauro, Aliesha Waghorn, Miro Murray-Camden.<br /><br /></p>
 <h4>Year 9 winners:</h4>
@@ -29,4 +29,3 @@ image_gallery:
 <p>Year 10 delivered speech topics on Taonga (My Treasure), as wide as &ldquo;Māori Culture&rdquo; to &ldquo;Wild Life&rdquo;.</p>
 <p>We applaud all participants and congratulate all prize winners.&nbsp;</p>
 <p><em>TIC Year 9 &ndash; Mr J Berkhout</em><br /><em> TIC Year 10 &ndash; Mrs M Stevenson</em></p>
-
