@@ -14,6 +14,7 @@ hofs:
   - Mr M. Crook
 ahofs:
   - Mr I. Thomas
+  - Ms S. Frost
   - Mr C. Turner
 ---
 Whanganui High School offers a broad spectrum of scientific courses, ranging from highly academic to highly practical. In years 9-11 students study general science to introduce them to the major science disciplines. Students are then able to specialise in years 12 and 13 and may take any of: Biology, Chemistry, Physics, Agriculture & Horticulture and Electronics. This will pave the way to a demanding university course or a fulfilling vocational route.
