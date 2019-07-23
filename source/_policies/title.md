@@ -26,7 +26,7 @@ policyAreas:
     policyArea: 1. Curriculum Delivery
   - policies:
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683533/School%20Policies/2.1--Board-of-Trustees-Consultation-with-the-Community_-updated-Feb-201....pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1563854048/School%20Policies/2.1_-Board_of_Trustees_Consultation_with_the_Community_updated_March_....pdf
         policy: 2.1 Consultation with the Community
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1560893173/School%20Policies/2.2_-School_s_Self-Review_Policy_updated_March_2019.pdf
