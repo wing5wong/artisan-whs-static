@@ -8,6 +8,10 @@ description: |
 short: |
   WHS SPAIN TRIP
   Day#3 Toledo:
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1563849392/News/6.jpg
+    description: Spain Trip - Day 3 & 4.
 ---
 WHS SPAIN TRIP
 
