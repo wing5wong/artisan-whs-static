@@ -1,10 +1,8 @@
 ---
-title: "Sports Photos"
-date: 2019-08-07
-description: ""
-image: 
-excerpt: ""
+title: Team Photos
+date: 2019-08-07T00:00:00.000Z
+description: ''
 ---
 
-<h4><br />Sports Photos</h4>
+<h4><br />Team Photos</h4>
 
