@@ -1,6 +1,8 @@
 ---
 title: 'WHS SPAIN TRIP - Day 10 & 11 '
 date: 2019-07-19T22:34:32.186Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563848668/News/Day_10_11.jpg
 description: |-
   WHS SPAIN TRIP.  
   Day#10-11. 
