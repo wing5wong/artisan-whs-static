@@ -1,7 +1,7 @@
 ---
 pagination:
-collection: events
-perPage: 25
+    collection: events
+    perPage: 25
 ---
 @extends('_layouts.standard')
 @section('title', "Upcoming Events")
