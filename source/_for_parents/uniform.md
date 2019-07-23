@@ -1,6 +1,6 @@
 ---
 title: Uniform
-date: 2019-04-02T01:25:07.071Z
+date: 2019-07-24T02:25:07.071Z
 ---
 ## GENERAL INFORMATION
 
@@ -26,6 +26,6 @@ Saturday 9am - 1pm
 
 For more information regarding the Whanganui High School uniform click the links below:
 
-[2019 Uniform Regulations](http://c1940652.r52.cf0.rackcdn.com/5c46363dff2a7c18530006d6/About-Our-Uniform-Booklet---September-2018.pdf)
+[2019 Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1563919552/Uniform/About_Our_Uniform_Booklet_-_updated_20_May_2019.pdf)
 
-[2019 Andersons WHS Uniform Pricelist](http://c1940652.r52.cf0.rackcdn.com/5c463655ff2a7c18530006d8/Andersons-Price-List---September-2018.pdf)
+[2019 Andersons WHS Uniform Pricelist](https://res.cloudinary.com/whanganuihigh/image/upload/v1563919552/Uniform/Andersons_Price_List_-_updated_20_May_2019.pdf)
