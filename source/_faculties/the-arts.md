@@ -10,6 +10,13 @@ intro: >-
   In the Arts students explore, refine, and communicate ideas as they connect
   thinking, imagination, senses, and feelings to create works and respond to the
   works of others.
+hofs:
+  - Mrs N. Campbell
+ahofs:
+  - Mr G. Hall
+  - Mrs J. Jones
+  - Ms C. Sleyer
+  - Ms R. Armstrong
 ---
 ## Performing Arts
 
