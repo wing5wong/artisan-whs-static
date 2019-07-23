@@ -9,6 +9,8 @@ image: >-
 intro: >-
   In English, students study, use and enjoy language and literature communicated
   orally, visually or in writing.
+hofs:
+  - Mrs V. Kasner
 ---
 **Staff: who are we?**
 
