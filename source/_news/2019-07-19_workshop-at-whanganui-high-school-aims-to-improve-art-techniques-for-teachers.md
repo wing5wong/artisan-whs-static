@@ -3,6 +3,9 @@ title: Workshop at Whanganui High School aims to improve art techniques for teac
 date: 2019-07-15T04:46:13.900Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563511698/News/2MVHBHRZYRAHHHEXCATGYJNKSY.jpg
+image_title: >-
+  Graham Hall went to a workshop at the Wanganui Regional Community Polytechnic
+  in the 80s and became hooked on printmaking. Photo / Lewis Gardner.
 description: >
   The faint smell of paint is in the air as a group of teachers stand gathered
   around a table inside the arts block at Whanganui High School.
