@@ -9,6 +9,8 @@ intro: >-
   In studying Languages, students learn to communicate in another language,
   develop their capacity to learn further languages, and explore different world
   views in relation to their own.
+hofs:
+  - Mrs L. Smith
 ---
 Whanganui High School offers courses in three international languages – Spanish, Chinese and French. In addition to developing knowledge and skills in understanding and speaking these languages, students develop an appreciation of different cultures. This knowledge prepares them well for living in a multicultural society, for working in international contexts and for developing their brainpower and ability to understand and get on with people from other cultures.
 
