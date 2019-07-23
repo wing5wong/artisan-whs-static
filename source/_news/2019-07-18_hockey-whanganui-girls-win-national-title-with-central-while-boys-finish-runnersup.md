@@ -5,6 +5,10 @@ title: >-
 date: 2019-07-16T04:30:22.949Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1562554948/News/U18_Central_tourn.Baker.Hoskin.Madder_Chron_6.7.19.jpg
+image_title: >-
+  It was another national title for Whanganui's Rebecca Baker and Sophie
+  Redmayne, front, but Patrick Madder and Connor Hoskin had to settle for
+  runnerup, after their tournament finals on Saturday.
 description: >-
   It was another national title for Whanganui's Rebecca Baker and Sophie
   Redmayne, front, but Patrick Madder and Connor Hoskin had to settle for
