@@ -9,6 +9,10 @@ description: |-
 short: |-
   WHS SPAIN TRIP.  
   Day#10-11.
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1563849039/News/20.jpg
+    description: Spain Trip - Day 10 & 11.
 ---
 WHS SPAIN TRIP 
 
