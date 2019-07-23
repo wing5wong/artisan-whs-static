@@ -9,6 +9,11 @@ image: >-
 intro: >-
   In Technology, students learn to be innovative developers of products and
   systems and discerning consumers who will make a difference in the world.
+hofs:
+  - Mr C. Adam
+ahofs:
+  - Mrs L. Hardcastle
+  - Mr C. Turner
 ---
 Whanganui High School has a large Technology Faculty which is able to offer a very wide range of courses to meet the needs of all of our students. All of these courses are challenging and offer learning opportunities from Year 9 to Year 13 including University Entrance qualifications. All of these courses are optional.
 
