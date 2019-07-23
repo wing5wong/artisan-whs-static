@@ -1,12 +1,18 @@
 ---
 title: WHS SPAIN TRIP - Last day in Barcelona!
 date: 2019-07-20T22:38:54.578Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563848739/News/Last_Day.jpg
 description: |-
   WHS SPAIN TRIP.  
   Last day in Barcelona ...
 short: |-
   WHS SPAIN TRIP.  
   Last day in Barcelona ...
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1563848815/News/5.jpg
+    description: Last day in Barcelona!
 ---
 WHS SPAIN TRIP
 
