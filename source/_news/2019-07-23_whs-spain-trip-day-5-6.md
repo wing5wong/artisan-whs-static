@@ -1,6 +1,7 @@
 ---
 title: WHS SPAIN TRIP - Day 5 & 6
 date: 2019-07-14T22:29:58.138Z
+image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1563848509/News/21.jpg'
 description: |
   WHS SPAIN TRIP. 
   Day#5&6
