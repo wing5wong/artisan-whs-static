@@ -13,23 +13,15 @@ pagination:
 <img src="{{ $page->image }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
 
+<table class="table table-striped table-borderless table-hover">
 @foreach($pagination->items as $event)
-<div class="row mb-5">
-    <div class="col-2">
-        <img src="{{ $event->image ?: "https://res.cloudinary.com/whanganuihigh/image/upload/v1554149869/logo_vertical_t.png" }}" style="object-fit: cover;width: 100%;">
-    </div>
-    <div class="col-10">
-        <h2>{{$event->title}}<br>
-            <small>{{ date('F j, Y', $event->date) }} </small>
-        </h2>
-        <div class="row">
-            <div class="col-10">
-                <a href="{{$event->getPath()}}">Read More</a>
-            </div>
-        </div>
-    </div>
-</div>
+<tr>
+    <td>{{$event->title}}</td>
+    <td>{{ date('F j, Y', $event->date) }}</td>
+    <td><a href="{{$event->getPath()}}">Read More</a></td>
+</tr>
 @endforeach
+</table>
 
 
 @if ($previous = $pagination->previous)

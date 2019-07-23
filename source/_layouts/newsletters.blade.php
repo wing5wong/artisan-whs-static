@@ -8,13 +8,18 @@
 <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
 
-<ul>
-@foreach($newsletters as $nl)
-<li>
-    <a href="{{$nl["file"]}}" download>{{$nl->title}} - {{ date('F j, Y', $nl->date) }}</a>
-</li>
+
+<table class="table table-striped table-borderless table-hover">
+@foreach($newsletters->sortByDesc('date') as $nl)
+<tr>
+    <td>
+        <a href="{{$nl["file"]}}" download>{{$nl->title}}</a>
+    </td>
+    <td>{{ date('F j, Y', $nl->date) }}</td>
+    
+</tr>
 @endforeach
-</ul>
+</table>
 
 @include('_partials.lastReviewed')
 
