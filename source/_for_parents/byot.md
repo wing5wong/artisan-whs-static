@@ -1,6 +1,6 @@
 ---
 title: BYOT
-date: 2019-04-02T01:23:57.661Z
+date: 2019-07-24T02:23:57.661Z
 ---
 ## Bring Your Own Technology
 
@@ -20,6 +20,6 @@ For the purposes of BYOT, the ‘T’ stands for any technology that is a privat
 
 To help parents make decisions about what technology is needed the School has set minimum specifications.
 
-[Download the full BYOT Information booklet.](https://res.cloudinary.com/whanganuihigh/image/upload/v1563495105/School%20Documents/BYOT_E-Life_Booklet_2019.pdf)
+[Download the full BYOT Information booklet.](https://res.cloudinary.com/whanganuihigh/image/upload/v1563919817/BYOT/BYOT_E-Life_Booklet_2019.pdf)
 
 _[BYOT Information video for Whanganui High School new students](https://www.youtube.com/watch?v=mrATcj0ViTs)_
