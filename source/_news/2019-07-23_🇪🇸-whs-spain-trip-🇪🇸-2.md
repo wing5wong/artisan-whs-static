@@ -1,6 +1,8 @@
 ---
 title: WHS SPAIN TRIP - Day 1 & 2
 date: 2019-07-11T22:15:03.752Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1563846494/News/Day_1_2.jpg
 description: |
   WHS SPAIN TRIP
   After a slight email glitch here is Day 1 and 2 of our Spain adventures:
