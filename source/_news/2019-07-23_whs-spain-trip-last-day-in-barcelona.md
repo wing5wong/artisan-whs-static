@@ -12,7 +12,7 @@ short: |-
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1563848815/News/5.jpg
-    description: Last day in Barcelona!
+    description: ''
 ---
 WHS SPAIN TRIP
 
