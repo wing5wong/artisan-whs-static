@@ -3,6 +3,9 @@ title: Kapa Haka group lights up show
 date: 2019-07-10T06:11:15.056Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563775913/News/Chronicle_snip_10.7.19.jpg
+image_title: >-
+  WHS’s Kapa Haka group performs in the Hunter Building at Victoria University
+  as part of the Confucius Institute Regional Conference.
 description: >-
   WHS Kapa Haka group lights up show at Confucius Institute Regional Conference
   in Wellington.
