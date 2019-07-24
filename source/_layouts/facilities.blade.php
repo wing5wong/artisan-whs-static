@@ -17,6 +17,16 @@
 </summary>
 
 {!! $facility !!}
+
+@if(is_array($facility->image_gallery))
+    <div class="image-gallery">
+        @foreach($facility->image_gallery as $image)
+        <a href="{{$image["image"]}}" class="featured">
+            <img src="{{ str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,q_80,w_300/",$image["image"])}}" @isset($image["description"])alt="{{$image["description"]}}"@endisset @isset($image["title"])title="{{$image["title"]}}"@endisset>
+        </a>
+        @endforeach
+    </div>
+    @endif
 </details>
 @endforeach
 
