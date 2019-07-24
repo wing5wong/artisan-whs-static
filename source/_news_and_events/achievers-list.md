@@ -2,7 +2,7 @@
 title: Achievers List
 date: 2019-07-25T02:23:57.661Z
 ---
-The school's Achievers' List is a compilation of our student's achievements. These are can be in a variety of areas such as Sporting, Cultural, Academic, Service and Other. The achievement levels covered, can be at the Whanganui (and districts), Regional, North Island, National, Oceania and Worlds (International) levels.
+The school's Achievers' List is a compilation of our student's achievements. These are can be in a variety of areas such as Academic, Cultural, Service, Sporting and other areas. The achievement levels covered, can be at the Whanganui (and districts), Regional, North Island, National, Oceania and Worlds (International) levels.
 
 Nominating a student will allow for acknowledgement at the end of each term at our Achievers' Assembly. Our high achievers are acknowledged in our school's Rivercity Press newspaper article at the end of each month.
 
