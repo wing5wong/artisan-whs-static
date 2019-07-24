@@ -74,7 +74,7 @@ $filteredStaff = $staff->filter(function($s) use ($dept){
 return in_array($dept,$s->departments);
 })
 ->filter(function($s) use ($theDept){
-        return  !(in_array($s->title, $theDept->hofs) or in_array($s->title, $theDept->ahofs))
+        return  !(in_array($s->title, $theDept->hofs) or in_array($s->title, $theDept->ahofs));
 })
 ->sortBy(function($st){
     return array_reverse(explode(" ", $st->title));
