@@ -93,13 +93,17 @@ return $string;
     <summary>
     <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
     </summary>
+
     @if($theDept->hofs)
-    <h3 class="d-inline">HOF:</h3> {{implode(',', $theDept->hofs)}}
-<br>
-@endif
-@if($theDept->ahofs)
-    <h3 class="d-inline">Assistant HOFS:</h3>{{implode(',', $theDept->ahofs)}}
-    <br>
+    <div>
+        <h3 class="d-inline">HOF:</h3> {{implode(',', $theDept->hofs)}}
+    </div>
+    @endif
+
+    @if($theDept->ahofs)
+    <div>
+        <h3 class="d-inline">Assistant HOFS:</h3>{{implode(',', $theDept->ahofs)}}
+    </div>
     @endif
 
     <table class="table table-striped table-borderless table-hover">
