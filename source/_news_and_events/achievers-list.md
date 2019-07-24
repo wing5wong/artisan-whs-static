@@ -10,9 +10,9 @@ Nominating a student will allow for acknowledgement at the end of each term in A
 
 **Achievers' Nominations**
 
-Nominate a student by select either:
+Nominate a student by selecting either:
 
-[Achievers Nomination Online Bit-ly Form](https://docs.google.com/forms/d/e/1FAIpQLSd1lJ48LdXLw0TvVh6ZBB1rz7aWpIDh-BNEeuwYriH10fLAJQ/viewform?fbclid=IwAR2fwj21wotwMJGa8HoA0-IofKfc6CmHkA2adTAm-kt3BiTwGGApJu_N860)
+[Achievers Nomination Online Form](https://docs.google.com/forms/d/e/1FAIpQLSd1lJ48LdXLw0TvVh6ZBB1rz7aWpIDh-BNEeuwYriH10fLAJQ/viewform)
 
 [Achievers Nomination PDF (Printable)](https://res.cloudinary.com/whanganuihigh/image/upload/v1563941266/Achievers/Achievers_Nomination_Form.pdf)
 
