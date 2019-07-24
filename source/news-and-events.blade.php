@@ -32,15 +32,16 @@
     <div class="col-6 p-5 bg-white text-green d-flex flex-column justify-content-around align-items-center">
         <h2>Events</h2>
 
-        <ul>
+        <table class="table table-striped table-borderless table-hover">
             @foreach($events->filter(function($e){
             return true; //; $e->date and (strtotime($e->date) > strtotime(date()));
             })->take(5) as $event)
-            <li>
-                {{ date('F j, Y', $event->date) }} - <a href="{{$event->getPath()}}">{{ $event->title }}</a>
-            </li>
+            <tr>
+                <td>{{ date('F j, Y', $event->date) }}</td>
+                <td><a href="{{$event->getPath()}}">{{ $event->title }}</a></td>
+            </tr>
             @endforeach
-        </ul>
+        </table>
     </div>
 </div>
 
