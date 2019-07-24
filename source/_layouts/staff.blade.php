@@ -68,7 +68,7 @@ foreach([
 
     $theDept = $faculties->filter(function($f) use ($dept){
         return $f->title === $dept;
-    })->first()
+    })->first();
 
 $filteredStaff = $staff->filter(function($s) use ($dept){
 return in_array($dept,$s->departments);
