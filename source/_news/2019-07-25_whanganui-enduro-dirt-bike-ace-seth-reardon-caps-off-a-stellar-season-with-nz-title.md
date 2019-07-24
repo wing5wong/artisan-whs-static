@@ -13,11 +13,9 @@ short: >-
   Whanganui's Seth Reardon (Yamaha YZ250FX), the overall New Zealand enduro
   champion for 2019.
 ---
-## Whanganui's Seth Reardon (Yamaha YZ250FX), the overall New Zealand enduro champion for 2019. 
+## Whanganui's Seth Reardon (Yamaha YZ250FX), the overall New Zealand enduro champion for 2019.
 
-Photo / Andy McGechan.
-
-
+_PHOTO / Andy McGechan._
 
 It has been quite a remarkable sporting season for Whanganui dirt bike ace Seth Reardon.
 
