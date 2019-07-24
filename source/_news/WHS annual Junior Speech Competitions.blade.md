@@ -11,9 +11,7 @@ short: >-
 <h4>&nbsp;</h4>
 <h4>Year 10 winners:</h4>
 
-
-![]()
-
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1563921886/News/1.1.Lauren-Phillips2.Olivia-Bedwell3.smallerjpg.jpg)
 
 <p><strong>1st Lauren Phillips (middle)</strong><br /><strong>2nd Olivia Bedwell (right)</strong><br /><strong>3rd Nat Kirk (left)</strong></p>
 <p>Year 10 Highly Commended:&nbsp;<br />Hinekura Pauro, Aliesha Waghorn, Miro Murray-Camden.<br /><br /></p>
