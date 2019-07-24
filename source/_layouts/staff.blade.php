@@ -66,6 +66,10 @@ foreach([
 "Te Atawhai Special Needs"
 ] as $dept){
 
+    $theDept = $faculties->filter(function($f) use ($dept){
+        return $f->title === $dept;
+    })->first()
+
 $filteredStaff = $staff->filter(function($s) use ($dept){
 return in_array($dept,$s->departments);
 })
@@ -86,6 +90,14 @@ return $string;
     <summary>
     <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
     </summary>
+    @foreach($theDept->hofs as $hof)
+        {{ $hof }},
+
+    @endforeach
+    @foreach($theDept->ahofs as $ahof)
+    {{ $ahof }},
+
+@endforeach
     <table class="table table-striped table-borderless table-hover">
     @foreach($filteredStaff as $member)
         <tr>
