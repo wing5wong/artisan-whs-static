@@ -5,5 +5,8 @@ description: ''
 ---
 <h4><br />Massey Open Day - Yr 12/13</h4>
 <p><span>Massey and UCOL Palmerston North are having an Open Day on Wednesday 7 August. </span></p>
-<p><span>If you are interested in attending, please sign up at: Bit.ly/whsmasseyod2019 so Mr. Keene knows the numbers to expect.</span></p>
-<p><span>Alternatively, write you name on the sheet at the Student Centre by Tuesday 23 July as need to know numbers re bus/buses.</span></p>
+
+
+Thank you to those who signed up. Printed & Named permission slips are now in form class registers, as well as copies e-mailed to students and parents. Please have parents use the on-line form to respond, rather than hard copy. The cost is $17, paid by 31st July. 
+
+If you **forgot to sign up** but still wish to go, get a generic permission slip from the student centre and return with payment **by 31 July**. Remember to register at Massey.ac.nz
