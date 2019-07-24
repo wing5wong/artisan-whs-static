@@ -2,7 +2,7 @@
 title: WHS A1 Netball remain unbeaten
 date: 2019-07-23T23:17:01.345Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1564010461/News/A1_netball_on_Monday_night.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1564011764/News/A1_netball_on_Monday_night.jpg
 description: >
   Phillips Electrical WHS A1 sent an ominous message to rivals on two fronts
   with yet another win in the Netball Whanganui Premier competition on Monday
