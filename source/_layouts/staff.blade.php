@@ -93,12 +93,11 @@ return $string;
     <summary>
     <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
     </summary>
-    HOF: {{implode(',', $theDept->hofs)}}
+    <h3 class="d-inline">HOF:</h3> {{implode(',', $theDept->hofs)}}
+<br>
+    <h3 class="d-inline">Assistant HOFS:</h3>{{implode(',', $theDept->ahofs)}}
+    <br>
 
-    <br>
-    Assistant HOFS:{{implode(',', $theDept->ahofs)}}
-    <br>
-    
     <table class="table table-striped table-borderless table-hover">
     @foreach($filteredStaff as $member)
         <tr>
