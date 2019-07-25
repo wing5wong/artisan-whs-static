@@ -16,7 +16,7 @@
                 <!-- Slides -->
                 @foreach($news->take(5) as $article)
                 <div class="swiper-slide p-5 d-flex align-items-center justify-content-center"
-                    style="background: #fff; background-image: url({{$article->image}}); background-size: cover; width: 100%; height: 500px;">
+                    style="background: #fff; background-image: url({{$article->image}}); background-size: cover; width: 100%; height: 350px;">
                     <a href="{{$article->getPath()}}" class="btn btn-light">{{$article->title}}</a>
                 </div>
                 @endforeach
@@ -29,7 +29,7 @@
     </div>
 
 
-    <div class="col-6 p-5 bg-white text-green d-flex flex-column justify-content-around align-items-center">
+    <div class="col-6 p-5 bg-white text-green d-flex flex-column justify-content-start align-items-center">
         <h2>Events</h2>
 
         <table class="table table-striped table-borderless table-hover">
