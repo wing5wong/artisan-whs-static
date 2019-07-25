@@ -1,9 +1,9 @@
 ---
 title: SPX3
-name: Sport & Exercise NCEA 3
+name: Sport & Exercise
 code: SPX3
 subject_area: Sport & Exercise
-date: 2019-07-01T03:01:22.904Z
+date: 2019-07-25T03:01:22.904Z
 year: '13'
 type: Optional
 course_duration: Full Year

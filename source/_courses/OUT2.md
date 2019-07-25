@@ -1,11 +1,11 @@
 ---
 title: OUT2
-name: Outdoor Education NCEA 2
+name: Outdoor Education
 code: OUT2
 subject_area: Outdoor Education
 date: 2019-07-01T02:14:38.158Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

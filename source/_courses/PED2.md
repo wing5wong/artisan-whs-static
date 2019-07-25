@@ -1,15 +1,16 @@
 ---
 title: PED2
-name: Physical Education NCEA 2
+name: Physical Education
 code: PED2
 subject_area: P.E/Sports Science
-date: 2019-07-01T02:17:04.973Z
+date: 2019-07-25T02:17:04.973Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: PED3
+leads_to:
+  - PED3
 credits: '17'
 entry_requirements: 14 Credits in PED1 and 12 credits in ENG1/ENE1 and HOF/TIC approval.
 course_fees: $30 for leisure activities workbook and Rugby trip is extra cost
