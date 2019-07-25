@@ -37,7 +37,7 @@
             return true; //; $e->date and (strtotime($e->date) > strtotime(date()));
             })->take(5) as $event)
             <tr>
-                <td>{{ date('F j, Y', $event->date) }}</td>
+                <td>{{ date('l, j F, Y', $event->date) }}</td>
                 <td><a href="{{$event->getPath()}}">{{ $event->title }}</a></td>
             </tr>
             @endforeach
