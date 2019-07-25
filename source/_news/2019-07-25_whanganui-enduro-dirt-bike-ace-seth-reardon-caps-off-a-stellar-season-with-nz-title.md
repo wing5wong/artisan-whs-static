@@ -2,7 +2,7 @@
 title: >-
   Whanganui enduro dirt bike ace Seth Reardon caps off a stellar season with NZ
   title
-date: 2019-07-24T23:31:27.159Z
+date: 2019-07-23T23:31:27.159Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564011184/News/Seth_won_season.no.3._july_2019.jpg
 image_title: ''
