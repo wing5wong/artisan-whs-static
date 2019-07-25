@@ -2,7 +2,7 @@
 title: CLS1S
 name: Greek Mythology NCEA 1
 code: CLS1S
-subject_area: Semester Courses
+subject_area: Semester Courses (Social Sciences)
 date: 2019-06-28T04:17:15.874Z
 year: '11'
 type: Semester Course
