@@ -42,7 +42,7 @@ foreach([
 
         <?php
 foreach([
-"Art",
+"The Arts",
 "Deans",
 "Digital Technology",
 "English",
