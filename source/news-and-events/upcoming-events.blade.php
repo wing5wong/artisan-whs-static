@@ -25,7 +25,7 @@ pagination:
         @foreach($pagination->items as $event)
         <tr>
             <td>{{$event->title}}</td>
-            <td>{{ date('F j, Y', $event->date) }}</td>
+            <td>{{ date('l, j F, Y', $event->date) }}</td>
             <td><a href="{{$event->getPath()}}">Read More</a></td>
         </tr>
         @endforeach
