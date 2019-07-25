@@ -3,7 +3,7 @@ title: MCA1S
 maori_title: MCA2/MCS2
 name: Cambridge Extended Mathematics (1)
 code: MCA1S
-subject_area: Semester Courses
+subject_area: Semester Courses (Mathematics)
 date: 2019-07-23T02:57:50.751Z
 year: '11'
 type: Semester Course
