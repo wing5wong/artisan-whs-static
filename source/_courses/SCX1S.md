@@ -1,24 +1,19 @@
 ---
-faculty: Sciences
-subject_area: Semester Courses
-code: SCX1S
+title: SCX1S
+maori_title: 'SCG1, SCI2'
 name: Modular Science (1) NCEA 1
+code: SCX1S
+subject_area: Semester Courses (Science)
+date: 2019-07-25T22:15:26.603Z
+year: '11'
+type: Semester Course
+course_duration: Two Terms
 course_level: NCEA 1
 assessment_type: Achievement Standard
-course_duration: Two Terms
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: SCX1S
-type: Semester Course
-description: ""
-maori_title: "SCG1, SCI2"
-body: "To provide a balanced Science program to include aspects of Biology and Physics; investigations, interpreting information, life processes within livestock, practical uses of metal properties."
-year: "11"
-credits: "12"
-entry_requirements: ""
-course_fees: "Nil"
-leads_to: "SCG1, SCI2"
-duration: "(Semester 1 only. Half year course)"
+leads_to: 'SCG1, SCI2'
+credits: '12'
+entry_requirements: ''
+course_fees: Nil
+notes: ''
 ---
+

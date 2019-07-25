@@ -1,24 +1,19 @@
 ---
-faculty: Social Sciences
-subject_area: Semester Courses
-code: SOC1S
+title: SOC1S
+maori_title: 'SOC2, SOC3, TOU2, TOU3'
 name: Social Studies Semester Course NCEA 1
+code: SOC1S
+subject_area: Semester Courses (Social Sciences)
+date: 2019-07-25T22:30:12.871Z
+year: '11'
+type: Semester Course
+course_duration: Two Terms
 course_level: NCEA 1
 assessment_type: Unit Standard
-course_duration: Two Terms
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: SOC1S
-type: Semester Course
-description: ""
-maori_title: "SOC2, SOC3, TOU2, TOU3"
-body: "This semester allows students to discover what motivates and drives people to make decisions. Through a guided inquiry, students will learn and explore topics such as slavery, refugees and the actions."
-year: "11"
-credits: "8"
-entry_requirements: "Nil"
-course_fees: "Nil"
-leads_to: "SOC2, SOC3, TOU2, TOU3"
-duration: "(One semester)"
+leads_to: 'SOC2, SOC3, TOU2, TOU3'
+credits: '8'
+entry_requirements: Nil
+course_fees: Nil
+notes: ''
 ---
+
