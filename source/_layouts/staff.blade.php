@@ -94,13 +94,13 @@ return $string;
     </summary>
 
     @if($theDept->hofs)
-    <div>
+    <div class="my-3">
         <h3 class="d-inline">HOF:</h3> {{implode(',', $theDept->hofs)}}
     </div>
     @endif
 
     @if($theDept->ahofs)
-    <div>
+    <div class="my-3">
         <h3 class="d-inline">Assistant HOFS:</h3>{{implode(',', $theDept->ahofs)}}
     </div>
     @endif

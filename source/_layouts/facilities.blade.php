@@ -13,7 +13,7 @@
 @foreach($facilities as $facility)
 <details>
 <summary>
-    <h2 class="decorated d-table mt-5 mb-2">{{$facility->title}}</h2> 
+    <h2 class="decorated d-table mt-5 mb-3">{{$facility->title}}</h2> 
 </summary>
 
 {!! $facility !!}

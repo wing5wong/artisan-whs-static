@@ -64,6 +64,7 @@ collections:
         name: "image_credit"
         widget: "string"
         required: false
+        hint: "e.g. Andy McGechan"
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Short Intro", name: "short", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
