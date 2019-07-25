@@ -1,24 +1,19 @@
 ---
-faculty: Sciences
-subject_area: Semester Courses
-code: SCY1S
+title: SCY1S
+maori_title: 'SCG1, SCI2'
 name: Modular Science (2) NCEA 1
+code: SCY1S
+subject_area: Semester Courses (Science)
+date: 2019-07-25T22:16:59.395Z
+year: '11'
+type: Semester Course
+course_duration: Two Terms
 course_level: NCEA 1
 assessment_type: Achievement Standard
-course_duration: Two Terms
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: SCY1S
-type: Semester Course
-description: ""
-maori_title: "SCG1, SCI2"
-body: "To provide a balanced Science program to include aspects of Biology, Chemistry and Physics; investigations, interpreting information, microorganisms, life processes, electricity and magnetism."
-year: "11"
-credits: "12"
-entry_requirements: ""
-course_fees: "Nil"
-leads_to: "SCG1, SCI2"
-duration: "(Semester 2 only. Half year course)"
+leads_to: 'SCG1, SCI2'
+credits: '12'
+entry_requirements: ''
+course_fees: Nil
+notes: ''
 ---
+
