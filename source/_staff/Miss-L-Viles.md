@@ -3,5 +3,5 @@ title: Miss L. Viles
 position: 
 departments:
   - English
-  - Art
+  - The Arts
 ---

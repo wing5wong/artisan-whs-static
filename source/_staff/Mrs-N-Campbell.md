@@ -2,5 +2,5 @@
 title: Mrs N. Campbell
 position: HOF Performing & Visual Arts
 departments:
-  - Art
+  - The Arts
 ---

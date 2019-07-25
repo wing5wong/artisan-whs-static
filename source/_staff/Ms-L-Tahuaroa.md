@@ -2,6 +2,6 @@
 title: Ms L. Tahuaroa
 position: 
 departments:
-  - Art
+  - The Arts
   - English
 ---
