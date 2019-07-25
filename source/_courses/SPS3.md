@@ -1,11 +1,11 @@
 ---
 title: SPS3
-name: Sport Smart NCEA 3
+name: Sport Smart
 code: SPS3
 subject_area: Sport Smart
-date: 2019-07-01T02:58:05.758Z
+date: 2019-07-25T02:58:05.758Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
