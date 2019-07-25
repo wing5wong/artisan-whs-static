@@ -1,6 +1,8 @@
 ---
 title: Movie Night
 date: 2019-07-31T20:46:19.907Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1564097037/Events/Shek_Movie_Night_Aug_2019.jpg
 ---
 Attention! Calling all Shrek lovers! 
 
