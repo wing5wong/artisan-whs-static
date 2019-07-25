@@ -1,4 +1,4 @@
 ---
 title: Digital Technologies
-faculty: Digital Technologies (Computing)
+faculty: Digital Technology
 ---
