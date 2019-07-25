@@ -18,7 +18,7 @@
 @foreach($newsletters->sortByDesc('date') as $nl)
 <tr>
     <td>
-        <a href="{{$nl["file"]}}" download>{{$nl->title}}</a>
+        <a href="{{$nl["file"]}}" download>{{$nl->title}} ({{ date('F Y', $event->date) }})</a>
     </td>
     <td>{{ date('F j, Y', $nl->date) }}</td>
     

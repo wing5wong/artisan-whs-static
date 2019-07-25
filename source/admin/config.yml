@@ -109,6 +109,7 @@ collections:
     folder: "source/_newsletters"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    summary: "{{month}} {{year}} | {{title}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string"}
