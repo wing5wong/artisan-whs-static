@@ -1,15 +1,16 @@
 ---
 title: HLT1
-name: Health NCEA 1
+name: Health
 code: HLT1
 subject_area: Health
-date: 2019-07-01T00:51:40.823Z
+date: 2019-07-25T00:51:40.823Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: HLT2
+leads_to:
+  - HLT2
 credits: '15'
 entry_requirements: ''
 course_fees: $5 for workbook
