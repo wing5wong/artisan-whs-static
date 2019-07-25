@@ -2,7 +2,7 @@
 title: CLW1S
 name: Classical World - Greek Life and Theatre NCEA 1
 code: CLW1S
-subject_area: Semester Courses
+subject_area: Semester Courses (Social Sciences)
 date: 2019-06-28T04:20:47.389Z
 year: '11'
 type: Semester Course
