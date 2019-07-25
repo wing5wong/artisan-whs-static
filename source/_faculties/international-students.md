@@ -5,8 +5,8 @@ date: 2019-07-03T02:47:47.406Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564097186/faculties/International_-_combined.jpg
 intro: >-
-  In International Language studies, English as a Second Language students can
-  further develop their English skills.
+  In International studies, English as a Second Language students can further
+  develop their English skills.
 hofs:
   - Mrs A. Ferretti
 ahofs:
