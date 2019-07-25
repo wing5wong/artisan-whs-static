@@ -95,17 +95,13 @@ return $string;
 
     @if($theDept->hofs)
     <div class="my-3">
-        <strong>HOF:</strong> {{implode(', ', $theDept->hofs->sortBy(function($st){
-            return array_reverse(explode(" ", $st->title));
-        }))}}
+        <strong>HOF:</strong> {{implode(', ', $theDept->hofs)}}
     </div>
     @endif
 
     @if($theDept->ahofs)
     <div class="my-3">
-        <strong>Assistant HOFS:</strong>{{implode(', ', $theDept->ahofs->sortBy(function($st){
-            return array_reverse(explode(" ", $st->title));
-        }))}}
+        <strong>Assistant HOFS:</strong>{{implode(', ', $theDept->ahofs)}}
     </div>
     @endif
 
