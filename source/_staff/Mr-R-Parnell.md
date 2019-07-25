@@ -2,5 +2,5 @@
 title: Mr R. Parnell
 position: 
 departments:
-  - Te Atawhai Special Needs
+  - Te Atawhai / Special Needs
 ---

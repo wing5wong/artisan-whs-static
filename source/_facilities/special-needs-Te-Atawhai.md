@@ -1,5 +1,5 @@
 ---
-title: Special Needs / Te Atawhai
+title: Te Atawhai / Special Needs
 date: 2019-06-26T21:56:17.468Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1561600683/facilities/Te_Atawhai_01.jpg

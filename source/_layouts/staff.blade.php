@@ -60,10 +60,9 @@ foreach([
 "Sports",
 "Study / External Studies",
 "Support and Ancilliary",
-"Te Atawhai (Special Needs)",
 "Technology",
 "Vocational Studies / Gateway",
-"Te Atawhai Special Needs"
+"Te Atawhai / Special Needs"
 ] as $dept){
 
     $theDept = $faculties->filter(function($f) use ($dept){
