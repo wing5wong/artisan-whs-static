@@ -6,6 +6,7 @@ date: 2019-07-23T23:31:27.159Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564011184/News/Seth_won_season.no.3._july_2019.jpg
 image_title: ''
+image_credit: Andy McGechan
 description: >-
   Whanganui's Seth Reardon (Yamaha YZ250FX), the overall New Zealand enduro
   champion for 2019. 
