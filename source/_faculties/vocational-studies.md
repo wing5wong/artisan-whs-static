@@ -6,6 +6,12 @@ tags:
   - About WHS
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1562015249/faculties/Vocational_Studies_-_Combined.jpg
+intro: >-
+  The Vocational Studies Department at Whanganui High School opens many pathways
+  for our senior students to experience while at school. It’s a great way for
+  students to combine school studies with workplace learning, industry training,
+  experience of the “real world of work” and attend a variety of external
+  courses.
 hofs:
   - Mrs D. Howard
 ahofs:
