@@ -11,12 +11,13 @@
         <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
         <a href="{{ $page->image }}" @if($page->image_title)title="{{$page->image_title}}"@endif @if($page->image_alt)alt="{{$page->image_alt}}"@endif class="featured">
             <img src="{{ $page->image }}" class="featured-image"  style="object-fit: cover; max-width:100%; display: block;">
+            @if($page->image_credit)
+            <div class="image-credit">
+                <em>Photo / {{$page->image_credit}}</em>
+            </div>
+            @endif
         </a>
-        @if($page->image_credit)
-        <div class="image-credit">
-            <em>Photo / {{$page->image_credit}}</em>
-        </div>
-        @endif
+
     @endif
     @yield('postContent')
 
