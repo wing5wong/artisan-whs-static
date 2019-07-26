@@ -45,5 +45,5 @@ Boys 1st XI Football: WHS won 4-1
 Girls 1st XI Football: Collegiate won 3-2  
 Girls 1st XI Hockey: Collegiate won 4-1  
 
-_By Jared Smith_  
+_By Jared Smith_    
 _Whanganui Chronicle 26/7/19_
