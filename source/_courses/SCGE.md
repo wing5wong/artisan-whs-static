@@ -1,14 +1,13 @@
 ---
 title: SCGE
-name: Science General Year 9
+name: Science General
 code: SCGE
 subject_area: Science (General)
 date: 2019-07-01T02:38:06.841Z
 year: '9'
-type: Compulsory - Full Year
+type: Compulsory
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
 credits: .
 entry_requirements: ''
