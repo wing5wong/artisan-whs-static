@@ -1,16 +1,15 @@
 ---
 title: SCEE
-name: Science Extension Year 9
+name: Science Extension
 code: SCEE
 subject_area: Science (Extension)
-date: 2019-07-01T02:34:10.565Z
+date: 2019-07-26T02:34:10.565Z
 year: '9'
-type: "Compulsory\t - Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
