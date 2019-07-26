@@ -35,19 +35,14 @@ Still leading the Central North Island 1st XV competition after everyone else ha
 
 Meanwhile, the WHS Netball A1 side has their last regular season games before the playoffs in both the Whanganui Premier and Manawatu Schools competitions this coming Monday and the following Saturday, respectively.
 
-Results
-:
+Results:
 
-1st XV Rugby: Collegiate won 96-0.\
-Under 15 Rugby: Collegiate won 24-22.\
+1st XV Rugby: Collegiate won 96-0.
+Under 15 Rugby: Collegiate won 24-22.
 Senior A1 Netball: WHS won 49-11.
-
 Boys 1st XI Hockey: WHS won 3-0.
-
 Boys 1st XI Football: WHS won 4-1.
-
 Girls 1st XI Football: Collegiate won 3-2.
-
 Girls 1st XI Hockey: Collegiate won 4-1.
 
 _By Jared Smith_\
