@@ -23,6 +23,6 @@ Instructions are be included with the Interim Report.
 
 **Book an interview by clicking on the following link once they OPEN on Monday 29 July at 5.00pm:**  
 **https://www.schoolinterviews.co.nz/    
-(you will need the **event code** on your Interim Report).  
+(you will need the event code on your Interim Report).  
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
