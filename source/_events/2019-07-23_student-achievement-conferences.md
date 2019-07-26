@@ -2,12 +2,12 @@
 title: Student Achievement Conferences
 date: 2019-08-08T05:31:24.682Z
 ---
-\####Whanganui High School
+####Whanganui High School
 ####Student Achievement Conferences  
   
 
-**Wednesday 7 August and Thursday 8 August 2019**\
-**3.10pm to 9.00pm** (with dinner hour 5.00pm - 6.00pm)
+**Wednesday 7 August and Thursday 8 August 2019**  
+**3.10pm to 9.00pm** (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana (Reeves) and Te Wehi (Seddon) Gymnasiums
 
 **Students will be released at the end of Period 4 - 1.50pm** - both days.
