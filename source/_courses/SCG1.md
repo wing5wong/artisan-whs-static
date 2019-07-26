@@ -1,15 +1,19 @@
 ---
 title: SCG1
-name: Science General NCEA 1
+name: Science General
 code: SCG1
 subject_area: Science (General)
 date: 2019-07-01T02:37:30.040Z
 year: '11'
-type: Level 1 Core
+type: Core
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: 'BIO2, CHE2, PHY2, SCI2'
+leads_to:
+  - BIO2
+  - CHE2
+  - PHY2
+  - SCI2
 credits: '20'
 entry_requirements: ''
 course_fees: $28 for Write-On Workbook

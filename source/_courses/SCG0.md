@@ -1,16 +1,18 @@
 ---
 title: SCG0
-name: Science General Year 10
+name: Science General
 code: SCG0
 subject_area: Science (General)
-date: 2019-07-01T02:35:54.818Z
+date: 2019-07-26T02:35:54.818Z
 year: '10'
-type: Compulsory - Full Year
+type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-assessment_type: Compulsory
-leads_to: 'SCI1, SCG1, SCX1, SCY1'
-credits: .
+leads_to:
+  - SCI1
+  - SCG1
+  - SCX1S
+credits: ''
 entry_requirements: Satisfactory completion of SCGE course.
 course_fees: ''
 notes: ''

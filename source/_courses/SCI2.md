@@ -1,11 +1,11 @@
 ---
 title: SCI2
-name: Science Introductory NCEA 2
+name: Science Introductory
 code: SCI2
 subject_area: Science (Introductory/Internal)
-date: 2019-07-01T02:41:29.978Z
+date: 2019-07-26T02:41:29.978Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
