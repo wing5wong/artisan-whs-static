@@ -102,7 +102,7 @@ return [
             'section' => 'postContent',
         ],
         'for_parents' => [
-            'path' => 'for-parents/{filename}',
+            'path' => 'info-for-parents/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
