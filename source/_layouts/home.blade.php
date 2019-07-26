@@ -45,7 +45,7 @@
       <p class="text-center">
         Whanganui High School will provide a future-focused education which promotes success for all students.
       </p>
-      <a class="mt-5 btn btn-light" href="/for-parents">More information.</a>
+      <a class="mt-5 btn btn-light" href="/info-for-parents">More information.</a>
     </div>
 
 

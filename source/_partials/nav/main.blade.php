@@ -36,7 +36,7 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav w-100 justify-content-center">
 
-        @foreach( [ 'about'=>["About WHS","/about-whs"], "for_parents"=>["For Parents", "/for-parents"], 'curriculum'=>["Curriculum","/curriculum"],
+        @foreach( [ 'about'=>["About WHS","/about-whs"], "for_parents"=>["For Parents", "/info-for-parents"], 'curriculum'=>["Curriculum","/curriculum"],
         "news_and_events"=>["News", "/news-and-events"], "international"=>["International", "/international"] ] as $key=>$values)
 
         <li class="nav-item dropdown px-3">
