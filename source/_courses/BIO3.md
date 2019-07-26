@@ -1,16 +1,16 @@
 ---
 title: BIO3
-name: Biology NCEA 3
+name: Biology
 code: BIO3
 subject_area: Biology
 date: 2019-06-28T04:04:34.111Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-credits: 19-22
-entry_requirements: 14 credits in BIO2 and HOF/TIC approval.
+credits: '22'
+entry_requirements: 12 credits in BIO2 and HOF/TIC approval.
 course_fees: $20 workbook plus $40 Wellington Field trip
 ue_approved: true
 notes: ''

@@ -1,16 +1,17 @@
 ---
 title: BIO2
-name: Biology NCEA 2
+name: Biology
 code: BIO2
 subject_area: Biology
 date: 2019-06-28T04:03:29.370Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: BIO3
-credits: '24'
+leads_to:
+  - BIO3
+credits: '20'
 entry_requirements: 14 credits from SCG1 or SCE1 and HOF/TIC approval.
 course_fees: $20 workbook plus $15 Bushy Park field trip.
 notes: ''
