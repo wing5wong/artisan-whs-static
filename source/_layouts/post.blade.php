@@ -13,7 +13,9 @@
             <img src="{{ $page->image }}" class="featured-image"  style="object-fit: cover; max-width:100%; display: block;">
         </a>
         @if($page->image_credit)
-            <em>Photo: / {{$page->image_credit}}</em>
+        <div class="image-credit">
+            <em>Photo / {{$page->image_credit}}</em>
+        </div>
         @endif
     @endif
     @yield('postContent')
