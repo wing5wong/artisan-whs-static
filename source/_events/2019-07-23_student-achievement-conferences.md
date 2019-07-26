@@ -23,7 +23,8 @@ BOOKINGS OPEN on Monday 29 July at 5:00pm
 Booking is done online.
 Instructions are be included with the Interim Report.  
 
-****[**Book an interview here**](https://www.schoolinterviews.co.nz/) ****once they OPEN on Monday 29 July at 5.00pm\
+****Book an interview by clicking on the following link:  
+https://www.schoolinterviews.co.nz/ ****once they OPEN on Monday 29 July at 5.00pm  
 (you will need the event code on your Interim Report).  
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
