@@ -125,51 +125,51 @@ return [
         'children' => [
             [
                 'title' => 'Enrolments',
-                'url' => '/for-parents/enrolments'
+                'url' => '/info-for-parents/enrolments'
             ],
             [
                 'title' => 'BYOT',
-                'url' => '/for-parents/byot'
+                'url' => '/info-for-parents/byot'
             ],
             [
                 'title' => 'Uniform',
-                'url' => '/for-parents/uniform'
+                'url' => '/info-for-parents/uniform'
             ],
             [
                 'title' => 'Term Dates',
-                'url' => '/for-parents/term-dates'
+                'url' => '/info-for-parents/term-dates'
             ],
             [
                 'title' => 'Stationery Lists',
-                'url' => '/for-parents/stationery-lists'
+                'url' => '/info-for-parents/stationery-lists'
             ],
             [
                 'title' => 'Bell Times',
-                'url' => '/for-parents/bell-times'
+                'url' => '/info-for-parents/bell-times'
             ],
             [
                 'title' => 'Policies and Charter',
-                'url' => '/for-parents/policies-and-charter'
+                'url' => '/info-for-parents/policies-and-charter'
             ],
             [
                 'title' => 'Annual Report - Financial Statements',
-                'url' => '/for-parents/annual-report-financial-statements/'
+                'url' => '/info-for-parents/annual-report-financial-statements/'
             ],
             [
                 'title' => 'Graduate Student Profile',
-                'url' => '/for-parents/graduate-student-profile'
+                'url' => '/info-for-parents/graduate-student-profile'
             ],
             [
                 'title' => 'Edith Wheal Scholarship',
-                'url' => '/for-parents/edith-wheal-scholarship'
+                'url' => '/info-for-parents/edith-wheal-scholarship'
             ],
             [
                 'title' => 'Scholarship Opportunities',
-                'url' => '/for-parents/scholarships'
+                'url' => '/info-for-parents/scholarships'
             ],
             [
                 'title' => 'Guide to NCEA',
-                'url' => '/for-parents/guide-to-ncea'
+                'url' => '/info-for-parents/guide-to-ncea'
             ],
         ],
     ],

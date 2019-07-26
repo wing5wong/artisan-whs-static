@@ -1,5 +1,5 @@
 @extends('_layouts.full')
-@section('title', 'For Parents')
+@section('title', 'Info For Parents')
 @section('content')
 
 <div class="houses bg-green text-center text-yellow row no-gutters">
