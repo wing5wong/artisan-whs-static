@@ -1,6 +1,7 @@
 ---
-title: Curriculum Structure
+title: Curriculum Overview
 date: 2019-04-02T01:23:57.661Z
+intro: .
 ---
 
 [Course Options](/curriculum/options-for-2018) 
