@@ -42,6 +42,6 @@ Reardon took the "overall" trophy for the premier AA Grade (formerly referred to
 
 The next assignment for Reardon is to tackle the Yamaha-supported Grand National Cross-country (GNCC) series, which is due to kick off in the Woodhill Forest, west of Auckland, next Sunday (July 28).  
 
-_Enduro Riding_\
-_Andy McGechan_\
+_Enduro Riding_  
+_Andy McGechan_  
 _Whanganui Chronicle 24/7/19_
