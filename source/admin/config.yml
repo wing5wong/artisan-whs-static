@@ -82,7 +82,7 @@ collections:
     folder: "source/_events"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    summary: "{{month}} {{year}} | {{title}}"
+    summary: "{{year}}-{{month}}-{{day}} | {{title}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string"}
