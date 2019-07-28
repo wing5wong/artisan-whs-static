@@ -10,8 +10,7 @@ date: 2019-08-08T05:31:24.682Z
 **3.10pm to 9.00pm** (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana (Reeves) and Te Wehi (Seddon) Gymnasiums
 
-**Students will be released at the end of Period 4 - 1.50pm** - both days.
-
+**Students will be released at the end of Period 4 - 1.50pm** - both days.  
 **Buses** will run at their normal times and the Homework Centre will be open in the Library until 4.30pm as usual.
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
