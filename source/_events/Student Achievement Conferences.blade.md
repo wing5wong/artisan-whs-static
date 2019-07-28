@@ -3,8 +3,8 @@ title: Student Achievement Conferences
 date: 2019-08-07T00:00:00.000Z
 description: ''
 ---
-####Whanganui High School  
-####Student Achievement Conferences  
+#### Whanganui High School  
+#### Student Achievement Conferences  
 
 **Wednesday 7 August and Thursday 8 August 2019**  
 **3.10pm to 9.00pm** (with dinner hour 5.00pm - 6.00pm)  
@@ -23,7 +23,7 @@ Booking is done online.
 Instructions are be included with the Interim Report.  
 
 **Book an interview by clicking on the following link once they OPEN on Monday 29 July at 5.00pm:**  
-**https://www.schoolinterviews.co.nz/    
+<https://www.schoolinterviews.co.nz/>  
 (you will need the event code on your Interim Report).  
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
