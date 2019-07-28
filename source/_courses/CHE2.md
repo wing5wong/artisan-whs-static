@@ -1,15 +1,16 @@
 ---
 title: CHE2
-name: Chemistry NCEA 2
+name: Chemistry
 code: CHE2
 subject_area: Chemistry
-date: 2019-06-28T04:08:40.769Z
+date: 2019-07-29T04:08:40.769Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: CHE3
+leads_to:
+  - CHE3
 credits: 20-26
 entry_requirements: >-
   14 credits (including  AS90940 and AS90944 from SCG1 or SCE1, AS91027
