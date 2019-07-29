@@ -1,11 +1,11 @@
 ---
 title: SCE1
-name: Science Extension NCEA 1
+name: Science Extension
 code: SCE1
 subject_area: Science (Extension)
-date: 2019-07-01T02:33:17.940Z
+date: 2019-07-29T02:33:17.940Z
 year: '11'
-type: Level 1 Compulsory
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
