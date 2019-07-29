@@ -1,15 +1,16 @@
 ---
 title: SOC1
-name: Social Studies General NCEA 1
+name: Social Studies General
 code: SOC1
 subject_area: Social Studies (General)
-date: 2019-07-01T02:45:31.655Z
+date: 2019-07-29T02:45:31.655Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: SOC2
+leads_to:
+  - SOC2
 credits: '12'
 entry_requirements: ''
 course_fees: ''
