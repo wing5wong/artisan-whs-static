@@ -24,6 +24,5 @@ Instructions are included with the Interim Report.
 
 **Book an interview by clicking on the following link:**  
 <https://www.schoolinterviews.co.nz/code?code=q6wry>  
-(you will need the event code on your Interim Report).  
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
