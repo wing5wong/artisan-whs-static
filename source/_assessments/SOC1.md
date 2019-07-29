@@ -1,14 +1,11 @@
 ---
-title: "SOC1"
-description: "Describe how cultures change"
-level: "1"
-assessment: "External"
-credits: "4"
-pdf: "http://c1940652.r52.cf0.rackcdn.com/5990e870b8d39a0bbc000216/SOC1-as91039.pdf"
+title: '91041'
 categories:
-    - "SOC1"
-    
-    
-    
-    
+  - SOC1
+description: Describe consequences of cultural change(s)
+pdf: 'https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91041.pdf'
+level: '1'
+credits: '4'
+assessment: External
 ---
+
