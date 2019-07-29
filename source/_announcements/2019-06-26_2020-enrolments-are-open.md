@@ -20,7 +20,7 @@ Students are encouraged to attend these conferences with their parents or caregi
  ..and CLOSE at 5:00pm on TUESDAY 6 AUGUST, the evening before the interviews.
 
 Booking is done online.
-Instructions are be included with the Interim Report.  
+Instructions are included with the Interim Report.  
 
 **Book an interview by clicking on the following link once they OPEN on Monday 29 July at 5.00pm:**  
 <https://www.schoolinterviews.co.nz/code?code=q6wry>  
