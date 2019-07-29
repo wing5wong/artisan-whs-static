@@ -62,5 +62,5 @@ Although still early in her career, Zoe has some goals set as she looks ahead to
 
 "Also, this town is very small, so I find it hard to find new places to shoot. I'm trying really hard to find new spots and not let that barrier of a small town stop me."
 
-_By Jesse King_\
-_Whanganui Chronicle_
+_By Jesse King_  
+_Whanganui Chronicle 29/7/19_
