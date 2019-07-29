@@ -15,7 +15,7 @@ Where: Te Mana (Reeves) and Te Wehi (Seddon) Gymnasiums
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-**BOOKINGS OPEN on Monday 29 July at 5:00pm**
+**BOOKINGS OPENED on Monday 29 July at 5:00pm**
 
  ..and CLOSE at 5:00pm on TUESDAY 6 AUGUST, the evening before the interviews.
 
