@@ -64,6 +64,9 @@ a.featured[title]:after {
     //  - If nodes is a NodeList, each node is automatically removed from 
     //    the NodeList when it is removed from its parent with appendChild.
     for (var i = 0; nodes.length - i; wrapper.firstChild === nodes[0] && i++) {
+        wrapper.setAttribute('title', nodes[i].getAttribute('title'))
+        wrapper.setAttribute('href', nodes[i].getAttribute('href'))
+        wrapper.addClass('featured')
         wrapper.appendChild(nodes[i]);
     }
 
@@ -76,7 +79,7 @@ a.featured[title]:after {
 }
 
         var nodes = document.querySelectorAll('main img:not(.featured-image)');
-        var wrapper = document.createElement('div');
+        var wrapper = document.createElement('a');
         wrapAll(nodes, wrapper)
     </script>
 @endsection
