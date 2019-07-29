@@ -1,6 +1,6 @@
 ---
 title: Rose's Art on Display at National Youth Art Awards
-date: 2019-07-25T23:33:33.689Z
+date: 2019-08-01T23:33:33.689Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564097655/Events/Rose_Hird_exhibition_poster_with_outline.July.Aug.jpg
 ---
