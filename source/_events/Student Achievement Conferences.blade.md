@@ -1,5 +1,7 @@
 ---
-title: Student Achievement Conferences
+title: >-
+  Student Achievement Conferences - Students released at 1.50pm (end of Period
+  4)
 date: 2019-08-07T00:00:00.000Z
 description: ''
 ---
