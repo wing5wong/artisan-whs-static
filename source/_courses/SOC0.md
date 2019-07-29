@@ -1,16 +1,20 @@
 ---
 title: SOC0
-name: Social Studies General Year 10
+name: Social Studies General
 code: SOC0
 subject_area: Social Studies (General)
-date: 2019-07-01T02:43:12.682Z
+date: 2019-07-29T02:43:12.682Z
 year: '10'
 type: Compulsory - Unless selected for SOE0 (Extension)
 course_duration: Full Year
 course_level: Year 10
-assessment_type: Compulsory
-leads_to: 'Leads to entry into; GEO1, SOC1, ACC1, ECO1, HIS1'
-credits: .
+leads_to:
+  - GEO1
+  - SOC1
+  - ACC1
+  - ECO1
+  - GEO1S
+credits: ''
 entry_requirements: Completion of SOCE (Year 9) Social Science Course.
 course_fees: ''
 notes: ''
