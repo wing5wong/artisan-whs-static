@@ -53,7 +53,7 @@ a.featured[title]:after {
     
 
     <script>
-        var el = document.querySelector('main>img:not(featured-image)');
+        var el = document.querySelector('main img:not(featured-image)');
         var wrapper = document.createElement('div');
         el.parentNode.insertBefore(wrapper, el);
         wrapper.appendChild(el);
