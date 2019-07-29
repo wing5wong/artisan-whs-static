@@ -1,7 +1,7 @@
 ---
 title: >-
-  Student Achievement Conferences Student Achievement Conferences - Students
-  released at 1.50pm (end of Period 4)
+  Student Achievement Conferences - Students released at 1.50pm (end of Period
+  4)
 is_emergency: false
 date: 2019-06-25T22:32:08.818Z
 ---
