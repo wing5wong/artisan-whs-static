@@ -23,9 +23,9 @@ Zoe was shocked when it was announced as the winning photograph in the young pho
 
 "There are times where you think 'I'm not going to bother with this' and it takes a lot to keep going, but this award has really helped me to keep running this race."
 
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1564349309/News/Zoe_Bracegirdle_Photo_win_2._Chron_29.7.19.jpg)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1564349309/News/Zoe_Bracegirdle_Photo_win_2._Chron_29.7.19.jpg "15-year-old Bracegirdle loves photographing people. Pictured here are Tayla Robbertsen (left) and Friederike Orschler (right). Photos / Zoe Bracegirdle.")
 
-15-year-old Bracegirdle loves photographing people. Pictured here are Tayla Robbertsen (left) and Friederike Orschler (right).  
+15-year-old Bracegirdle loves photographing people. Pictured here are Tayla Robbertsen (left) and Friederike Orschler (right).\
 _Photos / Zoe Bracegirdle._
 
 At 15 and working towards achieving NCEA Level 1, Zoe is not even able to study photography at Whanganui High School yet.
@@ -62,5 +62,5 @@ Although still early in her career, Zoe has some goals set as she looks ahead to
 
 "Also, this town is very small, so I find it hard to find new places to shoot. I'm trying really hard to find new spots and not let that barrier of a small town stop me."
 
-_By Jesse King_  
+_By Jesse King_\
 _Whanganui Chronicle 29/7/19_
