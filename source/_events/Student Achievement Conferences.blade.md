@@ -5,15 +5,11 @@ title: >-
 date: 2019-08-07T00:00:00.000Z
 description: ''
 ---
-#### Whanganui High School
-
-#### Student Achievement Conferences
-
-**Wednesday 7 August and Thursday 8 August 2019**\
-**3.10pm to 9.00pm** (with dinner hour 5.00pm - 6.00pm)\
+**Wednesday 7 August and Thursday 8 August 2019**  
+**3.10pm to 9.00pm** (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana (Reeves) and Te Wehi (Seddon) Gymnasiums
 
-**Students will be released at the end of Period 4 - 1.50pm** - both days.\
+**Students will be released at the end of Period 4 - 1.50pm** - both days.  
 **Buses** will run at their normal times and the Homework Centre will be open in the Library until 4.30pm as usual.
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
@@ -25,15 +21,6 @@ Students are encouraged to attend these conferences with their parents or caregi
 Booking is done online.
 Instructions are included with the Interim Report.  
 
-****[**Book an interview**](https://www.schoolinterviews.co.nz/code?code=q6wry)****
+[**Book an interview**](https://www.schoolinterviews.co.nz/code?code=q6wry)
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
-
-ahdoiure4ohao\
-jpor4u3loihloij
-
-asuioeyrloey;ou  
-
-\oiaueriuhajih
-
-faiueroiweuo;hj
