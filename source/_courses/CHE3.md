@@ -1,11 +1,11 @@
 ---
 title: CHE3
-name: Chemistry NCEA 3
+name: Chemistry
 code: CHE3
 subject_area: Chemistry
-date: 2019-06-28T04:09:23.080Z
+date: 2019-07-29T04:09:23.080Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
