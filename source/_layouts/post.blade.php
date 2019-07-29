@@ -47,4 +47,11 @@ a.featured[title]:after {
      </main>
     @include('_partials.lastReviewed')
     
+
+    <script>
+        var el = document.querySelector('main>img:not(featured-image)');
+        var wrapper = document.createElement('div');
+        el.parentNode.insertBefore(wrapper, el);
+        wrapper.appendChild(el);
+    </script>
 @endsection
