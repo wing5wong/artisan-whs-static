@@ -1,16 +1,15 @@
 ---
 title: SOCE
-name: Social Studies General Year 9
+name: Social Studies General
 code: SOCE
 subject_area: Social Studies (General)
-date: 2019-07-01T02:48:24.857Z
+date: 2019-07-29T02:48:24.857Z
 year: '9'
-type: "Compulsory\t - Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
