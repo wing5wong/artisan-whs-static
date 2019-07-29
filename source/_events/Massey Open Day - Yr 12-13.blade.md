@@ -14,20 +14,20 @@ If you **forgot to sign up** but still wish to go, get a generic permission slip
 
 **Trip to Massey Open Day on Wednesday 7 August**
 
-Reporting time:\
+Reporting time:  
 7:15am at the Whanganui HS bus bay, Purnell Street.
 
-Returning:  \
+Returning:  
 3:20pm at the latest – probably earlier
 
-Lunch:  \
+Lunch:  
 Can be purchased at Student cafeteria or cut lunch taken. 
 
-Dress:  \
+Dress:  
 TIDY mufti.
 
-Transport cost:  \
+Transport cost:  
 $17 (PAID by 31st July to the Student Centre) 
 
-Internet payment:  \
+Internet payment:  
 A/c 123163 0095001 00 – Include CHILD’s name and ‘Massey Open Day’ in payment details.
