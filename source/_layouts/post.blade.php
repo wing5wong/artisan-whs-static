@@ -75,7 +75,7 @@ a.featured[title]:after {
     return wrapper;
 }
 
-        var nodes = document.querySelector('main img:not(.featured-image)');
+        var nodes = document.querySelectorAll('main img:not(.featured-image)');
         var wrapper = document.createElement('div');
         wrapAll(nodes, wrapper)
     </script>
