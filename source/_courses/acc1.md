@@ -1,15 +1,16 @@
 ---
 title: ACC1
-name: Accounting NCEA 1
+name: Accounting
 code: ACC1
 subject_area: Accounting
-date: 2019-07-01T21:01:17.026Z
+date: 2019-07-28T21:01:17.026Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: ACC2
+leads_to:
+  - ACC2
 credits: 17-20
 entry_requirements: ''
 course_fees: $20 for workbook (notes and write on questions)
