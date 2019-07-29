@@ -1,16 +1,15 @@
 ---
 title: SOEE
-name: Social Studies Extension Year 9
+name: Social Studies Extension
 code: SOEE
 subject_area: Social Studies (Extension)
-date: 2019-07-01T02:50:05.664Z
+date: 2019-07-29T02:50:05.664Z
 year: '9'
-type: "Compulsory\t - Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
-credits: ','
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
