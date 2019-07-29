@@ -1,11 +1,11 @@
 ---
 title: SOC3
-name: Social Studies General NCEA 3
+name: Social Studies General
 code: SOC3
 subject_area: Social Studies (General)
-date: 2019-07-01T02:47:58.474Z
+date: 2019-07-29T02:47:58.474Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
