@@ -53,9 +53,30 @@ a.featured[title]:after {
     
 
     <script>
-        var el = document.querySelector('main img:not(featured-image)');
+        function wrapAll(nodes, wrapper) {
+    // Cache the current parent and previous sibling of the first node.
+    var parent = nodes[0].parentNode;
+    var previousSibling = nodes[0].previousSibling;
+
+    // Place each node in wrapper.
+    //  - If nodes is an array, we must increment the index we grab from 
+    //    after each loop.
+    //  - If nodes is a NodeList, each node is automatically removed from 
+    //    the NodeList when it is removed from its parent with appendChild.
+    for (var i = 0; nodes.length - i; wrapper.firstChild === nodes[0] && i++) {
+        wrapper.appendChild(nodes[i]);
+    }
+
+    // Place the wrapper just after the cached previousSibling,
+    // or if that is null, just before the first child.
+    var nextSibling = previousSibling ? previousSibling.nextSibling : parent.firstChild;
+    parent.insertBefore(wrapper, nextSibling);
+
+    return wrapper;
+}
+
+        var nodes = document.querySelector('main img:not(.featured-image)');
         var wrapper = document.createElement('div');
-        el.parentNode.insertBefore(wrapper, el);
-        wrapper.appendChild(el);
+        wrapAll(nodes, wrapper)
     </script>
 @endsection
