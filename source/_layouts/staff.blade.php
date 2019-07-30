@@ -101,7 +101,7 @@ return $string;
 
     @if($theDept->ahofs)
     <div class="my-3">
-        <strong>Assistant HOFS:</strong>{{implode(', ', $theDept->ahofs)}}
+        <strong>Assistant HOFS:</strong> {{implode(', ', $theDept->ahofs)}}
     </div>
     @endif
 
