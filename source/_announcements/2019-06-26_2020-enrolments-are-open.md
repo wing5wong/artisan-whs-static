@@ -1,9 +1,8 @@
 ---
-title: >-
-  Student Achievement Conferences - Students released at 1.50pm (end of Period
-  4)
+title: Student Achievement Conferences
 is_emergency: false
 date: 2019-06-25T22:32:08.818Z
+subtitle: Students released at 1.50pm (end of Period 4)
 ---
 **When:** Wednesday 7 August and Thursday 8 August 2019  
 **Times:** 3.10pm to 9.00pm (with dinner hour 5.00pm - 6.00pm)  
