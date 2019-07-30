@@ -11,6 +11,12 @@
 
   <h2>
     {{ $announcement->title }}
+    @if($announcement->subtitle)
+    <br>
+    <small>
+      {{$announcement->subtitle }}
+    </small>
+    @endif
   </h2>
   <a class="btn btn-light" href="{{$announcement->getPath()}}">Read the full announcement</a>
 
