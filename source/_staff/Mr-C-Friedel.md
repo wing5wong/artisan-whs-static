@@ -4,7 +4,7 @@ position: Deputy Principal (Awa House)
 departments:
   - Deputy Principal
   - Social Sciences
-  - Vocational Studies / Gateway
+  - Vocational Studies
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1562189461/staff/Chris_Friedel.jpg
 ---

@@ -4,5 +4,5 @@ position:
 departments:
   - Social Sciences
   - English
-  - Vocational Studies / Gateway
+  - Vocational Studies
 ---

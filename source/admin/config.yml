@@ -534,7 +534,7 @@ collections:
         name: "departments"
         widget: "select"
         options: [
-          "Art",
+          "The Arts",
           "Associate Principal",
           "Board of Trustees",
           "Deans",
@@ -551,14 +551,14 @@ collections:
           "Mathematics",
           "Physical Education and Health",
           "Principal",
-          "Science",
+          "Sciences",
           "Social Sciences",
           "Sports",
           "Study / External Studies",
           "Support and Ancilliary",
-          "Te Atawhai (Special Needs)",
+          "Te Atawhai / Special Needs",
           "Technology",
-          "Vocational Studies / Gateway"
+          "Vocational Studies"
         ]
         multiple: true
         allow_add: false

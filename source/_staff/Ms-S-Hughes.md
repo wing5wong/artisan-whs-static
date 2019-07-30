@@ -4,5 +4,5 @@ position:
 departments:
   - English
   - Mathematics
-  - Vocational Studies / Gateway
+  - Vocational Studies
 ---

@@ -2,5 +2,5 @@
 title: Ms S. Battersby
 position:
 departments:
-  - Vocational Studies / Gateway
+  - Vocational Studies
 ---

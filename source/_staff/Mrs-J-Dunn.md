@@ -4,5 +4,5 @@ position:
 departments:
   - Mathematics
   - Digital Technology
-  - Vocational Studies / Gateway
+  - Vocational Studies
 ---

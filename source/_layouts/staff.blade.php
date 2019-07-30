@@ -55,13 +55,13 @@ foreach([
 "Librarians",
 "Mathematics",
 "Physical Education and Health",
-"Science",
+"Sciences",
 "Social Sciences",
 "Sports",
 "Study / External Studies",
 "Support and Ancilliary",
 "Technology",
-"Vocational Studies / Gateway",
+"Vocational Studies",
 "Te Atawhai / Special Needs"
 ] as $dept){
 

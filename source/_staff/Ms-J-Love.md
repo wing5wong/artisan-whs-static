@@ -3,5 +3,5 @@ title: Ms J. Love
 position: 
 departments:
   - English
-  - Vocational Studies / Gateway
+  - Vocational Studies
 ---

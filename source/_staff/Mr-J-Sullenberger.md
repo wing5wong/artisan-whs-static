@@ -2,7 +2,7 @@
 title: Mr J. Sullenberger
 position: 
 departments:
-  - Science
+  - Sciences
   - Technology
   - Digital Technology
 ---
