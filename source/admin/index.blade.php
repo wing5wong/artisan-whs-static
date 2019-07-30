@@ -11,6 +11,7 @@
     <script src="https://unpkg.com/netlify-cms@2.9.6/dist/netlify-cms.js"></script>
     <script>
             CMS.registerPreviewStyle("/assets/css/customisations.css");
+            CMS.registerPreviewStyle({{mix('/css/main.css', 'assets/build')}});
     </script>
 </body>
 </html>
