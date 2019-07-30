@@ -12,6 +12,7 @@
     <script>
             CMS.registerPreviewStyle("/assets/css/customisations.css");
             CMS.registerPreviewStyle({{mix('/css/main.css', 'assets/build')}});
+            CMS.registerPreviewStyle("/assets/css/admin.css");
     </script>
 </body>
 </html>
