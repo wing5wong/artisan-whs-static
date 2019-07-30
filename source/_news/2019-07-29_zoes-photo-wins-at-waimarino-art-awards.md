@@ -6,7 +6,7 @@ image: >-
 image_title: >-
   Mia Gilmore (left) was the subject of Poison, the Waimarino Art Award winning
   photograph taken by Zoe Bracegirdle (right).
-image_credit: Zoe Bracegirdle
+image_credit: ''
 description: 'Zoe Bracegirdle''s photo, Poison, wins at Waimarino Art Awards.'
 short: 'Zoe Bracegirdle''s photo, Poison, wins at Waimarino Art Awards.'
 image_gallery: []
@@ -25,8 +25,7 @@ Zoe was shocked when it was announced as the winning photograph in the young pho
 
 ![15-year-old Bracegirdle loves photographing people. Pictured here are Tayla Robbertsen (left) and Friederike Orschler (right).\ Photos / Zoe Bracegirdle.](https://res.cloudinary.com/whanganuihigh/image/upload/v1564349309/News/Zoe_Bracegirdle_Photo_win_2._Chron_29.7.19.jpg "15-year-old Bracegirdle loves photographing people. Pictured here are Tayla Robbertsen (left) and Friederike Orschler (right). Photos / Zoe Bracegirdle.")
 
-15-year-old Bracegirdle loves photographing people. Pictured here are Tayla Robbertsen (left) and Friederike Orschler (right).  
-_Photos / Zoe Bracegirdle._
+
 
 At 15 and working towards achieving NCEA Level 1, Zoe is not even able to study photography at Whanganui High School yet.
 
