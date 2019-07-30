@@ -6,7 +6,7 @@ image: >-
 image_title: >-
   Mia Gilmore (left) was the subject of Poison, the Waimarino Art Award winning
   photograph taken by Zoe Bracegirdle (right).
-image_credit: Zoe Bracegirdle
+image_credit: ''
 description: 'Zoe Bracegirdle''s photo, Poison, wins at Waimarino Art Awards.'
 short: 'Zoe Bracegirdle''s photo, Poison, wins at Waimarino Art Awards.'
 image_gallery: []
