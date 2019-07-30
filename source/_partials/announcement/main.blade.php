@@ -13,7 +13,7 @@
     {{ $announcement->title }}
     @if($announcement->subtitle)
     <br>
-    <small>
+    <small class="text-muted" style="font-size: 60%;">
       {{$announcement->subtitle }}
     </small>
     @endif
