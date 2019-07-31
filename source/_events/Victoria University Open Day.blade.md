@@ -1,10 +1,8 @@
 ---
-title: "Victoria University Open Day"
-date: 2019-08-23
-description: ""
-image: 
-excerpt: ""
+title: Victoria University Open Day
+date: 2019-08-23T00:00:00.000Z
+description: ''
 ---
+More information to follow.
 
-<h4><br />Victoria University Open Day</h4>
 
