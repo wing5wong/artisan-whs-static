@@ -77,31 +77,16 @@ foreach([
                 })
                 ->sortBy(function($st){
                     return array_reverse(explode(" ", $st->title));
-                })
-                ->map(function($person){
-                    $string = $person->title;
-                    if($person->position){
-                        $string .= " - " . $person->position;
-                    }
-                return $string;
-                })->toArray();
-
-
+                });
 
 
                 $filteredHofs = $staff->filter(function($st) use ($theDept){
                     return in_array($st->title, $theDept->hofs);
-                })
-                ->map(function($st){
-                    return $st;
                 });
 
                 $filteredAHofs = $staff->filter(function($st) use ($theDept){
                     return in_array($st->title, $theDept->ahofs);
-                })
-                ->map(function($st){
-                    return $st;
-                })->toArray();
+                });
                 
                 ?>
 
@@ -129,7 +114,7 @@ foreach([
                         <strong>Assistant HOFS:</strong> 
                         @if(count($filteredAHofs))
                             @foreach($filteredAHofs as $hof)
-                                {{ $hof['title'] }}<em> - {{ $hof['position'] }}</em>@if(!$loop->last), @endif
+                                {{ $hof->title }}<em> - {{ $hof->position }}</em>@if(!$loop->last), @endif
                             @endforeach
                         @endif
                     </div>
@@ -139,7 +124,10 @@ foreach([
                     @foreach($filteredStaff as $member)
                         <tr>
                             <td>
-                                {{ $member }}
+                                {{ $member->title }}
+                            </td>
+                            <td>
+                                {{ $member->position }}
                             </td>
                         </tr>
                     @endforeach
