@@ -93,14 +93,14 @@ foreach([
                     return in_array($st->title, $theDept->hofs);
                 })
                 ->map(function($st){
-                    return $st->title . " - " . $st->position;
+                    return $st;
                 })->toArray();
 
                 $filteredAHofs = $staff->filter(function($st) use ($theDept){
                     return in_array($st->title, $theDept->ahofs);
                 })
                 ->map(function($st){
-                    return $st->title . " - " . $st->position;
+                    return $st;
                 })->toArray();
                 
                 ?>
@@ -115,7 +115,12 @@ foreach([
 
                     @if($theDept->hofs)
                     <div class="my-3">
-                        <strong>HOF:</strong> {{implode(', ', $filteredHofs)}}
+                        <strong>HOF:</strong> 
+                        @if(count($filteredHofs))
+                            @foreach($filteredHofs as $hof)
+                                {{ $hof->title }} @if(!$loop->last)<em>, {{ $hof->position }}<em>@endif
+                            @endforeach
+                        @endif
                     </div>
                     @endif
 
