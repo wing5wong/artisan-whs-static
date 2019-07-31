@@ -85,6 +85,22 @@ return in_array($dept,$s->departments);
     }
 return $string;
 })->toArray();
+
+
+    $filteredHofs = $staff->filter(function($st) use ($theDept){
+        return in_array($s->title, $theDept->hofs);
+    })
+    ->map(function($st){
+        return $st->title . " - " . $st->position;
+    });
+
+    $filteredAHofs = $staff->filter(function($st) use ($theDept){
+        return in_array($s->title, $theDept->ahofs);
+    })
+    ->map(function($st){
+        return $st->title . " - " . $st->position;
+    });
+    
     ?>
 
 @if(!empty($filteredStaff))
@@ -95,13 +111,13 @@ return $string;
 
     @if($theDept->hofs)
     <div class="my-3">
-        <strong>HOF:</strong> {{implode(', ', $theDept->hofs)}}
+        <strong>HOF:</strong> {{implode(', ', $filteredHofs)}}
     </div>
     @endif
 
     @if($theDept->ahofs)
     <div class="my-3">
-        <strong>Assistant HOFS:</strong> {{implode(', ', $theDept->ahofs)}}
+        <strong>Assistant HOFS:</strong> {{implode(', ', $filteredAHofs)}}
     </div>
     @endif
 
