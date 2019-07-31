@@ -1,15 +1,16 @@
 ---
 title: ECO2
-name: Economics NCEA 2
+name: Economics
 code: ECO2
 subject_area: Economics
-date: 2019-06-30T23:14:48.529Z
+date: 2019-07-30T23:14:48.529Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: ECO3
+leads_to:
+  - ECO3
 credits: 18-24
 entry_requirements: >-
   12 credits in ECO1 or in both ENG1 or ENE1 and MAG1 or MAE1. ECO1 an advantage
