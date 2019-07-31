@@ -118,7 +118,7 @@ foreach([
                         <strong>HOF:</strong> 
                         @if(count($filteredHofs))
                             @foreach($filteredHofs as $hof)
-                                {{ $hof->title }}<em>, {{ $hof->position }}</em>@if(!$loop->last), @endif
+                                {{ $hof->title }}<em> - {{ $hof->position }}</em>@if(!$loop->last), @endif
                             @endforeach
                         @endif
                     </div>
@@ -129,7 +129,7 @@ foreach([
                         <strong>Assistant HOFS:</strong> 
                         @if(count($filteredAHofs))
                             @foreach($filteredAHofs as $hof)
-                                {{ $hof['title'] }}<em>, {{ $hof['position'] }}</em>@if(!$loop->last), @endif
+                                {{ $hof['title'] }}<em> - {{ $hof['position'] }}</em>@if(!$loop->last), @endif
                             @endforeach
                         @endif
                     </div>
