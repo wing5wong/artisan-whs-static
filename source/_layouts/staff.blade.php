@@ -94,7 +94,7 @@ foreach([
                 })
                 ->map(function($st){
                     return $st;
-                })->toArray();
+                });
 
                 $filteredAHofs = $staff->filter(function($st) use ($theDept){
                     return in_array($st->title, $theDept->ahofs);
@@ -118,7 +118,7 @@ foreach([
                         <strong>HOF:</strong> 
                         @if(count($filteredHofs))
                             @foreach($filteredHofs as $hof)
-                                {{ $hof['title'] }}<em>, {{ $hof['position'] }}</em>@if(!$loop->last), @endif
+                                {{ $hof->title }}<em>, {{ $hof->position }}</em>@if(!$loop->last), @endif
                             @endforeach
                         @endif
                     </div>
