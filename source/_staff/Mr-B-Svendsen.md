@@ -1,6 +1,6 @@
 ---
 title: Mr B. Svendsen
-position: Computer Technician
+position: IT - Computer Technician
 departments:
   - Support and Ancilliary
 ---

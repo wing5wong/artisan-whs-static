@@ -57,7 +57,6 @@ foreach([
             "Physical Education and Health",
             "Sciences",
             "Social Sciences",
-            "Sports",
             "Study / External Studies",
             "Support and Ancilliary",
             "Technology",
