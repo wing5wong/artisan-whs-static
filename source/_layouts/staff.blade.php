@@ -89,12 +89,12 @@ return $string;
 
     $filteredHofs = $staff->filter(function($st) use ($theDept){
         if(in_array($st->title, $theDept->hofs)){
-            print ($st->title . "is the hof of ". $theDept->title;
+            print ($st->title . "is the hof of ". $theDept->title);
         }
         return in_array($st->title, $theDept->hofs);
     })
     ->map(function($st){
-        print($st->title . " - " . $st->position;)
+        print($st->title . " - " . $st->position);
         return $st->title . " - " . $st->position;
     })->toArray();
 
