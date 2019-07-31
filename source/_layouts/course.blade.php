@@ -119,7 +119,7 @@ Other courses in {{ $page->subject_area }}:
 <?php
 $subjectAreaCourses = $courses->filter(function($c) use ($page){
     return $c->subject_area == $page->subject_area;
-})->filter(function($c){
+})->filter(function($c) use ($page){
     return !($c->title == $page->title);
 });
 ?>
