@@ -16,4 +16,4 @@ entry_requirements: Nil
 course_fees: $65. A laptop is beneficial
 notes: ''
 ---
-Tourism is New Zealand's largest industry with an estimated 60,000 new jobs being created throughout New Zealand from 2017 to 2020. Students will learn a range of skills from calculations in the workplace to all about New Zealand destinations, world destinations, and all about tourists; their characteristics and needs.
+Tourism is New Zealand's largest industry with an estimated 60,000 new jobs being created throughout New Zealand from 2017 to 2020. Students will learn a range of skills from calculations in the workplace to all about New Zealand destinations, world destinations, and all about tourists; their characteristics and needs. If students choose to complete Level 2 and 3 they will be eligible for a Certificate in Tourism.
