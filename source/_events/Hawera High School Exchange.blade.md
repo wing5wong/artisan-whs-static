@@ -6,5 +6,5 @@ description: ''
 
 (To be played away).
 
-More information to follow closer to the event.
+More information to follow closer to the date.
 
