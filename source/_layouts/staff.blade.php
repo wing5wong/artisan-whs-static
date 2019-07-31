@@ -92,14 +92,14 @@ return $string;
     })
     ->map(function($st){
         return $st->title . " - " . $st->position;
-    });
+    })->toArray();
 
     $filteredAHofs = $staff->filter(function($st) use ($theDept){
         return in_array($st->title, $theDept->ahofs);
     })
     ->map(function($st){
         return $st->title . " - " . $st->position;
-    });
+    })->toArray();
     
     ?>
 
