@@ -78,7 +78,7 @@ foreach([
                 ->sortBy(function($st){
                     return array_reverse(explode(" ", $st->title));
                 })
-                ->sortByDesc(function($st){
+                ->sortBy(function($st){
                     return $st->position;
                 });
 
