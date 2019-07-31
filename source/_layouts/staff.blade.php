@@ -88,6 +88,11 @@ return $string;
 
 
     $filteredHofs = $staff->filter(function($st) use ($theDept){
+        foreach($theDept->hofs as $hof) {
+            print($hof."<br>");
+            
+        }
+        print($st->title."<br>");
         return in_array($st->title, $theDept->hofs);
     })
     ->map(function($st){
