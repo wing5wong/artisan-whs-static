@@ -1,11 +1,11 @@
 ---
 title: ECO3
-name: Economics NCEA 3
+name: Economics
 code: ECO3
 subject_area: Economics
-date: 2019-06-30T23:17:18.630Z
+date: 2019-07-30T23:17:18.630Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
