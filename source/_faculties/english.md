@@ -11,8 +11,7 @@ intro: >-
   orally, visually or in writing.
 hofs:
   - Mrs V. Kasner
-ahofs:
-  - Mrs C. Peak
+ahofs: []
 ---
 **Staff: who are we?**
 
