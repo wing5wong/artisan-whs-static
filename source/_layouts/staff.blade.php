@@ -79,7 +79,7 @@ foreach([
                     return array_reverse(explode(" ", $st->title));
                 })
                 ->sortBy(function($st){
-                    return -($st->position);
+                    return $st->position;
                 });
 
 
