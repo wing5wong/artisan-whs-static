@@ -1,11 +1,11 @@
 ---
 title: PSY3
-name: Psychology NCEA 3
+name: Psychology
 code: PSY3
 subject_area: Psychology
-date: 2019-07-01T02:30:51.277Z
+date: 2019-07-31T02:30:51.277Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
