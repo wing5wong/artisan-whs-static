@@ -1,15 +1,16 @@
 ---
 title: GEO2
-name: Geography NCEA 2
+name: Geography
 code: GEO2
 subject_area: Geography
-date: 2019-07-01T00:32:50.863Z
+date: 2019-07-31T00:32:50.863Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: GEO3
+leads_to:
+  - GEO3
 credits: '23'
 entry_requirements: 12 credits in GEO1 or ENG1 or HIS1 or HOF/TIC approval.
 course_fees: >-
