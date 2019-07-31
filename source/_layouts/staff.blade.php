@@ -75,6 +75,9 @@ foreach([
                 ->filter(function($s) use ($theDept){
                         return  !(in_array($s->title, $theDept->hofs) or in_array($s->title, $theDept->ahofs));
                 })
+                ->sortByDesc(function($st){
+                    return $st->position;
+                });
                 ->sortBy(function($st){
                     return array_reverse(explode(" ", $st->title));
                 });
