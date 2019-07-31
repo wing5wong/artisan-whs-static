@@ -88,14 +88,14 @@ return $string;
 
 
     $filteredHofs = $staff->filter(function($st) use ($theDept){
-        return in_array($s->title, $theDept->hofs);
+        return in_array($st->title, $theDept->hofs);
     })
     ->map(function($st){
         return $st->title . " - " . $st->position;
     });
 
     $filteredAHofs = $staff->filter(function($st) use ($theDept){
-        return in_array($s->title, $theDept->ahofs);
+        return in_array($st->title, $theDept->ahofs);
     })
     ->map(function($st){
         return $st->title . " - " . $st->position;
