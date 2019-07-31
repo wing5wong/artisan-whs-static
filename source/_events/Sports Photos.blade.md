@@ -6,7 +6,7 @@ image: >-
 description: ''
 ---
 
-There will be Team photos on Monday 5 August.  
+Team photos are on Monday 5 August.  
 
 The schedule for the photos (above) is also on the Reeves Gym Sports Notice Board.  
 
