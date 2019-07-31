@@ -1,16 +1,15 @@
 ---
 title: DVC0
-name: Design & Visual Communication Year 10
+name: Design & Visual Communication
 code: DVC0
 subject_area: Design & Visual Communication
-date: 2019-06-30T23:06:56.949Z
+date: 2019-07-31T23:06:56.949Z
 year: '10'
-type: Optional - Half Year
-course_duration: Two Terms
+type: Optional
+course_duration: Half Year
 course_level: Year 10
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
