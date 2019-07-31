@@ -78,11 +78,8 @@ foreach([
                 ->sortBy(function($st){
                     return array_reverse(explode(" ", $st->title));
                 })
-                ->sortBy(function($st,$st2){
-                    if(empty($st->position) and empty($st2->position)) return 0;
-                    if(empty($st->position) and !empty($st2->position)) return 1;
-                    if(!empty($st->position) and empty($st2->position)) return -1;
-                    return strcmp($st->position, $st2->position);
+                ->sortBy(function($st){
+                    return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
                 });
 
 
