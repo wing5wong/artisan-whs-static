@@ -12,5 +12,7 @@ intro: >-
   them to make sense of the world around them.
 hofs:
   - Mr C. Burgess
+ahofs:
+  - Mr C. Burrows
 ---
 Information pending....

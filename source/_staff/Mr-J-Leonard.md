@@ -1,6 +1,7 @@
 ---
 title: Mr J. Leonard
-position: 
+position: Dean of Maunga House
 departments:
   - Mathematics
 ---
+
