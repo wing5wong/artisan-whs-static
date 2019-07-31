@@ -1,14 +1,16 @@
 ---
 title: GEO3
-name: Geography NCEA 3
+name: Geography
 code: GEO3
 subject_area: Geography
-date: 2019-07-01T00:34:00.465Z
+date: 2019-07-31T00:34:00.465Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+leads_to:
+  - GEO3
 credits: 19 - 23
 entry_requirements: 12 credits GEO2 or 12 ENG2 Credits or HOF/TIC approval.
 course_fees: >-
