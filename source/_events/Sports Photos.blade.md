@@ -6,5 +6,11 @@ image: >-
 description: ''
 ---
 
-<h4><br />Team Photos</h4>
+There will be Sport Team photos on Monday 5 August.  
+
+The schedule for the photos (above) is also on the Reeves Gym Sports Notice Board.  
+
+Make sure you bring your team uniform.  
+
+Please be at least 10 minutes early dressed and ready to go.
 
