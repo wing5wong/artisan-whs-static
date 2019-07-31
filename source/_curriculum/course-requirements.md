@@ -13,30 +13,17 @@ intro: >-
 * Success in the Whanganui High School examinations gives students provisional entry into their subjects the following year.
 * Level 2 and Level 3 subject entry is confirmed through the NCEA examinations.
 
-To ensure students have as wide a variety of options in the future as possible, students must select **\*_Six_** subject lines
+To ensure students have as wide a variety of options in the future as possible, students must select a subject from each option line and one 'spare' option.
 
 #### Year 11:
 
 * **English and Mathematics are compulsory full year courses.**
-* **We strongly advise students to take Science - either as a full year option or as a semester course.**
-
-**Semester Courses:**
-
-* In order to broaden student options in 2019, students may select a mixture of both semester (half year) and full year courses.Students including "Semester Courses" as part of their option selection, must select an **EVEN** number of semester courses.
-  The first semester course will run for the first seventeen weeks of the school year. Students then 'swap' to their second selection.
-  In 2020, semester courses will extend into Year 12. This means a student can choose a "follow on" course to the one taken in Year 11.
-
-**Alternative:**
-
-* Courses in Year 11 have been assigned a "Point" value determined by course length.
-* A full year course - like English and Mathematics - which all Year 11 students must take is worth '2 points'
-* A semester (or half year course) is worth 1 point
-* Students may choose a mixture of both full year and half year courses provided the number of courses add to a total point value of twelve (12)   
-* Eg. _OT1S (1 points)_ + _CLW1S (1 point)_ +_MAG1 (2 points), + ENG1 (2 points) + ACC1 (2 points)+ HLT1 (2 points) + SPA1 (2 points) = 12 points in total_
+* **We strongly advise students to take Science - either as a full year option.**
 
 #### Year 12 and 13:
 
 * **Students in Year 12 are strongly advised to continue studying an English and a Mathematics option.**
+* **There are no compulsory courses in Year 12 or Year 13.**
 
 For both Level 2 and Level 3 courses, Students must achieve any pre-requisites as described in the course’s outline.
 
@@ -52,9 +39,9 @@ In both Level 2 and Level 3, twenty (20) of these credits can come from the prec
 
 Students who gain 50 Merit or 50 Excellence credits at each level of NCEA earn an Endorsed Level 1, 2 or 3 Certificate respectively.
 
-Students who gain either 14 Merit or 14 Excellence credits in a subject (within a calendar year) receive that subject endorsed with Merit / Excellence.
+Students who gain either 14 Merit or 14 Excellence credits in a subject (including NCEA external examinations) within a calendar year, receive that subject endorsed with Merit / Excellence.
 
-A Vocational Award or Endorsement can only be gained at _**Level 2.**_
+A Vocational Award or Endorsement can only be gained at **_Level 2._**
 
 Students who gain 20 ‘Sector’ Related credits along with 40 ‘Recommended’ credits in any one of the six Vocational Pathways receive a Vocational Award.
 
@@ -77,7 +64,7 @@ To qualify you will need:
 * Scholarship is a significant monetary award to recognise and honour top academic students at Level 3. It does not attract credits or contribute to the Level 3 qualification but is included on a student’s Record of Learning.
 * Students must demonstrate very high academic attainment in the previous year in order to enter the Scholarship examinations.
 
-#### Whanganui High School Diploma
+#### Whanganui High School Diploma - Year 13
 
 * The Whanganui High School Diploma recognises the student’s graduation from secondary school and transition to tertiary study or the world of work.
 * The Diploma may be awarded ‘with Merit’ or ‘with Distinction’
