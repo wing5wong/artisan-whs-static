@@ -1,15 +1,16 @@
 ---
 title: TOU2
-name: Tourism NCEA 2
+name: Tourism
 code: TOU2
 subject_area: Tourism
-date: 2019-07-01T03:42:51.015Z
+date: 2019-07-31T03:42:51.015Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-leads_to: TOU3
+leads_to:
+  - TOU3
 credits: Up to 24
 entry_requirements: Nil
 course_fees: $65. A laptop is beneficial
