@@ -1,15 +1,16 @@
 ---
 title: DVC1
-name: Design & Visual Communication NCEA 1
+name: Design & Visual Communication
 code: DVC1
 subject_area: Design & Visual Communication
-date: 2019-06-30T23:08:28.719Z
+date: 2019-07-31T23:08:28.719Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: DVC2
+leads_to:
+  - DVC2
 credits: '21'
 entry_requirements: ''
 course_fees: $25
