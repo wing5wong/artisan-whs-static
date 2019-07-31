@@ -118,7 +118,7 @@ foreach([
                         <strong>HOF:</strong> 
                         @if(count($filteredHofs))
                             @foreach($filteredHofs as $hof)
-                                {{ $hof->title }} @if(!$loop->last)<em>, {{ $hof->position }}<em>@endif
+                                {{ $hof->title }}<em>, {{ $hof->position }}<em>@if(!$loop->last), @endif
                             @endforeach
                         @endif
                     </div>
