@@ -5,6 +5,13 @@ image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564383833/News/Team_Photo_times.jpg
 description: ''
 ---
+Team photos are on Monday 5 August.  
 
-<h4><br />Team Photos</h4>
+The schedule for the photos (above) is also on the Reeves Gym Sports Notice Board.  
 
+Make sure you bring your team uniform.  
+
+Please be at least 10 minutes early dressed and ready to go.
+
+_Lisa Murphy  
+WHS Director of Sport_
