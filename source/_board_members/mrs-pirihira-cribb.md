@@ -11,7 +11,7 @@ Ko Pirihira (Piri) Cribb tōku ingoa.
 
  
 
-I am currently a co-opted member of the board of trustees on behalf of the Māori whānau at Whanganui High School.  I seek your vote to secure a seat at the board table as a parent-elect representative because I believe that ALL students (and their families) are entitled to an education that exposes a balanced world view of the community and country that we live in.  I want to represent that view on behalf of ALL parents.
+I am currently a member of the board of trustees on behalf of the Māori whānau at Whanganui High School.  I seek your vote to secure a seat at the board table as a parent-elect representative because I believe that ALL students (and their families) are entitled to an education that exposes a balanced world view of the community and country that we live in.  I want to represent that view on behalf of ALL parents.
 
  
 
