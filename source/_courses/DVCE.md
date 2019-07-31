@@ -1,16 +1,15 @@
 ---
 title: DVCE
-name: Design & Visual Communication Year 9
+name: Design & Visual Communication
 code: DVCE
 subject_area: Design & Visual Communication
-date: 2019-06-30T23:10:39.640Z
+date: 2019-07-31T23:10:39.640Z
 year: '9'
-type: Year 9 - Optional
+type: Optional
 course_duration: One Term
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
