@@ -1,15 +1,16 @@
 ---
 title: HIS1
-name: History NCEA 1
+name: History
 code: HIS1
 subject_area: History
-date: 2019-07-01T00:48:56.543Z
+date: 2019-07-31T00:48:56.543Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: HIS2
+leads_to:
+  - HIS2
 credits: '20'
 entry_requirements: ''
 course_fees: field trip
