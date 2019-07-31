@@ -41,101 +41,101 @@ foreach([
 </div>
 
         <?php
-foreach([
-"The Arts",
-"Deans",
-"Digital Technology",
-"English",
-"Faculty Heads",
-"Guidance Counsellors",
-"Instrumental Music Tutors",
-"International",
-"Languages",
-"Learning Support Centre",
-"Librarians",
-"Mathematics",
-"Physical Education and Health",
-"Sciences",
-"Social Sciences",
-"Sports",
-"Study / External Studies",
-"Support and Ancilliary",
-"Technology",
-"Vocational Studies",
-"Te Atawhai / Special Needs"
-] as $dept){
+            foreach([
+            "The Arts",
+            "Deans",
+            "Digital Technology",
+            "English",
+            "Faculty Heads",
+            "Guidance Counsellors",
+            "Instrumental Music Tutors",
+            "International",
+            "Languages",
+            "Learning Support Centre",
+            "Librarians",
+            "Mathematics",
+            "Physical Education and Health",
+            "Sciences",
+            "Social Sciences",
+            "Sports",
+            "Study / External Studies",
+            "Support and Ancilliary",
+            "Technology",
+            "Vocational Studies",
+            "Te Atawhai / Special Needs"
+            ] as $dept){
 
-    $theDept = $faculties->filter(function($f) use ($dept){
-        return $f->title === $dept;
-    })->first();
+                $theDept = $faculties->filter(function($f) use ($dept){
+                    return $f->title === $dept;
+                })->first();
 
-$filteredStaff = $staff->filter(function($s) use ($dept){
-return in_array($dept,$s->departments);
-})
-->filter(function($s) use ($theDept){
-        return  !(in_array($s->title, $theDept->hofs) or in_array($s->title, $theDept->ahofs));
-})
-->sortBy(function($st){
-    return array_reverse(explode(" ", $st->title));
-})
-->map(function($person){
-    $string = $person->title;
-    if($person->position){
-        $string .= " - " . $person->position;
-    }
-return $string;
-})->toArray();
+                $filteredStaff = $staff->filter(function($s) use ($dept){
+                return in_array($dept,$s->departments);
+                })
+                ->filter(function($s) use ($theDept){
+                        return  !(in_array($s->title, $theDept->hofs) or in_array($s->title, $theDept->ahofs));
+                })
+                ->sortBy(function($st){
+                    return array_reverse(explode(" ", $st->title));
+                })
+                ->map(function($person){
+                    $string = $person->title;
+                    if($person->position){
+                        $string .= " - " . $person->position;
+                    }
+                return $string;
+                })->toArray();
 
 
-    $filteredHofs = $staff->filter(function($st) use ($theDept){
-        if(in_array($st->title, $theDept->hofs)){
-            print ($st->title . "is the hof of ". $theDept->title);
-        }
-        return in_array($st->title, $theDept->hofs);
-    })
-    ->map(function($st){
-        print($st->title . " - " . $st->position);
-        return $st->title . " - " . $st->position;
-    })->toArray();
 
-    $filteredAHofs = $staff->filter(function($st) use ($theDept){
-        return in_array($st->title, $theDept->ahofs);
-    })
-    ->map(function($st){
-        return $st->title . " - " . $st->position;
-    })->toArray();
-    
-    ?>
 
-@if(!empty($filteredStaff))
-<details>
-    <summary>
-    <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
-    </summary>
+                $filteredHofs = $staff->filter(function($st) use ($theDept){
+                    return in_array($st->title, $theDept->hofs);
+                })
+                ->map(function($st){
+                    return $st->title . " - " . $st->position;
+                })->toArray();
 
-    @if($theDept->hofs)
-    <div class="my-3">
-        <strong>HOF:</strong> {{implode(', ', $filteredHofs)}}
-    </div>
-    @endif
+                $filteredAHofs = $staff->filter(function($st) use ($theDept){
+                    return in_array($st->title, $theDept->ahofs);
+                })
+                ->map(function($st){
+                    return $st->title . " - " . $st->position;
+                })->toArray();
+                
+                ?>
 
-    @if($theDept->ahofs)
-    <div class="my-3">
-        <strong>Assistant HOFS:</strong> {{implode(', ', $filteredAHofs)}}
-    </div>
-    @endif
 
-    <table class="table table-striped table-borderless table-hover">
-    @foreach($filteredStaff as $member)
-        <tr>
-            <td>
-                {{ $member }}
-            </td>
-        </tr>
-    @endforeach
-    </table>
-</details>
-@endif
+
+                @if(!empty($filteredStaff))
+                <details>
+                    <summary>
+                    <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
+                    </summary>
+
+                    @if($theDept->hofs)
+                    <div class="my-3">
+                        <strong>HOF:</strong> {{implode(', ', $filteredHofs)}}
+                    </div>
+                    @endif
+
+                    @if($theDept->ahofs)
+                    <div class="my-3">
+                        <strong>Assistant HOFS:</strong> {{implode(', ', $filteredAHofs)}}
+                    </div>
+                    @endif
+
+                    <table class="table table-striped table-borderless table-hover">
+                    @foreach($filteredStaff as $member)
+                        <tr>
+                            <td>
+                                {{ $member }}
+                            </td>
+                        </tr>
+                    @endforeach
+                    </table>
+                </details>
+                @endif
 
 
 <?php
