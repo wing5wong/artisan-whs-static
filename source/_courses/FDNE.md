@@ -1,16 +1,15 @@
 ---
 title: FDNE
-name: Food & Nutrition General Year 9
+name: Food & Nutrition General
 code: FDNE
 subject_area: Food and Nutrition
-date: 2019-07-01T00:15:27.750Z
+date: 2019-08-01T00:15:27.750Z
 year: '9'
-type: Year 9 Optional
+type: Optional
 course_duration: One Term
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
