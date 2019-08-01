@@ -1,15 +1,16 @@
 ---
 title: BAC1
-name: Building & Construction NCEA 1
+name: Building & Construction
 code: BAC1
 subject_area: Building & Construction
 date: 2019-06-28T04:01:48.256Z
 year: '11'
-type: Level 1 - Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard
-leads_to: BAC2
+leads_to:
+  - BAC2
 credits: '20'
 entry_requirements: ''
 course_fees: $80
