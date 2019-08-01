@@ -1,18 +1,18 @@
 ---
-title: TTD2
-name: Textiles & Design NCEA 2
-code: TTD2
-subject_area: Textiles and Design
-date: 2019-07-01T03:48:19.426Z
+title: FDZ2
+name: Fashion Design
+code: FDZ2
+subject_area: Fashion Design
+date: 2019-08-01T03:48:19.426Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to: TTD3
 credits: '25'
-entry_requirements: 12 credits in TTD1 and HOF/TIC approval.
-course_fees: $50
+entry_requirements: 12 credits in FDZ1 and HOF/TIC approval.
+course_fees: $60
 notes: ''
 ---
-The course is intended to provide students with the opportunity to explore many areas of Textile and Design. The emphasis is to develop from where they are now and grow from there, both technically and creatively. They will enter community fashion shows such as; the regional Secondary Schools Fashion Show. Assessment: Portfolio work and constructed garments.
+The course is intended to provide students with the opportunity to explore many areas of fashion design. The emphasis is to develop from where they are now and grow from there, both technically and creatively. Assessment: Portfolio work and constructed garments.
