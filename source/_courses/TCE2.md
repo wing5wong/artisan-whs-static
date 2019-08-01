@@ -1,15 +1,16 @@
 ---
 title: TCE2
-name: Technology Engineering NCEA 2
+name: Technology Engineering
 code: TCE2
 subject_area: Technology Engineering
-date: 2019-07-01T03:18:50.564Z
+date: 2019-08-01T03:18:50.564Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-leads_to: TCE3
+leads_to:
+  - TCE3
 credits: '16'
 entry_requirements: 12 credits in TCE1 or TEC1 and HOF/TIC approval
 course_fees: $70 plus kit fee (approx $320)
