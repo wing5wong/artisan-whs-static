@@ -3,13 +3,13 @@ title: TCE3
 name: Technology Engineering
 code: TCE3
 subject_area: Technology Engineering
-date: 2019-08-01T03:34:17.019Z
+date: 2019-08-02T03:34:17.019Z
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-credits: '15'
+credits: '12'
 entry_requirements: 12 credits in TCE2 or TEC2 and HOF/TIC approval.
 course_fees: $70
 ue_approved: true
