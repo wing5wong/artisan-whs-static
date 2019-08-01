@@ -1,6 +1,6 @@
 ---
 title: BAC2
-name: Building & Construction NCEA 2
+name: Building & Construction
 code: BAC2
 subject_area: Building & Construction
 date: 2019-06-28T04:02:34.602Z
@@ -9,7 +9,8 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-leads_to: BAC3
+leads_to:
+  - BAC3
 credits: '32'
 entry_requirements: >-
   BAC1 and intend studying an English Course at Level 2 and HOF/TIC approval.
