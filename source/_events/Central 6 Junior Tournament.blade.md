@@ -11,5 +11,5 @@ Please check Reeves Gym Sports Notice Board for students involved in this tourna
 
 **There will be a meeting on Monday 5 August at 1st break in the Te Wehi (Seddon) gym.**
 
-_Lisa Murphy_\
+_Lisa Murphy_  
 _WHS Director of Sport_
