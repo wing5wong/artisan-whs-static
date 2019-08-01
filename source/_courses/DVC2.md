@@ -1,15 +1,16 @@
 ---
 title: DVC2
-name: Design & Visual Communication NCEA 2
+name: Design & Visual Communication
 code: DVC2
 subject_area: Design & Visual Communication
-date: 2019-06-30T23:09:24.716Z
+date: 2019-07-31T23:09:24.716Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: DVC3
+leads_to:
+  - DVC3
 credits: '25'
 entry_requirements: 12 Credits in DVC1 and HOF approval.
 course_fees: $25
