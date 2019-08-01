@@ -22,5 +22,5 @@ Transport cost:  $17 (PAID by 31st July to the Student Centre).
 Internet payment:  A/c 123163 0095001 00 – Include CHILD’s name and ‘Massey Open Day’ 
 in payment details.
 
-_Mr P Keene_  
+_Mr Paul Keene_  
 _Careers Advisor_
