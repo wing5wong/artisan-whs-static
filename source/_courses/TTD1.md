@@ -9,7 +9,8 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: TTD2
+leads_to:
+  - FDZ2
 credits: '25'
 entry_requirements: ''
 course_fees: $60
