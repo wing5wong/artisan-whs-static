@@ -1,11 +1,11 @@
 ---
-title: FNI1
-name: Food & Nutrition Introductory NCEA 1
+title: FDH1
+name: Hospitality
 code: FNI1
 subject_area: Hospitality
-date: 2019-07-01T00:19:07.644Z
+date: 2019-08-01T00:19:07.644Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard
