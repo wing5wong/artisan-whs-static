@@ -1,5 +1,5 @@
 ---
-title: Massey Open Day - Yr 12/13
+title: Massey Open Day - Years 12-13
 date: 2019-08-07T00:00:00.000Z
 description: ''
 ---
