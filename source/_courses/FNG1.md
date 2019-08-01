@@ -1,15 +1,17 @@
 ---
 title: FNG1
-name: Food & Nutrition General NCEA 1
+name: Food & Nutrition General
 code: FNG1
 subject_area: Food and Nutrition
-date: 2019-07-01T00:16:31.706Z
+date: 2019-08-01T00:16:31.706Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: FNG2 or FNI2
+leads_to:
+  - FNG2
+  - FDH2
 credits: '24'
 entry_requirements: ''
 course_fees: $75

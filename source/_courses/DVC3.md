@@ -1,11 +1,11 @@
 ---
 title: DVC3
-name: Design & Visual Communication NCEA 3
+name: Design & Visual Communication
 code: DVC3
 subject_area: Design & Visual Communication
-date: 2019-06-30T23:10:05.306Z
+date: 2019-07-31T23:10:05.306Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
@@ -15,4 +15,4 @@ course_fees: $25
 ue_approved: true
 notes: ''
 ---
-The course aims to develop students' Design and Visual Communication ability by solving problems through Design, Modelling and advanced Graphic Communication skills. The course is structured around Design Briefs focusing on Spatial and Product Design. Students will have this opportunity to use CAD and 3D printing.
+The course aims to develop students' Design and Visual Communication ability by solving problems through Design, Modelling and advanced Graphic Communication skills. The course is structured around Design Briefs focusing on Spatial and Product Design. Students will have the opportunity to use CAD and 3D printing.

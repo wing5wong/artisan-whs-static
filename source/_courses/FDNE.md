@@ -1,16 +1,15 @@
 ---
 title: FDNE
-name: Food & Nutrition General Year 9
+name: Food & Nutrition General
 code: FDNE
 subject_area: Food and Nutrition
-date: 2019-07-01T00:15:27.750Z
+date: 2019-08-01T00:15:27.750Z
 year: '9'
-type: Year 9 Optional
+type: Optional
 course_duration: One Term
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
@@ -21,7 +20,7 @@ To develop a basic understanding of food hygiene and preparation skills with an 
 
 **Content:**
 
-This course explores the need for hygiene rules within a kitchen, with the opportunity to practise the skills learnt, in creating both old favourite recipes and some with unusual ingredients, highlighting the fact that healthy food need not just be salad! The students will also study basic nutrition, recipe adaptation and think about some of the food related issues facing New Zealand today.
+This course explores the need for hygiene rules within a kitchen, with the opportunity to practise the skills learnt, in creating both old favourite recipes and some with unusual ingredients, highlighting the fact that healthy food need not just be salad! The students will also study basic nutrition, recipe adaptation and some of the food related issues facing New Zealand today.
 
 **Assessment:**
 

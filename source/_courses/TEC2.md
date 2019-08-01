@@ -1,15 +1,16 @@
 ---
 title: TEC2
-name: Technology Materials NCEA 2
+name: Technology Materials
 code: TEC2
 subject_area: Technology Materials
-date: 2019-07-01T03:39:47.963Z
+date: 2019-08-01T03:39:47.963Z
 year: '12'
-type: Level 2 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: TEC3
+leads_to:
+  - TEC3
 credits: '25'
 entry_requirements: '12 credits in TCE1, TEC1 or BAC1 and HOF/TIC approval'
 course_fees: $70

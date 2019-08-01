@@ -1,16 +1,16 @@
 ---
 title: TCM0
-name: Technology Materials Year 10
+name: Technology Materials
 code: TCM0
 subject_area: Technology Materials
-date: 2019-07-01T03:34:59.377Z
+date: 2019-08-01T03:34:59.377Z
 year: '10'
-type: Optional - Half Year
-course_duration: Two Terms
+type: Optional
+course_duration: Half Year
 course_level: Year 10
 assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''

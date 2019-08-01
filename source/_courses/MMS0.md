@@ -1,9 +1,9 @@
 ---
 title: MMS0
-name: Making Music Year 10
+name: Making Music
 code: MMS0
 subject_area: Making Music
-date: 2019-07-01T01:58:58.358Z
+date: 2019-08-01T01:58:58.358Z
 year: '10'
 type: Optional
 course_duration: Two Terms
