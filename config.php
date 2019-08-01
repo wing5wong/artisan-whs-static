@@ -152,6 +152,7 @@ return [
             'tags' => [],
         ],
         'prefects',
+        'school_documents',
         'staff' => [
             'section' => 'postContent',
             'tags' => [],

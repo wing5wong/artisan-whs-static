@@ -612,8 +612,17 @@ collections:
       - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-
-
+  - name: "school_documents"
+    label: "School Documents"
+    label_singular: "School Document"
+    folder: "source/__school_documents"
+    create: true
+    slug: "{{slug}}"
+  
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Filename", name: "file", widget: "file"}
 
 
   - name: static
