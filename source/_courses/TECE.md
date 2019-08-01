@@ -1,16 +1,15 @@
 ---
 title: TECE
-name: Technology Materials Year 9
+name: Technology Materials
 code: TECE
 subject_area: Technology Materials
-date: 2019-07-01T03:40:44.223Z
+date: 2019-08-01T03:40:44.223Z
 year: '9'
-type: Year 9 Optional
+type: Optional
 course_duration: One Term
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
-credits: .
+credits: ''
 entry_requirements: ''
 course_fees: ''
 notes: ''
