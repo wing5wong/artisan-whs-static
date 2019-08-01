@@ -40,8 +40,9 @@
 @endif
 
 @if(($page->leads_to) and(is_array($page->leads_to)))
-<h3 class="d-inline">Leads To:</h3> @foreach($page->leads_to as $leads)
-<a href="/courses/{{ trim($leads) }}/">{{ trim($leads) }}</a> 
+<h3 class="d-inline">Leads To:</h3> @foreach($courses->whereIn('code', $page->leads_to)->all() as $leads)
+
+<a href="{{$leads->getPath()}}">{{ $leads->code }}</a> 
 @endforeach  <br><br>
 @endif
 
