@@ -1,11 +1,11 @@
 ---
 title: FDZE
-name: Fashion Design Year 9
+name: Fashion Design
 code: FDZE
-subject_area: Textiles and Design
-date: 2019-07-01T03:42:07.704Z
+subject_area: Fashion Design
+date: 2019-08-01T03:42:07.704Z
 year: '9'
-type: Year 9 Optional
+type: Optional
 course_duration: One Term
 course_level: Year 9
 assessment_type: Optional
