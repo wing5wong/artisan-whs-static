@@ -1,15 +1,16 @@
 ---
 title: TCE1
-name: Technology Engineering NCEA 1
+name: Technology Engineering
 code: TCE1
 subject_area: Technology Engineering
-date: 2019-07-01T03:17:54.015Z
+date: 2019-08-01T03:17:54.015Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard
-leads_to: TCE2
+leads_to:
+  - TCE2
 credits: '24'
 entry_requirements: ''
 course_fees: $70
