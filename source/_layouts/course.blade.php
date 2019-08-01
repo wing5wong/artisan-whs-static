@@ -119,7 +119,7 @@ Other courses in {{ $page->subject_area }}:
 <ul>
 @foreach($courses
 ->where('subject_area', $page->subject_area)
-->where('title','!=',  $page->title)
+->where('title','<>',  $page->title)
 ->all() as $c)
 <li>
     <a href="{{$c->getPath()}}">{{ $c->name }} ({{$c->course_level}})</a>

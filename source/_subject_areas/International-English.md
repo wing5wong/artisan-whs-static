@@ -1,4 +1,4 @@
 ---
 title: International English
-faculty: International Students
+faculty: International
 ---
