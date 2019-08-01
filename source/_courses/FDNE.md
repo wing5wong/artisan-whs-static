@@ -20,7 +20,7 @@ To develop a basic understanding of food hygiene and preparation skills with an 
 
 **Content:**
 
-This course explores the need for hygiene rules within a kitchen, with the opportunity to practise the skills learnt, in creating both old favourite recipes and some with unusual ingredients, highlighting the fact that healthy food need not just be salad! The students will also study basic nutrition, recipe adaptation and think about some of the food related issues facing New Zealand today.
+This course explores the need for hygiene rules within a kitchen, with the opportunity to practise the skills learnt, in creating both old favourite recipes and some with unusual ingredients, highlighting the fact that healthy food need not just be salad! The students will also study basic nutrition, recipe adaptation and some of the food related issues facing New Zealand today.
 
 **Assessment:**
 
