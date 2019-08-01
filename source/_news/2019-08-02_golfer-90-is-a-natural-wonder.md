@@ -1,6 +1,6 @@
 ---
 title: 'Golfer, 90, is a ''natural wonder'''
-date: 2019-08-01T23:05:05.364Z
+date: 2019-07-26T23:05:05.364Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564701053/News/Matt_Carrol_Chron_27.7.19.jpg
 image_title: >-
