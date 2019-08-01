@@ -30,7 +30,10 @@ function addClass(el, className) {
 // add table class to all tables
 var tables = document.querySelectorAll('table');
 for (var i = 0; tables.length - i; i++) {
-    addClass(tables[i], "table table-striped table-borderless table-hover")
+    addClass(tables[i], "table");
+    addClass(tables[i], "table-striped");
+    addClass(tables[i], "table-borderless");
+    addClass(tables[i], "table-hover");
 }
 
 
