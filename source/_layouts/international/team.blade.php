@@ -11,6 +11,12 @@
 
 @foreach($staff->filter(function ($s) {
     return in_array("International",$s->departments);
+    })
+    ->sortBy(function($st){
+        return array_reverse(explode(" ", $st->title));
+    })
+    ->sortBy(function($st){
+        return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
     }) as $person)
     <article class="py-3">
     <h3 class="decorated py-3 mb-4">
