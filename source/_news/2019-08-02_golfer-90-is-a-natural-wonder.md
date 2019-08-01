@@ -1,6 +1,8 @@
 ---
 title: 'Golfer, 90, is a ''natural wonder'''
 date: 2019-08-01T23:05:05.364Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1564701053/News/Matt_Carrol_Chron_27.7.19.jpg
 image_title: >-
   Castlecliff Golf Club president Matt Carroll (left) and captain Ian Kitney
   presented their senior member Anneke Van Dam with flowers for her 90th
