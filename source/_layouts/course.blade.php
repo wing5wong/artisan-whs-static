@@ -118,11 +118,18 @@ Some or all of the following will be offered
 Other courses in {{ $page->subject_area }}:
 
 <?php
-$subjectAreaCourses = $courses->filter(function($c) use ($page){
-    return $c->subject_area == $page->subject_area;
-})->filter(function($c) use ($page){
-    return !($c->title == $page->title);
-});
+
+//  $subjectAreaCourses = $courses->filter(function($c) use ($page){
+//     return $c->subject_area == $page->subject_area;
+// })->filter(function($c) use ($page){
+//     return !($c->title == $page->title);
+// });
+ $subjectAreaCourses = $courses
+ ->where('subject_area', $page->subject_area)
+->where('title','!=',  $page->title)
+->all();
+
+
 ?>
 
 <ul>
