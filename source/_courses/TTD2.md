@@ -9,7 +9,8 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
-leads_to: TTD3
+leads_to:
+  - FDZ3
 credits: '25'
 entry_requirements: 12 credits in FDZ1 and HOF/TIC approval.
 course_fees: $60
