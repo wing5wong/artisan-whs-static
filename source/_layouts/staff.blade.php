@@ -81,12 +81,10 @@ foreach([
 
 
                 $filteredHofs = $staff->filter(function($st) use ($theDept){
-                    if(empty($theDept->hofs) or !count($theDept->hofs)) return false;
                     return in_array($st->title, $theDept->hofs);
                 });
 
                 $filteredAHofs = $staff->filter(function($st) use ($theDept){
-                    if(empty($theDept->ahofs) or !count($theDept->ahofs)) return false;
                     return in_array($st->title, $theDept->ahofs);
                 });
                 
