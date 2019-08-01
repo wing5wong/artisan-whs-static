@@ -1,9 +1,9 @@
 ---
 title: BAC3
-name: Building & Construction NCEA 3
+name: Building & Construction
 code: BAC3
 subject_area: Building & Construction
-date: 2019-06-28T04:03:01.272Z
+date: 2019-08-02T04:03:01.272Z
 year: '13'
 type: Optional
 course_duration: Full Year

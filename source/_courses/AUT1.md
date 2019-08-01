@@ -3,13 +3,14 @@ title: AUT1
 name: Automotive Engineering 1
 code: AUT1
 subject_area: Automotive Engineering
-date: 2019-06-28T03:57:40.911Z
+date: 2019-08-02T03:57:40.911Z
 year: '11'
-type: Level 1 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1 and 2
 assessment_type: Unit Standard
-leads_to: AUT2
+leads_to:
+  - AUT2
 credits: '22'
 entry_requirements: >-
   Class size limited. Entry by HOF/TIC approval and a record of safety and
