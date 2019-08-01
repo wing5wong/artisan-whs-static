@@ -67,6 +67,7 @@ return [
         ],
         'board_members',
         'courses' => [
+            'path' => 'courses/{code}',
             'sort' => ['course_level', 'code'],
             'extends' => '_layouts.course',
             'section' => 'postContent',
