@@ -1,11 +1,11 @@
 ---
 title: TEC3
-name: Technology Materials NCEA 3
+name: Technology Materials
 code: TEC3
 subject_area: Technology Materials
-date: 2019-07-01T03:40:17.450Z
+date: 2019-08-01T03:40:17.450Z
 year: '13'
-type: Level 3 Optional
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard.
