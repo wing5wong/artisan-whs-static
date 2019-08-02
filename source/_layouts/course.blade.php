@@ -65,19 +65,26 @@
                 {{$page->invitation_only ? "Yes" : "No"}}
         </td>
     </tr>
+
+    @if(($page->leads_to) and(is_array($page->leads_to)))
+    <tr>
+        <th>Leads To</th>
+        <td colspan="2">
+                @foreach($courses->whereIn('code', $page->leads_to)->all() as $leads)
+                <a href="{{$leads->getPath()}}">{{ $leads->code }}</a>@if(!$loop->last), @endif
+                @endforeach
+        </td>
+    </tr>
+    @endif
+    
+    @if($page->notes)
+    <tr>
+        <th>Notes</th>
+        <td>{{ $page->notes }}</td>
+    </tr>
+    @endif
 </table>
 
-
-@if($page->background)
-<h3 class="d-inline">Purpose:</h3> {{ $page->background }} <br><br>
-@endif
-
-
-@if(($page->leads_to) and(is_array($page->leads_to)))
-<h3 class="d-inline">Leads To:</h3> @foreach($courses->whereIn('code', $page->leads_to)->all() as $leads)
-<a href="{{$leads->getPath()}}">{{ $leads->code }}</a>@if(!$loop->last), @endif
-@endforeach  <br><br>
-@endif
 
 
 <?php
@@ -123,15 +130,10 @@ Some or all of the following will be offered
     <td>
             {{ $assessment->assessment }}
     </td>
-    
 </tr>
 @endforeach
 </tbody>
 </table>
-@endif
-
-@if($page->notes)
-<h3 class="d-inline">Notes:</h3> {{ $page->notes }} <br><br>
 @endif
 
 
