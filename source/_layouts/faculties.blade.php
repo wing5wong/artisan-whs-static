@@ -23,20 +23,16 @@
 </summary>
 
 <div class="row">
-    @foreach($subject_areas->filter(function($subject_area) use ($faculty){
-    return $subject_area->faculty == $faculty->title;
-    })->sortBy('title') as $subject)
+    @foreach(
+        $subject_areas->where('faculty', $faculty->title)->all()
+        ->sortBy('title') as $subject
+    )
     <div class="col col-md-6 col-lg-6">
     <details open>
             
             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
-        @php
-        $subjectCourses = $courses->filter(function($course) use ($subject){
-        return $course->subject_area == $subject->title;
-        });
-        @endphp
         <ul>
-        @foreach($subjectCourses as $course)
+        @foreach($courses->where('subject_area', $subject->title)->all() as $course)
         <li>
             <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
         </li>
