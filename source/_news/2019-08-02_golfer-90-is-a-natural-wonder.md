@@ -7,7 +7,7 @@ image_title: >-
   Castlecliff Golf Club president Matt Carroll (left) and captain Ian Kitney
   presented their senior member Anneke Van Dam with flowers for her 90th
   birthday.
-image_credit: Photo / Bevan Conley
+image_credit: Bevan Conley
 description: >-
   Castlecliff Golf Club president Matt Carroll (left) and captain Ian Kitney
   presented their senior member Anneke Van Dam with flowers for her 90th
