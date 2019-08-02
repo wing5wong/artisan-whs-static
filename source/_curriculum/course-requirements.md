@@ -18,7 +18,7 @@ To ensure students have as wide a variety of options in the future as possible, 
 #### Year 11:
 
 * **English and Mathematics are compulsory full year courses.**
-* **We strongly advise students to take Science - either as a full year option.**
+* **We strongly advise students to take Science**
 
 #### Year 12 and 13:
 
