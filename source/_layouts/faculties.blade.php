@@ -24,8 +24,8 @@
 
 <div class="row">
     @foreach(
-        $subject_areas->where('faculty', $faculty->title)->all()
-        ->sortBy('title') as $subject
+        $subject_areas->where('faculty', $faculty->title)->sortBy('title')->all()
+         as $subject
     )
     <div class="col col-md-6 col-lg-6">
     <details open>
