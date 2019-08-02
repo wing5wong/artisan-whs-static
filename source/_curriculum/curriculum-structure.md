@@ -8,6 +8,7 @@ intro: .
 ## Course Structure
 
 Whanganui High School offers the following course structure:
+
 | Entry Level | Pre-NCEA  | NCEA Level 1  | NCEA Level 2  | NCEA Level 3 |
 |---|---|---|---|---|
 | Year 9 | Year 10 | Year 11 | Year 12 | Year 13 |
@@ -20,7 +21,7 @@ _(Using Drama as an example)_
 
 | Entry Level | Pre-NCEA  | NCEA Level 1  | NCEA Level 2  | NCEA Level 3 |
 |---|---|---|---|---|
- | DRA**E**|  DRA**0**| DRA**1**| DRA**2**| DRA**3**|
+| DRA**E** |  DRA**0** | DRA**1**| DRA**2**| DRA**3**|
 
 ## Multilevel Courses
 
@@ -34,10 +35,9 @@ Course pathways have been designed so that students can develop their interests 
 
 _Example:   A student who is interested in Art could plan the following course pathway:_
 
-
 |Year 9 | Year 10 | Year 11 | Year 12 | Year 13|
 |---|---|---|---|---|
-|ARTE |  ART0 |  ART1 | ARP2 + ARD2 |  ARP3 + ARD3   |  
+|ARTE |  ART0 |  ART1 | ARP2 + ARD2 | ARP3 + ARD3   | 
 
 
 ## Course Specialisation
@@ -49,12 +49,9 @@ _Example: A student might be very interested in Science.  They might choose th
 |Year 9 | Year 10 | Year 11 | Year 12 | Year 13|
 |---|---|---|---|---|
 |SCIE|   SCI0 | SCG1  |BIO2 |  BIO3    |
-
- ||| SCE1 | CHE2 | CHE3  |
-
- ||| SCI1 |  PHY2 | PHY3   |
-
- ||||  ELE2  | ELE3     |   
+||| SCE1 | CHE2 | CHE3  |
+||| SCI1 | PHY2 | PHY3   |
+|||| ELE2  | ELE3     |  
 
 ## Curriculum Levels
 
@@ -68,10 +65,8 @@ To cater for different student abilities, Whanganui High School offers courses o
 
     |||||
     |---|---|---|---|
-    |Mathematics  |Introductory  |  NZ Curriculum Level 3 |  MAIE|
-
+    |Mathematics  |Introductory  | NZ Curriculum Level 3 |  MAIE|
     |Mathematics |  Middle Band | NZ Curriculum Level 4 |  MATE|
-
     |Mathematics  |  Extension  | NZ Curriculum Level 5 | MAEE|
 
 * ### Pre-NCEA Courses
@@ -90,6 +85,7 @@ To cater for different student abilities, Whanganui High School offers courses o
     NCEA Level 1 courses are assessed at Level 6 of the NZ Curriculum. Courses are either fully internally assessed or a mixture of internal and external assessment.
     
     _(Using Science as an example)_
+
     ||||
     |---|---|---|
     |NCEA Level 1 Science|   **I**nternal | SC**I**1|    
