@@ -8,7 +8,7 @@
 {!! $page !!}
 
 @if($page->entry_requirements)
-<div class="card text-white bg-success mb-3">
+<div class="card text-white bg-success my-5">
     <h3 class="card-header">Entry Requirements:</h3>
     <div class="card-body">
         <p class="card-text">{{ $page->entry_requirements }}</p>
@@ -16,7 +16,7 @@
 </div>
 @endif
 
-<table>
+<table class="my-5">
     <tr>
         <th>Assessment</th>
         <th>Level</th>
