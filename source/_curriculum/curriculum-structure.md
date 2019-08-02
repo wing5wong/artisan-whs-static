@@ -126,16 +126,16 @@ For the Profile Builder tool [refer to the Vocational Pathways website.](http://
 
 * **NCEA Level 3 Courses**
 
-NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13 some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
+    NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13 some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
 
 * **NCEA Scholarship**
 
-Whanganui High School offers NCEA Level 3 students the opportunity to sit the NCEA Scholarships examination in subjects taught at Level 3.
+    Whanganui High School offers NCEA Level 3 students the opportunity to sit the NCEA Scholarships examination in subjects taught at Level 3.
 
-_Example: The NCEA Scholarship Chemistry examination is offered as part of Level 3 Chemistry._
+    _Example: The NCEA Scholarship Chemistry examination is offered as part of Level 3 Chemistry._
 
 * **University Entrance Approval Courses**
 
-Whanganui High School Level 3 courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
+    Whanganui High School Level 3 courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
 
-In addition, if a course offers University Entrance Literacy credits, these are identified at the top of the course description.
+    In addition, if a course offers University Entrance Literacy credits, these are identified at the top of the course description.
