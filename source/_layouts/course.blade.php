@@ -49,6 +49,22 @@
                 {{ $page->course_fees }}
         </td>
     </tr>
+    <tr>
+        <th>U.E. Approved</th>
+        <th>Endorsement</th>
+        <th>Invitation Only</th>
+    </tr>
+    <tr>
+        <td>
+                {{$page->ue_approved ? "Yes" : "No"}}
+        </td>
+        <td>
+                {{$page->endorsement ? "Yes" : "No"}}
+        </td>
+        <td>
+                {{$page->invitation_only ? "Yes" : "No"}}
+        </td>
+    </tr>
 </table>
 
 
@@ -63,17 +79,6 @@
 @endforeach  <br><br>
 @endif
 
-@if($page->ue_approved)
-<h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? "Yes" : "No"}} <br><br> 
-@endif
-
-@if($page->endorsement)
-<h3 class="d-inline">Endorsement:</h3> {{$page->endorsement ? "Yes" : "No"}} <br><br> 
-@endif
-
-@if($page->invitation_only)
-<h3 class="d-inline">Invitation Only:</h3> {{$page->invitation_only ? "Yes" : "No"}} <br><br> 
-@endif
 
 <?php
 $courseAssessments = $assessments->filter(function($assessment) use ($page){
@@ -123,7 +128,6 @@ Some or all of the following will be offered
 @endforeach
 </tbody>
 </table>
-<br><br>
 @endif
 
 @if($page->notes)
