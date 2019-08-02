@@ -8,9 +8,9 @@
 {!! $page !!}
 
 @if($page->entry_requirements)
-<div class="card text-white bg-success mb-3" style="max-width: 18rem;">
-        <h3 class="card-header">Entry Requirements:</h3>
+<div class="card text-white bg-success">
         <div class="card-body">
+          <h3 class="card-header">Entry Requirements:</h3>
           <p class="card-text">{{ $page->entry_requirements }}</p>
         </div>
       </div>
