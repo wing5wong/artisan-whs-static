@@ -77,45 +77,43 @@ $courseAssessments = $assessments->filter(function($assessment) use ($page){
 });
 ?>
 @if(count($courseAssessments)>0)
-<div class="card mb-3">
-        <h3 class="card-header">Available Standards:</h3>
-        <div class="card-body">
-            <p class="card-title">Some or all of the following will be offered</p>
-            <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Title</th>
-                            <th>Description</th>
-                            <th>Level</th>
-                            <th>Credits</th>
-                            <th>Assessment</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                    @foreach($courseAssessments->sortBy('title') as $assessment)
-                    <tr>
-                        <td>
-                            <a href="{{ $assessment->pdf }}">{{ $assessment->title }}</a>
-                        </td>
-                        <td>
-                                {{ $assessment->description }}
-                        </td>
-                        <td>
-                                {{ $assessment->level }}
-                        </td>
-                        <td>
-                                {{ $assessment->credits }}
-                        </td>
-                        <td>
-                                {{ $assessment->assessment }}
-                        </td>
-                        
-                    </tr>
-                    @endforeach
-                    </tbody>
-                    </table>
-        </div>
-    </div>
+<h3 class="d-inline">Available Standards:</h3>
+Some or all of the following will be offered
+
+<table class="table">
+<thead>
+    <tr>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Level</th>
+        <th>Credits</th>
+        <th>Assessment</th>
+    </tr>
+</thead>
+<tbody>
+@foreach($courseAssessments->sortBy('title') as $assessment)
+<tr>
+    <td>
+        <a href="{{ $assessment->pdf }}">{{ $assessment->title }}</a>
+    </td>
+    <td>
+            {{ $assessment->description }}
+    </td>
+    <td>
+            {{ $assessment->level }}
+    </td>
+    <td>
+            {{ $assessment->credits }}
+    </td>
+    <td>
+            {{ $assessment->assessment }}
+    </td>
+    
+</tr>
+@endforeach
+</tbody>
+</table>
+<br><br>
 @endif
 
 @if($page->notes)
