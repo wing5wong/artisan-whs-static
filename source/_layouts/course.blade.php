@@ -41,8 +41,7 @@
 
 @if(($page->leads_to) and(is_array($page->leads_to)))
 <h3 class="d-inline">Leads To:</h3> @foreach($courses->whereIn('code', $page->leads_to)->all() as $leads)
-
-<a href="{{$leads->getPath()}}">{{ $leads->code }}</a> 
+<a href="{{$leads->getPath()}}">{{ $leads->code }}</a>@if(!$loop->last), @endif
 @endforeach  <br><br>
 @endif
 
