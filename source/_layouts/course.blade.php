@@ -14,44 +14,54 @@
         <p class="card-text">{{ $page->entry_requirements }}</p>
     </div>
 </div>
-
 @endif
 
-@if($page->type)
-<h3 class="d-inline">Course Type:</h3> {{ $page->type }} <br><br>
-@endif
+<table>
+    <tr>
+        <th>Assessment</th>
+        <th>Level</th>
+        <th>Duration</th>
+    </tr>
+    <tr>
+        <td>
+                {{ $page->assessment_type }}
+        </td>
+        <td>
+                {{ $page->course_level }}
+        </td>
+        <td>
+                {{ $page->course_duration }}
+        </td>
+    </tr>
+    <tr>
+        <th>Credits</th>
+        <th>Type</th>
+        <th>Contribution</th>
+    </tr>
+    <tr>
+        <td>
+                {{ $page->credits }}
+        </td>
+        <td>
+                {{ $page->type }} 
+        </td>
+        <td>
+                {{ $page->course_fees }}
+        </td>
+    </tr>
+</table>
 
-@if($page->credits)
-<h3 class="d-inline">Credits:</h3> {{ $page->credits }} <br><br>
-@endif
-
-@if($page->course_level)
-<h3 class="d-inline">Level:</h3> {{ $page->course_level }} <br><br>
-@endif
-
-@if($page->course_duration)
-<h3 class="d-inline">Duration:</h3> {{ $page->course_duration }} <br><br>
-@endif
 
 @if($page->background)
 <h3 class="d-inline">Purpose:</h3> {{ $page->background }} <br><br>
 @endif
 
 
-@if($page->course_fees)
-<h3 class="d-inline">Course Contribution:</h3> {{ $page->course_fees }} <br><br>
-@endif
-
-@if($page->assessment_type)
-<h3 class="d-inline">Assessment:</h3> {{ $page->assessment_type }} <br><br>
-@endif
-
 @if(($page->leads_to) and(is_array($page->leads_to)))
 <h3 class="d-inline">Leads To:</h3> @foreach($courses->whereIn('code', $page->leads_to)->all() as $leads)
 <a href="{{$leads->getPath()}}">{{ $leads->code }}</a>@if(!$loop->last), @endif
 @endforeach  <br><br>
 @endif
-
 
 @if($page->ue_approved)
 <h3 class="d-inline">U.E. Approved:</h3> {{$page->ue_approved ? "Yes" : "No"}} <br><br> 
