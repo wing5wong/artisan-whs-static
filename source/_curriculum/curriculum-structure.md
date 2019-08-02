@@ -65,7 +65,7 @@ To cater for different student abilities, Whanganui High School offers courses o
 
     |||||
     |---|---|---|---|
-    |Mathematics |Introductory | NZ Curriculum Level 3 | MAIE|
+    |Mathematics | Introductory | NZ Curriculum Level 3 | MAIE|
     |Mathematics | Middle Band | NZ Curriculum Level 4 | MATE|
     |Mathematics | Extension | NZ Curriculum Level 5 | MAEE|
 
@@ -76,9 +76,9 @@ To cater for different student abilities, Whanganui High School offers courses o
     _(Using English as an example)_
     | | | | |
     |---|---|---|---|
-    |Pre-NCEA     | English | NZ Curriculum Level 4  | ENI0|
+    |Pre-NCEA | English | NZ Curriculum Level 4 | ENI0|
     |Pre-NCEA | English | NZ Curriculum Level 5 | ENG0|
-    |Pre-NCEA  | English | NZ Curriculum Level 6 | ENE0|
+    |Pre-NCEA | English | NZ Curriculum Level 6 | ENE0|
 
 * ### NCEA Level 1 Courses
 
