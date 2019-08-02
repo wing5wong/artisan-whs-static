@@ -3,7 +3,7 @@ title: Curriculum Overview
 date: 2019-07-26T02:23:57.661Z
 intro: .
 ---
-[Course Options](/curriculum/options-for-2018) 
+[Course Options](/curriculum/options-for-2018) 
 
 ## Course Structure
 
@@ -15,7 +15,7 @@ Whanganui High School offers the following course structure:
 
 ## Subject Names
 
-All subjects have been named with reference to NCEA.  Year 9 and 10 courses are labelled Entry and Pre-NCEA.
+All subjects have been named with reference to NCEA.  Year 9 and 10 courses are labelled Entry and Pre-NCEA.
 
 _(Using Drama as an example)_
 
@@ -25,7 +25,7 @@ _(Using Drama as an example)_
 
 ## Multilevel Courses
 
-Students in Year 10 – 13 may study **any subject at any level**, as long as they meet the course entry requirements, and have gained approval from the Associate Principal. The timetable has been designed so that students are able to choose their subjects from any NCEA Level.  It is expected that students choose courses, which reflect their level of achievement rather than their age.
+Students in Year 10 – 13 may study **any subject at any level**, as long as they meet the course entry requirements, and have gained approval from the Associate Principal. The timetable has been designed so that students are able to choose their subjects from any NCEA Level.  It is expected that students choose courses, which reflect their level of achievement rather than their age.
 
 _Example: A Year 11 student may take MAO2, while a Year 13 student might decide to take ACC1._
 
@@ -33,9 +33,9 @@ _Example: A Year 11 student may take MAO2, while a Year 13 student might decide 
 
 Course pathways have been designed so that students can develop their interests right up to Year 13.
 
-_Example:   A student who is interested in Art could plan the following course pathway:_
+_Example:   A student who is interested in Art could plan the following course pathway:_
 
-|Year 9 | Year 10 | Year 11 | Year 12 | Year 13|
+|Year 9 | Year 10 | Year 11 | Year 12 | Year 13|
 |---|---|---|---|---|
 |ARTE | ART0 | ART1 | ARP2 + ARD2 | ARP3 + ARD3 | 
 
@@ -44,9 +44,9 @@ _Example:   A student who is interested in Art could plan the following course
 
 In general, students are encouraged to take a broad course in Year 9, 10 and 11, but may specialise more in Year 12 and 13.
 
-_Example: A student might be very interested in Science.  They might choose the following Science pathway:_
+_Example: A student might be very interested in Science.  They might choose the following Science pathway:_
 
-|Year 9 | Year 10 | Year 11 | Year 12 | Year 13|
+|Year 9 | Year 10 | Year 11 | Year 12 | Year 13|
 |---|---|---|---|---|
 |SCIE| SCI0 | SCG1 |BIO2 | BIO3 |
 | | | SCE1 | CHE2 | CHE3 |
@@ -66,7 +66,7 @@ To cater for different student abilities, Whanganui High School offers courses o
     |||||
     |---|---|---|---|
     |Mathematics | Introductory | NZ Curriculum Level 3 | MAIE|
-    |Mathematics | Middle Band | NZ Curriculum Level 4 | MATE|
+    |Mathematics | Middle Band | NZ Curriculum Level 4 | MATE|
     |Mathematics | Extension | NZ Curriculum Level 5 | MAEE|
 
 * ### Pre-NCEA Courses
@@ -78,7 +78,7 @@ To cater for different student abilities, Whanganui High School offers courses o
     |---|---|---|---|
     |Pre-NCEA | English | NZ Curriculum Level 4 | ENI0|
     |Pre-NCEA | English | NZ Curriculum Level 5 | ENG0|
-    |Pre-NCEA | English | NZ Curriculum Level 6 | ENE0|
+    |Pre-NCEA | English | NZ Curriculum Level 6 | ENE0|
 
 * ### NCEA Level 1 Courses
 
@@ -100,11 +100,11 @@ To cater for different student abilities, Whanganui High School offers courses o
     _(Using English as an example)_
     ||||
     |---|---|---|
-    |NCEA Level 2 English  | **E**xtension | EN**E**2|
-    |NCEA Level 2 English | **I**nternally| EN**I**2 | 
+    |NCEA Level 2 English | **E**xtension | EN**E**2|
+    |NCEA Level 2 English | **I**nternally| EN**I**2|
     |NCEA Level 2 English | **G**eneral* | EN**G**2|
 
-    (*a combination of internal and external assessments)
+    (*a combination of internal and external assessments)
 
 #### Vocational Pathways
 
@@ -126,7 +126,7 @@ For the Profile Builder tool [refer to the Vocational Pathways website.](http://
 
 * **NCEA Level 3 Courses**
 
-    NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13 some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
+    NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13 some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
 
 * **NCEA Scholarship**
 
@@ -136,6 +136,6 @@ For the Profile Builder tool [refer to the Vocational Pathways website.](http://
 
 * **University Entrance Approval Courses**
 
-    Whanganui High School Level 3 courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
+    Whanganui High School Level 3 courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
 
     In addition, if a course offers University Entrance Literacy credits, these are identified at the top of the course description.
