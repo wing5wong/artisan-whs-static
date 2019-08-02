@@ -49,7 +49,9 @@ function wrapAll(nodes, wrapper) {
     //  - If nodes is a NodeList, each node is automatically removed from 
     //    the NodeList when it is removed from its parent with appendChild.
     for (var i = 0; nodes.length - i; wrapper.firstChild === nodes[0] && i++) {
-        wrapper.setAttribute('title', nodes[i].getAttribute('title'))
+        if(nodes[i].getAttribute('title')){
+            wrapper.setAttribute('title', nodes[i].getAttribute('title'))
+        }
         wrapper.setAttribute('href', nodes[i].getAttribute('src'))
         addClass(wrapper, 'featured')
         wrapper.appendChild(nodes[i]);
