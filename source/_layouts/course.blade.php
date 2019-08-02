@@ -7,6 +7,15 @@
 
 {!! $page !!}
 
+@if($page->entry_requirements)
+<div class="card text-white bg-success mb-3" style="max-width: 18rem;">
+        <h3 class="card-header">Entry Requirements:</h3>
+        <div class="card-body">
+          <p class="card-text">{{ $page->entry_requirements }}</p>
+        </div>
+      </div>
+@endif
+
 @if($page->type)
 <h3 class="d-inline">Course Type:</h3> {{ $page->type }} <br><br>
 @endif
@@ -27,9 +36,6 @@
 <h3 class="d-inline">Purpose:</h3> {{ $page->background }} <br><br>
 @endif
 
-@if($page->entry_requirements)
-<h3 class="d-inline">Entry Requirements:</h3> {{ $page->entry_requirements }} <br><br>
-@endif
 
 @if($page->course_fees)
 <h3 class="d-inline">Course Contribution:</h3> {{ $page->course_fees }} <br><br>
