@@ -17,6 +17,9 @@ ahofs:
   - Mrs J. Jones
   - Ms C. Sleyer
   - Ms R. Armstrong
+vocational_pathways:
+  - service
+  - creative
 ---
 ## Performing Arts
 
