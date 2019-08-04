@@ -28,8 +28,6 @@
         @endforeach
 </div>
 
-
-
 <?php
 $coopted = $board_members->where('category',"Co-opted Member")->sortBy(function($st){
                     return array_reverse(explode(" ", $st->title));
