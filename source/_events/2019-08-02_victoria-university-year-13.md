@@ -1,5 +1,5 @@
 ---
-title: Victoria University - Year 13
+title: Victoria University Student Advisers - Year 13
 date: 2019-08-08T20:30:28.370Z
 ---
 Victoria University of Wellington - Course planning. 
