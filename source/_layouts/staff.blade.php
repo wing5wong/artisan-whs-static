@@ -88,7 +88,7 @@ foreach([
                 });
 
                 $filteredAHofs = $staff->filter(function($st) use ($theDept){
-                    if(!empty($theDept->ahofs)){}
+                    if(!empty($theDept->ahofs)){
                         return in_array($st->title, $theDept->ahofs);
                     }
                     return false;
