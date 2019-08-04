@@ -23,7 +23,32 @@ return [
         'youtube' => 'https://www.youtube.com/WanganuiHigh/',
         'twitter' => 'https://twitter.com/whanganuihigh',
     ],
-
+    'vp' => [
+        'service' => [
+            'name' => 'Service Industries',
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/service-industries-pathway/'
+        ],
+        'creative' => [
+            'name' => 'Creative Industries',
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/creative-industries-pathway/'
+        ],
+        'social' => [
+            'name' => 'Social and Community Services',
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/social-and-community-services-pathway/'
+        ],
+        'primary' => [
+            'name' => 'Primary Industries',
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/primary-industries-pathway/'
+        ],
+        'construction' => [
+            'name' => 'Construction and Infrastructure',
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/construction-and-infrastructure-pathway/'
+        ],
+        'manufacturing' => [
+            'name' => 'Manufacturing and Technology',
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/manufacturing-and-technology-pathway/'
+        ],
+    ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => '',
