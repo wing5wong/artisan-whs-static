@@ -25,13 +25,15 @@
 <div class="row">
     
     @if(count($faculty->vocational_pathways))
-    <ul class="list-inline">
-    @foreach($faculty->vocational_pathways as $vp)
-    <li class="list-inline-item">
-        <a href="{{ $page['vp'][$vp]['url']}}" class="badge badge-success badge-vp-{{$vp}}">{{$page['vp'][$vp]['name']}}</a>
-    </li>
-    @endforeach
-    </ul>
+    <div class="col-12">
+        <ul class="list-inline">
+        @foreach($faculty->vocational_pathways as $vp)
+        <li class="list-inline-item">
+            <a href="{{ $page['vp'][$vp]['url']}}" class="badge badge-success badge-vp-{{$vp}}">{{$page['vp'][$vp]['name']}}</a>
+        </li>
+        @endforeach
+        </ul>
+    </div>
     @endif
 
     @foreach(
