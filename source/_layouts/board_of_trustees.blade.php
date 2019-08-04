@@ -10,7 +10,12 @@
 
 <h2 class="decorated d-table">Board Members</h2>
 <div class="row no-gutters">
-        @foreach($board_members->where('category',"Board Member")->all() as $member)
+        @foreach($board_members->where('category',"Board Member")->sortBy(function($st){
+            return array_reverse(explode(" ", $st->title));
+        })
+        ->sortBy(function($st){
+            return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
+        })->all() as $member)
         <div class="col-12 col-md-4 p-5">
             <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
           @if($member->image)  
@@ -25,7 +30,12 @@
 
 
 <?php
-$coopted = $board_members->where('category',"Co-opted Member")->all();
+$coopted = $board_members->where('category',"Co-opted Member")->sortBy(function($st){
+                    return array_reverse(explode(" ", $st->title));
+                })
+                ->sortBy(function($st){
+                    return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
+                })->all();
 ?>
 @if(count($coopted))
 <h2 class="decorated d-table">Co-opted Members</h2>
@@ -46,7 +56,12 @@ $coopted = $board_members->where('category',"Co-opted Member")->all();
 
 <h2 class="decorated d-table">Also in Attendance</h2>
 <div class="row no-gutters">
-    @foreach($board_members->where('category',"Also in Attendance")->all() as $member)
+    @foreach($board_members->where('category',"Also in Attendance")->sortBy(function($st){
+        return array_reverse(explode(" ", $st->title));
+    })
+    ->sortBy(function($st){
+        return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
+    })->all() as $member)
     <div class="col-12 col-md-4 p-5">
             <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
     
