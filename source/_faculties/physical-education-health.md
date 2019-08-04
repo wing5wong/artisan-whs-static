@@ -14,6 +14,11 @@ hofs:
 ahofs:
   - Mr J. Barnett
   - Mrs M. Bennetts
+vocational_pathways:
+  - service
+  - creative
+  - social
+  - primary
 ---
 **Staff - Who are we?**
 

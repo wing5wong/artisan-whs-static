@@ -14,6 +14,11 @@ hofs:
 ahofs:
   - Mrs L. Hardcastle
   - Mr C. Turner
+vocational_pathways:
+  - creative
+  - primary
+  - construction
+  - manufacturing
 ---
 Whanganui High School has a large Technology Faculty which is able to offer a very wide range of courses to meet the needs of all of our students. All of these courses are challenging and offer learning opportunities from Year 9 to Year 13 including University Entrance qualifications. All of these courses are optional.
 

@@ -14,5 +14,12 @@ hofs:
   - Mr C. Burgess
 ahofs:
   - Mr C. Burrows
+vocational_pathways:
+  - service
+  - creative
+  - social
+  - primary
+  - construction
+  - manufacturing
 ---
 Information pending....
