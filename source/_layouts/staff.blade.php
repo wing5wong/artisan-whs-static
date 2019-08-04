@@ -63,13 +63,18 @@ foreach([
             ] as $dept){
 
                 $theDept = $faculties->firstWhere('title', $dept);
-                echo $dept;
+                
+                var_dump($theDept);
 
                 $filteredStaff = $staff->filter(function($s) use ($dept){
                     return in_array($dept,$s->departments);
                 })
                 ->filter(function($s) use ($theDept){
-                        return  !(in_array($s->title, $theDept->hofs) or in_array($s->title, $theDept->ahofs));
+                    return  !( 
+                         (!empty($theDept->hofs) and in_array($s->title, $theDept->hofs)) 
+                         or 
+                         (!empty($theDept->ahofs) and in_array($s->title, $theDept->ahofs))
+                        );
                 })
                 ->sortBy(function($st){
                     return array_reverse(explode(" ", $st->title));
@@ -80,11 +85,11 @@ foreach([
 
 
                 $filteredHofs = $staff->filter(function($st) use ($theDept){
-                        return is_array($theDept->hofs) and in_array($st->title, $theDept->hofs);
+                        return !empty($theDept->hofs) and in_array($st->title, $theDept->hofs);
                 });
 
                 $filteredAHofs = $staff->filter(function($st) use ($theDept){
-                        return is_array($theDept->ahofs) and  in_array($st->title, $theDept->ahofs);
+                        return !empty($theDept->ahofs) and in_array($st->title, $theDept->ahofs);
                 });
                 
                 ?>
@@ -97,25 +102,21 @@ foreach([
                     <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
                     </summary>
 
-                    @if($theDept->hofs)
+                    @if(count($filteredHofs))
                     <div class="my-3">
                         <strong>HOF:</strong> 
-                        @if(count($filteredHofs))
                             @foreach($filteredHofs as $hof)
                                 {{ $hof->title }}<em> - {{ $hof->position }}</em>@if(!$loop->last), @endif
                             @endforeach
-                        @endif
                     </div>
                     @endif
 
-                    @if($theDept->ahofs)
+                    @if(count($filteredAHofs))
                     <div class="my-3">
-                        <strong>Assistant HOFS:</strong> 
-                        @if(count($filteredAHofs))
+                        <strong>Assistant HOFS:</strong>
                             @foreach($filteredAHofs as $hof)
                                 {{ $hof->title }}<em> - {{ $hof->position }}</em>@if(!$loop->last), @endif
                             @endforeach
-                        @endif
                     </div>
                     @endif
 
