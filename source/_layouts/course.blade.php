@@ -80,7 +80,7 @@
     @if($page->notes)
     <tr>
         <th>Notes</th>
-        <td>{{ $page->notes }}</td>
+        <td colspan="2">{{ $page->notes }}</td>
     </tr>
     @endif
 </table>
