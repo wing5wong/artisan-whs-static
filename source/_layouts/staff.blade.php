@@ -62,9 +62,8 @@ foreach([
             "Te Atawhai / Special Needs"
             ] as $dept){
 
-                $theDept = $faculties->filter(function($f) use ($dept){
-                    return $f->title === $dept;
-                })->first();
+                $theDept = $faculties->firstWhere('title', $dept);
+                echo $dept;
 
                 $filteredStaff = $staff->filter(function($s) use ($dept){
                     return in_array($dept,$s->departments);

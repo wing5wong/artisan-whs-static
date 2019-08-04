@@ -1,6 +1,5 @@
 ---
 title: Mrs Pirihira Cribb
-position: Member
 category: Board Member
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1556755739/BoT/cribb.jpg

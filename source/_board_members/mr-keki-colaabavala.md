@@ -1,6 +1,5 @@
 ---
 title: Mr Keki Colaabavala
-position: Member
 category: Board Member
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563763971/BoT/Keki_-_Photo.jpg
