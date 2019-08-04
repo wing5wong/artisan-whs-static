@@ -64,3 +64,27 @@ h1+.featured {
 .badge-vp-manufacturing {
     background: #ac080a
 }
+
+.badge-vp-service:hover {
+    background: darken(#0091bc, 10%)
+}
+
+.badge-vp-creative:hover {
+    background: darken(#f0c500, 10%)
+}
+
+.badge-vp-social:hover {
+    background: darken(#453f85, 10%)
+}
+
+.badge-vp-primary:hover {
+    background: darken(#3c8a2c, 10%)
+}
+
+.badge-vp-construction:hover {
+    background: darken(#d26601, 10%)
+}
+
+.badge-vp-manufacturing:hover {
+    background: darken(#ac080a, 10%)
+}
