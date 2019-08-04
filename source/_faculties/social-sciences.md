@@ -16,6 +16,11 @@ ahofs:
   - Mr B. Hunter
   - Mrs C. Peak
   - Mrs J. de Smidt
+vocational_pathways:
+  - service
+  - creative
+  - social
+  - primary
 ---
 Social Sciences are ideal for students that are interested in high achievement, career progression and an informed view of the world in which we live. Social Studies starts in Year 9 and flows onto Year 10 for all students and offers a wide range of understanding, inquiry and skills. As students move through Whanganui High School, our Social Science faculty allows students to explore, inquire and learn about a wide range of subjects including: Accounting, Classical Studies, Economics, Geography, History, Psychology, Social Studies and Tourism.
 
