@@ -81,17 +81,11 @@ foreach([
 
 
                 $filteredHofs = $staff->filter(function($st) use ($theDept){
-                    if(!empty($theDept->hofs)){
-                        return in_array($st->title, $theDept->hofs);
-                    }
-                    return false;
+                        return is_array($theDept->hofs) and in_array($st->title, $theDept->hofs);
                 });
 
                 $filteredAHofs = $staff->filter(function($st) use ($theDept){
-                    if(!empty($theDept->ahofs)){
-                        return in_array($st->title, $theDept->ahofs);
-                    }
-                    return false;
+                        return is_array($theDept->ahofs) and  in_array($st->title, $theDept->ahofs);
                 });
                 
                 ?>
