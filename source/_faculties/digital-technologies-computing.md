@@ -11,6 +11,13 @@ intro: >-
   range of exciting internet and computing technologies.
 hofs:
   - Mr C. Dunn
+vocational_pathways:
+  - service
+  - creative
+  - social
+  - primary
+  - construction
+  - manufacturing
 ---
 Welcome to the Digital Technologies Department. Our facilities include 5 fully functioning computer labs, high speed fibre internet and over 120 networked computers. We also have other various networked pods around the school for student use.
 
