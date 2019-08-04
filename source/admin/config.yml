@@ -328,6 +328,18 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayField: [title"]}
       - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayField: [title"]}
+      - label: "Vocational Pathways"
+        name: "vocational_pathways"
+        widget: "select"
+        required: false
+        multiple: true
+        options:        
+          - { label: "Service Industries", value: "service" }
+          - { label: "Creative Industries", value: "creative" }
+          - { label: "Social and Community Services", value: "social" }
+          - { label: "Primary Industries", value: "primary" }
+          - { label: "Construction and Infrastructure", value: "construction" }
+          - { label: "Manufacturing and Technology", value: "manufacturing" }
 
   - name: "subject_areas"
     label: "Subject Areas"
@@ -405,13 +417,13 @@ collections:
       widget: "select"
       required: false
       multiple: true
-      options:
-        - { label: "Primary Industries", value: "primary" }        
+      options:        
         - { label: "Service Industries", value: "service" }
-        - { label: "Social and Community Services", value: "social" }
-        - { label: "Manufacturing and Technology", value: "manufacturing" }
-        - { label: "Construction and Infrastructure", value: "construction" }
         - { label: "Creative Industries", value: "creative" }
+        - { label: "Social and Community Services", value: "social" }
+        - { label: "Primary Industries", value: "primary" }
+        - { label: "Construction and Infrastructure", value: "construction" }
+        - { label: "Manufacturing and Technology", value: "manufacturing" }
 
   - name: "extracurricular_areas"
     label: "Extracurricular Areas"
