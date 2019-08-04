@@ -64,8 +64,6 @@ foreach([
 
                 $theDept = $faculties->firstWhere('title', $dept);
                 
-                var_dump($theDept);
-
                 $filteredStaff = $staff->filter(function($s) use ($dept){
                     return in_array($dept,$s->departments);
                 })
