@@ -23,7 +23,16 @@
 </summary>
 
 <div class="row">
-
+    
+    @if(count($faculty->vocational_pathways))
+    <ul class="list-inline">
+    @foreach($faculty->vocational_pathways as $vp)
+    <li class="list-inline-item">
+        <a href="{{ $page['vp'][$vp]['url']}}" class="badge badge-vp-{{$vp}}">{{$page['vp'][$vp]['name']</a>
+    </li>
+    @endforeach
+    </ul>
+    @endif
 
     @foreach(
         $subject_areas->where('faculty', $faculty->title)->sortBy('title')->all()

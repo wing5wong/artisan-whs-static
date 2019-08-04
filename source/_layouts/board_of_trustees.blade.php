@@ -15,7 +15,7 @@
         })
         ->sortBy(function($st){
             return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
-        })->all() as $member)
+        }) as $member)
         <div class="col-12 col-md-4 p-5">
             <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
           @if($member->image)  
@@ -35,7 +35,7 @@ $coopted = $board_members->where('category',"Co-opted Member")->sortBy(function(
                 })
                 ->sortBy(function($st){
                     return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
-                })->all();
+                });
 ?>
 @if(count($coopted))
 <h2 class="decorated d-table">Co-opted Members</h2>
@@ -61,7 +61,7 @@ $coopted = $board_members->where('category',"Co-opted Member")->sortBy(function(
     })
     ->sortBy(function($st){
         return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
-    })->all() as $member)
+    }) as $member)
     <div class="col-12 col-md-4 p-5">
             <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
     
