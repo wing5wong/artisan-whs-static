@@ -12,6 +12,13 @@ intro: >-
 hofs:
   - Mrs V. Kasner
 ahofs: []
+vocational_pathways:
+  - service
+  - creative
+  - social
+  - primary
+  - construction
+  - manufacturing
 ---
 **Staff: who are we?**
 
