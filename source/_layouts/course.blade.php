@@ -16,7 +16,7 @@
 </div>
 @endif
 
-<table class="my-5">
+<table class="my-5 table table-bordered">
     <tr>
         <th>Assessment</th>
         <th>Level</th>
@@ -70,7 +70,7 @@
     <tr>
         <th>Leads To</th>
         <td colspan="2">
-                @foreach($courses->whereIn('code', $page->leads_to)->all() as $leads)
+                @foreach($courses->whereIn('code', $page->leads_to) as $leads)
                 <a href="{{$leads->getPath()}}">{{ $leads->code }}</a>@if(!$loop->last), @endif
                 @endforeach
         </td>
@@ -141,8 +141,7 @@ Other courses in {{ $page->subject_area }}:
 <ul>
 @foreach($courses
 ->where('subject_area', $page->subject_area)
-->where('title','<>',  $page->title)
-->all() as $c)
+->where('title','<>',  $page->title) as $c)
 <li>
     <a href="{{$c->getPath()}}">{{ $c->name }} ({{$c->course_level}})</a>
 </li>

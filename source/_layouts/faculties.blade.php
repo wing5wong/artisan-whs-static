@@ -36,16 +36,13 @@
     </div>
     @endif
 
-    @foreach(
-        $subject_areas->where('faculty', $faculty->title)->sortBy('title')->all()
-         as $subject
-    )
+    @foreach($subject_areas->where('faculty', $faculty->title)->sortBy('title') as $subject )
     <div class="col col-md-6 col-lg-6">
     <details open>
             
             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
         <ul>
-        @foreach($courses->where('subject_area', $subject->title)->all() as $course)
+        @foreach($courses->where('subject_area', $subject->title) as $course)
         <li>
             <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
         </li>

@@ -64,15 +64,16 @@ foreach([
 
                 $theDept = $faculties->firstWhere('title', $dept);
 
+                $deptHofs = collect($theDept->hofs ?? []);
+
+                $deptAHofs = collect($theDept->ahofs ?? []);
+
+
                 $filteredStaff = $staff->filter(function($s) use ($dept){
                     return in_array($dept,$s->departments);
                 })
-                ->filter(function($s) use ($theDept){
-                    return  !( 
-                         (!empty($theDept->hofs) and in_array($s->title, $theDept->hofs)) 
-                         or 
-                         (!empty($theDept->ahofs) and in_array($s->title, $theDept->ahofs))
-                        );
+                ->filter(function($s) use ($deptHofs, $deptAHofs){
+                    return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
                 })
                 ->sortBy(function($st){
                     return array_reverse(explode(" ", $st->title));
@@ -82,25 +83,26 @@ foreach([
                 });
 
 
-                $filteredHofs = $staff->filter(function($st) use ($theDept){
-                        return !empty($theDept->hofs) and in_array($st->title, $theDept->hofs);
+                $filteredHofs = $staff->filter(function($st) use ($deptHofs){
+                        return $deptHofs->contains($st->title);
                 });
 
-                $filteredAHofs = $staff->filter(function($st) use ($theDept){
-                        return !empty($theDept->ahofs) and in_array($st->title, $theDept->ahofs);
+
+                $filteredAHofs = $staff->filter(function($st) use ($deptAHofs){
+                        return $deptAHofs->contains($st->title);
                 });
                 
                 ?>
 
 
 
-                @if(!empty($filteredStaff))
+                @if($filteredStaff->isNotEmpty())
                 <details>
                     <summary>
                     <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
                     </summary>
 
-                    @if(!empty($filteredHofs))
+                    @if($filteredHofs->isNotEmpty())
                     <div class="my-3">
                         <strong>HOF:</strong> 
                             @foreach($filteredHofs as $hof)
@@ -109,7 +111,7 @@ foreach([
                     </div>
                     @endif
 
-                    @if(!empty($filteredAHofs))
+                    @if($filteredAHofs->isNotEmpty())
                     <div class="my-3">
                         <strong>Assistant HOFS:</strong>
                             @foreach($filteredAHofs as $hof)

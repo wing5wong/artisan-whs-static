@@ -21,7 +21,7 @@
 
     {!! $ec_area !!}
 
-    @foreach( $extracurricular_activities->where('extracurricular_area', $page->title)->all() as $ec_activity
+    @foreach( $extracurricular_activities->where('extracurricular_area', $page->title) as $ec_activity
     )
     <h3>{{$ec_activity->title}}</h3>
     {!! $ec_activity !!}
