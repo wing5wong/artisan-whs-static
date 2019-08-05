@@ -18,31 +18,31 @@
 
 <table class="my-5 table table-bordered">
     <tr>
-        <th class="table-default">Assessment</th>
+        <th class="table-light">Assessment</th>
         <th class="table-secondary">Level</th>
-        <th class="table-default">Duration</th>
+        <th class="table-light">Duration</th>
     </tr>
     <tr>
-        <td class="table-default">
+        <td class="table-light">
                 {{ $page->assessment_type }}
         </td>
         <td class="table-secondary">
                 {{ $page->course_level }}
         </td>
-        <td class="table-default">
+        <td class="table-light">
                 {{ $page->course_duration }}
         </td>
     </tr>
     <tr>
         <th class="table-secondary">Credits</th>
-        <th class="table-default">Type</th>
+        <th class="table-light">Type</th>
         <th class="table-secondary">Contribution</th>
     </tr>
     <tr>
         <td class="table-secondary">
                 {{ $page->credits }}
         </td>
-        <td class="table-default">
+        <td class="table-light">
                 {{ $page->type }} 
         </td>
         <td class="table-secondary">
@@ -50,18 +50,18 @@
         </td>
     </tr>
     <tr>
-        <th class="table-default">U.E. Approved</th>
+        <th class="table-light">U.E. Approved</th>
         <th class="table-secondary">Endorsement</th>
-        <th class="table-default">Invitation Only</th>
+        <th class="table-light">Invitation Only</th>
     </tr>
     <tr>
-        <td class="table-default">
+        <td class="table-light">
                 {{$page->ue_approved ? "Yes" : "No"}}
         </td>
         <td class="table-secondary">
                 {{$page->endorsement ? "Yes" : "No"}}
         </td>
-        <td class="table-default">
+        <td class="table-light">
                 {{$page->invitation_only ? "Yes" : "No"}}
         </td>
     </tr>
