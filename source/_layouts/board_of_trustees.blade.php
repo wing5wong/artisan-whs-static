@@ -10,21 +10,20 @@
 
 <h2 class="decorated d-table">Board Members</h2>
 <div class="row no-gutters">
-        @foreach($board_members->where('category',"Board Member")->sortBy(function($st){
-            return array_reverse(explode(" ", $st->title));
-        })
-        ->sortBy(function($st){
-            return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
-        }) as $member)
-        <div class="col-12 col-md-4 p-5">
-            <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
-          @if($member->image)  
-        <img src="{{$member->image}}" alt="">
-        @endif
-        </div>
-        <div class="col-12 col-md-8 p-5">
-            {!! $member !!}
-        </div>
+        @foreach(["Board Chairperson","Principal","Parent Representative", "Staff Representative"] as $p)
+            @foreach($board_members->where('category', $p)->sortBy(function($st){
+                return array_reverse(explode(" ", $st->title));
+            }) as $member)
+            <div class="col-12 col-md-4 p-5">
+                <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
+            @if($member->image)  
+            <img src="{{$member->image}}" alt="">
+            @endif
+            </div>
+            <div class="col-12 col-md-8 p-5">
+                {!! $member !!}
+            </div>
+            @endforeach
         @endforeach
 </div>
 

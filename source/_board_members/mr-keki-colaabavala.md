@@ -1,6 +1,6 @@
 ---
 title: Mr Keki Colaabavala
-category: Board Member
+category: Parent Representative
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563763971/BoT/Keki_-_Photo.jpg
 ---

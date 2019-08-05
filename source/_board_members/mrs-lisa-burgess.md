@@ -1,7 +1,7 @@
 ---
 title: Lisa Burgess
 position: Staff Representative
-category: Board Member
+category: Staff Representative
 ---
 I am a full-time Teacher of English and Teacher-in-Charge of Year 11 English.  I have managed hockey and basketball teams and am continuing with the latter in 2019.
 

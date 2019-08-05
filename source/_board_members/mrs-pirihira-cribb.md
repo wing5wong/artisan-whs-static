@@ -1,6 +1,6 @@
 ---
 title: Mrs Pirihira Cribb
-category: Board Member
+category: Parent Representative
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1556755739/BoT/cribb.jpg
 ---

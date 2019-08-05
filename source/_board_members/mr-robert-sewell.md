@@ -1,6 +1,6 @@
 ---
 title: Mr Robert Sewell
-category: Board Member
+category: Parent Representative
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563763973/BoT/Rob_Sewell_-_Photo.jpg
 ---
