@@ -1,7 +1,7 @@
 ---
 title: Jo Maguire
 position: Board Chairperson
-category: Board Member
+category: Board Chairperson
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1556755638/BoT/Jo-Maguire.png
 ---
