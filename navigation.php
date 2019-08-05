@@ -120,7 +120,7 @@ return [
         ],
     ],
     'for_parents' => [
-        'title' => 'Info For Parents',
+        'title' => 'School Information',
         'url' => '/info-for-parents',
         'children' => [
             [
