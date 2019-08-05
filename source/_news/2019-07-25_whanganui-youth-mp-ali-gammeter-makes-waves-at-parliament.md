@@ -6,7 +6,7 @@ image: >-
 image_title: >-
   Ali Gammeter spent three days at Parliament last week, as Whanganui's Youth
   MP. 
-image_credit: Photo / File
+image_credit: File
 description: Whanganui Youth MP Ali Gammeter makes waves at Parliament.
 short: Whanganui Youth MP Ali Gammeter makes waves at Parliament.
 ---
@@ -42,5 +42,5 @@ She loved her time at Parliament, especially the banter around the view of the N
 
 "It's not a waste of money at all. We are already politically engaged. We go back to our community and engage our peers as well," Gammeter said.
 
-By Laurel Stowell  
-Whanganui Chronicle 24/7/19
+_By Laurel Stowell_  
+_Whanganui Chronicle 24/7/19_
