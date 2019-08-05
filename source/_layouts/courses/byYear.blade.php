@@ -7,6 +7,9 @@
 
 {!! $page !!}
 
+@foreach($courses as $course)
+{{ $course->title }}
+@endforeach
 
 @foreach($courses->groupBy(['year','subject_area']) as $year=>$sa)
 <details>
