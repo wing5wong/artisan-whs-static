@@ -1,24 +1,20 @@
 ---
-faculty: Vocational Studies
-subject_area: Vocational Studies (Food)
+title: VFD3
+maori_title: ''
+name: Vocational Studies Food
 code: VFD3
-name: Vocational Studies Food NCEA 3
+subject_area: Vocational Studies (Food)
+date: 2019-08-05T00:42:29.679Z
+year: '13'
+type: Optional
+course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-course_duration: Full Year
-ue_approved: 
-invitation_only: TRUE
-notes: ""
-endorsement: 
-title: VFD3
-type: Optional
-description: ""
-maori_title: ""
-body: ""
-year: "13"
-credits: "10"
-entry_requirements: "Class size limited. Interview by teacher in charge required."
-course_fees: "$70"
-leads_to: ""
-duration: ""
+leads_to: ''
+credits: '10'
+entry_requirements: Class size limited. Interview by teacher in charge required.
+course_fees: $70
+invitation_only: true
+notes: ''
 ---
+
