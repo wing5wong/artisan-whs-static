@@ -15,21 +15,13 @@
 
 
 <h2 class="decorated d-table my-5">Subject Areas</h2>
-@foreach($subject_areas->filter(function($subject_area) use ($page){
-    return $subject_area->faculty == $page->title;
-}) as $subject)
-
+@foreach($subject_areas->where('faculty', $page->title) as $subject)
     <details>
         <summary>
             <h3 class="d-table">{{ $subject->title }}</h3>
         </summary>
-        @php
-            $subjectCourses  = $courses->filter(function($course) use ($subject){
-                return $course->subject_area == $subject->title;
-            });
-        @endphp
         <ul>
-        @foreach($subjectCourses as $course)
+        @foreach( $courses->where('subject_area', $subject->title) as $course)
         <li>
             <a href="{{$course->getPath()}}">{{ $course->level }} {{ $course->name }} ({{ $course->course_level }})</a>
         </li>

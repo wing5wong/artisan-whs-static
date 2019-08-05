@@ -12,14 +12,8 @@
 
     Courses in the {{ $page->title }} Subject Area:
 
-    <?php
-    $subjectAreaCourses = $courses->filter(function($c) use ($page){
-        return $c->subject_area == $page->title;
-    });
-    ?>
-
 <ul>
-    @foreach($subjectAreaCourses as $c)
+    @foreach($courses->where('subject_area', $page->title) as $c)
 <li>
     <a href="{{$c->getPath()}}">{{ $c->name }} ({{$c->course_level}})</a>
 </li>
@@ -31,14 +25,8 @@
 
     Other Subject Areas in the {{ $page->faculty }} faculty:
 
-    <?php
-    $otherSubjectAreas = $subject_areas->filter(function($sa) use ($page){
-        return $sa->faculty == $page->faculty;
-    });
-    ?>
-
 <ul>
-    @foreach($otherSubjectAreas as $other)
+    @foreach($subjectAreas->where('faculty', $page->faculty) as $other)
 <li>
         <a href="{{$other->getPath()}}">{{ $other->title }}</a>
 </li>
