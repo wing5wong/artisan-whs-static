@@ -5,7 +5,8 @@
 @section('content')
 <h1 class="decorated py-3 mb-4">{{ $page->title }} - {{ $page->name }}</h1>
 
-{!! $page !!}
+
+@yield('postContent')
 
 @foreach($courses as $course)
 {{ $course->title }}
