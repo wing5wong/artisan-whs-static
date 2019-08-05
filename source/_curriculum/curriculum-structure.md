@@ -3,7 +3,7 @@ title: Curriculum Overview
 date: 2019-07-26T02:23:57.661Z
 intro: .
 ---
-[Course Options](/curriculum/options-for-2018) 
+[Course Options](/curriculum/course-options/) 
 
 ## Course Structure
 
