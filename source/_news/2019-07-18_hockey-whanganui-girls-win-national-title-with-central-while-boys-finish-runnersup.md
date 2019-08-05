@@ -71,7 +71,7 @@ Overall, Dixon was happy with the adaptable performances of the two Whanganui bo
 The team got 13 goals in the tournament, with Foss the top scorer with four.
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1563418425/News/Connor_Patrick_Chron_10.7.19.jpg "Connor Hoskin gets the handshake from Central captain Daniel Foss, while fellow Whanganui player Patrick Madder looks on.")
-Connor Hoskin gets the handshake from Central captain Daniel Foss, while fellow Whanganui player Patrick Madder looks on.
+
 
 Being held at the same time in Pukekohe was the National Under 18 Men's Association tournament, consisting of 16 provincial teams made up of the best players not selected for the Vantage nationals.
 
