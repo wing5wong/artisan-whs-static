@@ -63,7 +63,7 @@ foreach([
             ] as $dept){
 
                 $theDept = $faculties->firstWhere('title', $dept);
-                
+
                 $filteredStaff = $staff->filter(function($s) use ($dept){
                     return in_array($dept,$s->departments);
                 })
@@ -100,7 +100,7 @@ foreach([
                     <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
                     </summary>
 
-                    @if(count($filteredHofs))
+                    @if(!empty($filteredHofs))
                     <div class="my-3">
                         <strong>HOF:</strong> 
                             @foreach($filteredHofs as $hof)
@@ -109,7 +109,7 @@ foreach([
                     </div>
                     @endif
 
-                    @if(count($filteredAHofs))
+                    @if(!empty($filteredAHofs))
                     <div class="my-3">
                         <strong>Assistant HOFS:</strong>
                             @foreach($filteredAHofs as $hof)
