@@ -63,7 +63,7 @@ To cater for different student abilities, Whanganui High School offers courses o
 
     _(Using Mathematics as an example)_
 
-    |||||
+    |Subject|Subject Level|Curriculum Level|Subject Code|
     |---|---|---|---|
     |Mathematics | Introductory | NZ Curriculum Level 3 | MAIE|
     |Mathematics | Middle Band | NZ Curriculum Level 4 | MATE|
@@ -74,7 +74,7 @@ To cater for different student abilities, Whanganui High School offers courses o
     Pre-NCEA courses may also have up to 3 different curriculum levels. These are labelled as follows:
     
     _(Using English as an example)_
-    | | | | |
+    |Subject Level|Subject|Curriculum Level|Subject Code|
     |---|---|---|---|
     |Pre-NCEA | English | NZ Curriculum Level 4 | ENI0|
     |Pre-NCEA | English | NZ Curriculum Level 5 | ENG0|
@@ -86,7 +86,7 @@ To cater for different student abilities, Whanganui High School offers courses o
     
     _(Using Science as an example)_
 
-    | | | |
+    |Subject|Subject Level|Subject Code|
     |---|---|---|
     |NCEA Level 1 Science| **I**nternal | SC**I**1| 
     |NCEA Level 1 Science | **G**eneral | SC**G**1| 
@@ -98,7 +98,7 @@ To cater for different student abilities, Whanganui High School offers courses o
     NCEA Level 2 Courses are assessed at Level 7 of the NZ Curriculum. Courses are either fully internally assessed or a mixture of internal and external assessment.
     
     _(Using English as an example)_
-    ||||
+    |Subject|Subject Level|Subject Code|
     |---|---|---|
     |NCEA Level 2 English | **E**xtension | EN**E**2|
     |NCEA Level 2 English | **I**nternally| EN**I**2|
