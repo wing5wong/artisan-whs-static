@@ -26,7 +26,7 @@
     Other Subject Areas in the {{ $page->faculty }} faculty:
 
 <ul>
-    @foreach($subjectAreas->where('faculty', $page->faculty) as $other)
+    @foreach($subject_areas->where('faculty', $page->faculty) as $other)
 <li>
         <a href="{{$other->getPath()}}">{{ $other->title }}</a>
 </li>
