@@ -1,24 +1,20 @@
 ---
-faculty: Vocational Studies
-subject_area: Vocational Studies (Health)
+title: VHT2
+maori_title: ''
+name: Vocational Studies Health
 code: VHT2
-name: Vocational Studies Health NCEA 2
+subject_area: Vocational Studies (Health)
+date: 2019-08-05T00:45:57.274Z
+year: '12'
+type: Optional
+course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-course_duration: Full Year
-ue_approved: 
-invitation_only: TRUE
-notes: ""
-endorsement: 
-title: VHT2
-type: Optional Level 2
-description: ""
-maori_title: ""
-body: ""
-year: "12"
-credits: "10-15"
-entry_requirements: "Class size limited. Interview by teacher in charge required."
-course_fees: "Nil"
-leads_to: ""
-duration: ""
+leads_to: ''
+credits: 10-15
+entry_requirements: Class size limited. Interview by teacher in charge required.
+course_fees: Nil
+invitation_only: true
+notes: ''
 ---
+
