@@ -70,7 +70,7 @@ Overall, Dixon was happy with the adaptable performances of the two Whanganui bo
 
 The team got 13 goals in the tournament, with Foss the top scorer with four.
 
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1563418425/News/Connor_Patrick_Chron_10.7.19.jpg)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1563418425/News/Connor_Patrick_Chron_10.7.19.jpg "Connor Hoskin gets the handshake from Central captain Daniel Foss, while fellow Whanganui player Patrick Madder looks on.")
 
 
 Being held at the same time in Pukekohe was the National Under 18 Men's Association tournament, consisting of 16 provincial teams made up of the best players not selected for the Vantage nationals.
@@ -89,5 +89,5 @@ Bayler and a number of his team mates will have a quick turnaround by returning 
 
 It is their second game of Hockey Manawatu's Premier Group B round, and Whanganui need a good result after losing their opening match to High School Hockey Club A, 5-3 on July 7.
 
-_By Jared Smith_  
+_By Jared Smith_\
 _Whanganui Chronicle 16/7/19_

@@ -1,16 +1,16 @@
 ---
 title: SCI0
 name: Science
-code: SCF0
+code: SCI0
 subject_area: Science (Introductory/Internal)
-date: 2019-07-01T02:40:31.567Z
+date: 2019-08-05T02:40:31.567Z
 year: '10'
-type: "Compulsory\t - Full Year"
+type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-assessment_type: Compulsory
-leads_to: 'SCI1, SCX1, SCY1'
-credits: .
+leads_to:
+  - SCI1
+credits: ''
 entry_requirements: Successful completion of SCIE course.
 course_fees: ''
 notes: ''

@@ -1,24 +1,19 @@
 ---
-faculty: Vocational Studies
-subject_area: Semester Courses
+title: VES1S
+maori_title: ''
+name: Employment Skills
 code: VES1S
-name: Employment Skills NCEA 1
+subject_area: Semester Courses
+date: 2019-08-05T01:08:55.062Z
+year: '12'
+type: Semester Course
+course_duration: Half Year
 course_level: NCEA 1
 assessment_type: Unit Standard
-course_duration: Two Terms
-ue_approved: 
-invitation_only: 
-notes: ""
-endorsement: 
-title: VES1S
-type: Semester Course
-description: ""
-maori_title: "Vocational Studies 2 and Vocational Studies 3"
-body: "To equip students with skills they can use in everyday situations in their personal lives and employment."
-year: "12"
-credits: "15-19"
-entry_requirements: "Consultation with House deans and Vocational Studies department."
-course_fees: "$30"
-leads_to: "Vocational Studies 2 and Vocational Studies 3"
-duration: "(Semester)"
+leads_to: Vocational Studies 2 and Vocational Studies 3
+credits: 15-19
+entry_requirements: Consultation with House deans and Vocational Studies department.
+course_fees: $30
+notes: 'Leads to: Vocational Studies 2 and Vocational Studies 3'
 ---
+
