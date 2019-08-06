@@ -9,7 +9,5 @@ The Junior teams going are A Boys & Girls Basketball, Girls & Boys Football, Gir
 
 Please check Reeves Gym Sports Notice Board for students involved in this tournament. 
 
-**There will be a meeting on Monday 5 August at 1st break in the Te Wehi (Seddon) gym.**
-
 _Lisa Murphy_  
 _WHS Director of Sport_
