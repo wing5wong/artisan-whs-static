@@ -1,6 +1,7 @@
 ---
 title: Mrs W. Jervis
-position: Deans House Support Staff
+position: Deans House
 departments:
   - Support and Ancilliary
 ---
+
