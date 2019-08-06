@@ -76,15 +76,9 @@ foreach([
                     return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
                 })
                 ->sort(function($st, $other){
-                    
-                    $order = -(($st->position ?? "") <=> ($other->position ?? ""));
-                    
-                    if($order != 0) {
-                        return $order;
-                    }
                     return strcmp(
-                        implode(" ", array_reverse(explode(" ", $st->title))),
-                        implode(" ",array_reverse(explode(" ", $other->title)))
+                        implode(" ", array_unshift(array_reverse(explode(" ", $st->title))), $st->position),
+                        implode(" ", array_unshift(array_reverse(explode(" ", $other->title))), $other->position)
                     );
                 });
 
