@@ -8,7 +8,7 @@ year: '11'
 type: Level 1 (English) 7+ credits / Level 3 (English Language)
 course_duration: Full Year
 course_level: NCEA 1
-assessment_type: Achievement Standard
+assessment_type: Achievement and Unit Standard
 leads_to:
   - IEN2
 credits: 10+
