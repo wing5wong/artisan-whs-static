@@ -110,6 +110,8 @@ Some or all of the following will be offered
         <th>Level</th>
         <th>Credits</th>
         <th>Assessment</th>
+        <th>U.E. Reading</th>
+        <th>U.E. Writing</th>
     </tr>
 </thead>
 <tbody>
@@ -129,6 +131,12 @@ Some or all of the following will be offered
     </td>
     <td>
             {{ $assessment->assessment }}
+    </td>
+    <td>
+        {{ $assessment->ue_lit_reading ? "Yes" : "No"}}
+    </td>
+    <td>
+        {{ $assessment->ue_lit_writing ? "Yes" : "No"}}
     </td>
 </tr>
 @endforeach
