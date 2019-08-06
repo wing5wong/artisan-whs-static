@@ -9,8 +9,28 @@
 
 @foreach($term_dates as $td)
 <h2>{{$td->title}}</h2>
+
 {!! $td !!}
 
+<h3>Start Dates</h3>
+<table>
+    @foreach($td->start_dates as $date)
+        <tr>
+            <td>{{ $date->body }}</td>
+            <td>{{ $date->date }}</td>
+        </tr>
+    @endforeach
+</table>
+
+<h3>End Dates</h3>
+<table>
+    @foreach($td->end_dates as $date)
+        <tr>
+            <td>{{ $date->body }}</td>
+            <td>{{ $date->date }}</td>
+        </tr>
+    @endforeach
+</table>
 @endforeach
 
 @include('_partials.lastReviewed')
