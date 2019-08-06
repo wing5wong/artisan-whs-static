@@ -39,7 +39,6 @@ foreach([
 }
 ?>
 </div>
-
         <?php
             foreach([
             "The Arts",
