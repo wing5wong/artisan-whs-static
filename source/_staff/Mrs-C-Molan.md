@@ -1,6 +1,6 @@
 ---
 title: Mrs C. Molan
-position: Principal's Executive Assistant
+position: Administration - Principal's Executive Assistant
 departments:
   - Support and Ancilliary
 image: >-
