@@ -1,16 +1,10 @@
 @extends('_layouts.standard')
 
-@section('title', $page->title)
+@section('title', "Courses by Year")
 
 @section('content')
 <h1 class="decorated py-3 mb-4">{{ $page->title }} - {{ $page->name }}</h1>
 
-
-@yield('postContent')
-
-@foreach($courses as $course)
-{{ $course->title }}
-@endforeach
 
 @foreach($courses->groupBy(['year','subject_area']) as $year=>$sa)
 <details>
