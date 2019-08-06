@@ -95,42 +95,42 @@ foreach([
                 ?>
 
 
-
                 @if($filteredStaff->isNotEmpty())
                 <details>
                     <summary>
                     <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
                     </summary>
-
-                    @if($filteredHofs->isNotEmpty())
-                    <div class="my-3">
-                        <strong>HOF:</strong> 
-                            @foreach($filteredHofs as $hof)
-                                {{ $hof->title }}<em> - {{ $hof->position }}</em>@if(!$loop->last), @endif
-                            @endforeach
-                    </div>
-                    @endif
-
-                    @if($filteredAHofs->isNotEmpty())
-                    <div class="my-3">
-                        <strong>Assistant HOFS:</strong>
-                            @foreach($filteredAHofs as $hof)
-                                {{ $hof->title }}<em> - {{ $hof->position }}</em>@if(!$loop->last), @endif
-                            @endforeach
-                    </div>
-                    @endif
-
                     <table class="table table-striped table-borderless table-hover">
-                    @foreach($filteredStaff as $member)
-                        <tr>
-                            <td>
-                                {{ $member->title }}
-                            </td>
-                            <td>
-                                {{ $member->position }}
-                            </td>
-                        </tr>
-                    @endforeach
+                        @foreach($filteredHofs as $member)
+                            <tr>
+                                <td>
+                                    {{ $member->title }}
+                                </td>
+                                <td>
+                                    {{ $member->position }}
+                                </td>
+                            </tr>
+                        @endforeach
+                        @foreach($filteredAHofs as $member)
+                            <tr>
+                                <td>
+                                    {{ $member->title }}
+                                </td>
+                                <td>
+                                    {{ $member->position }}
+                                </td>
+                            </tr>
+                        @endforeach
+                        @foreach($filteredStaff as $member)
+                            <tr>
+                                <td>
+                                    {{ $member->title }}
+                                </td>
+                                <td>
+                                    {{ $member->position }}
+                                </td>
+                            </tr>
+                        @endforeach
                     </table>
                 </details>
                 @endif
