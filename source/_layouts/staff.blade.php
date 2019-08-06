@@ -75,11 +75,14 @@ foreach([
                 ->filter(function($s) use ($deptHofs, $deptAHofs){
                     return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
                 })
-                ->sortBy(function($st){
-                    return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
-                })
-                ->sortBy(function($st){
-                    return array_reverse(explode(" ", $st->title));
+                ->sort(function($st, $other){
+                    
+                    $order = ($st->position ?? "") <=> ($other->position ?? "");
+                    
+                    if($order != 0) {
+                        return $order
+                    }
+                    return strcmp(implode(" ", array_reverse(explode(" ", $st->title)),  implode(" ",array_reverse(explode(" ", $st->title)) )
                 });
 
 
