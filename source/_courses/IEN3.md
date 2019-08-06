@@ -8,7 +8,7 @@ year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
-assessment_type: Achievement Standard
+assessment_type: Achievement and Unit Standard
 credits: Up to 19
 entry_requirements: 4 University Entrance Literacy credits at Level 2 and HOF/TIC approval.
 course_fees: Included in International Student fee
