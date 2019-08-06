@@ -5,10 +5,9 @@ image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1556755739/BoT/cribb.jpg
 ---
 E rere kau mai te awa nui mai i te kāhui maunga ki Tangaroa.  Ko au te awa ko te awa ko au.
-
 Ko Pirihira (Piri) Cribb tōku ingoa.
 
-I stood for the board because I believe that ALL students (and their families) are entitled to an education that exposes a balanced world view of the community and country that we live in.  I want to represent that view on behalf of ALL parents.
+I am a member of the board of trustees on behalf of the Māori whānau at Whanganui High School.  I believe that ALL students (and their families) are entitled to an education that exposes a balanced world view of the community and country that we live in.  I aim to represent that view on behalf of ALL parents.
 
 The LIFE values of Whanganui High School are consistent with the values and practises of Te Ao Māori and it is my goal as a mother and parent representative to contribute to the architecture of practising and applying those values at our school by way of my place at the board table.
 
@@ -18,8 +17,7 @@ What does quality education look like to me?  Access to and the availability of 
 
 I want parents to be responsible and accountable for the role that they play in the journey of our students.  To know that there is support in the school for that to happen.  And to be the standard for their own children.
 
-I want teachers to know that I care about what they think too.  I might not always agree but I value and respect the place of knowing and doing that teaching staff come from.
-
-Most of all I just want to be part of the solution and not part of the problem.
+I want teachers to know that I care about what they think too.  I might not always agree but I value and respect the place of knowing and doing that teaching staff come from.  Most of all I just want to be part of the solution and not part of the problem.
 
 Kia Whaiora (that we might have life)
+
