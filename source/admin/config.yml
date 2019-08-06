@@ -589,7 +589,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", hint: "Term X"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Start Dates"
         name: "start_dates"
         widget: list
