@@ -8,7 +8,7 @@ year: '11'
 type: International English
 course_duration: Full Year
 course_level: NCEA 1
-assessment_type: Achievement Standard
+assessment_type: Unit Standard
 leads_to:
   - IEL2
   - IEN1
