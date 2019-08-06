@@ -77,8 +77,8 @@ foreach([
                 })
                 ->sort(function($st, $other){
                     return strcmp(
-                        implode(" ", array_unshift(array_reverse(explode(" ", $st->title))), $st->position),
-                        implode(" ", array_unshift(array_reverse(explode(" ", $other->title))), $other->position)
+                        implode(" ", array_unshift(array_reverse(explode(" ", $st->title))), $st->position ?? "ZZZZZZZZZZZZZZZ" ,
+                        implode(" ", array_unshift(array_reverse(explode(" ", $other->title))), $other->position ?? "ZZZZZZZZZZZZZZZ")
                     );
                 });
 
