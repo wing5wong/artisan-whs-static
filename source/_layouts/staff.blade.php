@@ -76,9 +76,16 @@ foreach([
                     return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
                 })
                 ->sort(function($st, $other){
+                    // title: Mr S. Anderson
+                    // Position: IT - Network
+
+                    //explode(title) - ["Mr", "S.", "Anderson]
+                    //array_reverse() - ["Anderson", "S.", "Mr"]
+                    //array_unshift() - ["IT - Network", "Anderson", "S.", "Mr"]
+                    //implode() - "IT - Network Anderson S. Mr"
                     return strcmp(
                         implode(" ", array_unshift(array_reverse(explode(" ", $st->title))), $st->position ?? "ZZZZZZZZZZZZZZZ" ,
-                        implode(" ", array_unshift(array_reverse(explode(" ", $other->title))), $other->position ?? "ZZZZZZZZZZZZZZZ")
+                        implode(" ", array_unshift(array_reverse(explode(" ", $other->title))), $other->position ?? "ZZZZZZZZZZZZZZZ"
                     );
                 });
 
