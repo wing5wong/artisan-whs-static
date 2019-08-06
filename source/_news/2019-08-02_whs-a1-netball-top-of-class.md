@@ -49,4 +49,4 @@ Kaierau A1 coach Walter Edmonds was happy with his team's comeback after yet ano
 "This was the first time since I have coached Kaierau A1 that we have been down by more than five goals. It immediately put us into chasing mode and it was pleasing to see how the girls kept chipping away to catch-up. We play Kaiwhaiki in our semifinal next week and that won't be easy."
 
 _By Iain Hyndman_  
-_Whanganui Chronicle_
+_Whanganui Chronicle 31/7/19_
