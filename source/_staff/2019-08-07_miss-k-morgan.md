@@ -1,6 +1,6 @@
 ---
 title: Miss K. Morgan
-position: Sports Assistant
+position: Sports - Sports Assistant
 departments:
   - Support and Ancilliary
 ---
