@@ -87,7 +87,7 @@ foreach([
                         implode(" ", array_unshift(array_reverse(explode(" ", $st->title))), $st->position ?? "ZZZZZZZZZZZZZZZ") ,
                         implode(" ", array_unshift(array_reverse(explode(" ", $other->title))), $other->position ?? "ZZZZZZZZZZZZZZZ")
                     );
-                });
+                })->all();
 
 
                 $filteredHofs = $staff->filter(function($st) use ($deptHofs){
