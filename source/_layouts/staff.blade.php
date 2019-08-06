@@ -77,7 +77,7 @@ foreach([
                 })
                 ->sort(function($st, $other){
                     
-                    $order = ($st->position ?? "") <=> ($other->position ?? "");
+                    $order = -(($st->position ?? "") <=> ($other->position ?? ""));
                     
                     if($order != 0) {
                         return $order;
