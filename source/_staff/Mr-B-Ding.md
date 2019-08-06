@@ -1,8 +1,9 @@
 ---
 title: Mr B. Ding
-position: International Student Dean, Chinese
+position: 'Dean of International Students, Chinese'
 departments:
   - Languages
   - International
   - Mathematics
 ---
+
