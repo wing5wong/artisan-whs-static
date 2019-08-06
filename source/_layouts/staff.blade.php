@@ -80,9 +80,9 @@ foreach([
                     $order = ($st->position ?? "") <=> ($other->position ?? "");
                     
                     if($order != 0) {
-                        return $order
+                        return $order;
                     }
-                    return strcmp(implode(" ", array_reverse(explode(" ", $st->title)),  implode(" ",array_reverse(explode(" ", $st->title)) )
+                    return strcmp(implode(" ", array_reverse(explode(" ", $st->title)),  implode(" ",array_reverse(explode(" ", $st->title)) );
                 });
 
 
