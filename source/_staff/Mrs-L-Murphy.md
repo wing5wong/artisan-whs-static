@@ -1,6 +1,7 @@
 ---
 title: Mrs L. Murphy
-position: Director of Sport
+position: Sports - Director of Sport
 departments:
   - Support and Ancilliary
 ---
+
