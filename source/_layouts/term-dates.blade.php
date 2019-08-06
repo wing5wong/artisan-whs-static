@@ -18,7 +18,7 @@
 <table>
     @foreach($td->start_dates as $date)
         <tr>
-            <td>{{ date('F j, Y', $date["date"]) }}</td>
+            <td width="30%">{{ date('F j, Y', $date["date"]) }}</td>
             <td>{{ $date["body"] }}</td>
         </tr>
     @endforeach
@@ -30,7 +30,7 @@
 <table>
     @foreach($td->end_dates as $date)
         <tr>
-            <td>{{ date('F j, Y', $date["date"]) }}</td>
+            <td width="30%">{{ date('F j, Y', $date["date"]) }}</td>
             <td>{{ $date["body"] }}</td>
         </tr>
     @endforeach
