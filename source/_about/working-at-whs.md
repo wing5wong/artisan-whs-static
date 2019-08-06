@@ -10,9 +10,9 @@ visible: 'Yes'
 
 If you are interested in applying for a teaching position at Whanganui High School please send your Cover Letter and Curriculum Vitae with contact details of 3 referees (including their e-mail contact) to:
 
-The Principal\
-Whanganui High School\
-P.O. Box 4022\
+The Principal  
+Whanganui High School  
+P.O. Box 4022  
 Whanganui 4541
 
 ## Relief Teaching Vacancies
