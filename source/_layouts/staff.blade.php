@@ -111,20 +111,20 @@ foreach([
                         @foreach($filteredHofs as $member)
                             <tr>
                                 <td>
-                                    {{ $member->title }}
+                                    <strong>{{ $member->title }}</strong>
                                 </td>
                                 <td>
-                                    {{ $member->position }}
+                                    <strong>{{ $member->position }}</strong>
                                 </td>
                             </tr>
                         @endforeach
                         @foreach($filteredAHofs as $member)
                             <tr>
                                 <td>
-                                    {{ $member->title }}
+                                    <strong>{{ $member->title }}</strong>
                                 </td>
                                 <td>
-                                    {{ $member->position }}
+                                    <strong>{{ $member->position }}</strong>
                                 </td>
                             </tr>
                         @endforeach
