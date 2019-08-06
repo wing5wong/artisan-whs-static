@@ -5,5 +5,6 @@ departments:
   - Languages
   - International
   - Mathematics
+  - Deans
 ---
 
