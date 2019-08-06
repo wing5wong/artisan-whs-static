@@ -8,7 +8,7 @@ year: '12'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 2
-assessment_type: Achievement Standard
+assessment_type: Achievement and Unit Standard
 leads_to:
   - IEN3
 credits: 14+
