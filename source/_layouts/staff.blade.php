@@ -82,7 +82,10 @@ foreach([
                     if($order != 0) {
                         return $order;
                     }
-                    return strcmp(implode(" ", array_reverse(explode(" ", $st->title)),  implode(" ",array_reverse(explode(" ", $other->title)) );
+                    return strcmp(
+                        implode(" ", array_reverse(explode(" ", $st->title))),
+                        implode(" ",array_reverse(explode(" ", $other->title)))
+                    );
                 });
 
 
