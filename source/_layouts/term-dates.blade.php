@@ -8,7 +8,7 @@
 <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
 @foreach($term_dates as $td)
-<h2 class="d-table decorated">{{$td->title}}</h2>
+<h2 class="d-table decorated mb-4">{{$td->title}}</h2>
 
 {!! $td !!}
 
