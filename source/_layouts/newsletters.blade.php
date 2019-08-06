@@ -17,11 +17,11 @@
 <table class="table table-striped table-borderless table-hover">
 @foreach($newsletters->sortByDesc('date') as $nl)
 <tr>
+    <td width="30%">{{ date('F j, Y', $nl->date) }}</td>
     <td>
         <a href="{{$nl["file"]}}" download>{{$nl->title}} ({{ date('F Y', $nl->date) }})</a>
     </td>
-    <td>{{ date('F j, Y', $nl->date) }}</td>
-    
+
 </tr>
 @endforeach
 </table>
