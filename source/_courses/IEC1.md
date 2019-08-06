@@ -8,7 +8,7 @@ year: '11'
 type: ' Core'
 course_duration: Full Year
 course_level: NCEA 1 and 2
-assessment_type: Achievement Standard
+assessment_type: Unit Standard
 leads_to:
   - IEL1
   - IEL2
