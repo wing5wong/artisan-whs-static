@@ -8,27 +8,34 @@
 <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
 
 @foreach($term_dates as $td)
-<h2>{{$td->title}}</h2>
+<h2 class="d-table decorated">{{$td->title}}</h2>
 
+{!! $td !!}
+
+@if($td->tile != "Public Holidays")
 <h3>Start Dates</h3>
+@endif
 <table>
     @foreach($td->start_dates as $date)
         <tr>
-            <td>{{ $date["body"] }}</td>
             <td>{{ date('F j, Y', $date["date"]) }}</td>
+            <td>{{ $date["body"] }}</td>
         </tr>
     @endforeach
 </table>
 
+
+@if($td->tile != "Public Holidays")
 <h3>End Dates</h3>
 <table>
     @foreach($td->end_dates as $date)
         <tr>
-            <td>{{ $date["body"] }}</td>
             <td>{{ date('F j, Y', $date["date"]) }}</td>
+            <td>{{ $date["body"] }}</td>
         </tr>
     @endforeach
 </table>
+@endif
 @endforeach
 
 @include('_partials.lastReviewed')

@@ -8,10 +8,3 @@ end_dates:
   - date: 2019-09-27T04:11:50.242Z
     body: Whole School
 ---
-### Start Date
-
-Monday 22 July
-
-### End Date
-
-Friday 27 September

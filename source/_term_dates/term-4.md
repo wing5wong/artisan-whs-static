@@ -12,12 +12,3 @@ end_dates:
   - date: 2019-12-05T11:00:00.000Z
     body: Year 9 and 10
 ---
-### Start Date
-
-* Monday 14 October
-
-### End Dates
-
-* Year 11: Tuesday 5 November
-* Year 12 & 13: Wednesday 6 November
-* Year 9 & 10: Friday 6 December
