@@ -28,7 +28,7 @@
 
 @empty
 <strong>SORRY, BUT THERE ARE CURRENTLY NO VACANCIES.</strong>
-<hr> @endforelse
+@endforelse
 
 
 @include('_partials.lastReviewed')
