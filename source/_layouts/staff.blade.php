@@ -76,10 +76,10 @@ foreach([
                     return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
                 })
                 ->sortBy(function($st){
-                    return array_reverse(explode(" ", $st->title));
+                    return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
                 })
                 ->sortBy(function($st){
-                    return $st->position ?: "ZZZZZZZZZZZZZZZZZZZZZZ";
+                    return array_reverse(explode(" ", $st->title));
                 });
 
 
