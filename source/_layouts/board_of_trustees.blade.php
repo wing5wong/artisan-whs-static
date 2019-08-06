@@ -15,12 +15,12 @@
                 return array_reverse(explode(" ", $st->title));
             }) as $member)
             <div class="col-12 col-md-4 p-5">
-                <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
             @if($member->image)  
             <img src="{{$member->image}}" alt="">
             @endif
             </div>
             <div class="col-12 col-md-8 p-5">
+                <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
                 {!! $member !!}
             </div>
             @endforeach
