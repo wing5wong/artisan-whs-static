@@ -10,8 +10,6 @@
 @foreach($term_dates as $td)
 <h2>{{$td->title}}</h2>
 
-{!! $td !!}
-
 <h3>Start Dates</h3>
 <table>
     @foreach($td->start_dates as $date)
