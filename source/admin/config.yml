@@ -639,7 +639,7 @@ collections:
   - name: "school_documents"
     label: "School Documents"
     label_singular: "School Document"
-    folder: "source/__school_documents"
+    folder: "source/_school_documents"
     create: true
     slug: "{{slug}}"
   
