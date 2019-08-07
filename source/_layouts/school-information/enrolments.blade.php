@@ -12,7 +12,7 @@
 
 @php
     $enrolmentForms = $school_documents->filter(function($doc){
-        return strpos($doc->title, "Enrolments") !== false;
+        return true;
     })->sortBy('-date');
 @endphp
 
