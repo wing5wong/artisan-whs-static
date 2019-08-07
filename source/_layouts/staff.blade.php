@@ -129,7 +129,7 @@ foreach([
                                     {{ $member->title }}
                                 </td>
                                 <td>
-                                    {{ $member->position }}
+                                    @if($filteredHofs->isEmpty() and $filteredAHofs->isEmpty()){{ $member->position }}@endif
                                 </td>
                             </tr>
                         @endforeach
