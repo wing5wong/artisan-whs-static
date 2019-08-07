@@ -1,6 +1,7 @@
 ---
 title: Mr T. Sutherland
-position: 
+position: Teacher Aide
 departments:
   - Digital Technology
 ---
+
