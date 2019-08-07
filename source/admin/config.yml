@@ -254,38 +254,38 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post"}
 
-  - name: internationa_data
-    label: "International Data"
-    files: 
-      - label: "The Team"
-        name: "team"
-        file: "source/_international/_static/team.md"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - label: Members
-            name: members
-            widget: list
-            fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Body, name: body, widget: markdown}
-              - {label: Role, name: role, widget: string}
-              - {label: Email, name: email, widget: string}
-              - {label: Image, name: image, widget: image}
-      - label: "Student Experiences"
-        name: "experiences"
-        file: "source/_international/student-experiences.md"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          
-          - label: Students
-            name: students
-            widget: list
-            fields:
-              - {label: Title, name: title, widget: string}
-              - {label: Body, name: body, widget: markdown}
-              - {label: Image, name: image, widget: image}
+#  - name: internationa_data
+#    label: "International Data"
+#    files: 
+#      - label: "The Team"
+#        name: "team"
+#        file: "source/_international/_static/team.md"
+#        fields:
+#          - {label: Title, name: title, widget: string}
+#          - {label: Body, name: body, widget: markdown}
+#          - label: Members
+#            name: members
+#            widget: list
+#            fields:
+#              - {label: Title, name: title, widget: string}
+#              - {label: Body, name: body, widget: markdown}
+#              - {label: Role, name: role, widget: string}
+#              - {label: Email, name: email, widget: string}
+#              - {label: Image, name: image, widget: image}
+#      - label: "Student Experiences"
+#        name: "experiences"
+#        file: "source/_international/student-experiences.md"
+#        fields:
+#          - {label: Title, name: title, widget: string}
+#          - {label: Body, name: body, widget: markdown}
+#          
+#          - label: Students
+#            name: students
+#            widget: list
+#            fields:
+#              - {label: Title, name: title, widget: string}
+#              - {label: Body, name: body, widget: markdown}
+#              - {label: Image, name: image, widget: image}
     
 
 
@@ -603,25 +603,25 @@ collections:
           - {label: "Date", name: "date", widget: "date"}
           - {label: "Body", name: "body", widget: "string"}
 
-  - name: "galleries"
-    label: "Galleries"
-    label_singular: "Gallery"
-    folder: "source/_galleries"
-    create: true
-    slug: "{{slug}}"
-  
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Image Gallery"
-        name: "image_gallery"
-        widget: "list"
-        fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string"}
+#  - name: "galleries"
+#    label: "Galleries"
+#    label_singular: "Gallery"
+#    folder: "source/_galleries"
+#    create: true
+#    slug: "{{slug}}"
+#  
+#    fields:
+#      - {label: "Title", name: "title", widget: "string"}
+#      - {label: "Description", name: "description", widget: "string"}
+#      - {label: "Date", name: "date", widget: "date"}
+#      - {label: "Tags", name: "tags", widget: "list", required: false}
+#      - {label: "Body", name: "body", widget: "markdown"}
+#      - label: "Image Gallery"
+#        name: "image_gallery"
+#        widget: "list"
+#        fields:
+#        - {label: "Image Filename", name: "image", widget: "image"}
+#        - {label: "Image Description", name: "description", widget: "string"}
 
   - name: "vacancies"
     label: "Vacancies"
@@ -649,26 +649,26 @@ collections:
       - {label: "Filename", name: "file", widget: "file"}
 
 
-  - name: static
-    label: "Static Pages"
-    files: 
-      - label: "About Page"
-        name: "about"
-        file: "source/static/my-page.md"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - label: Extends
-            name: extends
-            widget: string
+#  - name: static
+#    label: "Static Pages"
+#    files: 
+#      - label: "About Page"
+#        name: "about"
+#        file: "source/static/my-page.md"
+#        fields:
+#          - {label: Title, name: title, widget: string}
+#          - {label: Body, name: body, widget: markdown}
+#          - label: Extends
+#            name: extends
+#            widget: string
             
-  - name: "pages"
-    label: "Pages"
-    create: true
-    folder: "source/_pages"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Extends", name: "extends", widget: "string"}
-      - {label: "custom Path", name: "customPath", widget: "string", required: false}
+#  - name: "pages"
+#    label: "Pages"
+#    create: true
+#    folder: "source/_pages"
+#    fields:
+#      - {label: "Title", name: "title", widget: "string"}
+#      - {label: "Body", name: "body", widget: "markdown"}
+#      - {label: "Extends", name: "extends", widget: "string"}
+#      - {label: "custom Path", name: "customPath", widget: "string", required: false}
 
