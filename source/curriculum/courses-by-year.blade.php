@@ -27,13 +27,17 @@ $levels = [
                     <h2 class="decorated d-table my-5">{{ $faculty->title }}
                 </summary>
                 @foreach($subject_areas->where('faculty', $faculty->title)->sortBy('title') as $subject )
+                    @php
+                    $subjectCourses = $courses->filter(function($course) use ($level, $subject){
+                            return $course->year == $level && $course->subject_area == $subject->title;
+                        });
+                    @endphp
+                    @if($subjectCourses->isNotEmpty())
                     <div class="col col-md-6 col-lg-6">
                     <details open>
                             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
                         <ul>
-                        @foreach($courses->filter(function($course) use ($level, $subject){
-                            return $course->year == $level && $course->subject_area == $subject->title;
-                        }) as $course)
+                        @foreach($subjectCourses as $course)
                         <li>
                             <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
                         </li>
@@ -41,6 +45,7 @@ $levels = [
                         </ul>
                     </details>
                     </div>
+                    @endif
                 @endforeach
             </details>
         @endforeach
