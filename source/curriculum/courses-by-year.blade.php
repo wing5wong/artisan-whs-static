@@ -3,7 +3,7 @@
 @section('title', "Courses by Year")
 
 @section('content')
-<h1 class="decorated py-3 mb-4">{{ $page->title }} - {{ $page->name }}</h1>
+<h1 class="decorated py-3 mb-4">Courses By Level</h1>
 
 @php
 $levels = [
