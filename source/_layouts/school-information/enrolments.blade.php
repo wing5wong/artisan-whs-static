@@ -17,7 +17,7 @@
         if(date('Y', $a->date) === date('Y', $b->date)){
             return -($a->title <=> $b->title);
         }
-        return $a->date <=> $b->date;
+        return -($a->date <=> $b->date);
     });
 @endphp
 
