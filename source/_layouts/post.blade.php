@@ -50,5 +50,5 @@ a.featured[title]:after {
      </style>
      </main>
     @include('_partials.lastReviewed')
-    <a class="text-muted" href="{{ $page->baseUrl}}/admin/#/collections/news/entries/{{str_replace(".md","",$page->getFilename())}}">Manage Post</a>
+    <small><a class="text-muted" href="{{ $page->baseUrl}}/admin/#/collections/news/entries/{{str_replace(".md","",$page->getFilename())}}" target="_BLANK" rel="nofollow">(*)</a></small>
 @endsection
