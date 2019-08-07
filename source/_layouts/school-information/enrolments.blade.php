@@ -16,7 +16,7 @@ $prospectus = $school_documents->filter(function($doc){
 <h2>Prospectus</h2>
 <table>
     <tr>
-        <td>
+        <td width="35%">
                 {{ date('Y', $prospectus->date) }}
         </td>
         <td>
@@ -42,7 +42,7 @@ $prospectus = $school_documents->filter(function($doc){
 <h2>Enrolment Application Forms</h2>
 <table>
     <tr>
-        <th>Year of Enrolment</th>
+        <th width="35%">Year of Enrolment</th>
         <th>Enrolment Form</th>
     </tr>
 @foreach($enrolmentForms as $form)
