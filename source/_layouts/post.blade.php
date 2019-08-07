@@ -50,6 +50,5 @@ a.featured[title]:after {
      </style>
      </main>
     @include('_partials.lastReviewed')
-    
-    <a class="text-muted" href="{{ $page->baseUrl}}/admin/#/collections/{{ $page->getCollection()}}/entries/{{str_replace(".md","",$page->getFilename())}}">Manage Post</a>
+    <a class="text-muted" href="{{ $page->baseUrl}}/admin/#/collections/news/entries/{{str_replace(".md","",$page->getFilename())}}">Manage Post</a>
 @endsection
