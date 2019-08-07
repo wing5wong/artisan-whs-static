@@ -20,7 +20,3 @@ Whanganui
 Enrolment Application Forms and supporting documentation for 2020 enrolments should ideally be received no later than the end of Term 2.
 
 The School will respond to all applicants as soon as possible.
-
-## Prospectus
-
-[Download the current prospectus](https://res.cloudinary.com/whanganuihigh/image/upload/v1563495283/School%20Documents/Enrolment/2019_Prospectus.pdf)
