@@ -18,9 +18,9 @@
 
 <table class="my-5 table table-bordered">
     <tr>
-        <th class="table-light">Assessment</th>
-        <th class="table-secondary">Level</th>
-        <th class="table-light">Duration</th>
+        <th class="table-light">Assessment:</th>
+        <th class="table-secondary">Level:</th>
+        <th class="table-light">Duration:</th>
     </tr>
     <tr>
         <td class="table-light">
@@ -34,9 +34,9 @@
         </td>
     </tr>
     <tr>
-        <th class="table-secondary">Credits</th>
-        <th class="table-light">Type</th>
-        <th class="table-secondary">Contribution</th>
+        <th class="table-secondary">Credits:</th>
+        <th class="table-light">Type:</th>
+        <th class="table-secondary">Contribution:</th>
     </tr>
     <tr>
         <td class="table-secondary">
@@ -50,9 +50,9 @@
         </td>
     </tr>
     <tr>
-        <th class="table-light">U.E. Approved</th>
-        <th class="table-secondary">Endorsement</th>
-        <th class="table-light">Invitation Only</th>
+        <th class="table-light">U.E. Approved:</th>
+        <th class="table-secondary">Endorsement:</th>
+        <th class="table-light">Invitation Only:</th>
     </tr>
     <tr>
         <td class="table-light">
@@ -68,7 +68,7 @@
 
     @if(($page->leads_to) and(is_array($page->leads_to)))
     <tr>
-        <th>Leads To</th>
+        <th>Leads To:</th>
         <td colspan="2">
                 @foreach($courses->whereIn('code', $page->leads_to) as $leads)
                 <a href="{{$leads->getPath()}}">{{ $leads->code }}</a>@if(!$loop->last), @endif
@@ -79,7 +79,7 @@
     
     @if($page->notes)
     <tr>
-        <th>Notes</th>
+        <th>Notes:</th>
         <td colspan="2">{{ $page->notes }}</td>
     </tr>
     @endif
