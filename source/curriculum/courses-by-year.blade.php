@@ -31,8 +31,8 @@ $levels = [
                     <details open>
                             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
                         <ul>
-                        @foreach($courses->filter(function($course) use ($level){
-                            return $course->subject_area == $subject->title;
+                        @foreach($courses->filter(function($course) use ($level, $subject){
+                            return $course->year == $level && $course->subject_area == $subject->title;
                         }) as $course)
                         <li>
                             <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
