@@ -42,7 +42,7 @@ $levels = [
     @endphp
 
     @foreach($mapped as $faculty)
-    <details>
+    <details open>
     <summary>
     <h3 class="my-5 d-table">{{ $faculty['faculty']->title}}</h3>
     </summary>
