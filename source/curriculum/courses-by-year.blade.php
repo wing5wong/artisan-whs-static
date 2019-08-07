@@ -20,38 +20,32 @@ $levels = [
     <summary>
         <h2 class="decorated d-table my-5">{{ $levelTitle }}
     </summary>
-    @foreach($faculties as $faculty)
-        @foreach($subject_areas->where('faculty', $faculty->title)->sortBy('title') as $subject )
-            @php
-                $subjectCourses = $courses->filter(function($course) use ($level, $subject){
+    @php
+    $mapped = $faculties->map(function($faculty) use ($level){
+        $subjectAreas = $subject_areas->where('faculty', $faculty->title)->sortBy('title')
+        ->map(function($subject) use ($level){
+            $subjectCourses = $courses->filter(function($course) use ($level, $subject){
                     return $course->year == $level && $course->subject_area == $subject->title;
                 });
-            @endphp
-            @if($subjectCourses->isNotEmpty())
-            <details>
-                <summary>
-                    <h4 class="decorated d-table my-5">{{ $faculty->title }}</h4>
-                </summary>
+            return ['subjectArea' => $subject, 'courses' => $subjectCourses];
+        });
+        return ['faculty'=>$faculty, 'subjectAreas'=>$subjectAreas];
+    });
+    @endphp
 
-
-                <div class="col col-md-6 col-lg-6">
-                    <details open>
-                        <summary>
-                            <h5 class="d-table">{{ $subject->title }}</h5>
-                        </summary>
-                        <ul>
-                            @foreach($subjectCourses as $course)
-                            <li>
-                                <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
-                            </li>
-                            @endforeach
-                        </ul>
-                    </details>
-                </div>
-            </details>
-            @endif
+    @foreach($mapped as $faculty)
+    <h3>{{ $faculty->faculty->title}}</h3>
+        @foreach($faculty->subjectAreas as $subjectArea)
+            <h4>{{ $subjectArea->subjectArea->title }}</h4>
+            @foreach($subjectArea->courses as $course)
+            <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
+            @endforeach
         @endforeach
     @endforeach
+
+
+
+
 </details>
 @endforeach
 
