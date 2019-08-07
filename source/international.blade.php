@@ -11,6 +11,6 @@
   @include('_international-content')
 
 
-  @include('static/term-dates')
+  @include('_partials.term-dates')
 
 @endsection
