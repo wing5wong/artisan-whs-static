@@ -19,7 +19,6 @@
         }
         return $a->date <=> $b->date;
     });
-    ->sortBy('-title')->sortBy('-date');
 @endphp
 
 <table>
