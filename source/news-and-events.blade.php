@@ -26,7 +26,7 @@
             <div class="swiper-button-prev"></div>
         </div>
 
-        <a href="/news-and-events/news/" class="btn btn-light">See All News</a>
+        <a href="/news-and-events/news/" class="btn btn-light mt-5">See All News</a>
 
     </div>
 
