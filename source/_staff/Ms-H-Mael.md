@@ -1,6 +1,7 @@
 ---
 title: Ms H. Mael
-position: 
+position: Teacher Aide
 departments:
   - Te Atawhai / Special Needs
 ---
+
