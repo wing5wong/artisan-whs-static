@@ -1,6 +1,7 @@
 ---
 title: Ms E. Paki
-position: 
+position: Teacher Aide
 departments:
   - Te Atawhai / Special Needs
 ---
+
