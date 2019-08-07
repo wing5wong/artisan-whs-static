@@ -7,79 +7,54 @@
 
 @php
 $levels = [
-    "9" => "Year 9",
-    "10" => "Year 10",
-    "11" => "Level 1",
-    "12" => "Level 2",
-    "13" => "Level 3"
+"9" => "Year 9",
+"10" => "Year 10",
+"11" => "Level 1",
+"12" => "Level 2",
+"13" => "Level 3"
 ];
 @endphp
 
 @foreach($levels as $level=>$levelTitle)
-    <details>
-        <summary>
-            <h2 class="decorated d-table my-5">{{ $levelTitle }}
-        </summary>
-        @foreach($faculties as $faculty)
-
+<details>
+    <summary>
+        <h2 class="decorated d-table my-5">{{ $levelTitle }}
+    </summary>
+    @foreach($faculties as $faculty)
+        @foreach($subject_areas->where('faculty', $faculty->title)->sortBy('title') as $subject )
+            @php
+                $subjectCourses = $courses->filter(function($course) use ($level, $subject){
+                    return $course->year == $level && $course->subject_area == $subject->title;
+                });
+            @endphp
+            @if($subjectCourses->isNotEmpty())
             <details>
                 <summary>
-                    <h2 class="decorated d-table my-5">{{ $faculty->title }}
+                    <h4 class="decorated d-table my-5">{{ $faculty->title }}</h4>
                 </summary>
-                @foreach($subject_areas->where('faculty', $faculty->title)->sortBy('title') as $subject )
-                    @php
-                    $subjectCourses = $courses->filter(function($course) use ($level, $subject){
-                            return $course->year == $level && $course->subject_area == $subject->title;
-                        });
-                    @endphp
-                    @if($subjectCourses->isNotEmpty())
-                    <div class="col col-md-6 col-lg-6">
+
+
+                <div class="col col-md-6 col-lg-6">
                     <details open>
-                            <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
+                        <summary>
+                            <h5 class="d-table">{{ $subject->title }}</h5>
+                        </summary>
                         <ul>
-                        @foreach($subjectCourses as $course)
-                        <li>
-                            <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
-                        </li>
-                        @endforeach
+                            @foreach($subjectCourses as $course)
+                            <li>
+                                <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
+                            </li>
+                            @endforeach
                         </ul>
                     </details>
-                    </div>
-                    @endif
-                @endforeach
+                </div>
             </details>
+            @endif
         @endforeach
-    </details>
-@endforeach
-
-
-
-
-@foreach($courses->groupBy(['year','subject_area']) as $year=>$sa)
-<details>
-<summary>
-    <h2 class="decorated d-table my-5">{{ $year }}
-</summary>
-
-<div class="row">
-    @foreach($sa as $s=>$saCourses )
-    <div class="col col-md-6 col-lg-6">
-    <details open>
-            <summary><h5 class="d-table">{{ $s }}</h5></summary>
-        <ul>
-        @foreach($saCourses as $course)
-        <li>
-            <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
-        </li>
-        @endforeach
-        </ul>
-    </details>
-    </div>
     @endforeach
-</div>
-
-
 </details>
 @endforeach
+
+
 
 @endsection
