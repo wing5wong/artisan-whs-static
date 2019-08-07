@@ -50,7 +50,4 @@ a.featured[title]:after {
      </style>
      </main>
     @include('_partials.lastReviewed')
-    @if($page->_meta->get('collection'))
-    <small><a class="text-muted" href="{{ $page->baseUrl}}/admin/#/collections/{{ $page->_meta->get('collection') }}/entries/{{str_replace(".md","",$page->getFilename())}}" target="_BLANK" rel="nofollow">(*)</a></small>
-    @endif
 @endsection
