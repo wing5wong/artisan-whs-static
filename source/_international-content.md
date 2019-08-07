@@ -12,9 +12,9 @@
   
   ## Code of Practice
   
-  Whanganui High School has agreed to observe and be bound by the Code of Practice for the Pastoral Care of International Students published by the Ministry of Education. Copies of the Code are available on request from this institution or from the New Zealand Qualifications Authority website at: http://www.nzqa.govt.nz/assets/Providers-and-partners/Code-of-Practice-NZQA.pdf . 
+  Whanganui High School has agreed to observe and be bound by the Code of Practice for the Pastoral Care of International Students published by the Ministry of Education. Copies of the Code are available on request from this institution or from the [New Zealand Qualifications Authority website](http://www.nzqa.govt.nz/assets/Providers-and-partners/Code-of-Practice-NZQA.pdf). 
   
-  You may also be able to find a copy of the Code of Practice in your language at this link www.nzqa.govt.nz/providers-partners/education-code-of-practice/code-of-practice-resources-languages/ 
+  You may also be able to find a copy of the Code of Practice in your language at [this link](www.nzqa.govt.nz/providers-partners/education-code-of-practice/code-of-practice-resources-languages/)
   
   Details of our refund policy, insurance and immigration requirements and conditions of acceptance are to be found on our International Application Form.
   
