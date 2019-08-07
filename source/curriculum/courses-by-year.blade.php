@@ -44,7 +44,7 @@ $levels = [
     @foreach($mapped as $faculty)
     <details>
     <summary>
-    <h3 class="my-5">{{ $faculty['faculty']->title}}</h3>
+    <h3 class="my-5 d-table">{{ $faculty['faculty']->title}}</h3>
     </summary>
     <div class="row">
         @foreach($faculty['subjectAreas'] as $subjectArea)
