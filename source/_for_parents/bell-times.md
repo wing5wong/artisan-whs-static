@@ -3,6 +3,9 @@ title: Bell Times
 date: 2019-04-02T01:23:57.661Z
 ---
 
+**Students should be at school by 8:40am.  
+Whanganui High School expects students to be punctual.**
+
 ## Monday to Thursday
 
 |Start|End|Period|
@@ -30,6 +33,3 @@ date: 2019-04-02T01:23:57.661Z
 
 At the conclusion of period 4, students will be able to go home unless requested to remain for tuition or mentoring.
 Bus students will be able to attend the Homework Centre in the Library.  
-
-**Students should be at school by 8:40am.  
-Whanganui High School expects students to be punctual.**
