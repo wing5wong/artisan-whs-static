@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'www.whanganuihigh.school.nz',
+    'baseUrl' => 'https://www.whanganuihigh.school.nz',
 ];
