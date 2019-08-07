@@ -17,10 +17,14 @@
 @endphp
 
 <table>
+    <tr>
+        <th>Year of Enrolment</th>
+        <th>Enrolment Form</th>
+    </tr>
 @foreach($enrolmentForms as $form)
     <tr>
         <td>
-                {{ date('F j, Y', $form->date) }}
+                {{ date('F Y', $form->date) }}
         </td>
         <td>
                 <a href="{{ $form->file}}">{{ $form->title }}</a>
