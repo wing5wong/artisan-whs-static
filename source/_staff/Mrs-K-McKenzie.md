@@ -1,6 +1,6 @@
 ---
 title: Mrs K. McKenzie
-position: Head Teacher Aide
+position: Lead Teacher Aide
 departments:
   - Learning Support Centre
 ---
