@@ -21,6 +21,7 @@
     });
 @endphp
 
+<h2>Enrolment Application Forms</h2>
 <table>
     <tr>
         <th>Year of Enrolment</th>

@@ -24,15 +24,3 @@ The School will respond to all applicants as soon as possible.
 ## Prospectus
 
 [Download the current prospectus](https://res.cloudinary.com/whanganuihigh/image/upload/v1563495283/School%20Documents/Enrolment/2019_Prospectus.pdf)
-
-## Application Forms
-
-[2020 Year 9 Enrolment Application](https://res.cloudinary.com/whanganuihigh/image/upload/v1562014435/Enrolment%20Applications/2020_Year_9_Enrolment_Form_-_Whanganui_High_School.pdf)
-
-[2019 Year 9 Enrolment Application](https://res.cloudinary.com/whanganuihigh/image/upload/v1562014469/Enrolment%20Applications/2019_Year_9_Enrolment_Application_Form_-_Whanganui_High_School.pdf)
-
-[2019 Year 10 Enrolment Application](https://res.cloudinary.com/whanganuihigh/image/upload/v1562014469/Enrolment%20Applications/2019_Year_10_Enrolment_Application_Form_-_Whanganui_High_School.pdf)
-
-[2019 Year 11,12,13 Enrolment Application](https://res.cloudinary.com/whanganuihigh/image/upload/v1562014470/Enrolment%20Applications/2019_Year_11_12_13_Enrolment_Application_Form_-_Whanganui_High_School.pdf)
-
-[International Applications](/info-for-parents/enrolments)
