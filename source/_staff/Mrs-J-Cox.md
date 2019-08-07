@@ -1,6 +1,7 @@
 ---
 title: Mrs J. Cox
-position: Learning Support Centre
+position: Teacher Aide
 departments:
-  - Support and Ancilliary
+  - Learning Support Centre
 ---
+
