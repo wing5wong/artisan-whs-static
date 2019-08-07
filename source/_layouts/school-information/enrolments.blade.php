@@ -13,7 +13,13 @@
 @php
     $enrolmentForms = $school_documents->filter(function($doc){
         return strpos($doc->title, "Enrolments") >= -1;
-    })->sortBy('-title')->sortBy('-date');
+    })->sort(function($a, $b){
+        if(date('Y', $a->date) === date('Y', $b->date)){
+            return -($a->title <=> $b->title);
+        }
+        return $a->date <=> $b->date;
+    });
+    ->sortBy('-title')->sortBy('-date');
 @endphp
 
 <table>
