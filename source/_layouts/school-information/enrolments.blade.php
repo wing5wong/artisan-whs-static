@@ -10,6 +10,24 @@
 @yield('postContent')
 
 
+@php
+    $enrolmentForms = $school_documents->filter(function($doc){
+        return strpos($doc->title, "Enrolments") !== false;
+    })->sortBy('-date');
+@endphp
+
+<table>
+@foreach($enrolmentForms as $form)
+    <tr>
+        <td>
+                {{ date('F j, Y', $form->date) }}
+        </td>
+        <td>
+                <a href="{{ $form->file}}">{{ $form->title }}</a>
+        </td>
+    </tr>
+@endforeach
+</table>
 
 @include('_partials.lastReviewed')
 
