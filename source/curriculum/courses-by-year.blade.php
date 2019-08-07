@@ -7,11 +7,11 @@
 
 @php
 $levels = [
-    9 => "Year 9",
-    10 => "Year 10",
-    11 => "Level 1",
-    12 => "Level 2",
-    13 => "Level 3"
+    "9" => "Year 9",
+    "10" => "Year 10",
+    "11" => "Level 1",
+    "12" => "Level 2",
+    "13" => "Level 3"
 ];
 @endphp
 
