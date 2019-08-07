@@ -21,26 +21,42 @@ $levels = [
         <h2 class="decorated d-table my-5">{{ $levelTitle }}
     </summary>
     @php
-    $mapped = $faculties->map(function($faculty) use ($level){
-        $subjectAreas = $subject_areas->where('faculty', $faculty->title)->sortBy('title')
-        ->map(function($subject) use ($level){
-            $subjectCourses = $courses->filter(function($course) use ($level, $subject){
+    $mapped = $faculties->map(function($faculty) use ($level, $subject_areas, $courses){
+        $subjectAreas = $subject_areas
+            ->where('faculty', $faculty->title)
+            ->sortBy('title')
+            ->map(function($subject) use ($level, $courses){
+                $subjectCourses = $courses->filter(function($course) use ($level, $subject){
                     return $course->year == $level && $course->subject_area == $subject->title;
                 });
             return ['subjectArea' => $subject, 'courses' => $subjectCourses];
+        })
+        ->filter(function($sa){
+            return $sa['courses']->isNotEmpty();
         });
+
         return ['faculty'=>$faculty, 'subjectAreas'=>$subjectAreas];
+    })->filter( function($f){
+        return $f['subjectAreas']->isNotEmpty();
     });
     @endphp
 
     @foreach($mapped as $faculty)
-    <h3>{{ $faculty['faculty']->title}}</h3>
+    <h3 class="my-5">{{ $faculty['faculty']->title}}</h3>
+    <div class="row">
         @foreach($faculty['subjectAreas'] as $subjectArea)
+        <div class="col-6">
             <h4>{{ $subjectArea['subjectArea']->title }}</h4>
-            @foreach($subjectArea->courses as $course)
-            <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
-            @endforeach
+            <ul>
+                @foreach($subjectArea['courses'] as $course)
+                <li>
+                    <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
+                </li>
+                @endforeach
+            </ul>
+        </div>
         @endforeach
+    </div>
     @endforeach
 
 </details>
