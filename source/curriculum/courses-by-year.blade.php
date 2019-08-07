@@ -34,17 +34,14 @@ $levels = [
     @endphp
 
     @foreach($mapped as $faculty)
-    <h3>{{ $faculty->faculty->title}}</h3>
-        @foreach($faculty->subjectAreas as $subjectArea)
-            <h4>{{ $subjectArea->subjectArea->title }}</h4>
+    <h3>{{ $faculty['faculty']->title}}</h3>
+        @foreach($faculty['subjectAreas'] as $subjectArea)
+            <h4>{{ $subjectArea['subjectArea']->title }}</h4>
             @foreach($subjectArea->courses as $course)
             <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
             @endforeach
         @endforeach
     @endforeach
-
-
-
 
 </details>
 @endforeach
