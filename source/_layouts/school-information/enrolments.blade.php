@@ -8,6 +8,24 @@
 <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif
 
 @yield('postContent')
+@php
+$prospectus = $school_documents->filter(function($doc){
+    return strpos($doc->title, "Prospectus") >= -1;
+})->first();
+@endphp
+<h2>Prospectus</h2>
+<table>
+    <tr>
+        <td>
+                {{ date('Y', $prospectus->date) }}
+        </td>
+        <td>
+                <a href="{{ $prospectus->file}}">{{ str_replace("Enrolments - ", "", $prospectus->title) }}</a>
+        </td>
+    </tr>
+</table>
+
+
 
 
 @php
