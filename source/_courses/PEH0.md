@@ -9,7 +9,7 @@ type: Compulsory
 course_duration: Full Year
 course_level: Year 10
 leads_to: ''
-credits: .
+credits:
 entry_requirements: Satisfactory completion of PEHE course.
 course_fees: ''
 notes: ''

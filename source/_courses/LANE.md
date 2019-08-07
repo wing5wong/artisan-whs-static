@@ -10,7 +10,7 @@ course_duration: One Term
 course_level: Year 9
 assessment_type: Compulsory
 leads_to: ''
-credits: .
+credits:
 entry_requirements: ''
 course_fees: ''
 notes: ''

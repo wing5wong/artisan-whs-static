@@ -10,7 +10,7 @@ course_duration: Full Year
 course_level: Year 9
 assessment_type: Compulsory
 leads_to: ''
-credits: .
+credits:
 entry_requirements: ''
 course_fees: ''
 notes: ''

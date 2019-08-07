@@ -10,7 +10,7 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: ''
-credits: .
+credits:
 entry_requirements: >-
   University Studies - students must have the Principal's approval and
   provisional entrance to University (to be applied for by 1st December) is

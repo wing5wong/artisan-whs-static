@@ -10,7 +10,7 @@ course_duration: Two Terms
 course_level: Year 10
 assessment_type: Optional
 leads_to: ''
-credits: .
+credits:
 entry_requirements: ''
 course_fees: ''
 notes: ''

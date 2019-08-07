@@ -9,7 +9,7 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 leads_to: ''
-credits: .
+credits:
 entry_requirements: >-
   Only available to Year 13 students who are doing a full University Course or
   alternatively students who have two (or more) portfolio courses. Entry is to
