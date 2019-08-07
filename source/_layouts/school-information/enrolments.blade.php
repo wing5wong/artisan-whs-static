@@ -12,8 +12,8 @@
 
 @php
     $enrolmentForms = $school_documents->filter(function($doc){
-        return true;
-    })->sortBy('-date');
+        return strpos($doc->title, "Enrolments") >= -1;
+    });
 @endphp
 
 <table>
