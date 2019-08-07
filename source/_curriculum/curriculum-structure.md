@@ -111,32 +111,32 @@ To cater for different student abilities, Whanganui High School offers courses o
 
     NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13 some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
 
-* ### NCEA Scholarship
+## NCEA Scholarship
 
-    Whanganui High School offers NCEA Level 3 students the opportunity to sit the NCEA Scholarships examination in subjects taught at Level 3.
+Whanganui High School offers NCEA Level 3 students the opportunity to sit the NCEA Scholarships examination in subjects taught at Level 3.
 
-    _Example: The NCEA Scholarship Chemistry examination is offered as part of Level 3 Chemistry._
+_Example: The NCEA Scholarship Chemistry examination is offered as part of Level 3 Chemistry._
 
-* ### University Entrance Approval Courses
+## University Entrance Approval Courses
 
-    Whanganui High School Level 3 courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
+Whanganui High School Level 3 courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
 
-    In addition, if a course offers University Entrance Literacy credits, these are identified at the top of the course description.
+In addition, if a course offers University Entrance Literacy credits, these are identified at the top of the course description.
 
-* ### Vocational Pathways
+## Vocational Pathways
 
-    ![](http://c1940652.r52.cf0.rackcdn.com/55aef040ff2a7c4de100004a/Voc-Path.png)
+![](http://c1940652.r52.cf0.rackcdn.com/55aef040ff2a7c4de100004a/Voc-Path.png)
 
-    Vocational Pathways provide new ways to achieve NCEA Level 2 – the foundation for success in further education and the world of work. The pathways help students see how their learning and achievement is valued in the ‘real world’ by aligning the NCEA Level 2 Assessment Standards including specific ‘sector-related’ standards with six industries:
-    * Primary Industries
-    * Services Industries
-    * Social & Community Services
-    * Manufacturing & Technology
-    * Construction & Infrastructure
-    * Creative Industries
+Vocational Pathways provide new ways to achieve NCEA Level 2 – the foundation for success in further education and the world of work. The pathways help students see how their learning and achievement is valued in the ‘real world’ by aligning the NCEA Level 2 Assessment Standards including specific ‘sector-related’ standards with six industries:
+* Primary Industries
+* Services Industries
+* Social & Community Services
+* Manufacturing & Technology
+* Construction & Infrastructure
+* Creative Industries
 
-    These six pathways represent ways to structure and achieve NCEA Level 2 by providing a more coherent framework for foundational vocational education; students can develop their own individual education plans, are better informed and able to make better choices to meet their goals.  
+These six pathways represent ways to structure and achieve NCEA Level 2 by providing a more coherent framework for foundational vocational education; students can develop their own individual education plans, are better informed and able to make better choices to meet their goals.  
 
-    Government agencies, the industry training sector, secondary and tertiary representatives and industry and employer representatives worked together to develop the six Vocational Pathways for NCEA Level 2 as the foundation of the journey to employment.
+Government agencies, the industry training sector, secondary and tertiary representatives and industry and employer representatives worked together to develop the six Vocational Pathways for NCEA Level 2 as the foundation of the journey to employment.
 
-    For the Profile Builder tool [refer to the Vocational Pathways website.](http://youthguarantee.net.nz/vocational-pathways/profile-builder/)
+For the Profile Builder tool [refer to the Vocational Pathways website.](http://youthguarantee.net.nz/vocational-pathways/profile-builder/)
