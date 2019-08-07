@@ -1,5 +1,5 @@
 ---
-title: Curriculum Overview
+title: Curriculum Structure
 date: 2019-07-26T02:23:57.661Z
 intro: .
 ---
@@ -74,11 +74,12 @@ To cater for different student abilities, Whanganui High School offers courses o
     Pre-NCEA courses may also have up to 3 different curriculum levels. These are labelled as follows:
     
     _(Using English as an example)_
-    |Subject Level|Subject|Curriculum Level|Subject Code|
+
+    |Subject|Subject Level|Curriculum Level|Subject Code|
     |---|---|---|---|
-    |Pre-NCEA | English | NZ Curriculum Level 4 | ENI0|
-    |Pre-NCEA | English | NZ Curriculum Level 5 | ENG0|
-    |Pre-NCEA | English | NZ Curriculum Level 6 | ENE0|
+    | English|Introductory | NZ Curriculum Level 4 | ENI0|
+    | English|Middle Band | NZ Curriculum Level 5 | ENG0|
+    | English|Extension | NZ Curriculum Level 6 | ENE0|
 
 * ### NCEA Level 1 Courses
 
@@ -88,9 +89,9 @@ To cater for different student abilities, Whanganui High School offers courses o
 
     |Subject|Subject Level|Subject Code|
     |---|---|---|
-    |NCEA Level 1 Science| **I**nternal | SC**I**1| 
-    |NCEA Level 1 Science | **G**eneral | SC**G**1| 
-    |NCEA Level 1 Science | **E**xtension | SC**E**1|
+    |NCEA Level 1 Science| **I**ntroductory (Internal assessment) | SC**I**1| 
+    |NCEA Level 1 Science | **G**eneral (Mixed assessment) | SC**G**1| 
+    |NCEA Level 1 Science | **E**xtension (Mixed assessment) | SC**E**1|
 
 
 * ### NCEA Level 2 Courses
@@ -100,42 +101,42 @@ To cater for different student abilities, Whanganui High School offers courses o
     _(Using English as an example)_
     |Subject|Subject Level|Subject Code|
     |---|---|---|
-    |NCEA Level 2 English | **E**xtension | EN**E**2|
-    |NCEA Level 2 English | **I**nternally| EN**I**2|
-    |NCEA Level 2 English | **G**eneral* | EN**G**2|
+    |NCEA Level 2 English | **I**ntroductory (Internal assessment)| EN**I**2|
+    |NCEA Level 2 English | **G**eneral  (Mixed assessment) | EN**G**2|
+    |NCEA Level 2 English | **E**xtension (Mixed assessment)  | EN**E**2|
 
-    (*a combination of internal and external assessments)
 
-#### Vocational Pathways
-
-![](http://c1940652.r52.cf0.rackcdn.com/55aef040ff2a7c4de100004a/Voc-Path.png)
-
-Vocational Pathways provide new ways to achieve NCEA Level 2 – the foundation for success in further education and the world of work. The pathways help students see how their learning and achievement is valued in the ‘real world’ by aligning the NCEA Level 2 Assessment Standards including specific ‘sector-related’ standards with six industries:
-* Primary Industries
-* Services Industries
-* Social & Community Services
-* Manufacturing & Technology
-* Construction & Infrastructure
-* Creative Industries
-
-These six pathways represent ways to structure and achieve NCEA Level 2 by providing a more coherent framework for foundational vocational education; students can develop their own individual education plans, are better informed and able to make better choices to meet their goals.  
-
-Government agencies, the industry training sector, secondary and tertiary representatives and industry and employer representatives worked together to develop the six Vocational Pathways for NCEA Level 2 as the foundation of the journey to employment.
-
-For the Profile Builder tool [refer to the Vocational Pathways website.](http://youthguarantee.net.nz/vocational-pathways/profile-builder/)
-
-* **NCEA Level 3 Courses**
+    
+* ### NCEA Level 3 Courses
 
     NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13 some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
 
-* **NCEA Scholarship**
+* ### NCEA Scholarship
 
     Whanganui High School offers NCEA Level 3 students the opportunity to sit the NCEA Scholarships examination in subjects taught at Level 3.
 
     _Example: The NCEA Scholarship Chemistry examination is offered as part of Level 3 Chemistry._
 
-* **University Entrance Approval Courses**
+* ### University Entrance Approval Courses
 
     Whanganui High School Level 3 courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
 
     In addition, if a course offers University Entrance Literacy credits, these are identified at the top of the course description.
+
+* ### Vocational Pathways
+
+    ![](http://c1940652.r52.cf0.rackcdn.com/55aef040ff2a7c4de100004a/Voc-Path.png)
+
+    Vocational Pathways provide new ways to achieve NCEA Level 2 – the foundation for success in further education and the world of work. The pathways help students see how their learning and achievement is valued in the ‘real world’ by aligning the NCEA Level 2 Assessment Standards including specific ‘sector-related’ standards with six industries:
+    * Primary Industries
+    * Services Industries
+    * Social & Community Services
+    * Manufacturing & Technology
+    * Construction & Infrastructure
+    * Creative Industries
+
+    These six pathways represent ways to structure and achieve NCEA Level 2 by providing a more coherent framework for foundational vocational education; students can develop their own individual education plans, are better informed and able to make better choices to meet their goals.  
+
+    Government agencies, the industry training sector, secondary and tertiary representatives and industry and employer representatives worked together to develop the six Vocational Pathways for NCEA Level 2 as the foundation of the journey to employment.
+
+    For the Profile Builder tool [refer to the Vocational Pathways website.](http://youthguarantee.net.nz/vocational-pathways/profile-builder/)
