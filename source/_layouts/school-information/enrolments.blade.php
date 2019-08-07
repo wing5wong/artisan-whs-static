@@ -13,7 +13,7 @@
 @php
     $enrolmentForms = $school_documents->filter(function($doc){
         return strpos($doc->title, "Enrolments") >= -1;
-    });
+    })->sortBy('-date');
 @endphp
 
 <table>
@@ -24,10 +24,10 @@
 @foreach($enrolmentForms as $form)
     <tr>
         <td>
-                {{ date('F Y', $form->date) }}
+                {{ date('Y', $form->date) }}
         </td>
         <td>
-                <a href="{{ $form->file}}">{{ $form->title }}</a>
+                <a href="{{ $form->file}}">{{ str_replace("Enrolments - ", "", $form->title) }}</a>
         </td>
     </tr>
 @endforeach
