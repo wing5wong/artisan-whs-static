@@ -14,7 +14,7 @@ leads_to:
   - DTA2
 credits: '18'
 entry_requirements: Subject to HOF approval.
-course_fees: Nil
+course_fees: 
 notes: ''
 ---
 Computing skills are an essential requirement for most employment opportunities. This course concentrates on gaining a base of good practical computing skills and knowledge through a hands-on approach. Course content includes, managing computer files, presentation software, incorporating digital media, database applications and spreadsheets, internet research skills and creation of documents for the World Wide Web.

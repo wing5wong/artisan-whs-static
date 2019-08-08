@@ -12,7 +12,7 @@ assessment_type: Unit Standard
 leads_to: ''
 credits: '28'
 entry_requirements: 'Open entry for Year 13 students, subject to HOF approval'
-course_fees: Nil
+course_fees: 
 notes: ''
 ---
 This course will concentrate on the production and integration of documents used in business. Design skills and accuracy of work will be essential. Students taking this course will gain experience in using the more advanced features in Microsoft Office applications, along with some of the applications in the Adobe Suite Collection.

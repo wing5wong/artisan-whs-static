@@ -11,7 +11,7 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 credits: '16'
 entry_requirements: ''
-course_fees: Nil
+course_fees: 
 ue_approved: true
 notes: >-
   Can lead to Computer Science or Software Engineering degrees or work in the

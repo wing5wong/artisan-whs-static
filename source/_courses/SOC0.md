@@ -17,7 +17,7 @@ leads_to:
   - CLS1
 credits: ''
 entry_requirements: Completion of SOCE (Year 9) Social Science Course.
-course_fees: ''
+course_fees: 
 notes: ''
 ---
 **Purpose:**

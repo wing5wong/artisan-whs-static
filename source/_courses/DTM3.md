@@ -11,7 +11,7 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 credits: '22'
 entry_requirements: 'Open entry for Year 13 students, subject to HOF approval.'
-course_fees: Nil
+course_fees: 
 ue_approved: true
 notes: ''
 ---

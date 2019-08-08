@@ -13,7 +13,7 @@ credits: 18-24
 entry_requirements: >-
   12 Credits in ECO2 or in both ENG2 or ENE2 and MTA2 or MPS2 including 1
   external standard in each and HOF/TIC approval
-course_fees: ''
+course_fees: 
 ue_approved: true
 notes: ''
 ---

@@ -21,7 +21,7 @@ credits: ''
 entry_requirements: >-
   Completion of SOCE (Year 9) Social Science Course. Students will be selected
   from performance in SOCE course (Year 9 course).
-course_fees: ''
+course_fees: 
 invitation_only: true
 notes: ''
 ---

@@ -16,7 +16,7 @@ credits: 16-20
 entry_requirements: >-
   Open entry for Year 12 students and vocational students, subject to HOF
   approval.
-course_fees: Nil
+course_fees: 
 notes: ''
 ---
 This course is designed to enable students to gain a broad understanding of the different software applications available today and some skills in using these appropriately. The safe use of computers and the correct use of computers as communication tools will be a feature of this course. Students will develop skills in communication, design, research and problem solving.

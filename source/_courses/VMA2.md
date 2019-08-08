@@ -13,7 +13,7 @@ assessment_type: Unit Standard
 leads_to: ''
 credits: '8'
 entry_requirements: Class size limited. Interview by teacher in charge required.
-course_fees: Nil
+course_fees: 
 invitation_only: true
 notes: ''
 ---

@@ -15,7 +15,7 @@ credits: 19-23
 entry_requirements: >-
   12 credits ENI1 or 10 credits ENG1 and HOF/TIC approval (Students must have
   gained their 10 Level 1 Literacy credits).
-course_fees: Nil
+course_fees: 
 notes: ''
 ---
 To provide a balanced English programme to include reading, writing, listening, speaking, and presenting. Students will be given the opportunity to gain some of the 10 literacy credits required for University Entrance. This is the same course as ENG2 except there are no external standards.

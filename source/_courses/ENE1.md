@@ -13,7 +13,7 @@ leads_to:
   - ENE2
 credits: 18-21
 entry_requirements: ''
-course_fees: ''
+course_fees: 
 notes: ''
 ---
 To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, creative writing and formal writing.

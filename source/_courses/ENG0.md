@@ -13,7 +13,7 @@ credits: ''
 entry_requirements: >-
   Satisfactory completion of the ENGE course. 50% in the End of year
   Examination.
-course_fees: ''
+course_fees: 
 notes: ''
 ---
 **Purpose:**

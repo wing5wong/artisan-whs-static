@@ -15,7 +15,7 @@ entry_requirements: >-
   alternatively students who have two (or more) portfolio courses. Entry is to
   be approved by the Senior Leader of each house. Full attendance and a positive
   attitude to Study is required.
-course_fees: ''
+course_fees: 
 notes: ''
 ---
 Supervised Study. The purpose of this course is to provide supervised silent study time.

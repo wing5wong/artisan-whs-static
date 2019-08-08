@@ -13,7 +13,7 @@ credits: 18-22
 entry_requirements: >-
   10 credits UE Literacy, with at least one Level 2 external standard achieved.
   Students must have attempted the Speech at Level 2 or have HOF/TIC approval.
-course_fees: Nil
+course_fees: 
 ue_approved: true
 notes: ''
 ---

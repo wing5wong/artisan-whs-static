@@ -14,7 +14,7 @@ leads_to:
   - SCX1S
 credits: ''
 entry_requirements: Satisfactory completion of SCGE course.
-course_fees: ''
+course_fees: 
 notes: ''
 ---
 **Purpose:**

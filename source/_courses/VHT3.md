@@ -13,7 +13,7 @@ assessment_type: Unit Standard
 leads_to: ''
 credits: '10'
 entry_requirements: ''
-course_fees: ''
+course_fees: 
 invitation_only: true
 notes: ''
 ---

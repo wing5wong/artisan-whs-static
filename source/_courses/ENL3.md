@@ -13,7 +13,7 @@ credits: '21'
 entry_requirements: >-
   12 credits ENG2 achieved mainly at Merit or Excellence, and HOF/TIC approval.
   Students must also have completed Wide Reading Level 2 AS91106
-course_fees: Nil
+course_fees: 
 ue_approved: true
 notes: ''
 ---

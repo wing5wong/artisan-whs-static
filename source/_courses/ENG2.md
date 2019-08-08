@@ -16,7 +16,7 @@ credits: 21-24
 entry_requirements: >-
   12 credits ENG1. Students must have attempted the Speech in Level 1 and pass
   at least one Level 1 external standard
-course_fees: Nil
+course_fees: 
 notes: ''
 ---
 To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, creative writing and formal writing. Students will be given the opportunity to gain the 10 Literacy credits required for University Entrance.

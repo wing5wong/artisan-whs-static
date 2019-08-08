@@ -13,7 +13,7 @@ leads_to:
   - ENG2
 credits: 18-23
 entry_requirements: 45% in Year 10 English
-course_fees: Nil
+course_fees: 
 ue_approved: false
 invitation_only: false
 endorsement: false

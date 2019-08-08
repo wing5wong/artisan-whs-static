@@ -12,7 +12,7 @@ leads_to:
   - SCI1
 credits: ''
 entry_requirements: Successful completion of SCIE course.
-course_fees: ''
+course_fees: 
 notes: ''
 ---
 To provide a balanced Science programme to include aspects of Biology, Chemistry, Physics: investigations, interpreting information, microorganisms, life processes, metal properties, electricity and magnetism.

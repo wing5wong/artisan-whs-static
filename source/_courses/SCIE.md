@@ -12,7 +12,7 @@ assessment_type: Compulsory
 leads_to: ''
 credits:
 entry_requirements: ''
-course_fees: ''
+course_fees: 
 notes: ''
 ---
 **Purpose:**

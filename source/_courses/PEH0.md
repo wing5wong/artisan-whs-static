@@ -11,7 +11,7 @@ course_level: Year 10
 leads_to: ''
 credits:
 entry_requirements: Satisfactory completion of PEHE course.
-course_fees: ''
+course_fees: 
 notes: ''
 ---
 **Purpose:** 

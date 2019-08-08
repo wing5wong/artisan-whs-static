@@ -13,7 +13,7 @@ credits: '20'
 entry_requirements: >-
   12 credits in Level 2 Achievement Standards English or 12 credits Level 2
   achievement standards Social Studies and HOF/TIC approval.
-course_fees: ''
+course_fees: 
 ue_approved: true
 notes: ''
 ---

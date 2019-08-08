@@ -19,7 +19,7 @@ entry_requirements: >-
   available every year and may have Level 2 prerequisites before a student can
   embark upon Level 3 units. Other provider Studies. Students need to gain
   approval from Mrs Howard.
-course_fees: ''
+course_fees: 
 notes: >-
   EXT3 is a supervised study period where students complete the work provided by
   external providers. Alternatively, where Year 12-13 students are on "course"
