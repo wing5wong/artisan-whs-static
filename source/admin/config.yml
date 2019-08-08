@@ -578,6 +578,43 @@ collections:
         name: "image"
         widget: "image"
         required: false
+      - label: "Positions"
+        name: "positions"
+        widget: "object"
+        required: false
+        fields: 
+          - { name: "title", label: "Title", widget: "string" }
+          - name: department
+            title: "Department"
+            widget: "select"
+            options: [
+              "The Arts",
+              "Associate Principal",
+              "Board of Trustees",
+              "Deans",
+              "Deputy Principal",
+              "Digital Technology",
+              "English",
+              "Faculty Heads",
+              "Guidance Counsellors",
+              "Instrumental Music Tutors",
+              "International",
+              "Languages",
+              "Learning Support Centre",
+              "Librarians",
+              "Mathematics",
+              "Physical Education and Health",
+              "Principal",
+              "Sciences",
+              "Social Sciences",
+              "Sports",
+              "Study / External Studies",
+              "Support and Ancilliary",
+              "Te Atawhai / Special Needs",
+              "Technology",
+              "Vocational Studies"
+            ]
+            
   
   - name: "term_dates"
     label: "Term Dates"
