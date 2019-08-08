@@ -7,72 +7,80 @@
 
 {!! $page !!}
 
-@if($page->entry_requirements)
-<div class="card text-white bg-success my-5">
-    <h3 class="card-header">Entry Requirements:</h3>
-    <div class="card-body">
-        <p class="card-text">{{ $page->entry_requirements }}</p>
-    </div>
-</div>
-@endif
 
 <table class="my-5 table table-bordered">
+    
+    @if($page->entry_requirements)
     <tr>
-        <td><strong>Level:</strong> 
+        <td colspan='4' class="bg-success text-white">
+            <strong>Entry Requirements:</strong> <br>
+            {{ $page->entry_requirements }}
+        </td>
+    </tr>
+    @endif
+    <tr>
+        <td>
+            <strong>Level:</strong> <br>
             {{ $page->course_level }}
         </td>
-        <td><strong>Type:</strong> 
-        
+        <td>
+            <strong>Type:</strong> <br>
             {{ $page->type }} 
         </td>
-        <td><strong>Duration:</strong> 
+        <td>
+            <strong>Duration:</strong> <br>
         
             {{ $page->course_duration }}
         </td>
+        <td>
+            <strong>Invitation Only:</strong> <br>
+            {{$page->invitation_only ? "Yes" : "No"}}
+        </td>
     </tr>
     <tr>
-        <td><strong>Assessment:</strong> 
+        <td>
+            <strong>Assessment:</strong> <br>
         
             {{ $page->assessment_type }}
         </td>
-        <td><strong>Credits:</strong> 
-        
+        <td>
+            <strong>Credits:</strong> <br>
             {{ $page->credits }}
         </td>
-        <td><strong>U.E. Approved:</strong> 
-        
+        <td>
+            <strong>U.E. Approved:</strong> <br>
             {{$page->ue_approved ? "Yes" : "No"}}
         </td>
-        <td><strong>Endorsement:</strong> 
-        
+        <td>
+            <strong>Endorsement:</strong> <br>
             {{$page->endorsement ? "Yes" : "No"}}
         </td>
     </tr>
-    <tr>
-        <td><strong>Invitation Only:</strong> 
-        
-            {{$page->invitation_only ? "Yes" : "No"}}
-        </td>
-        <td><strong>Contribution:</strong> 
-            {{ $page->course_fees }}
-        </td>
-    </tr>
-
+    
+    
     @if(($page->leads_to) and(is_array($page->leads_to)))
     <tr>
-        <td><strong>Leads To:</strong>
+        <td colspan='4'><strong>Leads To:</strong> <br>
             @foreach($courses->whereIn('code', $page->leads_to) as $leads)
                 <a href="{{$leads->getPath()}}">{{ $leads->code }}</a>@if(!$loop->last), @endif
             @endforeach
         </td>
     </tr>
     @endif
+  
+    @if($page->course_fees)
+    <tr>
+        <td colspan='4'>
+            <strong>Contribution:</strong> <br>
+            {{ $page->course_fees }}
+        </td>
+    </tr>
+    @endif
     
     @if($page->notes)
     <tr>
-        <td><strong>Notes:</strong>
-        {{ $page->notes }}
-        
+        <td colspan='4'><strong>Notes:</strong> <br>
+            {{ $page->notes }}
         </td>
     </tr>
     @endif
