@@ -44,20 +44,16 @@ $levels = [
 <div class="row">
     @foreach($mapped as $faculty)
     <div class="col-6">
-        <details open>
-            <summary>
-                <h3 class="my-5 d-table">{{ $faculty['faculty']->title}}</h3>
-            </summary>
-            <ul>
-            @foreach($faculty['subjectAreas'] as $subjectArea)
-                    @foreach($subjectArea['courses'] as $course)
-                    <li>
-                        <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
-                    </li>
-                    @endforeach
-            @endforeach
-            </ul>
-        </details>
+        <h3 class="my-5 d-table">{{ $faculty['faculty']->title}}</h3>
+        <ul>
+        @foreach($faculty['subjectAreas'] as $subjectArea)
+                @foreach($subjectArea['courses'] as $course)
+                <li>
+                    <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
+                </li>
+                @endforeach
+        @endforeach
+        </ul>
     </div>
     @endforeach
 </div>
