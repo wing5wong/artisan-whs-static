@@ -9,7 +9,9 @@
 
 
 
-@foreach($faculties->sortBy('title') as $faculty)
+@foreach($faculties->filter(function($f){
+                        return $f->isTeachingFaculty($f);
+                    })->sortBy('title') as $faculty)
 <details>
 <summary>
     <h2 class="decorated d-table my-5">{{ $faculty->title }}

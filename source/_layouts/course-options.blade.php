@@ -23,7 +23,10 @@ $levels = [
         <h2 class="decorated d-table">{{ $levelTitle }}
     </summary>
     @php
-    $mapped = $faculties->map(function($faculty) use ($level, $subject_areas, $courses){
+    $mapped = $faculties->filter(function($f){
+            return $f->isTeachingFaculty($f);
+        })
+        ->map(function($faculty) use ($level, $subject_areas, $courses){
         $subjectAreas = $subject_areas
             ->where('faculty', $faculty->title)
             ->sortBy('title')

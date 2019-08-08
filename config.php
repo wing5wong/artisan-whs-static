@@ -126,6 +126,10 @@ return [
             'sort' => 'title',
             'extends' => '_layouts.faculty',
             'section' => 'postContent',
+            'is_teaching_faculty' => true,
+            'isTeachingFaculty' => function($page, $faculty){
+                return $faculty->is_teaching_faculty ?? false;
+            }
         ],
         'for_parents' => [
             'path' => 'info-for-parents/{filename}',
