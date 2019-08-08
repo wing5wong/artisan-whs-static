@@ -49,7 +49,7 @@ $levels = [
         @foreach($faculty['subjectAreas'] as $subjectArea)
                 @foreach($subjectArea['courses'] as $course)
                 <li>
-                    <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
+                    <a href="{{$course->getPath()}}">{{ $course->name }}</a>
                 </li>
                 @endforeach
         @endforeach
