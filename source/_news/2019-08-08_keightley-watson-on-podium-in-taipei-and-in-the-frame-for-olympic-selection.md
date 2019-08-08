@@ -18,7 +18,7 @@ After a gruelling six weeks of travel around the globe competing, Whanganui heav
 
 He has also put himself in the frame for Olympic selection.
 
-The teenager ####won#### bronze in the Senior Men's Asian Open in Taipei over the weekend. It was a complete reversal of fortune for the Whanganui High School student after a seventh the previous week in the Asia-Oceania Junior men's plus 100kg division also in Taipei.
+The teenager ####won bronze#### in the Senior Men's Asian Open in Taipei over the weekend. It was a complete reversal of fortune for the Whanganui High School student after a seventh the previous week in the Asia-Oceania Junior men's plus 100kg division also in Taipei.
 
 With 17 countries competing this year in the Asian Open, mostly from the Asian continent including four New Zealand senior judokas in various weight category's and eight from Australia, Watson was the only Kiwi to medal while only one from Australia also managed a medal from their team.
 
