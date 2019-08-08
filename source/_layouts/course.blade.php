@@ -102,6 +102,7 @@ $courseAssessments = $assessments->filter(function($assessment) use ($page){
 });
 ?>
 @if(count($courseAssessments)>0)
+<section class="my-5">
 <h3 class="d-inline">Available Standards:</h3>
 Some or all of the following will be offered
 
@@ -145,9 +146,10 @@ Some or all of the following will be offered
 @endforeach
 </tbody>
 </table>
+</section>
 @endif
 
-
+<section class="mt-5">
 Other courses in {{ $page->subject_area }}:
 <ul>
 @foreach($courses
@@ -158,7 +160,7 @@ Other courses in {{ $page->subject_area }}:
 </li>
 @endforeach
 </ul>
-
+</section>
 
 @include('_partials.lastReviewed')
 
