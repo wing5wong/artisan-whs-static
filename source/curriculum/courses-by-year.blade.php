@@ -16,7 +16,7 @@ $levels = [
 @endphp
 
 @foreach($levels as $level=>$levelTitle)
-<details>
+<details class="mb-4">
     <summary>
         <h2 class="decorated d-table">{{ $levelTitle }}
     </summary>
@@ -43,8 +43,8 @@ $levels = [
 
 <div class="row">
     @foreach($mapped as $faculty)
-    <div class="col-6 mb-5">
-        <h3 class="d-table">{{ $faculty['faculty']->title}}</h3>
+    <div class="col-6">
+        <h3 class="d-table mt-3">{{ $faculty['faculty']->title}}</h3>
         <ul>
         @foreach($faculty['subjectAreas'] as $subjectArea)
                 @foreach($subjectArea['courses'] as $course)
