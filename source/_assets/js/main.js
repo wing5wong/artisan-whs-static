@@ -29,7 +29,7 @@ function addClass(el, className) {
 
 // add table class to all tables
 var tables = document.querySelectorAll('table:not(.table)');
-for (var i = 0; tables.length - i; i++) {
+for (var i = 0; i < tables.length; ++i) {
     addClass(tables[i], "table");
     addClass(tables[i], "table-striped");
     addClass(tables[i], "table-borderless");
