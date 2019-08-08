@@ -1,9 +1,11 @@
 @extends('_layouts.standard')
 
-@section('title', "Courses Options")
+@section('title', $page->title)
 
 @section('content')
-<h1 class="decorated py-3 mb-4">Courses Options</h1>
+<h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
+
+{!! $page !!}
 
 @php
 $levels = [
