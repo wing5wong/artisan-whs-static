@@ -71,7 +71,7 @@
     @if($page->notes)
     <tr>
         <td><strong>Notes:</strong>
-        {{ $<strong>page->notes }}
+        {{ $page->notes }}
         
         </td>
     </tr>
