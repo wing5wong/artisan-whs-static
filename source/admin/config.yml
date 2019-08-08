@@ -582,6 +582,7 @@ collections:
         name: "positions"
         widget: "object"
         required: false
+        multiple: true
         fields: 
           - { name: "title", label: "Title", widget: "string" }
           - name: department
