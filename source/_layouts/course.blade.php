@@ -18,69 +18,62 @@
 
 <table class="my-5 table table-bordered">
     <tr>
-        <th class="table-light">Assessment:</th>
-        <th class="table-secondary">Level:</th>
-        <th class="table-light">Duration:</th>
-    </tr>
-    <tr>
-        <td class="table-light">
-                {{ $page->assessment_type }}
+        <td class="table-secondary"><strong>Level:</strong> 
+            {{ $page->course_level }}
         </td>
-        <td class="table-secondary">
-                {{ $page->course_level }}
+        <td class="table-light"><strong>Type:</strong> 
+        
+            {{ $page->type }} 
         </td>
-        <td class="table-light">
-                {{ $page->course_duration }}
+        <td class="table-light"><strong>Duration:</strong> 
+        
+            {{ $page->course_duration }}
         </td>
     </tr>
     <tr>
-        <th class="table-secondary">Credits:</th>
-        <th class="table-light">Type:</th>
-        <th class="table-secondary">Contribution:</th>
+        <td class="table-light"><strong>Assessment:</strong> 
+        
+            {{ $page->assessment_type }}
+        </td>
+        <td class="table-secondary"><strong>Credits:</strong> 
+        
+            {{ $page->credits }}
+        </td>
+        <td class="table-light"><strong>U.E. Approved:</strong> 
+        
+            {{$page->ue_approved ? "Yes" : "No"}}
+        </td>
+        <td class="table-secondary"><strong>Endorsement:</strong> 
+        
+            {{$page->endorsement ? "Yes" : "No"}}
+        </td>
     </tr>
     <tr>
-        <td class="table-secondary">
-                {{ $page->credits }}
+        <td class="table-light"><strong>Invitation Only:</strong> 
+        
+            {{$page->invitation_only ? "Yes" : "No"}}
         </td>
-        <td class="table-light">
-                {{ $page->type }} 
-        </td>
-        <td class="table-secondary">
-                {{ $page->course_fees }}
-        </td>
-    </tr>
-    <tr>
-        <th class="table-light">U.E. Approved:</th>
-        <th class="table-secondary">Endorsement:</th>
-        <th class="table-light">Invitation Only:</th>
-    </tr>
-    <tr>
-        <td class="table-light">
-                {{$page->ue_approved ? "Yes" : "No"}}
-        </td>
-        <td class="table-secondary">
-                {{$page->endorsement ? "Yes" : "No"}}
-        </td>
-        <td class="table-light">
-                {{$page->invitation_only ? "Yes" : "No"}}
+        <td class="table-secondary"><strong>Contribution:</strong> 
+            {{ $page->course_fees }}
         </td>
     </tr>
 
     @if(($page->leads_to) and(is_array($page->leads_to)))
     <tr>
-        <th>Leads To:</th>
-        <td colspan="2">
-                @foreach($courses->whereIn('code', $page->leads_to) as $leads)
+        <td><strong>Leads To:</strong>
+            @foreach($courses->whereIn('code', $page->leads_to) as $leads)
                 <a href="{{$leads->getPath()}}">{{ $leads->code }}</a>@if(!$loop->last), @endif
-                @endforeach
+            @endforeach
         </td>
     </tr>
     @endif
     
     @if($page->notes)
     <tr>
-        <th>Notes:</th>
-        <td colspan="2">{{ $page->notes }}</td>
+        <td><strong>Notes:</strong>
+        {{ $<strong>page->notes }}
+        
+        </td>
     </tr>
     @endif
 </table>
