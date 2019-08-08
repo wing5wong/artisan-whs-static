@@ -1,5 +1,5 @@
 ---
-title: Our three Dance Soloists heading off to the Nationals!
+title: Dance Soloists heading off to the Nationals!
 date: 2019-08-02T03:03:00.798Z
 image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1565233397/28.jpg'
 image_title: 'From left: Emma Henare, Emelye Brown and Caitlin Currie'
@@ -10,7 +10,7 @@ short: >
   Congratulations to our 3 highest scoring Soloists of the night who will be
   representing WHS at the Dance NZ Made Nationals in September!
 ---
-\###Congratulations to our 3 highest scoring Soloists at the Dance NZ Made competition held at the Wanganui Opera House on Friday 2 August, who will be representing Whanganui High School at the Dance NZ Made Nationals in September!###
+###Congratulations to our 3 highest scoring Soloists at the Dance NZ Made competition held at the Wanganui Opera House on Friday 2 August, who will be representing Whanganui High School at the Dance NZ Made Nationals in September!###
 
 _Mrs Natalie Campbell  
 HOF Performing and Visual Arts_
