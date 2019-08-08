@@ -8,7 +8,6 @@ year: '9'
 type: "Compulsory\t - Full Year"
 course_duration: Full Year
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
 credits:
 entry_requirements: ''

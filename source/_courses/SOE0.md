@@ -8,7 +8,6 @@ year: '10'
 type: Through Invitation and Selection
 course_duration: Full Year
 course_level: Year 10
-assessment_type: Compulsory
 leads_to:
   - GEO1
   - SOC2
