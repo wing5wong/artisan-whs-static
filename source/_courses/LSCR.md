@@ -8,7 +8,6 @@ year: '9'
 type: .
 course_duration: Full Year
 course_level: All Year Levels
-assessment_type: Optional
 leads_to: ''
 credits: 'No'
 entry_requirements: >-

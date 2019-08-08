@@ -8,7 +8,6 @@ year: '9'
 type: Optional
 course_duration: One Term
 course_level: Year 9
-assessment_type: Optional
 leads_to: ''
 credits:
 entry_requirements: ''

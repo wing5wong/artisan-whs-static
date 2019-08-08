@@ -8,7 +8,6 @@ year: '10'
 type: Optional - Half Year
 course_duration: Two Terms
 course_level: Year 10
-assessment_type: Optional
 leads_to: ''
 credits:
 entry_requirements: ''

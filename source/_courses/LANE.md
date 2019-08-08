@@ -5,10 +5,9 @@ code: LANE
 subject_area: Languages (Year 9 Compulsory)
 date: 2019-07-01T01:09:27.832Z
 year: '9'
-type: Year 9 Compulsory
+type: Compulsory
 course_duration: One Term
 course_level: Year 9
-assessment_type: Compulsory
 leads_to: ''
 credits:
 entry_requirements: ''
