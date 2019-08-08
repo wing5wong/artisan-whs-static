@@ -18,42 +18,42 @@
 
 <table class="my-5 table table-bordered">
     <tr>
-        <td class="table-secondary"><strong>Level:</strong> 
+        <td><strong>Level:</strong> 
             {{ $page->course_level }}
         </td>
-        <td class="table-light"><strong>Type:</strong> 
+        <td><strong>Type:</strong> 
         
             {{ $page->type }} 
         </td>
-        <td class="table-light"><strong>Duration:</strong> 
+        <td><strong>Duration:</strong> 
         
             {{ $page->course_duration }}
         </td>
     </tr>
     <tr>
-        <td class="table-light"><strong>Assessment:</strong> 
+        <td><strong>Assessment:</strong> 
         
             {{ $page->assessment_type }}
         </td>
-        <td class="table-secondary"><strong>Credits:</strong> 
+        <td><strong>Credits:</strong> 
         
             {{ $page->credits }}
         </td>
-        <td class="table-light"><strong>U.E. Approved:</strong> 
+        <td><strong>U.E. Approved:</strong> 
         
             {{$page->ue_approved ? "Yes" : "No"}}
         </td>
-        <td class="table-secondary"><strong>Endorsement:</strong> 
+        <td><strong>Endorsement:</strong> 
         
             {{$page->endorsement ? "Yes" : "No"}}
         </td>
     </tr>
     <tr>
-        <td class="table-light"><strong>Invitation Only:</strong> 
+        <td><strong>Invitation Only:</strong> 
         
             {{$page->invitation_only ? "Yes" : "No"}}
         </td>
-        <td class="table-secondary"><strong>Contribution:</strong> 
+        <td><strong>Contribution:</strong> 
             {{ $page->course_fees }}
         </td>
     </tr>
