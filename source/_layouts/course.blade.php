@@ -8,7 +8,7 @@
 {!! $page !!}
 
 
-<table class="my-5 table table-bordered">
+<table class="my-5 table table table-bordered table-striped table-hover">
     
     @if($page->entry_requirements)
     <tr>
