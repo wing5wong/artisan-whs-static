@@ -1,6 +1,3 @@
-import 'sharer.js';
-import './highlight';
-
 const clickMe = document.querySelector('.test-js');
 
 if (clickMe) {
@@ -17,7 +14,6 @@ if (outdated) {
         outdated.style.display = 'none';
     }
 }
-
 
 
 
