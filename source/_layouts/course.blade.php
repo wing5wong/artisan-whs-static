@@ -5,9 +5,6 @@
 @section('content')
 <h1 class="decorated py-3 mb-4">{{ $page->title }} - {{ $page->name }}</h1>
 
-{!! $page !!}
-
-
 <table class="my-5 table table table-bordered table-striped table-hover">
     
     @if($page->entry_requirements)
@@ -85,6 +82,11 @@
     </tr>
     @endif
 </table>
+
+
+
+
+{!! $page !!}
 
 
 
