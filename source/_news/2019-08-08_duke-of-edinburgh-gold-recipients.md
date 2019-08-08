@@ -1,6 +1,6 @@
 ---
 title: Duke of Edinburgh GOLD recipients
-date: 2019-08-08T04:57:55.917Z
+date: 2019-07-28T04:57:55.917Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565238831/Gold_Duke_of_Ed_in_Wellington_2019.jpg
 image_title: >-
