@@ -38,5 +38,5 @@ Currently Watson is one of three New Zealand judokas in the frame for the Tokyo 
 
 "He would still have the first part of next year to also gather Olympic ranking points at an international level in the seniors, but we will look at these options after the Perth OJU and just see where he is sitting points-wise."
 
-_By Iain Hyndman_\
+_By Iain Hyndman_  
 _Whanganui Chronicle_
