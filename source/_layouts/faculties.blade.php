@@ -13,7 +13,7 @@
 <details>
 <summary>
     <h2 class="decorated d-table my-5">{{ $faculty->title }}
-    @if($faculty->maori_title)<br>{{$faculty->maori_title}}@endif</h2>
+    @if($faculty->maori_title)<br><small class="text-muted">{{$faculty->maori_title}}</small>@endif</h2>
     @if($faculty->intro)
     <br>
     {{ $faculty->intro }}

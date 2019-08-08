@@ -46,7 +46,28 @@ $levels = [
 <div class="row">
     @foreach($mapped as $faculty)
     <div class="col-6">
-        <h3 class="d-table mt-3">{{ $faculty['faculty']->title}}</h3>
+        <h3 class="d-table mt-3">
+            {{ $faculty['faculty']->title}}
+            @if($faculty['faculty']->maori_title)<br><small class="text-muted">{{$faculty['faculty']->maori_title}}</small>@endif
+        </h3>
+
+
+        @if(count($faculty['faculty']->vocational_pathways))
+        <ul class="list-inline">
+        @foreach($faculty['faculty']->vocational_pathways as $vp)
+        <li class="list-inline-item">
+            <a href="{{ $page['vp'][$vp]['url']}}" class="text-white px-2 py-1 badge badge-vp-{{$vp}}" target="_BLANK">&nbsp;</a>
+        </li>
+        @endforeach
+        </ul>
+    @endif
+
+
+        @if($faculty['faculty']->intro)
+        <br>
+        {{ $faculty['faculty']->intro }}
+        <hr>
+    @endif
         <ul>
         @foreach($faculty['subjectAreas'] as $subjectArea)
                 @foreach($subjectArea['courses'] as $course)
