@@ -16,9 +16,9 @@ $levels = [
 @endphp
 
 @foreach($levels as $level=>$levelTitle)
-<details class="mb-5">
+<details>
     <summary>
-        <h2 class="decorated d-table my-5">{{ $levelTitle }}
+        <h2 class="decorated d-table">{{ $levelTitle }}
     </summary>
     @php
     $mapped = $faculties->map(function($faculty) use ($level, $subject_areas, $courses){
