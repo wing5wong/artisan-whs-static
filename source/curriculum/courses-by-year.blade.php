@@ -41,27 +41,26 @@ $levels = [
     });
     @endphp
 
+<div class="row">
     @foreach($mapped as $faculty)
-    <details open>
-    <summary>
-    <h3 class="my-5 d-table">{{ $faculty['faculty']->title}}</h3>
-    </summary>
-    <div class="row">
-        @foreach($faculty['subjectAreas'] as $subjectArea)
-        <div class="col-6">
-            <h4>{{ $subjectArea['subjectArea']->title }}</h4>
+    <div class="col-6">
+        <details open>
+            <summary>
+                <h3 class="my-5 d-table">{{ $faculty['faculty']->title}}</h3>
+            </summary>
             <ul>
-                @foreach($subjectArea['courses'] as $course)
-                <li>
-                    <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
-                </li>
-                @endforeach
+            @foreach($faculty['subjectAreas'] as $subjectArea)
+                    @foreach($subjectArea['courses'] as $course)
+                    <li>
+                        <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
+                    </li>
+                    @endforeach
+            @endforeach
             </ul>
-        </div>
-        @endforeach
+        </details>
     </div>
-    </details>
     @endforeach
+</div>
 
 </details>
 @endforeach
