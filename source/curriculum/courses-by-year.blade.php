@@ -16,7 +16,7 @@ $levels = [
 @endphp
 
 @foreach($levels as $level=>$levelTitle)
-<details>
+<details class="mb-5">
     <summary>
         <h2 class="decorated d-table my-5">{{ $levelTitle }}
     </summary>
