@@ -28,7 +28,7 @@ function addClass(el, className) {
 
 
 // add table class to all tables
-var tables = document.querySelectorAll('table');
+var tables = document.querySelectorAll('table:not(.table)');
 for (var i = 0; tables.length - i; i++) {
     addClass(tables[i], "table");
     addClass(tables[i], "table-striped");
