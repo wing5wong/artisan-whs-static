@@ -4,8 +4,8 @@ date: 2019-08-08T04:57:55.917Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565238831/Gold_Duke_of_Ed_in_Wellington_2019.jpg
 image_title: >-
-  from left - Mrs Jemma de Smidt, Brylee Noble, Leila Collinson and Mr Craig
-  Adam.
+  Photo, from left - Mrs Jemma de Smidt, Brylee Noble, Leila Collinson and Mr
+  Craig Adam.
 description: >-
   On Sunday 28 July two former WHS students Brylee Noble and Leila Collinson
   received the Duke of Edinburgh Hillary Award Gold at Government House.
