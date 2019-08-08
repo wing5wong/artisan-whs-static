@@ -37,11 +37,11 @@
             {{$page->invitation_only ? "Yes" : "No"}}
         </td>
     </tr>
+    @if($page->assessment_type)
     <tr>
         <td>
             <strong>Assessment:</strong> <br>
-        
-            {{ $page->assessment_type }}
+            {{ $page->assessment_type ?: "-" }} 
         </td>
         <td>
             <strong>Credits:</strong> <br>
@@ -56,7 +56,7 @@
             {{$page->endorsement ? "Yes" : "No"}}
         </td>
     </tr>
-    
+    @endif
     
     @if(($page->leads_to) and(is_array($page->leads_to)))
     <tr>
