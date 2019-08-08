@@ -8,11 +8,11 @@ image_title: >-
   Men's Asian Open in Taipai at the weekend.
 image_credit: Supplied
 description: >-
-  Whanganui judoka Keightley Watson (third right) takes bronze in the Senior
-  Men's Asian Open in Taipai at the weekend.
+  Whanganui judoka Keightley Watson takes bronze in the Senior Men's Asian Open
+  in Taipai at the weekend.
 short: >-
-  Whanganui judoka Keightley Watson (third right) takes bronze in the Senior
-  Men's Asian Open in Taipai at the weekend.
+  Whanganui judoka Keightley Watson takes bronze in the Senior Men's Asian Open
+  in Taipai at the weekend.
 ---
 After a gruelling six weeks of travel around the globe competing, Whanganui heavyweight judoka Keightley Watson has finished the Asian leg of competition on a high note.
 
