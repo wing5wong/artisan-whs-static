@@ -1,6 +1,6 @@
 ---
-title: Competition - ALL
-date: 2019-08-07T20:36:24.423Z
+title: Competition - winners announced!
+date: 2019-08-08T20:36:24.423Z
 ---
 Win a jar of lollies! 
 
