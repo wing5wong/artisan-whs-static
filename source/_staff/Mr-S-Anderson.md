@@ -2,5 +2,5 @@
 title: Mr S. Anderson
 position: IT - Network Administration Manager
 departments:
-  - Support and Ancilliary
+  - Support and Ancillary
 ---

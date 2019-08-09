@@ -2,5 +2,5 @@
 title: Mrs S. Ashworth
 position: Bursars Office
 departments:
-  - Support and Ancilliary
+  - Support and Ancillary
 ---

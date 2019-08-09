@@ -2,5 +2,5 @@
 title: Mr A. Gerrie
 position: IT - Computer Technician
 departments:
-  - Support and Ancilliary
+  - Support and Ancillary
 ---

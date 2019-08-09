@@ -3,5 +3,5 @@ title: Mrs K. Adam
 position: Alternative Education
 departments:
   - English
-  - Support and Ancilliary
+  - Support and Ancillary
 ---
