@@ -57,11 +57,6 @@ return [
     ],
     'navigation' => require_once('navigation.php'),
 
-    'getSLTStaff' => function($page) {
-        return $staff->filter(function($s){
-            return $s->departments ?? []->contains("Senior Leadership Team");
-        })->sortBy('title');
-    },
     'getTeachingFaculties' => function($page, $faculties) {
         return $faculties->filter(function($f){
             return $f->is_teaching_faculty ?? false;
