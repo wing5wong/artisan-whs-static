@@ -6,5 +6,10 @@ departments:
   - International
   - Mathematics
   - Deans
+positions:
+  - department: Deans
+    title: Dean of International Students
+  - department: Languages
+    title: Chinese
 ---
 

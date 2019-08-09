@@ -4,4 +4,7 @@ position: Careers Advisor
 departments:
   - Digital Technology
   - Vocational Studies
+positions:
+  - department: Vocational Studies
+    title: Careers Advisor
 ---
