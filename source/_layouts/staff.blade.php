@@ -31,18 +31,18 @@
         @endforeach
     @endforeach
 </div>
-@foreach($page->getTeachingFaculties($faculties) as $dept)
+@foreach($page->getTeachingFaculties($faculties)->concat($page->getNonTeachingFaculties($faculties)) as $dept)
 
                 @php
-                $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept);  
+                $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);  
                 @endphp
                 @if($filteredStaff->isNotEmpty())
                 <details>
                     <summary>
-                    <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
+                    <h2 class='d-table decorated mt-5 mb-2'>{{ $dept->title }}</h2>
                     </summary>
                     <table class="table table-striped table-borderless table-hover">
-                        @foreach($page->getDepartmentHofs($faculties, $staff, $dept) as $member)
+                        @foreach($page->getDepartmentHofs($faculties, $staff, $dept->title) as $member)
                             <tr>
                                 <td>
                                     <strong>{{ $member->title }}</strong>
@@ -52,7 +52,7 @@
                                 </td>
                             </tr>
                         @endforeach
-                        @foreach($page->getDepartmentAHofs($faculties, $staff, $dept) as $member)
+                        @foreach($page->getDepartmentAHofs($faculties, $staff, $dept->title) as $member)
                             <tr>
                                 <td>
                                     <strong>{{ $member->title }}</strong>
@@ -69,7 +69,7 @@
                                 </td>
                                 <td>
                                     @foreach(collect($member->positions ?? [])->filter(function($p) use ($dept){
-                                            return $p["department"] == $dept;
+                                            return $p["department"] == $dept->title;
                                         })
                                         
                                      as $position)
