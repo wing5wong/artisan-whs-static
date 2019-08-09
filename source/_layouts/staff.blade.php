@@ -31,26 +31,7 @@
         @endforeach
     @endforeach
 </div>
-@foreach([
-            "The Arts",
-            "Deans",
-            "Digital Technology",
-            "English",
-            "Guidance Counsellors",
-            "Instrumental Music Tutors",
-            "International",
-            "Languages",
-            "Learning Support Centre",
-            "Mathematics",
-            "Physical Education and Health",
-            "Sciences",
-            "Social Sciences",
-            "Study / External Studies",
-            "Support and Ancilliary",
-            "Technology",
-            "Vocational Studies",
-            "Te Atawhai / Special Needs"
-            ] as $dept)
+@foreach($page->getTeachingFaculties($faculties)->concat($page->getNonTeachingFaculties($faculties)) as $dept)
 
                 @php
                 $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept);  
