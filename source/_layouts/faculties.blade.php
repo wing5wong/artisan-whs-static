@@ -9,9 +9,7 @@
 
 
 
-@foreach($faculties->filter(function($f){
-                        return $f->isTeachingFaculty($f);
-                    })->sortBy('title') as $faculty)
+@foreach($page->getTeachingFaculties($faculties) as $faculty)
 <details>
 <summary>
     <h2 class="decorated d-table my-5">{{ $faculty->title }}
@@ -38,13 +36,13 @@
     </div>
     @endif
 
-    @foreach($subject_areas->where('faculty', $faculty->title)->sortBy('title') as $subject )
+    @foreach($page->getFacultySubjectAreas($faculty, $subject_areas) as $subject )
     <div class="col col-md-6 col-lg-6">
     <details open>
             
             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
         <ul>
-        @foreach($courses->where('subject_area', $subject->title) as $course)
+        @foreach($page->getSubjectAreaCourses($subject, $courses) as $course)
         <li>
             <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
         </li>

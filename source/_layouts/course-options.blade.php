@@ -23,24 +23,22 @@ $levels = [
         <h2 class="decorated d-table">{{ $levelTitle }}
     </summary>
     @php
-    $mapped = $faculties->filter(function($f){
-            return $f->isTeachingFaculty($f);
-        })
-        ->map(function($faculty) use ($level, $subject_areas, $courses){
-        $subjectAreas = $subject_areas
-            ->where('faculty', $faculty->title)
-            ->sortBy('title')
-            ->map(function($subject) use ($level, $courses){
-                $subjectCourses = $courses->filter(function($course) use ($level, $subject){
-                    return $course->year == $level && $course->subject_area == $subject->title;
-                });
-            return ['subjectArea' => $subject, 'courses' => $subjectCourses];
-        })
-        ->filter(function($sa){
-            return $sa['courses']->isNotEmpty();
-        });
-
-        return ['faculty'=>$faculty, 'subjectAreas'=>$subjectAreas];
+    $mapped = $page->getTeachingFaculties($faculties)->map(function($faculty) use ($page, $level, $subject_areas, $courses)
+    {
+        return [
+            'faculty'=> $faculty,
+            'subjectAreas'=> $page->getFacultySubjectAreas($faculty, $subject_areas)
+                ->map( function($subject) use ($page, $level, $courses)
+                {
+                    return [
+                        'subjectArea' => $subject,
+                        'courses' => $page->getSubjectAreaCoursesForLevel($subject, $courses, $level)
+                    ];
+                })
+                ->filter(function($sa){
+                    return $sa['courses']->isNotEmpty();
+                }),
+        ];
     })->filter( function($f){
         return $f['subjectAreas']->isNotEmpty();
     });
@@ -67,19 +65,19 @@ $levels = [
 
 
         @if($faculty['faculty']->intro)
-        <br>
-        {{ $faculty['faculty']->intro }}
-        <hr>
-    @endif
-        <ul>
+            <br>
+            {{ $faculty['faculty']->intro }}
+        @endif
+
+
+        <div class="list-group">
         @foreach($faculty['subjectAreas'] as $subjectArea)
-                @foreach($subjectArea['courses'] as $course)
-                <li>
-                    <a href="{{$course->getPath()}}">{{ $course->name }}</a>
-                </li>
-                @endforeach
+            @foreach($subjectArea['courses'] as $course)
+                <a class="list-group-item"href="{{$course->getPath()}}">{{ $course->name }}</a>
+            @endforeach
         @endforeach
-        </ul>
+        </div>
+        
     </div>
     @endforeach
 </div>

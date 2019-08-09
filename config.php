@@ -56,6 +56,31 @@ return [
         'jumprock' => '',
     ],
     'navigation' => require_once('navigation.php'),
+
+    'getTeachingFaculties' => function($page, $faculties) {
+        return $faculties->filter(function($f){
+            return $f->is_teaching_faculty ?? false;
+        })->sortBy('title');
+    },
+    'getNonTeachingFaculties' => function($page, $faculties) {
+        return $faculties->filter(function($f){
+            return !($f->is_teaching_faculty ?? false);
+        })->sortBy('title');
+    },
+
+    'getFacultySubjectAreas' => function($page, $faculty, $subject_areas) {
+        return $subject_areas->where('faculty', $faculty->title)->sortBy('title');
+    },
+
+    'getSubjectAreaCourses' => function($page, $subject_area, $courses) {
+        return $courses->where('subject_area', $subject_area->title);
+    },
+
+    'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
+        return $courses->where('subject_area', $subject_area->title)
+                        ->where('year', $level);
+    },
+
     'collections' => [
         'announcements' => [
             'path' => 'announcements/{filename}',
