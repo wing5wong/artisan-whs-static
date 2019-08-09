@@ -5,9 +5,6 @@ hofs:
   - Mr Martin McAllen
 ahofs:
   - Mrs E. Spooner
-  - Mr C. Friedel
-  - Mr P. Turner
-  - Mrs J. Langrish
-  - Ms N. Todd
+is_teaching_faculty: false
 ---
 .
