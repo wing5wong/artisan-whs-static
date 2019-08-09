@@ -8,39 +8,30 @@
 <a href="{{ $page->image }}" @if($page->image_title)title="{{$page->image_title}}"@endif @if($page->image_alt)alt="{{$page->image_alt}}"@endif class="featured">
         <img src="{{ $page->image }}"  style="object-fit: cover; max-width:100%; display: block;">
     </a>
-@endif @yield('postContent')
+@endif
+
+@yield('postContent')
 
 <h2 class="d-inline-block decorated">Senior Leadership Team</h2>
 <div class="row">
-<?php
-foreach([
-    "Principal",
-    "Associate Principal",
-    "Deputy Principal"] as $dept){
-    $slt = $staff->filter(function($s) use ($dept){
-        return in_array($dept,$s->departments);
-    });
+    @foreach(["Senior Leadership Team",  "Principal",  "Associate Principal",   "Deputy Principal"] as $dept)
 
-    foreach($slt as $person){
-        ?>
-        <article class="col-sm-12 col-md-6 col-lg-6 p-5">
-            <div class="row">    
-            <div class="col-12">
-                  <h3>{{$person->title}}</h3>
-                      <p class="lead">{{$person->position}}</p>
-                </div>
-                <div class="col-12">
-                        <img src="{{$person->image}}" alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
-                </div>
-            </div>
-              </article>
-    <?php
-    }
-}
-?>
+        @foreach($page->getDepartmentStaff($faculties, $staff, $dept) as $person){
+            <article class="col-sm-12 col-md-6 col-lg-6 p-5">
+                <div class="row">    
+                    <div class="col-12">
+                        <h3>{{$person->title}}</h3>
+                            <p class="lead">{{$person->position}}</p>
+                        </div>
+                        <div class="col-12">
+                            <img src="{{$person->image}}" alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
+                        </div>
+                    </div>
+                </article>
+        @endforeach
+    @endforeach
 </div>
-        <?php
-            foreach([
+@foreach([
             "The Arts",
             "Deans",
             "Digital Technology",
@@ -59,51 +50,18 @@ foreach([
             "Technology",
             "Vocational Studies",
             "Te Atawhai / Special Needs"
-            ] as $dept){
+            ] as $dept)
 
-                $theDept = $faculties->firstWhere('title', $dept);
-
-                $deptHofs = collect($theDept->hofs ?? []);
-
-                $deptAHofs = collect($theDept->ahofs ?? []);
-
-
-                $filteredStaff = $staff->filter(function($s) use ($dept){
-                    return in_array($dept,$s->departments);
-                })
-                ->filter(function($s) use ($deptHofs, $deptAHofs){
-                    return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
-                })
-                ->sort(function($st, $other){
-                    if($st->position == $other->position){
-                        return strcmp(
-                            implode(" ", array_reverse(explode(" ", $st->title))) ,
-                            implode(" ", array_reverse(explode(" ", $other->title)))
-                        );
-                    }
-                    return strcmp($st->position ?? "ZZZZZZZZZZZZZZZZZZZZZZZ", $other->position ?? "ZZZZZZZZZZZZZZZZZZZZZZZ");
-                });
-
-
-                $filteredHofs = $staff->filter(function($st) use ($deptHofs){
-                        return $deptHofs->contains($st->title);
-                });
-
-
-                $filteredAHofs = $staff->filter(function($st) use ($deptAHofs){
-                        return $deptAHofs->contains($st->title);
-                });
-                
-                ?>
-
-
+                @php
+                $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept);  
+                @endphp
                 @if($filteredStaff->isNotEmpty())
                 <details>
                     <summary>
                     <h2 class='d-table decorated mt-5 mb-2'>{{ $dept }}</h2>
                     </summary>
                     <table class="table table-striped table-borderless table-hover">
-                        @foreach($filteredHofs as $member)
+                        @foreach($page->getDepartmentHofs($faculties, $staff, $dept) as $member)
                             <tr>
                                 <td>
                                     <strong>{{ $member->title }}</strong>
@@ -113,7 +71,7 @@ foreach([
                                 </td>
                             </tr>
                         @endforeach
-                        @foreach($filteredAHofs as $member)
+                        @foreach($page->getDepartmentAHofs($faculties, $staff, $dept) as $member)
                             <tr>
                                 <td>
                                     <strong>{{ $member->title }}</strong>
@@ -136,12 +94,7 @@ foreach([
                     </table>
                 </details>
                 @endif
-
-
-<?php
-}
-?>
-
+@endforeach
 @include('_partials.lastReviewed')
 
 @endsection

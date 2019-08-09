@@ -62,10 +62,46 @@ return [
             return $f->is_teaching_faculty ?? false;
         })->sortBy('title');
     },
+
     'getNonTeachingFaculties' => function($page, $faculties) {
         return $faculties->filter(function($f){
             return !($f->is_teaching_faculty ?? false);
         })->sortBy('title');
+    },
+
+    'getDepartmentStaff' => function($page, $faculties, $staff, $departmentToFind) {
+        $theDept = $faculties->firstWhere('title', $departmentToFind);
+        $deptHofs = collect($theDept->hofs ?? []);
+        $deptAHofs = collect($theDept->ahofs ?? []);
+
+        return $staff->filter(function($s) use ($departmentToFind){
+            return in_array($departmentToFind,$s->departments);
+        })
+        ->filter(function($s) use ($deptHofs, $deptAHofs){
+            return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
+        })
+        ->sort(function($st, $other){
+            if($st->position == $other->position){
+                return strcmp(
+                    implode(" ", array_reverse(explode(" ", $st->title))) ,
+                    implode(" ", array_reverse(explode(" ", $other->title)))
+                );
+            }
+            return strcmp($st->position ?? "ZZZZZZZZZZZZZZZZZZZZZZZ", $other->position ?? "ZZZZZZZZZZZZZZZZZZZZZZZ");
+        });
+    },
+
+    'getDepartmentHofs' => function($page, $faculties, $staff, $departmentToFind) {
+        $deptHofs = collect($faculties->firstWhere('title', $departmentToFind)->hofs ?? []);
+        return $staff->filter(function($st) use ($deptHofs){
+            return $deptHofs->contains($st->title);
+        });
+    },
+    'getDepartmentAHofs' => function($page, $faculties, $staff, $departmentToFind) {
+        $deptAHofs = collect($faculties->firstWhere('title', $departmentToFind)->ahofs ?? []);
+        return $staff->filter(function($st) use ($deptAHofs){
+            return $deptAHofs->contains($st->title);
+        });
     },
 
     'getFacultySubjectAreas' => function($page, $faculty, $subject_areas) {

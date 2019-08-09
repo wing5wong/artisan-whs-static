@@ -24,7 +24,7 @@
 
 <div class="row">
     
-    @if(count($faculty->vocational_pathways))
+    @if(count($faculty->vocational_pathways ?? []))
     <div class="col-12">
         <ul class="list-inline">
         @foreach($faculty->vocational_pathways as $vp)
@@ -38,16 +38,14 @@
 
     @foreach($page->getFacultySubjectAreas($faculty, $subject_areas) as $subject )
     <div class="col col-md-6 col-lg-6">
-    <details open>
+    <details open class="mt-4">
             
             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
-        <ul>
+        <div class="list-group">
         @foreach($page->getSubjectAreaCourses($subject, $courses) as $course)
-        <li>
-            <a href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
-        </li>
+            <a class="list-group-item list-group-item-action" href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
         @endforeach
-        </ul>
+        </div>
     </details>
     </div>
     @endforeach

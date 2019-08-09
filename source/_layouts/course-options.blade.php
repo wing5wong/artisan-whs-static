@@ -53,15 +53,15 @@ $levels = [
         </h3>
 
 
-        @if(count($faculty['faculty']->vocational_pathways))
-        <ul class="list-inline">
-        @foreach($faculty['faculty']->vocational_pathways as $vp)
-        <li class="list-inline-item">
-            <a href="{{ $page['vp'][$vp]['url']}}" class="text-white px-2 py-1 badge badge-vp-{{$vp}}" target="_BLANK">&nbsp;</a>
-        </li>
-        @endforeach
-        </ul>
-    @endif
+        @if(count($faculty['faculty']->vocational_pathways ?? []))
+            <ul class="list-inline">
+            @foreach($faculty['faculty']->vocational_pathways as $vp)
+            <li class="list-inline-item">
+                <a href="{{ $page['vp'][$vp]['url']}}" class="text-white px-2 py-1 badge badge-vp-{{$vp}}" target="_BLANK">&nbsp;</a>
+            </li>
+            @endforeach
+            </ul>
+        @endif
 
 
         @if($faculty['faculty']->intro)
@@ -70,10 +70,10 @@ $levels = [
         @endif
 
 
-        <div class="list-group">
+        <div class="list-group mt-4">
         @foreach($faculty['subjectAreas'] as $subjectArea)
             @foreach($subjectArea['courses'] as $course)
-                <a class="list-group-item"href="{{$course->getPath()}}">{{ $course->name }}</a>
+                <a class="list-group-item list-group-item-action" href="{{$course->getPath()}}">{{ $course->name }}</a>
             @endforeach
         @endforeach
         </div>
