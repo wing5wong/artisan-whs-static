@@ -581,7 +581,7 @@ collections:
         required: false
       - label: "Positions"
         name: "positions"
-        widget: "object"
+        widget: "list"
         required: false
         multiple: true
         fields: 

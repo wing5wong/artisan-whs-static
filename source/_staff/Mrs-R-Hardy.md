@@ -5,7 +5,7 @@ departments:
   - Mathematics
   - Deans
 positions:
-  department: Deans
-  title: PB4L Co-ordinator
+  - department: Deans
+    title: PB4L Co-ordinator
 ---
 

@@ -87,10 +87,14 @@
                                     {{ $member->title }}
                                 </td>
                                 <td>
-                                    @foreach(collect($member->positions)->filter(function($p) use ($dept){
-                                        return $p["department"] == $dept;
-                                    }) as $position)
+                                    {{-- collect($member->positions ?? [])->filter(function($p) use ($dept){
+                                            return $p["department"] == $dept;
+                                        })
+                                        --}}
+                                    @foreach(
+                                        $member->positions ?? [] as $position)
                                     {{ $position["title"] }}
+                                    {{ $position["department"] }}
                                     @if(!$loop->last), @endif
                                     @endforeach
                                     {{-- $member->position --}}
