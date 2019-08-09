@@ -49,8 +49,8 @@ _Example: A student might be very interested in Science.  They might choose the 
 |Year 9 | Year 10 | Year 11 | Year 12 | Year 13|
 |---|---|---|---|---|
 |SCIE| SCI0 | SCG1 |BIO2 | BIO3 |
-| | | SCE1 | CHE2 | CHE3 |
-| | | SCI1 | PHY2 | PHY3 |
+| | | | CHE2 | CHE3 |
+| | | | PHY2 | PHY3 |
 | | | | ELE2 | ELE3 | 
 
 ## Curriculum Levels
