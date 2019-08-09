@@ -31,7 +31,7 @@
         @endforeach
     @endforeach
 </div>
-@foreach($page->getTeachingFaculties($faculties)->concat($page->getNonTeachingFaculties($faculties))->all() as $dept)
+@foreach($page->getTeachingFaculties($faculties) as $dept)
 
                 @php
                 $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept);  
