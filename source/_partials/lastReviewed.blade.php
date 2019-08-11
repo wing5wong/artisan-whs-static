@@ -3,7 +3,7 @@
 
     <p>
             @if($page->_meta->get('collection'))
-    <small><a class="text-muted" href="{{ $page->baseUrl}}/admin/#/collections/{{ $page->_meta->get('collection') }}/entries/{{str_replace(".md","",$page->getFilename())}}" target="_BLANK" rel="nofollow">(*)</a></small>
+    <small><a class="text-muted" href="{{ $page->baseUrl}}/admin/#/collections/{{ $page->_meta->get('collection') }}/entries/{{str_replace(".md","",$page->getFilename() . "." . $page->getExtension())}}" target="_BLANK" rel="nofollow">(*)</a></small>
     @endif
         <strong>Last Reviewed: @if($page->date) {{ date('F j, Y', $page->date) }} @else Not yet reviewed. @endif</strong><br>
         
