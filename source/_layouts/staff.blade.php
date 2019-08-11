@@ -76,7 +76,7 @@
                                         })
                                         
                                      as $position)
-                                
+                                        {{ $position["title"] }}
                                     @if(!$loop->last), @endif
                                     @endforeach
                                 </td>
