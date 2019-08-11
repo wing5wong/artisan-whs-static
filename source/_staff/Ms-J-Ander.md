@@ -1,6 +1,8 @@
 ---
 title: Ms J. Ander
-position: Specialist Classroom Teacher
 departments:
   - Social Sciences
+positions:
+  - department: Social Sciences
+    title: Specialist Classroom Teacher
 ---
