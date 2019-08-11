@@ -81,13 +81,13 @@ return [
             return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
         })
         ->sort(function($st, $other){
-            if($st->position == $other->position){
+            //if($st->position == $other->position){
                 return strcmp(
                     implode(" ", array_reverse(explode(" ", $st->title))) ,
                     implode(" ", array_reverse(explode(" ", $other->title)))
                 );
-            }
-            return strcmp($st->position ?? "ZZZZZZZZZZZZZZZZZZZZZZZ", $other->position ?? "ZZZZZZZZZZZZZZZZZZZZZZZ");
+            // }
+            // return strcmp($st->position ?? "ZZZZZZZZZZZZZZZZZZZZZZZ", $other->position ?? "ZZZZZZZZZZZZZZZZZZZZZZZ");
         });
     },
 
