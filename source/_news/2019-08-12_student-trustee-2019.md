@@ -6,8 +6,10 @@ image: >-
 description: Whanganui High School Student Trustee 2019
 short: Whanganui High School Student Trustee 2019
 ---
-Nominations are invited for the election of one student representative to the Whanganui High School Board of Trustees.
+Nominations are now open for the Board of Trustees' Student Trustee Election on 9 September. 
 
-Nomination Forms can be obtained form the Student Centre, or Returning Officer, Mrs Molan.
+Nomination forms can be picked up from the Student Centre, or the Returning Officer, Mrs Molan. 
 
-Nominations CLOSE at NOON Monday, 26 August 2019.
+Nominations CLOSE at noon on Monday, 26 August 2019 and all completed nomination forms should have been submitted by then. 
+
+The election will be held on one day only, Monday, 9 September 2019.
