@@ -117,6 +117,12 @@ return [
                         ->where('year', $level);
     },
 
+    'getStaffMemberPositionsForDepartment' => function($page,$member,$department) {
+        collect($member->positions ?? [])->filter(function($p) use ($department){
+            return $p["department"] == $department->title;
+        });
+    },
+
     'collections' => [
         'announcements' => [
             'path' => 'announcements/{filename}',

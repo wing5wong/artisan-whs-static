@@ -51,7 +51,10 @@
                                     <strong>{{ $member->title }}</strong>
                                 </td>
                                 <td>
-                                    <strong>{{ $member->position }}</strong>
+                                        @foreach($page->getStaffMemberPositionsForDepartment($member,$dept) as $position)
+                                        <strong>{{ $position["title"] }}</strong>
+                                            @if(!$loop->last), @endif
+                                        @endforeach
                                 </td>
                             </tr>
                         @endforeach
@@ -61,7 +64,10 @@
                                     <strong>{{ $member->title }}</strong>
                                 </td>
                                 <td>
-                                    <strong>{{ $member->position }}</strong>
+                                    @foreach($page->getStaffMemberPositionsForDepartment($member,$dept) as $position)
+                                    <strong>{{ $position["title"] }}</strong>
+                                        @if(!$loop->last), @endif
+                                    @endforeach
                                 </td>
                             </tr>
                         @endforeach
@@ -71,11 +77,7 @@
                                     {{ $member->title }}
                                 </td>
                                 <td>
-                                    @foreach(collect($member->positions ?? [])->filter(function($p) use ($dept){
-                                            return $p["department"] == $dept->title;
-                                        })
-                                        
-                                     as $position)
+                                    @foreach($page->getStaffMemberPositionsForDepartment($member,$dept) as $position)
                                         {{ $position["title"] }}
                                     @if(!$loop->last), @endif
                                     @endforeach
