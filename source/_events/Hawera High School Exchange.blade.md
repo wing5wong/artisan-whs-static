@@ -6,5 +6,11 @@ description: ''
 
 (To be played away).
 
-More information to follow closer to the date.
+Teams involved are:  
+1st XV Rugby  
+U15 Rugby  
+A1 Netball  
+JA1 Netball  
+Senior Boys and Girls Basketball  
+1st XI Girls and Boys Football
 
