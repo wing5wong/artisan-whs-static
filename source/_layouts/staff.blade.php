@@ -31,7 +31,10 @@
         @endforeach
     @endforeach
 </div>
-@foreach($page->getTeachingFaculties($faculties)->concat($page->getNonTeachingFaculties($faculties)) as $dept)
+@foreach($page->getTeachingFaculties($faculties)
+->concat($page->getNonTeachingFaculties($faculties))
+->filter(function($f){ return $f->title !== "Senior Leadership Team";})
+ as $dept)
 
                 @php
                 $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);  
@@ -73,11 +76,9 @@
                                         })
                                         
                                      as $position)
-                                    {{ $position["title"] }}
                                 
                                     @if(!$loop->last), @endif
                                     @endforeach
-                                    {{-- $member->position --}}
                                 </td>
                             </tr>
                         @endforeach

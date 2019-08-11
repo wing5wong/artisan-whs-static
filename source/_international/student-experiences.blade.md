@@ -23,11 +23,11 @@ students:
 <article class="py-3">
         <h2 class="decorated py-3 mb-4">
                {{ $student["title"]}}
-          <span class="text-muted">{{ $student["city_country"]}}</span>
+          <span class="text-muted">{{ $student["city_country"] ?? ""}}</span>
             </h2>
         <div class="row">
           <div class="col">
-            <img src="{{ $student->image }}" width="140" height="186" alt="">
+            <img src="{{ $student["image"] }}" width="140" height="186" alt="">
           </div>
           <div class="col">
             {!! $student["body"] !!}
