@@ -9,5 +9,7 @@ image: >-
 positions:
   - department: Deans
     title: Dean of Academia
+  - department: Social Sciences
+    title: Head of History & Psychology
 ---
 
