@@ -6,4 +6,4 @@ Calling all Year 12's.
 
 If you would like to be considered for a student leadership position next year please apply via bit.ly/whsleaders2020 (when logged on to your WHS account). 
 
-Applications close Friday 23 August.
+Applications CLOSE on Friday 23 August.
