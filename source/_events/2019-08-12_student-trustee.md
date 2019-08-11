@@ -1,5 +1,5 @@
 ---
-title: Student Trustee 2019
+title: 'Student Trustee 2019 - Nominations close at noon Monday, 26 August 2019'
 date: 2019-08-25T21:08:50.161Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565558038/Nomination_Poster.jpg
