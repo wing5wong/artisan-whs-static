@@ -118,7 +118,7 @@ return [
     },
 
     'getStaffMemberPositionsForDepartment' => function($page,$member,$department) {
-        collect($member->positions ?? [])->filter(function($p) use ($department){
+        return collect($member->positions ?? [])->filter(function($p) use ($department){
             return $p["department"] == $department->title;
         });
     },
