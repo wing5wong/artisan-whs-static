@@ -1,5 +1,5 @@
 ---
-title: Student Leaders for 2020 - Year 12 students
+title: Student Leaders for 2020 - Year 12 students - applications CLOSE today
 date: 2019-08-16T03:48:44.118Z
 ---
 Calling all Year 12's. 
