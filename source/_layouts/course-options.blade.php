@@ -53,7 +53,7 @@ $levels = [
         </h3>
 
 
-        @if(count($faculty['faculty']->vocational_pathways ?? []))
+        @if($page->yearLevelOffersVocationalPathways($level) and count($faculty['faculty']->vocational_pathways ?? []))
             <ul class="list-inline">
             @foreach($faculty['faculty']->vocational_pathways as $vp)
             <li class="list-inline-item">

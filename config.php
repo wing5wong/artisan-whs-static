@@ -124,6 +124,10 @@ return [
         });
     },
 
+    'yearLevelOffersVocationalPathways' => function($page, $level) {
+        return in_array($level, ['11','12','13']);
+    },
+
     'collections' => [
         'announcements' => [
             'path' => 'announcements/{filename}',
