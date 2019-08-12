@@ -12,4 +12,4 @@ For students to be recognized for their successes students must fill in an Achie
 
 This is very important so we do not miss any important news about our students.
 
-[Achievers List Information and Nomination Forms can be found here](https://www.whanganuihigh.school.nz/news-and-events/achievers-list/)
+[Achievers List Information and Nomination Form can be found here](https://www.whanganuihigh.school.nz/news-and-events/achievers-list/)
