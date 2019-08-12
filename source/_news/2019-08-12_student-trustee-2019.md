@@ -1,5 +1,5 @@
 ---
-title: Student Trustee 2019
+title: Student Trustee Election for BOT
 date: 2019-08-11T21:21:38.934Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565558038/Nomination_Poster.jpg

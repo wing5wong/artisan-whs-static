@@ -1,5 +1,5 @@
 ---
-title: Student Trustee 2019
+title: Student Trustee for BOT
 is_emergency: false
 date: 2019-08-11T22:24:14.615Z
 subtitle: Nominations are now open

@@ -4,13 +4,13 @@ date: 2019-08-13T00:00:00.000Z
 description: ''
 ---
 Hawera High Sports Exchange  
-Tuesday 13 August  
+Tuesday 13 August
 Hawera  
 
-Teams going:
-Senior & Junior A1 Netball teams
+Teams going:  
+Senior & Junior A1 Netball teams  
 Senior A Girls & Boys Basketball team
-1st XI Boys & Girls Football
+1st XI Boys & Girls Football  
 1st XV Rugby, U15 Rugby  
 Debating Team
 
