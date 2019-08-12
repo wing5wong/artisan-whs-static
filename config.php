@@ -89,6 +89,7 @@ return [
                     implode(" ", array_reverse(explode(" ", $other->title)))
                 );
              }
+             return strcmp($stPosition, $otherPosition);
         });
     },
 
