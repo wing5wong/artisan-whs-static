@@ -49,7 +49,7 @@ The trio is currently touring New Zealand as part of Chamber Music New Zealand's
 
 Culliford Chamber Music Wanganui wished to thank Central City Pharmacy for their sponsorship of the Whanganui concert.
 
-The Morton Trio: Sumptuous sounds of French Horn, violin and piano, Saturday, August 17 at 7.30pm, Concert Chamber, Whanganui War Memorial Centre. Adult $35, senior $32, CMW member $20, student $5. Book at the Royal Wanganui Opera House.
+**The Morton Trio: Sumptuous sounds of French Horn, violin and piano, Saturday, August 17 at 7.30pm, Concert Chamber, Whanganui War Memorial Centre. Adult $35, senior $32, CMW member $20, student $5. Book at the Royal Wanganui Opera House.**
 
 _By Liz Wylie_  
 _Whanganui Chronicle 10/8/19_
