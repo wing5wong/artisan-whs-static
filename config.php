@@ -83,13 +83,10 @@ return [
         ->sort(function($st, $other) use ($departmentToFind){
             $stPosition = collect($st->positions ?? [])->firstWhere('title', $departmentToFind)->title ?? "ZZZZZZZZZZZZZZZZZZZZZZZ";
             $otherPosition = collect($other->positions ?? [])->firstWhere('title', $departmentToFind)->title ?? "ZZZZZZZZZZZZZZZZZZZZZZZ";
-            if(($stPosition and $otherPosition) and explode(" ", $stPosition)[0]  ==  explode(" ", $otherPosition )[0] ){
-                return strcmp(
-                    implode(" ", array_reverse(explode(" ", $st->title))) ,
-                    implode(" ", array_reverse(explode(" ", $other->title)))
-                );
+            if(explode(" ", $stPosition)[0]  ==  explode(" ", $otherPosition )[0] ){
+                return  implode(" ", array_reverse(explode(" ", $st->title))) <=> implode(" ", array_reverse(explode(" ", $other->title)));
              }
-             return strcmp($stPosition, $otherPosition);
+             return explode(" ", $stPosition)[0] <=> explode(" ", $otherPosition)[0];
         });
     },
 
