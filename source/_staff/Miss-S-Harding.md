@@ -4,6 +4,6 @@ position: Student Centre
 departments:
   - Support and Ancillary
 positions:
-  - department: Support and Ancilliary
+  - department: Support and Ancillary
     title: Student Centre
 ---
