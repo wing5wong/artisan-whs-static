@@ -29,5 +29,5 @@ Greg’s as proud of his athletes exploits off the track / turf / court as on, R
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565585830/two-hockey-photos-together.800..jpg)
 
-_Lisa Murphy_\
+_Lisa Murphy_  
 _WHS Director of Sport_
