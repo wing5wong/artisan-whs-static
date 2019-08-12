@@ -110,7 +110,8 @@ return [
     },
 
     'getSubjectAreaCourses' => function($page, $subject_area, $courses) {
-        return $courses->where('subject_area', $subject_area->title);
+        return $courses->where('subject_area', $subject_area->title)
+            ->sortBy('year_level');
     },
 
     'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
