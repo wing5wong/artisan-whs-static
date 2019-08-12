@@ -84,8 +84,10 @@ return [
             $stPosition = collect($st->positions ?? [])->firstWhere('title', $departmentToFind)['title'];
             $otherPosition = collect($other->positions ?? [])->firstWhere('title', $departmentToFind)['title'];
 
-            return $stPosition <=> $otherPosition ?:
-            implode(" ", array_reverse(explode(" ", $st->title))) <=> implode(" ", array_reverse(explode(" ", $other->title)));
+            return 
+            implode(" ", array_reverse(explode(" ", $st->title))) <=> implode(" ", array_reverse(explode(" ", $other->title)))
+            ?:
+            $stPosition <=> $otherPosition;
             
         });
     },
