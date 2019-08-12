@@ -8,7 +8,7 @@ year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
-assessment_type: Achievement Standard
+assessment_type: Achievement and Unit Standard
 leads_to: ''
 credits: '19'
 entry_requirements: '12 credits from PHY2 or 18239, 18240, 18241 from ELE2 and HOF/TIC approval.'
