@@ -6,8 +6,6 @@ image: >-
 description: WHS Sport Pathway Update
 short: WHS Sport Pathway Update
 ---
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565585545/two-hockey-photos-together.jpg)
-
 They have been working together as a successful team since Y10 and are now in their 4th year of development. Rebecca Baker and Travis Bayler's training's are built on some clear goals, recognition that excellence is not a one-year thing, and that whether its hockey or an individual sport like athletics it takes a team to make a champion.
 
 Goals for the remainder of the year are to be competitive at the Oceania cross country champs in August, to perform well at the NZ secondary school Athletics both as an individual and in relays and for Rebecca be a standout at the NZ U18 Hockey camp in December.
@@ -28,6 +26,10 @@ In the programme Yrs. 9 and 10 are about building the foundations that will lead
 The sports pathway currently has 30+ developing athletes all of who have their own dreams and goals and are just as important a part of making the programme a success as the current senior athletes and their coaches.
 
 Greg’s as proud of his athletes exploits off the track / turf / court as on, Rebecca is current head girl and Travis head of sport and he believes the focus on developing a strong culture and values within their sport’s has helped to develop them as leaders within WHS.
+
+
+
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565585545/two-hockey-photos-together.jpg)
 
 _Lisa Murphy_\
 _WHS Director of Sport_
