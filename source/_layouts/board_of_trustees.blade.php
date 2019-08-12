@@ -40,13 +40,14 @@ $coopted = $board_members->where('category',"Co-opted Member")->sortBy(function(
 <div class="row no-gutters">
     @foreach($coopted as $member)
     <div class="col-12 col-md-4 p-5">
-            <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
-    
+            @if($member->image)  
             <img src="{{$member->image}}" alt="">
-        </div>
-        <div class="col-12 col-md-8 p-5">
-            {!! $member !!}
-        </div>
+            @endif
+            </div>
+            <div class="col-12 col-md-8 p-5">
+                <h3>{{$member->title}} <br><small>{{$member->position}}</small></h3>
+                {!! $member !!}
+            </div>
     @endforeach
 </div>
 @endif
