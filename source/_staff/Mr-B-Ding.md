@@ -6,7 +6,9 @@ departments:
   - International
   - Mathematics
   - Deans
-positions:
+positions: 
+  - department: International
+    title: Dean of International Students
   - department: Deans
     title: Dean of International Students
   - department: Languages
