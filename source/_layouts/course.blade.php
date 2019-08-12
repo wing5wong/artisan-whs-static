@@ -7,18 +7,21 @@
 
 
 <ul class="nav">
-    <li class="nav-item">
-        <a class="nav-link active" href="/curriculum/course-options/">Course Options</a>
-    </li>
     @php
     $subject = $subject_areas->firstWhere('title', $page->subject_area);
     $faculty = $faculties->firstWhere('title',$subject->faculty);
     @endphp
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="{{$faculty->getPath()}}">{{$faculty->title}}</a></li>
-            <li class="breadcrumb-item" aria-current="page">
-                <a href="{{$subject->getPath()}}">{{$subject->title}}</a></li>
+            <li class="breadcrumb-item">
+                    <a href="/curriculum/course-options/">Course Options</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="{{$faculty->getPath()}}">{{$faculty->title}}</a>
+            </li>
+            <li class="breadcrumb-item" >
+                <a href="{{$subject->getPath()}}">{{$subject->title}}</a>
+            </li>
         </ol>
     </nav>
 
