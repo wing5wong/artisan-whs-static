@@ -81,9 +81,6 @@
                                         {{ $position["title"] }}
                                     @if(!$loop->last), @endif
 
-                                    <strong>
-                                          {{  collect($member->positions ?? [])->firstWhere('title', $dept->title)['title'] }}
-                                    </strong>
                                     @endforeach
                                 </td>
                             </tr>
