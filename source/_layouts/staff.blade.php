@@ -82,7 +82,7 @@
                                     @if(!$loop->last), @endif
 
                                     <strong>
-                                          {{  collect($member->positions ?? [])->firstWhere('title', $dept->title)['title']; }}
+                                          {{  collect($member->positions ?? [])->firstWhere('title', $dept->title)['title'] }}
                                     </strong>
                                     @endforeach
                                 </td>
