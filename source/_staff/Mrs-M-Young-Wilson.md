@@ -4,4 +4,7 @@ position: Chinese
 departments:
   - Social Sciences
   - Languages
+positions:
+  - department: Languages
+    title: Chinese
 ---
