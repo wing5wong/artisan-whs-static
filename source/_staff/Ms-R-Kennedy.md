@@ -4,5 +4,8 @@ position: Dean of Whenua House
 departments:
   - Mathematics
   - Deans
+positions:
+  - department: Deans
+    title: Dean of Whenua House
 ---
 
