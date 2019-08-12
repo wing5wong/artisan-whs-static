@@ -27,9 +27,7 @@ The sports pathway currently has 30+ developing athletes all of who have their o
 
 Greg’s as proud of his athletes exploits off the track / turf / court as on, Rebecca is current head girl and Travis head of sport and he believes the focus on developing a strong culture and values within their sport’s has helped to develop them as leaders within WHS.
 
-
-
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565585545/two-hockey-photos-together.jpg)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565585830/two-hockey-photos-together.800..jpg)
 
 _Lisa Murphy_\
 _WHS Director of Sport_
