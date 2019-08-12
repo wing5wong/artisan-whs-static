@@ -81,15 +81,15 @@ return [
             return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
         })
         ->sort(function($st, $other) use ($departmentToFind){
-            $stPosition = collect($st->positions ?? [])->firstWhere('title', $departmentToFind)->title;
-            $otherPosition = collect($other->positions ?? [])->firstWhere('title', $departmentToFind)->title;
+            $stPosition = collect($st->positions ?? [])->firstWhere('title', $departmentToFind)->title ?? "ZZZZZZZZZZZZZZZZZZZZZZZ";
+            $otherPosition = collect($other->positions ?? [])->firstWhere('title', $departmentToFind)->title ?? "ZZZZZZZZZZZZZZZZZZZZZZZ";
             if($stPosition and $otherPosition and explode(" ", $stPosition)[0]  ==  explode(" ", $otherPosition )[0] ){
                 return strcmp(
                     implode(" ", array_reverse(explode(" ", $st->title))) ,
                     implode(" ", array_reverse(explode(" ", $other->title)))
                 );
              }
-             return strcmp( $stPosition ?? "ZZZZZZZZZZZZZZZZZZZZZZZ", $otherPosition ?? "ZZZZZZZZZZZZZZZZZZZZZZZ");
+             return strcmp( $stPosition , $otherPosition );
         });
     },
 
