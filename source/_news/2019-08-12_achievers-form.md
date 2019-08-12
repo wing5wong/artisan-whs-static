@@ -4,7 +4,7 @@ date: 2019-08-11T21:29:00.184Z
 description: Achievers Form
 short: Achievers Form
 ---
-🎯 Re: ALL Achieving Students 🎯
+🎯 Regarding ALL Achieving Students 🎯
 
 Whanganui High School likes to congratulate our students who do well in their academic, sport and cultural areas of their lives. We have Achievers Assembly once a term and a press release acknowledging significant achievements once a term in the River City Press.
 
