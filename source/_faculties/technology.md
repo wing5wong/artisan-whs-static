@@ -13,7 +13,6 @@ hofs:
   - Mr C. Adam
 ahofs:
   - Mrs L. Hardcastle
-  - Mr C. Turner
 vocational_pathways:
   - creative
   - primary
