@@ -1,6 +1,6 @@
 ---
 title: Achievers List
-date: 2019-07-25T02:23:57.661Z
+date: 2019-08-12T02:23:57.661Z
 ---
 The school's Achievers' List is a compilation of our student's achievements. These are can be in a variety of areas such as Academic, Cultural, Service, Sporting and other areas. The achievement levels covered, can be at the Whanganui (and districts), Regional, North Island, National, Oceania and Worlds (International) levels.
 
@@ -20,7 +20,7 @@ Nominate a student by selecting either:
 
 **Achievers' Lists**
 
-[2019](https://res.cloudinary.com/whanganuihigh/image/upload/v1564001278/Achievers/2019_ACHIEVERS_LIST_as_of_25_July_2019.pdf)
+[2019](https://res.cloudinary.com/whanganuihigh/image/upload/v1565580796/Achievers/2019_ACHIEVERS_LIST_as_of_12_August_2019.pdf)
 
 [2018](https://res.cloudinary.com/whanganuihigh/image/upload/v1564000996/Achievers/2018_ACHIEVERS_LIST.pdf)
 
