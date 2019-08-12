@@ -475,9 +475,9 @@ collections:
       widget: "select"
       options: [ "Dux Litterarum", "Dux Ludorum", "Dux Artium", "Maori Student Dux", "Heads of School"]
     - {label: "Person 1 Name", name: "person1_name", widget: string }
-    - {label: "Person 1 Image", name: "person1_image", widget: image }
+    - {label: "Person 1 Image", name: "person1_image", widget: image, required: false }
     - {label: "Person 2 Name", name: "person2_name", widget: string }
-    - {label: "Person 2 Image", name: "person2_image", widget: image }
+    - {label: "Person 2 Image", name: "person2_image", widget: image, required: false }
 
 
   - name: "policies"
