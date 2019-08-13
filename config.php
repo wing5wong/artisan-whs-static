@@ -115,6 +115,7 @@ return [
         return $courses ->where('subject_area', $subject_area->title)->sortBy('name');
     },
 
+    // we want faculty courses per level - merge all the subject area courses and then sort
     'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
         $result =  $courses ->where('subject_area', $subject_area->title)
                         ->where('year', $level)
