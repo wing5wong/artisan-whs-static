@@ -73,7 +73,7 @@ $levels = [
 
         <div class="list-group my-4">
         @foreach($faculty['subjectAreas'] as $subjectArea)
-            @foreach($subjectArea['courses']->sortBy('name') as $course)
+            @foreach($subjectArea['courses'] as $course)
                 <a class="list-group-item list-group-item-action" href="{{$course->getPath()}}">{{ $course->name }}</a>
             @endforeach
         @endforeach
