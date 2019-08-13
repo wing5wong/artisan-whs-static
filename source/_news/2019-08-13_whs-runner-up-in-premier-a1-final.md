@@ -1,5 +1,5 @@
 ---
-title: WHS runner up in Premier A1 final
+title: 'Not the result WHS were after, but great season all the same!'
 date: 2019-08-13T03:41:41.204Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565668223/Prem_1_final_good_chron_13.8.19.jpg
