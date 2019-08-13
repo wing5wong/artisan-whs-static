@@ -21,7 +21,7 @@ Kaierau avoided the pitfalls of their previous losses to WHS this year – where
 
 It still didn't mean Kaierau had a flawless start last night, in fact they turned over the first centre pass, but after getting down 12-9 approaching the quartertime break, some good set up work by centre Hayley Addenbrooke, who had a standout game, set up the last two goals by goal attack Alicia Prince, the latter a long shot from the top of the circle right on the whistle.
 
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565668884/Prem_1_final_chron.2._13.8.19.jpg "Kaierau A1's centre Hayley Addenbrooke, former WHS student, takes the ball in front of WHS wing defence Teagan Tapa.")
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565668884/Prem_1_final_chron.2._13.8.19.jpg "Kaierau centre Hayley Addenbrooke, former WHS student, takes the ball in front of WHS wing defence Teagan Tapa.")
 
 Before that, WHS had settled into the pattern that has seen them dominating both Whanganui Premier and Manawatu Secondary School netball with smooth passes from around the circle hitting goal shoot Montel Vaiao-Aki exactly as she landed underneath the post.
 
