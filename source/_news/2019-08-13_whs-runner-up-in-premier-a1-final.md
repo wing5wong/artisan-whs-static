@@ -87,4 +87,4 @@ Third/Fourth Playoff
 First Quarter: 13-10 Kaiwhaiki. Second Quarter: 29-19 (16-9 Kaiwhaiki). Third Quarter: 42-31 (13-12 Kaiwhaiki). Fulltime: 61-44 (19-13 Kaiwhaiki).
 
 _By Jared Smith_  
-_Whanganui Chronicle_
+_Whanganui Chronicle 14/8/19_
