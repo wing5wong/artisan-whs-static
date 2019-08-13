@@ -7,6 +7,8 @@ This is on Friday 23 August and includes Victoria University and/or Massey Welli
 
 Year 12s are welcome as well. 
 
+Thanks to those who signed up last week - 114 responded so we will take 2 buses but I only have 95 seats available. Permission slips have been e-mailed to your school & home e-mail address and a printed version is available from your form teacher. 'Forgot' to sign up? Collect a blank slip from the student centre. Please read all the information given and return (via the on-line form) before the end of this week.
+
 Register your interest by writing your name on the list at the Student Centre by this Thursday, or PREFERRED, visit: bit.ly/whswgtnod2019
 
 _Mr Paul Keene_  
