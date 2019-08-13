@@ -115,7 +115,7 @@ return [
         return $courses ->where('subject_area', $subject_area->title)->sortBy('name');
     },
 
-    'getFacultyCoursesForLevel' => function($page, $faculty, $courses) {
+    'getFacultyCoursesForLevel' => function($page, $faculty, $subject_areas, $courses) {
         return $subject_areas->where('faculty', $faculty->title)
         ->flatMap(function($subject) use ($courses){
             return $courses->where('subject_area', $subject->title);
