@@ -71,7 +71,7 @@ return [
 
     'getDepartmentStaff' => function($page, $faculties, $staff, $departmentToFind) {
         return $staff->filter(function($s) use ($departmentToFind){
-            return in_array($departmentToFind, $s->departments);
+            return collect($s->departments ?? [])->contains($departmentToFind);
         })
         ->filter(function($s) use ($faculties, $departmentToFind){
             $faculty = $faculties->firstWhere('title', $departmentToFind);

@@ -33,34 +33,49 @@ for (var i = 0; i < tables.length; ++i) {
 }
 
 
-// wrap image nodes for title/captions
-function wrapAll(nodes, wrapper) {
-    // Cache the current parent and previous sibling of the first node.
-    var parent = nodes[0].parentNode;
-    var previousSibling = nodes[0].previousSibling;
+// // wrap image nodes for title/captions
+// function wrapAll(nodes, wrapper) {
+//     // Cache the current parent and previous sibling of the first node.
+//     var parent = nodes[0].parentNode;
+//     var previousSibling = nodes[0].previousSibling;
 
-    // Place each node in wrapper.
-    //  - If nodes is an array, we must increment the index we grab from 
-    //    after each loop.
-    //  - If nodes is a NodeList, each node is automatically removed from 
-    //    the NodeList when it is removed from its parent with appendChild.
-    for (var i = 0; nodes.length - i; wrapper.firstChild === nodes[0] && i++) {
-        if(nodes[i].getAttribute('title')){
-            wrapper.setAttribute('title', nodes[i].getAttribute('title'))
-        }
-        wrapper.setAttribute('href', nodes[i].getAttribute('src'))
-        addClass(wrapper, 'featured')
-        wrapper.appendChild(nodes[i]);
-    }
+//     // Place each node in wrapper.
+//     //  - If nodes is an array, we must increment the index we grab from 
+//     //    after each loop.
+//     //  - If nodes is a NodeList, each node is automatically removed from 
+//     //    the NodeList when it is removed from its parent with appendChild.
+//     for (var i = 0; nodes.length - i; wrapper.firstChild === nodes[0] && i++) {
+//         if(nodes[i].getAttribute('title')){
+//             wrapper.setAttribute('title', nodes[i].getAttribute('title'))
+//         }
+//         wrapper.setAttribute('href', nodes[i].getAttribute('src'))
+//         addClass(wrapper, 'featured')
+//         wrapper.appendChild(nodes[i]);
+//     }
 
-    // Place the wrapper just after the cached previousSibling,
-    // or if that is null, just before the first child.
-    var nextSibling = previousSibling ? previousSibling.nextSibling : parent.firstChild;
-    parent.insertBefore(wrapper, nextSibling);
+//     // Place the wrapper just after the cached previousSibling,
+//     // or if that is null, just before the first child.
+//     var nextSibling = previousSibling ? previousSibling.nextSibling : parent.firstChild;
+//     parent.insertBefore(wrapper, nextSibling);
 
-    return wrapper;
+//     return wrapper;
+// }
+
+// var nodes = document.querySelectorAll('main img:not(.featured-image)');
+// var wrapper = document.createElement('a');
+// wrapAll(nodes, wrapper)
+
+function wrap(el) {
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
 }
 
-var nodes = document.querySelectorAll('main img:not(.featured-image)');
-var wrapper = document.createElement('a');
-wrapAll(nodes, wrapper)
+document.querySelectorAll('main img:not(.featured-image)').forEach(function(node){
+    wrapper = document.createElement('a');
+    if(node.getAttribute('title')){
+        wrapper.setAttribute('title', node.getAttribute('title'))
+    }
+    wrapper.setAttribute('href', node.getAttribute('src'))
+    addClass(wrapper, 'featured')
+    wrap(node, wrapper)
+});
