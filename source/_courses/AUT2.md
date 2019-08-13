@@ -1,6 +1,6 @@
 ---
 title: AUT2
-name: Automotive Engineering 2
+name: Automotive Engineering
 code: AUT2
 subject_area: Automotive Engineering
 date: 2019-08-02T03:59:14.687Z
