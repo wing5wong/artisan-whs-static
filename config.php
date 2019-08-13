@@ -112,13 +112,13 @@ return [
     },
 
     'getSubjectAreaCourses' => function($page, $subject_area, $courses) {
-        return $courses ->where('subject_area', $subject_area->title)->sortBy('course_level');
+        return $courses ->where('subject_area', $subject_area->title)->sortBy('name');
     },
 
     'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
         return $courses ->where('subject_area', $subject_area->title)
                         ->where('year', $level)
-                        ->sortBy('course_level');
+                        ->sortBy('name');
     },
 
     'getStaffMemberPositionsForDepartment' => function($page,$member,$department) {
