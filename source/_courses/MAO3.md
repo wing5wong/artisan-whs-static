@@ -1,6 +1,6 @@
 ---
 title: MAO3
-name: Te Reo Māori 3
+name: Te Reo Māori
 code: MAO3
 subject_area: Te Reo Māori
 date: 2019-07-01T01:49:20.808Z
