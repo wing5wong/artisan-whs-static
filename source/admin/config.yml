@@ -467,6 +467,7 @@ collections:
     folder: "source/_honours"
     create: true
     slug: "{{slug}}"
+    summary: "{{title}} - {{person1_name}} | {{person2_name}}
     fields:
     - {label: "Title", name: "title", widget: "string", hint: "Dux X YYYY"}
     - {label: "Date", name: "date", widget: "date"}
