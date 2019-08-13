@@ -27,7 +27,7 @@ Goal attack Imogen Flower, who would hit only a handful of goals herself in the 
 
 At the other end, WHS goal keep Kara Adrole and goal defence Molly Bullock were looking to impose themselves on Kaierau's shooter Te Reo Paki, but having been through many big games herself in championship finals and Central Zone Super Club, Paki hung tough, worked off of the whistle for penalty shots, and kept her percentages up.
 
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565668039/Prem_1_final_chron_13.8.19.jpg "Kaierau goal shoot Te Reo Paki connects over WHS goal keep Kara Adrole. The tussle between the two proved decisive to the outcome.")
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565668039/Prem_1_final_chron_13.8.19.jpg "Kaierau goal shoot Te Reo Paki connects over WHS goal keep Kara Adrole.")
 
 WHS saw it was going to be a different first quarter since they last met, with Kaierau getting some good midcourt turnovers, goal defence Hannah Kelly and wing defence Kerwyn Morgan, although the underdogs got a little ahead of themselves at times with passes missing targets, as Addenbrooke motioned for everyone to just calm down.
 
