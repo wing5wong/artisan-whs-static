@@ -32,7 +32,7 @@ $levels = [
                 {
                     return [
                         'subjectArea' => $subject,
-                        'courses' => $page->getSubjectAreaCoursesForLevel($subject, $courses, $level)->sortBy('name')
+                        'courses' => $page->getSubjectAreaCoursesForLevel($subject, $courses, $level)
                     ];
                 })
                 ->filter(function($sa){
@@ -72,7 +72,7 @@ $levels = [
 
         <div class="list-group my-4">
         @foreach($faculty['subjectAreas'] as $subjectArea)
-            @foreach($subjectArea['courses'] as $course)
+            @foreach($subjectArea['courses']->sortBy('name') as $course)
                 <a class="list-group-item list-group-item-action" href="{{$course->getPath()}}">{{ $course->name }}</a>
             @endforeach
         @endforeach
