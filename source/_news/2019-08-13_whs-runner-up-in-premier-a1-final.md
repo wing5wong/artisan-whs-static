@@ -79,12 +79,12 @@ In the playoff for third and fourth, it was last year's champions Kaiwhaiki A1, 
 
 Leading by three points at quartertime, Kaiwhaiki had extended their advantage to ten at the half and from there they never looked back.
 
-Scoreboards 
-Championship Final 
+Scoreboards   
+Championship Final   
 First Quarter: 12-11 WHS. Second Quarter: 23-22 Kaierau (12-10 Kaierau). Third Quarter: 34-33 (11-11). Fulltime: 46-43 (12-10 Kaierau).
 
-Third/Fourth Playoff 
+Third/Fourth Playoff   
 First Quarter: 13-10 Kaiwhaiki. Second Quarter: 29-19 (16-9 Kaiwhaiki). Third Quarter: 42-31 (13-12 Kaiwhaiki). Fulltime: 61-44 (19-13 Kaiwhaiki).
 
 _By Jared Smith_  
-_Whanganui Chronicle_
+_Whanganui Chronicle 14/8/19_
