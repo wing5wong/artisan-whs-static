@@ -1,6 +1,6 @@
 ---
 title: AUT3
-name: Automotive Engineering 3
+name: Automotive Engineering
 code: AUT3
 subject_area: Automotive Engineering
 date: 2019-08-02T04:00:37.288Z
