@@ -70,19 +70,14 @@ return [
     },
 
     'getDepartmentStaff' => function($page, $faculties, $staff, $departmentToFind) {
-        $theDept = $faculties->firstWhere('title', $departmentToFind);
-        $deptHofs = collect($theDept->hofs ?? []);
-        $deptAHofs = collect($theDept->ahofs ?? []);
-
         return $staff->filter(function($s) use ($departmentToFind){
-            return in_array($departmentToFind,$s->departments);
+            return in_array($departmentToFind, $s->departments);
         })
-        ->filter(function($s) use ($deptHofs, $deptAHofs){
-            return !( $deptHofs->contains($s->title) or $deptAHofs->contains($s->title));
+        ->filter(function($s) use ($faculties, $departmentToFind){
+            $faculty = $faculties->firstWhere('title', $departmentToFind);
+            return !( collect($faculty->hofs ?? [])->contains($s->title) or collect($faculty->ahofs ?? [])->contains($s->title));
         })
         ->sort(function($st, $other) use ($departmentToFind){
-            $stPosition = collect($st->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ";
-            $otherPosition = collect($other->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ";
 
             return  
             (collect($st->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ")
@@ -99,40 +94,39 @@ return [
     },
 
     'getDepartmentHofs' => function($page, $faculties, $staff, $departmentToFind) {
-        $deptHofs = collect($faculties->firstWhere('title', $departmentToFind)->hofs ?? []);
-        return $staff->filter(function($st) use ($deptHofs){
-            return $deptHofs->contains($st->title);
-        });
+        return collect($faculties->firstWhere('title', $departmentToFind)->hofs ?? [])
+                ->map(function($st) use ($staff){
+                    return $staff->firstWhere('title', $st);
+                });
     },
     'getDepartmentAHofs' => function($page, $faculties, $staff, $departmentToFind) {
-        $deptAHofs = collect($faculties->firstWhere('title', $departmentToFind)->ahofs ?? []);
-        return $deptAHofs->map(function($st) use ($staff){
-            return $staff->firstWhere('title', $st);
-        });
-        return $staff->filter(function($st) use ($deptAHofs){
-            return $deptAHofs->contains($st->title);
-        });
+        return collect($faculties->firstWhere('title', $departmentToFind)->ahofs ?? [])
+                ->map(function($st) use ($staff){
+                    return $staff->firstWhere('title', $st);
+                });
     },
 
     'getFacultySubjectAreas' => function($page, $faculty, $subject_areas) {
-        return $subject_areas->where('faculty', $faculty->title)->sortBy('title');
+        return $subject_areas   ->where('faculty', $faculty->title)
+                                ->sortBy('title');
     },
 
     'getSubjectAreaCourses' => function($page, $subject_area, $courses) {
-        return $courses->where('subject_area', $subject_area->title)
-            ->sortBy('year');
+        return $courses ->where('subject_area', $subject_area->title)
+                        ->sortBy('year');
     },
 
     'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
-        return $courses->where('subject_area', $subject_area->title)
+        return $courses ->where('subject_area', $subject_area->title)
                         ->where('year', $level)
                         ->sortBy('name');
     },
 
     'getStaffMemberPositionsForDepartment' => function($page,$member,$department) {
-        return collect($member->positions ?? [])->filter(function($p) use ($department){
-            return $p["department"] == $department->title;
-        });
+        return  collect($member->positions ?? [])
+                ->filter(function($p) use ($department){
+                    return $p["department"] == $department->title;
+                });
     },
 
     'yearLevelOffersVocationalPathways' => function($page, $level) {
