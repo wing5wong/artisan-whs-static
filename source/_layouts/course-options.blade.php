@@ -23,7 +23,8 @@ $levels = [
         <h2 class="decorated d-table">{{ $levelTitle }}
     </summary>
     @php
-    $mapped = $page->getTeachingFaculties($faculties)->map(function($faculty) use ($page, $level, $subject_areas, $courses)
+    $mapped = $page->getTeachingFaculties($faculties)
+            ->map(function($faculty) use ($page, $level, $subject_areas, $courses)
     {
         return [
             'faculty'=> $faculty,

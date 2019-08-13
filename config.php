@@ -108,7 +108,7 @@ return [
 
     'getFacultySubjectAreas' => function($page, $faculty, $subject_areas) {
         return $subject_areas   ->where('faculty', $faculty->title)
-                                ->sortBy('title');
+                                ->sortBy('date');
     },
 
     'getSubjectAreaCourses' => function($page, $subject_area, $courses) {
