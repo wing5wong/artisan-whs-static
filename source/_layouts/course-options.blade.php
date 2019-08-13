@@ -33,7 +33,7 @@ $levels = [
                 {
                     return [
                         'subjectArea' => $subject,
-                        'courses' => $page->getSubjectAreaCoursesForLevel($subject, $courses, $level)->sortBy('name')->values()
+                        'courses' => $page->getSubjectAreaCoursesForLevel($subject, $courses, $level)
                     ];
                 })
                 ->filter(function($sa){
