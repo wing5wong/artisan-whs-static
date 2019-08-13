@@ -26,7 +26,7 @@
 
 <hr>
 
-@foreach ($honours->sortBy('award')->groupBy('award') as $category)
+@foreach ($honours->groupBy('award') as $category)
 <details>
     <summary>
 <h2 class="d-table decorated mt-5 mb-2">{{$category->first()->award}}</h2>
@@ -38,7 +38,7 @@
         <th>Runner Up</th>
     </thead>
     <tbody>
-        @foreach($category->sortBy('date') as $entry)
+        @foreach($category as $entry)
         <tr>
             <td>{{ date('Y',$entry->date) }}</td>
             <td>{{ $entry->person1_name }}</td>

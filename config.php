@@ -229,7 +229,7 @@ return [
             'tags' => [],
         ],
         'honours' => [
-            'sort' => '-date'
+            'sort' => ['award','date']
         ],
         'international' => [
             'path' => 'international/{filename}',
