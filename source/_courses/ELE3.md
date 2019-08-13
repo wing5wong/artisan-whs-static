@@ -1,6 +1,6 @@
 ---
 title: ELE3
-name: Electronics NCEA 3
+name: Electronics
 code: ELE3
 subject_area: Electronics
 date: 2019-08-01T23:20:18.415Z
