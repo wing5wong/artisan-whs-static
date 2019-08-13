@@ -3,7 +3,7 @@ title: Hawera High School Exchange has been cancelled
 date: 2019-08-13T00:00:00.000Z
 description: ''
 ---
-#### Due to a fatal accident on the Waitotara river bridge this morning the Hawera High Sports Exchange has been cancelled.
+#### Due to an accident on the Waitotara river bridge this morning the Hawera High Sports Exchange has been cancelled.
 
 #### This meant that the three busloads of students returned back to school where they stayed in the Te Ihi gym until the bell went for first break.  All students will then go to their normal classes from period 3 onwards.  
 
