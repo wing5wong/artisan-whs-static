@@ -139,7 +139,7 @@ $courseAssessments = $assessments->filter(function($assessment) use ($page){
                 </tr>
             </thead>
             <tbody>
-                @foreach($courseAssessments->sortBy('title') as $assessment)
+                @foreach($courseAssessments as $assessment)
                 <tr>
                     <td>
                         <a href="{{ $assessment->pdf }}">{{ $assessment->title }}</a>

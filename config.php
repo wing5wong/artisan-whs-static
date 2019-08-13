@@ -115,15 +115,20 @@ return [
         return $courses ->where('subject_area', $subject_area->title)->sortBy('name');
     },
 
+    'getFacultyCoursesForLevel' => function($page, $faculty, $courses) {
+        return $subject_areas->where('faculty', $faculty->title)
+        ->flatMap(function($subject) use ($courses){
+            return $courses->where('subject_area', $subject->title);
+        })
+        ->sortBy('name');
+    },
+
     // we want faculty courses per level - merge all the subject area courses and then sort
     'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
-        $result =  $courses ->where('subject_area', $subject_area->title)
+        return $courses ->where('subject_area', $subject_area->title)
                         ->where('year', $level)
-                        ->sortBy(function($a,$b){
-                            return $a->name <=> $b->name;
-                        });
-                        return $result;
-    },
+                        ->sortBy('name');
+        },
 
     'getStaffMemberPositionsForDepartment' => function($page,$member,$department) {
         return  collect($member->positions ?? [])
@@ -157,7 +162,9 @@ return [
             'comments' => true,
             'tags' => [],
         ],
-        'assessments',
+        'assessments' => [
+            'sort' => 'title',
+        ],
         'about' => [
             'path' => 'about-whs/{filename}',
             'sort' => '-date',
