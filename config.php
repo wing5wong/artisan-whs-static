@@ -100,6 +100,9 @@ return [
     },
     'getDepartmentAHofs' => function($page, $faculties, $staff, $departmentToFind) {
         $deptAHofs = collect($faculties->firstWhere('title', $departmentToFind)->ahofs ?? []);
+        return $deptAHofs->map(function($st) use ($staff){
+            return $staff->firstWhere('title', $st)
+        });
         return $staff->filter(function($st) use ($deptAHofs){
             return $deptAHofs->contains($st->title);
         });
