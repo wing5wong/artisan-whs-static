@@ -1,15 +1,17 @@
 ---
-title: "Students excel in Hamilton"
-date: 2019-02-14
-description: "Connor Munro highlighted his improved hurdle technique in winning the Centre Championship 110 metre hurdles..."
-image: /uploads/5c6ca849ff2a7c6f50000399/Connor-Munro-chron-14.2.19-hurdles.PNG
-excerpt: "Connor Munro highlighted his improved hurdle technique in winning the Centre Championship 110 metre hurdles."
+title: Students excel in Hamilton
+date: 2019-02-14T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1565743226/Connor_Munro_chron_14.2.19_hurdles.png
+description: >-
+  Connor Munro highlighted his improved hurdle technique in winning the Centre
+  Championship 110 metre hurdles...
+short: >-
+  Connor Munro highlighted his improved hurdle technique in winning the Centre
+  Championship 110 metre hurdles...
 image_gallery:
-     - image: "http://c1940652.r52.cf0.rackcdn.com/5c6f5aa9ff2a7c6f500004e4/Connor-Munro-18.1.19-Chron.jpg"
-    
-    
-    
-    
+  - image: >-
+      http://c1940652.r52.cf0.rackcdn.com/5c6f5aa9ff2a7c6f500004e4/Connor-Munro-18.1.19-Chron.jpg
 ---
 
 <p class="element element-paragraph"><strong>Connor Munro</strong> <strong>highlighted his improved hurdle technique in winning the Centre Championship 110 metre hurdles on Tuesday.</strong><br /><em>Photo / Supplied</em></p>
