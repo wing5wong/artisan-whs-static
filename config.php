@@ -26,27 +26,33 @@ return [
     'vp' => [
         'service' => [
             'name' => 'Service Industries',
-            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/service-industries-pathway/'
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/service-industries-pathway/',
+            'code' => 'S',
         ],
         'creative' => [
             'name' => 'Creative Industries',
-            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/creative-industries-pathway/'
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/creative-industries-pathway/',
+            'code' => 'C',
         ],
         'social' => [
             'name' => 'Social and Community Services',
-            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/social-and-community-services-pathway/'
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/social-and-community-services-pathway/',
+            'code' => 'SC',
         ],
         'primary' => [
             'name' => 'Primary Industries',
-            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/primary-industries-pathway/'
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/primary-industries-pathway/',
+            'code' => 'P',
         ],
         'construction' => [
             'name' => 'Construction and Infrastructure',
-            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/construction-and-infrastructure-pathway/'
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/construction-and-infrastructure-pathway/',
+            'code' => 'CI',
         ],
         'manufacturing' => [
             'name' => 'Manufacturing and Technology',
-            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/manufacturing-and-technology-pathway/'
+            'url' => 'http://www.youthguarantee.net.nz/vocational-pathways/the-six-vocational-pathways/manufacturing-and-technology-pathway/',
+            'code' => 'MT',
         ],
     ],
     'services' => [
