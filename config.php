@@ -115,7 +115,7 @@ return [
         return $courses ->where('subject_area', $subject_area->title)->sortBy('name');
     },
 
-    'getFacultyCoursesForLevel' => function($page, $faculty, $subject_areas, $courses) {
+    'getFacultyCoursesForLevel' => function($page, $faculty, $subject_areas, $courses, $level) {
         return $subject_areas->where('faculty', $faculty->title)
         ->map(function($subject) use ($courses, $level){
             return $courses->where('subject_area', $subject->title)
