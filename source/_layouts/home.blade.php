@@ -20,8 +20,6 @@
     <link rel="stylesheet" href="/assets/fonts/gotham/gotham-book/font.css" />
     <link rel="stylesheet" href="/assets/css/customisations.css">
     <link rel="stylesheet" href="{{mix('/css/main.css', 'assets/build')}}">
-
-
 </head>
 
 <body>
