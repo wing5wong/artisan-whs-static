@@ -28,7 +28,7 @@ $levels = [
         {
             return [
                 'faculty'=> $faculty,
-                'courses' => $page->getFacultyCoursesForLevel($faculty['faculty'], $subject_areas, $courses, $level),
+                'courses' => $page->getFacultyCoursesForLevel($faculty, $subject_areas, $courses, $level),
             ];
         })->filter( function($f){
             return $f['courses']->isNotEmpty();
