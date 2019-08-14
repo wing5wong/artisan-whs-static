@@ -1,15 +1,12 @@
 ---
-title: "Jorja recipient of the Rebecca L Lynch Memorial Scholarship"
-date: 
-description: "Former Whanganui High School student Jorja Hackett is the recipient of the Rebecca L Lynch Memorial Scholarship..."
-image: http://c1940652.r52.cf0.rackcdn.com/59f9284db8d39a773100058a/Jorja-Hackett-Rebecca-L-Lynch-mem-scholarship.jpg
-excerpt: "Former Whanganui High School student Jorja Hackett is the recipient of the Rebecca L Lynch Memorial Scholarship and will spend a year at the University Of Idaho studying in 2018."
-image_gallery:
-    
-    
-    
-    
-    
+title: Jorja recipient of the Rebecca L Lynch Memorial Scholarship
+date: 2019-08-14T23:28:17.560Z
+image: >-
+  http://c1940652.r52.cf0.rackcdn.com/59f9284db8d39a773100058a/Jorja-Hackett-Rebecca-L-Lynch-mem-scholarship.jpg
+description: >-
+  Former Whanganui High School student Jorja Hackett is the recipient of the
+  Rebecca L Lynch Memorial Scholarship...
+short: .
 ---
 
 <p><strong>Former Whanganui High School student Jorja Hackett is the&nbsp;recipient of the Rebecca L Lynch Memorial Scholarship and will spend a year at the University Of Idaho studying in 2018.&nbsp;&nbsp;</strong><span>At present Jorja is studying a Bachelor of Science at Victoria University.</span></p>
