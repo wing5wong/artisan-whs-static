@@ -1,5 +1,5 @@
 ---
-title: Running results
+title: Mile race results
 date: 2018-08-28T00:00:00.000Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565747590/Nat_Kirk_Karl_Lobe_Luke_Watts_chron_28_aug.png
