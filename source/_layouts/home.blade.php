@@ -118,26 +118,6 @@
 
 
   @include('_partials.footer.main')
-  
-  <script>
-      var mySwiper = new Swiper ('.swiper-container', {
-  // Optional parameters
-  direction: 'horizontal',
-  loop: true,
-  autoplay: true,
-  effect: 'fade',
-  navigation: {
-  nextEl: '.swiper-button-next',
-  prevEl: '.swiper-button-prev',
-  },
-  })
-    </script>
-    
-
-
-
-
-
 
 </body>
 

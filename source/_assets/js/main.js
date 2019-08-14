@@ -82,3 +82,17 @@ document.querySelectorAll('main img:not(.featured-image)').forEach(function(node
     addClass(wrapper, 'featured')
     wrap(node, wrapper)
 });
+
+
+
+var mySwiper = new Swiper ('.swiper-container', {
+    // Optional parameters
+    direction: 'horizontal',
+    loop: true,
+    autoplay: true,
+    effect: 'fade',
+    navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+    },
+    })
