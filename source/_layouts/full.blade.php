@@ -25,6 +25,8 @@
     @yield('content')
 
 
+    @include('_partials.footer.main')
+    
     <script>
         var mySwiper = new Swiper ('.swiper-container', {
     // Optional parameters
@@ -38,7 +40,6 @@
     },
     })
     </script>
-    @include('_partials.footer.main')
 
 </body>
 
