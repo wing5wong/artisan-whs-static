@@ -11,13 +11,13 @@
     @foreach ($honours->where('award',"Dux Litterarum")->groupBy('award') as $category)
 
     <div class="col">
-        <h3>{{$category->first()->person1_name}}
-        <br><small class="text-muted">Dux Litterarum</small></h3>
+        <h2><span class="decorated">{{$category->first()->person1_name}}</span>
+        <br><small class="text-muted">Dux Litterarum</small></h2>
         <img src="{{$category->first()->person1_image}}" alt="" class="img-thumbnail">
     </div>
     <div class="col">
-        <h3>{{$category->first()->person2_name}}
-            <br><small class="text-muted">Proxime Accessit</small></h3>
+        <h2><span class="decorated">{{$category->first()->person2_name}}</span>
+            <br><small class="text-muted">Proxime Accessit</small></h2>
         <img src="{{$category->first()->person2_image}}" alt="" class="img-thumbnail">
     </div>
     @endforeach
