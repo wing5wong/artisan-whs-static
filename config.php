@@ -120,7 +120,7 @@ return [
         ->map(function($subject) use ($courses, $level){
             return $courses->where('subject_area', $subject->title)
                             ->where('year', $level);
-        })
+        })->collapse()
         ->sortBy('name');
     },
 
