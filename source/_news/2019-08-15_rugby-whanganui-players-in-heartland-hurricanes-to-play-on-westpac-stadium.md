@@ -6,9 +6,9 @@ image: >-
 description: 'Rugby: Whanganui players in Heartland Hurricanes to play on Westpac Stadium.'
 short: 'Rugby: Whanganui players in Heartland Hurricanes to play on Westpac Stadium.'
 ---
-The five Wanganui Under 20 players selected for the Heartland Hurricanes will get the chance to play on the big stage of Wellington's Westpac Stadium during the Central Region Shield tournament this month.
+The five **Wanganui Under 20 players selected for the Heartland Hurricanes** will get the chance to play on the big stage of Wellington's Westpac Stadium during the Central Region Shield tournament this month.
 
-Kohlt Coveny, Josefa Rokotakala, Jason Myers, Lamaire Meunier and Jack O'Leary were named in the 23-player squad after the completion of the HYRC Development Series at the Massey University Sport & Rugby Institute grounds in Palmerston North on Sunday.
+**Kohlt Coveny**, Josefa Rokotakala, Jason Myers, Lamaire Meunier and **Jack O'Leary** were named in the 23-player squad after the completion of the HYRC Development Series at the Massey University Sport & Rugby Institute grounds in Palmerston North on Sunday.
 
 After being well beaten by eventual champions Wairarapa Bush U20 and Horowhenua Kapiti U20, Wanganui won their last game over Poverty Bay U20, 22-17.
 
