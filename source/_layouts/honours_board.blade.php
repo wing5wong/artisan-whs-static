@@ -9,15 +9,15 @@
 
 <div class="row">
     @foreach ($honours->where('award',"Dux Litterarum")->groupBy('award') as $category)
-    <div class="col-12">
-        <h2 class="d-table decorated">{{$category->first()->award}}</h2>
-    </div>
+
     <div class="col">
-        <h3>{{$category->first()->person1_name}}</h3>
+        <h3>{{$category->first()->person1_name}}
+        <br><small class="text-muted">Dux Litterarum</small></h3>
         <img src="{{$category->first()->person1_image}}" alt="" class="img-thumbnail">
     </div>
     <div class="col">
-        <h3>{{$category->first()->person2_name}}</h3>
+        <h3>{{$category->first()->person2_name}}
+            <br><small class="text-muted">Proxime Accessit</small></h3>
         <img src="{{$category->first()->person2_image}}" alt="" class="img-thumbnail">
     </div>
     @endforeach
