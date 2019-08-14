@@ -1,3 +1,6 @@
+require('./html5shiv')
+require('./swiper')
+
 const clickMe = document.querySelector('.test-js');
 
 if (clickMe) {
