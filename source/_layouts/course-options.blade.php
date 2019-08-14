@@ -24,25 +24,15 @@ $levels = [
     </summary>
     @php
     $mapped = $page->getTeachingFaculties($faculties)
-    ->map(function($faculty) use ($page, $level, $subject_areas, $courses)
-    {
-    return [
-    'faculty'=> $faculty,
-    'subjectAreas'=> $page->getFacultySubjectAreas($faculty, $subject_areas)
-    ->map( function($subject) use ($page, $level, $courses)
-    {
-    return [
-    'subjectArea' => $subject,
-    'courses' => $page->getSubjectAreaCoursesForLevel($subject, $courses, $level)
-    ];
-    })
-    ->filter(function($sa){
-    return $sa['courses']->isNotEmpty();
-    }),
-    ];
-    })->filter( function($f){
-    return $f['subjectAreas']->isNotEmpty();
-    });
+        ->map(function($faculty) use ($page, $level, $subject_areas, $courses)
+        {
+            return [
+                'faculty'=> $faculty,
+                'courses' => $page->getFacultyCoursesForLevel($faculty['faculty'], $subject_areas, $courses, $level),
+            ];
+        })->filter( function($f){
+            return $f['courses']->isNotEmpty();
+        });
     @endphp
 
     <div class="row">
@@ -55,12 +45,11 @@ $levels = [
             </h3>
 
 
-            @if($page->yearLevelOffersVocationalPathways($level) and count($faculty['faculty']->vocational_pathways ??
-            []))
+            @if($page->yearLevelOffersVocationalPathways($level) and count($faculty['faculty']->vocational_pathways ??  []))
             <ul class="list-inline">
                 @foreach($faculty['faculty']->vocational_pathways as $vp)
                 <li class="list-inline-item">
-                    <a href="{{ $page['vp'][$vp]['url']}}" class="text-white px-2 py-1 badge badge-vp-{{$vp}}"
+                    <a href="{{ $page['vp'][$vp]['url']}}" class="text-white px-2 py-1 badge badge-vp-{{$vp}}" title="{{ $page['vp'][$vp]['name']}}"
                         target="_BLANK">&nbsp;</a>
                 </li>
                 @endforeach
@@ -76,10 +65,9 @@ $levels = [
 
 
             <div class="list-group my-4">
-                @foreach($page->getFacultyCoursesForLevel($faculty['faculty'], $subject_areas, $courses, $level) as
-                $course)
+                @foreach($faculty['courses'] as $course)
                     <a class="list-group-item list-group-item-action" href="{{$course->getPath()}}">{{ $course->name }}</a>
-                @endforeach()
+                @endforeach
             </div>
 
         </div>
