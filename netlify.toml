@@ -3,3 +3,10 @@
 command = "npm run production"
 publish = "build_production"
 environment = { PHP_VERSION = "7.2" }
+
+
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*.cloudfront.net/*"
