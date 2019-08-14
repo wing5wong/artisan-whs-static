@@ -1,6 +1,6 @@
 ---
 title: 'Rowing: Whanganui Winter Series'
-date: 2019-08-14T23:50:34.354Z
+date: 2019-08-12T23:50:34.354Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565826850/News/Winter_Series.Chronicle_13.8.19.jpg
 description: 'Rowing: Whanganui Winter Series'
