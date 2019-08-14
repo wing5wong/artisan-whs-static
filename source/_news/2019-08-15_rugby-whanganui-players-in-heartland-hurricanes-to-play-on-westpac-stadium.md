@@ -1,6 +1,6 @@
 ---
 title: 'Rugby: Whanganui players in Heartland Hurricanes to play on Westpac Stadium'
-date: 2019-08-14T23:43:29.952Z
+date: 2019-08-12T23:43:29.952Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565826427/News/Heartland_Hurricanes_Chron_13.8.19.jpg
 description: 'Rugby: Whanganui players in Heartland Hurricanes to play on Westpac Stadium.'
