@@ -1,15 +1,14 @@
 ---
-title: "Well done Richie Dibben!"
-date: 2018-12-26
-description: "Well done Richie Dibben winning both the Super Motard races on Boxing Day, his first racing of the series..."
-image: /uploads/5c35c990ff2a7c185300042d/Richie-Dibben-26-dec-from-cem-circuit-facebook.PNG
-excerpt: "Well done Richie Dibben winning both the Super Motard races on Boxing Day, his first racing of the series."
-image_gallery:
-    
-    
-    
-    
-    
+title: Well done Richie Dibben!
+date: 2018-12-26T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1565743751/Dibben-chron-26-dec.jpg
+description: >-
+  Well done Richie Dibben winning both the Super Motard races on Boxing Day, his
+  first racing of the series...
+short: >-
+  Well done Richie Dibben winning both the Super Motard races on Boxing Day, his
+  first racing of the series...
 ---
 
 <p><strong>Well done Richie Dibben winning both the Super Motard races on Boxing Day, his first racing of the series!</strong></p>
