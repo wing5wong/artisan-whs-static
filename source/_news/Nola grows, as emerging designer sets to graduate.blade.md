@@ -1,14 +1,14 @@
 ---
-title: "â€˜Nolaâ€™ grows, as emerging designer sets to graduate"
-date: 2019-01-31
-description: "Well on her way as an emerging designer, 2018 was a big year for ex WHS student Paige MacDonald..."
-featured-image: 
-excerpt: "Well on her way as an emerging designer, 2018 was a big year for ex WHS student Paige MacDonald."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+title: '''Nola'' grows, as emerging designer sets to graduate'
+date: 2019-01-31T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1565745556/Paige-McDonald-fashion-RCP-31.1.19.jpg
+description: >-
+  Well on her way as an emerging designer, 2018 was a big year for ex WHS
+  student Paige MacDonald...
+short: >-
+  Well on her way as an emerging designer, 2018 was a big year for ex WHS
+  student Paige MacDonald..
 ---
 
 <div id="id_5c63456e92bbf6a81242575" class="text_exposed_root text_exposed" style="display: inline; font-family: inherit;">Well on her way as an emerging designer, 2018 was a big year for former WHS student&nbsp;<strong>Paige MacDonald</strong>, Ngati Kahungungu, a UCOL Bachelor of Design and Arts - Level 7 - Whanganui student, who combined study, growing her own label &lsquo;Nola&rsquo; and going to New Zealand Fashion Week.</div>
