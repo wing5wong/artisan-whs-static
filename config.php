@@ -121,7 +121,6 @@ return [
             return $courses->where('subject_area', $subject->title)
                             ->where('year', $level);
         })
-        ->collapse()
         ->sortBy('name');
     },
 

@@ -82,7 +82,7 @@ $levels = [
                 @endforeach
                 <hr>
                 <div class="list-group checker">
-                    @foreach($page->getFacultyCoursesForLevel($faculty, $subject_areas, $level) as $course)
+                    @foreach($page->getFacultyCoursesForLevel($faculty['faculty'], $subject_areas, $level) as $course)
                     <a class="list-group-item list-group-item-action"
                         href="{{$course->getPath()}}">{{ $course->name }}</a>
                     @endforeach()
