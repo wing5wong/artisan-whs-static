@@ -137,10 +137,10 @@ return [
                         ->sortBy('name');
         },
 
-    'getStaffMemberPositionsForDepartment' => function($page,$member,$department) {
+    'getStaffMemberPositionsForDepartment' => function($page,$member,$departmentName) {
         return  collect($member->positions ?? [])
-                ->filter(function($p) use ($department){
-                    return $p["department"] == $department->title;
+                ->filter(function($p) use ($departmentName){
+                    return $p["department"] == $departmentName;
                 });
     },
 

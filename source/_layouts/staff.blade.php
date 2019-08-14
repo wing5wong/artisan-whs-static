@@ -51,7 +51,7 @@
                                     <strong>{{ $member->title }}</strong>
                                 </td>
                                 <td>
-                                        @foreach($page->getStaffMemberPositionsForDepartment($member,$dept) as $position)
+                                        @foreach($page->getStaffMemberPositionsForDepartment($member, $dept->title) as $position)
                                         <strong>{{ $position["title"] }}</strong>
                                             @if(!$loop->last), @endif
                                         @endforeach
@@ -64,7 +64,7 @@
                                     <strong>{{ $member->title }}</strong>
                                 </td>
                                 <td>
-                                    @foreach($page->getStaffMemberPositionsForDepartment($member,$dept) as $position)
+                                    @foreach($page->getStaffMemberPositionsForDepartment($member, $dept->title) as $position)
                                     <strong>{{ $position["title"] }}</strong>
                                         @if(!$loop->last), @endif
                                     @endforeach
@@ -77,7 +77,7 @@
                                     {{ $member->title }}
                                 </td>
                                 <td>
-                                    @foreach($page->getStaffMemberPositionsForDepartment($member,$dept) as $position)
+                                    @foreach($page->getStaffMemberPositionsForDepartment($member, $dept->title) as $position)
                                         {{ $position["title"] }}
                                     @if(!$loop->last), @endif
 
