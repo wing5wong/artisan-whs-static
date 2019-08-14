@@ -117,14 +117,14 @@ return [
 
     'getFacultyCoursesForLevel' => function($page, $faculty, $subject_areas, $courses, $level) {
         return $subject_areas->where('faculty', $faculty->title)
-        ->map(function($subject) use ($courses, $level){
-            return $courses->where('subject_area', $subject->title)
-                            ->where('year', $level);
-        })->collapse()
-        ->sortBy('name');
+            ->flatMap(function($subject) use ($courses, $level){
+                return $courses->where('subject_area', $subject->title)
+                                ->where('year', $level);
+            })
+            ->sortBy('name');
     },
 
-    // we want faculty courses per level - merge all the subject area courses and then sort
+
     'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
         return $courses ->where('subject_area', $subject_area->title)
                         ->where('year', $level)
