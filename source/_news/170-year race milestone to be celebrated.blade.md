@@ -1,7 +1,8 @@
 ---
 title: 170-year race milestone to be celebrated
 date: 2018-12-01T00:00:00.000Z
-image: ''
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1565744522/Kerry-Ranginui-1-dec.jpg
 description: >-
   Kerry Ranginui is the celebrity judge for today's fashion stakes at the
   Wanganui Jockey Club Races.
