@@ -41,8 +41,12 @@
         @foreach($category as $entry)
         <tr>
             <td>{{ date('Y',$entry->date) }}</td>
-            <td>{{ $entry->person1_name }}</td>
-            <td>{{ $entry->person2_name }}</td>
+            <td>
+                @if($entry->person1_image)<a href="{{ $entry->person1_image }}" title="View image of {{$person1_name}}">{{ $entry->person1_name }}</a>@else{{ $entry->person1_name }}@endif
+            </td>
+            <td>
+                @if($entry->person2_image)<a href="{{ $entry->person2_image }}" title="View image of {{$person2_name}}">{{ $entry->person2_name }}</a>@else{{ $entry->person2_name }}@endif
+            </td>
         </tr>
         @endforeach
     </tbody>
