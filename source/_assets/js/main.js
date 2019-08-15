@@ -77,7 +77,7 @@ function wrap(el, wrapper) {
 }
 
 document.querySelectorAll('main img:not(.featured-image)').forEach(function(node){
-    wrapper = document.createElement('a');
+    let wrapper = document.createElement('a');
     if(node.getAttribute('title')){
         wrapper.setAttribute('title', node.getAttribute('title'))
     }
