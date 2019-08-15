@@ -126,9 +126,10 @@ return [
             ->flatMap(function($subject) use ($courses, $level){
                 return $courses->where('subject_area', $subject->title)
                                 ->where('year', $level)
-                                ->concat(
-                                    $courses->where('course_level', "All Year Levels");
-                                );
+                                ->concat( function() use ($courses, $subject){
+                                    return $courses->where('subject_area', $subject->title)
+                                    ->where('course_level', "All Year Levels");
+                                });
             })
             ->sortBy('name');
     },
