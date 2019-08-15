@@ -86,8 +86,6 @@ document.querySelectorAll('main img:not(.featured-image)').forEach(function(node
     wrap(node, wrapper)
 });
 
-
-$(document).ready(function () {
 var mySwiper = new Swiper ('.swiper-container', {
     // Optional parameters
     direction: 'horizontal',
@@ -98,5 +96,4 @@ var mySwiper = new Swiper ('.swiper-container', {
     nextEl: '.swiper-button-next',
     prevEl: '.swiper-button-prev',
     },
-    })
-});
+})
