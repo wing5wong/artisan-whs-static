@@ -1,4 +1,5 @@
 import './html5shiv'
+require('jquery')
 require('bootstrap')
 import './swiper'
 
