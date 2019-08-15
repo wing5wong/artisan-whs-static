@@ -45,5 +45,5 @@ Meanwhile, Suzuki Series promoter Allan "Flea" Willacy said organisation of the 
 
 "At this stage we will have 10 or more international riders in the series from England, Isle of Man, France and Australia - it's going to be another exciting series," Willacy said.
 
-_By Iain Hyndman_\
+_By Iain Hyndman_  
 _Whanganui Chronicle 15/8/19_
