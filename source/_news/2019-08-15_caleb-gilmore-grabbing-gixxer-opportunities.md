@@ -17,9 +17,9 @@ short: >-
   Gixxer Cup series is offering and will step on to the international stage in
   Europe with a one-off ride for New Tech Kawasaki in the IDM Cup.
 ---
-Whanganui teenager Caleb Gilmore is grabbing all opportunities thrown at him since launching his motorcycle racing career proper in the Suzuki Series Gixxer Cup class in October last year.
-
 ##### The 15-year-old Whanganui High School Year 11 student has earned a one-off deal to race in a leg of the IDM Cup series in Europe for the world famous Cal Cox Motorsport Team.
+
+Whanganui teenager Caleb Gilmore is grabbing all opportunities thrown at him since launching his motorcycle racing career proper in the Suzuki Series Gixxer Cup class in October last year.
 
 Gilmore has ridden motorcycles since age 4 and competed in motocross most of his young life. However the real deal of road and track racing began with the Gixxer Cup last season that ended earlier this year with a sixth placing despite missing two South Island rounds and the Cemetery Circuit Suzuki Series leg in Whanganui on Boxing Day because of street racing age restrictions.
 
@@ -45,5 +45,5 @@ Meanwhile, Suzuki Series promoter Allan "Flea" Willacy said organisation of the 
 
 "At this stage we will have 10 or more international riders in the series from England, Isle of Man, France and Australia - it's going to be another exciting series," Willacy said.
 
-_By Iain Hyndman_  
+_By Iain Hyndman_\
 _Whanganui Chronicle 15/8/19_
