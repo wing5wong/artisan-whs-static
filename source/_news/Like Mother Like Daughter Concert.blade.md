@@ -1,14 +1,14 @@
 ---
-title: "â€˜Like Mother Like Daughterâ€™ Concert"
-date: 2018-09-27
-description: "Win Livesay & her daughter, Abigail & Ingrid Culliford & her daughter, Elena Morgan, have a lot in common..."
-featured-image: 
-excerpt: "Ingrid Culliford and her daughter, Elena Morgan and Win Livesay and her daughter, Abigail, have a lot in common and will show it when performing in a concert."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+title: Like Mother Like Daughter Concert
+date: 2018-09-27T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1565844111/Abigail_Livesay_Jane_Winstone_RCP.jpg
+description: >-
+  Win Livesay & her daughter, Abigail & Ingrid Culliford & her daughter, Elena
+  Morgan, have a lot in common...
+short: >-
+  Win Livesay & her daughter, Abigail & Ingrid Culliford & her daughter, Elena
+  Morgan, have a lot in common...
 ---
 
 <p><span><em>Photo:</em> Win with her daughter Abigail.</span></p>
