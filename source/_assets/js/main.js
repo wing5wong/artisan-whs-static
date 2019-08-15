@@ -2,7 +2,7 @@ import './html5shiv'
 
 var $ = require('jquery');
 var bootstrap = require('bootstrap');
-import "swiper/dist/js/swiper.js";
+import Swiper from "swiper";
 
 const clickMe = document.querySelector('.test-js');
 
@@ -76,18 +76,8 @@ function wrap(el, wrapper) {
     wrapper.appendChild(el);
 }
 
-document.querySelectorAll('main img:not(.featured-image)').forEach(function(node){
-    let wrapper = document.createElement('a');
-    if(node.getAttribute('title')){
-        wrapper.setAttribute('title', node.getAttribute('title'))
-    }
-    wrapper.setAttribute('href', node.getAttribute('src'))
-    addClass(wrapper, 'featured')
-    wrap(node, wrapper)
-});
-
-
 window.addEventListener('DOMContentLoaded', function() {
+
     var mySwiper = new Swiper ('.swiper-container', {
         // Optional parameters
         direction: 'horizontal',
@@ -99,4 +89,14 @@ window.addEventListener('DOMContentLoaded', function() {
         prevEl: '.swiper-button-prev',
         },
     })
+
+    document.querySelectorAll('main img:not(.featured-image)').forEach(function(node){
+        let wrapper = document.createElement('a');
+        if(node.getAttribute('title')){
+            wrapper.setAttribute('title', node.getAttribute('title'))
+        }
+        wrapper.setAttribute('href', node.getAttribute('src'))
+        addClass(wrapper, 'featured')
+        wrap(node, wrapper)
+    });
   });
