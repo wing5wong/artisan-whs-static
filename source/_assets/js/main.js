@@ -1,4 +1,6 @@
 require('./html5shiv')
+require('./jquery.slim')
+require('./bootstrap')
 require('./swiper')
 
 const clickMe = document.querySelector('.test-js');
