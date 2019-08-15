@@ -3,6 +3,7 @@ title: Whanganui High School choir ready for Cadenza
 date: 2019-08-13T23:58:25.124Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565830831/News/IMG_6623.H400..jpg
+image_credit: Supplied
 description: Whanganui High School choir ready for Cadenza.
 short: Whanganui High School choir ready for Cadenza.
 ---
@@ -10,7 +11,7 @@ The Big Sing is New Zealand’s largest choral event and has been run by the New
 
 Some 250 secondary school choirs, about 10,000 singers, entered regional competitions in 10 centres, with the top 24 choirs selected for the National Finale and a further 36 choirs for Cadenza.
 
-TSB Cadenza is new and takes place over two days in three centres, blending a formal, adjudicated competition with combined workshops and culminating in a concert. Whanganui hosts the qualifying Lower North Island choirs. The AwaSide Choir from Whanganui High School, directed by Roz Armstrong, has been selected and 11 other choirs will come from Palmerston North, East Coast, Wellington, Kāpiti and New Plymouth. The choirs’ pieces are wide-ranging in style, from jazz, gospel and pop through to folk and classical music. **At the gala concert on Tuesday night, August 20, 7pm, at The Royal Wanganui Opera House**, each choir will showcase an item from their Cadenza repertoire and a massed choir of more than 330 voices will perform at the end.
+TSB Cadenza is new and takes place over two days in three centres, blending a formal, adjudicated competition with combined workshops and culminating in a concert. Whanganui hosts the qualifying Lower North Island choirs. The AwaSide Choir from Whanganui High School, directed by Roz Armstrong, has been selected and 11 other choirs will come from Palmerston North, East Coast, Wellington, Kāpiti and New Plymouth. The choirs’ pieces are wide-ranging in style, from jazz, gospel and pop through to folk and classical music. **At the Gala Concert on Tuesday night, 20 August, 7pm, at The Royal Wanganui Opera House**, each choir will showcase an item from their Cadenza repertoire and a massed choir of more than 330 voices will perform at the end.
 
 AwaSide comprises about 32 Whanganui High School choristers.
 
