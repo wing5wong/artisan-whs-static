@@ -11,7 +11,6 @@ short: >-
   Veandercross...
 ---
 <p>Whanganui High School teacher Chris Turner and his cheeky champion Veandercross.<br /><br /><br /></p>
-<p><img 
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1565744898/Chris_Turner_Veandercross_Chron_26_nov_text.png)
 
