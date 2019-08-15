@@ -91,7 +91,6 @@ window.addEventListener('DOMContentLoaded', function() {
     })
 
     document.querySelectorAll('main img:not(.featured-image)').forEach(function(node){
-        console.table(node);
         let wrapper = document.createElement('a');
         if(node.getAttribute('title')){
             wrapper.setAttribute('title', node.getAttribute('title'))
