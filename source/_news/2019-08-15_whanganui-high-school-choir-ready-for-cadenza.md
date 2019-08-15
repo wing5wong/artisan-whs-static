@@ -6,6 +6,9 @@ image: >-
 image_credit: Supplied
 description: Whanganui High School choir ready for Cadenza.
 short: Whanganui High School choir ready for Cadenza.
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1565838719/News/The_big_sing_opera_house_poster.jpg
 ---
 The Big Sing is New Zealand’s largest choral event and has been run by the New Zealand Choral Federation for more than 25 years.
 
