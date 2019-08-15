@@ -71,7 +71,7 @@ for (var i = 0; i < tables.length; ++i) {
 // var wrapper = document.createElement('a');
 // wrapAll(nodes, wrapper)
 
-function wrap(el) {
+function wrap(el, wrapper) {
     el.parentNode.insertBefore(wrapper, el);
     wrapper.appendChild(el);
 }
