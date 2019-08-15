@@ -2,7 +2,7 @@ import './html5shiv'
 
 var $ = require('jquery');
 var bootstrap = require('bootstrap');
-var Swiper = require('swiper');
+import "swiper";
 
 const clickMe = document.querySelector('.test-js');
 
