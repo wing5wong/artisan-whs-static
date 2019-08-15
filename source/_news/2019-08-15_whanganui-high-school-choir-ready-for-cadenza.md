@@ -2,7 +2,7 @@
 title: Whanganui High School choir ready for Cadenza
 date: 2019-08-13T23:58:25.124Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1565827409/News/Cadenza.WHS_AwaSide.Midweek_14.8.19.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1565830831/News/IMG_6623.H400..jpg
 description: Whanganui High School choir ready for Cadenza.
 short: Whanganui High School choir ready for Cadenza.
 ---
