@@ -1,7 +1,6 @@
-require('./html5shiv')
-require('./jquery')
-require('./bootstrap')
-require('./swiper')
+import './html5shiv'
+require('bootstrap')
+import './swiper'
 
 const clickMe = document.querySelector('.test-js');
 
