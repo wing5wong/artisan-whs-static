@@ -26,5 +26,5 @@ After teaming with her mother Philippa Baker-Hogan to win the July race, Grace H
 
 The next race of the series will be on September 8.
 
-_By Jared Smith_\
+_By Jared Smith_  
 _Whanganui Chronicle 13/8/19_
