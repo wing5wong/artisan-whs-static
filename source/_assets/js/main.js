@@ -2,7 +2,7 @@ import './html5shiv'
 
 var $ = require('jquery');
 var bootstrap = require('bootstrap');
-import "swiper";
+import Swiper from "swiper";
 
 const clickMe = document.querySelector('.test-js');
 
@@ -86,14 +86,17 @@ document.querySelectorAll('main img:not(.featured-image)').forEach(function(node
     wrap(node, wrapper)
 });
 
-var mySwiper = new Swiper ('.swiper-container', {
-    // Optional parameters
-    direction: 'horizontal',
-    loop: true,
-    autoplay: true,
-    effect: 'fade',
-    navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
-    },
-})
+
+window.addEventListener('DOMContentLoaded', function() {
+    var mySwiper = new Swiper ('.swiper-container', {
+        // Optional parameters
+        direction: 'horizontal',
+        loop: true,
+        autoplay: true,
+        effect: 'fade',
+        navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+        },
+    })
+  });
