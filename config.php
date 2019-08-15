@@ -125,15 +125,21 @@ return [
         return $subject_areas->where('faculty', $faculty->title)
             ->flatMap(function($subject) use ($courses, $level){
                 return $courses->where('subject_area', $subject->title)
-                                ->where('year', $level);
+                                ->where('year', $level)
+                                ->concat(
+                                    $courses->where('course_level', "All Year Levels");
+                                );
             })
             ->sortBy('name');
     },
 
 
     'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
-        return $courses ->where('subject_area', $subject_area->title)
+        return $courses->where('subject_area', $subject_area->title)
                         ->where('year', $level)
+                        ->concat(
+                            $courses->where('course_level', "All Year Levels");
+                        )
                         ->sortBy('name');
         },
 
