@@ -1,5 +1,5 @@
 require('./html5shiv')
-require('./jquery.slim')
+require('./jquery')
 require('./bootstrap')
 require('./swiper')
 
@@ -86,7 +86,7 @@ document.querySelectorAll('main img:not(.featured-image)').forEach(function(node
 });
 
 
-
+$(document).ready(function () {
 var mySwiper = new Swiper ('.swiper-container', {
     // Optional parameters
     direction: 'horizontal',
@@ -98,3 +98,4 @@ var mySwiper = new Swiper ('.swiper-container', {
     prevEl: '.swiper-button-prev',
     },
     })
+});
