@@ -327,8 +327,8 @@ collections:
         required: false
       - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayField: ["title"]}
-      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayField: ["title"]}
+      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
       - label: "Vocational Pathways"
         name: "vocational_pathways"
         widget: "select"
@@ -355,7 +355,7 @@ collections:
       - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: "Faculty", name: faculty, required: true, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayField: ["title"]}
+      - {label: "Faculty", name: faculty, required: true, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
       - {label: "Body", name: "body", widget: "markdown", required: false}
 
 
@@ -373,7 +373,7 @@ collections:
     - {label: "Name", name: "name", widget: "string"}
     - {label: "Code", name: "code", widget: "string"}
 
-    - {label: "Subject Area", name: "subject_area", required: true, widget: "relation", collection: "subject_areas", searchFields: ["title"], valueField: "title", displayField: ["title", "faculty"]}
+    - {label: "Subject Area", name: "subject_area", required: true, widget: "relation", collection: "subject_areas", searchFields: ["title"], valueField: "title", displayFields: ["title", "faculty"]}
 
     - {label: "Date", name: "date", widget: "date"}
 
@@ -382,7 +382,7 @@ collections:
     - { label: "Course Duration", name: course_duration, widget: select, options: ["One Term", "Half Year","Full Year", "5 Week Introduction Plus 20 Week Course If Selected"]}
     - { label: "Course Level", name: course_level, widget: select, options: ["Year 9","Year 10","NCEA 1","NCEA 2", "NCEA 3", "NCEA 1 and 2","NCEA 2 and 3","NCEA 1,2 and 3","All Year Levels"]}
     - { label: "Assessment Type", name: assessment_type, widget: select, options: ["Achievement Standard","Unit Standard","Achievement and Unit Standard","Achievement Standard and Scholdarship","Achievement Standard and Cambridge as Examination","Compulsory", "Optional"], required: false}
-    - {label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayField: ["code", "title"]}
+    - {label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayFields:: ["code", "name"]}
     
     - {label: "Body", name: "body", widget: "markdown", required: false}
     
@@ -396,7 +396,7 @@ collections:
     - { label: "Endorsement", name: "endorsement", widget: "boolean", required: false, default: false}
     
     - {label: "Notes", name: "notes", widget: "text", required: false}
-    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments", searchFields: ["title"], valueField: "title", displayField: ["title"]}
+    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
 
   - name: "assessments"
     label: "NCEA Standards"
@@ -406,7 +406,7 @@ collections:
 
     fields:
     - {label: "Title", name: "title", widget: "string"}
-    - {label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayField: ["title"]}
+    - {label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
     - {label: "Description", name: "description", widget: "text"}
     - {label: "URL", name: "pdf", widget: "string"}
     - {label: "Level", name: "level", widget: "string"}
@@ -455,7 +455,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Date", name: "date", widget: "date"}
     - {label: "Body", name: "body", widget: "markdown"}
-    - {label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayField: ["title"]}
+    - {label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
     - label: "Feature Image"
       name: "image"
       widget: "image"
@@ -588,7 +588,7 @@ collections:
         multiple: true
         fields: 
           - { name: "title", label: "Title", widget: "string" }
-          - { label: "Department", name: department, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayField: ["title"]}
+          - { label: "Department", name: department, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
 
             
   
