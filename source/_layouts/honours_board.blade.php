@@ -37,7 +37,7 @@ $awardHeadingingLookup = [
 
 @endphp
 
-@foreach ($honours->groupBy('award')->sortBy('date') as $category)
+@foreach ($honours->groupBy('award')->sortBy('date') as $award => $category)
 <details>
     <summary>
 <h2 class="d-table decorated mt-5 mb-2">{{$category->first()->award}}</h2>
@@ -45,9 +45,9 @@ $awardHeadingingLookup = [
 <table class="table table-striped table-borderless table-hover">
     <thead>
         <th>Year</th>
-        <th>{{$awardHeadingingLookup[$category][0]}}</th>
+        <th>{{$awardHeadingingLookup[$award][0]}}</th>
         
-        @if($category !== "Maori Student Dux")<th>{{$awardHeadingingLookup[$category][1]}}</th>@endif
+        @if($award !== "Maori Student Dux")<th>{{$awardHeadingingLookup[$award][1]}}</th>@endif
     </thead>
     <tbody>
         @foreach($category as $entry)
@@ -56,7 +56,7 @@ $awardHeadingingLookup = [
             <td>
                 @if($entry->person1_image)<a href="{{ $entry->person1_image }}" title="View image of {{$person1_name}}">{{ $entry->person1_name }}</a>@else{{ $entry->person1_name }}@endif
             </td>
-            @if($category !== "Maori Student Dux")
+            @if($award !== "Maori Student Dux")
             <td>
                 @if($entry->person2_image)<a href="{{ $entry->person2_image }}" title="View image of {{$person2_name}}">{{ $entry->person2_name }}</a>@else{{ $entry->person2_name }}@endif
             </td>
