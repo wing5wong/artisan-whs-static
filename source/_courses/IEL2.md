@@ -15,6 +15,6 @@ leads_to:
 credits: 20+
 entry_requirements: ESOL students who need to develop English skills and HOF/TIC approval.
 course_fees: Included in International Student Fee
-notes: ''
+notes: 'This course is available to students of all year levels with English as a second language.'
 ---
 To develop the English skills of English as a Second Language students with emphasis on straightforward reading and writing. English Language (EL) standards.

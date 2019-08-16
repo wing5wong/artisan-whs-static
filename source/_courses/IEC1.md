@@ -15,6 +15,6 @@ leads_to:
 credits: 20+
 entry_requirements: ''
 course_fees: Included in International Student Fee
-notes: ''
+notes: 'This course is available to students of all year levels with English as a second language.'
 ---
 To help English as a Second Language students to communicate in simple English. The course involves listening to others and responding confidently in spoken and written forms. English Language standards.

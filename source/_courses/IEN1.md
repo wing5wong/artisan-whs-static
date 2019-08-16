@@ -14,6 +14,6 @@ leads_to:
 credits: 10+
 entry_requirements: ''
 course_fees: Included in International Student fee
-notes: ''
+notes: 'This course is available to students of all year levels with English as a second language.'
 ---
 To assist English as a Second Language students to further develop their English skills to attain Level One English standards, and/or to achieve Level Three English Language (previously ESOL) standards in reading and writing.
