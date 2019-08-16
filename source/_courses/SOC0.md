@@ -15,6 +15,7 @@ leads_to:
   - ECO1
   - GEO1S
   - CLS1
+  - TOU2
 credits: ''
 entry_requirements: Completion of SOCE (Year 9) Social Science Course.
 course_fees: 

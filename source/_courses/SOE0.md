@@ -16,6 +16,7 @@ leads_to:
   - HIS1
   - PSY2
   - CLS2
+  - TOU2
 credits: ''
 entry_requirements: >-
   Completion of SOCE (Year 9) Social Science Course. Students will be selected
