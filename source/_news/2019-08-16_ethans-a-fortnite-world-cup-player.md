@@ -29,4 +29,4 @@ The Fortnite World Cup was held in New York between 26 - 28 July at Arthur Ashe 
 
 There were 100 solo players and 50 duos competing for a prize pool of 30 million dollars. 
 
-1st place in the solo division was $3 million dollars USD with each player guaranteed $50,000 USD!!  Ethan got 83rd. 
+1st place in the solo division was $3 million dollars USD with each player guaranteed $50,000 USD!! Ethan got 83rd! 
