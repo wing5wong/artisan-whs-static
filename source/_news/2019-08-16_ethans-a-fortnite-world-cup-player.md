@@ -25,7 +25,7 @@ Between April and June they had 10 weekly qualifying rounds alternating between 
 
 Ethan (under the player name ‘Link’) qualified on week 5 Sunday 12 May in the solo competition. 
 
-The Fortnite World Cup was held in New York 26 - 28 July at Arthur Ashe stadium. 
+The Fortnite World Cup was held in New York between 26 - 28 July at Arthur Ashe stadium. 
 
 There were 100 solo players and 50 duos competing for a prize pool of 30 million dollars. 
 
