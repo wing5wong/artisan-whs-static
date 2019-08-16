@@ -1,6 +1,6 @@
 ---
 title: 2013 Dux Artium
-date: 2019-08-15T21:49:22.497Z
+date: 2013-11-30T20:49:22.497Z
 award: Dux Artium
 person1_name: Joel Rudolph
 person1_image: >-
