@@ -24,7 +24,7 @@ $levels = [
 
     @foreach($levels as $level=>$levelTitle)
     <li class="nav-item">
-        <a class="nav-link active" id="year-{{$level}}-tab" data-toggle="tab" href="#year-{{$level}}" role="tab"
+        <a class="nav-link @if($loop->first) active @endif" id="year-{{$level}}-tab" data-toggle="tab" href="#year-{{$level}}" role="tab"
             aria-controls="year-{{$level}}" @if($loop->first)aria-selected="true"@endif>{{ $levelTitle }}</a>
     </li>
     @endforeach
