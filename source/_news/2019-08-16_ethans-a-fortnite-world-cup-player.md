@@ -1,5 +1,5 @@
 ---
-title: Ethan's a Fortnite World Cup player
+title: Ethan Joines - Fortnite World Cup player!
 date: 2019-08-15T23:58:42.934Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565914358/News/crop.jpg
@@ -21,7 +21,7 @@ image_gallery:
 ---
 ## Ethan Joines - Fortnite World Cup player!
 
-Ethan's love of the game Fortnight took him to New York recently where he qualified to play in the Fortnite World Cup!
+#### Ethan's love of the game Fortnight took him to New York recently where he qualified to play in the Fortnite World Cup!
 
 Between April and June they had 10 weekly qualifying rounds alternating between solo and duo competitions. 
 
