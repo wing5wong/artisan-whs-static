@@ -32,7 +32,7 @@ $levels = [
 <div class="tab-content" id="myTabContent">
 
     @foreach($levels as $level=>$levelTitle)
-    <div class="tab-pane fade show @if($loop->first()) active @endif" id="year-{{$level}}" role="tabpanel" aria-labelledby="year-{{$level}}-tab">
+    <div class="tab-pane fade show @if($loop->first) active @endif" id="year-{{$level}}" role="tabpanel" aria-labelledby="year-{{$level}}-tab">
 
         @php
         $mapped = $page->getTeachingFaculties($faculties)
