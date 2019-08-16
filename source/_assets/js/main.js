@@ -1,6 +1,5 @@
 import './html5shiv'
 
-var $ = require('jquery');
 import 'bootstrap';
 import Swiper from "swiper";
 
