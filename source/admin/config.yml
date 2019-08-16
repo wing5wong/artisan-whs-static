@@ -348,6 +348,7 @@ collections:
     folder: "source/_subject_areas"
     create: true
     slug: "{{slug}}"
+    summary: "{{title}} | {{faculty}}"
     
     fields:
       - {label: "Title", name: "title", widget: "string"}
