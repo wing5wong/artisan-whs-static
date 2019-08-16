@@ -1,8 +1,8 @@
 ---
 title: SOC0
-name: Social Studies General
+name: Social Studies
 code: SOC0
-subject_area: Social Studies (General)
+subject_area: Social Studies
 date: 2019-07-29T02:43:12.682Z
 year: '10'
 type: Compulsory - Unless selected for SOE0 (Extension)
@@ -18,7 +18,6 @@ leads_to:
   - TOU2
 credits: ''
 entry_requirements: Completion of SOCE (Year 9) Social Science Course.
-course_fees: 
 notes: ''
 ---
 **Purpose:**
