@@ -79,7 +79,7 @@
         <tr>
             <td colspan='4'><strong>Leads To:</strong> <br>
                 @foreach($courses->whereIn('code', $page->leads_to) as $leads)
-                <a href="{{$leads->getPath()}}">{{ $leads->name }} ({{$leads->level}})</a>@if(!$loop->last), @endif
+                <a href="{{$leads->getPath()}}">{{ $leads->name }} ({{$leads->course_level}})</a>@if(!$loop->last), @endif
                 @endforeach
             </td>
         </tr>
