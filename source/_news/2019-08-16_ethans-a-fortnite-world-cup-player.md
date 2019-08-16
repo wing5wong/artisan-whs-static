@@ -23,10 +23,10 @@ image_gallery:
 
 Between April and June they had 10 weekly qualifying rounds alternating between solo and duo competitions. 
 
-Ethan (under the player name ‘Link’) qualified on week 5 Sunday the 12th May in the solo competition. 
+Ethan (under the player name ‘Link’) qualified on week 5 Sunday 12 May in the solo competition. 
 
-The Fortnite World Cup was held in New York on 26th - 28th July at Arthur Ashe stadium. 
+The Fortnite World Cup was held in New York 26 - 28 July at Arthur Ashe stadium. 
 
 There were 100 solo players and 50 duos competing for a prize pool of 30 million dollars. 
 
-1st place in the solo division was $3 million dollars USD with each player guaranteed $50,000 USD. Ethan got 83rd. 
+1st place in the solo division was $3 million dollars USD with each player guaranteed $50,000 USD!!  Ethan got 83rd. 
