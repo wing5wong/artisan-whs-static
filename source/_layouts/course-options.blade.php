@@ -25,14 +25,14 @@ $levels = [
     @foreach($levels as $level=>$levelTitle)
     <li class="nav-item">
         <a class="nav-link active" id="year-{{$level}}-tab" data-toggle="tab" href="#year-{{$level}}" role="tab"
-            aria-controls="home" aria-selected="true">{{ $levelTitle }}</a>
+            aria-controls="year-{{$level}}" @if($loop->first)aria-selected="true"@endif>{{ $levelTitle }}</a>
     </li>
     @endforeach
 </ul>
 <div class="tab-content" id="myTabContent">
 
     @foreach($levels as $level=>$levelTitle)
-    <div class="tab-pane fade show @if($loop->first) active @endif" id="year-{{$level}}" role="tabpanel" aria-labelledby="year-{{$level}}-tab">
+    <div class="tab-pane fade @if($loop->first) show active @endif" id="year-{{$level}}" role="tabpanel" aria-labelledby="year-{{$level}}-tab">
 
         @php
         $mapped = $page->getTeachingFaculties($faculties)
