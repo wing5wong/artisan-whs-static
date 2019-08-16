@@ -1,8 +1,8 @@
 ---
 title: SOC3
-name: Social Studies General
+name: Social Studies
 code: SOC3
-subject_area: Social Studies (General)
+subject_area: Social Studies
 date: 2019-07-29T02:47:58.474Z
 year: '13'
 type: Optional
@@ -13,7 +13,6 @@ credits: '20'
 entry_requirements: >-
   12 credits in Level 2 Achievement Standards English or 12 credits Level 2
   achievement standards Social Studies and HOF/TIC approval.
-course_fees: 
 ue_approved: true
 notes: ''
 ---
