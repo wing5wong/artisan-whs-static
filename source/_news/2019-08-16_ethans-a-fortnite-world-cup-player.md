@@ -16,6 +16,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1565914301/News/3DA646D6-CD92-43A9-98F9-E12CEACF2550.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1565914318/News/0C441919-4B6D-4231-A951-08882B7B3A9E.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1565915468/News/fortnite-world-cup.jpg
 ---
 ## Ethan Joines - Fortnite World Cup player!
 
