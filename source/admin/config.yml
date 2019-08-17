@@ -461,7 +461,30 @@ collections:
       widget: "image"
       required: false
 
+  - name: "achievers_lists"
+    label: "Achievers Lists"
+    label_singular: "Achievers List"
+    folder: "source/_achievers_lists"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Filename", name: "file", widget: "file" }
 
+  - name: "prizegiving_booklets"
+    label: "Prizegiving Booklets"
+    label_singular: "Prizegiving Booklet"
+    folder: "source/_prizegiving_booklets"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Filename", name: "file", widget: "file" }
+      
   - name: "honours"
     label: "Honours Board"
     label_singular: "Honours Entry"
@@ -684,4 +707,3 @@ collections:
 #      - {label: "Body", name: "body", widget: "markdown"}
 #      - {label: "Extends", name: "extends", widget: "string"}
 #      - {label: "custom Path", name: "customPath", widget: "string", required: false}
-
