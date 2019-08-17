@@ -54,16 +54,8 @@ $levels = [
                 </h3>
 
 
-                @if($page->yearLevelOffersVocationalPathways($level) and count($faculty['faculty']->vocational_pathways
-                ?? []))
-                <ul class="list-inline">
-                    @foreach($faculty['faculty']->vocational_pathways as $vp)
-                    <li class="list-inline-item">
-                        <a href="{{ $page['vp'][$vp]['url']}}" class="text-white px-2 py-1 badge badge-vp-{{$vp}}"
-                            title="{{ $page['vp'][$vp]['name']}}" target="_BLANK">{{$page['vp'][$vp]['code']}}</a>
-                    </li>
-                    @endforeach
-                </ul>
+                @if($page->yearLevelOffersVocationalPathways($level))
+                @include('_partials.vocational-pathways.list', ['pathways' => $faculty['faculty']->vocational_pathways])
                 @endif
 
 

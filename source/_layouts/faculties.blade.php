@@ -24,19 +24,10 @@
 
 <div class="row">
     
-    @if(count($faculty->vocational_pathways ?? []))
-    <div class="col-12">
-        <ul class="list-inline">
-        @foreach($faculty->vocational_pathways as $vp)
-        <li class="list-inline-item">
-                <a href="{{ $page['vp'][$vp]['url']}}" class="text-white px-2 py-1 badge badge-vp-{{$vp}}" title="{{ $page['vp'][$vp]['name']}}"
-                target="_BLANK">{{$page['vp'][$vp]['code']}}</a>
-        </li>
-        @endforeach
-        </ul>
-    </div>
-    @endif
+<div class="col-12">
+    @include('_partials.vocational-pathways.list', ['pathways' => $faculty->vocational_pathways])
 
+    </div>
     @foreach($page->getFacultySubjectAreas($faculty, $subject_areas) as $subject )
     <div class="col col-md-6 col-lg-6">
     <details open class="mt-4">
