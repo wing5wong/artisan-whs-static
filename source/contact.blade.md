@@ -11,6 +11,6 @@ NEW ZEALAND
 
 **Phone:** (+64) 6 349 0178  
 **Fax:** (+64) 6 349 0176  
-**Student Centre / Attendance Phone:** (+64) 6 349 0177 / 021 153 4007  
+**Student Centre / Attendance Phone:** (+64) 6 349 0177  
 **Email:** office@whanganuihigh.school.nz  
 **Attendance Email:** attendance@whs.ac.nz
