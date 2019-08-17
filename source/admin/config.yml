@@ -473,6 +473,20 @@ collections:
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Filename", name: "file", widget: "file" }
 
+  - name: "testimonials"
+    label: "Testimonials"
+    label_singular: "Testimonial"
+    folder: "source/_testimonials"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Place", name: "place", widget: "string"}
+      - {label: "International", name: "international", widget: boolean}
+      - {label: "Body", name: "body", widget: "markdown" }
+
   - name: "prizegiving_booklets"
     label: "Prizegiving Booklets"
     label_singular: "Prizegiving Booklet"
