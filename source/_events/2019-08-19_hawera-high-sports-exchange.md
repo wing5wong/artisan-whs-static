@@ -14,5 +14,5 @@ Senior A Girls & Boys Basketball
 
 Cost is $20 (if you paid last week this will carry over) 👍
 
-_Lisa Murphy_\
+_Lisa Murphy_  
 _WHS Director of Sport_
