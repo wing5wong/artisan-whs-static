@@ -14,5 +14,5 @@ A great reward for the fantastic and dedicated work that she does!
 
 Let’s get the word out to help Amy win this!!
 
-_Lisa Murphy
+_Lisa Murphy  
 WHS Director of Sport_
