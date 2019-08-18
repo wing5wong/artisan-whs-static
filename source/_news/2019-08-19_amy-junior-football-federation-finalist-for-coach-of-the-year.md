@@ -1,12 +1,12 @@
 ---
-title: Amy - Junior Football Federation Finalist for Coach of the Year!
+title: Amy - Junior Football 2019 Coach of the Year Federation Finalist!
 date: 2019-08-18T21:43:35.239Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566164639/News/Amy-Haughian-nominaton-for-coach-of-year.August-2019.jpg
-description: Amy Haughian - Junior Football Federation Finalist for Coach of the Year
-short: Amy Haughian - Junior Football Federation Finalist for Coach of the Year
+description: Amy Haughian - Junior Football 2019 Coach of the Year Federation Finalist!r
+short: Amy Haughian - Junior Football 2019 Coach of the Year Federation Finalist!
 ---
-Junior Football Coach of the Year Competition.
+Junior Football 2019 Coach of the Year Competition.
 
 Congratulations to Amy Haughian on her Federation Finalist nomination! 
 
