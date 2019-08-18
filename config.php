@@ -245,6 +245,11 @@ return [
         'honours' => [
             'sort' => ['award','-date']
         ],
+        
+        'prizegiving_booklets',
+        'achievers_lists',
+        'testimonials',
+
         'international' => [
             'path' => 'international/{filename}',
             'sort' => '-date',
