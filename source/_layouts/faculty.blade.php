@@ -35,33 +35,11 @@
                 href="{{$course->getPath()}}">{{ $course->name }}</a>
             @endforeach
         </div>
-        
+
         <a href="{{$subject->getPath()}}" class="btn btn-light mb-5">More information</a>
     </div>
     @endforeach
 </div>
-
-
-
-
-
-@foreach($subject_areas->where('faculty', $page->title) as $subject)
-    <details>
-        <summary>
-            <h3 class="d-table">{{ $subject->title }}</h3>
-        </summary>
-        <ul>
-        @foreach( $courses->where('subject_area', $subject->title) as $course)
-        <li>
-            <a href="{{$course->getPath()}}">{{ $course->level }} {{ $course->name }} ({{ $course->course_level }})</a>
-        </li>
-        @endforeach
-        </ul>
-
-        <a href="{{$subject->getPath()}}" class="btn btn-light mb-5">More information</a>
-    </details>
-
-@endforeach
 
 
 @include('_partials.lastReviewed')
