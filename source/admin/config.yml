@@ -461,9 +461,9 @@ collections:
       widget: "image"
       required: false
 
-      
+
   - name: "achievers_lists"
-    label: "Achievers Lists"
+    llabel: "Achievers Lists"
     label_singular: "Achievers List"
     folder: "source/_achievers_lists"
     create: true
@@ -586,6 +586,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs"}
       - {label: "Position", name: "position", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Departments"
         label_singular: "Department"
         name: "departments"
