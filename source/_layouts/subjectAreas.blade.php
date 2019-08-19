@@ -35,9 +35,4 @@
     
     @include('_partials.lastReviewed')
 
-    @if ($page->comments)
-        @include('_partials.comments')
-    @else
-        <p>Comments are not enabled for this post.</p>
-    @endif
 @endsection
