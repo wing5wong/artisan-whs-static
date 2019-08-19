@@ -408,7 +408,7 @@ collections:
     - {label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
     - {label: "Description", name: "description", widget: "text"}
     - {label: "URL", name: "pdf", widget: "string"}
-    - {label: "Level", name: "level", widget: "string"}
+    - {label: "Level", name: "level", widget: "select", options: ["1","2","3"], required: false}
     - {label: "Credits", name: "credits", widget: "number"}
     - {label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"]}
     - { label: "U.E. Lit Reading", name: "ue_lit_reading", widget: "boolean", required: false, default: false}
