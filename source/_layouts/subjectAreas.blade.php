@@ -23,7 +23,7 @@
         <div class="list-group my-4">
             @foreach($courses->where('subject_area', $page->title) as $c)
             <a class="list-group-item list-group-item-action" href="{{$c->getPath()}}">
-                {{ $c->name }} ({{$c->course_level}})
+                {{$c->course_level}} - {{ $c->name }}
             </a>
             @endforeach
         </div>
