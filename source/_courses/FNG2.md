@@ -1,6 +1,6 @@
 ---
 title: FNG2
-name: Food & Nutrition General
+name: Food & Nutrition
 code: FNG2
 subject_area: Food and Nutrition
 date: 2019-08-01T00:17:22.566Z

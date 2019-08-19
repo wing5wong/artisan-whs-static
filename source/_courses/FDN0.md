@@ -1,6 +1,6 @@
 ---
 title: FDN0
-name: Food & Nutrition General
+name: Food & Nutrition
 code: FDN0
 subject_area: Food and Nutrition
 date: 2019-08-01T00:13:56.887Z

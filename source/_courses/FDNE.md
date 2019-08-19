@@ -1,6 +1,6 @@
 ---
 title: FDNE
-name: Food & Nutrition General
+name: Food & Nutrition
 code: FDNE
 subject_area: Food and Nutrition
 date: 2019-08-01T00:15:27.750Z

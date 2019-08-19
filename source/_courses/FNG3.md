@@ -1,6 +1,6 @@
 ---
 title: FNG3
-name: Food & Nutrition General
+name: Food & Nutrition
 code: FNG3
 subject_area: Food and Nutrition
 date: 2019-08-01T00:18:20.666Z
