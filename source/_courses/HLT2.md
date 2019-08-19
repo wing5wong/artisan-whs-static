@@ -16,6 +16,5 @@ entry_requirements: >-
   At least 11 credits achieved at HLT1. Will consider students who have not done
   HLT1 with 12 credits from ENG1. HOF/TIC approval.
 course_fees: $25 workbook
-notes: ''
 ---
 To provide background knowledge and understanding of self-management, communication, problem solving, social and cooperative skills related to health and wellbeing.

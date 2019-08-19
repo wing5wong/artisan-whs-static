@@ -15,7 +15,6 @@ leads_to:
   - MCA2
   - MCS2
 credits: '23'
-entry_requirements: ''
 course_fees: >-
   $10 workbook. (Students are strongly advised to have a Graphics calculator for
   this course).

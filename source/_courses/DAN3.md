@@ -13,6 +13,5 @@ credits: '25'
 entry_requirements: 12 credits in DAN2 and HOF/TIC approval.
 course_fees: $10 for portfolio
 ue_approved: true
-notes: ''
 ---
 This course will offer students the chance to develop a variety of skills in dance forms and choreography, as well as personal and performance skills.

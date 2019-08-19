@@ -23,6 +23,5 @@ entry_requirements: >-
   from performance in SOCE course (Year 9 course).
 course_fees: 
 invitation_only: true
-notes: ''
 ---
 To provide students with knowledge and skills required for future studies in Social Science. To provide students an extension course in Social Sciences as an alternative to SOC0.

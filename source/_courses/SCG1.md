@@ -15,8 +15,6 @@ leads_to:
   - PHY2
   - SCI2
 credits: '20'
-entry_requirements: ''
 course_fees: $28 for Write-On Workbook
-notes: ''
 ---
 To provide a balanced Science programme to include aspects of Biology, Chemistry and Physics: investigations, interpreting information, microorganisms, atoms, acids and bases and rates of reactions, mechanics and energy.

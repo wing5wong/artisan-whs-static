@@ -18,7 +18,6 @@ leads_to:
   - TOU2
 credits: ''
 entry_requirements: Completion of SOCE (Year 9) Social Science Course.
-notes: ''
 ---
 **Purpose:**
 

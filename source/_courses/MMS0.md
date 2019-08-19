@@ -10,9 +10,7 @@ course_duration: Two Terms
 course_level: Year 10
 leads_to: ''
 credits:
-entry_requirements: ''
 course_fees: 
-notes: ''
 ---
 **Purpose:**
 

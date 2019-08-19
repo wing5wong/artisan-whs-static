@@ -15,7 +15,6 @@ leads_to:
 credits: ''
 entry_requirements: Satisfactory completion of SCGE course.
 course_fees: 
-notes: ''
 ---
 **Purpose:**
 

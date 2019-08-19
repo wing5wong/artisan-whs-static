@@ -12,8 +12,6 @@ assessment_type: Unit Standard
 leads_to:
   - FDH2
 credits: '21'
-entry_requirements: ''
 course_fees: $75
-notes: ''
 ---
 This course has been developed for students at Year 11 as an introduction to work in the catering industry. Practical assessment is most important in this course.

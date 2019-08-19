@@ -16,6 +16,5 @@ entry_requirements: >-
   Regular involvement in sport at any level, preferably school team. PED1 an
   advantage. HOF/TIC approval.
 course_fees: $50 for recreational pursuits
-notes: ''
 ---
 A practical based course giving opportunities to acquire knowledge and understanding of fitness and exercise activities. Students will learn about Sports Nutrition, demonstrate a number of exercise techniques in using gym equipment and participate in leisure activities. Assessment is all Internal.

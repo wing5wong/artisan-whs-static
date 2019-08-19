@@ -15,7 +15,6 @@ leads_to:
 credits: ''
 entry_requirements: Successful completion of SCEE course
 course_fees: 
-notes: ''
 ---
 **Purpose:**
 

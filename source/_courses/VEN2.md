@@ -15,6 +15,5 @@ credits: '13'
 entry_requirements: Class size limited. Interview by teacher in charge required.
 course_fees: 
 invitation_only: true
-notes: ''
 ---
 

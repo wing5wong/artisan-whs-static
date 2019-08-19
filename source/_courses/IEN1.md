@@ -12,7 +12,6 @@ assessment_type: Achievement and Unit Standard
 leads_to:
   - IEN2
 credits: 10+
-entry_requirements: ''
 course_fees: Included in International Student fee
 notes: 'This course is available to students of all year levels with English as a second language.'
 ---

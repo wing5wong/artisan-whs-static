@@ -12,8 +12,6 @@ assessment_type: Unit Standard
 leads_to:
   - TCE2
 credits: '24'
-entry_requirements: ''
 course_fees: $70
-notes: ''
 ---
 This course will offer students the opportunity to develop design and practical skills through a variety of projects and engineering projects based on Competenz programme. The course will focus on improving student's design, research and practical skills through common project work. Set in the engineering workshop.

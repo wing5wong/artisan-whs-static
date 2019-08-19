@@ -15,6 +15,5 @@ course_fees: >-
   Own bi-lingual dictionary an advantage. $20 for online vocabulary learning and
   workbooks.
 ue_approved: true
-notes: ''
 ---
 This course encourages students to engage in sustained communication and produce extended texts in Chinese - listening, presenting, interacting, reading and writing in wider contexts (e.g. education, history, technology, environment). Students use language effectively to share personal perspectives, explore and analyse ways in which Chinese language and culture are organised, and critically reflect on texts and cultural norms.

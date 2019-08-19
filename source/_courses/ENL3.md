@@ -15,6 +15,5 @@ entry_requirements: >-
   Students must also have completed Wide Reading Level 2 AS91106
 course_fees: 
 ue_approved: true
-notes: ''
 ---
 To promote an enjoyment of English literature and to provide a foundation for the Scholarship examination, to encourage discussion and thinking and to develop skills in essay writing. Study of literature including poetry, novel and film. This course is literary-based and requires competent essay writing skills.

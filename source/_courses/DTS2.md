@@ -14,7 +14,6 @@ leads_to:
   - DTS3
   - DTA3
 credits: '17'
-entry_requirements: ''
 course_fees: 
 notes: Can lead to future work in the computer infrastructure or programming fields.
 ---

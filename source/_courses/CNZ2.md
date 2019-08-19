@@ -12,6 +12,5 @@ leads_to: ''
 credits: 'No'
 entry_requirements: Only available to International Students. HOF/TIC approval.
 course_fees: Dependent on programme in a particular year
-notes: ''
 ---
 Students will experience a range of educational and physical activities in and out of the school environment.

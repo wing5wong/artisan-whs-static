@@ -13,6 +13,5 @@ credits: '22'
 entry_requirements: 12 credits in FDZ2 or HOF/TIC approval.
 course_fees: $60
 ue_approved: true
-notes: ''
 ---
 To extend students creative and technical skills in many aspects of fashion design. The emphasis is to extend them from Level 2 to become both technically and creatively independent thinkers. Assessment: Practical projects, workbooks, and research projects.

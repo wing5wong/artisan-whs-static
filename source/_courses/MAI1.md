@@ -14,8 +14,6 @@ leads_to:
   - MAI2
   - MAG3
 credits: 20-30
-entry_requirements: ''
 course_fees: $10 Workbook
-notes: ''
 ---
 To provide a balanced Mathematics programme to students for whom a formal academic programme is not suited. This course is completely internally assessed. Topics covered; Number, Statistics, Probability, Measurement, Geometry, Constructions and Drawings.

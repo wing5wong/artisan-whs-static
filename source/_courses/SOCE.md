@@ -10,8 +10,6 @@ course_duration: Full Year
 course_level: Year 9
 leads_to: ''
 credits: ''
-entry_requirements: ''
-notes: ''
 ---
 **Purpose:**
 

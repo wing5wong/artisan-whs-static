@@ -13,6 +13,5 @@ credits: 18-22
 entry_requirements: 12 Credits in ACC2 (including 1 external standard) or HOF/TIC approval.
 course_fees: $18
 ue_approved: true
-notes: ''
 ---
 This course extends students to apply Accounting skills specifically meeting the requirement of Companies, partnerships and manufacturing organisations. Students prepare a report on a major NZ publicly listed company and receive training at Massey University. Job cost accounting and management decision making including cost volume profit analysis conclude the course.

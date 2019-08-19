@@ -12,8 +12,6 @@ assessment_type: Achievement Standard
 leads_to:
   - DRA2
 credits: '20'
-entry_requirements: ''
 course_fees: $10
-notes: ''
 ---
 This course will offer students the chance to develop a wide range of personal and performance skills through the processes of drama. Students will complete units of work that will involve them creating, performing and reflecting on drama.

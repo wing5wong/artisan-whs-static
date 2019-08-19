@@ -14,6 +14,5 @@ leads_to:
 credits: '22'
 entry_requirements: 12 credits in DAN1 and HOF/TIC approval.
 course_fees: $10 for portfolio
-notes: ''
 ---
 Students will further develop their skills in a variety of dance forms. Students will perform in a repertoire of dances and develop choreography with the intention of performing to an audience.
