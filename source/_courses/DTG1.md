@@ -2,7 +2,7 @@
 title: DTG1
 name: Digital Technologies General
 code: DTG1
-subject_area: Semester Courses (Digital Technologies)
+subject_area: Digital Technologies
 date: 2019-07-03T03:23:14.968Z
 year: '11'
 type: Compulsory
