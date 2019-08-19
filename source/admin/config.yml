@@ -327,8 +327,7 @@ collections:
         required: false
       - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
       - label: "Vocational Pathways"
         name: "vocational_pathways"
         widget: "select"
@@ -440,10 +439,7 @@ collections:
       name: "image"
       widget: "image"
       required: false
-    - {label: "Person in Charge Name", name: "person_in_charge_name", widget: string, required: false }
-    - {label: "Person in Charge Title", name: "person_in_charge_title", widget: string, required: false }
-    - {label: "Person in Charge Phone", name: "person_in_charge_phone", widget: string, required: false }
-    - {label: "Person in Charge Email", name: "person_in_charge_email", widget: string, required: false }
+    - {label: "Person in Charge", name: "person_in_charge", widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
 
 
   - name: "extracurricular_activities"
