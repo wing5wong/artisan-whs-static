@@ -172,18 +172,23 @@ $courseAssessments = $assessments->filter(function ($assessment) use ($page) {
 </section>
 @endif
 
+@php
+    $otherCourses = $courses
+        ->where('subject_area', $page->subject_area)
+        ->where('title','<>', $page->title)
+@endphp
+@if(count($otherCourses))
 <section class="mt-5">
     Other courses in {{ $page->subject_area }}:
     <ul>
-        @foreach($courses
-        ->where('subject_area', $page->subject_area)
-        ->where('title','<>', $page->title) as $c)
+        @foreach($otherCourses as $c)
             <li>
                 <a href="{{$c->getPath()}}">{{ $c->name }} ({{$c->course_level}})</a>
             </li>
             @endforeach
     </ul>
 </section>
+@endif
 
 @include('_partials.lastReviewed')
 
