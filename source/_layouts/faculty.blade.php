@@ -32,7 +32,7 @@
         <div class="list-group my-4">
             @foreach($page->getSubjectAreaCourses($subject, $courses)  as $course)
             <a class="list-group-item list-group-item-action"
-                href="{{$course->getPath()}}">{{ $course->name }}</a>
+                href="{{$course->getPath()}}">{{ $course->name }} ({{$c->course_level}})</a>
             @endforeach
         </div>
 
