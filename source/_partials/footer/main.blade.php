@@ -73,7 +73,7 @@ Study It - Study Resources for NCEA Students
           <h5>International</h5>
           <ul class="list-unstyled text-small">
             <li>
-              <a href="http://www.education-newzealand.org/" target="_blank">
+              <a href="https://www.enz.govt.nz/" target="_blank">
 Education in NZ
 </a>
             </li>
