@@ -15,6 +15,36 @@
 
 
 <h2 class="decorated d-table my-5">Subject Areas</h2>
+
+
+
+<div class="row">
+    @foreach($page->getFacultySubjectAreas($page, $subject_areas) as $subject)
+    <div class="col-6">
+        <h3 class="d-table mt-3">
+            {{ $subject->title}}
+            @if($subject->maori_title)<br><small
+                class="text-muted">{{$subject->maori_title}}</small>
+            @endif
+        </h3>
+
+
+        <div class="list-group my-4">
+            @foreach($page->getSubjectAreaCourses($subject, $courses)  as $course)
+            <a class="list-group-item list-group-item-action"
+                href="{{$course->getPath()}}">{{ $course->name }}</a>
+            @endforeach
+        </div>
+        
+        <a href="{{$subject->getPath()}}" class="btn btn-light mb-5">More information</a>
+    </div>
+    @endforeach
+</div>
+
+
+
+
+
 @foreach($subject_areas->where('faculty', $page->title) as $subject)
     <details>
         <summary>
