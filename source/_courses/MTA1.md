@@ -2,7 +2,7 @@
 title: MTA1
 name: Trigonometry and Algebra
 code: MTA1
-subject_area: Trigonometry & Algebra
+subject_area: Trigonometry and Algebra
 date: 2019-07-23T02:05:54.384Z
 year: '11'
 type: Compulsory
