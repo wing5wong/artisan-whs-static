@@ -25,7 +25,7 @@ date: 2019-04-02T01:23:57.661Z
 |[WHITIREIA (Poirua & Wgtn)](http://www.whitireia.ac.nz/)|0800 944 847|
 |[WINTEC  (Hamilton)](http://www.wintec.ac.nz/)|0800 2 WINTEC|
 |[CPIT (Christchurch)](http://www.cpit.ac.nz/)|0800 24 24 76|
-|[OTAGO (Dunedin)](http://www.otagopolytechnic.ac.nz/)|0800 762 786|
+|[OTAGO (Dunedin)](https://www.op.ac.nz/)|0800 762 786|
 |[SIT (Invercargill)](http://www.sit.ac.nz/)|0800 4 0 FEES|
 
 ## New Zealand Defence Force
