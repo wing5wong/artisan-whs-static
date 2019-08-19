@@ -3,7 +3,7 @@ title: SCI1
 maori_title: ''
 name: Science Introductory
 code: SCI1
-subject_area: Science (Introductory/Internal)
+subject_area: Science (Introductory)
 date: 2019-07-26T03:03:17.652Z
 year: '11'
 type: Compulsory

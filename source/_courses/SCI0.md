@@ -1,8 +1,8 @@
 ---
 title: SCI0
-name: Science
+name: Science Introductory
 code: SCI0
-subject_area: Science (Introductory/Internal)
+subject_area: Science (Introductory)
 date: 2019-08-05T02:40:31.567Z
 year: '10'
 type: Compulsory

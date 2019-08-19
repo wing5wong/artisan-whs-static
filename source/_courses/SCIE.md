@@ -1,8 +1,8 @@
 ---
 title: SCIE
-name: Science
+name: Science Introductory
 code: SCFE
-subject_area: Science (Introductory/Internal)
+subject_area: Science (Introductory)
 date: 2019-07-01T02:42:11.703Z
 year: '9'
 type: "Compulsory"

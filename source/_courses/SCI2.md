@@ -2,7 +2,7 @@
 title: SCI2
 name: Science Introductory
 code: SCI2
-subject_area: Science (Introductory/Internal)
+subject_area: Science (Introductory)
 date: 2019-07-26T02:41:29.978Z
 year: '12'
 type: Optional

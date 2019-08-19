@@ -1,4 +1,4 @@
 ---
-title: Science (Introductory/Internal)
+title: Science (Introductory)
 faculty: Sciences
 ---
