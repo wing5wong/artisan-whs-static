@@ -26,8 +26,6 @@
         </ol>
     </nav>
 </ul>
-@else
-error
 @endif
 
     <table class="my-5 table table table-bordered table-striped table-hover">
