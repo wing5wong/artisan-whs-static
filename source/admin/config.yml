@@ -536,7 +536,8 @@ collections:
         fields:
           - label: "Policy Area Name"
             name: "policyArea"
-            widget: "string"
+            widget: "select"
+            options: ["1. Curriculum Delivery", "2. Documentation and Self Review", "3. Personnel", "4. Finance and Property", "5. Health and Safety", "6. Administration"]
           - label: "Policies"
             name: policies
             widget: list
