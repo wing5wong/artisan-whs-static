@@ -211,6 +211,14 @@ collections:
         fields:
         - {label: "Image Filename", name: "image", widget: "image"}
         - {label: "Image Description", name: "description", widget: "string"}
+      - { label: "Faculties",
+          name: faculties,
+          required: false,
+          multiple: true,
+          widget: "relation",
+          collection: "faculties",
+          searchFields: ["title"], valueField: "title", displayFields: ["title"]
+        }
 
 
   - name: "for_parents"
@@ -327,7 +335,8 @@ collections:
         required: false
       - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
       - label: "Vocational Pathways"
         name: "vocational_pathways"
         widget: "select"
