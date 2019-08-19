@@ -5,7 +5,7 @@ code: IEL1
 subject_area: International English Language
 date: 2019-07-01T01:04:20.790Z
 year: '11'
-type: International English
+type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard

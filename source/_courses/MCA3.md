@@ -5,7 +5,7 @@ code: MCA3
 subject_area: Calculus & Algebra Extension
 date: 2019-07-23T01:54:19.386Z
 year: '13'
-type: Level 3 - Selected Students
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievment Standard and Cambridge as examination

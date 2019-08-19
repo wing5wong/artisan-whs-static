@@ -5,7 +5,7 @@ code: LSCR
 subject_area: Learning Support Centre
 date: 2019-07-01T01:30:31.874Z
 year: '9'
-type: .
+type: Optional
 course_duration: Full Year
 course_level: All Year Levels
 leads_to: ''

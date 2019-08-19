@@ -5,7 +5,7 @@ code: SOC0
 subject_area: Social Studies
 date: 2019-07-29T02:43:12.682Z
 year: '10'
-type: Compulsory - Unless selected for SOE0 (Extension)
+type: Compulsory
 course_duration: Full Year
 course_level: Year 10
 leads_to:
