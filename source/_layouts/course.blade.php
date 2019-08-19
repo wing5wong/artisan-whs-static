@@ -5,12 +5,13 @@
 @section('content')
 <h1 class="decorated py-3 mb-4">{{ $page->title }} - {{ $page->name }}</h1>
 
-
-<ul class="nav">
-    @php
+@php
     $subject = $subject_areas->firstWhere('title', $page->subject_area);
     $faculty = $faculties->firstWhere('title',$subject->faculty);
     @endphp
+    
+    @if($subject and $faculty)
+<ul class="nav">
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item">
@@ -25,6 +26,9 @@
         </ol>
     </nav>
 </ul>
+@else
+error
+@endif
 
     <table class="my-5 table table table-bordered table-striped table-hover">
 
