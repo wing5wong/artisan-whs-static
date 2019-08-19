@@ -1,8 +1,8 @@
 ---
 title: LANE
-name: Year 9 Language Tasters
+name: Language Tasters
 code: LANE
-subject_area: Languages (Year 9 Compulsory)
+subject_area: Language Tasters
 date: 2019-07-01T01:09:27.832Z
 year: '9'
 type: Compulsory
