@@ -20,6 +20,10 @@
 
 <div class="row">
     @foreach($page->getFacultySubjectAreas($page, $subject_areas) as $subject)
+    @php
+        $subjectCourses = $page->getSubjectAreaCourses($subject, $courses) 
+    @endphp
+    @if(count($subjectCourses))
     <div class="col-6">
         <h3 class="d-table mt-3">
             {{ $subject->title}}
@@ -30,7 +34,7 @@
 
 
         <div class="list-group my-4">
-            @foreach($page->getSubjectAreaCourses($subject, $courses)  as $course)
+            @foreach($subjectCourses as $course)
             <a class="list-group-item list-group-item-action"
                 href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }} </a>
             @endforeach
@@ -38,6 +42,7 @@
 
         <a href="{{$subject->getPath()}}" class="btn btn-light mb-5">More information</a>
     </div>
+    @endif
     @endforeach
 </div>
 
