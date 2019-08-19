@@ -21,13 +21,13 @@
       </div>
 
       <div class="navbar-nav">
-        <a class="nav-item nav-link mx-3 p-3 p-sm-1 " href="https://library.whs.ac.nz">Library</a>
+        <a class="nav-item nav-link mx-3 p-3 p-sm-1 " href="https://library.whs.ac.nz" target="_BLANK">Library</a>
         <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="/payments">Payments</a>
         <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="/contact">Contact</a>
-        <a class="nav-item nav-link mx-3 p-3 px-5 p-sm-1 px-md-3 bg-white text-dark" href="http://kamar.whs.ac.nz">Kamar</a>
-        <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="{{$page->social->facebook}}">Facebook</a>
-        <a class="nav-item nav-link mx-3 p-3 p-sm-1 " href="{{$page->social->youtube}}">Youtube</a>
-        <a class="nav-item nav-link mx-3 p-3 p-sm-1 " href="{{$page->social->twitter}}">Twitter</a>
+        <a class="nav-item nav-link mx-3 p-3 px-5 p-sm-1 px-md-3 bg-white text-dark" href="http://kamar.whs.ac.nz" target="_BLANK">Kamar</a>
+        <a class="nav-item nav-link mx-3 p-3 p-sm-1" href="{{$page->social->facebook}}" target="_BLANK">Facebook</a>
+        <a class="nav-item nav-link mx-3 p-3 p-sm-1 " href="{{$page->social->youtube}}" target="_BLANK">Youtube</a>
+        <a class="nav-item nav-link mx-3 p-3 p-sm-1 " href="{{$page->social->twitter}}" target="_BLANK">Twitter</a>
       </div>
     </div>
   </div>
