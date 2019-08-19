@@ -9,10 +9,10 @@
 
 
 <h2 class="decorated d-table mt-5 mb-2">Current Vacancies</h2>
-@forelse($vacancies as $k=>$vacancy)
+@forelse($vacancies as $vacancy)
 <div class="row">
     <div class="col-sm-12 col-md-6">
-        <h3>{{$k}}{{$vacancy->title}}</h3>
+        <h3>{{$vacancy->title}}</h3>
         <p>Applications close: {{ date('F j, Y', $vacancy->date) }}</p>
 
     </div>
