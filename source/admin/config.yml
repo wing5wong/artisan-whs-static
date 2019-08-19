@@ -327,8 +327,7 @@ collections:
         required: false
       - {label: "Intro", name: "intro", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
       - label: "Vocational Pathways"
         name: "vocational_pathways"
         widget: "select"
@@ -378,7 +377,7 @@ collections:
     - {label: "Date", name: "date", widget: "date"}
 
     - {label: "Year Level", name: year, widget: select, options: ["9","10","11","12","13"]}
-    - {label: "Type", name: "type", widget: "string"}
+    - {label: "Type", name: "type", widget: widget: select, options: ["Core","Compulsory", "Optional", "Semester Course"], default: "Optional"}
     - { label: "Course Duration", name: course_duration, widget: select, options: ["One Term", "Half Year","Full Year", "5 Week Introduction Plus 20 Week Course If Selected"]}
     - { label: "Course Level", name: course_level, widget: select, options: ["Year 9","Year 10","NCEA 1","NCEA 2", "NCEA 3", "NCEA 1 and 2","NCEA 2 and 3","NCEA 1,2 and 3","All Year Levels"]}
     - { label: "Assessment Type", name: assessment_type, widget: select, options: ["Achievement Standard","Unit Standard","Achievement and Unit Standard","Achievement Standard and Scholdarship","Achievement Standard and Cambridge as Examination","Compulsory", "Optional"], required: false}
@@ -409,7 +408,7 @@ collections:
     - {label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
     - {label: "Description", name: "description", widget: "text"}
     - {label: "URL", name: "pdf", widget: "string"}
-    - {label: "Level", name: "level", widget: "string"}
+    - {label: "Level", name: "level", widget: "select", options: ["1","2","3"], required: false}
     - {label: "Credits", name: "credits", widget: "number"}
     - {label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"]}
     - { label: "U.E. Lit Reading", name: "ue_lit_reading", widget: "boolean", required: false, default: false}
@@ -440,10 +439,7 @@ collections:
       name: "image"
       widget: "image"
       required: false
-    - {label: "Person in Charge Name", name: "person_in_charge_name", widget: string, required: false }
-    - {label: "Person in Charge Title", name: "person_in_charge_title", widget: string, required: false }
-    - {label: "Person in Charge Phone", name: "person_in_charge_phone", widget: string, required: false }
-    - {label: "Person in Charge Email", name: "person_in_charge_email", widget: string, required: false }
+    - {label: "Person in Charge", name: "person_in_charge", widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
 
 
   - name: "extracurricular_activities"
@@ -461,8 +457,9 @@ collections:
       widget: "image"
       required: false
 
+
   - name: "achievers_lists"
-    label: "Achievers Lists"
+    llabel: "Achievers Lists"
     label_singular: "Achievers List"
     folder: "source/_achievers_lists"
     create: true
@@ -472,6 +469,20 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Filename", name: "file", widget: "file" }
+
+
+  - name: "prizegiving_booklets"
+    label: "Prizegiving Booklets"
+    label_singular: "Prizegiving Booklet"
+    folder: "source/_prizegiving_booklets"
+    create: true
+    slug: "{{slug}}"
+    
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Filename", name: "file", widget: "file" }
+     
 
   - name: "testimonials"
     label: "Testimonials"
@@ -488,18 +499,7 @@ collections:
       - {label: "image", name: "image", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown" }
 
-  - name: "prizegiving_booklets"
-    label: "Prizegiving Booklets"
-    label_singular: "Prizegiving Booklet"
-    folder: "source/_prizegiving_booklets"
-    create: true
-    slug: "{{slug}}"
-    
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Filename", name: "file", widget: "file" }
-      
+
   - name: "honours"
     label: "Honours Board"
     label_singular: "Honours Entry"
@@ -536,7 +536,8 @@ collections:
         fields:
           - label: "Policy Area Name"
             name: "policyArea"
-            widget: "string"
+            widget: "select"
+            options: ["1. Curriculum Delivery", "2. Documentation and Self Review", "3. Personnel", "4. Finance and Property", "5. Health and Safety", "6. Administration"]
           - label: "Policies"
             name: policies
             widget: list
@@ -582,6 +583,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs"}
       - {label: "Position", name: "position", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       - label: "Departments"
         label_singular: "Department"
         name: "departments"

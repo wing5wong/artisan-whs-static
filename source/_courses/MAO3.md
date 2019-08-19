@@ -13,6 +13,5 @@ credits: '28'
 entry_requirements: 18 Credits in MAO2 and HOF/TIC approval.
 course_fees: Own Māori-English dictionary is compulsory.
 ue_approved: true
-notes: ''
 ---
 To enable candidates to cultivate Wairua Māori and to enjoy and derive satisfaction through developing: - competence in oral and written Māori; - understanding of, sensitivity towards, and respect for Te Ao Māori; - understanding of, sensitivity towards, and respect for Tikanga Māori. Students will be required to collate evidence of work for their assessment portfolio.

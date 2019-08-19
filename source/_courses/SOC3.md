@@ -14,6 +14,5 @@ entry_requirements: >-
   12 credits in Level 2 Achievement Standards English or 12 credits Level 2
   achievement standards Social Studies and HOF/TIC approval.
 ue_approved: true
-notes: ''
 ---
 To provide students with opportunities to examine and evaluate peoples responses to challenges and social actions in society. Areas of study include: Fundamentalism, Social Campaigns based on the Impact of Modern Ideologies including Political, Cultural and Environmental.

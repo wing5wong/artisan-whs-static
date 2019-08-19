@@ -13,7 +13,6 @@ leads_to:
   - IEL1
   - IEL2
 credits: 20+
-entry_requirements: ''
 course_fees: Included in International Student Fee
 notes: 'This course is available to students of all year levels with English as a second language.'
 ---

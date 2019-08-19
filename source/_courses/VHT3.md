@@ -12,9 +12,7 @@ course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: ''
 credits: '10'
-entry_requirements: ''
 course_fees: 
 invitation_only: true
-notes: ''
 ---
 

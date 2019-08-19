@@ -14,6 +14,5 @@ leads_to:
 credits: '25'
 entry_requirements: 12 Credits in DVC1 and HOF approval.
 course_fees: $25
-notes: ''
 ---
 The course aims to develop student's Design and Visual Communication skills. The course is structured around two Design Briefs: Spatial Design and Product Design. Students will develop their own graphics practice through sketching, instrumental drawing, modelling, use of CAD and 3D printing.

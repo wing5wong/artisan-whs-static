@@ -5,7 +5,7 @@ code: MCS2
 subject_area: Statistics Extension & Cambridge
 date: 2019-07-23T01:55:42.001Z
 year: '12'
-type: Level 2 - Selected Students
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievment Standard and Cambridge as examination

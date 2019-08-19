@@ -1,8 +1,8 @@
 ---
 title: MTA3
-name: Trigonometry & Algebra
+name: Trigonometry and Algebra
 code: MTA3
-subject_area: Trigonometry & Algebra
+subject_area: Trigonometry and Algebra
 date: 2019-07-23T02:07:40.173Z
 year: '13'
 type: Optional

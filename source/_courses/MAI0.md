@@ -12,7 +12,6 @@ leads_to: ''
 credits: ''
 entry_requirements: Satisfactory completion of a Year 9 Mathematics course.
 course_fees: 
-notes: ''
 ---
 **Purpose:**
 

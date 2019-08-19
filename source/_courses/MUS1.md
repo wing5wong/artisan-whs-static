@@ -12,10 +12,8 @@ assessment_type: Achievement Standard
 leads_to:
   - MUS2
 credits: 18-24
-entry_requirements: ''
 course_fees: >-
   $15. Additional $60 per year if learning an instrument from a tutor at
   Whanganui High School.
-notes: ''
 ---
 To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context. This course is for students who have played a musical instrument for at least 3 years, through itinerant lessons, Year 9/10 Music or outside school lessons.

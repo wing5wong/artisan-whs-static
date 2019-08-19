@@ -16,8 +16,6 @@ leads_to:
   - TOU2
   - TOU3
 credits: '8'
-entry_requirements: Nil
 course_fees: 
-notes: ''
 ---
 This semester course allows students to discover what motivates and drives people to make decisions. Through a guided inquiry, students will learn and explore topics such as slavery, refugees and the actions.

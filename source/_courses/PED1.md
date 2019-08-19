@@ -11,7 +11,6 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to: Senior Physical Education options
 credits: '20'
-entry_requirements: ''
 course_fees: $35 for fitness and leisure activities
 notes: 'Leads to: Senior Physical Education options.'
 ---

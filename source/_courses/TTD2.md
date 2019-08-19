@@ -14,6 +14,5 @@ leads_to:
 credits: '25'
 entry_requirements: 12 credits in FDZ1 and HOF/TIC approval.
 course_fees: $60
-notes: ''
 ---
 The course is intended to provide students with the opportunity to explore many areas of fashion design. The emphasis is to develop from where they are now and grow from there, both technically and creatively. Assessment: Portfolio work and constructed garments.

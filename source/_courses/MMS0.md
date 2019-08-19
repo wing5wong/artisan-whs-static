@@ -6,13 +6,11 @@ subject_area: Making Music
 date: 2019-08-01T01:58:58.358Z
 year: '10'
 type: Optional
-course_duration: Two Terms
+course_duration: Half Year
 course_level: Year 10
 leads_to: ''
 credits:
-entry_requirements: ''
 course_fees: 
-notes: ''
 ---
 **Purpose:**
 

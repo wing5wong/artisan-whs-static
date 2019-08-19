@@ -5,7 +5,7 @@ code: SOE0
 subject_area: Social Studies (Extension)
 date: 2019-07-29T02:49:23.115Z
 year: '10'
-type: Through Invitation and Selection
+type: Compulsory
 course_duration: Full Year
 course_level: Year 10
 leads_to:
@@ -23,6 +23,5 @@ entry_requirements: >-
   from performance in SOCE course (Year 9 course).
 course_fees: 
 invitation_only: true
-notes: ''
 ---
 To provide students with knowledge and skills required for future studies in Social Science. To provide students an extension course in Social Sciences as an alternative to SOC0.

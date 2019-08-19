@@ -1,4 +1,4 @@
 ---
-title: Languages (Year 9 Compulsory)
+title: Language Tasters
 faculty: Languages
 ---

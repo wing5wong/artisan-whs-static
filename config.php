@@ -118,7 +118,7 @@ return [
     },
 
     'getSubjectAreaCourses' => function($page, $subject_area, $courses) {
-        return $courses ->where('subject_area', $subject_area->title)->sortBy('name');
+        return $courses ->where('subject_area', $subject_area->title)->sortBy('name')->sortBy('year');
     },
 
     'getFacultyCoursesForLevel' => function($page, $faculty, $subject_areas, $courses, $level) {
@@ -245,6 +245,11 @@ return [
         'honours' => [
             'sort' => ['award','-date']
         ],
+        
+        'prizegiving_booklets',
+        'achievers_lists',
+        'testimonials',
+
         'international' => [
             'path' => 'international/{filename}',
             'sort' => '-date',

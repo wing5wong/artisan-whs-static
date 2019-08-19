@@ -16,6 +16,5 @@ entry_requirements: >-
   approval.
 course_fees: $5. (Students need a Graphics calculator for this course)
 ue_approved: true
-notes: ''
 ---
 To provide a Mathematics programme that will develop skills and understanding in a range of topics with everyday applications. This course provides a continuing Mathematics programme appropriate for students who successfully studied a Level 2 course. The following topics are studied; Time Series, Linear Programming, Inferences, Critical Path and Bivariate Data. This course is completely internally assessed.

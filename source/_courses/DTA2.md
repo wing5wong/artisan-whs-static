@@ -5,7 +5,7 @@ code: DTA2
 subject_area: Digital Technologies Applied
 date: 2019-07-03T04:35:49.488Z
 year: '12'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
@@ -17,6 +17,5 @@ entry_requirements: >-
   Open entry for Year 12 students and vocational students, subject to HOF
   approval.
 course_fees: 
-notes: ''
 ---
 This course is designed to enable students to gain a broad understanding of the different software applications available today and some skills in using these appropriately. The safe use of computers and the correct use of computers as communication tools will be a feature of this course. Students will develop skills in communication, design, research and problem solving.

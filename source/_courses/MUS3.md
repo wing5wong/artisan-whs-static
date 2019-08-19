@@ -17,6 +17,5 @@ course_fees: >-
   $15. Additional $60 per year if learning from a tutor at Whanganui High
   School.
 ue_approved: true
-notes: ''
 ---
 To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context at an advanced level. Performance, Composition, Aural Skills and Musical Knowledge. Students can mix and match a course between 'Practical Music' and 'Music Studies' in consultation with the teacher. (Note: A programme for each student will be negotiated with the teacher)

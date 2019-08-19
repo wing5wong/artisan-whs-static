@@ -13,6 +13,5 @@ credits: '25'
 entry_requirements: 12 Credits in HIS2 or ENG2.
 course_fees: Field Trip - to be advised.
 ue_approved: true
-notes: ''
 ---
 To develop students understanding of change over an extended period of time. To develop a critical approach to historical sources, by exposing students to varying interpretations. Students will learn about economic, social, religious and political change in selected topics.

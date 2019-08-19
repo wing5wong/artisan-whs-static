@@ -12,7 +12,6 @@ leads_to: ''
 credits: ''
 entry_requirements: At least 75% in the Year 9 examination as well as teacher recommendation.
 course_fees: 
-notes: ''
 ---
 **Purpose:**
 

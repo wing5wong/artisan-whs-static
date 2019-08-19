@@ -10,7 +10,6 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 credits: '16'
-entry_requirements: ''
 course_fees: 
 ue_approved: true
 notes: >-

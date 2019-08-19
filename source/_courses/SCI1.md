@@ -14,8 +14,6 @@ leads_to:
   - SCG1
   - SCI2
 credits: '20'
-entry_requirements: ''
 course_fees: 
-notes: ''
 ---
 To provide a balanced Science programme to include aspects of Biology, Chemistry, Physics; investigations, interpreting information, microorganisms, life processes, rates of reactions, electricity and magnetism.

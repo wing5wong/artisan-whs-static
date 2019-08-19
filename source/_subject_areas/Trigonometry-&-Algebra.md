@@ -1,4 +1,4 @@
 ---
-title: Trigonometry & Algebra
+title: Trigonometry and Algebra
 faculty: Mathematics
 ---

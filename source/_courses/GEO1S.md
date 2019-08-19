@@ -10,10 +10,11 @@ type: Semester Course
 course_duration: Half Year
 course_level: NCEA 1
 assessment_type: Achievement and Unit Standard
-leads_to: []
+leads_to: 
+  - TOU2
+  - SOC2
 credits: '12'
-entry_requirements: None - Suited to middle to lower ability students.
 course_fees: '$40, plus a field trip to Adrenalin Forest Wellington'
-notes: 'Leads to: Level 2 Tourism and other Level 2 Social Sciences'
+notes: Suited to middle to lower ability students.
 ---
 The purpose of this course is to introduce students to the Tourism industry. Students will gain an understanding of Tourism New Zealand and the wider global industry. This exciting course, aimed at middle to lower students, gives learners the chance to understand and explore all about the growing nature of travel and Tourism.

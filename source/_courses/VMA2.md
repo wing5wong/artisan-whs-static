@@ -15,6 +15,5 @@ credits: '8'
 entry_requirements: Class size limited. Interview by teacher in charge required.
 course_fees: 
 invitation_only: true
-notes: ''
 ---
 Students in this course will focus on Mathematics related to the real world. Aspects of the course are not assessed for credit. Any students who has not gained Level 1 Numeracy will have this as a major focus.

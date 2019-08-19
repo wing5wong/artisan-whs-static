@@ -5,7 +5,7 @@ code: MCA2
 subject_area: Algebra & Calculus Extension & Cambridge
 date: 2019-07-01T21:07:41.765Z
 year: '12'
-type: Level 2 - Selected Students
+type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievment Standard and Cambridge as examination

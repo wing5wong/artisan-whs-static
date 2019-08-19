@@ -14,7 +14,6 @@ leads_to:
   - MTA2
   - MPS2
 credits: '18'
-entry_requirements: ''
 course_fees: >-
   $10 Workbook. Students are advised to have a Graphics calculator for this
   course.

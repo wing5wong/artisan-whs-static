@@ -5,14 +5,12 @@ code: SCFE
 subject_area: Science (Introductory/Internal)
 date: 2019-07-01T02:42:11.703Z
 year: '9'
-type: "Compulsory\t - Full Year"
+type: "Compulsory"
 course_duration: Full Year
 course_level: Year 9
 leads_to: ''
 credits:
-entry_requirements: ''
 course_fees: 
-notes: ''
 ---
 **Purpose:**
 

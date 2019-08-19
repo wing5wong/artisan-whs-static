@@ -12,8 +12,6 @@ assessment_type: Achievement Standard
 leads_to:
   - DAN2
 credits: '20'
-entry_requirements: ''
 course_fees: $10 for portfolio
-notes: ''
 ---
 To develop a variety of skills in dance forms. Students will participate in dance choreography and performance developing their knowledge and confidence in both areas.

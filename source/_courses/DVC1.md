@@ -12,8 +12,6 @@ assessment_type: Achievement Standard
 leads_to:
   - DVC2
 credits: '21'
-entry_requirements: ''
 course_fees: $25
-notes: ''
 ---
 To develop students' capabilities in Design and Visual Communication. This course is designed to develop students' practice in Graphic Techniques including: Freehand Sketching; a range of Rendering Techniques; Instrumental Drawings; Modelling Techniques and Design. Students will also have the opportunity to use CAD and 3D printing.
