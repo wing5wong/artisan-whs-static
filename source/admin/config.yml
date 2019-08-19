@@ -468,7 +468,7 @@ collections:
 
 
   - name: "achievers_lists"
-    llabel: "Achievers Lists"
+    label: "Achievers Lists"
     label_singular: "Achievers List"
     folder: "source/_achievers_lists"
     create: true
