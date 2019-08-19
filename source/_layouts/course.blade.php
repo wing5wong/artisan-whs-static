@@ -11,7 +11,7 @@
     $subject = $subject_areas->firstWhere('title', $page->subject_area);
     $faculty = $faculties->firstWhere('title',$subject->faculty);
     @endphp
-    @if(!subject or !faculty)
+    @if(!$subject or !$faculty)
     error finding faculty/subject
     @else
     <nav aria-label="breadcrumb">
@@ -30,7 +30,7 @@
     @endif
 </ul>
 
-@if(!subject or !faculty)
+@if(!$subject or !$faculty)
 error
 @else
 <table class="my-5 table table table-bordered table-striped table-hover">
