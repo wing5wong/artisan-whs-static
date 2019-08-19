@@ -5,7 +5,7 @@ code: ENE2
 subject_area: English (Extension)
 date: 2019-06-30T23:59:58.565Z
 year: '12'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

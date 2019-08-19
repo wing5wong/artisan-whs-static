@@ -5,7 +5,7 @@ code: ENI1
 subject_area: English (Introductory/Internal)
 date: 2019-07-01T00:07:59.836Z
 year: '11'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

@@ -5,7 +5,7 @@ code: ENL3
 subject_area: English (Extension)
 date: 2019-07-01T00:11:17.918Z
 year: '13'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievment Standard and Scholarship

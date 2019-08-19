@@ -5,7 +5,7 @@ code: DTA2
 subject_area: Digital Technologies Applied
 date: 2019-07-03T04:35:49.488Z
 year: '12'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

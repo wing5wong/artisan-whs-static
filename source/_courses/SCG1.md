@@ -5,7 +5,7 @@ code: SCG1
 subject_area: Science (General)
 date: 2019-07-01T02:37:30.040Z
 year: '11'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

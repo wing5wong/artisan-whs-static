@@ -5,7 +5,7 @@ code: ENG2
 subject_area: English (General)
 date: 2019-07-01T00:05:23.151Z
 year: '12'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

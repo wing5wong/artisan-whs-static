@@ -5,7 +5,7 @@ code: DTG1
 subject_area: Digital Technologies
 date: 2019-07-03T03:23:14.968Z
 year: '11'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

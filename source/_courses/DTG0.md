@@ -6,7 +6,7 @@ subject_area: Digital Technologies
 date: 2019-07-03T03:02:19.335Z
 year: '10'
 type: Optional
-course_duration: Two Terms
+course_duration: Half Year
 course_level: Year 10
 leads_to: ''
 credits: ''

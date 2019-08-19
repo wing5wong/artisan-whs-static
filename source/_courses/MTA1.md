@@ -5,7 +5,7 @@ code: MTA1
 subject_area: Trigonometry & Algebra
 date: 2019-07-23T02:05:54.384Z
 year: '11'
-type: Core
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
