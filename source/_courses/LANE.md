@@ -6,7 +6,7 @@ subject_area: Language Tasters
 date: 2019-07-01T01:09:27.832Z
 year: '9'
 type: Compulsory
-course_duration: One Term
+course_duration: Half Year
 course_level: Year 9
 leads_to: ''
 credits:
