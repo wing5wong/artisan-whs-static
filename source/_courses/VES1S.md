@@ -3,7 +3,7 @@ title: VES1S
 maori_title: ''
 name: Employment Skills
 code: VES1S
-subject_area: Semester Courses
+subject_area: Semester Courses (Vocational Studies)
 date: 2019-08-05T01:08:55.062Z
 year: '12'
 type: Semester Course
