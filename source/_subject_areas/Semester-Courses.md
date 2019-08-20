@@ -1,4 +1,4 @@
 ---
-title: Semester Courses (Vocational Studies)
+title: Vocational Studies (Semester Courses)
 faculty: Vocational Studies
 ---
