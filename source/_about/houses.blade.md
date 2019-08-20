@@ -42,7 +42,11 @@ The official Houses Opening Day for all students and staff of Whanganui High Sch
 
 # House Points
 
-Our LIFE house points summary and sports day results, can be viewed [here.](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home)
+## Weekly Summary & Sport Days
+
+Our weekly LIFE house points summary and sport days results - [can be viewed here.](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home)
+
+## House Points Overview
 
 <div class="row">
 
