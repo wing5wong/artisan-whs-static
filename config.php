@@ -129,7 +129,7 @@ return [
                                 ->concat( 
                                     $courses->where('subject_area', $subject->title)
                                     ->where('course_level', "All Year Levels")
-                                );
+                                )->unique();
             })
             ->sortBy('name');
     },
