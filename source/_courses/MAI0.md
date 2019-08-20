@@ -2,7 +2,7 @@
 title: MAI0
 name: Mathematics Introductory
 code: MAI0
-subject_area: Mathematics (Introductory/Internal)
+subject_area: Mathematics (Introductory)
 date: 2019-07-01T01:45:16.583Z
 year: '10'
 type: Compulsory

@@ -2,7 +2,7 @@
 title: MAI2
 name: Mathematics Introductory
 code: MAI2
-subject_area: Mathematics (Introductory/Internal)
+subject_area: Mathematics (Introductory)
 date: 2019-07-01T01:47:20.550Z
 year: '12'
 type: Optional

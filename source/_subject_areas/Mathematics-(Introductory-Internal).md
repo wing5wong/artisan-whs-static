@@ -1,4 +1,4 @@
 ---
-title: Mathematics (Introductory/Internal)
+title: Mathematics (Introductory)
 faculty: Mathematics
 ---
