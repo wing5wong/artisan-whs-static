@@ -10,8 +10,6 @@ description: >
   enable visually impaired students to navigate safely around the school and to
   their classes.
 ---
-![](/uploads/5b88a073ff2a7c03cc0005ef/Wheelchair-Friendly-combined.jpg)
-
 Whanganui High School grounds and buildings are supported with adaptions that assist the visually impaired and wheelchair bound students. There are yellow painted poles and strips, and tactile tiles placed around the school which enable visually impaired students to navigate safely around the school and to their classes. Classroom Blocks have ramps to enable wheelchair access to all rooms. There are some higher desks which can be placed in classrooms, where needed, in order to enable easier access for wheelchairs to move under. This means the student in a wheelchair can be closer to the desk.
 
 New toilet blocks enable easy access for disabled students.
