@@ -6,8 +6,6 @@ image: >-
 description: |
   Kia Whaiora – ‘That we may have life’ is the name of our School Whare.
 ---
-![](/uploads/5b88ae00ff2a7c03cc0005fb/Whare---Combined.jpg)
-
 Kia Whaiora – ‘That we may have life’ is the name of our School Whare.
 
 The Whare was opened in 1999. 
