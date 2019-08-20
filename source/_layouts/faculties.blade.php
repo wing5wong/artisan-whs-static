@@ -29,17 +29,22 @@
 
     </div>
     @foreach($page->getFacultySubjectAreas($faculty, $subject_areas) as $subject )
+    @php
+    $facultyCourses = $page->getSubjectAreaCourses($subject, $courses)
+    @endphp
+    @if($facultyCourses)
     <div class="col col-md-6 col-lg-6">
     <details open class="mt-4">
             
             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
         <div class="list-group">
-        @foreach($page->getSubjectAreaCourses($subject, $courses) as $course)
+        @foreach($facultyCourses as $course)
             <a class="list-group-item list-group-item-action" href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
         @endforeach
         </div>
     </details>
     </div>
+    @endif
     @endforeach
 </div>
 
