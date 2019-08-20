@@ -380,32 +380,35 @@ collections:
     - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
     - {label: "Name", name: "name", widget: "string"}
     - {label: "Code", name: "code", widget: "string"}
-
     - {label: "Subject Area", name: "subject_area", required: true, widget: "relation", collection: "subject_areas", searchFields: ["title"], valueField: "title", displayFields: ["title", "faculty"]}
 
     - {label: "Date", name: "date", widget: "date"}
 
+    - {label: "Entry Requirements", name: "entry_requirements", widget: "string", required: false}
+
     - {label: "Year Level", name: year, widget: select, options: ["9","10","11","12","13"]}
     - {label: "Type", name: "type", widget: "select", options: ["Core","Compulsory", "Optional", "Semester Course"], default: "Optional"}
     - { label: "Course Duration", name: course_duration, widget: select, options: ["One Term", "Half Year","Full Year", "5 Week Introduction Plus 20 Week Course If Selected"]}
+    
     - { label: "Course Level", name: course_level, widget: select, options: ["Year 9","Year 10","NCEA 1","NCEA 2", "NCEA 3", "NCEA 1 and 2","NCEA 2 and 3","NCEA 1,2 and 3","All Year Levels"]}
     - { label: "Assessment Type", name: assessment_type, widget: select, options: ["Achievement Standard","Unit Standard","Achievement and Unit Standard","Achievement Standard and Scholdarship","Achievement Standard and Cambridge as Examination","Compulsory", "Optional"], required: false}
+
     - {label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayFields:: ["code", "name"]}
+    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"]}
+        #, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"]
+    
     
     - {label: "Body", name: "body", widget: "markdown", required: false}
-    
+    - {label: "Notes", name: "notes", widget: "text", required: false}
+
     - {label: "Credits", name: "credits", widget: "string", required: false}
-    - {label: "Entry Requirements", name: "entry_requirements", widget: "string", required: false}
     - {label: "Course Contribution", name: "course_fees", widget: "string", required: false}
-    
-    
     - { label: "UE Approved", name: "ue_approved", widget: "boolean", required: false, default: false}
     - { label: "Invitation Only", name: "invitation_only", widget: "boolean", required: false, default: false}
     - { label: "Endorsement", name: "endorsement", widget: "boolean", required: false, default: false}
     
-    - {label: "Notes", name: "notes", widget: "text", required: false}
-    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"]}
-        #, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"]
+    
+    
 
   - name: "assessments"
     label: "NCEA Standards"
