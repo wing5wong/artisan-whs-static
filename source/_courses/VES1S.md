@@ -15,5 +15,8 @@ credits: 15-19
 entry_requirements: Consultation with House deans and Vocational Studies department.
 course_fees: $30
 notes: 'Leads to: Vocational Studies 2 and Vocational Studies 3'
+standards:
+  - '1078'
+  - '10781'
 ---
 
