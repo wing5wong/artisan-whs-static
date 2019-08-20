@@ -14,13 +14,7 @@ visible: 'Yes'
 
 The houses of Whanganui High School are: 
 
-**AWA – River**
-
-**MOANA – Ocean**
-
-**WHENUA – Land**
-
-**MAUNGA – Mountain**
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566336663/Houses/Four_Houses_Colour.jpg)
 
 The houses originate from a well-known Whanganui Quote:
 
@@ -28,7 +22,7 @@ _E rere kau mai te awa nui, mai te kāhui maunga ki tangaroa. ko au te awa, ko t
 
 The river flows from the Mountain to the Sea. I am the River and the River is me.
 
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566262370/Houses/Collage_Athletics_Day_2019_without_water_mark.jpg)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566336846/Houses/Collage_Athletics_Day_2019_without_water_mark.jpg)
 
 # History
 
