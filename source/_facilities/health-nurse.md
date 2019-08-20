@@ -6,8 +6,6 @@ description: >
   school every Monday, Wednesday and Thursday during the school term.They are
   happy to be contacted by phone, text or e-mail out of these times.
 ---
-![School Nurse](/uploads/5b8896e5ff2a7c03cc0005db/School-Nurse-smaller.jpg)
-
 The public health nurses for our school are Michelle and Jo. They visit our school every Monday, Wednesday and Thursday during the school term. They are happy to be contacted by phone, text or e-mail out of these times.
 
 **Clinic days are:**
