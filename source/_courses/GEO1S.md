@@ -1,16 +1,16 @@
 ---
 title: TOU1S
 maori_title: ''
-name: Tourism/Geography
+name: Tourism
 code: TOU1S
-subject_area: Social Sciences (Semester Courses)
+subject_area: Tourism
 date: 2019-07-31T21:56:02.384Z
 year: '11'
 type: Semester Course
 course_duration: Half Year
 course_level: NCEA 1
 assessment_type: Achievement and Unit Standard
-leads_to: 
+leads_to:
   - TOU2
   - SOC2
 credits: '12'
