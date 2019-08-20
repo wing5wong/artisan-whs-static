@@ -1,6 +1,6 @@
 ---
 title: PEH0
-name: Physical Education
+name: Physical Education & Health
 code: PEH0
 subject_area: P.E/Health
 date: 2019-07-24T02:18:17.119Z

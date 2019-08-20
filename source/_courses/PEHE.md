@@ -1,6 +1,6 @@
 ---
 title: PEHE
-name: Physical Education
+name: Physical Education & Health
 code: PEHE
 subject_area: P.E/Health
 date: 2019-07-01T02:19:04.019Z
