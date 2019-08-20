@@ -14,7 +14,7 @@ visible: 'Yes'
 
 The houses of Whanganui High School are: 
 
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566336663/Houses/Four_Houses_Colour.jpg)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566337716/Houses/Four_Houses_Colour_size.jpg)
 
 The houses originate from a well-known Whanganui Quote:
 
