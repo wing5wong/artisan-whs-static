@@ -3,7 +3,7 @@ title: TOU1S
 maori_title: ''
 name: Tourism/Geography
 code: TOU1S
-subject_area: Semester Courses (Social Sciences)
+subject_area: Social Sciences (Semester Courses)
 date: 2019-07-31T21:56:02.384Z
 year: '11'
 type: Semester Course

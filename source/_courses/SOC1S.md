@@ -3,7 +3,7 @@ title: SOC1S
 maori_title: ''
 name: Social Studies Semester Course
 code: SOC1S
-subject_area: Semester Courses (Social Sciences)
+subject_area: Social Sciences (Semester Courses)
 date: 2019-07-31T22:30:12.871Z
 year: '11'
 type: Semester Course
