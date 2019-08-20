@@ -32,7 +32,11 @@ The river flows from the Mountain to the Sea. I am the River and the River is me
 
 # History
 
-The official Houses Opening Day for all students and staff of Whanganui High School took place on Friday, 16 February 2018 at the Jubilee Stadium, Whanganui. Whanganui High School historically had a house system in the 1970s, however it lapsed over time. The community was consulted about house names and identities. The four house names chosen were Awa, Maunga, Moana and Whenua. Those names were gifted to the school, along with the iwi story of the origin of the Whanganui River at the Houses Opening Day.
+The official Houses Opening Day for all students and staff of Whanganui High School took place on Friday, 16 February 2018 at the Jubilee Stadium, Whanganui. Whanganui High School historically had a house system in the 1970s, however it lapsed over time. The community was consulted about house names and identities. The four house names chosen were Awa, Maunga, Moana and Whenua. Those names were gifted to the school, along with the iwi story of the origin of the Whanganui River at the Houses Opening Day. 
+
+The Whanganui High School kapa haka group, Kia Whaiora, welcomed visitors bringing the school a taonga at this special assembly - [Watch the video of WHS Kapa Haka group](https://www.nzherald.co.nz/wanganui-chronicle/news/article.cfm?c_id=1503426&objectid=11996013)
+
+
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566262370/Houses/House-Assembly-at-Jubilee-Stadium-16-feb.jpg "Houses Opening Day (Photo source: Bevan Conley - Whanganui Chronicle)")
 
