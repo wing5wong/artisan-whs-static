@@ -1,7 +1,7 @@
 ---
-title: CLS1
+title: CLS1S
 name: Classical Studies
-code: CLS1
+code: CLS1S
 subject_area: Classical Studies
 date: 2019-07-29T03:15:48.139Z
 year: '11'
