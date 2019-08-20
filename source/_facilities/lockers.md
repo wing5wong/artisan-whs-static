@@ -5,8 +5,6 @@ image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1556754543/facilities/Locker-combined.jpg
 description: "There are 240 metal lockers in C-block and some wooden lockers in F block available for student use.\_\n"
 ---
-![](/uploads/5b889eeeff2a7c03cc0005eb/Locker-combined.jpg)
-
 There are 240 metal lockers in C-block and some wooden lockers in F block available for student use. 
 
  _All lockers are allocated by our Student Centre._
