@@ -2,7 +2,7 @@
 title: ENI3
 name: English Introductory
 code: ENI3
-subject_area: English (Introductory/Internal)
+subject_area: English (Introductory)
 date: 2019-07-01T00:09:11.921Z
 year: '13'
 type: Compulsory

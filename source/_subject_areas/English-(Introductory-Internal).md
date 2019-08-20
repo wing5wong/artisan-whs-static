@@ -1,4 +1,4 @@
 ---
-title: English (Introductory/Internal)
+title: English (Introductory)
 faculty: English
 ---

@@ -2,7 +2,7 @@
 title: ENI2
 name: English Introductory
 code: ENI2
-subject_area: English (Introductory/Internal)
+subject_area: English (Introductory)
 date: 2019-07-01T00:08:38.917Z
 year: '12'
 type: Compulsory
