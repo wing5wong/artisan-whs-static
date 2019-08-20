@@ -112,17 +112,26 @@ $faculty = $faculties->firstWhere('title',$subject->faculty);
 
 
 <?php
-$courseAssessments = $assessments->filter(function ($assessment) use ($page) {
-    if (!is_array($assessment->categories)) {
-        return false;
-    }
-    foreach ($assessment->categories as $c) {
-        if (strtolower($c) == strtolower($page->title)) {
-            return true;
+if($page->standards and is_array($page->standards))
+{
+    $courseAssessments = collect($page->standards)->map(function($s) use ($assessments){
+        return $assessments->firstWhere('title', $s);
+    });
+}
+else {
+    $courseAssessments = $assessments->filter(function ($assessment) use ($page) {
+        if (!is_array($assessment->categories)) {
+            return false;
         }
-    }
-    return false;
-});
+        foreach ($assessment->categories as $c) {
+            if (strtolower($c) == strtolower($page->title)) {
+                return true;
+            }
+        }
+        return false;
+    });
+}
+
 ?>
 @if(count($courseAssessments)>0)
 <section class="my-5">
@@ -173,23 +182,23 @@ $courseAssessments = $assessments->filter(function ($assessment) use ($page) {
 @endif
 
 @php
-    $otherCourses = $courses
-        ->where('subject_area', $page->subject_area)
-        ->where('title','<>', $page->title)
-@endphp
-@if(count($otherCourses))
-<section class="mt-5">
-    Other courses in {{ $page->subject_area }}:
-    <ul>
-        @foreach($otherCourses as $c)
+$otherCourses = $courses
+->where('subject_area', $page->subject_area)
+->where('title','<>', $page->title)
+    @endphp
+    @if(count($otherCourses))
+    <section class="mt-5">
+        Other courses in {{ $page->subject_area }}:
+        <ul>
+            @foreach($otherCourses as $c)
             <li>
                 <a href="{{$c->getPath()}}">{{ $c->name }} ({{$c->course_level}})</a>
             </li>
             @endforeach
-    </ul>
-</section>
-@endif
+        </ul>
+    </section>
+    @endif
 
-@include('_partials.lastReviewed')
+    @include('_partials.lastReviewed')
 
-@endsection
+    @endsection
