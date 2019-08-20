@@ -32,7 +32,7 @@
     @php
     $facultyCourses = $page->getSubjectAreaCourses($subject, $courses)
     @endphp
-    @if($facultyCourses)
+    @if(count($facultyCourses))
     <div class="col col-md-6 col-lg-6">
     <details open class="mt-4">
             
