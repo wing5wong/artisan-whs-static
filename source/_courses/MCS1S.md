@@ -3,7 +3,7 @@ title: MCS1S
 maori_title: ''
 name: Cambridge Extended Mathematics (2)
 code: MCS1S
-subject_area: Mathematics (Semester Courses)
+subject_area: Cambridge Extended Mathematics
 date: 2019-07-23T03:11:06.618Z
 year: '11'
 type: Semester Course
