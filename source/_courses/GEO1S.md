@@ -6,7 +6,7 @@ code: TOU1S
 subject_area: Tourism
 date: 2019-07-31T21:56:02.384Z
 year: '11'
-type: Semester Course
+type: Optional
 course_duration: Half Year
 course_level: NCEA 1
 assessment_type: Achievement and Unit Standard
