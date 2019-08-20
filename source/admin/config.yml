@@ -404,8 +404,9 @@ collections:
     - { label: "Endorsement", name: "endorsement", widget: "boolean", required: false, default: false}
     
     - {label: "Notes", name: "notes", widget: "text", required: false}
-    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"]}
-
+    - {label: "Available Standards", name: "standards", required: false, widget: "list", multiple: true}
+        #, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"]
+        
   - name: "assessments"
     label: "NCEA Standards"
     label_singular: "NCEA Standard"
