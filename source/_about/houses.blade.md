@@ -5,8 +5,8 @@ tags:
   - About WHS
 image: ''
 intro: >-
-  Read information about our House System; History; Creation of Whanganui River
-  Story and view current House Points.
+  Read information about our House System, History, Creation of the Whanganui
+  River Story and view current House Points.
 button_text: Read About Our House System
 visible: 'Yes'
 ---
