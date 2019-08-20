@@ -6,7 +6,7 @@ code: MCS1S
 subject_area: Cambridge Extended Mathematics
 date: 2019-07-23T03:11:06.618Z
 year: '11'
-type: Semester Course
+type: Optional
 course_duration: Half Year
 course_level: NCEA 1
 leads_to:
