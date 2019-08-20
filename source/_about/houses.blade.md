@@ -34,9 +34,13 @@ The Whanganui High School kapa haka group, Kia Whaiora, welcomed visitors bringi
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566262370/Houses/House-Assembly-at-Jubilee-Stadium-16-feb.jpg "Houses Opening Day (Photo source: Bevan Conley - Whanganui Chronicle)")
 
+
+
 # Story of 'The Creation of The Whanganui River'
 
 "The Creation of The Whanganui River" (Te Pakimaero o Te Awa o Whanganui), is the iwi story of the origin of the Whanganui River. This was gifted to Whanganui High School at our House Opening Day on Friday, 16 February 2018. Our house names derive from this story. [You can read the creation story here.](https://res.cloudinary.com/whanganuihigh/image/upload/v1566262378/Houses/Whanganui_Creation__Story_60cm.pdf)
+
+
 
 # House Points
 
