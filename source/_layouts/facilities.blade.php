@@ -23,6 +23,11 @@
     <h2 class="decorated d-table mt-5 mb-3">{{$facility->title}}</h2> 
 </summary>
 
+@if ($facility->image)
+    <img src="{{ $facility->image }}"  style="object-fit: cover; max-width:100%; display: block;">
+@endif
+
+
 {!! $facility !!}
 
 @if(is_array($facility->image_gallery))
