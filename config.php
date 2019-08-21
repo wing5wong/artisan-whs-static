@@ -246,7 +246,7 @@ return [
             'sort' => ['award','-date']
         ],
         
-        'prizegiving_booklets',
+        'prizegiving_booklets' => ['sort' => '-date'],
         'achievers_lists',
         'testimonials',
 
