@@ -11,6 +11,12 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - ACC2
+standards:
+  - '90977'
+  - '90978'
+  - '90979'
+  - '90980'
+  - '90981'
 credits: 17-20
 course_fees: $20 for workbook (notes and write on questions)
 ---
