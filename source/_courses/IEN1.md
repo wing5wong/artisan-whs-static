@@ -14,6 +14,14 @@ leads_to:
 credits: 10+.   Level 1 (English) 7+ credits / Level 3 (English Language)
 course_fees: Included in International Student fee
 notes: >-
-  'This course is available to students of all year levels with English as a second language.'
+  'This course is available to students of all year levels with English as a
+  second language.'
+standards:
+  - '28068'
+  - '28070'
+  - '31008'
+  - '90853'
+  - '90854'
+  - '90857'
 ---
 To assist English as a Second Language students to further develop their English skills to attain Level One English standards, and/or to achieve Level Three English Language (previously ESOL) standards in reading and writing.
