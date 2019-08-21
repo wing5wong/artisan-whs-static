@@ -12,6 +12,12 @@ assessment_type: Achievement Standard
 leads_to:
   - FNG2
   - FDH2
+standards:
+  - '90956'
+  - '90957'
+  - '90958'
+  - '90959'
+  - '90961'
 credits: '24'
 course_fees: $75
 ---
