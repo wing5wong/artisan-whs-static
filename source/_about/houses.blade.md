@@ -20,7 +20,7 @@ The houses originate from a well-known Whanganui Quote:
 
 > _E rere kau mai te awa nui, mai te kāhui maunga ki tangaroa. ko au te awa, ko te awa ko au._ 
 
-The river flows from the Mountain to the Sea. I am the River and the River is me.
+  The river flows from the Mountain to the Sea. I am the River and the River is me.
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566338716/Houses/Collage_Athletics_Day_2019_without_water_mark_resize_2.jpg)
 
