@@ -202,7 +202,7 @@ return [
                 return collect($page->standards)->map(function($standard) {
                     return $assessments->firstWhere('title', $standard);
                 })->reduce( function($carry, $standard){
-                    return $carry + $standard->credits;
+                    return $carry + intval($standard->credits);
                 }, 0);
             }
         ],
