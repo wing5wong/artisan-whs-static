@@ -48,7 +48,7 @@
 </div>
 
 <div class="row no-gutters d-md-flex flex-equal flex-wrap">
-    @foreach(['school-newsletters'=>"Newsletters",'achievers-list'=>"Achievers List",'honours-board'=>"Honours Board",'prize-winners'=>"Prize Winners"] as $col=>$title)
+    @foreach(['school-newsletters'=>"Newsletters",'achievers-list'=>"Achievers List",'honours-board'=>"Honours Board",'prizegiving'=>"Prizegiving"] as $col=>$title)
     <div
         class="col bg-yellow text-green p-5 text-center d-flex flex-wrap justify-content-center align-items-center w-100">
         <h2 class="mb-2 w-100">
