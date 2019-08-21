@@ -4,14 +4,20 @@ name: French
 code: FRE1
 subject_area: French
 date: 2019-07-01T00:24:24.387Z
+entry_requirements: Full year at Year 10 or HOD approval.
 year: '11'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to: FRE2
+standards:
+  - '90878'
+  - '90879'
+  - '90880'
+  - '90881'
+  - '90882'
 credits: 19-24
-entry_requirements: Full year at Year 10 or HOD approval.
 course_fees: >-
   Own bi-lingual dictionary an advantage. $20 for online vocabulary learning and
   workbooks.
