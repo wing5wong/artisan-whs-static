@@ -10,9 +10,9 @@
 
 @foreach ($prizegiving_booklets as $booklet)
 <tr>
-        <td width="30%">{{ date('F j, Y', $nl->date) }}</td>
+        <td width="30%">{{ date('F j, Y', $booklet->date) }}</td>
         <td>
-            <a href="{{$nl["file"]}}" download>{{$nl->title}} ({{ date('F Y', $nl->date) }})</a>
+            <a href="{{$booklet->file}}" download>{{$booklet->title}}</a>
         </td>
     
     </tr>
