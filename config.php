@@ -204,7 +204,7 @@ return [
                     return $assessments->firstWhere('title', $standard);
                 })->reduce( function($carry, $standard){
                     return $carry + intval($standard->credits);
-                }, 0) . "credits.";
+                }, 0);
             }
             else {
                 return $page->credits;
