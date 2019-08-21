@@ -14,6 +14,15 @@ leads_to:
   - IEL2
 credits: 20+
 course_fees: Included in International Student Fee
-notes: 'This course is available to students of all year levels with English as a second language.'
+notes: >-
+  This course is available to students of all year levels with English as a
+  second language.
+standards:
+  - '30984'
+  - '30988'
+  - '31013'
+  - '31014'
+  - '31020'
+  - '31025'
 ---
 To help English as a Second Language students to communicate in simple English. The course involves listening to others and responding confidently in spoken and written forms. English Language standards.
