@@ -198,6 +198,13 @@ return [
             'sort' => ['year','course_level','name', 'code'],
             'extends' => '_layouts.course',
             'section' => 'postContent',
+            'getAvailableCredits' => function($page, $assessments) {
+                return collect($page->standards)->map(function($standard) {
+                    return $assessments->firstWhere('title', $standard);
+                })->reduce( function($carry, $standard){
+                    return $carry + $standard->credits;
+                }, 0);
+            }
         ],
         'curriculum' => [
             'path' => 'curriculum/{filename}',

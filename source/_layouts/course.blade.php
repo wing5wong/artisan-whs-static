@@ -63,7 +63,7 @@ $faculty = $faculties->firstWhere('title',$subject->faculty);
         </td>
         <td>
             <strong>Credits:</strong> <br>
-            {{ $page->credits }}
+            {{ $page->credits }} ({{$page->getAvailableCredits($assessments)}})
         </td>
         <td>
             <strong>U.E. Approved:</strong> <br>
