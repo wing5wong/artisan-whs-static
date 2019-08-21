@@ -27,4 +27,4 @@ WHS has competed in the Manawatu competition for the past five years finishing t
 "They [Manukura Red] will be tough, but we are primed for this. It was gut-wrenching to lose the Whanganui Premier final last week, so now we have the chance to turn that around. We have already made history by making the final and a win would top it all off."
 
 _By Iain Hyndman_  
-_Whanganui Chronicle_
+_Whanganui Chronicle 21/8/19_
