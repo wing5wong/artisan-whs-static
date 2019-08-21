@@ -13,6 +13,12 @@ leads_to:
   - TCE2
   - TEC2
   - BAC2
+standards:
+  - '91045'
+  - '91046'
+  - '91047'
+  - '91057'
+  - '91063'
 credits: '25'
 course_fees: $70
 ---
