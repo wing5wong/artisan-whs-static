@@ -11,6 +11,12 @@ course_level: NCEA 1
 assessment_type: Unit Standard
 leads_to:
   - BAC2
+standards:
+  - '12932'
+  - '24352'
+  - '24355'
+  - '24356'
+  - '25919'
 credits: '20'
 course_fees: $80
 ---
