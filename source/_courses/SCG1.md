@@ -14,6 +14,13 @@ leads_to:
   - CHE2
   - PHY2
   - SCI2
+standards:
+  - '90925'
+  - '90930'
+  - '90935'
+  - '90940'
+  - '90944'
+  - '90948'
 credits: '20'
 course_fees: $28 for Write-On Workbook
 ---
