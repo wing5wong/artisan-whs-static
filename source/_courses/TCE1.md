@@ -11,6 +11,10 @@ course_level: NCEA 1
 assessment_type: Unit Standard
 leads_to:
   - TCE2
+standards:
+  - '22923'
+  - '22924'
+  - '22926'
 credits: '24'
 course_fees: $70
 ---
