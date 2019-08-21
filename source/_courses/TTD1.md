@@ -11,6 +11,13 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - FDZ2
+standards:
+  - '91045'
+  - '91046'
+  - '91047'
+  - '91058'
+  - '91063'
+  - '91096'
 credits: '25'
 course_fees: $60
 ---
