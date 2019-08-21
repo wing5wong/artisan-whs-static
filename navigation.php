@@ -75,6 +75,10 @@ return [
                 'title' => 'Honours Board',
                 'url' => '/news-and-events/honours-board'
             ],
+            [
+                'title' => 'Prizegiving',
+                'url' => '/news-and-events/prizegiving'
+            ],
         ],
     ],
     'curriculum' => [
