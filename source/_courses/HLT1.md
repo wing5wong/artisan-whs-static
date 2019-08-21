@@ -13,5 +13,10 @@ leads_to:
   - HLT2
 credits: '15'
 course_fees: $5 for workbook
+standards:
+  - '90971'
+  - '90974'
+  - '90975'
+  - '91097'
 ---
 To provide knowledge and understanding of a variety of skills and concepts related to enhancing and/or maintaining relationships as well as individuals health and well-being. This course contains four major topics of study.
