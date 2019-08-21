@@ -247,7 +247,7 @@ return [
         ],
         
         'prizegiving_booklets' => ['sort' => '-date'],
-        'achievers_lists',
+        'achievers_lists' => ['sort' => '-date'],
         'testimonials',
 
         'international' => [
