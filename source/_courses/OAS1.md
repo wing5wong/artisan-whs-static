@@ -19,6 +19,10 @@ standards:
   - '476'
   - '485'
   - '20137'
+  - '20138'
+  - '20141'
+  - '20152'
+  - '20818'
 credits: 15-18
 course_fees: $160 for all practical training and trips
 ---
