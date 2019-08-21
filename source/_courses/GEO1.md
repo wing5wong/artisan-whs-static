@@ -11,6 +11,13 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - GEO2
+standards:
+  - '91007'
+  - '91009'
+  - '91010'
+  - '91011'
+  - '91012'
+  - '91013'
 credits: '21'
 course_fees: Field Trip (Tongariro - Tourism) approx. $40 each plus $25 Course Book
 ---
