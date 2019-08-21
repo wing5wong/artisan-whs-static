@@ -4,6 +4,7 @@ name: International English Language
 code: IEL2
 subject_area: International English Language
 date: 2019-07-01T01:05:55.206Z
+entry_requirements: ESOL students who need to develop English skills and HOF/TIC approval.
 year: '12'
 type: Optional
 course_duration: Full Year
@@ -12,9 +13,18 @@ assessment_type: Unit Standard
 leads_to:
   - IEL2
   - IEN1
+standards:
+  - '27999'
+  - '28000'
+  - '30980'
+  - '30995'
+  - '31002'
+  - '31006'
+  - '31026'
+notes: >-
+  This course is available to students of all year levels with English as a
+  second language.
 credits: 20+
-entry_requirements: ESOL students who need to develop English skills and HOF/TIC approval.
 course_fees: Included in International Student Fee
-notes: 'This course is available to students of all year levels with English as a second language.'
 ---
 To develop the English skills of English as a Second Language students with emphasis on straightforward reading and writing. English Language (EL) standards.
