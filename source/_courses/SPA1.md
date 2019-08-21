@@ -4,6 +4,7 @@ name: Spanish
 code: SPA1
 subject_area: Spanish
 date: 2019-07-01T02:54:36.095Z
+entry_requirements: Full year at Year 10 or HOD approval.
 year: '11'
 type: Optional
 course_duration: Full Year
@@ -11,8 +12,13 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - SPA2
+standards:
+  - '90908'
+  - '90909'
+  - '90910'
+  - '90911'
+  - '90912'
 credits: 19-24
-entry_requirements: Full year at Year 10 or HOD approval.
 course_fees: >-
   Own bi-lingual dictionary an advantage. $20 for online vocabulary learning and
   workbooks.
