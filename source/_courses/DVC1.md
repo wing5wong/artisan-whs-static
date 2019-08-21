@@ -11,6 +11,13 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - DVC2
+standards:
+  - '91063'
+  - '91064'
+  - '91065'
+  - '91066'
+  - '91067'
+  - '91068'
 credits: '21'
 course_fees: $25
 ---
