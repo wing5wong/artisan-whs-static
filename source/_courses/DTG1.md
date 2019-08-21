@@ -14,7 +14,7 @@ leads_to:
   - DTA2
   - DTS2
 credits: Up to 22
-course_fees: .
+course_fees: 
 standards:
   - '91877'
   - '91878'
