@@ -199,7 +199,7 @@ return [
             'extends' => '_layouts.course',
             'section' => 'postContent',
             'getAvailableCredits' => function($page, $assessments) {
-                return collect($page->standards)->map(function($standard) {
+                return collect($page->standards)->map(function($standard) use ($assessments){
                     return $assessments->firstWhere('title', $standard);
                 })->reduce( function($carry, $standard){
                     return $carry + intval($standard->credits);
