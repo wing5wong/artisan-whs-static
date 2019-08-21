@@ -8,15 +8,21 @@
 
 
 <table>
-@foreach ($achievers_lists as $list)
-<tr>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th>Download Achievers List</th>
+        </tr>
+    </thead>
+    @foreach ($achievers_lists as $list)
+    <tr>
         <td width="30%">{{ date('Y', $list->date) }}</td>
         <td>
             <a href="{{$list->file}}" download>{{$list->title}}</a>
         </td>
-    
+
     </tr>
-@endforeach
+    @endforeach
 </table>
 
 
