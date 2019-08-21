@@ -11,6 +11,12 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - HIS2
+standards:
+  - '91001'
+  - '91003'
+  - '91004'
+  - '91005'
+  - '91002'
 credits: '20'
 course_fees: field trip
 ---
