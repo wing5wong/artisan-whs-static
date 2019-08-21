@@ -7,7 +7,7 @@
 @yield('postContent')
 
 
-
+<table>
 @foreach ($prizegiving_booklets as $booklet)
 <tr>
         <td width="30%">{{ date('F j, Y', $booklet->date) }}</td>
