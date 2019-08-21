@@ -16,5 +16,3 @@ Nominate a student by selecting either:
 [Achievers Nomination PDF (Printable)](https://res.cloudinary.com/whanganuihigh/image/upload/v1563941266/Achievers/Achievers_Nomination_Form.pdf)
 
 (The printable pdf can be handed to our Student Centre)
-
-- - -
