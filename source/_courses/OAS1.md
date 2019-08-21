@@ -12,6 +12,13 @@ assessment_type: Unit Standard
 leads_to:
   - OUT2
   - SPX2
+standards:
+  - '431'
+  - '448'
+  - '467'
+  - '476'
+  - '485'
+  - '20137'
 credits: 15-18
 course_fees: $160 for all practical training and trips
 ---
