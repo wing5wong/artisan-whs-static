@@ -37,7 +37,9 @@ There were dozens of eggs being cracked last week in honour of UCOL Whanganui’
 
 Whanganui High School sent in its crack omelette making team of Kelahn Te Awhe, Alysha Nuku-Matea, Britney Walsh and Ava Fitzpatrick to the hot kitchen class. The omelettes had to contain a Woodhaven Gardens vegetable and were produced by a team of two making two flat and two folded omelette dishes in 30 minutes; so Kelahn and Alysha made fennel, spring onion and chorizo served with an orange emulsion folded and spinach, ricotta and lemon and raspberry curd open. Britney and Ava made a beetroot, radish, spring onion and raspberry folded omelette served with raspberry curd and a leek, broccoli, pancetta and blue cheese open omelettes. 
 
-**The teams took Gold and Silver and won the class.** 
+**The teams took Gold and Silver and won the class.**
+
+---
 
 Cupcakes are always a popular static event. 
 
