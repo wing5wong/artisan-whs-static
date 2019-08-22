@@ -23,4 +23,4 @@ Awesome lead up to their tournament week in the Rankin Cup - Division 1, being p
 
 GO BOYS!! 💚💛🏑🏑💛💚
 
-http://hockeynz.co.nz/…/Rankin-Cup-India-Shield-Final-V2-19…
+http://hockeynz.co.nz/wp-content/uploads/2019/08/Rankin-Cup-India-Shield-Final-V2-190814.pdf?fbclid=IwAR0cQmeDyXNZedJPcZYzM5T6y5RO_DGVRLQt2Ig3g2MBYR6yedtEo_eIHiQ
