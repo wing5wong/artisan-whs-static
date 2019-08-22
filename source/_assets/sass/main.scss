@@ -100,3 +100,14 @@ main {
         font-size: 1.2em;
     }
 }
+
+blockquote {
+    text-align: left; 
+    padding: 1rem;
+    margin: 2em 0;
+    border: 2px solid #074631;
+    border-width: 0 0 0 4px;
+    font-weight: bolder;
+    color: #074631;
+    font-size: 1.2em;
+}
