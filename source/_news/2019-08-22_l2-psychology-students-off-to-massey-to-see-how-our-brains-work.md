@@ -21,9 +21,9 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566435270/IMG_20190801_113959.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1566435267/IMG_20190801_114836.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566436775/IMG_20190801_114836crop.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1566435188/IMG_20190801_134541cropped.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566436813/zIMG_20190801_134541.jpg
 ---
 This term our Level Two Psychology students visited Massey University for a fascinating day of finding out how our brains work! 
 
