@@ -6,7 +6,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683536/School%20Policies/1.1--Treaty-of-Waitangi_-updated-October-2016.pdf
         policy: 1.1 Treaty of Waitangi
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683531/School%20Policies/1.2--Curriculum-Information_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1566447642/School%20Policies/1.2_-Curriculum_Information_updated_August_2019.pdf
         policy: 1.2 Curriculum Information
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683532/School%20Policies/1.5--Students-with-Additional-Learning-Needs_-updated-September-2016.pdf
