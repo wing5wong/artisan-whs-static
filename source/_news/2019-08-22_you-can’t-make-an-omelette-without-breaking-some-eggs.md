@@ -1,19 +1,17 @@
 ---
 title: You can’t make an omelette without breaking some eggs!
-date: 2019-08-22T00:25:41.758Z
+date: 2019-08-16T00:25:41.758Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566433985/1.L-R._Mrs_Hardcastle_Alysha_Kelahn_Ava_Britney_and_Caitlyn.jpg
 image_title: >-
-  The winning team from left to right:  Mrs Hardcastle, Alysha, Kelahn, Ava,
-  Britney and Caitlyn.
+  Our Chefs from left to right:  Mrs Hardcastle, Alysha, Kelahn, Ava, Britney
+  and Caitlyn. Absent, Olea Drummond.
 description: >-
-  Whanganui High School sent in its crack omelette making team of Kelahn Te
-  Awhe, Alysha Nuku-Matea, Britney Walsh and Ava Fitzpatrick to the hot kitchen
-  class.
+  WHS sent in its crack omelette making team of Kelahn Te Awhe, Alysha
+  Nuku-Matea, Britney Walsh and Ava Fitzpatrick to the hot kitchen class.
 short: >-
-  Whanganui High School sent in its crack omelette making team of Kelahn Te
-  Awhe, Alysha Nuku-Matea, Britney Walsh and Ava Fitzpatrick to the hot kitchen
-  class.
+  WHS sent in its crack omelette making team of Kelahn Te Awhe, Alysha
+  Nuku-Matea, Britney Walsh and Ava Fitzpatrick to the hot kitchen class.
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566434027/2.Gold_omlettes.jpg
