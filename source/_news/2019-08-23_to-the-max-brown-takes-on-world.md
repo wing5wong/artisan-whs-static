@@ -43,8 +43,11 @@ In her most recent competitive display, Hoskin finished eighth in the A Final as
 
 Programme (NZ) time: 
 
-Thursday 3.10am: Lisa Carrington Heats of the Women's K1 200m.  
-**Friday 7.30pm: Max Brown and Kurtis Imrie Heats of Men's K2 1000m.**  **Saturday 4am: Brown and Imrie (hopefully), Semifinals of Men's K2 1000m.**
+Thursday 3.10am: Lisa Carrington Heats of the Women's K1 200m.
+  
+**Friday 7.30pm: Max Brown and Kurtis Imrie Heats of Men's K2 1000m.** 
+ 
+**Saturday 4am: Brown and Imrie (hopefully), Semifinals of Men's K2 1000m.**
 
 _By Staff Reporter_  
 _Whanganui Chronicle 22/8/19_
