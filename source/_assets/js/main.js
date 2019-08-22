@@ -94,7 +94,7 @@ window.addEventListener('DOMContentLoaded', function() {
         if(node.getAttribute('title')){
             wrapper.setAttribute('title', node.getAttribute('title'))
         }
-        wrapper.setAttribute('href', node.getAttribute('src'))
+        wrapper.setAttribute('href', node.dataset.imageUrl || node.getAttribute('src'))
         addClass(wrapper, 'featured')
         wrap(node, wrapper)
     });
