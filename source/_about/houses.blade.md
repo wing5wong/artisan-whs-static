@@ -10,7 +10,7 @@ intro: >-
 button_text: Read About Our House System
 visible: 'Yes'
 ---
-# House Names
+## House Names
 
 The houses of Whanganui High School are: 
 
@@ -23,7 +23,7 @@ The river flows from the Mountain to the Sea. I am the River and the River is me
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566338716/Houses/Collage_Athletics_Day_2019_without_water_mark_resize_2.jpg)
 
-# History
+## History
 
 The official Houses Opening Day for all students and staff of Whanganui High School took place on Friday, 16 February 2018 at the Jubilee Stadium, Whanganui. Whanganui High School historically had a house system in the 1970s, however it lapsed over time. The community was consulted about house names and identities. The four house names chosen were Awa, Maunga, Moana and Whenua. Those names were gifted to the school, along with the iwi story of the origin of the Whanganui River at the Houses Opening Day. 
 
@@ -35,13 +35,9 @@ The Whanganui High School kapa haka group, Kia Whaiora, welcomed visitors bringi
 
 
 
-# Story of 'The Creation of The Whanganui River'
+## Story of 'The Creation of The Whanganui River'
 
 "The Creation of The Whanganui River" (Te Pakimaero o Te Awa o Whanganui), is the iwi story of the origin of the Whanganui River. This was gifted to Whanganui High School at our House Opening Day on Friday, 16 February 2018. Our house names derive from this story. [You can read the creation story here.](https://res.cloudinary.com/whanganuihigh/image/upload/v1566262378/Houses/Whanganui_Creation__Story_60cm.pdf)
-
-
-
-# House Points
 
 ## Weekly Summary & Sport Days
 
