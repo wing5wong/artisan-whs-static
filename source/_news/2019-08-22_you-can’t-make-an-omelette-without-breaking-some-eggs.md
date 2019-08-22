@@ -45,5 +45,5 @@ Cupcakes are always a popular static event.
 
 Whanganui High School entered six different cupcakes. This year we chose to make a salted caramel and chocolate with a spun sugar decoration, a black forest chocolate and cherry, a tea in the rose garden with Earl Grey tea flavour and rose petal jam, a blackberry and coconut, a hot cakes cake and a raspberry lemonade flavour. We took one **Gold** for the raspberry lemonade by Ava Fitzpatrick, **Silvers** for the salted caramel by Kelahn Te Awhe, Black forest by Britney Walsh, Tea in the Rose Garden by Caitlyn Butlin and **Bronze** for hot cakes by Aylsha Nuku- Matea and Blackberry and coconut by Olea Drummond. 
 
-_Mrs Linda Hardcastle_\
+_Mrs Linda Hardcastle_  
 _Head of Food Technology_
