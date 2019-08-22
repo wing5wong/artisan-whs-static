@@ -5,6 +5,6 @@ departments:
   - International
 positions:
   - department: International
-    title: ESOL Teacher
+    title: Teacher of ESOL
 ---
 
