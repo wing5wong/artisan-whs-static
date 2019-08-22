@@ -14,6 +14,12 @@ short: >-
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566438582/2.Winners-4-to-Nil.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566439224/3.68860366_1325834344232335_8747008490976837632crop_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566439251/4.68964869_1325834320899004_5061944443842592768crop_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566439252/5.69473164_1325834300899006_594145971634438144crop_n.jpg
 ---
 💥 WOOHOO 💥
 
