@@ -6,5 +6,5 @@ departments:
   - Languages
 positions:
   - department: Languages
-    title: Chinese
+    title: Teacher of Chinese
 ---

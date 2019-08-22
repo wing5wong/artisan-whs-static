@@ -5,5 +5,5 @@ departments:
   - Languages
 positions:
   - department: Languages
-    title: Spanish
+    title: Teacher of Spanish
 ---

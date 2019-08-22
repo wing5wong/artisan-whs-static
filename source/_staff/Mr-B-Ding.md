@@ -12,6 +12,6 @@ positions:
   - department: Deans
     title: Dean of International Students
   - department: Languages
-    title: Chinese
+    title: Teacher of Chinese
 ---
 

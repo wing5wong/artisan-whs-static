@@ -6,5 +6,5 @@ departments:
   - Languages
 positions:
   - department: Languages
-    title: Maori
+    title: Teacher of Maori
 ---
