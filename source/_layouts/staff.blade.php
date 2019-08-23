@@ -22,12 +22,12 @@
     <article class="col-sm-12 col-md-6 col-lg-6 p-5">
 
         {{$person->title}}
-        <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250/", $person->image)}}"
+        <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $person->image)}}"
         srcset="
-        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400/", $person->image)}} 400w,
-        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250/", $person->image)}} 250w
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400,h_260/", $person->image)}} 400w,
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $person->image)}} 250w
         "
-        sizes="(max-width: 250px) 250px, 400px"
+        sizes="(max-width: 400px) 250px, 400px"
         alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
         <p class="lead">{{$person->position}}</p>
 
