@@ -27,7 +27,7 @@
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400/", $person->image)}} 400w,
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250/", $person->image)}} 250w
         "
-        sizes="(min-width: 400px) 400px, 250px"
+        sizes="(max-width: 250px) 250px, 400px"
         alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
         <p class="lead">{{$person->position}}</p>
 
