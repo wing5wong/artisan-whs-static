@@ -30,24 +30,6 @@
         @endforeach
     </div>
     @endif
-
- 
-
- <style>
-
-a.featured[title]:after {
-  content: attr(title);
-  padding: 4px 8px;
-  color: #FFF;
- background-color:black;
- display: block;
-    }
-
-    .image-credit {
-        margin: -2em 0 2em 0;
-    }
-
-     </style>
      </main>
     @include('_partials.lastReviewed')
 @endsection

@@ -38,6 +38,18 @@ p>img {
     text-align: center;
 }
 
+a.featured[title]:after {
+    content: attr(title);
+    padding: 4px 8px;
+    color: #FFF;
+    background-color: #074631;
+    display: block;
+    }
+  
+      .image-credit {
+          margin: -2em 0 2em 0;
+      }
+  
 
 
 
