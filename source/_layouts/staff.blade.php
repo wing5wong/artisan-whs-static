@@ -22,7 +22,13 @@
     <article class="col-sm-12 col-md-6 col-lg-6 p-5">
 
         {{$person->title}}
-        <img src="{{$person->image}}" alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
+        <img src="{{$person->image}}"
+        srcset="
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400/", $person->image)}} 400w,
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250/", $person->image)}} 250w
+        "
+        sizes="(min-width: 400px) 50vw, 100vw"
+        alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
         <p class="lead">{{$person->position}}</p>
 
     </article>
