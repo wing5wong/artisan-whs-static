@@ -16,8 +16,12 @@
     @foreach( 
         $extracurricular_activities->where('extracurricular_area', $page->title) as $ec_activity
     )
-    <h3>{{$ec_activity->title}}</h3>
+    <details>
+        <summary>
+            <h3>{{$ec_activity->title}}</h3>
+        </summary>
     {!! $ec_activity !!}
+    </details>
     @endforeach
 
 @include('_partials.lastReviewed')
