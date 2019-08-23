@@ -17,10 +17,10 @@
           <span class="text-muted">{{ $student->place ?? ""}}</span>
             </h2>
         <div class="row">
-          <div class="col">
+          <div class="col-sm-12 col-md-4 col-lg-4">
             <img src="{{ $student->image }}" width="140" height="186" alt="">
           </div>
-          <div class="col">
+          <div class="col-sm-12 col-md-8 col-lg-8">
             {!! $student !!}
           </div>
         </div>

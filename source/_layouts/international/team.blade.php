@@ -28,12 +28,12 @@ $page->getDepartmentStaff($faculties, $staff, "International"),
         </span>
     </h3>
     <div class="row">
-        <div class="col">
+        <div class="col-sm-12 col-md-4 col-md-4">
             @if($person->image)
             <img src="{{$person->image }}" width="255" />
             @endif
         </div>
-        <div class="col">
+        <div class="col-sm-12 col-md-8 col-md-8">
             {!! $person !!}
             @if(!empty($person->email))
             <a href="mailto:{{$person->email}}" class="button button--green">
