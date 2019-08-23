@@ -10,12 +10,12 @@
 <div class="row">
     @foreach ($honours->where('award',"Dux Litterarum")->groupBy('award') as $category)
 
-    <div class="col">
+    <div class="col-sm-12 col-md-6 col-lg-6">
         <h2><span class="decorated pb-2 mb-2 d-table">{{$category->first()->person1_name}}</span>
        <small class="text-muted">Dux Litterarum</small></h2>
         <img src="{{$category->first()->person1_image}}" alt="" class="img-thumbnail">
     </div>
-    <div class="col">
+    <div class="col-sm-12 col-md-6 col-lg-6">
         <h2><span class="decorated pb-2 mb-2 d-table">{{$category->first()->person2_name}}</span>
            <small class="text-muted">Proxime Accessit</small></h2>
         <img src="{{$category->first()->person2_image}}" alt="" class="img-thumbnail">
