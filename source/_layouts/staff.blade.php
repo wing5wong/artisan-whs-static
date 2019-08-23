@@ -19,9 +19,10 @@
     @foreach(["Principal", "Associate Principal", "Deputy Principal"] as $dept)
 
     @foreach($page->getDepartmentStaff($faculties, $staff, $dept) as $person)
-    <article class="col-sm-12 col-md-6 col-lg-6 p-5">
+    <article class="col-sm-12 col-md-6 col-lg-6">
 
-        {{$person->title}}
+        <h3>{{$person->title}} <br>
+        <small>{{$person->position}}</small></h3>
         <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $person->image)}}"
         srcset="
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400,h_360/", $person->image)}} 400w,
@@ -29,7 +30,7 @@
         "
         sizes="(max-width: 400px) 250px, 400px"
         alt="" width="600" alt="{{$person->title}}" style="max-width: 100%">
-        <p class="lead">{{$person->position}}</p>
+        
 
     </article>
     @endforeach
