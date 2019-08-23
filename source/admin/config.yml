@@ -715,6 +715,17 @@ collections:
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Filename", name: "file", widget: "file"}
 
+  - name: "the_record"
+    label: "The Record"
+    folder: "source/_the_record"
+    create: true
+    slug: "{{slug}}"
+  
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Filename", name: "file", widget: "file"}
+
 
 #  - name: static
 #    label: "Static Pages"
