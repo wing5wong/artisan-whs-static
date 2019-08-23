@@ -24,7 +24,7 @@
         $subjectCourses = $page->getSubjectAreaCourses($subject, $courses) 
     @endphp
     @if(count($subjectCourses))
-    <div class="col-sm-12 col-6">
+    <div class="col-sm-12 col-md-6 col-lg-6">
         <h3 class="d-table mt-3">
             {{ $subject->title}}
             @if($subject->maori_title)<br><small
