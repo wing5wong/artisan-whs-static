@@ -46,7 +46,7 @@ $levels = [
 
         <div class="row">
             @foreach($mapped as $faculty)
-            <div class="col-6">
+            <div class="col-sm-12 col-6">
                 <h3 class="d-table mt-3">
                     {{ $faculty['faculty']->title}}
                     @if($faculty['faculty']->maori_title)<br><small
