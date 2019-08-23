@@ -223,7 +223,7 @@ return [
         'events' => [
             'path' => 'events/{filename}',
             'sort' => 'date',
-            'extends' => '_layouts.post',
+            'extends' => '_layouts.event',
             'section' => 'postContent',
             'isPost' => true,
             'comments' => false,
