@@ -5,7 +5,7 @@
 @section('content')
 <main>
     <h1 class="decorated py-3 mb-4">{{ $page->title }} 
-    <small>{{ date('F j, Y', $page->date) }}</small></h1>
+    <br><small>{{ date('F j, Y', $page->date) }}</small></h1>
 
     {{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}}
     @if ($page->image)
