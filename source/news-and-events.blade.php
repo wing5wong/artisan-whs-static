@@ -6,7 +6,7 @@
 
 
     <div
-        class="col-6 p-5 bg-green text-white shadow-right-inset d-flex flex-column justify-content-around align-items-center">
+        class="col-sm-12 col-md-6 col-lg-6 p-5 bg-green text-white shadow-right-inset d-flex flex-column justify-content-around align-items-center">
         <h2>News</h2>
 
         <!-- Slider main container -->
@@ -31,7 +31,7 @@
     </div>
 
 
-    <div class="col-6 p-5 bg-white text-green d-flex flex-column justify-content-start align-items-center">
+    <div class="col-sm-12 col-md-6 col-lg-6 p-5 bg-white text-green d-flex flex-column justify-content-start align-items-center">
         <h2>Events</h2>
 
         <table class="table table-striped table-borderless table-hover text-center">
@@ -50,7 +50,7 @@
 <div class="row no-gutters d-md-flex flex-equal flex-wrap">
     @foreach(['school-newsletters'=>"Newsletters",'achievers-list'=>"Achievers List",'honours-board'=>"Honours Board",'prizegiving'=>"Prizegiving"] as $col=>$title)
     <div
-        class="col bg-yellow text-green p-5 text-center d-flex flex-wrap justify-content-center align-items-center w-100">
+        class="col-sm-12 col-md-6 col-lg-3 bg-yellow text-green p-5 text-center d-flex flex-wrap justify-content-center align-items-center w-100">
         <h2 class="mb-2 w-100">
             {{ $title }}
         </h2>
