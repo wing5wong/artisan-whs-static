@@ -38,6 +38,21 @@ p>img {
     text-align: center;
 }
 
+
+
+
+h1 {
+    font-size: calc(26px + 1vw);
+}
+
+h2 {
+    font-size: calc(16px + 1vw);
+}
+
+h3 {
+    font-size: calc(14px + 1vw);
+}
+
 h1+.featured {
     margin-top: 0;
 }
