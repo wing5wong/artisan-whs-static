@@ -24,7 +24,7 @@
     @if(is_array($page->image_gallery))
     <div class="image-gallery row">
         @foreach($page->image_gallery as $image)
-        <div class="col-4">
+        <div class="col-sm-6 col-md-4 col-lg-4">
         <img src="{{ str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_scale,q_80,w_300/",$image["image"])}}" @isset($image["description"])alt="{{$image["description"]}}"@endisset @isset($image["description"])title="{{$image["description"]}}"@endisset data-image-url="{{$image["image"]}}">
         </div>
         @endforeach
