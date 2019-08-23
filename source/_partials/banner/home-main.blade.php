@@ -1,4 +1,4 @@
-<div class="site-banner w-100 position-relative 
+<div class="site-banner site-banner-home w-100 position-relative 
 text-center 
 d-flex flex-column 
 justify-content-between align-items-between">
