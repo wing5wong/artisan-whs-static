@@ -302,6 +302,7 @@ return [
         ],
         'prefects',
         'school_documents',
+        'the_record',
         'staff' => [
             'section' => 'postContent',
             'tags' => [],
