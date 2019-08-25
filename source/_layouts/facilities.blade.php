@@ -24,10 +24,10 @@
 </summary>
 
 @if ($facility->image)
-    <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_limit,g_face,q_80,w_500,h_300/", $facility->image)}}"
+    <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $facility->image)}}"
         srcset="
-        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_limit,g_face,q_80,w_950,h_300/", $facility->image)}} 950w,
-        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_limit,g_face,q_80,w_500,h_300/", $facility->image)}} 500w
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_950,h_300,c_lfill,g_auto/", $facility->image)}} 950w,
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $facility->image)}} 500w
         "
         sizes="(min-width: 800px) 950px, 500px"
         alt="" style="max-width: 100%">
