@@ -33,7 +33,7 @@
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_500/", $facility->image)}} 500w
         "
         sizes="(min-width: 800px) 950px, 500px"
-        width="500px" alt="" style="max-width: 100%">
+        alt="" style="max-width: 100%">
 @endif
 
 
