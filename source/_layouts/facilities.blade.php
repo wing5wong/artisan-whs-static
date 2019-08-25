@@ -24,7 +24,16 @@
 </summary>
 
 @if ($facility->image)
+
     <img src="{{ $facility->image }}"  style="object-fit: cover; max-width:100%; display: block;">
+
+    <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_500/", $facility->image)}}"
+        srcset="
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_950/", $facility->image)}} 950w,
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_500/", $facility->image)}} 500w
+        "
+        sizes="(min-width: 800px) 950px, 500px"
+        width="500px" alt="" style="max-width: 100%">
 @endif
 
 
