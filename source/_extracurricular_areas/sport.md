@@ -1,6 +1,7 @@
 ---
 title: Sport
 date: 2019-07-09T22:46:50.524Z
+person_in_charge: Mrs L. Murphy
 ---
 Whanganui High School offers a wide range of sports to our students.
 
