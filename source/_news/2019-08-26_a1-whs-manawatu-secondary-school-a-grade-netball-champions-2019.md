@@ -23,7 +23,7 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566795275/69431976_1328148264000943_5065763146510106624_n.jpg
 ---
-**Woohoo!!!!!! 
+**Woohoo!!!!  
 Manawatu Secondary School A Grade Netball CHAMPIONS!! 🏆🥇**
 
 **Phillips Electrical A1 WHS Netball Team 💛💚💪🏻**
@@ -37,5 +37,5 @@ A BIG thank you to Manager Kim Flower for 8 years of FUN, Support, awesome manag
 
 Thank you to EVERYONE who made the trip to Palmy this morning to support the team!! 😉
 
-_Lisa Murphy_\
+_Lisa Murphy_  
 _WHS Director of Sport_
