@@ -1,6 +1,6 @@
 ---
 title: B Final for Brown at World Champs
-date: 2019-08-26T22:39:02.151Z
+date: 2019-08-25T22:39:02.151Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566452564/Max_Brown_Chron_22.8.19.jpg
 image_title: Max Brown and Kurtis Imrie.
