@@ -67,5 +67,5 @@ As well as the Manawatu schools, they played the likes of Hawera High and New Pl
 
 It will also be the end of an era for the coach and manager, as Murphy and Flower are leaving the team this year after eight years at the helm.
 
-_By Jared Smith_\
+_By Jared Smith_  
 _Whanganui Chronicle 27/8/19_
