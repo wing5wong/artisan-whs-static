@@ -59,7 +59,9 @@ $personInCharge = $staff->firstWhere('title', $ec_area->person_in_charge);
         @foreach( $extracurricular_activities->where('extracurricular_area', $page->title) as $ec_activity )
 
         <tr>
-            <a href="{{$ec->getPath()}}">{{$ec_activity->title}}</a>
+            <td>
+                <a href="{{$ec->getPath()}}">{{$ec_activity->title}}</a>
+            </td>
         </tr>
         @endforeach
 
