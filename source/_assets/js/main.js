@@ -1,5 +1,6 @@
 import 'bootstrap';
 import Swiper from "swiper";
+import 'netlify-identity-widget'
 
 const clickMe = document.querySelector('.test-js');
 
@@ -97,3 +98,14 @@ window.addEventListener('DOMContentLoaded', function() {
         wrap(node, wrapper)
     });
   });
+
+
+if (window.netlifyIdentity) {
+    window.netlifyIdentity.on('init', (user) => {
+        if (!user) {
+            window.netlifyIdentity.on('login', () => {
+                document.location.href = '/admin/';
+            });
+        }
+    });
+}

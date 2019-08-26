@@ -21,7 +21,6 @@
 
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
-    @include('_partials.cms.identity_widget')
 
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
@@ -49,6 +48,5 @@
 
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     @includeWhen($page->production, '_partials.analytics')
-    @include('_partials.cms.identity_redirect')
 </body>
 </html>

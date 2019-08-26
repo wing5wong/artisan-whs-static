@@ -12,7 +12,6 @@
 
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
-    @include('_partials.cms.identity_widget')
 
     <link href="/assets/fonts/gotham/gotham-light/font.css" rel="stylesheet" />
 <link href="/assets/fonts/gotham/gotham-book/font.css" rel="stylesheet" />
