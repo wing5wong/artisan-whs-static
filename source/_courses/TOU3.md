@@ -10,6 +10,14 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: Work in the tourism industry or further study in Tourism
+standards:
+  - '3727'
+  - '18211'
+  - '18212'
+  - '18213'
+  - '24725'
+  - '24733'
+  - '25508'
 credits: Up to 22
 course_fees: $65. A laptop is beneficial
 ---
