@@ -15,9 +15,9 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566795268/68735697_1328148317334271_1143644370952519680_n.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1566795277/69445814_1328148464000923_3630024045530972160_n.jpg
-  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566795275/69431976_1328148264000943_5065763146510106624_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566795277/69445814_1328148464000923_3630024045530972160_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 ---
