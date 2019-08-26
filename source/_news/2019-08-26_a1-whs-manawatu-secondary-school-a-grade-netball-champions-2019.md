@@ -23,9 +23,9 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566795275/69431976_1328148264000943_5065763146510106624_n.jpg
 ---
-**💥  WOOHOO  💥
+**💥 WOOHOO 💥**
   
-Manawatu Secondary School A Grade Netball CHAMPIONS!! 🏆🥇**
+**Manawatu Secondary School A Grade Netball CHAMPIONS!! 🏆🥇**
 
 **Phillips Electrical A1 WHS Netball Team 💛💚💪🏻**
 
