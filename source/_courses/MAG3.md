@@ -4,16 +4,23 @@ name: Mathematics General
 code: MAG3
 subject_area: Mathematics (General)
 date: 2019-07-23T01:39:34.583Z
+entry_requirements: >-
+  12 Achievement Standard credits from a Level 2 Mathematics course and HOF/TIC
+  approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 leads_to: UE approved
+standards:
+  - '91574'
+  - '91576'
+  - '91580'
+  - '91581'
+  - '91582'
+  - '91587'
 credits: '20'
-entry_requirements: >-
-  12 Achievement Standard credits from a Level 2 Mathematics course and HOF/TIC
-  approval.
 course_fees: $5. (Students need a Graphics calculator for this course)
 ue_approved: true
 ---
