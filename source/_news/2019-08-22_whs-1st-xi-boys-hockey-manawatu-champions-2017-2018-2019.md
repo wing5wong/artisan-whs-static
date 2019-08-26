@@ -21,7 +21,7 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566439252/5.69473164_1325834300899006_594145971634438144crop_n.jpg
 ---
-💥 WOOHOO 💥
+**💥 WOOHOO 💥**
 
 **Huge Congratulations to our 1st XI Boys Hockey Team who won the Manawatu Secondary Schools Division 1 Champs in Palmerston North last night against Feilding High School, winning 4-0! 👏👏**
 
