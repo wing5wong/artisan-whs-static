@@ -1,8 +1,10 @@
 ---
-title: A1 WHS Team - Manawatu Secondary School A Grade Netball Champions 2019!
+title: >-
+  WHS A1 Netball Team - Manawatu Secondary School A Grade Netball Champions
+  2019!
 date: 2019-08-24T04:44:13.839Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1566795255/68654353_1328148277334275_8268601863515930624_n.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 description: >-
   Phillips Electrical A1 WHS Netball Team - Manawatu Secondary School A Grade
   Netball CHAMPIONS 2019!
@@ -11,15 +13,15 @@ short: >-
   Netball CHAMPIONS 2019!
 image_gallery:
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1566795272/69245019_1328148300667606_6051505364107526144_n.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1566795268/68735697_1328148317334271_1143644370952519680_n.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1566795275/69431976_1328148264000943_5065763146510106624_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566795255/68654353_1328148277334275_8268601863515930624_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566795277/69445814_1328148464000923_3630024045530972160_n.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566795268/68735697_1328148317334271_1143644370952519680_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566795272/69245019_1328148300667606_6051505364107526144_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1566795275/69431976_1328148264000943_5065763146510106624_n.jpg
 ---
 **Woohoo!!!!!! 
 Manawatu Secondary School A Grade Netball CHAMPIONS!! 🏆🥇**
