@@ -1,6 +1,6 @@
 ---
 title: Mrs D. Howard
-position: Vocational Studies/Gateway/STAR/External Education Co-ord
+position: 'Head of Vocational Studies, External Education Co-ordinator'
 departments:
   - Vocational Studies
 positions:
