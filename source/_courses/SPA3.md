@@ -4,12 +4,18 @@ name: Spanish
 code: SPA3
 subject_area: Spanish
 date: 2019-07-01T02:55:53.418Z
+entry_requirements: 12 credits in SPA2 or HOD approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
+standards:
+  - '91568'
+  - '91569'
+  - '91570'
+  - '91571'
+  - '91572'
 credits: 18-24
-entry_requirements: 12 credits in SPA2 or HOD approval.
 course_fees: >-
   Own bi-lingual dictionary an advantage. $20 for online vocabulary learning and
   workbooks.
