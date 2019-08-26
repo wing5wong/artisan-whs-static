@@ -4,13 +4,19 @@ name: Accounting
 code: ACC3
 subject_area: Accounting
 date: 2019-07-28T21:02:36.894Z
+entry_requirements: 12 Credits in ACC2 (including 1 external standard) or HOF/TIC approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - '91405'
+  - '91406'
+  - '91407'
+  - '91408'
+  - '91409'
 credits: 18-22
-entry_requirements: 12 Credits in ACC2 (including 1 external standard) or HOF/TIC approval.
 course_fees: $18
 ue_approved: true
 ---
