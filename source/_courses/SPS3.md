@@ -4,13 +4,19 @@ name: Sport Smart
 code: SPS3
 subject_area: Sport Smart
 date: 2019-07-25T02:58:05.758Z
+entry_requirements: 14 credits in SPR2 or PED2 and HOF/TIC approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
+standards:
+  - '26223'
+  - '91501'
+  - '91504'
+  - '91505'
+  - '91789'
 credits: '20'
-entry_requirements: 14 credits in SPR2 or PED2 and HOF/TIC approval.
 course_fees: $120
 ue_approved: true
 ---
