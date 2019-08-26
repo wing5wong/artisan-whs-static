@@ -46,5 +46,5 @@ It was a tough finish to what has been a strong season for the team, which still
 
 The team now look forward to their post-season tournament when they travel to the North Shore, also starting in the first week of September.
 
-_By Jared Smith_\
+_By Jared Smith_  
 _Whanganui Chronicle 24/8/19_
