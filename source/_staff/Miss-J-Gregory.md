@@ -5,5 +5,6 @@ departments:
   - Vocational Studies
 positions:
   - department: Vocational Studies
-    title: Vocational Studies/Gateway Employment Co-ordinator
+    title: Employment Co-ordinator
 ---
+
