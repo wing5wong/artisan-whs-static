@@ -1,6 +1,6 @@
 ---
 title: Rebecca was the 2nd NZ runner home at Cross Country in Sydney
-date: 2019-08-26T04:47:31.291Z
+date: 2019-08-24T04:47:31.291Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566795119/Rebecca_Baker_August_2019_2_in_NZ_running_in_OZ.jpg
 description: >-
