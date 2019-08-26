@@ -4,13 +4,18 @@ name: Physical Education
 code: PED3
 subject_area: P.E/Sports Science
 date: 2019-07-01T02:17:45.711Z
+entry_requirements: 14 credits in PED2 and 12 credits in ENG2/ENE2 and HOF/TIC approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - '91498'
+  - '91500'
+  - '91501'
+  - '91502'
 credits: '19'
-entry_requirements: 14 credits in PED2 and 12 credits in ENG2/ENE2 and HOF/TIC approval.
 course_fees: $120
 ue_approved: true
 ---
