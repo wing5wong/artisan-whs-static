@@ -23,7 +23,9 @@ image_gallery:
 ---
 💥 WOOHOO 💥
 
-Huge Congratulations to our 1st XI Boys Hockey Team who won the Manawatu Secondary Schools Division 1 Champs in Palmerston North last night against Feilding High School, winning 4-0! 👏👏
+**Huge Congratulations to our 1st XI Boys Hockey Team who won the Manawatu Secondary Schools Division 1 Champs in Palmerston North last night against Feilding High School, winning 4-0! 👏👏**
+
+**Manawatu Champions 2017, 2018 & 2019!!!**
 
 Awesome lead up to their tournament week in the Rankin Cup - Division 1, being played in Christchurch, 2-7 September!
 
