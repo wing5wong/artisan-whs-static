@@ -19,10 +19,7 @@
 
 @yield('postContent')
 
-
-<h2 class="decorated d-table my-5">Subject Areas</h2>
-
-
+<hr class="my-5">
 
 <div class="row">
     @foreach($page->getFacultySubjectAreas($page, $subject_areas) as $subject)
