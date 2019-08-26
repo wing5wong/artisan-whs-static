@@ -11,6 +11,13 @@ course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to:
   - TOU3
+standards:
+  - '18237'
+  - '24726'
+  - '24728'
+  - '24729'
+  - '24730'
+  - '24732'
 credits: Up to 24
 course_fees: $65. A laptop is beneficial
 ---
