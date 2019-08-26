@@ -14,6 +14,9 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
   - '91597'
+  - '91598'
+  - '91599'
+  - '91600'
 credits: '20'
 ue_approved: true
 ---
