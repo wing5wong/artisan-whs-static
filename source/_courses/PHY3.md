@@ -4,13 +4,19 @@ name: Physics
 code: PHY3
 subject_area: Physics
 date: 2019-07-29T02:23:44.021Z
+entry_requirements: 13 credits at PHY2 and HOF/TIC approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - '91521'
+  - '91523'
+  - '91524'
+  - '91525'
+  - '91526'
 credits: '19'
-entry_requirements: 13 credits at PHY2 and HOF/TIC approval.
 course_fees: $40
 ue_approved: true
 ---

@@ -4,13 +4,20 @@ name: Biology
 code: BIO3
 subject_area: Biology
 date: 2019-06-28T04:04:34.111Z
+entry_requirements: 12 credits in BIO2 and HOF/TIC approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - '91602'
+  - '91603'
+  - '91604'
+  - '91605'
+  - '91606'
+  - '91607'
 credits: '22'
-entry_requirements: 12 credits in BIO2 and HOF/TIC approval.
 course_fees: $20 workbook plus $40 Wellington Field trip
 ue_approved: true
 ---

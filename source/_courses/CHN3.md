@@ -4,13 +4,19 @@ name: Chinese
 code: CHN3
 subject_area: Chinese
 date: 2019-06-28T04:11:08.569Z
+entry_requirements: 12 credits in CHN2 or HOD approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - '91533'
+  - '91534'
+  - '91535'
+  - '91536'
+  - '91537'
 credits: 19-24
-entry_requirements: 12 credits in CHN2 or HOD approval.
 course_fees: >-
   Own bi-lingual dictionary an advantage. $20 for online vocabulary learning and
   workbooks.

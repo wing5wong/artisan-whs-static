@@ -4,13 +4,19 @@ name: International English
 code: IEN3
 subject_area: International English
 date: 2019-07-01T01:08:31.731Z
+entry_requirements: 4 University Entrance Literacy credits at Level 2 and HOF/TIC approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
+standards:
+  - '22750'
+  - '91101'
+  - '91105'
+  - '91106'
+  - '91476'
 credits: Up to 19
-entry_requirements: 4 University Entrance Literacy credits at Level 2 and HOF/TIC approval.
 course_fees: Included in International Student fee
 ue_approved: true
 ---
