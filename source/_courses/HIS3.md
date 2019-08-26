@@ -4,13 +4,19 @@ name: History
 code: HIS3
 subject_area: History
 date: 2019-07-31T00:51:05.548Z
+entry_requirements: 12 Credits in HIS2 or ENG2.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - '91434'
+  - '91435'
+  - '91436'
+  - '91437'
+  - '91438'
 credits: '25'
-entry_requirements: 12 Credits in HIS2 or ENG2.
 course_fees: Field Trip - to be advised.
 ue_approved: true
 ---
