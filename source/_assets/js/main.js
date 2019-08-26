@@ -1,5 +1,3 @@
-import './html5shiv'
-
 import 'bootstrap';
 import Swiper from "swiper";
 
