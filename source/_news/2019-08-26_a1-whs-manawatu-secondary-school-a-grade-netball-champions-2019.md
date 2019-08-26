@@ -21,19 +21,19 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 ---
-Woohoo!!!!!! 
-Manawatu Secondary School A Grade Netball CHAMPIONS!! 🏆🥇
+**Woohoo!!!!!! 
+Manawatu Secondary School A Grade Netball CHAMPIONS!! 🏆🥇**
 
-Phillips Electrical A1 WHS Netball Team 💛💚💪🏻
+**Phillips Electrical A1 WHS Netball Team 💛💚💪🏻**
 
 Great final against Manukura Red winning 34-33.
 Well done to the whole team...... great way to finish the season!! 
 
 Great send off for our 5 - Y13 Girls Montel Vaiao Aki, Imogen Flower, Teagan Tapa, Keilani Tyrell and Rebecca Tamati.
- 
+
 A BIG thank you to Manager Kim Flower for 8 years of FUN, Support, awesome management skills and always being their for the girls!!!
 
 Thank you to EVERYONE who made the trip to Palmy this morning to support the team!! 😉
 
-_Lisa Murphy  
-WHS Director of Sport_
+_Lisa Murphy_\
+_WHS Director of Sport_
