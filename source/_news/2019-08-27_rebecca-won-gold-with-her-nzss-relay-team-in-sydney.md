@@ -9,7 +9,7 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566855920/Rebecca_Baker_Aug_2019_Gold_in_relay_with_team_in_OZ.jpg
 ---
-Well done Rebecca Baker winning Gold 🥇🏆 with her NZSS Relay team in Sydney today!! 💚💛
+**Well done Rebecca Baker winning Gold 🥇🏆 with her NZSS Relay team in Sydney today!! 💚💛**
 
-_Lisa Murphy  
-WHS Director of Sport 26/8/19_
+_Lisa Murphy_  
+_WHS Director of Sport 26/8/19_
