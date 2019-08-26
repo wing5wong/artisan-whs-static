@@ -16,9 +16,7 @@
 @yield('postContent')
 
 @foreach($extracurricular_areas as $ec_area)
-@php
-$personInCharge = $staff->firstWhere('title', $ec_area->person_in_charge);
-@endphp
+
 <details>
     <summary>
         <h2 class="decorated d-table mt-5 mb-2">{{$ec_area->title}}</h2>
@@ -32,6 +30,9 @@ $personInCharge = $staff->firstWhere('title', $ec_area->person_in_charge);
         " sizes="(min-width: 800px) 950px, 500px" alt="" style="max-width: 100%">
     @endif
 
+    @php
+        $personInCharge = $staff->firstWhere('title', $ec_area->person_in_charge);
+    @endphp
     <h3>Person in charge</h3>
     <table>
         <thead>
@@ -56,7 +57,9 @@ $personInCharge = $staff->firstWhere('title', $ec_area->person_in_charge);
     <h3>Available activities</h3>
     <table>
 
-        @foreach( $extracurricular_activities->where('extracurricular_area', $ec_area->title) as $ec_activity )
+        {{-- ->where('extracurricular_area', $ec_area->title) --}}
+        @foreach( $extracurricular_activities
+         as $ec_activity )
 
         <tr>
             <td>
