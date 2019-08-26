@@ -4,13 +4,18 @@ name: Fashion Design
 code: FDZ3
 subject_area: Fashion Design
 date: 2019-08-01T03:54:22.297Z
+entry_requirements: 12 credits in FDZ2 or HOF/TIC approval.
 year: '13'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - '91609'
+  - '91610'
+  - '91611'
+  - '91621'
 credits: '22'
-entry_requirements: 12 credits in FDZ2 or HOF/TIC approval.
 course_fees: $60
 ue_approved: true
 ---
