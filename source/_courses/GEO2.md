@@ -4,6 +4,7 @@ name: Geography
 code: GEO2
 subject_area: Geography
 date: 2019-07-31T00:32:50.863Z
+entry_requirements: 12 credits in GEO1 or ENG1 or HIS1 or HOF/TIC approval.
 year: '12'
 type: Optional
 course_duration: Full Year
@@ -11,8 +12,14 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - GEO3
+standards:
+  - '91189'
+  - '91240'
+  - '91243'
+  - '91244'
+  - '91245'
+  - '91246'
 credits: '23'
-entry_requirements: 12 credits in GEO1 or ENG1 or HIS1 or HOF/TIC approval.
 course_fees: >-
   Field trips (Ohakune - Geographic Research approx $25/ Optional South Island
   Trip approx $1500), $25 course book
