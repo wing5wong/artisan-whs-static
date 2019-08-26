@@ -30,7 +30,6 @@ $page->getDepartmentStaff($faculties, $staff, "International"),
     <div class="row">
         <div class="col-sm-12 col-md-4 col-md-4">
             @if($person->image)
-            <img src="{{$person->image }}" width="255" />
             <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_300,c_lfill,g_face/", $person->image)}}"
             srcset="
             {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_300,c_lfill,g_face/", $person->image)}} 300w
