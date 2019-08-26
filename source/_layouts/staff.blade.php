@@ -58,8 +58,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
             </td>
             <td>
                 @foreach($page->getStaffMemberPositionsForDepartment($member, $dept->title) as $position)
-                <strong>{{ $position["title"] }}</strong>
-                @if(!$loop->last), @endif
+                <strong>{{ $position["title"] }}</strong>@if(!$loop->last), @endif
                 @endforeach
             </td>
         </tr>
@@ -71,8 +70,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
             </td>
             <td>
                 @foreach($page->getStaffMemberPositionsForDepartment($member, $dept->title) as $position)
-                <strong>{{ $position["title"] }}</strong>
-                @if(!$loop->last), @endif
+                <strong>{{ $position["title"] }}</strong>@if(!$loop->last), @endif
                 @endforeach
             </td>
         </tr>
@@ -84,9 +82,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
             </td>
             <td>
                 @foreach($page->getStaffMemberPositionsForDepartment($member, $dept->title) as $position)
-                {{ $position["title"] }}
-                @if(!$loop->last), @endif
-
+                {{ $position["title"] }}@if(!$loop->last), @endif
                 @endforeach
             </td>
         </tr>
