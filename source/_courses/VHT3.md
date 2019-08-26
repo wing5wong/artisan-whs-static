@@ -11,8 +11,10 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: ''
+standards:
+  - '91461'
+  - '91463'
 credits: '10'
-course_fees: 
 invitation_only: true
 ---
 
