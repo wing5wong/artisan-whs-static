@@ -14,7 +14,7 @@ short: >-
 
   Rebecca was the 2nd NZ runner home.
 ---
-Well done to Rebecca Baker who finished 19th in her Cross Country race today in Sydney.
+**Well done to Rebecca Baker who finished 19th in her Cross Country race today in Sydney.**
 
 **Rebecca was the 2nd NZ runner home. 👌🏻👏💛💚**
 
