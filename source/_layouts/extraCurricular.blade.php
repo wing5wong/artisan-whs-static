@@ -57,8 +57,8 @@
     <h3>Available activities</h3>
     <table>
 
-        {{-- ->where('extracurricular_area', $ec_area->title) --}}
-        @foreach( $extracurricular_activities
+        {{--  --}}
+        @foreach( $extracurricular_activities->where('extracurricular_area', $ec_area->title)
          as $ec_activity )
 
         <tr>
