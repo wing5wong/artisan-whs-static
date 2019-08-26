@@ -1,6 +1,9 @@
 ---
 title: Ms S. Battersby
-position:
 departments:
   - Vocational Studies
+positions:
+  - department: Vocational Studies
+    title: Vocational Studies Administrator
 ---
+
