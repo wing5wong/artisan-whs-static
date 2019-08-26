@@ -33,7 +33,7 @@
     $facultyCourses = $page->getSubjectAreaCourses($subject, $courses)
     @endphp
     @if(count($facultyCourses))
-    <div class="col col-md-6 col-lg-6">
+    <div class="col-sm-12 col-md-6 col-lg-6">
     <details open class="mt-4">
             
             <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
