@@ -7,6 +7,7 @@ tags:
   - Brain
   - L2 students
   - Massey University
+  - Social Sciences
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566435188/IMG_20190801_134541cropped.jpg
 description: WHS Level 2 Psychology students off to Massey to see how our brains work!
