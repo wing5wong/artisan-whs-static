@@ -1,6 +1,13 @@
 ---
 title: Whanganui judoka Keightley Watson wins gold at Hong Kong Asian Cup tournament
 date: 2019-07-18T03:23:24.830Z
+tags:
+  - Judoka
+  - Sport
+  - Keightley Watson
+  - Judo
+  - Hong Kong Asian Cup
+  - Hong Kong
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563420291/News/5EPLRWW67FEXXH6JQBFPACLIAA.jpg
 image_title: Gold in Hong Kong for Whanganui judoka Keightley Watson (2nd left).
