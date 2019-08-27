@@ -1,6 +1,12 @@
 ---
 title: WHS SPAIN TRIP - 3 sleeps to go!
 date: 2019-07-03T22:11:56.181Z
+tags:
+  - Spain Trip
+  - Spain
+  - International
+  - Languages
+  - Spanish
 image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1563845865/News/3.jpg'
 description: |
   WHS SPAIN TRIP
