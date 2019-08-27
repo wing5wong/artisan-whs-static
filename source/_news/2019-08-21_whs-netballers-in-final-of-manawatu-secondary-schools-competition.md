@@ -1,6 +1,9 @@
 ---
 title: WHS netballers in final of Manawatu Secondary Schools competition
 date: 2019-08-21T04:23:22.117Z
+tags:
+  - Netball
+  - A1 Netball
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566361551/Chronicle_21.8.19.jpg
 image_title: >-
