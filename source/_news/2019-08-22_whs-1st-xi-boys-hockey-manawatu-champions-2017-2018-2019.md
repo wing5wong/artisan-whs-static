@@ -1,6 +1,10 @@
 ---
 title: 'WHS 1st XI Boys Hockey - Manawatu Champions 2017, 2018 & 2019!!!'
 date: 2019-08-22T01:46:19.585Z
+tags:
+  - WHS 1st XI
+  - Manawatu Champions
+  - Hockey
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566438519/1.3_years_in_a_row....jpg
 description: >-
