@@ -5,6 +5,8 @@ tags:
   - Spain Trip
   - Spain
   - International
+  - Languages
+  - Spanish
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563848739/News/Last_Day.jpg
 description: |-
