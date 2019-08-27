@@ -1,6 +1,12 @@
 ---
 title: Keightley Watson on podium in Taipei and in the frame for Olympic selection!
 date: 2019-08-08T03:28:51.339Z
+tags:
+  - Judoka
+  - Sport
+  - Keightley Watson
+  - Judo
+  - Asian Open
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565234961/Keightley-8.8.19-Chron.jpg
 image_title: >-
