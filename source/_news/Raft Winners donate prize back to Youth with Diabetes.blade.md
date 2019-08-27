@@ -1,14 +1,14 @@
 ---
-title: "Raft Winners donate prize back to â€˜Youth with Diabetes'"
-date: 2019-01-31
-description: "Linda & representatives from Youth with Diabetes, including WHS Year 13 student Mark O'Shanassy, receiving a cheque..."
-featured-image: 
-excerpt: "Linda and representatives from Youth with Diabetes, including WHS Year 13 student Mark O'Shanassy, receiving a cheque from Plumber Dan."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+title: Raft Winners donate prize back to 'Youth with Diabetes'
+date: 2019-01-31T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566872065/Mark-OShanassy-Raft-race-diabetic-31.1.19.RCP.jpg
+description: >-
+  Linda & representatives from Youth with Diabetes, including WHS Year 13
+  student Mark O'Shanassy, receiving a cheque...
+short: >-
+  Linda & representatives from Youth with Diabetes, including WHS Year 13
+  student Mark O'Shanassy, receiving a cheque...
 ---
 
 <p><span><span>Linda and representatives from Youth with Diabetes, including WHS Year 13 student <strong>Mark O'Shanassy</strong>, receiving a cheque from Plumber Dan.<br /><em>Photo / Supplied</em></span></span></p>
