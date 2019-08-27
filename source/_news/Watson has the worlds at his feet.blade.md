@@ -1,15 +1,17 @@
 ---
-title: "Watson has the worlds at his feet"
-date: 2019-06-13
-description: "Whanganui heavyweight judoka Keightley Watson has a busy itinerary this year earning valuable world ranking points..."
-image: 
-excerpt: "Teenage Whanganui heavyweight judoka Keightley Watson (white) has a busy itinerary this year earning valuable world ranking points."
-image_gallery:
-    
-    
-    
-    
-    
+title: Watson has the worlds at his feet
+date: 2019-06-13T00:00:00.000Z
+tags:
+  - Judoka
+  - Sport
+  - Keightley Watson
+  - Judo
+description: >-
+  Whanganui heavyweight judoka Keightley Watson has a busy itinerary this year
+  earning valuable world ranking points...
+short: >-
+  Whanganui heavyweight judoka Keightley Watson has a busy itinerary this year
+  earning valuable world ranking points...
 ---
 
 <p><img src="https://www.nzherald.co.nz/resizer/Kz_evhMz6gT0X8EPXIiEywWCKT8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/GW7RZYCP6BAPJLM7ZY4U3LG55I.jpg" alt="Teenage Whanganui heavyweight judoka Keightley Watson (white) has a busy itinerary this year earning valuable world ranking points." /></p>
