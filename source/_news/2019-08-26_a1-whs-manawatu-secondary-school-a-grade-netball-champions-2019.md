@@ -3,6 +3,11 @@ title: >-
   WHS A1 Netball Team - Manawatu Secondary School A Grade Netball Champions
   2019!
 date: 2019-08-24T04:44:13.839Z
+tags:
+  - Manawatu Secondary School Netball
+  - Champions
+  - Netball
+  - A1 Netball
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 description: >-
