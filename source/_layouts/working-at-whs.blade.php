@@ -23,8 +23,9 @@
         {!! $vacancy !!}
     </div>
 </div>
-
+@if(!$loop->last())
 <hr >
+@endif
 
 @empty
 <strong>SORRY, BUT THERE ARE CURRENTLY NO VACANCIES.</strong>
