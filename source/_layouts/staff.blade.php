@@ -61,6 +61,14 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 <strong>{{ $position["title"] }}</strong>@if(!$loop->last), @endif
                 @endforeach
             </td>
+            <td>
+                @if($member->phone)
+                    <a href="tel:{{$member->phone}}">Call</a>
+                @endif
+                @if($member->email)
+                    <a href="tel:{{$member->email}}">Email</a>
+                @endif
+            </td>
         </tr>
         @endforeach
         @foreach($page->getDepartmentAHofs($faculties, $staff, $dept->title) as $member)
@@ -73,6 +81,14 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 <strong>{{ $position["title"] }}</strong>@if(!$loop->last), @endif
                 @endforeach
             </td>
+            <td>
+                    @if($member->phone)
+                        <a href="tel:{{$member->phone}}">Call</a>
+                    @endif
+                    @if($member->email)
+                        <a href="tel:{{$member->email}}">Email</a>
+                    @endif
+                </td>
         </tr>
         @endforeach
         @foreach($filteredStaff as $member)
@@ -85,6 +101,15 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 {{ $position["title"] }}@if(!$loop->last), @endif
                 @endforeach
             </td>
+            <td>
+                    @if($member->phone)
+                        <a href="tel:{{$member->phone}}">Call</a>
+                        @if($member->email) | @endif
+                    @endif
+                    @if($member->email)
+                        <a href="tel:{{$member->email}}">Email</a>
+                    @endif
+                </td>
         </tr>
         @endforeach
     </table>
