@@ -614,6 +614,8 @@ collections:
         fields: 
           - { name: "title", label: "Title", widget: "string" }
           - { label: "Department", name: department, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - {label: "Phone", name: "phone", widget: "string", required: false}
+      - {label: "Email", name: "email", widget: "string", required: false}
 
             
   
