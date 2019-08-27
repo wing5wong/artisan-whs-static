@@ -8,6 +8,8 @@ tags:
   - Rose Hird
   - Art
   - Exhibition
+  - Print
+  - Citadel
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564097655/Events/Rose_Hird_exhibition_poster_with_outline.July.Aug.jpg
 description: Rose's Art on Display at National Youth Art Awards.
