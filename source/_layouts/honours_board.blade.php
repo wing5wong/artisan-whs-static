@@ -62,11 +62,11 @@ $awardHeadingingLookup = [
         <tr>
             <td>{{ date('Y',$entry->date) }}</td>
             <td>
-                @if($entry->person1_image)<a href="{{ $entry->person1_image }}" title="View image of {{$person1_name}}">{{ $entry->person1_name }}</a>@else{{ $entry->person1_name }}@endif
+                @if($entry->person1_image)<a href="{{ $entry->person1_image }}" title="View image of {{$entry->person1_name}}">{{ $entry->person1_name }}</a>@else{{ $entry->person1_name }}@endif
             </td>
             @if($award !== "Maori Student Dux")
             <td>
-                @if($entry->person2_image)<a href="{{ $entry->person2_image }}" title="View image of {{$person2_name}}">{{ $entry->person2_name }}</a>@else{{ $entry->person2_name }}@endif
+                @if($entry->person2_image)<a href="{{ $entry->person2_image }}" title="View image of {{$entry->person2_name}}">{{ $entry->person2_name }}</a>@else{{ $entry->person2_name }}@endif
             </td>
             @endif
         </tr>
