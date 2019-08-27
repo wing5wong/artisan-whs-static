@@ -1,6 +1,12 @@
 ---
 title: Last chance to see Brass Whanganui before they jet set off to China
 date: 2019-08-23T01:30:51.991Z
+tags:
+  - Brass Whanganui
+  - Shanghai
+  - Luke Squire
+  - Music
+  - Brass instruments
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566523935/LukeSquire.Brass-WU-midweek-13.3.19.jpg
 description: >
