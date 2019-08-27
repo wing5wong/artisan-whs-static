@@ -1,20 +1,21 @@
 ---
-title: "Reardon has healthy lead with series in sight"
-date: 2019-07-05
-description: "Whanganui's Seth Reardon continues to lead the New Zealand Enduro Championships after five rounds..."
-image: 
-excerpt: "Whanganui's Seth Reardon (Yamaha YZ250FX) continues to lead the New Zealand Enduro Championships after five rounds."
-image_gallery:
-    
-    
-    
-    
-    
+title: Reardon has healthy lead with series in sight
+date: 2019-07-05T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566949175/Seth-Reardon-Chron-26.6.19.jpg
+image_title: >-
+  Whanganui's Seth Reardon (Yamaha YZ250FX) continues to lead the New Zealand
+  Enduro Championships after five rounds. 
+image_credit: 'Andy McGechan, BikesportNZ.com'
+description: >-
+  Whanganui's Seth Reardon continues to lead the New Zealand Enduro
+  Championships after five rounds...
+short: >-
+  Whanganui's Seth Reardon continues to lead the New Zealand Enduro
+  Championships after five rounds...
 ---
 
-<p><br /><img src="https://www.nzherald.co.nz/resizer/Oqxu52HiHQ0wCn_ui4uq1xBGDLc=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/7Y3AU7UB2JEA7DGRVOOIX4XQSA.jpg" alt="Whanganui's Seth Reardon (Yamaha YZ250FX) continues to lead the New Zealand Enduro Championships after five rounds. Photo by Andy McGechan, BikesportNZ.com " /></p>
-<p><span>Whanganui's Seth Reardon (Yamaha YZ250FX) continues to lead the New Zealand Enduro Championships after five rounds. <br /><em>PHOTO&nbsp; by Andy McGechan, BikesportNZ.com</em></span></p>
-<p><br />Whanganui's Seth Reardon now has a 23 point lead on top of the 2019 New Zealand Enduro Championships after coming runnerup to the fifth different winner in Bideford, Masterton on Saturday.</p>
+Whanganui's Seth Reardon now has a 23 point lead on top of the 2019 New Zealand Enduro Championships after coming runnerup to the fifth different winner in Bideford, Masterton on Saturday.</p>
 <p>Rotorua's Bradley Lauder claimed the top spot on the demanding farmland course, the fifth round of seven in the Yamaha and Mitas Tyres-sponsored series, and with that he has elevated himself from ninth to third equal overall in the title chase.</p>
 <p>Helensville's Tom Buxton won Round 1 of the series near Whangamata in March, Cambridge rider Dylan Yearbury clinched his win at Round 2 near Porirua in April, Thames rider Chris Birch topped the podium at Round 3 near Tokoroa two weeks later and then Reardon won Round 4 near Martinborough three weeks ago.</p>
 <p>After Lauder and Reardon, Wainuiomata's Jake Whitaker finished third on Saturday, while Cambridge's Beau Taylor and Tokoroa's Jake Wightman rounded out the top five.</p>
