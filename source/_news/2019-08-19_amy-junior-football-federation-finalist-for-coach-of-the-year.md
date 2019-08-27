@@ -5,6 +5,7 @@ tags:
   - Football
   - Coach of the Year
   - Amy Haughian
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566164639/News/Amy-Haughian-nominaton-for-coach-of-year.August-2019.jpg
 description: Amy Haughian - Junior Football 2019 Coach of the Year Federation Finalist!r
