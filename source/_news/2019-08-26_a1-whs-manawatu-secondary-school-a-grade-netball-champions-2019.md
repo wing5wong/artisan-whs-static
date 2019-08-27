@@ -8,6 +8,7 @@ tags:
   - Champions
   - Netball
   - A1 Netball
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 description: >-
