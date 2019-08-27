@@ -1,6 +1,12 @@
 ---
 title: 'To the Max: Brown takes on world!'
 date: 2019-08-21T21:17:48.261Z
+tags:
+  - Canoeing
+  - Max Brown
+  - Hungary
+  - World Champs
+  - Paddler
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566452564/Max_Brown_Chron_22.8.19.jpg
 image_title: >-
