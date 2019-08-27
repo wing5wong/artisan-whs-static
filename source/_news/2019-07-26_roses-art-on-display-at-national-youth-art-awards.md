@@ -1,6 +1,13 @@
 ---
 title: Rose's Art on Display at National Youth Art Awards
 date: 2019-07-26T02:00:09.588Z
+tags:
+  - Visual Arts
+  - National Youth Art Awards
+  - Hamilton
+  - Rose Hird
+  - Art
+  - Exhibition
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564097655/Events/Rose_Hird_exhibition_poster_with_outline.July.Aug.jpg
 description: Rose's Art on Display at National Youth Art Awards.
