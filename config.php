@@ -306,6 +306,8 @@ return [
         'staff' => [
             'section' => 'postContent',
             'tags' => [],
+            'phone' => '',
+            'email' => ''
         ],
         'subject_areas' => [
             'path' => 'subject-areas/{filename}',
