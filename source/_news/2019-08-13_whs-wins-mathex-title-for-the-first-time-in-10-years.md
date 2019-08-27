@@ -1,6 +1,13 @@
 ---
 title: WHS wins Mathex title for the first time in 10 years
 date: 2019-08-13T03:10:55.561Z
+tags:
+  - Mathex
+  - Mathematics
+  - Maths
+  - Year 10
+  - Manawatu Whanganui Mathex competition
+  - winners
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565665935/Mathex_Y10_chron_13.8.19.jpg
 image_title: >-
