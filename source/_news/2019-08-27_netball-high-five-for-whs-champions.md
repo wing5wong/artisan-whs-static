@@ -5,6 +5,8 @@ tags:
   - Netball
   - Manawatu Champions
   - Palmerston North
+  - Sport
+  - A1 Netball
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 image_title: >-
