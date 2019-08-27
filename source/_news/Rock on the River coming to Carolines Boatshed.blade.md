@@ -1,14 +1,14 @@
 ---
-title: "Rock on the River coming to Carolineâ€™s Boatshed"
-date: 2018-12-13
-description: "Whiskey Mama will be joined by two up & coming WHS bands â€“ â€˜Ferrisâ€™ and â€˜In Businessâ€™ at Caroline's Boatshed..."
-featured-image: 
-excerpt: "Whiskey Mama will be joined by two up & coming WHS bands â€“ â€˜Ferrisâ€™ and â€˜In Businessâ€™ at Caroline's Boatshed."
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+title: Rock on the River coming to Caroline's Boatshed
+date: 2018-12-13T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566872756/Fred-Loveridge-RCP_13-dec.jpg
+description: >-
+  Whiskey Mama will be joined by two up & coming WHS bands Ferris and In
+  Business at Caroline's Boatshed...
+short: >-
+  Whiskey Mama will be joined by two up & coming WHS bands Ferris and In
+  Business at Caroline's Boatshed.
 ---
 
 <p>Rock on the River coming to Caroline&rsquo;s Boatshed &ndash; 6 January 2019.</p>
