@@ -474,6 +474,12 @@ collections:
       name: "image"
       widget: "image"
       required: false
+    - label: "Image Gallery"
+      name: "image_gallery"
+      widget: "list"
+      fields:
+      - {label: "Image Filename", name: "image", widget: "image"}
+      - {label: "Image Description", name: "description", widget: "string", required: false}
 
 
   - name: "achievers_lists"
