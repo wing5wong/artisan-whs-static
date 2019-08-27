@@ -325,7 +325,9 @@ return [
             'extends' => '_layouts.extraCurricularArea',
             'section' => 'postContent'
         ],
-        'extracurricular_activities',
+        'extracurricular_activities' => [
+            'extends' => '_layouts.post'
+        ],
         'term_dates',
         'vacancies',
     ],
