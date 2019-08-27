@@ -18,7 +18,7 @@
     <br>
     {{ $faculty->intro }}
     <br>
-    Full details are available on the <a href="{{$faculty->getPath()}}" class="btn btn-light mb-5">{{$faculty->title}} faculty page</a>.
+    Full details are available on the <a href="{{$faculty->getPath()}}" class="btn btn-light mb-5">{{$faculty->title}} faculty page</a>
     <hr>
     @endif
 
