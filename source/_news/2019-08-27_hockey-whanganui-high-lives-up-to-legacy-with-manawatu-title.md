@@ -1,6 +1,10 @@
 ---
 title: 'Hockey: Whanganui High lives up to legacy with Manawatu title'
 date: 2019-08-23T22:26:24.329Z
+tags:
+  - WHS 1st XI
+  - Manawatu Champions
+  - Hockey
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566438582/2.Winners-4-to-Nil.jpg
 image_title: >-
