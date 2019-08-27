@@ -1,6 +1,10 @@
 ---
 title: 'Netball: High five for WHS Champions'
 date: 2019-08-26T22:33:37.022Z
+tags:
+  - Netball
+  - Manawatu Champions
+  - Palmerston North
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 image_title: >-
