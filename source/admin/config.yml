@@ -465,9 +465,9 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Date", name: "date", widget: "date"}
     - {label: "Person in Charge", required: false, name: "person_in_charge", widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-    
+
     - {label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-    - {label: "Category", name: "category", widget: "string", hint: "an additional grouping that the activity may be grouped under. e.g. "School Sports, Local Clubs, Dance etc", required: false}
+    - {label: "Category", name: "category", widget: "string", hint: "an additional grouping that the activity may be grouped under. e.g. 'School Sports', 'Local Clubs', 'Dance' etc", required: false}
     - {label: "Body", name: "body", widget: "markdown"}
     - label: "Feature Image"
       name: "image"
