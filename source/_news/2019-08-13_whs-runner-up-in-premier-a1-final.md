@@ -6,6 +6,7 @@ tags:
   - A1 Netball
   - Premier Netball
   - Springvale Stadium
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565668223/Prem_1_final_good_chron_13.8.19.jpg
 image_title: A good crowd watched the season finale at Springvale Stadium.
