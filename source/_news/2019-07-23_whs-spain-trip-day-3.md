@@ -1,6 +1,12 @@
 ---
 title: WHS SPAIN TRIP - Day 3 & 4
 date: 2019-07-11T22:23:09.092Z
+tags:
+  - Spain Trip
+  - Spain
+  - International
+  - Languages
+  - Spanish
 image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1563849897/News/13..jpg'
 description: |
   WHS SPAIN TRIP
