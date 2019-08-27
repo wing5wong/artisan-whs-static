@@ -349,6 +349,7 @@ collections:
           - { label: "Primary Industries", value: "primary" }
           - { label: "Construction and Infrastructure", value: "construction" }
           - { label: "Manufacturing and Technology", value: "manufacturing" }
+      - {label: "Related Facilities", name: facilities, required: false, multiple: true, widget: "relation", collection: "facilities", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
 
   - name: "subject_areas"
     label: "Subject Areas"
