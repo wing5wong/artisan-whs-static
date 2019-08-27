@@ -328,7 +328,8 @@ return [
             'section' => 'postContent'
         ],
         'extracurricular_activities' => [
-            'extends' => '_layouts.post'
+            'extends' => '_layouts.post',
+            'section' => 'postContent'
         ],
         'term_dates',
         'vacancies',
