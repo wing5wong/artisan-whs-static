@@ -1,6 +1,12 @@
 ---
 title: Zoe's photo wins at Waimarino Art Awards
 date: 2019-07-28T21:25:27.432Z
+tags:
+  - Art
+  - Photography
+  - Visual Art
+  - Zoe Bracegirdle
+  - Waimarino Art Awards
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564349308/News/Zoe_Bracegirdle_Photo_win_Chron_29.7.19.jpg
 image_title: >-
