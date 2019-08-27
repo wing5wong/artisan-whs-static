@@ -1,6 +1,9 @@
 ---
 title: Irish Ambassador makes connections at Whanganui High School
 date: 2019-08-21T04:39:23.542Z
+tags:
+  - Irish Ambassador
+  - Peter Ryan
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566361783/Irish_Ambassador_at_WHS.Chron_21.8.19.jpg
 image_title: >-
