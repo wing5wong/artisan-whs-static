@@ -7,6 +7,7 @@ tags:
   - Manawatu Secondary Schools
   - Patrick Madder
   - Central U18
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566362166/WHS_1st_X1_ManawatuSS_contest_Chron_21.8.19.jpg
 image_title: >-
