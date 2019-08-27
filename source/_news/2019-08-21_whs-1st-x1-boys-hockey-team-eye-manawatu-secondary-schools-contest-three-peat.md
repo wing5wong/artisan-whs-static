@@ -1,6 +1,12 @@
 ---
 title: WHS 1st X1 boys hockey team eye Manawatu Secondary Schools contest three-peat
 date: 2019-08-21T04:32:18.006Z
+tags:
+  - Hockey
+  - 1st XI Hockey
+  - Manawatu Secondary Schools
+  - Patrick Madder
+  - Central U18
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566362166/WHS_1st_X1_ManawatuSS_contest_Chron_21.8.19.jpg
 image_title: >-
