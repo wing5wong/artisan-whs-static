@@ -6,6 +6,7 @@ tags:
   - Whanganui Secondary School Basketball Competition
   - Basketball Results
   - Basketball
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566796238/69262835_1327489654066804_5419617208445698048_n.jpg
 description: Whanganui Secondary School Basketball Results 2019 for Whanganui High School.
