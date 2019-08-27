@@ -1,6 +1,11 @@
 ---
 title: Ethan Joines - Fortnite World Cup player!
 date: 2019-08-15T23:58:42.934Z
+tags:
+  - Fortnite
+  - World Cup
+  - Ethan Joines
+  - New York
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565914358/News/crop.jpg
 description: >-

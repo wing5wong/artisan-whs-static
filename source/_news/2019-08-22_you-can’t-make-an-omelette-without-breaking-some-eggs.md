@@ -1,6 +1,11 @@
 ---
 title: You can’t make an omelette without breaking some eggs!
 date: 2019-08-16T00:25:41.758Z
+tags:
+  - Cooking
+  - Chefs
+  - Ucol
+  - Cooking Competition
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566433985/1.L-R._Mrs_Hardcastle_Alysha_Kelahn_Ava_Britney_and_Caitlyn.jpg
 image_title: >-
