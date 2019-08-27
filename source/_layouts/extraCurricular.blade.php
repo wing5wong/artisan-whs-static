@@ -38,15 +38,19 @@
         <thead>
             <tr>
                 <td>Name</td>
+                @if($personInCharge->phone)
                 <td>Phone</td>
+                @endif
+                @if($personInCharge->email)
                 <td>Email</td>
+                @endif
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>{{ $personInCharge->title ?? '' }}</td>
-                <td>{{ $personInCharge->phone ?? '' }}</td>
-                <td>{{ $personInCharge->mobile ?? '' }}</td>
+                @if($personInCharge->phone)<td>{{ $personInCharge->phone ?? '' }}</td>@endif
+                @if($personInCharge->email)<td>{{ $personInCharge->mobile ?? '' }}</td>@endif
             </tr>
         </tbody>
     </table>
