@@ -1,6 +1,13 @@
 ---
 title: 'Sports Exchange: WHS netballers flip script on Collegiate'
 date: 2019-07-26T02:03:11.238Z
+tags:
+  - Sport
+  - Netball
+  - A1 Netball
+  - Sports Exchange
+  - Collegiate
+  - ''
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564106938/News/vs_Collegiate_Chronicle_26.7.17.jpg
 image_title: >-
