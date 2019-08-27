@@ -6,6 +6,7 @@ tags:
   - Rebecca Baker
   - Sydney
   - Athletics
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566795119/Rebecca_Baker_August_2019_2_in_NZ_running_in_OZ.jpg
 description: >-
