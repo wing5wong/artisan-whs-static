@@ -1,6 +1,10 @@
 ---
 title: 'NZ CROWNED NETBALL WORLD CUP CHAMPIONS 2019!! '
 date: 2019-07-21T23:42:28.054Z
+tags:
+  - Netball
+  - Silver Ferns
+  - Netball World Cup Champs 2019
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563752667/News/silver_ferns_on_the_podium_world_cup_winners.jpg
 image_alt: SILVER FERNS WINNERS OF NETBALL WORLD CUP 2019!!
