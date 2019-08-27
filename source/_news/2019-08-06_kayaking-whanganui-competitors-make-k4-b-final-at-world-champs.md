@@ -1,6 +1,10 @@
 ---
 title: 'Kayaking: Whanganui competitors make K4 B Final at world champs'
 date: 2019-08-06T04:49:33.784Z
+tags:
+  - Sport
+  - Kayaking
+  - World Champs
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565067134/Lucas_Thompson.Jack_Clifton_Chron_6.8.19.jpg
 image_title: >-
