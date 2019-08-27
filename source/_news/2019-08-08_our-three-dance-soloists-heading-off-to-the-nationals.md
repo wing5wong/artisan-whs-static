@@ -1,6 +1,10 @@
 ---
 title: Dance Soloists heading off to the Nationals!
 date: 2019-08-02T03:03:00.798Z
+tags:
+  - Performing Arts
+  - Dance NZ Made
+  - Dance
 image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1565233397/28.jpg'
 image_title: 'The winners, from left are Emma Henare, Emelye Brown and Caitlin Currie'
 description: >
