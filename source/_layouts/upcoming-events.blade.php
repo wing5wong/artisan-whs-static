@@ -20,10 +20,17 @@ pagination:
 
 
 <table class="table table-striped table-borderless table-hover">
+    <thead>
+        <tr>
+            <td>Date</td>
+            <td>Event</td>
+            <td></td>
+        </tr>
+    </thead>
 @foreach($pagination->items as $event)
 <tr>
-    <td>{{$event->title}}</td>
     <td>{{ date('F j, Y', $event->date) }}</td>
+    <td>{{$event->title}}</td>
     <td><a href="{{$event->getPath()}}">Read More</a></td>
 </tr>
 @endforeach
