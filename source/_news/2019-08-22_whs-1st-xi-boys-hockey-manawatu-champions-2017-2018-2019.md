@@ -5,6 +5,7 @@ tags:
   - WHS 1st XI
   - Manawatu Champions
   - Hockey
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566438519/1.3_years_in_a_row....jpg
 description: >-
