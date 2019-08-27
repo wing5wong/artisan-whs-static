@@ -6,6 +6,7 @@ tags:
   - Manawatu Champions
   - Hockey
   - Sport
+  - Palmerston North
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566438519/1.3_years_in_a_row....jpg
 description: >-
