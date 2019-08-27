@@ -13,12 +13,12 @@ class GenerateIndex
                 'type' => 'staff'
             ];
         })
-        ->concat(collect($jigsaw->getCollection('news')->map(function ($page) use ($jigsaw) {
+        ->concat(collect($jigsaw->getCollection('news')->map(function ($news) use ($jigsaw) {
             return [
-                'title' => $page->title,
-                'link' => rightTrimPath($jigsaw->getConfig('baseUrl')) . $page->getPath(),
-                'tags' => $page->tags,
-                'excerpt' => $page->excerpt(),
+                'title' => $news->title,
+                'link' => rightTrimPath($jigsaw->getConfig('baseUrl')) . $news->getPath(),
+                'tags' => $news->tags,
+                'excerpt' => $news->excerpt(),
                 'type' => 'news'
             ];
         })))
