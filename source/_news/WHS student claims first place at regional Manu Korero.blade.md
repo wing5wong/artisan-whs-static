@@ -1,20 +1,27 @@
 ---
-title: "WHS student claims first place at regional Manu Korero"
-date: 2019-07-05
-description: "Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the recent Nga Manu Korero Regionals..."
-image: 
-excerpt: "Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the recent Nga Manu Korero Regionals."
-image_gallery:
-    
-    
-    
-    
-    
+title: WHS student claims first place at regional Manu Korero
+date: 2019-07-05T00:00:00.000Z
+tags:
+  - Performing Arts
+  - Roman Kotuhi-Brown
+  - Nga Manu Korero Regionals
+  - Junior Maori Speech Competition
+  - Maori Speech Competition
+  - Kapa Haka
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566949337/Roman_K.Brown._chron_5.7.19.jpg
+image_title: >-
+  Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the
+  recent Nga Manu Korero Regionals. 
+image_credit: Lucy Drake
+description: >-
+  Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the
+  recent Nga Manu Korero Regionals...
+short: >-
+  Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the
+  recent Nga Manu Korero Regionals...
 ---
 
-<p>&nbsp;</p>
-<p><img src="https://www.nzherald.co.nz/resizer/LYOuHueUM_gnnBuZl-mT3gwZV-8=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/ZY73Y3PHRFCHDBGQ6UBV7SE2JU.jpg" alt="Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the recent Nga Manu Korero Regionals. Photo / Lucy Drake " /></p>
-<p><span><strong>Roman Kotuhi-Brown won the Rawhiti Junior Maori Speech Competition at the recent Nga Manu Korero Regionals.</strong> <br /><em>PHOTO / Lucy Drake</em></span></p>
 <h4><br />A Whanganui High School student has used his voice to wow judges and claim the first place title at the Nga Manu Korero Whanganui-Taranaki regional speech competition.</h4>
 <p>Competing against seven other year nine and ten students from around the region, Roman Kotuhi-Brown won the Rawhiti Ihaka Junior Maori speech section in Opunake on June 27.</p>
 <p>Speaking for 12 minutes in Maori with no help from cure cards, his speech explored the topic of is it our responsibility to look after the environment but decided to twist it a little.</p>
