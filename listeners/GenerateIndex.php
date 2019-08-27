@@ -9,8 +9,18 @@ class GenerateIndex
             return [
                 'title' => $page->title,
                 'link' => rightTrimPath($jigsaw->getConfig('baseUrl')) . $page->getPath(),
+                'type' => 'staff'
             ];
-        })->values());
+        })
+        ->concat(collect($jigsaw->getCollection('news')->map(function ($page) use ($jigsaw) {
+            return [
+                'title' => $page->title,
+                'link' => rightTrimPath($jigsaw->getConfig('baseUrl')) . $page->getPath(),
+                'excerpt' => $page->excerpt(),
+                'type' => 'news'
+            ];
+        })))
+        ->values());
         file_put_contents($jigsaw->getDestinationPath() . '/index.json', json_encode($data));
     }
 }
