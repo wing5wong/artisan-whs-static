@@ -1,6 +1,11 @@
 ---
 title: Wooding to play hometown concert as member of the Morton Trio
 date: 2019-08-10T04:19:05.249Z
+tags:
+  - Music
+  - Performing Arts
+  - Morton Trio
+  - Liam Wooding
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565583729/Liam_Wooding.Chron_10.8.19.jpg
 image_title: >-
