@@ -17,6 +17,8 @@
     @if($faculty->intro)
     <br>
     {{ $faculty->intro }}
+    <br>
+    Full details are available on the <a href="{{$faculty->getPath()}}" class="btn btn-light mb-5">{{$faculty->title}} faculty page</a>.
     <hr>
     @endif
 
@@ -48,8 +50,6 @@
     @endforeach
 </div>
 
-<br>
-<a href="{{$faculty->getPath()}}" class="btn btn-light mb-5">Faculty Information</a>
 </details>
 @endforeach
 
