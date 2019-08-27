@@ -1,6 +1,10 @@
 ---
 title: WHS A1 Netball remain unbeaten
 date: 2019-07-23T23:17:01.345Z
+tags:
+  - Sport
+  - Netball
+  - A1 Netball
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1564699960/News/A1-netball-crop.on-Monday-night.jpg
 description: >
