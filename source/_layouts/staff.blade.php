@@ -107,7 +107,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                         @if($member->email) | @endif
                     @endif
                     @if($member->email)
-                        <a href="tel:{{$member->email}}">Email</a>
+                        <a href="mailto:{{$member->email}}">Email</a>
                     @endif
                 </td>
         </tr>
