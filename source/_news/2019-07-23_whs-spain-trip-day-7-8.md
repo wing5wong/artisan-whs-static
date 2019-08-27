@@ -1,6 +1,12 @@
 ---
 title: 'WHS SPAIN TRIP - Day 7 & 8 '
 date: 2019-07-18T22:32:21.779Z
+tags:
+  - Spain Trip
+  - Spain
+  - International
+  - Languages
+  - Spanish
 image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1563848592/News/16.jpg'
 description: |-
   WHS SPAIN TRIP.  
