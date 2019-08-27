@@ -5,6 +5,7 @@ tags:
   - Sport
   - Pathways
   - Greg Fromont
+  - Sport Pathways
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565585154/Untitled-1.jpg
 description: WHS Sport Pathway Update
