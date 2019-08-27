@@ -13,8 +13,6 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566871390/News/Screenshot_2019-03-24-19-14-06.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1566871390/News/Screenshot_2019-03-24-19-14-06.jpg
-  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566871388/News/Screenshot_2019-03-24-19-15-44.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566871386/News/Screenshot_2019-03-24-19-16-35.jpg
