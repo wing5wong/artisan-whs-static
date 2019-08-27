@@ -1,6 +1,10 @@
 ---
 title: WHS Sport Pathway Update
 date: 2019-08-12T04:36:19.524Z
+tags:
+  - Sport
+  - Pathways
+  - Greg Fromont
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565585154/Untitled-1.jpg
 description: WHS Sport Pathway Update
