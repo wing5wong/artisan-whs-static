@@ -1,6 +1,15 @@
 ---
 title: Caleb Gilmore grabbing Gixxer opportunities
 date: 2019-08-15T01:54:04.367Z
+tags:
+  - Suzuki
+  - Gixxer
+  - Gixxer Cup
+  - Caleb Gilmore
+  - Motorbikes
+  - Motorsport
+  - International
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565834417/News/Caleb-Gilmore.Chron_15.8.19.jpg
 image_title: >-
