@@ -13,12 +13,20 @@
     <div class="col-sm-12 col-md-6 col-lg-6">
         <h2><span class="decorated pb-2 mb-2 d-table">{{$category->first()->person1_name}}</span>
        <small class="text-muted">Dux Litterarum</small></h2>
-        <img src="{{$category->first()->person1_image}}" alt="" class="img-thumbnail">
+       <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_480,h_600,c_lfill,g_auto/", $category->first()->person1_image)}}"
+        srcset="
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_480,h_600,c_lfill,g_auto/", $category->first()->person1_image)}}
+        "
+alt="" style="max-width: 100%">
     </div>
     <div class="col-sm-12 col-md-6 col-lg-6">
         <h2><span class="decorated pb-2 mb-2 d-table">{{$category->first()->person2_name}}</span>
            <small class="text-muted">Proxime Accessit</small></h2>
-        <img src="{{$category->first()->person2_image}}" alt="" class="img-thumbnail">
+           <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_480,h_600,c_lfill,g_auto/", $category->first()->person2_image)}}"
+           srcset="
+           {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_480,h_600,c_lfill,g_auto/", $category->first()->person2_image)}}
+           "
+   alt="" style="max-width: 100%">
     </div>
     @endforeach
 </div>
