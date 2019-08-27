@@ -1,21 +1,20 @@
 ---
-title: "Photo finish denies crew win at regatta on Thames"
-date: 2019-07-05
-description: "It was the tip of the bow ball preventing the AWRC's coxless four from advancing to the 2nd round of the Wyfold Challenge Cup..."
-image: 
-excerpt: "It was the tip of the bow ball preventing the AWRC's coxless four from advancing to the 2nd round of the Wyfold Challenge Cup on the River Thames"
-image_gallery:
-    
-    
-    
-    
-    
+title: Photo finish denies crew win at regatta on Thames
+date: 2019-07-05T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566948992/Hugh_Pawson_5.7.19.jpg
+image_title: >-
+  As close as it gets: The AWRC and LRC boats come to the finishing line in
+  their Wyfold Challenge Cup on the River Thames in the early hours of this
+  morning, NZ time.
+description: >-
+  It was the tip of the bow ball preventing the AWRC's coxless four from
+  advancing to the 2nd round of the Wyfold Challenge Cup...
+short: >-
+  It was the tip of the bow ball preventing the AWRC's coxless four from
+  advancing to the 2nd round of the Wyfold Challenge Cup...
 ---
-
-<p>&nbsp;</p>
-<p><img src="https://www.nzherald.co.nz/resizer/rOvFYQqrDL5fHSuRaUVIMe7CIGU=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/GFLNS7UV6FAOPDUUUL6E3OGRCA.jpg" alt="As close as it gets: The AWRC and LRC boats come to the finishing line in their Wyfold Challenge Cup on the River Thames in the early hours of this morning, NZ time." /></p>
-<p><span>As close as it gets: The AWRC and LRC boats come to the finishing line in their Wyfold Challenge Cup on the River Thames in the early hours of this morning, NZ time.</span></p>
-<p><br />It was just the tip of the bow ball, if that, which prevented the Aramoho Whanganui Rowing Club's coxless four from advancing to the second round of the Wyfold Challenge Cup on the River Thames in the early hours of this morning, NZ time.</p>
+It was just the tip of the bow ball, if that, which prevented the Aramoho Whanganui Rowing Club's coxless four from advancing to the second round of the Wyfold Challenge Cup on the River Thames in the early hours of this morning, NZ time.</p>
 <p>Luke Watts, Tom Monaghan, Hamish Maxwell and<strong> Hugh Pawson</strong> have travelled north to compete for the cup at the prestigious Henley Royal Regatta, held on the Thames beside the town of Henley-on-Thames and in front of English nobility.</p>
 <p>Having been named among the 32 crews who went straight to the main regatta, rather than having a qualifying race last Friday, AWRC were drawn for their first two-boat race against a very strong London Rowing Club crew, on their home water.</p>
 <p>The distance for the course is 2112m, which is 112m longer than the standard Olympic Games distance.</p>
