@@ -64,7 +64,7 @@ $levels = [
                 {{ $faculty['faculty']->intro }}
                 @endif
                 <br>
-                Full details are available on the <a href="{{$faculty['faculty']->getPath()}}" class="btn btn-light mb-5">{{$facultyy['faculty']->title}} faculty page</a>
+                Full details are available on the <a href="{{$faculty['faculty']->getPath()}}" class="btn btn-light mb-5">{{$faculty['faculty']->title}} faculty page</a>
 
 
 
