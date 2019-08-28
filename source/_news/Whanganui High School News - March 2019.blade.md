@@ -1,6 +1,14 @@
 ---
 title: Whanganui High School News - March 2019
 date: 2019-03-31T00:00:00.000Z
+tags:
+  - WHS News
+  - News
+  - River City Press
+  - March
+  - Achievers
+  - Student Success
+  - Newsletters
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566954796/MARCH_2019_RCP_for_Website.jpg
 description: >-
