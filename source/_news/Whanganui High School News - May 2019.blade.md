@@ -13,5 +13,8 @@ image: >-
 description: Whanganui High School News - May 2019. Celebrating Success of our Students‼️
 short: Whanganui High School News - May 2019. Celebrating Success of our Students‼️
 ---
-<h4><br />Celebrating Success of our Students<span class="_5mfr"><span class="_6qdm">‼️</span></span></h4>
-<p><em><span class="_5mfr"><span class="_6qdm">Rivercity Press 30/5/19</span></span></em></p>
+**Celebrating Success of our Students‼️**
+
+****
+
+_Rivercity Press 30/5/19_
