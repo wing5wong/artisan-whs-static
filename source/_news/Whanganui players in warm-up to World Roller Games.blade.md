@@ -1,20 +1,23 @@
 ---
-title: "Whanganui players in warm-up to World Roller Games"
-date: 2019-07-03
-description: "Jimi Blinkhorne is among the starting line-up of the 12-strong squad, NZ senior men's roller hockey team in Barcelona, Spain..."
-image: 
-excerpt: "Jimi Blinkhorne is among the starting line-up of the 12-strong squad, NZ senior men's roller hockey team in Barcelona, Spain."
-image_gallery:
-    
-    
-    
-    
-    
+title: Whanganui players in warm-up to World Roller Games
+date: 2019-07-03T00:00:00.000Z
+tags:
+  - Sport
+  - Roller Hockey
+  - World Roller Games
+  - Jimi Blinkhorne
+  - NZ Roller Hockey Team
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566949869/Jimmy_Blinkhorne_3.7.19.jpg
+description: >-
+  Jimi Blinkhorne is among the starting line-up of the 12-strong squad, NZ
+  senior men's roller hockey team in Barcelona, Spain...
+short: >-
+  Jimi Blinkhorne is among the starting line-up of the 12-strong squad, NZ
+  senior men's roller hockey team in Barcelona, Spain...
 ---
 
-<p>&nbsp;</p>
-<p><img src="https://www.nzherald.co.nz/resizer/dzjeLuPQeRvQuNXlN0Fiu8GYv2g=/620x349/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/N6DECRCVXBAFNNAEVJEY4N6JKE.jpg" alt="The New Zealand roller hockey team performed above expecations in World Cup warm-up matches." /></p>
-<p><span>The New Zealand roller hockey team performed above expectations in World Cup warm-up matches.</span></p>
+The New Zealand roller hockey team performed above expectations in World Cup warm-up matches.</span></p>
 <p><br />The Whanganui connections in the New Zealand senior men's roller hockey team have featured heavily in the lead-up matches to the 2019 World Roller Games in Barcelona, Spain.</p>
 <p>Eighteen-year-old <strong>Jimi Blinkhorne</strong> and 35-year-old Dean Fitness are among the starting line-up of the 12-strong squad who have been gaining much-needed practice against European club sides ahead of the world competition that begins on Sunday New Zealand time.</p>
 <p>As a warm-up to the world competition, the New Zealand team entered the Rink Hockey Tournoi International Blagnac in France.</p>

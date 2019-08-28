@@ -1,20 +1,24 @@
 ---
-title: "Whanganui Skaters off to nationals"
-date: 2019-07-03
-description: "A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic Roller Sports Championships in New Plymouth..."
-image: 
-excerpt: "A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic Roller Sports Championships in New Plymouth."
-image_gallery:
-    
-    
-    
-    
-    
+title: Whanganui Skaters off to nationals
+date: 2019-07-03T00:00:00.000Z
+tags:
+  - Skaters
+  - Sport
+  - Artistic Skaters
+  - Callista Booth-Richards
+  - Artistic Roller Sports
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566950159/Callista_Booth_Richards.Skating.Midweek_3.7.19.jpg
+image_title: Whanganui’s artistic skaters are off to the Nationals.
+image_credit: Paul Brooks
+description: >-
+  A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic
+  Roller Sports Championships in New Plymouth...
+short: >-
+  A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic
+  Roller Sports Championships in New Plymouth...
 ---
-
-<p>&nbsp;<br /><img src="https://i.prcdn.co/img?regionKey=Ogwn6vq%2bnEJoqdKQYCYLqg%3d%3d" alt="" /></p>
-<p>Whanganui&rsquo;s artistic skaters are off to the Nationals.<br /><em>PHOTO / Paul Brooks</em></p>
-<p data-bind="text: $data"><br />A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic Roller Sports Championships in New Plymouth next month, and hopes are high they&rsquo;ll bag some prizes and titles.</p>
+A squad of 10 young Whanganui artistic skaters are off to the NZ Artistic Roller Sports Championships in New Plymouth next month, and hopes are high they&rsquo;ll bag some prizes and titles.</p>
 <p data-bind="text: $data">&ldquo;Each girl will be competing in different events, from figures, dance and freeskate,&rdquo; says mum, volunteer helper and treasurer of Artistic, Stephanie Rush. Artistic is a sub-section of Wanganui Roller Sports Inc. In last year&rsquo;s Artistic Nationals the girls competed as a team in a show skate, but this year training has been concentrated on individual disciplines. In 2018 Pippa McKee got a first in the Primary Girls&rsquo; Creative Solo Dance and picked up good placings in three other events. She has earned a place on the club wall of fame.</p>
 <p data-bind="text: $data">&ldquo;They&rsquo;ve all got potential for medals. It just depends on who they&rsquo;re competing against on the day and how well they perform. The Nationals are held every year in different venues. They were held in Whanganui last year, which was handy for us.&rdquo;</p>
 <p data-bind="text: $data">The venue was Jubilee Stadium, which is where the girls practise, as well as at their HQ at the skating rink in Hatrick St. Practice is at least three times a week and they fundraise to pay for the stadium. NZ Community Trust helps out with some funding. Costumes and skates are provided by parents, with different skates required for different disciplines.</p>
