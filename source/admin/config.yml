@@ -483,6 +483,8 @@ collections:
 
     - {label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
     - {label: "Category", name: "category", widget: "string", hint: "an additional grouping that the activity may be grouped under. e.g. 'School Sports', 'Local Clubs', 'Dance' etc", required: false}
+    - {label: "Cost", name: "cost", widget: "string", required: false}
+    - {label: "Terms", name: "terms", widget: "select", options: [ "Term 1", "Term 2", "Term 3", "Term 4"], required: false}
     - {label: "Body", name: "body", widget: "markdown"}
     - label: "Feature Image"
       name: "image"
