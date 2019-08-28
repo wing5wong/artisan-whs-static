@@ -2,11 +2,11 @@
 title: WHS results for Whanganui Secondary School Basketball 2019
 date: 2019-08-23T04:58:19.659Z
 tags:
-  - WHS Basketball
   - WSS Basketball Competition
   - Basketball Results
-  - Basketball
+extracurricular_areas:
   - Sport
+extracurricular_activities:
   - Basketball - Boys
   - Basketball - Girls
 image: >-
