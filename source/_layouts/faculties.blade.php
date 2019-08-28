@@ -35,7 +35,9 @@ Full details are available on the <a href="{{$faculty->getPath()}}" class="btn b
 
 
 <details>
-    <summary>View Subject Areas and Courses</summary>
+    <summary>
+        <strong>View Subject Areas and Courses</strong>
+    </summary>
 
     <div class="row">
 
