@@ -1,6 +1,11 @@
 ---
 title: Gymnasts 'fantastic' for club
 date: 2019-06-28T00:00:00.000Z
+tags:
+  - Sport
+  - Gymnastics
+  - Katy Harvey
+  - Kenatro Yamada
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566951641/Gym-Katy-_-Kentaro.jpg
 description: >-
