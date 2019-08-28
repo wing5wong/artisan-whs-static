@@ -68,7 +68,7 @@ Full details are available on the <a href="{{$faculty->getPath()}}" class="btn b
 
 </details>
 
-@if(!$loop->last())
+@if(!$loop->last)
 <hr>
 @endif
 
