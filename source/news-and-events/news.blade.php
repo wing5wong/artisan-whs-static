@@ -23,7 +23,7 @@ pagination:
         </h3>
         <div class="row">
             <div class="col-10">
-                {{ $n->excerpt }}
+                {{ $n->test() }}
                 <a href="{{$n->getPath()}}">Read More</a>
             </div>
         </div>
