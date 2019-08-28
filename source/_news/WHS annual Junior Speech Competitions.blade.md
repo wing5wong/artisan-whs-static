@@ -1,6 +1,8 @@
 ---
 title: WHS annual Junior Speech Competitions
 date: 2019-07-03T00:00:00.000Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566951043/Untitled-1.jpg
 description: >-
   On Wednesday 3 July, Whanganui High School held our annual Junior Speech
   Competitions...
