@@ -50,7 +50,7 @@
             <tr>
                 <td>{{ $personInCharge->title ?? '' }}</td>
                 @if($personInCharge->phone)<td>{{ $personInCharge->phone ?? '' }}</td>@endif
-                @if($personInCharge->email)<td>{{ $personInCharge->mobile ?? '' }}</td>@endif
+                @if($personInCharge->email)<td>{{ $personInCharge->email ?? '' }}</td>@endif
             </tr>
         </tbody>
     </table>
