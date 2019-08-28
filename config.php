@@ -284,11 +284,6 @@ return [
                     ? str_limit_soft(content_sanitize($page->getContent()), $limit, $end)
                     : null;
             },
-            'excerpt' => function ($page, $limit = 250, $end = '...') {
-                return $page->isPost
-                    ? str_limit_soft(content_sanitize($page->getContent()), $limit, $end)
-                    : null;
-            },
         ],
         'news_and_events' => [
             'path' => 'news-and-events/{filename}',

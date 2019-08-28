@@ -49,6 +49,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
+      - { label: "Related Departments",   name: faculties,   required: false,  multiple: true,   widget: "relation",   collection: "faculties",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
+      - { label: "Related Subjects",   name: subject_areas,   required: false,  multiple: true,   widget: "relation",   collection: "subject_areas",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
+      - { label: "Related Extracurricular Areas",   name: extracurricular_areas,   required: false,  multiple: true,   widget: "relation",   collection: "extracurricular_areas",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
+      - { label: "Related Extracurricular Activities",   name: extracurricular_areas,   required: false,  multiple: true,   widget: "relation",   collection: "extracurricular_activities",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
       - label: "Image Filename"
         name: "image"
         widget: "image"
