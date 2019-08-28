@@ -2,7 +2,7 @@
 title: Whanganui High School News - March 2019
 date: 2019-03-31T00:00:00.000Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1566954617/MARCH_2019_rivercity_press_for_web.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566954796/MARCH_2019_RCP_for_Website.jpg
 description: >-
   Whanganui High School News, from the Principal : River City Press, March
   2019...
