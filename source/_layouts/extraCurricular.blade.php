@@ -37,12 +37,12 @@
     <table>
         <thead>
             <tr>
-                <td>Name</td>
+                <th>Name</th>
                 @if($personInCharge->phone)
-                <td>Phone</td>
+                <th>Phone</th>
                 @endif
                 @if($personInCharge->email)
-                <td>Email</td>
+                <th>Email</th>
                 @endif
             </tr>
         </thead>
