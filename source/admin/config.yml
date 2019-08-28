@@ -29,7 +29,7 @@ collections:
       - {label: "Title", name: "title", widget: "string", hint: 'Student Achievement Conferences'}
       - {label: "Emergency", name: "is_emergency", widget: "boolean", default: false}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", hint: 'Students released at 1.50pm (end of Period 4)'}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: 'Students released at 1.50pm (end of Period 4)'}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Image Filename"
         name: "image"
