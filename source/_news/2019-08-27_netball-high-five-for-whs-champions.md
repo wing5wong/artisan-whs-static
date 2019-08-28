@@ -7,6 +7,8 @@ tags:
   - Palmerston North
   - Sport
   - A1 Netball
+extracurricular_areas:
+  - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 image_title: >-
@@ -22,6 +24,9 @@ short: >-
   A five year journey has finally culminated in Manawatu Secondary School A
   Grade silverware as Phillips Electrical Whanganui High School A1 won the
   championship final in a 34-33 thriller on Saturday morning.
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1566796831/68723125_1328244307324672_4357824769442185216_n.jpg
 ---
 **Victorious Whanganui High School team built for their big moment over half a decade.**
 
