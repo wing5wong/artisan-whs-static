@@ -75,7 +75,7 @@
 
     @php
     $recentNews = $news->filter(function($news) use ($page, $ec_area){
-        return in_array($ec_area->title, collect($page->extracurricular_areas ?? []));
+        return in_array($ec_area->title, collect($news->extracurricular_areas ?? []));
     })->take(5);
     @endphp
     @if(count($recentNews))
