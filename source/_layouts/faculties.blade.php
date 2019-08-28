@@ -3,61 +3,69 @@
 @section('content')
 <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
-{{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}} @if ($page->image)
+@if($page->image)
 <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
-<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
+<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;">
+@endif
+
+@yield('postContent')
 
 
 
 @foreach($page->getTeachingFaculties($faculties) as $faculty)
-<details>
-<summary>
-    <h2 class="decorated d-table my-5">{{ $faculty->title }}
+
+<h2 class="decorated d-table my-5">{{ $faculty->title }}
     @if($faculty->maori_title)<br><small class="text-muted">{{$faculty->maori_title}}</small>@endif</h2>
-    @if($faculty->image)
-    <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $faculty->image)}}"
-        srcset="
+
+@if($faculty->image)
+<img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $faculty->image)}}"
+    srcset="
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_950,h_300,c_lfill,g_auto/", $faculty->image)}} 950w,
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $faculty->image)}} 500w
-        "
-        sizes="(min-width: 800px) 950px, 500px"
-        alt="" style="max-width: 100%">
-    @endif
-    @if($faculty->intro)
-    <br>
-    {{ $faculty->intro }}
-    <br>
-    Full details are available on the <a href="{{$faculty->getPath()}}" class="btn btn-light mb-5">{{$faculty->title}} faculty page</a>
-    <hr>
-    @endif
+        " sizes="(min-width: 800px) 950px, 500px" alt="" style="max-width: 100%">
+@endif
 
-</summary>
+@if($faculty->intro)
+<br>
+{{ $faculty->intro }}
+<br>
+Full details are available on the <a href="{{$faculty->getPath()}}" class="btn btn-light mb-5">{{$faculty->title}}
+    faculty page</a>
+<hr>
+@endif
 
-<div class="row">
-    
-<div class="col-12">
-    @include('_partials.vocational-pathways.list', ['pathways' => $faculty->vocational_pathways])
 
-    </div>
-    @foreach($page->getFacultySubjectAreas($faculty, $subject_areas) as $subject )
-    @php
-    $facultyCourses = $page->getSubjectAreaCourses($subject, $courses)
-    @endphp
-    @if(count($facultyCourses))
-    <div class="col-sm-12 col-md-6 col-lg-6">
-    <details open class="mt-4">
-            
-            <summary><h5 class="d-table">{{ $subject->title }}</h5></summary>
-        <div class="list-group">
-        @foreach($facultyCourses as $course)
-            <a class="list-group-item list-group-item-action" href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
-        @endforeach
+<details>
+    <summary>View Subject Areas and Courses</summary>
+
+    <div class="row">
+
+        <div class="col-12">
+            @include('_partials.vocational-pathways.list', ['pathways' => $faculty->vocational_pathways])
+
         </div>
-    </details>
+        @foreach($page->getFacultySubjectAreas($faculty, $subject_areas) as $subject )
+        @php
+        $facultyCourses = $page->getSubjectAreaCourses($subject, $courses)
+        @endphp
+        @if(count($facultyCourses))
+        <div class="col-sm-12 col-md-6 col-lg-6">
+            <details open class="mt-4">
+
+                <summary>
+                    <h5 class="d-table">{{ $subject->title }}</h5>
+                </summary>
+                <div class="list-group">
+                    @foreach($facultyCourses as $course)
+                    <a class="list-group-item list-group-item-action"
+                        href="{{$course->getPath()}}">{{$course->course_level}} - {{ $course->name }}</a>
+                    @endforeach
+                </div>
+            </details>
+        </div>
+        @endif
+        @endforeach
     </div>
-    @endif
-    @endforeach
-</div>
 
 </details>
 @endforeach
