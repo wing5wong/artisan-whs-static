@@ -1,6 +1,10 @@
 ---
 title: 'Basketball: Whanganui''s Special Olympians came third'
 date: 2019-06-29T00:00:00.000Z
+tags:
+  - Sport
+  - Basketball
+  - Special Olympics
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566951557/Special_Olympians.Carla_Davies.TeAta.Chron_29.6.19.jpg
 description: >-
