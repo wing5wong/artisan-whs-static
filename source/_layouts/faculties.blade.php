@@ -31,7 +31,6 @@
 <br>
 Full details are available on the <a href="{{$faculty->getPath()}}" class="btn btn-light mb-5">{{$faculty->title}}
     faculty page</a>
-<hr>
 @endif
 
 
@@ -68,6 +67,11 @@ Full details are available on the <a href="{{$faculty->getPath()}}" class="btn b
     </div>
 
 </details>
+
+@if(!$loop->last())
+<hr>
+@endif
+
 @endforeach
 
 @include('_partials.lastReviewed')
