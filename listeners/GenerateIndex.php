@@ -18,7 +18,7 @@ class GenerateIndex
                 'title' => $news->title,
                 'link' => rightTrimPath($jigsaw->getConfig('baseUrl')) . $news->getPath(),
                 'tags' => $news->tags,
-                'excerpt' => $news->excerpt(),
+                'excerpt' => $news->test(),
                 'type' => 'news'
             ];
         })))

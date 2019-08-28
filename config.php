@@ -279,6 +279,9 @@ return [
             'isPost' => true,
             'comments' => false,
             'tags' => [],
+            'test' => function($page) {
+                return 'it works';
+            },
             'excerpt' => function ($page, $limit = 250, $end = '...') {
                 return $page->isPost
                     ? str_limit_soft(content_sanitize($page->getContent()), $limit, $end)
