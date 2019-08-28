@@ -85,7 +85,7 @@
         
     @foreach($recentNews as $n)
         <div class="col-sm-12 col-md-6 col-lg-4">
-            <h4>{{$n->title}}</h4>
+            <a href="{{$n->getPath()}}"><h4>{{$n->title}}</h4></a>
         <img src="{{$n->image}}" alt="">
         </div>
     @endforeach
