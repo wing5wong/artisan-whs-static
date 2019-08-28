@@ -80,14 +80,15 @@ collections:
         fields:
         - {label: "Image Filename", name: "image", widget: "image"}
         - {label: "Image Description", name: "description", widget: "string", required: false}
-      - { label: "Feature Image", name: "feature_image",
-          widget: "object", required: "false",
-          fields:
-            - { label: "Image Filename", name: "image", widget: "string", required: false}
-            - { label: "Image Description", name: "description", widget: "string", required: false}
-            - { label: "Image Alt Text", name: "alt", widget: "string", required: false}
-            - { label: "Image Credit", name: "credit", widget: "string", required: false}
-        }
+      - label: "Feature Image"
+        name: "feature_image"
+        widget: "object"
+        required: false
+        fields:
+        - { label: "Image Filename", name: "image", widget: "string", required: false}
+        - { label: "Image Description", name: "description", widget: "string", required: false}
+        - { label: "Image Alt Text", name: "alt", widget: "string", required: false}
+        - { label: "Image Credit", name: "credit", widget: "string", required: false}
 
 
   - name: "events"
