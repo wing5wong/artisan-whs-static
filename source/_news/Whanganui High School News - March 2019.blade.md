@@ -1,29 +1,27 @@
 ---
-title: "Whanganui High School News - March 2019"
-date: 2019-03-31
-description: "Whanganui High School News, from the Principal : River City Press, March 2019..."
-image: http://c1940652.r52.cf0.rackcdn.com/5c8f06dcff2a7c25ea0004f8/WEBSITE-CREST-used-SEPT-2017.jpg
-excerpt: "Whanganui High School News, from the Principal : River City Press, March 2019."
-image_gallery:
-    
-    
-    
-    
-    
+title: Whanganui High School News - March 2019
+date: 2019-03-31T00:00:00.000Z
+tags:
+  - WHS News
+  - News
+  - River City Press
+  - March
+  - Achievers
+  - Student Success
+  - Newsletters
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1566954796/MARCH_2019_RCP_for_Website.jpg
+description: >-
+  Whanganui High School News, from the Principal : River City Press, March
+  2019...
+short: >-
+  Whanganui High School News, from the Principal: River City Press, March
+  2019...
 ---
+**Celebrating Success of our Students‼️**
 
-<p><strong><span style="text-decoration: underline;"><br /></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><br /></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><br /></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><br /></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><br /></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><br /></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><br /></span></strong></p>
-<p><strong><span style="text-decoration: underline;"><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/56716133_2153318398050660_7843976356974034944_n.jpg?_nc_cat=105&amp;_nc_ht=scontent-syd2-1.xx&amp;oh=9ba6536e40f8c387765a0e1a4aa13810&amp;oe=5D4FF05A" alt="Image may contain: 4 people, people smiling" /></span></strong></p>
-<h4><strong><span style="text-decoration: underline;"><br /></span></strong><span style="text-decoration: underline;">WHANGANUI HIGH SCHOOL NEWS&nbsp; &ndash; MARCH 2019</span><span style="text-decoration: underline;">&nbsp;</span><strong><span style="text-decoration: underline;"><br /></span></strong><strong></strong></h4>
-<p><strong><span style="text-decoration: underline;"><br />IMPORTANT DATES</span></strong></p>
-<p>Monday 25 March&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summer Tournament Begins<br />Wednesday 10 April &amp; Thursday 11 April&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Achievement Conferences<br />Friday 12 April&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Term 1 Ends<br />Monday 29 April &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Term 2 Begins</p>
-<p><strong><span style="text-decoration: underline;">WHS ATHLETICS DAY</span></strong>&nbsp;</p>
+<span style="text-decoration: underline;">WHS ATHLETICS DAY</span></strong>&nbsp;</p>
+
 <p>School athletics this year at Whanganui High School was another successful year for the whole school. Having our four houses Awa, Maunga, Moana and Whenua made the day exciting with plenty of competitiveness and school spirit amongst everyone.&nbsp;</p>
 <p>The competitive races were an eye opener to what an amazing job coach Greg Fromont and assistant coach Elaine Baker have done with our athletes here at Whanganui High School. Every race was extremely close with everyone giving 110% and showing great sportsmanship towards each other. A school record was broken by Rebecca Baker first time in Senior Girls 1500m. This was last set in 1998 by Sarah McLeod with a time of 4.44.09 with Rebecca Baker breaking this at 4.40.08. Overall the school Athletics Day was a huge success and a great way to continue a new era.&nbsp;</p>
 <p>WHS had 80 athletes compete at the WSS with a selection of them being named in the North Island Secondary School Wanganui Athletic Team to compete in April in Tauranga.&nbsp;</p>
@@ -55,4 +53,3 @@ image_gallery:
 <p><strong><span style="text-decoration: underline;">PB4L (Positive Behaviour for Learning)</span></strong></p>
 <p>As a PB4L (Positive Behaviour for Learning) School, Whanganui High School has the four Life values &ndash; Learning, Integrity, Fellowship and Excellence. Learning focuses on &lsquo;Being Prepared&rsquo; and &lsquo;Participation&rsquo;, Integrity focuses on &lsquo;Being Responsible&rsquo; and &lsquo;Showing Respect&rsquo;, Fellowship focuses on &lsquo;Cooperation&rsquo; and &lsquo;Encouraging Others&rsquo; and &lsquo;Excellence&rsquo; focuses on &lsquo;Doing Your Best&rsquo; and &lsquo;Celebrating Success&rsquo;. Staff are involved in ensuring that the school environment is positive and supportive, expectations are clear and that students are taught desired behaviours. Desired behaviours are acknowledged in a number of ways both informally by individual staff members and formally via our Recognitions system which is recorded on our School Management System, KAMAR. When students have difficulty making positive choices, staff provide relevant support and also record this on KAMAR. Three times a term a summary of attendance, recognitions and behaviour entries is forwarded to students and their caregivers. We are really excited this year to have established a PB4L Student Team who currently meet once a fortnight and have some great initiatives they are currently working on.&nbsp;</p>
 <p><em>Rivercity Press 28/3/19</em></p>
-
