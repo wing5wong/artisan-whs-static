@@ -17,7 +17,7 @@ short: Whanganui High School News - June 2019. Celebrating Success of our Studen
 
 
 
-[Read the lastest edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1563920455/newsletters/Rivercity_Press_-_Newsletter_June_2019.ai)
+[Read the June 2019 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1563920455/newsletters/Rivercity_Press_-_Newsletter_June_2019.ai)
 
 To read other Newsletters see our [School Newsletters page](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
 
