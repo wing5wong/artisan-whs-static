@@ -72,6 +72,28 @@
 
     </table>
 
+
+    @php
+    $recentNews = $news->filter(function($news) use ($page, $ec_area){
+        return in_array($ec_area->title, collect($page->extracurricular_areas ?? []));
+    })->take(5);
+    @endphp
+    @if(count($recentNews))
+
+    <h3>Recently in the news:</h3>
+    <div class="row">
+        
+    @foreach($recentNews as $n)
+        <div class="col-sm-12 col-md-6 col-lg-4">
+            <h4>{{$n->title}}</h4>
+        <img src="{{$n->image}}" alt="">
+        </div>
+    @endforeach
+    
+</div>
+    @endif
+
+
     <a href="{{$ec_area->getPath()}}" class="btn btn-light my-5">See all {{$ec_area->title}} activities.</a>
 
 </details>
