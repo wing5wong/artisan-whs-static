@@ -14,7 +14,10 @@ short: >-
   Whanganui's Special Olympians came third in both of their basketball divisions
   at the Special Olympics Manawatu tournament.
 extracurricular_areas:
-  - "Sport"
+  - Sport
+extracurricular_activities:
+  - Basketball - Boys
+  - Basketball - Girls
 ---
 There was tremendous excitment for a group of Whanganui's Special Olympians (which included former student Aaron Johnson (back row, 2nd from left) and WHS TeAtawhai staff member, Carla Davies - back row, 3rd from left) who came third in both of their basketball divisions at the Special Olympics Manawatu tournament at Central Energy Trust Arena last weekend.</p>
 <p>Entered at 'Emerging' level against teams from Taranaki, Upper Hutt, Wellington and Waikato, Whanganui took a boys team and a mixed team, having to change from an all-girls squad due to illnesses.</p>
