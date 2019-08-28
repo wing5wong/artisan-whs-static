@@ -98,28 +98,28 @@ return [
                 'url' => '/curriculum/course-options'
             ],
             [
-                'title' => 'Vocational Pathways',
-                'url' => '/curriculum/vocational-pathways'
+                'title' => 'Faculties',
+                'url' => '/curriculum/faculties'
             ],
             [
-                'title' => 'Extracurricular',
-                'url' => '/curriculum/extracurricular'
+                'title' => 'Vocational Pathways',
+                'url' => '/curriculum/vocational-pathways'
             ],
             [
                 'title' => 'Tertiary Providers',
                 'url' => '/curriculum/tertiary-providers'
             ],
             [
+                'title' => 'Extracurricular',
+                'url' => '/curriculum/extracurricular'
+            ],
+            [
                 'title' => 'Performing Arts',
-                'url' => '/curriculum/performing-arts'
+                'url' => '/curriculum/extracurricular/performing-arts'
             ],
             [
                 'title' => 'Sport',
-                'url' => '/curriculum/sport'
-            ],
-            [
-                'title' => 'Faculties',
-                'url' => '/curriculum/faculties'
+                'url' => '/curriculum/extracurricular/sport'
             ],
         ],
     ],
