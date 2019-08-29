@@ -1,6 +1,7 @@
 ---
 title: Athletics
 date: 2019-07-09T22:49:22.439Z
+person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
 ---
 **Background**  
