@@ -12,5 +12,5 @@ Equipment: Own glove
 
 Terms: Term 4 & Term 1 the following year 
 
-Teacher-in-charge: Mrs L Murphy (murphy.l@whs.ac.nz)
+Teacher-in-charge: Mrs L Murphy (murphy.l@whs.ac.nz)  
 Coaches:  Marama Savage / Shaun Pirere
