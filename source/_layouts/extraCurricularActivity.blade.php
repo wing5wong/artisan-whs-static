@@ -74,6 +74,11 @@ $recentNews = $news->filter(function($article) use ($page){
 </div>
 @endif
 
+
+@foreach($page->blocks as $block)
+    @include('_partials.blocks.' . $block["type"], ['block'=>$block])
+@endforeach
+
 @include('_partials.lastReviewed')
 
 @endsection
