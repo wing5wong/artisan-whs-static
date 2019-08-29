@@ -793,3 +793,6 @@ collections:
               - {label: "Heading", name: heading, widget: string, required: false}
               - {label: "Video URL", name: url, widget: string} 
               - {label: "Content", name: content, widget: markdown, required: false} 
+          - label: "Term Dates"
+            name: termDates
+            widget: object

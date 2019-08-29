@@ -1,4 +1,3 @@
-
 @foreach($term_dates as $td)
 <h2 class="d-table decorated mb-4">{{$td->title}}</h2>
 
