@@ -5,7 +5,7 @@
         {!! $block["content"] !!}
       </div>
     @endif
-    {{-- @if($block["video"]) -- }}
+    {{-- @if($block["video"]) --}}
     <iframe width="560" height="315" src="https://www.youtube.com/embed/mIBZWYOw4dU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     {{-- @endif --}}
     </section>
