@@ -561,7 +561,31 @@ collections:
       - {label: "Place", name: "place", widget: "string"}
       - {label: "International", name: "international", widget: boolean}
       - {label: "image", name: "image", widget: "image" }
-      - {label: "Body", name: "body", widget: "markdown" }
+      - {label: "Body", name: "body", widget: "markdown", required: false }
+      - label: "Page Builder"
+        label_singular: "Content Block"
+        name: blocks
+        widget: list
+        types:
+          - label: "H2 Section"
+            name: h2section
+            widget: object
+            fields:
+              - {label: "Heading", name: heading, widget: string}
+              - {label: "Content", name: content, widget: markdown, buttons: ["bold", "italic", "link"], required: false}
+          - label: "Rich Text Block"
+            name: textBlock
+            widget: object
+            fields:
+              - {label: "Heading", name: heading, widget: string, required: false}
+              - {label: "Content", name: content, widget: markdown} 
+          - label: "Video"
+            name: video
+            widget: object
+            fields:
+              - {label: "Heading", name: heading, widget: string, required: false}
+              - {label: "Video URL", name: url, widget: string} 
+              - {label: "Content", name: content, widget: markdown, required: false} 
 
 
   - name: "honours"
