@@ -2,6 +2,8 @@
 title: Dodgeball Competition - Year 9 & 10
 is_emergency: false
 date: 2019-08-29T22:39:10.315Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1567118839/Dodgeball_Comp_poster.jpg
 ---
 **WHS Y9-10 Dodge Ball Competition - pool draw information:**
 
