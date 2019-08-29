@@ -11,7 +11,7 @@ We also enter teams in Term 4 for the Whanganui Secondary School League.
 
 Cost: Determined by competition entry
 
-Teacher-in-Charge: Mr S Brown (brown.s@whs.ac.nz)
+Teacher-in-Charge: Mr S Brown (brown.s@whs.ac.nz)  
 Coach: Mr Sean Brown
 
 Teacher Profile:  Mr Brown has represented New Zealand in various age group and open grades as a player since 2001. Since coaching WHS from 2010 the team has participated at Nationals five times, making the finals in 2013 & 2014 and winning in 2015 and 2016!!
