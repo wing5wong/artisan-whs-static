@@ -26,6 +26,7 @@
 @php
     $personInCharge = $staff->firstWhere('title', $page->person_in_charge);
 @endphp
+@if($personInCharge)
 <h3>Person in charge</h3>
 <table>
     <thead>
@@ -47,7 +48,7 @@
         </tr>
     </tbody>
 </table>
-
+@endif
 
     
 @yield('postContent')
