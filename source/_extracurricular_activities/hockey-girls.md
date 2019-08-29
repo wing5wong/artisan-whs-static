@@ -8,8 +8,8 @@ Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf i
 
 **Practices** are at Whanganui High School, Collegiate School Turf or at the Gonville Hockey turf after school.
 
-**Costs:**  
-1st XI - $360 approx (dependant on turf fees  
+**Cost:**  
+1st XI - $360 approx (dependant on turf fees)  
 2nd XI - $150 approx (dependant on turf fees)  
 Please be aware that travel costs may be added on for the teams that are playing in Palmerston North.
 
