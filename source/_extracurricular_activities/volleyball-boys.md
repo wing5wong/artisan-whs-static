@@ -4,7 +4,7 @@ date: 2019-08-28T22:08:14.735Z
 person_in_charge: Mrs M. Bennetts
 extracurricular_area: Sport
 ---
-Trials for junior teams are at the start of Term 1.  Students need to attend these if they wish to play.  Senior competitive teams trail in Term 3.  Opportunities to create own team also exist for senior social students.
+**Trials** for junior teams are at the start of Term 1.  Students need to attend these if they wish to play.  Senior competitive teams trail in Term 3.  Opportunities to create own team also exist for senior social students.
 
 **Practices** vary during the week but they are generally at breaks or after school in the Seddon or Reeves gym.
 
