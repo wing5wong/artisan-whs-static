@@ -22,5 +22,5 @@ short: >-
 
 _Rivercity Press 31/3/19_   
 
-[Read the March 2019 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1563920453/newsletters/Rivercity_Press_-_Newsletter_March_2019.pdf)
+[Read the March 2019 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1563920453/newsletters/Rivercity_Press_-_Newsletter_March_2019.pdf)  
 To read other Newsletters see our [School Newsletters page](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
