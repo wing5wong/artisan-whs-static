@@ -1,15 +1,18 @@
 ---
-title: "WHS student wows judges with short story"
-date: 2019-06-19
-description: "A WHS student has impressed the judges with her creative mind in the New Zealand Secondary School Writing Competition..."
-image: 
-excerpt: "A Whanganui High School student has impressed the judges with her creative mind in the New Zealand Secondary School Writing Competition."
-image_gallery:
-    
-    
-    
-    
-    
+title: WHS student wows judges with short story
+date: 2019-06-19T00:00:00.000Z
+tags:
+  - English
+  - Jenna Mareikura-Lacy
+  - NZSS Writing Competition
+faculties:
+  - English
+description: >-
+  A WHS student has impressed the judges with her creative mind in the New
+  Zealand Secondary School Writing Competition...
+short: >-
+  A WHS student has impressed the judges with her creative mind in the New
+  Zealand Secondary School Writing Competition...
 ---
 
 <p>&nbsp;</p>
