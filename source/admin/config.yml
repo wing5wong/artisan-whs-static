@@ -796,3 +796,5 @@ collections:
           - label: "Term Dates"
             name: termDates
             widget: object
+            fields:
+              - {label: "Heading", name: heading, widget: string, default: "Term Dates"}
