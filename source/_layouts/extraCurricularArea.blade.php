@@ -38,7 +38,7 @@
     @php
     $recentNews = $news->filter(function($article) use ($page){
         return in_array($page->title, $article->extracurricular_areas ?? []);
-    })->take(5);
+    })->take(6);
     @endphp
     @if(count($recentNews))
 
