@@ -483,17 +483,14 @@ collections:
       name: "people"
       widget: "list"
       fields:
-      - name: person
-        widget: object
-        fields:
-        - name: "name"
-          widget: "relation"
-          collection: "staff"
-          searchFields: ["title"]
-          valueField: "title"
-          displayFields: ["title"]
-        - name: "position"
-          widget: string
+      - name: "name"
+        widget: "relation"
+        collection: "staff"
+        searchFields: ["title"]
+        valueField: "title"
+        displayFields: ["title"]
+      - name: "position"
+        widget: string
     - {label: "Terms", name: "terms", widget: "select", options: ["Term 1", "Term 2", "Term 3", "Term 4"], required: false}
     - {label: "Contribution", name: "contribution", required: false, widget: "string"}
     - {label: "Uniform", name: "uniform", required: false, widget: "markdown"}
