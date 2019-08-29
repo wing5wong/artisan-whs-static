@@ -1,12 +1,17 @@
 ---
 title: Badminton
 date: 2019-08-28T21:55:06.610Z
+person_in_charge: Mr G. Hardy
 extracurricular_area: Sport
 blocks:
   - content: some random text
     heading: Hero heading
     type: hero
-  - content: Here be the content
+  - content: |-
+      Here be the content
+      _ we add some italic _
+
+      ** and we add some bold **
     heading: The content
     type: textBlock
 ---
