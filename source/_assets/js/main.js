@@ -1,5 +1,5 @@
 import 'bootstrap';
-import 'font-awesome';
+import '@fortawesome/fontawesome-free/css/all.css'
 import Swiper from "swiper";
 import 'netlify-identity-widget'
 
