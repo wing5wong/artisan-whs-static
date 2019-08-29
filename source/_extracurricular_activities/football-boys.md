@@ -6,7 +6,7 @@ extracurricular_area: Sport
 ---
 Interschool and Tournament week games will be played.
 
-This year Central Football are hoping to have a Secondary School League on Wednesdays after school.  More information will be given closer to Term 2.
+This year Central Football are hoping to have a Secondary School League on Wednesdays after school.  
 
 There will be occasional interschool games during Terms 2 & 3.
 
