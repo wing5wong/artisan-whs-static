@@ -16,5 +16,5 @@ Cost: $20 per year
 
 Terms: 1 and 4
 
-Teacher-in-charge: Mr A Lock (lock.a@whs.ac.nz)
+Teacher-in-charge: Mr A Lock (lock.a@whs.ac.nz)  
 Coaches: 1st XI Senior - Mr Eric Head / Mr Warren Marr
