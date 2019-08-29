@@ -9,7 +9,7 @@ tags:
 extracurricular_areas:
   - Sport
 extracurricular_activities:
-  - Athletics
+  - Cross Country
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566855897/Rebecca_Baker_Aug_2019_Gold_in_relay_in_OZ.jpg
 description: Well done Rebecca Baker winning Gold with her NZSS Relay team in Sydney today!
