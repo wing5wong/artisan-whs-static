@@ -16,5 +16,5 @@ There will be occasional interschool games during Terms 2 & 3.
 
 **Terms:** 2 and 3
 
-**Teacher-in-charge**:  Contact Mrs L Murphy (murphy.l@whs.ac.nz)\
+**Teacher-in-charge**:  Contact Mrs L Murphy (murphy.l@whs.ac.nz)  
 **Coaches:** 1st XI - Mr Steve Kerfoot / Mr Peter Czerwonka
