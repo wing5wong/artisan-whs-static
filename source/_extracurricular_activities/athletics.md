@@ -3,7 +3,7 @@ title: Athletics
 date: 2019-07-09T22:49:22.439Z
 extracurricular_area: Sport
 ---
-**Background**
+**Background**  
 Whanganui High School has a very strong athletics programme, and we are now ranked 4th = in New Zealand after our performances at the 2018 Athletics Nationals in Dunedin where we won 6 medals, and two of our students made the NZ Secondary Schools' team.  Athletics also acts as a conditioning base for other codes within the school and many athletes within the programme have gone on to represent the school at high levels in other codes due to their excellent conditioning.
 
 **Structure**  
@@ -21,6 +21,5 @@ _North Island Championships_ are in Tauranga on 5-7 April and the N.Z.S.S Champs
 
 **Contact:** Mrs L Murphy for details or behind the gym on training days @ 3.15pm. 
 
-**Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)
-
+**Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)  
 **Coach:** Greg Fromont
