@@ -16,8 +16,7 @@ NB: Fees need to be paid prior to the start of the regular season. No pay no pla
 Cost: $40
             1st XV Fee $120 (approx.) - play in Manawatu competition.
 
-Teachers-in-charge: 
-Mrs L Murphy (murphy.l@whs.ac.nz)
+Teachers-in-charge:  
+Mrs L Murphy (murphy.l@whs.ac.nz)  
 Mr Bryn Parry (parry.b@whs.ac.nz)
-
 1st XV Head Coach:  Mr Bryn Parry 
