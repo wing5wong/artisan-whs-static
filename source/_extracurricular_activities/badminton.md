@@ -3,7 +3,11 @@ title: Badminton
 date: 2019-08-28T21:55:06.610Z
 person_in_charge: Mr G. Hardy
 extracurricular_area: Sport
-blocks: []
+blocks:
+  - content: just testing the video
+    heading: My Test Video
+    type: video
+    url: a test
 ---
 Badminton is held in Term 2 and 3 on Fridays after school in the Seddon and Reeves Gym from 3.30pm - 5.30pm.
 
