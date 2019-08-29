@@ -6,7 +6,11 @@ blocks:
   - content: some random text
     heading: Hero heading
     type: hero
-  - content: Here be the content
+  - content: |-
+      Here be the content
+      _ we add some italic _
+
+      ** and we add some bold **
     heading: The content
     type: textBlock
 ---
