@@ -18,7 +18,7 @@ From the school event, teams will be selected for the Whanganui Secondary School
 
 Our most successful runners will then be invited to represent Whanganui High School at the National Secondary Schools' Cross Country event held in Timaru on 15 & 16 June 2019. 
 
-**Costs:** The school and interschool events incur no financial cost, just an investment in regular training.
+**Cost:** The school and interschool events incur no financial cost, just an investment in regular training.
 
 **Training Days:** Generally, Tuesday and Thursday at school from 3.15pm, with some Saturday morning trainings close to competitions.
 
