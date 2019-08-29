@@ -10,6 +10,8 @@ tags:
   - Food and Nutrition
 faculties:
   - Technology
+subject_areas:
+  - Food and Nutrition
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566433985/1.L-R._Mrs_Hardcastle_Alysha_Kelahn_Ava_Britney_and_Caitlyn.jpg
 image_title: >-
