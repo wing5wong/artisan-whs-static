@@ -7,10 +7,8 @@ blocks: []
 ---
 Badminton is held in Term 2 and 3 on Fridays after school in the Seddon and Reeves Gym from 3.30pm - 5.30pm.
 
-**Competitions this year:**
-
-Juniors - Central 6 competition, Whanganui Secondary School Championship, Junior tournament - Term 4 
-
+**Competitions this year:**  
+Juniors - Central 6 competition, Whanganui Secondary School Championship, Junior tournament - Term 4  
 Seniors - Whanganui Secondary School Championship, Tournament Week - Term 3 
 
 We also traditionally have 2 Inter-school competitions throughout the year.
