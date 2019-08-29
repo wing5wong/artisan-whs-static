@@ -1,6 +1,11 @@
 ---
 title: WHS Kowhai Debating Team winners
 date: 2019-07-02T00:00:00.000Z
+tags:
+  - English
+  - Debating
+faculties:
+  - English
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566951376/WHS_vs_Freyberg_High_school_June_2019.jpg
 image_title: >-
