@@ -15,5 +15,5 @@ All equipment is provided and the girls wear PE tops with black or green shorts 
 
 Terms: 1 and 4
 
-Teacher-in-charge: Mr A Lock (lock.a@whs.ac.nz)
+Teacher-in-charge: Mr A Lock (lock.a@whs.ac.nz)  
 Coach: 1st XI - Mr Andrew Lock
