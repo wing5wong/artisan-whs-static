@@ -513,6 +513,13 @@ collections:
           fields:
             - {label: "Heading", name: heading, widget: string, required: false}
             - {label: "Content", name: content, widget: markdown} 
+        - label: "Video"
+          name: video
+          widget: object
+          fields:
+            - {label: "Heading", name: heading, widget: string, required: false}
+            - {label: "Video URL", name: url, widget: string} 
+            - {label: "Content", name: content, widget: markdown, required: false} 
 
 
   - name: "achievers_lists"
