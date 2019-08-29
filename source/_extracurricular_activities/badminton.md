@@ -4,9 +4,6 @@ date: 2019-08-28T21:55:06.610Z
 person_in_charge: Mr G. Hardy
 extracurricular_area: Sport
 blocks:
-  - content: some random text
-    heading: Hero heading
-    type: hero
   - content: |-
       Here be the content
       _ we add some italic _
@@ -14,6 +11,9 @@ blocks:
       ** and we add some bold **
     heading: The content
     type: textBlock
+  - content: some random text
+    heading: Hero heading
+    type: hero
 ---
 Badminton is held in Term 2 and 3 on Fridays after school in the Seddon and Reeves Gym from 3.30pm - 5.30pm.
 
