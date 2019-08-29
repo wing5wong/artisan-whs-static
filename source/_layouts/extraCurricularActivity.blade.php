@@ -67,9 +67,15 @@ $recentNews = $news->filter(function($article) use ($page){
     @foreach($recentNews as $n)
     <div class="col-sm-12 col-md-6 col-lg-4">
         <a href="{{$n->getPath()}}">
-            <h4>{{$n->title}}</h4>
+            <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $n->image)}}"
+srcset="
+{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400,h_360/", $n->image)}} 400w,
+{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $n->image)}} 250w
+"
+sizes="(min-width: 800px) 400px, 250px"
+width="600" alt="{{$n->description ?? ''}}" style="max-width: 100%">
+            {{$n->title}}
         </a>
-        <img src="{{$n->image}}" alt="">
     </div>
     @endforeach
 </div>
