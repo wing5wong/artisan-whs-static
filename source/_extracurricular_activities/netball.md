@@ -17,5 +17,5 @@ Practice time depends on the coach but is usually after school.
 
 Cost: $100 per player - needs to be paid before 8 May 2019.
 
-Teacher-in-charge: Mrs L Murphy (murphy.l@whs.ac.nz)
+Teacher-in-charge: Mrs L Murphy (murphy.l@whs.ac.nz)  
 Senior A1 Coach: Mrs Lisa Murphy
