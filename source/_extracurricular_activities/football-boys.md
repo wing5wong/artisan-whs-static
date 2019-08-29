@@ -15,5 +15,5 @@ Cost: $80 (approx)
 
 Terms: 2 and 3
 
-Teacher-in-charge:  TBC. Contact Mrs L Murphy (murphy.l@whs.ac.nz)
+Teacher-in-charge:  Mrs L Murphy (murphy.l@whs.ac.nz)  
 Coaches: 1st XI - Mr Steve Kerfoot / Mr Peter Czerwonka
