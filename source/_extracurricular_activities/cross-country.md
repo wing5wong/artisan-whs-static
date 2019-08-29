@@ -1,6 +1,7 @@
 ---
 title: Cross Country
 date: 2019-08-28T22:00:29.655Z
+person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
 ---
 Background - Whanganui High school now has a strong Cross Country programme, and last year we had two of our students finish in the top 5 at the NZ Secondary Schools Nationals, and one selected in the NZ Secondary Schools’ team for the Australasian champs where they finished 4th.  
@@ -15,11 +16,12 @@ From the school event, teams will be selected for the Whanganui Secondary School
 
 Our most successful runners will then be invited to represent Whanganui High School at the National Secondary Schools' Cross Country event held in Timaru on 15 & 16 June 2019. 
 
-Costs: The school and interschool events incur no financial cost, just an investment in regular training.
+**Costs:** The school and interschool events incur no financial cost, just an investment in regular training.
 
-Training Days: Generally, Tuesday and Thursday at school from 3.15pm, with some Saturday morning trainings close to competitions.
+**Training Days:** Generally, Tuesday and Thursday at school from 3.15pm, with some Saturday morning trainings close to competitions.
 
-Contact: Mrs Murphy for details
+**Contact:** Mrs Murphy for details
 
-Teacher-in-charge: Mrs. L Murphy (murphy.l@whs.ac.nz)  
-Coach: Greg Fromont
+**Teacher-in-charge:** Mrs. L Murphy (murphy.l@whs.ac.nz)
+
+**Coach:** Greg Fromont
