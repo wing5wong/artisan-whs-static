@@ -21,7 +21,7 @@ The Whanganui High School Crest features:
 
 ## Whanganui High School Motto
 
-'That we might have life'
+**'That we might have life'**
 
 Our school motto is from the New Testament, from the Book of John, Chapter 10, Verse 10 _'I am come that they might have life, and they might have it more abundantly"._
 
