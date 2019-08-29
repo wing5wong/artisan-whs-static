@@ -28,5 +28,7 @@ blocks:
       Page](http://www.facebook.com/pages/Wanganui-High-School-International/249702658396182)
     heading: WHS INTERNATIONAL FACEBOOK PAGE
     type: h2section
+  - heading: Term Dates
+    type: termDates
 ---
 
