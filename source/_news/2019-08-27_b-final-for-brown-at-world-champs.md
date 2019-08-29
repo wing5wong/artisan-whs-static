@@ -7,6 +7,7 @@ tags:
   - Paddler
   - Max Brown
   - Hungary
+extracurricular_areas:
   - Sport
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566452564/Max_Brown_Chron_22.8.19.jpg
