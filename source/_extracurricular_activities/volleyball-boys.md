@@ -11,7 +11,7 @@ All Junior students participate in an interschool competition in Terms 1 & 4 at 
 Senior Social teams play Term 1 only. Games are Wednesday afterschool at Jubilee Stadium.
 Senior Boys and Girls competitive team work towards going to Secondary School Nationals in Term 1 and also play in the Palmerston North competition. 
 
-Cost: $10 - Juniors and Social Seniors playing in local competition.
+Cost: $10 - Juniors and Social Seniors playing in local competition.  
 Competitive Seniors: $65 for Palmerston North competition and cost of Nationals.
 
 Terms: 1 and 4 
