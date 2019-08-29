@@ -21,5 +21,5 @@ Training Days: Generally, Tuesday and Thursday at school from 3.15pm, with some 
 
 Contact: Mrs Murphy for details
 
-Teacher-in-charge: Mrs. L Murphy (murphy.l@whs.ac.nz)
+Teacher-in-charge: Mrs. L Murphy (murphy.l@whs.ac.nz)  
 Coach: Greg Fromont
