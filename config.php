@@ -164,8 +164,8 @@ return [
             'section' => 'postContent',
         ],
         'pages' => [
-            'path' => !empty('{customPath}') ?: '{filename}',
-            'extends' => '_layouts.post',
+            'path' => '{filename}',
+            'extends' => '_layouts.page',
             'section' => 'postContent',
         ],
         'posts' => [
