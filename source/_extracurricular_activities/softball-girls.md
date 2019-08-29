@@ -6,7 +6,7 @@ extracurricular_area: Sport
 ---
 Our students play for clubs on Saturdays and we will be sending a Boys and Girls team to the Regional Tournament in Gisborne during Term 1.
 
-**Cost:** $20 (Saturday competition)
+**Cost:** $20 (Saturday competition)  
 Regional Tournament week - extra cost
 
 **Equipment:** Own glove
