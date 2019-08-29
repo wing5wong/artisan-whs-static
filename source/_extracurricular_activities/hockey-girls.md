@@ -15,5 +15,5 @@ Equipment: Must have own stick, shin pads and mouthguard.
 
 Terms: 2 and 3
 
-Teacher-in-Charge: Mr G Hardy (hardy.g@whs.ac.nz)
+Teacher-in-Charge: Mr G Hardy (hardy.g@whs.ac.nz)  
 1st XI Coach: Melissa Goff
