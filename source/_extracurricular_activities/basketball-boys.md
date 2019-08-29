@@ -14,3 +14,5 @@ Competitive teams will have one practice per week (normally straight after schoo
 Cost: $55 for Fridays
 
 Terms: 2 and 3
+
+Teacher-in-charge: Contact Mrs L Murphy (murphy.l@whs.ac.nz)
