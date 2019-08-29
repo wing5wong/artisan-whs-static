@@ -7,6 +7,8 @@ tags:
   - NZSS Writing Competition
 faculties:
   - English
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1567119039/Jenna-Mareikura_Chron_19.6.19.jpg
 description: >-
   A WHS student has impressed the judges with her creative mind in the New
   Zealand Secondary School Writing Competition...
