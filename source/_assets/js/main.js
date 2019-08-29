@@ -1,4 +1,5 @@
 import 'bootstrap';
+import 'font-awesome';
 import Swiper from "swiper";
 import 'netlify-identity-widget'
 

@@ -23,6 +23,7 @@
     },
     "dependencies": {
         "bootstrap": "^4.3.1",
+        "font-awesome": "^4.7.0",
         "jquery": "^3.4.1",
         "netlify-identity-widget": "^1.5.5",
         "popper.js": "^1.15.0",
