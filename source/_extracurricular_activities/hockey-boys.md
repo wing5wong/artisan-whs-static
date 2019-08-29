@@ -15,6 +15,6 @@ Equipment: Must have own stick, shin pads and mouthguard.
 
 Terms: 2 and 3
 
-Teacher-in-Charge: Mrs N Campbell (campbell.n@whs.ac.nz)
-1st XI Coach: Mr Andrew Spence
+Teacher-in-Charge: Mrs N Campbell (campbell.n@whs.ac.nz)  
+1st XI Coach: Mr Andrew Spence  
 1st XI Manager: Mr Darrell Hoskin
