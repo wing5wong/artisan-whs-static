@@ -3,6 +3,7 @@ title: Athletics
 date: 2019-07-09T22:49:22.439Z
 person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
+category: School Sports
 ---
 **Background**  
 Whanganui High School has a very strong athletics programme, and we are now ranked 4th = in New Zealand after our performances at the 2018 Athletics Nationals in Dunedin where we won 6 medals, and two of our students made the NZ Secondary Schools' team.  Athletics also acts as a conditioning base for other codes within the school and many athletes within the programme have gone on to represent the school at high levels in other codes due to their excellent conditioning.
