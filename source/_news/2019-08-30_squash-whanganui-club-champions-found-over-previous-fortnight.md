@@ -6,11 +6,17 @@ image: >-
 image_title: Open champions Kent Darlington and Ngakuia Osborne at the recent prizegiving.
 image_credit: File
 description: >-
-  Open champions Kent Darlington and Ngakuia Osborne at the recent Squash
-  prizegiving.
+  Open champions Kent Darlington and Ngakuia Osborne at the recent Club Squash
+  Champs prizegiving.
 short: >-
-  Open champions Kent Darlington and Ngakuia Osborne at the recent Squash
-  prizegiving.
+  Open champions Kent Darlington and Ngakuia Osborne at the recent Club Squash
+  Champs prizegiving.
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567135592/Squash.._Ngakuira_Osborne.ex.group.chron_26.8.19.jpg
+    description: >-
+      The trophy recipients at the recent Whanganui Squash Club Champs
+      prizegiving.
 ---
 The annual Whanganui Squash Club Championships were held over the last two weeks with a strong turnout of 61 players have a crack at championships across multiple grades.
 
@@ -97,5 +103,5 @@ Mens – Houia Cup (D1 & Above) Winners: Kent Darlington, Matt Ratcliffe; Runner
 Mixed Doubles
 Mair Cup — Winner: **Osborne**, Stone; Runnerup: Kent Darlington, Bannister.
 
-_By Staff Reporter_\
+_By Staff Reporter_  
 _Whanganui Chronicle 26/8/19_
