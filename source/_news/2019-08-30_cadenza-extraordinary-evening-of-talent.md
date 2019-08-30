@@ -1,6 +1,6 @@
 ---
 title: 'Cadenza: extraordinary evening of talent'
-date: 2019-08-26T02:07:31.337Z
+date: 2019-08-25T02:07:31.337Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1565841201/The_big_sing_opera_house_poster.jpg
 description: >-
