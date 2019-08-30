@@ -1,6 +1,6 @@
 ---
 title: Family mourn caring sister
-date: 2019-08-26T02:02:26.461Z
+date: 2019-08-25T02:02:26.461Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567130345/Alyssa_Gedye_Obituary.Chron_28.8.19.jpg
 image_title: >-
