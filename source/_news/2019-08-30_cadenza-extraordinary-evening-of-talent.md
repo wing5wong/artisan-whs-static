@@ -73,5 +73,5 @@ Congratulations to all teachers, conductors, arrangers and all who gave their ti
 
 We had a great night, thank you.
 
-_By Paul Brooks_\
+_By Paul Brooks_  
 _Midweek 28/8/19_
