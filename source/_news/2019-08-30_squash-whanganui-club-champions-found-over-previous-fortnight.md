@@ -54,9 +54,9 @@ There were four doubles titles up for grabs, which continue to highly sort after
 
 In the Men's grade – D1 and above – singles finalists Ratcliffe and Darlington retained their title by beating Barry Touzel and Jared Perkins 3/1.
 
-The Mixed title this year went to Osborne and Shane Stone, who as third seeds who won all their matches 3/0 and beat the top seeds in Darlington and Aria Bannister 3/1.
+The Mixed title this year went to **Osborne** and Shane Stone, who as third seeds who won all their matches 3/0 and beat the top seeds in Darlington and Aria Bannister 3/1.
 
-The Woman's Doubles title went to Osborne and Bannister as they beat the Hill and Pauline Slovak combination in a big five set match, 16/14, 11/15, 15/8, 14/16, 15/7.
+The Woman's Doubles title went to **Osborne** and Bannister as they beat the Hill and Pauline Slovak combination in a big five set match, 16/14, 11/15, 15/8, 14/16, 15/7.
 
 The Mens D1 and below trophy was claimed by the top seeds Aaron Toy and Lee Tuhiwai.
 Two annual club awards were given out at the prizegiving.
@@ -79,29 +79,30 @@ He was the Central Junior Under 17 Boys winner from fourth seed, beating all thr
 
 The club had a number of representative honours for the year as Darlington, Ratcliffe, Osborne and juniors Aria Bannister and Max Matthews were part of Central teams competing against Waikato, Wellington and Eastern Districts, where Central swept all the titles on offer.
 
-Ratcliffe and Osbourne have also been selected to represent Central at New Zealand Senior National teams event in Christchurch coming up this week.
+Ratcliffe and **Osbourne** have also been selected to represent Central at New Zealand Senior National teams event in Christchurch coming up this week.
 
-Results
-Men
+Results:
+
+Men  
 Open – Winner: Kent Darlington; Runnerup: Matt Ratcliffe. B Grade – Winner: Matt Ratcliffe; Runnerup: Brett McKenzie. C Grade – Winner: Shane Stone; Runnerup: David Grant; Plate: Ross Kinnerley. D Grade - Winner: Shandon Scott; Runnerup: Lee Tuhiwai; Classic Plate: Glenn Toy; Special Plate: Sam Power; Plate: Max Mathews; Consolation Plate: No contest. E Grade – Winner: Sam Power; Runnerup: Matt Power; Plate: Thor Darlington. F Grade –Winner: Kees Robbertsen; Runnerup: Mac O'Connor.
 
-**Women**
+Women  
 **Open & B Grade – Winner: Ngakuira Osborne**; Runnerup: Laurie Hill. C Grade – Winner: Pauline Slovak; Runnerup: Aria Bannister. D Grade – Winner: Marama Cameron; Runnerup: Donna Harold. E Grade – Winner: Sharon Grant; Runner Up: Rose Cox.
 
-Masters
+Masters  
 Men – Winner: Kent Darlington; Runnerup: David Grant. Women – Winner: Pauline Slovak; Runnerup: Daena Peters.
 
-Veteran
+Veteran  
 Men – Winner: Michael O'Connor; Runnerup: Alistair White.
 
-Junior 
+Junior  
 Girls – Winner: Aria Bannister; Runnerup: Harper Bannister. Boys – Winner: Sam Power; Runnerup: Thor Darlington. Classic Plate: Max Matthews. Special Plate: Ethan Darlington. Plate: Jaiden Toy. Consolation Plate: Luke Heerdegen.
 
-Doubles
-Mens – Houia Cup (D1 & Above) Winners: Kent Darlington, Matt Ratcliffe; Runnerup: Barry Touzel, Jared Perkins. Classic Plate: McKenzie, Scott. Special Plate: John Rostenburg, Paul Kenny. Plate: Kevin Austin, Mark Tunbridge. Consolation Plate: Vance Wilson, Josh Haapu. Presidents Cup (D1 & Below) Winner: Tuhiwai, Aaron Toy; Runnerup: Michael O'Connor, Ritchie Campbell. Womens – Hawea Cup Winner: Osborne, Bannister; Runnerup: Hill, Slovak.
+Doubles  
+Mens – Houia Cup (D1 & Above) Winners: Kent Darlington, Matt Ratcliffe; Runnerup: Barry Touzel, Jared Perkins. Classic Plate: McKenzie, Scott. Special Plate: John Rostenburg, Paul Kenny. Plate: Kevin Austin, Mark Tunbridge. Consolation Plate: Vance Wilson, Josh Haapu. Presidents Cup (D1 & Below) Winner: Tuhiwai, Aaron Toy; Runnerup: Michael O'Connor, Ritchie Campbell. **Womens – Hawea Cup Winner: Osborne**, Bannister; Runnerup: Hill, Slovak.
 
-Mixed Doubles
-Mair Cup — Winner: **Osborne**, Stone; Runnerup: Kent Darlington, Bannister.
+Mixed Doubles  
+**Mair Cup — Winner: Osborne**, Stone; Runnerup: Kent Darlington, Bannister.
 
 _By Staff Reporter_  
 _Whanganui Chronicle 26/8/19_
