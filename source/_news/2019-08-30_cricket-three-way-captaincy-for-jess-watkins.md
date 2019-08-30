@@ -1,5 +1,5 @@
 ---
-title: 'Cricket: Three-way captaincy for Jess Watkins'
+title: Jess Watkin gets nod for new role
 date: 2019-08-29T00:59:46.671Z
 tags:
   - Sport
