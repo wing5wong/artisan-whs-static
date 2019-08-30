@@ -11,9 +11,16 @@ description: >+
   Alyssa Louise Gedye was a family woman with a quiet nature and a creative
   mind.
 
-short: >+
+short: >
   Alyssa Louise Gedye was a family woman with a quiet nature and a creative
   mind.
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567130741/Alyssa_Gedye_Obituary...Chron_28.8.19.jpg
+    description: >-
+      Alyssa would bring presents home for her siblings from Wellington and help
+      her mum Kim Falconer with them during her holidays while studying.  Photo
+      / Supplied.
 ---
 Alyssa Louise Gedye was a family woman with a quiet nature and a creative mind.
 
