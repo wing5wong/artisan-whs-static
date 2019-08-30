@@ -20,7 +20,7 @@ Kent Darlington defended his Men's Open crown again, defeating Matt Ratcliffe in
 
 His focus shifted to the Central Masters in Feilding at the weekend, hoping for selection in the team heading to Timaru for the New Zealand Masters in October.
 
-The Women's Open title again was also retained by Ngakuira Osborne, as she beat Laurie Hill 3/0 in a final that also doubled as the B Grade title.
+The Women's Open title again was also retained by **Ngakuira Osborne**, as she beat Laurie Hill 3/0 in a final that also doubled as the B Grade title.
 
 Other matches of note included the Men's D Grade, where the third seed Shandon Scott upset top seed Lee Tuhiwai in the final.
 
@@ -79,8 +79,8 @@ Results
 Men
 Open – Winner: Kent Darlington; Runnerup: Matt Ratcliffe. B Grade – Winner: Matt Ratcliffe; Runnerup: Brett McKenzie. C Grade – Winner: Shane Stone; Runnerup: David Grant; Plate: Ross Kinnerley. D Grade - Winner: Shandon Scott; Runnerup: Lee Tuhiwai; Classic Plate: Glenn Toy; Special Plate: Sam Power; Plate: Max Mathews; Consolation Plate: No contest. E Grade – Winner: Sam Power; Runnerup: Matt Power; Plate: Thor Darlington. F Grade –Winner: Kees Robbertsen; Runnerup: Mac O'Connor.
 
-Women
-Open & B Grade – Winner: Ngakuira Osborne; Runnerup: Laurie Hill. C Grade – Winner: Pauline Slovak; Runnerup: Aria Bannister. D Grade – Winner: Marama Cameron; Runnerup: Donna Harold. E Grade – Winner: Sharon Grant; Runner Up: Rose Cox.
+**Women**
+**Open & B Grade – Winner: Ngakuira Osborne**; Runnerup: Laurie Hill. C Grade – Winner: Pauline Slovak; Runnerup: Aria Bannister. D Grade – Winner: Marama Cameron; Runnerup: Donna Harold. E Grade – Winner: Sharon Grant; Runner Up: Rose Cox.
 
 Masters
 Men – Winner: Kent Darlington; Runnerup: David Grant. Women – Winner: Pauline Slovak; Runnerup: Daena Peters.
@@ -95,7 +95,7 @@ Doubles
 Mens – Houia Cup (D1 & Above) Winners: Kent Darlington, Matt Ratcliffe; Runnerup: Barry Touzel, Jared Perkins. Classic Plate: McKenzie, Scott. Special Plate: John Rostenburg, Paul Kenny. Plate: Kevin Austin, Mark Tunbridge. Consolation Plate: Vance Wilson, Josh Haapu. Presidents Cup (D1 & Below) Winner: Tuhiwai, Aaron Toy; Runnerup: Michael O'Connor, Ritchie Campbell. Womens – Hawea Cup Winner: Osborne, Bannister; Runnerup: Hill, Slovak.
 
 Mixed Doubles
-Mair Cup — Winner: Osborne, Stone; Runnerup: Kent Darlington, Bannister.
+Mair Cup — Winner: **Osborne**, Stone; Runnerup: Kent Darlington, Bannister.
 
-_By Staff Reporter  
-Whanganui Chronicle 26/8/19_
+_By Staff Reporter_\
+_Whanganui Chronicle 26/8/19_
