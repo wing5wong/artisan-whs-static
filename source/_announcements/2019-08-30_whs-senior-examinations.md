@@ -1,7 +1,7 @@
 ---
 title: WHS Senior Examinations
 is_emergency: false
-date: 2019-08-29T21:06:17.505Z
+date: 2019-09-11T21:06:17.505Z
 subtitle: Thursday 12 September - Friday 20 September
 ---
 Thursday 12 September - Friday 20 September
