@@ -3,7 +3,7 @@ title: School Policies
 policyAreas:
   - policies:
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683536/School%20Policies/1.1--Treaty-of-Waitangi_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372111/School%20Policies/1.1_-Treaty_of_Waitangi_updated_August_2019.pdf
         policy: 1.1 Treaty of Waitangi
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1566447642/School%20Policies/1.2_-Curriculum_Information_updated_August_2019.pdf
@@ -15,8 +15,11 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683532/School%20Policies/1.6--Education-beyond-the-Whanganui-High-School-Site_-updated-August-2016.pdf
         policy: 1.6 - Education Beyond the Whanganui High School Site
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683532/School%20Policies/1.7--Information-and-Communication-Technology_-updated-August-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372135/School%20Policies/1.7_-Information_and_Communication_Technology_updated_August_2019.pdf
         policy: 1.7 Information and Communication Technology
+      - document: >-
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372163/School%20Policies/1.7b_-Use_of_the_Internet_updated_August_2019.pdf
+        policy: 1.7b Use of the Internet
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683532/School%20Policies/1.8--Careers-Information--Advice_-updated-September-2016.pdf
         policy: 1.8 Careers Information and Advice
@@ -58,7 +61,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683535/School%20Policies/3.9--Timetable-Policy_-updated-April-2018.pdf
         policy: 3.9 Timetable
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683535/School%20Policies/3.10---Staff-Leave_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372190/School%20Policies/3.10_-_Staff_Leave_updated_August_2019.pdf
         policy: 3.10 Staff Leave
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683536/School%20Policies/3.11---Sexual-Harassment_-updated-October-2016.pdf
@@ -92,13 +95,13 @@ policyAreas:
     policyArea: 4. Finance and Property
   - policies:
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.1--Health-and-Safety-Policy_-updated-October-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372478/School%20Policies/5.1_-Health_and_Safety_Policy_updated_August_2019.pdf
         policy: 5.1 Health and Safety
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693560/School%20Policies/5.2--Emergencies-Policy-_-updated-October-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372496/School%20Policies/5.2_-Emergencies_Policy_updated_August_2019.pdf
         policy: 5.2 Emergencies
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693560/School%20Policies/5.3--Post-Disaster-Survival-Policy_-updated-October-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372515/School%20Policies/5.3_-Post-Disaster_Survival_Policy_updated_August_2019.pdf
         policy: 5.3 Post Disaster Survival
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/5.4--Student-Discipline-Policy-_-updated-November-2016.pdf
@@ -145,7 +148,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.7-School-Uniform_-updated-June-2018.pdf
         policy: 6.7 School Uniform
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.8-International-Students_-updated-May-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372585/School%20Policies/6.8_International_Students_updated_August_2019.pdf
         policy: 6.8 International Students
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.9-ESL-Student_-updated-May-2018.pdf
