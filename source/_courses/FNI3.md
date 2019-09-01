@@ -16,6 +16,7 @@ standards:
   - '18497'
   - '13314'
   - '13316'
+  - '13325'
 credits: '22'
 course_fees: $75
 ue_approved: false
