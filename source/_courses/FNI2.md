@@ -13,11 +13,6 @@ assessment_type: Unit Standard
 leads_to: ''
 standards:
   - '167'
-  - '13272'
-  - '13279'
-  - '13281'
-  - '13334'
-  - '20666'
   - '22234'
 credits: '18'
 course_fees: $75
