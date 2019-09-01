@@ -13,8 +13,9 @@ assessment_type: Unit Standard
 standards:
   - '168'
   - '13331'
-  - '13343'
   - '18497'
+  - '13314'
+  - '13316'
 credits: '22'
 course_fees: $75
 ue_approved: false
