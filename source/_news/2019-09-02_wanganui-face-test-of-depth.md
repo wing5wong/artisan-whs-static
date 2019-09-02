@@ -113,5 +113,5 @@ After their impressive win in the last RDO Shield round over Wairarapa Bush Deve
 
 As a result, the curtain raiser game becomes a dream opportunity for the Wanganui Under 14 squad, who will move their game with Horowhenua Kapiti U14 from Spriggens Park to the main stage, kickoff 1pm.
 
-_By Jared Smith_\
+_By Jared Smith_  
 _Whanganui Chronicle 30/8/19_
