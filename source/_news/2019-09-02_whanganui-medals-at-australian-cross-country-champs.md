@@ -20,9 +20,9 @@ short: >-
 ---
 Two Whanganui athletes took the top step of the podium on Monday at Kembla Grange in Wollongong, New South Wales, following the Under 20 New Zealand Girls win in the 5x2km relay at the Australian Schools cross country championships.
 
-**Rebecca Baker (Whanganui High School)** and Sarah Lambert (Whanganui Collegiate) joined Kirstie Rae (Wellington East Girls), Liliana Braun (Cashmere High) and Aimee Fergusson (Rototuna High) to impressively win the relay ahead of Queensland and New South Wales, with Tasmania receiving an Australian bronze medal as **our girls were awarded a visitor's gold.**
+**Rebecca Baker (Whanganui High School)** and Sarah Lambert (Whanganui Collegiate) joined Kirstie Rae (Wellington East Girls), Liliana Braun (Cashmere High) and Aimee Fergusson (Rototuna High) to impressively win the relay ahead of Queensland and New South Wales, with Tasmania receiving an Australian bronze medal as our **girls were awarded a visitor's gold.**
 
-**Baker** was moved up from the Under 18 grade to ensure New Zealand could field a team in the older grade.
+Baker was moved up from the Under 18 grade to ensure New Zealand could field a team in the older grade.
 
 **On Saturday in the individual championships, Baker was the second New Zealander home in a highly creditable 19th place finish, in a very strong field competing on a fast, dusty course.**
 
@@ -78,6 +78,6 @@ The Whanganui athletes will be in action in a fortnight in the 41st Round the La
 
 After a shaky spell and only finishing 20th in Timaru, Bellamy is training well and Round the Lake provides a real incentive for him.
 
-_By Alex McNab_\
-_Athletics_\
-_Whanganui Chronicle 30/8/19_
+_By Alex McNab_  
+_Athletics  
+Whanganui Chronicle 30/8/19_
