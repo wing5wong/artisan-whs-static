@@ -15,4 +15,4 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567397827/2019_Candidate_Statements_Page_2.jpg
 ---
-Whanganui High School Candidate Statements Student Board of Trustee Elections 2019...
+[Whanganui High School Candidate Statements Student Board of Trustee Elections 2019.](https://res.cloudinary.com/whanganuihigh/image/upload/v1567399181/News/2019_Candidate_Statements.pdf)
