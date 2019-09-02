@@ -3,7 +3,7 @@ let build = require('./tasks/build.js');
 
 mix.disableSuccessNotifications();
 mix.setPublicPath(path.normalize('source/assets/build'));
-mix.setResourceRoot(mix.setPublicPath(path.normalize('source/assets/build')))
+mix.setResourceRoot(path.normalize('source/assets/build'))
 mix.webpackConfig({
     plugins: [
         build.jigsaw,
