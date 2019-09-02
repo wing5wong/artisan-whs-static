@@ -1,5 +1,5 @@
 ---
-title: 2019 Candidate Statements of Students for Trustee Elections
+title: Candidate Statements - Student Trustee Election
 date: 2019-09-02T04:07:35.809Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567398145/Studetn-trustee-Poster.png
