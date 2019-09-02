@@ -8,21 +8,7 @@ mix.webpackConfig({
         build.jigsaw,
         build.browserSync(),
         build.watch(['source/**/*.md', 'source/**/*.php', 'source/**/*.scss', '!source/**/_tmp/*'])
-    ],
-    loaders: [
-        {
-          test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
-          use: [
-            {
-              loader: 'file-loader',
-              options: {
-                name: '[name].[ext]',
-                outputPath: 'assets/build/webfonts'
-              }
-            }
-          ]
-        }
-      ]
+    ]
 });
 
 mix.js('source/_assets/js/main.js', 'js')
