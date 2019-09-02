@@ -30,7 +30,13 @@
     <summary>
         <h2 class='d-table decorated mt-5 mb-2'>{{$ec_activity->title}}</h2>
     </summary>
-   
+    @if($ec_activity->image)
+    <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $ec_activity->image)}}"
+        srcset="
+            {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_950,h_300,c_lfill,g_auto/", $ec_activity->image)}} 950w,
+            {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $ec_activity->image)}} 500w
+            " sizes="(min-width: 800px) 950px, 500px" alt="" style="max-width: 100%">
+    @endif
     {!! $ec_activity !!}
     </details>
     @endforeach
