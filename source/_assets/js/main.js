@@ -1,9 +1,6 @@
 import 'bootstrap';
 import Swiper from "swiper";
 import 'netlify-identity-widget'
-import '~@fortawesome/fontawesome-free/scss/fontawesome'
-import '~@fortawesome/fontawesome-free/scss/solid'
-import '~@fortawesome/fontawesome-free/scss/brands'
 
 const clickMe = document.querySelector('.test-js');
 
