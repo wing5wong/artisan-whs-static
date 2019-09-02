@@ -2,7 +2,7 @@
     <h3>{{ $block['heading'] }}</h3>
     @if($block["content"])
       <div class="max-width--330">
-        {!! $block["content"] !!}
+          {!! (new Parsedown)->text($block["content"]) !!}
       </div>
     @endif
     </section>
