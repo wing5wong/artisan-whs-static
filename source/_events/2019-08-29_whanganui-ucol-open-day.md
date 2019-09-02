@@ -6,5 +6,5 @@ Whanganui Campus Open Day is next Wednesday 4 September.
 
 Any students interested in attending this event MUST meet with Mr Keene in LB1 at the START of 1st break Friday 30 August to register interest and collect a permission slip.
 
-_Mr Keene_\
+_Mr Keene_  
 _Careers Advisor_
