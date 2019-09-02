@@ -1,6 +1,6 @@
 ---
 title: Wanganui face test of depth
-date: 2019-08-25T03:38:56.721Z
+date: 2019-08-28T03:38:56.721Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567395562/Ethan_Robinson.ex.Chron30.8.19.jpg
 image_title: >-
