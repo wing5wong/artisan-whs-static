@@ -2,7 +2,7 @@
 title: 2019 Candidate Statements of Students for Trustee Elections
 date: 2019-09-02T04:07:35.809Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1567129413/Logo_on_website.png
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1567398145/Studetn-trustee-Poster.png
 description: >-
   Whanganui High School Candidate Statements Student Board of Trustee Elections
   2019 
