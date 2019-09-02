@@ -13,6 +13,7 @@
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^3.2.3",
         "extra-watch-webpack-plugin": "^1.0.3",
+        "file-loader": "^4.2.0",
         "hasbin": "^1.2.3",
         "laravel-mix": "^4.0.0",
         "node-cmd": "^3.0.0",
