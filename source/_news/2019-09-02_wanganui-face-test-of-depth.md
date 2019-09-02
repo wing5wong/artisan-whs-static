@@ -1,6 +1,6 @@
 ---
 title: Wanganui face test of depth
-date: 2019-09-02T03:38:56.721Z
+date: 2019-08-25T03:38:56.721Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567395562/Ethan_Robinson.ex.Chron30.8.19.jpg
 image_title: >-
@@ -95,8 +95,9 @@ Plumtree & Co did a session with Caskey and his staff, then helped out with the 
 
 Kickoff tomorrow is 2.30pm.
 
-The teams are: 
-Wanganui 
+The teams are:
+
+**Wanganui** 
 
 1. Gabriel Hakaraia/Wiremu Cottrell; 2. Roman Tutauha (c); 3. Kamipeli Latu; 4. Sam Madams; 5. Peter Travis Hay-Horton; 6. Samu Kubunavanua; 7. Jamie Hughes; 8. Bryn Hudson; 9. Tyler Rogers-Holden; 10. Dane Whale; 11. Tom Symes; 12. **Ethan Robinson**; 13. Shai Wiperi; 14. Vereniki Tikoisolomone; 15. Nick Harding.
    Reserves – Forwards: 16. **Joe Edwards**; 17. Raymond Salu; 18. **Jack Hodges**; 19. Ranato Tikoisolomone; 20. **Chris Breuer**. Backs: 21. **Cameron Davies**/Kahl Elers-Green; 22. **Josaia Bogileka**.
