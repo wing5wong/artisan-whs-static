@@ -1,6 +1,6 @@
 ---
 title: Summit Electrical scoops national title
-date: 2019-08-26T03:31:21.862Z
+date: 2019-08-28T03:31:21.862Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567395191/Todd_cowan_ex._Chron_30.8.19.jpg
 image_title: >-
