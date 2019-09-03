@@ -71,8 +71,9 @@ collections:
         - { label: "Publication", name: "publication", widget: "string", required: false}
         - { label: "Date", name: "date", widget: "date", required: false}
 
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Short Intro", name: "short", widget: "text"}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Short Intro", name: "short", widget: "text", required: false}
+      
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Image Gallery"
         name: "image_gallery"

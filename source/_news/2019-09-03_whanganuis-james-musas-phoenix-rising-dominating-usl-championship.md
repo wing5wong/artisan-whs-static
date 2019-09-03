@@ -20,8 +20,6 @@ news_author:
   date: 2019-09-02T22:46:41.627Z
   name: Jared Smith
   publication: Whanganui Chronicle
-description: James Musa's USL Championship team are having a standout season.
-short: James Musa's USL Championship team are having a standout season.
 show_in_slider: true
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567483249/James_Musa.Chron_3.9.19.jpg
