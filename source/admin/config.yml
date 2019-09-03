@@ -494,6 +494,21 @@ collections:
     - {label: "Terms", name: "terms", widget: "select", options: ["Term 1", "Term 2", "Term 3", "Term 4"], required: false}
     - {label: "Contribution", name: "contribution", required: false, widget: "string"}
     - {label: "Uniform", name: "uniform", required: false, widget: "markdown"}
+    - {label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+    - {label: "Category", name: "category", widget: "string", hint: "an additional grouping that the activity may be grouped under. e.g. 'School Sports', 'Local Clubs', 'Dance' etc", required: false}
+    - {label: "Cost", name: "cost", widget: "string", required: false}
+    - {label: "Terms", name: "terms", widget: "select", options: [ "Term 1", "Term 2", "Term 3", "Term 4"], required: false}
+    - {label: "Body", name: "body", widget: "markdown", required: false}
+    - label: "Feature Image"
+      name: "image"
+      widget: "image"
+      required: false
+    - label: "Image Gallery"
+      name: "image_gallery"
+      widget: "list"
+      fields:
+      - {label: "Image Filename", name: "image", widget: "image"}
+      - {label: "Image Description", name: "description", widget: "string", required: false}
     - label: "Content Blocks"
       label_singular: "Content Block"
       name: blocks
@@ -526,22 +541,6 @@ collections:
             - {label: "Video URL", name: url, widget: string} 
             - {label: "Content", name: content, widget: markdown, required: false} 
 
-
-    - {label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-    - {label: "Category", name: "category", widget: "string", hint: "an additional grouping that the activity may be grouped under. e.g. 'School Sports', 'Local Clubs', 'Dance' etc", required: false}
-    - {label: "Cost", name: "cost", widget: "string", required: false}
-    - {label: "Terms", name: "terms", widget: "select", options: [ "Term 1", "Term 2", "Term 3", "Term 4"], required: false}
-    - {label: "Body", name: "body", widget: "markdown", required: false}
-    - label: "Feature Image"
-      name: "image"
-      widget: "image"
-      required: false
-    - label: "Image Gallery"
-      name: "image_gallery"
-      widget: "list"
-      fields:
-      - {label: "Image Filename", name: "image", widget: "image"}
-      - {label: "Image Description", name: "description", widget: "string", required: false}
     
 
 
