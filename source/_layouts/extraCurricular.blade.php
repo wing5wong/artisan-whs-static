@@ -23,9 +23,10 @@
 
 @yield('postContent')
 
-
-@foreach($extracurricular_areas as $ec_area)
-
+@foreach(["Performing Arts", "Sports", "Other",] as $area)
+@php
+$ec_area = $extracurricular_areas->firstWhere('title', $area);
+@endphp
 <details>
     <summary>
         <h2 class="decorated d-table mt-5 mb-2">{{$ec_area->title}}</h2>
@@ -114,6 +115,9 @@
 
 </details>
 @endforeach
+
+@endforeach
+
 
 @include('_partials.lastReviewed')
 
