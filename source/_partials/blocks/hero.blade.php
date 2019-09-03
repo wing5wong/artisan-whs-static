@@ -1,8 +1,6 @@
-<header class="page-hero">
+<header class="page-hero block-hero">
     <h1>{{ $block['heading'] }}</h1>
     @if($block["content"])
-      <div class="max-width--330">
-        {!! $block["content"] !!}
-      </div>
+        {!! (new Parsedown)->text($block["content"]) !!}
     @endif
 </header>
