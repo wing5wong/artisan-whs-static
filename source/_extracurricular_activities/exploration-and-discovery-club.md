@@ -4,7 +4,7 @@ date: 2019-09-03T00:44:24.523Z
 people:
   - name: Mr B. Hunter
     position: Head of Geography
-extracurricular_area: Performing Arts
+extracurricular_area: Other
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567471599/Performing%20Arts/Exploration_Club.jpg
 ---
