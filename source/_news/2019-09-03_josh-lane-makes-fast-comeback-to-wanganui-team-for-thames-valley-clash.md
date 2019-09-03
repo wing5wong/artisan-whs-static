@@ -6,6 +6,7 @@ image: >-
 image_title: Lock Josh Lane returns to the Wanganui side tomorrow against Thames Valley.
 description: Lock Josh Lane returns to the Wanganui side tomorrow against Thames Valley.
 short: Lock Josh Lane returns to the Wanganui side tomorrow against Thames Valley.
+show_in_slider: false
 ---
 There have been some late changes to the Steelform Wanganui lineup for tomorrow's crucial Mitre 10 Heartland Championship game with Meads Cup champions Thames Valley at Cooks Gardens.
 
@@ -29,5 +30,5 @@ The Wanganui team is:
    Reserves — Forwards: **16. Joe Edwards**; 17. Wiremu Cottrell; **18. Jack Hodges**/Peter Travis Hay-Horton; 19. Ranato Tikoisolomone; **20. Chris Breuer**.
    Backs: **21. Cameron Davies; 22. Josaia Bogileka**.
 
-_By Jared Smith_\
+_By Jared Smith_  
 _Whanganui Chronicle 31/8/19_
