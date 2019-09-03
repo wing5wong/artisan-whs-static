@@ -43,6 +43,7 @@ $ec_area = $extracurricular_areas->firstWhere('title', $area);
     @php
         $personInCharge = $staff->firstWhere('title', $ec_area->person_in_charge);
     @endphp
+    @if($personInCharge)
     <h3>Person in charge</h3>
     <table>
         <thead>
@@ -64,7 +65,8 @@ $ec_area = $extracurricular_areas->firstWhere('title', $area);
             </tr>
         </tbody>
     </table>
-
+    @endif
+    
     {!! $ec_area !!}
 
 
