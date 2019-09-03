@@ -23,7 +23,7 @@
 
 @yield('postContent')
 
-@foreach(["Performing Arts", "Sports", "Other",] as $area)
+@foreach(["Performing Arts", "Sport", "Other"] as $area)
 @php
 $ec_area = $extracurricular_areas->firstWhere('title', $area);
 @endphp
@@ -114,8 +114,6 @@ $ec_area = $extracurricular_areas->firstWhere('title', $area);
 
 
 </details>
-@endforeach
-
 @endforeach
 
 
