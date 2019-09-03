@@ -7,19 +7,18 @@
     <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
     {{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}}
-    @if ($page->image)
-        <!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
-        <a href="{{ $page->image }}" @if($page->image_title)title="{{$page->image_title}}"@endif @if($page->image_alt)alt="{{$page->image_alt}}"@endif class="featured">
+    @if ($page->image or $page->feature_image)
+        <a href="{{ $page->feature_image["image"] ?: $page->image }}" @if($page->image_title or $page->feature_image["description"])title="{{$page->feature_image["description"] ?:$page->image_title}}"@endif @if($page->image_alt or $page->feature_image["alt"])alt="{{$page->feature_image["alt"] ?: $page->image_alt}}"@endif class="featured">
                 <img class="featured-image"  style="object-fit: cover; max-width:100%; display: block; object-fit: contain; max-width: 100%; display: block;" 
-                src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->image)}}"
+                src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->feature_image["image"] ?: $page->image)}}"
                 srcset="
-                {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->image)}}
+                {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->feature_image["image"] ?: $page->image)}}
                 "
         alt="" style="max-width: 100%">
         </a>
-        @if($page->image_credit)
+        @if($page->image_credit or $page->feature_image["credit"])
         <div class="image-credit">
-            <em>Photo / {{$page->image_credit}}</em>
+            <em>Photo / {{$page->feature_image["credit"] ?: $page->image_credit}}</em>
         </div>
         @endif
 
