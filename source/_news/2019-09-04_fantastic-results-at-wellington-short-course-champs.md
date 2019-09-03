@@ -39,9 +39,9 @@ Team spokesman Neil Forlong was impressed by members' efforts.
 
 "In the last three months we have been relying on a group of temporary coaches while the board has been working in the background to secure a work visa for former Northern Island Commonwealth Games and Olympic Swimmer Richard Gheel," Forlong said.
 
-"The results achieved this weekend are a huge boost for the squad and a glowing endorsement of the work and time put in by Jaimee Schimanski, **Elena Forlong**, Aaron Bunker, Fernando Castellanos, **Lucy Newton**, Marama Cameron, **Ethan Bryers** and Verena Nowak."
+"The results achieved this weekend are a huge boost for the squad and a glowing endorsement of the work and time put in by Jaimee Schimanski, Elena Forlong, Aaron Bunker, Fernando Castellanos, Lucy Newton, Marama Cameron, Ethan Bryers and Verena Nowak."
 
-Next week a new era for the Toyota Whanganui Swim team dawns with the arrival of Gheel whose first assignment will be preparing the team of **Bryers, Earles, Nightingale** and Abraham for the **NZ Short Course champs in Auckland in early October.**
+Next week a new era for the Toyota Whanganui Swim team dawns with the arrival of Gheel whose first assignment will be preparing the team of Bryers, Earles, Nightingale and Abraham for the NZ Short Course champs in Auckland in early October.
 
-_By Staff Reporter\
+_By Staff Reporter  
 Whanganui Chronicle 4/9/19_
