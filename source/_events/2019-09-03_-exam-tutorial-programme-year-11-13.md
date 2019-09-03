@@ -1,18 +1,14 @@
 ---
 title: "\tExam Tutorial Programme Year 11-13 "
-date: 2019-09-02T21:15:54.605Z
+date: 2019-09-03T21:15:54.605Z
 ---
 Today's tutorials are as follows:
 
-3.15pm - 4.30pm - LEVEL ONE  
-SCG1/SCE1 Acids & Bases (CO)
+3.15pm - 4.30pm - LEVEL ONE
+SCE1 (CR) Acids and Bases - in B3
 
-3.15pm - 4.30pm - LEVEL TWO  
-MCA2/MTA2 Calculus (HM) Merit/Exc. focus in E2  
-Photography (SL) in D7
+3.15pm - 4.30pm - LEVEL TWO
+BIO2 (FS) - Respiration in B1
 
-3.15pm - 4.30pm - LEVEL THREE  
-ECO3, exam (IN) in C3  
-Photography (SL) in D7  
-History Scholarship (ST) in F1  
-MPS3, Probability (BG) in E3
+7.00pm - 8.00pm - LEVEL THREE
+Psychology (ST) in F4
