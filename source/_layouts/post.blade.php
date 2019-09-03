@@ -23,7 +23,18 @@
         @endif
 
     @endif
+
     @yield('postContent')
+
+    @if($page->news_author)
+        <p>
+            <em>
+                By {{$page->news_author["name"]}} <br>
+                {{ $page->news_author["publication"]}} {{ date('j/n/y', $page->news_author["date"]) }}
+            </em>
+        </p>
+
+    @endif
 
     @if(is_array($page->image_gallery))
     <div class="image-gallery row">
