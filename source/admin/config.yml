@@ -71,9 +71,9 @@ collections:
         - { label: "Publication", name: "publication", widget: "string", required: false}
         - { label: "Date", name: "date", widget: "date", required: false}
 
-      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Description", name: "description", widget: "hidden", required: false}
       - {label: "Short Intro", name: "short", widget: "text", required: false}
-      
+
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Image Gallery"
         name: "image_gallery"
@@ -88,15 +88,15 @@ collections:
         required: false
       - label: "Image Title"
         name: "image_title"
-        widget: "string"
+        widget: "hidden"
         required: false
       - label: "Image Alt"
         name: "image_alt"
-        widget: "string"
+        widget: "hidden"
         required: false
       - label: "Image credit"
         name: "image_credit"
-        widget: "string"
+        widget: "hidden"
         required: false
         hint: "e.g. Andy McGechan"
 
