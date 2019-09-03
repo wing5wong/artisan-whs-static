@@ -10,12 +10,23 @@ extracurricular_areas:
   - Sport
 extracurricular_activities:
   - Football - Boys
+feature_image:
+  alt: James Musa holding up his playing shirt with his name and number 45 on it
+  credit: Supplied
+  description: James Musa's USL Championship team are having a standout season
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1567483249/James_Musa.Chron_3.9.19.jpg
+news_author:
+  date: 2019-09-02T22:46:41.627Z
+  name: Jared Smith
+  publication: Whanganui Chronicle
+description: James Musa's USL Championship team are having a standout season.
+short: James Musa's USL Championship team are having a standout season.
+show_in_slider: true
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567483249/James_Musa.Chron_3.9.19.jpg
 image_title: James Musa's USL Championship team are having a standout season.
 image_credit: Supplied
-description: James Musa's USL Championship team are having a standout season.
-short: James Musa's USL Championship team are having a standout season.
 ---
 Whanganui's expat All White defender James Musa is enjoying the view from the top as his Phoenix Rising FC club is well ahead of the rest of the Western Conference points table in the 2019 USL Championship.
 
