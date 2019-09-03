@@ -14,7 +14,7 @@
             <!-- Additional required wrapper -->
             <div class="swiper-wrapper">
                 <!-- Slides -->
-                @foreach($news->take(5) as $article)
+                @foreach($news->where('show_in_slider', true)->take(5) as $article)
                 <div class="swiper-slide p-5 d-flex align-items-center justify-content-center"
                     style="background: #fff; background-image: url({{$article->image}}); background-size: cover; width: 100%; height: 350px;">
                     <a href="{{$article->getPath()}}" class="btn btn-light">{{$article->title}}</a>
