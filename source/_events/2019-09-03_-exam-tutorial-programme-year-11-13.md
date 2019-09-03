@@ -12,7 +12,7 @@ MCA2/MTA2 Calculus (HM) Merit/Exc. focus in E2
 Photography (SL) in D7
 
 3.15pm - 4.30pm - LEVEL THREE  
-ECO3 Exam (IN) in C3  
+ECO3, exam (IN) in C3  
 Photography (SL) in D7  
 History Scholarship (ST) in F1  
 MPS3, Probability (BG) in E3
