@@ -1,6 +1,6 @@
 ---
 title: Josh Lane makes fast comeback to Wanganui team for Thames Valley clash
-date: 2019-08-30T03:44:17.844Z
+date: 2019-08-29T03:44:17.844Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567482316/Josh_Lane.Chron_30.8.19.jpg
 image_title: Lock Josh Lane returns to the Wanganui side tomorrow against Thames Valley.
