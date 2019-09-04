@@ -42,7 +42,7 @@ extracurricular_areas:
 show_in_slider: true
 date: 2019-09-04T21:08:14.272Z
 ---
-Day 3 of WTW for our teams 💚💛
+Day 3 of Winter Tournament Week for our teams 💚💛
 
 Phillips Electrical A1 Netball 🏐  
 42-32 win - Inglewood  
