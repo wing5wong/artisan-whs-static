@@ -1,15 +1,15 @@
 ---
 title: Fantastic results at Wellington Short Course Champs
-date: 2019-08-27T22:39:57.036Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1567551084/Hanna_Regan.enrol_2020.chron_4.9.19.jpg
-description: >-
-  WHS students had some fantastic results swimming for Whanganui Swim Club at
-  the Wellington Short Course Championships on the weekend.
 short: >-
   WHS students had some fantastic results swimming for Whanganui Swim Club at
   the Wellington Short Course Championships on the weekend.
-show_in_slider: true
+description: >-
+  WHS students had some fantastic results swimming for Whanganui Swim Club at
+  the Wellington Short Course Championships on the weekend.
+show_in_slider: false
+date: 2019-09-03T22:39:57.036Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1567551084/Hanna_Regan.enrol_2020.chron_4.9.19.jpg
 ---
 Twelve-year-old Regan Hanna was the breakout star of the Toyota Whanganui Swim Club at the Wellington Short Course Championships at the weekend.
 
