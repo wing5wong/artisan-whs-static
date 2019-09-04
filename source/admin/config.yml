@@ -63,9 +63,9 @@ collections:
         widget: "object"
         required: false
         fields:
+        - { label: "Date", name: "date", widget: "date", required: false}
         - { label: "Author", name: "name", widget: "string", required: false}
         - { label: "Publication", name: "publication", widget: "string", required: false}
-        - { label: "Date", name: "date", widget: "date", required: false}
       - label: "Image Gallery"
         name: "image_gallery"
         widget: "list"
