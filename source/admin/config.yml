@@ -47,12 +47,6 @@ collections:
     
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - { label: "Related Departments",   name: faculties,   required: false,  multiple: true,   widget: "relation",   collection: "faculties",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
-      - { label: "Related Subjects",   name: subject_areas,   required: false,  multiple: true,   widget: "relation",   collection: "subject_areas",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
-      - { label: "Related Extracurricular Areas",   name: extracurricular_areas,   required: false,  multiple: true,   widget: "relation",   collection: "extracurricular_areas",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
-      - { label: "Related Extracurricular Activities",   name: extracurricular_activities,   required: false,  multiple: true,   widget: "relation",   collection: "extracurricular_activities",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
       - label: "Feature Image"
         name: "feature_image"
         widget: "object"
@@ -62,6 +56,8 @@ collections:
         - { label: "Image Description", name: "description", widget: "string", required: false}
         - { label: "Image Alt Text", name: "alt", widget: "string", required: false}
         - { label: "Image Credit", name: "credit", widget: "string", required: false}
+      - {label: "Short Intro", name: "short", widget: "text", required: false, hint: "Use this to override the default generated option which is the first 200 characters of the body"}
+      - {label: "Body", name: "body", widget: "markdown"}
       - label: "News Author"
         name: "news_author"
         widget: "object"
@@ -70,18 +66,20 @@ collections:
         - { label: "Author", name: "name", widget: "string", required: false}
         - { label: "Publication", name: "publication", widget: "string", required: false}
         - { label: "Date", name: "date", widget: "date", required: false}
-
-      - {label: "Description", name: "description", widget: "hidden", required: false}
-      - {label: "Short Intro", name: "short", widget: "text", required: false}
-
-      - {label: "Body", name: "body", widget: "markdown"}
       - label: "Image Gallery"
         name: "image_gallery"
         widget: "list"
         fields:
         - {label: "Image Filename", name: "image", widget: "image"}
         - {label: "Image Description", name: "description", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "hidden", required: false}
+      - { label: "Related Departments",   name: faculties,   required: false,  multiple: true,   widget: "relation",   collection: "faculties",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
+      - { label: "Related Subjects",   name: subject_areas,   required: false,  multiple: true,   widget: "relation",   collection: "subject_areas",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
+      - { label: "Related Extracurricular Areas",   name: extracurricular_areas,   required: false,  multiple: true,   widget: "relation",   collection: "extracurricular_areas",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
+      - { label: "Related Extracurricular Activities",   name: extracurricular_activities,   required: false,  multiple: true,   widget: "relation",   collection: "extracurricular_activities",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Show in News Sliders", name: "show_in_slider", widget: "boolean", default: true, required: false}
+      - {label: "Date", name: "date", widget: "date"}
       - label: "Image Filename"
         name: "image"
         widget: "image"

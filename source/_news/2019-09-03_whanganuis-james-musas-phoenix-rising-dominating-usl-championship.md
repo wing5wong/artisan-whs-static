@@ -21,9 +21,6 @@ news_author:
   name: Jared Smith
   publication: Whanganui Chronicle
 show_in_slider: true
-image: ''
-image_title: ''
-image_credit: ''
 ---
 Whanganui's expat All White defender James Musa is enjoying the view from the top as his Phoenix Rising FC club is well ahead of the rest of the Western Conference points table in the 2019 USL Championship.
 
