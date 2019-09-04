@@ -2,7 +2,7 @@
 title: Winter Tournament Week - Day 2
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1567631230/News/Sports-tournament-together.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1567634316/sport-page.jpg
 news_author:
   date: 2019-09-02T21:06:09.159Z
   name: Lisa Murphy WHS Director of Sport
