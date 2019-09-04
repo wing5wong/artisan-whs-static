@@ -5,7 +5,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1567630781/News/69501265_1334931566655946_8742092239481602048_n.jpg
 news_author:
   date: 2019-09-01T20:58:36.766Z
-  name: Lisa MurphyWHS Director of Sport
+  name: Lisa Murphy
+  publication: WHS Director of Sport
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567630782/News/69861923_1334931593322610_2919164373442232320_n.jpg
@@ -18,8 +19,8 @@ date: 2019-09-04T20:58:36.803Z
 ---
 Results from first day of tournament for our WHS teams 💚💛. Keep up the good work teams!
 
-Phillips Electrical A1 Netball 
-Win - 39-29 SHNP
+Phillips Electrical A1 Netball  
+Win - 39-29 SHNP  
 Win - 53-20 Heretaunga
 
 Badminton 
