@@ -14,12 +14,12 @@ date: 2019-09-04T21:06:09.178Z
 ---
 Day 2 results for our teams 💚💛
 
-Phillips Electrical A1 Netball 🏐\
-42-20 win Wellington Girls\
+Phillips Electrical A1 Netball 🏐  
+42-20 win Wellington Girls  
 43-27 win St Orans
 
 Hockey Boys 🏑  
-4-1 loss Wellington College\
+4-1 loss Wellington College  
 3-1 loss Rosmini College
 
 Hockey Girls 🏑  
