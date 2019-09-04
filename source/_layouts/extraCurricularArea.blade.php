@@ -31,10 +31,10 @@
         <h2 class='d-table decorated mt-5 mb-2'>{{$ec_activity->title}}</h2>
     </summary>
     @if($ec_activity->image)
-    <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $ec_activity->image)}}"
+    <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $page->featureImageSrc($ec_activity))}}"
         srcset="
-            {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_950,h_300,c_lfill,g_auto/", $ec_activity->image)}} 950w,
-            {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $ec_activity->image)}} 500w
+            {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_950,h_300,c_lfill,g_auto/", $page->featureImageSrc($ec_activity))}} 950w,
+            {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_500,h_300,c_lfill,g_auto/", $page->featureImageSrc($ec_activity))}} 500w
             " sizes="(min-width: 800px) 950px, 500px" alt="" style="max-width: 100%">
     @endif
     {!! $ec_activity !!}
@@ -53,14 +53,14 @@
         @foreach($recentNews as $n)
             <div class="col-sm-12 col-md-6 col-lg-4">
             <a href="{{$n->getPath()}}">
-                <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $n->image)}}"
+                <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/",  $page->featureImageSrc($n))}}"
         srcset="
-        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400,h_360/", $n->image)}} 400w,
-        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $n->image)}} 250w
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400,h_360/",  $page->featureImageSrc($n))}} 400w,
+        {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/",  $page->featureImageSrc($n))}} 250w
         "
         sizes="(min-width: 800px) 400px, 250px"
-        width="600" alt="{{$n->description ?? ''}}" style="max-width: 100%">
-                {{$n->title}}</a>
+        width="600" alt="{{$page->featureImageAlt($n) ?: ''}}" style="max-width: 100%">
+        {{$page->featureImageDescription($n)}}</a>
             </div>
         @endforeach
     </div>
