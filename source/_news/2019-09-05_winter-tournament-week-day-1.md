@@ -4,7 +4,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1567630781/News/69501265_1334931566655946_8742092239481602048_n.jpg
 news_author:
-  date: 2019-09-04T20:58:36.766Z
+  date: 2019-09-01T20:58:36.766Z
   name: Lisa MurphyWHS Director of Sport
 image_gallery:
   - image: >-
