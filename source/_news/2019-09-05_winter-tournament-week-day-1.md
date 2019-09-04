@@ -19,7 +19,8 @@ extracurricular_areas:
 show_in_slider: true
 date: 2019-09-04T20:58:36.803Z
 ---
-Results from first day of tournament for our WHS teams 💚💛. Keep up the good work teams!
+Results from first day of tournament for our WHS teams 💚💛  
+Keep up the good work teams!
 
 Phillips Electrical A1 Netball  
 Win - 39-29 SHNP  
@@ -29,9 +30,9 @@ Badminton
 Loss - 6-0 Westlake  
 Loss - 6-0 PNBHS
 
-Rugby 
-Win - 39-0 Freyberg 
-Loss - 38-19 Hawera 
+Rugby  
+Win - 39-0 Freyberg  
+Loss - 38-19 Hawera  
 Final tomorrow against Karamu College
 
 Football Girls  
