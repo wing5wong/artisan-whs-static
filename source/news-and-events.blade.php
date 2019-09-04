@@ -16,7 +16,7 @@
                 <!-- Slides -->
                 @foreach($news->where('show_in_slider', true)->take(5) as $article)
                 <div class="swiper-slide p-5 d-flex align-items-center justify-content-center"
-                    style="background: #fff; background-image: url({{ str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_300,c_scale,g_auto/", $article->feature_image["image"] ?: $article->image) }}); background-size: cover; width: 100%; height: 300px;">
+                    style="background: #fff; background-image: url({{ str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_950,h_300,c_scale,g_auto/", $article->feature_image["image"] ?: $article->image) }}); background-size: cover; width: 100%; height: 300px;">
                     <a href="{{$article->getPath()}}" class="btn btn-light">{{$article->title}}</a>
                 </div>
                 @endforeach
