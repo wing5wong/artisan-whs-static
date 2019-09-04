@@ -285,6 +285,9 @@ return [
                     ? str_limit_soft(content_sanitize($page->getContent()), $limit, $end)
                     : null;
             },
+            'publishedDate' => function($page) {
+                return $page->news_author["date"] ?? $page->date;
+            }
         ],
         'news_and_events' => [
             'path' => 'news-and-events/{filename}',
