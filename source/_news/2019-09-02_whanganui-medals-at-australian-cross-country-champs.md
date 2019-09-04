@@ -1,22 +1,24 @@
 ---
 title: Whanganui medals at Australian Cross Country Champs
-date: 2019-08-30T03:16:49.690Z
+short: >-
+  Rebecca Bakers took the top step of the podium of the U20 NZ Girls 5x2km relay
+  at the Australian Schools cross country champs.
+news_author:
+  date: 2019-09-04T23:55:16.934Z
+description: >-
+  Rebecca Bakers took the top step of the podium of the U20 NZ Girls 5x2km relay
+  at the Australian Schools cross country champs.
 extracurricular_areas:
   - Sport
 extracurricular_activities:
   - Cross Country
+date: 2019-08-30T03:16:49.690Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567394886/Rebecca_Baker.OZ_Cross_Country_Champs.Chron_30.8.19.jpg
 image_title: >-
   Rebecca Baker, Sarah Lambert and the rest of the NZ Under 20 Girls team with
   their 5x2km relay gold at the Australian Schools Cross Country Championships.
 image_credit: Supplied
-description: >-
-  Rebecca Bakers took the top step of the podium of the U20 NZ Girls 5x2km relay
-  at the Australian Schools cross country champs.
-short: >-
-  Rebecca Bakers took the top step of the podium of the U20 NZ Girls 5x2km relay
-  at the Australian Schools cross country champs.
 ---
 Two Whanganui athletes took the top step of the podium on Monday at Kembla Grange in Wollongong, New South Wales, following the Under 20 New Zealand Girls win in the 5x2km relay at the Australian Schools cross country championships.
 
@@ -78,6 +80,5 @@ The Whanganui athletes will be in action in a fortnight in the 41st Round the La
 
 After a shaky spell and only finishing 20th in Timaru, Bellamy is training well and Round the Lake provides a real incentive for him.
 
-_By Alex McNab_  
-_Athletics  
+_By Alex McNab_   
 Whanganui Chronicle 30/8/19_
