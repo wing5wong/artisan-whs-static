@@ -30,8 +30,8 @@ Badminton
 Loss - 6-0 Westlake  
 Loss - 6-0 PNBHS
 
-Rugb  
-Win - 39-0 Freyberg 
+Rugby  
+Win - 39-0 Freyberg  
 Loss - 38-19 Hawera  
 Final tomorrow against Karamu College
 
