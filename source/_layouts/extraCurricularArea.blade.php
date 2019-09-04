@@ -60,7 +60,7 @@
         "
         sizes="(min-width: 800px) 400px, 250px"
         width="600" alt="{{$page->featureImageAlt($n) ?: ''}}" style="max-width: 100%">
-        {{$page->featureImageDescription($n)}}</a>
+        {{$n->title }}</a>
             </div>
         @endforeach
     </div>
