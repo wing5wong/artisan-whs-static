@@ -82,7 +82,7 @@ collections:
       - {label: "Date", name: "date", widget: "date"}
       - label: "Image Filename"
         name: "image"
-        widget: "image"
+        widget: "hidden"
         required: false
       - label: "Image Title"
         name: "image_title"
