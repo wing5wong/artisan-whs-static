@@ -7,31 +7,7 @@ news_author:
   date: 2019-09-04T21:57:06.486Z
   name: 'Lisa Murphy '
   publication: WHS Director of Sport
-image_gallery:
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567720885/News/1.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567720901/News/2.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567720916/News/3.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567720929/News/4.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567720947/News/5.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567720960/News/6.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567720974/News/7.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567720990/News/8.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567721001/News/9.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567721048/News/10.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567721062/News/11.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567721261/News/12.jpg
+image_gallery: []
 show_in_slider: true
 date: 2019-09-05T21:57:06.529Z
 ---
