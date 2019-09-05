@@ -2,6 +2,7 @@
 title: Edith Wheal Scholarship
 date: 2019-04-02T01:23:57.661Z
 intro: "The Edith Wheal Scholarship is to the value of approx $1500 and may be awarded annually to an ex-student of WHS under one of two categories: The Service Scholarship or The Education Scholarship."
+extends: '_layouts.school-information.edith-wheal'
 ---
 
 ## Overview
