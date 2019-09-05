@@ -8,7 +8,7 @@
 @php
     $applicationForm = $school_documents->filter(function($doc){
         return strpos($doc->title, "Edith Wheal") >= -1;
-    });
+    })->first();
 @endphp
 
 <a href="{{ $applicationForm->file }}" class="btn btn-light">Download the application form</a>
