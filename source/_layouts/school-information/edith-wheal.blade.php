@@ -7,11 +7,16 @@
 
 @php
     $applicationForm = $school_documents->filter(function($doc){
-        return strpos($doc->title, "Edith Wheal") >= -1;
+        return strpos($doc->title, "Edith Wheal Application") >= -1;
+    })->first();
+
+    $fullForm = $school_documents->filter(function($doc){
+        return strpos($doc->title, "Edith Wheal Full") >= -1;
     })->first();
 @endphp
 
 <a href="{{ $applicationForm->file }}" class="btn btn-light">Download the application form</a>
+<a href="{{ $fullForm->file }}" class="btn btn-light">Download all information</a>
 
 @include('_partials.lastReviewed')
 
