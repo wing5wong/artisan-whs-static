@@ -7,7 +7,51 @@ news_author:
   date: 2019-09-04T21:57:06.486Z
   name: 'Lisa Murphy '
   publication: WHS Director of Sport
-image_gallery: []
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723408/News/Winter%20tourny%20week.%20Day%204/1.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723410/News/Winter%20tourny%20week.%20Day%204/2.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723410/News/Winter%20tourny%20week.%20Day%204/3.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723411/News/Winter%20tourny%20week.%20Day%204/4.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723411/News/Winter%20tourny%20week.%20Day%204/5.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723411/News/Winter%20tourny%20week.%20Day%204/6.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723411/News/Winter%20tourny%20week.%20Day%204/7.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723412/News/Winter%20tourny%20week.%20Day%204/8.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723412/News/Winter%20tourny%20week.%20Day%204/9.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723408/News/Winter%20tourny%20week.%20Day%204/10.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723408/News/Winter%20tourny%20week.%20Day%204/11.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723408/News/Winter%20tourny%20week.%20Day%204/12.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723408/News/Winter%20tourny%20week.%20Day%204/13.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723408/News/Winter%20tourny%20week.%20Day%204/14.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723409/News/Winter%20tourny%20week.%20Day%204/15.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723409/News/Winter%20tourny%20week.%20Day%204/16.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723409/News/Winter%20tourny%20week.%20Day%204/17.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723409/News/Winter%20tourny%20week.%20Day%204/18.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723409/News/Winter%20tourny%20week.%20Day%204/19.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723410/News/Winter%20tourny%20week.%20Day%204/20.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567723410/News/Winter%20tourny%20week.%20Day%204/21.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2019-09-05T21:57:06.529Z
 ---
