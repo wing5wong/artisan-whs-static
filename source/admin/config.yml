@@ -307,7 +307,7 @@ collections:
     - { label: "Course Level", name: course_level, widget: select, options: ["Year 9","Year 10","NCEA 1","NCEA 2", "NCEA 3", "NCEA 1 and 2","NCEA 2 and 3","NCEA 1,2 and 3","All Year Levels"] }
     - { label: "Assessment Type", name: assessment_type, widget: select, options: ["Achievement Standard","Unit Standard","Achievement and Unit Standard","Achievement Standard and Scholdarship","Achievement Standard and Cambridge as Examination","Compulsory", "Optional"], required: false }
     - { label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses",
-        searchFields: ["code","title"], valueField: "code", displayFields:: ["code", "name"] }
+        searchFields: ["code","title"], valueField: "code", displayFields: ["code", "name"] }
     - { label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments",
         searchFields: ["title"], valueField: "title", displayFields: ["title","description"] }
     - { label: "Body", name: "body", widget: "markdown", required: false }
@@ -317,9 +317,7 @@ collections:
     - { label: "UE Approved", name: "ue_approved", widget: "boolean", required: false, default: false }
     - { label: "Invitation Only", name: "invitation_only", widget: "boolean", required: false, default: false }
     - { label: "Endorsement", name: "endorsement", widget: "boolean", required: false, default: false }
-    
-    
-    
+
 
   - name: "assessments"
     label: "NCEA Standards"
@@ -327,7 +325,6 @@ collections:
     folder: "source/_assessments"
     create: true
     summary: "{{title}} | {{description}}"
-
     fields:
     - { label: "Title", name: "title", widget: "string" }
     - { label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
@@ -338,18 +335,16 @@ collections:
     - { label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"] }
     - { label: "U.E. Lit Reading", name: "ue_lit_reading", widget: "boolean", required: false, default: false }
     - { label: "U.E. Lit Writing", name: "ue_lit_writing", widget: "boolean", required: false, default: false }
-    - label: "Vocational Pathways"
-      name: "vocational_pathways"
-      widget: "select"
-      required: false
-      multiple: true
-      options:        
-        - { label: "Service Industries", value: "service" }
-        - { label: "Creative Industries", value: "creative" }
-        - { label: "Social and Community Services", value: "social" }
-        - { label: "Primary Industries", value: "primary" }
-        - { label: "Construction and Infrastructure", value: "construction" }
-        - { label: "Manufacturing and Technology", value: "manufacturing" }
+    - { label: "Vocational Pathways", name: "vocational_pathways", widget: "select", required: false, multiple: true,
+        options: [       
+          { label: "Service Industries", value: "service" },
+          { label: "Creative Industries", value: "creative" },
+          { label: "Social and Community Services", value: "social" },
+          { label: "Primary Industries", value: "primary" },
+          { label: "Construction and Infrastructure", value: "construction" },
+          { label: "Manufacturing and Technology", value: "manufacturing" }
+        ]
+      }
 
   - name: "extracurricular_areas"
     label: "Extracurricular Areas"
