@@ -1,6 +1,6 @@
 ---
 title: Dodgeball Competition - Year 9 & 10
-date: 2019-09-06T00:20:35.372Z
+date: 2019-09-13T00:20:35.372Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567118839/Dodgeball_Comp_poster.jpg
 ---
