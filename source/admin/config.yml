@@ -255,13 +255,14 @@ collections:
       - { label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff",
           searchFields: ["title"], valueField: "title", displayFields: ["title"] }
       - { label: "Vocational Pathways", name: "vocational_pathways", widget: "select", required: false, multiple: true, 
-          options:             
+          options: {          
             - { label: "Service Industries", value: "service" }
             - { label: "Creative Industries", value: "creative" }
             - { label: "Social and Community Services", value: "social" }
             - { label: "Primary Industries", value: "primary" }
             - { label: "Construction and Infrastructure", value: "construction" }
             - { label: "Manufacturing and Technology", value: "manufacturing" }
+          }
         }
       - { label: "Related Facilities", name: facilities, required: false, multiple: true, widget: "relation", collection: "facilities",
           searchFields: ["title"], valueField: "title", displayFields: ["title"] }
