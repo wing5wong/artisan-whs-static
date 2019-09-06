@@ -3,19 +3,13 @@ backend:
   branch: master
   squash_merges: true
 
-#publish_mode: editorial_workflow
 
 media_library:
   name: cloudinary
-  #output_filename_only: true
   config:
-    #default_transformations:
-    #  -   - fetch_format: auto
-    #        width: 160
-    #        quality: auto
-    #        crop: scale
     cloud_name: whanganuihigh
     api_key: 514169267776294
+
 
 collections:
   - name: announcements
@@ -24,18 +18,15 @@ collections:
     folder: "source/_announcements"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-
     fields:
-      - {label: "Title", name: "title", widget: "string", hint: 'Student Achievement Conferences'}
-      - {label: "Emergency", name: "is_emergency", widget: "boolean", default: false}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: 'Students released at 1.50pm (end of Period 4)'}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - { label: "Title", name: "title", widget: "string", hint: 'Student Achievement Conferences' }
+      - { label: "Emergency", name: "is_emergency", widget: "boolean", default: false }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: 'Students released at 1.50pm (end of Period 4)' }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+
 
   - name: "news"
     label: "News"
@@ -44,59 +35,46 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     summary: "{{year}}-{{month}}-{{day}} | {{title}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - { label: "Title", name: "title", widget: "string" }
       - label: "Feature Image"
         name: "feature_image"
         widget: "object"
         required: false
         fields:
-        - { label: "Image Filename", name: "image", widget: "image", required: false}
-        - { label: "Image Description", name: "description", widget: "string", required: false}
-        - { label: "Image Alt Text", name: "alt", widget: "string", required: false}
-        - { label: "Image Credit", name: "credit", widget: "string", required: false}
-      - {label: "Short Intro", name: "short", widget: "text", required: false, hint: "Use this to override the default generated option which is the first 200 characters of the body"}
-      - {label: "Body", name: "body", widget: "markdown"}
+        - { label: "Image Filename", name: "image", widget: "image", required: false }
+        - { label: "Image Description", name: "description", widget: "string", required: false }
+        - { label: "Image Alt Text", name: "alt", widget: "string", required: false }
+        - { label: "Image Credit", name: "credit", widget: "string", required: false }
+      - { label: "Short Intro", name: "short", widget: "text", required: false, hint: "Use this to override the default generated option which is the first 200 characters of the body" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - label: "News Author"
         name: "news_author"
         widget: "object"
         required: false
         fields:
-        - { label: "Date", name: "date", widget: "date", required: false}
-        - { label: "Author", name: "name", widget: "string", required: false}
-        - { label: "Publication", name: "publication", widget: "string", required: false}
+        - { label: "Date", name: "date", widget: "date", required: false }
+        - { label: "Author", name: "name", widget: "string", required: false }
+        - { label: "Publication", name: "publication", widget: "string", required: false }
       - label: "Image Gallery"
         name: "image_gallery"
         widget: "list"
         fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string", required: false}
-      - {label: "Description", name: "description", widget: "hidden", required: false}
-      - { label: "Related Departments",   name: faculties,   required: false,  multiple: true,   widget: "relation",   collection: "faculties",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
-      - { label: "Related Subjects",   name: subject_areas,   required: false,  multiple: true,   widget: "relation",   collection: "subject_areas",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
-      - { label: "Related Extracurricular Areas",   name: extracurricular_areas,   required: false,  multiple: true,   widget: "relation",   collection: "extracurricular_areas",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
-      - { label: "Related Extracurricular Activities",   name: extracurricular_activities,   required: false,  multiple: true,   widget: "relation",   collection: "extracurricular_activities",    searchFields: ["title"], valueField: "title", displayFields: ["title"]     }
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: "Show in News Sliders", name: "show_in_slider", widget: "boolean", default: true, required: false}
-      - {label: "Date", name: "date", widget: "date"}
-      - label: "Image Filename"
-        name: "image"
-        widget: "hidden"
-        required: false
-      - label: "Image Title"
-        name: "image_title"
-        widget: "hidden"
-        required: false
-      - label: "Image Alt"
-        name: "image_alt"
-        widget: "hidden"
-        required: false
-      - label: "Image credit"
-        name: "image_credit"
-        widget: "hidden"
-        required: false
-        hint: "e.g. Andy McGechan"
+        - { label: "Image Filename", name: "image", widget: "image" }
+        - { label: "Image Description", name: "description", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "hidden", required: false }
+      - { label: "Related Departments", name: faculties, required: false, multiple: true, widget: "relation", collection: "faculties",  searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Related Subjects", name: subject_areas, required: false, multiple: true, widget: "relation", collection: "subject_areas",  searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Related Extracurricular Areas", name: extracurricular_areas, required: false, multiple: true, widget: "relation", collection: "extracurricular_areas",  searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Related Extracurricular Activities", name: extracurricular_activities, required: false, multiple: true, widget: "relation", collection: "extracurricular_activities",  searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Show in News Sliders", name: "show_in_slider", widget: "boolean", default: true, required: false }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Image Filename", name: "image", widget: "hidden", required: false }
+      - { label: "Image Title", name: "image_title", widget: "hidden", required: false }
+      - { label: "Image Alt", name: "image_alt", widget: "hidden", required: false }
+      - { label: "Image credit", name: "image_credit", widget: "hidden", required: false, hint: "e.g. Andy McGechan" }
+
 
   - name: "events"
     label: "Events"
@@ -105,25 +83,20 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     summary: "{{year}}-{{month}}-{{day}} | {{title}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Short Intro", name: "short", widget: "text", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Short Intro", name: "short", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
       - label: "Image Gallery"
         name: "image_gallery"
         widget: "list"
         fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string", required: false}
-
+        - { label: "Image Filename", name: "image", widget: "image" }
+        - { label: "Image Description", name: "description", widget: "string", required: false }
 
 
   - name: "newsletters"
@@ -133,15 +106,12 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     summary: "{{month}} {{year}} | {{title}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Filename"
-        name: "file"
-        widget: "file"
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Filename", name: "file", widget: "file" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
 
       
   - name: "about_whs"
@@ -150,20 +120,19 @@ collections:
     folder: "source/_about"
     create: false
     slug: "{{slug}}"
-
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
       - label: "Image Filename"
         name: "image"
         widget: "image"
         required: false
-      - {label: "Section Intro (shown on main page)", name: "intro", widget: "text", required: false}
-      - {label: "Intro Button Text (shown on main page)", name: "button_text", widget: "text", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post'}
-      - {label: "Visible in nav", name: "visible", widget: "select", default: 'Yes', options: ["Yes", "No"], multiple: false}
+      - { label: "Section Intro (shown on main page)", name: "intro", widget: "text", required: false }
+      - { label: "Intro Button Text (shown on main page)", name: "button_text", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post' }
+      - { label: "Visible in nav", name: "visible", widget: "select", default: 'Yes', options: ["Yes", "No"], multiple: false }
 
 
   - name: "board_members"
@@ -172,21 +141,14 @@ collections:
     folder: "source/_board_members"
     create: true
     slug: "{{slug}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs"}
-      - {label: "Position", name: "position", widget: "string", required: false}
-      - label: "Category"
-        label_singular: "Category"
-        name: "category"
-        widget: "select"
-        options: ["Board Chairperson","Principal","Parent Representative","Staff Representative", "Co-opted Member", "Also in Attendance"]
-        multiple: false
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
+      - { label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs" }
+      - { label: "Position", name: "position", widget: "string", required: false }
+      - { label: "Category", label_singular: "Category", name: "category", widget: "select", multiple: false,
+          options: ["Board Chairperson", "Principal","Parent Representative", "Staff Representative", "Co-opted Member", "Also in Attendance"]
+        }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
 
 
   - name: "curriculum"
@@ -195,18 +157,14 @@ collections:
     folder: "source/_curriculum"
     create: false
     slug: "{{slug}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post'}
-      - {label: "Intro", name: "intro", widget: "text"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post' }
+      - { label: "Intro", name: "intro", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
 
   - name: "facilities"
@@ -215,31 +173,21 @@ collections:
     folder: "source/_facilities"
     create: true
     slug: "{{slug}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Description", name: "description", widget: "text", hint: "SHORT search engine snippet text"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "Description", name: "description", widget: "text", hint: "SHORT search engine snippet text" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - label: "Image Gallery"
         name: "image_gallery"
         widget: "list"
         fields:
-        - {label: "Image Filename", name: "image", widget: "image"}
-        - {label: "Image Description", name: "description", widget: "string"}
-      - { label: "Faculties",
-          name: faculties,
-          required: false,
-          multiple: true,
-          widget: "relation",
-          collection: "faculties",
-          searchFields: ["title"], valueField: "title", displayFields: ["title"]
-        }
+        - { label: "Image Filename", name: "image", widget: "image" }
+        - { label: "Image Description", name: "description", widget: "string" }
+      - { label: "Faculties", name: faculties,   required: false, multiple: true, widget: "relation", collection: "faculties",
+          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
 
 
   - name: "for_parents"
@@ -248,21 +196,13 @@ collections:
     folder: "source/_for_parents"
     create: false
     slug: "{{slug}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Intro", name: "intro", widget: "text", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post"}
-
-
-
-
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Intro", name: "intro", widget: "text", required: false }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post" }
 
 
   - name: "international"
@@ -271,52 +211,13 @@ collections:
     folder: "source/_international"
     create: false
     slug: "{{slug}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post"}
-
-#  - name: internationa_data
-#    label: "International Data"
-#    files: 
-#      - label: "The Team"
-#        name: "team"
-#        file: "source/_international/_static/team.md"
-#        fields:
-#          - {label: Title, name: title, widget: string}
-#          - {label: Body, name: body, widget: markdown}
-#          - label: Members
-#            name: members
-#            widget: list
-#            fields:
-#              - {label: Title, name: title, widget: string}
-#              - {label: Body, name: body, widget: markdown}
-#              - {label: Role, name: role, widget: string}
-#              - {label: Email, name: email, widget: string}
-#              - {label: Image, name: image, widget: image}
-#      - label: "Student Experiences"
-#        name: "experiences"
-#        file: "source/_international/student-experiences.md"
-#        fields:
-#          - {label: Title, name: title, widget: string}
-#          - {label: Body, name: body, widget: markdown}
-#          
-#          - label: Students
-#            name: students
-#            widget: list
-#            fields:
-#              - {label: Title, name: title, widget: string}
-#              - {label: Body, name: body, widget: markdown}
-#              - {label: Image, name: image, widget: image}
-    
-
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post" }
 
 
   - name: "news_and_events"
@@ -325,17 +226,14 @@ collections:
     folder: "source/_news_and_events"
     create: false
     slug: "{{slug}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post" }
+
 
   - name: "faculties"
     label: "Departments"
@@ -343,34 +241,30 @@ collections:
     folder: "source/_faculties"
     create: true
     slug: "{{slug}}"
-    
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Is a Teaching Faculty", name: is_teaching_faculty, widget: boolean, default: true}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - {label: "Intro", name: "intro", widget: "text", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-      - {label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-      - label: "Vocational Pathways"
-        name: "vocational_pathways"
-        widget: "select"
-        required: false
-        multiple: true
-        options:        
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Maori Title", name: "maori_title", widget: "string", required: false }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Is a Teaching Faculty", name: is_teaching_faculty, widget: boolean, default: true}
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "Intro", name: "intro", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff",
+          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff",
+          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Vocational Pathways", name: "vocational_pathways", widget: "select", required: false, multiple: true, options:        
           - { label: "Service Industries", value: "service" }
           - { label: "Creative Industries", value: "creative" }
           - { label: "Social and Community Services", value: "social" }
           - { label: "Primary Industries", value: "primary" }
           - { label: "Construction and Infrastructure", value: "construction" }
           - { label: "Manufacturing and Technology", value: "manufacturing" }
-      - {label: "Related Facilities", name: facilities, required: false, multiple: true, widget: "relation", collection: "facilities", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+        }
+      - { label: "Related Facilities", name: facilities, required: false, multiple: true, widget: "relation", collection: "facilities",
+          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+
 
   - name: "subject_areas"
     label: "Subject Areas"
@@ -381,12 +275,12 @@ collections:
     summary: "{{title}} | {{faculty}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: "Faculty", name: faculty, required: true, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Maori Title", name: "maori_title", widget: "string", required: false }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Faculty", name: faculty, required: true, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
 
 
   - name: "courses"
@@ -398,36 +292,36 @@ collections:
     summary: "{{title}} - {{name}}"
 
     fields:
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Maori Title", name: "maori_title", widget: "string", required: false}
-    - {label: "Name", name: "name", widget: "string"}
-    - {label: "Code", name: "code", widget: "string"}
-    - {label: "Subject Area", name: "subject_area", required: true, widget: "relation", collection: "subject_areas", searchFields: ["title"], valueField: "title", displayFields: ["title", "faculty"]}
+    - { label: "Title", name: "title", widget: "string" }
+    - { label: "Maori Title", name: "maori_title", widget: "string", required: false }
+    - { label: "Name", name: "name", widget: "string" }
+    - { label: "Code", name: "code", widget: "string" }
+    - { label: "Subject Area", name: "subject_area", required: true, widget: "relation", collection: "subject_areas", searchFields: ["title"], valueField: "title", displayFields: ["title", "faculty"] }
 
-    - {label: "Date", name: "date", widget: "date"}
+    - { label: "Date", name: "date", widget: "date" }
 
-    - {label: "Entry Requirements", name: "entry_requirements", widget: "string", required: false}
+    - { label: "Entry Requirements", name: "entry_requirements", widget: "string", required: false }
 
-    - {label: "Year Level", name: year, widget: select, options: ["9","10","11","12","13"]}
-    - {label: "Type", name: "type", widget: "select", options: ["Core","Compulsory", "Optional", "Semester Course"], default: "Optional"}
-    - { label: "Course Duration", name: course_duration, widget: select, options: ["One Term", "Half Year","Full Year", "5 Week Introduction Plus 20 Week Course If Selected"]}
+    - { label: "Year Level", name: year, widget: select, options: ["9","10","11","12","13"] }
+    - { label: "Type", name: "type", widget: "select", options: ["Core","Compulsory", "Optional", "Semester Course"], default: "Optional" }
+    - { label: "Course Duration", name: course_duration, widget: select, options: ["One Term", "Half Year","Full Year", "5 Week Introduction Plus 20 Week Course If Selected"] }
     
-    - { label: "Course Level", name: course_level, widget: select, options: ["Year 9","Year 10","NCEA 1","NCEA 2", "NCEA 3", "NCEA 1 and 2","NCEA 2 and 3","NCEA 1,2 and 3","All Year Levels"]}
-    - { label: "Assessment Type", name: assessment_type, widget: select, options: ["Achievement Standard","Unit Standard","Achievement and Unit Standard","Achievement Standard and Scholdarship","Achievement Standard and Cambridge as Examination","Compulsory", "Optional"], required: false}
+    - { label: "Course Level", name: course_level, widget: select, options: ["Year 9","Year 10","NCEA 1","NCEA 2", "NCEA 3", "NCEA 1 and 2","NCEA 2 and 3","NCEA 1,2 and 3","All Year Levels"] }
+    - { label: "Assessment Type", name: assessment_type, widget: select, options: ["Achievement Standard","Unit Standard","Achievement and Unit Standard","Achievement Standard and Scholdarship","Achievement Standard and Cambridge as Examination","Compulsory", "Optional"], required: false }
 
-    - {label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayFields:: ["code", "name"]}
-    - {label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"]}
+    - { label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses", searchFields: ["code","title"], valueField: "code", displayFields:: ["code", "name"] }
+    - { label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"] }
         #, collection: "assessments", searchFields: ["title"], valueField: "title", displayFields: ["title","description"]
     
     
-    - {label: "Body", name: "body", widget: "markdown", required: false}
-    - {label: "Notes", name: "notes", widget: "text", required: false}
+    - { label: "Body", name: "body", widget: "markdown", required: false }
+    - { label: "Notes", name: "notes", widget: "text", required: false }
 
-    - {label: "Credits", name: "credits", widget: "string", required: false}
-    - {label: "Course Contribution", name: "course_fees", widget: "string", required: false}
-    - { label: "UE Approved", name: "ue_approved", widget: "boolean", required: false, default: false}
-    - { label: "Invitation Only", name: "invitation_only", widget: "boolean", required: false, default: false}
-    - { label: "Endorsement", name: "endorsement", widget: "boolean", required: false, default: false}
+    - { label: "Credits", name: "credits", widget: "string", required: false }
+    - { label: "Course Contribution", name: "course_fees", widget: "string", required: false }
+    - { label: "UE Approved", name: "ue_approved", widget: "boolean", required: false, default: false }
+    - { label: "Invitation Only", name: "invitation_only", widget: "boolean", required: false, default: false }
+    - { label: "Endorsement", name: "endorsement", widget: "boolean", required: false, default: false }
     
     
     
@@ -440,15 +334,15 @@ collections:
     summary: "{{title}} | {{description}}"
 
     fields:
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-    - {label: "Description", name: "description", widget: "text"}
-    - {label: "URL", name: "pdf", widget: "string"}
-    - {label: "Level", name: "level", widget: "select", options: ["1","2","3"], required: false}
-    - {label: "Credits", name: "credits", widget: "number"}
-    - {label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"]}
-    - { label: "U.E. Lit Reading", name: "ue_lit_reading", widget: "boolean", required: false, default: false}
-    - { label: "U.E. Lit Writing", name: "ue_lit_writing", widget: "boolean", required: false, default: false}
+    - { label: "Title", name: "title", widget: "string" }
+    - { label: "Courses", name: "categories", required: false, multiple: true, widget: "relation", collection: "courses", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+    - { label: "Description", name: "description", widget: "text" }
+    - { label: "URL", name: "pdf", widget: "string" }
+    - { label: "Level", name: "level", widget: "select", options: ["1","2","3"], required: false }
+    - { label: "Credits", name: "credits", widget: "number" }
+    - { label: "Assessment", name: "assessment", widget: "select",options: ["Internal", "External"] }
+    - { label: "U.E. Lit Reading", name: "ue_lit_reading", widget: "boolean", required: false, default: false }
+    - { label: "U.E. Lit Writing", name: "ue_lit_writing", widget: "boolean", required: false, default: false }
     - label: "Vocational Pathways"
       name: "vocational_pathways"
       widget: "select"
@@ -468,14 +362,14 @@ collections:
     folder: "source/_extracurricular_areas"
     create: true
     fields:
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Date", name: "date", widget: "date"}
-    - {label: "Body", name: "body", widget: "markdown"}
+    - { label: "Title", name: "title", widget: "string" }
+    - { label: "Date", name: "date", widget: "date" }
+    - { label: "Body", name: "body", widget: "markdown" }
     - label: "Feature Image"
       name: "image"
       widget: "image"
       required: false
-    - {label: "Person in Charge", required: false, name: "person_in_charge", widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+    - { label: "Person in Charge", required: false, name: "person_in_charge", widget: "relation", collection: "staff", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
 
 
   - name: "extracurricular_activities"
@@ -484,8 +378,8 @@ collections:
     folder: "source/_extracurricular_activities"
     create: true
     fields:
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Date", name: "date", widget: "date"}
+    - { label: "Title", name: "title", widget: "string" }
+    - { label: "Date", name: "date", widget: "date" }
     - label: "People"
       name: "people"
       widget: "list"
@@ -498,13 +392,13 @@ collections:
         displayFields: ["title"]
       - name: "position"
         widget: string
-    - {label: "Terms", name: "terms", widget: "select", options: ["Term 1", "Term 2", "Term 3", "Term 4"], required: false, multiple: true}
-    - {label: "Contribution", name: "contribution", required: false, widget: "string"}
-    - {label: "Uniform", name: "uniform", required: false, widget: "markdown"}
-    - {label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-    - {label: "Category", name: "category", widget: "string", hint: "an additional grouping that the activity may be grouped under. e.g. 'School Sports', 'Local Clubs', 'Dance' etc", required: false}
-    - {label: "Cost", name: "cost", widget: "string", required: false}
-    - {label: "Body", name: "body", widget: "markdown", required: false}
+    - { label: "Terms", name: "terms", widget: "select", options: ["Term 1", "Term 2", "Term 3", "Term 4"], required: false, multiple: true}
+    - { label: "Contribution", name: "contribution", required: false, widget: "string" }
+    - { label: "Uniform", name: "uniform", required: false, widget: "markdown" }
+    - { label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+    - { label: "Category", name: "category", widget: "string", hint: "an additional grouping that the activity may be grouped under. e.g. 'School Sports', 'Local Clubs', 'Dance' etc", required: false }
+    - { label: "Cost", name: "cost", widget: "string", required: false }
+    - { label: "Body", name: "body", widget: "markdown", required: false }
     - label: "Feature Image"
       name: "image"
       widget: "image"
@@ -513,8 +407,8 @@ collections:
       name: "image_gallery"
       widget: "list"
       fields:
-      - {label: "Image Filename", name: "image", widget: "image"}
-      - {label: "Image Description", name: "description", widget: "string", required: false}
+      - { label: "Image Filename", name: "image", widget: "image" }
+      - { label: "Image Description", name: "description", widget: "string", required: false }
     - label: "Content Blocks"
       label_singular: "Content Block"
       name: blocks
@@ -524,28 +418,28 @@ collections:
           name: hero
           widget: object
           fields:
-            - {label: "Heading", name: heading, widget: string}
-            - {label: "Content", name: content, widget: markdown, buttons: ["bold", "italic", "link"], required: false}
+            - { label: "Heading", name: heading, widget: string}
+            - { label: "Content", name: content, widget: markdown, buttons: ["bold", "italic", "link"], required: false }
         - label: "Rich Text Block"
           name: textBlock
           widget: object
           fields:
-            - {label: "Heading", name: heading, widget: string, required: false}
-            - {label: "Content", name: content, widget: markdown} 
+            - { label: "Heading", name: heading, widget: string, required: false }
+            - { label: "Content", name: content, widget: markdown} 
         - label: "Youtube Video"
           name: video
           widget: object
           fields:
-            - {label: "Heading", name: heading, widget: string, required: false}
-            - {label: "Video URL", name: url, widget: string} 
-            - {label: "Content", name: content, widget: markdown, required: false}
+            - { label: "Heading", name: heading, widget: string, required: false }
+            - { label: "Video URL", name: url, widget: string} 
+            - { label: "Content", name: content, widget: markdown, required: false }
         - label: "Facebook Video"
           name: videoFB
           widget: object
           fields:
-            - {label: "Heading", name: heading, widget: string, required: false}
-            - {label: "Video URL", name: url, widget: string} 
-            - {label: "Content", name: content, widget: markdown, required: false} 
+            - { label: "Heading", name: heading, widget: string, required: false }
+            - { label: "Video URL", name: url, widget: string} 
+            - { label: "Content", name: content, widget: markdown, required: false } 
 
     
 
@@ -558,9 +452,9 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Filename", name: "file", widget: "file" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Filename", name: "file", widget: "file" }
 
 
   - name: "prizegiving_booklets"
@@ -571,9 +465,9 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Filename", name: "file", widget: "file" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Filename", name: "file", widget: "file" }
      
 
   - name: "testimonials"
@@ -584,12 +478,12 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Place", name: "place", widget: "string"}
-      - {label: "International", name: "international", widget: boolean}
-      - {label: "image", name: "image", widget: "image" }
-      - {label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Place", name: "place", widget: "string" }
+      - { label: "International", name: "international", widget: boolean}
+      - { label: "image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
       
 
 
@@ -601,16 +495,16 @@ collections:
     slug: "{{slug}}"
     summary: "{{title}} - {{person1_name}} | {{person2_name}}"
     fields:
-    - {label: "Title", name: "title", widget: "string", hint: "Dux X YYYY"}
-    - {label: "Date", name: "date", widget: "date"}
+    - { label: "Title", name: "title", widget: "string", hint: "Dux X YYYY" }
+    - { label: "Date", name: "date", widget: "date" }
     - label: "Award"
       name: "award"
       widget: "select"
       options: [ "Dux Litterarum", "Dux Ludorum", "Dux Artium", "Maori Student Dux", "Heads of School"]
-    - {label: "Person 1 Name", name: "person1_name", widget: string }
-    - {label: "Person 1 Image", name: "person1_image", widget: image, required: false }
-    - {label: "Person 2 Name", name: "person2_name", widget: string, required: false  }
-    - {label: "Person 2 Image", name: "person2_image", widget: image, required: false }
+    - { label: "Person 1 Name", name: "person1_name", widget: string }
+    - { label: "Person 1 Image", name: "person1_image", widget: image, required: false }
+    - { label: "Person 2 Name", name: "person2_name", widget: string, required: false  }
+    - { label: "Person 2 Image", name: "person2_image", widget: image, required: false }
 
 
   - name: "policies"
@@ -621,7 +515,7 @@ collections:
     slug: "{{slug}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - { label: "Title", name: "title", widget: "string" }
       - name: "policyAreas"
         label: "Policy Areas"
         label_singular: "Policy Area"
@@ -651,14 +545,14 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string", hint: "Jack Donaldson and Emelye Brown"}
+      - { label: "Title", name: "title", widget: "string", hint: "Jack Donaldson and Emelye Brown" }
       - label: "Category"
         label_singular: "Category"
         name: "category"
         widget: "select"
         options: ["Head Boy and Girl", "Deputy Head Boy and Girl", "Head of Academia","Head of Culture","Head of Community"," Head of E-Life", "Head of Social","Head of Sport", "Head of Maori", "Head of Pasifika", "Head of International", "Head of Awa House", "Head of Maunga House", "Head of Moana House", "Head of Whenua House" ]
         multiple: false
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - { label: "Body", name: "body", widget: "markdown", required: false }
       - label: "Image Filename"
         name: "image"
         widget: "image"
@@ -674,10 +568,10 @@ collections:
     summary: "{{title}} - {{position}}"
     
     fields:
-      - {label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs"}
-      - {label: "Position", name: "position", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - { label: "Departments", multiple: true, name: departments, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - { label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs" }
+      - { label: "Position", name: "position", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "Departments", multiple: true, name: departments, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
       - label: "Image Filename"
         name: "image"
         widget: "image"
@@ -689,9 +583,9 @@ collections:
         multiple: true
         fields: 
           - { name: "title", label: "Title", widget: "string" }
-          - { label: "Department", name: department, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-      - {label: "Phone", name: "phone", widget: "string", required: false}
-      - {label: "Email", name: "email", widget: "string", required: false}
+          - { label: "Department", name: department, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Phone", name: "phone", widget: "string", required: false }
+      - { label: "Email", name: "email", widget: "string", required: false }
 
             
   
@@ -703,21 +597,21 @@ collections:
     slug: "{{slug}}"
   
     fields:
-      - {label: "Title", name: "title", widget: "string", hint: "Term X"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - { label: "Title", name: "title", widget: "string", hint: "Term X" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
       - label: "Start Dates"
         name: "start_dates"
         widget: list
         fields:
-          - {label: "Date", name: "date", widget: "date"}
-          - {label: "Body", name: "body", widget: "string"}
+          - { label: "Date", name: "date", widget: "date" }
+          - { label: "Body", name: "body", widget: "string" }
       - label: "End Dates"
         name: "end_dates"
         widget: list
         fields:
-          - {label: "Date", name: "date", widget: "date"}
-          - {label: "Body", name: "body", widget: "string"}
+          - { label: "Date", name: "date", widget: "date" }
+          - { label: "Body", name: "body", widget: "string" }
 
 #  - name: "galleries"
 #    label: "Galleries"
@@ -727,17 +621,17 @@ collections:
 #    slug: "{{slug}}"
 #  
 #    fields:
-#      - {label: "Title", name: "title", widget: "string"}
-#      - {label: "Description", name: "description", widget: "string"}
-#      - {label: "Date", name: "date", widget: "date"}
-#      - {label: "Tags", name: "tags", widget: "list", required: false}
-#      - {label: "Body", name: "body", widget: "markdown"}
+#      - { label: "Title", name: "title", widget: "string" }
+#      - { label: "Description", name: "description", widget: "string" }
+#      - { label: "Date", name: "date", widget: "date" }
+#      - { label: "Tags", name: "tags", widget: "list", required: false }
+#      - { label: "Body", name: "body", widget: "markdown" }
 #      - label: "Image Gallery"
 #        name: "image_gallery"
 #        widget: "list"
 #        fields:
-#        - {label: "Image Filename", name: "image", widget: "image"}
-#        - {label: "Image Description", name: "description", widget: "string"}
+#        - { label: "Image Filename", name: "image", widget: "image" }
+#        - { label: "Image Description", name: "description", widget: "string" }
 
   - name: "vacancies"
     label: "Vacancies"
@@ -747,10 +641,10 @@ collections:
     slug: "{{slug}}"
   
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "school_documents"
     label: "School Documents"
@@ -760,9 +654,9 @@ collections:
     slug: "{{slug}}"
   
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Filename", name: "file", widget: "file"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Filename", name: "file", widget: "file" }
 
   - name: "the_record"
     label: "The Record"
@@ -771,9 +665,9 @@ collections:
     slug: "{{slug}}"
   
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date"}
-      - {label: "Filename", name: "file", widget: "file"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Filename", name: "file", widget: "file" }
 
 
 #  - name: static
@@ -783,8 +677,8 @@ collections:
 #        name: "about"
 #        file: "source/static/my-page.md"
 #        fields:
-#          - {label: Title, name: title, widget: string}
-#          - {label: Body, name: body, widget: markdown}
+#          - { label: Title, name: title, widget: string}
+#          - { label: Body, name: body, widget: markdown}
 #          - label: Extends
 #            name: extends
 #            widget: string
@@ -794,9 +688,9 @@ collections:
     create: true
     folder: "source/_pages"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Extends", name: "extends", widget: "hidden"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "Extends", name: "extends", widget: "hidden" }
       - label: "Page Builder"
         label_singular: "Content Block"
         name: blocks
@@ -806,29 +700,29 @@ collections:
             name: h2section
             widget: object
             fields:
-              - {label: "Heading", name: heading, widget: string}
-              - {label: "Content", name: content, widget: markdown, buttons: ["bold", "italic", "link"], required: false}
+              - { label: "Heading", name: heading, widget: string}
+              - { label: "Content", name: content, widget: markdown, buttons: ["bold", "italic", "link"], required: false }
           - label: "Rich Text Block"
             name: textBlock
             widget: object
             fields:
-              - {label: "Heading", name: heading, widget: string, required: false}
-              - {label: "Content", name: content, widget: markdown} 
+              - { label: "Heading", name: heading, widget: string, required: false }
+              - { label: "Content", name: content, widget: markdown} 
           - label: "Video"
             name: video
             widget: object
             fields:
-              - {label: "Heading", name: heading, widget: string, required: false}
-              - {label: "Video URL", name: url, widget: string} 
-              - {label: "Content", name: content, widget: markdown, required: false} 
+              - { label: "Heading", name: heading, widget: string, required: false }
+              - { label: "Video URL", name: url, widget: string} 
+              - { label: "Content", name: content, widget: markdown, required: false } 
           - label: "Facebook"
             name: facebook
             widget: object
             fields:
-              - {label: "Heading", name: heading, widget: string, required: false}
-              - {label: "Facebook URL", name: url, widget: string} 
+              - { label: "Heading", name: heading, widget: string, required: false }
+              - { label: "Facebook URL", name: url, widget: string} 
           - label: "Term Dates"
             name: termDates
             widget: object
             fields:
-              - {label: "Heading", name: heading, widget: string, default: "Term Dates"}
+              - { label: "Heading", name: heading, widget: string, default: "Term Dates" }
