@@ -428,13 +428,13 @@ collections:
           }
         ]
 
+
   - name: "achievers_lists"
     label: "Achievers Lists"
     label_singular: "Achievers List"
     folder: "source/_achievers_lists"
     create: true
     slug: "{{slug}}"
-    
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
@@ -447,7 +447,6 @@ collections:
     folder: "source/_prizegiving_booklets"
     create: true
     slug: "{{slug}}"
-    
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
@@ -460,7 +459,6 @@ collections:
     folder: "source/_testimonials"
     create: true
     slug: "{{slug}}"
-    
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
@@ -470,7 +468,6 @@ collections:
       - { label: "Body", name: "body", widget: "markdown", required: false }
       
 
-
   - name: "honours"
     label: "Honours Board"
     label_singular: "Honours Entry"
@@ -479,16 +476,14 @@ collections:
     slug: "{{slug}}"
     summary: "{{title}} - {{person1_name}} | {{person2_name}}"
     fields:
-    - { label: "Title", name: "title", widget: "string", hint: "Dux X YYYY" }
-    - { label: "Date", name: "date", widget: "date" }
-    - label: "Award"
-      name: "award"
-      widget: "select"
-      options: [ "Dux Litterarum", "Dux Ludorum", "Dux Artium", "Maori Student Dux", "Heads of School"]
-    - { label: "Person 1 Name", name: "person1_name", widget: string }
-    - { label: "Person 1 Image", name: "person1_image", widget: image, required: false }
-    - { label: "Person 2 Name", name: "person2_name", widget: string, required: false  }
-    - { label: "Person 2 Image", name: "person2_image", widget: image, required: false }
+      - { label: "Title", name: "title", widget: "string", hint: "Dux X YYYY" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Award", name: "award", widget: "select",
+          options: [ "Dux Litterarum", "Dux Ludorum", "Dux Artium", "Maori Student Dux", "Heads of School"] }
+      - { label: "Person 1 Name", name: "person1_name", widget: string }
+      - { label: "Person 1 Image", name: "person1_image", widget: image, required: false }
+      - { label: "Person 2 Name", name: "person2_name", widget: string, required: false  }
+      - { label: "Person 2 Image", name: "person2_image", widget: image, required: false }
 
 
   - name: "policies"
@@ -497,29 +492,22 @@ collections:
     folder: "source/_policies"
     create: false
     slug: "{{slug}}"
-    
-    fields:
+    fields: 
       - { label: "Title", name: "title", widget: "string" }
-      - name: "policyAreas"
-        label: "Policy Areas"
-        label_singular: "Policy Area"
-        widget: "list"
-        fields:
-          - label: "Policy Area Name"
-            name: "policyArea"
-            widget: "select"
-            options: ["1. Curriculum Delivery", "2. Documentation and Self Review", "3. Personnel", "4. Finance and Property", "5. Health and Safety", "6. Administration"]
-          - label: "Policies"
-            name: policies
-            widget: list
-            fields:
-              - name: "policy"
-                label: "Policy"
-                widget: "string"
-              - name: document
-                label: "Document"
-                widget: file
-                allow_multiple: false
+      - { name: "policyAreas", label: "Policy Areas", label_singular: "Policy Area", widget: "list",
+          fields: [
+            { 
+              label: "Policy Area Name", name: "policyArea", widget: "select",
+              options: ["1. Curriculum Delivery", "2. Documentation and Self Review", "3. Personnel", "4. Finance and Property", "5. Health and Safety", "6. Administration"]
+            },
+            { label: "Policies", name: policies, widget: list,
+              fields: [
+                { name: "policy", label: "Policy", widget: "string" },
+                { name: document, label: "Document", widget: file, allow_multiple: false }
+              ]
+            }
+          ]
+        }
  
 
   - name: "prefects"
@@ -530,17 +518,11 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string", hint: "Jack Donaldson and Emelye Brown" }
-      - label: "Category"
-        label_singular: "Category"
-        name: "category"
-        widget: "select"
-        options: ["Head Boy and Girl", "Deputy Head Boy and Girl", "Head of Academia","Head of Culture","Head of Community"," Head of E-Life", "Head of Social","Head of Sport", "Head of Maori", "Head of Pasifika", "Head of International", "Head of Awa House", "Head of Maunga House", "Head of Moana House", "Head of Whenua House" ]
-        multiple: false
+      - { label: "Category", label_singular: "Category", name: "category", widget: "select", multiple: false, 
+          options: ["Head Boy and Girl", "Deputy Head Boy and Girl", "Head of Academia","Head of Culture","Head of Community"," Head of E-Life", "Head of Social","Head of Sport", "Head of Maori", "Head of Pasifika", "Head of International", "Head of Awa House", "Head of Maunga House", "Head of Moana House", "Head of Whenua House" ]
+        }
       - { label: "Body", name: "body", widget: "markdown", required: false }
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
 
 
   - name: "staff"
@@ -550,28 +532,22 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     summary: "{{title}} - {{position}}"
-    
     fields:
       - { label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs" }
       - { label: "Position", name: "position", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Departments", multiple: true, name: departments, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
-      - label: "Image Filename"
-        name: "image"
-        widget: "image"
-        required: false
-      - label: "Positions"
-        name: "positions"
-        widget: "list"
-        required: false
-        multiple: true
-        fields: 
-          - { name: "title", label: "Title", widget: "string" }
-          - { label: "Department", name: department, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
+      - { label: "Positions", name: "positions", widget: "list", required: false, multiple: true,
+          fields: [
+            { name: "title", label: "Title", widget: "string" },
+            { label: "Department", name: department, widget: "relation", collection: "faculties",
+              searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+          ]
+        }
       - { label: "Phone", name: "phone", widget: "string", required: false }
       - { label: "Email", name: "email", widget: "string", required: false }
 
-            
   
   - name: "term_dates"
     label: "Term Dates"
@@ -579,43 +555,23 @@ collections:
     folder: "source/_term_dates"
     create: true
     slug: "{{slug}}"
-  
     fields:
       - { label: "Title", name: "title", widget: "string", hint: "Term X" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
-      - label: "Start Dates"
-        name: "start_dates"
-        widget: list
-        fields:
-          - { label: "Date", name: "date", widget: "date" }
-          - { label: "Body", name: "body", widget: "string" }
-      - label: "End Dates"
-        name: "end_dates"
-        widget: list
-        fields:
-          - { label: "Date", name: "date", widget: "date" }
-          - { label: "Body", name: "body", widget: "string" }
+      - { label: "Start Dates", name: "start_dates", widget: list,
+          fields: [
+            { label: "Date", name: "date", widget: "date" },
+            { label: "Body", name: "body", widget: "string" }
+          ]
+      }
+      - { label: "End Dates", name: "end_dates", widget: list,
+          fields: [
+            { label: "Date", name: "date", widget: "date" },
+            { label: "Body", name: "body", widget: "string" }
+          ]
+      }
 
-#  - name: "galleries"
-#    label: "Galleries"
-#    label_singular: "Gallery"
-#    folder: "source/_galleries"
-#    create: true
-#    slug: "{{slug}}"
-#  
-#    fields:
-#      - { label: "Title", name: "title", widget: "string" }
-#      - { label: "Description", name: "description", widget: "string" }
-#      - { label: "Date", name: "date", widget: "date" }
-#      - { label: "Tags", name: "tags", widget: "list", required: false }
-#      - { label: "Body", name: "body", widget: "markdown" }
-#      - label: "Image Gallery"
-#        name: "image_gallery"
-#        widget: "list"
-#        fields:
-#        - { label: "Image Filename", name: "image", widget: "image" }
-#        - { label: "Image Description", name: "description", widget: "string" }
 
   - name: "vacancies"
     label: "Vacancies"
@@ -623,12 +579,12 @@ collections:
     folder: "source/_vacancies"
     create: true
     slug: "{{slug}}"
-  
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz" }
       - { label: "Body", name: "body", widget: "markdown" }
+
 
   - name: "school_documents"
     label: "School Documents"
@@ -636,37 +592,23 @@ collections:
     folder: "source/_school_documents"
     create: true
     slug: "{{slug}}"
-  
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Filename", name: "file", widget: "file" }
+
 
   - name: "the_record"
     label: "The Record"
     folder: "source/_the_record"
     create: true
     slug: "{{slug}}"
-  
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Filename", name: "file", widget: "file" }
 
 
-#  - name: static
-#    label: "Static Pages"
-#    files: 
-#      - label: "About Page"
-#        name: "about"
-#        file: "source/static/my-page.md"
-#        fields:
-#          - { label: Title, name: title, widget: string}
-#          - { label: Body, name: body, widget: markdown}
-#          - label: Extends
-#            name: extends
-#            widget: string
-            
   - name: "pages"
     label: "Pages"
     create: true
