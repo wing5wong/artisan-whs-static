@@ -1,7 +1,5 @@
 ---
-title: >-
-  Tennis trio Kyle Butters, Jono Spring and Carly Chang head-hunted to lift
-  Whanganui's game 
+title: New era for Whanganui tennis
 feature_image:
   credit: Bevan Conley
   description: >-
