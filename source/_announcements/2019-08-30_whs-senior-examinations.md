@@ -13,3 +13,11 @@ The [Senior exam timetable](https://res.cloudinary.com/whanganuihigh/image/uploa
 You will all get a **personalised exam timetable** in your SCHOOL email (access also in the Google bookmarks). 
 
 Good Luck!
+
+
+
+Please ensure that you read the examination instructions which were sent to you with your personalised examination timetable. It is important that you understand the rules - writing equipment has to be in a clear plastic bag; hair has to be tied up; no watches are to be worn; telephones have to be turned off and placed under the desk. Make sure you have spare pens; don't forget your calculator if you are allowed to use it. Go to the Hall to check which room your exam is in. If possible, don't bring your school bag, just bring your equipment. Wear correct school uniform.
+
+
+
+Exams start at 9.05am and 1.10pm - BE ON TIME!
