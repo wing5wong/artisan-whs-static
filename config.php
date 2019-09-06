@@ -280,9 +280,9 @@ return [
             'comments' => false,
             'tags' => [],
             'show_in_slider' => true,
-            'test' => function($page, $limit = 250, $end = '...') {
+            'test' => function($page, $limit = 200, $end = '...') {
                 return $page->isPost
-                    ? str_limit_soft(content_sanitize($page->getContent()), $limit, $end)
+                    ? ($page->short ?? str_limit_soft(content_sanitize($page->getContent()), $limit, $end))
                     : null;
             },
             'publishedDate' => function($page) {
