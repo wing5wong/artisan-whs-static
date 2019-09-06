@@ -110,7 +110,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
-      - { label: "Filename", name: "file", widget: "file" }
+      - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
 
       
@@ -438,7 +438,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
-      - { label: "Filename", name: "file", widget: "file" }
+      - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
 
 
   - name: "prizegiving_booklets"
@@ -450,7 +450,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
-      - { label: "Filename", name: "file", widget: "file" }
+      - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
      
 
   - name: "testimonials"
@@ -498,12 +498,19 @@ collections:
           fields: [
             { 
               label: "Policy Area Name", name: "policyArea", widget: "select",
-              options: ["1. Curriculum Delivery", "2. Documentation and Self Review", "3. Personnel", "4. Finance and Property", "5. Health and Safety", "6. Administration"]
+              options: [
+                "1. Curriculum Delivery",
+                "2. Documentation and Self Review",
+                "3. Personnel",
+                "4. Finance and Property",
+                "5. Health and Safety",
+                "6. Administration"
+              ]
             },
             { label: "Policies", name: policies, widget: list,
               fields: [
                 { name: "policy", label: "Policy", widget: "string" },
-                { name: document, label: "Document", widget: file, allow_multiple: false }
+                { name: document, label: "Document", widget: "file", allow_multiple: false }
               ]
             }
           ]
@@ -595,7 +602,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
-      - { label: "Filename", name: "file", widget: "file" }
+      - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
 
 
   - name: "the_record"
@@ -606,7 +613,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
-      - { label: "Filename", name: "file", widget: "file" }
+      - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
 
 
   - name: "pages"
