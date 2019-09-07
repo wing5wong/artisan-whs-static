@@ -227,6 +227,7 @@
   /* line 229, /css/customisations.scss */
   .site-banner {
     min-height: 85vh;
+    min-height: 650px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -482,4 +483,3 @@
     border-image-slice: 1;
     border-width: 2px;
     box-shadow: 0 8px 6px -6px black; }
-  
