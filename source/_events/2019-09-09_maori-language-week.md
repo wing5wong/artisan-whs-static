@@ -1,8 +1,10 @@
 ---
 title: Māori Language week
 date: 2019-09-08T21:59:16.126Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1567981629/Events/Te-wiki-o-te-reo-Maori-logo-2019_medium.png
+image: ''
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567981629/Events/Te-wiki-o-te-reo-Maori-logo-2019_medium.png
 ---
 In celebration of "Te Wiki o Te Reo Māori" there will be a question everyday in the school notices for you to answer. 
 
