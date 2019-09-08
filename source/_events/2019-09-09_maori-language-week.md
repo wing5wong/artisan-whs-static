@@ -1,7 +1,8 @@
 ---
 title: Māori Language week
 date: 2019-09-08T21:59:16.126Z
-image: ''
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1567982232/Events/images.png
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567981629/Events/Te-wiki-o-te-reo-Maori-logo-2019_medium.png
