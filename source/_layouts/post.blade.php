@@ -29,7 +29,7 @@
     @if($page->news_author)
         <p>
             <em>
-                By {{$page->news_author["name"]}} <br>
+                @if($page->news_author["name"]) By {{$page->news_author["name"]}} <br>@endif
                 {{ $page->news_author["publication"]}} {{ date('j/n/y', $page->news_author["date"]) }}
             </em>
         </p>
