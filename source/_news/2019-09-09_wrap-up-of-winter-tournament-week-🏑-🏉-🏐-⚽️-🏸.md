@@ -9,8 +9,6 @@ news_author:
   publication: WHS Director of Sport
 image_gallery:
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567992855/News/Winter%20tourny%20week.%20Day%205/WTW_2.jpg
-  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992855/News/Winter%20tourny%20week.%20Day%205/WTW_3.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992857/News/Winter%20tourny%20week.%20Day%205/WTW_4.jpg
@@ -25,6 +23,8 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992857/News/Winter%20tourny%20week.%20Day%205/WTW_6.jpg
   - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567992855/News/Winter%20tourny%20week.%20Day%205/WTW_18.jpg
+  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992857/News/Winter%20tourny%20week.%20Day%205/WTW_7.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992857/News/Winter%20tourny%20week.%20Day%205/WTW_8.jpg
@@ -38,8 +38,6 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992854/News/Winter%20tourny%20week.%20Day%205/WTW_12.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992854/News/Winter%20tourny%20week.%20Day%205/WTW_13.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567992855/News/Winter%20tourny%20week.%20Day%205/WTW_18.jpg
 extracurricular_areas:
   - Sport
 show_in_slider: true
