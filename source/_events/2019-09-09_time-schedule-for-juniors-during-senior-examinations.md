@@ -2,7 +2,8 @@
 title: Time Schedule for JUNIORS during Senior Examinations
 date: 2019-09-12T01:49:40.359Z
 ---
-The time schedule for our Junior Students will be altered slightly due to the Senior Examinations, Thursday 12 September - Friday 20 September:
+The time schedule for our Junior Students will be altered slightly due to the Senior Examinations:  
+(Thursday 12 September - Friday 20 September)
 
 ```
 Form time    8.45am - 9.00am
