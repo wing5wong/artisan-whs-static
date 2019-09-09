@@ -6,7 +6,7 @@ The time schedule for our JUNIOR Students will be altered slightly due to the Se
 (Thursday 12 September - Friday 20 September)
 
 |           | Start   | End                  |
-| --------- | ------- | -------------------- |
+| --------- | ------: | -------------------- |
 | Form time | 8.45am  | 9.00am               |
 | Period 1  | 9.00am  | 10.00am              |
 | Period 2  | 10.00am | 11.00am              |
