@@ -45,7 +45,7 @@ extracurricular_areas:
 show_in_slider: true
 date: 2019-09-09T01:26:39.065Z
 ---
-WRAP UP of Winter Tournament Week for our WHS Sports Teams 💚💛
+💚💛  WRAP UP of Winter Tournament Week for our WHS Sports Teams  💚💛
 
 Phillips Electrical A1 Netball - 3rd, qualifying for NZSS Netball Nationals in October which is Top 16 in NZ 🏐
 
