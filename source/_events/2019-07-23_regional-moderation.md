@@ -2,7 +2,7 @@
 title: 'Students released at 2:00pm - Inter-school Moderation'
 date: 2019-09-23T05:50:25.641Z
 ---
-Due to Whanganui Secondary Schools' NCEA moderation afternoon, students will be released at 2:00pm.
+Due to inter-school NCEA moderation sessions, students will be released at 2:00pm.
 
 Form Time and period 1 and 2 are as normal.  
 Break - 11:05am to 12:00pm.  
