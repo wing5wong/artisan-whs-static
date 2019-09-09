@@ -9,7 +9,8 @@ In celebration of "Te Wiki o Te Reo Māori" there will be a question everyday in
 
 You can submit your answer into a drop box at the Student Centre including your name, during breaks daily. Those who have correctly answered all 5 questions will go into the draw to win a Taonga.  This will be drawn on Friday 13 September. 
 
-The theme for Te wiki o Te Reo Māori 2019 is "KIA KAHA TE REO" What is the meaning of the word KAHA?
+Question of the Day - Ko te patai o te raa nei.  
+Korerotia Te Reo Maori, what is the meaning of the word Korero?
 
 If you think you know the answer be sure to submit it and look out each day for the new question. You won't be disappointed!
 
