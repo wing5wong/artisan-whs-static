@@ -9,8 +9,4 @@ news_author:
 show_in_slider: true
 date: 2019-09-09T00:45:24.874Z
 ---
-
-
-
-
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1567989985/News/RCP-article-5.9.jpg)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1567990728/News/RCP-aarticle-5.jpg)
