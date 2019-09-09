@@ -21,9 +21,9 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992855/News/Winter%20tourny%20week.%20Day%205/WTW_15.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1567992857/News/Winter%20tourny%20week.%20Day%205/WTW_6.jpg
-  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992855/News/Winter%20tourny%20week.%20Day%205/WTW_18.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1567992857/News/Winter%20tourny%20week.%20Day%205/WTW_6.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567992857/News/Winter%20tourny%20week.%20Day%205/WTW_7.jpg
   - image: >-
