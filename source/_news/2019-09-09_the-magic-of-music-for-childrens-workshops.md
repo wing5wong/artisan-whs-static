@@ -4,7 +4,8 @@ feature_image:
   image: ''
 news_author:
   date: 2019-09-05T00:59:27.820Z
-  name: River City Press
+  name: ''
+  publication: River City Press
 show_in_slider: false
 date: 2019-09-09T00:59:27.845Z
 ---
