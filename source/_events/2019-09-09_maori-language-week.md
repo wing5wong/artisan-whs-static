@@ -1,6 +1,6 @@
 ---
 title: Māori Language week
-date: 2019-09-09T21:59:16.126Z
+date: 2019-09-10T21:59:16.126Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567982232/Events/images.png
 image_gallery: []
