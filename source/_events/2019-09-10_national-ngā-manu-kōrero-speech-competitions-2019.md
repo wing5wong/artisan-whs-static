@@ -10,7 +10,7 @@ Regent of Broadway
 Palmerston North
 
 When:  
-Wed 11 Sep 2019, 8:00am–5:30pm  
-Thu 12 Sep 2019, 8:00am–6:00pm
+Wednesday 11 September, 8:00am–5:30pm  
+Thursday 12 September, 8:00am–6:00pm
 
 Admission: Free
