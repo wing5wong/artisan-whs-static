@@ -4,7 +4,7 @@ date: 2019-09-19T23:52:40.629Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1568073697/Events/DNZM_NationalTeams_18.jpg
 ---
-National DanceNZmade Competition  
+National DanceNZmade Competition 2019  
 Regent on Broadway  
 Palmerston North
 
