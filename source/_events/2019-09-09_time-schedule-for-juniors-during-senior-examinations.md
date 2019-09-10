@@ -1,8 +1,8 @@
 ---
-title: Time Schedule for JUNIORS during Senior Examinations
+title: Time Schedule while Senior are sitting Examinations
 date: 2019-09-12T01:49:40.359Z
 ---
-The time schedule for our JUNIOR Students will be altered slightly due to the Senior Examinations:  
+The time schedule for our Junior students will be altered slightly due to the Senior Examinations:  
 (Thursday 12 September - Friday 20 September)
 
 |           | Start   | End                  |
