@@ -68,6 +68,36 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
 </table>
 @endif
 
+
+@if($page->people)
+<h3>Staff involved</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Role</th>
+            <th>Phone</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @php
+            $involvedStaff = collect($page->people)->map(function($person){
+                return ['person' => $staff->firstWhere('title', $person["name"]), 'role' => $person["position"] ?? ''];
+            });
+        @endphp
+        @foreach($involvedStaff as $involved)
+        <tr>
+            <td>{{ $involved["person"]["title"] }}</td>
+            <td>{{ $involved["role"] }}</td>
+           <td>{{ $involved["person"]["phone"] ?? '' }}</td>
+           <td>{{ $involved["person"]["email"] ?? '' }}</td>
+        </tr>
+        @endforeach
+    </tbody>
+</table>
+@endif
+
     
 @yield('postContent')
 
