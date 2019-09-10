@@ -1,4 +1,4 @@
-{{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}}
+
 <button data-sharer="facebook" data-url="{{ $page->getUrl() }}" style="background: #3b5998;">
     Facebook
 </button>

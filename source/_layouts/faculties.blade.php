@@ -4,7 +4,7 @@
 <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
 @if($page->image)
-<!--<img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">-->
+
 <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;">
 @endif
 

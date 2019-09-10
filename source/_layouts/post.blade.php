@@ -6,7 +6,7 @@
 <main>
     <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
-    {{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}}
+
     @if ($page->image or $page->feature_image)
         <a href="{{ $page->feature_image["image"] ?: $page->image }}" @if($page->image_title or $page->feature_image["description"])title="{{$page->feature_image["description"] ?:$page->image_title}}"@endif @if($page->image_alt or $page->feature_image["alt"])alt="{{$page->feature_image["alt"] ?: $page->image_alt}}"@endif class="featured">
                 <img class="featured-image"  style="object-fit: cover; max-width:100%; display: block; object-fit: contain; max-width: 100%; display: block;" 
