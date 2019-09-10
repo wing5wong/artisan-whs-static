@@ -273,7 +273,7 @@ return [
         ],
         'news' => [
             'path' => 'news/{-filename}',
-            'sort' => ['-date','title'],
+            'sort' => ['-publishedDate','title'],
             'extends' => '_layouts.post',
             'section' => 'postContent',
             'isPost' => true,
