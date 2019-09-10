@@ -3,6 +3,24 @@
 @section('content')
 <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
+
+@php
+$ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_area);
+@endphp
+
+<ul class="nav">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="/curriculum/extracurricular/">Extracurricular</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="{{$ecArea->getPath()}}">{{$ecArea->title}}</a>
+            </li>
+        </ol>
+    </nav>
+</ul>
+
 @if ($page->image)
 <a href="{{ $page->image }}" @if($page->image_title)title="{{$page->image_title}}"@endif
     @if($page->image_alt)alt="{{$page->image_alt}}"@endif class="featured">
