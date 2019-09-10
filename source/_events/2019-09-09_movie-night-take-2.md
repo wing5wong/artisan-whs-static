@@ -1,6 +1,8 @@
 ---
 title: Movie Night Take 2!
 date: 2019-09-25T21:56:11.340Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1568155512/Events/Shrek_2_small.jpg
 ---
 Shrek 2 coming to you on the big screen! 
 
