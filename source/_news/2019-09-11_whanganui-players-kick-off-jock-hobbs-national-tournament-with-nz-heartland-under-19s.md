@@ -14,7 +14,7 @@ news_author:
   date: 2019-09-10T03:38:02.238Z
   name: Jared Smith
   publication: Whanganui Chronicle
-show_in_slider: true
+show_in_slider: false
 date: 2019-09-11T03:38:02.263Z
 ---
 It was a rough start to the 2019 Jock Hobbs National Under 19 tournament for the NZ Heartland XV and their Whanganui contingent of players yesterday afternoon.
