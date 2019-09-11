@@ -16,7 +16,7 @@ The splash of 100 oars signalled the start of annual kayak race on the Manawatū
 
 **Brooke, 21, was an imposing figure on the water. At nearly 2m tall, he powered through the water and was too strong for the rest of the field over the 12km course and was home in less than an hour.**
 
-It was a good day out for Brooke's Whanganui club as it dominated the podium in the K1 and surf ski categories.
+**It was a good day out for Brooke's Whanganui club as it dominated the podium in the K1 and surf ski categories.**
 
 The event was sponsored by Welly Paddlers and consisted of three races - two that were of shorter distance of 3km and 6km - and a longer race over 12km.
 
@@ -61,6 +61,6 @@ The 3km course had Haley Cudby in a time of 28:33s ahead of a large field on a s
 Race results:  
 3km race - First female, Haley Cudby, time 28.33.90, first male Cameron Mullins, time 30.04.40.  
 6km race - First male, Ben Warren, time 35.01.00, first female, Te Rangihua Henare, time 41.03.30.  
-**12km race - First male Toby Brooke, time 57.05.60**  
+**12km race - First male Toby Brooke, time 57.05.60.**  
 First female, Ann Cairns, time 1hr- 07.40.00.  
 Full results are at www.webscorer.com/race?raceid=193061
