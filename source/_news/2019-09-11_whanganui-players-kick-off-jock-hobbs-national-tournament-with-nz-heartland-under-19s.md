@@ -1,7 +1,7 @@
 ---
 title: >-
   Whanganui players kick off Jock Hobbs National tournament with NZ Heartland
-  Under 19's
+  U19's
 feature_image:
   description: >-
     Kaierau's Kohlt Coveny and Border's Jason Myers in their New Zealand
