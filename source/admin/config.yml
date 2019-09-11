@@ -373,7 +373,7 @@ collections:
           fields: [
             { name: "name", widget: "relation", collection: "staff",
               searchFields: ["title"], valueField: "title", displayFields: ["title"] },
-            { name: "role", widget: string, required: false }
+            { name: "role", widget: string, required: false, hint: "The users role for this activity. e.g. Teacher in Charge, Coach - NOT: HEAD OF FACULTY" }
           ]
         }
       - { label: "Terms", name: "terms", widget: "select", options: ["Term 1", "Term 2", "Term 3", "Term 4"], required: false, multiple: true}
