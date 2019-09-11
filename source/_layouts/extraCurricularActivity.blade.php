@@ -95,7 +95,7 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
                 </th>
                 <td colspan="3">
                     @foreach($page->terms as $term)
-                        {{ $term }}@if(!$loop->last()), @endif
+                        {{ $term }}@if(!$loop->last), @endif
                     @endforeach
                 </td>
             </tr>
