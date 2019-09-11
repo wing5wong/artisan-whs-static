@@ -1,5 +1,5 @@
 ---
-title: Brooke to make ocean ski champs debut
+title: Toby Brooke's off to France for the ICF Ocean Ski World Champs!
 feature_image:
   credit: Photosport
   image: >-
