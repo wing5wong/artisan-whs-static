@@ -36,7 +36,7 @@ Murphy said with only four weeks until the nationals her girls were out in the c
 
 "There's a bit of expense involved in getting all of to Nelson for the nationals, so we are busy fundraising, so please support us if you happen to see us out there. Or even better if there is a very generous sponsor out there we would welcome them with open arms. We certainly couldn't have achieved what we have without the support of Jeff Phillips and Phillips Electrical - he has been absolutely brilliant," Murphy said.
 
-+ Other WHS Tournament Week results  
+**+ Other WHS Tournament Week results:**  
 Boys 1st XI Hockey - 3rd India Shield part of Rankin Cup  
 Girls 1st XI Hockey - 10th Jenny Hair Tournament  
 Boys Football - 5th Trident Tournament  
