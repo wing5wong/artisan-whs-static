@@ -83,7 +83,7 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
     <tbody>
         @php
             $involvedStaff = collect($page->people)->map(function($person) use ($staff){
-                return ['person' => $staff->firstWhere('title', $person["name"]), 'role' => $person["position"] ?? ''];
+                return ['person' => $staff->firstWhere('title', $person["name"]), 'role' => $person["role"] ?? ''];
             });
         @endphp
         @foreach($involvedStaff as $involved)

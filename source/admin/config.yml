@@ -373,7 +373,7 @@ collections:
           fields: [
             { name: "name", widget: "relation", collection: "staff",
               searchFields: ["title"], valueField: "title", displayFields: ["title"] },
-            { name: "position", widget: string }
+            { name: "role", widget: string, required: false }
           ]
         }
       - { label: "Terms", name: "terms", widget: "select", options: ["Term 1", "Term 2", "Term 3", "Term 4"], required: false, multiple: true}
