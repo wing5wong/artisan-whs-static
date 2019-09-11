@@ -53,34 +53,64 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
 @endif
 
 
-@if($page->people)
-<h3>Staff involved</h3>
+<h3>Key Information</h3>
+
 <table>
     <thead>
-        <tr>
-            <th>Name</th>
-            <th>Role</th>
-            <th>Phone</th>
-            <th>Email</th>
-        </tr>
     </thead>
     <tbody>
-        @php
-            $involvedStaff = collect($page->people)->map(function($person) use ($staff){
-                return ['person' => $staff->firstWhere('title', $person["name"]), 'role' => $person["role"]];
-            });
-        @endphp
-        @foreach($involvedStaff as $involved)
-        <tr>
-            <td>{{ $involved["person"]["title"] }}</td>
-            <td>{{ $involved["role"] }}</td>
-           <td>{{ $involved["person"]["phone"] ?? '' }}</td>
-           <td>{{ $involved["person"]["email"] ?? '' }}</td>
-        </tr>
-        @endforeach
+        @if($page->people)
+            @php
+                $involvedStaff = collect($page->people)->map(function($person) use ($staff){
+                    return ['person' => $staff->firstWhere('title', $person["name"]), 'role' => $person["role"]];
+                });
+            @endphp
+            <tr>
+                <th>Name</th>
+                <th>Role</th>
+                <th>Phone</th>
+                <th>Email</th>
+            </tr>
+            @foreach($involvedStaff as $involved)
+            <tr>
+                <td>{{ $involved["person"]["title"] }}</td>
+                <td>{{ $involved["role"] }}</td>
+                <td>{{ $involved["person"]["phone"] ?? '' }}</td>
+                <td>{{ $involved["person"]["email"] ?? '' }}</td>
+            </tr>
+            @endforeach
+        @endif
+
+        @if($page->cost)
+            <tr>
+                <th>Cost</th>
+                <td colspan="3"> {{ $page->cost}}</td>
+            </tr>
+        @endif
+
+        @if($page->terms)
+            <tr>
+                <th>
+                    When
+                </th>
+                <td colspan="3">
+                    @foreach($page->terms as $term)
+                        {{ $term }}@if(!$loop->last()), @endif
+                    @endforeach
+                </td>
+            </tr>
+        @endif
+
+        @if($page->uniform)
+            <tr>
+                <th>Uniform/Equipment</th>
+                <td colspan="3">{{ $page->uniform}}</td>
+            </tr>
+        @endif
+
+
     </tbody>
 </table>
-@endif
 
     
 @yield('postContent')
