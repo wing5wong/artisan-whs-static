@@ -11,3 +11,5 @@ show_in_slider: true
 date: 2019-09-11T04:12:07.021Z
 ---
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1568175149/News/Toby-Brooke-Chron-11.9.19_snip.jpg)
+
+We wish you safe travels and all the best of luck Toby!  👍
