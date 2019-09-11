@@ -7,6 +7,8 @@ feature_image:
 news_author:
   date: 2019-09-02T02:41:38.250Z
   publication: Horowhenua Chronicle
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2019-09-11T02:41:38.294Z
 ---
