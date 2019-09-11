@@ -341,19 +341,19 @@ return [
     'imageCdn' => function ($page, $path) {
         return "https://res.cloudinary.com/{$page->services->cloudinary}/{$path}";
     },
-    'featureImageSrc' => function($page, $item) {
+    'featureImageSrc' => function($page, $item=null) {
         if(!$item) $item=$page;
         return $item->feature_image["image"] ?: $item->image ?: '';
     },
-    'featureImageDescription' => function($page, $item) {
+    'featureImageDescription' => function($page, $item=null) {
         if(!$item) $item=$page;
         return $item->feature_image["description"] ?: $item->image_title;
     },
-    'featureImageAlt' => function($page, $item) {
+    'featureImageAlt' => function($page, $item=null) {
         if(!$item) $item=$page;
         return $item->feature_image["alt"] ?: $item->image_alt;
     },
-    'featureImageCredit' => function($page, $item) {
+    'featureImageCredit' => function($page, $item=null) {
         if(!$item) $item=$page;
         return $item->feature_image["credit"] ?: $item->image_credit;
     },
