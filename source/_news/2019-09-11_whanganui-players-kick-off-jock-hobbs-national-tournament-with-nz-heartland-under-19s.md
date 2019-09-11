@@ -3,6 +3,7 @@ title: >-
   Whanganui players kick off Jock Hobbs National tournament with NZ Heartland
   U19's
 feature_image:
+  credit: Supplied
   description: >-
     Kaierau's Kohlt Coveny and Border's Jason Myers in their New Zealand
     Heartland Under 19 jerseys before the start of the Jock Hobbs Memorial
