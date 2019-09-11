@@ -1,5 +1,5 @@
 ---
-title: Student Trustee Election Successful Candidate
+title: Congratulations to our new Student Trustee
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568235161/News/Student_trustee_elections.png
