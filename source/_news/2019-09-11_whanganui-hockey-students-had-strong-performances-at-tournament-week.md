@@ -1,7 +1,9 @@
 ---
 title: Whanganui Hockey students had strong performances at tournament week
 feature_image:
-  description: Whanganui High School 1st XI after coming third in the India Shield.
+  description: >-
+    Whanganui High School 1st XI will stay in Tier 1 after securing Bronze in
+    the India Shield.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568170403/News/1st_XI_3rd_India_Shield.Chron_10.9.19.jpg
 news_author:
