@@ -11,6 +11,10 @@ news_author:
   date: 2019-09-11T03:18:51.552Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Netball
 show_in_slider: true
 date: 2019-09-11T03:18:51.566Z
 ---

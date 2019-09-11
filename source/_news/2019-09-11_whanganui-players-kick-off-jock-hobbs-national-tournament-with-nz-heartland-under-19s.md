@@ -13,6 +13,8 @@ news_author:
   date: 2019-09-10T03:38:02.238Z
   name: Jared Smith
   publication: Whanganui Chronicle
+extracurricular_activities:
+  - Rugby
 show_in_slider: false
 date: 2019-09-11T03:38:02.263Z
 ---
