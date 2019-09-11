@@ -5,8 +5,10 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568175404/News/Toby_Brooke_chron_11.9.19_small_photo.jpg
 news_author:
-  date: 2019-09-11T04:12:06.998Z
-  publication: Whanganui Chronicle
+  date: ''
+  publication: ''
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2019-09-11T04:12:07.021Z
 ---
