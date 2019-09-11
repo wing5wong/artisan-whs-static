@@ -21,24 +21,8 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
     </nav>
 </ul>
 
-@if ($page->image)
-<a href="{{ $page->image }}" @if($page->image_title)title="{{$page->image_title}}"@endif
-    @if($page->image_alt)alt="{{$page->image_alt}}"@endif class="featured">
-    <img class="featured-image"
-        style="object-fit: cover; max-width:100%; display: block; object-fit: contain; max-width: 100%; display: block;"
-        src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->image)}}"
-        srcset="
-            {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->image)}}
-            " alt="" style="max-width: 100%">
-</a>
-@if($page->image_credit)
-<div class="image-credit">
-    <em>Photo / {{$page->image_credit}}</em>
-</div>
-@endif
 
-@endif
-
+@include('_partials.page.feature-image')
 
 
 @php
