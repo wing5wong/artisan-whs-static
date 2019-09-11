@@ -13,7 +13,7 @@ date: 2019-09-11T03:09:38.422Z
 ---
 There was some strong performances from the Whanganui schools as the last of tournament week events concluded on Saturday, with one winning a championship and another locking in their Tier 1 position for another season.
 
-Having returned to the highest level of the Rankin Cup & India Shield tournament in Christchurch, Whanganui High School 1st XI's goal was to avoid relegation again by staying out of the bottom six from the top 32 schools in the country.
+**Having returned to the highest level of the Rankin Cup & India Shield tournament in Christchurch, Whanganui High School 1st XI's goal was to avoid relegation again by staying out of the bottom six from the top 32 schools in the country.**
 
 And after a few nervous days with three losses in pool play, **WHS achieved it by taking the bronze medal in the consolation India Shield competition, which was enough for 19th overall.**
 
