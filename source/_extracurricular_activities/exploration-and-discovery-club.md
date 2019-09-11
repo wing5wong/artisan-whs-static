@@ -4,8 +4,16 @@ date: 2019-09-03T00:44:24.523Z
 people:
   - name: Mr B. Hunter
     role: Teacher in Charge
+terms:
+  - Term 1
+  - Term 2
+  - Term 3
+  - Term 4
+uniform: Karaoke Voice
 extracurricular_area: Other
-cost: Costs range from $80 (one night) up to $250 (3 nights), depending on destination. 
+cost: >-
+  Costs range from $80 (one night) up to $250 (3 nights), depending on
+  destination.
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567471599/Performing%20Arts/Exploration_Club.jpg
 ---
