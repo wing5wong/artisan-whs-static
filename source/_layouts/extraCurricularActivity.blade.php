@@ -82,7 +82,7 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
     </thead>
     <tbody>
         @php
-            $involvedStaff = collect($page->people)->map(function($person){
+            $involvedStaff = collect($page->people)->map(function($person) use ($staff){
                 return ['person' => $staff->firstWhere('title', $person["name"]), 'role' => $person["position"] ?? ''];
             });
         @endphp
