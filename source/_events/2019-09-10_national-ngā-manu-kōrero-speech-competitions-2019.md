@@ -1,6 +1,6 @@
 ---
 title: National Ngā Manu Kōrero Secondary School Competition
-date: 2019-09-10T23:27:11.099Z
+date: 2019-09-11T23:27:11.099Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1568072018/Events/1325282-588059-34.png
 ---
