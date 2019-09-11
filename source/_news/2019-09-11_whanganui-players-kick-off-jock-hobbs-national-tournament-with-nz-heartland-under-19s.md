@@ -5,9 +5,8 @@ title: >-
 feature_image:
   credit: Supplied
   description: >-
-    Kaierau's Kohlt Coveny and Border's Jason Myers in their New Zealand
-    Heartland Under 19 jerseys before the start of the Jock Hobbs Memorial
-    tournament.
+    Kaierau's Kohlt Coveny & Border's Jason Myers in their NZ Heartland U19
+    jerseys before the start of the Jock Hobbs Memorial tournament.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568170369/News/Kohlt_Coveny.Chron_10.9.19.jpg
 news_author:
