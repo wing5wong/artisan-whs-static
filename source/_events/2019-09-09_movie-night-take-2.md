@@ -10,7 +10,7 @@ The Cultural Prefects present a final movie night on Thursday 26 September (week
 
 ALL FUNDS will go towards a portable sound system for the whole school to use.
 
-Tickets - $5.00, hot chocolate and popcorn - $2.00.\
+Tickets - $5.00, hot chocolate and popcorn - $2.00.  
 Blankets and pillows optional.
 
 Last week of school so come and have a relaxed, fun night after the stress of a long term!
