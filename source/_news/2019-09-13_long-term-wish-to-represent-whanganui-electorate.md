@@ -28,7 +28,7 @@ He has formed a charitable trust that's looking to bring the Invictus Games - fo
 
 Easton has a wide range of experience - a commerce degree and jobs with the army, within Parliament and in the Health Ministry.
 
-Easton was brought up in Whanganui and went to Whanganui High School. His mother, Ginny Carey, lives here with his stepfather Stephen Palmer.
+Easton was brought up in Whanganui and went to **Whanganui High School**. His mother, Ginny Carey, lives here with his stepfather Stephen Palmer.
 
 Easton went to Victoria University for a degree in commerce, majoring in public policy and commercial law. He needed a part-time job while studying and joined the army reserve as a commissioned officer.
 
