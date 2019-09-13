@@ -9,7 +9,7 @@ news_author:
   date: 2019-09-12T03:48:38.652Z
   name: Laurel Stowell
   publication: Whanganui Chronicle
-show_in_slider: true
+show_in_slider: false
 date: 2019-09-13T03:48:38.677Z
 ---
 It was seeing poverty in Afghanistan in 2011 - then poverty back home in New Zealand - that jolted Tim Easton out of his comfortable public sector desk job.
