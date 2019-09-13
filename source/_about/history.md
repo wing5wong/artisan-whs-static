@@ -25,7 +25,7 @@ The Whanganui High School Crest features:
 
 Our school motto is from the New Testament, from the Book of John, Chapter 10, Verse 10 _'I am come that they might have life, and they might have it more abundantly"._
 
-The interpretation of our motto is that through academic, cultural, sporting and socialisation opportunities the school provides, the individual will have the opportunity to live life to the full.
+The school interprets this to mean that through academic, cultural, sporting and socialisation opportunities the school provides, each individual will have the opportunity to live life to the full.
 
 ## Whanganui High School History
 
@@ -49,3 +49,19 @@ The Principals of Whanganui High School have been:
 * M.G. McAllen         2017 - present
 
 In 2008 the school celebrated its 50th Reunion.
+
+
+
+## Renaming of the Gymnasiums
+
+In June, 2019 Whanganui High School renamed the school's gymnasiums. 
+
+Vogel Gymnasium was named Te Ihi (excitement)
+
+Seddon Gymnasium was named Te Wehi (awesome)
+
+Reeves Gymnasium was named Te Mana (prestige)
+
+Ballance Courtyard was named The Courtyard
+
+The whakataukī ‘te ihi, te wehi, te mana’ used in its entirety, refers to the qualities which collectively spark the feeling of exhilaration. Given the purpose of the gymnasiums, these are accurate reflections of the results that are produced.
