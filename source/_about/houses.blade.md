@@ -16,7 +16,7 @@ The houses of Whanganui High School are:
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566338716/Houses/Four_Houses_Colour_resize_2.jpg)
 
-The houses originate from a well-known Whanganui Quote:
+The houses originate from a well-known whakataukī proverb:
 
 > _E rere kau mai te awa nui, Mai te i kāhui maunga ki Tangaroa, Ko au te awa, Ko te awa ko au._\
 > The river flows from the mountain to the sea. I am the river, and the river is me.
