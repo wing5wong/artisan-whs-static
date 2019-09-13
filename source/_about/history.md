@@ -40,11 +40,12 @@ The school developed a tradition of 'self-help' and through much fundraising has
 The Principals of Whanganui High School have been:
 
 * A.T. Gibson           1958 - 1967
-* M.D. Fountain      1968 - 1978
-* P.G. Canham        1979 - 1985
+* M.D. Fountain       1968 - 1978
+* P.G. Canham         1979 - 1985
 * L.I. Power               1985 - 1993
 * W.J. Maguire          1994 - 2009
-* N.G. Hanton          2010 - 2012
-* G. Olver                   2012 - 2016
+* N.G. Hanton           2010 - 2012
+* G. Olver                  2012 - 2016
+* M.G. McAllen         2017 - present
 
 In 2008 the school celebrated its 50th Reunion.
