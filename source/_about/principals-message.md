@@ -24,4 +24,4 @@ Kind regards
 
 Martin McAllen  
 PRINCIPAL  
-_M Ed Leadership with First Class Honours, PG Dip Ed Leadership, BA, Dip Tchg_
+_^M Ed Leadership with First Class Honours, PG Dip Ed Leadership, BA, Dip Tchg^_
