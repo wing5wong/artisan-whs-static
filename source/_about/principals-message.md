@@ -23,6 +23,5 @@ Please feel very welcome to visit our school and meet with me at any time.
 Kind regards
 
 Martin McAllen  
-PRINCIPAL
-
+PRINCIPAL  
 _M Ed Leadership with First Class Honours, PG Dip Ed Leadership, BA, Dip Tchg_
