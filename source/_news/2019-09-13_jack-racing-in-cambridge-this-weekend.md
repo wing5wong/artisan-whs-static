@@ -5,6 +5,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568346924/News/Jack_Overweel_Age_Gp_Track_Nat_9.10_March_2019_2nd.jpg
 news_author:
   date: 2019-09-13T03:53:30.974Z
+  publication: Lisa Murphy WHS Director of Sport
 show_in_slider: true
 date: 2019-09-13T03:53:31.004Z
 ---
