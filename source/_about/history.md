@@ -35,7 +35,7 @@ In February 1958 a group of 148 Third Formers gathered for the first Assembly in
 
 By 1969 the roll had risen to 1100. The first Principal, Mr A.T. Gibson, emphasised 'manners, character, scholarship and human relations'.  He stressed that the School was not an 'it' - the 'family' life of the school was vital. These emphases have remained.
 
-The school developed a tradition of 'self-help' and through much fundraising has built up some very good facilities for the use of the students and staff. Facilities such as; the Swimming Pool (1962), the Gymnasium (1968), the Centre Court, the extensions to the Cafeteria and Theatrette (1980's), the Shelters (1990's), The Department/Ministry of Education has added the Library (1970), The Music Block (1972), Te Atawhai (1996), Music and Drama renovations (1999), Staffroom - Te Arahi (1999), Science Block and Deans' House -Te Whare Kaiārahi (2002), and new Gymnasium facilities (2006).
+The school developed a tradition of 'self-help' and through much fundraising has built up some very good facilities for the use of the students and staff. Facilities such as the Swimming Pool (1962), the Gymnasium (1968), the Centre Court, the extensions to the Cafeteria and Theatrette (1980's), the Shelters (1990's), The Department/Ministry of Education has added the Library (1970), The Music Block (1972), Te Atawhai (1996), Music and Drama renovations (1999), Staffroom - Te Arahi (1999), Science Block and Deans' House -Te Whare Kaiārahi (2002), and new Gymnasium facilities (2006).
 
 The Principals of Whanganui High School have been:
 
