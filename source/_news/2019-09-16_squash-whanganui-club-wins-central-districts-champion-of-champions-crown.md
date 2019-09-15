@@ -30,7 +30,7 @@ In Inglewood, five of the eight Whanganui club members reached their various gra
 
 That saw them lift the Champion of Champions Club title ahead of several other clubs who had two title winners.
 
-Winning their grades were Matt Ratcliffe (Men's B), **Ngakuria Osborne (Women's B) and Sam Power (Men's E)**, continuing on a great season for all of them.
+**Winning their grades** were Matt Ratcliffe (Men's B), **Ngakuria Osborne (Women's B) and Sam Power (Men's E)**, continuing on a great season for all of them.
 
 "Ratcliffe's last match in the final, against Rory Mortleman from New Plymouth in which he won 11/6, 11/3, 9/11, 10/12, 11/6, has now moved him back into A grade for the second time this year," said Darlington.
 
