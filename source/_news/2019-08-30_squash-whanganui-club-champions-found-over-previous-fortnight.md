@@ -12,7 +12,9 @@ short: >-
   including past & present students Sam Power, Ngakuria Osborne & Kees
   Robbertson.
 news_author:
-  date: 2019-09-15T23:26:18.508Z
+  date: 2019-08-25T23:26:18.508Z
+  name: Staff Reporter
+  publication: Whanganui Chronicle
 image_gallery:
   - description: >-
       Open champions Kent Darlington & Ngakuia Osborne at the recent
@@ -113,6 +115,3 @@ Mens – Houia Cup (D1 & Above) Winners: Kent Darlington, Matt Ratcliffe; Runner
 
 Mixed Doubles  
 **Mair Cup — Winner: Osborne**, Stone; Runnerup: Kent Darlington, Bannister.
-
-_By Staff Reporter_  
-_Whanganui Chronicle 26/8/19_
