@@ -1,6 +1,10 @@
 ---
 title: 'Squash: Whanganui Club wins Central Districts Champion of Champions crown'
 feature_image:
+  description: >-
+    Whanganui with their CD club title. Back left, Shandon Scott, Matt
+    Ratcliffe, Kees Robbertson, Sam Power, Nigel Ward (manager), Shane Stone.
+    Front, Pauline Slovak, Ngakuria Osborne, Kent Darlington.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568587543/News/Squash.Sam_Power.Kees_Robbertson.Ngakuia_Osborne.14.9.19_Chron.jpg
 short: >-
