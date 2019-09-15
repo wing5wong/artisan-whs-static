@@ -11,6 +11,8 @@ short: >-
   The trophy recipients at the recent Whanganui Squash Club Champs prizegiving,
   including past & present students Sam Power, Ngakuria Osborne & Kees
   Robbertson.
+news_author:
+  date: 2019-09-15T23:26:18.508Z
 image_gallery:
   - description: >-
       Open champions Kent Darlington & Ngakuia Osborne at the recent
@@ -87,7 +89,7 @@ He was the Central Junior Under 17 Boys winner from fourth seed, beating all thr
 
 The club had a number of representative honours for the year as Darlington, Ratcliffe, **Osborne** and juniors Aria Bannister and Max Matthews were part of Central teams competing against Waikato, Wellington and Eastern Districts, where Central swept all the titles on offer.
 
-Ratcliffe and **Osbourne** have also been selected to represent Central at New Zealand Senior National teams event in Christchurch coming up this week.
+Ratcliffe and **Osborne** have also been selected to represent Central at New Zealand Senior National teams event in Christchurch coming up this week.
 
 Results:
 
