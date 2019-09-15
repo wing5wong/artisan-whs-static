@@ -1,5 +1,5 @@
 ---
-title: 'Squash: Whanganui club champions found over previous fortnight'
+title: Whanganui squash club champions found over previous fortnight
 feature_image:
   description: >-
     The trophy recipients at the recent Whanganui Squash Club Champs
