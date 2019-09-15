@@ -6,7 +6,7 @@ image: >-
 ---
 The Inter-school Dodgeball Competition is on Wednesday 18 September.
 
-Venue: WHS Te Wehi Gym (Seddon)\
+Venue: WHS Te Wehi Gym (Seddon)  
 Time: 3.30pm - 5.00pm
 
 Our winning three teams from previous school tournaments will be part of this event.
