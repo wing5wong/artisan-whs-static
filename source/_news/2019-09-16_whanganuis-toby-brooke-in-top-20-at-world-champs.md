@@ -1,5 +1,5 @@
 ---
-title: Whanganui's Toby Brooke in Top 20 at world champs
+title: Whanganui's Toby Brooke in Top 20 at World Champs
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568590354/News/Toby_Brooke.Chron_14.9.19_top_20_world_champs.jpg
