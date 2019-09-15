@@ -12,7 +12,7 @@ short: >-
   Kees Robbertson, Sam Power, Nigel Ward (manager), Shane Stone. Front, Pauline
   Slovak, Ngakuria Osborne, Kent Darlington.
 news_author:
-  date: 2019-08-25T22:41:42.257Z
+  date: 2019-09-13T22:41:42.257Z
   name: Staff Reporter
   publication: Whanganui Chronicle
 show_in_slider: true
