@@ -10,7 +10,7 @@ news_author:
 show_in_slider: true
 date: 2019-09-15T23:30:37.638Z
 ---
-It was a Top 20 finish for Whanganui's Toby Brooke at his first ICF Canoe Ocean Racing World Championships in France, overnight on Thursday, NZ time.
+**It was a Top 20 finish for Whanganui's Toby Brooke at his first ICF Canoe Ocean Racing World Championships in France, overnight on Thursday, NZ time.**
 
 Part of a nine strong New Zealand team, Brooke and Bay of Plenty's Timothy Waller were the Men's Under 23 representatives in the squad.
 
