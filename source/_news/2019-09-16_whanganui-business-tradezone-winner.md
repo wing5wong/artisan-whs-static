@@ -18,7 +18,7 @@ A Whanganui family-owned and operated business is celebrating its team's efforts
 
 McDonald Equipment/TradeZone Wanganui won the outstanding large business category at TradeZone's annual awards and then took out the overall award – supreme retail outlet of the year. 
 
-McDonald Equipment, which specialises in engineering and industrial supplies, was established 29 years ago by Avon and Vicki McDonald. The couple's children, **Rebecca Townsend (nee McDonald) and Brad McDonald**, now work in the Heads Rd-based business. 
+McDonald Equipment, which specialises in engineering and industrial supplies, was established 29 years ago by Avon and Vicki McDonald. The couple's children, **Rebecca Townsend (nee McDonald) and Brad McDonald** (former WHS students), now work in the Heads Rd-based business. 
 
 "It was quite a big award for us," Townsend, McDonald Equipment's business co-ordinator, said.
 
