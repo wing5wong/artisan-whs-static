@@ -5,3 +5,6 @@ image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1568592557/Events/Edith-Wheel.Advert.jpg
 ---
 
+For more information and to download an application form:
+
+https://www.whanganuihigh.school.nz/info-for-parents/edith-wheal-scholarship/
