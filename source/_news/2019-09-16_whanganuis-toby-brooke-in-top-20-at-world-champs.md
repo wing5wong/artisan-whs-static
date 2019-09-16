@@ -16,7 +16,7 @@ Part of a nine strong New Zealand team, Brooke and Bay of Plenty's Timothy Walle
 
 They had to face a tricky side-wind on the 22km course in Saint-Pierre De Quiberon.
 
-The 21-year-old Brooke finished 16th in his race, 9m 11s behind the race winner Joshua Fern of South Africa, who won in 1h 39m 5s.
+**The 21-year-old Brooke finished 16th in his race**, 9m 11s behind the race winner Joshua Fern of South Africa, who won in 1h 39m 5s.
 
 Waller placed 24th, coming 11m 39s behind Fern.
 
