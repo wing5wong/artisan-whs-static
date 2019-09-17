@@ -6,33 +6,28 @@ _The tuition fee covers four or part terms from the starting date for the studen
 
 [2020 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1568687517/International/2020_WHS_International_Enrolment_Form.pdf)
 
-## **Tuition Fee:** 
+## Tuition Fee:
 
-- - -
 
 **Standard Year Course: NZ $14,000**
 
 This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,000, Three terms - $10,500.
 
-- - -
+
 
 **Standard Short Course: NZ $370 per week**
 
 One Term or less.
 
-- - -
-
 **Premium Year Course: NZ $15,500**
 
 This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $7,750, Three terms - $11,625.
 
-- - -
 
 **Premium Short Course: NZ $420 per week**
 
 One Term or less
 
-- - -
 
 **Administration Fee :** 
 
@@ -48,7 +43,6 @@ Includes:
 * Orientation programme
 * General administration
 
-- - -
 
 **Insurance:**
 
@@ -58,7 +52,6 @@ Includes:
 
 All students must have full insurance (personal effects, health and accident insurance). We use and recommend [UNI-CARE](https://www.uni-care.org/). If providing your own insurance, please supply the school with a copy in English of your policy details, once purchased.
 
-- - -
 
 ## **Accommodation Fee**
 
@@ -88,8 +81,6 @@ If you cancel your homestay contract before you move into the homestay, your fee
 
 If you request a change of homestay, then the original homestay will receive two weeks' fees in lieu of notice.
 
-- - -
-
 ## Optional Extra Costs
 
 * **NZQA External Examination Fee: NZ $384**
@@ -113,23 +104,20 @@ If you request a change of homestay, then the original homestay will receive two
   It is mandatory for young students under 14 years old, and for students who have had behavioural or health issues at their previous school, to have a native-speaking guardian. 
   It is recommended for any students who would like support in their first year at WHS. Guardians visit the homestay prior to arrival to discuss cultural differences, meets the student at the airport and introduces them to the homestay family. Helps with the purchase of school uniform, and assists student at school on their first day.  Maintains regular contact with school and homestay, so progress can be monitored, keeps parents informed in their own language by sending a brief report each month, answers parents’ concerns by phone/email, represents parents if there are any problems.  Takes student to the doctor, monitors student’s plans for any trips away or activities that require parental consent, and meets with the student regularly to check on their progress and well-being.
 
-- - -                      
-
 ## **Complaints:** 
 
 If you have a complaint, please contact the Director of International Students in the first instance.  If you are unsatisfied with the response, please visit this website [www.istudent.org.nz](https://www.istudent.org.nz/) for free and impartial advice. 
 
-- - -
 
 ## **Contact:**
 
-Mrs Alexandra Ferretti
-Director of International Students
-Whanganui High School
-Box 4022
-Whanganui
-NEW ZEALAND
+Mrs Alexandra Ferretti  
+Director of International Students  
+Whanganui High School  
+Box 4022  
+Whanganui  
+NEW ZEALAND  
 
-Ph No. +64 6 349 0178
-Fax No. +64 6 349 0176
-Email: director.int@whanganuihigh.school.nz
+Ph No. +64 6 349 0178  
+Fax No. +64 6 349 0176  
+Email: director.int@whanganuihigh.school.nz  
