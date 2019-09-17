@@ -8,6 +8,8 @@ _The tuition fee covers four or part terms from the starting date for the studen
 
 ## **Tuition Fee:** 
 
+- - -
+
 **Standard Year Course: NZ $14,000**
 
 This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,000, Three terms - $10,500.
