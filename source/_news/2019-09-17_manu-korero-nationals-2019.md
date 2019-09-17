@@ -1,9 +1,12 @@
 ---
 title: Manu Korero Nationals 2019
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1568072018/Events/1325282-588059-34.png
 news_author:
   date: 2019-09-12T00:24:34.880Z
   name: ''
-show_in_slider: false
+show_in_slider: true
 date: 2019-09-17T00:24:34.927Z
 ---
 From the 10th to the 12th of September 2019, Manawatu/Horowhenua hosted the annual Nga Manu Korero National Speech competition held at the Regent in Palmerston North.
