@@ -6,7 +6,9 @@ departments:
   - International
   - Mathematics
   - Deans
-positions: 
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1568708771/staff/IMG_9570.jpg
+positions:
   - department: International
     title: Dean of International Students
   - department: Deans
