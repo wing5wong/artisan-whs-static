@@ -1,5 +1,5 @@
 ---
-title: Whanganui mourns Ed Boyd
+title: Whanganui's fond farewell to Ed Boyd
 feature_image:
   credit: Supplied
   description: >-
