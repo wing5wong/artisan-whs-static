@@ -1,22 +1,31 @@
 ---
-title: Manu Korero Nationals 2019
+title: Manu Kōrero Nationals 2019
 feature_image:
-  description: Roman Kotuhi Brown speaking at the Manu Korero Nationals 2019!
+  description: Roman Kotuhi Brown speaking at the Manu Kōrero Nationals 2019!
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568680865/News/ROMAN_at_Manu_Korero_Nationals_2019.jpg
 news_author:
   date: 2019-09-12T00:24:34.880Z
   name: ''
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1568681633/News/ROMAN_2.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1568681641/News/GIRLS_PERFORMING.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1568681644/News/BOYS.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1568682185/News/Roopu.jpg
 show_in_slider: true
 date: 2019-09-17T00:24:34.927Z
 ---
-From the 10th to the 12th of September 2019, Manawatu/Horowhenua hosted the annual Nga Manu Korero National Speech competition held at the Regent in Palmerston North.
+From the 10th to the 12th of September 2019, Manawatu/Horowhenua hosted the annual Ngā Manu Kōrero National Speech competition held at the Regent in Palmerston North.
 
-Whanganui High school was fortunate enough to win the Junior Te Reo Maori section at our Regional competition which qualified us for National competition. 
+Whanganui High school was fortunate enough to win the Junior Te Reo Māori section at our Regional competition which qualified us for National competition. 
 
 Our speaker Roman Kotuhi Brown spoke on his topic "Maa taatou te taiao e ora ai?". Should it be up to us to look after the environment? 
 
-Roman's performance was perfect, everything he could have done he did and did extremely well. He competed at a very high level sharing the stage with students who had been taught by some of the most prestigious Te Reo Maori experts our country has to offer.
+Roman's performance was perfect, everything he could have done he did and did extremely well. He competed at a very high level sharing the stage with students who had been taught by some of the most prestigious Te Reo Māori experts our country has to offer.
  
 To say we are proud is an understatement, but we are in awe of you and the journey you have been on. You have grown so much through this experience. Your whaanau, Hapu and Iwi and of course your contributing kura and kohanga reo will be excited to watch the young man you are molding into. Of course closely guarded by our Cribb-Fox whanau, who gave willingly of their time and effort no matter what. He aha nga kupu? what are the words? 
  
