@@ -10,4 +10,4 @@ positions:
     title: International Administrator
 ---
 
-**Mrs Tonia Hoobin** or Tonia as the students call her is responsible for administration and helping students with insurance claims and visas.  She is usually the first person to receive and respond to emails. 
+**Mrs Tonia Hoobin** or Tonia as the students call her, is responsible for all enrolments, administration and helping students with insurance claims and visas. She is usually the first person to receive and respond to emails.  Having lived overseas for 12 years and travelled extensively, she knows what it’s like to adjust to new cultures and ways of living.
