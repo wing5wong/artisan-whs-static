@@ -2,8 +2,6 @@
 title: Fees and Accommodation
 date: 2019-09-17T02:23:57.661Z
 ---
-## Fees Details
-
 The tuition fee covers four or part terms from the starting date for the student. Included in the school fee are the cost of class fees, textbooks, the international student photo, the yearbook and the orientation course at the start. All prices are in New Zealand dollars. You can download an application form from here:
 
 [2019 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1568687517/International/2020_WHS_International_Enrolment_Form.pdf)
