@@ -5,7 +5,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568680865/News/ROMAN_at_Manu_Korero_Nationals_2019.jpg
 news_author:
-  date: 2019-09-12T00:24:34.880Z
+  date: 2019-09-17T00:24:34.880Z
   name: ''
 image_gallery:
   - image: >-
