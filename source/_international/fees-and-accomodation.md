@@ -14,32 +14,25 @@ The tuition fee covers four or part terms from the starting date for the student
 
 This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,000, Three terms - $10,500.
 
+****
+
 **Standard Short Course: NZ $370 per week**
 
 One Term or less.
+
+****
 
 **Premium Year Course: NZ $15,500**
 
 This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $7,750, Three terms - $11,625.
 
+****
+
 **Premium Short Course: NZ $420 per week**
 
 One Term or less
 
-**Homestay Fee: NZ $11,475**\
-(for a full academic year of 45 weeks or $255 per week for a part of a year.)
-
-* Provision of a single room for the student  
-* All Meals  
-* All homestays are visited and assessed in advance by the school.
-* Does not included school uniform (maximum of NZ $600)
-
-_The homestay fee does not include:_
-
-* School uniform (maximum of NZ $600)
-* Holidays away from the homestay, or holidays that involve extra expense for the homestay parents.
-* Personal spending (between $NZ50 and $NZ70 per week). Parents may pay personal funds to the school and the school will set up a bank account whereby a set amount will be automatically paid into the student's account each week.  
-* Toll calls 
+****
 
 **Administration Fee :** 
 
@@ -55,6 +48,8 @@ Includes:
 * Orientation programme
 * General administration
 
+****
+
 **Insurance:**
 
 **NZ $555** - Travel and health insurance for 1 whole year (recommended for all students who a staying 1 school year/45 weeks or more)
@@ -63,7 +58,38 @@ Includes:
 
 All students must have full insurance (personal effects, health and accident insurance). We use and recommend [UNI-CARE](https://www.uni-care.org/). If providing your own insurance, please supply the school with a copy in English of your policy details, once purchased.
 
-## 
+
+
+## **Accommodation Fee**
+
+**Homestay Fee: NZ $11,475**\
+(for a full academic year of 45 weeks or $255 per week for a part of a year.)
+
+_The homestay fee covers the following:_
+
+* All the expenses involved in living as a member of a family
+* Provision of a single room for the student  
+* All Meals  
+* All homestays are visited and assessed in advance by the school.
+
+_The homestay fee does not include:_
+
+* School uniform (maximum of NZ $600)
+* Holidays away from the homestay, or holidays that involve extra expense for the homestay parents.
+* Personal spending (between $NZ50 and $NZ70 per week). Parents may pay personal funds to the school and the school will set up a bank account whereby a set amount will be automatically paid into the student's account each week.  
+* Toll calls 
+
+**Refund of Homestay Fees:** _(Based on all homestay fees paid up front)_
+
+If you move out of your homestay before the end of your contract, the portion of your homestay fees not already used will be returned to you. The Administration Fee of $650 and $1300 cannot be refunded.
+
+To have your homestay fees returned, your parents must write to the Board of Trustees giving two weeks' notice, or pay two weeks' fees in lieu of notice.
+
+If you cancel your homestay contract before you move into the homestay, your fees will be refunded in full less the Administration Fee of $650.
+
+If you request a change of homestay, then the original homestay will receive two weeks' fees in lieu of notice.
+
+
 
 ## Optional Extra Costs
 
