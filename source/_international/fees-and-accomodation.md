@@ -1,6 +1,6 @@
 ---
 title: Fees and Accommodation
-date: 2019-06-27T02:23:57.661Z
+date: 2019-09-17T02:23:57.661Z
 ---
 ## Fees Details
 
