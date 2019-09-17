@@ -12,25 +12,25 @@ _The tuition fee covers four or part terms from the starting date for the studen
 
 This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,000, Three terms - $10,500.
 
-****
+- - -
 
 **Standard Short Course: NZ $370 per week**
 
 One Term or less.
 
-****
+- - -
 
 **Premium Year Course: NZ $15,500**
 
 This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $7,750, Three terms - $11,625.
 
-****
+- - -
 
 **Premium Short Course: NZ $420 per week**
 
 One Term or less
 
-****
+- - -
 
 **Administration Fee :** 
 
@@ -46,7 +46,7 @@ Includes:
 * Orientation programme
 * General administration
 
-****
+- - -
 
 **Insurance:**
 
@@ -56,12 +56,9 @@ Includes:
 
 All students must have full insurance (personal effects, health and accident insurance). We use and recommend [UNI-CARE](https://www.uni-care.org/). If providing your own insurance, please supply the school with a copy in English of your policy details, once purchased.
 
-
-
 ## **Accommodation Fee**
 
-**Homestay Fee: NZ $11,475**\
-(for a full academic year of 45 weeks or $255 per week for a part of a year.)
+**Homestay Fee: NZ $11,475** (for a full academic year of 45 weeks or $255 per week for a part of a year)
 
 _The homestay fee covers the following:_
 
@@ -87,21 +84,29 @@ If you cancel your homestay contract before you move into the homestay, your fee
 
 If you request a change of homestay, then the original homestay will receive two weeks' fees in lieu of notice.
 
-
-
 ## Optional Extra Costs
 
 * **NZQA External Examination Fee: NZ $384**
-* **North Island 3 Day Trip: NZ $675** A three-day escorted tour around the centre of the North Island.  The trip goes from Whanganui to Waitomo Caves and Rotorua, where students experience Maori culture, the luge, a farm show and Velocity Valley, before returning to Whanganui via Taupo (includes all entry fees, travel, food and accommodation).
-* **Wellington 3 Day Trip: NZ $350** A three-day escorted tour to Wellington. The trip goes from Whanganui to the Wairarapa then Wellington.  It includes Mount Bruce Bird Sanctuary, Te Papa Museum, Weta Workshop and Adrenaline Forest.  All entry fees, travel, food and accommodation is included.
-* **Air Chathams flight to Whanganui: NZ $170** Air Chathams flight to Whanganui with full concierge service. This includes a meet and transfer on arrival at Auckland International airport plus care of student until arrival in Whanganui.  
-* **Auckland Meet and Transfer: NZ $100** You will be met at Auckland airport and transferred to the domestic plane for flight to Whanganui or Palmerston North.
-* **Palmerston North Meet and Transfer: NZ $100** You will be met at Palmerston North airport and transferred to Whanganui.
-* **Assistance to obtain student visa: NZ $50** If you require the school staff to help you obtain a student visa in New Zealand (the visa itself costs $310), we charge an admin fee.
+* **North Island 3 Day Trip: NZ $675** A three-day escorted tour around the centre of the North Island.  The trip goes from Whanganui to Waitomo
+  Caves and Rotorua, where students experience Maori culture, the luge, a farm show and Velocity Valley, before
+  returning to Whanganui via Taupo (includes all entry fees, travel, food and accommodation).
+* **Wellington 3 Day Trip: NZ $350** A three-day escorted tour to Wellington. The trip goes from Whanganui to the Wairarapa then Wellington.  It includes Mount Bruce Bird Sanctuary, Te Papa Museum, Weta Workshop and Adrenaline Forest.  All entry fees, 
+  travel, food and accommodation is included.
+* **Air Chathams flight to Whanganui: NZ $170** Air Chathams flight to Whanganui with full concierge service. This includes a meet and transfer
+  on arrival at Auckland International airport plus care of student until arrival in Whanganui.  
+* **Auckland Meet and Transfer: NZ $100** You will be met at Auckland airport and transferred to the 
+  domestic plane for flight to Whanganui or Palmerston North.
+* **Palmerston North Meet and Transfer: NZ $100** You will be met at Palmerston North airport and transferred to Whanganui
+  .
+* **Assistance to obtain student visa: NZ $50** If you require the school staff to help you obtain a student visa in New
+  Zealand (the visa itself costs $310), we charge an admin fee.
 * **Assistance to obtain a student medical visa: NZ $50** Assistance to obtain a student medical for visa. If you arrive without a medical required for a student visa and ask
-  the school staff for assistance (the medical itself costs about $370), we charge an admin fee.
-* **Guardian - a native-speaking guardian: NZ $2,500** who keeps parents informed and provides guidance to the student. It is mandatory for young students under 14 years old, and for students who have had behavioural or health issues at their previous school, to have a native-speaking guardian. It is recommended for any students who would like support in their first year at WHS. Guardians visit the homestay prior to arrival to discuss cultural differences, meets the student at the airport and introduces them to the homestay family. Helps with the purchase of school uniform, and assists student at school on their first day.  Maintains regular contact with school and homestay, so progress can be monitored, keeps parents informed in their own language by sending a brief report each month, answers parents’ concerns by phone/email, represents parents if there are any problems.  Takes student to the doctor, monitors student’s plans for any trips away or activities that require parental consent, and meets with the student regularly to check on their progress and well-being.                    
-
+    the school staff for assistance (the medical itself costs about $370), we charge an admin fee
+  .
+* **Guardian - a native-speaking guardian: NZ $2,500** who keeps parents informed and provides guidance to the student. 
+  It is mandatory for young students under 14 years old, and for students who have had behavioural or health issues at their previous school, to have a native-speaking guardian. 
+  It is recommended for any students who would like support in their first year at WHS. Guardians visit the homestay prior to arrival to discuss cultural differences, meets the student at the airport and introduces them to the homestay family. Helps with the purchase of school uniform, and assists student at school on their first day.  Maintains regular contact with school and homestay, so progress can be monitored, keeps parents informed in their own language by sending a brief report each month, answers parents’ concerns by phone/email, represents parents if there are any problems.  Takes student to the doctor, monitors student’s plans for any trips away or activities that require parental consent, and meets with the student regularly to check on their progress and well-being.
+                      
 
 ## **Complaints:** 
 
