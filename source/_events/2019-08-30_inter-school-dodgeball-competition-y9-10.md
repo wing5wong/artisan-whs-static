@@ -6,6 +6,8 @@ image: >-
 ---
 The Inter-school Dodgeball Competition is on Wednesday 18 September.
 
+WHS teams competing are Link, Ballin and Sexy Six.
+
 Venue: WHS Te Wehi Gym (Seddon)  
 Time: 3.30pm - 5.00pm
 
