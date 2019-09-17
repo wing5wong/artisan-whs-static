@@ -107,7 +107,7 @@ If you request a change of homestay, then the original homestay will receive two
 
 ## **Complaints:** 
 
-If you have a complaint, please contact the Director of International Students in the first instance.  If you are unsatisfied with the response, please visit this website [**www.istudent.org.nz**](https://www.istudent.org.nz/) for free and impartial advice. 
+If you have a complaint, please contact the Director of International Students in the first instance.  If you are unsatisfied with the response, please visit this website [www.istudent.org.nz](https://www.istudent.org.nz/) for free and impartial advice. 
 
 ## **Contact:**
 
