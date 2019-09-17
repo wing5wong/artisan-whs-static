@@ -2,7 +2,7 @@
 title: Manu Korero Nationals 2019
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1568072018/Events/1325282-588059-34.png
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1568680865/News/ROMAN_at_Manu_Korero_Nationals_2019.jpg
 news_author:
   date: 2019-09-12T00:24:34.880Z
   name: ''
