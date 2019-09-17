@@ -1,6 +1,7 @@
 ---
 title: Manu Korero Nationals 2019
 feature_image:
+  description: Roman Kotuhi Brown speaking at the Manu Korero Nationals 2019!
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568680865/News/ROMAN_at_Manu_Korero_Nationals_2019.jpg
 news_author:
