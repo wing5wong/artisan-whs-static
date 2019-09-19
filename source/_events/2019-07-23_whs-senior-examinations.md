@@ -1,6 +1,6 @@
 ---
 title: WHS Senior Examinations
-date: 2019-09-19T05:47:55.977Z
+date: 2019-09-20T05:47:55.977Z
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1567460745/2019_Snr_Exams.Sept.jpg
