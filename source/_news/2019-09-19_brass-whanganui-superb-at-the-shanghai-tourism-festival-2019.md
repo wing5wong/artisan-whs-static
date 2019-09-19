@@ -50,11 +50,14 @@ date: 2019-09-19T04:00:36.844Z
 
 Year 10 student Luke Squire and former students Sarah Wright, Ethan Mancer, Jonathon Greenwell, Hamish Jellyman, Dale Jellyman and Bruce Jellyman are all part of Brass Whanganui wooing crowds at the Shanghai Tourism Festival. 👍 🎶
 
-WOW what a fabulous experience!  
-You certainly did Wanganui and yourselves proud!!  👏 👏 
+WOW what a fabulous experience!
+
+You certainly did Wanganui and yourselves proud!!  👏
+ 👏
+
 Magnificent Brass Whanganui!! .. you smashed it! 👊 🤩 👏
 
-Photos and video of Opening Parade courtesy of Brass Whanganui Facebook page.
+Photos and video of Opening Parade courtesy of [Brass Whanganui Facebook page](https://www.facebook.com/BrassWhanganui/).
 
 Here is the Opening Parade (Brass Whanganui 52min 25sec into it)... definitely worth a watch!
 https://www.youtube.com/watch?v=lKdJF32nxtk&feature=youtu.be&fbclid=IwAR2uzN82CkV6G8RJyf4B95_NBfQnh7aTqt7mLGc61HPE0Cfe-QluuLt1dNw
