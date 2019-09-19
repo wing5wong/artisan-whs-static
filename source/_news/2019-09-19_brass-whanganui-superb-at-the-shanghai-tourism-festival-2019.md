@@ -57,3 +57,4 @@ Magnificent Brass Whanganui!! .. you smashed it! 👊 🤩 👏
 Photos and video of Opening Parade courtesy of Brass Whanganui Facebook page.
 
 Here is the Opening Parade (Brass Whanganui 52min 25sec into it)... definitely worth a watch!
+https://www.youtube.com/watch?v=lKdJF32nxtk&feature=youtu.be&fbclid=IwAR2uzN82CkV6G8RJyf4B95_NBfQnh7aTqt7mLGc61HPE0Cfe-QluuLt1dNw
