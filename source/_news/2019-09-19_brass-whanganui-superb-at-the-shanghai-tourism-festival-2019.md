@@ -3,7 +3,7 @@ title: Brass Whanganui superb at the Shanghai Tourism Festival 2019
 feature_image:
   credit: Brass Whanganui Facebook page.
   description: >-
-    Brass Whanganui performance at the Opening Parade of Shanghai Tourism
+    Brass Whanganui performing at the Opening Parade of Shanghai Tourism
     Festival 2019.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568865816/News/Brass%20WU%20in%20CHINA/1.Brass_WU.jpg
