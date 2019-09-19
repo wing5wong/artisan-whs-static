@@ -10,31 +10,31 @@ feature_image:
 news_author:
   date: 2019-09-19T04:00:36.791Z
 image_gallery:
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865816/News/Brass%20WU%20in%20CHINA/1a.Brass_WU.jpg
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865816/News/Brass%20WU%20in%20CHINA/2.Brass_WU.jpg
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865817/News/Brass%20WU%20in%20CHINA/3.Brass_WU.jpg
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865817/News/Brass%20WU%20in%20CHINA/4.Brass_WU.jpg
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865817/News/Brass%20WU%20in%20CHINA/6.Brass_WU.jpg
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865818/News/Brass%20WU%20in%20CHINA/7.Brass_WU.jpg
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865818/News/Brass%20WU%20in%20CHINA/8.Brass_WU.jpg
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865818/News/Brass%20WU%20in%20CHINA/9.Brass_WU.jpg
-  - description: Photo courtesy of Brass Whanganui Facebook page.
+  - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865816/News/Brass%20WU%20in%20CHINA/11.Brass_WU.jpg
   - description: Photo courtesy of Gordon Ririnui.
