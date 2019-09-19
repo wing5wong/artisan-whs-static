@@ -98,7 +98,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1567372478/School%20Policies/5.1_-Health_and_Safety_Policy_updated_August_2019.pdf
         policy: 5.1 Health and Safety
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372496/School%20Policies/5.2_-Emergencies_Policy_updated_August_2019.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1568853625/School%20Documents/Policies%20and%20Charter/5.2_-Emergencies_Policy_updated_October_2018.pdf
         policy: 5.2 Emergencies
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1567372515/School%20Policies/5.3_-Post-Disaster_Survival_Policy_updated_August_2019.pdf
