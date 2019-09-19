@@ -57,7 +57,7 @@ You certainly did Wanganui and yourselves proud!!  👏
 
 Magnificent Brass Whanganui!! .. you smashed it! 👊 🤩 👏
 
-Watch the link to view the Opening Parade (Brass Whanganui 52min 25sec into it)... definitely worth a watch!
+[Watch the link to view the Opening Parade](https://www.youtube.com/watch?v=lKdJF32nxtk&feature=youtu.be&fbclid=IwAR1ZutSX6lsdRS0kzV3nEA06MeOC4AhUHq8zjp2egQDaJnHMltoy4WKFn6c) (Brass Whanganui 52min 25sec into it)... definitely worth a watch!
 https://www.youtube.com/watch?v=lKdJF32nxtk&feature=youtu.be&fbclid=IwAR2uzN82CkV6G8RJyf4B95_NBfQnh7aTqt7mLGc61HPE0Cfe-QluuLt1dNw
 
 Photos and video of Opening Parade courtesy of [Brass Whanganui Facebook page](https://www.facebook.com/BrassWhanganui/).
