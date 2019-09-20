@@ -1,6 +1,6 @@
 ---
 title: Mr T. Pauro
-position: Maori
+position: Māori
 departments:
   - Physical Education and Health
   - Languages
@@ -8,3 +8,4 @@ positions:
   - department: Languages
     title: Teacher of Maori
 ---
+
