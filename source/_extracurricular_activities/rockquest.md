@@ -26,3 +26,5 @@ WHS Regional winners: 2016 'WHY VIBRATIONS'
 WHS Regional winners: 2017 'STRAIGHT LACE'
 
 WHS Regional winners: 2018 'THE REMNANT'
+
+WHS Regional winners: 2019 'IN BUSINESS'
