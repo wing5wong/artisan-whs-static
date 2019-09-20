@@ -1,6 +1,7 @@
 ---
 title: Mrs B. Rison
-position: 
+position: (on leave)
 departments:
   - Physical Education and Health
 ---
+
