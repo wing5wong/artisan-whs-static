@@ -16,10 +16,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568681644/News/BOYS.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568682185/News/Roopu.jpg
-faculties:
-  - The Arts
-subject_areas:
-  - Music
+faculties: []
+subject_areas: []
 extracurricular_areas: []
 show_in_slider: true
 date: 2019-09-17T00:24:34.927Z
