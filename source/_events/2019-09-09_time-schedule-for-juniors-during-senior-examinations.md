@@ -14,4 +14,4 @@ The time schedule for our Junior students will be altered slightly due to the Se
 | Period 3  | 11.30am | 12.30pm              |
 | Break     | 12.30pm | 1.05pm (35 minutes)  |
 | Period 4  | 1.05pm  | 2.05pm               |
-| Period 5  | 2.05pm  | 3.05pm               |
+               |
