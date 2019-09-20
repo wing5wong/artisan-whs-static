@@ -13,7 +13,7 @@ Break - 11:05am to 12:00pm.
 Period 3 - 12:00pm to 1:00pm.  
 Period 4 - 1:00pm to 2:00pm.
 
-Students released at 2:00pm.
+**Students released at 2:00pm.**
 
 Buses depart at normal times and the Library Homework Centre will be open as per normal until 4.30pm.
 
