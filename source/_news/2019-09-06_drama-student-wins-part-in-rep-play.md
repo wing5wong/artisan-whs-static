@@ -9,8 +9,7 @@ news_author:
   date: 2019-09-04T01:28:50.448Z
   name: Nadine Rayner
   publication: Whanganui Midweek
-extracurricular_areas:
-  - Performing Arts
+extracurricular_areas: []
 extracurricular_activities:
   - Drama
 show_in_slider: true
