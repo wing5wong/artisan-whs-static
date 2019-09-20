@@ -2,8 +2,6 @@
 title: Mr C. Friedel
 position: Deputy Principal (Awa House)
 departments:
-  - Deputy Principal
-  - Social Sciences
   - Vocational Studies
   - Senior Leadership Team
 image: >-
