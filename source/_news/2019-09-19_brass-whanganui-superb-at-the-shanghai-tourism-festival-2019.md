@@ -43,6 +43,10 @@ image_gallery:
   - description: Photo courtesy of Jaiden Currie.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568865816/News/Brass%20WU%20in%20CHINA/12.Brass_WU.Jaiden_Currie.jpg
+faculties:
+  - The Arts
+subject_areas:
+  - Music
 show_in_slider: true
 date: 2019-09-19T04:00:36.844Z
 ---
