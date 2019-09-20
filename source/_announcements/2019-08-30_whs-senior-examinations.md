@@ -1,18 +1,19 @@
 ---
-title: WHS Senior Examinations
+title: 'Students released at 2:00pm - Inter-school Moderation'
 is_emergency: false
-date: 2019-09-11T21:06:17.505Z
-subtitle: Thursday 12 September - Friday 20 September
+date: 2019-09-22T21:06:17.505Z
+subtitle: Monday 23 September 2019
 image: ''
 ---
-Thursday 12 September - Friday 20 September
 
-The [Senior exam timetable](https://res.cloudinary.com/whanganuihigh/image/upload/v1567463354/Events/2019_Snr_Exams.Sept.pdf) has been confirmed and is live on the student pages (in the Google bookmarks).
+Due to inter-school NCEA moderation sessions, students will be released at 2:00pm on Monday 23 September.
 
-You will all get a **personalised exam timetable** in your SCHOOL email (access also in the Google bookmarks). 
+Form Time and period 1 and 2 are as normal.
+Break - 11:05am to 12:00pm.
+Period 3 - 12:00pm to 1:00pm.
+Period 4 - 1:00pm to 2:00pm.
 
-Good Luck!
+Students released at 2:00pm.
 
-Please ensure that you read the examination instructions which were sent to you with your personalised examination timetable. It is important that you understand the rules - writing equipment has to be in a clear plastic bag; hair has to be tied up; no watches are to be worn; telephones have to be turned off and placed under the desk. Make sure you have spare pens; don't forget your calculator if you are allowed to use it. Go to the Hall to check which room your exam is in. If possible, don't bring your school bag, just bring your equipment. Wear correct school uniform.
+Buses depart at normal times and the Library Homework Centre will be open as per normal until 4.30pm.
 
-**Exams start at 9.05am and 1.10pm - BE ON TIME!**
