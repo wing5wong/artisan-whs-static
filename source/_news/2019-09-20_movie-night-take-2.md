@@ -5,7 +5,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1568155512/Events/Shrek_2_small.jpg
 news_author:
   date: 2019-09-20T02:37:22.310Z
-show_in_slider: true
+show_in_slider: false
 date: 2019-09-20T02:37:22.326Z
 ---
 **SHREK 2 coming to you on the big screen!** 
