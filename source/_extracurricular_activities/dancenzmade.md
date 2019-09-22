@@ -12,12 +12,11 @@ image: >-
 ---
 Students are able to participate in New Zealand’s Interschool and Interstudio workshop and competition event. DanceNZmade philosophy is ‘Celebrating and encouraging the arts in any forms is one of life’s pleasures’. Whanganui High School has gained success in the DanceNZmade competition over the past years. Highlights for our DanceNZmade students
 
-
-
-**Who can join:**	Students can audition. Auditions are usually held Term Two.
+**Who can join:** Students can audition. Auditions are usually held Term Two.
 
 **When:** Practice times vary, and are set once team formed.
 
 **Event:** DanceNZmade
 
-**Cost:** Cost varies depending on number of dance routines
+**Cost:** Cost varies depending on number of dance 
+routines
