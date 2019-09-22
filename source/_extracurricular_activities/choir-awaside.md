@@ -11,8 +11,6 @@ blocks: []
 ---
 AwaSide is an all-comers, un-auditioned choir, for students who love to sing and are keen to develop their vocal abilities. We sing a range of styles and have a lot of fun along the way. Highlights for our choir include: three successful trips to Sydney to compete in the Australian International Music Festival where the choir has gained silver medals and the bronze award in the Cadenza Competition, part of the NZ Big Sing.
 
-
-
 **Who:** All students
 
 **When:** Rehearsals are held twice a week during breaks.
@@ -22,3 +20,5 @@ AwaSide is an all-comers, un-auditioned choir, for students who love to sing and
 **Cost:** Travel to The Big Sing
 
 [Click here to watch the video of AwaSide Choir practice for first Cadenza competition](https://www.nzherald.co.nz/wanganui-chronicle/news/article.cfm?c_id=1503426&objectid=12256421)
+
+_Image from: Whanganui Chronicle 16/08/19_
