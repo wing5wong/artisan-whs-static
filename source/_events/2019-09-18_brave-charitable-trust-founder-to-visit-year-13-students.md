@@ -5,4 +5,4 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1568764721/Events/Jessica_Tyson.Brave_trust.jpg
 ---
-Former student Jessica Tyson will be talking about the Brave Charitable Trust that she founded to Year 13 students at assembly today.
+Former student Jessica Tyson will be talking about the Brave Charitable Trust that she founded to Year 13 students at assembly on Friday 27 September.
