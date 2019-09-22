@@ -1,0 +1,61 @@
+---
+title: Duke of Edinburgh's Hillary Award
+date: 2019-09-22T22:27:13.032Z
+people:
+  - name: Mr C. Adam
+    role: Teacher in Charge
+  - name: Mrs M. Bennetts
+    role: Teacher in Charge
+  - name: Mrs J. de Smidt
+    role: Teacher in Charge
+  - name: Ms R. Kennedy
+    role: Teacher in Charge
+  - name: Mrs J. Dunn
+    role: Teacher in Charge
+extracurricular_area: Other
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1569191787/Performing%20Arts/Duke_of_Ed.jpg
+---
+Whanganui High School provides the opportunity for students to gain the Duke of Edinburgh Hillary Award at Bronze, Silver and Gold levels. Students work on four sections at each level; Skills, Service, Physical Recreation and an Adventurous Project. The first three sections are completed by students independently out of school time and the Adventurous Project section is organised by staff as a group activity.
+
+
+
+**Who can join:** Students from the ages of 14yrs to 25yrs.
+
+**When:** Registrations for any section can occur throughout the year (dependent on a student’s age). Meetings are advertised in the Daily Notices.
+
+**Events:**	                                                                                                                                                         
+
+**_Bronze (14yrs+)_**	
+
+* Skills
+* Service
+* Physical Recreation
+* 2 sections for 3 months and 1 section for 6 months
+* Adventurous Project 2 days/1 night
+
+_**Silver (15yrs+)**_
+
+* Skills
+* Service
+* Physical Recreation
+* All 3 sections 6 months each if Bronze is completed.
+* Adventurous Project 3 days/2 nights
+
+_**Gold (16yrs+)**_
+
+* Skills
+* Service
+* Physical Recreation
+* All 3 sections 12 months each if Silver is completed.
+* Adventurous Project 4 days 3 nights
+* Residential Course 5 days/4 nights
+
+**Cost:** Students will need to cover trip costs.
+
+**Teachers-in-charge:** 
+
+* Expeditions - Mr C Adam and Mrs M Bennetts
+* Gold – Mrs J de Smidt
+* Silver - Mrs R Kennedy
+* Bronze - Mrs J Dunn
