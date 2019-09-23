@@ -10,8 +10,7 @@ image: >-
 ---
 Writers’ Club is a place to work on your writing, meet other writers, share your work, and get help and feedback. It is open to all ability levels and any kind of writing – fiction, non-fiction, short stories, novels, poems, scripts, and everything in between.
 
+**Who can join:** All students
 
-
-**Who can join:**	All students
-
-**When:** Meetings are on during first break every Wednesday in H3.
+**When:** Meetings are on during first break every Wednesday in H3
+.
