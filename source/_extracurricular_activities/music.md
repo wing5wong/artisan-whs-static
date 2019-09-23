@@ -1,38 +1,29 @@
 ---
 title: Music
 date: 2019-08-27T03:53:41.928Z
+people:
+  - name: Mrs J. Jones
+    role: Teacher in Charge
 extracurricular_area: Performing Arts
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1566878055/Performing%20Arts/Music.png
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1569199921/Performing%20Arts/Music_Tuition.jpg
 ---
-Outside of class time there's plenty of scope for those who wish to learn an instrument, join the School Choir, form their own Rock Band, or Chamber Music group. 
-
-A lot of students are involved in the School Production as singers and instrumentalists and they play an important role in ensuring that the show is a success.
+Outside of class time there’s plenty of scope for those who wish to learn an instrument. Music tuition is available upon request to students throughout the year. In any given year, some instruments are limited by student numbers and the availability of tutors. There are on-going assessments by tutors. External music exams may be taken by some students.
 
 
 
-## Choir
+**Instruments:**
 
-The Choir is open to all age groups who wish to apply for an audition.
+* Woodwind (Flute, Clarinet, Saxophone) - Mr G Herdman
+* Strings (Violin, Viola, Cello) - Mrs A Hunt
+* Piano/Keyboard - Mrs M Brooks
+* Brass (Trumpet, Cornet, Trombone, Tuba, Tenor Horn) - Mr B Jellyman
+* Guitar (Electric - Lead and Bass, Acoustic) - Mr F Loveridge
+* Drums - Mr M Franklin-Browne
+* Voice - Mrs M Brooks
 
-A highlight has been the three successful trips to Sydney to compete in the Australian International Music Festival where the choir has gained silver medals. 
+**Who:** All students
 
+**When:** Students to come out of normal classes for 20-30 minutes per week.
 
-
-## Jazz Band
-
-Membership is by invitation after auditions.
-
-
-
-## Music Lessons
-
-The School offers Itinerant Music lessons for Violin, Cello, Clarinet, Saxophone, Guitar, Piano, Drums, Flute, Voice and Brass Instruments.
-
-
-
-## Chamber Music Contest
-
-The annual Chamber Music Contest provides an opportunity for students of all levels and ages to form a group and enter the contest.
-
-Students can also apply for a music pass to gain access to the recording studio and control room or one of the five well equipped practice rooms.
+**Cost:** $60 per year ($15 per term). The school provides information on instrumental hire and purchase early in year.
