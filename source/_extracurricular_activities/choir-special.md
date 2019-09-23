@@ -21,4 +21,6 @@ potentially to the Finale or Cadenza location.
 
 [Click here to watch the video of our School Choir practice for first Cadenza competition](https://www.nzherald.co.nz/wanganui-chronicle/news/article.cfm?c_id=1503426&objectid=12256421)
 
+[Click here to watch the video of 2016 School Choir at Sydney Opera House ](https://www.youtube.com/watch?v=SpRHtCeD0xQ)
+
 _Image from: Whanganui Chronicle 16/08/19_
