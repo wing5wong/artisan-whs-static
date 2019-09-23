@@ -12,6 +12,21 @@ Stage Art is a dance, drama and design spectacular where the students are the st
 
 
 
+**Highlights for our Stage Art groups are:**
+
+_**DanceNZMade Stage Art**_
+
+* 2018 – Regional Winners ‘Uncovering Alice’
+
+_**Smokefree Stage Challenge**_
+
+* 2016 – Regional & National Winners ’29 Below’ [ video clip](https://www.youtube.com/watch?v=hw6ZV-Jxc4w)
+* 2014 – Regional Winners ‘Invisible Children’
+* 2013 - Regional Winners
+* 2012 – Regional Winners ‘Where There's Smoke there's Fire’
+* 2009 – 2nd Place Nationally ‘Women’s Suffrage’
+* 2004 – National Winners
+
 **Who can join:** All year groups by audition
 
 **When:** It runs generally in Term 2 of every alternate year to our major Production year.
@@ -19,5 +34,7 @@ Stage Art is a dance, drama and design spectacular where the students are the st
 **Event:** DanceNZmade Stage Art competition in Palmerston North
 
 **Cost:** $60-$100 cost may vary 
+
+
 
 _Photo from Whanganui Chronicle 10/09/18_
