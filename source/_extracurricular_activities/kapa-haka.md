@@ -12,4 +12,8 @@ Kapa haka plays a vital role in the culture of our school. Our performance group
 
 > _Kua tu te ropu kapahaka o Kia Whaiora i roto nga whakataetae huri noa i te motu, te rohe hoki, a ka tu rangatira i roto i nga kaupapa nui o te kura._
 
+__
+
+[Click here to view video of Kia Whaiora's performance at 2016 Performing Arts Concert](https://www.youtube.com/watch?v=9hkl_kPJFJw)
+
 _Image from: Rivercity Press 11/07/19_
