@@ -5,6 +5,8 @@ feature_image:
   description: >-
     Whanganui Hispanic Arts Group Beverly Stuart (left), Marilyn Wilkie, Andrea
     Gardner and Queralt Scott with Wellington visitors Mariachi Aotearoa.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1569207058/News/LatinSpain_Film_Fest.Beverly.Queralt.Marilyn_Chron_21.9.jpg
 news_author:
   date: 2019-09-21T00:48:11.875Z
   name: Liz Wylie
