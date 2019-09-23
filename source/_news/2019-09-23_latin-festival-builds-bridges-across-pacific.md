@@ -11,7 +11,7 @@ news_author:
   date: 2019-09-21T00:48:11.875Z
   name: Liz Wylie
   publication: Whanganui Chronicle
-show_in_slider: true
+show_in_slider: false
 date: 2019-09-23T00:48:11.902Z
 ---
 The Latin American and Spanish Film Festival (LASFF) wraps up in Whanganui next week with a final screening at the Davis Theatre.
