@@ -1,30 +1,31 @@
 ---
 title: Rockquest
 date: 2019-08-27T04:16:30.141Z
+people:
+  - name: Mrs J. Jones
+    role: Teacher in Charge
 extracurricular_area: Performing Arts
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566878810/Performing%20Arts/Rockquest.jpg
 ---
-Rockquest is an annual competition; students form Rock Bands or enter as a Solo/Duo Act.
-
-The groups compose music, perform regionally and vie for a position in the National Finals.
+The Smokefreerockquest is an opportunity for students to participate in New Zealand's only nationwide, live, original music, youth event. The Rockquest aims to motivate young musicians to prove their ability and realise the heights they can reach in their music careers, and to encourage their peers to support 100% original New Zealand music. The categories you can enter in are either band or solo/duo acts.
 
 
 
-WHS NATIONAL WINNERS: 2002 'THE HAVE'
+**Highlights for our Rockquest groups are:**
 
-WHS Regional winners: 2009
+* 2019 Regional Winners – ‘In Business’
+* 2018 Regional Winners – ‘The Remnant’
+* 2017 Regional Winners – ‘Straight Lace’
+* 2016 Regional Winners – ‘Why Vibrations’
+* 2015 Regional Winners – ‘Contraband’
+* 2011 Runner Up
+* 2010 Runner Up
+* 2009 Regional Winners
+* 2002 National Winners – ‘The Have’
 
-WHS Runner up: 2010
+**When:** Entries at start of year for the competition which begins in May.
 
-WHS Runner up: 2011
+**Event:** Smokefreerockquest
 
-WHS Regional winners: 2015 'CONTRABAND' 
-
-WHS Regional winners: 2016 'WHY VIBRATIONS'
-
-WHS Regional winners: 2017 'STRAIGHT LACE'
-
-WHS Regional winners: 2018 'THE REMNANT'
-
-WHS Regional winners: 2019 'IN BUSINESS'
+_Photo from Whanganui Chronicle 10/06/19_
