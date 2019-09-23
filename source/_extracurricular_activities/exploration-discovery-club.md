@@ -4,7 +4,7 @@ date: 2019-09-22T22:38:16.739Z
 people:
   - name: Mr B. Hunter
     role: Teacher in Charge
-extracurricular_area: Other
+extracurricular_area: Performing Arts
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1567471599/Performing%20Arts/Exploration_Club.jpg
 ---
