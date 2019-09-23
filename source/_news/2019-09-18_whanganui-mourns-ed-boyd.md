@@ -11,7 +11,7 @@ news_author:
   date: 2019-09-16T22:33:37.660Z
   name: Liz Wylie
   publication: Whanganui Chronicle
-show_in_slider: true
+show_in_slider: false
 date: 2019-09-17T22:33:37.705Z
 ---
 Ed Boyd's wife Hinemoa and his children are mourning the loss of "a beautiful man" and Whanganui mourns with them.
