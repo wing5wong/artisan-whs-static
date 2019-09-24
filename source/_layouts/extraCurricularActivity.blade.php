@@ -25,6 +25,33 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
 @include('_partials.page.feature-image')
 
 
+@php
+    $personInCharge = $staff->firstWhere('title', $page->person_in_charge);
+@endphp
+@if($personInCharge)
+<h3>Person in charge</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            @if($personInCharge->phone)
+            <th>Phone</th>
+            @endif
+            @if($personInCharge->email)
+            <th>Email</th>
+            @endif
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{ $personInCharge->title ?? '' }}</td>
+            @if($personInCharge->phone)<td>{{ $personInCharge->phone ?? '' }}</td>@endif
+            @if($personInCharge->email)<td>{{ $personInCharge->email ?? '' }}</td>@endif
+        </tr>
+    </tbody>
+</table>
+@endif
+
 
 <h3>Key Information</h3>
 
