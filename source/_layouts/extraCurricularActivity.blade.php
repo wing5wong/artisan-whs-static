@@ -75,8 +75,8 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
             <tr>
                 <td>{{ $involved["person"]["title"] }}</td>
                 <td>{{ $involved["role"] }}</td>
-                <td>{{ isset($involved["person"]["phone"]) ?: '' }}</td>
-                <td>{{ isset($involved["person"]["email"]) ?: '' }}</td>
+                <td>{{ isset($involved["person"]["phone"]) ? $involved["person"]["phone"] : '' }}</td>
+                <td>{{ isset($involved["person"]["email"]) ? $involved["person"]["email"] : '' }}</td>
             </tr>
             @endforeach
         @endif

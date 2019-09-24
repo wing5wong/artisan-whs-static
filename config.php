@@ -310,7 +310,7 @@ return [
         'staff' => [
             'section' => 'postContent',
             'tags' => [],
-            'phone' => '3490178',
+            'phone' => '',
             'email' => ''
         ],
         'subject_areas' => [
