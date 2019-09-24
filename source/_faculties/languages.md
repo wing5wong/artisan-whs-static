@@ -2,9 +2,11 @@
 title: Languages
 maori_title: Te Korero me Nga Reo
 date: 2019-06-28T01:00:00.000Z
+is_teaching_faculty: true
 tags:
   - About WHS
-image: ''
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1569289465/faculties/Languages_-_combined.jpg
 intro: >-
   In studying Languages, students learn to communicate in another language,
   develop their capacity to learn further languages, and explore different world
