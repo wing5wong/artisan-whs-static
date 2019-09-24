@@ -1,5 +1,5 @@
 ---
-title: Music
+title: Music Tuition
 date: 2019-08-27T03:53:41.928Z
 people:
   - name: Mrs J. Jones
