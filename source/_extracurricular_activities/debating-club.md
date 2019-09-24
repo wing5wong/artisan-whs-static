@@ -16,11 +16,10 @@ image: >-
 ---
 Senior debating teams. Debating enables students to learn the art of persuasion, research skills and public speaking skills. Our school teams prepare to compete in local, regional, and national tournaments. 
 
+**Who can join:** All Students (students may also be interested 
+in adjudicating)
 
-
-**Who can join:** All Students (students may also be interested in adjudicating)
-
-**When:** Meet fortnightly during a interval. Closer to Junior regional competitions (which take place once a term) we meet most breaks.
+**When:** Meet fortnightly during interval. Closer to Junior regional competitions (which take place once a term) we meet most breaks.
 
 **Event:** Local, Regional and National competitions. The Central North Island Regional Competition is for Senior students and is run over a weekend in March or April.
 
