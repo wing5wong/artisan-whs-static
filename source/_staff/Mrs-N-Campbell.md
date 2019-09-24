@@ -6,6 +6,6 @@ departments:
 positions:
   - department: The Arts
     title: HOF Performing & Visual Arts
-phone: 3490178
+phone:
 email:
 ---
