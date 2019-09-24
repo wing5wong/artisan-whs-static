@@ -1,5 +1,5 @@
 ---
-title: Litter Free lunch
+title: Litter Free Lunch Day
 date: 2019-09-26T20:37:01.351Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1569361476/Events/litter-free-poster.800-more-writing.jpg
