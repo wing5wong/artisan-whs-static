@@ -1,6 +1,8 @@
 ---
 title: Health Nurse
 date: 2019-06-26T21:56:17.468Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1569369022/facilities/School_nurses.jpg
 description: >
   The public health nurse for our school is Michelle and Jo. They visit our
   school every Monday, Wednesday and Thursday during the school term.They are
