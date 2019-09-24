@@ -12,9 +12,7 @@ image: >-
 ---
 Magic: The Gathering Club is a table top card game. The game is challenging, fun and competitive. It is a social game where a high standard of behaviour and sportsmanship is expected. 
 
-
-
-**Who:** Anyone is welcome to join.
+**Who can join:** Anyone is welcome to join.
 
 **When:** We meet every lunchtime in E4.
 
