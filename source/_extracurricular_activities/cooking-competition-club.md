@@ -10,9 +10,7 @@ image: >-
 ---
 This is an opportunity for students to cook and compete in a commercial kitchen environment, designing and refining recipes and presenting them to quality restaurant standard.
 
-
-
-**Who:** Any Senior student with a passion for cooking.
+**Who can join:** Any Senior student with a passion for cooking.
 
 **When:** Practices are usually Friday Period 5 but are variable depending on the nature of the competition.
 
