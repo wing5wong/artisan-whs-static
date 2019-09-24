@@ -11,8 +11,6 @@ image_gallery: []
 ---
 Outside of class time there’s plenty of scope for those who wish to learn an instrument. Music tuition is available upon request to students throughout the year. In any given year, some instruments are limited by student numbers and the availability of tutors. There are on-going assessments by tutors. External music exams may be taken by some students.
 
-
-
 **Instruments:**
 
 * Woodwind (Flute, Clarinet, Saxophone) - Mr G Herdman
@@ -23,7 +21,7 @@ Outside of class time there’s plenty of scope for those who wish to learn an i
 * Drums - Mr M Franklin-Browne
 * Voice - Mrs M Brooks
 
-**Who:** All students
+**Who can join:** All students
 
 **When:** Students to come out of normal classes for 20-30 minutes per week.
 
