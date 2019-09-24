@@ -4,7 +4,7 @@ date: 2019-09-26T20:37:01.351Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1569361476/Events/litter-free-poster.800-more-writing.jpg
 ---
-Whanganui High School Student Council have put together the schools very first litter free lunch day, to be held on the last Friday of this term. 
+Whanganui High School Student Council have put together the schools very first Litter Free Lunch Day, to be held on the last Friday of this term. 
 
 In an effort to reduce the rubbish around the school and improve environmental sustainability, students have been taught in assemblies some more environmentally friendly alternatives to plastic, and have been asked to come to school with a litter-free lunchbox. 
 
