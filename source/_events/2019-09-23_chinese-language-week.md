@@ -1,20 +1,16 @@
 ---
 title: Chinese Language Week
-date: 2019-09-24T22:01:21.123Z
+date: 2019-09-25T22:01:21.123Z
 ---
-Zao shang hao, everyone. 
+As Confucius says: When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps. 
 
-Thanks for participating in the daily quiz. 
+Yesterday winners: Jemma Tan, Angus Pitkethley, Odette Tofa and Akinyele Godfavour. Congratulations. 
 
-Yesterday winners are: Celtic White, Georgia Hiscotte, Kevin Chen, Louise and Robyn from Student Centre. Well done. 
+Today’s quiz: A 'fenghuang' is the name of a Chinese mythical creature, usually translated as what? The answer is not dragon. 
 
-As Confucius says: Our greatest glory is not in never falling, but in rising every time we fall. 
+By the way, there is a Chinese Karaoke at 1st break today in L3. Turn up if you enjoy singing or Chinese music. 
 
-Today’s question is: What is this country 新西兰？  
-Clue: you can use either dictionary or draw it on Google translate. 
-
-Good luck :-)
-
+Have a good day.
 
 _Mr Ding  
 Teacher of Chinese_
