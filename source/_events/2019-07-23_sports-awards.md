@@ -8,7 +8,7 @@ Tickets this year are $10. We will NOT be having a supper, instead there will be
 
 Tickets are on sale in the Student Centre or Main Office at school.
 
-Dress:
+Dress Semi Formal:
 Male - Shirt & Tie, Dress Shoes
 Female - Cocktail Dress / or Similar
 
