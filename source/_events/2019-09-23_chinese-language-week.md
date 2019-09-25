@@ -12,7 +12,7 @@ As Confucius says: Our greatest glory is not in never falling, but in rising eve
 
 Today’s question is: What is this country 新西兰？Clue: you can use either dictionary or draw it on Google translate. 
 
-Good luck:-)
+Good luck :-)
 
 
 _Mr Ding  
