@@ -12,7 +12,7 @@ When: Saturday 28 September and Sunday 29 September
 Where: Royal Wanganui Opera House  
 Time: 3.00pm 
 
-Good luck to all of our Dancers performing in Thumbelina & A Showcase of Dance.  Also featuring WHS musicians playing in the Beetle Ball Band - Max Hughes, Tomas Bidgood, Luke and Caleb Squire, Christian Garratt and Daniel Goodwin; and soloists Nat Kirk and Eve Parker-Groves.
+Good luck to all of our Dancers performing in Thumbelina & A Showcase of Dance.  Also featuring WHS Musicians playing in the Beetle Ball Band - Max Hughes, Tomas Bidgood, Luke and Caleb Squire, Christian Garratt and Daniel Goodwin; and soloists Nat Kirk and Eve Parker-Groves.
 
 Expect an entertaining afternoon of dance, music, fantastic costumes, custom set designs and more!
 
