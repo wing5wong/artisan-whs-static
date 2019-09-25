@@ -16,7 +16,7 @@ Students are able to participate in New Zealand’s Interschool and Interstudio 
 
 **When:** Practice times vary, and are set once team formed.
 
-**Event:** DanceNZmade
+**Event:** DanceNZmade competition (Regional and National levels)
 
 **Cost:** Cost varies depending on number of dance 
 routines
