@@ -16,6 +16,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1569361044/News/HR.Survival%20Trip.Supported%20Learning/20190919_100042.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1569361042/News/HR.Survival%20Trip.Supported%20Learning/20190919_121124.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1569361043/News/HR.Survival%20Trip.Supported%20Learning/20190919_094222.jpg
 show_in_slider: true
 date: 2019-09-24T21:16:30.823Z
 ---
