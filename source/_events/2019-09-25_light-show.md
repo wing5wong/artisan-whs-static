@@ -15,4 +15,4 @@ Time: 6.30pm - 8.30pm.
 All the best to our bands In Business, Ocean Loaf and Rhythm Vision who will feature for half an hour from **6.00pm** in the lead up to the [Laser Light Show](http://www.whanganuivenues.co.nz/eventcalendar/event/68-hospice-light-show).
 
 
-Trucks will be available within Cooks Gardens or you can bring your own picnic.
+Food trucks will be available within Cooks Gardens or you can bring your own picnic.
