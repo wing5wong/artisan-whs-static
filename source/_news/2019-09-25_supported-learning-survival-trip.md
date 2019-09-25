@@ -28,7 +28,7 @@ We spent a couple of hours in the morning at Lazer Overload, stopped for lunch a
 Congratulations and well done to the following:  
 Pounamumairangi Ngarotata-Ansell - organised the van hire  
 Mason Pye - organised Lazer Overload  
-Keaton Rawson - organised lunch at the Barracks  
+Keaton Rawson - organised lunch at The Barracks  
 Hayley Poari - organised all communication with parents  
 Oceanrose Mallett - tracked payments  
 Shaima Shafiq - tracked permission slips  
