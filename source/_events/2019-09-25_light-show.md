@@ -1,5 +1,5 @@
 ---
-title: WHS Bands open Light Show
+title: WHS Bands open Light Show!
 date: 2019-10-14T00:25:09.439Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1569374760/Events/light_show_billboard_image.jpg
