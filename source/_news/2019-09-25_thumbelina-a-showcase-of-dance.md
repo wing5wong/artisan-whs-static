@@ -8,7 +8,7 @@ news_author:
 show_in_slider: false
 date: 2019-09-25T01:02:10.007Z
 ---
-\*\*Thumbelina & A Showcase of Dance\*\*
+**Thumbelina & A Showcase of Dance**
 
 When: Saturday 28 September and Sunday 29 September  
 Where: Royal Wanganui Opera House  
