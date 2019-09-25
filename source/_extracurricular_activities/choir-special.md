@@ -8,7 +8,7 @@ extracurricular_area: Performing Arts
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1569187849/Performing%20Arts/Choir.jpg
 ---
-In 2020, students will be able to audition to be part of a special choir of 16-20 singers, who’s focus will be competing at The Big Sing.
+In 2020, students will be able to audition to be part of a special choir of 16-20 singers, whose focus will be competing at The Big Sing.
 
 **Who can join:** Students will audition to be part of this
 
