@@ -6,7 +6,7 @@ image: >-
 ---
 **SHREK 2 coming to you on the big screen!** 
 
-The Cultural Prefects present a final movie night on Thursday 26 September (week 10) at 6.15pm - 8.30pm in the Hall.
+The Cultural Prefects present a final movie night on Thursday 26 September, 6.15pm - 8.30pm in the School Hall.
 
 ALL FUNDS will go towards a portable sound system for the whole school to use.
 
