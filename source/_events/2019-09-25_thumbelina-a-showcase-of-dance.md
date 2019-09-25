@@ -12,8 +12,6 @@ Good luck to all of our Dancers performing in Thumbelina & A Showcase of Dance. 
 
 Tickets can be purchased from [Royal Wanganui Opera House Booking Office](https://www.facebook.com/events/350862702457938/)  
 
-Monday - Friday 10am-4pm : 69 St Hill Street : Ph 06 349 0511
-
 Expect an entertaining afternoon of dance, music, fantastic costumes, custom set designs and more!
 
 See you there!!
