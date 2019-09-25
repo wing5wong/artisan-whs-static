@@ -16,4 +16,6 @@ Good luck to all of our Dancers performing in Thumbelina & A Showcase of Dance. 
 
 [Tickets and information](https://www.facebook.com/events/royal-wanganui-opera-house/smsd-presents-thumbelina-a-showcase-of-dance/350862702457938/)
 
+Expect an entertaining afternoon of dance, music, fantastic costumes, custom set designs and more!
+
 See you there!!
