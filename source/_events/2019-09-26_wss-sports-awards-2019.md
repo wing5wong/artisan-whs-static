@@ -6,6 +6,7 @@ image: >-
 ---
 Nominations open: Monday 19 August
 Nominations close: Friday 4 October
+[Nominate Now](https://sportwhanganui.co.nz/nominate-now/)
 
 Whanganui Secondary Schools Sports Awards are on Wednesday 30 October at Whanganui Collegiate School Auditorium at 5.15pm.  
 Awards commence 5.30pm sharp!
