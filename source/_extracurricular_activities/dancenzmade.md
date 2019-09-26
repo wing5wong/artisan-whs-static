@@ -10,7 +10,7 @@ extracurricular_area: Performing Arts
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1569190320/Performing%20Arts/DanceNZmade.jpg
 ---
-Students are able to participate in New Zealand’s Interschool and Interstudio workshop and competition event. DanceNZmade philosophy is ‘Celebrating and encouraging the arts in any forms is one of life’s pleasures’. Whanganui High School has gained success in the DanceNZmade competition over the past years. Highlights for our DanceNZmade students
+Students are able to participate in New Zealand’s Interschool and Interstudio workshop and competition event. DanceNZmade philosophy is ‘Celebrating and encouraging the arts in any forms is one of life’s pleasures’. Whanganui High School has gained success in the DanceNZmade competition over the past years. 
 
 **Who can join:** Students can audition. Auditions are usually held Term Two.
 
