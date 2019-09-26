@@ -1,6 +1,6 @@
 ---
 title: School Uniform
-date: 2019-09-25T21:44:11.339Z
+date: 2019-09-26T21:44:11.339Z
 ---
 Students may choose to wear either summer or winter uniform for the last week of term. 
 
