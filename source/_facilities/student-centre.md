@@ -2,7 +2,7 @@
 title: Student Centre
 date: 2019-06-26T21:56:17.468Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569537033/Performing%20Arts/Student_Centre.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1569537260/facilities/Student_Centre.jpg
 description: >
   The Student Centre is the place for students and parents to come to find out
   about anything to do with the practicalities of the school day. Opening hours
