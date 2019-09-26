@@ -13,7 +13,7 @@ date: 2019-09-26T03:35:30.821Z
 
 Dear Parents/Caregivers
 
-Re: Student Protest Action for Climate change
+Re: Student Protest Action for Climate Change
 
 There will be student protest action throughout New Zealand on Friday, 27 September regarding climate change issues.
 
