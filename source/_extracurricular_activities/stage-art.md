@@ -10,22 +10,20 @@ image: >-
 ---
 Stage Art is a dance, drama and design spectacular where the students are the stars. It is part of a national event involving dance, design and drama reflecting the personalities, concerns, hopes, dreams and interests of students. Each performance runs between five and eight minutes and is set to a medley of published and recorded music tracks. It is where students work together with parents, teachers and their local community to create their performance. Hours of rehearsal and hard work result in a performance to thousands of audience members across New Zealand.
 
-
-
 **Highlights for our Stage Art groups are:**
 
-_**DanceNZMade Stage Art**_
+**_DanceNZMade Stage Art_**
 
 * 2018 – Regional Winners ‘Uncovering Alice’
 
-_**Smokefree Stage Challenge**_
+**_Smokefree Stage Challenge_**
 
-* 2016 – Regional & National Winners ’29 Below’ [ video clip](https://www.youtube.com/watch?v=hw6ZV-Jxc4w)
+* 2016 – Regional & National Winners ’29 Below’
+  [ video clip](https://www.youtube.com/watch?v=hw6ZV-Jxc4w)
 * 2014 – Regional Winners ‘Invisible Children’
-* 2013 - Regional Winners
 * 2012 – Regional Winners ‘Where There's Smoke there's Fire’
 * 2009 – 2nd Place Nationally ‘Women’s Suffrage’
-* 2004 – National Winners
+* 2004 – National Winners 'Scratch the Surface'
 
 **Who can join:** All year groups by audition
 
@@ -34,7 +32,5 @@ _**Smokefree Stage Challenge**_
 **Event:** DanceNZmade Stage Art competition in Palmerston North
 
 **Cost:** $60-$100 cost may vary 
-
-
 
 _Photo from Whanganui Chronicle 10/09/18_
