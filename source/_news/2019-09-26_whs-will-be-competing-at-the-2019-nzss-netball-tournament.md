@@ -8,7 +8,7 @@ news_author:
 show_in_slider: true
 date: 2019-09-26T05:37:37.085Z
 ---
-**Our Phillip Electrical A1 Netball Team will be travelling to Nelson in the second week of the school holidays for the 2019 NZSS Netball Championships!!**
+**Our Phillips Electrical A1 Netball Team will be travelling to Nelson in the second week of the school holidays for the 2019 NZSS Netball Championships!!**
 
 [Click here to get the NZSS Netball Tournament Profile of Whanganui High School.](https://www.collegesportmedia.co.nz/netball/nzss-netball-tournament-profile-whanganui-high-school?fbclid=IwAR1spbbo8Yttwb2oLri_7uqFR3BS7XFvt_c9uLtiM85f1ITpkVdylvAHgBs)
 
