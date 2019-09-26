@@ -12,5 +12,5 @@ date: 2019-09-26T05:37:37.085Z
 
 [Click here to get the NZSS Netball Tournament Profile of Whanganui High School.](https://www.collegesportmedia.co.nz/netball/nzss-netball-tournament-profile-whanganui-high-school?fbclid=IwAR1spbbo8Yttwb2oLri_7uqFR3BS7XFvt_c9uLtiM85f1ITpkVdylvAHgBs)
 
-GO TEAM!!  
-Safe Travels and Good Luck!!
+**GO TEAM!!  
+Safe Travels and Good Luck!!**
