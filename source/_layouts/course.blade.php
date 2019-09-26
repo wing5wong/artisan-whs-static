@@ -27,7 +27,6 @@ $faculty = $faculties->firstWhere('title',$subject->faculty);
 </ul>
 
 <table class="my-5 table table table-bordered table-striped table-hover">
-
     @if($page->entry_requirements)
     <tr>
         <td colspan='4' class="bg-success text-white">
