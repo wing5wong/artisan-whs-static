@@ -2,7 +2,7 @@
 title: PEX0
 name: Physical Education & Health - Extension
 code: PEX0
-subject_area: Health
+subject_area: P.E/Health
 date: 2019-09-26T22:38:11.276Z
 year: '10'
 type: Compulsory
