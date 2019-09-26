@@ -10,5 +10,5 @@ Hopefully you enjoy the Chinese language week, there is a GONG FU master at one 
 
 Enjoy your holidays and keep up Chinese
 
-_Mr Ding_\
+_Mr Ding_  
 _Teacher of Chinese_
