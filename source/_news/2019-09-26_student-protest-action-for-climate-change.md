@@ -28,7 +28,7 @@ As you have conversations with your son or daughter regarding their attendance a
 
 Kind regards
 
-Martin McAllen
-PRINCIPAL
+Martin McAllen  
+PRINCIPAL  
 Whanganui High School
 
