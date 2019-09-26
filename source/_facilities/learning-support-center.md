@@ -1,6 +1,8 @@
 ---
 title: Learning Support Centre
 date: 2019-06-26T21:56:17.468Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1569382089/Performing%20Arts/Learning_Centre_-_combined.jpg
 description: "The Learning Support Centre (LSC)\_ provides extra support for student in the mainstream, who are finding their subject work difficult due to a specific Learning difficult or a condition (eg Dyslexia, Dyspraxia, Autism, Anxiety; physical disability etc). Senior students with a Learning line get extra time for completing their Internal assessments and keeping up to date with their classwork. This may include Special Assessment Condition (Sac) students who qualify for reader writer assistance. \n"
 ---
 The Learning Support Centre (LSC)  provides extra support for student in the mainstream, who are finding their subject work difficult due to a specific Learning difficult or a condition (eg Dyslexia, Dyspraxia, Autism, Anxiety; physical disability etc). 
