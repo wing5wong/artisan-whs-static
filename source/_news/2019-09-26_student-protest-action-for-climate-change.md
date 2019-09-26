@@ -2,7 +2,7 @@
 title: Student Protest Action for Climate Change
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1569469298/News/green_header_003.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1569469579/News/Whanganui_High_School_LHead_PDF_Nov_2016_002.jpg
 news_author:
   date: 2019-09-26T03:35:30.786Z
 show_in_slider: true
