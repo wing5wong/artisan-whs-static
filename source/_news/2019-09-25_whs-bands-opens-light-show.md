@@ -1,5 +1,5 @@
 ---
-title: WHS Bands opens Light Show
+title: WHS Bands opens Light Show!
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1569374760/Events/light_show_billboard_image.jpg
