@@ -21,7 +21,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-09-27T01:40:45.125Z
 ---
-A fantastic time was had by our students at the North Island Snowboard Champs at Turoa Ski Field 23-25 September.
+A fantastic time was had by our students at the North Island Snowboard Champs at Turoa Ski Field from 23-25 September.
 
 With over 220 competitors competing across three disciplines, including Banked Slalom, Boarder Cross and Slope Style. 
 
