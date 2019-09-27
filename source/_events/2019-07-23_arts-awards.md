@@ -1,5 +1,5 @@
 ---
-title: Arts Awards
+title: Arts Awards 2019
 date: 2019-10-24T05:15:44.220Z
 ---
 (Royal Wanganui Opera House).
