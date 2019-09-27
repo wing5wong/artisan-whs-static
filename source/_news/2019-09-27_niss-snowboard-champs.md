@@ -4,7 +4,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1569548855/News/NI%20Snowboard%20champs%20turoa%2023.25%20Sept/1.jpg
 news_author:
-  date: 2019-09-27T01:40:45.068Z
+  date: 2019-09-25T01:40:45.068Z
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1569548850/News/NI%20Snowboard%20champs%20turoa%2023.25%20Sept/2.jpg
