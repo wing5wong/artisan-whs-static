@@ -10,7 +10,6 @@ date: 2019-09-25T04:28:57.145Z
 ---
 **Laser Lights are coming to town!**
 
-
 A fantastic evening which will bring the magic of lights and music together in aid of Hospice Whanganui.
 
 Where: Cooks Gardens  
@@ -22,3 +21,5 @@ All the best to our bands In Business, Ocean Loaf and Rhythm Vision who will fea
 Food trucks will be available within Cooks Gardens or you can bring your own picnic.
 
 See you there!!
+
+[Hospice Whanganui Information](https://hospicewhanganui.org.nz/event/laser-lights-are-coming-to-town/)
