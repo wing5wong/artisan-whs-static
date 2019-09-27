@@ -1,6 +1,8 @@
 ---
-title: Sports Awards
+title: Sports Awards 2019
 date: 2019-10-17T05:11:56.662Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1569559053/Events/Sports-1.jpg
 ---
 Our WHS Sports Awards are on Thursday 17 October in the Eulogy Lounge at the Wanganui Racecourse Function Centre at 7.15pm. 
 
