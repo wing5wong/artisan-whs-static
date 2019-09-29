@@ -3,15 +3,15 @@ title: Duke of Edinburgh's Hillary Award
 date: 2019-09-22T22:27:13.032Z
 people:
   - name: Mr C. Adam
-    role: Teacher in Charge
+    role: Teacher in Charge - Expeditions
   - name: Mrs M. Bennetts
-    role: Teacher in Charge
+    role: Teacher in Charge - Expeditions
   - name: Mrs J. de Smidt
-    role: Teacher in Charge
+    role: Teacher in Charge - Gold
   - name: Ms R. Kennedy
-    role: Teacher in Charge
+    role: Teacher in Charge - Silver
   - name: Mrs J. Dunn
-    role: Teacher in Charge
+    role: Teacher in Charge - Bronze
 extracurricular_area: Other
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1569191787/Performing%20Arts/Duke_of_Ed.jpg
@@ -52,10 +52,3 @@ _**Gold (16yrs+)**_
 * Residential Course 5 days/4 nights
 
 **Cost:** Students will need to cover trip costs.
-
-**Teachers-in-charge:** 
-
-* Expeditions - Mr C Adam and Mrs M Bennetts
-* Gold – Mrs J de Smidt
-* Silver - Mrs R Kennedy
-* Bronze - Mrs J Dunn
