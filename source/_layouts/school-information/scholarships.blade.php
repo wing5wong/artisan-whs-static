@@ -12,8 +12,9 @@
     @foreach($scholarships as $scholarship)
     <details>
         <summary>
-            <h2 class="decorated d-table my-5">{{ $scholarship->title }}</h2>
-            <br><small class="text-muted">Eligibility:{{ $scholarship->eligible}}</small> 
+            <h2 class="decorated d-table my-5">{{ $scholarship->title }}
+                <br><small class="text-muted">Eligibility:{{ $scholarship->eligible}}</small>
+            </h2>
         </summary>
 
         {!! $scholarship !!}
