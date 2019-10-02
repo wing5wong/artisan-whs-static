@@ -21,7 +21,7 @@
         @if($scholarship->url)<a href="{{ $scholarship->url }}" class="btn btn-light">Apply online</a>@endif
         @if($scholarship->file)<a href="{{ $scholarship->file }}" class="btn btn-light">Download an application form</a>@endif
     </details>
-    @if(!$loop->last())<hr>@endif
+    @if(!$loop->last)<hr>@endif
     @endforeach
 
 </main>
