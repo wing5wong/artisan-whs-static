@@ -13,7 +13,7 @@
     <details>
         <summary>
             <h2 class="decorated d-table my-5">{{ $scholarship->title }}</h2>
-            <strong>Eligibility:</strong> {{ $scholarship->eligible}}
+            <br><small class="text-muted">Eligibility:{{ $scholarship->eligible}}</small> 
         </summary>
 
         {!! $scholarship !!}
@@ -21,6 +21,7 @@
         @if($scholarship->url)<a href="{{ $scholarship->url }}" class="btn btn-light">Apply online</a>@endif
         @if($scholarship->file)<a href="{{ $scholarship->file }}" class="btn btn-light">Download an application form</a>@endif
     </details>
+    @if(!$loop->last())<hr>@endif
     @endforeach
 
 </main>
