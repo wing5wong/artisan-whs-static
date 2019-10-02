@@ -18,3 +18,5 @@ The successful applicant needs to fulfil the following criteria:
 * The scholarship will provide some significant financial benefit to the recipient and their family in aiding the student to continue with further studies in their chosen career path.
 
 **Applications close Tuesday 22 October 2019**
+
+If you are unable to apply online, please complete and return a paper copy available through the Student Centre.
