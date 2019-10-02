@@ -478,8 +478,8 @@ collections:
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Eligible", name: "eligible", widget: "select",
           options: [ "Current Students", "Ex-Students"] }
-      - {label: "Application URL", name: "url", widget: "string", required: false, hint: "A link to an online application form e.g. Google Form"}
-      - {label: "Application PDF", name: "file", widget: "file", required: false}
+      - { label: "Application URL", name: "url", widget: "string", required: false, hint: "A link to an online application form e.g. Google Form"}
+      - { label: "Application PDF", name: "file", widget: "file", required: false}
       - { label: "Body", name: "body", widget: "markdown", required: true }
       
 
