@@ -307,6 +307,11 @@ return [
         'prefects',
         'school_documents',
         'the_record',
+        'scholarships' => [
+            'path' => 'scholarships/{filename}',
+            'extends' => '_layouts.post',
+            'section' => 'postContent'
+        ],
         'staff' => [
             'section' => 'postContent',
             'tags' => [],

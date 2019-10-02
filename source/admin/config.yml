@@ -465,6 +465,22 @@ collections:
       - { label: "International", name: "international", widget: boolean}
       - { label: "image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
+
+
+  - name: "scholarships"
+    label: "Scholarships"
+    label_singular: "Scholarship"
+    folder: "source/_scholarships"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Eligible", name: "eligible", widget: "select",
+          options: [ "Current Students", "Ex-Students"] }
+      - {label: "Application URL", name: "url", widget: "string", required: false, hint: "A link to an online application form e.g. Google Form"}
+      - {label: "Application PDF", name: "file", widget: "file", required: false}
+      - { label: "Body", name: "body", widget: "markdown", required: true }
       
 
   - name: "honours"
