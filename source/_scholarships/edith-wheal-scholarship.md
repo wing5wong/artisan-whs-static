@@ -2,6 +2,8 @@
 title: Edith Wheal Scholarship
 date: 2019-10-02T01:20:38.574Z
 eligible: Ex-Students
+file: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1567719181/School%20Documents/Guidelines_Info_Application_form_Edith_Wheal_Scholarship_2019.pdf
 ---
 ## Overview
 
