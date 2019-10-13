@@ -2,7 +2,7 @@
 title: Year 12 Prizegiving
 date: 2019-11-06T05:19:05.990Z
 ---
-Year 12 Prizegiving is on Wednesday 6 November in the School Hall at 1.30pm. 
+Year 12 Prizegiving is on Wednesday 6 November in the School Hall at 1.30pm.  
 Prizegiving finishes by 3.05pm.
 
 Final reports will be issued and sent to families via email.
