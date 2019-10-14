@@ -5,6 +5,15 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571010790/News/Shea_Robinson_03.png
 news_author:
   date: 2019-10-14T00:02:10.438Z
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571010790/News/Shea_Robinson_04.png
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571010791/News/Shea_Robinson_01.png
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571010793/News/Shea_Robinson_05.png
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571010790/News/Shea_Robinson_02.png
 show_in_slider: true
 date: 2019-10-14T00:02:10.469Z
 ---
