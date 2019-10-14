@@ -7,7 +7,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571020461/News/WHS_Whero_left_to_right_Dominic_Benfell._Olivia_Bedwell_and_Aslea_Hale.jpg
 news_author:
-  date: 2019-09-27T01:51:41.895Z
+  date: 2019-09-28T01:51:41.895Z
 image_gallery:
   - description: >-
       WHS Kowhai team, left to right - Firooze Colaabavala, Calum Sinclair and
