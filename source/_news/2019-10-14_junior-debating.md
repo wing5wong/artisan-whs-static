@@ -1,5 +1,5 @@
 ---
-title: Junior Debating
+title: Junior Debating success
 feature_image:
   description: >-
     WHS Whero team winners, left to right - Dominic Benfell, Olivia Bedwell and
