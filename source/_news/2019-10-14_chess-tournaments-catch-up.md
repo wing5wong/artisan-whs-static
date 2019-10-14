@@ -7,11 +7,11 @@ news_author:
   date: 2019-09-28T01:10:23.801Z
 image_gallery:
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012110/News/71140194_528444917903120_5509271940625334272_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/71140194_528444917903120_5509271940625334272_n.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012110/News/71188964_477905132791222_2896350018266988544_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/71188964_477905132791222_2896350018266988544_n.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012110/News/71011678_428109284485989_6653822227554762752_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012125/News/Chess%20tourns%20Oct%202019/71011678_428109284485989_6653822227554762752_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571012109/News/71758693_508093666589561_5261778766635466752_n.jpg
 show_in_slider: true
