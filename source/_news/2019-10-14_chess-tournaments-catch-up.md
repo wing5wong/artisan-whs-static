@@ -2,7 +2,7 @@
 title: Chess Tournament catch ups
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1571012110/News/69261190_572662853520666_7430735911085670400_n.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/69261190_572662853520666_7430735911085670400_n.jpg
 news_author:
   date: 2019-09-28T01:10:23.801Z
 image_gallery:
