@@ -3,7 +3,7 @@ title: 'Wanganui U15 Hockey representatives '
 feature_image:
   description: >-
     L>R; Connor Hoskin - Coach, Jaxon Gaudin, Cole Julian, Purere Wroe, Blake
-    Hoskin, Ben Skedgwell and Theo Mcfadyen (front).
+    Hoskin, Ben Skedgwell and Theo McFadyen (front).
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571033473/News/NZSS%20Netball%20Nationals/National_U15_Hockey_Champ_Tourn_in_WU.jpg
 news_author:
