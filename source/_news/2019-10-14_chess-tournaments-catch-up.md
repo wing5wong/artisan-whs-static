@@ -1,6 +1,7 @@
 ---
 title: Chess Tournament catch ups
 feature_image:
+  description: Sam Gray enjoying the day.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/69261190_572662853520666_7430735911085670400_n.jpg
 news_author:
@@ -8,7 +9,10 @@ news_author:
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/71140194_528444917903120_5509271940625334272_n.jpg
-  - image: >-
+  - description: >-
+      Victor Xie (left) 3rd place in the Under 16 bracket, sitting next to Dekin
+      Chadfield.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/71188964_477905132791222_2896350018266988544_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571012125/News/Chess%20tourns%20Oct%202019/71011678_428109284485989_6653822227554762752_n.jpg
