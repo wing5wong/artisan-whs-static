@@ -4,7 +4,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1569478000/News/SEPTEMBER_2019_rivercity_press_smaller.jpg
 news_author:
-  date: 2019-09-27T06:01:32.597Z
+  date: 2019-09-30T05:01:32.597Z
 show_in_slider: true
 date: 2019-09-26T06:01:32.651Z
 ---
