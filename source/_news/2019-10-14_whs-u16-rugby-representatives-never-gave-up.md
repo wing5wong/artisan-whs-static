@@ -2,8 +2,8 @@
 title: WHS U16 Rugby representatives never gave up!
 feature_image:
   description: >-
-    Left to right; Logan Kingi, Ajmanila Ang, Jamel Ririnui, Anthony Sellers,
-    Aporosa Bulivou, Konradd Newland, Keane Metekingi and Mike Lama.
+    Left to right; Logan Kingi, AJ Malili-Malo-Lauano, Jamel Ririnui, Anthony
+    Sellers, Aporosa Bulivou, Konradd Newland, Keane Metekingi and Mike Lama.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571027102/News/Chess%20tourns%20Oct%202019/71256182_1360810637401372_1162849128238022656_n.jpg
 news_author:
