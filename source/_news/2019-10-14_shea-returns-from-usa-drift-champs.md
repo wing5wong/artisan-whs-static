@@ -2,18 +2,18 @@
 title: Shea returns from USA Drift Champs
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1571010790/News/Shea_Robinson_03.png
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1571013592/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-03.jpg
 news_author:
   date: 2019-10-14T00:02:10.438Z
 image_gallery:
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571010790/News/Shea_Robinson_04.png
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571013592/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-04.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571010791/News/Shea_Robinson_01.png
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-01.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571010793/News/Shea_Robinson_05.png
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-05.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571010790/News/Shea_Robinson_02.png
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-02.jpg
 show_in_slider: true
 date: 2019-10-14T00:02:10.469Z
 ---
