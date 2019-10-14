@@ -14,3 +14,5 @@ date: 2019-10-14T06:10:43.096Z
 Congratulations to the Whanganui High School boys who represented Wanganui in the National U15 Hockey Championship Tournament in Wanganui over the holidays where they were placed 4th. 
 
 Coached by year 12 student Connor Hoskin the boys narrowly missed the final losing to Wellington in the semifinal 5-4.
+
+[Results from Hockey New Zealand website](https://hockeynz.altiusrt.com/teams/3263)
