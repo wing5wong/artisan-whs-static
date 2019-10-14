@@ -1,5 +1,5 @@
 ---
-title: Junior Debating success
+title: 'Junior Debating success '
 feature_image:
   description: >-
     WHS Whero team winners, left to right - Dominic Benfell, Olivia Bedwell and
@@ -17,7 +17,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-10-14T00:51:41.908Z
 ---
-During the last week of Term 3 our Junior Debaters were all geared up for their final confrontations.  Preparation had been thorough and presentations were practiced and perfected until the last minute. 
+During the last week of Term 3 our Junior Debaters were all geared up for their final confrontations of the Regional Junior Debating John Prestage Competition.  Preparation had been thorough and presentations were practiced and perfected until the last minute of the  
 
 Our Whero and Kowhai team had to negate the moot: “This House will ban the use of plastic packaging”. 
 
@@ -29,5 +29,5 @@ WHS Kowhai team also went to Palmerston North, but their debate was against ‘B
 
 Coincidentally, our Kowhai team was in Palmerston North at the same time as the large climate change march, attended by numerous young people, including school students. It is heart-warming to see young people caring for, and debating about, the future of our planet.
 
-_Mr J Berkhout & Ms J Love_  
-_Teachers in Charge_
+_Mr Jos Berkhout_  
+_Teacher in Charge_
