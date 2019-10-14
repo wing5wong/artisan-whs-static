@@ -7,20 +7,20 @@ feature_image:
 news_author:
   date: 2019-09-28T01:10:23.801Z
 image_gallery:
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/71140194_528444917903120_5509271940625334272_n.jpg
+  - description: Sam Gray enjoying the tournament.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/69261190_572662853520666_7430735911085670400_n.jpg
   - description: >-
       Victor Xie (left) 3rd place in the Under 16 bracket, sitting next to Dekin
       Chadfield.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/71188964_477905132791222_2896350018266988544_n.jpg
   - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/71140194_528444917903120_5509271940625334272_n.jpg
+  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571012125/News/Chess%20tourns%20Oct%202019/71011678_428109284485989_6653822227554762752_n.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012109/News/71758693_508093666589561_5261778766635466752_n.jpg
-  - description: Sam Gray enjoying the tournament.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012124/News/Chess%20tourns%20Oct%202019/69261190_572662853520666_7430735911085670400_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571012125/News/Chess%20tourns%20Oct%202019/71011678_428109284485989_6653822227554762752_n.jpg
 show_in_slider: true
 date: 2019-10-14T00:10:23.821Z
 ---
