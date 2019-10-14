@@ -7,7 +7,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571033473/News/NZSS%20Netball%20Nationals/National_U15_Hockey_Champ_Tourn_in_WU.jpg
 news_author:
-  date: 2019-10-14T06:10:43.068Z
+  date: 2019-10-05T06:10:43.068Z
 show_in_slider: true
 date: 2019-10-14T06:10:43.096Z
 ---
