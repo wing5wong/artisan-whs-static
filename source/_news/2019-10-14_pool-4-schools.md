@@ -1,6 +1,7 @@
 ---
 title: Pool 4 Schools
 feature_image:
+  description: Benji Kidd 1st (left) and Chase Morpeth 2nd.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571024314/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/1.jpg
 news_author:
