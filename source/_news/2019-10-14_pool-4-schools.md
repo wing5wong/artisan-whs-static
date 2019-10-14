@@ -38,6 +38,6 @@ Well done to all the students who took part.
 Thanks to Mr Ding for supporting our students each week.  
 Thanks to Denise and the team at The Barracks for allowing the competition to be held there.
 
-Overall winners from WHS:  
-1st Benji Kidd  
-2nd Chase Morpeth 
+**Overall winners from WHS:**  
+**1st Benji Kidd**  
+**2nd Chase Morpeth**
