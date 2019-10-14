@@ -1,5 +1,5 @@
 ---
-title: Chess Tournaments catch up
+title: Chess Tournament catch ups
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571012110/News/69261190_572662853520666_7430735911085670400_n.jpg
