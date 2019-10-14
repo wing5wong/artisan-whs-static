@@ -9,11 +9,11 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013592/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-04.jpg
   - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-02.jpg
+  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-01.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-05.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-02.jpg
 show_in_slider: true
 date: 2019-10-14T00:02:10.469Z
 ---
@@ -23,5 +23,5 @@ I recently returned from a trip to U.S.A. with my team. The trip was very valuab
 
 Since arriving back home, my team and I have been working hard to secure sponsorship to allow us to send two cars to compete in Formula Drift next year.
 
-_Shea Robinson
+_Shea Robinson  
 WHS Year 12 student_
