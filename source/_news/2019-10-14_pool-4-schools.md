@@ -9,17 +9,17 @@ news_author:
   publication: WHS Director of Sport
 image_gallery:
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571024316/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/71929793_1354538844695218_4504471939523280896_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571024315/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/71274863_1354538478028588_4295987032905220096_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571024315/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/71669444_1354538808028555_9053914200975343616_n.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571024315/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/71274863_1354538478028588_4295987032905220096_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571024315/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/71301818_1354538784695224_1779123389856743424_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571024314/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/69535307_1354538698028566_4294391134727176192_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571024314/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/70827019_1354538491361920_1639816155675754496_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571024316/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/71929793_1354538844695218_4504471939523280896_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571024314/News/Pool%204%20Schools%20Sept%202019%20at%20Barracks/71181917_1354538568028579_4641180503741825024_n.jpg
   - image: >-
