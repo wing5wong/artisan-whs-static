@@ -1,5 +1,5 @@
 ---
-title: 'Wanganui U15 Hockey representatives '
+title: 'Wanganui U15 Hockey representatives played well '
 feature_image:
   description: >-
     L>R; Connor Hoskin - Coach, Jaxon Gaudin, Cole Julian, Purere Wroe, Blake
