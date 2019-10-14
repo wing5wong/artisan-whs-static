@@ -17,13 +17,11 @@ image_gallery:
 show_in_slider: true
 date: 2019-10-14T00:10:23.821Z
 ---
-The end of last term was a big one for the Chess Club, starting out with a regional tournament for individual players on Thursday 26 September. This was a great day out against some of the best chess players Whanganui has to offer, leading to a lot of challenging games. In the end we had one placing, with **Victor Xie taking 3rd place in the Under 16 bracket.**
-
-Our other individual players where Luke Pearson, Shae Kairau, Dekin Chadfield and Sam Gray.
+The end of last term was a big one for the Chess Club, starting out with a regional tournament for individual players on Thursday 26 September. This was a great day out against some of the best chess players Whanganui has to offer, leading to a lot of challenging games. In the end we had one placing, with **Victor Xie taking 3rd place in the Under 16 bracket.**  Our other individual players where Luke Pearson, Shae Kairau, Dekin Chadfield and Sam Gray.
 
 The day ended with everyone playing games against a tag-team of a chess grandmaster and an Oceanic champion. While it is safe to say that no one won, this was a lot of fun and a highlight to the day.
 
-Only two days later, our A Team - Luke Pearson, Shae Kairau, Dekin Chadfield, and Victor Xie - headed down to Palmerston North for the national competition. We put a good fight and won several games individually, but ultimately couldn’t hold our own at a national level. That being said, the team is more motivated than ever to get study and practice in and come again next year.
+Only two days later, our A Team - Luke Pearson, Shae Kairau, Dekin Chadfield and Victor Xie - headed down to Palmerston North for the national competition. We put a good fight and won several games individually, but ultimately couldn’t hold our own at a national level. That being said, the team is more motivated than ever to get study and practice in and come again next year.
 
-_Mr Tim Sutherland
+_Mr Tim Sutherland  
 Teacher in Charge_
