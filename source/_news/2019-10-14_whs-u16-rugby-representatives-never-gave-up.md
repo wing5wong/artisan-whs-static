@@ -1,7 +1,9 @@
 ---
 title: WHS U16 Rugby representatives never gave up!
 feature_image:
-  description: ''
+  description: >-
+    Left to right; Logan Kingi, Ajmanila Ang, Jamel Ririnui, Anthony Sellers,
+    Aporosa Bulivou, Konradd Newland, Keane Metekingi and Mike Lama.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571027102/News/Chess%20tourns%20Oct%202019/71256182_1360810637401372_1162849128238022656_n.jpg
 news_author:
@@ -15,6 +17,6 @@ Our WHS Rugby boys were part of a 23 man Wanganui squad coached by 1st XV coach 
 
 Wanganui was captained by WHS student AJ Malili Malo Lauano who led well throughout the 4 day tournament. 
 
-Results didn’t go our way but we competed well against the bigger provincial unions & never gave up.
+Results didn’t go our way but we competed well against the bigger provincial unions and never gave up.
 
-Wanganui came 4th out of 6 teams. 💛🏉💚 — with Logan Kingi, Ajmanila Ang, Jamel Ririnui, Anthony Sellers, Aporosa Bulivou, Konradd Newland, Keane Metekingi and Mike Lama.
+Wanganui came 4th out of 6 teams. 💛🏉💚
