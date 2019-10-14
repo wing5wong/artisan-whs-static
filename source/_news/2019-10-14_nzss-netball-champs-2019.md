@@ -9,9 +9,9 @@ news_author:
   publication: WHS Director of Sport
 image_gallery:
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571029836/News/NZSS%20Netball%20Nationals/72789043_1365141596968276_4069094321658265600_o_1.jpg
-  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571029832/News/NZSS%20Netball%20Nationals/71696585_1221395394738228_1531467080124071936_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571029836/News/NZSS%20Netball%20Nationals/72789043_1365141596968276_4069094321658265600_o_1.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571029834/News/NZSS%20Netball%20Nationals/72625714_1365141756968260_1545041998572945408_o.jpg
   - image: >-
