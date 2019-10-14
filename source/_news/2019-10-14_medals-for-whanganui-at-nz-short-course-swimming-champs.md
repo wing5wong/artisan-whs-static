@@ -52,10 +52,10 @@ For the butterfly events, she came 10th in both the 50m and 100m.
 
 **In his age group, Byers was third in 400m freestyle, then fourth in the 200m and fifth in the 1500m.**
 
-For individual medley, he was sixth in the 400m and ninth in the 200m.
+**For individual medley, he was sixth in the 400m and ninth in the 200m.**
 
-Earles best result was fifth in the 50m backstroke.
+**Earles best result was fifth in the 50m backstroke.**
 
-In the breast stroke events, Earles came seventh in the 200m, eighth in the 100m and tenth in the 50m.
+**In the breast stroke events, Earles came seventh in the 200m, eighth in the 100m and tenth in the 50m.**
 
-Nightingale was sixth in the 200m butterfly and seventh for the 100m.
+**Nightingale was sixth in the 200m butterfly and seventh for the 100m.**
