@@ -9,6 +9,7 @@ Our WHS **Sports Awards** are on Thursday 17 October in the Eulogy Lounge at the
 Tickets this year are $10. We will NOT be having a supper, instead there will be nibbles on the tables.  
 
 Tickets are on sale in the Student Centre or Main Office at school.  
+All Students receiving their sports colours need to be at the awards.  
 
 Dress Semi Formal:  
 Male - Shirt & Tie, Dress Shoes  
