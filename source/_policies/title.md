@@ -9,10 +9,10 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1566447642/School%20Policies/1.2_-Curriculum_Information_updated_August_2019.pdf
         policy: 1.2 Curriculum Information
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683532/School%20Policies/1.5--Students-with-Additional-Learning-Needs_-updated-September-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/1.5_-Students_with_Additional_Learning_Needs_updated_October_2019.pdf
         policy: 1.5 Learners with Special Education Needs
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683532/School%20Policies/1.6--Education-beyond-the-Whanganui-High-School-Site_-updated-August-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/1.6_-Education_beyond_the_Whanganui_High_School_Site_updated_October_2019.pdf
         policy: 1.6 - Education Beyond the Whanganui High School Site
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1567372135/School%20Policies/1.7_-Information_and_Communication_Technology_updated_August_2019.pdf
@@ -24,7 +24,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683532/School%20Policies/1.8--Careers-Information--Advice_-updated-September-2016.pdf
         policy: 1.8 Careers Information and Advice
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683533/School%20Policies/1.9---Assessment-and-Reporting_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/1.9_-_Assessment_and_Reporting_updated_September_2019.pdf
         policy: 1.9 Assessment and Reporting
     policyArea: 1. Curriculum Delivery
   - policies:
@@ -87,10 +87,10 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/4.4--Property-Management---updated-June-2015.pdf
         policy: 4.4 Property Management
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/4.5---Sensitive-Expenditure_-updated-August-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/4.5_-_Sensitive_Expenditure_updated_October_2019.pdf
         policy: 4.5 Sensitive Expenditure
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/4.6---Theft-and-Fraud-Prevention_-updated-September-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/4.6_-_Theft_and_Fraud_Prevention_updated_September_2019.pdf
         policy: 4.6 Theft and Fraud Protection
     policyArea: 4. Finance and Property
   - policies:
