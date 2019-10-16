@@ -11,6 +11,9 @@ news_author:
   date: 2019-09-28T04:26:40.849Z
   name: Lucy Drake
   publication: Whanganui Chronicle
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571261236/News/Thumbelina_poster_from_WU_Opera_House..jpg
 show_in_slider: true
 date: 2019-10-16T03:26:40.903Z
 ---
