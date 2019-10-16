@@ -10,7 +10,7 @@ date: 2019-10-16T19:11:03.582Z
 ---
 All the best to Kara Adrole who is in Auckland with the U23 Fijian Mixed Netball team playing in the international tournament.
 
-Have an amazing experience Kara learning from one of NZ & Fiji’s best netballers Vilimaina Davu!
+Have an amazing experience Kara learning from one of New Zealand and Fiji’s best netballers Vilimaina Davu!
 
-_Lisa Murphy
+_Lisa Murphy  
 WHS Director of Sport_
