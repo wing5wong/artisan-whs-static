@@ -9,6 +9,13 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571033473/News/NZSS%20Netball%20Nationals/National_U15_Hockey_Champ_Tourn_in_WU.jpg
 news_author:
   date: 2019-10-05T06:10:43.068Z
+image_gallery:
+  - description: >-
+      Wanganui U15 Girls Hockey team included WHS students - Charlotte Baker,
+      Maggie Jones, Rebekah Bayler, Madi Doble, Charlotte Hardy, Emily Jennings,
+      Kyla Manville, Grace Palazzo.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571267321/News/girls_team.jpg
 show_in_slider: true
 date: 2019-10-14T06:10:43.096Z
 ---
