@@ -24,8 +24,8 @@ date: 2019-10-16T06:35:49.455Z
 Fred Loveridge of Whiskey Mama says, “We bring along our fully equipped truck, park in the car park, open up the stage and play.” They have played at Caroline’s before and the patrons and concert goers love the chance to sit back, relax and listen to the music while ordering drinks and meals. There is no entry charge.
 
 **The two High School bands are:  
-• Ocean Loaf. They do their own material and covers and Fred describes their music as mainly ‘Indie Pop.’  
-• Rhythm Vision. They also play mainly their own material, written by guitarist Dan Godwin. Their style is ‘Prog (progressive) Rock.’**
+• Ocean Loaf.** They do their own material and covers and Fred describes their music as mainly ‘Indie Pop.’  
+**• Rhythm Vision.** They also play mainly their own material, written by guitarist Dan Godwin. Their style is ‘Prog (progressive) Rock.’*
 
 Whiskey Mama play Classic Rock covering everything from the Pretenders through to Deep Purple. As Fred says, “We have diverse song choices.” They have been together for a couple of years although as individuals, the five band members have been performing for a long time.
 
