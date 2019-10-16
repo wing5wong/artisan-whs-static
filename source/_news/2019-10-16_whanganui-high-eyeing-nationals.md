@@ -3,8 +3,8 @@ title: Whanganui High eyeing nationals
 feature_image:
   credit: Supplied
   description: >-
-    The Whanganui High School A1 team are prepared for the biggest matches of
-    their school careers at the national championships this week.
+    The WHS A1 team are prepared for the biggest matches of their school careers
+    at the national championships this week.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571207325/News/Chron_7.10.19.jpg
 news_author:
