@@ -11,7 +11,7 @@ news_author:
   date: 2019-10-05T06:10:43.068Z
 image_gallery:
   - description: >-
-      Wanganui U15 Girls Hockey team were placed 5th and included WHS students:
+      Wanganui U15 Girls Hockey team were placed 5th. Including WHS students:
       Charlotte Baker, Maggie Jones, Rebekah Bayler, Madi Doble, Charlotte
       Hardy, Emily Jennings, Kyla Manville, Grace Palazzo.
     image: >-
