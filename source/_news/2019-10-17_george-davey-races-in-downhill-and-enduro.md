@@ -1,5 +1,5 @@
 ---
-title: George Davey races in Downhill and Enduro
+title: George Davey is a passionate mountain biker
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571252883/News/George_Davey_Oct_2019.jpg
@@ -19,11 +19,11 @@ His best results are 2 times overall winner for the U15 Wellington Enduro series
 
 George has never raced in the South Island before and he couldn't wait to represent WHS down in Dunedin.
 
-On Friday 4 October George raced the Enduro at the School Mountain Bike Champs in Dunedin where he placed 4th out of 67 in U15 and was 1 second off 3rd place.
+**On Friday 4 October George raced the Enduro at the School Mountain Bike Champs in Dunedin where he placed 4th out of 67 in U15 and was 1 second off 3rd place.**
 
 On Saturday he raced the Downhill. The conditions were wet and windy and George placed 17th out of 58 in U15.
 
 Outstanding results George! 💛🚴‍♂️💚
 
-_Lisa Murphy
+_Lisa Murphy  
 WHS Director of Sport_
