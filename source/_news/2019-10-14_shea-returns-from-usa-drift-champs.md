@@ -4,20 +4,32 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571013592/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-03.jpg
 news_author:
-  date: 2019-10-14T00:02:10.438Z
+  date: 2019-09-23T01:02:10.438Z
 image_gallery:
-  - image: >-
+  - description: >-
+      Shea with current World #1 Drifter, James Dean at the Formula Drift event
+      in Dallas, Texas.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013592/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-04.jpg
-  - image: >-
+  - description: >-
+      The team with Rad Industries couple in front of their workshop at the end
+      of the trip.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-02.jpg
-  - image: >-
+  - description: >-
+      Drew & Jodie Donovan, Shea and the teams Graphic Designer ex WHS student
+      Andrew Stewart (right).
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-01.jpg
-  - image: >-
+  - description: >-
+      Haydn Best (another team leader), Jodie, Shea, Drew & Andrew at the
+      Silverton Restaurant in Las Vegas.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-05.jpg
 show_in_slider: true
 date: 2019-10-14T00:02:10.469Z
 ---
-My name is Shea Robinson and I am a team leader for Team DMNZ (Drift Motorsport NZ). Team DMNZ is a husband and wife couple who professionally drift all over the world. 
+My name is Shea Robinson and I am a team leader for Team DMNZ (Drift Motorsport NZ). Team DMNZ is a husband and wife couple, Drew and Jodie Donovan who professionally drift all over the world. 
 
 I recently returned from a trip to U.S.A. with my team. The trip was very valuable from a team leader perspective as we attended a round of the Formula Drift Championship in Dallas, Texas. The opportunity was given to us to attend the event as RTR Motorsports team members. This provided us with the chance to see the behind the scenes of the event, so we could note valuable information and data to use in the future. Alongside attending the event, I was also involved in many meetings discussing sponsorship opportunities. One of the meetings was with “Rad” Dan Burkett at his workshop, Rad Industries, in LA. Dan currently competes in the Pro class of Formula Drift, and is a true icon of sport. 
 
