@@ -38,7 +38,7 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571030477/News/NZSS%20Netball%20Nationals/72458987_1365807953568307_3234257644021612544_o.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571030509/News/NZSS%20Netball%20Nationals/72643910_1365808726901563_3848166151754350592_o.jpg
-show_in_slider: true
+show_in_slider: false
 date: 2019-10-14T05:08:48.415Z
 ---
 Well done to the Phillips Electrical A1 Netball team finishing 12th at the NZSS Nationals in Nelson.
