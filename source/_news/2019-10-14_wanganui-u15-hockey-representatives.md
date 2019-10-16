@@ -17,3 +17,6 @@ Congratulations to the Whanganui High School boys who represented Wanganui in th
 Coached by year 12 student Connor Hoskin the boys narrowly missed the final losing to Wellington in the semifinal 5-4.
 
 [Results from Hockey New Zealand website](https://hockeynz.altiusrt.com/teams/3263)
+
+_Lisa Murphy  
+WHS Director of Sport_
