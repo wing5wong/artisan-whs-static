@@ -11,7 +11,7 @@ news_author:
   date: 2019-10-10T05:37:10.727Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
-show_in_slider: true
+show_in_slider: false
 date: 2019-10-16T05:37:10.763Z
 ---
 Phillips Electrical Whanganui High School A1 have faltered, but not disgraced on debut at the national secondary schools netball tournament in Nelson, going down to two very classy sides at the end of normal pool play.
