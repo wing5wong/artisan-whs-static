@@ -18,7 +18,7 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-02.jpg
   - description: >-
       Drew & Jodie Donovan, Shea and the teams Graphic Designer ex WHS student
-      Andrew Stewart (right).
+      Andrew Stewart (right) visiting the Hoover Dam in Nevada.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571013593/News/Shea%20Robinson.Team%20Drift%20Motorsport%20NZ/Shea-Robinson-01.jpg
   - description: >-
