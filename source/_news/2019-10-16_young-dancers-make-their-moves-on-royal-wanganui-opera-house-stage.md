@@ -11,12 +11,7 @@ news_author:
   date: 2019-10-10T04:33:23.573Z
   name: Liz Wylie
   publication: Whanganui Chronicle
-image_gallery:
-  - description: >-
-      Zoe Chapman demonstrates her flexibility on the Royal Wanganui Opera House
-      stage. Photo / Lewis Gardner.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571200718/News/Zoe_chapman.Chron_10.10.19.jpg
+image_gallery: []
 show_in_slider: true
 date: 2019-10-16T04:33:23.601Z
 ---
