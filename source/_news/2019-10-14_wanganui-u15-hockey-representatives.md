@@ -27,5 +27,5 @@ Coached by year 12 student Connor Hoskin the boys narrowly missed the final losi
 
 [Results from Hockey New Zealand website - Girls](https://hockeynz.altiusrt.com/teams/3276) 
 
-_Lisa Murphy_\
+_Lisa Murphy_  
 _WHS Director of Sport_
