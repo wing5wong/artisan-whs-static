@@ -18,7 +18,7 @@ Toyota Whanganui Swim Team's Georgia Abraham has kept up her consistent strong f
 
 A Year 9 Whanganui Collegiate student, Abraham, 13, had also won silver in the 50m backstroke for her age group at the recent NZ Secondary School championships.
 
-Her NZ Short Course silver in the same discipline in Auckland was part of a two medal return for the four-person Wanganui team, as 15-year-old **Ethan Byers won bronze in his age grade for the 400m boys freestyle**.
+Her NZ Short Course silver in the same discipline in Auckland was part of a two medal return for the four-person Wanganui team, **as 15-year-old Ethan Byers won bronze in his age grade for the 400m boys freestyle**.
 
 Making the long trek north were Abraham, **Byers, Cayden Earles and Cheyenne Nightingale, both 14.**
 
@@ -28,13 +28,13 @@ Manager Neil Jones said after getting the only medal at the NZSS champs, hopes w
 
 "Whanganui records were heavily targeted by the team and at this meet all four swimmers swam Whanganui records, something that had not been done since the formation of the swimming club."
 
-The "perennial contender" Byers was likewise outstanding in gaining his bronze, said Jones
+**The "perennial contender" Byers was likewise outstanding in gaining his bronze, said Jones.**
 
-"His swim, also a Whanganui record, was a 3s personal best, and was notable as he has aged up to the 15-year-old group since his long course gold in April.
+**"His swim, also a Whanganui record, was a 3s personal best, and was notable as he has aged up to the 15-year-old group since his long course gold in April.**
 
-"He also picked up a very creditable fifth in the gruelling 1500m, with a Whanganui open and age group record with his 38.89s second personal best time of 16.38.07."
+**"He also picked up a very creditable fifth in the gruelling 1500m, with a Whanganui open and age group record with his 38.89s second personal best time of 16.38.07."**
 
-Byers also swam against swimmers from the older divisions.
+**Byers also swam against swimmers from the older divisions.**
 
 "Qualified for an Open B final and two Open C finals, which gave him overall results of 19th in the 400m free, 21st in the 400m individual medley, and 27th in the 200m free," said Jones.
 
