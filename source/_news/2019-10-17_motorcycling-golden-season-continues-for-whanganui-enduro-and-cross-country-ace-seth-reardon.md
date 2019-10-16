@@ -1,7 +1,7 @@
 ---
 title: >-
-  Motorcycling: Golden season continues for Whanganui enduro and cross-country
-  ace Seth Reardon
+  Golden season continues for Whanganui enduro and cross-country ace Seth
+  Reardon
 feature_image:
   description: >-
     Kiwi enduro riders in USA - Whanganui's Seth Reardon with Dylan Yearbury
