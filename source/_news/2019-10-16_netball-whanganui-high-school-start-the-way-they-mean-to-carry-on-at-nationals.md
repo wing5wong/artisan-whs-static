@@ -15,7 +15,7 @@ news_author:
 show_in_slider: true
 date: 2019-10-16T06:19:49.948Z
 ---
-Phillips Electrical Whanganui High School A1 has started its National Secondary Schools Netball Tournament in Nelson the way it means to carry on, with a clinical 35-26 win over Ashburton College.
+**Phillips Electrical Whanganui High School A1 has started its National Secondary Schools Netball Tournament in Nelson the way it means to carry on, with a clinical 35-26 win over Ashburton College.**
 
 The victory marked WHS' debut at national level and gave confidence they could compete successfully against the big guns.
 
