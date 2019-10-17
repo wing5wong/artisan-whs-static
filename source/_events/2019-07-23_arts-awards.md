@@ -1,6 +1,8 @@
 ---
 title: Cultural Awards 2019
 date: 2019-10-24T05:15:44.220Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1571287079/Events/cultral_awards_ticket.jpg
 ---
 Our WHS **Cultural Awards** are on Thursday 24 October.
 
