@@ -9,7 +9,6 @@ Our WHS **Cultural Awards** are on Thursday 24 October.
 6.30pm - The celebrations will begin at the Space Studio & Gallery, 66 Taupo Quay. Senior student’s art work will be on display and drinks and nibbles will be served. From the gallery, we will invite you to the Royal Wanganui Opera House for the awards ceremony at approximately 7.30pm. 
 
 Tickets can be purchased from the Whanganui High School Student Centre, front office or the Royal Wanganui Opera House at a cost of $10.00.
-.
 
 Please ensure you have purchased your tickets by Wednesday 23 October for catering purposes. 
 
