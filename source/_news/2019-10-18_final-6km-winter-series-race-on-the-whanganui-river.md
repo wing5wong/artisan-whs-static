@@ -9,6 +9,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571353852/News/Winter_Series_race._Chronicle_15.10.19.jpg
 news_author:
   date: 2019-10-14T22:52:52.594Z
+  name: Iain Hyndman
+  publication: Whanganui Chronicle
 show_in_slider: true
 date: 2019-10-17T22:52:52.617Z
 ---
@@ -20,4 +22,4 @@ The crew featured **WHS students Niamh Monk, Jaimee Bridger, Ella Dudley, two ex
 
 They had line honours for the day with the quickest finish of 20m 7.72s, which was enough for a prognostic score of 91.91 per cent.
 
-[(information taken from the Whanganui Chronicle article by Iain Hyndman on 15/10/19)](https://www.nzherald.co.nz/rowing/news/article.cfm?c_id=78&objectid=12276061)
+[(Read the full article on the Whanganui Chronicle Website)](https://www.nzherald.co.nz/rowing/news/article.cfm?c_id=78&objectid=12276061)
