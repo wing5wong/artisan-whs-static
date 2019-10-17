@@ -3,7 +3,7 @@ title: Backstage at rep production
 feature_image:
   description: 'Past/present WHS students Grace Trillo and Fox Keane, invaluable backstage.'
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1571258037/News/Grace_Trillo_Fox_Keane.midweek_9.10.19.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1571284915/News/73076355_10156894240329601_2631141925247254528_n.jpg
 news_author:
   date: 2019-10-08T20:33:07.439Z
   name: Nadine Rayner
