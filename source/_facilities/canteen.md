@@ -16,4 +16,4 @@ Vegetarian, Vegan and Gluten free items can be pre-ordered prior to 8.35am or th
 
 Both EFTPOS and cash is accepted.
 
-**[Canteen Menu](http://c1940652.r52.cf0.rackcdn.com/5c4a65abff2a7c18530007df/Canteen-menu-2019.pdf)**
+[Canteen Menu](file:///Z:/Canteen/Canteen%20menu%202019.pdf)
