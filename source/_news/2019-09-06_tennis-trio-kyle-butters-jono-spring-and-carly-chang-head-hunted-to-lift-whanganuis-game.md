@@ -14,7 +14,7 @@ short: >-
   summer, beginning with the "Love Tennis" festival this weekend.
 news_author:
   date: 2019-09-05T00:12:31.227Z
-  name: By Iain Hyndman
+  name: Iain Hyndman
   publication: Whanganui Chronicle
 image_gallery:
   - image: >-
