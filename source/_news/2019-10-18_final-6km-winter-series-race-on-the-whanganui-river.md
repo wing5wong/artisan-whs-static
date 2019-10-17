@@ -1,5 +1,12 @@
 ---
 title: Final 6km Winter Series race on the Whanganui River
+feature_image:
+  credit: Lewis Gardiner
+  description: >-
+    After a small turnout in September, numbers entering the final 6km race of
+    the monthly series rebounded in good conditions on Sunday.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1571353852/News/Winter_Series_race._Chronicle_15.10.19.jpg
 news_author:
   date: 2019-10-14T22:52:52.594Z
 show_in_slider: true
