@@ -3,6 +3,10 @@ title: >-
   Hockey: Fourth and fifth for Wanganui teams at the Under 15 National
   Championship tournaments
 feature_image:
+  credit: Bevan Conley
+  description: >-
+    JAXON GAUDIN (WHS) in action for Wanganui Under 15 during their national
+    championship tournament in Gonville on Friday.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571208693/News/Jaxon_Gaudin.Chron_7.10.19.jpg
 news_author:
@@ -12,10 +16,6 @@ news_author:
 show_in_slider: true
 date: 2019-10-16T06:46:59.793Z
 ---
-**Jaxon Gaudin** in action for Wanganui Under 15 during their national championship tournament in Gonville on Friday.
-
-_Photo / Bevan Conley_
-
 Wanganui had to settle for a fourth place finish as hosts of the 2019 Under 15 Boys National Championship tournament after a heavy 8-2 loss to South Canterbury in the playoffs on Saturday at McDonalds Hockey Stadium.
 
 Having just lost their semifinal to Wellington 5-4 on Friday, Wanganui found themselves down 1-0 in just 60 seconds in the playoff for third, with Cooper Mason getting the first of what would eventually be a hat trick of goals.
