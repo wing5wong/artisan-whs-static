@@ -1,5 +1,5 @@
 ---
-title: George Davey is a passionate mountain biker
+title: George competes at the School Mountain Bike Champs in Dunedin
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571252883/News/George_Davey_Oct_2019.jpg
