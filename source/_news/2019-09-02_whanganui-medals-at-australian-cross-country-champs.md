@@ -4,7 +4,9 @@ short: >-
   Rebecca Bakers took the top step of the podium of the U20 NZ Girls 5x2km relay
   at the Australian Schools cross country champs.
 news_author:
-  date: 2019-09-04T23:55:16.934Z
+  date: 2019-08-29T23:55:16.934Z
+  name: Alex McNab
+  publication: Whanganui Chronicle
 description: >-
   Rebecca Bakers took the top step of the podium of the U20 NZ Girls 5x2km relay
   at the Australian Schools cross country champs.
@@ -79,6 +81,3 @@ Lambert still in Year 11 has two more eligible years to make the annual NZ Schoo
 The Whanganui athletes will be in action in a fortnight in the 41st Round the Lake Relay, which I will feature next week, where Collegiate must start as favourite in the Senior Boys event, with the three current internationals as well as Zach Bellamy, who was in last year's New Zealand team.
 
 After a shaky spell and only finishing 20th in Timaru, Bellamy is training well and Round the Lake provides a real incentive for him.
-
-_By Alex McNab_   
-Whanganui Chronicle 30/8/19_
