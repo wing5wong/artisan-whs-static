@@ -9,6 +9,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571033473/News/NZSS%20Netball%20Nationals/National_U15_Hockey_Champ_Tourn_in_WU.jpg
 news_author:
   date: 2019-10-05T06:10:43.068Z
+  name: Lisa Murphy
+  publication: WHS Director of Sport
 image_gallery:
   - description: >-
       Wanganui U15 Girls Hockey team were placed 5th. Including WHS students:
@@ -27,7 +29,4 @@ Coached by year 12 student Connor Hoskin the boys narrowly missed the final losi
 
 Congratulations also to the Whanganui High School girls who represented Wanganui who were placed 5th.  
 
-[Results from Hockey New Zealand website - Girls](https://hockeynz.altiusrt.com/teams/3276) 
-
-_Lisa Murphy_  
-_WHS Director of Sport_
+[Results from Hockey New Zealand website - Girls](https://hockeynz.altiusrt.com/teams/3276)
