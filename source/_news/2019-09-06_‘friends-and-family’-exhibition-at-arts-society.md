@@ -5,7 +5,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1567732373/News/Judy_Webby.RCP_29.8.19.jpg
 news_author:
   date: 2019-08-29T01:10:20.492Z
-  name: River City Press 29/8/19
+  name: ''
+  publication: River City Press
 show_in_slider: false
 date: 2019-09-06T01:10:20.507Z
 ---
