@@ -5,6 +5,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1569548855/News/NI%20Snowboard%20champs%20turoa%2023.25%20Sept/1.jpg
 news_author:
   date: 2019-09-25T01:40:45.068Z
+  name: 'Mr Shepherd  '
+  publication: Teacher in charge
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1569548850/News/NI%20Snowboard%20champs%20turoa%2023.25%20Sept/2.jpg
@@ -29,6 +31,3 @@ Whanganui High School entered with 3 competitors;
 Max Verhaaren, Thomas Iliffe and Artem Kovalchuk.
 
 Max finished 46th in Banked Slalom.
-
-_Mr Shepherd  
-Teacher in charge of Snowboarding_
