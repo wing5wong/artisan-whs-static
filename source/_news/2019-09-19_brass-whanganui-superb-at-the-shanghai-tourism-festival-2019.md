@@ -50,7 +50,7 @@ subject_areas:
 show_in_slider: true
 date: 2019-09-19T04:00:36.844Z
 ---
-🎷🎺🥁 Brass Whanganui at the Shanghai Tourism Festival 2019 in China.
+🎷🎺 Brass Whanganui at the Shanghai Tourism Festival 2019 in China.
 
 Year 10 student Luke Squire and former students Sarah Wright, Ethan Mancer, Jonathon Greenwell, Hamish Jellyman, Dale Jellyman and Bruce Jellyman are all part of Brass Whanganui wooing crowds at the Shanghai Tourism Festival. 👍 🎶
 
