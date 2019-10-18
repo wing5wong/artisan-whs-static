@@ -14,4 +14,4 @@ Friday 4 October at 3pm
 
 Look out for former students Ethan Mancer and Sarah Wright!! 👍
 
-Wishing you all the best Ethan and Sarah!! 🙂
+Wishing you all the best Ethan and Sarah!! 
