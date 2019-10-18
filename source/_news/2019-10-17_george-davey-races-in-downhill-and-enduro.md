@@ -5,8 +5,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571252883/News/George_Davey_Oct_2019.jpg
 news_author:
   date: 2019-10-06T19:04:22.218Z
-  name: ''
-  publication: ''
+  name: Lisa Murphy
+  publication: WHS Director of Sport
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571252899/News/George_Davey._Oct_2019.jpg
@@ -24,6 +24,3 @@ George has never raced in the South Island before and he couldn't wait to repres
 On Saturday he raced the Downhill. The conditions were wet and windy and George placed 17th out of 58 in U15.
 
 Outstanding results George! 💛🚴‍♂️💚
-
-_Lisa Murphy  
-WHS Director of Sport_
