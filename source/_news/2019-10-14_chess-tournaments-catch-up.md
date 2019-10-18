@@ -6,6 +6,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571022633/News/3RD.jpg
 news_author:
   date: 2019-09-28T01:10:23.801Z
+  name: Mr Tim Sutherland
+  publication: Teacher in Charge
 image_gallery:
   - description: Sam Gray enjoying the tournament.
     image: >-
@@ -29,6 +31,3 @@ The end of last term was a big one for the Chess Club, starting out with a regio
 The day ended with everyone playing games against a tag-team of a chess grandmaster and an Oceanic champion. While it is safe to say that no one won, this was a lot of fun and a highlight to the day.
 
 Only two days later, our A Team - Luke Pearson, Shae Kairau, Dekin Chadfield and Victor Xie - headed down to Palmerston North for the national competition. We put a good fight and won several games individually, but ultimately couldn’t hold our own at a national level. That being said, the team is more motivated than ever to get study and practice in and come again next year.
-
-_Mr Tim Sutherland  
-Teacher in Charge_
