@@ -8,4 +8,4 @@ You can find out about them by going to the School Website under School Informat
 
 Applications are on-line, or forms may be collected from the Student Centre. 
 
-Due date is Tuesday 22 October.
+**Due date is Tuesday 22 October.**
