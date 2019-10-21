@@ -4,7 +4,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571618457/Events/flowercropped.jpg
 news_author:
-  date: 2019-10-21T00:34:40.556Z
+  date: 2019-10-18T00:34:40.556Z
 show_in_slider: true
 date: 2019-10-21T00:34:40.578Z
 ---
