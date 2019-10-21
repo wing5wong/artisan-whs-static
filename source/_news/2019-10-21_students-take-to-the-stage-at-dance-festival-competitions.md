@@ -8,11 +8,14 @@ news_author:
   name: Mrs Natalie Campbell
   publication: Teacher in Charge
 image_gallery:
-  - image: >-
+  - description: Mira Meijer
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/75271478_774224742999866_9040152670492426240_n.jpg
-  - image: >-
+  - description: Mira Meijer
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/73044607_774224736333200_4137905654859825152_n.jpg
-  - image: >-
+  - description: Mira Meijer
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621273/News/75341257_774224789666528_5950547373221478400_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/74291834_774224802999860_565749219831316480_n.jpg
