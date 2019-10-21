@@ -19,7 +19,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-10-14T00:51:41.908Z
 ---
-During the last week of Term 3 our Junior Debaters were all geared up for their final confrontations of the Regional Junior Debating John Prestage Competition.  Preparation had been thorough and presentations were practiced and perfected until the last minute of the  
+During the last week of Term 3 our Junior Debaters were all geared up for their last confrontation of the Regional Junior Debating John Prestage Competition.  Preparation had been thorough and presentations were practiced and perfected until the last minute.  
 
 Our Whero and Kowhai team had to negate the moot: “This House will ban the use of plastic packaging”. 
 
