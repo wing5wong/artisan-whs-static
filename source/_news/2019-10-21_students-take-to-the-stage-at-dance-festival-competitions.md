@@ -2,7 +2,7 @@
 title: Students take to the stage at Dance Festival competitions
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/73044607_774224736333200_4137905654859825152_n.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/73315291_774225172999823_2775230128043589632_n.jpg
 news_author:
   date: 2019-10-10T01:03:00.123Z
   name: Mrs Natalie Campbell
