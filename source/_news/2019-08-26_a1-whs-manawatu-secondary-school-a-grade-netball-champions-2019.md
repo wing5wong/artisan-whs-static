@@ -6,7 +6,9 @@ short: >-
   Phillips Electrical A1 WHS Netball Team - Manawatu Secondary School A Grade
   Netball CHAMPIONS 2019!
 news_author:
-  date: 2019-10-18T09:06:02.906Z
+  date: 2019-08-24T10:06:02.906Z
+  name: Lisa Murphy
+  publication: WHS Director of Sport
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566795255/68654353_1328148277334275_8268601863515930624_n.jpg
@@ -45,6 +47,3 @@ Great send off for our 5 - Y13 Girls Montel Vaiao Aki, Imogen Flower, Teagan Tap
 A BIG thank you to Manager Kim Flower for 8 years of FUN, Support, awesome management skills and always being their for the girls!!!
 
 Thank you to EVERYONE who made the trip to Palmy this morning to support the team!! 😉
-
-_Lisa Murphy_  
-_WHS Director of Sport 24/8/19_
