@@ -8,7 +8,7 @@ news_author:
 show_in_slider: true
 date: 2019-10-21T02:32:49.295Z
 ---
-Target Shooting Wanganui Prizegiving (Friday 18 October 2019):
+**Target Shooting Wanganui Prizegiving** (Friday 18 October 2019):
   
 **C Grade District Champion: James Gray**  
 **D Grade District Champion: Harry Kibblewhite**  
@@ -16,13 +16,13 @@ Vesta Challenge Cup: Michael Sturdee, Tayla Pryce, James Gray
 D Grade Pairs: Harry Kibblewhite, Tayla Pryce  
 D Grade Knockout Match: Harry Kibblewhite, Michael Sturdee, Tanysha-Rochelle Jones
 
-2019 Inter-Secondary School Inter-Island Match:  
+**2019 Inter-Secondary School Inter-Island Match:**  
 (Royal Tiger Range in Wellington on 28 & 29 September)
 
 WHS students competing were James Gray, Harry Kibblewhite and Michael Sturdee.  
 **James made the North Island team (top 12 shooters of the North Island) who went on to WIN the Greenhough Trophy!**
 
-2019 TSNZ Challenge - Secondary Schools Postal Competition
+**2019 TSNZ Challenge - Secondary Schools Postal Competition**
 (awarded at the 2019 Inter-Secondary School Inter-Island Match) 
 
 Top Individuals:  
