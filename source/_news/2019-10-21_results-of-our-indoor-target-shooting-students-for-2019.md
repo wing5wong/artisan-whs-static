@@ -26,7 +26,7 @@ WHS students competing were James Gray, Harry Kibblewhite and Michael Sturdee.
 ## 2019 TSNZ Challenge - Secondary Schools Postal Competition:  
 (awarded at the 2019 Inter-Secondary School Inter-Island Match) 
 
-### Target Shooting NZ Challenge 2019 Overall Top Boy
+### Target Shooting NZ Challenge 2019 Overall Top Boy:
 **James Gray (1st out of 119 boys!)**
 
 ## Target Shooting Wanganui (Region):  
