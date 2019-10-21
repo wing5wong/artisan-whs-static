@@ -6,7 +6,9 @@ short: >-
 
   Rebecca was the 2nd NZ runner home.
 news_author:
-  date: 2019-10-18T09:03:58.995Z
+  date: 2019-08-24T10:03:58.995Z
+  name: Lisa Murphy
+  publication: WHS Director of Sport
 description: >-
   Well done to Rebecca Baker who finished 19th in her Cross Country race today
   in Sydney.
@@ -30,6 +32,3 @@ image: >-
 Rebecca said it was a really fast flat track with no hills, no hurdles..... just dust!! 
 
 Just how our Head Girl likes it 😉
-
-_Lisa Murphy_  
-_WHS Director of Sport 24/8/19_
