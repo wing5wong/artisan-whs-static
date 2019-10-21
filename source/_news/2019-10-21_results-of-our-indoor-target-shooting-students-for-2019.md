@@ -18,7 +18,7 @@ date: 2019-10-21T02:32:49.295Z
 - D Grade Knockout Match: Harry Kibblewhite, Michael Sturdee, Tanysha-Rochelle Jones
 
 ## 2019 Inter-Secondary School Inter-Island Match:
-(Royal Tiger Range in Wellington on 28 & 29 September)
+(Royal Tiger Range in Wellington on 28 & 29 September 2019)
 
 WHS students competing were James Gray, Harry Kibblewhite and Michael Sturdee.  
 **James made the North Island team (top 12 shooters of the North Island) who went on to WIN the Greenhough Trophy!**
