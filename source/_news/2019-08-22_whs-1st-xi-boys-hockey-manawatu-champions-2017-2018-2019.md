@@ -5,7 +5,7 @@ short: >-
   Secondary Schools Division 1 Champs in Palmerston North last night against
   Feilding High School
 news_author:
-  date: 2019-10-18T09:09:32.012Z
+  date: 2019-08-22T10:09:32.012Z
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1566438582/2.Winners-4-to-Nil.jpg
