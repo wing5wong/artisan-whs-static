@@ -6,7 +6,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/73315291_774225172999823_2775230128043589632_n.jpg
 news_author:
   date: 2019-10-10T01:03:00.123Z
-  name: Mrs Natalie Campbell
+  name: Miss Leah Vile
   publication: Teacher in Charge
 image_gallery:
   - description: Mira Meijer dancing her winning Contemporary Solo performance.
@@ -18,23 +18,23 @@ image_gallery:
   - description: Mira Meijer dancing her winning Contemporary Solo performance.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621273/News/75341257_774224789666528_5950547373221478400_n.jpg
-  - description: Rosa Spence dancing her Contemporary Solo called 'Way Down We Go'.
+  - description: >-
+      Congratulations to Mira Meijer with her winning trophy in Contemporary
+      dance.
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/74291834_774224802999860_565749219831316480_n.jpg
-  - description: Rosa Spence dancing her Contemporary Solo called 'Way Down We Go'.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621270/News/73073224_774224849666522_9105742748157214720_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/72748330_774224949666512_5201683451085848576_n.jpg
   - description: Emelye Brown dancing her Contemporary Solo called 'Everglow'.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/72615342_774224869666520_2899914364381298688_n.jpg
   - description: Emelye Brown dancing her Contemporary Solo called 'Everglow'.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/72627531_774224919666515_4954385577848864768_n.jpg
-  - description: >-
-      Congratulations to Mira Meijer with her winning trophy in Contemporary
-      dance.
+  - description: Rosa Spence dancing her Contemporary Solo called 'Way Down We Go'.
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/72748330_774224949666512_5201683451085848576_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/74291834_774224802999860_565749219831316480_n.jpg
+  - description: Rosa Spence dancing her Contemporary Solo called 'Way Down We Go'.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621270/News/73073224_774224849666522_9105742748157214720_n.jpg
   - description: ‘Billie’ dancing their 4th place Jazz performance.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/75226557_774224986333175_5225783994347421696_n.jpg
