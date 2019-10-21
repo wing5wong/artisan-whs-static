@@ -4,12 +4,6 @@ name: External Studies
 code: EXT3
 subject_area: External Studies
 date: 2019-07-01T00:12:01.252Z
-year: '13'
-type: Optional
-course_duration: Full Year
-course_level: NCEA 3
-assessment_type: Unit Standard
-leads_to: ''
 entry_requirements: >-
   University Studies - students must have the Principal's approval and
   provisional entrance to University (to be applied for by 1st December) is
@@ -18,6 +12,12 @@ entry_requirements: >-
   available every year and may have Level 2 prerequisites before a student can
   embark upon Level 3 units. Other provider Studies. Students need to gain
   approval from Mrs Howard.
+year: '13'
+type: Optional
+course_duration: Full Year
+course_level: NCEA 3
+assessment_type: Unit Standard
+leads_to: ''
 notes: >-
   EXT3 is a supervised study period where students complete the work provided by
   external providers. Alternatively, where Year 12-13 students are on "course"
