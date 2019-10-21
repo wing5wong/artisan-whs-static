@@ -35,7 +35,7 @@ image_gallery:
       Target Shooting NZ Challenge 2019 OVERALL TOP BOY: James Gray (1st out of
       119 boys!)
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571626798/News/James_rifle_medal_2019.All_members_of_the_North_Island_team_received_one_in_recognition_of_wining_the_trophy_as_they_all_came_from_different_schools..jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571629804/News/James_rifle_medal_2019_All_members_of_the_North_Island_team_received_one_in_recognition_of_wining_the_trophy_as_they_all_came_from_different_schools._2.jpg
   - description: >-
       WHS shooting team in Wellington: Michael Sturdee, Harry Kibblewhite, James
       Gray.
