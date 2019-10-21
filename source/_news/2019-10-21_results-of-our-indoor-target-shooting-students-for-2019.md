@@ -1,5 +1,8 @@
 ---
 title: Results of our Indoor Target Shooting students for 2019
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1571626798/News/James_rifle_medal_2019.All_members_of_the_North_Island_team_received_one_in_recognition_of_wining_the_trophy_as_they_all_came_from_different_schools..jpg
 news_author:
   date: 2019-10-18T02:32:49.277Z
 show_in_slider: true
