@@ -1,6 +1,7 @@
 ---
 title: Students take to the stage at Dance Festival competitions
 feature_image:
+  description: ‘Helium’ dancing their 4th place Lyrical performance.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/73315291_774225172999823_2775230128043589632_n.jpg
 news_author:
@@ -8,36 +9,49 @@ news_author:
   name: Mrs Natalie Campbell
   publication: Teacher in Charge
 image_gallery:
-  - description: Mira Meijer
+  - description: Mira Meijer dancing her winning Contemporary Solo performance.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/75271478_774224742999866_9040152670492426240_n.jpg
-  - description: Mira Meijer
+  - description: Mira Meijer dancing her winning Contemporary Solo performance.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/73044607_774224736333200_4137905654859825152_n.jpg
-  - description: Mira Meijer
+  - description: Mira Meijer dancing her winning Contemporary Solo performance.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621273/News/75341257_774224789666528_5950547373221478400_n.jpg
-  - image: >-
+  - description: Rosa Spence dancing her Contemporary Solo called 'Way Down We Go'.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/74291834_774224802999860_565749219831316480_n.jpg
-  - image: >-
+  - description: Rosa Spence dancing her Contemporary Solo called 'Way Down We Go'.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621270/News/73073224_774224849666522_9105742748157214720_n.jpg
-  - image: >-
+  - description: Emelye Brown dancing her Contemporary Solo called 'Everglow'.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/72615342_774224869666520_2899914364381298688_n.jpg
-  - image: >-
+  - description: Emelye Brown dancing her Contemporary Solo called 'Everglow'.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/72627531_774224919666515_4954385577848864768_n.jpg
-  - image: >-
+  - description: >-
+      Congratulations to Mira Meijer with her winning trophy in Contemporary
+      dance.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/72748330_774224949666512_5201683451085848576_n.jpg
-  - image: >-
+  - description: ‘Billie’ dancing their 4th place Jazz performance.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/75226557_774224986333175_5225783994347421696_n.jpg
-  - image: >-
+  - description: ‘Billie’ dancing their 4th place Jazz performance.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/73285484_774225012999839_3604881233965744128_n.jpg
-  - image: >-
+  - description: ‘One Woman Army’ dancing their 2nd place Jazz performance.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621270/News/72730269_774225076333166_1288323299255779328_n.jpg
-  - image: >-
+  - description: ‘One Woman Army’ dancing their 2nd place Jazz performance.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/74573350_774225119666495_6457395866821984256_n.jpg
-  - image: >-
+  - description: ‘Helium’ dancing their 4th place Lyrical performance.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621273/News/75496067_774225142999826_6975815238541115392_n.jpg
-  - image: >-
+  - description: ‘Helium’ dancing their 4th place Lyrical performance.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/73315291_774225172999823_2775230128043589632_n.jpg
 show_in_slider: true
 date: 2019-10-21T01:03:00.140Z
