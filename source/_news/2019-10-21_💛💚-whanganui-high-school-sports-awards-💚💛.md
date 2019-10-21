@@ -1,5 +1,5 @@
 ---
-title: "\U0001F49B\U0001F49A Whanganui High School Sports Awards \U0001F49A\U0001F49B"
+title: WHS SPORTS AWARDS 2019
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1569559053/Events/Sports-1.jpg
