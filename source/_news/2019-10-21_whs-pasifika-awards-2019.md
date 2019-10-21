@@ -8,7 +8,7 @@ news_author:
 show_in_slider: true
 date: 2019-10-21T00:34:40.578Z
 ---
-Congratulations to our Prestigious Award winners at the 2019 Pasifika Awards on Friday night:
+Congratulations to our Prestigious Award winners at the 2019 Pasifika Awards on Friday 18 October:
 
 **WHS Cup for Outstanding Contribution to Pasifika – Senior: MICIAH TAIT**
 
@@ -17,4 +17,6 @@ Congratulations to our Prestigious Award winners at the 2019 Pasifika Awards on 
 **Seunu’u Mau Leleimalefaga Cup for Pasifika Leadership – Male: JOSEFA TAMANIYAGA**
 
 **Seunu’u Mau Leleimalefaga Cup for Pasifika Leadership – Female: JERICHO LEIASAMAIVAO TURVEY**
+
+Well done to all of our winners on the night! 
 
