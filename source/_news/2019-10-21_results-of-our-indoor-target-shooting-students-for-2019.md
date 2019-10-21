@@ -12,18 +12,18 @@ image_gallery:
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571627544/News/Target%20Shooting%20WU%20Prizegiving%2018.10.19/C-Grade-District-Champ-James-Gray_2019.jpg
   - description: >-
-      Target Shooting Wanganui Prizegiving: Vesta Challenge Cup: Michael
-      Sturdee, Tayla Pryce, James Gray.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571627551/News/Target%20Shooting%20WU%20Prizegiving%2018.10.19/Vesta_Challenge_Cup_Michael_Sturdee_Tayla_Pryce_James_Gray_2019.jpg
-  - description: >-
-      Target Shooting Wanganui Prizegiving - D Grade Pairs: Harry Kibblewhite,
-      Tayla Pryce.
+      Target Shooting Wanganui Prizegiving - D Grade District Champion: Harry
+      Kibblewhite. D Grade Pairs: Harry Kibblewhite & Tayla Pryce.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571627558/News/Target%20Shooting%20WU%20Prizegiving%2018.10.19/D_Grade_Pairs.Harry_Kibblewhite_Tayla_Pryce_2019_..jpg
   - description: >-
+      Target Shooting Wanganui Prizegiving: Vesta Challenge Cup: Michael
+      Sturdee, Tayla Pryce & James Gray.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571627551/News/Target%20Shooting%20WU%20Prizegiving%2018.10.19/Vesta_Challenge_Cup_Michael_Sturdee_Tayla_Pryce_James_Gray_2019.jpg
+  - description: >-
       Target Shooting Wanganui Prizegiving - D Grade Knockout Match: Harry
-      Kibblewhite, Michael Sturdee, Tanysha-Rochelle Jones (absent).
+      Kibblewhite, Michael Sturdee & Tanysha-Rochelle Jones (absent).
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571627550/News/Target%20Shooting%20WU%20Prizegiving%2018.10.19/D_Grade_Knockout_MatchHarry_Kibblewhite_Michael_Sturdee_Absent.Tanysha-Rochelle_Jones_2019.jpg
   - description: >-
