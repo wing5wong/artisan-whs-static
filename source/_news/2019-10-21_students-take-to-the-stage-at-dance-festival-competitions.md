@@ -64,7 +64,7 @@ One of our teams music skipped and at prize giving and the adjudicator congratul
 
 **Congratulations to Mira Meijer winning her Contemporary category.**
 
-In the groups section WHS took:  
+Results for WHS in the groups section:  
 **2nd - ‘One Woman Army’ in the Modern category.**  
 **4th - ‘Billie’ in the Modern category.**  
 **4th - ‘Helium’ in the Lyrical category.**
