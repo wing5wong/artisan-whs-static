@@ -56,13 +56,11 @@ image_gallery:
 show_in_slider: true
 date: 2019-10-21T01:03:00.140Z
 ---
-In the second week of the school holidays some of our Dance students took to the stage in the Whanganui Dance Competitions performing at the Wanganui Opera House.
-
 The dressing rooms were cluttered with costumes, smelt of hairspray, and filled with enthusiastic chatter leading up to performance time. 
 
 The girls had a mixed emotions of nerves and excitement in the stage wings. Once they stepped on stage they let the adrenaline take over and wowed their audience. 
 
-One of our teams music skipped and at prize giving and the adjudicator congratulated them on continuing with their dance without hesitating and said that it was obvious how close they were as a team. This was an accurate way to describe our students that performed at the Opera House in the holidays. We are proud of the achievements they have made representing Whanganui High School.
+One of our teams music skipped and at prize giving and the adjudicator congratulated them on continuing with their dance without hesitating and said that it was obvious how close they were as a team. This was an accurate way to describe our students that performed in the Whanganui Dance Competitions at the Opera House in the holidays. We are proud of the achievements they have made representing Whanganui High School.
 
 **Congratulations to Mira Meijer winning her Contemporary category.**
 
