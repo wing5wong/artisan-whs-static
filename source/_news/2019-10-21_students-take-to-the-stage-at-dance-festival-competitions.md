@@ -35,18 +35,18 @@ image_gallery:
   - description: Rosa Spence dancing her Contemporary Solo called 'Way Down We Go'.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621270/News/73073224_774224849666522_9105742748157214720_n.jpg
-  - description: ‘Billie’ dancing their 4th place Jazz performance.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/75226557_774224986333175_5225783994347421696_n.jpg
-  - description: ‘Billie’ dancing their 4th place Jazz performance.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/73285484_774225012999839_3604881233965744128_n.jpg
   - description: ‘One Woman Army’ dancing their 2nd place Jazz performance.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621270/News/72730269_774225076333166_1288323299255779328_n.jpg
   - description: ‘One Woman Army’ dancing their 2nd place Jazz performance.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/74573350_774225119666495_6457395866821984256_n.jpg
+  - description: ‘Billie’ dancing their 4th place Jazz performance.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/75226557_774224986333175_5225783994347421696_n.jpg
+  - description: ‘Billie’ dancing their 4th place Jazz performance.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571621271/News/73285484_774225012999839_3604881233965744128_n.jpg
   - description: ‘Helium’ dancing their 4th place Lyrical performance.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571621273/News/75496067_774225142999826_6975815238541115392_n.jpg
