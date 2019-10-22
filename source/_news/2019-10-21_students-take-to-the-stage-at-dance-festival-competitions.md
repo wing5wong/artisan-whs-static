@@ -6,7 +6,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571621272/News/73315291_774225172999823_2775230128043589632_n.jpg
 news_author:
   date: 2019-10-10T01:03:00.123Z
-  name: Miss Leah Vile
+  name: Miss Leah Viles
   publication: Teacher in Charge
 image_gallery:
   - description: Mira Meijer dancing her winning Contemporary Solo performance.
