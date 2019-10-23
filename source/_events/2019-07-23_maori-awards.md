@@ -1,6 +1,8 @@
 ---
 title: Māori Awards 2019
 date: 2019-10-31T05:13:44.254Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1571791391/Events/Maori-Awards-facebook-picture.jpg
 ---
 Our WHS **Māori Awards** are on Thursday 31 October at the Wanganui Racecourse Function Centre at 6.00pm. 
 
