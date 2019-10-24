@@ -1,6 +1,7 @@
 ---
 title: WHS CULTURAL AWARDS 2019
 feature_image:
+  description: 'Prestigious winners of the night: Emelye Brown, Ben Power, Abby Squire.'
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571957947/News/DUX.Emelye-Brown_-Ben-Power.trim-right.jpg
 news_author:
