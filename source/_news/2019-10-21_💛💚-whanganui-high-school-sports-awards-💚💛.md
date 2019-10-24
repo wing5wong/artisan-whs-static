@@ -26,7 +26,7 @@ image_gallery:
   - description: Travis Bayler - BOYS DUX.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571887005/News/Travis_Bayler_photo_of_DUX.jpg
-  - description: Keightley Watson - Principals Cup - Most outstanding sporting achievement.
+  - description: Keightley Watson - PRINCIPALS CUP - Most outstanding sporting achievement.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571886972/News/7.PRINCIPALS_CUP.Keightley.jpg
 show_in_slider: true
