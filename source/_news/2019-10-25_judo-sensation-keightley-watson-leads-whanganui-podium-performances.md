@@ -27,26 +27,20 @@ Whanganui judokas produced podium performances at the 2019 National Judo Champio
 
 Wanganui club coach and uncle Wayne Watson, a former multiple national champion himself, said his nephew was "beautiful to watch".
 
-READ MORE:
-• Whanganui judoka Keightley Watson on the hunt for world ranking points
-• Whanganui judoka Keightley Watson on podium in Taipei and in the frame for Olympic selection
-• Whanganui judoka Keightley Watson wins gold at Hong Kong Asian Cup tournament
-• Teenage Whanganui judo sensation Keightley Watson allows nothing to stand his way in Canberra
-
 "Keightley is beautiful to watch and so light on his feet for such a big man," Wayne Watson said.
 
 Four minutes are allowed for each bout - Watson was ending his in a minute or two at the maximum.
 
-Meanwhile, Watson's younger brother Callaghan won silver in the senior boys' +66kg division and gold in the open weight grade for his class. Club mate Jordana Vuleta won bronze in the U57kg division of the Senior Girls' competition.
+Meanwhile, Watson's younger brother **Callaghan won silver in the senior boys' +66kg division and gold in the open weight grade for his class.** Club mate Jordana Vuleta won bronze in the U57kg division of the Senior Girls' competition.
 
 Judokas from the Whanganui City College Judo Club also produced podium performances bringing home a silver and four bronze medals.
 
 Scarlett Hodder won silver in the U32kg Junior Girls grade, while younger brother Hunter Hodder claimed bronze in the Junior Boys' U28kg division.
 
-Club mates Finn Brown (U73kg) , Liam Goodhall (U81kg) and Antoine Rahier (U66kg) won bronze in the Senior Men's division.
+Club mates **Finn Brown (U73kg)**, Liam Goodhall (U81kg) and Antoine Rahier (U66kg) won bronze in the Senior Men's division.
 
-Keightley Watson, Brown and Goodhall are now off the compete in their respective divisions at the Oceania Judo Cup and Oceania Judo Open being held in Perth on November 2-4.
+**Keightley Watson, Brown** and Goodhall are now off the compete in their respective divisions at the Oceania Judo Cup and Oceania Judo Open being held in Perth on November 2-4.
 
-Four hundrend and 16 judokas from 79 nations and five continents will compete in Perth.
+Four hundred and 16 judokas from 79 nations and five continents will compete in Perth.
 
 Meanwhile, Whanganui's Diane Limbrey also featured at the nationals in Rotorua in the capacity of referee and commission member and is one of just three referees from New Zealand who have been selected to referee in the two competitions in Perth.
