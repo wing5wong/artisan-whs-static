@@ -5,6 +5,8 @@ feature_image:
   description: >-
     Rochelle Lowe (left) and Abigail Sewell from Whanganui High School excelled
     in the senior category of the annual Wynne Costley Research Scholarship. 
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1571947358/News/Rochelle_Abigail_Wynne_Costley.Chron_24.10.19.jpg
 news_author:
   date: 2019-10-23T19:57:10.503Z
   name: Lucy Drake
