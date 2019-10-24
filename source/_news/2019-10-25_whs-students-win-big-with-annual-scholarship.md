@@ -18,9 +18,9 @@ Girls from Whanganui secondary schools were recently encouraged to submit a piec
 
 And Whanganui High School students Abigail Sewell and Rochelle Lowe came out on top in the senior section of the literary research competition.
 
-**Abigail placed first, receiving $250 and a trophy plus an additional $300 for the most outstanding contribution.**
+**Abigail placed first, receiving $300 and a trophy plus an additional $500 for the most outstanding contribution.**
 
-**Rochelle was second and received $125 for her piece.**
+**Rochelle was second and received $250 for her piece.**
 
 The awards, which started 13 years ago, honour the memory of Wynne Costley who taught English, Latin and French and was head of the English department at Wanganui Girls' College in the 1950s and 1960s.
 
