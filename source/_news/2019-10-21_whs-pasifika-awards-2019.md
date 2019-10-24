@@ -8,7 +8,7 @@ news_author:
 image_gallery:
   - description: 'Cup for Outstanding Contribution to Pasifika – Senior: Miciah Tait.'
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571952465/News/Miciah-head-shot-for-website-large-photo.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571956952/News/Miciah-head-800.photo.jpg
   - description: >-
       Cup for Outstanding Contribution to Pasifika – Junior: Isaac
       Kosena-Newman.
