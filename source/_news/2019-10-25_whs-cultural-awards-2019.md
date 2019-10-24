@@ -15,10 +15,9 @@ date: 2019-10-24T22:43:02.982Z
 
 Massive congratulations to our Prestigious Award winners on the night:
   
-**Dux Artiums for 2019:  
-Emelye Brown and Ben Power.**  
+**Dux Artiums for 2019 - Emelye Brown and Ben Power.**  
 
-**Principals cup for Excellence in Performance, Abby Squire.**
+**Principals cup for Excellence in Performance - Abby Squire.**
 
 Congratulations to everyone who walked across the stage.  
 
