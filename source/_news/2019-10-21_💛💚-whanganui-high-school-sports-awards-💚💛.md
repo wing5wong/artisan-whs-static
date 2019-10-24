@@ -20,13 +20,13 @@ image_gallery:
   - description: Phillips Electrical A1 Netball - Team of the Year.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571886966/News/4.Netball_TEAM_OF_THE_YEAR.jpg
-  - description: Rebecca Baker - GIRLS DUX.
+  - description: REBECCA BAKER - GIRLS DUX.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571886968/News/5.SPORTS_DUX.Rebecca.jpg
-  - description: Travis Bayler - BOYS DUX.
+  - description: TRAVIS BAYLER - BOYS DUX.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571887005/News/Travis_Bayler_photo_of_DUX.jpg
-  - description: Keightley Watson - PRINCIPALS CUP - Most outstanding sporting achievement.
+  - description: KEIGHTLEY WATSON - PRINCIPALS CUP - Most outstanding sporting achievement.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571886972/News/7.PRINCIPALS_CUP.Keightley.jpg
 show_in_slider: true
