@@ -13,6 +13,9 @@ news_author:
   name: Iain Hyndman
   publication: Whanganui Chronicle
 image_gallery:
+  - description: WHS student Samson Power in action!
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571972646/News/Samson-Power.GOOD.jpg
   - description: >-
       Central Squash rep team from back left - Mark Langdon, Sam Deadman, SAMSON
       POWER, Dane Kendall, Allan Bailey, Matthew Ratcliffe, Victor Romero
