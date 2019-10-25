@@ -17,7 +17,7 @@ date: 2019-10-24T22:43:02.982Z
 
 Massive congratulations to our Prestigious Award winners:
   
-**Dux Artium 2019, Girl - EMELYE BROWN**  🏆👏
+**Dux Artium 2019, Girl - EMELYE BROWN**  🏆👏    
 **Dux Artium 2019, Boy - BEN POWER**  🏆👏  
 
 **Principals cup for Excellence in Performance - ABBY SQUIRE**  🏆👏
