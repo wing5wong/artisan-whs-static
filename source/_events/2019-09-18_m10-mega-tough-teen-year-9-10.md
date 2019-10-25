@@ -1,12 +1,18 @@
 ---
-title: M10 Mega Tough Teen Competition - Year 9 & 10
+title: Tough Teens 2019 - Year 9 & 10
 date: 2019-11-27T20:46:53.274Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1568756868/Events/Tough-Teen-Save-the-Date-2019-2-300x189.png
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571961552/News/photo_from_last_year_1.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571961567/News/photo_from_last_year_2.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571961581/News/photo_from_last_year_3.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571961596/News/photo_from_last_year_4.jpg
 ---
-Venue:  Cooks Gardens, Wanganui.  
-When:  Thursday 28 November 2019.
-
 The Wanganui Tough Teens is back again this year for Y9-10 students at Cooks Gardens. 
 
 WHS will be taking the 'WHOLE' Y9-10 school to Cooks for the day on Thursday 28 November.
