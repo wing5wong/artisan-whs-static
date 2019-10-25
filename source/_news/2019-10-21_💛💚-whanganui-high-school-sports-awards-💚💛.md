@@ -1,6 +1,9 @@
 ---
 title: WHS SPORTS AWARDS 2019
 feature_image:
+  description: >-
+    Sports Dux 2019 - Travis Bayler and Rebecca Baker and Principals Cup -
+    Keightley Watson.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1571979391/3_leaders.......jpg
 news_author:
