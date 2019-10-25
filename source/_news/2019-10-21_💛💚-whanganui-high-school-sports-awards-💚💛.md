@@ -2,7 +2,7 @@
 title: WHS SPORTS AWARDS 2019
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1569559053/Events/Sports-1.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1571979391/3_leaders.......jpg
 news_author:
   date: 2019-10-17T00:30:23.333Z
   name: 'Lisa Murphy '
