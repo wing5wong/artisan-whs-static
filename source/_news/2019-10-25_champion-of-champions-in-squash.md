@@ -16,7 +16,7 @@ image_gallery:
   - description: >-
       Central Squash rep team from back left - Mark Langdon, Sam Deadman, SAMSON
       POWER, Dane Kendall, Allan Bailey, Matthew Ratcliffe, Victor Romero
-      (coach). Front left: Gabrielle Bevins, Emma Dowman, Pauline Slovak,
+      (coach). Front left: Gabrielle Bevins, Emma Foreman, Pauline Slovak,
       NGAKUIRA OSBORNE, Mairi Whittle.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571951828/News/Rep_team.Chron_24.10.19.jpg
