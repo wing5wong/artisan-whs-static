@@ -11,14 +11,15 @@ news_author:
 show_in_slider: true
 date: 2019-10-24T22:43:02.982Z
 ---
-**Cultural Awards....What a night!!!**
+**Cultural Awards....What a night!!!**  🎉🎉
 
-Massive congratulations to our Prestigious Award winners on the night:
+Massive congratulations to our Prestigious Award winners:
   
-**Dux Artiums for 2019 - Emelye Brown and Ben Power.**  
+**Dux Artium 2019, Girl - EMELYE BROWN**  🏆👏
+**Dux Artium 2019, Boy - BEN POWER**  🏆👏  
 
-**Principals cup for Excellence in Performance - Abby Squire.**
+**Principals cup for Excellence in Performance - ABBY SQUIRE**  🏆👏
 
-Congratulations to everyone who walked across the stage.  
+Congratulations to everyone who walked across the stage.  👏
 
-Prefects...a stunning job, thank you! 
+Prefects...a stunning job, thank you!  👍 
