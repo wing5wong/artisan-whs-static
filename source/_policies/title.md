@@ -21,7 +21,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1567372163/School%20Policies/1.7b_-Use_of_the_Internet_updated_August_2019.pdf
         policy: 1.7b Use of the Internet
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683532/School%20Policies/1.8--Careers-Information--Advice_-updated-September-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/1.8_-Careers_Information_Advice_updated_October_2019.pdf
         policy: 1.8 Careers Information and Advice
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/1.9_-_Assessment_and_Reporting_updated_September_2019.pdf
@@ -64,10 +64,10 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1567372190/School%20Policies/3.10_-_Staff_Leave_updated_August_2019.pdf
         policy: 3.10 Staff Leave
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683536/School%20Policies/3.11---Sexual-Harassment_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/3.11_-_Sexual_Harassment_updated_October_2019.pdf
         policy: 3.11 Sexual Harassment
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683536/School%20Policies/3.12--Complaints-and-Associated-Staff-Discipline_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/3.12_-Complaints_and_Associated_Staff_Discipline_updated_October_2019.pdf
         policy: 3.12 Complaints and Associated Staff Discipline
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683537/School%20Policies/3.13---Anti-Violence_-Abuse_-Bullying-Police---October-2018.pdf
@@ -107,7 +107,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/5.4--Student-Discipline-Policy-_-updated-November-2016.pdf
         policy: 5.4 Student Discipline
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693560/School%20Policies/5.5--Sexuality-Education-Policy_-updated-August-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1572306627/School%20Policies/5.5_-Sexuality_Education_Policy_updated_October_2019.pdf
         policy: 5.5 Sexuality Education
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693561/School%20Policies/5.6--Drugs-Policy_-updated-April-2018.pdf
