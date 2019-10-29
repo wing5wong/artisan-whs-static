@@ -4,7 +4,7 @@ feature_image:
   credit: Karen Hughes/Training For You
   description: >-
     Training For You students Shaun Raza, Charity Tutaki, Jamie Wernham, Monica
-    Te Awa, and Tom Ross (former WHS student) are ready to serve customers from
+    Te Awa, and TOM ROSS (former WHS student) are ready to serve customers from
     the community.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572329458/News/Tom_Ross_ex_RCP_24.10.19.jpg
