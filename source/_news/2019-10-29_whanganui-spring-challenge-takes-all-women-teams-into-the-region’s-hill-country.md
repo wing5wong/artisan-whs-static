@@ -1,55 +1,61 @@
 ---
 title: >-
-  Whanganui Spring Challenge takes all-women teams into the region’s hill
-  country
+  Female competitors to battle through Whanganui hill country in Spring
+  Challenge North 
 feature_image:
+  credit: Supplied
+  description: >-
+    Competitors will go through a course made up of rafting, trekking and biking
+    stages to reach the finish line.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572331428/News/Spring_Challenge.Dan_Moore.RCP_17.10.19.jpg
 news_author:
   date: 2019-10-17T06:37:38.691Z
-  publication: River City Press
+  name: Abe Leach
+  publication: Whanganui Chronicle
 image_gallery:
+  - description: >-
+      Dan Moore is putting his race experience into designing Whanganui's Spring
+      Challenge North course. Photo / Bevan Conley
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1572331748/News/Spring_Challenge.photoof_Dan_Moore..RCP_17.10.19.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572331466/News/Spring_Challenge.Dan_Moore..RCP_17.10.19.png
 show_in_slider: true
 date: 2019-10-29T06:37:38.709Z
 ---
-The Spring Challenge North all-women’s event will embrace an area that has long been left unchartered by adventure races, when it takes 145 teams through the Whanganui hill country on Saturday.
+The Spring Challenge North will provide a tough test for almost 500 women as they work their way through the Whanganui countryside.
 
-A total of 481 women - competing in teams of three or four - will begin with a raft stage and then navigate their way on foot and on mountain bikes through their 3-hour, 6-hour or 9-hour courses.
+So far this weekend's event has drawn 481 competitors, split into teams made up of three or four people, who will battle through rafting, trekking and biking elements of the course.
 
-Spring Challenge Whanganui route planner and course designer, **Dan Moore** (ex WHS student), grew up in and spent his school years in Whanganui. After competing in two Adventure Racing World Championships (Australia and Reunion Islands), undertaking six Godzone Adventure Races in New Zealand and taking on the Coast to Coast multisport race many times, Dan has put all his knowledge to good use.
+The courses are designed by former Whanganui resident **Dan Moore** (former WHS student), who is putting his experience to good use having previously competed in the Adventure Racing World Championships, Coast to Coast, and Godzone races.
 
-“I’m stoked to return to Whanganui to design these Spring Challenge courses, as it is a bit of an unknown spot for adventure racing. There’s been events pass through the region, like the Mountains
+"I'm stoked to return to Whanganui to design these Spring Challenge courses, as it is a bit of an unknown spot for adventure racing," Moore said.
 
-to Sea Multisport Race, but none where competitors have to navigate in teams,” Dan says.
+"There's been events pass through the region, like the Mountains to Sea Multisport Race, but none where competitors have to navigate in teams."
 
-Although the courses (which remain a secret until the map hand-out on Friday night) seem reasonably short in distance, don’t be deceived into thinking that means they are easy.
+The race features three-hour, six-hour, and nine-hour courses which give entrants different options that match their skill and ability.
 
-“They are steep and slippery, so make sure you wear grippy sneakers and mountain bike shoes. The courses are primarily on Whanganui hill country and while the stage distances are not as long, compared to previous Spring Challenges, the intricate nature of the terrain will make up for this. Stay focused on your maps as the teams that will do well, are the ones that take their time and remain on the intended route.”
+However, Moore said although the courses seem short in distance, they're not to be taken lightly.
 
-“The courses will have a character all of their own and will be like no others we have run in the North Island. This is unique country and involves minimal time in public areas,” Dan says. He thanks the local iwi for their support of the Spring Challenge Whanganui and especially for preparing the hangi which will be laid down near the finish line to feed the hungry hordes.
+"The courses are primarily on the Whanganui hill countryside and while the stage distances are not as long compared to previous Spring Challenges, the intricate nature of terrain will make up for this.
 
-“I can’t wait to see all the women out there enjoying their adventures in this special part of New Zealand on Saturday,” Dan summaries.
+"The courses will have a character all of their own and will be like no others we have run in the North Island. This is unique country and involves minimal time in public areas."
 
-Founded and organised by six-time World Adventure Racing Champion, Nathan Fa’avae and his wife
+Competitors won't know the course until they've registered on Friday night, giving them only one night to mentally prepare for the terrain they'll be facing the next day.
 
-Jodie, this is the 4th year the Spring Challenge has come to the North Island. The popular annual adventure race just clocked up its 13th year in the South Island at a sell-out event in Cromwell last month.
+The annual event was started by six-time World Adventure Racing Champion Nathan Fa'aave and his wife Jodie, and has been running for more than a decade in the South Island.
 
-Support crews and the public will be able to see teams moving through the course at a few points on the course and this information will be passed on in the support crew handbook. The finish line location will be on the Spring Challenge website www.springchallenge.co.nz on Friday evening.
+It was first held in the North Island in 2016.
 
-Schedule:
+Moore thanked local iwi and the wider community for supporting the race in its inaugural visit to Whanganui.
 
-Friday:  
-3pm-5pm - Registration (Whanganui War Memorial Centre, Watt Street).  
-5pm-6pm - Map and course release.  
-6pm-7:30pm - Race briefing and welcome.
+"We are grateful to the local communities and landowners for their assistance in running the event.
 
-Saturday:  
-6am start - All 9-hour teams and 6-hour super veteran and open.  
-9am start – 6-hour teams.  
-12 noon - All 3-hour teams.
+"Also we want to thank volunteers who will be helping on the river and with marshall duties, plus the council's tourism arm, Whanganui and Partners, for their support."
 
-Sunday:  
-10am to 11am Awards and prize giving  
-(Whanganui War Memorial Centre, Watt Street).
+A hangi will be laid near the end of the course to feed hungry competitors once they've crossed the finish line.
+
+Registration takes place on Friday at the War Memorial Centre from 3pm to 5pm followed by an official welcome.
+
+The race is on Saturday with prizegiving and an awards ceremony on Sunday at the War Memorial Centre.
