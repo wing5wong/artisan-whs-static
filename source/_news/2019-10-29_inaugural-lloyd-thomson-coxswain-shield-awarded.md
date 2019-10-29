@@ -6,7 +6,7 @@ feature_image:
     (the third) (Christchurch) to Campbell’s right and surrounded by the Monk
     family.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1572322456/News/Campbell_Monk._Coxswain_Shield_RCP_17.10.19.tiff
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1572322776/News/Campbell-Monk.-Coxswain-Shield-RCP-17.10.jpg
 news_author:
   date: 2019-10-17T04:13:37.528Z
   publication: River City Press
