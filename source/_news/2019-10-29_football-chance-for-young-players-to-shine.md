@@ -2,11 +2,11 @@
 title: 'Football: Chance for young players to shine'
 feature_image:
   description: >-
-    JAKE SIMCOX (left) and DIVNESH DAYAL became fixtures in the Wanganui
-    Athletic firsts this season. They will want to have a strong Labour weekend
-    at the NCR National Youth Tournament.
+    JAKE SIMCOX (red) and DIVNESH DAYAL became fixtures in the Wanganui Athletic
+    firsts this season. They will want to have a strong Labour weekend at the
+    NCR National Youth Tournament.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1572328585/News/Jake_Simcox_Divnesh_Dayal.Chron_22.10.19.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1572332353/News/Jake_Simcox_snip.Chron_22.10.19.jpg
 news_author:
   date: 2019-10-22T05:50:48.484Z
   name: Staff Reporter
