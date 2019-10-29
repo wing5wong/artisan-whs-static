@@ -9,7 +9,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572327923/News/Kelly_Mallet_in_action.jpg
 news_author:
-  date: 2019-09-29T05:25:44.141Z
+  date: 2019-09-25T06:25:44.141Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
 image_gallery:
