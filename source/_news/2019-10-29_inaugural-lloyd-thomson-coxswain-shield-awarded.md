@@ -11,7 +11,8 @@ news_author:
   date: 2019-10-17T04:13:37.528Z
   publication: River City Press
 image_gallery:
-  - image: >-
+  - description: The Lloyd Thomson Coxswain Shield awarded to WHS student Campbell Monk.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1572330202/News/Campbell-Monk.-Coxswain-Shield-..RCP-17.10.jpg
 show_in_slider: true
 date: 2019-10-29T04:13:37.589Z
