@@ -1,16 +1,34 @@
 ---
-title: Gold and silver for Wanganui Kyokushin Karate
+title: >-
+  Wanganui Kyokushin Karate team return home from nationals with gold and
+  silver 
 feature_image:
   description: >-
-    Wanganui fighters Kelly Mallet, left, Chris Sheahon and Jake Hood return
-    home winners from the 50th New Zealand Kyokushin Karate Championships in
-    Hastings at the weekend.
+    Wanganui's Kyokushin Karate fighter Kelly Mallet won the senior novice women
+    title.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1572326862/News/Kelly_Mallet_ex._Chron_25.9.19.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1572327923/News/Kelly_Mallet_in_action.jpg
 news_author:
   date: 2019-09-29T05:25:44.141Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
+image_gallery:
+  - description: >-
+      Wanganui fighters Kelly Mallet, left, Chris Sheahon and Jake Hood return
+      home winners from the 50th New Zealand Kyokushin Karate Championships in
+      Hastings at the weekend.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1572326862/News/Kelly_Mallet_ex._Chron_25.9.19.jpg
+  - description: >-
+      Wanganui's Kyokushin Karate fighter Kelly Mallet won the senior novice
+      women title.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1572327863/News/Kelly_Mallet_in_action.2JPG.jpg
+  - description: >-
+      Wanganui's Kyokushin Karate fighter Kelly Mallet won the senior novice
+      women title.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1572327902/News/Kelly_Mallet_in_action.3JPG.jpg
 show_in_slider: false
 date: 2019-10-29T05:25:44.181Z
 ---
