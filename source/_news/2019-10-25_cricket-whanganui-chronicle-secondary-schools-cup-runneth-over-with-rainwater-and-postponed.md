@@ -13,7 +13,7 @@ news_author:
   date: 2019-10-23T21:31:28.380Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
-show_in_slider: true
+show_in_slider: false
 date: 2019-10-24T21:31:28.406Z
 ---
 Atrocious conditions forced the postponement of the 2019 Whanganui Chronicle Secondary Schools Cup on Wednesday.
