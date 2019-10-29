@@ -23,7 +23,7 @@ image_gallery:
       NGAKUIRA OSBORNE, Mairi Whittle.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571951828/News/Rep_team.Chron_24.10.19.jpg
-show_in_slider: true
+show_in_slider: false
 date: 2019-10-24T20:06:54.912Z
 ---
 Whanganui Squash Club A-grader Matthew Ratcliffe played a pivotal role in Central Squash winning the New Zealand Districts Champion of Champion titles for just the third time in history.
