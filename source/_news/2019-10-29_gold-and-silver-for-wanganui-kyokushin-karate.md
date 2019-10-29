@@ -34,7 +34,7 @@ date: 2019-10-29T05:25:44.181Z
 ---
 A relatively inexperienced Wanganui Kyokushin Karate team has returned home from the 50th New Zealand Kyokushin Karate Championships in Hastings with two titles and a silver medal.
 
-For most in the 10-strong squad it was their first foray on to the national mat, but **Kelly Mallet, (former WHS student)** young Jake Hood and Kolby Sullivan were up for the challenge.
+For most in the 10-strong squad it was their first foray on to the national mat, but **Kelly Mallet**, (former WHS student) young Jake Hood and Kolby Sullivan were up for the challenge.
 
 **Mallet won the senior novice women title**, Hood the heavyweight colts (16-17yr) division and Sullivan was runner-up in the junior (U50kg) boys section.
 
