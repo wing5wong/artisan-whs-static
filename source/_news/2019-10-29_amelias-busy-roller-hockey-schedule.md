@@ -52,7 +52,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-10-29T02:59:03.468Z
 ---
-Year 10 student, Amelia Neale played in the New Zealand Women’s Roller Hockey team at the Champions Cup 2019 Ladies Roller Hockey Tournament held in Brisbane, Australia on 2-5 October.
+**Year 10 student, Amelia Neale played in the New Zealand Women’s Roller Hockey team at the Champions Cup 2019 Ladies Roller Hockey Tournament held in Brisbane, Australia on 2-5 October.**
 
 Unfortunately, they did not come home with a medal, but were placed a tidy 4th against hard competition.
 
