@@ -4,8 +4,8 @@ title: >-
   silver 
 feature_image:
   description: >-
-    Wanganui's Kyokushin Karate fighter Kelly Mallet won the senior novice women
-    title.
+    Wanganui's Kyokushin Karate fighter Kelly Mallet (former WHS student) won
+    the senior novice women title.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572327923/News/Kelly_Mallet_in_action.jpg
 news_author:
