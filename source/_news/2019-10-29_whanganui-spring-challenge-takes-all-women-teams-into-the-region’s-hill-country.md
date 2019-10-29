@@ -28,7 +28,7 @@ The Spring Challenge North will provide a tough test for almost 500 women as the
 
 So far this weekend's event has drawn 481 competitors, split into teams made up of three or four people, who will battle through rafting, trekking and biking elements of the course.
 
-The courses are designed by former Whanganui resident **Dan Moore** (former WHS student), who is putting his experience to good use having previously competed in the Adventure Racing World Championships, Coast to Coast, and Godzone races.
+The courses are designed by former Whanganui resident **Dan Moore (former WHS student)**, who is putting his experience to good use having previously competed in the Adventure Racing World Championships, Coast to Coast, and Godzone races.
 
 "I'm stoked to return to Whanganui to design these Spring Challenge courses, as it is a bit of an unknown spot for adventure racing," Moore said.
 
