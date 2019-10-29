@@ -1,0 +1,17 @@
+---
+title: Inaugural Lloyd Thomson Coxswain Shield awarded
+feature_image:
+  description: >-
+    Campbell Monk with Neil Thomson (Brisbane) to his left and Lloyd Thomson
+    (the third) (Christchurch) to Campbell’s right and surrounded by the Monk
+    family.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1572322456/News/Campbell_Monk._Coxswain_Shield_RCP_17.10.19.tiff
+news_author:
+  date: 2019-10-17T04:13:37.528Z
+  publication: River City Press
+show_in_slider: true
+date: 2019-10-29T04:13:37.589Z
+---
+On Sunday October 13, following the Whanganui Rowing Associations Winter Series rowing regatta (The Richard Tonks 6k small boat race), the Thomson Family presented the inaugural Lloyd Thomson Coxswain shield to **Campbell Monk** - Aramoho Whanganui Club coxswain for the most points accumulated over the six series of winter racing. 
+
