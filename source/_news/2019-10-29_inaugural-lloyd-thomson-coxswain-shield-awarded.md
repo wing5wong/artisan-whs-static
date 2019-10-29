@@ -13,5 +13,5 @@ news_author:
 show_in_slider: true
 date: 2019-10-29T04:13:37.589Z
 ---
-On Sunday October 13, following the Whanganui Rowing Associations Winter Series rowing regatta (The Richard Tonks 6k small boat race), the Thomson Family presented the inaugural Lloyd Thomson Coxswain shield to **Campbell Monk** - Aramoho Whanganui Club coxswain for the most points accumulated over the six series of winter racing. 
+On Sunday October 13, following the Whanganui Rowing Associations Winter Series rowing regatta (The Richard Tonks 6k small boat race), the Thomson Family presented the inaugural Lloyd Thomson Coxswain shield to WHS student **Campbell Monk** - Aramoho Whanganui Club coxswain for the most points accumulated over the six series of winter racing. 
 
