@@ -1,7 +1,8 @@
 ---
 title: Whanganui High School News - October 2019
 feature_image:
-  image: ''
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1572310705/News/OCTOBER_2019.jpg
 short: ''
 news_author:
   date: 2019-10-31T00:34:54.341Z
