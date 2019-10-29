@@ -21,7 +21,7 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572331748/News/Spring_Challenge.photoof_Dan_Moore..RCP_17.10.19.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572331466/News/Spring_Challenge.Dan_Moore..RCP_17.10.19.png
-show_in_slider: true
+show_in_slider: false
 date: 2019-10-29T06:37:38.709Z
 ---
 The Spring Challenge North will provide a tough test for almost 500 women as they work their way through the Whanganui countryside.
