@@ -1,7 +1,7 @@
 ---
 title: Speedway season gets underway at Whanganui's Oceanview
 feature_image:
-  credit: PS3 Photography
+  credit: PS3 PHOTOGRAPHY
   description: Jemma racing at the adult mini-stock opening meeting.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572409504/News/Jemma_Ministock_Opening_Meeting.photo_from_her.jpg
