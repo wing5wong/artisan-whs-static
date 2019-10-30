@@ -16,8 +16,9 @@ image_gallery:
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572474376/News/72940720_1385517234930712_887819703437754368_n.jpg
   - description: >-
-      Athletics coach Greg Fromont with Rebecca Baker, Renee Teers and Travis
-      Bayler.
+      Three of the top awards were given to Rebecca, Renee and Travis who are
+      all part of our Sports Performance Programme with Coach Greg Fromont at
+      WHS.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572474376/News/75442990_1385517204930715_2833917136701751296_n.jpg
   - description: >-
