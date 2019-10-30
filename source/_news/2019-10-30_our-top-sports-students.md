@@ -1,5 +1,5 @@
 ---
-title: Our top sports students
+title: Our top sports students and teams nominated for the WSS Sports Awards
 feature_image:
   description: ''
   image: >-
