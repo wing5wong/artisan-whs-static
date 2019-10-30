@@ -3,7 +3,7 @@ title: Amelia playing for NZ Roller Hockey Womens team in Australia
 feature_image:
   description: >-
     Amelia with the NZ Womens team vs Australia team at the Champions Cup 2019
-    Ladies Roller Hockey Tournament in Brisbane recently.
+    Ladies Roller Hockey Tournament in Brisbane.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572318182/News/Roller%20Hockey%20Amelia%20Neale/Roller-Hockey-Amelia-NZ-Womens-team-vs-Australia-2.10.jpg
 news_author:
