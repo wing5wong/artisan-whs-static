@@ -2,8 +2,8 @@
 title: Litter Free Day
 feature_image:
   description: >-
-    Rebekah Neilson (left) and Zeah Brewer, two of the WHS students taking part
-    in the Litter Free Lunch Day.
+    Rebekah Neilson (left) and Zeah Brewer, two of our students taking part in
+    the Litter Free Lunch Day.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572408751/News/litter_free_WHS_students.jpg
 news_author:
