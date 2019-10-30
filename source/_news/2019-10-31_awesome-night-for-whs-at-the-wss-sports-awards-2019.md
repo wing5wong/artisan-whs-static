@@ -34,7 +34,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-10-30T22:24:35.411Z
 ---
-An 💛AWESOME💚 night for Whanganui High School at the Whanganui Secondary School Sports Awards last night coming away with 8 of the 12 prestigious awards!!! 🎉🎉
+**An 💛AWESOME💚 night for Whanganui High School at the Whanganui Secondary School Sports Awards last night coming away with 8 of the 12 prestigious awards!!!** 🎉🎉
 
 WSS Official of the Year - Charlie Brown (Football)
 
@@ -61,4 +61,4 @@ Three of the top awards were given to Renee, Rebecca and Travis who are all part
 
 Both Guest speakers were ex students of WHS that have gone on to represent NZ in their sports - Max Brown (Sprint Kayaking) and Sosoli Talawadua (Black Ferns Rugby)
 
-Absolutely outstanding achievements by EVERYONE nominated from WHS .......woohoo!!! 💛💚
+**Absolutely outstanding achievements by EVERYONE nominated from WHS .......woohoo!!!** 💛💚
