@@ -26,7 +26,7 @@ Te Puna Ako Ki Totara Puku will acknowledge its student teachers, Michele Bourke
 
 Whānau Manaaki’s chairperson, Amy Weightman, says kindergartens struggle to maintain high quality services while not being properly funded by government. “Maintaining a 100% qualified teaching staff whilst only being funded for 80%, while keeping costs down to families, stretches the budget. Having gifted, talented and generous volunteers greatly relieves the pressure on our not-for-profit services.  Thank you to all who have contributed.”  
 
-Some of the local Volunteers Recognised at AGM last night
+Some of the local Volunteers Recognised at AGM last night:
 
 Aramoho Kindergarten - Toni Clark.  
 Barsanti Kindergarten - Mary Kumeroa.  
