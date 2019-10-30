@@ -5,7 +5,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572408751/News/litter_free_WHS_students.jpg
 news_author:
   date: 2019-10-29T04:11:56.253Z
-  name: (Portion of Newsletter regarding Litter Free Day)
+  name: (Portion of Newsletter)
   publication: WRRC (Recycling) Education Team
 show_in_slider: false
 date: 2019-10-30T04:11:56.280Z
