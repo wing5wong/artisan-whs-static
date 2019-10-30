@@ -1,10 +1,7 @@
 ---
 title: Our top sports students
 feature_image:
-  description: >-
-    Well done to our Top Sports Students for 2019.... Rebecca Baker - Girls Dux
-    Travis Bayler - Boys Dux Keightley Watson - Principals Cup - Most
-    outstanding performance in sport.
+  description: ''
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572394786/News/3_leaders.......jpg
 news_author:
@@ -26,40 +23,40 @@ These 3 students along with the following students have been nominated at the Wh
 
 All students please meet at Collegiate Auditorium at 5.15pm in full school winter uniform. Families welcome.
 
-Rebecca Baker - Senior International & National Sportswomen
-Travis Bayler - Senior National Sportsman, Contribution to Sport
-Keightley Watson - Senior International Sportsman
-Jack Overweel - Junior National
-Jordyn Leiasamaivao-Turvey - Junior International
-Callista Booth-Richards - Junior National
-Lucas Thompson - Senior International
-Mitchell McDowell - Junior National
-Amy Haughian - Coach of the Year
-Renee Teers - Senior International
-Connor Hoskin - Senior National, Coach of the Year, Contribution to sport
-Chase Morpeth - Junior International
-Rebekah Phillips - Junior International
-Ella Neilson - Contribution to Sport
-Grace Walford - Contribution to Sport
-India- Rose Wallace - Contribution of Sport
-Miciah Tait - Contribution to Sport
-Phoebe Brown - Contribution to Sport
-Zeah Brewer - Contribution to Sport
-Marewa Puru - Contribution to Sport
-Molly Bullock - Contribution to Sport
-Amber Andrews - Contribution to Sport
-Alex Nevil - Contribution to Sport, Coach of the Year
-Charlie Brown - Contribution to Sport
-Alex Hamblyn - Junior International
-Niamh Monk - Contribution to Sport
-Charlie Brown - Contribution to Sport, Official of the Year
+Rebecca Baker - Senior International & National Sportswomen  
+Travis Bayler - Senior National Sportsman, Contribution to Sport  
+Keightley Watson - Senior International Sportsman  
+Jack Overweel - Junior National  
+Jordyn Leiasamaivao-Turvey - Junior International  
+Callista Booth-Richards - Junior National  
+Lucas Thompson - Senior International  
+Mitchell McDowell - Junior National  
+Amy Haughian - Coach of the Year  
+Renee Teers - Senior International  
+Connor Hoskin - Senior National, Coach of the Year, Contribution to sport  
+Chase Morpeth - Junior International  
+Rebekah Phillips - Junior International  
+Ella Neilson - Contribution to Sport  
+Grace Walford - Contribution to Sport  
+India- Rose Wallace - Contribution of Sport  
+Miciah Tait - Contribution to Sport  
+Phoebe Brown - Contribution to Sport  
+Zeah Brewer - Contribution to Sport  
+Marewa Puru - Contribution to Sport  
+Molly Bullock - Contribution to Sport  
+Amber Andrews - Contribution to Sport  
+Alex Nevil - Contribution to Sport, Coach of the Year  
+Charlie Brown - Contribution to Sport  
+Alex Hamblyn - Junior International  
+Niamh Monk - Contribution to Sport  
+Charlie Brown - Contribution to Sport, Official of the Year  
 Zane Mills-Nossiter - Junior National  
 Caleb Gilmore - Junior International  
 Ethan Bryers - Junior National  
 Aspen Fell - Junior National  
 Jack Clifton - Senior International  
 James Rountree - Senior International  
-Patrick Madder - Senior National  
+Patrick Madder - Senior National   
 Wilson McKee - Junior National  
 James Gray - Junior National  
 Kara Adrole - Senior National  
