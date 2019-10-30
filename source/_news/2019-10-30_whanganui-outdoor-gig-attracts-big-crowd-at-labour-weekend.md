@@ -3,8 +3,8 @@ title: Whanganui outdoor gig attracts big crowd at Labour Weekend
 feature_image:
   credit: Lewis Gardner
   description: >-
-    Ocean Loaf played their indie-pop style to a relaxed crowd who enjoyed a few
-    drinks and some food on Sunday afternoon. 
+    Rhythm Vision played their 'progressive rock' style to a relaxed crowd who
+    enjoyed a few drinks and some food on Sunday afternoon. 
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572397542/News/Ocean_Loaf.jpg
 news_author:
@@ -12,10 +12,10 @@ news_author:
   name: Lucy Drake
   publication: Whanganui Chronicle
 image_gallery:
-  - description: 'Ocean Loaf played to the crowd on Sunday afternoon. '
+  - description: 'Rhythm Vision played to the crowd on Sunday afternoon. '
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572397574/News/rhythm_vision.jpg
-  - description: 'Rhythm Vision also played to the crowd. '
+  - description: Ocean Loaf also played to the crowd with their 'indie-pop' style.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571207878/News/72310487_2530533966985586_4739873698243149824_n.jpg
   - description: >-
