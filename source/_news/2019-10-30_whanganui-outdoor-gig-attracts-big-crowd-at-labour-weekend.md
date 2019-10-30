@@ -12,7 +12,9 @@ news_author:
   name: Lucy Drake
   publication: Whanganui Chronicle
 image_gallery:
-  - description: 'Rhythm Vision played to the crowd on Sunday afternoon. '
+  - description: >-
+      Rhythm Vision played to the crowd on Sunday afternoon. Photo / Lewis
+      Gardner
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572397574/News/rhythm_vision.jpg
   - description: Ocean Loaf also played to the crowd with their 'indie-pop' style.
