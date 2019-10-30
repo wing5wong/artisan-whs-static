@@ -9,29 +9,19 @@ feature_image:
 news_author:
   date: 2019-10-14T02:59:03.435Z
 image_gallery:
-  - description: >-
-      Amelia lining up with the NZ Womens Team at the Champions Cup 2019 Ladies
-      Roller Hockey Tournament in Brisbane.
+  - description: Lining up with the NZ Womens Team in Brisbane.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572318181/News/Roller%20Hockey%20Amelia%20Neale/st_game_Brisbane.jpg
-  - description: >-
-      Amelia playing in the NZ Womens Team at the Champions Cup 2019 Ladies
-      Roller Hockey Tournament in Brisbane.
+  - description: Amelia playing in the NZ Womens Team in Brisbane.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572318181/News/Roller%20Hockey%20Amelia%20Neale/1st_game.jpg
-  - description: >-
-      Amelia playing in the NZ Womens Team at the Champions Cup 2019 Ladies
-      Roller Hockey Tournament in Brisbane.
+  - description: Amelia playing in the NZ Womens Team in Brisbane.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572318181/News/Roller%20Hockey%20Amelia%20Neale/FB_IMG_1570988770278.jpg
-  - description: >-
-      Amelia playing in the NZ Womens Team at the Champions Cup 2019 Ladies
-      Roller Hockey Tournament in Brisbane.
+  - description: Amelia playing in the NZ Womens Team in Brisbane.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572318181/News/Roller%20Hockey%20Amelia%20Neale/FB_IMG_1571289167052.jpg
-  - description: >-
-      Amelia with the NZ Womens team vs Australia team at the Champions Cup 2019
-      Ladies Roller Hockey Tournament in Brisbane.
+  - description: Amelia with the NZ Womens team vs Australia team in Brisbane.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572318182/News/Roller%20Hockey%20Amelia%20Neale/Roller-Hockey-Amelia-NZ-Womens-team-vs-Australia-2.10.jpg
   - description: >-
