@@ -12,15 +12,15 @@ news_author:
   name: 'Lisa Murphy '
   publication: WHS Director of Sport
 image_gallery:
-  - description: WHS students nominated for the WSS Sports Awards.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1572474376/News/72940720_1385517234930712_887819703437754368_n.jpg
   - description: >-
       Three of the top awards were given to Rebecca, Renee and Travis who are
       all part of our Sports Performance Programme with Coach Greg Fromont at
       WHS.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572474376/News/75442990_1385517204930715_2833917136701751296_n.jpg
+  - description: WHS students winners and students nominated for the WSS Sports Awards.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1572474376/News/72940720_1385517234930712_887819703437754368_n.jpg
   - description: >-
       Guest speaker was former WHS student Max Brown who has gone on to
       represent NZ in his sport of Sprint Kayaking.
@@ -28,7 +28,7 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572474375/News/74911764_1385519091597193_4381194953515073536_n.jpg
   - description: >-
       Guest speaker was former WHS student Sosoli Talawadua who has gone on to
-      represent NZ in her sport with Black Ferns Rugby.ng.
+      represent NZ in her sport with Black Ferns Rugby.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572474375/News/74673198_1385519121597190_5398145129334702080_n.jpg
 show_in_slider: true
