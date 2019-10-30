@@ -30,7 +30,7 @@ Entries for the NZ Superstocks are rolling in steadily.
 
 Stratford Superstock driver Wayne Moss (25S) was the first driver to sign up, with his entry form emailed back within hours of entries opening.
 
-Despite his television commitments, former 2NZ and 3NZ Jordan Dare got his entry in quickly, and already there's a strong local presence with Shaun Smith (53V), **Max Holloway (81V)**, Carl Burns (25V) and Scott Duncan (23V) all having completed the necessary paperwork.
+Despite his television commitments, former 2NZ and 3NZ Jordan Dare got his entry in quickly, and already there's a strong local presence with Shaun Smith (53V), **Max Holloway (81V)** (ex WHS student), Carl Burns (25V) and Scott Duncan (23V) all having completed the necessary paperwork.
 
 Although the championship is ten weeks away, the WSSC is expecting large numbers of Superstock competitors to attend race meetings prior to Christmas to dial their race cars into the tight Oceanview track.
 
@@ -76,13 +76,13 @@ And an interesting addition to the field is a Ford-powered Kuriger from Invercar
 
 The Stockcar field has also grown this season with new cars and drivers, and other wheelmen returning after a season off.
 
-**The new cars of Jack Purcell and Kaelin Mooney are standouts**, and we look forward to watching the progress of both drivers this season.
+**The new cars of Jack Purcell and Kaelin Mooney are standouts** (ex WHS students), and we look forward to watching the progress of both drivers this season.
 
 Caleb Gosney is another newcomer, having purchased an almost-new car from Wellington driver Josh Lockett.
 
 Returning drivers include Trevor Greig, Gerry Linklater, Mark Johnston, Francis Potaka, Wayne Wright and Jason Wright, who has a brand-new Rees Spank chassis.
 
-**Trazarn Ryland-Annabell** also has a new car coming, although it may not make it to the track this Sunday.
+**Trazarn Ryland-Annabell** (ex WHS student) also has a new car coming, although it may not make it to the track this Sunday.
 
 Also running on Sunday night will be big fields of Youth and Adult Ministocks, Production Saloons, Sidecars and Minisprints, with the Midget class set to make its season debut next Saturday, November 2.
 
