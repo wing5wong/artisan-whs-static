@@ -19,7 +19,9 @@ Rebecca Baker - Girls Dux
 Travis Bayler - Boys Dux
 Keightley Watson - Principals Cup - Most outstanding performance in sport.
 
-These 3 students along with the following students have been nominated at the Whanganui Secondary Schools Sports Awards tomorrow, 5.30pm at Collegiate Auditorium. We wish ALL our students and teams the very best!!!💛💚💚💛
+These 3 students along with the following students have been nominated at the Whanganui Secondary Schools Sports Awards tomorrow, 5.30pm at Collegiate Auditorium.  
+
+We wish ALL our students and teams the very best!!!  💛💚💚💛
 
 All students please meet at Collegiate Auditorium at 5.15pm in full school winter uniform. Families welcome.
 
