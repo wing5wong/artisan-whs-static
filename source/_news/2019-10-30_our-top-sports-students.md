@@ -11,6 +11,9 @@ news_author:
   date: 2019-10-29T00:18:28.404Z
   name: Lisa Murphy WHS Director of Sport
   publication: WHS Director of Sport
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1569450397/Events/WSS-Sports-Awards-Banner-2019.png
 show_in_slider: true
 date: 2019-10-30T00:18:28.431Z
 ---
