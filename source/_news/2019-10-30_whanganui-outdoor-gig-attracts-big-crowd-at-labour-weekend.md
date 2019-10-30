@@ -17,7 +17,7 @@ image_gallery:
       Gardner
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572397574/News/rhythm_vision.jpg
-  - description: Ocean Loaf also played to the crowd with their 'indie-pop' style.
+  - description: Ocean Loaf also played to the crowd on Sunday afternoon.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571207878/News/72310487_2530533966985586_4739873698243149824_n.jpg
   - description: >-
