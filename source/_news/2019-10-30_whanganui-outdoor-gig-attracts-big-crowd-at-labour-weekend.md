@@ -15,6 +15,9 @@ image_gallery:
   - description: 'Ocean Loaf played to the crowd on Sunday afternoon. '
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572397574/News/rhythm_vision.jpg
+  - description: 'Rhythm Vision also played to the crowd. '
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1571207878/News/72310487_2530533966985586_4739873698243149824_n.jpg
   - description: >-
       The weather turned it on for the Bring on Summer concert. Photo / Lewis
       Gardner
