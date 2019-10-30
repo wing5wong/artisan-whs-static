@@ -60,6 +60,6 @@ date: 2019-10-29T02:59:03.468Z
 
 Prior to this tournament Amelia played for Wanganui in the Women’s team and the Mixed Youth Age team (of which she was the only female) at the New Zealand Nationals held in Whanganui at the end of September.
 
-**Her teams came 1st and 3rd respectively.**
+Her teams came 1st and 3rd respectively.
 
 Great going Amelia, well done!
