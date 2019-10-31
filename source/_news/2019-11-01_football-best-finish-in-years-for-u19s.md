@@ -1,6 +1,15 @@
 ---
 title: 'Football: Best finish in years for U19s'
 feature_image:
+  description: >-
+    The entire team, including staff, (back from left) Scott Burney (staff),
+    Cameron Mackintosh, Ryan Donaldson, Jake Simcox, Lachlan Hills (GK), Karan
+    Holland, Jordan Candish, Blake Sherman, Aaron Hodson (staff), Matthew
+    Calvert (staff).  Middle row: Amishel Kumar, Zachary Farmer, Divnesh Dayal,
+    Tom Dickson (GK), David Garner (captain). Front row: Tash Burney (staff),
+    Peter Czerwonka (coach), Aidan O’Connor, Luke Howe, Marley Norris, Flynn
+    Johnston, Jude Hiri, Gary Johnston (manager), Lisa Walker (osteopath).
+    Absent: Ryan Holden (staff).
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572554665/News/U19_WU_Football._Chron_30.10.19.jpg
 news_author:
@@ -12,7 +21,7 @@ date: 2019-10-31T20:40:58.431Z
 ---
 The GJ Gardner Wanganui Athletic FC Under 19s produced the best result for the club in nearly a decade after making it to the quarterfinals of the national age group tournament in Napier over Labour Weekend.
 
-Making the quarter finals of the NCR National Youth Tournament was a joint effort from both staff and GJ Gardner Wangani Athletic U19 players.
+Making the quarter finals of the NCR National Youth Tournament was a joint effort from both staff and GJ Gardner Wangani Athletic U19 players. **All but four players in the team are Whanganui High School past (4) and present (9) students.**
 
 The lads were playing in the Satellite division of the Napier City Rovers National Youth Tournament, the largest and most prestigious Under 19 tournament in the country.
 
