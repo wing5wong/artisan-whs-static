@@ -1,6 +1,7 @@
 ---
 title: Machete Clan performing on home ground
 feature_image:
+  credit: "\U0001F4F8 @sharnathephotographer"
   description: Former WHS students make up the Machete Clan band.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572562636/News/Machete_Clan_in_WU_Sept_2019.jpg
