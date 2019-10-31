@@ -5,10 +5,11 @@ title: >-
 feature_image:
   credit: Photos / Bevan Conley
   description: >-
-    WHS's Connor Hoskin receives his Coach of the Year award from Collegiate
-    director of sport Barry Touzel. 
+    WHS athlete Rebecca Baker receives her Ray White Senior National Sportswoman
+    of the Year award from WGC director of sport Cherie Prince at the Secondary
+    Schools Sports Awards last night.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1572557683/News/Connor_Hoskin._Chron_31.10.19.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1572557774/News/Rebecca_Baker._Chron_31.10.19.jpg
 news_author:
   date: 2019-10-30T21:26:44.414Z
   name: Iain Hyndman
@@ -38,8 +39,6 @@ In a closely fought class, the Whanganui teenager won the 15km elimination and t
 
 **The Senior National Sportsman and Sportswoman of the Year went to fellow Whanganui High School students Travis Bayler and Rebecca Baker.**
 
-![WHS athlete Rebecca Baker receives her Ray White Senior National Sportswoman of the Year award from WGC director of sport Cherie Prince at the Secondary Schools Sports Awards last night. ](https://res.cloudinary.com/whanganuihigh/image/upload/v1572557774/News/Rebecca_Baker._Chron_31.10.19.jpg)
-
 Baker won her title off the back of solid performances in two codes, athletics and hockey.
 
 Baker's successes included the NZ Secondary School Athletics Junior Girls 1500m title, fourth place at NZ Secondary School Senior Girls Cross Country, which gave her selection into the NZSS team to run in Australia in August where she came fourth in the under-18 girls' grade.
@@ -59,7 +58,6 @@ Maples tops the New Zealand under-18 and under-20 long jump rankings and is four
 Maples also took silver at both the North Island Schools and New Zealand under-18 championships in 100m and 200m, the 200m in a personal best and under the old North Island intermediate record. She plays a vital role in the relay programme and has contributed outstandingly to school, Whanganui schools and Manawatu/Whanganui Athletics medal-winning teams.
 
 **The International Junior Sportsman of the Year was awarded to Alex Hamblyn from Whanganui High School for sprint kayaking.**
-
 
 A young up and coming athlete who has had a very successful year, Hamblyn competed at the NZ Canoe Racing Sprint National Champs achieving national titles.
 
@@ -85,7 +83,6 @@ She won a host of titles during the qualifying period including the Horowhenua-K
 
 **Sprint kayaker Zane Mills-Nossiter won the National Junior Sportsman of the Year after winning national titles at the NZ Canoe Racing Sprint Championships.**
 
-
 Mills-Nossiter won the U14 K1 200m, U14 K2 200m, U14 K4 200m, U14 K1 500m and the U14 K1 5km titles.
 
 **Official of the Year went to Charlie Brown of Whanganui High School for football and futsal.**
@@ -104,6 +101,7 @@ He was also selected to attend the Referee Development Academy. Brown was awarde
 
 **Connor Hoskin from Whanganui High School won Coach of the Year for hockey.**
 
+![WHS's Connor Hoskin receives his Coach of the Year award from Collegiate director of sport Barry Touzel.](https://res.cloudinary.com/whanganuihigh/image/upload/v1572557683/News/Connor_Hoskin._Chron_31.10.19.jpg)
 
 Hoskin had a busy season playing in the WHS 1st XI hockey team and was also selected for the Central U18 men's team.
 
