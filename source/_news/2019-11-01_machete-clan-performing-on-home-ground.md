@@ -26,6 +26,4 @@ Chur the Machete fam! And like always ...
 
 There’s plenty more to come!
 
-⚔️ #HOMELESSMONSTERS
-
-📸 @sharnathephotographer
+⚔️ #HOMELESSMONSTERS
