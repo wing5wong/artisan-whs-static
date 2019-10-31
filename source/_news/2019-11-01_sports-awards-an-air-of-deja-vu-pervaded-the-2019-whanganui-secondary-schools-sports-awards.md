@@ -3,7 +3,7 @@ title: >-
   Sports Awards: An air of deja vu pervaded the 2019 Whanganui Secondary Schools
   Sports Awards
 feature_image:
-  credit: Photos / Bevan Conley
+  credit: Bevan Conley
   description: >-
     WHS athlete Rebecca Baker receives her Ray White Senior National Sportswoman
     of the Year award from WGC director of sport Cherie Prince at the Secondary
