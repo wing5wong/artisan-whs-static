@@ -19,11 +19,9 @@ date: 2019-10-31T21:26:44.450Z
 ---
 **Impressive performances on the world stage has earned speed skater Renee Teers and heavyweight judoka Keightley Watson the Ray White Whanganui Secondary Schools International Sportswoman and Sportsman of the Year awards.**
 
-
 The Whanganui High Shool students were presented their awards at a function at Whanganui Collegiate last night.
 
 **The announcement gave Watson back-to-back titles after he won the senior section in 2018.**
-
 
 Shortly after receiving the 2018 award, Watson ensured his 2019 nomination and eventual win after making New Zealand judo history at the New Zealand Judo Championships in Christchurch where he won six gold in three different divisions, including the Senior Open Weight Men's title.
 
@@ -85,9 +83,9 @@ She won a host of titles during the qualifying period including the Horowhenua-K
 
 Mills-Nossiter won the U14 K1 200m, U14 K2 200m, U14 K4 200m, U14 K1 500m and the U14 K1 5km titles.
 
-**Official of the Year went to Charlie Brown of Whanganui High School for football and futsal.**
-
 ![WHS' Charlie Brown gives thanks for receiving his Official of the Year award at the Ray White Whanganui Secondary School Sports Awards last night.](https://res.cloudinary.com/whanganuihigh/image/upload/v1572557859/News/Charlie_Brown._Chron_31.10.19.jpg)
+
+**Official of the Year went to Charlie Brown of Whanganui High School for football and futsal.**
 
 Brown is part of the 1st XI boys football team at WHS and not only dedicates his time playing to the sport, but also gives back to it by refereeing.
 
@@ -99,9 +97,9 @@ Brown officiated at the National Tertiary Futsal Championships, at the National 
 
 He was also selected to attend the Referee Development Academy. Brown was awarded Football Official of the Year, Whanganui Futsal Official of the Year and won the Ray White Whanganui Service to Sport award in 2018.
 
-**Connor Hoskin from Whanganui High School won Coach of the Year for hockey.**
-
 ![WHS's Connor Hoskin receives his Coach of the Year award from Collegiate director of sport Barry Touzel.](https://res.cloudinary.com/whanganuihigh/image/upload/v1572557683/News/Connor_Hoskin._Chron_31.10.19.jpg)
+
+**Connor Hoskin from Whanganui High School won Coach of the Year for hockey.**
 
 Hoskin had a busy season playing in the WHS 1st XI hockey team and was also selected for the Central U18 men's team.
 
