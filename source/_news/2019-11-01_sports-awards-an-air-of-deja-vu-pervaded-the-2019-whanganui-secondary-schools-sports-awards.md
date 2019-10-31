@@ -83,7 +83,7 @@ She won a host of titles during the qualifying period including the Horowhenua-K
 
 Mills-Nossiter won the U14 K1 200m, U14 K2 200m, U14 K4 200m, U14 K1 500m and the U14 K1 5km titles.
 
-![WHS' Charlie Brown gives thanks for receiving his Official of the Year award at the Ray White Whanganui Secondary School Sports Awards last night.](https://res.cloudinary.com/whanganuihigh/image/upload/v1572557859/News/Charlie_Brown._Chron_31.10.19.jpg)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1572557859/News/Charlie_Brown._Chron_31.10.19.jpg "WHS' Charlie Brown gives thanks for receiving his Official of the Year award at the Ray White Whanganui Secondary School Sports Awards last night.")
 
 **Official of the Year went to Charlie Brown of Whanganui High School for football and futsal.**
 
@@ -97,7 +97,7 @@ Brown officiated at the National Tertiary Futsal Championships, at the National 
 
 He was also selected to attend the Referee Development Academy. Brown was awarded Football Official of the Year, Whanganui Futsal Official of the Year and won the Ray White Whanganui Service to Sport award in 2018.
 
-![WHS's Connor Hoskin receives his Coach of the Year award from Collegiate director of sport Barry Touzel.](https://res.cloudinary.com/whanganuihigh/image/upload/v1572557683/News/Connor_Hoskin._Chron_31.10.19.jpg)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1572557683/News/Connor_Hoskin._Chron_31.10.19.jpg "WHS's Connor Hoskin receives his Coach of the Year award from Collegiate director of sport Barry Touzel.")
 
 **Connor Hoskin from Whanganui High School won Coach of the Year for hockey.**
 
