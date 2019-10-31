@@ -21,7 +21,7 @@ date: 2019-10-31T20:40:58.431Z
 ---
 The GJ Gardner Wanganui Athletic FC Under 19s produced the best result for the club in nearly a decade after making it to the quarterfinals of the national age group tournament in Napier over Labour Weekend.
 
-Making the quarter finals of the NCR National Youth Tournament was a joint effort from both staff and GJ Gardner Wangani Athletic U19 players. **All but four players in the team are Whanganui High School past (4) and present (9) students.**
+Making the quarter finals of the NCR National Youth Tournament was a joint effort from both staff and GJ Gardner Wangani Athletic U19 players. (**All but four players in the team are Whanganui High School past (4) and present (9) students**).
 
 The lads were playing in the Satellite division of the Napier City Rovers National Youth Tournament, the largest and most prestigious Under 19 tournament in the country.
 
