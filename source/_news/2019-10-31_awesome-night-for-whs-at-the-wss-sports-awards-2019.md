@@ -2,9 +2,9 @@
 title: AWESOME night for WHS at the WSS Sports Awards 2019
 feature_image:
   description: >-
-    WHS students came away with 8 prestigious awards; L-R, Charlie Brown,
-    Rebecca Baker, Renee Teers, Connor Hoskin, Alex Hamblyn, Zane Mills-Nossiter
-    and Travis Bayler. Absent Keightley Watson.
+    WHS students came away with 8 prestigious awards at last nights WSS Sports
+    Awards; L-R, Charlie Brown, Rebecca Baker, Renee Teers, Connor Hoskin, Alex
+    Hamblyn, Zane Mills-Nossiter and Travis Bayler. Absent Keightley Watson.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572474376/News/74627062_1385517178264051_7046426463687409664_n.jpg
 news_author:
