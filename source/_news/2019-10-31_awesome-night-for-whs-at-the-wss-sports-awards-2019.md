@@ -61,4 +61,4 @@ Three of the top awards were given to Renee, Rebecca and Travis who are all part
 
 Both Guest speakers were ex students of WHS that have gone on to represent NZ in their sports - Max Brown (Sprint Kayaking) and Sosoli Talawadua (Black Ferns Rugby)
 
-**Absolutely outstanding achievements by EVERYONE nominated from WHS .......woohoo!!!** 💛💚
+**Absolutely outstanding achievements by EVERYONE nominated from WHS ....woohoo!!!** 💛💚
