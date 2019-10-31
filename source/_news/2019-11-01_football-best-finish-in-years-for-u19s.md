@@ -3,12 +3,12 @@ title: 'Football: Best finish in years for U19s'
 feature_image:
   description: >-
     The entire team, including staff, (back from left) Scott Burney (staff),
-    Cameron Mackintosh, Ryan Donaldson, Jake Simcox, Lachlan Hills (GK), Karan
-    Holland, Jordan Candish, Blake Sherman, Aaron Hodson (staff), Matthew
-    Calvert (staff).  Middle row: Amishel Kumar, Zachary Farmer, Divnesh Dayal,
+    CAMERON Mackintosh, RYAN Donaldson, JAKE Simcox, LACHLAN Hills (GK), KARAN
+    Holland, JORDAN Candish, BLAKE Sherman, Aaron Hodson (staff), Matthew
+    Calvert (staff).  Middle row: AMISHEL Kumar, Zachary Farmer, DIVNESH Dayal,
     Tom Dickson (GK), David Garner (captain). Front row: Tash Burney (staff),
-    Peter Czerwonka (coach), Aidan O’Connor, Luke Howe, Marley Norris, Flynn
-    Johnston, Jude Hiri, Gary Johnston (manager), Lisa Walker (osteopath).
+    Peter Czerwonka (coach), AIDAN O’Connor, LUKE Howe, Marley Norris, FLYNN
+    Johnston, JUDE Hiri, Gary Johnston (manager), Lisa Walker (osteopath).
     Absent: Ryan Holden (staff).
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572554665/News/U19_WU_Football._Chron_30.10.19.jpg
