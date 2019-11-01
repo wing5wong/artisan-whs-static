@@ -1,7 +1,7 @@
 ---
-title: Machete Clan performing on home ground
+title: Machete Clan performing on home soil
 feature_image:
-  credit: "\U0001F4F8 @sharnathephotographer"
+  credit: Thomas Green
   description: Former WHS students make up the Machete Clan band.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572562636/News/Machete_Clan_in_WU_Sept_2019.jpg
@@ -10,9 +10,11 @@ news_author:
   name: ''
   publication: ''
 image_gallery:
-  - image: >-
+  - description: Photo / Thomas Green
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572579570/News/2.Drxnes_facebook_page.jpg
-  - image: >-
+  - description: Photo / Thomas Green
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572579593/News/3.73472789_2497233613646477_686142367228493824_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572579609/News/4.Drxnes_facebook_page....jpg
