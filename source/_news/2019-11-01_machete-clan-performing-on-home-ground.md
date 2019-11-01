@@ -6,7 +6,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572562636/News/Machete_Clan_in_WU_Sept_2019.jpg
 news_author:
-  date: 2019-10-25T22:55:37.800Z
+  date: 2019-10-27T22:55:37.800Z
   name: ''
   publication: ''
 image_gallery:
