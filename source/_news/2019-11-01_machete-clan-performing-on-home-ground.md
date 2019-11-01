@@ -29,4 +29,4 @@ Machete Clan, Drxnes and Mungbeanz (who does the mixing for Machete) had the pac
 
 The former WHS lads were playing the last gig of their 2 month NZ ‘Homeless Monsters’ Tour on home soil and the crowd were loving every minute of it!
 
-Awesome guys, Wangaz loved having you!
+Awesome guys, Wangaz enjoyed having you!
