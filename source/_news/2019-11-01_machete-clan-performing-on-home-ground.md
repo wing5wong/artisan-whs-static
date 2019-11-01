@@ -16,11 +16,14 @@ image_gallery:
   - description: Photo / Thomas Green
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572579593/News/3.73472789_2497233613646477_686142367228493824_n.jpg
-  - image: >-
+  - description: Photo / Thomas Green
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572579609/News/4.Drxnes_facebook_page....jpg
-  - image: >-
+  - description: Photo / Thomas Green
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572579624/News/5.Drxnes_facebook_page.....jpg
-  - image: >-
+  - description: Photo / Thomas Green
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572579642/News/6.Drxnes_facebook_page......jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572579661/News/7.Machete_Clan_..poster.jpg
