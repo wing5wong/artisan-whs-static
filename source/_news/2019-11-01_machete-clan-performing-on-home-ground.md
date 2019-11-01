@@ -25,8 +25,6 @@ image_gallery:
 show_in_slider: false
 date: 2019-10-31T22:55:37.834Z
 ---
-Weeeehooo! Clocked our NZ tour! 12/12 💰 what a night Wangaz! 🤪🤪🤪🔥🔥🔥
-
 Machete Clan, Drxnes and Mungbeanz (who does the mixing for Machete) had the packed crowd rocking at Frank last weekend.
 
 The former WHS lads were playing the last gig of their 2 month NZ ‘Homeless Monsters’ Tour on home soil and the crowd were loving every minute of it!
