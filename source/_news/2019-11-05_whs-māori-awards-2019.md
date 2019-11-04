@@ -1,5 +1,8 @@
 ---
 title: WHS MĀORI AWARDS 2019
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1572909006/News/1111111111.jpg
 news_author:
   date: 2019-10-31T22:40:35.274Z
   name: Miss R Henry
