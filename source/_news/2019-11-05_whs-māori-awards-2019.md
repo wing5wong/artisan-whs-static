@@ -17,11 +17,11 @@ Māori Awards - Thursday 31 October held at the Whanganui Racecourse Function Ce
 
 Congratulations to our Prestigious Award winners:
 
-**Dux of Māori 2019 - ZEAH BREWER**  
+**Dux of Māori 2019 - ZEAH BREWER**  🏆👏 
 
-**Head of Māori, Female / Marewa Ki Te Rangi Taonga - VICTORIA WEBSTER** 
+**Head of Māori, Female / Marewa Ki Te Rangi Taonga - VICTORIA WEBSTER**  🏆👏 
 
-Congratulations to everyone who walked across the stage.
+Congratulations to everyone who walked across the stage.  👏
 
 A wonderful evening, filled with talented Rangatahi who really stepped up to make the evening memorable. A big mihi to our previous head girl Dr Katie Scorringe who gave an inspiring korero about her background and overcoming difficulties to fulfill her dream of looking after her people. We wish our year 13 tauira all the best for the future and look forward to challenging those who will return in 2020. 
 
