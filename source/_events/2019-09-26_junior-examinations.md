@@ -1,12 +1,13 @@
 ---
-title: Junior examinations
+title: Junior Examinations 2019
 date: 2019-11-10T21:45:46.567Z
 ---
 Junior examinations are on Monday 11 November and Tuesday 12 November. 
 
 Students sit examinations in English, Mathematics, Science and Social Studies.
 
-## Junior Examinations Timetable 2019 ## 
+## Junior Examination Timetable 2019: ##
+
 
 | **Monday 11 November - Morning**  | **Monday 11 November - Afternoon** |
 | --------------------------------- | ---------------------------------- |                        
