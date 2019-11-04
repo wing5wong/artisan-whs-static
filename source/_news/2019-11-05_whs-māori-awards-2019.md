@@ -19,7 +19,7 @@ Congratulations to our Prestigious Award winners:
 
 **Dux of Māori 2019 - ZEAH BREWER**  
 
-**Marewa Ki Te Rangi Taonga. Head of Māori Female - VICTORIA WEBSTER** 
+**Head of Māori, Female / Marewa Ki Te Rangi Taonga - VICTORIA WEBSTER** 
 
 Congratulations to everyone who walked across the stage.
 
