@@ -2,7 +2,7 @@
 title: WHS PASIFIKA AWARDS 2019
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1571618457/Events/flowercropped.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1572908487/News/pasifika_awards_border.jpg
 news_author:
   date: 2019-10-18T00:34:40.556Z
 image_gallery:
