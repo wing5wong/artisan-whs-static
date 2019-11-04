@@ -1,5 +1,5 @@
 ---
-title: NCEA examinations begin
+title: NCEA Examinations begin
 date: 2019-11-08T05:21:04.293Z
 ---
 NCEA examinations are from Friday 8 November until Tuesday 3 December.
