@@ -1,6 +1,9 @@
 ---
 title: WHS MĀORI AWARDS 2019
 feature_image:
+  description: >-
+    Marewa Ki Te Rangi Taonga. Head of Māori, Female - Victoria Webster (left)
+    and  Dux of Māori 2019 - Zeah Brewer.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572909006/News/1111111111.jpg
 news_author:
