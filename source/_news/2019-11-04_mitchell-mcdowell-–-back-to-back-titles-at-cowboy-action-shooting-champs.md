@@ -29,8 +29,8 @@ date: 2019-11-04T00:34:10.904Z
 **Mitchell McDowell – 1st  NZ National Cowboy Action Shooting Championships (age group 13 and under).** 
 **Back to back titles 2018 & 2019!** 
 
-Year 9 student Mitchell McDowell competed in the New Zealand National Cowboy Action Shooting Championships which were held at the Wanganui Pistol Club over the long weekend. There were almost 120 shooters from New Zealand, Australia and United States shooting at this event. 
+Year 9 student Mitchell McDowell competed in the New Zealand National Cowboy Action Shooting Championships which were held at the Wanganui Pistol Club over the long weekend. There were almost 120 shooters from New Zealand, Australia and United States at this event. 
 
-Mitchell was placed first in his age group retaining his NZ title! He was placed 20th overall!!
+Mitchell was placed first in his age group retaining his NZ title! He was placed 20th overall!
 
 This qualifies Mitchell for selection to compete for New Zealand in the World CASS (Cowboy Action Shooting Society) Championships in New Mexico, United States in May 2020.
