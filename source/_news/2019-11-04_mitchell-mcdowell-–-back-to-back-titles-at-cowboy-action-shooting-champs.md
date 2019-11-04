@@ -1,5 +1,5 @@
 ---
-title: Mitchell McDowell – Back to back titles at Cowboy Action Shooting Champs
+title: Mitchell McDowell – Back to back titles at NZ Cowboy Action Shooting Champs
 feature_image:
   description: Mitchell in action at NZ National Cowboy Action Shooting Championships.
   image: >-
