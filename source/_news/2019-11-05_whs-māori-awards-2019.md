@@ -3,7 +3,7 @@ title: WHS MĀORI AWARDS 2019
 news_author:
   date: 2019-10-31T22:40:35.274Z
   name: Miss R Henry
-  publication: HOD Māori
+  publication: Head of Te Reo Māori
 show_in_slider: true
 date: 2019-11-04T22:40:35.321Z
 ---
