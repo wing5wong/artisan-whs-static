@@ -27,4 +27,4 @@ A wonderful evening, filled with talented Rangatahi who really stepped up to mak
 
 Karawhiua mai Kia Whaiora!!
 
-[Photo album on our WHS facebook page](<Whanganui High School>)
+[Photo album on our WHS facebook page](https://www.facebook.com/WhanganuiHigh/)
