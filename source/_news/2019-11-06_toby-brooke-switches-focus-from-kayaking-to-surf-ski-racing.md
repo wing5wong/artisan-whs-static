@@ -1,10 +1,7 @@
 ---
 title: Toby Brooke switches focus from kayaking to surf ski racing
 feature_image:
-  description: >-
-    We find out more about the versatile 22-year-old paddler from Whanganui
-    Kayak Club, who has more recently switched focus from kayaking to surf ski
-    racing.
+  description: Former WHS student Toby Brooke is very versatile!
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572994477/News/Toby_Brooke_Canoe_Racing_NZ_website_9.10.19.jpg
 news_author:
