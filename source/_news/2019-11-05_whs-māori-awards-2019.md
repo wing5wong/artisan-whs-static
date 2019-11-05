@@ -26,3 +26,5 @@ Congratulations to everyone who walked across the stage.  👏
 A wonderful evening, filled with talented Rangatahi who really stepped up to make the evening memorable. A big mihi to our previous head girl Dr Katie Scorringe who gave an inspiring korero about her background and overcoming difficulties to fulfill her dream of looking after her people. We wish our year 13 tauira all the best for the future and look forward to challenging those who will return in 2020. 
 
 Karawhiua mai Kia Whaiora!!
+
+[Photo album on our WHS facebook page](<Whanganui High School>)
