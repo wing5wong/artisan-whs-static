@@ -1,5 +1,5 @@
 ---
-title: 'A Summer Celebration, featuring WHS Choir Awaside'
+title: '''A Summer Celebration'', featuring WHS Choir Awaside!'
 date: 2019-11-09T00:47:12.706Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1572914905/Events/summer_celebration_poster_snip.jpg
