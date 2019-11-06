@@ -27,7 +27,7 @@ Our 3 Prestigious Award winners at last nights Year 13 Prizegiving were given to
 
 
 
-Superb achievement Ahimsha, Ben and Leigh-ana! 🥳
+Superb achievement Ahimsha, Ben and Leigh-ana! 
 
 
 
