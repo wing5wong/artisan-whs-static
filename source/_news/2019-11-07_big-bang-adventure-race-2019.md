@@ -1,7 +1,7 @@
 ---
 title: Big Bang Adventure Race 2019
 feature_image:
-  description: 'Left to right: Matt, Scott, George and Chase.'
+  description: 'Left to right: Matt Grant, Scott Emerson, George Davey and Chase Morpeth.'
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1573081041/News/Big%20Bang%20Adv%20Race%202.11.19/20191102_114830.jpg
 news_author:
