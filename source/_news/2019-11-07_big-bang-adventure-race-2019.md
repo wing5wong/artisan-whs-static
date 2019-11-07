@@ -1,6 +1,7 @@
 ---
 title: Big Bang Adventure Race 2019
 feature_image:
+  description: 'Left to right: Matt, Scott, George and Chase.'
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1573081041/News/Big%20Bang%20Adv%20Race%202.11.19/20191102_114830.jpg
 news_author:
@@ -25,10 +26,9 @@ It was a beautiful day in the Kapiti region.  The race started at 8am with a mou
 
 The team finished in a time of 4 hours and 42 minutes. 
 
-WHS Results
-:
+WHS Results:
 
-**4th out of 19 High School teams!**\
+**4th out of 19 High School teams!**  
 **16th overall out of 114 teams!** 
 
 Really happy as the team was made up of two Year 9's (Chase Morpeth and George Davey – another 4 years of racing in this event) and 2 year 12 students (Scott Emerson and Matt Grant)
