@@ -9,3 +9,5 @@ Students will be issued with their entry slips and instructions on their last da
 Parents are reminded that NZQA exams cannot be rescheduled – they can only be done on the designated day. 
 
 [2019 Examination Timetable - NZQA](https://res.cloudinary.com/whanganuihigh/image/upload/v1567474914/Events/NZQAexam-timetable-2019.pdf)
+
+StudyTime has launched [NCEA Exam Resource Hub](https://studytime.co.nz/hub/) which has a range of tools that aim to help students sitting NCEA Exams.
