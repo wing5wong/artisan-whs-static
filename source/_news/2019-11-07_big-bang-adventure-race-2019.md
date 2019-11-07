@@ -31,7 +31,6 @@ WHS Results:
 **4th out of 19 High School teams!**  
 **16th overall out of 114 teams!** 
 
-Really happy as the team was made up of two Year 9's (Chase Morpeth and George Davey – another 4 years of racing in this event) and 2 year 12 students (Scott Emerson and Matt Grant)
-.
+Really happy as the team was made up of two Year 9's, Chase Morpeth and George Davey (another 4 years of racing in this event) and 2 year 12 students, Scott Emerson and Matt Grant.
 
 [Big Bang Adventure Race Website](https://www.bigbangadventure.co.nz/)
