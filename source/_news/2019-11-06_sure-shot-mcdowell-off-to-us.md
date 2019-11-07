@@ -9,6 +9,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572993627/News/Mitchell_McDowell_Chron_6.11.19.jpg
 news_author:
   date: 2019-11-05T22:37:27.855Z
+  name: Lucy Drake
+  publication: Whanganui Chronicle
 image_gallery:
   - description: Mitchell McDowell in action at Wanganui Pistol Club. Photo / Supplied
     image: >-
