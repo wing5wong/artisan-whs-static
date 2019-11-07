@@ -16,6 +16,6 @@ Parents are reminded that NZQA exams cannot be rescheduled – they can only be 
 
 StudyTime has launched [NCEA Exam Resource Hub](https://studytime.co.nz/hub/) which has a range of tools that aim to help students sitting NCEA Exams.
 
-**All the very best to all of our Senior students sitting NCEA exams.**
+**All the very best to all of our Senior students sitting their NCEA exams.**
 
 **GOOD LUCK!**   👍
