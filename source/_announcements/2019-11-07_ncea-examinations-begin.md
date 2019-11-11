@@ -6,7 +6,7 @@ subtitle: Friday 8 November - Tuesday 3 December
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1573096975/News/STUDY_TIME_BEST.jpg
 ---
-NCEA examinations are from Friday 8 November until Tuesday 3 December.
+NCEA Examinations began on Friday 8 November and finish on Tuesday 3 December.
 
 Students were issued with their entry slips and instructions on their last day. If they misplace their entry slips please come to the Student Centre before the exam and one will be printed for you.
 
