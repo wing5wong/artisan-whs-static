@@ -13,7 +13,7 @@ news_author:
 show_in_slider: true
 date: 2019-11-11T21:38:24.308Z
 ---
-With her impish grin and upbeat personality **Freyja Wrigglesworth** is the perfect fit to play Buttons in Repertory Theatre's forthcoming production of Cinders:the True Story.
+**With her impish grin and upbeat personality Freyja Wrigglesworth is the perfect fit to play Buttons in Repertory Theatre's forthcoming production of _Cinders: the True Story._**
 
 Buttons, of course, is the manservant in the home of Baron Hardup, hopelessly in love with Cinderella, and like her, very much taken for granted.
 
@@ -21,7 +21,7 @@ I remember Freyja playing Emmy, a child in the Helmer household in Rep's 2015 pr
 
 "I'd only been in school plays before that, not in any plays in town. When my older brother was helping out backstage in a play here about that time the whole family became quite interested in theatre," says Freyja.
 
-Freyja's now a teenager, completing her second year at High School where she's been studying drama.
+**Freyja's now a teenager, completing her second year at High School where she's been studying drama.**
 
 "I like the way you can play different people, have different personalities and be in someone else's skin. Buttons is pretty slow, a bit of a klutz, so it's okay if I make a mistake because that's in character, isn't it?
 
