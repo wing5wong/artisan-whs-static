@@ -10,7 +10,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1573508854/News/Dean_Wong_Chron_9.11.19.jpg
 news_author:
-  date: 2019-11-08T21:46:00.972Z
+  date: 2019-11-10T21:46:00.972Z
   name: Liz Wylie
   publication: Whanganui Chronicle
 show_in_slider: false
