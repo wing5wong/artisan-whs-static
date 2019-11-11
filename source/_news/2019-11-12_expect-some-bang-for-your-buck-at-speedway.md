@@ -1,7 +1,7 @@
 ---
 title: Expect some bang for your buck at speedway
 feature_image:
-  description: Former WHS student Max Holloway (81V).
+  description: Action at the Speedway last weekend.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1573508142/News/Max_Holloway_chron_2.11.19.jpg
 news_author:
