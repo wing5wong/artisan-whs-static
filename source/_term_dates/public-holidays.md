@@ -10,6 +10,8 @@ start_dates:
     body: Easter Monday (within school holidays)
   - date: 2020-04-25T04:29:51.542Z
     body: Anzac Day (within school holidays)
+  - date: 2020-04-27T00:11:19.683Z
+    body: Anzac Day observed (no school)
   - date: 2020-06-01T04:30:19.022Z
     body: Queen's Birthday
   - date: 2020-10-26T03:30:36.455Z
