@@ -15,7 +15,7 @@ date: 2019-11-11T21:14:37.670Z
 ---
 Fewer than 30 athletes travelled to Inglewood at the weekend and exceeded all expectations by winning the first round of the Regional Athletic League competed for by clubs throughout the lower and central North Island.
 
-The small team of promising Whanganui High School athletes and mostly younger Whanganui Collegiate School athletes who were not at senior prizegiving gained huge experience and came home with a raft of excellent performances.
+The small team of promising **Whanganui High School athletes** and mostly younger Whanganui Collegiate School athletes who were not at senior prizegiving gained huge experience and came home with a raft of excellent performances.
 
 **Maggie Jones** impressed over 300m hurdles but was probably startled more than helped by the fact that one hurdle was missing. Her time of 46.71 was not only her best but shows the potential of a junior podium finish at New Zealand Secondary Schools Championships at the start of next month. She backed this up with a win over 80m hurdles (12.14) and a solo win over 100m hurdles (15.50).
 
