@@ -2,8 +2,9 @@
 title: Wat’sOn Building staff benefit from IAG Trades Scholarships
 feature_image:
   description: >-
-    Andree and Mike Watson with Josh’s dad Tony, Joshuwa, James, James’ mother,
-    Mariana and Misty Tutaki (Joshuwa’s partner).
+    Andree and Mike Watson with Josh’s dad Tony, Joshuwa (former WHS student),
+    James, James’ mother, Mariana and Misty Tutaki (Joshuwa’s partner- former
+    WHS student).
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1573512197/News/Joshuwa_old_ex_RCP_7.11.19.jpg
 news_author:
