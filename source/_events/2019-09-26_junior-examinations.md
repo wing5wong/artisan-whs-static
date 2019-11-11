@@ -1,6 +1,6 @@
 ---
 title: Junior Examinations 2019
-date: 2019-11-10T21:45:46.567Z
+date: 2019-11-11T21:45:46.567Z
 ---
 Junior examinations are on Monday 11 November and Tuesday 12 November. 
 
