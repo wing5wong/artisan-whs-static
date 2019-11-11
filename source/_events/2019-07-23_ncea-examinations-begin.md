@@ -2,7 +2,7 @@
 title: NCEA Examinations 2019
 date: 2019-11-11T05:21:04.293Z
 ---
-NCEA Examinations are from Friday 8 November until Tuesday 3 December.
+NCEA Examinations began on Friday 8 November and finish on Tuesday 3 December.
 
 Students were issued with their entry slips and instructions on their last day. If they misplace their entry slips please come to the Student Centre before the exam and one will be printed for you.
 
