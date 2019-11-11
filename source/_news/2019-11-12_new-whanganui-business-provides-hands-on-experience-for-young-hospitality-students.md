@@ -42,7 +42,7 @@ Wong has another staff member employed for 30 hours a week at Infuzions which is
 
 **Britney Walsh is interested in becoming a baker and enjoys helping Wong make desserts which include brulee, tiramisu, cheesecake, strudel and brownie.**
 
-**Kelahn Te Awhe enjoys barista duties, manning the coffee machine, while Olea Drummond** likes all aspects of hospitality.**
+**Kelahn Te Awhe enjoys barista duties, manning the coffee machine, while Olea Drummond likes all aspects of hospitality.**
 
 Wong says cooking and hospitality are great options for young people who like doing hands-on creative work and they can go a long way with it.
 
