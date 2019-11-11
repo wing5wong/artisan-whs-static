@@ -5,15 +5,15 @@ title: >-
 feature_image:
   credit: Bevan Conley
   description: >-
-    Students Olea Drummond, Britney Walsh and Kelahn Te Awhe get hands-on
-    culinary arts training with chef Dean Wong at Infuzions.
+    Whanganui High School students Olea Drummond, Britney Walsh and Kelahn Te
+    Awhe get hands-on culinary arts training with chef Dean Wong at Infuzions.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1573508854/News/Dean_Wong_Chron_9.11.19.jpg
 news_author:
   date: 2019-11-10T21:46:00.972Z
   name: Liz Wylie
   publication: Whanganui Chronicle
-show_in_slider: false
+show_in_slider: true
 date: 2019-11-11T21:46:00.998Z
 ---
 A group of keen hospitality students are loving the experience of preparing fast food the slow way in Whanganui.
@@ -24,7 +24,7 @@ The new outlet at 209 Victoria Ave was formerly Hook, Line and Sinker and it now
 
 **Wong, who has been a mentor chef to Whanganui High School (WHS) students for the past few years, wanted to give young people experience working in a real-life setting.**
 
-"**Linda Hardcastle** - head of food technology at WHS - and her husband Paul supported me in taking on these premises and we have revamped it and given all the walls a fresh coat of paint," Wong said.
+"**Linda Hardcastle - head of food technology at WHS** - and her husband Paul supported me in taking on these premises and we have revamped it and given all the walls a fresh coat of paint," Wong said.
 
 "It used to be a pizza place and it has an excellent big kitchen which is great for training purposes."
 
@@ -40,9 +40,9 @@ Wong has another staff member employed for 30 hours a week at Infuzions which is
 
 "Students have rostered times for training on Thursdays but some like to come in and help out after school on other days."
 
-**Britney Walsh** is interested in becoming a baker and enjoys helping Wong make desserts which include brulee, tiramisu, cheesecake, strudel and brownie.
+**Britney Walsh is interested in becoming a baker and enjoys helping Wong make desserts which include brulee, tiramisu, cheesecake, strudel and brownie.**
 
-**Kelahn Te Awhe** enjoys barista duties, manning the coffee machine, while **Olea Drummond** likes all aspects of hospitality.
+**Kelahn Te Awhe enjoys barista duties, manning the coffee machine, while Olea Drummond** likes all aspects of hospitality.**
 
 Wong says cooking and hospitality are great options for young people who like doing hands-on creative work and they can go a long way with it.
 
