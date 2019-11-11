@@ -27,5 +27,7 @@ Exam 2:       	12:40 – 2:40pm
 
 *Students may go home at 2:40pm*
 
+GOOD LUCK!!
+
 
 
