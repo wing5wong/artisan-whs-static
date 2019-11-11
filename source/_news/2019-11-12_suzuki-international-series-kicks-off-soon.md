@@ -2,7 +2,7 @@
 title: Suzuki International Series kicks off soon
 feature_image:
   credit: Andy McGechan
-  description: WHS student Caleb Gilmore will be riding in the GIXXER Cup class..
+  description: WHS student Caleb Gilmore will be riding in the GIXXER Cup class.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1573511241/News/Caleb-Gilmore-Chron-4.4.19.jpg
 news_author:
