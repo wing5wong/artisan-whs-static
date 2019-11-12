@@ -1,6 +1,8 @@
 ---
 title: NCEA Examinations 2019
 date: 2019-11-13T05:21:04.293Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1573096975/News/STUDY_TIME_BEST.jpg
 ---
 NCEA Examinations began on Friday 8 November and finish on Tuesday 3 December.
 
