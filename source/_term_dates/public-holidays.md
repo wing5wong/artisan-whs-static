@@ -1,5 +1,5 @@
 ---
-title: Public Holidays 2020
+title: Public Holidays
 date: 2019-04-30T22:51:30.503Z
 start_dates:
   - date: 2020-02-05T20:38:41.140Z
