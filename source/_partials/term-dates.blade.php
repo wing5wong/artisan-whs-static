@@ -3,7 +3,7 @@
 
 {!! $td !!}
 
-@if(!(strpos($td->title, "Public Holidays") >=0))
+@if(!(strpos($td->title, "Public Holidays") !== false))
 <h3>Start Dates</h3>
 @endif
 <table>
@@ -15,7 +15,7 @@
     @endforeach
 </table>
 
-@if(!(strpos($td->title, "Public Holidays") >=0))
+@if(!(strpos($td->title, "Public Holidays") !== false))
 <h3>End Dates</h3>
 <table>
     @foreach($td->end_dates as $date)
