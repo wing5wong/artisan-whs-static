@@ -578,7 +578,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string", hint: "Public Holidays should have title "Public Holidays", otherwise use Term X" }
+      - { label: "Title", name: "title", widget: "string", hint: "Public Holidays should have title "Public Holidays" included, otherwise use Term X" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Start Dates", name: "start_dates", widget: list,
