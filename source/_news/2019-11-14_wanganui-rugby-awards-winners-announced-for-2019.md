@@ -77,7 +77,7 @@ Wanganui Under 18 Women Player of Year: Maze Koro.
 
 Wanganui Under 20 - Player of Year: Jason Myers; Team Member of Year: Josefa Rokotakala.
 
-**Whanganui Maori Player of Year: Joe Edwards**.
+**Whanganui Māori Player of Year: Joe Edwards**.
 
 Wanganui Samoa Player of Year: Fa'amanu Pulemagafa.
 
