@@ -1,6 +1,8 @@
 ---
 title: Central 6 Summer Tournament - Year 9 & 10
 date: 2019-11-21T23:56:04.780Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1573696819/Events/IMG_1774.jpg
 ---
 Central 6 Summer Tournament for Year 9 and 10 students is on Friday 22 November and includes Touch, Cricket, Volleyball and Athletics.
 
