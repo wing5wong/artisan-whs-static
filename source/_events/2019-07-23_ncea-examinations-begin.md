@@ -1,6 +1,6 @@
 ---
 title: NCEA Examinations 2019
-date: 2019-11-15T05:21:04.293Z
+date: 2019-11-18T05:21:04.293Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1573096975/News/STUDY_TIME_BEST.jpg
 ---
