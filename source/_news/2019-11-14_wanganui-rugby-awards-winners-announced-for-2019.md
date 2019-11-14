@@ -1,9 +1,7 @@
 ---
 title: Wanganui Rugby Awards winners announced for 2019
 feature_image:
-  description: >-
-    Congratulations to AJ Malili-Malo-Lauano for winning Rep Wanganui U16 Team
-    Member of the Year.
+  description: 2019 Wanganui Rugby Awards were at the Barracks Bar on Saturday evening.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1573694665/News/image.jpg
 news_author:
@@ -68,7 +66,7 @@ The Awards Recipients were:
 
 Allan E Jennings Achievement Award (Outstanding School Leaver): Ben Strang.
 
-### Representative ### 
+### Representative:  
 
 **Wanganui Under 16** - Player of Year: Hunter Morrison;  
 **Team Member of Year: AJ Malo Malili Lauano.**
@@ -89,7 +87,7 @@ Wanganui Samoa Player of Year: Fa'amanu Pulemagafa.
 
 Wanganui Heartland – Player of Year: Kamipeli Latu; Team Member of Year: Lindsay Horrocks.
 
-### Club ###
+### Club: ###  
 
 Senior Club Forward: George Gardner (Hunterville).
 
