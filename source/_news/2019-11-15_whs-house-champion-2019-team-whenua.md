@@ -11,9 +11,9 @@ image_gallery:
 show_in_slider: true
 date: 2019-11-15T00:53:57.887Z
 ---
-And the Award for Champion House of 2019 goes to:
+**And the Award for Champion House of 2019 goes to:**
 
-TEAM WHENUA!!!
+**TEAM WHENUA!!!**  
 
 Congratulations to all students and staff of Team Whenua!
 
@@ -25,11 +25,13 @@ Words from our Champion Whenua House leaders:
 
 Being the house captain for 2019 has been very rewarding and it was great to see all the hard work everyone put in from Whenua pay off by winning the house competition for the first time. I’m sure Whenua can do the same for 2020!!!
 
-_Cameron Russell_
+_Cameron Russell_
+
 
 It’s been an absolute honour and privilege being the first ever house captain for team whenua. The deans, Ms Kennedy and Miss Martin and the entire team was a pleasure to work with. I’ve learnt so much from the deans and team, the events andpace speaking at assemblies or even screaming my lungs out at house events. The enthusiasm, commitment and drive everyone had shown throughout the year definitely paid off with the win! This prestigious role of being a house captain has definitely been a highlight and also a big reason behind the fondest memories of my high school career! Thank you from the bottom of my heart.  💚
 
-_Arafia Khan_
+_Arafia Khan_
+
 
 A huge thank you to our wonderful Whenua pastoral team of Paul Turner, Lisa Martin and Rebecca Kennedy for their positive Whenua winning vibes!
 
