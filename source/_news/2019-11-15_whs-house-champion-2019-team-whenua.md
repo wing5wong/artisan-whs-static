@@ -1,5 +1,5 @@
 ---
-title: 'WHS House Champion 2019: TEAM WHENUA!'
+title: 'WHS Champion House 2019: TEAM WHENUA!'
 feature_image:
   description: >-
     Champion Whenua House Leaders from left to right; Cameron Russell and Arafia
