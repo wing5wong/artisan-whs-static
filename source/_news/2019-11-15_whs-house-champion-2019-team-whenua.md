@@ -24,7 +24,7 @@ It has been a hugely successful year full of many amazing events and lots of pos
 
 Many thanks to all our enthusiastic Heads of Houses for 2019!
 
-### Words from our Champion Whenua House leaders:  
+##### Words from our Champion Whenua House leaders:  
 
 Being the house captain for 2019 has been very rewarding and it was great to see all the hard work everyone put in from Whenua pay off by winning the house competition for the first time. I’m sure Whenua can do the same for 2020!!!
 
