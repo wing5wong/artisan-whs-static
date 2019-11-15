@@ -27,7 +27,7 @@ Being the house captain for 2019 has been very rewarding and it was great to see
 
 _Cameron Russell_
 
-It’s been an absolute honour and privilege being the first ever house captain for team whenua. The deans, Ms Kennedy and Miss Martin and the entire team was a pleasure to work with. I’ve learnt so much from the deans and team, the events andpace speaking at assemblies or even screaming my lungs out at house events. The enthusiasm, commitment and drive everyone had shown throughout the year definitely paid off with the win! This prestigious role of being a house captain has definitely been a highlight and also a big reason behind the fondest memories of my high school career! Thank you from the bottom of my heart.  💚
+It’s been an absolute honour and privilege being the first ever house captain for team whenua. The deans, Ms Kennedy and Miss Martin and the entire team was a pleasure to work with. I’ve learnt so much from the deans and team, the events and speaking at assemblies or even screaming my lungs out at house events. The enthusiasm, commitment and drive everyone had shown throughout the year definitely paid off with the win! This prestigious role of being a house captain has definitely been a highlight and also a big reason behind the fondest memories of my high school career! Thank you from the bottom of my heart.  💚
 
 _Arafia Khan_
 
