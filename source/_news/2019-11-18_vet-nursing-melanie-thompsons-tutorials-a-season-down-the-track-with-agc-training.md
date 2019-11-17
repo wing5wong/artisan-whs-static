@@ -19,7 +19,7 @@ date: 2019-11-17T23:02:32.558Z
 ---
 Nearly a year down the track and Melanie Thompson's job is everything she hoped for and more.
 
-Thompson was always destined to work with animals and she found her niche earlier this year as tutor for AGC Training in her first term delivering the Level 5 Veterinary Nurse Assistant (Companion Animal) course.
+Thompson (former WHS student) was always destined to work with animals and she found her niche earlier this year as tutor for AGC Training in her first term delivering the Level 5 Veterinary Nurse Assistant (Companion Animal) course.
 
 She is a graduate of this very course through what was then Ag Challenge, graduating in 2015, and now the student is the teacher.
 
