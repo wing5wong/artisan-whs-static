@@ -11,12 +11,12 @@ news_author:
   publication: Whanganui Chronicle
 image_gallery:
   - description: >-
-      Machete Clan, Drones and DJ Mungbeans have taken the nation by storm with
+      Machete Clan, Drxnes and DJ Mungbeans have taken the nation by storm with
       their recent Homeless Monsters Tour. Photo / Supplied.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574029324/News/Chron_16.11.19._Machete.Drnxes.DJ_Mungbeans..jpg
   - description: >-
-      Whanganui band Drones have also rocked out alongside Machete Clan
+      Whanganui band Drxnes have also rocked out alongside Machete Clan
       throughout their journey. Photo / Supplied.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574029341/News/Chron_16.11.19.Drxnes..jpg
