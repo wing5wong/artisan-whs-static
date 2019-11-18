@@ -92,6 +92,6 @@ Programme leader Stephanie West said the fashion show, which will be held in UCO
 
 This is the second year that all of UCOL Whanganui's Art and Design programmes have combined for an end-of-year exhibition. Last year's exhibition, Tributaries, attracted more than 200 people.
 
-Fashion Show: Friday November 22 at 7.30pm, UCOL Whanganui A Block. Tickets $15 from UCOL Whanganui Info Hub.
+**Fashion Show:** Friday November 22 at 7.30pm, UCOL Whanganui A Block. Tickets $15 from UCOL Whanganui Info Hub.
 
-Exhibition Week: November 25-29, UCOL Whanganui campus (atrium, B & C blocks), 16 Rutland St, NZ Glassworks, 2 Rutland St 10am-3pm. Free entry.
+**Exhibition Week:** November 25-29, UCOL Whanganui campus (atrium, B & C blocks), 16 Rutland St, NZ Glassworks, 2 Rutland St 10am-3pm. Free entry.
