@@ -9,7 +9,7 @@ news_author:
   date: 2019-11-12T21:26:21.234Z
   name: Rep Talk with Nadine Rayner
   publication: Whanganui Midweek
-show_in_slider: true
+show_in_slider: false
 date: 2019-11-19T21:26:21.293Z
 ---
 Anyone involved in Wanganui theatre will be familiar with Kieran Spence, the fourth generation of a notable theatre family.
