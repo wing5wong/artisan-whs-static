@@ -2,7 +2,7 @@
 title: Tough Teens 2019 - Year 9 & 10
 date: 2019-11-27T20:46:53.274Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1568756868/Events/Tough-Teen-Save-the-Date-2019-2-300x189.png
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1574132159/Events/Race-Schedule.1000---Tough-Teens-2019.jpg
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1571961552/News/photo_from_last_year_1.jpg
