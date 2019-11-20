@@ -26,7 +26,7 @@ Then there are water colours by Heather Spooner.
 
 "Heather's been made a life member of the Arts Society."
 
-Judy pointed out work by Janis Cusack and younger member **Holly McKenzie** (former WHS student), lavishing praise on both. Of Holly's single acrylic work, she says, "It's quite skilful, how the paint has been applied and dragged across."
+Judy (former WHS Art teacher) pointed out work by Janis Cusack and younger member **Holly McKenzie** (former WHS student), lavishing praise on both. Of Holly's single acrylic work, she says, "It's quite skilful, how the paint has been applied and dragged across."
 
 "Janis was a science teacher and she's doing some beautiful work."
 An example of Lorraine Halliwell's water colour work is also on display in the exhibition.
