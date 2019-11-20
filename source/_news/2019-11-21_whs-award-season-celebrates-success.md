@@ -9,6 +9,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1574281413/News/RCP_14.11.19.Photo.jpg
 news_author:
   date: 2019-11-13T20:21:39.265Z
+  name: Wanganui Secondary School News
   publication: River City Press
 show_in_slider: true
 date: 2019-11-20T20:21:39.291Z
