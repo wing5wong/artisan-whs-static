@@ -23,7 +23,7 @@ Our school breathes and lives our LIFE values:  Learning, Integrity, Fellowship,
 
 I am always happy to meet with students, whānau and members of the community to discuss any aspect of education at Whanganui High School.
 
-Ngā mihi nui,
-Martin McAllen - Principal
-MEd Leadership with First Class Honours,
+Ngā mihi nui,  
+Martin McAllen - Principal  
+MEd Leadership with First Class Honours,  
 PGDipEd Leadership, BA, Dip Tchg
