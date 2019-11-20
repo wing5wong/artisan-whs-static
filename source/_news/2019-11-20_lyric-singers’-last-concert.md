@@ -20,7 +20,7 @@ When he was in the third grade of Japanese primary school, he came fifth in a na
 
 Hideki is pictured being presented with his Sonja Wilson certificate by the adjudicator, Guy Donaldson.
 
-Other guest artists for the concert will be the Abacus Trio, consisting of Angela Crawford (keyboard), WHS student **Chester Nevil (drums)** and Murray Loveridge (bass) with vocalist, Denise McNeill.
+Other guest artists for the concert will be the Abacus Trio, consisting of Angela Crawford (keyboard), **WHS student Chester Nevil (drums)** and Murray Loveridge (bass) with vocalist, Denise McNeill.
 
 Teenage students of Marie Brooks, Hannah Boessenkool (vocal) and Savannah Priest (piano duet), will perform in the middle guest artist bracket.
 
