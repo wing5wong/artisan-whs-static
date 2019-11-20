@@ -10,7 +10,7 @@ news_author:
 show_in_slider: false
 date: 2019-11-19T21:30:59.310Z
 ---
-Lyric Singers will present their end of year concert, Piece by Piece on Saturday, November 23, 2pm, at Christ Church, Wicksteed St.
+Lyric Singers **(including WHS international student Karlotta Hartz)** will present their end of year concert, Piece by Piece on Saturday, November 23, 2pm, at Christ Church, Wicksteed St.
 
 This concert will raise funds for Jigsaw Whanganui. The choir items will be interspersed with three guest artist brackets.
 
