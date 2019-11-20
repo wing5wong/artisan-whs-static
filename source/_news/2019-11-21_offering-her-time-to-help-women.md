@@ -1,6 +1,8 @@
 ---
 title: Offering her time to help women
 feature_image:
+  credit: Paul Brooks
+  description: Volunteer of the Month is Petra Allen.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1574288861/News/Petra_Allen._Midweek_20.11.19.jpg
 news_author:
