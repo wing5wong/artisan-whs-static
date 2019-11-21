@@ -6,7 +6,7 @@ short: >-
   WHS Kapa Haka group were invited to perform at the opening ceremony of the
   Confucius Institutes’ International Conference in Wellington on 3 July 2019.
 news_author:
-  date: 2019-07-03T01:01:01.285Z
+  date: 2019-07-11T01:01:01.285Z
 description: >-
   WHS Kapa Haka group were invited to perform at the opening ceremony of the
   Confucius Institutes’ International Conference in Wellington on 3 July 2019.
