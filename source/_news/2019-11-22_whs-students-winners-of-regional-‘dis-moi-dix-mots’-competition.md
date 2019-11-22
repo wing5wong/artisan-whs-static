@@ -1,6 +1,9 @@
 ---
 title: WHS students winners of Regional ‘Dis-moi dix mots’ competition
 feature_image:
+  description: >-
+    Winners from left to right: 1st Stella Ridgway, 2nd Philip Dale, 3rd Jena
+    Briggs.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1574385457/News/All-three.jpg
 news_author:
