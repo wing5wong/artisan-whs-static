@@ -20,4 +20,4 @@ Prizes were awarded on 25 October at the Globe Theatre in Palmerston North.
 2nd Philip Dale  
 3rd Jena Briggs**
 
-Congratulations guys, well done!!
+Travail fantastique et bravo!
