@@ -1,5 +1,5 @@
 ---
-title: WHS students winners of Regional ‘Dis-moi dix mots’ competition
+title: WHS students were the winners of Regional ‘Dis-moi dix mots’ competition
 feature_image:
   description: >-
     Winners from left to right: 1st Stella Ridgway, 2nd Philip Dale, 3rd Jena
