@@ -14,10 +14,10 @@ Alliance Françoise hosted a workshop at Whanganui High School for their regiona
 
 Prizes were awarded on 25 October at the Globe Theatre in Palmerston North.
 
-WHS had a clean sweep in the competition winning:
+**WHS had a clean sweep in the competition winning:**
 
-1st Stella Ridgway  
+**1st Stella Ridgway  
 2nd Philip Dale  
-3rd Jena Briggs
+3rd Jena Briggs**
 
 Congratulations guys, well done!!
