@@ -4,7 +4,7 @@ feature_image:
   credit: Paul Brooks
   description: Volunteer of the Month is Petra Allen.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1574288861/News/Petra_Allen._Midweek_20.11.19.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1574638252/News/Petra_Allen._Photo_from_Midweek_20.11.19.jpg
 news_author:
   date: 2019-11-19T22:26:57.244Z
   name: By Paul Brooks
@@ -45,6 +45,6 @@ Once contact is made, support from Women's Refuge is ongoing.
 "The amount of support we get from the community with the ball, with any of our services, is really awesome. My employer, Treadwell Gordon has been hugely supportive of my volunteer work and they also provide legal assistance to Refuge where possible. Whanganui is a community I am proud to live in and be a part of, but without services provided by Refuge and other organisations it would be a very different place to live."
 
 
-HELP WANTED
-Whanganui Women's Refuge needs Crisis Line volunteers. Crisis Line is the equivalent to calling 111 for women who are in fear of their lives. Refuge needs people to be trained in this vital role as a matter of urgency. Full training will be held on Saturday, November 30 and Sunday, December 1, 9am-5pm both days.
+HELP WANTED  
+Whanganui Women's Refuge needs Crisis Line volunteers. Crisis Line is the equivalent to calling 111 for women who are in fear of their lives. Refuge needs people to be trained in this vital role as a matter of urgency. Full training will be held on Saturday, November 30 and Sunday, December 1, 9am-5pm both days.  
 For more information call Lynda 344 2204, 021 02989604 or email lynda@refugewhanganui.org.nz
