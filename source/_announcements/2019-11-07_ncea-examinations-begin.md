@@ -6,6 +6,8 @@ subtitle: Thursday 28 November - Wednesday 4 December
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1574132159/Events/Race-Schedule.1000---Tough-Teens-2019.jpg
 ---
+Above is the Tough Teen Race Schedule for Thursday 28 November.
+
 Junior students will ALL be participating in our Activity Days from Thursday 28 November until Wednesday 4 December.
 
 [Activity Days Information Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1574640428/newsletters/Junior_Activity_Days.pdf)
