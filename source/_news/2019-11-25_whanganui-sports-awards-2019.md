@@ -11,6 +11,13 @@ news_author:
   date: 2019-11-25T00:35:47.090Z
   name: Jared Smith
   publication: Whanganui Chronicle
+image_gallery:
+  - description: >-
+      UFC champ Israel Adesanya won the International Senior Sportsperson trophy
+      and then the Supreme Award at the 2019 Ray White Whanganui Sports Awards
+      on Friday night. Photo / Jared Smith.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1574642570/News/Israel_Adesanya.jpg
 show_in_slider: true
 date: 2019-11-25T00:35:47.114Z
 ---
