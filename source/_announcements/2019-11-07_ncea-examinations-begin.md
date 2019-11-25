@@ -8,7 +8,7 @@ image: >-
 ---
 Above is the Tough Teen Race Schedule for Thursday 28 November.
 
-Junior students will ALL be participating in our Activity Days from Thursday 28 November until Wednesday 4 December.
+ALL Junior students will be participating in our Activity Days from Thursday 28 November until Wednesday 4 December.
 
 [Activity Days Information Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1574640428/newsletters/Junior_Activity_Days.pdf)
 
