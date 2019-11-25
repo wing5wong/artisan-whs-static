@@ -11,7 +11,7 @@ news_author:
 show_in_slider: true
 date: 2019-11-25T02:45:33.751Z
 ---
-[Photos on our Facebook Page](https://www.facebook.com/WhanganuiHigh/)
+[Photos on our WHS Sports Facebook Page](https://www.facebook.com/Whanganui-High-School-Sports-168112976671150/)
 
 Junior Central 6 was held on Friday with our Junior teams taking part against our Central 6 schools, Tawa College, Taradale High School, Kapiti College and Havelock North High School.
 Results are:
