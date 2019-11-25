@@ -1,5 +1,5 @@
 ---
-title: Tough Teens 2019 - Year 9 & 10
+title: Tough Teens 2019 - All Junior students
 date: 2019-11-27T20:46:53.274Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1574132159/Events/Race-Schedule.1000---Tough-Teens-2019.jpg
