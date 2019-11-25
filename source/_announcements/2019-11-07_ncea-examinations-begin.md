@@ -1,21 +1,13 @@
 ---
-title: NCEA Examinations 2019
+title: Activity Days - All Junior students
 is_emergency: false
-date: 2019-11-10T20:00:00.719Z
-subtitle: Friday 8 November - Tuesday 3 December
+date: 2019-11-27T20:00:00.719Z
+subtitle: Thursday 28 November - Wednesday 4 December
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1573096975/News/STUDY_TIME_BEST.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1574132159/Events/Race-Schedule.1000---Tough-Teens-2019.jpg
 ---
-NCEA Examinations began on Friday 8 November and finish on Tuesday 3 December.
+Junior students will all be participating in our Activity days from Thursday 28 November until Wednesday 4 December.
 
-Students were issued with their entry slips and instructions on their last day. If they misplace their entry slips please come to the Student Centre before the exam and one will be printed for you.
+[Activity Days Information Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1574640428/newsletters/Junior_Activity_Days.pdf)
 
-Students and parents are reminded that NZQA exams cannot be rescheduled – they can only be done on the designated day.
-
-[2019 Examination Timetable - NZQA](https://res.cloudinary.com/whanganuihigh/image/upload/v1567474914/Events/NZQAexam-timetable-2019.pdf)
-
-StudyTime has launched [NCEA Exam Resource Hub](https://studytime.co.nz/hub/) which has a range of tools that aim to help students sitting NCEA Exams.
-
-**All the very best to all of our Senior students sitting their NCEA exams.**
-
-**GOOD LUCK!**   👍
+**HAVE FUN AND GOOD LUCK!**   👍
