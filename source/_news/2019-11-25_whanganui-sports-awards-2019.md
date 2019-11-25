@@ -117,11 +117,11 @@ Adesanya's success is being recognised in all areas which have a claim to him, a
 
 
 
-In accepting the International Junior Award after winning major Asian tournaments at junior and senior level, Watson thanked everyone from the training staff at City Gym to his parents, family, and sponsors who help him compete around the world.
+**In accepting the International Junior Award after winning major Asian tournaments at junior and senior level, Watson thanked everyone from the training staff at City Gym to his parents, family, and sponsors who help him compete around the world.**
 
 
 
-"It does mean a lot to me and it inspires me to achieve more."
+**"It does mean a lot to me and it inspires me to achieve more."**
 
 
 
