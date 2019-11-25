@@ -1,5 +1,8 @@
 ---
 title: Whanganui High School News - November 2019
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1574641028/News/November_2019_rivercity-press-copy-web-_002.jpg
 news_author:
   date: 2019-11-28T00:09:29.288Z
   publication: River City Press
