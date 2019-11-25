@@ -13,4 +13,4 @@ date: 2019-11-25T00:09:29.313Z
 
 [Read the October 2019 edition of our School Newsletter.](https://res.cloudinary.com/whanganuihigh/image/upload/v1574628274/newsletters/November_2019_rivercity_press_copy_web.pdf)
 
-[To read other Newsletters see our School Newsletters page.](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
+To read other Newsletters see our [School Newsletters page.](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
