@@ -2,7 +2,7 @@
 title: Junior Central 6 Tournament
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1574650025/News/Picture_to_turn_around.png
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1573696819/Events/IMG_1774.jpg
 news_author:
   date: 2019-11-25T02:45:33.704Z
   name: 'Lisa Murphy '
