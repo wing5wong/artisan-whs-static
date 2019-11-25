@@ -53,7 +53,7 @@ But even the confident fighter, who is an excellent orator, needed a moment to f
 
 
 
-"Like 2007-8, I was at Stellar \[bar], regular Saturday night, and I saw Kyle Gallacher. You all know Kyle, 6ft 9, big white boy," referring to the former NZ kickboxing champion and trainer.
+"Like 2007-8, I was at Stellar \[bar], regular Saturday night, and I saw **Kyle Gallacher** (ex WHS student). You all know Kyle, 6ft 9, big white boy," referring to the former NZ kickboxing champion and trainer.
 
 
 
@@ -69,7 +69,7 @@ Off stage, Adesanya emphasised he felt Gallacher should have been up there with 
 
 
 
-He appreciated the symmetry of the evening where judo exponent Keightly Watson had received the International Junior Sportsperson award, while the late Empire Games silver medal winning wrestler Pat O'Connor was inducted into the Whanganui Sports Hall of Fame.
+**He appreciated the symmetry of the evening where judo exponent Keightly Watson had received the International Junior Sportsperson award**, while the late Empire Games silver medal winning wrestler Pat O'Connor was inducted into the Whanganui Sports Hall of Fame.
 
 
 
