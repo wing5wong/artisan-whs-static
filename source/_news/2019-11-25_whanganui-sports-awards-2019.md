@@ -243,7 +243,7 @@ It was winning the German Open that set the young man on his way, including goin
 
 Owen thanked his wife and family "for sticking with me through the good times and the lean times on tour".
 
-**Award Winners:**  
+**Award Winners:**  
 
 NZCT National Senior Sportsperson of the Year: Lisa Allpress (Thoroughbred Racing)
 
@@ -259,7 +259,7 @@ Ali Arc Senior Team of the Year: Whanganui Premier Men's Rink Hockey Team
 
 David Jones Motors Masters Award: Krystine Davies (Inline Speed Skating)
 
-Velo Ronny's Bicycle Store International Junior Sportsperson of the Year: Keightley Watson (Judo)
+**Velo Ronny's Bicycle Store International Junior Sportsperson of the Year: Keightley Watson (Judo)**
 
 Mitre 10 MEGA International Senior Sportsperson of the Year: Israel Adesanya (Mixed Martial Arts)
 
