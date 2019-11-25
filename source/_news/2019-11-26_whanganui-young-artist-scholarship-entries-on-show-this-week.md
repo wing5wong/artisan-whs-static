@@ -41,5 +41,5 @@ An important part of the group's aim is to encourage "artists of tomorrow" and t
 "Part of our mission statement when our gallery first opened was to foster emerging artists, this meets our aims and celebrates the amazing talent we have here," collective member John Archbold said.
 
 Fine Arts Whanganui Young Artist Scholarship:  
-Exhibition open from Sunday, November 24, at 17 Taupo Quay  
+Exhibition open from Sunday, November 24, at 17 Taupo Quay.  
 Gallery open from 10am to 3pm, Wednesday to Friday, 9am to 1pm, Saturday and 10am to 1pm Sunday.
