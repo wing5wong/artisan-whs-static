@@ -69,7 +69,7 @@ Off stage, Adesanya emphasised he felt Gallacher should have been up there with 
 
 
 
-**He appreciated the symmetry of the evening where judo exponent Keightly Watson had received the International Junior Sportsperson award**, while the late Empire Games silver medal winning wrestler Pat O'Connor was inducted into the Whanganui Sports Hall of Fame.
+**He appreciated the symmetry of the evening where judo exponent Keightley Watson had received the International Junior Sportsperson award, while the late Empire Games silver medal winning wrestler Pat O'Connor was inducted into the Whanganui Sports Hall of Fame.**
 
 
 
