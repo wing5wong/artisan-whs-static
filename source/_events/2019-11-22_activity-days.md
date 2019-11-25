@@ -1,5 +1,5 @@
 ---
-title: Activity Days
+title: Activity Days - All Junior students
 date: 2019-11-28T02:33:08.245Z
 ---
 Junior students will all be participating in our Activity days from Thursday 28 November until Wednesday 4 December.
