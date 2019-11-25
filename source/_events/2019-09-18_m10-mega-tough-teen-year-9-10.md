@@ -27,9 +27,9 @@ Students should wear their school PE gear and, as they will get wet when partic
 Students will need to bring their lunch, a sun hat, and sunscreen. There will be some food stalls set up at the venue. A reminder that students need to take care of all their personal items especially phones. We recommend leaving laptops/large devices at home for that day.
 
 The race schedule is:  
- Year 9 girls at 12pm  
- Year 10 girls at 12.30pm  
- Year 9 boys at 1pm  
- Year 10 boys at 1.30pm  
+* Year 9 girls at 12pm  
+* Year 10 girls at 12.30pm  
+* Year 9 boys at 1pm  
+* Year 10 boys at 1.30pm  
 
 Students will be released straight from Cooks Gardens at approximately 2.30pm.
