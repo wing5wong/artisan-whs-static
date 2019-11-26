@@ -31,6 +31,14 @@ image_gallery:
       represent NZ in her sport with Black Ferns Rugby.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572474375/News/74673198_1385519121597190_5398145129334702080_n.jpg
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Athletics
+  - Football - Boys
+  - Hockey - Boys
+  - Hockey - Girls
+  - Netball
 show_in_slider: true
 date: 2019-10-30T22:24:35.411Z
 ---
