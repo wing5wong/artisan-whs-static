@@ -26,6 +26,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574210688/News/Niamh_Monk_1_Chron_20.11.19.jpg
 extracurricular_areas:
   - Sport
+extracurricular_activities:
+  - Rowing
 show_in_slider: true
 date: 2019-11-20T00:37:37.530Z
 ---
