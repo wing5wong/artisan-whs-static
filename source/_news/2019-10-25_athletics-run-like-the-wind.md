@@ -10,6 +10,8 @@ news_author:
   date: 2019-10-23T21:38:42.632Z
   name: Alex McNab
   publication: Whanganui Chronicle
+extracurricular_activities:
+  - Athletics
 show_in_slider: true
 date: 2019-10-24T21:38:42.714Z
 ---
