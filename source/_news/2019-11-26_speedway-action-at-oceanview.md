@@ -11,7 +11,7 @@ news_author:
   name: Tony Stuart
   publication: Whanganui Chronicle
 image_gallery:
-  - description: Callum Sturzaker (15V).
+  - description: Former student Callum Sturzaker (15V).
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574728784/News/CallumSturzaker_from_his_facebook_page.jpg
   - description: Jemma Barnes (92V). Photo / PS3 Photography.
