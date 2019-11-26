@@ -10,6 +10,19 @@ news_author:
   date: 2019-11-24T23:52:29.152Z
   name: Tony Stuart
   publication: Whanganui Chronicle
+image_gallery:
+  - description: Callum Sturzaker (15V).
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1574728784/News/CallumSturzaker_from_his_facebook_page.jpg
+  - description: Jemma Barnes (92V). Photo / PS3 Photography.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1572409504/News/Jemma_Ministock_Opening_Meeting.photo_from_her.jpg
+  - description: Sarah Meyer (24V). Photo / PS3 Photography.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1574728840/News/Sarah_Meyer.jpg
+  - description: Cody Lockett (98V). Photo / PS3 Photography.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1574728859/News/Cody_Lockett.._98V.jpg
 show_in_slider: false
 date: 2019-11-25T23:52:29.177Z
 ---
