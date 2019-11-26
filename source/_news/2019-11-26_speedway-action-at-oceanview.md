@@ -20,7 +20,7 @@ image_gallery:
   - description: Sarah Meyer (24V). Photo / PS3 Photography.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574728840/News/Sarah_Meyer.jpg
-  - description: Cody Lockett (98V). Photo / PS3 Photography.
+  - description: 'Cody Lockett (98V). '
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574728859/News/Cody_Lockett.._98V.jpg
 show_in_slider: false
