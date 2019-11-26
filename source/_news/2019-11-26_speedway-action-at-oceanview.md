@@ -20,9 +20,6 @@ image_gallery:
   - description: 'Year 10 student, Sarah Meyer (24V). Photo / PS3 Photography.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574728840/News/Sarah_Meyer.jpg
-  - description: 'Year 11 student, Cody Lockett (98V). '
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1574728859/News/Cody_Lockett.._98V.jpg
 show_in_slider: false
 date: 2019-11-25T23:52:29.177Z
 ---
