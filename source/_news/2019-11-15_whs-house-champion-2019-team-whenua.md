@@ -36,6 +36,6 @@ _Arafia Khan_
 
 A huge thank you to our wonderful Whenua pastoral team of Paul Turner, Lisa Martin and Rebecca Kennedy for their positive Whenua winning vibes!
 
-Congratulations to everyone for our successful year of House competition.
+**Congratulations to everyone for a successful year of House competition.**
 
-Can't wait for 2020!!
+**Can't wait for 2020!!**
