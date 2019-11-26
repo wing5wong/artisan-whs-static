@@ -11,7 +11,7 @@ news_author:
 show_in_slider: false
 date: 2019-11-26T00:12:02.007Z
 ---
-Local favourite Andrew Jones will be looking to seize his opportunity when the Wanganui Skating Club runs its ninth annual St John's Club Rivercity Speed Skating Tour this weekend.
+Local favourite Andrew Jones will be looking to seize his opportunity when the Wanganui Skating Club runs its tenth annual St John's Club Rivercity Speed Skating Tour this weekend.
 
 Speed skaters from from the top clubs in Timaru and Auckland will be entering and local spokesman Ken Smith said the scene is set for some epic racing.
 
