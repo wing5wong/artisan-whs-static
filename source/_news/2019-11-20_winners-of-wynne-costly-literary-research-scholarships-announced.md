@@ -7,6 +7,9 @@ feature_image:
 news_author:
   date: 2019-11-13T22:46:01.432Z
   publication: River City Press
+faculties:
+  - English
+subject_areas: []
 show_in_slider: true
 date: 2019-11-19T22:46:01.451Z
 ---
