@@ -4,7 +4,8 @@ feature_image:
   credit: Supplied
   description: >-
     Previous Young Artist Scholarship winners Mikayla Baldwin (centre) and Lily
-    Claypole (far right) at Balwin's solo exhibition. 
+    Claypole (far right) at Balwin's solo exhibition, with friends (from left)
+    Leila Collinson, Rhea Colaabavala and Abbey Hocquard.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1574713985/News/WU_young_artist_schol._Chron_23.11.19.jpg
 news_author:
