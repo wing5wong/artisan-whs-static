@@ -16,6 +16,8 @@ news_author:
   date: 2019-10-29T20:40:58.405Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
+extracurricular_activities:
+  - Football - Boys
 show_in_slider: false
 date: 2019-10-31T20:40:58.431Z
 ---
