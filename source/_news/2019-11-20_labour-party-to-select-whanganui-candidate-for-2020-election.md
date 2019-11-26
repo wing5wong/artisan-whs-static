@@ -1,9 +1,9 @@
 ---
 title: 'Labour Party to select Whanganui candidate for 2020 Election '
 feature_image:
-  description: 'Steph Lewis and Tim Easton, both former WHS students.'
+  description: Former WHS student Tim Easton.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1574204910/News/Steph-_-Tim-RCP-14.11.19.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1574810248/News/Tim_Easton.RCP_14.11.19.jpg
 news_author:
   date: 2019-11-13T23:07:24.936Z
   publication: River City Press
