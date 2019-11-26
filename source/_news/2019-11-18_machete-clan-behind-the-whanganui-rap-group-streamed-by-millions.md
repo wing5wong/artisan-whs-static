@@ -20,6 +20,9 @@ image_gallery:
       throughout their journey. Photo / Supplied.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574029341/News/Chron_16.11.19.Drxnes..jpg
+extracurricular_areas:
+  - Performing Arts
+extracurricular_activities: []
 show_in_slider: true
 date: 2019-11-17T21:35:07.487Z
 ---
