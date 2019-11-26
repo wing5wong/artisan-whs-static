@@ -11,16 +11,16 @@ news_author:
   name: Tony Stuart
   publication: Whanganui Chronicle
 image_gallery:
-  - description: Former student Callum Sturzaker (15V).
+  - description: 'Former student, Callum Sturzaker (15V).'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574728784/News/CallumSturzaker_from_his_facebook_page.jpg
-  - description: Year 13 student Jemma Barnes (92V). Photo / PS3 Photography.
+  - description: 'Year 13 student, Jemma Barnes (92V). Photo / PS3 Photography.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572409504/News/Jemma_Ministock_Opening_Meeting.photo_from_her.jpg
-  - description: Year 10 student Sarah Meyer (24V). Photo / PS3 Photography.
+  - description: 'Year 10 student, Sarah Meyer (24V). Photo / PS3 Photography.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574728840/News/Sarah_Meyer.jpg
-  - description: 'Year 11 student Cody Lockett (98V). '
+  - description: 'Year 11 student, Cody Lockett (98V). '
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574728859/News/Cody_Lockett.._98V.jpg
 show_in_slider: false
