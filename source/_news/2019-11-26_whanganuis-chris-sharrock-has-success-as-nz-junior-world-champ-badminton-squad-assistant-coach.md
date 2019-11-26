@@ -20,6 +20,10 @@ image_gallery:
       Russia.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574730620/News/Chris_Sharrock._Chron_no_2.21.11.19.jpg
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Badminton
 show_in_slider: false
 date: 2019-11-26T01:08:08.841Z
 ---
