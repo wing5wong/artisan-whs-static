@@ -25,6 +25,8 @@ image_gallery:
       Gardner
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572397587/News/crowd.jpg
+extracurricular_areas:
+  - Performing Arts
 show_in_slider: true
 date: 2019-10-30T01:03:47.412Z
 ---
