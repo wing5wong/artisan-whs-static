@@ -13,6 +13,8 @@ news_author:
   date: 2019-11-10T21:46:00.972Z
   name: Liz Wylie
   publication: Whanganui Chronicle
+subject_areas:
+  - Food and Nutrition
 show_in_slider: true
 date: 2019-11-11T21:46:00.998Z
 ---
