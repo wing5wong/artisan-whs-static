@@ -10,6 +10,8 @@ news_author:
   date: 2019-10-28T01:12:00.761Z
   name: Mrs Lorna Smith
   publication: WHS HOF Languages
+subject_areas:
+  - French
 show_in_slider: false
 date: 2019-11-22T01:12:00.813Z
 ---
