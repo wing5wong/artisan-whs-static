@@ -15,6 +15,8 @@ image_gallery:
   - description: Mitchell McDowell in action at Wanganui Pistol Club. Photo / Supplied
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572827903/News/2.imagejpeg_3_01.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2019-11-05T22:37:27.872Z
 ---
