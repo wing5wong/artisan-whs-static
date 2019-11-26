@@ -17,7 +17,7 @@ Speed skaters from from the top clubs in Timaru and Auckland will be entering an
 
 South Canterbury's Arianna Snook is returning to defend her 2017 title, with club mate Jazmyn McAuley coming with her.
 
-Whanganui's **Renee Teers and Monique Cleeve** have improved since last year, having had international experience with Cleeve joining Snook in the New Zealand team at the World Championships while Teers raced in the Asia games.
+Whanganui's **Renee Teers and Monique Cleeve** (former WHS students) have improved since last year, having had international experience with Cleeve joining Snook in the New Zealand team at the World Championships while Teers raced in the Asia games.
 
 Smith said Palmerston North youngster Serenity Griffiths should be in the mix, especially in the sprints and indoor events.
 
@@ -25,7 +25,7 @@ Given Timaru's Dale Christofferson, the Premier Men's champion, is unable to att
 
 "However, Valley Inlines' Hadley Beech gave a good account of himself at Junior Worlds and should give Jones a run for his money, along with teammate James Wilmhurst, Manawatu's Sam Portch and Auckland's Josh Wood."
 
-The Men's B grade will feature the young competitors from Whanganui in **Chase Morpeth**, Drew Brennan and Josh Valentine, who were all in the class of their age group nationally and will likely decide the title between them.
+The Men's B grade will feature the young competitors from Whanganui in WHS student, **Chase Morpeth**, Drew Brennan and Josh Valentine, who were all in the class of their age group nationally and will likely decide the title between them.
 
 Manawatu's Ocean Wooley will be the firm favourite in the Women's B Grade.
 
