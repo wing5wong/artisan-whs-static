@@ -7,8 +7,7 @@ feature_image:
 news_author:
   date: 2019-09-10T12:00:00.000Z
   publication: Whanganui Chronicle
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2019-09-11T04:12:07.021Z
 ---
