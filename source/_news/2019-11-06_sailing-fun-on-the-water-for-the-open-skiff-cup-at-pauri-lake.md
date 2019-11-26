@@ -17,6 +17,8 @@ image_gallery:
       windsurfers.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572990255/News/Chron_5.11.19.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2019-11-05T21:39:23.863Z
 ---
