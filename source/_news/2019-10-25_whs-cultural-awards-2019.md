@@ -10,6 +10,8 @@ news_author:
   date: 2019-10-24T22:43:02.959Z
   name: Mrs J Jones
   publication: Teacher in Charge
+extracurricular_areas:
+  - Performing Arts
 show_in_slider: true
 date: 2019-10-24T22:43:02.982Z
 ---
