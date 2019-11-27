@@ -3,7 +3,9 @@ title: Speed Skating racing this weekend
 feature_image:
   description: >-
     St John’s Club President, Royce Tunbridge, presenting a sponsorship cheque
-    to Eden Wasson, the club’s youngest competitor.
+    to Eden Wasson, the club’s youngest competitor. WHS student Chase Morpeth
+    (centre) and ex student Renee Teers (back, 3rd from left) are part of the
+    Whanganui Team.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1574809275/News/RCP_21.11.19.jpg
 news_author:
