@@ -17,6 +17,9 @@ image_gallery:
   - description: 'Year 13 student, Jemma Barnes (92V). Photo / PS3 Photography.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1572409504/News/Jemma_Ministock_Opening_Meeting.photo_from_her.jpg
+  - description: 'Year 11 student, Cody Lockett (89V). Photo / PS3 Photography.'
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1574816961/News/Cody_Lockett._89V_PS3_PHOTO_no_2.._Oceanveiw_facebook.jpg
   - description: 'Year 10 student, Sarah Meyer (24V). Photo / PS3 Photography.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574728840/News/Sarah_Meyer.jpg
