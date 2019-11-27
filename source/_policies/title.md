@@ -37,25 +37,25 @@ policyAreas:
     policyArea: 2. Documentation and Self Review
   - policies:
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/3.1---Board-of-Trustees-Employer-Policy_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1574824713/School%20Policies/3.1_-_Board_of_Trustees_Employer_Policy_updated_November_2019.pdf
         policy: 3.1 Board of Trustees' "Employer" Policy
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/3.2---Appointment-of-Staff-Policy_-updated-November-2018.pdf
         policy: 3.2 Appointment of Staff
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/3.3--EEO-Policy.updated-October-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1574824720/School%20Policies/3.3_-EEO_Policy.updated_November_2019.pdf
         policy: 3.3 Equal Employment Opportunities
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/3.5--Protected-Disclosures-Policy.updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1574824723/School%20Policies/3.5_-Protected_Disclosures_Policy.updated_November_2019.pdf
         policy: 3.5 Protected Disclosures
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/3.6---Performance-Management-System_-Appraisal-and-Attestation-Policy_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1574824721/School%20Policies/3.6_-_Performance_Management_System_Appraisal_and_Attestation_Policy_updated_Novembeer_2019.pdf
         policy: '3.6 Performance Management Systems, Appraisal and Attestation'
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683535/School%20Policies/3.7---Staff-Competency_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1574824720/School%20Policies/3.7_-_Staff_Competency_updated_November_2019.pdf
         policy: 3.7 Staff Competency
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/3.8---Staff-Professional-Development_-updated-October-2016.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1574824721/School%20Policies/3.8_-_Staff_Professional_Development_updated_November_2019.pdf
         policy: 3.8 Staff Professional Development
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554683535/School%20Policies/3.9--Timetable-Policy_-updated-April-2018.pdf
@@ -95,7 +95,7 @@ policyAreas:
     policyArea: 4. Finance and Property
   - policies:
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372478/School%20Policies/5.1_-Health_and_Safety_Policy_updated_August_2019.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1574825091/School%20Policies/5.1_-Health_and_Safety_Policy_updated_November_2019-web.pdf
         policy: 5.1 Health and Safety
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1568853625/School%20Documents/Policies%20and%20Charter/5.2_-Emergencies_Policy_updated_October_2018.pdf
@@ -128,7 +128,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.12-Dealing-with-Child-Abuse-Allegations-against-Employees-in-Schools_-April-2018.pdf
         policy: 5.12 Dealing with Child Abuse Allegations
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/5.13-Physical-Restraint-Policy_-October-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1574824721/School%20Policies/5.13_Physical_Restraint_Policy_November_2019.pdf
         policy: 5.13 Physical Restraint
     policyArea: 5. Health and Safety
   - policies:
