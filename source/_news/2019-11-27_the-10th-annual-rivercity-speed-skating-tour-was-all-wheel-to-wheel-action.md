@@ -33,7 +33,7 @@ The Masters grade was a dual between Whanganui's Paul Cleeve and Manawatū's And
 
 Whanganui's Master's Women's Sportswomen of the Year, Krystine Davies was third from her daughter Melissa White. The ever-improving Crystal Denbee was fourth just ahead of Johnman Zhang.
 
-The B grade was a fantastic competition, with Whanganui's Drew Brennan coming out on top from clubmate **Chase Morpeth** in a four-way dogfight. Morpeth won three stages to Brennan's two, but a couple of inconsistent performances cost him the tour.
+**The B grade was a fantastic competition, with Whanganui's Drew Brennan coming out on top from clubmate Chase Morpeth in a four-way dogfight. Morpeth won three stages to Brennan's two, but a couple of inconsistent performances cost him the tour.**
 
 Jamie Manson from Nelson got stronger as the tour progressed and came home strongly to win the final three stages. Hamilton's Jake Duggan was never far from the leaders.
 
