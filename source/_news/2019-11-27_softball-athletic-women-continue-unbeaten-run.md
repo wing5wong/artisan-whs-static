@@ -2,8 +2,8 @@
 title: 'Softball:  Athletic women continue unbeaten run'
 feature_image:
   description: >-
-    Athletic pitcher Manea Kotuhi-Brown had a solid game from the mound in her
-    side's 17-7 win over Kingswood Anahera on Saturday.
+    Athletic pitcher Manea Kotuhi-Brown (ex WHS) had a solid game from the mound
+    in her side's 17-7 win over Kingswood Anahera on Saturday.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1574815494/News/Manea_Kotuhi.Brown._Chron_27.11.19.jpg
 news_author:
