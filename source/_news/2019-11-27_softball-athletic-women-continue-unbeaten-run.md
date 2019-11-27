@@ -17,6 +17,8 @@ image_gallery:
       Reserve grade.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574815572/News/Manea_Kotuhi.Brown._Team_Photo.Chron_27.11.19.jpg
+extracurricular_activities:
+  - Softball - Girls
 show_in_slider: false
 date: 2019-11-27T00:44:05.465Z
 ---
