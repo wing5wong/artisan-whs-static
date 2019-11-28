@@ -1,6 +1,8 @@
 ---
 title: Activity Days - All Junior students
 date: 2019-11-29T02:33:08.245Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1574907236/Events/GREEN_WHS_HEADER.jpg
 ---
 ACTIVITY DAYS for all our Junior students 🙂
 Friday 29 November to Wednesday 4 December.
