@@ -16,7 +16,7 @@ It has been 27 years since Dawn Duncum took up a teaching position at Whanganui 
 
 “I can’t quite believe it myself,” she says, wondering where the years have gone.
 
-Dawn went straight to Teachers’ College on leaving Whanganui High School.
+Dawn went straight to Teachers’ College on leaving **Whanganui High School**.
 
 “I did three years and I was going to go back to university for another year but I was offered a job I really wanted, so I took it.”
 
