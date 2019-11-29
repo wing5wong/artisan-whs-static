@@ -9,7 +9,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1574990537/News/Ella_Kingston._midweek_27.11.19.jpg
 news_author:
   date: 2019-11-27T01:20:35.268Z
-  name: Michelle Goodwin
+  name: Michelle Goodwin (A&P Show volunteer)
   publication: Whanganui Midweek
 show_in_slider: false
 date: 2019-11-29T01:20:35.301Z
