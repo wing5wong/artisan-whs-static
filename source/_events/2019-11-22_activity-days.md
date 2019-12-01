@@ -3,7 +3,7 @@ title: Activity Days - All Junior students
 date: 2019-12-02T02:33:08.245Z
 image: ''
 ---
-ACTIVITY DAYS for all our Junior students 🙂  
+ACTIVITY DAYS for all our Junior students   
 Friday 29 November to Wednesday 4 December.
 
 Daily time schedule:  
@@ -13,8 +13,8 @@ Daily time schedule:
 12.40 - 2.40pm ACTIVITY 2  
 2.40pm Students released
 
-Students are to wear Whanganui High School PE GEAR for the Activity Days.  
-Either PE gear or School Uniform please.
+Students are to wear Whanganui High School PE GEAR or School Uniform for the Activity Days please.  
+
 
 Thank you and HAVE FUN!! 👍 😀 👍
 
