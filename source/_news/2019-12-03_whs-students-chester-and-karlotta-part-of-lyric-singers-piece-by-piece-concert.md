@@ -9,8 +9,9 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575330084/News/Both-karlotta-_-Chester.jpg
 news_author:
-  date: 2019-12-02T23:14:31.365Z
+  date: 2019-11-28T23:14:31.365Z
   name: Ms Love
+  publication: Lyric Singers' Choir Conductor & WHS English teacher
 show_in_slider: true
 date: 2019-12-02T23:14:31.387Z
 ---
