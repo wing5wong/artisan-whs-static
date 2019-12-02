@@ -13,13 +13,16 @@ news_author:
   name: Ms Love
   publication: Lyric Singers' Choir Conductor & WHS English teacher
 image_gallery:
-  - description: 'Guest artist, Chester Nevil on drums as a member of Abacus, a jazz trio.'
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1575330454/News/Chester_Nevil_Abacus_Trio_-_Lyric_Singers_Concert_2.jpg
   - description: Karlotta Hartz performing in the Lyric Singers' Choir.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575330494/News/Karlotta_Hartz_Lyric_Singers_2.jpg
-  - image: >-
+  - description: 'Guest artist, Chester Nevil on drums as a member of Abacus, a jazz trio.'
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575330454/News/Chester_Nevil_Abacus_Trio_-_Lyric_Singers_Concert_2.jpg
+  - description: >-
+      Choir conductor of Lyric Singers', Joanna Love. WHS teacher Tris Martin
+      and former staff member Pat McNamara are also part of the Choir.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575330530/News/Joanna_Love_Lyric_Singers_002.jpg
 show_in_slider: true
 date: 2019-12-02T23:14:31.387Z
