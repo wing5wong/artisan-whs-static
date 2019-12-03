@@ -1,24 +1,17 @@
 ---
-title: Activity Days - All Junior students
+title: Junior Prizegiving
 is_emergency: false
-date: 2019-11-28T20:00:00.719Z
-subtitle: Friday 29 November - Wednesday 4 December
+date: 2019-12-05T20:00:00.719Z
+subtitle: Friday 6 December
 image: ''
 ---
-ACTIVITY DAYS for all our Junior students    
-Friday 29 November to Wednesday 4 December.
+**Junior Prizegiving** is on Friday 6 December in the School Hall at 11.00am. Parents and caregivers are very welcome to attend, and we ask that you be seated by 10.50am please.
 
-Daily time schedule:  
-9.00 - 9.20am Form time and move to Activity 1  
-9.30 - 11.30am ACTIVITY 1  
-1.30 -12.30pm Lunch and move to Activity 2  
-12.40 - 2.40pm ACTIVITY 2  
-2.40pm Students released
+The ceremony usually takes approximately two hours, and at its conclusion the students are issued with their reports and released to go home. The reports will also be e-mailed that day. Buses run at the normal time. The Library will NOT be open.
 
-Students are to wear Whanganui High School PE GEAR or School Uniform for the Activity Days please.  
+For Friday 6 December, the time schedule will be:  
+Form time: 8.45 - 9.05am 
+Period 1: 9.05 - 10.05am  
+Interval: 10.05 - 10.30am then assemble for Prizegiving.
 
-Thank you and HAVE FUN!! 👍 😀 👍
-
-[Activity Days Information Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1574640428/newsletters/Junior_Activity_Days.pdf)
-
-
+This is the last day for Year 9 and 10 students.
