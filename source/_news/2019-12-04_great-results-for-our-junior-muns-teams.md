@@ -4,7 +4,37 @@ news_author:
   date: 2019-12-03T23:33:47.619Z
   name: Mrs de Smidt
   publication: Teacher in charge
-show_in_slider: true
+image_gallery:
+  - description: >-
+      Egyptians Zoë van Der Wees, Aliesha Waghorn and Chelsea O’Hara received a
+      Merit Award for Best Dressed. They smiled all day!  
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417248/News/EGYPT_2.jpg
+  - description: >-
+      The Best Delegation team were Russia. Benjamin White, Olivia Bardell and
+      Eve Parker-Groves impressed not only with their grasp of the important
+      issues, but also with the near life-sized replica of a Cold-War style
+      weapon that was made especially to add authenticity for the competition.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417249/News/russia3.jpg
+  - description: >-
+      Canada represented by Dominic Benfell, Lauren Phillips and Firooze
+      Colaabavala argued passionately for our Climate and also brought delicious
+      pancakes and maple syrup.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417251/News/canada.jpg
+  - description: >-
+      The Italian team of Hayley Bardell, Amy Maskery and Charissa Loader had so
+      much fun making their own pizzas.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417257/News/italy.jpg
+  - description: >-
+      The team from Netherlands were the Best Dressed team of the day, and their
+      display was filled with colourful (fake) cheeses! They were represented by
+      Ela Robins, Hazel Chant and Sophia Bardell.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417257/News/best_dressed_Netherlands.jpg
+show_in_slider: false
 date: 2019-12-03T23:33:47.647Z
 ---
 Once again our WHS students have done well at the Junior Model United Nations day. This year 28 teams from the district debated resolutions around Climate Change and Nuclear Disarmament. It was fantastic to listen to our students discuss these important issues, they had prepared well and their ideas and responses showed an excellent level of preparation.
