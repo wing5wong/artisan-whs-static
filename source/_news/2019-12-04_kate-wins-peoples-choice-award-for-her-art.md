@@ -1,5 +1,5 @@
 ---
-title: Kate wins People's Choice award for her Art
+title: Kate wins 'People's Choice' award for her Art
 feature_image:
   description: Kate Regan's 'Peoples Choice' winning piece.
   image: >-
