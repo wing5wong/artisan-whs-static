@@ -14,7 +14,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-12-02T22:55:44.947Z
 ---
-**Our Cinderella is played by Toni, who is at Whanganui High School**. When she's not at rehearsal, she is doing ballet.
+**Cinderella is played by Toni, who is at Whanganui High School**. When she's not at rehearsal, she is doing ballet.
 
 Toni has a beautiful voice and plays a wonderful Cinderella. Come and watch her meet Prince Charming.
 
