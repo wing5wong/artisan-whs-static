@@ -1,6 +1,6 @@
 ---
 title: >-
-  Chester and Karlotta both performed at the Lyric Singers' Piece by Piece
+  Chester and Karlotta both performed at the Lyric Singers' 'Piece by Piece'
   concert
 feature_image:
   description: >-
