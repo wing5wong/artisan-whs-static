@@ -1,8 +1,8 @@
 ---
-title: Cinderella is played by Toni Adams
+title: Toni plays a wonderful Cinderella
 feature_image:
   description: >-
-    Toni is playing Cinderella in Repertory Theatre's forthcoming production of
+    Toni Adams is Cinderella in Repertory Theatre's forthcoming production of
     'Cinders: The True Story'.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575327379/News/Toni_Adams_is_Cinderella.jpg
