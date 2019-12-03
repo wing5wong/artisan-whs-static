@@ -12,7 +12,7 @@ The ceremony usually takes approximately two hours, and at its conclusion the st
 For Friday 6 December, the time schedule will be:  
 Form time: 8.40 - 8.45am  
 Life Diploma Awards: 8.45 - 10.05am  
-Interval: 10.05 - 10.30am then assemble for Prizegiving.
+Interval: 10.05 - 10.30am then assemble for **Prizegiving**.
 
 Venues for Life Diploma Award ceremonies are:  
 Awa - Te Ihi (Vogel Gym)  
