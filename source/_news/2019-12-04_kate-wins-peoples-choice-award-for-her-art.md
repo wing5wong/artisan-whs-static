@@ -6,6 +6,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575400903/News/Kate_Regan.Peoples_Choice.Fine_Art_Gallery._29.11.19.jpg
 news_author:
   date: 2019-12-01T19:20:05.387Z
+  publication: WHS Visual Arts Dept
 show_in_slider: true
 date: 2019-12-03T19:20:05.445Z
 ---
