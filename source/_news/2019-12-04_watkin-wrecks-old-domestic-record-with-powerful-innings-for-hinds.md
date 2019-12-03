@@ -1,6 +1,8 @@
 ---
 title: Watkin wrecks old domestic record with powerful innings for Hinds
 feature_image:
+  credit: Supplied
+  description: Jessica Watkin.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575412003/News/Jessica_Watkin_Chron_2.12.19.jpg
 news_author:
