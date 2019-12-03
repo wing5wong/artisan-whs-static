@@ -9,7 +9,7 @@ image: ''
 
 The ceremony usually takes approximately two hours, and at its conclusion the students are issued with their reports and released to go home. The reports will also be e-mailed that day. Buses run at the normal time. The Library will NOT be open.
 
-For Friday 6 December, the time schedule will be:  
+For Friday 6 December, the time schedule for students will be:  
 Form time: 8.40 - 8.45am  
 Life Diploma Awards: 8.45 - 10.05am  
 Interval: 10.05 - 10.30am then assemble for **Prizegiving**.
