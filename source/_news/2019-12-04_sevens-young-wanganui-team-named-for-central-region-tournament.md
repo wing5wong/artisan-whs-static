@@ -27,7 +27,7 @@ A Whanganui Collegiate old boy, Kairimu was the Allan E Jennings Achievement Awa
 
 Edwards played U13 and U16 Wanganui representative rugby before transferring from Cullinane College to Feilding High School, having also been chosen for a couple of Hurricanes youth camps.
 
-"We were starting [training] before the Heartland boys finished, waiting to see how they came out of that. It's hard to switch straight into sevens," said manager Mark Cosford.
+"We were starting \[training] before the Heartland boys finished, waiting to see how they came out of that. It's hard to switch straight into sevens," said manager Mark Cosford.
 
 The likes of the Tikoisolomone brothers – Vereniki and Renato – headed back to Fiji after the Heartland season.
 
@@ -53,13 +53,12 @@ The way to qualify for the National Sevens is to either finish in the Top 2 of t
 
 "This year, hopefully, we'll be going to Tauranga."
 
-The Wanganui squad is:
-9. Ezra Malo; 17. Logan Henry; 22. Joshua Clark-Bell; **3. Matthew Ashworth (vc); 15. Sheldon Pakinga-Manhire**; 13. Dillon Adrole; 12. Dane Whale (c); **10. Karl Pascoe; 21. Jack O'Leary**; 11. Clive Stowers; 6. Phoenix Kairimu; 14. Kody Edwards; Tiari Mumby; Ryan Karatau.
+_The Wanganui squad is:_  9. Ezra Malo; 17. Logan Henry; 22. Joshua Clark-Bell; **3. Matthew Ashworth (vc); 15. Sheldon Pakinga-Manhire**; 13. Dillon Adrole; 12. Dane Whale (c); **10. Karl Pascoe; 21. Jack O'Leary**; 11. Clive Stowers; 6. Phoenix Kairimu; 14. Kody Edwards; Tiari Mumby; Ryan Karatau.
 Coach: Ace Malo; Managers/Assistants: Mark Cosford, Keith Savell.
 
-The teams are:
+_The teams are:_
 
-Pool A: Wellington (1); Manawatu (4); Wairarapa Bush (5); Poverty Bay (8).
+Pool A: Wellington (1); Manawatu (4); Wairarapa Bush (5); Poverty Bay (8).  
 
 Pool B: Taranaki (2); Hawkes Bay (3); Wanganui (6); Horowhenua Kapiti (7).
 
