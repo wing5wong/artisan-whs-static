@@ -1,7 +1,5 @@
 ---
-title: >-
-  Chester and Karlotta both performed at the Lyric Singers' 'Piece by Piece'
-  concert
+title: High School students involved in concert raising funds for Jigsaw
 feature_image:
   description: >-
     Karlotta Hartz and Chester Nevil performing at the Lyric Singers' 'Piece by
