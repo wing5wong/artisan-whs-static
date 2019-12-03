@@ -2,8 +2,8 @@
 title: Cinderella is played by Toni Adams
 feature_image:
   description: >-
-    WHS student, Toni Adams is playing Cinderella in Repertory Theatre's
-    forthcoming production of 'Cinders: The True Story'.
+    Toni is playing Cinderella in Repertory Theatre's forthcoming production of
+    'Cinders: The True Story'.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575327379/News/Toni_Adams_is_Cinderella.jpg
 news_author:
