@@ -20,7 +20,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-12-03T22:13:19.564Z
 ---
-Chloë McCartan welcomed her son Elliot to the world seven weeks ago and now she is ready to present another new life to the universe.
+Chloë McCartan (former WHS student) welcomed her son Elliot to the world seven weeks ago and now she is ready to present another new life to the universe.
 
 "Unfurl is my collection of poetry written over a period of about four years and I feel the time is right to get it out there," McCartan said.
 
