@@ -70,4 +70,4 @@ Two of Godfrey's works have been selected for publication by Massey University a
 
 "The three of us have such a diversity of styles although we are passionate about similar things," McCartan said.
 
-Unfurl: Mother, Sister, Daughter . A Not Too Long Poetry Reading. Friday, December 6, at 5.30pm, Paige's Book Gallery, 60 Guyton St. Free entry, light refreshments.
+**Unfurl: Mother, Sister, Daughter. A Not Too Long Poetry Reading. Friday, December 6, at 5.30pm, Paige's Book Gallery, 60 Guyton St. Free entry, light refreshments.**
