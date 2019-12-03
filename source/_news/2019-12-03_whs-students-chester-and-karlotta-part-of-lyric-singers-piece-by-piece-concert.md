@@ -4,8 +4,8 @@ title: >-
   concert
 feature_image:
   description: >-
-    Karlotta Hartz and Chester Nevil performing at the Lyric Singers' Piece by
-    Piece' concert.
+    Karlotta Hartz and Chester Nevil performing at the Lyric Singers' 'Piece by
+    Piece' concert recently.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575330084/News/Both-karlotta-_-Chester.jpg
 news_author:
