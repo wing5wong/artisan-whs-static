@@ -34,8 +34,11 @@ image_gallery:
       Ela Robins, Hazel Chant and Sophia Bardell.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575417257/News/best_dressed_Netherlands.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417251/News/canada.jpg
+  - description: >-
+      Peru were represented by Charlotte Baker, Messina S’ua and Cemre Gifford.
+      They were very colourful in their South American clothing.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417259/News/peru.jpg
   - description: >-
       The South Koreans received the Merit Award in the Best Delegation. Calum
       Sinclair, Laura Mackintosh and Toni Adams impressed as a team. Their
