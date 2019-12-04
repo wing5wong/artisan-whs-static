@@ -44,6 +44,12 @@ image_gallery:
       They were very colourful in their South American clothing.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575417259/News/peru.jpg
+  - description: >-
+      The team from Singapore was Charlotte Hardy and Sjoerd Molijn. They made
+      some good points on Climate Change, and their prawn crackers were
+      delicious.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417263/News/singapore1.jpg
 show_in_slider: true
 date: 2019-12-03T23:33:47.647Z
 ---
