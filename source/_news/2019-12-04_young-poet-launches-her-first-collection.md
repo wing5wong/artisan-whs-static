@@ -3,7 +3,7 @@ title: Young poet launches her first collection
 feature_image:
   credit: Supplied
   description: >-
-    Chloe McCartan will collaborate with her mother Aydie Holland and aunt
+    Chloë McCartan will collaborate with her mother Aydie Holland and aunt
     Janette Godfrey to present a poetry reading at Paiges Book Gallery. 
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575411401/News/Chloe_McCartan._Chron_30.11.19.jpg
@@ -20,7 +20,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-12-03T22:13:19.564Z
 ---
-Chloë McCartan (former WHS student) welcomed her son Elliot to the world seven weeks ago and now she is ready to present another new life to the universe.
+Chloë McCartan welcomed her son Elliot to the world seven weeks ago and now she is ready to present another new life to the universe.
 
 "Unfurl is my collection of poetry written over a period of about four years and I feel the time is right to get it out there," McCartan said.
 
