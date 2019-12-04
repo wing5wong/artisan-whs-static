@@ -2,8 +2,8 @@
 title: Great results for our Junior MUNS teams!
 feature_image:
   description: >-
-    Winners: Best Delegation Team were Russia; left to right, Eve Parker-Groves,
-    Olivia Bedwell and Benjamin White.
+    Winners: Best Delegation Team were Russia; Eve Parker-Groves, Olivia Bedwell
+    and Benjamin White.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575417249/News/russia3.jpg
 news_author:
@@ -42,21 +42,21 @@ image_gallery:
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575417251/News/canada.jpg
   - description: >-
-      The Italian team of Hayley Bardell, Amy Maskery and Charissa Loader had so
-      much fun making their own pizzas.
+      The team from Singapore was Charlotte Hardy and Sjoerd Molijn. They made
+      some good points on Climate Change, and their prawn crackers were
+      delicious.
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417257/News/italy.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417263/News/singapore1.jpg
   - description: >-
       Peru were represented by Charlotte Baker, Messina S’ua and Cemre Gifford.
       They were very colourful in their South American clothing.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575417259/News/peru.jpg
   - description: >-
-      The team from Singapore was Charlotte Hardy and Sjoerd Molijn. They made
-      some good points on Climate Change, and their prawn crackers were
-      delicious.
+      The Italian team of Hayley Bardell, Amy Maskery and Charissa Loader had so
+      much fun making their own pizzas.
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417263/News/singapore1.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417257/News/italy.jpg
 show_in_slider: true
 date: 2019-12-03T23:33:47.647Z
 ---
