@@ -6,17 +6,17 @@ news_author:
   publication: Teacher in charge
 image_gallery:
   - description: >-
-      Egyptians Zoë van Der Wees, Aliesha Waghorn and Chelsea O’Hara received a
-      Merit Award for Best Dressed. They smiled all day!  
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417248/News/EGYPT_2.jpg
-  - description: >-
       The Best Delegation team were Russia. Benjamin White, Olivia Bardell and
       Eve Parker-Groves impressed not only with their grasp of the important
       issues, but also with the near life-sized replica of a Cold-War style
       weapon that was made especially to add authenticity for the competition.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575417249/News/russia3.jpg
+  - description: >-
+      Egyptians Zoë van Der Wees, Aliesha Waghorn and Chelsea O’Hara received a
+      Merit Award for Best Dressed. They smiled all day!  
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417248/News/EGYPT_2.jpg
   - description: >-
       Canada represented by Dominic Benfell, Lauren Phillips and Firooze
       Colaabavala argued passionately for our Climate and also brought delicious
@@ -34,6 +34,14 @@ image_gallery:
       Ela Robins, Hazel Chant and Sophia Bardell.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575417257/News/best_dressed_Netherlands.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417251/News/canada.jpg
+  - description: >-
+      The South Koreans received the Merit Award in the Best Delegation. Calum
+      Sinclair, Laura Mackintosh and Toni Adams impressed as a team. Their
+      speeches showed excellent insight and preparation.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417264/News/south_korea.jpg
 show_in_slider: false
 date: 2019-12-03T23:33:47.647Z
 ---
