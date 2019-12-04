@@ -1,9 +1,15 @@
 ---
 title: Great results for our Junior MUNS teams!
+feature_image:
+  description: >-
+    Winners: Best Delegation Team were Russia; left to right, Eva Parker-Groves,
+    Olivia Bardell and Benjamin White
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1575417249/News/russia3.jpg
 news_author:
   date: 2019-12-03T23:33:47.619Z
   name: Mrs de Smidt
-  publication: Teacher in charge
+  publication: MUN Teacher in Charge
 image_gallery:
   - description: >-
       The Best Delegation team were Russia. Benjamin White, Olivia Bardell and
