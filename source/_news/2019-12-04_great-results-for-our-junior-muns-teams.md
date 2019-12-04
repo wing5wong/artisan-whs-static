@@ -3,7 +3,7 @@ title: Great results for our Junior MUNS teams!
 feature_image:
   description: >-
     Winners: Best Delegation Team were Russia; left to right, Eve Parker-Groves,
-    Hayley Bardell and Benjamin White.
+    Olivia Bedwell and Benjamin White.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575417249/News/russia3.jpg
 news_author:
@@ -12,7 +12,7 @@ news_author:
   publication: 'Teacher in Charge MUNs '
 image_gallery:
   - description: >-
-      The Best Delegation team were Russia. Eve Parker-Groves, Hayley Bardell
+      The Best Delegation team were Russia. Eve Parker-Groves, Olivia Bedwell
       and Benjamin White impressed not only with their grasp of the important
       issues, but also with the near life-sized replica of a Cold-War style
       weapon that was made especially to add authenticity for the competition.
