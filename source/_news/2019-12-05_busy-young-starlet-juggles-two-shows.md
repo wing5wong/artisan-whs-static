@@ -1,5 +1,9 @@
 ---
 title: Busy young starlet juggles two shows
+feature_image:
+  credit: Ashleigh Morris
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1575327379/News/Toni_Adams_is_Cinderella.jpg
 news_author:
   date: 2019-12-03T23:27:33.236Z
   name: Nadine Rayner
