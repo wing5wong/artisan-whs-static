@@ -12,8 +12,8 @@ news_author:
   publication: 'Teacher in Charge MUNs '
 image_gallery:
   - description: >-
-      The Best Delegation team were Russia. Benjamin White, Olivia Bardell and
-      Eve Parker-Groves impressed not only with their grasp of the important
+      The Best Delegation team were Russia. Eve Parker-Groves, Hayley Bardell
+      and Benjamin White impressed not only with their grasp of the important
       issues, but also with the near life-sized replica of a Cold-War style
       weapon that was made especially to add authenticity for the competition.
     image: >-
