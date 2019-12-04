@@ -27,7 +27,7 @@ image_gallery:
   - description: >-
       The team from Netherlands were the Best Dressed team of the day, and their
       display was filled with colourful (fake) cheeses! They were represented by
-      Ela Robins, Hazel Chant and Sophia Bardell.
+      Ela Robbins, Hazel Chant and Sophia Bedwell.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575417257/News/best_dressed_Netherlands.jpg
   - description: >-
