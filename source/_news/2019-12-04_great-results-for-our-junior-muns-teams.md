@@ -12,6 +12,13 @@ news_author:
   publication: 'Teacher in Charge MUNs '
 image_gallery:
   - description: >-
+      The Best Delegation team were Russia. Benjamin White, Olivia Bardell and
+      Eve Parker-Groves impressed not only with their grasp of the important
+      issues, but also with the near life-sized replica of a Cold-War style
+      weapon that was made especially to add authenticity for the competition.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575417249/News/russia3.jpg
+  - description: >-
       The South Koreans received the Merit Award in the Best Delegation. Calum
       Sinclair, Laura Mackintosh and Toni Adams impressed as a team. Their
       speeches showed excellent insight and preparation.
