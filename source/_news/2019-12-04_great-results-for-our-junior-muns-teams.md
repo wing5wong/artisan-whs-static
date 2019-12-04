@@ -60,7 +60,7 @@ image_gallery:
 show_in_slider: true
 date: 2019-12-03T23:33:47.647Z
 ---
-Once again our WHS students have done well at the Junior Model United Nations day. This year 28 teams from the district debated resolutions around Climate Change and Nuclear Disarmament. It was fantastic to listen to our students discuss these important issues, they had prepared well and their ideas and responses showed an excellent level of preparation.
+Once again our WHS students have done well at the Junior Model United Nations day held at Nga Tawa on Tuesday 3 December. This year 28 teams from the district debated resolutions around Climate Change and Nuclear Disarmament. It was fantastic to listen to our students discuss these important issues, they had prepared well and their ideas and responses showed an excellent level of preparation.
 
 The day is always fun because not only are the students considering vitally important issues, and learning to listen and negotiate, but they also get an opportunity to dress up, share food and immerse themselves in the culture of their chosen country.
 
