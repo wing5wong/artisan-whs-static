@@ -1,5 +1,5 @@
 ---
-title: Awesome Queen Charlotte trip
+title: Silver Duke of Edinburgh – Queen Charlotte 2019
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575573930/News/78498430_1543578992449691_2939258085878792192_n.jpg
@@ -33,6 +33,16 @@ image_gallery:
 show_in_slider: true
 date: 2019-12-05T19:22:17.356Z
 ---
-Awesome Queen Charlotte trip for the Silver Duke of Edinburgh students. Some sun, lots of rain and wind but overall an outstanding effort. 
+We set off to Porirua for the start of our trip on Friday 30 November with 17 students and 4 staff members.  
 
-Well done to all.
+An early start on Saturday to meet the Interislander ferry at 8.45am.  We arrive in Picton and made our way to the water taxi for the mail run throughout the Queen Charlotte Sound.  Our starting point was Ships Cove where we arrive at 3.30pm.  Our first night was School House Bay, lots of swimming then dinner.  
+
+Day 2 we walked to Camp Bay which took 7 hours!  
+
+Day 3 was a big walk to Black Rock Shelter which took 6 hours.  Heaps of wind and rain.  
+
+Day 4 was very wet and we got soaked, but we made it to Davies Bay by 4pm and the sun came out.  
+
+Our final morning on Wednesday 4 December started at 5am.  We walked to Anakiwa and all jumped off the jetty. Our water taxi picked us up at 8am back to Picton, then the Interislander ferry to Wellington.  We were picked up at Wellington and made our way back to Wanganui by 5pm.
+
+A great trip, well done to all students.
