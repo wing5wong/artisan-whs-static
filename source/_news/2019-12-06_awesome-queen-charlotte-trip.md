@@ -35,7 +35,7 @@ date: 2019-12-05T19:22:17.356Z
 ---
 We set off to Porirua for the start of our trip on Friday 30 November with 17 students and 4 staff members.  
 
-An early start on Saturday to meet the Interislander ferry at 8.45am.  We arrive in Picton and made our way to the water taxi for the mail run throughout the Queen Charlotte Sound.  Our starting point was Ships Cove where we arrive at 3.30pm.  Our first night was School House Bay, lots of swimming then dinner.  
+An early start on Saturday to meet the Interislander ferry at 8.45am.  We arrive in Picton and made our way to the water taxi for the mail run throughout the Sound.  Our starting point was Ships Cove where we arrive at 3.30pm.  Our first night was School House Bay, lots of swimming then dinner.  
 
 Day 2 we walked to Camp Bay, 7 hours later!  
 
