@@ -37,9 +37,9 @@ We set off to Porirua for the start of our trip on Friday 30 November with 17 st
 
 An early start on Saturday to meet the Interislander ferry at 8.45am.  We arrive in Picton and made our way to the water taxi for the mail run throughout the Queen Charlotte Sound.  Our starting point was Ships Cove where we arrive at 3.30pm.  Our first night was School House Bay, lots of swimming then dinner.  
 
-Day 2 we walked to Camp Bay which took 7 hours!  
+Day 2 we walked to Camp Bay, 7 hours later!  
 
-Day 3 was a big walk to Black Rock Shelter which took 6 hours.  Heaps of wind and rain.  
+Day 3 was a big walk to Black Rock Shelter, 6 hours.  Heaps of wind and rain.  
 
 Day 4 was very wet and we got soaked, but we made it to Davies Bay by 4pm and the sun came out.  
 
