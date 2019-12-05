@@ -6,6 +6,7 @@ date: 2019-04-02T20:58:46.503Z
 ## The Record
 
 The Record is Whanganui High School's annual magazine
+[2019: The Record (pt1)](https://res.cloudinary.com/whanganuihigh/image/upload/v1575516534/The%20Record/WHS_Record_2019_WEB1.pdf) / [2019: The Record (pt2)](https://res.cloudinary.com/whanganuihigh/image/upload/v1575516530/The%20Record/WHS_Record_2019_WEB2.pdf)
 
 [2018: The Record](http://c1940652.r52.cf0.rackcdn.com/5c85b4b8ff2a7c25ea000337/WHS-School-Record-2018.website-copy.pdf)
 
