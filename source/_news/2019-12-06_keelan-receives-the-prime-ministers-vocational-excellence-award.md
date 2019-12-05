@@ -4,7 +4,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1575577597/News/Keelan_Tui.Vocational_excellence_awardjpg.jpg
 news_author:
-  date: 2019-12-04T20:23:40.301Z
+  date: 2019-12-01T20:23:40.301Z
   name: Mrs D Howard
   publication: Head of Vocational Studies
 image_gallery:
