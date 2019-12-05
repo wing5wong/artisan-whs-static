@@ -45,4 +45,4 @@ Day 4 was very wet and we got soaked, but we made it to Davies Bay by 4pm and th
 
 Our final morning on Wednesday 4 December started at 5am.  We walked to Anakiwa and all jumped off the jetty. Our water taxi picked us up at 8am back to Picton, then the Interislander ferry to Wellington.  We were picked up at Wellington and made our way back to Wanganui by 5pm.
 
-A great trip, well done to all students.
+A great trip, outstanding effort, well done to all students!
