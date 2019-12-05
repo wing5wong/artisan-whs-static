@@ -1,5 +1,5 @@
 ---
-title: Collaboration in mental health serviced key for festival
+title: Focus on mental health serviced key for festival
 feature_image:
   credit: Lewis Gardner
   description: 'Rhythm Vision is one of the local acts scheduled to play at the festival. '
@@ -40,4 +40,4 @@ Grey said some of the organisations have done their own promotion for the event 
 
 "Everyone's on board with the mental health focus which shows how far we're starting to move in the right direction."
 
-The Hinengaro Rangatahi Festival is a free event and takes place at Majestic Square from 4pm to 8pm on Friday, December 13.
+**The Hinengaro Rangatahi Festival is a free event and takes place at Majestic Square from 4pm to 8pm on Friday, December 13.**
