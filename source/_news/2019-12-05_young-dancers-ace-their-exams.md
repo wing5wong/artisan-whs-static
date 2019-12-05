@@ -28,11 +28,11 @@ Abby says while, in her head, she was aware she couldn’t exacerbate the injury
 
 Abby’s was not the only high score achieved by Sharyn’s students. **Emma Henare scored 99 per cent.**
 
-“I think I’ve had only one other 99,” says Sharyn, “and that was Sarah Seville.” Sarah is now an international dance star.
+“I think I’ve had only one other 99,” says Sharyn, “and that was (former WHS student) **Sarah Seville.” Sarah is now an international dance star.**
 
 **The youngest of the three high scorers is Lauren Phillips with 98 per cent.** All were “sitting” Advanced Level 1.
 
-Abby was also given the prestigious Mary Evers Memorial Award, presented to the most promising student from Advanced Level 1 and 2 in all of New Zealand.
+**Abby was also given the prestigious Mary Evers Memorial Award, presented to the most promising student from Advanced Level 1 and 2 in all of New Zealand.**
 
 The award includes a cash prize to go towards furthering the student’s dance career.
 
@@ -60,7 +60,7 @@ Abby, Emma and Lauren are going to continue dancing for as long as possible.
 
 “I hope to do musical theatre in Sydney in a Uni situation, then continue it in Australia and go to New York and, hopefully, Broadway — end goal,” says Abby, who will be in Year 13 next year. Emma, going into Year 12, has plans too.
 
-“I hope to go to Ettingshausens [in Sydney] then just dance all over, do what I can,” she says. She’s taking her lead from Sarah Seville, Mark Lace and Joana Simmons, all of whom studied with Sharyn and have gone on to have successful dance careers.
+“I hope to go to Ettingshausens [in Sydney] then just dance all over, do what I can,” she says. She’s taking her lead from former WHS students **Sarah Seville and Mark Lace**; and Joana Simmons, all of whom studied with Sharyn and have gone on to have successful dance careers.
 
 Lauren starts Year 11 next year.
 
