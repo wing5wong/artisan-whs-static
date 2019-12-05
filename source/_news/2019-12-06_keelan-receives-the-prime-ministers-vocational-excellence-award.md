@@ -7,6 +7,9 @@ news_author:
   date: 2019-12-04T20:23:40.301Z
   name: Mrs D Howard
   publication: Head of Vocational Studies
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575578458/News/Keelan-Tui...jpg
 show_in_slider: true
 date: 2019-12-05T20:23:40.328Z
 ---
