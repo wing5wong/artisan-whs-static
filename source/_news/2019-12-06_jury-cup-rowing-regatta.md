@@ -18,8 +18,6 @@ image_gallery:
 show_in_slider: false
 date: 2019-12-06T03:15:11.540Z
 ---
-Over 480 competitors in Annual Jury Rowing Cup this Saturday, December 7
-
 The annual Jury Rowing Cup organised by the Aramoho Rowing Club, is Whanganui’s largest regatta and according to one club official “seems to have been in existence for ever.”
 
 This year there are 10 clubs participating – Hawkes Bay, Clifton from Waitara, whose Head Coach is Philippa Baker-Hogan, Aramoho Whanganui, Union Boating Club, Collegiate School, Wellington Clubs - Star, Petone, Porirua and Wellington and the Horowhenua boating club from Levin. Rowing on the River can be an added attraction to Wellington clubs having to avoid travelling ferries.
