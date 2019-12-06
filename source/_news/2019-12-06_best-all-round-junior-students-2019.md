@@ -17,12 +17,12 @@ date: 2019-12-06T02:14:53.337Z
 ---
 We had our Junior Prizegiving today at 11am.
 
-Congratulations to our Best All-Round Junior students for 2019:
+**Congratulations to our Best All-Round Junior students for 2019:**
 
-🏆   Year 9 Girls - Mira Meijer
+🏆   Year 9 Girls - Mira Meijer  
 🏆   Year 9 Boys - George Davey
 
-🏆   Year 10 Girls - Millie Frampton
+🏆   Year 10 Girls - Millie Frampton  
 🏆   Year 10 Boys - Dominic Benfell
 
 Well done to you and all the other prize winners who walked across the stage.  👏 👏
