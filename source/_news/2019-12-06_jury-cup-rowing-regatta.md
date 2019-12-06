@@ -9,6 +9,12 @@ feature_image:
 news_author:
   date: 2019-12-05T03:15:11.513Z
   publication: River City Press
+image_gallery:
+  - description: >-
+      Whanganui High School students racing in Aramoho Whanganui Rowing Club
+      colours at a previous Jury Cup race.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575602608/News/Jury_Cup_WU_Dec_2019._WHS_students._RCP_5.12.19jpg.jpg
 show_in_slider: false
 date: 2019-12-06T03:15:11.540Z
 ---
