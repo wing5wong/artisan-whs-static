@@ -6,12 +6,18 @@ feature_image:
 news_author:
   date: 2019-12-06T02:14:53.306Z
 image_gallery:
-  - description: 'Best All-Round Year 9 students: Mira Meijer and George Davey.'
+  - description: 'Best All-Round Year 9 Girl: Mira Meijer.'
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1575598582/News/Both-students...jpg
-  - description: 'Best All-Round Year 10 students: Millie Frampton and Dominic Benfell.'
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575601149/News/Mira_Meijer.jpg
+  - description: 'Best All-Round Year 9 Boy: George Davey.'
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1575598540/News/both-students.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575601174/News/George_Davey.jpg
+  - description: 'Best All-Round Year 10 Girl: Millie Frampton.'
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575601279/News/Millie_Frampton.jpg
+  - description: 'Best All-Round Year 10 Boy: Dominic Benfell.'
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575601294/News/Dominic_Benfell.jpg
 show_in_slider: true
 date: 2019-12-06T02:14:53.337Z
 ---
