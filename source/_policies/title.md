@@ -18,7 +18,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1567372135/School%20Policies/1.7_-Information_and_Communication_Technology_updated_August_2019.pdf
         policy: 1.7 Information and Communication Technology
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372163/School%20Policies/1.7b_-Use_of_the_Internet_updated_August_2019.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1575836129/School%20Policies/1.7b_-Use_of_the_Internet_updated_August_2019.pdf
         policy: 1.7b Use of the Internet
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/1.8_-Careers_Information_Advice_updated_October_2019.pdf
