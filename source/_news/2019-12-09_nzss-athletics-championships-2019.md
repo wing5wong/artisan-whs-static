@@ -4,6 +4,55 @@ news_author:
   date: 2019-12-08T06:30:12.514Z
   name: Mrs Lisa Murphy
   publication: WHS Director of Sport
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873245/News/1.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873253/News/2.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873252/News/3.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873253/News/4.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873256/News/5.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873254/News/6.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873254/News/7.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873257/News/8.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873255/News/9.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873245/News/10.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873246/News/11.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873246/News/12.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873246/News/13.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873247/News/14.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873249/News/15.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873251/News/16.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873247/News/17.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873249/News/18.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873249/News/19.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873250/News/20.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873255/News/21.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873250/News/22.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873251/News/23.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1575873252/News/24.jpg
 show_in_slider: false
 date: 2019-12-09T06:30:12.603Z
 ---
