@@ -60,7 +60,7 @@ date: 2019-12-09T06:30:12.603Z
 ---
 **WHS Results** 💚💛💚💛
 
-The WHS athletics team of 22 athletes plus coaches returned home Sunday from a very difficult N.Z secondary school Athletics champs with 7 medals, 3 gold, 2 Silver and 2 Bronze. The weather was atrocious for the 3 days, but the team rose to the occasion and performed superbly. This was another step up from last year’s 6 medal haul and moved us to No.2 in the N.Z secondary school rankings, a massive lift from not being ranked in the top 100 4 years ago when our pathway programme started.
+The WHS athletics team of 22 athletes plus coaches returned home Sunday from a very difficult N.Z secondary school Athletics champs with 7 medals, 3 gold, 2 Silver and 2 Bronze. The weather was atrocious for the 3 days, but the team rose to the occasion and performed superbly. This was another step up from last year’s 6 medal haul and moved us to **No.2 in the N.Z secondary school rankings**, a massive lift from not being ranked in the top 100 4 years ago when our pathway programme started.
 
 A real highlight of the meet was the performances of our hurdling group who really put the school on the N.Z athletics map for this discipline. We came home with three Gold and two bronze medals in this area alone and were by far the most successful school.
 
