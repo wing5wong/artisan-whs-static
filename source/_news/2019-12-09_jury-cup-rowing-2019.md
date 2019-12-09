@@ -70,4 +70,4 @@ date: 2019-12-09T06:08:29.790Z
 ---
 Great day on the water on Saturday for our WHS Rowers representing Aramoho Whanganui Rowing Club at the Jury Cup!
 
-Well done to all our Rowers!! 💛💚🚣‍♀️🚣‍♀️💛❤️
+Well done to all our Rowers!! 💛💚🚣‍🚣‍💛❤️
