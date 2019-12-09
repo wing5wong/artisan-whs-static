@@ -4,7 +4,7 @@ news_author:
   date: 2019-12-08T06:30:12.514Z
   name: Mrs Lisa Murphy
   publication: WHS Director of Sport
-show_in_slider: true
+show_in_slider: false
 date: 2019-12-09T06:30:12.603Z
 ---
 WHS Results 💚💛💚💛
