@@ -1,5 +1,7 @@
 ---
 title: NZSS Athletics Championships 2019
+feature_image:
+  image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1575873252/News/3.jpg'
 news_author:
   date: 2019-12-08T06:30:12.514Z
   name: Mrs Lisa Murphy
@@ -66,28 +68,28 @@ We also won two silver medals in relays along with 5 other top 8 finishes and se
 
 Maggie Jones returned home with 2 Gold and 2 Silver medals to make her one of the most successful athletes at the meet along with Paris Munro’s 4 medals and Charlotte Baker and Casie Glentworth with 2 each. Nat Kirk also put in an outstanding performance in his 300mtr hurdles taking the Gold in only his 3rd ever race over this event. In fact, the No. of great performances on the last day had the meet commentator asking, “Where has this WHS team come from?”
 
-Hurdles
-Gold 80mtrs Hurdles Junior girls - Maggie Jones
-Gold 300mtrs Hurdles Junior girls - Maggie Jones
-Gold - 300mtrs Hurdles Junior boys - Nat Kirk
-Bronze 80mtrs Hurdles Junior girls - Paris Munro
-Bronze 300mtrs Hurdles Junior girls - Paris Munro
-4th 300mtrs Hurdles Junior girls - Casie Glentworth
-4th 300mtrs Hurdles senior boys – Connor Munro
+Hurdles  
+Gold 80mtrs Hurdles Junior girls - Maggie Jones  
+Gold 300mtrs Hurdles Junior girls - Maggie Jones  
+Gold - 300mtrs Hurdles Junior boys - Nat Kirk  
+Bronze 80mtrs Hurdles Junior girls - Paris Munro  
+Bronze 300mtrs Hurdles Junior girls - Paris Munro  
+4th 300mtrs Hurdles Junior girls - Casie Glentworth  
+4th 300mtrs Hurdles senior boys – Connor Munro  
 12th 300mtrs Hurdles Senior girls -Rebekah Phillips
 
-Other notable performances
-5th 1500mtrs Senior girls – Rebecca Baker
-5th 400mtrs senior boys – Travis Bayler
-8th 400mtrs junior boys – Nat Kirk
+Other notable performances  
+5th 1500mtrs Senior girls – Rebecca Baker  
+5th 400mtrs senior boys – Travis Bayler  
+8th 400mtrs junior boys – Nat Kirk  
 6th Triple Jump senior Girls - Rebekah Phillips
 
-Relays
-Silver 4 x 100mtrs Junior girls relay
-7th 4 x 100mtrs Junior boys relay
-6th 4 x 100mtrs senior boys relay
-Silver 4 x 400mtrs Junior girls relay
-12th 4 x 400mtrs Junior boys relay
-5th 4 x 400mtrs senior mixed relay
-8th 4 x 400mtrs senior girls relay
+Relays  
+Silver 4 x 100mtrs Junior girls relay  
+7th 4 x 100mtrs Junior boys relay  
+6th 4 x 100mtrs senior boys relay  
+Silver 4 x 400mtrs Junior girls relay  
+12th 4 x 400mtrs Junior boys relay  
+5th 4 x 400mtrs senior mixed relay  
+8th 4 x 400mtrs senior girls relay  
 8th 4 x 400mtrs senior boys relay
