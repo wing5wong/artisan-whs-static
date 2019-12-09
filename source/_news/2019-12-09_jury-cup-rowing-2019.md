@@ -1,5 +1,8 @@
 ---
 title: Jury Cup Rowing 2019
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1575874309/News/9994.jpg
 news_author:
   date: 2019-12-07T06:08:29.594Z
   name: Lisa Murphy
