@@ -4,7 +4,7 @@ feature_image:
   image: 'https://res.cloudinary.com/whanganuihigh/image/upload/v1575873252/News/3.jpg'
 news_author:
   date: 2019-12-08T06:30:12.514Z
-  name: Mrs Lisa Murphy
+  name: Lisa Murphy
   publication: WHS Director of Sport
 image_gallery:
   - image: >-
@@ -55,10 +55,10 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575873251/News/23.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1575873252/News/24.jpg
-show_in_slider: false
+show_in_slider: true
 date: 2019-12-09T06:30:12.603Z
 ---
-WHS Results 💚💛💚💛
+**WHS Results** 💚💛💚💛
 
 The WHS athletics team of 22 athletes plus coaches returned home Sunday from a very difficult N.Z secondary school Athletics champs with 7 medals, 3 gold, 2 Silver and 2 Bronze. The weather was atrocious for the 3 days, but the team rose to the occasion and performed superbly. This was another step up from last year’s 6 medal haul and moved us to No.2 in the N.Z secondary school rankings, a massive lift from not being ranked in the top 100 4 years ago when our pathway programme started.
 
