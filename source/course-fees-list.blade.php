@@ -10,11 +10,11 @@
 
 @php
 $levels = [
-"9" => "Year 9",
-"10" => "Year 10",
 "11" => "Level 1",
 "12" => "Level 2",
 "13" => "Level 3"
+"9" => "Year 9",
+"10" => "Year 10",
 ];
 @endphp
 
@@ -50,16 +50,13 @@ $levels = [
         <div class="row">
             @foreach($mapped as $faculty)
             <div class="col-12">
-                <h3 class="d-table mt-3">
-                    {{ $faculty['faculty']->title}}
-                </h3>
-
 
                 <div class="list-group my-4">
                     @foreach($faculty['courses'] as $course)
-                    <h4>{{ $course->name }}
-                    </h4>
-                    {{ $course->course_fees }}
+                        @if($course->course_fees)
+                        <h4>{{ $course->name }} - {{ $course->code }}</h4>
+                        - {{ $course->course_fees }}
+                        @endif
                     @endforeach
                 </div>
 
