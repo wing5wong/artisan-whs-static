@@ -47,23 +47,20 @@ $levels = [
         });
         @endphp
 
-        <div class="row">
+        <table>
             @foreach($mapped as $faculty)
-            <div class="col-12">
-
-                <div class="list-group my-4">
+            <tr><th colspan="3">{{$faculty['faculty']->title}}</th></tr>
                     @foreach($faculty['courses'] as $course)
                         @if($course->course_fees)
-                        <h4>{{ $course->name }} - {{ $course->code }}</h4>
-                        - {{ $course->course_fees }}
+                        <tr>
+                            <th>{{ $course->code }}</th>
+                            <th>{{ $course->name }}</th>
+                            <td>{{ $course->course_fees }}</td>
+                        </tr>
                         @endif
                     @endforeach
-                </div>
-
-            </div>
             @endforeach
-        </div>
-
+        </table>
     </div>
     @endforeach
 
