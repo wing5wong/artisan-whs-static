@@ -28,7 +28,7 @@ date: 2019-12-13T03:06:43.615Z
 ---
 **Whanganui athletes had much to celebrate at the 47th New Zealand Secondary Schools Championships on a wet and windy weekend in Wellington.**
 
-As reported earlier in the week athletes from Whanganui Collegiate School and Whanganui High School returned with 20 medals — eight golds, nine silver and three bronze medals from the track and field championships which is the highest total achieved by Whanganui schools in the history of the event. Unfortunately, with the cancellation for the first time of Sunday's Road Race there was no opportunity to add to this impressive total.
+As reported earlier in the week athletes from Whanganui Collegiate School and Whanganui High School returned with 20 medals — eight golds, nine silver and three bronze medals from the track and field championships which is the **highest total achieved by Whanganui schools in the history of the event**. Unfortunately, with the cancellation for the first time of Sunday's Road Race there was no opportunity to add to this impressive total.
 
 One major piece of history came when Sophie Williams, with a legal tail wind, broke the oldest record of the championships when she shaved .02 second off the record set by Myra Matkovitch in the inaugural championships of 1973.
 
