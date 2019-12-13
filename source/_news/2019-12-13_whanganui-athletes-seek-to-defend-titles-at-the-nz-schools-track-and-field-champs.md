@@ -3,7 +3,7 @@ title: >-
   Whanganui athletes seek to defend titles at the NZ Schools Track and Field
   champs
 feature_image:
-  credit: Supplied.
+  credit: Supplied
   description: >-
     Whanganui High School athlete Travis Bayler will defend his senior boys 400m
     title at NZ Schools this weekend in Wellington.
