@@ -57,12 +57,12 @@ Jayden Carrick, ZX10 Kawasaki
 F2  
 Tarbon Walker, Kawasaki ZX6R  
 Jeff Croot, CBR600  
-Richie Dibben, GSXR600 L7  
+**Richie Dibben, GSXR600 L7**  
 
 F3  
 Luca Durning, KTM 390  
 Ton Hirini, KTM690  
-Caleb Gilmore, R3  
+**Caleb Gilmore, R3** 
 
 Pre 89  
 Marc McKenzie, CBR400  
@@ -73,7 +73,7 @@ Tony Sklenars, CBR600
 Fsport/Bears:  
 Blane Hannah, Suzuki GSXR600  
 Jason Bardell, BMW S1000RR  
-Sam Willacy, Suzuki GSXR750  
+**Sam Willacy, Suzuki GSXR750**  
 Ash Payne, GSXR750  
 Daren Bendle, Triumph 675R  
 Dwayne Bishop, Aprilia RSV4RR  
@@ -82,27 +82,27 @@ Stephen Leggett, Aprilia RS4 RF
 Rowan Houlahan, Buell XB12  
 
 Supermoto:  
-Scott Dowman, TM450  
+**Scott Dowman, TM450** 
 Tony Hirini, CRF450  
-James Clarke, CRF450R  
+**James Clarke, CRF450R**  
 Wilson Woods, RMZ450  
 Marc McKenzie, CRF450  
 Godfried Swartz, RMZ450  
 Mark Oliver, CRF450  
-Richard Dibben, RMZ450  
+**Richard Dibben, RMZ450**  
 Craig Scott (Cudge), CRF450  
 James Daniels, FC450  
 
 Gixxer 150:  
 Luca Durning, Gixxer 150  
-Caleb Gilmore, Gixxer 150  
-Lucy Dowman, Gixxer 150  
-Emma Dowman, Gixxer 150  
-Cameron Goldfinch, Gixxer 150  
+**Caleb Gilmore, Gixxer 150**  
+**Lucy Dowman, Gixxer 150**  
+**Emma Dowman, Gixxer 150**  
+**Cameron Goldfinch, Gixxer 150**  
 
 Cl Sidecars:  
 Peter Dowman/Brian Greenlees, Yamaha RD700  
-James & Lucy Dowman, Yamaha XS650  
+**James & Lucy Dowman, Yamaha XS650**  
 Bryan Stent & Tracey Bryan, BMW  
 Tony Sklenars & Marc McKenzie, Hillman IMP  
 Richard Hood & Mark Thompson, Norton  
