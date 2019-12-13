@@ -11,7 +11,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1576206001/News/Travis_Bayler.Chron_5.12.19.jpg
 news_author:
   date: 2019-12-05T02:59:18.613Z
-  name: Alex McNabAthletic Insight
+  name: Alex McNab / Athletic Insight
   publication: Whanganui Chronicle
 show_in_slider: false
 date: 2019-12-13T02:59:18.645Z
