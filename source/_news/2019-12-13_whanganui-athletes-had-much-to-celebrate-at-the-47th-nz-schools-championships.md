@@ -9,7 +9,7 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1576206461/News/Maggie_Jones_chron_12.12.19.jpg
 news_author:
   date: 2019-12-12T03:06:43.599Z
-  name: Alex McNabAthletic Insight
+  name: Alex McNab / Athletic Insight
   publication: Whanganui Chronicle
 image_gallery:
   - description: >-
