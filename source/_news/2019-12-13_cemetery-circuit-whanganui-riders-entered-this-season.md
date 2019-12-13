@@ -1,5 +1,5 @@
 ---
-title: Cemetery Circuit Whanganui riders entered this season
+title: Whanganui riders entered in the upcoming Cemetery Circuit
 feature_image:
   description: >-
     Craig (Cudge) Scott has been part of the track set up crew for more than 40
@@ -49,7 +49,7 @@ Only two of those racing years was on road bikes, the rest were all on motocross
 Meanwhile, Willacy said tickets were now available from i-Site in Whanganui at $25 saving $10 on the $35 gate charge on raceday. Spectators can also save money by purchasing
 "early bird tickets" through Ticketek online and they'll also go in the draw to win a Suzuki Gixxer 150 bike.
 
-**Whanganui riders entered this season**  
+**Whanganui riders entered this season:**  
 
 F1 Class  
 Jayden Carrick, ZX10 Kawasaki  
@@ -82,7 +82,7 @@ Stephen Leggett, Aprilia RS4 RF
 Rowan Houlahan, Buell XB12  
 
 Supermoto:  
-**Scott Dowman, TM450** 
+**Scott Dowman, TM450**  
 Tony Hirini, CRF450  
 **James Clarke, CRF450R**  
 Wilson Woods, RMZ450  
