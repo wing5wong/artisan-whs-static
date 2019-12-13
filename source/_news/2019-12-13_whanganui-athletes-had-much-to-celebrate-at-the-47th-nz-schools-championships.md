@@ -11,10 +11,22 @@ news_author:
   date: 2019-12-12T03:06:43.599Z
   name: Alex McNabAthletic Insight
   publication: Whanganui Chronicle
+image_gallery:
+  - description: >-
+      Whanganui High School's Maggie Jones, centre, and Paris Munro share the
+      junior girls 300 hurdle podium with second-placed Lucy Rennie, left, from
+      Hamilton Girls' High School.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1576206603/News/Maggie_Paris_Chron_12.12.19.jpg
+  - description: >-
+      Whanganui High School athlete Nat Kirk impressively winning the junior
+      boys 300 metre hurdles in his national hurdle debut at the weekend.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1576206614/News/Nat_Kirk_Chron_12.12.19.jpg
 show_in_slider: true
 date: 2019-12-13T03:06:43.615Z
 ---
-Whanganui athletes had much to celebrate at the 47th New Zealand Secondary Schools Championships on a wet and windy weekend in Wellington.
+**Whanganui athletes had much to celebrate at the 47th New Zealand Secondary Schools Championships on a wet and windy weekend in Wellington.**
 
 As reported earlier in the week athletes from Whanganui Collegiate School and Whanganui High School returned with 20 medals — eight golds, nine silver and three bronze medals from the track and field championships which is the highest total achieved by Whanganui schools in the history of the event. Unfortunately, with the cancellation for the first time of Sunday's Road Race there was no opportunity to add to this impressive total.
 
@@ -24,11 +36,11 @@ Williams' time of 11.86 seconds was set in the quarter final. Williams went on t
 
 Williams was named Junior Athlete of the Meet and was named in the New Zealand Schools paper team.
 
-Maggie Jones (High School) had an outstanding championship winning both the 80 metre hurdles and 300 metre hurdles in the junior grade. She had High School company in both with Paris Munro winning her first national medals with bronze over both distances.
+**Maggie Jones (High School) had an outstanding championship winning both the 80 metre hurdles and 300 metre hurdles in the junior grade. She had High School company in both with Paris Munro winning her first national medals with bronze over both distances.**
 
-High School had three athletes in the 300 metre junior girls hurdle final with Cassie Glentworth crossing in fourth. All three, along with Charlotte Baker, were in the High School junior relay teams finishing second in both junior relays.
+**High School had three athletes in the 300 metre junior girls hurdle final with Cassie Glentworth crossing in fourth. All three, along with Charlotte Baker, were in the High School junior relay teams finishing second in both junior relays.**
 
-The High School successful hurdle results did not end with the girls with novice hurdler Nat Kirk impressively winning the junior boys 300 metre hurdles in his national hurdle debut , a young athlete with an exciting future.
+**The High School successful hurdle results did not end with the girls with novice hurdler Nat Kirk impressively winning the junior boys 300 metre hurdles in his national hurdle debut , a young athlete with an exciting future.**
 
 There was considerable discussion pre-championship whether Liam Back (Collegiate) would be the first to win the 800 metre, 1500 metre double since Nick Willis in 2000. In the 800m Back chose to make the break just before the 200 metre mark into a strong wind. Back acknowledges his tactical error and had to settle for silver. It clearly made him more determined to win the 1500 metres a couple of hours later.
 
