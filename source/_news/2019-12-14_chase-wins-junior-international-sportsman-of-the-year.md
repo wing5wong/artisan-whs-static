@@ -1,5 +1,5 @@
 ---
-title: Chase wins WSS International Junior Sportsman of the Year
+title: Chase wins WSS International Junior Sportsman of the Year Trophy!
 feature_image:
   description: Chase with his trophy awarded by Sport Whanganui.
   image: >-
