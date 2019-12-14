@@ -1,0 +1,20 @@
+---
+title: Chase wins Junior International Sportsman of the Year
+feature_image:
+  description: Chase with his trophy awarded by Sport Whanganui.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1576210714/News/Chase%20Morpeth.International%20Jnr%20Sportsman%20of%20the%20Year%20Trophy/thumbnail_3.jpg
+news_author:
+  date: 2019-11-29T07:54:23.213Z
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1576210725/News/Chase%20Morpeth.International%20Jnr%20Sportsman%20of%20the%20Year%20Trophy/IMG_5976_1.jpg
+show_in_slider: false
+date: 2019-12-14T07:54:23.390Z
+---
+**Congratulations to Chase Morpeth for winning the Ray White International Junior Sportsman of the Year Trophy.**
+
+**Well done Chase!**
+
+
+ 
