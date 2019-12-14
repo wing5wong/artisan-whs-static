@@ -14,7 +14,7 @@ news_author:
   publication: Whanganui Chronicle
 image_gallery:
   - description: >-
-      Judo exponent Keightly Watson received the International Junior
+      Judo exponent Keightley Watson received the International Junior
       Sportsperson trophy. Photo / Jared Smith.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1574642251/News/Best_photo.International-Junior-Sportsperson-trophy..jpg
