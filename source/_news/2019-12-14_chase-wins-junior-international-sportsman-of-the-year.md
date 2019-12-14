@@ -12,7 +12,7 @@ image_gallery:
 show_in_slider: false
 date: 2019-12-14T07:54:23.390Z
 ---
-**Congratulations to Chase Morpeth for winning the Whanganui Secondary School International Junior Sportsman of the Year Trophy.**
+**Congratulations to Chase Morpeth for winning the Whanganui Secondary School International Junior Sportsman of the Year Trophy (Speed Skating).**
 
 **Well done Chase!**
 
