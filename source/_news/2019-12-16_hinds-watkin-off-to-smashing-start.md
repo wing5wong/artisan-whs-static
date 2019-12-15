@@ -6,7 +6,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1576449330/News/Chron_14.12.19.jpg
 news_author:
-  date: 2019-12-15T22:34:46.120Z
+  date: 2019-12-13T22:34:46.120Z
   name: Jared Smith
   publication: Whanganui Chronicle
 show_in_slider: false
