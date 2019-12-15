@@ -68,16 +68,17 @@ Martin entered both the quarter marathon, or 10km race, starting at 10am, and co
 
 He had a little more competition for the latter walk, but still picked up another victory for the male division.
 
-Results
+Results:
 
 Marathon Run - Male: 1. Stephen Parker (Rotorua) 2:48.00.39; 2. Tom Hargreaves (Cambridge Great Britain); 3. Jon-Paul Heather (New Plymouth). Female: 1. Ellie Bowen (Whanganui) 3:57.42.34; 2. Nicky Scott (Whanganui); 3. Barb Carson (Washington).
 
 Marathon Walk - Male: 1. Albie Jane (Stratford) 5:10.09.97; 2. Malcolm Gray (Auckland).
+
 Half Marathon Run - Male: 1. Michael Aish (New Plymouth) 1:18.50.99; 2. Dean Cash (Whanganui); 3. Chris Lines (Whanganui). Female: 1. Lesley Graham (Mauriceville) 1:42.18.41; 2. Rachel McKinnon (Wellington); 3. Rosie McIntyre (Hunterville).
 
-Half Marathon Walk - Male: 1. Derren Hutchinson (Napier) 2:20.19.52; 2. Mike Tennent (Rotorua); 3. Evan Davies (Palmerston North). Female: 1. Robyn Wolfsbauer (Napier) 2:28.22.8; 2. Leeann Lock (Whanganui); 3. Jean De Vries (Patea).
+Half Marathon Walk - Male: 1. Derren Hutchinson (Napier) 2:20.19.52; 2. Mike Tennent (Rotorua); 3. Evan Davies (Palmerston North). Female: 1. Robyn Wolfsbauer (Napier) 2:28.22.8; **2. Leeann Lock (Whanganui)**; 3. Jean De Vries (Patea).
 
-10km Run - Male: 1. Thomas Ditchfield (Whanganui) 38:43.61; 2. Liam Jones (Whanganui); 3. Aaron Sheehan (Whanganui). Female: 1. Baoshan Jiang (Whanganui) 55:21.03; 2. Sarah Huxley (Whanganui); 3. Debra Chase (Taihape).
+10km Run - Male: 1. Thomas Ditchfield (Whanganui) 38:43.61; **2. Liam Jones (Whanganui)**; 3. Aaron Sheehan (Whanganui). Female: 1. Baoshan Jiang (Whanganui) 55:21.03; 2. Sarah Huxley (Whanganui); 3. Debra Chase (Taihape).
 
 10km Walk - Male: 1. Lucas Martin (Whanganui) 54:57.7. Female: 1. Kate Quigley (Whanganui) 1:14.34.65.
 
