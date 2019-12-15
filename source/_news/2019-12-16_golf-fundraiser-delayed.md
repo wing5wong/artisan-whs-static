@@ -1,6 +1,7 @@
 ---
 title: 'Golf:  Fundraiser delayed'
 feature_image:
+  credit: Bevan Conley
   description: 'Donaldson brothers from left; Rodney, Jack and Ryan.'
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1576206974/News/Donaldson_brothers_in_action._chron_5.12.19.jpg
