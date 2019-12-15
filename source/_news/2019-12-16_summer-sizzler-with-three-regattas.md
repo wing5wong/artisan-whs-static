@@ -40,7 +40,7 @@ The team of S Hayes, G Murphy, E McKinlay, A Symes and cox B Jones took out Divi
 
 UBC's Novice Women's Quad of E Buenius, M Rofka, M Pfannkuchen, A Keenan and cox S Hill (cox) had a good win, while **AWRC's Under 16 eight of M Sturdee, J Black, J Turner, K Siemonek, J Clear, J Barrett, D Benfell and cox C Monk looked good and no doubt pleased head coach Jane Detwailer in winning that race.**
 
-You can see the winter training coming through from the likes of **AWRC's Georgina Ross and Messina Su'a, in winning the Girl's Under 16 Double** and the effervescent Tom Monaghan, **Jonty Thompson, Guy Thomson** and Luke Watts looked sharp in claiming the Men's Open Four and a few other races.
+You can see the winter training coming through from the likes of **AWRC's Georgina Ross and Messina Su'a, in winning the Girl's Under 16 Double** and the effervescent Tom Monaghan, **Jonty Thompson, Guy Thomson** and Luke Watts **looked sharp in claiming the Men's Open Four and a few other races.**
 
 Watts also showed good form in winning the Men's Open Single from Collegiate's Blake Hogan and Wellington's Arie Magasiva – both North Island Under 18 rowers.
 
