@@ -1,5 +1,8 @@
 ---
 title: Summer sizzler with three regattas
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1576449938/News/Oars-with-crew-written-underneath.200.jpg
 news_author:
   date: 2019-12-12T22:39:52.413Z
   name: Philippa Baker-Hogan / Oarsome News
