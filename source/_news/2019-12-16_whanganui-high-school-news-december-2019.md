@@ -11,7 +11,7 @@ date: 2019-12-16T02:02:27.119Z
 ---
 **Celebrating Success of our Students!!**
 
-**Plus Year 8 Scholarship Winners for 2020!**
+**Congratulations to our Year 8 Scholarship Winners for 2020!**
 
 [Read the December 2019 edition of our School Newsletter.](https://res.cloudinary.com/whanganuihigh/image/upload/v1576462194/News/DECEMBER_2019_rivercity-press-web-_002.jpg)
 
