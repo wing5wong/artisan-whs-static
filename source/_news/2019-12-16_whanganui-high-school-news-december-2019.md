@@ -2,7 +2,7 @@
 title: Whanganui High School News - December 2019
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1576462194/News/DECEMBER_2019_rivercity-press-web-_002.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1576472812/News/DECEMBER_2019_rivercity_press_web.jpg
 news_author:
   date: 2019-12-12T02:02:27.070Z
   publication: River City Press
