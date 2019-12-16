@@ -4,7 +4,7 @@ feature_image:
   credit: Lewis Gardiner
   description: >-
     There was a strong turn out of over 800 runners and walkers competing as
-    individuals and in relay teams.
+    individuals and in relay teams. Liam Jones in yellow singlet.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1576447973/News/Liam_Jones_2nd_Bridge_Marathon.Chron_16.12.19.jpg
 news_author:
