@@ -11,6 +11,8 @@ date: 2019-12-16T02:02:27.119Z
 ---
 **Celebrating Success of our Students!!**
 
+**Plus Year 8 Scholarship Winners for 2020!**
+
 Read the December 2019 edition of our School Newsletter.
 
 To read other Newsletters see our [School Newsletter page.](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
