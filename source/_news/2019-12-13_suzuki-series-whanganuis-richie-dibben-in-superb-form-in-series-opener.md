@@ -17,7 +17,7 @@ image_gallery:
       BikesportNZ.com
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1576207715/News/Richie_Dibben_2_Chron_10.12.19.jpg
-show_in_slider: true
+show_in_slider: false
 date: 2019-12-13T03:25:02.364Z
 ---
 Watch this space – Whanganui's Richie Dibben is the real deal when it comes to racing motorcycles of any description.
