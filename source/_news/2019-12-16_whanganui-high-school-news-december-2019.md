@@ -13,6 +13,6 @@ date: 2019-12-16T02:02:27.119Z
 
 **Plus Year 8 Scholarship Winners for 2020!**
 
-Read the December 2019 edition of our [School Newsletter.](https://res.cloudinary.com/whanganuihigh/image/upload/v1575853998/newsletters/DECEMBER_2019_rivercity_press_web.ai)
+Read the December 2019 edition of our [School Newsletter.](https://res.cloudinary.com/whanganuihigh/image/upload/v1576462194/News/DECEMBER_2019_rivercity-press-web-_002.jpg)
 
 To read other Newsletters see our [School Newsletter page.](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
