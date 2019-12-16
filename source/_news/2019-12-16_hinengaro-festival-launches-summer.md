@@ -1,6 +1,7 @@
 ---
 title: Hinengaro festival launches summer
 feature_image:
+  credit: Facebook.com/DRXNESOFFICIAL
   description: >-
     Whanganui band DRXNES will perform at Hinengaro Rangatahi Festival in
     Majestic Square this Friday, 13 December.
