@@ -8,7 +8,9 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1577922131/News/Lucy_Dowman._Chron_18.12.19.jpg
 news_author:
-  date: 2020-01-01T23:40:43.693Z
+  date: 2019-12-17T23:40:43.693Z
+  name: Iain Hyndman
+  publication: Whanganui Chronicle
 image_gallery:
   - description: >-
       Lap times reveal Whanganui's Lucy Dowman means business when racing in the
