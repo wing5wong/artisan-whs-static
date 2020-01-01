@@ -6,6 +6,8 @@ feature_image:
     Whanganui's Jess Watkin led by example and paved the way for Central Hinds
     to beat the previously unbeaten Auckland Hearts in their Super Smash clash
     in New Plymouth on Saturday. 
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1577918847/News/Chron-30.12.19...jpg
 news_author:
   date: 2019-12-29T11:00:00.000Z
   name: Iain Hyndman
