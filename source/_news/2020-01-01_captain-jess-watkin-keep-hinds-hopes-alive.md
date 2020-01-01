@@ -12,7 +12,7 @@ news_author:
   date: 2019-12-29T11:00:00.000Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
-show_in_slider: true
+show_in_slider: false
 date: 2020-01-01T22:42:08.384Z
 ---
 The Central Stags and Hinds posted vastly contrasting results in their Dream 11 Super Smash double headers against Wellington on Friday and Auckland on Saturday.
