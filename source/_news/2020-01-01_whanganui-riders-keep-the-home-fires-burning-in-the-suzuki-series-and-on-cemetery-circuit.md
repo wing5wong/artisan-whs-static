@@ -2,6 +2,14 @@
 title: >-
   Whanganui riders keep the home fires burning in the Suzuki Series and on
   Cemetery Circuit 
+feature_image:
+  credit: Lewis Gardner
+  description: >-
+    Caleb Gilmore did Whanganui proud with a second overall in the popular
+    Gixxer Cup class of the 2019 Suzuki International Series that ended on the
+    Cemetery Circuit on Boxing Day.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1577921405/News/Caleb_Gilmore_Chron_28.12.19.jpg
 news_author:
   date: 2019-12-27T23:10:02.114Z
   name: Iain Hyndman
