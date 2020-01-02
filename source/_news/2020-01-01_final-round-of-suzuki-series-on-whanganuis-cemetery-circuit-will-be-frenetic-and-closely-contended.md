@@ -31,9 +31,9 @@ Cooper does have impeccable credentials when it comes to street racing, having j
 
 There are a similar stories in several of the other bike classes, too, with just six points between Upper Hutt's Rogan Chandler and Palmerston North's Palmerston North's Ashton Hughes at the top of the 600cc F2 class.
 
-For Whanganui rider Richie Dibben, it was a mixed bag at Manfeild.
+**For Whanganui rider Richie Dibben, it was a mixed bag at Manfeild.**
 
-The Barracks Bar/Total Span-sponsored rider was clearly the fastest in the supermoto class - light-modified 450cc dirt bikes - extending his series lead from seven to 13 points over the new No 2 rider in the class in town, James Clarke. Dibben should have no problems winning this class yet again.
+**The Barracks Bar/Total Span-sponsored rider was clearly the fastest in the supermoto class - light-modified 450cc dirt bikes - extending his series lead from seven to 13 points over the new No 2 rider in the class in town, James Clarke. Dibben should have no problems winning this class yet again.**
 
 He is among the leading riders in the F2 class, sitting fourth behind leader Ashton Hughes.
 
