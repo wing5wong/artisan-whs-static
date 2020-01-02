@@ -18,6 +18,6 @@ Hayley and the team at Mosston have worked tirelessly with him through the year 
 
 We are particularly appreciative of Hayley for making the effort to get to know our son so well that she recognised he had injured himself after what seemed like a minor fall from his skateboard and a bump on the chin. As ASD can distort his recognition of pain, he thought he was fine when he had actually fractured his wrist in two places and a minor concussion. Hayley was able to see that his behaviour had changed and contacted us immediately.
 
-Hayley is a young teacher with a lot of energy and great enthusiasm for her job. It is absolutely delightful to see her engaging with the classroom. Our son loves going to school and has no anxieties about it at all, which is a massive change from his first year in public education.”
+Former WHS student, Hayley is a young teacher with a lot of energy and great enthusiasm for her job. It is absolutely delightful to see her engaging with the classroom. Our son loves going to school and has no anxieties about it at all, which is a massive change from his first year in public education.”
 
 The RCP arranged to surprise Hayley in her classroom in the last week of school with a beautiful bouquet of flowers put together by Nichola and her team at the Flower Room, an Inter Flora Top 20 Club member. Hayley also received a voucher for two at the Grand Irish Pub.
