@@ -18,7 +18,7 @@ Swimmers were waiting outside when Whanganui East Pool opened for the summer sea
 
 While there were big crowds watching the Cemetery Circuit motorcycle racing on Boxing Day, more than 100 people headed to the pool instead for its summer season opening day.
 
-"We had a busy first day and we're expecting plenty today as well," lifeguard Lexia Blackstock said on Friday.
+"We had a busy first day and we're expecting plenty today as well," lifeguard Lexia Blackstock said on Friday."
 
 "The hydroslide opens at 1pm so there will be plenty of kids turning up then."
 
@@ -30,19 +30,19 @@ Blackstock said she had worked at Whanganui East Pool every summer for about 15 
 
 Blackstock is one of five lifeguards working at the pool, along with a manager.
 
-Xaviera Manley-Green is working her first summer at Whanganui East Pool.
+Former WHS student **Xaviera Manley-Green** is working her first summer at Whanganui East Pool.
 
 "I previously worked at the Hawera Aquatic Centre and I enjoyed that.
 
 "It was a great day yesterday and I think I'll enjoy working here for the summer."
 
-Otago law student Jeanne-Marie Bonnet is enjoying a Christmas break in her home town and making the most of the brilliant weather with a dip in her favourite pool.
+Otago law student **Jeanne-Marie Bonnet** is enjoying a Christmas break in her home town and making the most of the brilliant weather with a dip in her favourite pool.
 
 "The Splash Centre is great, but you can't beat a nice outdoor pool on a summer day," Bonnet said.
 
 "I've been coming here since I was at primary school and it's a nice, relaxing way to spend my holiday."
 
-The former Whanganui High School student plans to head back to Dunedin in mid-January to complete a summer school course on intellectual property law.
+**The former Whanganui High School student** plans to head back to Dunedin in mid-January to complete a summer school course on intellectual property law.
 
 "I hope to get quite a few swims in before I head back."
 
