@@ -27,7 +27,7 @@ The stage is on the back of a large truck/trailer, set up parallel to the river,
 
 **‘In Business’, also from High School, will be next.** Fred says, “They are doing great things around town including opening for other bands. Considering that they are only year 10 students, this is amazing. “They also write their own music which is also Prog Rock.” Fred adds, “In Business has some interesting guitar tunes. Quite hard and heavy but very musical.”
 
-**The third band is Whiskey Mama** of which Fred is a key member. He says, “We play more classic rock – the hits and songs which weren’t hits and perhaps didn’t receive enough radio time. People comment on our song choices saying, I kind of remember the songs and asking who played them originally.”
+**The third band is 'Whiskey Mama'** of which Fred is a key member. He says, “We play more classic rock – the hits and songs which weren’t hits and perhaps didn’t receive enough radio time. People comment on our song choices saying, I kind of remember the songs and asking who played them originally.”
 
 Rhythm Vision will play for about 45 minutes followed by In Business for one hour and 20. Whiskey Mama will take it through to around 6pm.
 
