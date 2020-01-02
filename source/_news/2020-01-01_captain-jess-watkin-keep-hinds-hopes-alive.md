@@ -21,11 +21,11 @@ Both were played at Pukekura Park in New Plymouth, the Stags missed by 42 runs a
 
 In contrast, the Hinds lost to Wellington Blaze by 49 runs on Friday, but reversed that form with an excellent 22 run victory over the Auckland Hearts on Saturday thanks to skipper, Whanganui allrounder Jess Watkin.
 
-Watkin had a day to remember to lead her side to victory over the previously unbeaten Auckland Hearts.
+**Watkin had a day to remember to lead her side to victory over the previously unbeaten Auckland Hearts.**
 
 Winning the toss and batting first, the Hinds skipper blasted 5 fours and 3 sixes inside the power play to have the Hinds racing along after six overs.
 
-Watkin brought up her 50 from just 26 balls with fellow opener Emily Cunningham providing good support.
+**Watkin brought up her 50 from just 26 balls** with fellow opener Emily Cunningham providing good support.
 
 Anna Peterson brought herself into the attack in the ninth over and nabbed the key wicket of Watkin (56 off 31).
 
