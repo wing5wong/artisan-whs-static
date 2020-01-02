@@ -74,7 +74,7 @@ Dibben took any frustrations he might have been feeling out on the Supermoto fie
 
 **In Race 1, Dibben passed for the lead early on the first lap and then was never headed, while at one point it appeared Whanganui riders might take all three podium spots, as Scott Dowman finished second**, before New Plymouth's Mitch Rowe got up for third place.
 
-**Race 2 was absolute waxing, as Dibben** had a quicker turnaround from his F2 race than earlier, and although this time it took three quarters of the first lap for the series winner to take the lead, the rest of the field had no answer as he powered away.
+**Race 2 was absolute waxing, as Dibben had a quicker turnaround from his F2 race than earlier, and although this time it took three quarters of the first lap for the series winner to take the lead, the rest of the field had no answer as he powered away.**
 
 Dowman again climbed up to second, while the most intriguing battle between the chasing group.
 
