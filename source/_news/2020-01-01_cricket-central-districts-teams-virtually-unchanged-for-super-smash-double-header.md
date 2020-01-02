@@ -19,7 +19,7 @@ date: 2020-01-01T22:50:02.467Z
 
 Both the Central Stags and Hinds have gone with settled lineups for their Dream11 Super Smash T20 games tomorrow and Saturday at New Plymouth's Pukekura Park.
 
-After beating the Canterbury Magicians in Napier on Monday, the Hinds are unchanged, being co-captained by Whanganui's Jessica Watkin and including Kerry Tomlinson, who was there when the winning runs were struck.
+After beating the Canterbury Magicians in Napier on Monday, the Hinds are unchanged, being **co-captained by Whanganui's Jessica Watkin** and including Kerry Tomlinson, who was there when the winning runs were struck.
 
 They play Wellington Blaze tomorrow and Auckland Hearts on Saturday.
 
@@ -29,36 +29,37 @@ They play Wellington Firebirds tomorrow and Auckland Aces on Saturday.
 
 CENTRAL HINDS
 
-Jess WATKIN (co-captain) — Whanganui
-Hannah ROWE (co-captain) — Manawatū
-Georgia ATKINSON — Wairarapa
-Kate BAXTER — Taranaki
-Emily CUNNINGHAM — Taranaki
-Natalie DODD — wicketkeeper — Taranaki
-Claudia GREEN — Nelson
-Mikaela GREIG — Manawatū
-Melissa HANSEN — Wairarapa
-Rosemary MAIR — Hawke's Bay
-Kerry TOMLINSON — Whanganui
+**Jess WATKIN (co-captain) — Whanganui**  
+Hannah ROWE (co-captain) — Manawatū  
+Georgia ATKINSON — Wairarapa  
+Kate BAXTER — Taranaki  
+Emily CUNNINGHAM — Taranaki  
+Natalie DODD — wicketkeeper — Taranaki  
+Claudia GREEN — Nelson  
+Mikaela GREIG — Manawatū  
+Melissa HANSEN — Wairarapa  
+Rosemary MAIR — Hawke's Bay  
+Kerry TOMLINSON — Whanganui  
 Anlo VAN DEVENTER — Wairarapa
 
 Unavailable - injury: Monique Rees
 
 CENTRAL STAGS
 
-Tom BRUCE (captain) — Taranaki
-Josh CLARKSON — Nelson
-Dane CLEAVER (wicketkkeeper) — Manawatū
-Jayden LENNOX — Hawke's Bay
-Christian LEOPARD — Hawke's Bay
-Willem LUDICK — Nelson
-Kieran NOEMA-BARNETT— Hawke's Bay
-Ajaz PATEL— Hawke's Bay
-Seth RANCE — Wairarapa
-Blair TICKNER— Hawke's Bay
-Ryan WATSON — Taranaki
-Ben WHEELER — Marlborough
+Tom BRUCE (captain) — Taranaki  
+Josh CLARKSON — Nelson  
+Dane CLEAVER (wicketkkeeper) — Manawatū  
+Jayden LENNOX — Hawke's Bay  
+Christian LEOPARD — Hawke's Bay  
+Willem LUDICK — Nelson  
+Kieran NOEMA-BARNETT— Hawke's Bay  
+Ajaz PATEL— Hawke's Bay  
+Seth RANCE — Wairarapa  
+Blair TICKNER— Hawke's Bay  
+Ryan WATSON — Taranaki  
+Ben WHEELER — Marlborough  
 George WORKER — Manawatū
 
-Unavailable - injury/recovery: Doug Bracewell, Adam Milne, Bevan Small, Will YoungThey play Wellington Firebirds tomorrow and Auckland Aces on Saturday.
+Unavailable - injury/recovery: Doug Bracewell, Adam Milne, Bevan Small, Will Young. 
+
 
