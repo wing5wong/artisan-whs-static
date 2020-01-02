@@ -20,7 +20,7 @@ Castlecliff Golf Club manager/professional Rodney Donaldson was joined by his te
 
 The event was rescheduled a couple of times, originally intended for December 15 before bad weather saw the club's tournament schedule revised, and then initially planned for today before ultimately going ahead early on Wednesday morning due to Jack and Ryan Donaldson having weekend work commitments.
 
-Unfortunately, the wet weather than saw continuous cloud bursts all week were still in full force on Wednesday, with the brothers having to wait until 6.15am to tee off instead of the planned 5.30am.
+Unfortunately, the wet weather that saw continuous cloud bursts all week were still in full force on Wednesday, with the brothers having to wait until 6.15am to tee off instead of the planned 5.30am.
 
 "We had two long stops that were about 30-45 minutes long each, due to being absolutely drenched," Rodney Donaldson said.
 
