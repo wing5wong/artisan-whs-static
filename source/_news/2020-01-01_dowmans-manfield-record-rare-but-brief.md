@@ -20,7 +20,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-01-01T23:40:43.709Z
 ---
-Whanganui's Lucy Dowman has shown she can certainly foot it with the boys after setting a lap record at Manfeild in the Gixxer Cup 150 class during round two of the Suzuki International Series at the weekend.
+**Whanganui's Lucy Dowman has shown she can certainly foot it with the boys after setting a lap record at Manfeild in the Gixxer Cup 150 class during round two of the Suzuki International Series at the weekend.**
 
 The record was a rarity when she became one of the very few females ever to achieve a solo bike lap record at Manfeild. However, her milestone was short-lived after Auckland's Daniel Mettam bettered a few laps later.
 
