@@ -24,9 +24,9 @@ Kyle Lampp (779P) and Wayne Wright (24V) were the first drivers on track after t
 
 Wright looked to have the race in the bag, until he got loose coming out of the final corner, allowing Lampp to sneak past by a matter of inches.
 
-Lampp's title challenge didn't last long as he was slotted up the wall by local Trazarn Ryland Annabell (33V) in the next heat, starting a three race run for the Whanganui driver.
+Lampp's title challenge didn't last long as he was slotted up the wall by local **Trazarn Ryland Annabell (33V)** in the next heat, starting a three race run for the Whanganui driver.
 
-Ryland-Annabell finally met his match in Callum Sturzaker (15V), who was later awarded the prize for best challenge.
+**Ryland-Annabell finally met his match in Callum Sturzaker (15V), who was later awarded the prize for best challenge.**
 
 Sturzaker was eliminated by experienced team racer Dion Mooney (6V), who took care of his recent arch-rival Taylor Lampp (992P), setting up a final against Luke Miers (15P).
 
@@ -58,13 +58,11 @@ Scott Joblin (52P), Rees and Quinn Ryan (46B) took out a heat apiece on a night 
 
 Luke Miers added to his tally with a win in the opening Stockcar heat, from a field of 29 cars.
 
-Wayne Wright (24V) and Callum Sturzaker won the other races.
+Wayne Wright (24V) and **Callum Sturzaker won the other races.**
 
 Grant Loveridge (7R) took a clean sweep of the Production Saloon races, and broke his own lap record in the bargain.
 
-Loveridge had a couple of slices of luck after Matt Buckley (73V) and Bailey Goldsack (72V) both got caught up with lapped traffic while leading late in two of the races.
-
-He was close enough to take advantage when the cars ahead of him slowed.
+Loveridge had a couple of slices of luck after Matt Buckley (73V) and Bailey Goldsack (72V) both got caught up with lapped traffic while leading late in two of the races. He was close enough to take advantage when the cars ahead of him slowed.
 
 Youth Ministock wins were shared between Jesse Whelan (10S), Trent James (56V) and Jacob Buckrell (99B).
 
