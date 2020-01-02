@@ -46,7 +46,7 @@ Meanwhile, Australian Sam Watson (broken nose), Ian Staples (Whanganui) and Rich
 
 Meanwhile, Australian Sam Watson (broken nose), Ian Staples (Whanganui) and Richard Lawrance (Auckland) were taken to Whanganui Hospital after a spectacular crash in the sidecars, but were all recovering well after suffering bumps and bruises.
 
-### Leading standings after the third and final round of the 2019 Suzuki International Series at Whanganui's Cemetery Circuit on Boxing Day:
+##### Leading standings after the third and final round of the 2019 Suzuki International Series at Whanganui's Cemetery Circuit on Boxing Day:
 
 Formula One Superbikes: 1. UK's Richard Cooper 162 points; 2. Whakatane's Damon Rees 157; 3. Whakatane's Mitch Rees 128.
 
