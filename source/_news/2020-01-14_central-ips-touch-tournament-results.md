@@ -1,5 +1,5 @@
 ---
-title: Central IPS Touch Tournament results
+title: Central IPS Touch Tournament results 2019
 feature_image:
   credit: ''
   image: >-
