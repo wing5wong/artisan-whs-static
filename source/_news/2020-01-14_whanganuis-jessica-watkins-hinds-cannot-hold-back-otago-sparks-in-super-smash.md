@@ -7,6 +7,8 @@ feature_image:
   description: >-
     CD Hinds bowler Jess Watkin celebrates her caught-and-bowled scalp of Hayley
     Jansen.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1579044052/News/Jess._chron_13.1.20_snip.jpg
 news_author:
   date: 2020-01-12T23:10:01.104Z
   name: Jared Smith
