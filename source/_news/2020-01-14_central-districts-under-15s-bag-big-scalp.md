@@ -12,6 +12,13 @@ news_author:
   date: 2020-01-09T02:31:22.368Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
+image_gallery:
+  - description: >-
+      The Central Districts girls (white) await Auckland to send another batter
+      in after taking yet another early wicket in the national U15 tournament at
+      Collegiate in Whanganui. Photo / Bevan Conley.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1578969897/News/Central_Districts_team._chron_9.1.20.jpg
 show_in_slider: false
 date: 2020-01-14T02:31:22.385Z
 ---
