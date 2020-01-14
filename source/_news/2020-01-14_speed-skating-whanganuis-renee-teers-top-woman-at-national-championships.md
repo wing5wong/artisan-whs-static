@@ -26,7 +26,7 @@ Spokesman Ken Smith said Wanganui Speed Skating coach Gary Clark could be forgiv
 
 "But in reality, there was plenty for him and his team to be proud of," said Smith.
 
-Renee Teers took her November form in the Rivercity Tour to the national stage, as she dominated a fiercely contested Senior Women's grade.
+**Renee Teers** took her November form in the Rivercity Tour to the national stage, as she dominated a fiercely contested Senior Women's grade.
 
 "She started out with wins in the 200m TT (time trial), 500m, 1000m and Open 15km Elimination at Levels Raceway," said Smith.
 
@@ -44,7 +44,7 @@ For her efforts, Teers received the Jo Bright Memorial Trophy for the outstandin
 
 "To emphasise her dominance, she then won the 42km Marathon the next day from Timaru's Ella Benson and Nevin," said Smith.
 
-Whanganui's Andrew Jones, defending champion in many of the Senior Men's events, had a hard time in this year's championships and was unable to recapture his form from 2019.
+Whanganui's **Andrew Jones**, defending champion in many of the Senior Men's events, had a hard time in this year's championships and was unable to recapture his form from 2019.
 
 "He won the Road 1000m title on day one and was always a contender, but could not quite grab another top place on the podium," said Smith.
 
@@ -64,13 +64,13 @@ Gabby Valentine claimed a string of silver medals behind Parker, while another t
 
 In the Junior Boys events, Whanganui's Chase Morpeth and Drew Brennan were locked in battle with Nelson's Jamie Manson.
 
-"Brennan won the 5km points race on the road, with Manson taking the rest of the outdoor titles," said Smith.
+**"Brennan won the 5km points race on the road, with Manson taking the rest of the outdoor titles," said Smith.**
 
-"Morpeth hit the afterburners on the indoors, winning all his grade events, to tie the overall Junior Boys Championship with Manson."
+**"Morpeth hit the afterburners on the indoors, winning all his grade events, to tie the overall Junior Boys Championship with Manson."**
 
-In the 21km Junior Half Marathon, Manson earned a narrow win from Whanganui's fast finishing Josh Valentine, with Brennan third and Morpeth fourth."
+**In the 21km Junior Half Marathon, Manson earned a narrow win from Whanganui's fast finishing Josh Valentine, with Brennan third and Morpeth fourth."**
 
-Those three Whanganui skaters combined to win gold in the Junior Boys Road Relay.
+**Those three Whanganui skaters combined to win gold in the Junior Boys Road Relay.**
 
 In the Masters Men's grade, Paul Cleeve came out blazing with a win in the 200m TT, but had to concede the remaining gold medals to Nelson's Garth Jamison.
 
