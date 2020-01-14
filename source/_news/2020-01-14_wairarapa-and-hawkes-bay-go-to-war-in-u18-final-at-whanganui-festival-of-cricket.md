@@ -6,6 +6,8 @@ feature_image:
   description: >-
     Charlotte Stent, Whanganui's sole player in the Horowhenua-Kapiti Combined
     team, has her turn at bowling against a then-unbeaten Hawke's Bay yesterday.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1578971142/News/Charlotte_Stent._Chron_6.1.20.jpg
 news_author:
   date: 2020-01-06T02:53:50.865Z
   name: Iain Hyndman
