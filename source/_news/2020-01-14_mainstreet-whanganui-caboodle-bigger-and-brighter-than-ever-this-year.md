@@ -6,7 +6,7 @@ feature_image:
     Victoria's Steampunk Teapot Races will be a feature of the Mainstreet
     Whanganui Caboodle.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1577929698/News/Whishey_Mama_Band.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1578966734/News/Teapot_Races.Chron_2.1.20.jpg
 news_author:
   date: 2020-01-02T01:44:57.864Z
   name: Liz Wylie
