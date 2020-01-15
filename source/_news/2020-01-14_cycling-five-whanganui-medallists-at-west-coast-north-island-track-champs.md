@@ -15,7 +15,7 @@ The Cooks Gardens Veleodrome was another hive of activity on Saturday for the 20
 
 Riders from New Plymouth through down to Wellington converged on Whanganui to compete.
 
-Local riders to pick up medals were **Jack Overweel**, Finnegan Murphy, Millicent Murphy, Kenzey Compton and Quin Vivian.
+**Local riders to pick up medals were Jack Overweel**, Finnegan Murphy, Millicent Murphy, Kenzey Compton and Quin Vivian.
 
 Last year after the WCNI champs, Overweel went on to win Under 15 boys derby race gold at the Vantage Age Group Track Cycling Nationals in Cambridge.
 
