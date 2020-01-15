@@ -26,7 +26,7 @@ Spokesman Ken Smith said Wanganui Speed Skating coach Gary Clark could be forgiv
 
 "But in reality, there was plenty for him and his team to be proud of," said Smith.
 
-**Renee Teers** took her November form in the Rivercity Tour to the national stage, as she dominated a fiercely contested Senior Women's grade.
+**Renee Teers took her November form in the Rivercity Tour to the national stage, as she dominated a fiercely contested Senior Women's grade.**
 
 **"She started out with wins in the 200m TT (time trial), 500m, 1000m and Open 15km Elimination at Levels Raceway," said Smith.**
 
@@ -44,7 +44,7 @@ Teers regrouped and fought back to the lead with a lap remaining, getting the wi
 
 **"To emphasise her dominance, she then won the 42km Marathon the next day** from Timaru's Ella Benson and Nevin," said Smith.
 
-Whanganui's **Andrew Jones**, defending champion in many of the Senior Men's events, had a hard time in this year's championships and was unable to recapture his form from 2019.
+Whanganui's **Andrew Jones** (ex student), defending champion in many of the Senior Men's events, had a hard time in this year's championships and was unable to recapture his form from 2019.
 
 "He won the Road 1000m title on day one and was always a contender, but could not quite grab another top place on the podium," said Smith.
 
@@ -102,4 +102,4 @@ In the Primary Girls, newcomer Eden Wason was on a constant improvement and grab
 
 **Andrew Jones, Renee Teers, Chase Morpeth, Drew Brennan, Josh Valentine**, Tazia Parker, Paul Cleeve and Crystal Denbee.
 
-The team will be coached by Whanganui's **Rebecca Smith** and Timaru's Bill Begg.
+The team will be coached by Whanganui's **Rebecca Smith** (ex student) and Timaru's Bill Begg.
