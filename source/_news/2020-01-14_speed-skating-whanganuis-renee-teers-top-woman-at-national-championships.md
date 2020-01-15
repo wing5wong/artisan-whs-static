@@ -102,4 +102,4 @@ In the Primary Girls, newcomer Eden Wason was on a constant improvement and grab
 
 **Andrew Jones, Renee Teers, Chase Morpeth, Drew Brennan, Josh Valentine**, Tazia Parker, Paul Cleeve and Crystal Denbee.
 
-The team will be coached by Whanganui's Rebecca Smith and Timaru's Bill Begg.
+The team will be coached by Whanganui's **Rebecca Smith** and Timaru's Bill Begg.
