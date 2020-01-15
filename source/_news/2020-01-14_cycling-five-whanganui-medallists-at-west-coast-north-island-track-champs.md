@@ -20,3 +20,16 @@ Riders from New Plymouth through down to Wellington converged on Whanganui to co
 Last year after the WCNI champs, Overweel went on to win Under 15 boys derby race gold at the Vantage Age Group Track Cycling Nationals in Cambridge.
 
 This year's nationals are being held in Invercargill in March.
+
+------------------------------------
+
+WHS student Jack Overweel won 2 gold medals and 2 silver medals in the U17 grade:
+
+🥇 2000m Scratch Race  
+🥇 2000m Individual Pursuit  
+🥈 500m Time Trial  
+🥈 Match Sprint
+
+Fantastic racing Jack!! 👏 👏  
+All the best for the Nationals in March. 👍
+
