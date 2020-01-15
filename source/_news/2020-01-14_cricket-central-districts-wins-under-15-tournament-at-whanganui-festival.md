@@ -25,7 +25,7 @@ The Central Districts side has breezed through the U15 Girls tournament unbeaten
 
 Finishing the round robin as top qualifier with a straight-forward eight wicket win over the other unbeaten team in the Christchurch XI yesterday afternoon, CD repeated the dose for a seven wicket victory in the final, despite their opposition playing much better than the day before.
 
-The team's Whanganui allrounder Charlotte Stent came back into the side after missing yesterday morning's match due to a slight back injury, necessitating a quick trip to the physio.
+**The team's Whanganui allrounder Charlotte Stent** came back into the side after missing yesterday morning's match due to a slight back injury, necessitating a quick trip to the physio.
 
 She did not bowl when returning for the Christchurch game in the afternoon, but the CD attack had matters well in hand as they bowled Christchurch out for 87 in the 27th over of the 30-over game.
 
@@ -33,7 +33,7 @@ After Hawke's Bay's Aniela Apperley (2-3) took out the stumps of the Christchurc
 
 However, Morrow would be stranded as Fairbrother and Wairarapa's Emma McLeod (2-29) cleaned up the tail, while Taranaki's Grace Foreman got the other wicket off a catch by Stent.
 
-Given the chance to open the batting with a small target, Stent seized her opportunity with an anchor innings of 37 from 42 balls, including four boundaries, taking the side through to 60-2 before losing her stumps.
+**Given the chance to open the batting with a small target, Stent seized her opportunity with an anchor innings of 37 from 42 balls, including four boundaries, taking the side through to 60-2 before losing her stumps.**
 
 Fairbrother (20 not out) then carried on with Nelson captain Lottie Fuller to swiftly collect the remaining runs by the 16th over.
 
@@ -47,7 +47,7 @@ However, Manawatu's Gemma Lovewell (2-11) broke the partnership by getting both 
 
 That triggered a collapse through Christchurch's lower order, save for Abby McKissock (14) hitting a couple of boundaries, as Apperley (2-12) continued her great form - getting consecutive clean-bowls to be sitting on a hat-trick, which was survived.
 
-Stent (1-23) was called to bowl the last over, and at one point it looked like she might keep Christchurch from even reaching 130, after bowling Maddie Iro (9) at 127-8.
+**Stent (1-23) was called to bowl the last over**, and at one point it looked like she might keep Christchurch from even reaching 130, after bowling Maddie Iro (9) at 127-8.
 
 However, a wide and a couple of extra runs from a run out chance that ricocheted away from the stumps saw Christchurch reach a defendable 132-8.
 
