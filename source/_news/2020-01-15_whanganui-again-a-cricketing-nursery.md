@@ -6,7 +6,7 @@ feature_image:
     Jessica Watkin has been in white hot form as co-captain for the Central
     Hinds in the Dream 11 Super Smash competition.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1578970225/News/Jess_Watkin._Chron_8.1.20.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1579043504/News/Jess_Watkin._Chron_13.1.20.jpg
 news_author:
   date: 2020-01-02T00:00:14.703Z
   name: Iain Hyndman
