@@ -11,7 +11,7 @@ news_author:
 show_in_slider: true
 date: 2020-01-14T00:55:28.899Z
 ---
-The Cooks Gardens Veleodrome was another hive of activity on Saturday for the 2020 West Coast North Island (WCNI) Track Championships.
+The Cooks Gardens Velodrome was another hive of activity on Saturday for the 2020 West Coast North Island (WCNI) Track Championships.
 
 Riders from New Plymouth through down to Wellington converged on Whanganui to compete.
 
