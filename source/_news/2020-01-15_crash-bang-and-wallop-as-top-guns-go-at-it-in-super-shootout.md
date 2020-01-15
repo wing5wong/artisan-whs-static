@@ -1,5 +1,8 @@
 ---
 title: 'Crash, bang and wallop as top guns go at it in super shootout'
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1574726372/News/Oceanview_speedway_image.jpg
 news_author:
   date: 2019-12-21T00:20:31.893Z
   name: Tony Stuart / Speedway
