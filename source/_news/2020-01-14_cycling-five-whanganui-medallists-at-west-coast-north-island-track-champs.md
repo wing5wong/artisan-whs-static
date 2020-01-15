@@ -8,6 +8,10 @@ news_author:
   date: 2020-01-14T00:55:28.883Z
   name: Jared Smith
   publication: Whanganui Chronicle
+image_gallery:
+  - description: Jack Overweel.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1579067400/News/Jack-Overweel-19-Feb-Club-Scratch-Race-champs.jpg
 show_in_slider: true
 date: 2020-01-14T00:55:28.899Z
 ---
