@@ -98,7 +98,7 @@ Caleb Valentine showed great improvement to win the bronze in most of his races.
 
 In the Primary Girls, newcomer Eden Wason was on a constant improvement and grabbed a bronze in the 1500m on the road.
 
-The following Whanganui skaters were selected for the NZ Oceania Team of 2020:
+##### The following Whanganui skaters were selected for the NZ Oceania Team of 2020:
 
 **Andrew Jones, Renee Teers, Chase Morpeth, Drew Brennan, Josh Valentine**, Tazia Parker, Paul Cleeve and Crystal Denbee.
 
