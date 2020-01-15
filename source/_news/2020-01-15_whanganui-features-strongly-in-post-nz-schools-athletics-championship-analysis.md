@@ -19,7 +19,7 @@ Whanganui Collegiate with 13 medals gained the most (5 gold, 7 silver and 1 bron
 
 In looking at top eight performances, where I have as with IAAF World Championships (now World Athletics) scored eight points for first and one point for eighth place (excluding para events which I have scored separately).
 
-Again Whanganui features strongly with Collegiate heading the table with near neighbours Whanganui High School in second place 54 points behind in a table that includes 165 schools.
+Again Whanganui features strongly with Collegiate heading the table with near neighbours **Whanganui High School in second place 54 points behind in a table that includes 165 schools.**
 
 An observer at Newtown Stadium asked why Whanganui has produced so many hurdlers over many years. My simple reply was because Whanganui Athletic Club takes the trouble to put on hurdle races regularly and does not balk at the work required setting up such events.
 
