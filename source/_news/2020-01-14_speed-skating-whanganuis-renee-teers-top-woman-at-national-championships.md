@@ -28,21 +28,21 @@ Spokesman Ken Smith said Wanganui Speed Skating coach Gary Clark could be forgiv
 
 **Renee Teers** took her November form in the Rivercity Tour to the national stage, as she dominated a fiercely contested Senior Women's grade.
 
-"She started out with wins in the 200m TT (time trial), 500m, 1000m and Open 15km Elimination at Levels Raceway," said Smith.
+**"She started out with wins in the 200m TT (time trial), 500m, 1000m and Open 15km Elimination at Levels Raceway," said Smith.**
 
-Teers also claimed bronze in the 10km points race behind Timaru's Charlotte Clarke and Charli Nevin.
+**Teers also claimed bronze in the 10km points race** behind Timaru's Charlotte Clarke and Charli Nevin.
 
-Moving to the indoor races at the Southern Trust Events Centre, Teers continued her good form with wins in the 300m TT and the 800m, along with a silver after finishing behind Clarke in the 1500m.
+**Moving to the indoor races at the Southern Trust Events Centre, Teers continued her good form with wins in the 300m TT and the 800m, along with a silver after finishing behind Clarke in the 1500m.**
 
-The highlight of her championships was the win in the headline Open 5km event, as Teers faced down the South Canterbury horde of Clarke, Nevin and Roshean O'Conner, who hounded her throughout the race.
+**The highlight of her championships was the win in the headline Open 5km event, as Teers faced down the South Canterbury horde of Clarke, Nevin and Roshean O'Conner, who hounded her throughout the race.**
 
 "Teers had assistance from Wanganui teammate Melissa White and Valley Inline's Georgia Hurley early in the race, but as the laps wound down Teers found herself alone amongst the Timaru women, who pushed her back to third with three laps remaining," said Smith.
 
 Teers regrouped and fought back to the lead with a lap remaining, getting the win ahead of Clarke and Nevin.
 
-For her efforts, Teers received the Jo Bright Memorial Trophy for the outstanding performance by a female skater at the championships.
+**For her efforts, Teers received the Jo Bright Memorial Trophy for the outstanding performance by a female skater at the championships.**
 
-"To emphasise her dominance, she then won the 42km Marathon the next day from Timaru's Ella Benson and Nevin," said Smith.
+**"To emphasise her dominance, she then won the 42km Marathon the next day** from Timaru's Ella Benson and Nevin," said Smith.
 
 Whanganui's **Andrew Jones**, defending champion in many of the Senior Men's events, had a hard time in this year's championships and was unable to recapture his form from 2019.
 
@@ -64,7 +64,7 @@ Gabby Valentine claimed a string of silver medals behind Parker, while another t
 
 In the Junior Boys events, Whanganui's Chase Morpeth and Drew Brennan were locked in battle with Nelson's Jamie Manson.
 
-**"Brennan won the 5km points race on the road, with Manson taking the rest of the outdoor titles," said Smith.**
+**"Brennan won the 5km points race on the road**, with Manson taking the rest of the outdoor titles," said Smith.
 
 **"Morpeth hit the afterburners on the indoors, winning all his grade events, to tie the overall Junior Boys Championship with Manson."**
 
