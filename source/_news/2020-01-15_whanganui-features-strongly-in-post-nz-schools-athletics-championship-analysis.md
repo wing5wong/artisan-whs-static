@@ -1,5 +1,8 @@
 ---
 title: Whanganui features strongly in post NZ Schools athletics championship analysis
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1579052073/News/NZSS_Athletics_comp_image.gif
 news_author:
   date: 2019-12-19T01:00:38.839Z
   name: Alex McNab / Athletic Insight
