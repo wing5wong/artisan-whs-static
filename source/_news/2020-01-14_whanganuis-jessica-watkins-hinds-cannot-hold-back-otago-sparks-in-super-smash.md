@@ -13,10 +13,7 @@ news_author:
   date: 2020-01-12T23:10:01.104Z
   name: Jared Smith
   publication: Whanganui Chronicle
-image_gallery:
-  - description: Jess Watkin in action.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1579043504/News/Jess_Watkin._Chron_13.1.20.jpg
+image_gallery: []
 show_in_slider: false
 date: 2020-01-14T23:10:01.133Z
 ---
