@@ -29,3 +29,11 @@ Teams from Hawkes Bay, Manawatu, Taranaki and a combined Horowhenua-Kapiti/Whang
 Raj, who moved from Cricket Wanganui late last year to take up a position with Cricket Manawatu, has maintained his role as Festival of Cricket organiser for now, has always rated the U15 tournament as the main event.
 
 "This is a national competition featuring representative sides from each of the country's six cricketing zones. We have teams from Northern Districts, Auckland, Central Districts, Wellington, Christchurch and Otago with Auckland the defending championships," Raj said.
+
+"This tournament has been a nursery for future White Ferns and first class players and we traditionally have some of this country's best female players arrive through the week at some stage to mentor the younger ones.
+
+"The U15 tournament has produced quite a few White Ferns over the years including Hannah Rowe, Amelia Kerr, Lauren Down and our very own Jess Watkin. **We are lucky to have Jess back this year as coach of the Central Districts side."**
+
+**Watkin has been in white hot form in recent times as co-captain for the Central Hinds in the Dream 11 Super Smash competition. Just last week Watkin led by example and help the Hinds take the scalp of the previous unbeaten Auckland Hearts.**
+
+"I have been working closely with the Hinds of late as part of my role with Cricket Manawatu and they have been in great form, especially Jess," Raj said.
