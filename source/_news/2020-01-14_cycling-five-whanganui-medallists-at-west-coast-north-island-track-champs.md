@@ -29,10 +29,10 @@ This year's nationals are being held in Invercargill in March.
 
 WHS student Jack Overweel won 4 medals in the U17 grade - 2 golds and 2 silvers:
 
-🥇 2000m Scratch Race  
-🥇 2000m Individual Pursuit  
-🥈 500m Time Trial  
-🥈 Match Sprint
+1st  2000m Scratch Race  
+1st  2000m Individual Pursuit  
+2nd  500m Time Trial  
+2nd  Match Sprint
 
 Fantastic racing Jack!! 👏 👏  
 All the best for the Nationals in March. 👍
