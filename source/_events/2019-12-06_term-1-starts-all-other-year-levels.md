@@ -1,5 +1,5 @@
 ---
-title: Term 1 2020 begins - All other year levels
+title: Term 1 2020 begins - Whole School in attendance
 date: 2020-01-28T01:26:03.760Z
 ---
 ##### Tuesday 28 January 2020  
