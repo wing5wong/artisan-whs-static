@@ -20,7 +20,7 @@ Prefects to arrive at 8.00am.
 
 ##### Tuesday 28 January 2020
 
-ALL year levels at 8.45am.
+ALL year levels starting at 8.45am.
 
 **Year 9 and Year 13** go to form rooms;  
 **Years 10, 11, 12** go to House venues which are:  
