@@ -54,7 +54,7 @@ Among them are the Whanganui quartet of **Gilmore**, Tarbon Walker, Luca Durning
 
 "As with the previous years, we have uncovered some fresh new talent, just one of the stand-outs being Nelson's Tyrone Kuipers.
 
-"Of the previous year's riders who showed up again this season too, Jesse Stroud, **Caleb Gilmore,** Hamish Simpson, **Lucy Dowman,** Shane Miller, Luca Durning and **Cameron Goldfinch** all showed excellent progress.
+"Of the previous year's riders who showed up again this season too, Jesse Stroud, **Caleb Gilmore,** Hamish Simpson, **Lucy Dowman,** Shane Miller, Luca Durning and **Cameron Goldfinch all showed excellent progress.**
 
 "The decision to bring in the experienced riders paid off, as I think all the young riders learned techniques, tips and line selections from them.
 
