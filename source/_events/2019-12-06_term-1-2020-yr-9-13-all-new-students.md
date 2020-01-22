@@ -4,7 +4,7 @@ date: 2020-01-27T01:22:59.214Z
 ---
 ##### Monday 27 January 2020  
 
-Year 9 and Year 13 students, and new students from all other year levels.
+**Year 9 and Year 13 students, and new students from all other year levels.**
 
 **A powhiri for new students and staff will be held at 9.00am sharp outside the School Hall  **. Please assemble by 8.45am.   
 Parents/caregivers are very welcome to attend.  
