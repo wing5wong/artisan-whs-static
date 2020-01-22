@@ -12,7 +12,8 @@ news_author:
   name: Jared Smith
   publication: Whanganui Chronicle
 image_gallery:
-  - image: >-
+  - description: James Musa.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1579663173/News/James_Musa_Chron_21.1.20.picture_no._2.jpg
 show_in_slider: true
 date: 2020-01-22T03:18:59.627Z
