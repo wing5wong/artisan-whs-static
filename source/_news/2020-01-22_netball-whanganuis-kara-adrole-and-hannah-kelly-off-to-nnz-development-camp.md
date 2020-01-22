@@ -5,7 +5,9 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1579664686/News/Kara_Adrole._Chron_17.1.20.jpg
 news_author:
-  date: 2020-01-22T03:40:57.057Z
+  date: 2020-01-17T03:40:57.057Z
+  name: Jared Smith
+  publication: Whanganui Chronicle
 image_gallery:
   - description: Former WHS student Hannah Kelly.
     image: >-
