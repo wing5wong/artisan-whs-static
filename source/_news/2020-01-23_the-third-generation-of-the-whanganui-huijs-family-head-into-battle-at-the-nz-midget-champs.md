@@ -8,7 +8,7 @@ feature_image:
     the map in his 74v machine at the NZ Midget Championships in Christchurch
     this weekend.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1579822031/News/Ben-Huijs.-Chron-23.gif
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1579746045/News/Ben_Huijs._Chron_23.1.20.jpg
 news_author:
   date: 2020-01-23T02:17:49.475Z
   name: Iain Hyndman
