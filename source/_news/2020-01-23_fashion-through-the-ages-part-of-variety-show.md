@@ -6,7 +6,7 @@ feature_image:
     Repertory's lovely models: Present/former WHS students Grace Trillo, Tegan
     Stoneman-Wills and Freyja Wrigglesworth; and Meynell Smith. 
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1579815397/News/Fashion_Show.Grace.Tega_Freyja.Midweek_15.1.20.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1579821953/News/Fashion-Show.Grace.Tega_-Freyja.Midweek-15.gif
 news_author:
   date: 2020-01-14T21:37:01.474Z
   name: Rep Talk with Nadine Rayner
