@@ -9,6 +9,8 @@ feature_image:
 news_author:
   date: 2020-01-12T01:20:19.461Z
 image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1579745202/News/WU_Warriors_sign.png
   - description: Trazarn Ryland Annabell in action.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1579744964/News/Trazarn_Ryland_Annabell.jpg
