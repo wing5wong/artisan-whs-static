@@ -30,3 +30,7 @@ Moana - Te Ihi Gymnasium
 Whenua - Hall  
 
 Normal Periods 3, 4 and 5 classes will then continue for the rest of the day.
+
+#### Wednesday 29 January 2020
+
+Normal timetabled school day for ALL year levels on Wednesday 29 January; Thursday 30 January and Friday 31 January.
