@@ -20,9 +20,9 @@ image_gallery:
 show_in_slider: false
 date: 2020-01-23T01:20:19.513Z
 ---
-Max Holloway takes the checkered flag for the Warriors at the first race of the 2020 season!
+**Max Holloway takes the checkered flag for the Warriors in the first race of the 2020 season!**
 
-Fantastic start to Wanganui Warriors Superstock Race Team at the Robertson Holden International Speedway in Palmerston North afew weekends ago!
+Fantastic start to Wanganui Warriors Superstock Race Team at the Robertson Holden International Speedway in Palmerston North afew weekends ago winning against the Palmerston North Panthers!
 
 Awesome racing Max. Bring on the teams champs!
 
