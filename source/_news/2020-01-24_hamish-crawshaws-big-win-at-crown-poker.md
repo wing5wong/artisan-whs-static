@@ -1,7 +1,7 @@
 ---
 title: Hamish Crawshaw's big win at Crown Poker
 feature_image:
-  credit: AussieMillions / Crown Poker Facebook
+  credit: AussieMillions.com / Crown Poker Facebook
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1579834790/News/Hamish_Crawshaw_Crown_Poker_win_OZ.jpg
 news_author:
