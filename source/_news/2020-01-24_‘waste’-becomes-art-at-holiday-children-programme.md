@@ -1,7 +1,9 @@
 ---
 title: ‘Waste’ becomes art at Holiday children programme
 feature_image:
-  description: 'Esther with Jack Bullock (13), Eddy Reid (13) and Ethan Bullock (12).'
+  description: >-
+    Esther with WHS students Jack Bullock (13) and Eddy Reid (13); and Ethan
+    Bullock (12).
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1579824721/News/Jack_Bullock_Eddy_Reid._RCP_16.1.20.jpg
 news_author:
