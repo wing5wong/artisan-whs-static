@@ -1,6 +1,6 @@
 ---
 title: Mrs L. Smith
-position: Teacher of French/Chinese
+position: ''
 departments:
   - Languages
 positions:
