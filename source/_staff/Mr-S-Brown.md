@@ -1,11 +1,11 @@
 ---
 title: Mr S. Brown
-position: on leave
+position: (on leave)
 departments:
   - Physical Education and Health
 positions:
   - department: Physical Education and Health
-    title: on leave
+    title: (on leave)
 phone: ''
 ---
 
