@@ -1,6 +1,6 @@
 ---
 title: Mr S. Brown
-position: (on leave)
+position: ''
 departments:
   - Physical Education and Health
 positions:
