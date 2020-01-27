@@ -4,7 +4,6 @@ position: 'Dean of International Students, Chinese'
 departments:
   - Languages
   - International
-  - Mathematics
   - Deans
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1568708771/staff/IMG_9570.jpg
