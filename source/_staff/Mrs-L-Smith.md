@@ -1,6 +1,6 @@
 ---
 title: Mrs L. Smith
-position: ''
+position: HOF Languages
 departments:
   - Languages
 positions:
