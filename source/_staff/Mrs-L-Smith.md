@@ -1,6 +1,6 @@
 ---
 title: Mrs L. Smith
-position: HOF Languages, French
+position: 'HOF Languages, Teacher of French/Chinese'
 departments:
   - Languages
 positions:
@@ -9,3 +9,4 @@ positions:
   - department: Languages
     title: French
 ---
+
