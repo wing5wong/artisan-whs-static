@@ -7,5 +7,7 @@ departments:
 positions:
   - department: Deans
     title: Dean of Māori Students
+  - department: Physical Education and Health
+    title: (on leave)
 ---
 
