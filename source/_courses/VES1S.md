@@ -20,6 +20,6 @@ standards:
   - '29310'
 notes: 'Leads to: Vocational Studies 2 and Vocational Studies 3'
 credits: 15-19
-course_fees: $30
+course_fees: ''
 ---
 
