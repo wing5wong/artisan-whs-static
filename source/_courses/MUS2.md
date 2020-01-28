@@ -25,8 +25,6 @@ standards:
   - '91277'
   - '91278'
 credits: 18-24
-course_fees: >-
-  $15. Additional $60 per year if learning from an instrument from a tutor at
-  Whanganui High School.
+course_fees: ''
 ---
 To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context at an advancing level. Performance, Composition, Aural Skills and Musical Knowledge.
