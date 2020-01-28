@@ -23,6 +23,6 @@ standards:
   - '91265'
   - '91268'
 credits: '19'
-course_fees: $5
+course_fees: ''
 ---
 To provide a Mathematics programme that will develop in students, the skills, concepts, understandings, and attitudes, which will enable them to cope confidently with the mathematics of everyday life. This course provides a continuing Mathematics programme appropriate for students who undertook a Level 1 Mathematics course. The following topics are studies: Number, Measurement, Space and Shape, Geometry, Graphs, Algebra, Statistics and Probability. This course is completely internally assessed.
