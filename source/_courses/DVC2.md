@@ -21,6 +21,6 @@ standards:
   - '91342'
   - '91343'
 credits: '25'
-course_fees: $25
+course_fees: ''
 ---
 The course aims to develop student's Design and Visual Communication skills. The course is structured around two Design Briefs: Spatial Design and Product Design. Students will develop their own graphics practice through sketching, instrumental drawing, modelling, use of CAD and 3D printing.
