@@ -16,7 +16,7 @@ standards:
   - '91611'
   - '91621'
 credits: '22'
-course_fees: $60
+course_fees: ''
 ue_approved: true
 ---
 To extend students creative and technical skills in many aspects of fashion design. The emphasis is to extend them from Level 2 to become both technically and creatively independent thinkers. Assessment: Practical projects, workbooks, and research projects.
