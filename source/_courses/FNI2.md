@@ -21,6 +21,6 @@ standards:
   - '13283'
   - '13276'
 credits: '18'
-course_fees: $75
+course_fees: ''
 ---
 To provide an opportunity for students to extend their knowledge and expertise in commercial catering in a simulated environment. Students will be encouraged to operate from a commercial perspective. Students will have the opportunity to complete industry standard courses on Food Hygiene as a pre-training qualification.
