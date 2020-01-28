@@ -22,6 +22,6 @@ standards:
   - '91265'
   - '91268'
 credits: 'Level 1: 3 Credits, Level 2: 15'
-course_fees: $10
+course_fees: ''
 ---
 To provide a continuing Mathematics programme to students for whom a formal academic course is not suitable. This course contains Level 1 and 2 standards and is completely internally assessed. Topics covered; Trigonometry, Statistics, Networks, Coordinate Geometry.
