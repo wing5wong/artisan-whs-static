@@ -19,6 +19,6 @@ standards:
   - '91209'
   - '91211'
 credits: '22'
-course_fees: $10 for portfolio
+course_fees: ''
 ---
 Students will further develop their skills in a variety of dance forms. Students will perform in a repertoire of dances and develop choreography with the intention of performing to an audience.
