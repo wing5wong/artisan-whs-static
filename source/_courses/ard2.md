@@ -19,6 +19,6 @@ standards:
   - '91320'
   - '91325'
 credits: 16-24
-course_fees: $50
+course_fees: ''
 ---
 Students will use drawing methods to develop a portfolio of type and image based works which demonstrates their knowledge of drawing methods and design conventions. They will develop an understanding of design processes and practices, from historical and contemporary perspectives, using hand-made and digital drawing processes to produce the works. The students will generate, develop, clarify and regenerate ideas for a specific design brief and produce a systematic body of work.
