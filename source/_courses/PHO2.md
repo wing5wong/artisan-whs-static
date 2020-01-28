@@ -20,8 +20,6 @@ standards:
   - '91317'
   - '91322'
 credits: '20'
-course_fees: >-
-  Approximately $80 throughout year. There will be limited places available in
-  this course.
+course_fees: ''
 ---
 Students will develop visual communication skills through the use of the photographic medium. The production of images is the focus of this course. Students will use Digital cameras and associated Photographic programmes in the production and processing of digital photographs to a quality standard. Students are assessed through practical and written assessments.
