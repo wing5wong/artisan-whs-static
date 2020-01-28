@@ -22,6 +22,6 @@ standards:
   - '24360'
   - '25921'
 credits: '32'
-course_fees: $80
+course_fees: ''
 ---
 The purpose of this course is to provide students the opportunity to gain credits towards a National Certificate in Building, Construction and Allied Trades Skills Level 2. The course is assessed by Unit Standards which require both practical and theory assessment. Students will undertake set project work and participate in a class building project. This course is most suited to those students who genuinely intend to pursue a career in construction.
