@@ -15,7 +15,7 @@ leads_to: ''
 standards:
   - '167'
 credits: '8'
-course_fees: $70
+course_fees: ''
 invitation_only: true
 ---
 
