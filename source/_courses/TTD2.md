@@ -19,6 +19,6 @@ standards:
   - '91356'
   - '91357'
 credits: '25'
-course_fees: $60
+course_fees: ''
 ---
 The course is intended to provide students with the opportunity to explore many areas of fashion design. The emphasis is to develop from where they are now and grow from there, both technically and creatively. Assessment: Portfolio work and constructed garments.
