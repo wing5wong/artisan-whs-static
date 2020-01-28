@@ -19,6 +19,6 @@ standards:
   - '91063'
   - '91096'
 credits: '25'
-course_fees: $60
+course_fees: ''
 ---
 To develop students' understanding of technology and provide the opportunity for them to develop their own technological practice within a structured practical environment. The course will focus on increasing the student's technological capability, knowledge and their understanding of how technology interacts with society. The course is challenging and requires creative and motivated thinkers.
