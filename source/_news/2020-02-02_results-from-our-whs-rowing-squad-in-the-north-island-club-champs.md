@@ -13,11 +13,11 @@ date: 2020-02-02T21:28:08.979Z
 ---
 Our WHS Rowing Squad headed to Lake Karapiro in the weekend representing Aramoho Whanganui Rowing Club for the North Island Club Champs. For our Novice girls this was their first big regatta.  
 
-Well done to all our crews that went and had some amazing results and podium finishes.💚💛
+**Well done to all our crews that went and had some amazing results and podium finishes.** 💚💛
 
-U16 coxed quad girls - Bronze Medal - Georgina Ross, Messina Sua, Perris Adam, Nikita McCarten, Sarah Thomas (cox)🥉
+**U16 coxed quad girls - Bronze Medal - Georgina Ross, Messina Sua, Perris Adam, Nikita McCarten, Sarah Thomas (cox).** 🥉
 
-Boys U17 coxed quad - Bronze Medal - Jordan Manville, James Clear, John Turner, Joseph Barritt, Campbell Monk (cox)🥉
+**Boys U17 coxed quad - Bronze Medal - Jordan Manville, James Clear, John Turner, Joseph Barritt, Campbell Monk (cox).** 🥉
 
 U16 double sculls girls - 4th in A Final - Georgina & Messina
 
