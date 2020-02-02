@@ -4,9 +4,8 @@ feature_image:
   credit: Light and Motion Photography
   description: >-
     Luke Watts in the red and yellow AWRC singlet and single scull coach and
-    quad teammate Guy Thomson (ex WHS student) hold the North Island Club
-    Championship senior men's single scull trophy aloft at Lake Karapiro at the
-    weekend.
+    quad teammate Guy Thomson (ex WHS student) hold the North Island Club Champ
+    senior men's single scull trophy aloft at Lake Karapiro.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1580679687/News/guy_thomson_chron_30.1.20.photo.Ligh_and_Motion_Photography.jpg
 news_author:
