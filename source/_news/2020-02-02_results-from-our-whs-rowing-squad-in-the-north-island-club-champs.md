@@ -1,6 +1,7 @@
 ---
 title: Results from our WHS Rowing Squad in the North Island Club Champs
 feature_image:
+  description: 'Novice 4X: Victoria, Lana, Hannah, Portia and Lillie.'
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1580679068/News/Photo_MUL_was_given_for_sports_facebook.jpg
 news_author:
@@ -10,7 +11,8 @@ news_author:
 show_in_slider: true
 date: 2020-02-02T21:28:08.979Z
 ---
-Our WHS Rowing Squad headed to Lake Karapiro in the weekend representing Aramoho Whanganui Rowing Club for the North Island Club Champs. For our Novice girls this was their first big regatta.\
+Our WHS Rowing Squad headed to Lake Karapiro in the weekend representing Aramoho Whanganui Rowing Club for the North Island Club Champs. For our Novice girls this was their first big regatta.  
+
 Well done to all our crews that went and had some amazing results and podium finishes.💚💛
 
 U16 coxed quad girls - Bronze Medal - Georgina Ross, Messina Sua, Perris Adam, Nikita McCarten, Sarah Thomas (cox)🥉
