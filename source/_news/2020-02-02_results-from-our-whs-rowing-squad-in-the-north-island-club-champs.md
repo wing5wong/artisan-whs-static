@@ -1,7 +1,10 @@
 ---
 title: Results from our WHS Rowing Squad in the North Island Club Champs
 feature_image:
-  description: 'Novice 4X: Victoria, Lana, Hannah, Portia and Lillie.'
+  credit: Conrad Blind / Picture Show.
+  description: >-
+    Novice 4X: Victoria, Lana, Hannah, Portia and Lillie: 2nd in Heat; 3rd in
+    Semi and 7th in A Final.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1580679068/News/Photo_MUL_was_given_for_sports_facebook.jpg
 news_author:
