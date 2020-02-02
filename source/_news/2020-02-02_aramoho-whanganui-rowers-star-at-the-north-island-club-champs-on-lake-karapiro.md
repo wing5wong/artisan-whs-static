@@ -10,6 +10,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1580679687/News/guy_thomson_chron_30.1.20.photo.Ligh_and_Motion_Photography.jpg
 news_author:
   date: 2020-01-29T21:33:29.646Z
+  name: Iain Hyndman
+  publication: Whanganui Chronicle
 image_gallery:
   - description: >-
       The AWRC senior men coxless quad winners Jonty Thompson, left), Guy
@@ -39,7 +41,7 @@ In the double, Watts and Monaghan finished fourth in their heat before stepping 
 
 **Fellow AWRC competitors Georgina Ross, Messina Su'a, Perris Ross, Nikita McCarten and Sarah Thomas (cox) finished third in their U16 girls coxed quad A Final, while Victoria Soutar, Lana O'Connor, Hannah Palmer, Portia Easterbrooke and coxswain Lillie Taylor won their novice women coxed quad B Final, while Mikayla Manville** and Kathryn Fleming **combined to finish second in their U18 girls double scull B final.**
 
-**James Clear and Jordan Manville won the boys under-17 double sculls B final, while Manville also won the men's intermediate single sculls B final. Clear and Manville also combined with John Turner, Joseph Barritt an cox Campbell Monk to place third in the under-17 coxed quad A final.**
+**James Clear and Jordan Manville won the boys under-17 double sculls B final, while Manville also won the men's intermediate single sculls B final. Clear and Manville also combined with John Turner, Joseph Barritt and cox Campbell Monk to place third in the under-17 coxed quad A final.**
 
 Best of the Whanganui Collegiate Club rowers was the girls under-15 coxed four of Samantha Hayes, Gretel Murphy, Emily McKinlay, Annabel Symes and cox Bridget Jones Long who ran second in their A final, while Phoebe Collier and Charlotte McKinlay paired up to finish third in the girls U18 double sculls A final.
 
