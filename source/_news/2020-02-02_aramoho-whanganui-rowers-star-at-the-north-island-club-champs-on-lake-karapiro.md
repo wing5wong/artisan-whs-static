@@ -4,8 +4,9 @@ feature_image:
   credit: Light and Motion Photography
   description: >-
     Luke Watts in the red and yellow AWRC singlet and single scull coach and
-    quad teammate Guy Thomson hold the North Island Club Championship senior
-    men's single scull trophy aloft at Lake Karapiro at the weekend.
+    quad teammate Guy Thomson (ex WHS student) hold the North Island Club
+    Championship senior men's single scull trophy aloft at Lake Karapiro at the
+    weekend.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1580679687/News/guy_thomson_chron_30.1.20.photo.Ligh_and_Motion_Photography.jpg
 news_author:
@@ -14,18 +15,18 @@ news_author:
   publication: Whanganui Chronicle
 image_gallery:
   - description: >-
-      The AWRC senior men coxless quad winners Jonty Thompson, left), Guy
-      Thomson, Tom Monaghan and Luke Watts kneel centre stage on the North
-      Island Club Championship podium at Lake Karapiro at the weekend.  Photo /
-      Light and Motion Photography.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1580679566/News/Ex_Jonty_guy_Thomson._Chron_30.1.20._Light_and_Motion_Photography.jpg
-  - description: >-
       AWRC girls Victoria Soutar, left, Lana O'Connor, Hannah Palmer, Portia
       Easterbrooke and coxswain Lillie Taylor (obscured) won their novice women
       coxed quad B Final.  Photo / Conrad Blind - Picture Show.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1580679068/News/Photo_MUL_was_given_for_sports_facebook.jpg
+  - description: >-
+      The AWRC senior men coxless quad winners Jonty Thomson, (left), Guy
+      Thomson (both ex WHS students), Tom Monaghan and Luke Watts kneel centre
+      stage on the North Island Club Champ podium at Lake Karapiro.  Photo /
+      Light and Motion Photography.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1580679566/News/Ex_Jonty_guy_Thomson._Chron_30.1.20._Light_and_Motion_Photography.jpg
 show_in_slider: false
 date: 2020-02-02T21:33:29.665Z
 ---
