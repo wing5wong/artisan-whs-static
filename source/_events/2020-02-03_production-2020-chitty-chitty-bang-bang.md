@@ -1,5 +1,5 @@
 ---
-title: 'Production 2020: Chitty Chitty Bang Bang'
+title: 'Production 2020: Chitty Chitty Bang Bang Information Evening'
 date: 2020-02-04T19:37:44.627Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1580760092/Events/84350244_858307931258213_4845841897329000448_n.jpg
