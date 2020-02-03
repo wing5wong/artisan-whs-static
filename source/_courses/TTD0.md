@@ -10,7 +10,6 @@ course_duration: Half Year
 course_level: Year 10
 leads_to: ''
 credits: ''
-course_fees: 
 ---
 **Purpose:**
 
@@ -22,4 +21,4 @@ Focusing on fabric and design, this course explores creative and innovative ways
 
 **Assessment:**
 
-Bookwork and constructed (sewen) garments.
+Bookwork and constructed (sewn) garments.
