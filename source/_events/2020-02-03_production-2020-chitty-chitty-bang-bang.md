@@ -1,5 +1,5 @@
 ---
-title: 'Production 2020: CHITTY CHITTY BANG BANG'
+title: 'Production 2020: Chitty Chitty Bang Bang'
 date: 2020-02-04T19:37:44.627Z
 ---
 There will be an important INFORMATION MEETING for our 2020 Production of Chitty Chitty Bang Bang 1st break this Wednesday, 5 February in the School Hall.  
