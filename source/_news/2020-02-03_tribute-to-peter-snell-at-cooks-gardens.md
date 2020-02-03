@@ -18,7 +18,7 @@ image_gallery:
   - description: >-
       2019 WHS Head of Sport, Travis Bayler, Nat Kirk, 2020 Head of Sport Jakob
       Moorhouse, Renee Teers and Rod Dixon at the tribute walk for Sir Peter
-      Snell.
+      Snell. Photo / Tanysha-Rochelle Jones.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1580695667/News/Peter_Snell_tribute_walk.Chron_25.1.20.jpg
 show_in_slider: false
