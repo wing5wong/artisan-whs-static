@@ -7,6 +7,6 @@ Time: 8am - 3pm
 
 Please use the following bitly to sign up to our Athletic Champs which are on Thursday 20 February.  
 
-bit.ly/whsathletics2020 
+http://bit.ly/whsathletics2020 
 
 Entries close Friday 7 February. 
