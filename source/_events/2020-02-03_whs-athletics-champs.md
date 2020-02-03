@@ -9,4 +9,4 @@ Please use the following bitly to sign up to our Athletic Champs which are on Th
 
 http://bit.ly/whsathletics2020 
 
-Entries close Friday 7 February. 
+**Entries close Friday 7 February.** 
