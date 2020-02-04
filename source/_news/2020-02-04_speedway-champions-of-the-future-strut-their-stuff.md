@@ -18,7 +18,7 @@ image_gallery:
       month.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1580776560/News/Max_Holloway_Chron_25.1.20.jpg
-show_in_slider: false
+show_in_slider: true
 date: 2020-02-04T00:31:54.374Z
 ---
 With the Elite Mechanical New Zealand Superstock Championship out of the way, it's the turn of the champions of the future at Fast Lane Spares Oceanview Family Speedway tomorrow night.
