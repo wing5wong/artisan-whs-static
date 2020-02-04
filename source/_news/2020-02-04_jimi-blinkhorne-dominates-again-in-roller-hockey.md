@@ -23,7 +23,7 @@ date: 2020-02-04T00:18:14.958Z
 ---
 Whanganui roller hockey sensation Jimi Blinkhorne continues to dominate on both sides of the Tasman after outstanding performances in two grades at the annual Australia Day Cup tournament in Melbourne over the weekend.
 
-Blinkhorne again starred in the gold medal-winning Mordialloc Roller Hockey Club under-20 side and was named the tournament's Most Valuable Player (MVP) for the third year running. Blinkhorne also played for the Whanganui senior men's side that debuted at the tournament this year. Whanganui finished seventh.
+**Blinkhorne again starred in the gold medal-winning Mordialloc Roller Hockey Club under-20 side and was named the tournament's Most Valuable Player (MVP) for the third year running. Blinkhorne also played for the Whanganui senior men's side that debuted at the tournament this year. Whanganui finished seventh.**
 
 The Australia Day Cup tournament is a nationwide club championship and this year was opened up to include international club sides. Teams from New Zealand (Whanganui and Papatoetoe) and Japan entered this year.
 
@@ -41,7 +41,8 @@ He will have the chance of winning more accolades and awards as part of the New 
 
 Fitness, who captained the Whanganui side in Melbourne at the weekend, took sons Mika Groves, 12, and Elliott Fitness, 6, to compete in the Australia Day Cup.
 
-Mika Groves played for the Lilydale under-14 team and the gold medal-winning Melbourne under-14 club side, while Elliott Fitness, one of the tournament's youngest players, was in the gold medal winning under-11 Lilydale team.
+Mika Groves played for the Lilydale under-14 team and the gold medal-winning Melbourne under-14 club side, while Elliott Fitness, one of the tournament's youngest players, was in the gold medal winning under-11 Lilydale team.  
+
 Elliott's team won gold with five straight wins, while Mika won gold with four wins and one loss in the under-14 for Melbourne. The final game not a single goal was scored against him as goal keeper.
 
 
