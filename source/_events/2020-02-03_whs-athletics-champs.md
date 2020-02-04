@@ -2,11 +2,16 @@
 title: WHS Athletics Champs
 date: 2020-02-19T19:29:11.650Z
 ---
-Venue:  Cooks Gardens  
-Time: 8am - 3pm  
+This years school Athletics day is on Thursday 20 February at Cooks Gardens.  
 
-Please use the following bitly to sign up to our Athletic Champs which are on Thursday 20 February.  
+Track and Field sign ups are on the following bitly:
 
-http://bit.ly/whsathletics2020 
+http://bit.ly/whsathletics2020  
 
-**Entries close Friday 7 February.** 
+Fun activity sign ups will happen on the day at Cooks Gardens.  
+House points are awarded to ALL students who sign up for track, field and fun activities.  
+Dress up in your house colours and take part in a fun filled day at Cooks!
+
+**Entries close on Friday 7 February.**  
+
+See Mrs Murphy or Miss Morgan in Te Wehi Gym Office with any queries.
