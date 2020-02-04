@@ -2,11 +2,15 @@
 title: WHS Swimming Champs
 date: 2020-02-13T19:26:35.185Z
 ---
-Venue: Splash Centre  
-Time: 10.30am - 2pm
+This years Swim Champs are on Friday 14 February at The Splash Centre, 10.30-2pm.
 
-Please use the following bitly to sign up to our Swimming Champs which are on Friday 14 February.  
+Sign Ups are on the following bitly:
 
 http://bit.ly/whsswim2020
 
-**Entries close Friday 7 February.**
+A Grade - Competitive  
+B Grade - Non Competitive
+
+**Entries close Friday 7 February.**  
+
+See Mrs Murphy or Miss Morgan in Te Wehi Gym Office with any queries.
