@@ -8,4 +8,8 @@ Please use the following bitly to sign up to our sports on offer for this term:
 
 http://bit.ly/whssummersports2020
 
-**Entries close Friday 7 February.**
+Sports available are: Athletics/Sports Conditioning, Cricket, Fit Club, Girls 7's Rugby, Lifesaving, Mixed Martial Arts, Softball, Tennis and Volleyball.
+
+**Entries close Friday 7 February.**  
+
+See Mrs Murphy or Miss Morgan in Te Wehi Gym Office if need help.
