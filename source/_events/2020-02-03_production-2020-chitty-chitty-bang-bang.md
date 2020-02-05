@@ -18,4 +18,4 @@ There will also be an opportunity to come and learn the audition dance on Friday
 
 Watch this space and the Performing Arts Facebook page for the dance and music videos which will be made available this week.  
 
-For an extra questions, talk to the Performing Arts teachers.
+For any extra questions, talk to the Performing Arts teachers.
