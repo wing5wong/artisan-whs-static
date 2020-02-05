@@ -1,5 +1,5 @@
 ---
-title: Term 1 Sports Sign Ups - be in quick!
+title: Term 1 Sports Sign Ups - entries close
 date: 2020-02-06T19:31:29.284Z
 ---
 Please use the following bitly to sign up to our sports on offer for this term:
