@@ -1,5 +1,5 @@
 ---
-title: 'Term 1 Sports Sign Ups '
+title: Term 1 Sports Sign Ups - be in quick!
 date: 2020-02-06T19:31:29.284Z
 ---
 Please use the following bitly to sign up to our sports on offer for this term:
