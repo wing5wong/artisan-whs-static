@@ -2,7 +2,7 @@
 title: Music Hall issues solved
 feature_image:
   description: >-
-    Reya Wrigglesworth with the poster she created for Repertory’s Music Hall
+    Freyja Wrigglesworth with the poster she created for Repertory’s Music Hall
     night.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1580874942/News/Reya_Wrigglesworth_midweek_29.1.20.jpg
