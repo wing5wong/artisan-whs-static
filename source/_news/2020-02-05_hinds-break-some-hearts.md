@@ -20,11 +20,11 @@ The victory in Round 7 of the competition exactly reversed the result of Round 6
 
 Today's win briefly moved the defending champion Hinds up into third place, four points ahead of the Canterbury Magicians, who reclaimed their spot with another win over the Otago Sparks.
 
-The Hinds would have been disappointed Saturday's game got away from them after their former Whanganui White Fern Jess Watkin (60 from 73) balls and Taranaki's Natalie Dodd (35 from 79) got them off to a comfortable start.
+The Hinds would have been disappointed Saturday's game got away from them after their former Whanganui White Fern **Jess Watkin** (60 from 73) balls and Taranaki's Natalie Dodd (35 from 79) got them off to a comfortable start.
 
 As the openers had put on 97 by the 22nd over, the Hinds were set to push on for a solid total, but instead collapsed to 124-5.
 
-Watkin hit nine boundaries and a six before she was bowled by Bella Armstrong, while fellow Whanganui player Kerry Tomlinson came and went, dismissed for five by Frans Jonas (2-25).
+**Watkin** hit nine boundaries and a six before she was bowled by Bella Armstrong, while fellow Whanganui player Kerry Tomlinson came and went, dismissed for five by Frans Jonas (2-25).
 
 Manawatu's Hannah Rowe (28) led a recovery from the lower order, which included Whanganui's Esther Lanser (15), while the ninth wicket pair of Wairarapa's Monique Rees (21no) and Melissa Hansen (17no) put on 36 inside the last five overs.
 
