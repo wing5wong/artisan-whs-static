@@ -7,6 +7,9 @@ feature_image:
 news_author:
   date: 2020-01-30T03:30:47.799Z
   publication: River City Press
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1580874030/News/La_Festa_festival_poster.jpg
 show_in_slider: false
 date: 2020-02-05T03:30:47.816Z
 ---
