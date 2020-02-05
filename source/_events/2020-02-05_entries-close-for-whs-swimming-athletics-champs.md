@@ -19,3 +19,5 @@ Track and Field sign ups are on the following bitly:
 <http://bit.ly/whsathletics2020>
 
 **Entries close Friday 7 February.**
+
+See Mrs Murphy or Miss Morgan in Te Wehi Gym Office with any queries.
