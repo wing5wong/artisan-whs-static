@@ -8,7 +8,7 @@ image: >-
 
 We are looking for actors, dancers, singers and basically anyone who wants to get involved in this fabulous production which will take place in Term Two. Rehearsals begin next week! 
 
-[Information for students auditioning.](https://docs.google.com/document/d/1BaYRPFM4x0G1DMpZ6h0qvbdhe1Jde9MkIe_FUQmfAGk/edit)
+[Information for students auditioning.](<[Information for students auditioning.](https://docs.google.com/document/d/1BaYRPFM4x0G1DMpZ6h0qvbdhe1Jde9MkIe_FUQmfAGk/edit)>)
 
 The auditions will take place after school on Monday 10 and Tuesday 11 February.  
 
