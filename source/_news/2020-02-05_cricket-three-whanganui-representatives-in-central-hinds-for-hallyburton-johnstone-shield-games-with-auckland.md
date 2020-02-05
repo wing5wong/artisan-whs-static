@@ -21,7 +21,7 @@ The squad welcomes back Wanganui Women's batter Kerry Tomlinson, who missed the 
 
 Taranaki's Emily Cunningham and Wairarapa's Monique Rees step in for current White Fern Rosemary Mair, on international duties, and Kate Baxter who sits out the two rounds.
 
-Wanganui Women's players Esther Lanser and Jess Watkin remain with the squad, with Wairarapa's Anlo van Deventer taking back the captaincy after Watkin and Manawatu's Hannah Rowe were co-captains during the Super Smash.
+Wanganui Women's players Esther Lanser and **Jess Watkin** remain with the squad, with Wairarapa's Anlo van Deventer taking back the captaincy after Watkin and Manawatu's Hannah Rowe were co-captains during the Super Smash.
 
 It is an important two games for both sides.
 
