@@ -4,7 +4,7 @@ feature_image:
   description: >-
     Whanganui High School coach Greg Fromont has Nat Kirk in the right form to
     consider using his sprint ability, good middle distance pedigree and now
-    javelin prowess for a career as a decathlte.
+    javelin prowess for a career as a decathlete.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1580959522/News/greg_fromont_nat_kirk_cron_6.2.20.jpg
 news_author:
