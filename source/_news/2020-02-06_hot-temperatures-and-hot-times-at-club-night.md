@@ -20,9 +20,9 @@ Forty-six athletes faced the starter in the opening popular 2000 metre Road Race
 
 Unfortunately, a slight short cut when athletes took the field across the Inspire car park meant that the times will not be considered for rankings as this took about 30 metres off the final distance.
 
-This was sad for the leading runners who on a windy night may well have set personal bests for the distance. Zach Bellamy was first home with training partner George Lambert less than two seconds in arrears. They were followed in close order by Liam Jones, Nat Kirk and Travis Bayler.
+This was sad for the leading runners who on a windy night may well have set personal bests for the distance. Zach Bellamy was first home with training partner George Lambert less than two seconds in arrears. They were followed in close order by **Liam Jones, Nat Kirk and Travis Bayler.**
 
-Rebecca Baker, who will unfortunately not be attending the New Zealand Championships because of a clash with a major national hockey event, was the first female home and her hockey coaches must be impressed by her strong aerobic base.
+**Rebecca Baker**, who will unfortunately not be attending the New Zealand Championships because of a clash with a major national hockey event, was the first female home and her hockey coaches must be impressed by her strong aerobic base.
 
 Mackenzie Morgan, who has come from Wellington, showed real promise in her Cooks Gardens debut as the second female home (7:10.79) to finish 12th in the big mixed field.
 
@@ -48,10 +48,10 @@ Jack Dai and Lucy Brown finished second in their respective Long Jumps (5.53 and
 
 The 4.70 metres although below her best shows promise.
 
-Nat Kirk, who in December won the NZSS Junior 300 metre hurdles, was 400 metre finalist and a key man in successful Whanganui High School relay teams is clearly an athlete with high potential. He might even consider Decathlon.
+**Nat Kirk**, who in December won the NZSS Junior 300 metre hurdles, was 400 metre finalist and a key man in successful Whanganui High School relay teams is clearly an athlete with high potential. He might even consider Decathlon.
 
 He has sprint ability, good middle distance pedigree which includes a North Island medal over 800 metres and on Tuesday night he threw the javelin out to a winning 41.25 metres.
 
-He started the night with a fourth place in the Road Race and then ran second to nationally ranked 400 metre team-mate Travis Bayler over 300 metres recording a slick 39.76 for the distance.
+**He started the night with a fourth place in the Road Race and then ran second to nationally ranked 400 metre team-mate Travis Bayler over 300 metres recording a slick 39.76 for the distance.**
 
 Next week's Centre Championship run in conjunction with the weekly club night starts at 6.45pm. Hurdle athletes are reminded that entries are due no later than 6pm next week.
