@@ -12,7 +12,7 @@ During the information session in the hall you will be given further details on 
 *Bring Your Own Technology - device use and expectations
 *Use of Google Classroom (all classes use this - so we thought it useful if parents had more information and could see some examples)
 *LIFE awards for students (the recognition structure we use for positive behaviour and effort)
-*'Kamar portal for parents (we will show you how you can access this and how you can see the notices and attendance details for Olivia).
+*'Kamar portal for parents (we will show you how you can access this and how you can see the notices and attendance details for your child).
 *Reporting (the format and timeframe for reports and feedback to parents).
 *Sports on offer (both summer and winter and major events such as Athletics Day on 20/2/20)
 
