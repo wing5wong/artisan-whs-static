@@ -2,7 +2,7 @@
 title: Year 9 Parent Evening
 date: 2020-02-10T21:39:08.106Z
 ---
-***Please note that we have brought forward the date of the Year 9 parents evening to this Tuesday (11th February)***
+***Please note that we have brought forward the date of the Year 9 parents evening to this Tuesday, 11 February.***
 
 The Year 9 Parent Evening will be held in our School Hall and Library from 6.30pm - 8pm on Tuesday 11 February.
 
