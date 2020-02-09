@@ -1,5 +1,5 @@
 ---
-title: WSS Lifesaving / Swimming Champs
+title: WSS Lifesaving / Swimming Championships
 date: 2020-02-27T21:42:20.486Z
 ---
 Venue:  Splash Centre  
