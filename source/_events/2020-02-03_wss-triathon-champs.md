@@ -1,5 +1,5 @@
 ---
-title: WSS Triathlon Champs
+title: WSS Triathlon Championships
 date: 2020-03-09T21:43:44.844Z
 ---
 Venue:  Kayak Club  
