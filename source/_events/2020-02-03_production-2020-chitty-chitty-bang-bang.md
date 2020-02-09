@@ -10,9 +10,10 @@ We are looking for actors, dancers, singers and basically anyone who wants to ge
 
 [Information for students auditioning](https://res.cloudinary.com/whanganuihigh/image/upload/v1580869511/Events/Lead_Character_Breakdown.pdf)
 
-The auditions will take place after school on Monday 10 and Tuesday 11 February.  
+The auditions will take place after school on Monday 10 and Tuesday 11 February at 3.15pm in the School hall. An extra audition slot is scheduled for Tuesday 11 February at first break for those who genuinely can’t make the afternoon auditions.  Please tick your name off on the list at the hall indicating which audition you will attend. See you there!
+ 
 
-There will also be an opportunity to come and learn the audition dance on Friday 7 February also at lunchtime.  
+There will be one more opportunity to practice the dance audition at First Break today.
 
 Watch this space and the Performing Arts Facebook page for the dance and music videos which will be made available this week.  
 
