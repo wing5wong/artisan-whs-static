@@ -1,8 +1,8 @@
 ---
-title: WHS Swimming Champs
+title: WHS Swimming Championships
 date: 2020-02-13T19:26:35.185Z
 ---
-This years Swimming Champs are on Friday 14 February at The Splash Centre, 10.30-2pm.
+This years Swimming Championships are on Friday 14 February at The Splash Centre, 10.30-2pm.
 
 Sign Ups are on the following bitly:
 
