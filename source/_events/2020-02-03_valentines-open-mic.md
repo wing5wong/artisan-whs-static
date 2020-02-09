@@ -1,13 +1,11 @@
 ---
-title: 'Valentine''s Open Mic '
+title: Valentine's Day
 date: 2020-02-13T19:33:16.872Z
 ---
-Calling all musicians or Love-Birds!  
+Valentine's Day is coming up fast!  
 
-If you're looking to impress that special someone or even just want to have a go, here's your chance.  
+Make sure you don't only get a bulk snap from Team Snapchat on the day, come down to the 'Big Green Tent' at the Canteen 1st Break today or tomorrow to order Roses and Cupcakes. 
 
-Our annual Valentine's Day Open Mic is back again.  
+Roses are $3.00 and Cupcakes are $5.00 CASH ONLY.  
 
-Come to the Music Room this Wednesday (5 February) and Friday (7 February) at 1st break or sign up at http://bit.ly/whsopenmic2020.   
-
-Any questions, feel free to contact the music department or our prefects.
+They will be delivered during Form Time on Valentine's Day.
