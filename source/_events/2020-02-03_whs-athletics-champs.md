@@ -1,8 +1,8 @@
 ---
-title: WHS Athletics Champs
+title: WHS Athletics Championships - Whole School
 date: 2020-02-19T19:29:11.650Z
 ---
-This years school Athletics day is on Thursday 20 February at Cooks Gardens.  
+This years school Athletics day is on Thursday 20 February at Cooks Gardens for the WHOLE SCHOOL.  
 
 Track and Field sign ups are on the following bitly:
 
