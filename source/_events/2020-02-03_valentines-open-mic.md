@@ -1,6 +1,6 @@
 ---
-title: Valentine's Open Mic sign-ups
-date: 2020-02-06T19:33:16.872Z
+title: 'Valentine''s Open Mic '
+date: 2020-02-13T19:33:16.872Z
 ---
 Calling all musicians or Love-Birds!  
 
