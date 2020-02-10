@@ -2,6 +2,11 @@
 title: School Photographs
 date: 2020-02-18T19:24:31.726Z
 ---
-School Photographs will be taken on Wednesday 19 February.  
+These are being captured in the School Hall on Wednesday 19 February.  
 
-Your Form Class teacher has a few photo order forms but if you require more or you would like a family portrait, please collect an envelope from the Student Centre.
+The schedule and details about ordering are in form class registers and at bit.ly/whsphotos2020  
+
+All students must ensure they know when their form class photo is being taken and report to the Hall prior to that time.  
+
+Online orders preferred: LCScott.co.nz/orderonline
+
