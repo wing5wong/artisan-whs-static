@@ -16,7 +16,7 @@ image_gallery:
 show_in_slider: false
 date: 2020-02-10T04:56:42.591Z
 ---
-The Whanganui drag team of Rivers Speed and Spares has taken the lead in the NZ Drag Racing Championships as the father and daughter combination of Grant and Nicole Rivers were dominant in Nelson recently.
+The Whanganui drag team of Rivers Speed and Spares has taken the lead in the NZ Drag Racing Championships as the father and daughter combination of Grant and **Nicole Rivers** (ex WHS student) were dominant in Nelson recently.
 
 The Rivers team set a new track record at The Rock Dragway track in Nelson last weekend, on the shorter eighth of a mile airstrip, for the sixth round of nine in the summer series.
 
