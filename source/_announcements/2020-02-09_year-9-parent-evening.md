@@ -2,6 +2,7 @@
 title: YEAR 9 PARENT EVENING
 is_emergency: false
 date: 2020-02-10T23:44:44.570Z
+subtitle: Tuesday 11 February 2020
 ---
 ***Please note that we have brought forward the date of the Year 9 parents evening to this Tuesday, 11 February.***
 
