@@ -21,7 +21,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-02-10T05:05:17.252Z
 ---
-Whanganui High School student Trinity Taylor-Moore is chasing her dreams of immersing herself into French culture with the help of a $4000 scholarship.
+**Whanganui High School student Trinity Taylor-Moore is chasing her dreams of immersing herself into French culture with the help of a $4000 scholarship.**
 
 The Year 12 student has always had a passion for learning new languages having taken French as a subject since Year 9.
 
