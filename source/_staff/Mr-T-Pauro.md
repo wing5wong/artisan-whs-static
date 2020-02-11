@@ -9,6 +9,6 @@ positions:
   - department: Languages
     title: Teacher of Māori
   - department: Deans
-    title: Dean of Māori Students
+    title: Dean of Māori Students (acting)
 ---
 
