@@ -9,7 +9,7 @@ end_dates:
     body: Year 11 - to be confirmed
   - date: ''
     body: Year 12 and 13 - to be confirmed
-  - date: ''
-    body: Year 9 and 10 - to be confirmed
+  - date: 2020-12-07T11:00:00.000Z
+    body: Year 9 and 10
 ---
 
