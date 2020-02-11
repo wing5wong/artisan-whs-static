@@ -7,8 +7,8 @@ start_dates:
 end_dates:
   - date: 2020-11-02T11:00:00.000Z
     body: Year 11
-  - date: ''
-    body: Year 12 and 13 - to be confirmed
+  - date: 2020-11-03T11:00:00.000Z
+    body: Year 12 and 13
   - date: 2020-12-07T11:00:00.000Z
     body: Year 9 and 10
 ---
