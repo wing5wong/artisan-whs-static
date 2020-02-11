@@ -1,5 +1,9 @@
 ---
 title: Caleb Isaacs performing in Whanganui at Lucky Bar
+feature_image:
+  description: 'Former WHS student, Caleb Isaacs.'
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1581388467/News/Caleb_Isaacs_ex.RCP_5.2.20.png
 news_author:
   date: 2020-02-05T02:05:44.924Z
   publication: River City Press
