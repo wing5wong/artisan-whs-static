@@ -1,7 +1,9 @@
 ---
 title: Business Planning Workshop to set up local businesses for success
 feature_image:
-  description: Former WHS student Tim Easton and Toss Grumley
+  description: Former WHS student Tim Easton (left) and Toss Grumley.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1581385509/News/RCP_5.2.20_both_tim_and_toss.jpg
 news_author:
   date: 2020-02-05T01:32:00.103Z
   publication: River City Press
