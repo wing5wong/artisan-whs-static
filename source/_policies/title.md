@@ -148,7 +148,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.7-School-Uniform_-updated-June-2018.pdf
         policy: 6.7 School Uniform
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1567372585/School%20Policies/6.8_International_Students_updated_August_2019.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1581555030/School%20Policies/6.8_International_Students_updated_August_2019.pdf
         policy: 6.8 International Students
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.9-ESL-Student_-updated-May-2018.pdf
