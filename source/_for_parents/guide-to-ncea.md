@@ -11,4 +11,4 @@ Download the [NCEA Level 2 & 3 information booklet](http://c1940652.r52.cf0.ra
 
 Download the [NCEA Level 1 Parent Information Evening 2020](https://res.cloudinary.com/whanganuihigh/image/upload/v1581550941/School%20Documents/NCEA_Parent_Information_Evening_2020.pdf)
 
-How to find [WHS Course Information 2019 on the School Website or Portal](http://c1940652.r52.cf0.rackcdn.com/5b7b5ec3ff2a7c03cc00003c/Course-Selection-2019.pdf)
+How to find [WHS Course Information 2020, Year 11-13, on the School Website or Portal](https://res.cloudinary.com/whanganuihigh/image/upload/v1581561515/School%20Documents/Selecting_your_course___Yr_11_-Yr_13.pdf)
