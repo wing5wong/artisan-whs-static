@@ -7,9 +7,9 @@ news_author:
 show_in_slider: true
 date: 2020-02-17T21:59:44.065Z
 ---
-Our WHS Rowers had a great day on the River on Saturday at the Whanganui Champs.  
+**Our WHS Rowers had a great day on the River on Saturday 15 February at the Whanganui Champs.**  
 
-Results:  
+***Results:*** 
 
 U16 single - Perris Adam - Gold Medal 🥇
 
