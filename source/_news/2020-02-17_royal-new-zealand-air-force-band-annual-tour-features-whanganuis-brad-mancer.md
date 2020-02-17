@@ -11,6 +11,9 @@ news_author:
   date: 2020-02-10T01:35:29.325Z
   name: Staff Reporter
   publication: Whanganui Chronicle
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581916226/News/1391175-613027-34.png
 show_in_slider: true
 date: 2020-02-17T01:35:29.346Z
 ---
