@@ -9,8 +9,6 @@ news_author:
   publication: WHS Director of Sport
 image_gallery:
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1581978145/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_95.jpg
-  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978144/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_80.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978143/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_77.jpg
@@ -37,6 +35,8 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978118/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_30.jpg
   - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581978106/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_100.jpg
+  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978118/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_23.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978118/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_38.jpg
@@ -45,13 +45,9 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978107/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_18.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1581978106/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_100.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1581978106/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_17.jpg
-  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978106/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_1.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1581978105/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_106.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581978145/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_95.jpg
 show_in_slider: true
 date: 2020-02-17T21:59:44.065Z
 ---
