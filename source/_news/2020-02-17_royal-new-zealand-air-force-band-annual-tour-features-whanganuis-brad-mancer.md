@@ -8,7 +8,9 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1581903424/News/Brad_Mancer._Chron_10.2.20.jpg
 news_author:
-  date: 2020-02-17T01:35:29.325Z
+  date: 2020-02-10T01:35:29.325Z
+  name: Staff Reporter
+  publication: Whanganui Chronicle
 show_in_slider: true
 date: 2020-02-17T01:35:29.346Z
 ---
