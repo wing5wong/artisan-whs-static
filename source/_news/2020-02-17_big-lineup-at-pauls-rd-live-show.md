@@ -1,5 +1,11 @@
 ---
 title: Big lineup at Pauls Rd Live show
+feature_image:
+  description: >-
+    Pauls Rd Live organisers Fred Loveridge and Kerry O'Sullivan perform with
+    their band, Whiskey Mama.
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1581906049/News/Fred_Loveridge._Whiskey_Mama._Midweek_5.2.20.png
 news_author:
   date: 2020-02-05T02:14:05.258Z
   name: Liz Wylie
