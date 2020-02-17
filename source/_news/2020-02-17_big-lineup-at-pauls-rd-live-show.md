@@ -10,6 +10,10 @@ news_author:
   date: 2020-02-05T02:14:05.258Z
   name: Liz Wylie
   publication: Whanganui Midweek
+image_gallery:
+  - description: Tauranga band Brilleaux will play at Pauls Rd Live 2020. Photo / Supplied.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581906312/News/Tauranga_band_Brilleauz_will_play_at_Pauls_Rd_Live_2020._Midweek_5.2.20.png
 show_in_slider: false
 date: 2020-02-17T02:14:05.273Z
 ---
