@@ -1,5 +1,5 @@
 ---
-title: Support our girls at the Whanganui Rowing Champs
+title: Support our Rowers at the Whanganui Rowing Champs
 feature_image:
   description: ''
   image: >-
