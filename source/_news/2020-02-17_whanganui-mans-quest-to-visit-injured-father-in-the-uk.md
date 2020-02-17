@@ -53,7 +53,7 @@ Being on a temporary contract as a tanker driver, Brickley does not get holiday 
 
 Brickley also suffered from a back accident two years ago and ACC cut his funding, causing him and his wife Jill to dig into their savings to be able to pay the weekly bills.
 
-Determined to get her father back home, Lucy has set up a Givealittle page to raise funds for an emergency passport and funds to support her grandfather's recovery.
+**Determined to get her father back home, Lucy has set up a Givealittle page to raise funds for an emergency passport and funds to support her grandfather's recovery.**
 
 So far the page has raised over $2000 but another $3000 is needed to able to purchase an emergency passport, flights and treatment for Thomas.
 
