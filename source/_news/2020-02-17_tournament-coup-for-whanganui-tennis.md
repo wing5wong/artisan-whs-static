@@ -2,6 +2,7 @@
 title: Tournament coup for Whanganui tennis
 feature_image:
   credit: Georgie Ormond
+  description: Whanganui Tennis Club president Dave Butters.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1581902280/News/Dave_Butters.dad_of_Kyle._Chron_12.2.20.jpg
 news_author:
