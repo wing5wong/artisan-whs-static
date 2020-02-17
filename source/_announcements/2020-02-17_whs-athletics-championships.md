@@ -39,6 +39,6 @@ If you cannot come we have a Website with live updates throughout the day. Go on
 
 •	If by any chance the weather turns bad, cancellations will be on our WHS Facebook page, WHS Sport Facebook page and WHS website by 7am. 
 
-. 
+ 
 
 We are looking forward to an awesome day, filled with School spirit, fun, participation and lots of House support for our top athletes as they showcase in front of the whole school. 
