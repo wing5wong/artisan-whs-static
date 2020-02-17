@@ -1,7 +1,7 @@
 ---
 title: >-
   Athletes tune up for international duty at the Manawatu/Whanganui Champs at
-  Cooks Gardens on Tuesday
+  Cooks Gardens
 news_author:
   date: 2020-02-13T02:40:53.943Z
   name: Alex McNab / Athletic Insight
