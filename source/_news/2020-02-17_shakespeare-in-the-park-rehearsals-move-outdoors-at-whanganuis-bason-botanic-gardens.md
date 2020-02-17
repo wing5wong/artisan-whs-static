@@ -10,7 +10,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1581902608/News/Isabelle_McKenzie._Chron_12.2.20.jpg
 news_author:
-  date: 2020-02-12T01:23:08.691Z
+  date: 2020-02-08T01:23:08.691Z
   name: Staff Reporter
   publication: Whanganui Chronicle
 image_gallery:
