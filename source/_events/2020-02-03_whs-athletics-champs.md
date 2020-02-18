@@ -2,7 +2,7 @@
 title: WHS Athletics Championships - Whole School
 date: 2020-02-19T19:29:11.650Z
 ---
-💛💚 2020 WHS Inter-House Athletics ❤️💙 Thursday 20 February
+💛💚 2020 WHS Inter-House Athletics ❤️💙  Thursday 20 February
 
 7.45am: All Prefects arrive for set up
 
@@ -31,3 +31,5 @@ Don’t forget to ‘slip,slop,slap’, bring sunhat. Come prepared for the weat
 House website can be found on bit.ly/whshouse. Live update scoring throughout the day.
 
 We are looking forward to an awesome day, filled with school spirit, fun, participation and heaps of house support for our top athletes! It’s going to be EPIC!!!!! 💛💚❤️💙
+
+[WHS Athletics Field & Track Events Structure & Map](https://res.cloudinary.com/whanganuihigh/image/upload/v1582062714/Events/WHS_Athletics_Field_Track_Events_Sturcture_Map.pdf)
