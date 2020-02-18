@@ -12,7 +12,7 @@ date: 2020-02-18T01:21:14.657Z
 ---
 Bushy Park will offer an improved service to schools this year thanks to the funding of a new education position at the park.
 
-Experienced teacher and conservationist, Keith Beautrais, will enhance the services already provided by volunteers using the expanded facilities available at the park.
+Experienced teacher at Whanganui High School and conservationist, **Keith Beautrais**, will enhance the services already provided by volunteers using the expanded facilities available at the park.
 
 “Last year we opened the new visitor centre and with rare birds like Tieke/Saddleback and Hihi/Stitchbirds thriving in the lush forest we have a great offering for young kiwis,” Mr Beautrais said.
 
@@ -22,5 +22,5 @@ Co-operating with the museum and art gallery and using a proven team of voluntee
 
 A Mainland Island Sanctuary as good as any in the country is a great asset for Whanganui but to remain viable it must always be looking to maintain momentum. We certainly have that out here and the recent renovations and improvements show the fruit of countless volunteer hours and general support of the community.
 
-Robin Paul, who heads the education group, said that thanks for the educator project must go to the T.G. McCarthy Trust and the Whanganui branch of Forest & Bird for the financial support to get this off the ground. We hope to build on the initial funding which is for part-time hours this year.
+Robin Paul, who heads the education group, said that thanks for the educator project must go to the T.G. McCarthy Trust and the Whanganui branch of Forest & Bird for the financial support to get this off the ground. We hope to build on the initial funding which is for part-time hours this year  
 Contact Keith Beautrais 027 652 2289.
