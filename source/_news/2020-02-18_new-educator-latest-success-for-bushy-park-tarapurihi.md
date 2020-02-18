@@ -12,7 +12,7 @@ date: 2020-02-18T01:21:14.657Z
 ---
 Bushy Park will offer an improved service to schools this year thanks to the funding of a new education position at the park.
 
-Experienced teacher at Whanganui High School and conservationist, **Keith Beautrais**, will enhance the services already provided by volunteers using the expanded facilities available at the park.
+Experienced teacher and conservationist, **Keith Beautrais**, will enhance the services already provided by volunteers using the expanded facilities available at the park.
 
 “Last year we opened the new visitor centre and with rare birds like Tieke/Saddleback and Hihi/Stitchbirds thriving in the lush forest we have a great offering for young kiwis,” Mr Beautrais said.
 
