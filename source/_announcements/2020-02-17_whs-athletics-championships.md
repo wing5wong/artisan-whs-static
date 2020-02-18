@@ -6,8 +6,6 @@ subtitle: Thursday 20 February at Cooks Gardens
 ---
 This years school Inter-House Athletics Day is on Thursday 20 February at Cooks Gardens for the WHOLE SCHOOL.
 
-
-
 •	All students are to go straight to Cooks Gardens in the morning.
 
 •	Competitive athletes are to be there by 8.30am, and all other students must be there by 9.30am.
@@ -34,11 +32,10 @@ This years school Inter-House Athletics Day is on Thursday 20 February at Cooks 
 
 •	This year our Public Health nurses are setting up an information marquee promoting Sun Smart – Slip, Slop, Slap, and Wrap. They will also be promoting drinking water rather than cordial or fizz.
 
-•	Parents are welcome to come and support sons and daughters. 
-If you cannot come we have a Website with live updates throughout the day. Go onto bit.ly/whshouse and find out if your son or daughter is in any finals, and how their House is going. The site is being worked on this week, but can be viewed.
+•	Parents are welcome to come and support sons and daughters.  If you cannot come we have a Website with live updates throughout the day. Go onto bit.ly/whshouse and find out if your son or daughter is in any finals, and how their House is going. The site is being worked on this week, but can be viewed.
 
 •	If by any chance the weather turns bad, cancellations will be on our WHS Facebook page, WHS Sport Facebook page and WHS website by 7am. 
 
- 
-
 We are looking forward to an awesome day, filled with School spirit, fun, participation and lots of House support for our top athletes as they showcase in front of the whole school. 
+
+[WHS Athletics Field & Track Events Structure & Map](https://res.cloudinary.com/whanganuihigh/image/upload/v1582062714/Events/WHS_Athletics_Field_Track_Events_Sturcture_Map.pdf)
