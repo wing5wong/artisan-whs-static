@@ -20,9 +20,9 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581979094/News/WHS%20Swim%20Champs%2014.2.20/86809179_1489665281182573_2939925029875351552_n.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1581979094/News/WHS%20Swim%20Champs%2014.2.20/86796560_1489665054515929_6575635461782372352_n_1.jpg
-  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581979093/News/WHS%20Swim%20Champs%2014.2.20/86754921_1489665451182556_7659495794940051456_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581979094/News/WHS%20Swim%20Champs%2014.2.20/86796560_1489665054515929_6575635461782372352_n_1.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581979093/News/WHS%20Swim%20Champs%2014.2.20/86723986_1489665517849216_4095801931543347200_n.jpg
   - image: >-
