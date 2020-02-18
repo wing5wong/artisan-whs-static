@@ -57,9 +57,10 @@ date: 2020-02-17T22:38:42.752Z
 Great day on Friday at the WHS swim champs for 2020! 
 
 **Three school records were broken by top swimmer Ethan Bryers:**  
-Intermediate Boys 200m - Ethan broke his own record by 1 second faster than 2019.  
-Intermediate Boys 100m Freestyle - This was held by Stefan Hannan in 2014 with Ethan beating it by 2 seconds.  
-Intermediate Boys 50m Breaststroke - this was held by Nicholas Berry in 2007 with a time of 00.34.90 with Ethan beating it with a time of 00.34.35.  
+•	Intermediate Boys 200m - Ethan broke his own record by 1 second faster than 2019.  
+•	Intermediate Boys 100m Freestyle - This was held by Stefan Hannan in 2014 with Ethan beating it by 2 seconds.  
+•	Intermediate Boys 50m Breaststroke - this was held by Nicholas Berry in 2007 with a time of 00.34.90 with Ethan beating it with a time of 00.34.35. 
+ 
 
 Awesome results Ethan!! 💚💛
 
