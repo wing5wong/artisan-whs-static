@@ -36,7 +36,7 @@ Whanganui managed one win in each of the three disciplines – singles, doubles 
 
 "The highlight today was our boy took out their pro player," Butters said.
 
-His son and team coach-captain Kyle Butters defeated Hawke's Bay No1 man Rob Reynolds 7-5, 3-6, 6-4, in the battle of former United States college players.
+His son and team coach-captain **Kyle Butters** defeated Hawke's Bay No1 man Rob Reynolds 7-5, 3-6, 6-4, in the battle of former United States college players.
 
 Reynolds is looking to climb into the professional ranks, while Butters is focusing on coaching and administration after injury curtailed that path.
 
@@ -44,7 +44,7 @@ The Hawke's Bay No1 got revenge in the men's doubles, as he and Jacob Verhoeven 
 
 Whanganui's No 3 women's doubles pair of Rachel Cronin and Dale Turner picked up the second victory when they defeated Sophie Ward and Roisin Dinan 6-3, 6-1.
 
-The third win was in the No2 mixed doubles match, as Nick Caton, grandson of the patron of the club, and Ngakuira Osborne, niece of former All Black Glen, beat Verhoeven and Olivia Addis 4-2, 4-3.
+The third win was in the No2 mixed doubles match, as **Nick Caton**, grandson of the patron of the club, and **Ngakuira Osborne**, niece of former All Black Glen, beat Verhoeven and Olivia Addis 4-2, 4-3.
 
 Whanganui was also unlucky in a couple of other games.
 
