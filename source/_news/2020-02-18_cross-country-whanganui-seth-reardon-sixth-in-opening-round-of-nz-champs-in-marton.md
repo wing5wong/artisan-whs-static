@@ -32,7 +32,7 @@ Charles Alabaster also overcame a difficult start to claw his way up and claim t
 
 Dickey settled for fourth overall, albeit finishing just a few seconds behind Alabaster.
 
-Whanganui's contender Seth Reardon (Yamaha YZ250 FX) came in just over 32 seconds later in sixth spot, beaten to the line by Rotorua's Ethan Harris in fifth.
+Whanganui's contender **Seth Reardon** (Yamaha YZ250 FX) came in just over 32 seconds later in sixth spot, beaten to the line by Rotorua's Ethan Harris in fifth.
 
 On his 'home' track, Reardon would have hoped for better as the 2019 season points runnerup, however better placings in the last three rounds could see him possibly discard the Marton result – as riders count their best three finishes for their season points tally.
 
