@@ -2,9 +2,7 @@
 title: WHS Athletics Championships - Whole School
 date: 2020-02-19T19:29:11.650Z
 ---
-💛💚 2020 WHS Inter-House Athletics ❤️💙
-
-Thursday 20 February
+💛💚 2020 WHS Inter-House Athletics ❤️💙 Thursday 20 February
 
 7.45am: All Prefects arrive for set up
 
