@@ -1,7 +1,7 @@
 ---
 title: New Educator latest success for Bushy Park Tarapurihi
 feature_image:
-  description: 'Keith Beautrais '
+  description: 'Keith Beautrais. '
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1581988912/News/Keith_Beautrais._RCP_13.2.20.jpg
 news_author:
