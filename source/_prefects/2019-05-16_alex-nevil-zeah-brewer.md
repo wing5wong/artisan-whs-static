@@ -1,7 +1,6 @@
 ---
-title: Alex Nevil & Zeah Brewer
+title: Jack Galvin & Ranita Kirk
 category: Head of Maunga House
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1558497118/prefects/Heads_of_Maunga_-_Alex_Nevil_and_Zeah_Brewer_3.jpg
+image: ''
 ---
 
