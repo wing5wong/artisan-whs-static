@@ -1,7 +1,6 @@
 ---
-title: David Chen & Akie Ono
+title: 'Gary Chen & Elli von Holst '
 category: Head of International
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1558497039/prefects/Heads_of_International_-_David_Chen_Akie_Ono_4.jpg
+image: ''
 ---
 
