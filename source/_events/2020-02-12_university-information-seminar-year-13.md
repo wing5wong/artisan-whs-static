@@ -8,5 +8,5 @@ This is a FREE seminar but you MUST register on-line at: bit.ly/whsuniinfo2020 (
 
 Registration CLOSES Friday 21 February, noon, and you will receive a ticket prior to the event.
 
-*Mr Keene*\
+*Mr Keene*  
 *Careers Advisor*
