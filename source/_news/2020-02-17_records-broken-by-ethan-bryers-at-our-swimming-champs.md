@@ -67,4 +67,4 @@ Awesome results Ethan!! 💚💛
 Well done to Whenua House who won the overall
 day! 💚💚💚💚
 
-Thanks to Eva Wakefield for taking the photos! 👌🏻
+Thanks to Eva Wakefield for taking the photos!
