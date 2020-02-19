@@ -4,7 +4,9 @@ title: >-
   national champs
 feature_image:
   credit: Supplied by Nicole Mills.
-  description: ''
+  description: >-
+    Zane Mills-Nossiter (left) and Angus Sewell, winners at the 2020 NZCT NZ
+    Canoe Sprint Champs at Lake Karapiro.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1582146316/News/NZCT%20Canoe%20Sprint%20champs%20at%20Lake%20Karipiro%2014.16%20Feb/86729745_1489672984515136_3506436503322492928_o.jpg
 news_author:
@@ -12,15 +14,15 @@ news_author:
   name: Jared Smith
   publication: Whanganui Chronicle
 image_gallery:
-  - description: Jack Clifton and Liam Lace.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1581989640/News/Clifton_Lace_Chron_18.2.20.jpg
   - description: >-
       Toby Brooke was the senior team member of a Whanganui contingent that won
       a host of medals at the 2020 NZCT New Zealand Canoe Sprint Championships
       on Lake Karapiro.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581989663/News/Toby_Brooke_Chron_18.2.20.jpg
+  - description: Jack Clifton and Liam Lace.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581989640/News/Clifton_Lace_Chron_18.2.20.jpg
 show_in_slider: true
 date: 2020-02-18T01:28:29.330Z
 ---
