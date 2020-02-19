@@ -22,5 +22,4 @@ Co-operating with the museum and art gallery and using a proven team of voluntee
 
 A Mainland Island Sanctuary as good as any in the country is a great asset for Whanganui but to remain viable it must always be looking to maintain momentum. We certainly have that out here and the recent renovations and improvements show the fruit of countless volunteer hours and general support of the community.
 
-Robin Paul, who heads the education group, said that thanks for the educator project must go to the T.G. McCarthy Trust and the Whanganui branch of Forest & Bird for the financial support to get this off the ground. We hope to build on the initial funding which is for part-time hours this year  
-Contact Keith Beautrais 027 652 2289.
+Robin Paul, who heads the education group, said that thanks for the educator project must go to the T.G. McCarthy Trust and the Whanganui branch of Forest & Bird for the financial support to get this off the ground. We hope to build on the initial funding which is for part-time hours this year.  Contact Keith Beautrais 027 652 2289.
