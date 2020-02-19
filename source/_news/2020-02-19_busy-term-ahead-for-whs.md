@@ -2,7 +2,7 @@
 title: Busy term ahead for WHS
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1582146676/News/NZCT%20Canoe%20Sprint%20champs%20at%20Lake%20Karipiro%2014.16%20Feb/RCP_13.2.20.Connor_Hoskin_Head_Boy_and_Leah_Aiono_Head_Girl.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1582149580/prefects/2020%20Prefect%20Photos/Head_Boy_and_Head_Girl_-_Connor_Hoskin_and_Leah_Aiono.jpg
 news_author:
   date: 2020-02-12T21:08:51.700Z
   publication: River City Press
