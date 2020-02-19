@@ -1,5 +1,5 @@
 ---
-title: Divnesh Dayal & Sayla O'Mahony
+title: Divnesh Dayal & Shayla O'Mahony
 category: Head of Awa House
 image: ''
 ---
