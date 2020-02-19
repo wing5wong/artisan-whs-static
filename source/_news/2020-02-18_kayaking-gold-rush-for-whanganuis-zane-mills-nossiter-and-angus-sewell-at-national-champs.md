@@ -3,12 +3,8 @@ title: >-
   Kayaking: Gold rush for Whanganui's Zane Mills-Nossiter and Angus Sewell at
   national champs
 feature_image:
-  description: >-
-    Toby Brooke was the senior team member of a Whanganui contingent that won a
-    host of medals at the 2020 NZCT New Zealand Canoe Sprint Championships on
-    Lake Karapiro.
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1581989663/News/Toby_Brooke_Chron_18.2.20.jpg
+  description: ''
+  image: ''
 news_author:
   date: 2020-02-18T01:28:29.312Z
   name: Jared Smith
@@ -17,6 +13,12 @@ image_gallery:
   - description: Jack Clifton and Liam Lace.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581989640/News/Clifton_Lace_Chron_18.2.20.jpg
+  - description: >-
+      Toby Brooke was the senior team member of a Whanganui contingent that won
+      a host of medals at the 2020 NZCT New Zealand Canoe Sprint Championships
+      on Lake Karapiro.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581989663/News/Toby_Brooke_Chron_18.2.20.jpg
 show_in_slider: true
 date: 2020-02-18T01:28:29.330Z
 ---
