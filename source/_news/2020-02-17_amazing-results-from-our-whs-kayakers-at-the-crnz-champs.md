@@ -20,4 +20,4 @@ Gold in U16 k2 500 with Angus Sewell.
 Zane and Angus got gold in U16 k4 500m  
 Angus also gold in u14 k1 500 and gold in under 16 k1 5000m**
 
-**Outstanding results boys!!!** 💚💛🚣‍♀️🚣‍♀️🥇🥇
+**Outstanding results boys!!!** 💚💛
