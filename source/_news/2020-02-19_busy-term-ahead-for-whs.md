@@ -19,7 +19,7 @@ Already, we have seen our newest year group grow in confidence as they become ac
 
 This all contributes towards some of the goals we have for our last year at high school. We aim to continue to encourage a friendly, welcoming atmosphere, in which people feel supported in trying new things; we aim to create opportunities for students to showcase their talents; and, above all, we aim to maintain a strong sense of unity and belonging within our school”.  
 
-Ngā mihi nui 
+Ngā mihi nui  
 Martin McAllen - Principal  
 MEd Leadership with First Class Honours,  
 PGDipEd Leadership, BA, Dip Tchg
