@@ -8,12 +8,6 @@ news_author:
   name: Mrs Jemma de Smidt
   publication: History Teacher in charge
 image_gallery:
-  - description: Jansen Condor-Ngapa meets 'Bomb' Gillies.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1582254510/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Jansen_Condor-Ngapa_meets_Bomb_Gillies.jpg
-  - description: Year 12 Students at the National Army Museum.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1582254509/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_11_students_at_the_Handspan_Monument.png
   - description: Year 11 students at the Ango Boer Memorial.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_11_students_at_the_Ango_Boer_Memorial.jpg
@@ -22,7 +16,13 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Tim_Pauro_telling_Year_11_students_about_the_Battle_of_Moutua.jpg
   - description: Year 12 Students at the National Army Museum.
     image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582254509/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_11_students_at_the_Handspan_Monument.png
+  - description: Year 12 Students at the National Army Museum.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_12_Students_at_the_National_Army_Museum.jpg
+  - description: Jansen Condor-Ngapa meets 'Bomb' Gillies.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582254510/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Jansen_Condor-Ngapa_meets_Bomb_Gillies.jpg
 show_in_slider: true
 date: 2020-02-21T03:02:14.902Z
 ---
