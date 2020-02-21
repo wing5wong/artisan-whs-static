@@ -4,7 +4,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_12_Students_at_the_National_Army_Museum.jpg
 news_author:
-  date: 2020-02-21T03:02:14.884Z
+  date: 2020-02-18T03:02:14.884Z
   name: Mrs Jemma de Smidt
   publication: 'History Teacher in charge '
 image_gallery:
