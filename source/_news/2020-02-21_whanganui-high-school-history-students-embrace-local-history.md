@@ -8,15 +8,15 @@ news_author:
   name: Mrs Jemma de Smidt
   publication: 'History Teacher in charge '
 image_gallery:
-  - description: Year 11 students at the Ango Boer Memorial.
+  - description: Year 11 students at the Handspan Monument.
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_11_students_at_the_Ango_Boer_Memorial.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582254509/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_11_students_at_the_Handspan_Monument.png
   - description: Tim Pauro telling Year 11 students about the Battle of Moutua.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Tim_Pauro_telling_Year_11_students_about_the_Battle_of_Moutua.jpg
-  - description: Year 12 Students at the National Army Museum.
+  - description: Year 11 students at the Ango Boer Memorial.
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1582254509/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_11_students_at_the_Handspan_Monument.png
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_11_students_at_the_Ango_Boer_Memorial.jpg
   - description: Year 12 Students at the National Army Museum.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_12_Students_at_the_National_Army_Museum.jpg
