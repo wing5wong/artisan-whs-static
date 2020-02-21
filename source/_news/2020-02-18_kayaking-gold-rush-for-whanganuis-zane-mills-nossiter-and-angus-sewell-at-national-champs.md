@@ -3,7 +3,7 @@ title: >-
   Kayaking: Gold rush for Whanganui's Zane Mills-Nossiter and Angus Sewell at
   national champs
 feature_image:
-  credit: Supplied by Nicole Mills.
+  credit: ''
   description: >-
     Zane Mills-Nossiter (left) and Angus Sewell, winners at the 2020 NZCT NZ
     Canoe Sprint Champs at Lake Karapiro.
