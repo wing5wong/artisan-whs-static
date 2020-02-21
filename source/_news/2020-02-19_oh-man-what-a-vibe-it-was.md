@@ -53,3 +53,5 @@ It was good to see a lot of the prefects helping out the day before Valentines D
 On Valentines Day the social prefect team gathered a team of ‘fairies’ to deliver out the chocolates and cupcakes to the students and staff.  
 
 The Valentines Day celebration was then wrapped up by the open mic, which was planned by the amazing cultural prefect team.
+
+*(Photos courtesy of Zoe Bracegirdle)*
