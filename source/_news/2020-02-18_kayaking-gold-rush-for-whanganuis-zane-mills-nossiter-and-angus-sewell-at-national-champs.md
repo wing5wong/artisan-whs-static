@@ -28,11 +28,7 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582246789/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/3.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246790/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-Angus-with-medal.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246789/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-1.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246788/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/8.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581980203/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/86658483_1489672994515135_6703966937103204352_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582246788/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-.action.jpg
   - image: >-
@@ -44,9 +40,13 @@ image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582246786/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/6.jpg
   - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246790/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-Angus-with-medal.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246789/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-1.jpg
+  - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582246784/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/7.jpg
   - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1581980203/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/86658483_1489672994515135_6703966937103204352_n.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246788/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/8.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581980203/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/86729745_1489672984515136_3506436503322492928_o.jpg
 show_in_slider: true
