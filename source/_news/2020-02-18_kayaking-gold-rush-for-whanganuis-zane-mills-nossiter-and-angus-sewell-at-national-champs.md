@@ -15,12 +15,12 @@ news_author:
   publication: Whanganui Chronicle
 image_gallery:
   - description: >-
-      Toby Brooke was the senior team member of a Whanganui contingent that won
-      a host of medals at the 2020 NZCT New Zealand Canoe Sprint Championships
-      on Lake Karapiro.
+      Former WHS student, Toby Brooke was the senior team member of a Whanganui
+      contingent that won a host of medals at the 2020 NZCT NZ Canoe Sprint
+      Champ on Lake Karapiro.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581989663/News/Toby_Brooke_Chron_18.2.20.jpg
-  - description: Jack Clifton and Liam Lace.
+  - description: 'Former WHS students, Jack Clifton and Liam Lace.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581989640/News/Clifton_Lace_Chron_18.2.20.jpg
   - image: >-
