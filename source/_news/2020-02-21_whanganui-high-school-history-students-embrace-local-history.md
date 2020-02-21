@@ -1,6 +1,7 @@
 ---
 title: Whanganui High School History Students Embrace Local History
 feature_image:
+  description: Year 12 Students at the National Army Museum in Waiouru.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1582254504/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Year_12_Students_at_the_National_Army_Museum.jpg
 news_author:
