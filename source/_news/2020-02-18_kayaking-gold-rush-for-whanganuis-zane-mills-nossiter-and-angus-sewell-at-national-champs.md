@@ -8,7 +8,7 @@ feature_image:
     Zane Mills-Nossiter (left) and Angus Sewell, winners at the 2020 NZCT NZ
     Canoe Sprint Champs at Lake Karapiro.
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1582146316/News/NZCT%20Canoe%20Sprint%20champs%20at%20Lake%20Karipiro%2014.16%20Feb/86729745_1489672984515136_3506436503322492928_o.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1582246788/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-.action.jpg
 news_author:
   date: 2020-02-18T01:28:29.312Z
   name: Jared Smith
@@ -23,6 +23,32 @@ image_gallery:
   - description: Jack Clifton and Liam Lace.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581989640/News/Clifton_Lace_Chron_18.2.20.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246797/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/9.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246789/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/3.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246790/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-Angus-with-medal.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246789/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-1.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246788/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/8.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246788/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/nice-photos-.action.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246787/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/2.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246786/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/5.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246786/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/4.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246786/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/6.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1582246784/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/7.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581980203/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/86658483_1489672994515135_6703966937103204352_n.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581980203/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/86729745_1489672984515136_3506436503322492928_o.jpg
 show_in_slider: true
 date: 2020-02-18T01:28:29.330Z
 ---
