@@ -9,4 +9,6 @@ Time: Schools to arrive no later than 9.30am, 10.00am start – 12noon.
 
 Please ensure that all teams are assembled at the pool by 9.30am as the draw for the team positions will be held at 9.30-9.45am.  
 
-**Swimming Competition:**
+**Swimming Competition:**  
+
+Start at 12.30pm after the WSS Lifesavings Championships.
