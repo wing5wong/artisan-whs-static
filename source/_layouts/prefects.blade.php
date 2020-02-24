@@ -3,20 +3,6 @@
 @section('title', $page->title)
 
 @section('content')
-<style>
- .school-leader-Awa {
-     color: #1a3663;
- }
- .school-leader-Maunga {
-     color: #a41e21;
- }
- .school-leader-Moana {
-     color: #e4a025;
- }
- .school-leader-Whenua {
-     color: #1c6c37;
- }
-</style>
 <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
 @if ($page->image)
@@ -73,6 +59,21 @@
 @endforeach
 
 
+
+<style>
+    .school-leader-Awa {
+        color: #1a3663;
+    }
+    .school-leader-Maunga {
+        color: #a41e21;
+    }
+    .school-leader-Moana {
+        color: #e4a025;
+    }
+    .school-leader-Whenua {
+        color: #1c6c37;
+    }
+   </style>
 @include('_partials.lastReviewed')
 
 @endsection
