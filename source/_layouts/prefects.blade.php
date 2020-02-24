@@ -40,7 +40,7 @@
     <div class="col-sm-12 col-md-4 col-lg-4 mb-5">
         <h3>{{ $role->title }}</h3>
 
-        {{ $role->getContent() }}
+        {!! $role->getContent() !!}
 
         <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_320,h_320,c_lfill,g_auto/", $role->image)}}"
             srcset="
@@ -62,7 +62,7 @@
     <div class="col-sm-12 col-md-6 col-lg-6 mb-5">
         <h3>{{ $role->title }}</h3>
 
-        {{ $role->getContent() }}
+        {!! $role->getContent() !!}
 
         <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_320,h_320,c_lfill,g_auto/", $role->image)}}"
             srcset="
