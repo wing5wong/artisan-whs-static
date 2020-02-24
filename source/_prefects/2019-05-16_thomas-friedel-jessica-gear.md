@@ -2,6 +2,6 @@
 title: Divnesh Dayal & Shayla O'Mahony
 category: Head of Awa House
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1582498329/prefects/2020%20Prefect%20Photos/5.Heads_of_Awa_-_Divnesh_Dayal_and_Shayla_O_Mahony_2.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1582510132/prefects/5.Heads-of-Awa---Divnesh-Dayal-and-Shayla-O_Mahony-_2.jpg
 ---
 
