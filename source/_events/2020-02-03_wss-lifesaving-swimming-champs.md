@@ -11,5 +11,6 @@ Please ensure that all teams are assembled at the pool by 9.30am as the draw for
 
 **Swimming Competition:**  
 
+Students to walk over to the Splash Centre at the end of Break.  
 Warm up at 12.15pm after the WSS Lifesaving's Championships.  
 Start at 12.30pm until approximately 3pm.

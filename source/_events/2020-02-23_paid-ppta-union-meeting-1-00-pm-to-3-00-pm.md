@@ -1,5 +1,5 @@
 ---
-title: Paid PPTA Union Meeting (1.00 pm to 3.00 pm)
+title: Paid PPTA Union Meeting - Students released at 12.50pm
 date: 2020-02-25T20:50:58.770Z
 ---
 The Executive of the Post Primary Teachers' Association (PPTA) has directed members throughout New Zealand to attend a round of branch-based paid union meetings held under the provisions of Section 26 of the Employment Relations Act 2000.
