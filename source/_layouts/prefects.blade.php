@@ -3,6 +3,20 @@
 @section('title', $page->title)
 
 @section('content')
+<style>
+ .school-leader-Awa {
+     color: #1a3663;
+ }
+ .school-leader-Maunga {
+     color: #a41e21;
+ }
+ .school-leader-Moana {
+     color: #e4a025;
+ }
+ .school-leader-Whenua {
+     color: #1c6c37;
+ }
+</style>
 <h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
 
 @if ($page->image)
@@ -28,12 +42,12 @@
 
 
 
-
-@foreach(["Heads of School", "Deputy Heads of School"] as $headGroup)
 <div class="row">
+@foreach(["Heads of School", "Deputy Heads of School"] as $headGroup)
+
     @if($loop->first)
     <div class="col-sm-12">
-        <h2>{{$headGroup}}</h2>
+        <h2 class="decorated py-3 mb-4">{{$headGroup}}</h2>
     </div>
     @endif
     @foreach($school_leaders->where('category',$headGroup) as $role )
@@ -50,16 +64,18 @@
 
     </div>
     @endforeach
-</div>
+
 @endforeach
+</div>
+
 
 @foreach(["Prefects", "Heads of House"] as $headGroup)
 <div class="row">
     <div class="col-sm-12">
-        <h2>{{$headGroup}}</h2>
+        <h2 class="decorated py-3 mb-4">{{$headGroup}}</h2>
     </div>
     @foreach($school_leaders->where('category',$headGroup) as $role )
-    <div class="col-sm-12 col-md-6 col-lg-6 mb-5">
+    <div class="col-sm-12 col-md-6 col-lg-6 mb-5 school-leader-{{$role->title}}">
         <h3>{{ $role->title }}</h3>
 
         {!! $role->getContent() !!}
