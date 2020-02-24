@@ -1,5 +1,5 @@
 ---
-title: Paid PPTA Union Meeting - Students released at 12.50pm
+title: 'Paid PPTA Union Meeting '
 is_emergency: false
 date: 2020-02-25T20:49:06.762Z
 subtitle: 'Wednesday, 26 February - Students released at 12.50pm'
