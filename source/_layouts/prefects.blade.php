@@ -30,10 +30,10 @@ alt="{{ $these }} - {{ $people->last()->title }}" style="max-width: 100%">
 
 
     
-        @foreach(["Heads of School", "Deputy Heads of School", "Prefects", "Heads of House"] as $headGroup=>$people)
+        @foreach(["Heads of School", "Deputy Heads of School", "Prefects", "Heads of House"] as $headGroup)
         <div class="row">
         <h2>{{$headGroup}}</h2>
-        @foreach($people as $role )
+        @foreach($school_leaders->where('category',$people) as $role )
         <div class="col-sm-12 col-md-4 col-lg-4 mb-5">
         <h3>{{ $role->title }}</h3>
         {{ $role->body }}
