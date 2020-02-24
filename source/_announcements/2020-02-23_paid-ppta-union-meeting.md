@@ -1,8 +1,8 @@
 ---
-title: Paid PPTA Union Meeting - Students released at 12.50pm
+title: 'Paid PPTA Union Meeting '
 is_emergency: false
 date: 2020-02-25T20:49:06.762Z
-subtitle: 'Wednesday, 26 February - Students released at 12.50pm'
+subtitle: 'Wednesday, 26 February - Students released at 12.50pm (end period 3)'
 ---
 The Executive of the Post Primary Teachers' Association (PPTA) has directed members throughout New Zealand to attend a round of branch-based paid union meetings held under the provisions of Section 26 of the Employment Relations Act 2000.
 
