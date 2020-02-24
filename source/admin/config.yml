@@ -531,7 +531,22 @@ collections:
           ]
         }
  
+  - name: "school_leaders"
+    label: "School Leaders"
+    label_singular: "School Leader"
+    folder: "source/_school_leaders"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string", hint: "Head Boy and Girl, Deputy Head Boy and Girl, Cultural, Māori, E-Life" }
+      - { label: "Category", label_singular: "Category", name: "category", widget: "select", multiple: false, 
+          options: ["Heads of School","Deputy Heads of School","Prefects","Heads of House"]
+        }
+      - { label: "Body", name: "body", widget: "string", required: true, hint: "e.g. Joe Bloggs and Jane Doe" }
+      - { label: "Image Filename", name: "image", widget: "image", required: false }
 
+
+  
   - name: "prefects"
     label: "Prefects"
     label_singular: "Prefect"

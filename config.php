@@ -305,6 +305,7 @@ return [
             'tags' => [],
         ],
         'prefects',
+        'school_leaders',
         'school_documents',
         'the_record',
         'scholarships' => [
