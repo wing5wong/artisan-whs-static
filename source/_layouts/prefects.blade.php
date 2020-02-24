@@ -28,6 +28,28 @@ alt="{{ $these }} - {{ $people->last()->title }}" style="max-width: 100%">
     </div>
     
 
+
+    
+        @foreach(["Heads of School", "Deputy Heads of School", "Prefects", "Heads of House"] as $headGroup=>$people)
+        <div class="row">
+        <h2>{{$headGroup}}</h2>
+        @foreach($people as $role )
+        <div class="col-sm-12 col-md-4 col-lg-4 mb-5">
+        <h3>{{ $role->title }}</h3>
+        {{ $role->body }}
+        
+        <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_320,h_320,c_lfill,g_auto/", $role->image)}}"
+                srcset="
+                {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,w_320,h_320,c_lfill,g_auto/", $role->image)}}
+                "
+        alt="{{ $role->title }} - {{ $role->body }}" style="max-width: 100%">
+        
+        
+        </div>
+        @endforeach
+    </div>
+        @endforeach
+
     @include('_partials.lastReviewed')
     
 @endsection
