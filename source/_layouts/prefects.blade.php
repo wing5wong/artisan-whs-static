@@ -3,8 +3,6 @@
 @section('title', $page->title)
 
 @section('content')
-<h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
-
 @if ($page->image)
 
 <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover;width: 100%;"> @endif @yield('postContent')
@@ -14,12 +12,12 @@
 
     @if($loop->first)
     <div class="col-sm-12">
-        <h2 class="decorated py-3 mb-4">{{$headGroup}}</h2>
+        <h1 class="decorated py-3 mb-4">{{$headGroup}}</h1>
     </div>
     @endif
     @foreach($school_leaders->where('category',$headGroup) as $role )
     <div class="col-sm-12 col-md-4 col-lg-4 mb-5">
-        <h3>{{ $role->title }}</h3>
+        <h2>{{ $role->title }}</h2>
 
         {!! $role->getContent() !!}
 
@@ -39,11 +37,11 @@
 @foreach(["Prefects", "Heads of House"] as $headGroup)
 <div class="row">
     <div class="col-sm-12">
-        <h2 class="decorated py-3 mb-4">{{$headGroup}}</h2>
+        <h1 class="decorated py-3 mb-4">{{$headGroup}}</h1>
     </div>
     @foreach($school_leaders->where('category',$headGroup) as $role )
-    <div class="col-sm-12 col-md-6 col-lg-6 mb-5 school-leader-{{$role->title}}">
-        <h3>{{ $role->title }}</h3>
+    <div class="col-sm-12 col-md-6 col-lg-6 mb-5">
+        <h2 class="school-leader-{{$role->title}}">{{ $role->title }}</h2>
 
         {!! $role->getContent() !!}
 
