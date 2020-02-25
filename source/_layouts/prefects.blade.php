@@ -18,7 +18,7 @@
     </div>
     @endif
     @foreach($school_leaders->where('category',$headGroup) as $role )
-    <div class="col-sm-12 col-md-4 col-lg-4 mb-5">
+    <div class="col-sm-12 col-md-6 col-lg-6 mb-5">
         <h3>{{ $role->title }}</h3>
 
         {!! $role->getContent() !!}
