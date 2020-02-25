@@ -1,6 +1,6 @@
 ---
 title: Whanganui District Council Youth Committee
-date: 2020-02-24T20:19:09.397Z
+date: 2020-02-27T20:19:09.397Z
 ---
 We’re so excited that Recruiting for Whanganui District Council’s Youth Committee is OPEN!  
 
