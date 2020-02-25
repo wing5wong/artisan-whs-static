@@ -1,6 +1,6 @@
 ---
 title: Beach clean up
-date: 2020-02-25T19:36:48.718Z
+date: 2020-03-05T19:36:48.718Z
 ---
 This year, Sea Week is during the first week of March.  
 
