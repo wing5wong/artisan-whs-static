@@ -1,6 +1,8 @@
 ---
 title: Quiz Night
 date: 2020-03-10T22:46:00.321Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1582659696/Events/Quiz-night-poster.2000high.jpg
 ---
 The WHS Quiz night is back!  
 
