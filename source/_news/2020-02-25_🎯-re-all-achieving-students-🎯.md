@@ -5,8 +5,6 @@ news_author:
 show_in_slider: true
 date: 2020-02-25T01:15:16.022Z
 ---
-
-
 Whanganui High School likes to congratulate our students who do well in their academic, sport and cultural areas of their lives. We have Achievers Assembly once a term and a press release acknowledging significant achievements once a term in the River City Press.
 
 For students to be recognized for their successes students must fill in an Achievers Form from the Student Centre or go onto the following bitly site and fill in the form.
