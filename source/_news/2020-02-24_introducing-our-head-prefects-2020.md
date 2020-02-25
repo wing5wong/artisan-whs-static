@@ -1,5 +1,5 @@
 ---
-title: ⭐️  Whanganui High School - February Newsletter  ⭐️
+title: ⭐️  Whanganui High School - February Newsletter
 feature_image:
   description: Connor Hoskin (Head Boy) & Leah Aiono (Head Girl)
   image: >-
