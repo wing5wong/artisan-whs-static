@@ -12,6 +12,6 @@ date: 2020-02-24T23:11:55.083Z
 ---
 **Introducing our Head Prefects 2020!!**
 
-[Read the February 2020 edition of our School Newsletter.](https://res.cloudinary.com/whanganuihigh/image/upload/v1582585556/newsletters/FEB_2020_rivercity_press_web.pdf)
+[Read about our Head Prefects in the February 2020 edition of our School Newsletter.](https://res.cloudinary.com/whanganuihigh/image/upload/v1582585556/newsletters/FEB_2020_rivercity_press_web.pdf)
 
 To read other Newsletters see our [School Newsletters page.](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
