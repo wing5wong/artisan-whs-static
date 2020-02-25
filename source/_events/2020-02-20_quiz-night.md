@@ -4,6 +4,8 @@ date: 2020-03-10T22:46:00.321Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1582659696/Events/Quiz-night-poster.2000high.jpg
 ---
+*(Poster designed by Annushka Forrest)*  
+
 The WHS Quiz night is back!  
 
 Get together a team of no more than 5 people - they can be Teachers, Friends or Family, with at least 2 students from WHS.  Choose a Team name (be creative)!  
