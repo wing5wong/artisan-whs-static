@@ -1,8 +1,9 @@
 ---
 title: Busy term ahead for WHS
 feature_image:
+  description: Connor Hoskin (Head Boy) and Leah Aiono (Head Girl).
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1582149580/prefects/2020%20Prefect%20Photos/Head_Boy_and_Head_Girl_-_Connor_Hoskin_and_Leah_Aiono.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1582509954/prefects/1.Head-Boy-and-Head-Girl---Connor-Hoskin-and-..............Leah-Aiono.jpg
 news_author:
   date: 2020-02-12T21:08:51.700Z
   publication: River City Press
