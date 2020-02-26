@@ -14,8 +14,7 @@ Any queries see Ms Kennedy.
 
 **Swimming Competition:**  
 
-Students to walk over to the Splash Centre at the end of Break.  
-Warm up at 12.15pm after the WSS Lifesaving's Championships.  
+Students to walk over to the Splash Centre with your gear at the end of Break and meet Ms Martin outside the Splash.  
 Start at 12.30pm until approximately 3pm.  
 
 Any queries see Ms Martin. 
