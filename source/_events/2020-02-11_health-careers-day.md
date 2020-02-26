@@ -8,5 +8,5 @@ Please write your name on the list at the Student Centre, or preferably - on-lin
 
 (Last day to sign up Friday 21 February).
 
-*Mr Keene*\
+*Mr Keene*  
 *Careers Advisor*
