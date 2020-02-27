@@ -14,7 +14,7 @@ Any queries see Ms Kennedy.
 
 **Swimming Competition:**  
 
-Students to walk over to the Splash Centre with your gear at the end of Break and meet Ms Martin outside the Splash.  
+Students to walk over to the Splash Centre with your gear **during Break and meet Ms Martin outside the Splash at 12 noon.**  
 Start at 12.30pm until approximately 3pm.  
 
 Any queries see Ms Martin. 
