@@ -11,7 +11,7 @@ Unless I advise otherwise, please meet at Gate 2 in Heads Rd – roughly opp. Ca
 PLEASE complete a PERMISSION SLIP by 9 March, to confirm attendance, using this link:  
 https://forms.gle/ArGa1NN3BQY6S9jh6 (preferred option).  
 OR return the slip emailed to you to the Student Centre.  
-30 students have registered for 25 places, so the first 25 returned will attend.  
+Numbers are limited so return your slips ASAP.  
 
 Reporting time: 8:45am at the Whanganui Hospital, Gate 2, Heads Rd.  
 Returning: Via bus to school around 1pm  
