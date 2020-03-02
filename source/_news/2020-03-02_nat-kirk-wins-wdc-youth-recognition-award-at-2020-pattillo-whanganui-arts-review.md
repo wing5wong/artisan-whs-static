@@ -38,10 +38,10 @@ image_gallery:
   - description: 'Nat Kirk, "Healing", graphite NFS.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583117805/News/Nat_Kirks_part_of_2020_pattilo_Whanganui_Arts_Review._Art_taken_by_Cat_Sleyer.jpg
-  - description: Kaye Coombs
+  - description: Mrs Kaye Coombs
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583118166/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Kaye_Coombs.jpg
-  - description: Graham Hall
+  - description: Mr Graham Hall
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583118166/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Graham_Hall.jpg
 show_in_slider: true
