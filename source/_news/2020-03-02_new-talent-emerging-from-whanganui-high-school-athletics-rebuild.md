@@ -7,6 +7,7 @@ feature_image:
     Championships at Cooks Gardens on Thursday.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1583111072/News/Maggie_Jones_Casie_Glentworth_etc._Chron_27.2.20.jpg
+  credit: Supplied
 news_author:
   date: 2020-02-27T01:01:29.118Z
   publication: Whanganui Chronicle
