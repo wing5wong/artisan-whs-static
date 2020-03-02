@@ -1,5 +1,5 @@
 ---
-title: 'Rivercity Wheelrace event at the velodrome '
+title: 'Jack looking strong at the Rivercity Wheelrace event at the velodrome '
 feature_image:
   description: >-
     Whanganui's Jack Overweel used the event as warmup for the Age Group Track
