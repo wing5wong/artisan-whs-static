@@ -14,6 +14,36 @@ image_gallery:
   - description: 'Nat Kirk, "Healing", graphite NFS.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583117805/News/Nat_Kirks_part_of_2020_pattilo_Whanganui_Arts_Review._Art_taken_by_Cat_Sleyer.jpg
+  - description: Brianna Gregg
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118166/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Brianna_Gregg.jpg
+  - description: Freyja Wrigglesworth
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118166/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Freyja_Wrigglesworth.jpg
+  - description: Georgia Haupt
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118166/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Georgia_Haupt.jpg
+  - description: Kate Regan
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118166/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Kate_Regan.jpg
+  - description: Merle Chant
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118167/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Merle_Chant.jpg
+  - description: Rose Hird
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118167/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Rose_Hird.jpg
+  - description: Yegor Pohorilyi
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118167/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Yegor_Pohorilyi.jpg
+  - description: Nat Kirk - WDC YOUTH COMMITTEE YOUTH RECOGNITION AWARD WINNER!
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118167/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Nat_Kirk_-_WDC_YOUTH_COMMITTEE_YOUTH_RECOGNITION_AWARD_WINNER.jpg
+  - description: Kaye Coombs
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118166/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Kaye_Coombs.jpg
+  - description: Graham Hall
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118166/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Graham_Hall.jpg
 show_in_slider: true
 date: 2020-03-02T02:46:47.093Z
 ---
