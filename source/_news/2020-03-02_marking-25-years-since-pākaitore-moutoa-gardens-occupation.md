@@ -17,7 +17,7 @@ image_gallery:
       Rii Templeton and John Maihi.  Photo / Bevan Conley.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583110775/News/Pakaitore_day_Ken_Mairs._Chron_29.2.20.jpg
-show_in_slider: false
+show_in_slider: true
 date: 2020-03-02T00:54:23.213Z
 ---
 Blankets stitched into flags in remembrance of the Pākaitore occupation will be brought out at many future Whanganui Iwi events, Sister Makareta Tawaroa says.
