@@ -23,7 +23,7 @@ Whanganui's **Jessica Watkin** was conservative with 0-39 including a maiden fro
 
 Manawatu's Hannah Rowe (2-32) got the prize scalp of Mackay, as the Hinds took four more wickets after Chandler's dismissal, including Watkin assisting in another run out, to restrict Canterbury to a gettable 211-5.
 
-In reply, the Hinds went on the attack as **Watkin** scored 50 off 35 balls, hitting eight boundaries and a six, in a 93-run partnership by the 15th over with Taranaki's Natalie Dodd (86 not out) on her home pitch.
+In reply, the Hinds went on the attack as **Watkin scored 50 off 35 balls, hitting eight boundaries and a six**, in a 93-run partnership by the 15th over with Taranaki's Natalie Dodd (86 not out) on her home pitch.
 
 Watkin was bowled by Mackay, but the Hinds were well ahead of the run rate, which was good as Canterbury began to pin them down, with Whanganui's Kerry Tomlinson making 12 from 43 balls before being caught and bowled by Melissa Banks.
 
