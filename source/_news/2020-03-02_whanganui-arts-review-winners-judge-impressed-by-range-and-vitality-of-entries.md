@@ -17,6 +17,8 @@ image_gallery:
   - description: Nat Kirk - WDC Youth Committee Youth Recognition Award Winner.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583118167/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Nat_Kirk_-_WDC_YOUTH_COMMITTEE_YOUTH_RECOGNITION_AWARD_WINNER.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583117805/News/Nat_Kirks_part_of_2020_pattilo_Whanganui_Arts_Review._Art_taken_by_Cat_Sleyer.jpg
   - description: >-
       Artists submitted a record breaking 207 artworks to the 2020 pattillo
       Whanganui Arts Review.  Photo / Michael McKeagg.
