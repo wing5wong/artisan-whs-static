@@ -14,7 +14,9 @@ news_author:
   publication: Whanganui Chronicle
   name: Staff Reporter
 image_gallery:
-  - description: Nat Kirk - WDC Youth Committee Youth Recognition Award Winner.
+  - description: >-
+      Nat Kirk for "Healing" - WDC Youth Committee Youth Recognition Award
+      Winner.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583118167/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Nat_Kirk_-_WDC_YOUTH_COMMITTEE_YOUTH_RECOGNITION_AWARD_WINNER.jpg
   - image: >-
