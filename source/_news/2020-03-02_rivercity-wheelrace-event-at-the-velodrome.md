@@ -10,7 +10,7 @@ news_author:
   date: 2020-03-02T22:04:18.761Z
   publication: Whanganui Chronicle
   name: Jared Smith
-show_in_slider: true
+show_in_slider: false
 date: 2020-03-02T22:04:18.784Z
 ---
 Palmerston North-raised rider Jordan Castle was at the head of the NZ Cycling contingent from Cambridge with a dominant performance across several races at the 71st running of the Rivercity Wheelrace event at the velodrome on Saturday afternoon.
