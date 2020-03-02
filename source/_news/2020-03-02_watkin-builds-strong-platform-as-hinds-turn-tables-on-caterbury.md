@@ -1,7 +1,7 @@
 ---
 title: Watkin builds strong platform as Hinds turn tables on Caterbury
 feature_image:
-  description: Jess Watkin
+  description: Jess Watkin scored 50.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1583112863/News/chron_25.2.20.jpg
 news_author:
