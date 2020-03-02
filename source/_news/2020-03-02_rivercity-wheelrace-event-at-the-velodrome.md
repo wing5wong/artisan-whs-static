@@ -51,7 +51,7 @@ At the 2019 nationals, held in Cambridge, Overweel won the Under 15 Boys derby i
 
 Cheatley also singled out Palmerston North's Ashleigh Gunn for her superb tactical sprinting to win the B Grade Derby.
 
-Results
+Results:
 
 Open B Grade 5km Tempo Points: 1. Ashleigh Gunn; 2. Joshua Turnbull; 3. Gary Gibson.
 
