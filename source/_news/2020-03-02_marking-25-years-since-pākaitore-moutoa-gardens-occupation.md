@@ -11,6 +11,12 @@ news_author:
   date: 2020-02-29T00:54:23.181Z
   publication: Whanganui Chronicle
   name: Laurel Stowell
+image_gallery:
+  - description: >-
+      Cutting the 25th anniversary cake are (from left) Wipaki Peeti, Ken Mair,
+      Rii Templeton and John Maihi.  Photo / Bevan Conley.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583110775/News/Pakaitore_day_Ken_Mairs._Chron_29.2.20.jpg
 show_in_slider: false
 date: 2020-03-02T00:54:23.213Z
 ---
