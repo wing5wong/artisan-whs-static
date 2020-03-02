@@ -38,5 +38,3 @@ Despite losing Manawatu's George Worker in their first over on Sunday, Nelson-ba
 Smith carried this morning on to make a patient 35, hitting just two boundaries, before he and fellow Whanganui Collegiate old boy Tom Bruce (Taranaki) were dismissed by Black Caps Mitchell Santner and Scott Kuggeleijn at 230-5.
 
 Manawatu's Dane Cleaver reached his half century when the Stags surpassed Northern Districts' first innings.
-
-The game finishes tomorrow.
