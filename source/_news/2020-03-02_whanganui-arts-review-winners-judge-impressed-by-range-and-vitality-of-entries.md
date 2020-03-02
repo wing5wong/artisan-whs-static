@@ -13,6 +13,12 @@ news_author:
   date: 2020-02-29T01:25:56.650Z
   publication: Whanganui Chronicle
   name: Staff Reporter
+image_gallery:
+  - description: >-
+      Artists submitted a record breaking 207 artworks to the 2020 pattillo
+      Whanganui Arts Review.  Photo / Michael McKeagg.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583112689/News/Nat_Kirk._art_pieces_of_everyone._Chron_29.2.20.jpg
 show_in_slider: false
 date: 2020-03-02T01:25:56.667Z
 ---
