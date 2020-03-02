@@ -1,5 +1,5 @@
 ---
-title: Watkin builds strong platform as Hinds turn tables on Caterbury
+title: Watkin builds strong platform as Hinds turn tables on Canterbury
 feature_image:
   description: Jess Watkin scored 50.
   image: >-
