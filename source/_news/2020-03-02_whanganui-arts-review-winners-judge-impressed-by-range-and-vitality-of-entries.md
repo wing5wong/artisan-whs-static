@@ -19,6 +19,9 @@ image_gallery:
       Whanganui Arts Review.  Photo / Michael McKeagg.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583112689/News/Nat_Kirk._art_pieces_of_everyone._Chron_29.2.20.jpg
+  - description: Nat Kirk - WDC Youth Committee Youth Recognition Award Winner.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583118167/News/2020%20pattillo%20Whaganui%20Arts%20Review%2028.29%20Feb/Nat_Kirk_-_WDC_YOUTH_COMMITTEE_YOUTH_RECOGNITION_AWARD_WINNER.jpg
 show_in_slider: false
 date: 2020-03-02T01:25:56.667Z
 ---
