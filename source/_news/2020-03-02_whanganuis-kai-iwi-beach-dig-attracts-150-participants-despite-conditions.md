@@ -26,7 +26,7 @@ image_gallery:
       Lifesaving Club.  Photo / Lewis Gardner.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583113448/News/Hunters_at_beach_dig_story._Lifesaving_ex_WHS._Chron_25.2.20.jpg
-show_in_slider: false
+show_in_slider: true
 date: 2020-03-02T01:38:10.195Z
 ---
 Despite less than ideal weather conditions, more than 150 people hit the sand for the second annual Kai Iwi Beach Dig.
