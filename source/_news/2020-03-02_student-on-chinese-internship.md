@@ -23,13 +23,13 @@ The internships, ranging from six weeks to three months long, give young people 
 
 The expenses-paid internships are highly sought after, with more than 550 applications for the 21 internship places.
 
-One such successful applicant is former Whanganui woman Meghan Price, communications student at Massey University.
+One such successful applicant is former Whanganui woman **Meghan Price**, communications student at Massey University.
 
 Meghan is now at United Media Solution (UMS) in Shanghai, China, working on online marketing and promoting commercial New Zealand brands to Chinese audiences through digital platforms such as Wechat. Meghan has been working in Melbourne for the past year while she had a break from her degree.
 
 Midweek recently got in touch and asked Meghan a few questions:
 
-***When were you at Whanganui High School and what were your strengths then?** *  
+***When were you at Whanganui High School and what were your strengths then?***  
 
 I attended Whanganui High School from 2013 and graduated in 2017. I really enjoyed my time there and felt that so many opportunities were available to students to travel and get involved with extra curricular activities. I had always been a keen writer so naturally enjoyed English based subjects, but also played a lot of sport, coaching junior volleyball, captaining the Senior volleyball team and playing hockey both for the school and regionally.
 
