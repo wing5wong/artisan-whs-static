@@ -21,9 +21,9 @@ image_gallery:
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583113412/News/Hunters_at_beach_dig_story._General_crowd._Chron_25.2.20.jpg
   - description: >-
-      All former WHS students, Lennart Nowak, Ethan Bryers, Matthew Newell,
-      Phoenix Grammaticogiannis and Jack Clifton from Whanganui Surf Lifesaving
-      Club.  Photo / Lewis Gardner.
+      All past/present WHS students, Lennart Nowak, Ethan Bryers, Matthew
+      Newell, Phoenix Grammaticogiannis and Jack Clifton from Whanganui Surf
+      Lifesaving Club.  Photo / Lewis Gardner.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583113448/News/Hunters_at_beach_dig_story._Lifesaving_ex_WHS._Chron_25.2.20.jpg
 show_in_slider: false
