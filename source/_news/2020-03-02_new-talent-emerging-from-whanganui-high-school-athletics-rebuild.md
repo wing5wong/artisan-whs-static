@@ -23,7 +23,7 @@ One who remains in the limelight is Year 11 student **Maggie Jones** who has bee
 
 The sport is growing at the school and for the first time in many years heats were required for all grades in the sprints leading to some great match-ups at last Thursday's in-house championships.
 
-In the senior girls ranks **Renee Teers** took home the sprint triple, with wins in the 100m, 200m and 400m over the well-performed **Kyra Engel** in the short sprints, and **Rebekah Phillips** in the 400m. Phillips also featured in jumps taking out both the senior girls long and triple jumps.
+In the senior girls ranks **Renee Teers** took home the sprint triple, with wins in the 100m, 200m and 400m over the well-performed **Kyra Engel** in the short sprints, and **Rebekah Phillips** in the 400m. **Phillips** also featured in jumps taking out both the senior girls long and triple jumps.
 
 **Sophie Andrews** took out the senior girls' throws triple of javelin, discus and shot with her main competition in each of these coming from Kara Adrole.
 
