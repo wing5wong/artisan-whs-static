@@ -1,6 +1,8 @@
 ---
 title: Beach clean up
 date: 2020-03-05T19:36:48.718Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1583358797/Events/Seaweek-Desktop-Background_860.png
 ---
 This year, Sea Week is during the first week of March.  
 
