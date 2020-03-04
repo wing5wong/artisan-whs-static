@@ -13,5 +13,5 @@ Abby Squire (Head of Culture) and Sophie Andrews (Head of Sport) came to see me 
 
 Thanks very much for supporting our community,
 
-Martin McAllen
+Martin McAllen  
 PRINCIPAL
