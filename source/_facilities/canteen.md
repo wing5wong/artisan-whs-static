@@ -16,4 +16,4 @@ Vegetarian, Vegan and Gluten free items can be pre-ordered prior to 8.35am or th
 
 Both EFTPOS and cash is accepted.
 
-[Canteen Menu](https://res.cloudinary.com/whanganuihigh/image/upload/v1582667251/facilities/Canteen_menu_2020.pdf)
+[Canteen Menu](https://res.cloudinary.com/whanganuihigh/image/upload/v1583280664/faculties/Canteen_menu_2020.pdf)
