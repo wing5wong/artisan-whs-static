@@ -1,6 +1,8 @@
 ---
 title: WSS Athletics Championships 2020
 date: 2020-03-17T21:44:52.877Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1583361285/Events/download.jpg
 ---
 The Whanganui Secondary Schools Athletics Championships 2020 will be held at Cooks Gardens on Tuesday 10 March and Wednesday 18 March.
 
