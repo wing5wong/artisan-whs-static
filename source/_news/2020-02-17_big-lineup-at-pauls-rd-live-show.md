@@ -19,6 +19,9 @@ image_gallery:
   - description: ''
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1580778790/News/Festival_crowd._Chron_1.2.20.jpg
+  - description: Gabby Devine's legacy lives on with Whanganui fundraiser. Photo / File.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1580778820/News/Gabby_Devine._Chron_1.2.20.jpg
 show_in_slider: false
 date: 2020-02-17T02:14:05.273Z
 ---
