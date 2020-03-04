@@ -33,9 +33,7 @@ Starlit Hope was founded by Gabby Devine in February 2013. Gabby, who was born i
 
 While undergoing an intensive regimen herself, Gabby practised random acts of kindness towards other children hospitalised for cancer treatments and established the charity which has continued to provide hundreds of kind acts ever since.
 
-Whanganui vocalist Kerry O’Sullivan is a relative of the Devine family, as well as Fred’s partner and co-organiser of the
-
-Pauls Rd festival.
+Whanganui vocalist Kerry O’Sullivan is a relative of the Devine family, as well as Fred’s partner and co-organiser of the Pauls Rd festival.
 
 “Gabby was my niece’s child, and she always talked about the importance of sharing a smile and showing kindness,” Kerry said.
 
@@ -44,4 +42,5 @@ Wanting to directly benefit Whanganui families, O’Sullivan thought that profit
 Last year, three Whanganui families each received $2000, and $4000 worth of food and petrol vouchers were presented to Whanganui Hospital to be distributed to those in need.
 
 Pauls Rd Live 2020:  
-42 Pauls Rd, Whanganui East, from noon to 7pm Sunday, March 8. Visitors are advised to take their own food (there will be barbecue food for sale), drinks, sunblock, seating and shade. Tickets $20 adults, $10 children from the Gatshack in Ridgway St.
+42 Pauls Rd, Whanganui East, from noon to 7pm Sunday, March 8. Visitors are advised to take their own food (there will be barbecue food for sale), drinks, sunblock, seating and shade.  
+Tickets $20 adults, $10 children from the Gatshack in Ridgway St.
