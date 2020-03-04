@@ -14,6 +14,11 @@ image_gallery:
   - description: Tauranga band Brilleaux will play at Pauls Rd Live 2020. Photo / Supplied.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581906312/News/Tauranga_band_Brilleauz_will_play_at_Pauls_Rd_Live_2020._Midweek_5.2.20.png
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1581384647/News/RCP_23.1.20.jpg
+  - description: ''
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1580778790/News/Festival_crowd._Chron_1.2.20.jpg
 show_in_slider: false
 date: 2020-02-17T02:14:05.273Z
 ---
