@@ -8,7 +8,7 @@ description: >
   situated behind F Block. A wide variety of healthy and tasty options are
   available. Hot lunch specials change daily.
 ---
-Our canteen is open for breakfast, lunch and at afternoon break. It is situated behind F Block.
+Our canteen is open from 8.30am for drinks only, lunch and at afternoon break. It is situated behind F Block.
 
 A wide variety of healthy and tasty options are available. Hot lunch specials change daily.
 
