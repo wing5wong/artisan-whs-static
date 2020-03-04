@@ -2,7 +2,7 @@
 title: Celebrating Pride Week at Whanganui High School
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1583286446/Events/Pride_Week_Image_National_Schools_2020.png
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1583356871/Events/Best_flag_photo._distant.jpg
 news_author:
   date: 2020-03-04T01:58:10.716Z
 show_in_slider: true
