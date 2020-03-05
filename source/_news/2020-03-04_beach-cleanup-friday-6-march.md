@@ -14,5 +14,5 @@ This Friday is a Professional Development day for our teachers, but a group of P
 
 This is Sea Week and to celebrate, a Beach Cleanup is being held. Students have been asked to register, and all details are in the school notices. Since this is a day off school, it is a student-led initiative and a level of personal responsibility is expected. Prefects will be on site assisted by our Groundskeeper Mr Martin. Any parents who wish to participate or supervise their students are more than welcome. 👍
 
-Aranga Molijn 🙂  
+Aranga Molijn 🙂  
 Head of Community
