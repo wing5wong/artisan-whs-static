@@ -12,7 +12,7 @@ Get together a team of no more than 5 people - they can be Teachers, Friends or 
 
 The Academic Prefects will be selling tickets outside the Canteen at 1st break ALL week (week 6), and Monday and Tuesday of week 7.  
 
-Tickets are $20 per Team. The Quiz will be held on Wednesday 11 March in the School Hall starting at 6pm, you need to be seated by 5.45pm.  
+Tickets are $20 per Team. The Quiz will be held on Wednesday 11 March in the School Hall starting at 6pm, **you need to be seated by 5.45pm**.  
 
 Come prepared on the night with a great team costume, a pen and some cash to buy a sausage sizzle and drinks. Hot chips will be provided for Teams.  
 
