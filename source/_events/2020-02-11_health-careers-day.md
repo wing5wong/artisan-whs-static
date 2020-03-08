@@ -8,7 +8,7 @@ A Whanganui High School group will participate in this event at the base hospita
 
 Unless I advise otherwise, please meet at Gate 2 in Heads Rd – roughly opp. Cavell Place. 
 
-PLEASE complete a PERMISSION SLIP by 9 March, to confirm attendance, using this link:  
+Please complete the Permission Slip by 9 March, to confirm attendance, using this link:  
 https://forms.gle/ArGa1NN3BQY6S9jh6 (preferred option).  
 OR return the slip emailed to you to the Student Centre.  
 Numbers are limited so return your slips ASAP.  
