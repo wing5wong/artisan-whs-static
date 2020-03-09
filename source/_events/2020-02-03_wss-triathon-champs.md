@@ -14,7 +14,6 @@ U16/19 2km run, 400m swim, 3km run
 
 This will still be held at the Multisport Club by the River.
 
-Sign ups are with Mrs Murphy in her office, Te Wehi Gym Foyer.  
-There are NO team events this year.  
-If you are keen to do this event please see Mrs Murphy before Thursday 5 March.  
-NO LATE ENTRIES.
+Any queries see Mrs Murphy in her office, Te Wehi Gym Foyer.  
+
+
