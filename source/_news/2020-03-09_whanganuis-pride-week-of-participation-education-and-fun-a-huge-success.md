@@ -1,7 +1,9 @@
 ---
 title: 'Whanganui''s Pride Week of participation, education and fun a huge success'
 feature_image:
-  description: A colourful Kerry Trent Ranginui joined the celebrations.
+  description: >-
+    A colourful and former WHS student, Kerry Trent Ranginui joined the
+    celebrations.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1583723266/Kerry_Ranginui._Chron_9.3.20.jpg
   credit: Gail Imhoff
@@ -40,9 +42,9 @@ Emery was nervous about the potential disruptions they may face during the plann
 
 "You're creating an environment where you are encouraging people to come and be safe, be seen and be heard, where a lot of vulnerable and isolated people come out. Not everyone is like that, but you are giving a space for them to come."
 
-Emery credited Whanganui High School for publicly and outwardly supporting Pride Week.
+**Emery credited Whanganui High School for publicly and outwardly supporting Pride Week.**
 
-"They put a (rainbow) flag on the flag pole, kids wore Pride accessories on Thursday. Principal Martin McAllen is making huge steps to make sure all the kids are included in the school.
+**"They put a (rainbow) flag on the flag pole, kids wore Pride accessories on Thursday. Principal Martin McAllen is making huge steps to make sure all the kids are included in the school.**
 
 "They are leaders and role models for schools when it comes to inclusion."
 
