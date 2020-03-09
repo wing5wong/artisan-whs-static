@@ -2,7 +2,7 @@
 title: 'Whanganui''s Pride Week of participation, education and fun a huge success'
 feature_image:
   description: >-
-    A colourful and former WHS student, Kerry Trent Ranginui joined the
+    A colourful Kerry Trent Ranginui (former WHS student) joined the
     celebrations.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1583723266/Kerry_Ranginui._Chron_9.3.20.jpg
