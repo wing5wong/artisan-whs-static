@@ -1,6 +1,8 @@
 ---
 title: CNI Debating Competition
 date: 2020-03-13T19:41:38.416Z
+image: >-
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1583784264/Events/Capture.png
 ---
 Central North Island: 14 – 15 March  
 Venue: Whanganui High School  
