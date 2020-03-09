@@ -14,11 +14,11 @@ news_author:
 show_in_slider: true
 date: 2020-03-09T02:47:32.942Z
 ---
-The end of the week meant no school for Whanganui High School students, but instead of staying home, about 67 students took to Castlecliff Beach to pick up rubbish.
+**The end of the week meant no school for Whanganui High School students, but instead of staying home, about 67 students took to Castlecliff Beach to pick up rubbish.**
 
 While teachers focused on their teacher-only day, head prefects rallied the troops down to the beach on Friday in support of New Zealand's annual Sea Week.
 
-Head of communities perfect Aranga Molijn said they were only expecting 20 to 30 students so to get 67 of all ages was a really good response
+Head of communities perfect Aranga Molijn said they were only expecting 20 to 30 students so to get 67 of all ages was a really good response.
 
 "The community prefects thought we would organise something for kids to do and it gives back to the community as well, and it's nice to do on a day off."
 
@@ -34,7 +34,7 @@ Students returned at 10.45am to the starting point to weigh rubbish and put it i
 
 The prefects also ran a competition with the prize being a $20 Citadel voucher for the student who collected the most rubbish.
 
-They collected a total 168kg of rubbish and Fynn Francksen won the prize, collecting 33kg.
+**They collected a total 168kg of rubbish and Fynn Francksen won the prize, collecting 33kg.**
 
 Aranga said they collected a lot of bottles but not as many plastic bags as two years ago when she was part of another beach clean-up in the same area.
 
