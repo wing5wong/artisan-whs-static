@@ -8,6 +8,8 @@ feature_image:
     winners Marlborough (crouched in front) and runners-up Waikato at the
     national.
   credit: Tyler Scott
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1583720121/News/Chron-5.3.20-Union-Boat-Club.jpg
 news_author:
   date: 2020-03-09T02:09:56.034Z
 show_in_slider: true
