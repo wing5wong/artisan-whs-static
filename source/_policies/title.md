@@ -6,7 +6,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1567372111/School%20Policies/1.1_-Treaty_of_Waitangi_updated_August_2019.pdf
         policy: 1.1 Treaty of Waitangi
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1566447642/School%20Policies/1.2_-Curriculum_Information_updated_August_2019.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1583788499/School%20Policies/1.2_-Curriculum_Information_updated_February_2020.pdf
         policy: 1.2 Curriculum Information
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/1.5_-Students_with_Additional_Learning_Needs_updated_October_2019.pdf
@@ -58,7 +58,7 @@ policyAreas:
           https://res.cloudinary.com/whanganuihigh/image/upload/v1574824721/School%20Policies/3.8_-_Staff_Professional_Development_updated_November_2019.pdf
         policy: 3.8 Staff Professional Development
       - document: >-
-          https://res.cloudinary.com/whanganuihigh/image/upload/v1554683535/School%20Policies/3.9--Timetable-Policy_-updated-April-2018.pdf
+          https://res.cloudinary.com/whanganuihigh/image/upload/v1583788502/School%20Policies/3.9_-Timetable_Policy_updated_February_2020.pdf
         policy: 3.9 Timetable
       - document: >-
           https://res.cloudinary.com/whanganuihigh/image/upload/v1567372190/School%20Policies/3.10_-_Staff_Leave_updated_August_2019.pdf
@@ -155,4 +155,3 @@ policyAreas:
         policy: 6.9 English for Second Language Speakers (ESL)
     policyArea: 6. Administration
 ---
-
