@@ -2,8 +2,8 @@
 title: 'Second-hand clothing store opens on Victoria Avenue, Whanganui'
 feature_image:
   description: >-
-    Former WHS student, Libby Bracegirdle at Recycle the Label is offering an
-    alternative to buying brand new fashion items
+    Libby Bracegirdle at Recycle the Label is offering an alternative to buying
+    brand new fashion items
   credit: Mike Tweed
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1583719153/News/Libby_Bracegirdle._Chron7.3.20.jpg
@@ -14,7 +14,7 @@ news_author:
 show_in_slider: false
 date: 2020-03-09T01:58:22.287Z
 ---
-Volunteering at a pop-up clothing shop at Whanganui Women's Refuge inspired Libby Bracegirdle to think about opening her own, fulltime second-hand boutique.
+Volunteering at a pop-up clothing shop at Whanganui Women's Refuge inspired former WHS student Libby Bracegirdle to think about opening her own, fulltime second-hand boutique.
 
 Now, two years later, the doors are set to open at Recycle the Label, at 181a Victoria Ave.
 
