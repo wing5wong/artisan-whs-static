@@ -11,6 +11,13 @@ news_author:
   date: 2020-03-07T02:47:32.921Z
   publication: Whanganui Chronicle
   name: Lucy Drake
+image_gallery:
+  - description: >-
+      Callista Booth-Richards (centre) and Sebastian Carrizo (left) were among
+      67 Whanganui High School students helping to pick up rubbish.  Photo /
+      Lucy Drake.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583722509/Chron_7.3.20_Story_Photo_Lucy_Drake..jpg
 show_in_slider: true
 date: 2020-03-09T02:47:32.942Z
 ---
