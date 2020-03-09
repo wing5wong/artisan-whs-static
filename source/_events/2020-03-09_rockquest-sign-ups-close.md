@@ -1,5 +1,5 @@
 ---
-title: Rockquest Sign Ups close
+title: Rockquest Sign Ups CLOSE
 date: 2020-03-17T20:05:26.929Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1583704230/Events/Smokefree_Rockquest_2020.jpg
