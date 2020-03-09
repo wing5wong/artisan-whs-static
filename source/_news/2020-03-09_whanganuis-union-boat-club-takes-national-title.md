@@ -31,14 +31,14 @@ Nugent-O'Leary, hunting down a spot in the Olympic squad, finished fifth in both
 
 Whanganui was low on numbers at this year's nationals where Whanganui Collegiate rowers Blake Hogan and Leo Hanna finished third in the men's U19 double scull A Final.
 
-Other AWRC competitors Luke Watts, Tom Monaghan and brothers Guy and Jonty Thomson finished third in the men's premier coxless quad and fourth in the senior coxless quad.
+Other AWRC competitors Luke Watts, Tom Monaghan and **brothers Guy and Jonty Thomson finished third** in the men's premier coxless quad and fourth in the senior coxless quad.
 
 Meanwhile, Collegiate completely dominated the Blinkhorne and Carroll Whanganui Club and School Championships three days earlier than the nationals.
 
 Collegiate rowers won the Wanganui Plumbing Challenge Trophy for the most overall points. The school claimed 18 gold medals.
 
-Whanganui High School rowers competed in 26 A Finals, winning nine, finishing second seven times and three thirds, while Union won five A Finals, finished second four times and once third.
+**Whanganui High School rowers competed in 26 A Finals, winning nine, finishing second seven times and three thirds, while Union won five A Finals, finished second four times and once third.**
 
-Cullinane College made two A Finals for a second and a fourth, while AWRC won four gold, one silver and one bronze.
+Cullinane College made two A Finals for a second and a fourth, while **AWRC won four gold, one silver and one bronze.**
 
 
