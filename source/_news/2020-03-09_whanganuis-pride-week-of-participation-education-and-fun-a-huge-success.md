@@ -46,7 +46,7 @@ Emery was nervous about the potential disruptions they may face during the plann
 
 **"They put a (rainbow) flag on the flag pole, kids wore Pride accessories on Thursday. Principal Martin McAllen is making huge steps to make sure all the kids are included in the school.**
 
-"They are leaders and role models for schools when it comes to inclusion."
+**"They are leaders and role models for schools when it comes to inclusion."**
 
 Emery was stoked with the week as a whole, and thankful to all involved.
 
