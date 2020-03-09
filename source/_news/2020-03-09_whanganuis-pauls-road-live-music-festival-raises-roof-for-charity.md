@@ -11,8 +11,8 @@ news_author:
   name: Logan Tutty
 image_gallery:
   - description: >-
-      The sun was shining and the drinks were flowing at the 12th annual Pauls
-      Road event.  Photo / Bevan Conley.
+      The sun was shining at the 12th annual Pauls Road event.  Photo / Bevan
+      Conley.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583722958/Chron_9.3.20_dancing.jpg
   - description: >-
