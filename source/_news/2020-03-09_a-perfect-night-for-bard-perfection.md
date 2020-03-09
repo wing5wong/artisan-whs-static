@@ -48,7 +48,7 @@ In such a play as Merchant, the pivotal roles had to go to accomplished actors, 
 
 Thus Shylock, Antonio, Portia, Bassanio and Nerissa had to be good, and they were.
 
-Paul Lyons, Phil Hudson, **Jessica Alder**, Christopher McLaughlin and **Isabelle McKenzie** proved able, holding our attention with every line, every speech, every measured movement.
+Paul Lyons, Phil Hudson, Jessica Alder, Christopher McLaughlin and **Isabelle McKenzie** proved able, holding our attention with every line, every speech, every measured movement.
 
 Around them the rest of the cast showed they belonged on that grassy stage, whether delivering lines or not.
 
