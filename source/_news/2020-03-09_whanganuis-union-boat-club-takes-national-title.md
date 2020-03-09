@@ -11,8 +11,10 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1583720121/News/Chron-5.3.20-Union-Boat-Club.jpg
 news_author:
-  date: 2020-03-09T02:09:56.034Z
-show_in_slider: true
+  date: 2020-03-05T02:09:56.034Z
+  publication: Whanganui Chronicle
+  name: Iain Hyndman
+show_in_slider: false
 date: 2020-03-09T02:09:56.058Z
 ---
 Whanganui's Union Boat Club can now technically lay claim to the New Zealand Premier Men's Double Lightweight title after Justin Evans and Alistair Bond won gold at the 2020 Rocket Foods New Zealand Rowing Championships on Lake Karapiro.
