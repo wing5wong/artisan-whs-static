@@ -12,12 +12,12 @@ news_author:
   publication: ''
   name: ''
 image_gallery:
+  - description: WHS former students that played in Apia for Kaierau.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1583879299/News/Kaierau_.snip_of_with_boys_names.png
   - description: The team attending an Ava Ceremony on Friday.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583878702/News/Kaierau_in_Samoa_at_Ava_Ceremony._Chron_24.2.20._Photo_supplied.jpg
-  - description: WHS ex students that played in Apia for Kaierau.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1583879299/News/Kaierau_.snip_of_with_boys_names.png
 show_in_slider: false
 date: 2020-03-10T22:16:08.331Z
 ---
