@@ -58,7 +58,7 @@ The squad and their supporters return home on Wednesday.
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-Ten of the Kaierau team members are ex WHS students;  
+Ten of the Kaierau team members are ex WHS students (see photo below):  
 Matt Ashworth, Ethan Robinson, CJ Stowers, Josh Lane, Jack Van Bussel, Dyland Bowater, Cameron Davies, Joe Edwards, Riley Culver and Tim Goodwin (absent from photo).  
 
 Well done boys!  Congratulations!
