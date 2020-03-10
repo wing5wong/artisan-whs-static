@@ -6,12 +6,7 @@ Whanganui DHB is hosting an information event regarding career opportunities in 
 
 A Whanganui High School group will participate in this event at the base hospital. This is for the morning only, therefore I require that students DO NOT come to school but meet at the hospital.  
 
-Unless I advise otherwise, please meet at Gate 2 in Heads Rd – roughly opp. Cavell Place. 
-
-Please complete the Permission Slip by 9 March, to confirm attendance, using this link:  
-https://forms.gle/ArGa1NN3BQY6S9jh6 (preferred option).  
-OR return the slip emailed to you to the Student Centre.  
-Numbers are limited so return your slips ASAP.  
+Unless I advise otherwise, please meet at Gate 2 at the hospital in Heads Rd before 8:45am – roughly opposite Cavell Place. 
 
 Reporting time: 8:45am at the Whanganui Hospital, Gate 2, Heads Rd.  
 Returning: Via bus to school around 1pm  
