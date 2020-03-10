@@ -31,7 +31,7 @@ SCOPA had a chance to snatch the game back with a penalty right on fulltime, but
 
 Staying at the Taumeasina Island Resort, the squad and their supporters had been treated to warm hospitality by the SCOPA club and Samoan Tourism, with festivities around the match.
 
-"We're trying to become part of \[the culture]," said co-coach Carl Gibson.
+"We're trying to become part of [the culture]," said co-coach Carl Gibson.
 
 With a tropical cyclone dampening the country at the weekend, it had taken the team a little getting use to the soaked field conditions, with even the roads to the ground being in a state.
 
@@ -64,7 +64,7 @@ Whanganui Chronicle 24/2/20*
 
 - - -
 
-Ten of the Kaierau team members are ex WHS students (see photo below):\
+Ten of the Kaierau team members that played in Apia are ex WHS students (see photo below):  
 Matt Ashworth, Ethan Robinson, CJ Stowers, Josh Lane, Jack van Bussel, Dylan Bowater, Cameron Davies, Joe Edwards, Riley Culver and Tim Goodwin (absent from photo).  
 
 Well done boys!  Congratulations!
