@@ -31,7 +31,7 @@ SCOPA had a chance to snatch the game back with a penalty right on fulltime, but
 
 Staying at the Taumeasina Island Resort, the squad and their supporters had been treated to warm hospitality by the SCOPA club and Samoan Tourism, with festivities around the match.
 
-"We're trying to become part of [the culture]," said co-coach Carl Gibson.
+"We're trying to become part of \[the culture]," said co-coach Carl Gibson.
 
 With a tropical cyclone dampening the country at the weekend, it had taken the team a little getting use to the soaked field conditions, with even the roads to the ground being in a state.
 
@@ -43,7 +43,7 @@ But SCOPA got the better of the second quarter - scoring out wide after sustaine
 
 Another converted try before the halftime break had the home side in strong position and Gibson said his team was sucking in the air.
 
-"[SCOPA] had a big squad, which is what it's all about in preseason. I was thinking, 'how are our 25 guys going to get up?'
+"\[SCOPA] had a big squad, which is what it's all about in preseason. I was thinking, 'how are our 25 guys going to get up?'
 
 "The hits, man, there were some big hits. There was a lot of passion for the first game of the year.
 
@@ -57,14 +57,14 @@ While in Apia, the team was also to give out free Mitre 10 and WRFU rugby balls 
 
 The squad and their supporters return home on Wednesday.  
 
-Jared Smith
-Whanganui Chronicle 24/2/20
+*Jared Smith  
+Whanganui Chronicle 24/2/20*
 
----
----
+- - -
 
-Ten of the Kaierau team members are ex WHS students (see photo below):  
+- - -
+
+Ten of the Kaierau team members are ex WHS students (see photo below):\
 Matt Ashworth, Ethan Robinson, CJ Stowers, Josh Lane, Jack van Bussel, Dylan Bowater, Cameron Davies, Joe Edwards, Riley Culver and Tim Goodwin (absent from photo).  
 
 Well done boys!  Congratulations!
-
