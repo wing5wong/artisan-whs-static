@@ -56,7 +56,8 @@ While in Apia, the team was also to give out free Mitre 10 and WRFU rugby balls 
 
 The squad and their supporters return home on Wednesday.
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---
+---
 
 Ten of the Kaierau team members are ex WHS students (see photo below):  
 Matt Ashworth, Ethan Robinson, CJ Stowers, Josh Lane, Jack Van Bussel, Dyland Bowater, Cameron Davies, Joe Edwards, Riley Culver and Tim Goodwin (absent from photo).  
