@@ -1,5 +1,5 @@
 ---
-title: Netball Trials - Year 9 to13
+title: Netball Trials - ALL
 date: 2020-03-15T19:43:01.562Z
 ---
 Netball Trials for ALL teams will be next week (week 8).  
