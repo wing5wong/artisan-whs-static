@@ -64,7 +64,7 @@ Whanganui Chronicle 24/2/20
 ---
 
 Ten of the Kaierau team members are ex WHS students (see photo below):  
-Matt Ashworth, Ethan Robinson, CJ Stowers, Josh Lane, Jack Van Bussel, Dyland Bowater, Cameron Davies, Joe Edwards, Riley Culver and Tim Goodwin (absent from photo).  
+Matt Ashworth, Ethan Robinson, CJ Stowers, Josh Lane, Jack van Bussel, Dylan Bowater, Cameron Davies, Joe Edwards, Riley Culver and Tim Goodwin (absent from photo).  
 
 Well done boys!  Congratulations!
 
