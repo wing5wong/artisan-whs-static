@@ -9,8 +9,8 @@ feature_image:
   credit: Supplied
 news_author:
   date: 2020-02-23T22:16:08.314Z
-  publication: Whanganui Chronicle
-  name: Jared Smith
+  publication: ''
+  name: ''
 image_gallery:
   - description: The team attending an Ava Ceremony on Friday.
     image: >-
@@ -54,7 +54,10 @@ However, a little Malo magic and Scott's close range conversion saw the visitors
 
 While in Apia, the team was also to give out free Mitre 10 and WRFU rugby balls to children in the community.
 
-The squad and their supporters return home on Wednesday.
+The squad and their supporters return home on Wednesday.  
+
+Jared Smith
+Whanganui Chronicle 24/2/20
 
 ---
 ---
