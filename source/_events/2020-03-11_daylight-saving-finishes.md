@@ -2,7 +2,7 @@
 title: Daylight Saving finishes
 date: 2020-04-04T21:03:26.193Z
 image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1583959723/Events/Document.jpg
+  https://res.cloudinary.com/whanganuihigh/image/upload/v1583959848/Events/Clock-Fall-Back-Thinkstock.jpg
 ---
 
 Daylight Saving ends this Sunday.  
