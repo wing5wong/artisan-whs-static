@@ -14,4 +14,10 @@ Includes 300m Hurdles, 2000m Steeplechase, Hammer and Pole Vault.
 **Wednesday 18 March:**  
 Starting at 10.45am - 5.30pm
 
-[WSS Athletics Programme 2020](https://res.cloudinary.com/whanganuihigh/image/upload/v1583356434/Events/WSS_Athletics_Programme_2020.pdf)
+[WSS Athletics Programme 2020](https://res.cloudinary.com/whanganuihigh/image/upload/v1583356434/Events/WSS_Athletics_Programme_2020.pdf)  
+
+
+_______
+____
+
+All students that are competing next Wednesday at the WSS Athletics please check the Te Mana Gym notice board to see what events you have been entered in. There will be a meeting in the Te Ihi Gym next Tuesday 17 at 1st break in regards to this so please be there. If you can't make it or if you are not keen to compete please let Mrs Murphy know.
