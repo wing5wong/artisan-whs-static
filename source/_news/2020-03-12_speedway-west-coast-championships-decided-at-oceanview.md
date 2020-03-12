@@ -27,7 +27,7 @@ Mooney had a series of tyre issues and a fuel pump problem, while Sturzaker brok
 
 There were no such problems for **Kaelin Mooney (26V)** however.
 
-The young driver took out the first heat, then backed it up with a third placing in the second heat and then runnerup in the final heat to **win his first West Coast title**.
+**The young driver took out the first heat, then backed it up with a third placing in the second heat and then runnerup in the final heat to win his first West Coast title**.
 
 **Kaelin Mooney** has had an outstanding debut season in his Stockcar, after graduating from Youth Ministocks at the end of last season.
 
