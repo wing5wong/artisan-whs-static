@@ -17,6 +17,8 @@ image_gallery:
       Suzuki International Series. Photo / Andy McGechan
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1577922329/News/Lucy_Dowman._Chron_18.12.19..jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-01-01T23:40:43.709Z
 ---
