@@ -3,6 +3,7 @@ title: Mrs S. Crook
 position: 'Homestay Co-ordinator, Alternative Education Co-ordinator'
 departments:
   - International
+  - Support and Ancillary
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1566173885/staff/Sarah-Crook-2.jpg
 positions:
