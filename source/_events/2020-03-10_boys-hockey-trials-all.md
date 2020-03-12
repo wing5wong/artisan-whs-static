@@ -2,11 +2,11 @@
 title: 'Boys Hockey trials, ALL'
 date: 2020-03-16T19:49:13.493Z
 ---
-Trial days and times are Wednesday 11 March and Tuesday 17 at 4pm.  
+Trial day is Tuesday 17 March at the Gonville turf. 
 
-Both trials at the Gonville turf.  
+Please be there ready to go at 4pm.  
 
-Please be there ready to go at 4pm.
+Sign up at the Student Centre. 
 
 *Mrs Campbell  
 Teacher in Charge*
