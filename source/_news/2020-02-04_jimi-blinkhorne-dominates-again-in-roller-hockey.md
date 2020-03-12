@@ -18,6 +18,8 @@ image_gallery:
       gold medal for his side's under-20 division win.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1580775709/News/Jimi_Blinkhorne_trophies._Chron_29.1.20.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-02-04T00:18:14.958Z
 ---
