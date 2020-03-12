@@ -44,6 +44,10 @@ image_gallery:
   - description: 'Nat Kirk, "Healing", graphite NFS.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583117805/News/Nat_Kirks_part_of_2020_pattilo_Whanganui_Arts_Review._Art_taken_by_Cat_Sleyer.jpg
+faculties:
+  - The Arts
+subject_areas:
+  - Visual Art
 show_in_slider: true
 date: 2020-03-02T02:46:47.093Z
 ---
