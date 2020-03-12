@@ -15,6 +15,10 @@ image_gallery:
   - description: James Musa.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1579663173/News/James_Musa_Chron_21.1.20.picture_no._2.jpg
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Football - Boys
 show_in_slider: true
 date: 2020-01-22T03:18:59.627Z
 ---
