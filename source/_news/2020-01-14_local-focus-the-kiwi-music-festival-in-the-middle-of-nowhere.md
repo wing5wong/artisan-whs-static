@@ -12,6 +12,8 @@ news_author:
   date: 2020-01-11T01:26:48.223Z
   name: Georgie Ormond
   publication: Whanganui Chronicle
+subject_areas:
+  - Music
 show_in_slider: true
 date: 2020-01-14T01:26:48.240Z
 ---
