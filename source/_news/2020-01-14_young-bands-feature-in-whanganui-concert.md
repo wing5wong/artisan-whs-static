@@ -17,6 +17,8 @@ image_gallery:
       Garratt and Faith Solomona. Photo / Lewis Gardner.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1578964738/News/Rock_on_the_River_concert.In_Business.Chron.6.1.20.jpg
+subject_areas:
+  - Music
 show_in_slider: true
 date: 2020-01-14T01:08:15.568Z
 ---
