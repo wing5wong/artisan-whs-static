@@ -49,6 +49,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582246788/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/8.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581980203/News/CRNZ%20champs%20at%20Lake%20Karipiro%2015.16%20Feb/86729745_1489672984515136_3506436503322492928_o.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-02-18T01:28:29.330Z
 ---
