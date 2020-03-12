@@ -11,6 +11,8 @@ news_author:
   date: 2019-12-22T22:56:04.534Z
   name: Tony Stuart / Speedway
   publication: Whanganui Chronicle
+extracurricular_areas:
+  - Sport
 show_in_slider: false
 date: 2020-01-01T22:56:04.554Z
 ---
