@@ -1,19 +1,9 @@
 ---
-title: 'Health Careers Day, Year 11-12'
+title: 'Health Careers Day, Year 11-12, CANCELLED'
 date: 2020-03-12T21:21:38.213Z
 ---
-Whanganui DHB is hosting an information event regarding career opportunities in the Health Sector (not just medicine) on Friday 13 March.   
-
-A Whanganui High School group will participate in this event at the base hospital. This is for the morning only, therefore I require that students DO NOT come to school but meet at the hospital.  
-
-Unless I advise otherwise, please meet at Gate 2 at the hospital in Heads Rd before 8:45am – roughly opposite Cavell Place. 
-
-Reporting time: 8:45am at the Whanganui Hospital, Gate 2, Heads Rd.  
-Returning: Via bus to school around 1pm  
-Dress: NOTE: School Uniform.  
-Transport cost: Nil  
-Emergency contact: 027 2782461  
-Supervision: Mr. P Keene
+This event has been cancelled by the Whanganui DHB and students involved are to attend school as usual today. For more information, check your school e-mail @whs.ac.nz
+Apologies for the inconvenience.
 
 *Mr Keene*  
 *Careers Advisor*
