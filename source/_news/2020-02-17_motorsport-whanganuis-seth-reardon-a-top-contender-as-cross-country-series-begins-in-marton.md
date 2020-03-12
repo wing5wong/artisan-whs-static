@@ -17,6 +17,8 @@ image_gallery:
   - description: 'Seth in action.  Photo / Andy McGechan, BikesportNZ.com'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581904516/News/Seth_Reardon._Chron_11.2.20.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: false
 date: 2020-02-17T01:52:58.204Z
 ---
