@@ -26,6 +26,8 @@ image_gallery:
       Light and Motion Photography.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1580679566/News/Ex_Jonty_guy_Thomson._Chron_30.1.20._Light_and_Motion_Photography.jpg
+extracurricular_activities:
+  - Rowing
 show_in_slider: false
 date: 2020-02-02T21:33:29.665Z
 ---
