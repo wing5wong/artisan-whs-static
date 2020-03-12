@@ -16,6 +16,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583798933/News/89356794_1508069659342135_6415175410589368320_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583798952/News/87684145_1508069549342146_5865661506439348224_n.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-03-10T00:01:46.295Z
 ---
