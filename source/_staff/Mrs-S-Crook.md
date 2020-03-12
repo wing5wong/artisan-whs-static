@@ -1,6 +1,6 @@
 ---
 title: Mrs S. Crook
-position: 'Homestay Co-ordinator, Alternative Education Co-ordinator'
+position: 'Homestay Co-ordinator, Alternative Education'
 departments:
   - International
   - Support and Ancillary
@@ -9,7 +9,7 @@ image: >-
 positions:
   - department: International
     title: Homestay Co-ordinator
-  - title: Alternative Education Co-ordinator
+  - title: Alternative Education
     department: Support and Ancillary
 phone: ''
 ---
