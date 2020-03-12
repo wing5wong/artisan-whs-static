@@ -13,6 +13,8 @@ news_author:
   date: 2020-01-22T03:51:58.455Z
   name: Andy McGechan / Motorsport
   publication: Whanganui Chronicle
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-01-22T03:51:58.478Z
 ---
