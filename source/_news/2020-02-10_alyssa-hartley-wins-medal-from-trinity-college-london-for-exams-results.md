@@ -8,6 +8,12 @@ feature_image:
 news_author:
   date: 2020-02-05T06:50:01.325Z
   publication: River City Press
+subject_areas:
+  - Dance
+  - Drama
+  - Music
+extracurricular_areas:
+  - Performing Arts
 show_in_slider: true
 date: 2020-02-10T06:50:01.342Z
 ---
