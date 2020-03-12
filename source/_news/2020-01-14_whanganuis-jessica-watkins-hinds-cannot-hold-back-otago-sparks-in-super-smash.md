@@ -14,6 +14,8 @@ news_author:
   name: Jared Smith
   publication: Whanganui Chronicle
 image_gallery: []
+extracurricular_activities:
+  - Cricket - Girls
 show_in_slider: false
 date: 2020-01-14T23:10:01.133Z
 ---
