@@ -51,6 +51,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581979091/News/WHS%20Swim%20Champs%2014.2.20/86277084_1489665161182585_8027682970196246528_n.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581979091/News/WHS%20Swim%20Champs%2014.2.20/86380333_1487371331411968_136095015255408640_n.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-02-17T22:38:42.752Z
 ---
