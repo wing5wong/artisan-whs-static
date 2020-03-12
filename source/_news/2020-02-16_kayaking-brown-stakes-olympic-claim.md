@@ -14,6 +14,8 @@ news_author:
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581894474/News/Max_Brown._Chron_17.2.20..jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-02-16T23:04:50.846Z
 ---
