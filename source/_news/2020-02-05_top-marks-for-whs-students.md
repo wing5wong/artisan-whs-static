@@ -12,6 +12,10 @@ news_author:
   date: 2020-02-05T03:41:09.186Z
   name: Lucy Drake
   publication: Whanganui Chronicle
+faculties:
+  - Mathematics
+subject_areas:
+  - Algebra & Calculus Extension & Cambridge
 show_in_slider: true
 date: 2020-02-05T03:41:09.206Z
 ---
