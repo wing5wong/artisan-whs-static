@@ -11,6 +11,8 @@ news_author:
   date: 2020-01-20T03:34:03.669Z
   name: Jared Smith
   publication: Whanganui Chronicle
+extracurricular_activities:
+  - Athletics
 show_in_slider: false
 date: 2020-01-22T03:34:03.687Z
 ---
