@@ -23,6 +23,10 @@ image_gallery:
       boys 300 metre hurdles in his national hurdle debut at the weekend.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1576206614/News/Nat_Kirk_Chron_12.12.19.jpg
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Athletics
 show_in_slider: true
 date: 2019-12-13T03:06:43.615Z
 ---
