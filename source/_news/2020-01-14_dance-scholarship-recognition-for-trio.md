@@ -11,6 +11,9 @@ news_author:
   date: 2020-01-08T02:01:08.391Z
   name: Paul Brooks
   publication: Whanganui Midweek
+subject_areas:
+  - Dance
+extracurricular_areas: []
 show_in_slider: true
 date: 2020-01-14T02:01:08.408Z
 ---
