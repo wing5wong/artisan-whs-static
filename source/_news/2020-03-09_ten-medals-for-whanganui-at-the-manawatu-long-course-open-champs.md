@@ -8,6 +8,8 @@ news_author:
   date: 2020-03-07T02:25:46.979Z
   publication: Whanganui Chronicle
   name: Staff Reporter
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-03-09T02:25:46.994Z
 ---
