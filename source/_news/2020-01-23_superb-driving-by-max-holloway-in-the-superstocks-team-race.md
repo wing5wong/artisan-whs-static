@@ -17,6 +17,8 @@ image_gallery:
   - description: Trent James (56V) in action.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1579744980/News/Trent_James_56v.png
+extracurricular_areas:
+  - Sport
 show_in_slider: false
 date: 2020-01-23T01:20:19.513Z
 ---
