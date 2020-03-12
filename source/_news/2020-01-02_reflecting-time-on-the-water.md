@@ -10,6 +10,8 @@ news_author:
   date: 2020-01-01T05:03:52.870Z
   name: 'Philippa Baker-Hogan, Oarsome News'
   publication: Whanganui Chronicle
+extracurricular_activities:
+  - Rowing
 show_in_slider: true
 date: 2020-01-02T05:03:52.887Z
 ---
