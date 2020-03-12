@@ -26,6 +26,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1582254510/News/History%20Trips.Jemma%20de%20Smidt.Feb%202020/Jansen_Condor-Ngapa_meets_Bomb_Gillies.jpg
 faculties:
   - Social Sciences
+subject_areas:
+  - History
 show_in_slider: true
 date: 2020-02-21T03:02:14.902Z
 ---
