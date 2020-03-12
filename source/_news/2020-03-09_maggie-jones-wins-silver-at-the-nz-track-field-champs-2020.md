@@ -10,6 +10,10 @@ news_author:
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583796580/News/Maggie_Jones._2nd_on_the_podium_NZ_Track_Feild_chch.jpg
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Athletics
 show_in_slider: true
 date: 2020-03-09T23:28:23.429Z
 ---
