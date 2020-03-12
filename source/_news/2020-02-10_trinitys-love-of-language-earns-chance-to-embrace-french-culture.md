@@ -18,6 +18,8 @@ image_gallery:
       Championship to gain a scholarship. Photo / Bevan Conley.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581311284/News/Trinity_Taylor_Moore._Lorna_Smith.Chron_8.2.20.jpg
+faculties:
+  - Languages
 show_in_slider: true
 date: 2020-02-10T05:05:17.252Z
 ---
