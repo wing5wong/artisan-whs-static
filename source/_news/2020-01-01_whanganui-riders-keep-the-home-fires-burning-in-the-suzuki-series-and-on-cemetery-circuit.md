@@ -21,6 +21,8 @@ image_gallery:
       in Whanganui on Boxing Day. Photo / Andy McGechan
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1577920388/News/Sam_Willacy_Chron_28.12.19.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-01-01T23:10:02.133Z
 ---
