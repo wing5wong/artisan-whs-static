@@ -4,7 +4,7 @@ date: 2020-03-17T19:54:53.711Z
 ---
 Girls Football trials next Wednesday 18 March afterschool.  
 
-All ages, all welcome to trial.  
+All ages are welcome to trial.  
 
 Please meet out the back of the Gym at 3.15pm with PE gear, boots and shinpads.  
 
