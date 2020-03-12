@@ -12,6 +12,8 @@ image_gallery:
   - description: Former WHS student Hannah Kelly.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1579664594/News/Hannah_Kelly.ex._Chron_17.1.20.jpg
+extracurricular_activities:
+  - Netball
 show_in_slider: true
 date: 2020-01-22T03:40:57.082Z
 ---
