@@ -13,6 +13,8 @@ news_author:
   date: 2020-01-08T02:49:11.965Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
+extracurricular_activities:
+  - Cricket - Girls
 show_in_slider: false
 date: 2020-01-14T02:49:11.984Z
 ---
