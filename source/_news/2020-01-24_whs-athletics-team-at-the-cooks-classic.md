@@ -7,6 +7,8 @@ news_author:
   date: 2020-01-19T02:20:52.421Z
   name: Lisa Murphy
   publication: WHS Director of Sport
+extracurricular_activities:
+  - Athletics
 show_in_slider: true
 date: 2020-01-24T02:20:52.490Z
 ---
