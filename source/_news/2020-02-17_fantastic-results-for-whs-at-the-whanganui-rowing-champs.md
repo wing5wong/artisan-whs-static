@@ -48,6 +48,10 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978106/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_1.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1581978145/News/WU%20rowing%20champs%2015.2.20/Wanganui_Champs_95.jpg
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Rowing
 show_in_slider: true
 date: 2020-02-17T21:59:44.065Z
 ---
