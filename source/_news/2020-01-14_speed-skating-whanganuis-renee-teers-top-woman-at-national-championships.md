@@ -15,6 +15,8 @@ image_gallery:
   - description: Andrew Jones in action.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1578968553/News/andrew_Jones_ex._Chron_10.1.20.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: true
 date: 2020-01-14T02:14:18.798Z
 ---
