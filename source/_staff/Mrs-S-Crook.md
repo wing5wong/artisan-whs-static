@@ -1,6 +1,6 @@
 ---
 title: Mrs S. Crook
-position: Homestay Co-ordinator
+position: 'Homestay Co-ordinator, Alternative Education Co-ordinator'
 departments:
   - International
 image: >-
@@ -8,8 +8,9 @@ image: >-
 positions:
   - department: International
     title: Homestay Co-ordinator
-  - title: Alternative Education
+  - title: Alternative Education Co-ordinator
     department: Support and Ancillary
+phone: ''
 ---
 
 **Mrs Sarah Crook** is the homestay coordinator.
