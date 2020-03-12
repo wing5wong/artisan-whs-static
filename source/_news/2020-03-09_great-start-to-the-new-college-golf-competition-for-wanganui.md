@@ -14,6 +14,8 @@ image_gallery:
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583797839/News/College%20Golf%20Competition%20for%20Wanganui/4aaaa.jpg
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1583797839/News/College%20Golf%20Competition%20for%20Wanganui/3aaaa.jpg
+extracurricular_areas:
+  - Sport
 show_in_slider: false
 date: 2020-03-09T23:50:59.202Z
 ---
