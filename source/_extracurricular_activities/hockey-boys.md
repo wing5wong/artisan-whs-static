@@ -1,6 +1,6 @@
 ---
 title: Hockey - Boys
-date: 2019-08-28T22:02:23.415Z
+date: 2020-01-26T21:02:23.415Z
 person_in_charge: Mrs N. Campbell
 extracurricular_area: Sport
 ---
@@ -19,4 +19,3 @@ Please be aware that travel costs may be added on for the teams that are playing
 
 **Teacher-in-Charge:** Mrs N Campbell (campbell.n@whs.ac.nz)  
 **1st XI Coach:** Mr Andrew Spence  
-**1st XI Manager:** Mr Darrell Hoskin
