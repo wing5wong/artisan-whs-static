@@ -1,6 +1,6 @@
 ---
 title: Rugby
-date: 2019-08-28T22:05:29.726Z
+date: 2020-01-26T21:05:29.726Z
 person_in_charge: Mr B. Parry
 extracurricular_area: Sport
 ---
@@ -14,10 +14,9 @@ Please note that Wanganui RFU rules state that students are not permitted to pla
 
 NB: Fees need to be paid prior to the start of the regular season. No pay no play.
 
-**Cost:** $40  
+**Cost:**  
+Fees TBC for U15 / U16 teams.  
 1st XV Fee $120 (approx.) - play in Manawatu competition.
 
-**Teachers-in-charge:**  
-Mrs L Murphy (murphy.l@whs.ac.nz)  
-Mr Bryn Parry (parry.b@whs.ac.nz)  
-**1st XV Head Coach:**  Mr Bryn Parry
+**Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)  
+**1st XV Head Coach:** Mr Mike Lama
