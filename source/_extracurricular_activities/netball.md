@@ -1,6 +1,6 @@
 ---
 title: Netball
-date: 2019-08-28T22:03:53.347Z
+date: 2020-01-26T21:03:53.347Z
 person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
 ---
@@ -16,7 +16,7 @@ Senior A1 & A2 have a uniform supplied to them.
 
 **Practice** time depends on the coach but is usually after school.
 
-**Cost:** $100 per player - needs to be paid before 8 May 2019.
+**Cost:** $100 per player - needs to be paid before trials on 16 March 2020.
 
 **Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)  
-**Senior A1 Coach:** Mrs Lisa Murphy
+**Senior A1 Coach:** Mrs Robyn Walford
