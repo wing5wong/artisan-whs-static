@@ -1,6 +1,6 @@
 ---
 title: Badminton
-date: 2019-08-28T21:55:06.610Z
+date: 2020-01-26T20:55:06.610Z
 person_in_charge: Mr G. Hardy
 extracurricular_area: Sport
 blocks: []
