@@ -4,9 +4,6 @@ date: 2019-08-28T22:00:29.655Z
 person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
 ---
-**Background**  
-Whanganui High school now has a strong Cross Country programme, and last year we had two of our students finish in the top 5 at the NZ Secondary Schools Nationals, and one selected in the NZ Secondary Schools’ team for the Australasian champs where they finished 4th.  
-
 **Structure**  
 As well as our annual Cross Country Champs, Whanganui High School students compete and train through the school. We have a year-round programme with emphasis on Cross Country and conditioning during winter and athletics in summer. The Cross Country schedule compliments the training for other winter sport codes within the school. 
 
