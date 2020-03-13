@@ -5,7 +5,7 @@ person_in_charge: Mr G. Hardy
 extracurricular_area: Sport
 blocks: []
 ---
-Badminton is held in Term 2 and 3 on Fridays after school in the Seddon and Reeves Gym from 3.30pm - 5.30pm.
+Badminton is held in Term 2 and 3 on Fridays after school in the Te Wehi and Te Mana Gymnasiums from 3.30pm - 5.30pm.
 
 **Competitions this year:**  
 Juniors - Central 6 competition, Whanganui Secondary School Championship, Junior tournament - Term 4  
