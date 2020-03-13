@@ -1,10 +1,10 @@
 ---
 title: Softball - Boys
-date: 2019-08-28T22:06:10.451Z
+date: 2020-01-26T21:06:10.451Z
 person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
 ---
-Our students play for clubs on Saturdays and we will be sending a Boys and Girls team to the Regional Tournament in Gisborne during Term 1.
+Our students play for clubs on Saturdays and we will be sending a Boys and Girls team to the Regional Tournament in Hastings during Term 1.
 
 **Cost:** $20 (Saturday competition)  
 Regional Tournament week - extra cost
@@ -13,5 +13,5 @@ Regional Tournament week - extra cost
 
 **Terms:** Term 4 & Term 1 the following year 
 
-**Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)  
-**Coaches:**  Marama Savage / Shaun Pirere
+**Teacher-in-charge:** Miss Kerwyn Morgan (morgan.k@whs.ac.nz)  
+**Coach:** Ms Kay Kotuhi-Brown
