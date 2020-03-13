@@ -1,14 +1,14 @@
 ---
 title: Rowing
-date: 2019-08-28T22:04:48.212Z
+date: 2020-01-26T21:04:48.212Z
 person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
 ---
-Wanganui is fortunate to have an excellent facility for all year-round rowing. We have an arrangement with the Aramoho Whanganui Rowing Club with approximately 50 students who are able to take advantage of the facilities and coaching.
+Wanganui is fortunate to have an excellent facility for all year-round rowing. We have an arrangement with the Aramoho Whanganui Rowing Club with approximately 35 students who are able to take advantage of the facilities and coaching.
 
 If you are interested in rowing or becoming coxswain, the sport of rowing could be your choice of activity whilst at WHS. The coxswain steers the boat and gives the crew instruction about their performance.
 
-**Practices** are on Saturday mornings and three or four evenings per week in summer. In winter coaches run indoor fitness classes where possible. There will also be a 'Learn to Row' programme for new rowers starting in February 2018.
+**Practices** are on Saturday mornings and three or four evenings per week in summer. In winter coaches run indoor fitness classes where possible. There will also be a 'Learn to Row' programme for new rowers starting in February 2020.
 
 **The season** starts in September/October and ends in March/April after the Maadi Cup Regatta. Rowers participate in a number of regattas over this time.
 
