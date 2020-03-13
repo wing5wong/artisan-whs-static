@@ -1,6 +1,6 @@
 ---
 title: Cricket - Girls
-date: 2019-08-28T21:59:54.797Z
+date: 2020-01-26T20:59:54.797Z
 person_in_charge: Mr A. Lock
 extracurricular_area: Sport
 ---
@@ -12,11 +12,11 @@ No experience is necessary to start playing, just a good attitude and a willingn
 
 **Played** on Wednesday.
 
-All **equipment** is provided and the girls wear PE tops with black or green shorts (our 1st XI are provided with black pants for games).
+All **equipment** is provided and the girls wear PE tops with black or green shorts.
 
 **Cost:** $20 per year
 
 **Terms:** 1 and 4
 
-**Teacher-in-charge:** Mr A Lock (lock.a@whs.ac.nz)  
-**Coach:** 1st XI - Mr Andrew Lock
+**Teacher-in-charge:** Mrs T Hoobin (hoobin.t@whs.ac.nz)  
+**1st XI Coach:** Mr Warren Marr
