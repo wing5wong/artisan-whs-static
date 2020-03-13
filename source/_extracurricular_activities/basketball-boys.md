@@ -15,4 +15,4 @@ Social Teams (both Snr & Jnr) play on Friday nights in the Whanganui Secondary S
 
 Competitive teams will have one practice per week (normally straight after school).
 
-**Teacher-in-charge:** Contact Miss L Martin (martin.l@whs.ac.nz)
+**Teacher-in-charge:** Miss L Martin (martin.l@whs.ac.nz)
