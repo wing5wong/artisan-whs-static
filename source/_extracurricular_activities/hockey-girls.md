@@ -1,6 +1,6 @@
 ---
 title: Hockey - Girls
-date: 2019-08-28T22:03:17.389Z
+date: 2020-01-26T21:03:17.389Z
 person_in_charge: Mr G. Hardy
 extracurricular_area: Sport
 ---
@@ -18,4 +18,4 @@ Please be aware that travel costs may be added on for the teams that are playing
 **Terms:** 2 and 3
 
 **Teacher-in-Charge:** Mr G Hardy (hardy.g@whs.ac.nz)  
-**1st XI Coach:** Melissa Goff
+**1st XI Coach:** Mrs Melissa Goff
