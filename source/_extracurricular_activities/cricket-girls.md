@@ -12,7 +12,7 @@ No experience is necessary to start playing, just a good attitude and a willingn
 
 **Played** on Wednesday.
 
-All **equipment** is provided and the girls wear PE tops with black or green shorts.
+All **equipment** is provided and the girls wear PE tops with black shorts.
 
 **Cost:** $20 per year
 
