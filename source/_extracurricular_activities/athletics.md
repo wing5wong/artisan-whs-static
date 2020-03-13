@@ -16,7 +16,8 @@ Club nights are every Tuesday evening Terms 1 & 4, 6.30pm at Cooks Gardens. Club
   
 _School Athletics_ this year (whole school, year 9-13) will be held at Cooks Gardens term 1 on Thursday 20 February.  
 _Whanganui Secondary Schools_ competition is on Wednesday 18 March.  
-_North Island Championships_ are in Hamilton on 2-5 April and the N.Z.S.S Champs are in Tauranga on 3-6 December 2020. 
+_North Island Championships_ are in Hamilton on 2-5 April and the  
+_N.Z.S.S Champs_ are in Tauranga on 3-6 December 2020. 
 
 **Training Days** for the season starts first week of school and will be held every Monday and Thursday from 3.15pm at school and Saturday mornings 9.30am at Cooks Gardens or other venues.  There is an entry level and performance group to suit age and experience. 
 
