@@ -1,6 +1,6 @@
 ---
 title: Basketball - Boys
-date: 2019-08-28T21:56:58.259Z
+date: 2020-01-26T20:56:58.259Z
 person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
 ---
@@ -11,8 +11,8 @@ Social Teams (both Snr & Jnr) play on Friday nights in the Whanganui Secondary S
 
 Competitive teams will have one practice per week (normally straight after school).
 
-**Cost**: $55 for Fridays
+**Cost**: $55 for Fridays; $20 for Warm-Up shirt
 
 **Terms:** 2 and 3
 
-**Teacher-in-charge:** Contact Mrs L Murphy (murphy.l@whs.ac.nz)
+**Teacher-in-charge:** Contact Miss L Martin (martin.l@whs.ac.nz)
