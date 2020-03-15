@@ -2,7 +2,7 @@
 title: Girls Football 1st XI trials - ALL
 date: 2020-03-17T19:54:53.711Z
 ---
-Girls Football trials next Wednesday 18 March afterschool.  
+Girls Football trials are on Wednesday 18 March afterschool.  
 
 All ages are welcome to trial.  
 
