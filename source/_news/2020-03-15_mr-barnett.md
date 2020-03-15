@@ -1,5 +1,5 @@
 ---
-title: Mr Barnett
+title: Mr Barnett - Finisher at Ironman 70.3 Taupo
 news_author:
   date: 2020-03-06T23:34:57.059Z
 show_in_slider: false
