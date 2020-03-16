@@ -1,6 +1,9 @@
 ---
 title: Central North Island Secondary Schools Debating Competition
 feature_image:
+  description: >-
+    CNI Senior Champions 2020 - (left) Priyansha Bangia, Merle Chant and Leah
+    Aiono.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1584394028/News/20200315_171339.jpg
 news_author:
