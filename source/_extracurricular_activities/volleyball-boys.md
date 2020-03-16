@@ -4,8 +4,8 @@ date: 2020-01-26T21:08:14.735Z
 person_in_charge: Mrs M. Bennetts
 extracurricular_area: Sport
 ---
-**Trials for junior teams** are at the start of Term 1.  
-**Senior competitive teams** trail in Term 3.  
+**Trials for Junior teams** are at the start of Term 1.  
+**Senior Competitive teams** trail in Term 3.  
 Opportunities to create own team also exist for Senior social students.
 
 **Practices** vary during the week but they are generally at breaks or after school in the Te Wehi or Te Mana gym.
@@ -14,7 +14,7 @@ Opportunities to create own team also exist for Senior social students.
 
 **Senior Social teams** play Term 1 only. Games are Wednesday afterschool at Jubilee Stadium.
 
-**Senior Boys and Girls competitive teams** work towards going to Secondary School Nationals in Term 1 and also play in the Palmerston North competition. 
+**Senior Boys and Girls Competitive teams** work towards going to Secondary School Nationals in Term 1 and also play in the Palmerston North competition. 
 
 **Cost:** $10 - Juniors and Social Seniors playing in local competition.  
 **Competitive Seniors:** $65 for Palmerston North competition and cost of Nationals.
