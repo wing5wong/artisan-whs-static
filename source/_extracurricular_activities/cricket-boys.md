@@ -20,6 +20,8 @@ We also play Inter-school Sports Exchange matches.
 Seniors $20 per year  
 Juniors $40 per year  
 
+(Please be aware that extra costs may be added for interschool away games).   
+
 **Terms:** 1 and 4
 
 **Teacher-in-charge:** Mrs T Hoobin (hoobin.t@whs.ac.nz)  
