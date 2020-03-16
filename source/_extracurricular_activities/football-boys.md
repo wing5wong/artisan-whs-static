@@ -10,7 +10,7 @@ This year Central Football are hoping to have a Secondary School League on Wedne
 
 There will be occasional interschool games during Terms 2 & 3.
 
-**Training** is after school on WHS fields
+**Training** is after school on WHS fields.
 
 **Cost:** $80 (approx)
 
