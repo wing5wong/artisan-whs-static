@@ -1,5 +1,5 @@
 ---
-title: WSS Athletics Championships 2020
+title: WSS Athletics Championships 2020 is going ahead!
 date: 2020-03-17T21:44:52.877Z
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1583361285/Events/download.jpg
