@@ -8,7 +8,7 @@ extracurricular_area: Sport
 As well as our annual Cross Country Champs, Whanganui High School students compete and train through the school. We have a year-round programme with emphasis on Cross Country and conditioning during winter and athletics in summer. The Cross Country schedule compliments the training for other winter sport codes within the school. 
 
 **Competitions**   
-WHS School Cross Country takes place on 6 May at Whanganui High School.
+WHS School Cross Country takes place on 6 May at Whanganui High School.  
 Year 9 and Year 10 students will be preparing for this in PE classes.
 
 From the school event, teams will be selected for the Whanganui Secondary School’s competition, which takes place on 21 May 2020.
