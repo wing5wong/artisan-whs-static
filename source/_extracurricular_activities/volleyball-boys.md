@@ -5,7 +5,7 @@ person_in_charge: Mrs M. Bennetts
 extracurricular_area: Sport
 ---
 **Trials for Junior teams** are at the start of Term 1.  
-**Senior Competitive teams** trail in Term 3.  
+**Senior Competitive teams** trial in Term 3.  
 Opportunities to create own team also exist for Senior social students.
 
 **Practices** vary during the week but they are generally at breaks or after school in the Te Wehi or Te Mana gym.
