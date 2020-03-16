@@ -19,7 +19,3 @@ Whanganui High School had four teams competing, a junior team and three senior t
 **Leah Aiono, Priyansha Bangia and Merle Chant, won the senior final. In addition to this, Priyanshia Bangia was awarded a Highly Commended Certificate and Leah Aiono and Merle Chant were selected for the Central North Island Regional team, and will go on to compete at the National Competition, later in the year.**  
 
 Congratulations to all the students who represented the school.  
-
-*Ms Susan Hughes  
-English Teacher*
- 
