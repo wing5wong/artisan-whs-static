@@ -2,4 +2,6 @@
 title: North Island Athletic Championships CANCELLED
 date: 2020-04-01T21:23:21.301Z
 ---
-The North Island Athletic Championships will be held in Hamilton this year, 2-5 April.
+The North Island Athletic Championships will be held in Hamilton this year, 2-5 April.  
+
+[School Sport Events on National Calendar Suspended](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.nzsssc.org.nz%2Fnewsarticle%2F88188%3FnewsfeedId%3D51035%26fbclid%3DIwAR1NXVSgtxmgjpCQNFfG8ateyK8649wz757qdjaCcUTeFqmek1jZU-3ujyg&h=AT3u2adWDBE2m95-QTniTnYz26hlu7pWciw8R7iJg7jMNLwYFS4SpYp6tEqVAwbdmUfm2lRD9_wsLljPSKDcCr7QQ7-UV5MT6WqGrSMkb15IKQj7Q6b18FxWAxmvgQWbZEDqes-PLsfi_gZn56vRPLHszEFDlTItuRM3-rSBlTxdrm59nrAUtGCn-IFMCZYCFtO2BbakqCRVJ2Vdv1nVDq0drY8syhmupHlht6b38y7o-dMXa8VLxU1DLcyjsY4ztfWHvuHygA7EfBIIEpiGilMBa72WqGPS0TztP_8CS-HsTVJOZzdm0vw8ehmeMnu_dKGPUVlqsTsV1rLJyhdCWc6ibs9n_xnnM80bxRC4cVqPCEJCgbtplq7HYGBWsJx10sOJ4kvXyGjGGZM9daNuNsjmm5wlykaftSbS2Qx0mBYuaUnwOLYEB5nERj6rPtmcEIbR_860EbvnTqnwwHhZBm_tU-YFHqpEnkLaVwtsBAQG_56fFHI3i8uDyGbgIixYSHI9c_lQcGOZD1usZUGG_ahCstiz1czfWVSFHqfWIsZhDn5ggO34MpPAmftPt1G-qTL1WYKVv6dds5YZMkUSBcpCQe5rkGTKRB0_WbeBFr6n0TxstlKTMrK1u4ioxm_04vwN)
