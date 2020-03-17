@@ -1,5 +1,5 @@
 ---
-title: Mr Barnett - qualifying through to the Ironman 70.3 World Champs!
+title: Mr Barnett - qualifying through to the IRONMAN 70.3 WORLD Champs!
 feature_image:
   description: >-
     Mr Barnett with his medals. One for finishing and the other for the
