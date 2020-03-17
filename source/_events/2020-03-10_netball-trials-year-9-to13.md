@@ -1,6 +1,6 @@
 ---
 title: Netball trials - ALL
-date: 2020-03-16T19:43:01.562Z
+date: 2020-03-18T19:43:01.562Z
 ---
 Netball trials for ALL teams will be next week (week 8).  
 
