@@ -12,6 +12,8 @@ news_author:
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1584415124/News/150x150_Logo.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1584482847/News/maxresdefault.jpg
 show_in_slider: false
 date: 2020-03-15T23:34:57.079Z
 ---
