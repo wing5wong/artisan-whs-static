@@ -6,7 +6,7 @@ feature_image:
     qualification slot to the Worlds!
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1584480371/News/Josh_Barnett_Ironman_70.3.jpg
-  credit: finisherpix.com
+  credit: ''
 news_author:
   date: 2020-03-06T23:34:57.059Z
 image_gallery:
