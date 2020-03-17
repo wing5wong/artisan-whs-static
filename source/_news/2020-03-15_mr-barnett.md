@@ -1,7 +1,9 @@
 ---
 title: Mr Barnett - qualifying through to the Ironman 70.3 World Champs!
 feature_image:
-  description: ''
+  description: >-
+    Mr Barnett with his medals. One for finishing and the other for the
+    qualification slot to the Worlds!
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1584480371/News/Josh_Barnett_Ironman_70.3.jpg
   credit: finisherpix.com
