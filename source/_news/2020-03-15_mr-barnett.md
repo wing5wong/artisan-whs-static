@@ -1,9 +1,10 @@
 ---
 title: Mr Barnett - Finisher at Ironman 70.3 Taupo
 feature_image:
-  description: finisherpix.com
+  description: ''
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1584415093/News/Ironman_70.3_Josh_Barnett..png
+  credit: finisherpix.com
 news_author:
   date: 2020-03-06T23:34:57.059Z
 image_gallery:
