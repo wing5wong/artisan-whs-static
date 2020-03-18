@@ -9,10 +9,10 @@ feature_image:
 news_author:
   date: 2020-03-14T21:12:16.220Z
 image_gallery:
-  - description: CNI Junior and Senior winners!
+  - description: CNI Junior and Senior Champions 2020!
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1584569349/News/cni_winners.jpg
-  - description: Finalist WHS & WCS.
+  - description: Finalist WCS and WHS.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1584569384/News/Finalists_WHSandWCS.jpg
   - description: Whanganui High School whole squad of competitors.
