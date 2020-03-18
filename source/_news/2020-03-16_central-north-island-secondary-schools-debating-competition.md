@@ -12,10 +12,11 @@ image_gallery:
   - description: CNI Junior and Senior Champions 2020!
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1584569349/News/cni_winners.jpg
-  - description: Finalist WCS and WHS.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1584569384/News/Finalists_WHSandWCS.jpg
-  - description: Whanganui High School whole squad of competitors.
+  - description: >-
+      Whole squad of Whanganui High School competitors; from left - Olivia
+      Bedwell, Leah Aiono, Hazel Chant, Charlotte Hardy, Sophia Bedwell, Kera
+      Forrest, Merle Chant, Priyansha Bangia, Firooze Colaabavala, Benjamin
+      White.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1584569410/News/whole_squad_2.jpg
 show_in_slider: true
