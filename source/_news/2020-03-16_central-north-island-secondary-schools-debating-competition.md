@@ -8,6 +8,16 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1584394028/News/20200315_171339.jpg
 news_author:
   date: 2020-03-14T21:12:16.220Z
+image_gallery:
+  - description: CNI Junior and Senior winners!
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1584569349/News/cni_winners.jpg
+  - description: Finalist WHS & WCS.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1584569384/News/Finalists_WHSandWCS.jpg
+  - description: Whanganui High School whole squad of competitors.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1584569410/News/whole_squad_2.jpg
 show_in_slider: true
 date: 2020-03-16T21:12:16.248Z
 ---
