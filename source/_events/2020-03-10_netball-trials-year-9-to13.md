@@ -2,7 +2,7 @@
 title: Netball trials - Year 9 & 10
 date: 2020-03-18T19:43:01.562Z
 ---
-Netball trials for ALL teams will be next week (week 8).  
+Netball trials for ALL teams will be in week 8.  
 
 Thursday 19 March, Y9-10, 2pm-3.30pm  
 Friday 20 March, Y9-10, 2pm-3.30pm  
