@@ -1,5 +1,5 @@
 ---
-title: Girls Football 1st XI trials - ALL - CANCELLED
+title: Girls Football 1st XI trials - CANCELLED
 date: 2020-03-17T19:54:53.711Z
 ---
 Girls Football trials are on Wednesday 18 March afterschool.  
