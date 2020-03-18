@@ -33,4 +33,4 @@ Whanganui High School Outdoor Education teacher, Mr Barnett came 5th in his age 
 
 Congratulations Josh, you are an inspiration to all of your students!  👍👍
 
-We wish you all the very best for the World Champs in November!!
+We wish you all the very best for the World Champs in November!!  😀
