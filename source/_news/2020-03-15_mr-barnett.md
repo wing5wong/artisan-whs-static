@@ -21,7 +21,7 @@ date: 2020-03-15T23:34:57.079Z
 ---
 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ Mr Barnett – 2020 IRONMAN 70.3 Taupo  
 
-Whanganui High School Outdoor Education teacher, Mr Barnett came 5th in his age group at the 2020 IRONMAN 70.3 Taupo on Saturday 7 March! The top seven qualified for IRONMAN 70.3 WORLD CHAMPS in Taupo, 28/29 November. 👏👏  
+Whanganui High School Outdoor Education teacher, Mr Barnett came 5th in his age group at the 2020 IRONMAN 70.3 Taupo on Saturday 7 March with a time of 04:34:48! The top seven qualified for IRONMAN 70.3 WORLD CHAMPS in Taupo, 28/29 November. 👏👏  
 
 **Race summary:**  
   
