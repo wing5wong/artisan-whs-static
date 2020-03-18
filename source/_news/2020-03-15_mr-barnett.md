@@ -30,6 +30,6 @@ Run  01:31:07
 
 Overall 04:34:48  
 
-Congratulations Josh, you are an inspiration to all your students!  👍👍
+Congratulations Josh, you are an inspiration to all of your students!  👍👍
 
 We wish you all the best for the World Champs in November!!
