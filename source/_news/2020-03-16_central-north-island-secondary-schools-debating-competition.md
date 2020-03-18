@@ -25,10 +25,12 @@ Over the weekend of the 14 and 15 March, Whanganui High School hosted the annual
 
 Teams were entered from Taranaki, Palmerston North and Whanganui.  
 
-Whanganui High School had four teams competing, a junior team and three senior teams.  
+Whanganui High School had four teams competing, a Junior team and three Senior teams.  
 
-**It was a successful weekend for High School, with Sophia Bedwell, Hazel Chant and Charlotte Hardy winning the junior final, and Toni Adams being awarded, Most Promising Speaker.** 
+**It was a successful weekend for High School, with Sophia Bedwell, Hazel Chant and Charlotte Hardy winning the Junior final against Hawera. Toni Adams was awarded Most Promising Speaker.** 
 
-**Leah Aiono, Priyansha Bangia and Merle Chant, won the senior final. In addition to this, Priyanshia Bangia was awarded a Highly Commended Certificate and Leah Aiono and Merle Chant were selected for the Central North Island Regional team, and will go on to compete at the National Competition, later in the year.**  
+**Leah Aiono, Priyansha Bangia and Merle Chant won the Senior final against Collegiate. In addition to this, Priyanshia Bangia was awarded a Highly Commended Certificate. To top it off Leah Aiono and Merle Chant were selected for the Central North Island Regional team and will go on to compete at the National Competition, later in the year.**  
 
 Congratulations to all the students who represented the school.  
+
+You made us very proud! 
