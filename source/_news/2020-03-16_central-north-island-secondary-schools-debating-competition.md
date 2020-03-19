@@ -23,7 +23,7 @@ image_gallery:
   - description: >-
       Whole squad of Whanganui High School competitors; from left - Olivia
       Bedwell, Leah Aiono, Hazel Chant, Charlotte Hardy, Sophia Bedwell, Kera
-      Forrest, Merle Chant, Priyansha Bangia, Firooze Colaabavala, Benjamin
+      Forrest, Merle Chant, Priyansha Bangia, Firooze Colaabavala & Benjamin
       White. Absent from photo - Calum Sinclair & Toni Adams.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1584569410/News/whole_squad_2.jpg
