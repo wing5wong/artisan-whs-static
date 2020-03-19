@@ -12,5 +12,5 @@ date: 2020-03-19T00:54:50.308Z
 
 Events cancelled and information.
 
-Here is a helpful video put out by schooltv.me:\
+Here is a helpful video put out by schooltv.me:  
 [Special Report: Coronavirus](https://schooltv.me/wellbeing_news/special-report-coronavirus)
