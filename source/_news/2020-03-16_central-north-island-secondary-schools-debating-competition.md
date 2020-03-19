@@ -1,5 +1,5 @@
 ---
-title: Central North Island Secondary Schools Debating Competition
+title: CNI Secondary Schools Debating Competition Results 2020
 feature_image:
   description: >-
     CNI Senior Champions 2020 - (left) Priyansha Bangia, Merle Chant and Leah
