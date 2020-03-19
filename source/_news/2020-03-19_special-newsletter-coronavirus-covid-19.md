@@ -1,5 +1,5 @@
 ---
-title: Special Newsletter - Coronavirus Update
+title: Special Newsletter - Urgent - Coronavirus Update
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1572552807/News/GREEN_WHS_HEADER.jpg
