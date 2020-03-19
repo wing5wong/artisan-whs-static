@@ -10,7 +10,9 @@ date: 2020-03-19T00:54:50.308Z
 ---
 [Special Newsletter from the Principal, Mr Martin McAllen.  ](https://res.cloudinary.com/whanganuihigh/image/upload/v1584580931/newsletters/Special_Newsletter_re_Coronavirus_19.03.20.pdf)
 
-Events cancelled and other information.
+Regarding Events cancelled and other information.  
 
-Here is a helpful video put out by schooltv.me:  
+[Ministry of Health Link](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public?fbclid=IwAR2vwBlLHZga9L8QxuBijZpnptk7VHX8jS-v7HGICPfwiTyoJBcCe2jjxAk)
+
+Here is a helpful report and video for parents by schooltv.me:\
 [Special Report: Coronavirus](https://schooltv.me/wellbeing_news/special-report-coronavirus)
