@@ -13,10 +13,10 @@ image_gallery:
       CNI Junior Champions 2020 - (left) Charlotte Hardy, Sophia Bedwell & Hazel
       Chant.
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1584576610/News/Junior_girls.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1584577571/News/Junior-girls-cropped.jpg
   - description: Most Promising Speaker - Toni Adams.
     image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1584576626/News/toni_adams.jpg
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1584577589/News/toni-adams.cropped.jpg
   - description: CNI Junior and Senior Champions 2020!
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1584569349/News/cni_winners.jpg
