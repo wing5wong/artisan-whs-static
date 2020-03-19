@@ -14,5 +14,5 @@ Regarding Events cancelled and other information.
 
 [Ministry of Health Link](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public?fbclid=IwAR2vwBlLHZga9L8QxuBijZpnptk7VHX8jS-v7HGICPfwiTyoJBcCe2jjxAk)
 
-Here is a helpful report and video for parents by schooltv.me:\
+Here is a helpful report and video for parents by schooltv.me:  
 [Special Report: Coronavirus](https://schooltv.me/wellbeing_news/special-report-coronavirus)
