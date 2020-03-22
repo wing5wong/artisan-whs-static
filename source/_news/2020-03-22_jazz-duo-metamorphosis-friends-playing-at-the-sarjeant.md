@@ -2,7 +2,7 @@
 title: Jazz duo Metamorphosis & friends playing at the Sarjeant
 feature_image:
   image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1584919841/News/Chester_Nevil_RCP_12.3.20.jpg
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1584920080/News/Chester-Nevil-RCP-12.3.20.jpg
 news_author:
   date: 2020-03-11T23:28:28.618Z
   publication: River City Press
