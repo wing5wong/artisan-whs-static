@@ -1,10 +1,12 @@
 ---
-title: Girls Hockey trials - ALL
+title: Girls Hockey trials - CANCELLED
 date: 2020-03-22T19:59:42.646Z
 ---
 Trials are on Monday 16 March and Monday 23 March at the Gonville turf - 5.30pm-7.30pm  
 
-Please sign up at the Student Centre.  
+Please sign up at the Student Centre.
 
-*Mr Hardy  
+## *NOW CANCELLED*
+
+*Mr Hardy\
 Teacher in Charge*
