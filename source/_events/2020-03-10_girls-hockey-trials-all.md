@@ -6,7 +6,7 @@ Trials are on Monday 16 March and Monday 23 March at the Gonville turf - 5.30pm-
 
 Please sign up at the Student Centre.
 
-## *NOW CANCELLED*
+***NOW CANCELLED*** 
 
 *Mr Hardy\
 Teacher in Charge*
