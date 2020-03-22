@@ -1,5 +1,5 @@
 ---
-title: Tranzit have informed WHS about some bus cancellations
+title: Several Tranzit Rural Bus cancellations
 is_emergency: false
 date: 2020-03-22T00:39:24.582Z
 subtitle: effective immediately
