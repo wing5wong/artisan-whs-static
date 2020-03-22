@@ -4,7 +4,7 @@ feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1584845427/News/bus_cancellation_list.jpg
 news_author:
-  date: 2020-03-22T22:49:13.146Z
+  date: 2020-03-21T22:49:13.146Z
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1584837696/News/tranzit_coachlines_image.better.png
