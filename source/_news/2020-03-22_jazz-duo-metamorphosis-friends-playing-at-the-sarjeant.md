@@ -1,6 +1,7 @@
 ---
 title: Jazz duo Metamorphosis & friends playing at the Sarjeant
 feature_image:
+  description: 'Chester, Elaine and John standing with Rick seated.'
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1584920080/News/Chester-Nevil-RCP-12.3.20.jpg
 news_author:
