@@ -8,6 +8,6 @@ news_author:
 show_in_slider: true
 date: 2020-03-23T05:46:17.976Z
 ---
-\*\*\*Coronavirus Update\*\*\*
+**Coronavirus Update**
 
 [Special Letter 23/3/20 - Principal, Mr Martin McAllen](https://res.cloudinary.com/whanganuihigh/image/upload/v1584940305/newsletters/Notice_to_Parents_re_Covid-19_23.03.20.pdf)
