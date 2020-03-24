@@ -13,6 +13,9 @@ date: 2020-03-22T22:49:13.165Z
 ---
 Tranzit have informed WHS about some bus cancellations, due to reduced staffing availability following the government advice this weekend on those who should stay home.
 
-This is effective immediately, so these buses will not run on Monday: Turakina secondary, Kaiwhaiki, Waverley, Wylies bridge/Mangamahu, Ratana, Brunswick, Westmere.
+This is effective immediately, so these buses will not run on Monday: Turakina secondary, Kaiwhaiki, Waverley, Wylies bridge/Mangamahu, Ratana, Brunswick, Westmere.  
 
-Buses that are still running: Maxwell/Waitotara and Fordell (but not the Wylies bridge/Mangamahu connection minibus).
+... as of 24 March the Maxwell/Waitotara bus will also not be running.
+
+Buses that are still running:  
+Fordell (but not the Wylies bridge/Mangamahu connection minibus).
