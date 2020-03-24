@@ -1,7 +1,8 @@
 ---
 title: Whanganui High School - March Newsletter
 feature_image:
-  image: ''
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1585009634/newsletters/Top_of_newsletter_snip.png
 news_author:
   date: 2020-03-26T00:09:57.673Z
   publication: Rivercity Press
