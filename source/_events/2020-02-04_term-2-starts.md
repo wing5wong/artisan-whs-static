@@ -6,7 +6,7 @@ Term 2 starts on Wednesday 15 April.
 
 
 
-School will be open for distance learning only.  
+Schools will provide distance learning but are not physically open.  
 
 
 
