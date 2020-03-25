@@ -1,5 +1,5 @@
 ---
-title: TERM 2 STARTS
+title: 'TERM 2 STARTS, for distance learning only'
 date: 2020-04-15T03:44:07.688Z
 ---
 Term 2 starts on Wednesday 15 April.  
