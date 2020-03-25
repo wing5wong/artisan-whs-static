@@ -8,4 +8,7 @@ news_author:
 show_in_slider: true
 date: 2020-03-25T10:30:12.951Z
 ---
-[Read the Special Newsletter 25 March 2020 - Coronavirus Update](https://res.cloudinary.com/whanganuihigh/image/upload/v1585111750/newsletters/Special_Newsletter_re_Coronavirus_25.03.20.pdf)
+**Coronavirus Update**
+
+
+[Read the Special Newsletter 25 March 2020 - Principal, Mr Martin McAllen](https://res.cloudinary.com/whanganuihigh/image/upload/v1585111750/newsletters/Special_Newsletter_re_Coronavirus_25.03.20.pdf)
