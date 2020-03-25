@@ -2,6 +2,6 @@
 title: Good Friday
 date: 2020-04-10T03:50:57.015Z
 ---
-Good Friday - Public Holiday - Friday 10 April (now within school holidays).  
+Good Friday - Public Holiday - Friday 10 April (now within School Holidays).  
 
 No school.
