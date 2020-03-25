@@ -1,5 +1,5 @@
 ---
-title: Special Letter to Parents - Coronavirus Update
+title: Special Newsletter - Coronavirus Update
 is_emergency: false
 date: 2020-03-24T03:16:23.585Z
 subtitle: 25 March 2020
