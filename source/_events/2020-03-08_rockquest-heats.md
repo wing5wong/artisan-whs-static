@@ -9,5 +9,4 @@ Rockquest Heats are in Whanganui on Sunday 7 June at the Royal Wanganui Opera Ho
 
 
 For any updates addressing COVID-19 go to:  
-
 [Smokefreerockquest Facebook Page](https://www.facebook.com/pg/rockquest/posts/)
