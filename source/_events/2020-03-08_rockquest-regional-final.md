@@ -8,5 +8,4 @@ Smokefree Rockquest Regional Final 2020.
 Royal Wanganui Opera House on Friday 19 June.  
 
 For any updates addressing COVID-19 go to:  
-
 [Smokefreerockquest Facebook Page](https://www.facebook.com/pg/rockquest/posts/)
