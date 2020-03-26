@@ -10,18 +10,18 @@ news_author:
   publication: Whanganui Chronicle
   name: Staff Reporter
 image_gallery:
-  - description: The WHS rowers at Lake Karapiro.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1585261814/News/4JL37N6VLRHRTOKVNDYGTC2ZHI.jpg
-  - description: Zane Mills-Nossiter.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1585261814/News/6XN3G5XJMZD3VIW3FBORFDLKAQ.jpg
   - description: The WHS touch teams in Palmerston North.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1585261816/News/SR4LUU4JB5H5TB6J2DD37WRT6U.jpg
+  - description: The WHS rowers at Lake Karapiro.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1585261814/News/4JL37N6VLRHRTOKVNDYGTC2ZHI.jpg
   - description: Aspen Fell with her trophy.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1585261815/News/TADIY64MTFDDPPZEC27I3KDUVM.jpg
+  - description: Zane Mills-Nossiter.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1585261814/News/6XN3G5XJMZD3VIW3FBORFDLKAQ.jpg
   - description: Joshua Barnett.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1585261815/News/WQML2IF5SJD3BEHB2CYCID3DIA.jpg
@@ -32,7 +32,7 @@ Before schools closed this week, Whanganui High School had been keeping up its b
 
 The Whanganui Chronicle takes a look at a number of events and stand out performances yet to receive much coverage.
 
-Swimming Sports
+**Swimming Sports**
 
 Swimming sports was another successful event with plenty of competition and school spirit amongst everyone.
 
@@ -46,7 +46,7 @@ Ethan Bryers smashed the Intermediate Boys 100m Freestyle record with a time of 
 
 Bryers also broke the long-held Intermediate Boys 50m Breaststroke record with a time of 34.35s, last set in 2007 by Nicholas Berry with 34.90s.
 
-Touch
+**Touch**
 
 WHS Touch teams headed to Palmerston North on March 14 for the Secondary School Zones Touch Tournament.
 
@@ -56,7 +56,7 @@ They went on to win their quarterfinal but lost a hard semifinal against Manukur
 
 The WHS Girls team finished tied for third with Palmerston North Girls High. Both teams had an awesome day.
 
-Rowing
+**Rowing**
 
 WHS took away 31 students to compete in the North Island Secondary School Rowing Champs held at Lake Karapiro.
 
@@ -66,7 +66,7 @@ All told, the WHS had nine A semifinals and the girls Under 15 Octuple went stra
 
 An excellent effort from our WHS rowing crews making it into six B Finals and eight A Finals.
 
-Artistic Skating
+**Artistic Skating**
 
 Aspen Fell had her first Artistic Skating Competition for the 2020 season in Upper Hutt two weekends ago.
 
@@ -76,7 +76,7 @@ This is a combined scoring event where and overall total comes from two routines
 
 Aspen also won first place for Advanced Figures to make a great start to 2020.
 
-Kayaking
+**Kayaking**
 
 Zane Mills-Nossiter had been selected to trial for the Asia Pacific team in April.
 
@@ -89,7 +89,7 @@ The pair also won gold as part of the Under 16 K4 500m.
 
 Sewell also won gold in both the Under 14 K1 500 and the Under 16 K1 5000m.
 
-Ironman
+**Ironman**
 
 It's not just the WHS students doing well in sport endeavours, as staff member Joshua Barnett competed in the 2020 Ironman 70.3 Taupo.
 
