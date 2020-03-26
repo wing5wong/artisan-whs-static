@@ -83,6 +83,7 @@ Zane Mills-Nossiter had been selected to trial for the Asia Pacific team in Apri
 Those from the trial would be part of the NZ Junior Kayak programme in May and from there he would go to Japan to race as part of the New Zealand Team in the Asia Pacific Under 16 championships.
 
 WHS also had some good results from kayakers at the CRNZ champs at Lake Karapiro.
+
 Mills-Nossiter won gold in the Under 16 K1 500m and gold in K2 500m teaming with Angus Sewell.
 
 The pair also won gold as part of the Under 16 K4 500m.
