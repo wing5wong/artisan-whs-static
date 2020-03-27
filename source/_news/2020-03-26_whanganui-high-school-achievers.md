@@ -1,5 +1,5 @@
 ---
-title: 'College Sports: Whanganui High School Achievers'
+title: 'College Sport News: Whanganui High School Achievers'
 feature_image:
   description: Ethan Bryers competes on Whanganui High School's swimming sports day.
   image: >-
