@@ -10,7 +10,7 @@ news_author:
 show_in_slider: false
 date: 2020-03-27T00:25:04.622Z
 ---
-Congratulations to the following students who have been selected for the WHS 1st XI Boys Hockey Squad for 2020:
+Congratulations to the following students who have been selected for the WHS 1st XI Boys Hockey Squad for 2020:  
 
 Connor Hoskin  
 Nathan Cohen  
