@@ -43,7 +43,7 @@ AWRC and WHS Rowing Clubs together purchased a new quad for our WHS rowers to us
 
 The boat is named ‘Pawson Family’. Ken and Annie Pawson along with sons Gus and Hugh have been a huge part of WHS and AWRC rowing over many years. 
 
-It was a great way to show our appreciation of their hard work they have done and still do for rowing 😊 Congrats Pawson’s 🎉🎉
+It was a great way to show our appreciation of their hard work they have done and still do for rowing 😊. Congrats Pawson’s 🎉🎉
 
 Unfortunately the first regatta to use it was going to be Maadi Cup next week, but this will have to wait until next season!! 😢
 
