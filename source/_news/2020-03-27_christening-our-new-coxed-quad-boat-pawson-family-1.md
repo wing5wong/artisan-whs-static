@@ -3,7 +3,7 @@ title: Christening our new coxed quad boat 'Pawson Family'
 feature_image:
   description: >-
     Great day last Saturday at the Aramoho Whanganui Rowing Club christening our
-    new coxed quad boat.
+    new coxed quad boat 'Pawson Family'.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1585270929/News/Pawson%20Family%20quad%20boat/1.91172028_1522648731217561_3816990019239804928_n_1.jpg
 news_author:
