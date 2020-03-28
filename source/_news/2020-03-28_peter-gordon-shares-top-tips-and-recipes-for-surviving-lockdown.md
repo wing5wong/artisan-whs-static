@@ -14,9 +14,9 @@ news_author:
 show_in_slider: false
 date: 2020-03-28T00:16:52.202Z
 ---
-When your favourite takeaway outlets and restaurants are closed and your cooking skills are minimal at best, who you gonna call?
+_When your favourite takeaway outlets and restaurants are closed and your cooking skills are minimal at best, who you gonna call?_
 
-Reporter Liz Wylie called on Whanganui-made, world famous chef Peter Gordon to share some tips and recipes.
+_Reporter Liz Wylie called on Whanganui-made, world famous chef Peter Gordon to share some tips and recipes._
 
 Gordon who lives in London where he owns two restaurants has just arrived in Auckland where he will be in self-isolation for the next few weeks.
 
@@ -50,19 +50,19 @@ The chef says 1.5kg chicken drumsticks will be between 11 to 15.
 
 "Bulk out each meal with bread, green vegetables or salad."
 
-Day One
+_**Day One**_
 
-Roast Chook and Veggies
+**Roast Chook and Veggies**
 
-1.5kg chicken drumsticks, defrosted if frozen (or use chicken pieces – ideally on the bone)
-1 tablespoon olive oil (or vegetable oil, or 2 tablespoons melted butter)
-2 large onions, red or brown skinned, peeled and thickly sliced
-6 cloves garlic, peeled and halved
-1kg kumara, skins scrubbed, cut into discs about the thickness of a fat thumb
-500g pumpkin, skin scrubbed, cut into chunks the same size as the kumara
-750g carrots, skins scrubbed, tops cut off, cut into discs about the thickness of a pencil
+1.5kg chicken drumsticks, defrosted if frozen (or use chicken pieces – ideally on the bone)  
+1 tablespoon olive oil (or vegetable oil, or 2 tablespoons melted butter)  
+2 large onions, red or brown skinned, peeled and thickly sliced  
+6 cloves garlic, peeled and halved  
+1kg kumara, skins scrubbed, cut into discs about the thickness of a fat thumb  
+500g pumpkin, skin scrubbed, cut into chunks the same size as the kumara  
+750g carrots, skins scrubbed, tops cut off, cut into discs about the thickness of a pencil  
 Fresh or dried herbs – if using fresh use about 2 tablespoons worth (rosemary, thyme, oregano, sage). If using dried about 2 teaspoons.
-Salt and cracked black pepper
+Salt and cracked black pepper  
 4 tablespoons tomato sauce
 
 Preheat oven to 170*C fan forced or 180*C without.
