@@ -5,11 +5,18 @@ feature_image:
     Priyansha Bangia, Merle Chant and Leah Aiono are once again the champions of
     the Central North Island Debating Competition.
   credit: Supplied
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1585355271/News/Debating.Snr.-Chron-28.3.20.jpg
 news_author:
   date: 2020-03-28T00:19:18.294Z
   publication: Whanganui Chronicle
   name: Lucy Drake
-image_gallery: []
+image_gallery:
+  - description: >-
+      Charlotte Hardy, Sophia Bedwell and Hazel Chant won the junior section of
+      the competition.  Photo / Supplied.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1585355302/News/Debating.Jnr._Chron_28.3.20.jpg
 show_in_slider: true
 date: 2020-03-28T00:19:18.384Z
 ---
