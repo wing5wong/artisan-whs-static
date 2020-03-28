@@ -70,6 +70,7 @@ Both White and Mangan hoped "everyone was doing okay back home".
 
 "Stay inside, and don't you dare have any corona parties," Mangan said.
 
-The 8MM Bar's GoFund Me page is at www.gofundme.com/f/save-8mmbar
+The 8MM Bar's GoFund Me page is at www.gofundme.com/f/save-8mmbar.  
+ 
 
 
