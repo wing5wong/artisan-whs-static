@@ -17,7 +17,7 @@ image_gallery:
       Supplied.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1585350868/News/The_Have_ex_Brodie_White.2..Chron_28.3.20.jpg
-show_in_slider: true
+show_in_slider: false
 date: 2020-03-27T22:59:43.010Z
 ---
 Former Whanganui residents Brodie White and Peter Mangan have lived in Berlin, Germany, for more than a decade, and now find themselves hunkered down together in an apartment in Prenzlauer Berg, on the eastern side of the city.
