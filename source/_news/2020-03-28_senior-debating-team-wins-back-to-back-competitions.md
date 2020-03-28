@@ -3,7 +3,8 @@ title: WHS Senior debating team wins back-to-back competitions
 feature_image:
   description: >-
     Priyansha Bangia, Merle Chant and Leah Aiono are once again the champions of
-    the Central North Island Debating Competition.
+    the Central North Island Debating Competition.  Priyansha was also highly
+    commended.
   credit: Supplied
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1585355271/News/Debating.Snr.-Chron-28.3.20.jpg
@@ -14,9 +15,12 @@ news_author:
 image_gallery:
   - description: >-
       Charlotte Hardy, Sophia Bedwell and Hazel Chant won the junior section of
-      the competition.  Photo / Supplied.
+      the competition.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1585355302/News/Debating.Jnr._Chron_28.3.20.jpg
+  - description: Toni Adams - Most Promising Speaker.
+    image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1585439320/News/Tony_Adams_was_awarded_Central_North_Island_s_most_promising_speaker.jpg
 show_in_slider: true
 date: 2020-03-28T00:19:18.384Z
 ---
