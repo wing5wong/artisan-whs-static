@@ -1,7 +1,9 @@
 ---
 title: Whanganui woman living in Perth says situation is 'a mass of confusion'
 feature_image:
-  description: Whanganui's Paige Mailman isn't coming home during the Covid-19 pandemic.
+  description: >-
+    Former WHS student, Whanganui's Paige Mailman isn't coming home during the
+    Covid-19 pandemic.
   credit: Supplied
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1585349956/News/Paige_Mailman.Chron_28.3.20.jpg
