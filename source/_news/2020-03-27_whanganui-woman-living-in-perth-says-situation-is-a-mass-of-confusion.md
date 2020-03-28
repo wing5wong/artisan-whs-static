@@ -14,7 +14,7 @@ news_author:
 show_in_slider: false
 date: 2020-03-27T22:50:36.459Z
 ---
-Whanganui's Paige Mailman (former WHS student), currently living in Perth, says with the outbreak of the Covid-19 pandemic, help from the Australian government is "pretty much non-existent for Kiwis here".
+Whanganui's Paige Mailman, currently living in Perth, says with the outbreak of the Covid-19 pandemic, help from the Australian government is "pretty much non-existent for Kiwis here".
 
 Mailman moved to Perth six months ago to pursue a career in the travel industry and said her current employment had been "stood down until May 31", along with all other employees at the travel company.
 
