@@ -5,7 +5,7 @@ feature_image:
     Priyansha Bangia, Merle Chant and Leah Aiono are once again the champions of
     the Central North Island Debating Competition.  Priyansha was also highly
     commended.
-  credit: Supplied
+  credit: ''
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1585355271/News/Debating.Snr.-Chron-28.3.20.jpg
 news_author:
