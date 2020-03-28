@@ -2,8 +2,8 @@
 title: 'Whanganui expats locked down in Berlin '
 feature_image:
   description: >-
-    Brodie White and Peter Mangan in Berlin, under an Alan Mangan painting of
-    Whanganui.
+    Former WHS students, Brodie White and Peter Mangan in Berlin, under an Alan
+    Mangan painting of Whanganui.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1585350084/News/The_Have_ex_Brodie_White..Chron_28.3.20.jpg
   credit: Supplied
