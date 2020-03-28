@@ -34,7 +34,7 @@ Teams were selected for the final based on the number of wins and speakers point
 
 **Whanganui High School's senior A team, made up of Year 13 students Leah Aiono, Priyansha Bangia and Merle Chant, went head-to-head with Whanganui Collegiate in the final and came out on top.**
 
-The team also won the regional competition in 2019.
+**The team also won the regional competition in 2019.**
 
 **Leah and Merle were selected for the Central North Island team, which will contest the national final this year.**
 
