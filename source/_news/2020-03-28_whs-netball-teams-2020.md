@@ -1,5 +1,8 @@
 ---
 title: WHS Netball Teams 2020
+feature_image:
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1585364617/News/netball_image.jpg
 news_author:
   date: 2020-03-25T02:52:09.911Z
   publication: WHS Director of Sport
