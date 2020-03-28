@@ -2,8 +2,8 @@
 title: Peter Gordon shares top tips and recipes for surviving lockdown
 feature_image:
   description: >-
-    Whanganui-born world famous chef Peter Gordon offers tips and recipes for
-    getting through four weeks of isolation.
+    Whanganui-born world famous chef Peter Gordon (former WHS student) offers
+    tips and recipes for getting through four weeks of isolation.
   credit: Supplied
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1585354733/News/Peter_Gordon.Chron_28.3.20.jpg
