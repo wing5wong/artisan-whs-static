@@ -1,15 +1,15 @@
 ---
 title: Public Holidays
-date: 2019-04-30T22:51:30.503Z
+date: 2020-03-31T21:51:30.503Z
 start_dates:
   - date: 2020-02-05T20:38:41.140Z
     body: Waitangi Day
   - date: 2020-04-10T04:29:12.531Z
-    body: Good Friday
+    body: Good Friday (within school holidays)
   - date: 2020-04-13T04:29:33.023Z
     body: Easter Monday (within school holidays)
   - date: 2020-04-25T04:29:51.542Z
-    body: Anzac Day (within school holidays)
+    body: Anzac Day
   - date: 2020-04-27T00:11:19.683Z
     body: Anzac Day observed (no school)
   - date: 2020-06-01T04:30:19.022Z
