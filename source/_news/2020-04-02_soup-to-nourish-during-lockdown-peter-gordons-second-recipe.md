@@ -1,5 +1,5 @@
 ---
-title: Soup to nourish during lockdown - Peters second recipe
+title: Soup to nourish during lockdown - Peter's second recipe
 feature_image:
   description: >-
     Whanganui-born world-famous chef Peter Gordon offers tips and recipes for
