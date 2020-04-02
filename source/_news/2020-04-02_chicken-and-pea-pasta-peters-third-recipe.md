@@ -1,5 +1,5 @@
 ---
-title: Chicken and Pea Pasta - Peters third recipe
+title: Chicken and Pea Pasta - Peter's third recipe
 feature_image:
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1585354733/News/Peter_Gordon.Chron_28.3.20.jpg
