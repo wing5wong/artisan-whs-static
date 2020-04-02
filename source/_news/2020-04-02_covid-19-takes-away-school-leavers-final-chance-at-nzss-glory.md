@@ -30,8 +30,7 @@ These include such sports as secondary school tennis, waka ama, lawn bowls, athl
 
 All of these events/activities would have involved countless hours of organisation, months and sometimes years of training, numerous volunteer and sport-specific time and input, booking accommodation, transport and logistics.
 
-Some of that will not be fully refunded, let alone the private bookings made by parents and supporters to support their children.
-For many of them, we hope they will get another day to return to that venue or another in 2021, all trained up and prepared again to give it their all to make a final and possibly earn a medal or win a NZSS title.
+Some of that will not be fully refunded, let alone the private bookings made by parents and supporters to support their children. For many of them, we hope they will get another day to return to that venue or another in 2021, all trained up and prepared again to give it their all to make a final and possibly earn a medal or win a NZSS title.
 
 But for some, generally our current Year 13s, that final opportunity has gone, as they will be somewhere else in the big wide world in 2021, trying to get on with the next stage of their lives - be it study, jobs or even professional sporting careers.
 
@@ -67,7 +66,7 @@ Closer to home again, my son, Blake, and two of his peers, Leo Hanna and Charlot
 
 They were only at school for that reason but in doing so put other ambitions on hold. Needless to say, they have now finished school, having been named in a long-listed NZ Junior Trial Team, but are realistic about the chances of that final squad coming to fruition.
 
-• Covid19.govt.nz: The Government's official Covid-19 advisory website
+• [Covid19.govt.nz: The Government's official Covid-19 advisory website](https://covid19.govt.nz/)
 
 My personal plea to many sporting codes is as you work through the myriad issues affecting your sport, from the huge financial cost to the social costs, try to look outside the square to find solutions to reward those who have put in the work.
 
