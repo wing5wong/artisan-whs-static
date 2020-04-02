@@ -44,7 +44,7 @@ Gordon has used chicken drumsticks for his starting recipe but says it could be 
 
 "Each ingredient will require different timings, but I've chosen chicken drumsticks as they are fairly fool-proof, inexpensive, and the left-over bones are great in your soup for the following night's dinner. Then left-overs from that are used to make a pasta dish."
 
-The chef says 1.5kg chicken drumsticks will be between 11 to 15.
+The chef says 1.5kg will provide you 11 to 15 drumsticks. The average cost of 1.5kg of drumsticks is $5 to $7.
 
 "Used cleverly these will make three meals for four people over three consecutive nights.
 
