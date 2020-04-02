@@ -1,7 +1,7 @@
 ---
 title: >-
-  Peter Gordon shares top tips and recipes for surviving lockdown - Peters first
-  recipe
+  Peter Gordon shares top tips and recipes for surviving lockdown - Peter's
+  first recipe
 feature_image:
   description: >-
     Whanganui-born world famous chef Peter Gordon offers tips and recipes for
