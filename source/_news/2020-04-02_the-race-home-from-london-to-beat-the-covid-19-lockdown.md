@@ -12,7 +12,7 @@ image_gallery:
   - description: >-
       An anxious Becca Jarrett during her trip back home to Whanganui earlier
       this week. Masks, gloves, antibacterial wipes and hand sanitiser were all
-      used during her journey form London back home to Whanganui.
+      used during her journey from London back home to Whanganui.
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1585824656/News/Rebecca_Jarrett._RCP_26.3.20.jpg
 show_in_slider: false
