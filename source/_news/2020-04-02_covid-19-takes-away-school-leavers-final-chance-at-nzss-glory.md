@@ -43,11 +43,11 @@ Although Alyana is Under 17 and could consider coming back to school in 2021 to 
 
 • Tayla Brunger is also a Collegiate and New Zealand-selected Junior World Championship athlete, who has seen the North Island and presumably the New Zealand athletic champs cancelled, with the 2020 World Under 20 Athletic Championships in Kenya postponed until further notice.
 
-• Ethan Bryers is a very talented Whanganui High School swimmer, who has had all his foreseeable events cancelled, like the NZ Age Group Championships and, of course, the swimmers have no pools open to train in, so it's just cross-training for them.
+• **Ethan Bryers** is a very talented Whanganui High School swimmer, who has had all his foreseeable events cancelled, like the NZ Age Group Championships and, of course, the swimmers have no pools open to train in, so it's just cross-training for them.
 
-There will be other swimmers affected who have missed important and perhaps final school meets, like Lucy Somerville.
+There will be other swimmers affected who have missed important and perhaps final school meets, like **Lucy Somerville**.
 
-• Blake Hoskin is, a very talented WHS hockey player, who like many will have his sport-specific training on hold, with many games and competitions all under question at this stage.
+• **Blake Hoskin** is, a very talented WHS hockey player, who like many will have his sport-specific training on hold, with many games and competitions all under question at this stage.
 
 There are, of course, many, many other young athletes who will have missed their last chance to represent their school in a North Island or NZSS summer sports event and with no idea if or when winter sports will get under way, there is more of the same to come for other codes like netball, football, rugby, and hockey.
 
