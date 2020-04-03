@@ -20,7 +20,7 @@ With Covid-19 confining people to their homes, we're looking at how locals are a
 
 Mike Tweed reports on how a Whanganui musician is recording and collaborating from his home.
 
-Dayle Jellyman, part of the prominent Jellyman musical family in Whanganui, has been forced to curtail his many musical projects and self-isolate with his wife at home in Wellington.
+**Dayle Jellyman, part of the prominent Jellyman musical family in Whanganui**, has been forced to curtail his many musical projects and self-isolate with his wife at home in Wellington.
 
 With the outbreak of Covid-19, Jellyman's upcoming gig calendar was suddenly empty, and he found himself sitting at his piano at home instead.
 
@@ -36,7 +36,7 @@ A piece of driftwood with a face carved into it sits on top of his piano, and th
 
 Jellyman's original idea was to release a new 'hymn' every few days, then he thought of inviting musicians to record their own version of his original piano piece and "see where it goes".
 
-His younger brother, Hamish, has already provided a trombone part from his isolation bubble in Aramoho, which is available to watch on Youtube.
+**His younger brother, Hamish, has already provided a trombone part** from his isolation bubble in Aramoho, which is available to watch on Youtube.
 
 Jellyman said he hoped to see his original piano part "branch out" and encouraged other people to "take this simple piece of music and create something completely new." All instruments and ideas are welcome, and "anyone, anywhere" is invited to contribute.
 
