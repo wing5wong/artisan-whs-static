@@ -7,6 +7,8 @@ feature_image:
     https://res.cloudinary.com/whanganuihigh/image/upload/v1585875435/News/Dale_Jellyman._Chron_3.4.20.jpg
 news_author:
   date: 2020-04-03T00:52:23.215Z
+  publication: Whanganui Chronicle
+  name: Mike Tweed
 image_gallery:
   - description: 'Jellyman''s ''muse'', "The All-Seeing Stickhead"  Photo / Supplied.'
     image: >-
