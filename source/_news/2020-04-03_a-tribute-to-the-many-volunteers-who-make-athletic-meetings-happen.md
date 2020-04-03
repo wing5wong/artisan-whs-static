@@ -33,9 +33,9 @@ Paul Duxfield does a huge job with equipment, maintenance of the pits and along 
 
 Committee member Kath Edwards officiates weekly and gives us expert first aid assistance at major meetings.
 
-It is good to have youth represented on the committee in the shape of Travis Bayler, who left Whanganui High School at the end of the year. Bayler heads our 400 metre rankings and is third in our 800 metres and 9th nationally and has given great service as club captain and like Sarah Lambert last year has given valuable youthful insight to committee meetings. His mother Kathleen has joined the committee and his father Tony has contributed with huge work, particularly on the setting up of the new hammer cage.
+**It is good to have youth represented on the committee in the shape of Travis Bayler, who left Whanganui High School at the end of the year. Bayler heads our 400 metre rankings and is third in our 800 metres and 9th nationally and has given great service as club captain** and like Sarah Lambert last year has given valuable youthful insight to committee meetings. His mother Kathleen has joined the committee and his father Tony has contributed with huge work, particularly on the setting up of the new hammer cage.
 
-The Bayler family service covers three generations. Travis' grandmother Francis not only still competes as a Masters athlete but officiates weekly at club nights, centre meets and nationally. Her service does not end with the senior section as she helps on Mondays with both the younger children and later on the same day with the 10–13 year olds – an outstanding contribution from a great servant of the sport.
+**The Bayler family service covers three generations.** Travis' grandmother Francis not only still competes as a Masters athlete but officiates weekly at club nights, centre meets and nationally. Her service does not end with the senior section as she helps on Mondays with both the younger children and later on the same day with the 10–13 year olds – an outstanding contribution from a great servant of the sport.
 
 The vibrant children's section set up by Jodie Brunger depends on the help of many including Tere Matthews, Angela Munro, Dinelle Saunders, Mark Kennedy with welcomed help from many others and student help from Te Ata and Lily with others contributing.
 
