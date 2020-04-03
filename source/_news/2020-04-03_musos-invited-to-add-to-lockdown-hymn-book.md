@@ -52,4 +52,4 @@ Jellyman plays in numerous outfits in Wellington, including the Darren Watson Ba
 
 "Hopefully Stickhead and I can offer a little bit of collaboration in the meantime."
 
-For more information on the Lockdown Hymn Book project, visit facebook.com/LockdownHymnBook .
+For more information on the Lockdown Hymn Book project, visit [facebook.com/LockdownHymnBook.](https://www.youtube.com/watch?v=2ml88EDvPHk&list=PLR47lFBg3-pBNPZvHTNf5zb-J4531pxLB&index=3&t=0s)
