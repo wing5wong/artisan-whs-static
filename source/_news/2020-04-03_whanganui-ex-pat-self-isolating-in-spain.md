@@ -12,7 +12,7 @@ news_author:
 show_in_slider: false
 date: 2020-04-03T03:15:44.763Z
 ---
-Whanganui ex-pat (and former WHS student) Rox Lloyd is currently in the small Spanish city of Benalmadena, where she's in lockdown after finishing a stint working for a health insurance company.
+Whanganui ex-pat Rox Lloyd is currently in the small Spanish city of Benalmadena, where she's in lockdown after finishing a stint working for a health insurance company.
 
 Lloyd said Spain "went into lockdown pretty fast" when compared to places like the UK and the USA.
 
