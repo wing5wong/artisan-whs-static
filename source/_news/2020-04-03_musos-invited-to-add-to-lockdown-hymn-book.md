@@ -13,14 +13,14 @@ image_gallery:
   - description: 'Jellyman''s ''muse'', "The All-Seeing Stickhead"  Photo / Supplied.'
     image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1585875499/News/Dale_Jellyman.._Chron_3.4.20.jpg
-show_in_slider: true
+show_in_slider: false
 date: 2020-04-03T00:52:23.439Z
 ---
 With Covid-19 confining people to their homes, we're looking at how locals are adapting everyday activities for the lockdown.
 
 Mike Tweed reports on how a Whanganui musician is recording and collaborating from his home.
 
-Dayle Jellyman, part of the prominent Jellyman musical family in Whanganui, has been forced to curtail his many musical projects and self-isolate with his wife and baby at home in Wellington.
+Dayle Jellyman, part of the prominent Jellyman musical family in Whanganui, has been forced to curtail his many musical projects and self-isolate with his wife at home in Wellington.
 
 With the outbreak of Covid-19, Jellyman's upcoming gig calendar was suddenly empty, and he found himself sitting at his piano at home instead.
 
