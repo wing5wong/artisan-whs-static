@@ -54,4 +54,4 @@ Boyes urged the community to stick to their bubble, wash their hands often and s
 
 **The Community Based Assessment Centre has opened at the right of the hospital's main public carpark as people drive in and is free to use from 8am to 9pm, seven days a week.**
 
-• Covid19.govt.nz: The Government's official Covid-19 advisory website 
+• [Covid19.govt.nz: The Government's official Covid-19 advisory website ](https://covid19.govt.nz/)
