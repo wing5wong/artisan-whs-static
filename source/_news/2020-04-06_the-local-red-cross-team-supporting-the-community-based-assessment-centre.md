@@ -12,6 +12,9 @@ news_author:
   date: 2020-04-03T21:05:57.536Z
   name: Lucy Drake
   publication: Whanganui Chronicle
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1586212859/News/TORI-story-4.4.20.IMG_6768.jpg
 show_in_slider: false
 date: 2020-04-06T22:05:57.618Z
 ---
