@@ -41,6 +41,7 @@ Young Hawke's Bay driver Randal Tarrant was the star of the show, winning the fi
 Tarrant finished seven points ahead of Adam Joblin, with Simon Joblin taking the third place on the podium.
 
 Whanganui driver Carl Burns was the sole local to qualify for the 26-car three-heat final.
+
 Burns was a consistent performer right through the season, topping the local Superstock points series.
 
 Ahead of the national championship, crowds at Oceanview were treated to big fields of Superstocks at every prior meeting, as out-of-town competitors came to test their set-ups on the tight Whanganui track.
@@ -48,13 +49,14 @@ Ahead of the national championship, crowds at Oceanview were treated to big fiel
 And they liked what they saw; week after week - track guru Mike Annabell, who retired after the championship, prepared outstanding track surfaces.
 
 At the start of the season, Daryl Taylor's Superstock lap record had stood since 2008.
+
 Between then and Christmas, it was broken three times, with Kihikihi speedster Asher Rees breaking the 16 second barrier with a scorching 15.95s second lap.
 
 In February, the Wanganui Warriors had another tilt at the ENZED Superstock Teams Champs in Palmerston North.
 
 A tough draw saw the Warriors go down on qualifying night to both the Hawkes Bay Hawkeyes, the eventual winners, and the third place-getters, the Baypark Busters.
 
-However, in January, Max Holloway led the Warriors to a rare victory over their perennial rivals the Palmerston North Panthers in a warm-up race.
+However, in January, **Max Holloway** led the Warriors to a rare victory over their perennial rivals the Palmerston North Panthers in a warm-up race.
 
 The Warriors also had a race against the Gisborne Giants in November, and it is hoped that these can both become regular home-and-away fixtures.
 
@@ -63,21 +65,22 @@ It's a long time since the Warriors have raced at Oceanview, and a home team's r
 Superstock competitor numbers have grown in the last two seasons, and with another Speedway NZ sanctioned title - the North Island Superstocks - scheduled in Whanganui for the 2020-21 season, the class is in good heart.
 
 Stockcars have long been the mainstay of Oceanview, and this summer was no different.
+
 With a number of drivers returning after a season off, and some new faces, Stockcar numbers were good throughout the season.
 
 A large contingent of local drivers headed to Greymouth in January for the NZ Stockcar Championships, with several continuing on to Christchurch the following week for the NZ Stockcar Grand Prix.
 
-It was at the latter event where Whanganui drivers shone, with Dion Mooney and Callum Sturzaker taking second and third place overall.
+It was at the latter event where Whanganui drivers shone, with Dion Mooney and **Callum Sturzaker** taking second and third place overall.
 
-For Sturzaker, in his third season in the class, it was the second Speedway NZ championship event where he has stepped onto the podium, following a second placing in the North Island Stockcars at Meeanee Speedway last season.
+For **Sturzaker**, in his third season in the class, it was the second Speedway NZ championship event where he has stepped onto the podium, following a second placing in the North Island Stockcars at Meeanee Speedway last season.
 
-Kaelin Mooney had an impressive debut campaign.
+**Kaelin Mooney** had an impressive debut campaign.
 
 The young Whanganui driver qualified for the finals in all three Speedway NZ championships this season, with a best finish of seventh in the North Island Stockcars at Kihikihi.
 
-Kaelin Mooney's biggest successes, however, came at home, with wins in the Charlie Berntsen Trophy and the West Coast Stockcars meetings.
+**Kaelin Mooney's** biggest successes, however, came at home, with wins in the Charlie Berntsen Trophy and the West Coast Stockcars meetings.
 
-Mooney headed off Mark Johnston and veteran Blair Lockett to win the West Coast title.
+**Mooney headed off Mark Johnston** and veteran Blair Lockett to win the West Coast title.
 
 The young man also had a drive of Maddie Wise's Superstock, which had been previously driven by his father, on the second night of the Superstocks Teams Champs, and did not look at all out of place.
 
@@ -89,23 +92,23 @@ Blair Reeves-Smith had a strong debut season, which ended with his selection for
 
 Unfortunately, this meeting fell victim to the Covid-19 restrictions on public gatherings, just like Oceanview's final meeting, which was to have featured the West Coast Superstocks.
 
-Trazarn Ryland-Annabell had a late start to the season in his new Stockcar, but made up for it with some excellent performances in the back half of the summer.
+**Trazarn Ryland-Annabell** had a late start to the season in his new Stockcar, but made up for it with some excellent performances in the back half of the summer.
 
-Several Stockcar drivers will have new cars next season, including Gerry Linklater, Mizaan Lees and Callum Sturzaker.
+Several Stockcar drivers will have new cars next season, including Gerry Linklater, **Mizaan Lees and Callum Sturzaker**.
 
 Brent Hackett and Shayne Hughes battled all season in the Production Saloons.
 
 Ironically, Hughes' stocks rose when he brought out his old Honda CRX, rather than his regular Nissan Ultima car.
 
-In the Adult Ministocks, Jemma Barnes and Jayden Barnaby battled closely all season, with Dion Black not far away.
+In the Adult Ministocks, **Jemma Barnes** and Jayden Barnaby battled closely all season, with **Dion Black** not far away.
 
 Big fields of Youth Ministocks attended every meeting, with plenty of visitors from surrounding tracks.
 
 A highlight for the youngsters was the Best Pairs competition, run alongside the Top 26 at the NZ Superstocks meeting.
 
-The smile on Trent James' face as he stood on the top step of the podium alongside his partner Randal Tarrant suggested this was an event that he and the 25 other invited drivers will never forget.
+The smile on **Trent James'** face as he stood on the top step of the podium alongside his partner Randal Tarrant suggested this was an event that he and the 25 other invited drivers will never forget.
 
-James was one of three consistent local drivers in the Youth class, along with Sarah Meyer and Cody Lockett.
+**James was one of three consistent local drivers in the Youth class, along with Sarah Meyer and Cody Lockett.**
 
 Dylan Smith missed a place on the podium at the New Zealand Minisprint Champs at Stratford by the width of a bumper.
 
@@ -113,7 +116,7 @@ However, Smith made up for that with second place overall at the North Island Mi
 
 The Midgets and Sidecars classes had limited opportunities to run at Oceanview this season.
 
-Brothers Aaron and Bryce Rose had early-season mechanical issues with their Sidecar, and then had to endure a long trip to Gisborne only to see the New Zealand Sidecars be rained out.
+Brothers **Aaron and Bryce Rose** had early-season mechanical issues with their Sidecar, and then had to endure a long trip to Gisborne only to see the New Zealand Sidecars be rained out.
 
 On their return trip east in March, they were joint leaders after three heats at the re-run of the NZ championship, only to crash heavily in the fourth heat.
 
