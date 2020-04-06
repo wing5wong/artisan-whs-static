@@ -86,7 +86,7 @@ The young man also had a drive of Maddie Wise's Superstock, which had been previ
 
 Dion Mooney, by contrast, had his success away from Whanganui - adding the Robin Pratt Memorial at Palmerston North and the Coal Face Challenge at Huntly to his record, along with coming runner-up in the Stockcar GP.
 
-Hailey James' season was marred by mechanical issues, but she finished second overall in the Aotearoa Ladies Stockcars, run in conjunction with the World 240's event at Rotorua.
+**Hailey James'** season was marred by mechanical issues, but she finished second overall in the Aotearoa Ladies Stockcars, run in conjunction with the World 240's event at Rotorua.
 
 Blair Reeves-Smith had a strong debut season, which ended with his selection for the Wanganui Vulcans for the Peter Barry Teams meeting at Meeanee.
 
