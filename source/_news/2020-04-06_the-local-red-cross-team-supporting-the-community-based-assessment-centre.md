@@ -6,6 +6,8 @@ feature_image:
     Whanganui Disaster, Welfare Support Team helping medical staff at the
     assessment centre.
   credit: Bevan Conley
+  image: >-
+    https://res.cloudinary.com/whanganuihigh/image/upload/v1586212176/News/TORI.IMG.._6767.jpg
 news_author:
   date: 2020-04-03T21:05:57.536Z
   name: Lucy Drake
