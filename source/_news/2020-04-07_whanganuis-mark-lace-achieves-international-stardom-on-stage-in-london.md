@@ -1,7 +1,7 @@
 ---
 title: Whanganui's Mark Lace achieves international stardom on stage in London
 feature_image:
-  description: 'Mike Lace, cast photo of Mike from Magic Like Mike website.'
+  description: Mike Lace's cast photo from Magic Like Mike website.
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1586215202/News/Mark_Lace.lead_dancer_in_Magic_Mike_Live_in_London_7.4.20.jpg
   credit: www.magicmikelondon.co.uk
@@ -27,4 +27,4 @@ Alongside this, Mark has also been involved in modeling and competed in dance co
 
 While the show is on hold due to Covid-19, Mark is sticking it out in London with reduced income and social distancing measures which makes being so far from home, just that little bit harder. 
 
-[MAGIC MIKE LIVE ON STAGE IN LONDON / CAST / MARK LACE](https://www.magicmikelondon.co.uk/cast/mark-lace)
+['MAGIC MIKE LIVE' ON STAGE IN LONDON / CAST / MARK LACE](https://www.magicmikelondon.co.uk/cast/mark-lace)
