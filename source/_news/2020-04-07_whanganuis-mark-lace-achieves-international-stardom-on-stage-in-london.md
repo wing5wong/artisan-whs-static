@@ -7,6 +7,9 @@ feature_image:
   credit: www.magicmikelondon.co.uk
 news_author:
   date: 2020-04-06T23:19:38.702Z
+image_gallery:
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1586217864/News/Magic_Like_Mike.falling-mob-2.jpg
 show_in_slider: true
 date: 2020-04-06T23:19:38.777Z
 ---
