@@ -27,6 +27,8 @@ The show comprises of a mixture of dancing, acrobatics and acting, crowd interac
 
 Alongside this, Mark has also been involved in modeling and competed in dance competitions against very high-profile dance crews. 
 
-While the show is on hold due to Covid-19, Mark is sticking it out in London with reduced income and social distancing measures which makes being so far from home, just that little bit harder. 
+While the show is on hold due to Covid-19, Mark is sticking it out in London with reduced income and social distancing measures which makes being so far from home, just that little bit harder.
+
+All the best Mike, stay safe. 
 
 ['MAGIC MIKE LIVE' ON STAGE IN LONDON / **MEET THE CAST / MARK LACE**](https://www.magicmikelondon.co.uk/cast/mark-lace)
