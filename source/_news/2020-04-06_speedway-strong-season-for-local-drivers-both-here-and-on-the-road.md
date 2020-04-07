@@ -72,13 +72,13 @@ A large contingent of local drivers headed to Greymouth in January for the NZ St
 
 It was at the latter event where Whanganui drivers shone, with Dion Mooney and **Callum Sturzaker** taking second and third place overall.
 
-For **Sturzaker**, in his third season in the class, it was the second Speedway NZ championship event where he has stepped onto the podium, following a second placing in the North Island Stockcars at Meeanee Speedway last season.
+For Sturzaker, in his third season in the class, it was the second Speedway NZ championship event where he has stepped onto the podium, following a second placing in the North Island Stockcars at Meeanee Speedway last season.
 
 **Kaelin Mooney** had an impressive debut campaign.
 
 The young Whanganui driver qualified for the finals in all three Speedway NZ championships this season, with a best finish of seventh in the North Island Stockcars at Kihikihi.
 
-**Kaelin Mooney's** biggest successes, however, came at home, with wins in the Charlie Berntsen Trophy and the West Coast Stockcars meetings.
+Kaelin Mooney's biggest successes, however, came at home, with wins in the Charlie Berntsen Trophy and the West Coast Stockcars meetings.
 
 **Mooney headed off Mark Johnston** and veteran Blair Lockett to win the West Coast title.
 
