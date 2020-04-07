@@ -31,4 +31,4 @@ While the show is on hold due to Covid-19, Mark is sticking it out in London wit
 
 All the best Mike, stay safe. 
 
-['MAGIC MIKE LIVE' ON STAGE IN LONDON / **MEET THE CAST / MARK LACE**](https://www.magicmikelondon.co.uk/cast/mark-lace)
+['MAGIC MIKE LIVE' ON STAGE IN LONDON / MEET THE CAST / MARK LACE](https://www.magicmikelondon.co.uk/cast/mark-lace)
