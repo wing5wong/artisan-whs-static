@@ -31,22 +31,4 @@ Alongside this, Mark has also been involved in modeling and competed in dance co
 
 While the show is on hold due to Covid-19, Mark is sticking it out in London with reduced income and social distancing measures which makes being so far from home, just that little bit harder. 
 
-------------  
-------------
-
-
-
-
-**[MAGIC MIKE LIVE  
-ON STAGE IN LONDON](https://www.magicmikelondon.co.uk/)**
-
-Cast & Creative Team
-
-**MARK LACE**  
-At the age of 18, Mark moved from his home in New Zealand to attend ETTINGSHAUSENS full time dance course in Sydney, Australia. Before graduating in 2016, he successfully booked his first professional corporate job dancing for hairdressing giant TONI&GUY in their annual Culture Shock Hair Show.
-
-He gained representation with Grayboy The Agency which led him to work with comedy dance group PHLYCREW, Mark was cast in three of their stage productions and worked regularly in their corporate ventures. Mark has also joined Opera Australia's prestigious production of 'CARMEN' during its 2017 season of Handa Opera on Sydney Harbour.
-
-Mark's professional body of work also extends to the competitive world of hip hop. He competed on the world stage of Hip Hop International with 'ZBOYZ' in La Vegas in 2016 where the crew progressed to the semi-finals. The following year he again joined PHLYCREW who represented Australia in Los Angeles at WORLD OF DANCE. 
-
-Mark is thrilled to be making his UK dance debut by joining the MAGIC MIKE LIVE cast in London.
+[MAGIC MIKE LIVE ON STAGE IN LONDON / CAST / MARK LACE](https://www.magicmikelondon.co.uk/cast/mark-lace)
