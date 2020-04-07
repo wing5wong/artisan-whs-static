@@ -3,7 +3,7 @@ title: Frontline emergency support is a family affair for Whanganui mum and daug
 feature_image:
   description: >-
     Mother and daughter Red Cross emergency volunteers Trudy Taylor (left) and
-    Tori Bisset are supporting Whanganui people during the Convid-19 emergency.
+    Tori Bisset are supporting Whanganui people during the Covid-19 emergency.
   credit: Supplied
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1586210502/News/Tori_Bissett._Chron_4.4.20.jpg
@@ -38,7 +38,7 @@ Taylor who has been a Red Cross volunteer for 25 years said she was grateful to 
 
 "It showed that Tori's training had been really effective and she made the right call.
 
-"I've had to stand people down it the same situation and I'm pleased that she didn't let our relationship cloud her judgment."
+"I've had to stand people down in the same situation and I'm pleased that she didn't let our relationship cloud her judgment."
 
 Sometimes, says Taylor, it's a matter of just giving someone a different job so their energy shifts and eases the tension.
 
