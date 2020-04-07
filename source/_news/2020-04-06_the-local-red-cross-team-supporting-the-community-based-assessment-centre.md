@@ -13,7 +13,11 @@ news_author:
   name: Lucy Drake
   publication: Whanganui Chronicle
 image_gallery:
-  - image: >-
+  - description: >-
+      The Community Based Assessment Centre has opened at the right of the
+      hospital's main public carpark as people drive in and is free to use from
+      8am to 9pm, seven days a week.
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1586212859/News/TORI-story-4.4.20.IMG_6768.jpg
 show_in_slider: false
 date: 2020-04-06T22:05:57.618Z
@@ -51,7 +55,5 @@ The team are working on a three shift roster with shifts from six to eight hours
 Boyes urged the community to stick to their bubble, wash their hands often and stay kind to each other. 
 
 "If you are feeling anxious or down don't be afraid to reach out and talk to someone about it. We all need to work together."
-
-**The Community Based Assessment Centre has opened at the right of the hospital's main public carpark as people drive in and is free to use from 8am to 9pm, seven days a week.**
 
 • [Covid19.govt.nz: The Government's official Covid-19 advisory website ](https://covid19.govt.nz/)
