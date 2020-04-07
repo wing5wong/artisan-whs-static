@@ -1,7 +1,7 @@
 ---
 title: Whanganui's Mark Lace achieves international stardom on stage in London
 feature_image:
-  description: Mike Lace.
+  description: 'Mike Lace, cast photo from Magic Like Mike website..'
   image: >-
     https://res.cloudinary.com/whanganuihigh/image/upload/v1586215202/News/Mark_Lace.lead_dancer_in_Magic_Mike_Live_in_London_7.4.20.jpg
   credit: www.magicmikelondon.co.uk
