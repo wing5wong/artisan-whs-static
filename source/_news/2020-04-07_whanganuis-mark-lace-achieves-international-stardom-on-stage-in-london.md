@@ -27,4 +27,4 @@ Alongside this, Mark has also been involved in modeling and competed in dance co
 
 While the show is on hold due to Covid-19, Mark is sticking it out in London with reduced income and social distancing measures which makes being so far from home, just that little bit harder. 
 
-['MAGIC MIKE LIVE' ON STAGE IN LONDON / CAST / MARK LACE](https://www.magicmikelondon.co.uk/cast/mark-lace)
+['MAGIC MIKE LIVE' ON STAGE IN LONDON / **MEET THE CAST / MARK LACE**](https://www.magicmikelondon.co.uk/cast/mark-lace)
