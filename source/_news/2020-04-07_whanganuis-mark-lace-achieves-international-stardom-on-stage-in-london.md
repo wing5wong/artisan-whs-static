@@ -8,9 +8,11 @@ feature_image:
 news_author:
   date: 2020-04-06T23:19:38.702Z
 image_gallery:
-  - image: >-
+  - description: ' Photo / www.magicmikelondon.co.uk'
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1586217864/News/Magic_Like_Mike.falling-mob-2.jpg
-  - image: >-
+  - description: ' Photo / www.magicmikelondon.co.uk'
+    image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1586218344/News/gallery_0027_2018_11_14_Magic_Mike_Stage_Shots48170-2-Edit.jpg
 show_in_slider: true
 date: 2020-04-06T23:19:38.777Z
