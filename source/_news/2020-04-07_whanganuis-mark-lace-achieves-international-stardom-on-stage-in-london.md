@@ -1,5 +1,5 @@
 ---
-title: Whanganui's Mark Lace achieves international stardom on stage in London
+title: Whanganui's Mark Lace achieves international success on stage in London
 feature_image:
   description: Mike Lace's cast photo from Magic Like Mike website.
   image: >-
