@@ -10,6 +10,12 @@ news_author:
 image_gallery:
   - image: >-
       https://res.cloudinary.com/whanganuihigh/image/upload/v1586217864/News/Magic_Like_Mike.falling-mob-2.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1586218316/News/gallery_0008_2018_11_14_Magic_Mike_Stage_Shots49208-Edit.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1586218344/News/gallery_0027_2018_11_14_Magic_Mike_Stage_Shots48170-2-Edit.jpg
+  - image: >-
+      https://res.cloudinary.com/whanganuihigh/image/upload/v1586218375/News/Magic_Like_Mike.group.jpg
 show_in_slider: true
 date: 2020-04-06T23:19:38.777Z
 ---
