@@ -31,7 +31,7 @@ At the heart of everything, we want to ensure that our connections with you and 
 
  
 
-The best way to contact any staff member is by email.  The school email address for each staff member is as follows:  surname.initial@whs.ac.nz – please check the staff list on the Whanganui High School website to see the names of all current staff members.  Our pastoral support networks will be running as close to normal as possible – our two full-time guidance counsellors have been in contact with many students over the holiday period and will continue to be available to all students electronically when Term 2 begins.  Our SENCO will continue to be in contact with the families of students with high learning needs. 
+The best way to contact any staff member is by email.  The school email address for each staff member is as follows:  **surname.initial@whs.ac.nz** – please check the staff list on the Whanganui High School website to see the names of all current staff members.  Our pastoral support networks will be running as close to normal as possible – our two full-time guidance counsellors have been in contact with many students over the holiday period and will continue to be available to all students electronically when Term 2 begins.  Our SENCO will continue to be in contact with the families of students with high learning needs. 
 
  
 
@@ -39,7 +39,7 @@ House Form teachers will make email contact from time-to-time over the lockdown 
 
  
 
-I fully realise that everyone’s home circumstances will be different and individual to the context in which you currently find yourself.  Please contact me at principal@whs.ac.nz if I can be of any help to you and your family.
+I fully realise that everyone’s home circumstances will be different and individual to the context in which you currently find yourself.  Please contact me at **principal@whs.ac.nz** if I can be of any help to you and your family.
 
  
 
