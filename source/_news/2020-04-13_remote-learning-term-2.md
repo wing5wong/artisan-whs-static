@@ -52,5 +52,5 @@ Take care – all the best.
  
 
 Martin McAllen  
-Principal  
+Principal
 Whanganui High School
