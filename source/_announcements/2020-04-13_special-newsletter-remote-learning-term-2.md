@@ -52,7 +52,3 @@ Take care – all the best.
 Martin McAllen  
 Principal  
 Whanganui High School
-
-
-[Read the Special Newsletter, 13 April 2020 - Principal, Mr Martin McAllen](https://res.cloudinary.com/whanganuihigh/image/upload/v1586783283/newsletters/SPECIAL_NEWSLETTER.Remote_Learning_-_Term_2.pdf)  \
-[REMOTE LEARNING - TERM 2 ](https://res.cloudinary.com/whanganuihigh/image/upload/v1586783283/newsletters/SPECIAL_NEWSLETTER.Remote_Learning_-_Term_2.pdf)
