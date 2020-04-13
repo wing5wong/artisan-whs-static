@@ -1,7 +1,7 @@
 ---
 title: REMOTE LEARNING - TERM 2
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574907236/Events/GREEN_WHS_HEADER.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 news_author:
   date: 2020-04-13T11:27:58.533Z
 show_in_slider: true
