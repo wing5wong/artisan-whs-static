@@ -27,6 +27,6 @@ Thank you very much for your support and hopefully we will return back to near n
 
 Take care – all the best.
 
-Martin McAllen\
-Principal\
+Martin McAllen  
+Principal  
 Whanganui High School
