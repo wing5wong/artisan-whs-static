@@ -1,5 +1,5 @@
 ---
-title: Hannah Neilson - Bachelor of Nursing Graduate
+title: Hannah Neilson - Bachelor of Nursing Graduate working at Whanganui Hospital
 feature_image:
   description: "Hannah Neilson came to UCOL Whanganui after receiving an
     Excellence Scholarship to study Nursing. "
