@@ -41,3 +41,5 @@ For Hannah, the best part of being a Nurse is that she can continually build her
  “There are a lot of opportunities to learn, especially on the surgical ward where you deal with everyone from medical patients to surgical patients.  I’m learning a lot about different kinds of wounds, dressings, and medications. There are so many things to learn to do and why we do them.”
 
 “I love working with the patients and the other nurses. Everyone is so lovely and welcoming there, which makes it easier to learn.”
+
+[Discover more about Nursing Programme.](http://www.ucol.ac.nz/programmes/nursing)
