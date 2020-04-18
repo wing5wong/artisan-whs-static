@@ -14,8 +14,6 @@ Whilst our graduates didn't get to cross the stage this year that doesn't take a
 
 Hannah Neilson was awarded a UCOL Excellence Scholarship out of high school and graduated with a Bachelor of Nursing this year. After completing her studies Hannah took up a position in the same ward that she did her placement in. Congratulations Hannah, thank you and all of our other nursing graduates for the work you are doing during these times.
 
-[https://bit.ly/34H43Zb](http://www.ucol.ac.nz/staff-and-student-profiles/hannah-neilson?utm_campaign=coschedule&utm_source=facebook_page&utm_medium=UCOL&fbclid=IwAR0-Vw7sf6TQ-V84DzngdRgQvQOh5UHSa6fUMhhFt6bVeHMRNcdnGd-rKfA)
-
 Hannah Neilson came to UCOL Whanganui after receiving an Excellence Scholarship to study Nursing. Now she has begun her career in her home town’s hospital.
 
 Coming out of Whanganui High School, Hannah was one of five students awarded a UCOL Excellence Scholarship in 2016. The scholarship helped cover her Bachelor of Nursing tuition fees.
