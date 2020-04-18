@@ -4,6 +4,7 @@ feature_image:
   description: Hannah Neilson came to UCOL Whanganui after receiving an Excellence
     Scholarship to study Nursing. Now she has begun her career in her home
     town’s hospital.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587186705/News/Hannah_Neilson_UCOL_ex_whs_17.4.20_UCOL_fACEBOOK.jpg
 news_author:
   date: 2020-04-17T05:06:16.397Z
   publication: UCOL Facebook
