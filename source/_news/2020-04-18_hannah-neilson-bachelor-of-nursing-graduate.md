@@ -1,5 +1,5 @@
 ---
-title: Hannah Neilson - Bachelor of Nursing Graduate working at Whanganui Hospital
+title: Hannah Neilson - Bachelor of Nursing Graduate
 feature_image:
   description: Hannah Neilson graduates with a Bachelor of Nursing this year.
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587186705/News/Hannah_Neilson_UCOL_ex_whs_17.4.20_UCOL_fACEBOOK.jpg
