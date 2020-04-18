@@ -16,7 +16,7 @@ Hannah Neilson was awarded a UCOL Excellence Scholarship out of high school and 
 
 Hannah Neilson came to UCOL Whanganui after receiving an Excellence Scholarship to study Nursing. Now she has begun her career in her home town’s hospital.
 
-Coming out of Whanganui High School, Hannah was one of five students awarded a UCOL Excellence Scholarship in 2016. The scholarship helped cover her Bachelor of Nursing tuition fees.
+Coming out of Whanganui High School, Hannah was one of five students awarded a UCOL Excellence Scholarship in 2016. The scholarship helped cover her [Bachelor of Nursing](http://www.ucol.ac.nz/programmes/nursing/bachelor-of-nursing) tuition fees.
 
 Hannah says having so much support from her Lecturers and the Student Success team really helped with her studies .
 
