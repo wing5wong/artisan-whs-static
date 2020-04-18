@@ -5,8 +5,9 @@ feature_image:
     Scholarship to study Nursing. Now she has begun her career in her home
     town’s hospital.
 news_author:
-  date: 2020-04-18T05:06:16.397Z
-show_in_slider: true
+  date: 2020-04-17T05:06:16.397Z
+  publication: UCOL Facebook
+show_in_slider: false
 date: 2020-04-18T05:06:16.543Z
 ---
 Coming out of Whanganui High School, Hannah was one of five students awarded a UCOL Excellence Scholarship in 2016. The scholarship helped cover her Bachelor of Nursing tuition fees.
