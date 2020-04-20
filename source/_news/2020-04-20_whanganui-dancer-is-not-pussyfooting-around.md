@@ -3,6 +3,7 @@ title: Whanganui dancer is not pussyfooting around
 feature_image:
   description: Ardon England is looking forward to resuming Pride Box. Made with
     funding from NZ On Air.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587358201/News/aron-england.jpg
 news_author:
   date: 2020-04-17T03:57:33.563Z
   publication: Whanganui Chronicle
