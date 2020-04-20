@@ -1,8 +1,8 @@
 ---
 title: Whanganui dancer is not pussyfooting around
 feature_image:
-  description: Ardon England is looking forward to resuming Pride Box. Made with
-    funding from NZ On Air.
+  description: Ardon England launched Pride Box in Whanganui just before the
+    lockdown, offering boxing classes with a focus on self-defence.
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587358383/News/ardon_england.ex_Chron_17.4.20.jpg
 news_author:
   date: 2020-04-17T03:57:33.563Z
