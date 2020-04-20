@@ -45,5 +45,4 @@ As if boxing, dancing and self-defence classes aren't enough, England is also a 
 
 "I did my mental health training. It's called Tall Trees or Rākau Roroa and it offers people with lived experience to come and do mental health training to be able to give back."
 
-Made with funding from NZ On Air.
-
+[Ardon England is looking forward to resuming Pride Box. Made with funding from NZ On Air.](blob:https://www.nzherald.co.nz/c80915be-ffb6-4695-8779-3561cbb430c4)
