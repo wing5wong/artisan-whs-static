@@ -2,6 +2,7 @@
 title: IMPORTANT UPDATE - MOVING TO ALERT LEVEL 3
 is_emergency: false
 date: 2020-04-21T11:10:48.443Z
+subtitle: Starting on Wednesday 29 April
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
 Kia ora koutou,
