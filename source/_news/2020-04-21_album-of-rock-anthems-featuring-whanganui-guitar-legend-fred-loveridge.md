@@ -10,9 +10,9 @@ news_author:
 show_in_slider: false
 date: 2020-04-21T07:32:46.851Z
 ---
-Can you imagine an album of iconic British Rock anthems played with orchestral style backing by a world class New Zealand guitarist?
+**Can you imagine an album of iconic British Rock anthems played with orchestral style backing by a world class New Zealand guitarist?**
 
-Here it is - read on.
+**Here it is - read on.**
 
 Last year Kiwi record producer, Dick Le Fort (known as Richard Le Fort in the British music business), sold the idea of producing a recording of iconic British Rock Anthems to Lightfall, a subsidiary of Aardvark Records, who liked the idea and asked Dick to find a New Zealand guitarist to play the songs.
 
