@@ -2,9 +2,9 @@
 title: IMPORTANT UPDATE - MOVING TO ALERT LEVEL 3
 is_emergency: false
 date: 2020-04-21T11:10:48.443Z
-subtitle: From Wednesday 29 April we will be physically open for a small number
-  of Year 9 and Year 10 students where families need their children to attend
-  school
+subtitle: From Wednesday, 29 April, we will be physically open for a small
+  number of Year 9 and Year 10 students where families need their children to
+  attend school
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
 Kia ora koutou,
