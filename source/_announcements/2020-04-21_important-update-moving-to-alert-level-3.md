@@ -16,15 +16,15 @@ From Wednesday, 29 February, as New Zealand begins the second day of the new Ale
 
  
 
-The Prime Minister and the Ministry of Education have clearly stated that if you can, you should keep your child at home.  They have said that you should only physically send your child to school if it is absolutely necessary for you to do so.  Wherever possible at all, adults and students are encouraged to work and learn from home.
+The Prime Minister and the Ministry of Education have clearly stated that if you can, **you should keep your child at home.**  They have said that you should only physically send your child to school if it is **absolutely necessary** for you to do so.  Wherever possible at all, adults and students are encouraged to work and learn from home.
 
  
 
-If you must send your Year 9 or Year 10 child to school please note the following important details:
+If you must send your **Year 9 or Year 10** child to school please note the following important details:
 
  
 
-·        Email me at principal@whs.ac.nz by 5:00pm, Sunday, 26 April so that I can have advance indication of likely student attendance.
+·        Email me at **principal@whs.ac.nz** by 5:00pm, Sunday, 26 April so that I can have advance indication of likely student attendance.
 
 ·        Students must be in full school uniform.
 
@@ -58,7 +58,7 @@ Please note that the great majority of our Whanganui High School staff will be c
 
  
 
-Our Main Office will be closed and our Student Centre will be closed during Alert Level 3.  If you have any questions regarding digital devices or internet connection please email office@whs.ac.nz in the first instance and your email will be passed onto our IT team - they will respond as quickly as possible.
+Our Main Office will be closed and our Student Centre will be closed during Alert Level 3.  If you have any questions regarding digital devices or internet connection please email **office@whs.ac.nz** in the first instance and your email will be passed onto our IT team - they will respond as quickly as possible.
 
  
 
