@@ -13,7 +13,7 @@ I hope you and your family are in a good state of well-being and that you are ac
 
  
 
-From Wednesday, 29 February, as New Zealand begins the second day of the new Alert Level 3, we will be physically open for a small number of Year 9 and Year 10 students **where families need their children to attend school.**
+From Wednesday, 29 April, as New Zealand begins the second day of the new Alert Level 3, we will be physically open for a small number of Year 9 and Year 10 students **where families need their children to attend school.**
 
  
 
@@ -33,7 +33,7 @@ If you must send your **Year 9 or Year 10** child to school please note the foll
 
 ·        Year 9 students must meet me at 9:00am every morning on the steps outside the Deans’ House.
 
-·        Year 10 students must meet another member of my Senior Leadership Team at 9:05am on the steps outside the Café.
+·        Year 10 students must meet another member of my Senior Leadership Team at 9:05am on the steps outside the Canteen.
 
 ·        Full health and safety processes as well as the current physical distancing rules will be of paramount importance.
 
