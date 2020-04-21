@@ -1,5 +1,5 @@
 ---
-title: Album of Rock Anthems featuring Whanganui Guitar Legend, Fred Loveridge
+title: Album of Rock Anthems featuring Whanganui guitar legend, Fred Loveridge
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587454627/News/Fred_Loveridge._RCP_16.4.20.jpg
   description: The front cover of the album.
