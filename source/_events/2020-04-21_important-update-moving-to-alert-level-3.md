@@ -10,4 +10,4 @@ From Wednesday, 29 April, as New Zealand begins the second day of the new Alert 
 
 
 
-[Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
+[Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
