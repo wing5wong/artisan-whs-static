@@ -8,23 +8,13 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/
 ---
 Kia ora koutou,
 
- 
-
 I hope you and your family are in a good state of well-being and that you are achieving success as we all adjust to the new ways of the remote learning and teaching world.
 
- 
-
-From Wednesday, 29 April, as New Zealand begins the second day of the new Alert Level 3, we will be physically open for a small number of Year 9 and Year 10 students **where families need their children to attend school.**
-
- 
+From Wednesday, 29 April, as New Zealand begins the second day of the new Alert Level 3, we will be physically open for a small number of Year 9 and Year 10 students **where families need their children to attend school.** 
 
 The Prime Minister and the Ministry of Education have clearly stated that if you can, **you should keep your child at home.**  They have said that you should only physically send your child to school if it is **absolutely necessary** for you to do so.  Wherever possible at all, adults and students are encouraged to work and learn from home.
 
- 
-
 If you must send your **Year 9 or Year 10** child to school please note the following important details:
-
- 
 
 ·        Email me at **principal@whs.ac.nz** by 5:00pm, Sunday, 26 April so that I can have advance indication of likely student attendance.
 
@@ -54,24 +44,16 @@ If you must send your **Year 9 or Year 10** child to school please note the foll
 
 ·        Year 9 students will finish the school day at 2:55pm; Year 10 students will finish the school day at 3:00pm.
 
- 
-
 Please note that the great majority of our Whanganui High School staff will be continuing to work from home. 
-
- 
 
 Our Main Office will be closed and our Student Centre will be closed during Alert Level 3.  If you have any questions regarding digital devices or internet connection please email **office@whs.ac.nz** in the first instance and your email will be passed onto our IT team - they will respond as quickly as possible.
 
- 
-
 We want to play our part in continuing to keep our wider Whanganui community as safe as possible over the coming weeks.
-
- 
 
 Take care – all the very best.
 
- 
-
-Martin McAllen  
-Principal  
+Martin McAllen\
+Principal\
 Whanganui High School
+
+[Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
