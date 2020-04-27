@@ -1,9 +1,0 @@
----
-title: TERM 2 STARTS, for Remote Learning
-date: 2020-04-15T03:44:07.688Z
----
-Term 2 starts on Wednesday 15 April.  
-
-School will provide Remote Learning, but is not physically open.  
-
-[Read the Special Newsletter from Principal, Martin McAllen, 13 April 2020.](https://res.cloudinary.com/whanganuihigh/image/upload/v1586783283/newsletters/SPECIAL_NEWSLETTER.Remote_Learning_-_Term_2.pdf)
