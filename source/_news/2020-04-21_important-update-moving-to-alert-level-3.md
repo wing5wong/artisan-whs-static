@@ -57,6 +57,4 @@ Martin McAllen\
 Principal\
 Whanganui High School
 
-
-
-[Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
+[Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
