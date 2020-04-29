@@ -1,5 +1,5 @@
 ---
-title: "Congratulations to Harriet Buchan - Go Costume winner! "
+title: "Congratulations to Harriet Buchan - one of six Go Costume winners! "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588143581/News/Visual_Arts._Harriet_Buchan.png
   description: ‘Hali the Deep Ocean Guardian’ by Harriet Buchan from Whanganui High School
