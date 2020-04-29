@@ -42,9 +42,9 @@ It’s not over yet with one more challenge, Go Digital, currently on the go. He
 
 - - -
 
-####‘Hali the Deep Ocean Guardian’ by Harriet Buchan from Whanganui High School####
+####‘Hali the Deep Ocean Guardian’####
 
 Hali is the guardian of the deep ocean, her name deriving from the Greek origin meaning "the sea". Designing her outfit, originally I was looking for a middle eastern vibe, though her main inspiration ended up being angler fish and sirens so I shifted off into being inspired by Greek Attire—Along with that day at the beach vibe—. In my mind, I was thinking of logical materials that one can have living in the ocean, so in the end I thought it would be creative to make her clothes the materials that comb jellyfish are made of; or bubbles depending on your interpretation. I tried to achieve this by making the clothes appear iridescent. I also think they would work like Jellyfish in the way it can change pigment and glow her way in the dark (like the light bulb on her head!), especially with the streaks which hangs off her wrist.
 
-Harriet Buchan  
-Whanganui High School
+_By Harriet Buchan_  
+_Whanganui High School_
