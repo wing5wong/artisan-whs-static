@@ -35,8 +35,7 @@ Congratulations to the 6 winners who each will each get a signed copy of White C
 
 We received a massive amount of entries, and there was an amazing array of costumed Earth Guardians among them. A big shout out to all of you who put in such awesome mahi, and imagined up those fabulous creations from scratch!
 
-It’s not over yet with one more challenge, Go Digital, currently on the go. Head to our website to watch judge Paul Tobin talk us through the 6 Go Costume winning entries, and to find out more about our final Earth Guardians Challenge – Go Digital.  
-
+It’s not over yet with one more challenge, Go Digital, currently on the go. Head to our website to watch judge Paul Tobin talk us through the 6 Go Costume winning entries, and to find out more about our final Earth Guardians Challenge – Go Digital.
 [Go Costume winners](https://l.facebook.com/l.php?u=https%3A%2F%2Fcreative.massey.ac.nz%2Fearthguardiansjunior%2Fgo-costume-winners%2F%3Ffbclid%3DIwAR0si2Aq3JLMtVWGw2GbcC1Zr_zQ8PCc-NQJj4uUCQBl5omASLT0FwwSj0A&h=AT39W3vVXJiAJtudTMNw61CEBwz9vVhiNEhqxnaH56Fg9PdEudWhOskmVnm1unafl1iHj_h1RgRkxa6m1EWOL70C0wbWYjPOP5txTw3IDYqDV7pNFqmHZdJuM4dDxUnF6EJPEOI8mLQBrg4YOmp8DoA1mwGN1kx0DwDhBryTn9tRoxAaSx8O12OHYXiJ88CQPTF1AmFilurT7z7pz-aooZA3KTCLay4TFah9oDvG1L8IYuUhVhKbfYHD7YdmmebYsOXhXIHYfUHc07_Y8ANu1lgq1Omb5EapcWS8SKCcaDrtKb28sylje1OcPuzWoQt6d8cdnVroTIujqvwexwHHPybXFxfGX5ybDYXaCiMEjfJhn2k0mwvMZWGxyQY_kOy6trZhNWzRURE2Ve_X8X-S50uCCdk5XEmaGgla1QmtC_2KEc12WezT4GCSzEU-RCaLYhMYgBtLo4JChQ2ujYpCP0RUI7A90xTuCAwG0f_twMOTbSTBlKro8FBz-ymzMQ8cyMmyF_pLLCvpi4YaedufEVvY0IY9-wQSdXU1SkwILbTRoMu_XYLNA54FzzmUkhQqyIbwLo2MCicEjHr73kpHNt8sFJ0evo3e2JPDruOObA1P8oTqmcHKsbtKBKBRXVVMrLzMJBk6ITuju5_L8wzQ34D334cCJsh4yFvswueNfJeqYLoQegV3rbfcCdOjxMbUGho3dEDbCmQHnsiVNcATIJBLk0-JzbARCO8VODzN81dOTKguuDHKfD6NQ029XcfxPhqwji7AAyFvjPrJ1Ks0GfripJTaCogDO6ESaBfCiW6jYzoqXVe3SfvrXChsnTyoAKg539LvZm-cVdFjiqYZX2nGj2m-IQDJAt7O)
 
  Happy Friday everyone!
