@@ -1,11 +1,12 @@
 ---
-title: "Congratulations to Harriet Buchan - a Go Costume winner! "
+title: "Congratulations to Harriet Buchan - Go Costume winner! "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588143581/News/Visual_Arts._Harriet_Buchan.png
   description: ‘Hali the Deep Ocean Guardian’ by Harriet Buchan from Whanganui High School
 news_author:
   date: 2020-04-24T06:58:02.910Z
   publication: CoCA Massey Facebook
+  name: ""
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588145547/News/2._Pele_by_Izzy_Johns_from_Nelson_College_for_Girls.jpg
     description: "'Pele’ by Izzy Johns from Nelson College for Girls"
