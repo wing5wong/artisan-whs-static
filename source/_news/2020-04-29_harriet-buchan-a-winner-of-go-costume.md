@@ -8,6 +8,8 @@ news_author:
   publication: CoCA Massey Facebook
   name: ""
 image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588143581/News/Visual_Arts._Harriet_Buchan.png
+    description: ‘Hali the Deep Ocean Guardian’ by Harriet Buchan from Whanganui High School
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588145547/News/2._Pele_by_Izzy_Johns_from_Nelson_College_for_Girls.jpg
     description: "'Pele’ by Izzy Johns from Nelson College for Girls"
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588145563/News/3._Fujiha_by_Alyssia_Prickett_from_Paraparaumu_College.jpg
