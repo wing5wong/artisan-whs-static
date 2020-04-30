@@ -25,7 +25,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.10.2",
         "bootstrap": "^4.3.1",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "netlify-identity-widget": "^1.5.5",
         "popper.js": "^1.15.0",
         "swiper": "^4.5.0"
