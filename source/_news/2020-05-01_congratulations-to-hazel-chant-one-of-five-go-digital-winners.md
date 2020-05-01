@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300213/News/Hazel_chant._sanctuarysq.jpg
   description: "'Sanctuary' by Hazel Chant, Whanganui High School"
 news_author:
-  date: 2020-05-27T02:20:06.078Z
+  date: 2020-04-27T02:20:06.078Z
   publication: https://creative.massey.ac.nz/earthguardiansjunior/go-digital-winners/
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300213/News/Hazel_chant._sanctuarysq.jpg
