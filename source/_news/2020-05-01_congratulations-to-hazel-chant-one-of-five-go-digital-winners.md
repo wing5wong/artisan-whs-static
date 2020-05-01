@@ -8,18 +8,18 @@ news_author:
   publication: https://creative.massey.ac.nz/earthguardiansjunior/go-digital-winners/
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300213/News/Hazel_chant._sanctuarysq.jpg
-    description: Sanctuary by Hazel Chant, Whanganui High School
+    description: "'Sanctuary' by Hazel Chant, Whanganui High School"
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300251/News/The_Guardian_of_the_Forest_by_Nurani_Kanzas.jpg
-    description: The Guardian of the Forest by Nurani Kanzas, Hillcrest High School
+    description: "'The Guardian of the Forest' by Nurani Kanzas, Hillcrest High School"
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300283/News/Silverlining_by_Hunter_Black.png
-    description: Silverlining by Hunter Black, Paraparaumu College
+    description: "'Silverlining' by Hunter Black, Paraparaumu College"
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300338/News/Xyreilox_by_Finn_Clarke.png
-    description: Xyreilox by Finn Clarke, Cambridge High School
+    description: "'Xyreilox' by Finn Clarke, Cambridge High School"
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300312/News/Spike_by_Riley_Nixon.png
-    description: Spike by Riley Nixon, Nayland College
+    description: "'Spike' by Riley Nixon, Nayland College"
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300360/News/Moose_of_Fiordland_Tanya_Marriott.jpg
     description: Each winner will receive one of five primed 3D printed copies of
-      the Moose of Fiordland by Tanya Marriott  (pictured fully painted) to
+      the 'Moose of Fiordland' by Tanya Marriott  (pictured fully painted) to
       paint for themselves at home.
 show_in_slider: true
 date: 2020-05-01T02:20:06.181Z
