@@ -24,7 +24,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-05-01T02:20:06.181Z
 ---
-###Congratulations to the Go Digital winners!###
+####Congratulations to the Go Digital winners!####
 
 **'Sanctuary' by Hazel Chant  from Whanganui High School**  
 'The Guardian of the Forest' by Nurani Kanzas  from Hillcrest High School  
@@ -37,9 +37,9 @@ Each winner will receive one of five primed 3D printed copies of the Moose of Fi
 
 - - -
 
-###'Sanctuary'###
+####'Sanctuary'####
 
 Sanctuary was formed from a sandstone cliff where birds were nesting. Freeing itself, and a pohutukawa tree, before the cliff collapsed during a storm, it travels New Zealand providing refuge for birds that have lost their habitat.My inspiration for this character was the cliffs that birds nest in and trees cling to. There's an excellent one just outside Whanganui with lots of holes in it. My aim was to create a refuge that looked gentle, using round forms. I wanted to make Sanctuary look like a creature you would walk towards rather than run away from. I hope you enjoy this character as much as I enjoyed making it.
 
-*By Hazel Chant  
-Whanganui High School*
+_By Hazel Chant_  
+_Whanganui High School_
