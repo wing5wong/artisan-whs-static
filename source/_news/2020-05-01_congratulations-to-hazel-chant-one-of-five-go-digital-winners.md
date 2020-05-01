@@ -24,22 +24,22 @@ image_gallery:
 show_in_slider: true
 date: 2020-05-01T02:20:06.181Z
 ---
-###Congratulations to our Go Digital winners!###
+\###Congratulations to our Go Digital winners!###
 
-**'Sanctuary' by Hazel Chant from Whanganui High School**  
-'The Guardian of the Forest' by Nurani Kanzas from Hillcrest High School  
-'Silverlining' by Hunter Black from Paraparaumu College  
-'Xyreilox' by Finn Clarke from Cambridge High School  
+**'Sanctuary' by Hazel Chant  from Whanganui High School**\
+'The Guardian of the Forest' by Nurani Kanzas  from Hillcrest High School\
+'Silverlining' by Hunter Black from Paraparaumu College\
+'Xyreilox' by Finn Clarke  from Cambridge High School\
 'Spike' by Riley Nixon from Nayland College
 
-Each winner will receive one of five primed 3D printed copies of the Moose of Fiordland by Tanya Marriott (pictured below fully painted) to paint for themselves at home.  
-Go Digital winners
+Each winner will receive one of five primed 3D printed copies of the Moose of Fiordland by Tanya Marriott (pictured below fully painted) to paint for themselves at home.\
+[Go Digital winners](https://creative.massey.ac.nz/earthguardiansjunior/go-digital-winners/?fbclid=IwAR2TqypyOcApNFTTJzaKluclMYOhn19X6z0VYmtNC3RzA8Xt-VUb45j_exE)
 
----
+- - -
 
-###'Sanctuary'###
+\###'Sanctuary'###
 
 Sanctuary was formed from a sandstone cliff where birds were nesting. Freeing itself, and a pohutukawa tree, before the cliff collapsed during a storm, it travels New Zealand providing refuge for birds that have lost their habitat.My inspiration for this character was the cliffs that birds nest in and trees cling to. There's an excellent one just outside Whanganui with lots of holes in it. My aim was to create a refuge that looked gentle, using round forms. I wanted to make Sanctuary look like a creature you would walk towards rather than run away from. I hope you enjoy this character as much as I enjoyed making it.
 
-_By Hazel Chant  
-Whanganui High School_
+*By Hazel Chant\
+Whanganui High School*
