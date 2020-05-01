@@ -2,7 +2,7 @@
 title: Congratulations to Hazel Chant - one of five Go Digital winners!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588300213/News/Hazel_chant._sanctuarysq.jpg
-  description: Sanctuary by Hazel Chant, Whanganui High School
+  description: "'Sanctuary' by Hazel Chant, Whanganui High School"
 news_author:
   date: 2020-05-01T02:20:06.078Z
   publication: https://creative.massey.ac.nz/earthguardiansjunior/go-digital-winners/
@@ -26,11 +26,11 @@ date: 2020-05-01T02:20:06.181Z
 ---
 Congratulations to our Go Digital winners!
 
-**Sanctuary by Hazel Chant from Whanganui High School**
-The Guardian of the Forest by Nurani Kanzas from Hillcrest High School
-Silverlining by Hunter Black from Paraparaumu College
-Xyreilox by Finn Clarke from Cambridge High School
-Spike by Riley Nixon from Nayland College
+**'Sanctuary' by Hazel Chant from Whanganui High School**  
+'The Guardian of the Forest' by Nurani Kanzas from Hillcrest High School  
+'Silverlining' by Hunter Black from Paraparaumu College  
+'Xyreilox' by Finn Clarke from Cambridge High School  
+'Spike' by Riley Nixon from Nayland College
 
 Each winner will receive one of five primed 3D printed copies of the Moose of Fiordland by Tanya Marriott (pictured below fully painted) to paint for themselves at home.
 
