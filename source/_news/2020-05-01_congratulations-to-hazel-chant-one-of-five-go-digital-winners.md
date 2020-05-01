@@ -24,7 +24,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-05-01T02:20:06.181Z
 ---
-\###Congratulations to our Go Digital winners!###
+\###Congratulations to the Go Digital winners!###
 
 **'Sanctuary' by Hazel Chant  from Whanganui High School**\
 'The Guardian of the Forest' by Nurani Kanzas  from Hillcrest High School\
