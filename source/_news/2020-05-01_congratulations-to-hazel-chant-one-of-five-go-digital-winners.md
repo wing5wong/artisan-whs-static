@@ -32,7 +32,8 @@ date: 2020-05-01T02:20:06.181Z
 'Xyreilox' by Finn Clarke from Cambridge High School  
 'Spike' by Riley Nixon from Nayland College
 
-Each winner will receive one of five primed 3D printed copies of the Moose of Fiordland by Tanya Marriott (pictured below fully painted) to paint for themselves at home.
+Each winner will receive one of five primed 3D printed copies of the Moose of Fiordland by Tanya Marriott (pictured below fully painted) to paint for themselves at home.  
+Go Digital winners
 
 ---
 
