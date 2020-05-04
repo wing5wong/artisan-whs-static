@@ -2,8 +2,9 @@
 title: Young veterans key to keep Under 15's afloat
 feature_image:
   description: Geordie Abernethy, Daniel Austen, Saul Abernethy, Oscar Mabin,
-    Monty Sherriff, Levi Hoekstra, coach Dave Berry. Front, Jimmy Peacock, Benji
-    Anderson, Matthew Hocquard, Peter Reynolds, Henry Carver.
+    Monty Sherriff, Levi Hoekstra (WHS student), coach Dave Berry. Front, Jimmy
+    Peacock, Benji Anderson, Matthew Hocquard, Peter Reynolds, Henry Carver (WHS
+    student).
   credit: Supplied
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588595513/News/WU_U15_Cricket_Chron_18.4.20_Levi_Henry._photo_1.jpg
 news_author:
