@@ -1,6 +1,5 @@
 ---
-title: "Cricket: Lose before Christmas but win afterwards - Wanganui senior
-  team's season in review"
+title: "Cricket: Wanganui senior team's season in review"
 feature_image:
   description: The Wanganui team after another up and down representative season,
     with the down being in the first half of the year and the up being in the
