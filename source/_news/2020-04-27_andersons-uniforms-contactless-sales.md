@@ -8,3 +8,11 @@ show_in_slider: true
 date: 2020-04-27T05:40:26.373Z
 ---
 [Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
+
+
+
+[Click here for WHS Boys order form](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732415/News/WHS_BOYS_ORDER_FORM.pdf)
+
+
+
+[Click here for WHS Girls order form](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732423/News/WHS_GIRLS_ORDER_FORM.pdf)
