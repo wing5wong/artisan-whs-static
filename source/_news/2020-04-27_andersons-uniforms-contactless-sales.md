@@ -11,8 +11,8 @@ date: 2020-04-27T05:40:26.373Z
 
 
 
-[Click here for WHS Boys order form](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732415/News/WHS_BOYS_ORDER_FORM.pdf)
+[Click here for WHS Boys uniform list and prices](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732415/News/WHS_BOYS_ORDER_FORM.pdf)
 
 
 
-[Click here for WHS Girls order form](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732423/News/WHS_GIRLS_ORDER_FORM.pdf)
+[Click here for WHS Girls uniform list and prices](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732423/News/WHS_GIRLS_ORDER_FORM.pdf)
