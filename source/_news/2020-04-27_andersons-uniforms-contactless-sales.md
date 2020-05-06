@@ -7,7 +7,7 @@ news_author:
 show_in_slider: true
 date: 2020-04-27T05:40:26.373Z
 ---
-[Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
+[WHS Girls uniform list and prices](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732423/News/WHS_GIRLS_ORDER_FORM.pdf)
 
 
 
@@ -15,4 +15,6 @@ date: 2020-04-27T05:40:26.373Z
 
 
 
-[WHS Girls uniform list and prices](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732423/News/WHS_GIRLS_ORDER_FORM.pdf)
+
+
+[Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
