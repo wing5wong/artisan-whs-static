@@ -10,4 +10,3 @@ We are physically open for a small number of Year 9 and Year 10 students **where
 
 
 
-[Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
