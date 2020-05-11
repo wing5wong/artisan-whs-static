@@ -1,9 +1,8 @@
 ---
-title: 'Whanganui ex-pat self isolating in Spain '
+title: "Whanganui ex-pat self isolating in Spain "
 feature_image:
-  description: 'Whanganui''s Rex Lloyd is currently on the coast of Spain. '
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1585883915/News/Rox_Lloyd._Chron_2.4.20.jpg
+  description: "Whanganui's Rox Lloyd is currently on the coast of Spain. "
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1585883915/News/Rox_Lloyd._Chron_2.4.20.jpg
   credit: Supplied
 news_author:
   date: 2020-04-02T03:15:44.649Z
