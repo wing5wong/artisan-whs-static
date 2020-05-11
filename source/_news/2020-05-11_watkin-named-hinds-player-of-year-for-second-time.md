@@ -17,7 +17,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-05-11T04:56:08.878Z
 ---
-Whanganui cricket prodigy **Jess Watkin** is getting used to receiving good news on the week of her birthdays.
+**Whanganui cricket prodigy **_Jess Watkin_** is getting used to receiving good news on the week of her birthdays.**
 
 **Two years ago, Watkin received her first international callup to the White Ferns, joining their camp five days after her she turned 20, and then on Tuesday evening, two days before turning 22, the Central Hinds allrounder and co-captain for the Super Smash competition was recognised as the women's player of the year in the Central Districts Cricket Awards.**
 
