@@ -1,9 +1,19 @@
 ---
 title: Whanganui's stars of track and field
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1576206461/News/Maggie_Jones_chron_12.12.19.jpg
+  description: Maggie Jones
 news_author:
   date: 2020-05-08T10:21:22.844Z
   name: Alec McNab
   publication: Whanganui Chronicle
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1576206614/News/Nat_Kirk_Chron_12.12.19.jpg
+    description: Nat Kirk
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1575873251/News/16.jpg
+    description: Paris Munro
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1575873249/News/18.jpg
+    description: Sophie Andrews
 show_in_slider: false
 date: 2020-05-11T10:21:23.046Z
 ---
