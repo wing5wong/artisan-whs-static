@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1589175342/News/Youth_week_poster_2020.jpg
 news_author:
   date: 2020-05-09T05:35:19.023Z
-  publication: Education.govt.nz
+  publication: gazette.education.govt.nz
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1589175908/News/Youth-Week-Theme-Date.png
 show_in_slider: false
