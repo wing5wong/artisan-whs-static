@@ -7,6 +7,8 @@ news_author:
   publication: arataiohi.org.nz/youthweek/
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1589179021/News/Youth_week_poster_winner2020.png
+    description: The winning poster of Youth Week 2020 was designed by Courtney
+      Bignell of Tauranga.
 show_in_slider: false
 date: 2020-05-11T05:35:19.080Z
 ---
