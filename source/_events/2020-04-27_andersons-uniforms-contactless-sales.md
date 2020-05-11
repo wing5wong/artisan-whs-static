@@ -1,6 +1,6 @@
 ---
 title: Anderson's Uniforms Contactless Sales
-date: 2020-05-11T05:49:06.757Z
+date: 2020-05-12T05:49:06.757Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587966369/News/Anderson_uniform_sign.png
 ---
 [WHS Girls uniform list and prices](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732423/News/WHS_GIRLS_ORDER_FORM.pdf)
