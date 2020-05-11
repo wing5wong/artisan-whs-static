@@ -34,7 +34,7 @@ Club regular Sarah Matthews was the top Women's Run entrant, finishing in 8m 2s.
 
 For the walkers, Lucas Martin took out the Men's event in 9m 26s, whole Alice Quigley was the leader for Women's in 13m 14s.
 
-Sport prizes of a free membership went to Michelle Selby, while **Nat Kirk** and Luke Watts **received $25 gift vouchers**.
+Sport prizes of a free membership went to Michelle Selby, while **Nat Kirk** and Luke Watts **received $25 gift voucher**s.
 
 The full leaderboard can be viewed at wanganuiharrierclub.co.nz.
 
