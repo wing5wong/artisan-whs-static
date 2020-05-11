@@ -14,7 +14,7 @@ image_gallery:
     description: Brodie White, left, and Peter Mangan are "slowly creeping towards
       normality" in Berlin. Photo / Supplied.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1585349956/News/Paige_Mailman.Chron_28.3.20.jpg
-    description: Paige Mailman in Perth.
+    description: Paige Mailman in Perth.  Photo / Supplied.
 show_in_slider: false
 date: 2020-05-11T05:08:08.652Z
 ---
