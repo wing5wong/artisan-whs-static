@@ -2,18 +2,22 @@
 title: Whanganui's stars of track and field
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1576206461/News/Maggie_Jones_chron_12.12.19.jpg
-  description: Maggie Jones
+  description: Maggie Jones from WHS won two national hurdles titles.
 news_author:
   date: 2020-05-08T10:21:22.844Z
   name: Alec McNab
   publication: Whanganui Chronicle
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1575873251/News/16.jpg
-    description: Paris Munro
+    description: WHS Paris Munro won NZ Schools bronze medals in both Junior hurdle
+      events, then backed that up by being part of the two silver medal-winning
+      relay teams.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1576206614/News/Nat_Kirk_Chron_12.12.19.jpg
-    description: Nat Kirk
+    description: WHS Nat Kirk had hurdle success with his Junior Boys 300m title.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1575873249/News/18.jpg
-    description: Sophie Andrews
+    description: WHS Sophie Andrews got six Whanganui Schools titles as the 300m
+      hurdles, steeplechase and hammer events were held the week prior to the
+      rest of the Covid 19-cancelled Whanganui School event.
 show_in_slider: false
 date: 2020-05-11T10:21:23.046Z
 ---
