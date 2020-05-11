@@ -2,7 +2,7 @@
 title: New-look to music month
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1588653455/News/Michael_Frankin-Browne_Chron_5.5.20.jpg
-  description: Whanganui's Michael Frankin-Browne onstage with HLAH.
+  description: Whanganui's Michael Franklin-Browne onstage with HLAH.
   credit: Nikita Weir
 news_author:
   date: 2020-05-05T04:36:40.645Z
