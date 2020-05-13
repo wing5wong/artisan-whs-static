@@ -1,5 +1,5 @@
 ---
-title: Uniform - one week transition from summer to winter - Anderson's Uniform sales
+title: Uniform - one week transition from summer to winter
 date: 2020-05-18T05:49:06.757Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587966369/News/Anderson_uniform_sign.png
 ---
