@@ -1,5 +1,5 @@
 ---
-title: Anderson's Uniforms Contactless Sales
+title: Anderson's Uniform Sales
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587966369/News/Anderson_uniform_sign.png
 news_author:
