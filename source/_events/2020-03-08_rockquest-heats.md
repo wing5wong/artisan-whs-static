@@ -7,5 +7,5 @@ You need to have completed the [online registration form](https://smokefreerockq
 
 Details of how and what to submit will be sent to you when you enter.
 
-For more information go to:  
+For more information go to: 
 [Smokefreerockquest Facebook Page](https://www.facebook.com/pg/rockquest/posts/)
