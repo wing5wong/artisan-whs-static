@@ -1,12 +1,11 @@
 ---
-title: 'Rockquest Heats '
-date: 2020-06-06T23:23:38.929Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1583704230/Events/Smokefree_Rockquest_2020.jpg
+title: Rockquest Bands entries due
+date: 2020-07-21T23:23:38.929Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1589356011/Events/smokefree_rockquest_online_poster_2020_horizontal.jpg
 ---
-Rockquest Heats are in Whanganui on Sunday 7 June at the Royal Wanganui Opera House. 
+You need to have completed the online registration form by this date.
 
+Details of how and what to submit will be sent to you when you enter.
 
-
-For any updates addressing COVID-19 go to:  
+For more information go to:  
 [Smokefreerockquest Facebook Page](https://www.facebook.com/pg/rockquest/posts/)
