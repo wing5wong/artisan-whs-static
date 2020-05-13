@@ -3,6 +3,9 @@ title: Anderson's Uniform Sales
 date: 2020-05-14T05:49:06.757Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587966369/News/Anderson_uniform_sign.png
 ---
+There will be a one week transition period for the change-over from summer uniform to winter uniform during 18 May to 22 May. 
+
+
 [WHS Girls uniform list and prices](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732423/News/WHS_GIRLS_ORDER_FORM.pdf)
 
 
