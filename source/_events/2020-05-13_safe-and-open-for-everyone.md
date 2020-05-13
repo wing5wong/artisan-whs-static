@@ -1,5 +1,5 @@
 ---
-title: Safe and open for everyone
+title: SAFE AND OPEN FOR EVERYONE
 date: 2020-05-18T09:48:16.257Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
