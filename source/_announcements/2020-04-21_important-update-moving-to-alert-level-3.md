@@ -1,57 +1,47 @@
 ---
-title: IMPORTANT UPDATE - ALERT LEVEL 3
+title: MONDAY 18 MAY - SAFE AND OPEN FOR EVERYONE
 is_emergency: false
-date: 2020-04-21T11:10:48.443Z
-subtitle: We are physically open for a small number of Year 9 and Year 10 students
+date: 2020-05-18T11:10:48.443Z
+subtitle: ""
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
 Kia ora koutou,
 
-I hope you and your family are in a good state of well-being and that you are achieving success as we all adjust to the new ways of the remote learning and teaching world.
+Welcome back to all our students, parents and staff under Alert Level 2 on Monday, 18 May.  I thank you very much for your co-operation and support of our students and staff as we all wrestled with learning and teaching effectively in the remote world.  It is great to see that after the last few weeks of everybody working together we now enter the completely safe position of having nearly all our students and staff members back at school.
+ 
+Please note that all Year levels and all students will be able to begin school again from Monday, 18 May – our fully normal timetable and break times will be followed.
+ 
+At the same time, we will be following all Public Health requirements for schools under Alert Level 2.  Particular areas of focus are: 
+ 
+•        Sick students should stay at home.  If a sick student comes to school, we will ask parents to collect the students from the Student Centre.
+ 
+•        Everybody needs to be far enough away from each other so that they are not breathing on or touching each other.  Good hygiene practices (coughing into your own elbow, handwashing and drying) and regular cleaning of commonly touched surfaces will be carried out.
+ 
+•        Large bottles of hand sanitisers, surface sanitisers and cleaning multi-cloths are placed in every classroom in the school and in common areas throughout the school.  Student bathroom areas and drinking fountains will be cleaned regularly throughout the day by support staff.  I recommend that your son or daughter brings a bottle of water to school every day and also a small hand sanitiser (if possible).
+ 
+•        All surfaces will be disinfected and cleaned daily.
+ 
+•        Accurate contact tracing registers continue to be maintained every day to identify which students and adults are on site.  If you visit our school you must sign into the main Reception area or the Student Centre – no exceptions.
+ 
+As  well as the essential information above, I have the following important information to share with you:
+ 
+•        All students will need to bring their chromebooks to school again from Monday.
+ 
+•        Normal school bus services are running again from Monday.
+ 
+•        There will be a one week transition period for the change-over from summer uniform to winter uniform during 18 May to 22 May.  Please see our uniform supplier –‘Andersons’ (Victoria Avenue) – or check out our main school Facebook page for more details.
+ 
+•        There will not be any House or Year level assemblies for at least the first two weeks after Monday.
+ 
+•        The school canteen will be open from Tuesday, 19 May.  Students will need to bring a packed lunch on Monday.
+ 
+We all look forward to seeing your children again in our classes and catching up with you over the next few weeks.
+ 
+Nga mihi nui,
 
-From Wednesday, 29 April, as New Zealand begins the second day of the new Alert Level 3, we will be physically open for a small number of Year 9 and Year 10 students **where families need their children to attend school.** 
-
-The Prime Minister and the Ministry of Education have clearly stated that if you can, **you should keep your child at home.**  They have said that you should only physically send your child to school if it is **absolutely necessary** for you to do so.  Wherever possible at all, adults and students are encouraged to work and learn from home.
-
-If you must send your **Year 9 or Year 10** child to school please note the following important details:
-
-·        Email me at **principal@whs.ac.nz** by 5:00pm, Sunday, 26 April so that I can have advance indication of likely student attendance.
-
-·        Students must be in full school uniform.
-
-·        Students will need to bring their digital device, lunch and water to school.
-
-·        Year 9 students must meet me at 9:00am every morning on the steps outside the Deans’ House.
-
-·        Year 10 students must meet another member of my Senior Leadership Team at 9:05am on the steps outside the Canteen.
-
-·        Full health and safety processes as well as the current physical distancing rules will be of paramount importance.
-
-·        Students must be on time – latecomers will not be accepted and will have to return home.
-
-·        Students will be placed into maximum group sizes of up to ten students and will need to remain in that group only throughout the whole school day while we are in Alert Level 3.
-
-·        Students will be supervised doing their remote learning by staff volunteers.
-
-·        The staff volunteers will be doing their own remote teaching of their own Year 9 to Year 13 students learning at home i.e.  the students at school will be supervised but not taught by the staff volunteers.
-
-·        An overall paper attendance register and contact tracing register will be taken each day.  Individual student attendance will still show as remote learning on KAMAR because students will be being supervised not taught.
-
-·        Year 9 and Year 10 students will have different break times during the day and will stay in their two separate parts of the school.
-
-·        Year 9 students will use one toilet block; Year 10 students will use another toilet block.
-
-·        Year 9 students will finish the school day at 2:55pm; Year 10 students will finish the school day at 3:00pm.
-
-Please note that the great majority of our Whanganui High School staff will be continuing to work from home. 
-
-Our Main Office will be closed and our Student Centre will be closed during Alert Level 3.  If you have any questions regarding digital devices or internet connection please email **office@whs.ac.nz** in the first instance and your email will be passed onto our IT team - they will respond as quickly as possible.
-
-We want to play our part in continuing to keep our wider Whanganui community as safe as possible over the coming weeks.
-
-Take care – all the very best.
-
-Martin McAllen  
-Principal  
+ 
+Martin McAllen
+Principal
 Whanganui High School
+
 
