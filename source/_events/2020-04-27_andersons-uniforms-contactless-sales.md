@@ -1,6 +1,6 @@
 ---
-title: Anderson's Uniform Sales
-date: 2020-05-14T05:49:06.757Z
+title: Uniform - one week transition from summer to winter - Anderson's Uniform sales
+date: 2020-05-18T05:49:06.757Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587966369/News/Anderson_uniform_sign.png
 ---
 There will be a one week transition period for the change-over from summer uniform to winter uniform during 18 May to 22 May. 
