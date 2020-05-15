@@ -42,3 +42,5 @@ Nga mihi nui,
 Martin McAllen  
 Principal  
 Whanganui High School
+
+[INFORMATION for WHANGANUI HIGH SCHOOL STUDENTS](https://res.cloudinary.com/whanganuihigh/image/upload/v1589537209/newsletters/Students_covid_instructions.pdf)
