@@ -3,8 +3,6 @@ title: Instructions for our students during Alert Level 2
 date: 2020-05-18T10:19:09.236Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
-Monday 18 May 2020
-
 **INFORMATION for WHANGANUI HIGH SCHOOL STUDENTS**
 
 We are all very pleased to be back at school. Please follow these rules and expectations at all times during Alert Level 2:
