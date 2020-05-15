@@ -1,5 +1,5 @@
 ---
-title: Students Covid Instuctions
+title: Instructions for our students during Alert Level 2
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 news_author:
