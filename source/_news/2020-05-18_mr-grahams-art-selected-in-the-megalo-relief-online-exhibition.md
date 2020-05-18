@@ -1,5 +1,5 @@
 ---
-title: Mr Graham's art selected in the Megalo Relief Online Exhibition
+title: Mr Hall's art selected in the Megalo Relief Online Exhibition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1589837140/News/Graham_Hall._May_2020.Relief_Catalogue_202010.jpg
 news_author:
