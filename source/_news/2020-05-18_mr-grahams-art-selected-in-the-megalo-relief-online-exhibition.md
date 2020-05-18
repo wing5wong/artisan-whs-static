@@ -11,7 +11,7 @@ date: 2020-05-18T21:25:18.255Z
 ---
 **Congratulations to Mr Graham Hall for his selection in the Megalo Relief Online Exhibition!!** 🎨 👍
 
-You are awesome and a great inspiration to our visual art students! 🙂
+**You are awesome and a great inspiration to our visual art students!** 🙂
 
 - - -
 
