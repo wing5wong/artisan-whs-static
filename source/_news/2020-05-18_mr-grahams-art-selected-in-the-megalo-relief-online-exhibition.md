@@ -14,7 +14,7 @@ You are awesome and a great inspiration to our visual art students! 🙂
 
 - - -
 
-Megalo Relief Online Exhibition\
+##### Megalo Relief Online Exhibition  
 12 May - 13 June 2020
 
 THANK YOU to all artists who submitted applications for our first Online Exhibition. 
