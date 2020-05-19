@@ -23,4 +23,4 @@ date: 2020-05-19T22:46:18.694Z
 
 **Anthony also got top try scorer at the tournament.** 👍😉
 
-**Awesome achievement Anthony!** 💚💛💚💛
+**Awesome achievement Anthony!** 💚💛
