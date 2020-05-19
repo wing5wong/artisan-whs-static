@@ -19,8 +19,8 @@ date: 2020-05-19T22:46:18.694Z
 ---
 **Congratulations to Anthony Sellers who recently represented Cook Island for Rugby league 9s in Perth, Australia.** 
 
-Anthony’s team won the Harmony 9s U17 boys competition against Samoa. 
+**Anthony’s team won the Harmony 9s U17 boys competition against Samoa.** 
 
-Anthony also got top try scorer at the tournament. 👍😉
+**Anthony also got top try scorer at the tournament.** 👍😉
 
-Awesome achievement Anthony! 💚💛💚💛
+**Awesome achievement Anthony!** 💚💛💚💛
