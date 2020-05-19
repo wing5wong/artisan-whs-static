@@ -5,5 +5,5 @@ departments:
   - The Arts
 positions:
   - department: The Arts
-    title: Assistant Head of Performing & Visual Arts
+    title: Head of Visual Arts
 ---
