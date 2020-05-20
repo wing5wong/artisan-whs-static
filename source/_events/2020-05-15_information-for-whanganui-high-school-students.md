@@ -1,6 +1,6 @@
 ---
 title: Instructions for our students during Alert Level 2
-date: 2020-05-20T10:19:09.236Z
+date: 2020-05-21T10:19:09.236Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
 **INFORMATION for WHANGANUI HIGH SCHOOL STUDENTS**
