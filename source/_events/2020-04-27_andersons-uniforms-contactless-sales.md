@@ -3,7 +3,7 @@ title: Uniform - one week transition from summer to winter
 date: 2020-05-21T05:49:06.757Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587966369/News/Anderson_uniform_sign.png
 ---
-There will be a one week transition period for the change-over from summer uniform to winter uniform during 18 May to 22 May. 
+There will be a one week transition period for the change-over from summer uniform to winter uniform during 18 May to 22 May.
 
 As from Monday 25 May, you are expected to wear full and correct winter uniform.
 
@@ -16,4 +16,4 @@ As from Monday 25 May, you are expected to wear full and correct winter uniform.
 
 
 
-[Click here for Anderson's Uniforms Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
+[Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
