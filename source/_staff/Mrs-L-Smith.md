@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Smith
+title: Mrs A Ferretti
 position: HOF Languages
 departments:
   - Languages
@@ -7,6 +7,5 @@ positions:
   - department: Languages
     title: HOF Languages
   - department: Languages
-    title: French/Chinese
+    title: French/Spanish
 ---
-
