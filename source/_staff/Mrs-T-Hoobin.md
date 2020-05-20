@@ -3,11 +3,11 @@ title: Mrs T. Hoobin
 position: International Administrator
 departments:
   - International
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1566173878/staff/Tonia_1.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1566173878/staff/Tonia_1.jpg
 positions:
   - department: International
     title: International Administrator
 ---
+I am originally from Whanganui but lived overseas for twelve years and have travelled extensively. I know what it is like to adjust to new cultures and ways of living. I returned with my Australian husband to raise our family in Whanganui as it offers a wonderful lifestyle. 
 
-**Mrs Tonia Hoobin** or Tonia as the students call her, is responsible for all enrolments, administration and helping students with insurance claims and visas. She is usually the first person to receive and respond to emails.  Having lived overseas for 12 years and travelled extensively, she knows what it’s like to adjust to new cultures and ways of living.
+I am responsible for all enrolments, administration and general enquiries. I also help with insurance claims and student visas. I am usually the first person to receive and respond to emails. I enjoy helping our international students to have the best experience and to fulfil their dream of an international study experience and have been in this role since 2010.
