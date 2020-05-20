@@ -2,7 +2,7 @@
 title: Guide to NCEA
 date: 2019-04-02T01:23:57.661Z
 ---
-What is the National Certificate of Education Achievement (NCEA)?\
+What is the National Certificate of Education Achievement (NCEA)? 
 The NCEA is New Zealand's National qualification for school learners.
 
 Download the [NCEA Level 1 information booklet](http://c1940652.r52.cf0.rackcdn.com/59557cb3b8d39a317d000108/NZQA-Student-Booklet-L1.pdf)
