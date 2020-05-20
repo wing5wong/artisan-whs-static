@@ -13,4 +13,4 @@ As from today, Monday 25 May, you are expected to wear full and correct winter u
 
 
 
-[Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
+[Click here for Anderson's Uniforms Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
