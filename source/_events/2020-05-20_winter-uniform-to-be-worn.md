@@ -1,6 +1,7 @@
 ---
 title: Winter Uniform to be worn
 date: 2020-05-24T20:58:24.186Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587966369/News/Anderson_uniform_sign.png
 ---
 As from today, Monday 25 May, you are expected to wear full and correct winter uniform.
 
@@ -13,4 +14,4 @@ As from today, Monday 25 May, you are expected to wear full and correct winter u
 
 
 
-[Click here for Anderson's Uniforms Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
+[Click here for Anderson's Uniforms Contactless Sales](https://res.cloudinary.com/whanganuihigh/image/upload/v1587959934/News/ANDERSONS_UNIFORMS_CONTACTLESS_SALES.pdf)
