@@ -5,6 +5,8 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1587966369/News/An
 ---
 There will be a one week transition period for the change-over from summer uniform to winter uniform during 18 May to 22 May. 
 
+As from Monday 25 May, you are expected to wear full and correct winter uniform.
+
 
 [WHS Girls uniform list and prices](https://res.cloudinary.com/whanganuihigh/image/upload/v1588732423/News/WHS_GIRLS_ORDER_FORM.pdf)
 
