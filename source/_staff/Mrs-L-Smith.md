@@ -1,5 +1,5 @@
 ---
-title: Mrs A Ferretti
+title: Mrs A. Ferretti
 position: HOF Languages
 departments:
   - Languages
