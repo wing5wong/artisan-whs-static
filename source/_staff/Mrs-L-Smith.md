@@ -7,5 +7,5 @@ positions:
   - department: Languages
     title: HOF Languages
   - department: Languages
-    title: French/Spanish
+    title: Teacher of French/Spanish
 ---
