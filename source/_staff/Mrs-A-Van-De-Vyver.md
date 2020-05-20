@@ -1,11 +1,13 @@
 ---
 title: Mrs A. Van De Vyver
+position: International Support Person
 departments:
   - International
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1568708772/staff/IMG_9558.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1568708772/staff/IMG_9558.jpg
 positions:
   - department: International
     title: International Support
 ---
-Originally from Warsaw, Poland.  Anna emigrated to NZ with her family in 2006 and never looked back! Her Son Hardy started at Whanganui High School this year.  Anna has a degree in Tourism and Geography and lived in many different countries before she came to NZ.  She embraces World cultures, loves travels, meeting people and learning about new countries. Anna is very enthusiastic person and loves working with the International Students.  She supports International students on daily basis during school hours. She is with students from day one helping with orientation, in the classroom and assisting with everyday needs and tasks. She also assisting and taking students on a school trips organised by our department.
+Originally from Warsaw, Poland, I emigrated to NZ with my family in 2006 and love it here in Whanganui. My son, Hardy, is a student at Whanganui High School. I have a degree in tourism and geography and lived in many different countries before I came to New Zealand. I embrace world cultures, love travel, meeting people and learning about new countries. I am a positive, enthusiastic person and love working with international students.
+
+I support international students every day, during school hours. I am with our students from day one; helping with orientation, in the classroom and assisting with everyday needs and tasks. I organise and take students on trips, to add to the Whanganui High School experience.  
