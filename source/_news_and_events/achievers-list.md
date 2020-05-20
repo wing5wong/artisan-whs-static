@@ -9,7 +9,7 @@ Nominating a student will allow for acknowledgement at the end of each term at o
 
 **Achievers' Nominations**
 
-Nominate a student by selecting either:
+Nominate a student or yourself by selecting either:
 
 [Achievers Nomination Online Form](https://docs.google.com/forms/d/e/1FAIpQLSd1lJ48LdXLw0TvVh6ZBB1rz7aWpIDh-BNEeuwYriH10fLAJQ/viewform)
 
