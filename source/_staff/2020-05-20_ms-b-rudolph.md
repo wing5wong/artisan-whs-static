@@ -1,5 +1,5 @@
 ---
-title: Mrs B Rudolph
+title: Mrs B. Rudolph
 position: Director of International Students
 departments:
   - International
