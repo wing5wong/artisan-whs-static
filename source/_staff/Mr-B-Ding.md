@@ -1,12 +1,11 @@
 ---
 title: Mr B. Ding
-position: 'Dean of International Students, Chinese'
+position: Dean of International Students, Chinese
 departments:
   - Languages
   - International
   - Deans
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1568708771/staff/IMG_9570.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1568708771/staff/IMG_9570.jpg
 positions:
   - department: International
     title: Dean of International Students
@@ -15,8 +14,7 @@ positions:
   - department: Languages
     title: Teacher of Chinese
 ---
-**Mr Beck Ding** is the Dean of International Students.  He has worked at Whanganui High School since the beginning of 2011.  Originally from Harbin, he first came to New Zealand as an International Student and studied languages, teaching and education at the University of Auckland.  With his experience, he has an insider’s knowledge of what it’s like to be an International Student in New Zealand.  He met his wife in Auckland and they have two young children who attend primary school.  He’s mad keen on football and plays in the local football league.
+I have worked at Whanganui High School since the beginning of 2011. Originally from Harbin, I first came to New Zealand as an international student and studied languages, teaching and education at the University of Auckland. With my experience, I have an insider’s knowledge of what it is like to be an international student in New Zealand. I met my wife in Auckland and we have two young children who attend primary school. I love football and play in the local league.
 
- 
+I am the advocate for the international students and am responsible for their pastoral care and academic monitoring. I can be contacted by students and homestays at any time. I also organise activities and trips for our students. 
 
-Mr Ding is the advocate for the International Students and is responsible for all their pastoral care and academic mentoring.  He can be contacted by the students and homestays in an emergency 24/7.
