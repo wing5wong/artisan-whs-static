@@ -1,9 +1,9 @@
 ---
 title: Mr G. Hall
-position: Head of Visual Arts
+position: Assistant HOF Performing & Visual Arts
 departments:
   - The Arts
 positions:
   - department: The Arts
-    title: Head of Visual Arts
+    title: Assistant HOF Performing & Visual Arts
 ---
