@@ -17,7 +17,7 @@ $page->getDepartmentHofs($faculties, $staff, "International"),
 $page->getDepartmentAHofs($faculties, $staff, "International"),
 $page->getDepartmentStaff($faculties, $staff, "International"),
 ])->collapse() as $person)
-@if(!empty($person))
+@if(!empty($person->getContent()))
 <article class="py-3">
     <h3 class="decorated py-3 mb-4">
         {{$person->title}}
