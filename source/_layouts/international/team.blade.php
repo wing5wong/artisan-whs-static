@@ -17,6 +17,7 @@ $page->getDepartmentHofs($faculties, $staff, "International"),
 $page->getDepartmentAHofs($faculties, $staff, "International"),
 $page->getDepartmentStaff($faculties, $staff, "International"),
 ])->collapse() as $person)
+@if($person->body)
 <article class="py-3">
     <h3 class="decorated py-3 mb-4">
         {{$person->title}}
@@ -48,6 +49,7 @@ $page->getDepartmentStaff($faculties, $staff, "International"),
         </div>
     </div>
 </article>
+@endif
 @endforeach
 
 
