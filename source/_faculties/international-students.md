@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1564097186/faculti
 intro: In International studies, English as a Second Language students can
   further develop their English skills.
 hofs:
-  - Ms B. Rudolph
+  - Mrs B. Rudolph
 ahofs:
   - Mr B. Ding
 ---
