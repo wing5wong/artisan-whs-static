@@ -13,21 +13,21 @@
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^3.2.3",
         "extra-watch-webpack-plugin": "^1.0.3",
-        "file-loader": "^4.3.0",
+        "file-loader": "^4.2.0",
         "hasbin": "^1.2.3",
-        "laravel-mix": "^4.1.4",
+        "laravel-mix": "^4.0.0",
         "node-cmd": "^3.0.0",
-        "sass": "^1.26.5",
+        "sass": "^1.22.10",
         "sass-loader": "^7.3.1",
-        "vue-template-compiler": "^2.6.11",
+        "vue-template-compiler": "^2.6.10",
         "yargs": "^4.6.0"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.13.0",
-        "bootstrap": "^4.5.0",
-        "jquery": "^3.5.1",
-        "netlify-identity-widget": "^1.6.0",
-        "popper.js": "^1.16.1",
-        "swiper": "^4.5.1"
+        "@fortawesome/fontawesome-free": "^5.10.2",
+        "bootstrap": "^4.3.1",
+        "jquery": "^3.4.1",
+        "netlify-identity-widget": "^1.5.5",
+        "popper.js": "^1.15.0",
+        "swiper": "^4.5.0"
     }
 }
