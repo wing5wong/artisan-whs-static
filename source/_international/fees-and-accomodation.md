@@ -111,7 +111,7 @@ If you have a complaint, please contact the Director of International Students i
 
 ## **Contact:**
 
-Ms Brenda Rudolph  
+Mrs Brenda Rudolph  
 Director of International Students  
 Whanganui High School  
 Box 4022  
