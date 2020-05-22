@@ -1,5 +1,5 @@
 ---
-title: Pink Shirt Day is postponed
+title: Pink Shirt Day postponed
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1590099930/Events/Pink_shirt_day_22_may_2020_postponed.jpg
 news_author:
