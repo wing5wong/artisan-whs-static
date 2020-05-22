@@ -6,9 +6,9 @@ start_dates:
     body: Whole School
 end_dates:
   - date: 2020-11-09T11:00:00.000Z
-    body: Year 11
+    body: Year 11 Prizegiving
   - date: 2020-11-10T11:00:00.000Z
-    body: Year 12 and 13
+    body: Year 12 and 13 Prizegiving
   - date: 2020-12-07T11:00:00.000Z
-    body: Year 9 and 10
+    body: Year 9 and 10 Prizegiving
 ---
