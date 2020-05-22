@@ -5,4 +5,4 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1590099930/Events/
 ---
 Pink Shirt Day was today, Friday 22 May 2020, but has been postponed due to Covid-19 restrictions.
 
-No date has been set yet.
+No revised date has been set yet.
