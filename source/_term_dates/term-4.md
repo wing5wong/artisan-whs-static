@@ -1,15 +1,14 @@
 ---
-title: 'Term 4, 2020'
+title: Term 4, 2020
 date: 2019-03-31T21:51:13.652Z
 start_dates:
   - date: 2020-10-12T03:12:29.342Z
     body: Whole School
 end_dates:
-  - date: 2020-11-02T11:00:00.000Z
+  - date: 2020-11-09T11:00:00.000Z
     body: Year 11
-  - date: 2020-11-03T11:00:00.000Z
+  - date: 2020-11-10T11:00:00.000Z
     body: Year 12 and 13
   - date: 2020-12-07T11:00:00.000Z
     body: Year 9 and 10
 ---
-
