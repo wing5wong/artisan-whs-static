@@ -10,10 +10,10 @@ news_author:
   publication: Whanganui Chronicle
   name: Mike Tweed
 image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1590201068/News/Brodie_White_s_Covid_Who.._chron_23.5.20.jpg
   - description: Skeleton Steve and Larry the Lizard are two of Brodie White's other
       musical characters for kids.  Photo / Supplied.
     image: https://res.cloudinary.com/whanganuihigh/image/upload/v1590199846/News/Brodie_White_s_Covid_Who..._23.5.20.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1590201068/News/Brodie_White_s_Covid_Who.._chron_23.5.20.jpg
 show_in_slider: true
 date: 2020-05-23T02:06:53.483Z
 ---
