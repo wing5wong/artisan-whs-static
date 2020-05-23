@@ -1,5 +1,5 @@
 ---
-title: "'OG Brodiddly' tells Covid-19 to 'take a hike'"
+title: Former Whanganui muso turns his talents to Covid 19 rap for children
 feature_image:
   description: Brodie White's Covid Who?! video aims to keep kids informed about
     safety in schools during the coronavirus pandemic.
