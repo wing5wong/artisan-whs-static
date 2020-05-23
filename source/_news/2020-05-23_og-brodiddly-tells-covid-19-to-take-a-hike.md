@@ -61,4 +61,4 @@ To see the video search for Musical Friends - [Covid Who!? on YouTube](https://y
 
 **To get in touch with Brodie White and his Musical Friends, send a message to:**
 
-**https://www.facebook.com/wearemusicalfriends/**.
+https://www.facebook.com/wearemusicalfriends/.
