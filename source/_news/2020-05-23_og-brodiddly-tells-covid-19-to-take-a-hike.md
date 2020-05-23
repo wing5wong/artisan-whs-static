@@ -7,6 +7,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1590199819/News/Brodie_White_s_Covid_Who._chron_23.5.20.jpg
 news_author:
   date: 2020-05-23T02:06:53.319Z
+  publication: Whanganui Chronicle
+  name: Mike Tweed
 image_gallery:
   - description: Skeleton Steve and Larry the Lizard are two of Brodie White's other
       musical characters for kids.  Photo / Supplied.
@@ -59,3 +61,5 @@ To see the video search for Musical Friends - Covid Who!? on YouTube.
 To get in touch with Brodie White and his Musical Friends, send a message to
 
 https://www.facebook.com/wearemusicalfriends/.
+
+[Brodie's latest release, 'COVID WHO'!?](https://youtu.be/gmkk3bxhYoo)
