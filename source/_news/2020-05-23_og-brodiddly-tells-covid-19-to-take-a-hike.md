@@ -18,7 +18,7 @@ date: 2020-05-23T02:06:53.483Z
 ---
 Former Whanganui musician Brodie White spent more than a decade touring and recording as the frontman of local band Sun and the Wolf (formerly The Have), but after the band broke up in 2017, he turned his attention to writing music for kids.
 
-His latest release, a "late 80s rap", called Covid-Who?! is aimed at keeping kids aware of social distancing and hand washing when returning to school during the Covid-19 pandemic. It has been viewed more than 2500 times on YouTube within a day of its official release.
+His latest release, a "late 80s rap", called [Covid-Who?!](https://youtu.be/gmkk3bxhYoo) is aimed at keeping kids aware of social distancing and hand washing when returning to school during the Covid-19 pandemic. It has been viewed more than 2500 times on YouTube within a day of its official release.
 
 "It took about two and a half weeks to do the whole thing," White said.
 
@@ -61,5 +61,3 @@ To see the video search for Musical Friends - Covid Who!? on YouTube.
 To get in touch with Brodie White and his Musical Friends, send a message to
 
 https://www.facebook.com/wearemusicalfriends/.
-
-[Brodie's latest release, 'COVID WHO'!?](https://youtu.be/gmkk3bxhYoo)
