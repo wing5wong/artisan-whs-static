@@ -57,7 +57,7 @@ White said he planned to performing a concert as OG Brodiddley, which would be l
 
 "I'd love to get some Whanganui schools involved, and any primary teachers are welcome to get in touch to be a part of it."
 
-To see the video search for Musical Friends - **[Covid Who!? on YouTube](https://youtu.be/gmkk3bxhYoo)**.
+To see the video search for Musical Friends - **[Covid Who!? on YouTube](https://youtu.be/gmkk3bxhYoo).**
 
 **To get in touch with Brodie White and his Musical Friends, send a message to:**  
-https://www.facebook.com/wearemusicalfriends/.
+**https://www.facebook.com/wearemusicalfriends/.**
