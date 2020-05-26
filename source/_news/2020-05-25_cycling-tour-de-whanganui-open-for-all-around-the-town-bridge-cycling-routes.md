@@ -45,8 +45,7 @@ The more laps you do, the more entries you have.
 
 Cheatley said they will also accept entries from anyone who completes laps on foot, as a way to encourage families to take part as parents perhaps supervise their children on scooters.
 
-You can also receive extra entries to the draw if you post pictures of doing the Tour on social media with the hastag #tourdewhanganui2020 and
-#GoByBike.
+You can also receive extra entries to the draw if you post pictures of doing the Tour on social media with the hastag #tourdewhanganui2020 and #GoByBike.
 
 "It's been pretty cool, the uptake so far, with the social media, the post's had about 9000 reach so far," said Cheatley.
 
