@@ -1,5 +1,5 @@
 ---
-title: MONDAY 18 MAY - SAFE AND OPEN FOR EVERYONE
+title: School Safe and Open for Everyone
 is_emergency: false
 date: 2020-05-18T11:10:48.443Z
 subtitle: ""
