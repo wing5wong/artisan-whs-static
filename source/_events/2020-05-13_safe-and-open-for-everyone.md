@@ -1,6 +1,6 @@
 ---
-title: SCHOOL SAFE AND OPEN FOR EVERYONE
-date: 2020-05-26T09:48:16.257Z
+title: School Safe and Open for Everyone
+date: 2020-05-27T09:48:16.257Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
 Kia ora koutou,
