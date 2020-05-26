@@ -1,5 +1,5 @@
 ---
-title: "Cycling: Tour de Whanganui open for all around the town bridge cycling routes"
+title: Tour de Whanganui open for all around the town bridge cycling routes
 feature_image:
   description: "The Tour de Whanganui is open from the cycling route around the
     town bridges. "
