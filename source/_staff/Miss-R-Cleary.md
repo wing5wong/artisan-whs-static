@@ -1,6 +1,6 @@
 ---
 title: Miss R. Cleary
-position: Head of International English / ESOL
+position: English Language Teacher
 departments:
   - International
 positions:
