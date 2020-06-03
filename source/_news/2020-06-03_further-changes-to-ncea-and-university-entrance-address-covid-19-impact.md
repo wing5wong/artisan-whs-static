@@ -1,5 +1,5 @@
 ---
-title: Further changes to NCEA and University Entrance address COVID-19 impact
+title: Changes to NCEA and University Entrance address COVID-19 impact
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591169972/News/Changes_to_NCEA_UE_re_covid.jpg
 news_author:
