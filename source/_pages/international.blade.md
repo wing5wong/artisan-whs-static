@@ -44,3 +44,29 @@ blocks:
   - heading: Term Dates
     type: termDates
 ---
+
+<div class="image-gallery row">
+        <div class="col-sm-6 col-md-4 col-lg-4">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240657/International/Landing/CF_4.jpg">
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240648/International/Landing/-WGSchools-267.jpg">
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240641/International/Landing/Athletics-_House_Competition.jpg">
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240641/International/Landing/Whanganui-New-Zealand.jpg">
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240640/International/Landing/IMG_7254.jpg">
+        </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-4">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240640/International/Landing/IMG_8369.jpg">
+        </div>
+    </div>
