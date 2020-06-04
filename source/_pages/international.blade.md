@@ -1,8 +1,6 @@
 ---
 title: International
 blocks:
-  - type: video
-    url: mKJynLxG79k
   - content: >-
       Whanganui High School has hosted international students for the past 25
       years. Our focus is on your happiness and enjoyment of your international
