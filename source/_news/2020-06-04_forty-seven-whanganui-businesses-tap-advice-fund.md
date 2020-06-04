@@ -17,7 +17,7 @@ Whanganui and Partners is delivering programme, funded by New Zealand Trade and 
 
 It says so far 47 businesses in the Whanganui District have had support.
 
-Whanganui & Partners' business growth adviser Tim Easton said the majority of local businesses have been seeking support with business planning, managing cashflow or marketing.
+Whanganui & Partners' business growth adviser Tim Easton (ex WHS student) said the majority of local businesses have been seeking support with business planning, managing cashflow or marketing.
 
 "The programme has funding that targets issues particular to each business and helps them get the support they need to pivot and adapt to the changing market," Easton said.
 
