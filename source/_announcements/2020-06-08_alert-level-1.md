@@ -3,6 +3,7 @@ title: ALERT LEVEL 1
 is_emergency: false
 date: 2020-06-08T06:26:56.297Z
 subtitle: Tuesday 9 June 2020
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591598977/News/edgovt-Header2.png
 ---
 #### Alert Level 1
 
