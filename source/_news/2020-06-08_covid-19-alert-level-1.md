@@ -1,5 +1,5 @@
 ---
-title: ALERT LEVEL 1
+title: ALERT LEVEL 1 - No restrictions for Schools
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591598977/News/edgovt-Header2.png
 news_author:
