@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591598977/News/edgovt-Header2.png
 news_author:
   date: 2020-06-08T06:16:38.375Z
-  publication: education.govt.nz
+  publication: www.education.govt.nz
 show_in_slider: true
 date: 2020-06-08T06:16:38.455Z
 ---
