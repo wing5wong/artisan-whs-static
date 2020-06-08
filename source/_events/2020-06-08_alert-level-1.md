@@ -1,6 +1,7 @@
 ---
 title: ALERT LEVEL 1
 date: 2020-06-09T06:24:21.659Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591598977/News/edgovt-Header2.png
 ---
 #### Alert Level 1
 
