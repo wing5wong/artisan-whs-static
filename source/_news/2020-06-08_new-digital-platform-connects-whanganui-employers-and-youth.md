@@ -4,6 +4,7 @@ feature_image:
   credit: Supplied
   description: Whanganui & Partners strategic lead Hannah Kelly says post-Covid-19
     is a crucial time to get behind our youth.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591577328/News/Hannah_Kelly.ex.Chron_5.6.20_snip.jpg
 news_author:
   date: 2020-06-05T00:31:37.094Z
   publication: Whanganui Chronicle
