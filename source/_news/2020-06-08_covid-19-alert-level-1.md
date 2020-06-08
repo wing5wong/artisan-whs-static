@@ -1,5 +1,7 @@
 ---
 title: ALERT LEVEL 1
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591598742/News/Covid-19-Comms-MAR2020-unite-against-banner.jpg
 news_author:
   date: 2020-06-08T06:16:38.375Z
   publication: education.govt.nz
