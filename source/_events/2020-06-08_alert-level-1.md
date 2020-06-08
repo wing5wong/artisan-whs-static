@@ -9,6 +9,6 @@ New Zealand will be at Alert Level 1 on Tuesday 9 June.
 
 The Government has announced that New Zealand can safely move out of Alert Level 2 at 11:59pm on Monday 8 June.
 
-[Covid-19 Alert Level 1 announcement.](https://covid19.govt.nz/latest-updates/new-zealand-will-be-at-alert-level-1-on-tuesday-9-june/)
+[Covid-19 Alert Level 1 announcement.](https://uniteforrecovery.govt.nz/updates-and-resources/latest-updates/new-zealand-moved-to-alert-level-1-on-tuesday-9-june/)
 
-*www.education.govt.nz* 
+*www.education.govt.nz*
