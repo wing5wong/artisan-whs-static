@@ -1,5 +1,5 @@
 ---
-title: ALERT LEVEL 1
+title: ALERT LEVEL 1 - Can return to school without restriction
 is_emergency: false
 date: 2020-06-08T06:26:56.297Z
 subtitle: Tuesday 9 June 2020
