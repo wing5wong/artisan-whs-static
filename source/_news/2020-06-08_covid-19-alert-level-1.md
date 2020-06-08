@@ -1,5 +1,5 @@
 ---
-title: Covid-19 / ALERT LEVEL 1
+title: ALERT LEVEL 1
 news_author:
   date: 2020-06-08T06:16:38.375Z
   publication: education.govt.nz
