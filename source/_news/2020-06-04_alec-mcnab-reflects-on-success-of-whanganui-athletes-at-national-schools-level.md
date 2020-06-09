@@ -1,5 +1,7 @@
 ---
 title: Alec McNab reflects on success of Whanganui athletes at national schools level
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591673071/News/Athletics-Image.jpg
 news_author:
   date: 2020-06-04T03:51:47.228Z
   publication: Whanganui Chronicle
