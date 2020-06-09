@@ -9,9 +9,9 @@ news_author:
   date: 2020-06-09T00:56:06.470Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591671078/News/102842657_2537767603139968_7155666468187108314_o.jpg
-    description: Photo / Manawatu Youth Theatre facebook page.
+    description: Alyssa rehearsing.  Photo / Manawatu Youth Theatre facebook page.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591664908/News/Alyssa_Hartley.._castThe_Little_Mermaid.jpg
-    description: Cast List, Manawatu Youth Theatre facebook page.
+    description: "'The Little Mermaid' Cast List, Manawatu Youth Theatre facebook page."
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591664895/News/Alyssa_Hartley....._The_Little_Mermaid.jpg
 show_in_slider: false
 date: 2020-06-09T00:56:06.515Z
