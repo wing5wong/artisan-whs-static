@@ -2,13 +2,14 @@
 title: Alyssa scores starring role as Ariel in the upcoming production of 'The
   Little Mermaid'
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591663845/News/Alyssa_Hartley._The_Little_Mermaid.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591664931/News/Alyssa_Hartley.._The_Little_Mermaid.jpg
   description: Alyssa rehearsing for her starring role as Ariel.
-  credit: Manawatu Youth Theatre facebook page
+  credit: ""
 news_author:
   date: 2020-06-09T00:56:06.470Z
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591664931/News/Alyssa_Hartley.._The_Little_Mermaid.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591671078/News/102842657_2537767603139968_7155666468187108314_o.jpg
+    description: Photo / Manawatu Youth Theatre facebook page.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591664908/News/Alyssa_Hartley.._castThe_Little_Mermaid.jpg
     description: ""
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591664895/News/Alyssa_Hartley....._The_Little_Mermaid.jpg
