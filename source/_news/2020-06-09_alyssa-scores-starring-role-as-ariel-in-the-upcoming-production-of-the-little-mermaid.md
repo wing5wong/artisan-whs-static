@@ -21,12 +21,13 @@ WHS year 10 student, Alyssa Hartley has scored the starring role as Ariel in the
 
 Showing Wednesday 8 July until Friday 17 July.
 
-Wed 8 Jul 6:30pm Thu 9 Jul 1:00pm/6:30pm
-Fri 10 Jul 1:00pm/6:30pm
-Sat 11 Jul 1:00pm/6:30pm
+Wed 8 Jul 6:30pm Thu 9 Jul 1:00pm/6:30pm  
+Fri 10 Jul 1:00pm/6:30pm  
+Sat 11 Jul 1:00pm/6:30pm  
 Sun 12 Jul 1:00pm
 
-Wed 15 Jul 1:00pm Thu 16 Jul 1:00pm/6:30pm
+Wed 15 Jul 1:00pm  
+Thu 16 Jul 1:00pm/6:30pm  
 Fri 17 Jul 1:00pm/6:30pm
 
 TICKETS only $12 available [HERE](https://nz.patronbase.com/_GlobeTheatre/Productions/MERM/Performances) or at The Globe Theatre Box Office, 312 Main St, Palmerston North.
