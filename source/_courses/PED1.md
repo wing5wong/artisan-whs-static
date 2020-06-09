@@ -16,7 +16,6 @@ standards:
   - "90964"
   - "90966"
   - "90970"
-  - "91327"
 notes: "Leads to: Senior Physical Education options."
 credits: "20"
 course_fees: ""
