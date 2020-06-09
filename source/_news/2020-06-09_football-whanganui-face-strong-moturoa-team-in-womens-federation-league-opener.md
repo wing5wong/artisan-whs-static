@@ -14,7 +14,7 @@ news_author:
 show_in_slider: false
 date: 2020-06-09T03:25:26.786Z
 ---
-(**Highlighted** names are past/present WHS students)
+(Highlighted names are past/present WHS students)
 
 Fernanda Toscani.
 
