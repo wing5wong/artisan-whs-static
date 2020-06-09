@@ -14,8 +14,6 @@ news_author:
 show_in_slider: false
 date: 2020-06-09T03:25:26.786Z
 ---
-(Highlighted names are past/present WHS students)
-
 Fernanda Toscani.
 
 Her Brazilian name rolls off the tongue as effortlessly as she glides into gaps between defenders and goalkeepers, as Team Ritesh Whanganui discovered in the 7-0 pounding from Moturoa AFC in the belated kickoff to the Women's Federation League on Sunday.
@@ -63,3 +61,5 @@ Overall, the side still did a lot of good stuff, but the "sucker punch" they fel
 "We've just got to be better off the ball."
 
 Whanganui's next game is also at Wembley this coming Sunday against last season's runnerup for both the league and cup in Taradale AFC, who played out a 1-1 draw with Massey University in their opening game.
+
+(Highlighted names are past/present WHS students).
