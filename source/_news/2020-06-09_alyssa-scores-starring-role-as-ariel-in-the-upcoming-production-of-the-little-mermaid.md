@@ -20,7 +20,7 @@ WHS year 10 student, **Alyssa Hartley** has scored the starring role as Ariel in
 
 .. And just in time for the School Holidays!
 
-###### Dates of 'The Little Mermaid' showing:
+###### Dates of 'The Little Mermaid' production:
 
 Wednesday 8 July 6:30pm  
 Thursday 9 July 1:00pm/6:30pm  
