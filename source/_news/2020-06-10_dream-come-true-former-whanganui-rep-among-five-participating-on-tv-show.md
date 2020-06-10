@@ -10,7 +10,7 @@ news_author:
   publication: Whanganui Chronicle
   name: Logan Tutty
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591827571/News/SVFMACWHJNGMNIX3M5SX6LY5ZM.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591827820/News/Daniel_Kauika._ex.snip.Chron_10.6.20.jpg
 show_in_slider: true
 date: 2020-06-10T22:10:57.868Z
 ---
