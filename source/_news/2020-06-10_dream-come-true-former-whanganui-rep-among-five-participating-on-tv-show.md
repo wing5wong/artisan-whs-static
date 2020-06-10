@@ -11,6 +11,9 @@ news_author:
   name: Logan Tutty
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591827820/News/Daniel_Kauika._ex.snip.Chron_10.6.20.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591831767/News/newshub_image_of_all_5_guys.jpg
+    description: "2nd Chance Charlie contestants: Tai Tupou, James Cockburn, DANIEL
+      KAUIKA, Otenili 'Nili' Moala, David Egelstaff."
 show_in_slider: true
 date: 2020-06-10T22:10:57.868Z
 ---
