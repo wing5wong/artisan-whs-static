@@ -1,6 +1,6 @@
 ---
 title: Victoria University on-line information sessions - Year 12/13
-date: 2020-06-10T21:02:30.509Z
+date: 2020-06-22T21:02:30.509Z
 ---
 Victoria University of Wellington is running on-line information sessions for prospective students from 6-7 pm on 10, 11 and 23 June. 
 
