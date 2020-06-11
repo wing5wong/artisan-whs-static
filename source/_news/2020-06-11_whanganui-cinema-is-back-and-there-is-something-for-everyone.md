@@ -5,6 +5,7 @@ feature_image:
     student) and assistant manager Mandy Lethaby is pleased to welcome movie
     fans back to the Embassy 3 Cinema. "
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591909631/News/Rose_Dickison._ex_Chron_12.6.20.jpg
+  credit: Bevan Conley
 news_author:
   date: 2020-06-11T21:06:23.000Z
   publication: Whanganui Chronicle
