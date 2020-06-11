@@ -16,7 +16,8 @@ Aidan Moon recently returned from an overseas exchange with his family. Living i
 
 We look forward to embracing an ever-increasing sense of normality over the coming weeks and months. I am always happy to meet with parents of our current students – or parents of students intending to enrol with us for 2021 – to discuss any aspect of education and life at Whanganui High School. Please ring the main office on 06-349-0178 to make an appointment to see me.
 
-Ngā mihi nui  
+Ngā mihi nui,
+
 Martin McAllen - Principal  
 MEd Leadership with First Class Honours,  
 PGDipEd Leadership, BA, Dip Tchg
