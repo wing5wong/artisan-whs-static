@@ -18,7 +18,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-06-10T22:10:57.868Z
 ---
-**A former Whanganui representative has been given a "second chance" to pursue the rugby career he has always wanted.**
+**A former Whanganui representative has been given a "second chance" to pursue the rugby career he has always wanted.** 
 
 **Daniel Kauika, 22, is one of the five men selected for competition 'Second Chance Charlie' - for rugby players whose first chance at the professional game didn't exactly go their way.**
 
@@ -48,7 +48,7 @@ While still playing club rugby in Auckland, time was scarce with his role as a n
 
 "It's just a second chance. I've loved rugby since I was a little kid, always grew up watching it, playing it, it's always just been there. It's never going to disappear.
 
-**"It's basically a dream come true."**
+**"It's basically a dream come true."** 
 
 Kauika learnt about his spot on the show just prior to the Covid-19 lockdown, forcing him to get creative with training as gyms and facilities were closed.
 
@@ -57,3 +57,5 @@ Kauika learnt about his spot on the show just prior to the Covid-19 lockdown, fo
 Kauika said it has been difficult juggling work and the show has "taken a bit of a toll" but he is determined to give his all.
 
 **'Second Chance Charlie' debuts on TV3 next Wednesday.**
+
+[Video and more information from Campaign Brief.](https://campaignbrief.co.nz/2020/06/10/2degrees-three-take-to-the-field-in-a-fight-for-fair-with-2nd-chance-charlie-tv-series-via-tbwa/)
