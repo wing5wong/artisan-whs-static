@@ -1,9 +1,9 @@
 ---
 title: Whanganui cinema is back and there is something for everyone
 feature_image:
-  description: "Owner Gary Vinnell with marketing manager Rose Dickison and
-    assistant manager Mandy Lethaby is pleased to welcome movie fans back to the
-    Embassy 3 Cinema. "
+  description: "Owner Gary Vinnell with marketing manager Rose Dickison (ex WHS
+    student) and assistant manager Mandy Lethaby is pleased to welcome movie
+    fans back to the Embassy 3 Cinema. "
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591909631/News/Rose_Dickison._ex_Chron_12.6.20.jpg
 news_author:
   date: 2020-06-11T21:06:23.000Z
