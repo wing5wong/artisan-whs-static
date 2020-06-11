@@ -19,6 +19,6 @@ We look forward to embracing an ever-increasing sense of normality over the comi
 Ngā mihi nui,
 
 Martin McAllen  
-Principal  
+PRINCIPAL  
 MEd Leadership with First Class Honours,  
 PGDipEd Leadership, BA, Dip Tchg
