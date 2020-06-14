@@ -4,8 +4,6 @@ date: 2020-06-29T20:41:17.108Z
 ---
 WHS Cross Country this year is on Tuesday 30 June.
 
-Sign ups will be out this week!  
-
 Year 9 Girls and Boys  
 Junior Girls and Boys  
 Senior Girls and Boys
