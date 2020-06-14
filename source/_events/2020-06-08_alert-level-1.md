@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591598977/News/ed
 ---
 #### Alert Level 1
 
-New Zealand will be at Alert Level 1 on Tuesday 9 June.
+New Zealand changed to Alert Level 1 on Tuesday 9 June.
 
 The Government has announced that New Zealand can safely move out of Alert Level 2 at 11:59pm on Monday 8 June.
 
