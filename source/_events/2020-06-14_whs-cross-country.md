@@ -8,4 +8,4 @@ Year 9 Girls and Boys
 Junior Girls and Boys  
 Senior Girls and Boys
 
-Keep an eye out for sign ups this week! 😊👍
+Keep an eye out for sign ups! 😊👍
