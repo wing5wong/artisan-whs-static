@@ -16,4 +16,4 @@ Whanganui High School
 PO Box 4022  
 Whanganui 4541
 
-[View Whanganui High School Prospectus](https://res.cloudinary.com/whanganuihigh/image/upload/v1591239879/Enrolment%20Applications/2020_Prospectus.pdf)
+View [Whanganui High School Prospectus](https://res.cloudinary.com/whanganuihigh/image/upload/v1591239879/Enrolment%20Applications/2020_Prospectus.pdf)
