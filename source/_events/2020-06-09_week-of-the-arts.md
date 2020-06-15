@@ -1,6 +1,6 @@
 ---
 title: Week Of The Arts
-date: 2020-06-14T21:02:25.938Z
+date: 2020-06-15T21:02:25.938Z
 ---
 Normality is just around the corner and to celebrate this the Cultural Prefects are hosting a "Week of the Arts", starting Monday 15 June. 
 
