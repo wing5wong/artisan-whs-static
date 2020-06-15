@@ -2,17 +2,18 @@
 title: Technology
 maori_title: Hangarau
 date: 2019-06-28T01:00:00.000Z
+is_teaching_faculty: true
 tags:
   - About WHS
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561592432/faculties/Technology_-_combined.jpg
-intro: >-
-  In Technology, students learn to be innovative developers of products and
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561592432/faculties/Technology_-_combined.jpg
+intro: In Technology, students learn to be innovative developers of products and
   systems and discerning consumers who will make a difference in the world.
 hofs:
   - Mr C. Adam
 ahofs:
   - Mrs L. Hardcastle
+  - Mr B. Spencer
+  - Mr K. Morgan
 vocational_pathways:
   - creative
   - primary
