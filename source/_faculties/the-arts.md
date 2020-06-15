@@ -2,14 +2,13 @@
 title: The Arts
 maori_title: Nga Toi
 date: 2019-07-05T01:00:00.000Z
+is_teaching_faculty: true
 tags:
   - About WHS
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1562282824/faculties/Arts_with_Perf_and_Visual_-_combined.jpg
-intro: >-
-  In the Arts students explore, refine, and communicate ideas as they connect
-  thinking, imagination, senses, and feelings to create works and respond to the
-  works of others.
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1562282824/faculties/Arts_with_Perf_and_Visual_-_combined.jpg
+intro: In the Arts students explore, refine, and communicate ideas as they
+  connect thinking, imagination, senses, and feelings to create works and
+  respond to the works of others.
 hofs:
   - Mrs N. Campbell
 ahofs:
@@ -17,6 +16,7 @@ ahofs:
   - Mrs J. Jones
   - Ms C. Sleyer
   - Ms R. Armstrong
+  - Mrs K. Coombs
 vocational_pathways:
   - service
   - creative
