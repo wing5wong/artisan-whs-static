@@ -1,5 +1,5 @@
 ---
-title: Whanganui High School 2021 Enrolments
+title: Whanganui High School Enrolments for 2021
 is_emergency: false
 date: 2020-06-14T23:49:15.297Z
 subtitle: Due by Friday 3 July 2020
