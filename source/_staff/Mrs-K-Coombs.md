@@ -1,6 +1,9 @@
 ---
 title: Mrs K. Coombs
-position: 
+position: Head of Art Design
 departments:
   - The Arts
+positions:
+  - title: Head of Art Design
+    department: The Arts
 ---
