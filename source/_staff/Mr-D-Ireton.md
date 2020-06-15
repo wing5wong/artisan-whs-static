@@ -1,6 +1,9 @@
 ---
 title: Mr D. Ireton
-position: 
+position: Head of Economics
 departments:
   - Social Sciences
+positions:
+  - title: Head of Economics
+    department: Social Sciences
 ---
