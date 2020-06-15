@@ -1,8 +1,8 @@
 ---
-title: Whanganui High School
+title: Whanganui High School 2021 Enrolments
 is_emergency: false
 date: 2020-06-14T23:49:15.297Z
-subtitle: 2021 ENROLMENTS
+subtitle: Due by Friday 3 July 2020
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592179434/News/new_flyer_2020_updated.jpg
 ---
 Whanganui High School 2021 Enrolment applications are due by Friday 3 July 2020.
@@ -13,9 +13,9 @@ Download the [2021 Whanganui High School Year 9 Enrolment Application Form](http
 
 Bring into our school office or post to:  
 
-Enrolments\
-Whanganui High School\
-PO Box 4022\
+Enrolments  
+Whanganui High School  
+PO Box 4022  
 Whanganui 4541
 
 
