@@ -2,12 +2,11 @@
 title: Social Sciences
 maori_title: Tikanga-a-iwi
 date: 2019-06-28T01:00:00.000Z
+is_teaching_faculty: true
 tags:
   - About WHS
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561592437/faculties/Social_Science_-_combined.jpg
-intro: >-
-  In the Social Sciences, students explore how societies work and how they
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561592437/faculties/Social_Science_-_combined.jpg
+intro: In the Social Sciences, students explore how societies work and how they
   themselves can participate and take action as critical, informed, and
   responsible citizens.
 hofs:
@@ -16,6 +15,8 @@ ahofs:
   - Mr B. Hunter
   - Mrs C. Peak
   - Mrs J. de Smidt
+  - Mr D. Ireton
+  - Miss B. Waldegrave
 vocational_pathways:
   - service
   - creative
