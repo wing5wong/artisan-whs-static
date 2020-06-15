@@ -1,5 +1,5 @@
 ---
-title: WHS 2021 Enrolment Applications are due by Friday 3 July
+title: New Enrolment Applications for 2021 are due by Friday 3 July
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592179434/News/new_flyer_2020_updated.jpg
 news_author:
