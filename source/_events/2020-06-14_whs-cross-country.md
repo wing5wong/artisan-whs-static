@@ -9,3 +9,5 @@ Junior Girls and Boys
 Senior Girls and Boys
 
 Keep an eye out for sign ups! 😊👍
+
+Any queries see Mrs Murphy in her Te Wehi Gymnasium office. 
