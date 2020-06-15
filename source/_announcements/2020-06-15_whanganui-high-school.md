@@ -5,7 +5,7 @@ date: 2020-06-14T23:49:15.297Z
 subtitle: Due by Friday 3 July 2020
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592179434/News/new_flyer_2020_updated.jpg
 ---
-Whanganui High School 2021 Enrolment applications are due by Friday 3 July 2020.
+Whanganui High School 2021 Enrolment Applications are due by Friday 3 July 2020.
 
 Please contact the school on 349 0178 for more information or;
 
