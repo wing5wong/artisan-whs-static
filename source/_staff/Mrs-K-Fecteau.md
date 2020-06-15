@@ -1,7 +1,10 @@
 ---
 title: Mrs K. Fecteau
-position: 
+position: Head of Fashion Design
 departments:
   - Technology
   - Social Sciences
+positions:
+  - title: Head of Fashion Design
+    department: Technology
 ---
