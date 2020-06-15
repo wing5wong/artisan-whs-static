@@ -14,6 +14,7 @@ ahofs:
   - Mrs L. Hardcastle
   - Mr B. Spencer
   - Mr K. Morgan
+  - Mrs K. Fecteau
 vocational_pathways:
   - creative
   - primary
