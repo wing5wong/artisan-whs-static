@@ -1,6 +1,6 @@
 ---
 title: Alert Level 1 - No restrictions for Schools
-date: 2020-06-15T06:24:21.659Z
+date: 2020-06-16T06:24:21.659Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591598977/News/edgovt-Header2.png
 ---
 #### Alert Level 1
