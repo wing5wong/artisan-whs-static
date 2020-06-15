@@ -1,6 +1,6 @@
 ---
 title: Mr C. Adam
-position: HOF Technology, Head of Fine Furniture, Head of Design & Visual Communication
+position: HOF Technology, Head of Fine Furniture, Design & Visual Communication
 departments:
   - Technology
 positions:
