@@ -1,5 +1,5 @@
 ---
-title: WHS 2021 Enrolment Applications are due
+title: New Enrolment Applications are due for 2021
 date: 2020-07-03T00:14:32.352Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592179434/News/new_flyer_2020_updated.jpg
 ---
