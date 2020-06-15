@@ -1,6 +1,9 @@
 ---
 title: Mr B. Spencer
-position: 
+position: Head of Automotive
 departments:
   - Technology
+positions:
+  - title: Head of Automotive
+    department: Technology
 ---
