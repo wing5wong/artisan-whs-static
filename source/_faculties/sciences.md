@@ -2,13 +2,12 @@
 title: Sciences
 maori_title: Putaiao
 date: 2019-06-27T01:00:00.000Z
+is_teaching_faculty: true
 tags:
   - About WHS
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561592442/faculties/Science_-_combined.jpg
-intro: >-
-  In Science, students explore how both the natural physical world and science
-  itself work so that they can participate as critical, informed, and
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561592442/faculties/Science_-_combined.jpg
+intro: In Science, students explore how both the natural physical world and
+  science itself work so that they can participate as critical, informed, and
   responsible citizens in a society in which science play
 hofs:
   - Mr M. Crook
@@ -16,6 +15,7 @@ ahofs:
   - Mr I. Thomas
   - Ms S. Frost
   - Mr C. Turner
+  - Mr N. Glaister
 vocational_pathways:
   - service
   - creative
