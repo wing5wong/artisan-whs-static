@@ -7,6 +7,12 @@ news_author:
 show_in_slider: true
 date: 2020-06-16T08:57:49.871Z
 ---
+**Life as a Year 9 Student**
+
+New students and their whānau often ask "What is life like at Wanganaui High School?".
+
+We interviewed eight of our Year 9 students to seek answers from their perspective.
+
 [Read the June 2020 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1592274854/newsletters/Rivercity_Press_June2020_WebSmall.pdf)
 
 To read other Newsletters see our [School Newsletters page](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
