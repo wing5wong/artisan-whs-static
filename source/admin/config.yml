@@ -313,7 +313,7 @@ collections:
       - { label: "Leads To", name: "leads_to", required: false, widget: "relation", multiple: true, collection: "courses",
           searchFields: ["code","title"], valueField: "code", displayFields: ["code", "name"] }
       - { label: "Available Standards", name: "standards", required: false, widget: "relation", multiple: true, collection: "assessments",
-          searchFields: ["title"], valueField: "title", displayFields: ["title","description"] }
+          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Notes", name: "notes", widget: "text", required: false }
       - { label: "Credits", name: "credits", widget: "string", required: false }
