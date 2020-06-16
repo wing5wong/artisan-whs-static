@@ -21,3 +21,6 @@ Whanganui 4541
 
 
 View the [Whanganui High School Prospectus](https://res.cloudinary.com/whanganuihigh/image/upload/v1591239879/Enrolment%20Applications/2020_Prospectus.pdf)
+
+* Check out our Virtual Tour to see the huge variety on offer at Whanganui High School. A big thank you to our Prefect Team for organising this video, plus a special mention to Vanessa Corlett for her fantastic video and editing skills.  👏 🎥 👌  
+To view click on the following link:  https://youtu.be/9Xz7UrWCQoA
