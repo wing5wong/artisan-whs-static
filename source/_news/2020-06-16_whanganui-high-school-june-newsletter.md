@@ -11,9 +11,9 @@ date: 2020-06-16T08:57:49.871Z
 
 New students and their whānau often ask "What is life like at Whanganaui High School?".
 
-We interviewed eight of our Year 9 students to seek answers from their perspective.  Click on the following link of the June School Newsletter to see what they had to say;
+We interviewed eight of our Year 9 students to seek answers from their perspective.  
 
-[Read the June 2020 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1592274854/newsletters/Rivercity_Press_June2020_WebSmall.pdf)
+[Read the June 2020 edition of our School Newsletter to see what they had to say](https://res.cloudinary.com/whanganuihigh/image/upload/v1592274854/newsletters/Rivercity_Press_June2020_WebSmall.pdf)
 
 To read other Newsletters see our [School Newsletters page](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
 
