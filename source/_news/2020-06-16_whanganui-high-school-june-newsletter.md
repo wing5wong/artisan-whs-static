@@ -7,7 +7,7 @@ news_author:
 show_in_slider: true
 date: 2020-06-16T08:57:49.871Z
 ---
-**Life as a Year 9 Student**
+**"Life as a Year 9 Student"**
 
 New students and their whānau often ask "What is life like at Whanganaui High School?".
 
