@@ -9,7 +9,7 @@ date: 2020-06-16T08:57:49.871Z
 ---
 **Life as a Year 9 Student**
 
-New students and their whānau often ask "What is life like at Wanganaui High School?".
+New students and their whānau often ask "What is life like at Whanganaui High School?".
 
 We interviewed eight of our Year 9 students to seek answers from their perspective.
 
