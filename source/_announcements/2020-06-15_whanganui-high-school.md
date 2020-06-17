@@ -1,5 +1,5 @@
 ---
-title: New Enrolments for 2021
+title: Taking new Enrolments for 2021
 is_emergency: false
 date: 2020-06-14T23:49:15.297Z
 subtitle: Due by Friday 3 July 2020
