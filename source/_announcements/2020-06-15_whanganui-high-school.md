@@ -1,5 +1,5 @@
 ---
-title: Taking Enrolments for 2021
+title: Taking Enrolments for 2021 - watch Virtual Tour of School
 is_emergency: false
 date: 2020-06-14T23:49:15.297Z
 subtitle: Due by Friday 3 July 2020
