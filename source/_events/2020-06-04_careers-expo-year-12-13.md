@@ -3,7 +3,7 @@ title: Virtual Careers Expo - Year 12/13
 date: 2020-06-17T21:05:03.868Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592385917/Events/Virtual_Careers_Expo_2020.jpg
 ---
-**The Virtual Careers EXPO - 18 and 19 June.**  
+**Virtual Careers EXPO - 18 and 19 June**  
 (Hosted by Laidlaw College)
 
 The Virtual Careers Expo is a unique opportunity for you to explore some of NZ’s best tertiary education and pathway providers, including Laidlaw College! You’ll be able to visit more than 30 stands hosted by exhibitors across the country, interact through live chat  with staff and student ambassadors, and watch video presentations – all from the comfort of your own home (or school). 
