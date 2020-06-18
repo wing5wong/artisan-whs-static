@@ -65,13 +65,16 @@ $faculty = $faculties->firstWhere('title',$subject->faculty);
             {{$page->getAvailableCredits($assessments)}}
         </td>
         <td>
-            <strong>U.E. Approved:</strong> <br>
-            {{$page->ue_approved ? "Yes" : "No"}}
-        </td>
-        <td>
             <strong>Endorsement:</strong> <br>
             {{$page->endorsement ? "Yes" : "No"}}
         </td>
+        <td>
+            @if($page->course_level == 3)
+            <strong>U.E. Approved:</strong> <br>
+            {{$page->ue_approved ? "Yes" : "No"}}
+            @endif
+        </td>
+        
     </tr>
     @endif
 
