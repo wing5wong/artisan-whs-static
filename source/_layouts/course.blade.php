@@ -69,7 +69,7 @@ $faculty = $faculties->firstWhere('title',$subject->faculty);
             {{$page->endorsement ? "Yes" : "No"}}
         </td>
         <td>
-            @if($page->course_level == 3)
+            @if($page->ue_approved)
             <strong>U.E. Approved:</strong> <br>
             {{$page->ue_approved ? "Yes" : "No"}}
             @endif
