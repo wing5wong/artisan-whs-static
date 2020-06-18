@@ -2,18 +2,15 @@
 title: Fees and Accommodation
 date: 2019-09-17T02:23:57.661Z
 ---
-_The tuition fee covers four or part terms from the starting date for the student. Included in the school fee are the cost of class fees, textbooks, the international student photo, the yearbook and the orientation course at the start. All prices are in New Zealand dollars. You can download an application form from here:_
+*The tuition fee covers four or part terms from the starting date for the student. Included in the school fee are the cost of class fees, textbooks, the international student photo, the yearbook and the orientation course at the start. All prices are in New Zealand dollars. You can download an application form from here:*
 
-[2020 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1568687517/International/2020_WHS_International_Enrolment_Form.pdf)
+[2020 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1592513911/International/WHS_International_Application_Form.pdf)
 
 ## Tuition Fee:
-
 
 **Standard Year Course: NZ $14,000**
 
 This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,000, Three terms - $10,500.
-
-
 
 **Standard Short Course: NZ $370 per week**
 
@@ -23,11 +20,9 @@ One Term or less.
 
 This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $7,750, Three terms - $11,625.
 
-
 **Premium Short Course: NZ $420 per week**
 
 One Term or less
-
 
 **Administration Fee :** 
 
@@ -43,7 +38,6 @@ Includes:
 * Orientation programme
 * General administration
 
-
 **Insurance:**
 
 **NZ $555** - Travel and health insurance for 1 whole year (recommended for all students who a staying 1 school year/45 weeks or more)
@@ -52,26 +46,25 @@ Includes:
 
 All students must have full insurance (personal effects, health and accident insurance). We use and recommend [UNI-CARE](https://www.uni-care.org/). If providing your own insurance, please supply the school with a copy in English of your policy details, once purchased.
 
-
 ## **Accommodation Fee**
 
 **Homestay Fee: NZ $11,475** (for a full academic year of 45 weeks or $255 per week for a part of a year)
 
-_The homestay fee covers the following:_
+*The homestay fee covers the following:*
 
 * All the expenses involved in living as a member of a family
 * Provision of a single room for the student  
 * All Meals  
 * All homestays are visited and assessed in advance by the school.
 
-_The homestay fee does not include:_
+*The homestay fee does not include:*
 
 * School uniform (maximum of NZ $600)
 * Holidays away from the homestay, or holidays that involve extra expense for the homestay parents.
 * Personal spending (between $NZ50 and $NZ70 per week). Parents may pay personal funds to the school and the school will set up a bank account whereby a set amount will be automatically paid into the student's account each week.  
 * Toll calls 
 
-**Refund of Homestay Fees:** _(Based on all homestay fees paid up front)_
+**Refund of Homestay Fees:** *(Based on all homestay fees paid up front)*
 
 If you move out of your homestay before the end of your contract, the portion of your homestay fees not already used will be returned to you. The Administration Fee of $650 and $1300 cannot be refunded.
 
@@ -108,16 +101,15 @@ If you request a change of homestay, then the original homestay will receive two
 
 If you have a complaint, please contact the Director of International Students in the first instance.  If you are unsatisfied with the response, please visit this website [www.istudent.org.nz](https://www.istudent.org.nz/) for free and impartial advice. 
 
-
 ## **Contact:**
 
-Mrs Brenda Rudolph  
-Director of International Students  
-Whanganui High School  
-Box 4022  
-Whanganui  
+Mrs Brenda Rudolph\
+Director of International Students\
+Whanganui High School\
+Box 4022\
+Whanganui\
 NEW ZEALAND  
 
-Ph No. +64 6 349 0178  
-Fax No. +64 6 349 0176  
-Email: director.int@whanganuihigh.school.nz  
+Ph No. +64 6 349 0178\
+Fax No. +64 6 349 0176\
+Email: director.int@whanganuihigh.school.nz
