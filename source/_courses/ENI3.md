@@ -1,8 +1,8 @@
 ---
 title: ENI3
-name: English Introductory
+name: English Introductory/Internal
 code: ENI3
-subject_area: English (Introductory)
+subject_area: English (Introductory/Internal)
 date: 2019-07-01T00:09:11.921Z
 entry_requirements: 10 Level 2 credits and HOF/TIC approval.
 year: '13'
@@ -14,6 +14,7 @@ leads_to: ''
 standards:
   - '4251'
   - '91105'
+  - '91475'
   - '91476'
   - '91477'
   - '91478'

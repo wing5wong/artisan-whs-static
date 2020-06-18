@@ -18,7 +18,9 @@ standards:
   - '91475'
   - '91476'
   - '91478'
+  - '91479'
 credits: '21'
 ue_approved: true
+endorsement: Yes
 ---
 To promote an enjoyment of English literature and to provide a foundation for the Scholarship examination, to encourage discussion and thinking and to develop skills in essay writing. Study of literature including poetry, novel and film. This course is literary-based and requires competent essay writing skills.

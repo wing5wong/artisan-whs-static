@@ -12,7 +12,7 @@ assessment_type: Achievement Standard
 leads_to:
   - HLT2
 credits: '15'
-course_fees: $5 for workbook
+course_fees:
 standards:
   - '90971'
   - '90974'

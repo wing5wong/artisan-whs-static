@@ -5,11 +5,12 @@ code: ENG3
 subject_area: English (General)
 date: 2019-07-01T00:06:03.548Z
 year: '13'
-type: Compulsory
+type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 credits: 18-22
+endorsement: Yes
 entry_requirements: >-
   10 credits UE Literacy, with at least one Level 2 external standard achieved.
   Students must have attempted the Speech at Level 2 or have HOF/TIC approval.

@@ -1,8 +1,8 @@
 ---
 title: ENI2
-name: English Introductory
+name: English Introductory/Internal
 code: ENI2
-subject_area: English (Introductory)
+subject_area: English (Introductory/Internal)
 date: 2019-07-01T00:08:38.917Z
 entry_requirements: >-
   12 credits ENI1 or 10 credits ENG1 and HOF/TIC approval (Students must have
@@ -16,6 +16,10 @@ leads_to:
   - ENI3
 standards:
   - '3492'
+  - '4261'
+  - '12349'
+  - '12355'
+  - '12383'
   - '91101'
   - '91102'
   - '91103'
@@ -24,4 +28,4 @@ standards:
   - '91107'
 credits: 19-23
 ---
-To provide a balanced English programme to include reading, writing, listening, speaking, and presenting. Students will be given the opportunity to gain some of the 10 literacy credits required for University Entrance. This is the same course as ENG2 except there are no external standards.
+To provide a balanced English programme to include reading, writing, listening, speaking, and presenting. Students will be given the opportunity to gain some of the 10 literacy credits required for University Entrance.

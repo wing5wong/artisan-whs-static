@@ -18,7 +18,7 @@ standards:
   - '91463'
   - '91464'
 credits: '19'
-course_fees: $25 workbook
+course_fees:
 ue_approved: true
 ---
 The investigation of health and well-being issues affecting people in New Zealand and beyond, the implications and possible strategies to deal with them.

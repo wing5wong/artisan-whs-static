@@ -17,7 +17,7 @@ standards:
   - '91505'
   - '91789'
 credits: '20'
-course_fees: $120
+course_fees:
 ue_approved: true
 ---
 A practically based course following on from PED2 which will provide opportunities for students interested in a career related to Sports Management, Sports Officiating, Sport Teaching/Coaching and Outdoor Education. All assessments are Internal.

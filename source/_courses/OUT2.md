@@ -24,6 +24,6 @@ standards:
   - '20159'
   - '91330'
 credits: 21-24
-course_fees: $285 for practical training and trips
+course_fees:
 ---
 This is a practical course with a theory component. Students are able to gain credits on the National Framework Qualifications system. Kayaking, Camping, Navigation, Weather, High Ropes, Tramping, Rock Climbing and Adventure based learning. Assessed by practical field trips and book work.

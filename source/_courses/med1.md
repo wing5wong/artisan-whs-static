@@ -25,6 +25,6 @@ notes: >-
 credits: 18-23
 ue_approved: false
 invitation_only: false
-endorsement: false
+endorsement: Yes
 ---
 Media Studies challenges and empowers students to analyse and interpret media content and to become more informed and think critically about the media and its role in everyday life.
