@@ -2,7 +2,7 @@
 title: ENIE
 name: English Introductory
 code: ENIE
-subject_area: English (Introductory)
+subject_area: English (Introductory/Internal)
 date: 2019-07-01T00:09:41.477Z
 year: '9'
 type: Compulsory
