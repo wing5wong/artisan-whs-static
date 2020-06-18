@@ -16,5 +16,3 @@ Online (on demand)
 Register now: https://www.mediadesignschool.com/virtual-careers-expo
 
 
-*Mr Keene  
-Careers Advisor*
