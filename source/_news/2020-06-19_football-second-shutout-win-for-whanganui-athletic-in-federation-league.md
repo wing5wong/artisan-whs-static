@@ -13,7 +13,7 @@ While not the complete consistence performance Tex von Kwiatkowski is searching 
 
 The win was part of a consecutive club double, as the GJ Gardner Homes Whanganui Athletic Reserves showed their mettle by coming from 2-0 down at halftime to beat the Hokowhitu FC 1sts 3-2 at Skoglund Park in the YORB Horizions Premiership.
 
-At Memorial Park, the Athletic 1sts opened their account with veteran Josh Smith getting his third goal in two games, which was followed up by Peter Czerwonka in the 35th minute.
+At Memorial Park, the Athletic 1sts opened their account with veteran Josh Smith getting his third goal in two games, which was followed up by **Peter Czerwonka** in the 35th minute.
 
 "The first half was absolutely class from us," said von Kwiatkowski.
 
@@ -29,7 +29,7 @@ The 20 minutes after the break, however, saw the home side click into gear, with
 
 "We couldn't control the game the way we did in the first half, but then Ryan Holden made it 3-0 with a nice strike from the goal box - a little bit deflected but it would have made the net anyway."
 
-That 60th minute goal set Athletic back on the right track, with Perry Stewart coming on again to score his third goal from just two halves of football, making the game safe in the 75th minute.
+That 60th minute goal set Athletic back on the right track, with **Perry Stewart coming on again to score his third goal** from just two halves of football, making the game safe in the 75th minute.
 
 Smith's hamstring was giving him a little trouble, so von Kwiatkowski opted to bring him off and play the last 10 minutes with 10 players.
 
@@ -37,9 +37,9 @@ Smith's hamstring was giving him a little trouble, so von Kwiatkowski opted to b
 
 "At the end, they defended that and defended really well, as North End didn't really have chances to score."
 
-Youngster Zac Farmer got his opportunity off the bench, as did Will King, making a welcome return after dealing with a calf injury for the past two months.
+Youngster **Zac Farmer** got his opportunity off the bench, as did Will King, making a welcome return after dealing with a calf injury for the past two months.
 
-North End got booked for two yellow cards, but Athletic are keeping their spotless run going, with Tesco Grunwald voted player of the day after a great match in the middle of the park, while towering defender Shaan Stuart gave a faultless performance.
+North End got booked for two yellow cards, but Athletic are keeping their spotless run going, with **Tesco Grunwald voted player of the day** after a great match in the middle of the park, while towering defender **Shaan Stuart gave a faultless performance**.
 
 "What we played in the first half, this is the way our football is supposed to be," said von Kwiatkowski.
 
