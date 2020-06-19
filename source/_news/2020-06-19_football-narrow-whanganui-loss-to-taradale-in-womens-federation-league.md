@@ -28,9 +28,9 @@ After the nightmare of facing Fernanda Toscani last weekend, Whanganui's young g
 
 Whanganui's wingers **Stella Warner and Eva Thompson** had strong games, until the latter came off not long after hitting her forehead from being brought down at high speed, and was not looking too well on the sideline.
 
-Emma Wood also returned this week and tried to get something going on attack with Apiata-Hodgkinson and Hunt as the clock began to tick away, but the Taradale defenders made sure their goal keeper's workload stayed fairly light.
+**Emma Wood** also returned this week and tried to get something going on attack with Apiata-Hodgkinson and Hunt as the clock began to tick away, but the Taradale defenders made sure their goal keeper's workload stayed fairly light.
 
-Warner, Hunt and Apiata-Hodgkinson put together a few nifty passing exchanges, but never enough to get an attacker in the open for long, with Whanganui often relying on Simmers' booming clearances over halfway to have a lottery chance at breaking through.
+**Warner**, Hunt and Apiata-Hodgkinson put together a few nifty passing exchanges, but never enough to get an attacker in the open for long, with Whanganui often relying on Simmers' booming clearances over halfway to have a lottery chance at breaking through.
 
 "Got back to where we should be. Just the final ball, weren't ruthless enough," said Calvert.
 
@@ -48,7 +48,7 @@ It was Taradale's speedy recovery from defending their half which led to the gam
 
 Thompson could likewise find open space in the first half, but passing lacked for some accuracy, being just out of her reach as she dashed repeatedly to try and keep the ball in play.
 
-Defender Lilee Taylor, backed by Walker, produced a crucial save in Whanganui's box as the ball had ricocheted between defenders and attackers, leaving Simmers out of position.
+Defender **Lilee Taylor**, backed by Walker, produced a crucial save in Whanganui's box as the ball had ricocheted between defenders and attackers, leaving Simmers out of position.
 
 Whanganui began finally getting some shots at goal late in the second quarter, but few caused the keeper concern.
 
