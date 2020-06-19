@@ -14,7 +14,7 @@ news_author:
 show_in_slider: false
 date: 2020-06-19T07:57:06.025Z
 ---
-Whanganui off-road rider and 2019 national enduro champion Seth Reardon is in the running for a repeat after two rounds of a compressed 2020 championship.
+Whanganui off-road rider and 2019 national enduro champion **Seth Reardon** is in the running for a repeat after two rounds of a compressed 2020 championship.
 
 The defending champion spent time racing in the United States last year and was set for a return in May to compete in the Grand National Cross-country Championships in the States until the Covid-19 coronavirus pandemic put a stop to that.
 
