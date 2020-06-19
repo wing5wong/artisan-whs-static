@@ -27,7 +27,7 @@ After 4-5 really handy passing exchanges and accurate cross kicks into the box h
 
 Not long after, **Latham Berry** fired a great right-side cross kick down onto Bell's foot in front of goal for a simple tap, only for the goal keeper to make the fundamental error of not getting his body down in behind his hands, with the fumble making it 2-1.
 
-There was no luck, just dogged determination, in City's go-away third goal when both **Berry and then Joshua Rod**, who had a good first half, fired hard kicks into the Massey keeper's hands, with Graham-Luke charging up to claim the third deflection and send it home.
+There was no luck, just dogged determination, in City's go-away third goal when both **Berry and then Joshua Rod**, who had a good first half, fired hard kicks into the Massey keeper's hands, with **Graham-Luke** charging up to claim the third deflection and send it home.
 
 Massey were not pleased with City's fourth score after halftime when Flynn Kester-Hogan gave a great pass to Bell, who was partially fouled while setting up his strike, but buried the right-to-left shot anyway while the referee was blowing the penalty whistle, before opting to award the goal through playing advantage.
 
