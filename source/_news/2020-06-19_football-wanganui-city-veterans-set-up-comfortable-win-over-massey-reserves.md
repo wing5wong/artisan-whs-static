@@ -3,7 +3,7 @@ title: "Football: Wanganui City veterans set up comfortable win over Massey Rese
 feature_image:
   description: "The good fortune which set up Wanganui City's opening goal today,
     as the deflection comes off Massey's Jacob Mills from Anthony Bell, while
-    Joshua Rod awaits the outcome. "
+    Joshua Rod (WHS student) awaits the outcome. "
   credit: Lewis Gardner
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592557611/News/Football_Anthony_Bell_Chron_15.6.20.jpg
 news_author:
@@ -17,15 +17,15 @@ It was two for two for the Versatile Wanganui City FC 1sts heading into next wee
 
 The three-goal winning margin in the YORB Horizons Premiership matchup was a little flattering to the visitors, with City making a couple of defensive errors at the back in conceding two second half goals.
 
-Otherwise the veterans in double goal scorers Kyle Graham-Luke and Anthony Bell, the latter now on six in two games, along with Eli Fleming, showed the youngsters on both sides how to think on your feet while also keeping space in your head to anticipate where a team mate is going.
+Otherwise the veterans in double goal scorers **Kyle Graham-Luke and Anthony Bell**, the latter now on six in two games, along with **Eli Fleming**, showed the youngsters on both sides how to think on your feet while also keeping space in your head to anticipate where a team mate is going.
 
 City got away plenty of fine passes on the open break into Massey's back field, while their cross kicks into the box were upgraded from fairly accurate to pinpoint as the match wore on.
 
-Ironically, after giving up the opening goal to Jamie Wilsher in just Massey's second attacking opportunity, it was good fortune rather than superior skill which saw City take a lead they never relinquished.
+Ironically, after giving up the opening goal to **Jamie Wilsher** in just Massey's second attacking opportunity, it was good fortune rather than superior skill which saw City take a lead they never relinquished.
 
-After 4-5 really handy passing exchanges and accurate cross kicks into the box had yielded no reward, City equalised when Graham-Luke was 'Johnny on the Spot' after a deflection off a defender's leg came to him with the Massey keeper now out of position for his left-side tap in.
+After 4-5 really handy passing exchanges and accurate cross kicks into the box had yielded no reward, City equalised when **Graham-Luke** was 'Johnny on the Spot' after a deflection off a defender's leg came to him with the Massey keeper now out of position for his left-side tap in.
 
-Not long after, Latham Berry fired a great right-side cross kick down onto Bell's foot in front of goal for a simple tap, only for the goal keeper to make the fundamental error of not getting his body down in behind his hands, with the fumble making it 2-1.
+Not long after, **Latham Berry** fired a great right-side cross kick down onto Bell's foot in front of goal for a simple tap, only for the goal keeper to make the fundamental error of not getting his body down in behind his hands, with the fumble making it 2-1.
 
 There was no luck, just dogged determination, in City's go-away third goal when both Berry and then Joshua Rod, who had a good first half, fired hard kicks into the Massey keeper's hands, with Graham-Luke charging up to claim the third deflection and send it home.
 
