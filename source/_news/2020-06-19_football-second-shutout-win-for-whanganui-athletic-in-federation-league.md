@@ -1,7 +1,7 @@
 ---
 title: "Football: Second shutout win for Whanganui Athletic in Federation League"
 news_author:
-  date: 2020-06-16T08:30:00.832Z
+  date: 2020-06-15T08:30:00.832Z
   publication: Whanganui Chronicle
   name: Jared Smith
 show_in_slider: false
