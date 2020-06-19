@@ -22,7 +22,7 @@ As always, the leaderboard is decided on prognostic time - the highest percentag
 
 A previous Winter Series winner, Horowhenua RC's Bruce Tate claimed top spot, with his 22m 15.04s time being 85.39 per cent prognostic for a men's single craft.
 
-The veteran Aramoho Whanganui Rowing Club men's pair of Richard Brock and Trevor Rush were second with their 21m 39.05s time being 84.68 per cent on prognostic, while rounding out the podium was another AWRC team in **James Clear and John Turner**, with a 20m 39.7s time at 83.49 per cent.
+The veteran Aramoho Whanganui Rowing Club men's pair of Richard Brock and Trevor Rush were second with their 21m 39.05s time being 84.68 per cent on prognostic, while **rounding out the podium was another AWRC team in James Clear and John Turner**, with a 20m 39.7s time at 83.49 per cent.
 
 Next round of the series will likely be July 12.
 
