@@ -7,7 +7,7 @@ feature_image:
   credit: Lewis Gardner
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592555146/News/Football_Stella_Warner_Chron._18.6.20.jpg
 news_author:
-  date: 2020-06-18T08:20:24.797Z
+  date: 2020-06-16T08:20:24.797Z
   publication: Whanganui Chronicle
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592555175/News/Football_Eva_Thompson_Chron._18.6.20.jpg
