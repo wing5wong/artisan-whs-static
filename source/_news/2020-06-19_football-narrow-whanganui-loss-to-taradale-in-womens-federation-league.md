@@ -26,7 +26,7 @@ The visitors got a lot of mileage with long kick chases down into the far right 
 
 After the nightmare of facing Fernanda Toscani last weekend, Whanganui's young goal keeper Amy Simmers showed good composure and produced plenty of key stops to keep her side in the match, with coach Matt Calvert having rejigged his lineup as veteran defender Lisa Walker returned, while Sheena Menzies came off the bench to do some good work in the midfield.
 
-Whanganui's wingers Stella Warner and Eva Thompson had strong games, until the latter came off not long after hitting her forehead from being brought down at high speed, and was not looking too well on the sideline.
+Whanganui's wingers **Stella Warner and Eva Thompson** had strong games, until the latter came off not long after hitting her forehead from being brought down at high speed, and was not looking too well on the sideline.
 
 Emma Wood also returned this week and tried to get something going on attack with Apiata-Hodgkinson and Hunt as the clock began to tick away, but the Taradale defenders made sure their goal keeper's workload stayed fairly light.
 
@@ -49,6 +49,7 @@ It was Taradale's speedy recovery from defending their half which led to the gam
 Thompson could likewise find open space in the first half, but passing lacked for some accuracy, being just out of her reach as she dashed repeatedly to try and keep the ball in play.
 
 Defender Lilee Taylor, backed by Walker, produced a crucial save in Whanganui's box as the ball had ricocheted between defenders and attackers, leaving Simmers out of position.
+
 Whanganui began finally getting some shots at goal late in the second quarter, but few caused the keeper concern.
 
 The trend continued in the second half, with Taradale parking the bus when they needed to, ensuring they would keep their advantage to the final whistle.
