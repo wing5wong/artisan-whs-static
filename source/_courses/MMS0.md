@@ -18,7 +18,7 @@ To develop an understanding of a design process and practical skills through the
 
 **Content:**
 
-All students will make a small guitar with the option to design certain elements in order to personalize their instrument. They will develop manufacturing skills through working with a range of hard materials. Students will be taught practical skills and the expectations of safe workshop practice.
+All students will make a small guitar with the option to design certain elements in order to personalise their instrument. They will develop manufacturing skills through working with a range of hard materials. Students will be taught practical skills and the expectations of safe workshop practice.
 
 **Assessment:**
 

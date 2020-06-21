@@ -18,4 +18,4 @@ standards:
 credits: '16'
 course_fees: $50
 ---
-Students will explore a range of printmaking processes and techniques in the production of their work. Students will complete the majority of work in thier diary building resources and notes throughout the year.
+Students will explore a range of printmaking processes and techniques in the production of their work. Students will complete the majority of work in their diary building resources and notes throughout the year.

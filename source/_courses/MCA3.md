@@ -20,5 +20,6 @@ standards:
 credits: '27'
 course_fees: $15. Students need a Graphics calculator for this course.
 ue_approved: true
+endorsement: Yes
 ---
 This course will provide students with an extension course in advance of NCEA level 3, catering for students who work at a faster pace. The teaching is pitched at Merit/Excellence level. It will suit students who are capable of working in excess of NCEA Level 3. (Note: This course can be taken instead of taking both MGC3 and MTA3)

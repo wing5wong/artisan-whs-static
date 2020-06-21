@@ -14,7 +14,7 @@ leads_to:
   - MCS2
 credits: ''
 entry_requirements: Subject teacher recommendation
-course_fees: $110. Cambridge Examination Fee.
+course_fees: $135. Cambridge Examination Fee.
 standards:
   - '91029'
   - '91034'

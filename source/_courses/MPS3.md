@@ -24,5 +24,6 @@ notes: >-
 credits: '20'
 course_fees: $15 workbook
 ue_approved: true
+endorsement: Yes
 ---
 To improve statistical skills for students who are likely to study mathematics, or physical or social sciences at tertiary level. Time Series analysis and Statistics including Binomial, Normal and Poisson distributions.

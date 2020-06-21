@@ -20,7 +20,9 @@ standards:
   - '26626'
   - '26627'
   - '91026'
-  - '91030'
-  - '91033'
+  - '91035'
+  - '91038'
+  - '91036'
+
 ---
 To provide a balanced Mathematics programme to students for whom a formal academic programme is not suited. This course is completely internally assessed. Topics covered; Number, Statistics, Probability, Measurement, Geometry, Constructions and Drawings.

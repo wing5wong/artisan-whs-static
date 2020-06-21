@@ -17,6 +17,7 @@ leads_to:
   - MGC3
 standards:
   - '91258'
+  - '91260'
   - '91264'
   - '91265'
   - '91267'
@@ -31,5 +32,6 @@ credits: '15'
 course_fees: >-
   Cambridge Examination Fee. Students need a Graphics calculator for this
   course.
+endorsement: Yes if taken with MCA2
 ---
 This course will provide students with an extension course in advance of NCEA Level 2. Students will sit internal and external Level 2 achievement standards. This course covers the same material as MPS2, and in addition some pure Mathematics and further Statistics concepts. The teaching is pitched at Merit/Excellence level. In addition, students will study topics required for the Cambridge International AS Level Mathematics course and might sit the CIE exam at the end of the year. Students taking this course are also advised to take MCA2. This course is prerequisite for taking MCA3 in Year 13.

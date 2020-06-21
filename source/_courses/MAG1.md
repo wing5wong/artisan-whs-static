@@ -26,5 +26,6 @@ standards:
   - '91032'
   - '91035'
   - '91037'
+endorsement: Yes
 ---
 To provide a balanced Mathematics programme that will develop in students a variety of approaches to solving problems involving Mathematics and provide a foundation for those students who may continue studies in Mathematics or other learning areas where Mathematical concepts are central. The following topics are studied; Number, Graphs, Algebra, Statistics, Angle Geometry, Trigonometry and Probability.

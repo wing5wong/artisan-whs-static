@@ -13,11 +13,13 @@ assessment_type: Unit Standard
 leads_to:
   - TCE3
 standards:
-  - '2430'
   - '4435'
   - '4436'
   - '21682'
+  - '21684'
   - '21685'
+  - '21859'
+  - '30476'
 credits: '16'
 course_fees: kit fee (approx $325)
 ---

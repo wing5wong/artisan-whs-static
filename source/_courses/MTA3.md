@@ -22,5 +22,6 @@ notes: ' 1. Students need a graphics calculator for this course; 2. Students wis
 credits: '17'
 course_fees: Workbook - $10
 ue_approved: true
+endorsement: Yes
 ---
 To provide students with skills in Algebra and Equations as a foundation for mathematical modelling and the study of mathematics at a tertiary level.

@@ -22,5 +22,6 @@ standards:
   - '91262'
 credits: '18'
 course_fees: Students need a Graphics Calculator for this course.
+endorsement: Yes
 ---
 This course will offer students the chance to develop a wide range of advanced Mathematical skills. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MTA3, MGC3. Topics studied include: Algebra, Co-ordinate Geometry, Calculus, Trigonometry, Functions and Graphs.
