@@ -18,7 +18,8 @@
             </h2>
         <div class="row">
           <div class="col-sm-12 col-md-4 col-lg-4">
-            <img src="{{ $student->image }}" width="140" height="186" alt="">
+            {{-- <img src="{{ $student->image }}" width="140" height="186" alt=""> --}}
+            <img src="{{ $student->image }}" height="186" alt="">
           </div>
           <div class="col-sm-12 col-md-8 col-lg-8">
             {!! $student !!}
