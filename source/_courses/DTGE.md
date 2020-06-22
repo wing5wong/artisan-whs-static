@@ -5,7 +5,7 @@ code: DTGE
 subject_area: Digital Technologies
 date: 2019-07-03T02:58:08.653Z
 year: '9'
-type: Compulsory
+type: Core
 course_duration: Half Year
 course_level: Year 9
 leads_to: ''
@@ -19,5 +19,3 @@ Courses in Digital Technologies offer the development of knowledge and skills us
 **Content:**
 
 Digital technologies are electronic tools, systems, devices and resources that generate, store or process data. These include applications, multimedia, productivity applications, mobile devices, social media, online games, cloud computing etc. Students will explore how digital technologies impacts the lives of individuals, organisations and society. They will learn about the current and emerging technologies and the issues raised by their use in a range of contexts. Students will also develop an awareness of the features of safe and responsible practice, as well as broadening their ICT skills and capability.
-
-More information is available on the web at: [bit.ly/whsdigi2019](https://sites.google.com/whs.ac.nz/yr9digitaltechnologies/home)

@@ -27,11 +27,11 @@ notes: >-
   courses MCA3, MTA3, MPS3, MGC3. 2. Students completing this course will
   receive NCEA credits and those who also complete MCA2 will gain a result in
   the Cambridge AS exam). Students taking this course are encouraged to also
-  take MCA2.
+  take MCA2. Endorsement if taken with MCA2.
 credits: '15'
 course_fees: >-
   Cambridge Examination Fee. Students need a Graphics calculator for this
   course.
-endorsement: Yes if taken with MCA2
+endorsement: Yes
 ---
 This course will provide students with an extension course in advance of NCEA Level 2. Students will sit internal and external Level 2 achievement standards. This course covers the same material as MPS2, and in addition some pure Mathematics and further Statistics concepts. The teaching is pitched at Merit/Excellence level. In addition, students will study topics required for the Cambridge International AS Level Mathematics course and might sit the CIE exam at the end of the year. Students taking this course are also advised to take MCA2. This course is prerequisite for taking MCA3 in Year 13.

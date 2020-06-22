@@ -19,8 +19,7 @@ To increase students' understanding of Mathematics and build their confidence in
 
 **Content:**
 
-The course will continue to develop the students' knowledge of Number, Measurement, Algebra, Probability, Statistics and Geometry. Trigonometry will be introduced. Some level 1 NCEA Mathematics standards may be offered.
-
+The course will continue to develop the students' knowledge of Number, Measurement, Algebra, Probability, Statistics and Geometry. Trigonometry may be introduced.
 **Assessment:**
 
 Common topic tests on content and process. End of year examination.
