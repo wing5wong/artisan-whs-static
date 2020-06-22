@@ -1,5 +1,7 @@
 ---
 title: "Football: Second shutout win for Whanganui Athletic in Federation League"
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592863961/News/Football_IMAGE.jpg
 news_author:
   date: 2020-06-15T08:30:00.832Z
   publication: Whanganui Chronicle
