@@ -1,5 +1,5 @@
 ---
-title: Class ic rock anthem CD guitarist's dream
+title: Classic rock anthem CD guitarist's dream
 feature_image:
   description: World-class Whanganui musician Fred Loveridge has lent his guitar
     prowess to an internationally released album of classic rock anthems.
