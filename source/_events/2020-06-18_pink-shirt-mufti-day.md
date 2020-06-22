@@ -5,8 +5,10 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592517093/Events/
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592517619/Events/JoxL5c7IElEbEqAwbHCOzbPahEQ3Fq5ErO56ZBDVJzK6Mm1m7dgOPcIwqknRSk45fPqqNmEU9NPN5iQ0ammYfYV1FZwmw0IAy5dCnaAaSXzPUB8SChEcDDEnxn2yM6bR.jpg
 ---
-This year we are celebrating Pink Shirt Day, or Anti-Bullying Day, on Friday 26 June (date changed due to Covid-19). 
+This Friday the Community Prefects are hosting a "pink accessory" mufti day.
 
-It is a day when people come together by wearing pink shirts to school or work to show they are against bullying. 
+Please bring a gold coin donation - the proceeds will be going towards Women's Refuge. 
 
-The focus for 2020 is "lift each other up."
+During break we will be supporting anti- bullying next to the Open Mic, outside D-Block. 
+
+Come along for some home baking in return for a compliment. :)
