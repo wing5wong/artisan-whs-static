@@ -17,8 +17,8 @@ On behalf of our drivers and our Health, Safety & Environmental Manager we hope 
 
 The first video talks about a student’s first school bus journey (“Staying Cool on the School Bus”) and the second video is about appropriate student behaviour on the school (“Best Bus Behaviour”).
 
-**Staying Cool on the School Bus** https://youtu.be/8G8CswSH_DA
+_Staying Cool on the School Bus_ - Focused on Primary school students https://youtu.be/8G8CswSH_DA
 
-**Best Bus Behaviour** https://youtu.be/e5vL6AhNBx0
+**_Best Bus Behaviour_ - Focused on Secondary school students** https://youtu.be/e5vL6AhNBx0
 
 
