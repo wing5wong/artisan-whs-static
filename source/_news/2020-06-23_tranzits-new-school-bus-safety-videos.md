@@ -1,5 +1,5 @@
 ---
-title: Tranzit's new school bus safety videos
+title: Rural Bus students - Tranzit's new school bus safety videos
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592948903/News/tranzit_logo.png
 news_author:
