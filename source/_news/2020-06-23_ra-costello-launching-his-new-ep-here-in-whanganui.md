@@ -11,9 +11,9 @@ date: 2020-06-23T02:21:56.351Z
 ---
 Whanganui High school old boy Ruairi (Ra) Costello is launching his new EP at a performance here in Whanganui!
 
-He has colaborated with a few famous names in the production (Tiki Tane being one) and the launch is 11 July - 9pm at the "Lucky Bar" here in town.
+Ra has collaborated with a few famous names in the production (Tiki Tane being one) and the launch is on Saturday 11 July - 9pm at the "Lucky Bar" here in town.
 
 Gig details:
 
-11 July - 9pm Lucky Bar - Single release launch party.  
+Saturday 11 July - 9pm Lucky Bar - Single release launch party.  
 Sneak preview of whole EP, Ra Costelloe & Friends, his new works and favourite covers to finish the night.
