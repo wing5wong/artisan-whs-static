@@ -7,8 +7,8 @@ news_author:
   publication: Horizons Regional Council
   name: Jayme Anderson, Transport Planner
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592884318/News/Bee_Card_image.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592884331/News/Bee_Card.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592884318/News/Bee_Card_image.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592884483/News/horizons_reg_council.png
 show_in_slider: false
 date: 2020-06-23T03:48:44.847Z
