@@ -3,7 +3,7 @@ title: Rural Bus students - Tranzit's new school bus safety videos
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592948903/News/tranzit_logo.png
 news_author:
-  date: 2020-06-23T21:41:56.390Z
+  date: 2020-06-22T21:41:56.390Z
   publication: Tranzit Coachlines
   name: Kath Nimmo, Operations Manager Wanganui
 show_in_slider: false
