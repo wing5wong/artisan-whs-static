@@ -9,7 +9,7 @@ news_author:
 show_in_slider: false
 date: 2020-06-22T23:56:18.403Z
 ---
-Q & A: with Musician Bruce Jellyman  
+Q & A:  With Musician Bruce Jellyman  
 
 (WHS Brass Instrumental Music Tutor)
 
