@@ -11,14 +11,21 @@ course_level: Year 9
 leads_to: ''
 credits:
 course_fees: 
+invitation only: Yes
 ---
 **Purpose:**
 
 To introduce students to Science and its place in the world around us. To practice and use the scientific method of investigation and apply it to various situations.
 
+
 **Content:**
 
-Science is a way of investigation, understanding and explaining the natural world. This course will develop students' knowledge of biology, chemistry, earth science and physics.
+A hands-on course that encourages students to investigate and learn about the nature of Science through the following themes:
+- Skills in Science
+- Particles and the Atom
+- Planet Earth
+- Waves (Energy, Light and Sound)
+- Communities
 
 **Assessment:**
 

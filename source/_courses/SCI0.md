@@ -13,5 +13,18 @@ leads_to:
 credits: ''
 entry_requirements: Successful completion of SCIE course.
 course_fees: 
+invitation only: Yes
 ---
-To provide a balanced Science programme to include aspects of Biology, Chemistry, Physics: investigations, interpreting information, microorganisms, life processes, metal properties, electricity and magnetism.
+**Purpose:**
+
+To broaden students' understanding of Science and how humans use it to explain natural phenomena. To practice and use the scientific method of investigation to formulate justified explanations and conclusions.
+
+**Content:**
+
+A practical based course that builds on and complements the concepts and skill learned in Year 9 Science via these themes:
+- Chemistry in Action
+- Electricity
+- Plants
+- Forces
+- Animals
+- Earth Science

@@ -14,15 +14,22 @@ leads_to:
   - SCX1S
 credits: ''
 entry_requirements: Successful completion of SCEE course
-course_fees: 
+course_fees:
+invitation only: Yes 
 ---
 **Purpose:**
 
-To broaden students' understanding of Science and how humans use it to explain natural phenomena. To further practice and use the scientific method of investigation to formulate justified explanations and conclusions.
+To broaden students' understanding of Science and how humans use it to explain natural phenomena. To practice and use the scientific method of investigation to formulate justified explanations and conclusions.
 
 **Content:**
 
-Science is a way of investigating, understanding and explaining the natural world. This course will further develop students' knowledge of biology, chemistry, earth science and physics.
+A practical based course that builds on and complements the concepts and skill learned in Year 9 Science via these themes:
+- Chemistry in Action
+- Electricity
+- Plants
+- Forces
+- Animals
+- Earth Science
 
 **Assessment:**
 
