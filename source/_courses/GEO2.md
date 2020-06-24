@@ -13,7 +13,8 @@ assessment_type: Achievement Standard
 leads_to:
   - GEO3
 course_fees: >-
-  Field trips (Ohakune - Geographic Research approx $25/ Optional South Island
-  Trip approx $1500), $25 course book
+  Field trips (Ohakune - Geographic Research - no charge / Optional South Island
+  Trip approx $1500)
+endorsement: Yes
 ---
 To develop an understanding of the natural and cultural environments. Natural landscapes – Examining the South Island High Country, and Skills which include mapping, graphing, visual interpretation, values, statistics and geographic concepts. Contemporary geographic issues and geographic issues on a global scale (Issue of Endangered Species), as well as planning and carrying out research in relation to the climate of our region.

@@ -12,5 +12,6 @@ assessment_type: Achievement Standard
 leads_to:
   - HIS2
 course_fees: field trip
+endorsement: Yes
 ---
 To promote an understanding of historical events and issues in a variety of world settings in the 20th century. To provide the knowledge and skills required for future studies in the social sciences and to help students relate and act as responsible members of society. To understand the significance of world events to us as New Zealanders. Two themes: International Relations and Social Change. Specific topics: A local history research assignment is also included; Origins of World War Two; Pearl Harbour and Hiroshima.

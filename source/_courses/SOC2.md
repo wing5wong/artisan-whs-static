@@ -14,5 +14,6 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - SOC3
+endorsement: Yes
 ---
 To provide students with knowledge and understanding of how and why changes occur within global societies and consider how social action impacts communities. The course may cover issues such as, Israeli/Palestinian conflict, The Arab Uprising, Hutu and Tutsi and Women's Suffrage, current global human rights issues such as refugee Crisis in Europe, Syria or Global Warming.

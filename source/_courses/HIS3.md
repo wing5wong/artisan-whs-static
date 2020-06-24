@@ -12,5 +12,6 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 course_fees: Field Trip - to be advised.
 ue_approved: true
+endorsement: Yes
 ---
 To develop students understanding of change over an extended period of time. To develop a critical approach to historical sources, by exposing students to varying interpretations. Students will learn about economic, social, religious and political change in selected topics.

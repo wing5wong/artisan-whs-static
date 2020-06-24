@@ -12,5 +12,6 @@ assessment_type: Achievement Standard
 leads_to:
   - ACC2
 course_fees: $20 for workbook (notes and write on questions)
+endorsement: Yes
 ---
 Accounting empowers students with the language of business. They are taught to apply this knowledge to sole traders, clubs and personal finances. Elements of the course include processing transactions, financial statements, analysis and interpretation and financial literacy.

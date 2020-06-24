@@ -12,5 +12,6 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 course_fees: $18
 ue_approved: true
+endorsement: Yes
 ---
 This course extends students to apply Accounting skills specifically meeting the requirement of Companies, partnerships and manufacturing organisations. Students prepare a report on a major NZ publicly listed company and receive training at Massey University. Job cost accounting and management decision making including cost volume profit analysis conclude the course.

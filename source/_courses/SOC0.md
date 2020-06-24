@@ -24,7 +24,7 @@ To provide students with the knowledge and skills required for future studies in
 
 **Content:**
 
-Students will develop understanding of the unique nature of Aotearoa, New Zealand's bi-cultural heritage as well as multi-cultural societies in other parts of the world.
+Students will develop understanding of the unique nature of Aotearoa, New Zealand's bi-cultural heritage as well as multi-cultural societies in other parts of the world. Financial planning and systems of government are explored along with human rights and social justice. Resource use and environmental issues are examined from different perspectives.
 
 **Assessment:**
 

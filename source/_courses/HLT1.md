@@ -11,6 +11,5 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - HLT2
-credits: '15'
 ---
 To provide knowledge and understanding of a variety of skills and concepts related to enhancing and/or maintaining relationships as well as individuals health and well-being. This course contains four major topics of study.

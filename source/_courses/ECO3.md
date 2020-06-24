@@ -13,5 +13,6 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 ue_approved: true
+endorsement: Yes
 ---
 To enable students to gain a high level of economic understanding and a continuing interest in contemporary economic issues. Sections dealt with include: A study of the market; the role of the Government in providing goods and services; and a macro-economic view of the economy as a whole.

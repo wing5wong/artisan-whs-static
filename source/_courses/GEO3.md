@@ -13,9 +13,9 @@ assessment_type: Achievement Standard
 leads_to:
   - GEO3
 course_fees: >-
-  Field Trip (Kapiti Coast approx $30), $25 course book, Optional Gold Coast
-  Trip (approx $2300) or if the Gold Coast Trip does not run, Mt Maunganui -
+  Field Trips (Kapiti Coast - no charge / Optional Gold Coast Trip (approx $2300) or if the Gold Coast Trip does not run, Optional Mt Maunganui Trip -
   $450
 ue_approved: true
+endorsement: Yes
 ---
 To build upon previous studies, to develop an understanding of the natural and cultural environments, and develop an understanding of the environment as the home of people. Main studies include: a natural geographic environment in New Zealand (Coastal Processes, examining the Kapiti Coast); Cultural Processes (Tourism Development in Queenstown and the Gold Coast). Contemporary geographic issues and geographic issues on a global scale (Global Tourism), as well as planning and carrying out geographic research in the Kapiti Coast.

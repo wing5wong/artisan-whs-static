@@ -16,7 +16,7 @@ Students explore how societies work, and how students can participate and take a
 
 **Content:**
 
-Students will experience a rich understanding of the unique nature of Aotearoa, New Zealand's bicultural heritage and financial literacy skills. Students will develop a variety of social inquiry skills which will enhance their processing interpretation and presentation techniques.
+Students will experience a rich understanding of the unique nature of Aotearoa, New Zealand's bicultural heritage and financial literacy skills. Students will develop a variety of social inquiry skills which will enhance their processing interpretation and presentation techniques, including researching a New Zealand disaster and pandemic planning. Students also explore innovations and are encouraged to be innovative themselves.
 
 **Assessment:**
 

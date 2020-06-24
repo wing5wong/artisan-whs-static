@@ -15,5 +15,6 @@ assessment_type: Achievement Standard
 leads_to:
   - ECO3
 course_fees: Field trip to Wellington.
+endorsement: Yes
 ---
 To help students understand how economic concepts and models provide a means of analysing contemporary New Zealand issues and understanding how government policies and contemporary issues interact.

@@ -22,4 +22,4 @@ entry_requirements: >-
   from performance in SOCE course (Year 9 course).
 invitation_only: true
 ---
-To provide students with knowledge and skills required for future studies in Social Science. To provide students an extension course in Social Sciences as an alternative to SOC0.
+To provide students with knowledge and skills required for future studies in Social Science. Financial planning and systems of government are explored along with human rights and social justice. Resource use and environmental issues are examined from different perspectives. To provide students an extension course in Social Sciences as an alternative to SOC0.
