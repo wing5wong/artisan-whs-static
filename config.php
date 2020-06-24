@@ -211,7 +211,7 @@ return [
                 }
 
                 return "up to " . $assessments->map(function($standard) {
-                    return $standard->categories->contains($page->title);
+                    return collect($standard->categories)->contains($page->title);
                 })->reduce( function($carry, $standard){
                     return $carry + intval($standard->credits);
                 }, 0); 
