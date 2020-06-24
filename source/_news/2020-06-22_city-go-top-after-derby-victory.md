@@ -7,7 +7,7 @@ feature_image:
     win at Wembley Park today.
   credit: Lewis Gardner
 news_author:
-  date: 2020-06-05T22:27:59.397Z
+  date: 2020-06-21T22:27:59.397Z
   publication: Whanganui Chronicle
   name: Jared Smith
 image_gallery:
