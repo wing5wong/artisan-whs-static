@@ -36,7 +36,7 @@ Both at the centre and at home, her life was filled with animals and she cared f
 
 Jazmine was excited about her plan to participate in the SPCA's annual Jump to Rescue on August 1, where she would do a skydive in Taupō to raise money for the charity.
 
-Now her sister Athena will do the jump in Jazmine's honour while holding her ashes.
+**Now her sister Athena will do the jump in Jazmine's honour while holding her ashes.**
 
 Jones said the fundraising page was still active and in lieu of flowers at Jazmine's funeral people have the option to donate to the SPCA.
 
@@ -44,7 +44,7 @@ The family also plans to have vegan-friendly food at the funeral reception in he
 
 Jazmine spent her first five years in Christchurch, where she was born, and then moved with her family to Whanganui where she attended Castlecliff then Gonville primary schools.
 
-For intermediate, she attended Rutherford Junior High School before going to **Whanganui High School** where she was very academic, Jones said.
+For intermediate, she attended Rutherford Junior High School before going to **Whanganui High School where she was very academic**, Jones said.
 
 **For three years she learnt Chinese through High School's Confucius classroom where she was awarded the Confucius Award**, and in 2014 she travelled to China for two weeks on a school exchange.
 
