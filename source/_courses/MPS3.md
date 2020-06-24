@@ -10,18 +10,11 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-standards:
-  - '91580'
-  - '91582'
-  - '91584'
-  - '91585'
-  - '91586'
 notes: >-
   1. Students need a graphics calculator for this course; 2. Students taking
   this course need a reasonable standard of literacy. Most of the work involves
   writing or interpreting statistical reports and related information; 3.
   Students wanting to take scholarship Statistics must take MPS3 and MTA3.
-credits: '20'
 course_fees: $15 workbook
 ue_approved: true
 endorsement: Yes

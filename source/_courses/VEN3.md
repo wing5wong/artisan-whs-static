@@ -12,12 +12,6 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: ''
-standards:
-  - '1296'
-  - '1304'
-  - '9681'
-  - '18212'
-credits: '7'
 invitation_only: true
 ---
 

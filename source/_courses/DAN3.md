@@ -9,7 +9,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-credits: '25'
 entry_requirements: 12 credits in DAN2 and HOF/TIC approval.
 course_fees: $10 for portfolio
 ue_approved: true

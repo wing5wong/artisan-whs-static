@@ -32,4 +32,4 @@ _A Master Class:_   This one term course is for students who already play an ins
 
 **Assessment:**
 
-Both Practical and performance based.
+Unit tests, End of Option tests. Theory, Composition.

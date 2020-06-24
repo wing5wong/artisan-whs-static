@@ -10,12 +10,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-standards:
-  - '91627'
-  - '91629'
-  - '91630'
-  - '91631'
-credits: '16'
 course_fees: $25
 ue_approved: true
 ---

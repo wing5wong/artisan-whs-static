@@ -14,15 +14,7 @@ course_level: NCEA 1 and 2
 assessment_type: Unit Standard
 leads_to:
   - AUT2
-standards:
-  - '231'
-  - '21669'
-  - '21688'
-  - '21857'
-  - '21859'
-  - '29579'
 notes: Can lead to a National Certificate of Entry Automotive Trades.
-credits: '22'
 course_fees: $25
 ---
 To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training.

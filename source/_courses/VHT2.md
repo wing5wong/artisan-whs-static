@@ -11,12 +11,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-leads_to: ''
-standards:
-  - '91236'
-  - '91237'
-  - '91239'
-credits: 10-15
 invitation_only: true
 ---
 

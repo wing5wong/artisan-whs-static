@@ -10,14 +10,9 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-standards:
-  - '91573'
-  - '91578'
-  - '91579'
 notes: >-
   1. Students need a graphics calculator for this course. 2. Students wanting to
   do scholarship calculus must take MTA3 and MGC3
-credits: '15'
 course_fees: Workbook - $15
 ue_approved: true
 ---

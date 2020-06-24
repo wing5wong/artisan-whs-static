@@ -12,13 +12,6 @@ assessment_type: Achievement Standard
 leads_to:
   - FNG2
   - FDH2
-standards:
-  - '90956'
-  - '90957'
-  - '90958'
-  - '90959'
-  - '90961'
-credits: '24'
 course_fees: $75
 ---
 To provide a balanced programme involving theoretical and practical skills related to nutrition. Knowledge of basic nutrition, identifying and describing influences on eating patterns using skills/techniques for maintenance and overall improvements in eating habits.

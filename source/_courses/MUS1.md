@@ -11,7 +11,6 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - MUS2
-credits: 18-24
 course_fees: >-
   $15. Additional $60 per year if learning an instrument from a tutor at
   Whanganui High School.

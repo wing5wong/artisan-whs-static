@@ -12,14 +12,6 @@ type: Compulsory
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievment Standard and Scholarship
-standards:
-  - '91472'
-  - '91473'
-  - '91475'
-  - '91476'
-  - '91478'
-  - '91479'
-credits: '21'
 ue_approved: true
 endorsement: Yes
 ---

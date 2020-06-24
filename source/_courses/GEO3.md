@@ -12,14 +12,6 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 leads_to:
   - GEO3
-standards:
-  - '91426'
-  - '91427'
-  - '91429'
-  - '91430'
-  - '91431'
-  - '91432'
-credits: 19 - 23
 course_fees: >-
   Field Trip (Kapiti Coast approx $30), $25 course book, Optional Gold Coast
   Trip (approx $2300) or if the Gold Coast Trip does not run, Mt Maunganui -

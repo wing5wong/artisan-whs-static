@@ -15,13 +15,5 @@ assessment_type: Unit Standard
 leads_to:
   - DTA3
   - DTM3
-standards:
-  - '29771'
-  - '29777'
-  - '29769'
-  - '29770'
-  - '29774'
-  - '29778'
-credits: 14
 ---
 This course is designed to enable students to gain a broad understanding of the different software applications available today and some skills in using these appropriately. The safe use of computers and the correct use of computers as communication tools will be a feature of this course. Students will develop skills in communication, design, research and problem solving.

@@ -10,14 +10,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-standards:
-  - '168'
-  - '13331'
-  - '18497'
-  - '13314'
-  - '13316'
-  - '13325'
-credits: '22'
 course_fees: $75
 ue_approved: false
 ---

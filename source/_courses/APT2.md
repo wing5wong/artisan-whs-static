@@ -12,10 +12,6 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - APT3
-standards:
-  - '91323'
-  - '91325'
-credits: '16'
 course_fees: $50
 ---
 Students will explore a range of printmaking processes and techniques in the production of their work. Students will complete the majority of work in their diary building resources and notes throughout the year.

@@ -13,7 +13,7 @@ leads_to:
   - SOC1
   - ACC1
   - ECO1
-  - GEO1S
+  - TOU1S
   - CLS1
   - TOU2
 credits: ''

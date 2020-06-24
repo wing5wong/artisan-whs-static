@@ -12,13 +12,7 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - CHN3
-standards:
-  - '91108'
-  - '91109'
-  - '91110'
-  - '91111'
-  - '91112'
-credits: 19-24
-course_fees: Own bi-lingual dictionary an advantage.
+course_fees:
+endorsement: Yes
 ---
 This course builds on the five communication skills of listening, presenting, interacting, reading and writing in Chinese through increasingly complex and varied texts and contexts (e.g. health, travel, relationships, work). Students explore the views of others in a range of authentic texts, express and justify their own ideas in Chinese, and analyse ways in which Chinese language and culture are organised.

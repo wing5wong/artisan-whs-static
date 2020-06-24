@@ -12,15 +12,6 @@ course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to:
   - TCE3
-standards:
-  - '4435'
-  - '4436'
-  - '21682'
-  - '21684'
-  - '21685'
-  - '21859'
-  - '30476'
-credits: '16'
 course_fees: kit fee (approx $325)
 ---
 This course will offer students the opportunity to further develop their design and practical skills through the manufacture of a major engineering project based on the Competenz programme. The course will focus on improving student's practical skills through common project work the design and manufacture of a mini bike. Advanced engineering skills will be developed throughout this course.

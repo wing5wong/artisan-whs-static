@@ -13,12 +13,6 @@ assessment_type: Achievement and Unit Standard
 leads_to:
   - SCG1
   - SCI2
-standards:
-  - '90925'
-  - '90930'
-  - '90935'
-  - '90941'
-  - '90950'
-credits: '20'
+endorsement: Yes
 ---
 To provide a balanced Science programme to include aspects of Biology, Chemistry, Physics; investigations, interpreting information, microorganisms, life processes, rates of reactions, electricity and magnetism.

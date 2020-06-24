@@ -14,17 +14,6 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - MUS3
-standards:
-  - '91094'
-  - '91270'
-  - '91271'
-  - '91272'
-  - '91274'
-  - '91275'
-  - '91276'
-  - '91277'
-  - '91278'
-credits: 18-24
 course_fees: ''
 ---
-To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context at an advancing level. Performance, Composition, Aural Skills and Musical Knowledge.
+To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context at an advancing level. Performance, Composition, and Musical Knowledge.

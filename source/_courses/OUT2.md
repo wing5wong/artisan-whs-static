@@ -11,19 +11,6 @@ course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to: ''
-standards:
-  - '425'
-  - '426'
-  - '444'
-  - '457'
-  - '473'
-  - '476'
-  - '489'
-  - '20128'
-  - '20138'
-  - '20159'
-  - '91330'
-credits: 21-24
 course_fees:
 ---
 This is a practical course with a theory component. Students are able to gain credits on the National Framework Qualifications system. Kayaking, Camping, Navigation, Weather, High Ropes, Tramping, Rock Climbing and Adventure based learning. Assessed by practical field trips and book work.

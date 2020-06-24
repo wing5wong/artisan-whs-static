@@ -11,11 +11,6 @@ course_level: NCEA 1
 assessment_type: Unit Standard
 leads_to:
   - TCE2
-standards:
-  - '22923'
-  - '22924'
-  - '22926'
-credits: '24'
 course_fees: $70
 ---
 This course will offer students the opportunity to develop design and practical skills through a variety of projects and engineering projects based on Competenz programme. The course will focus on improving student's design, research and practical skills through common project work. Set in the engineering workshop.

@@ -13,13 +13,6 @@ assessment_type: Achievement Standard
 leads_to:
   - DTM2
   - DTA2
-standards:
-  - '2792'
-  - '5946'
-  - '12883'
-  - '18734'
-  - '18743'
-  - '26745'
-credits: '18'
+endorsement: Yes
 ---
 Computing skills are an essential requirement for most employment opportunities. This course concentrates on gaining a base of good practical computing skills and knowledge through a hands-on approach. Course content includes, managing computer files, presentation software, incorporating digital media, database applications and spreadsheets, internet research skills and creation of documents for the World Wide Web.

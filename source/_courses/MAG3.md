@@ -13,14 +13,6 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 leads_to: UE approved
-standards:
-  - '91574'
-  - '91576'
-  - '91580'
-  - '91581'
-  - '91582'
-  - '91587'
-credits: '20'
 course_fees: $5. (Students need a Graphics calculator for this course)
 ue_approved: true
 ---

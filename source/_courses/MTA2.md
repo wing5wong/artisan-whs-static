@@ -14,13 +14,6 @@ leads_to:
   - MPS3
   - MTA3
   - MGC3
-standards:
-  - '91256'
-  - '91257'
-  - '91259'
-  - '91261'
-  - '91262'
-credits: '18'
 course_fees: Students need a Graphics Calculator for this course.
 endorsement: Yes
 ---

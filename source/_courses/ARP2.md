@@ -12,10 +12,6 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - ARP3
-standards:
-  - '91321'
-  - '91325'
-credits: '20'
 course_fees: ''
 ---
 Students will generate and develop ideas in making art works. Students will complete the majority of their own work in a visual diary, building a resource of drawing notes, sketches, monochromatic and colour studies, throughout the year. The selection of achievement standards are desgined to initiate sound art practice using the visual diary as their main resource of learning.

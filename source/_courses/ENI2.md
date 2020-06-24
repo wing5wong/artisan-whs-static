@@ -14,18 +14,5 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - ENI3
-standards:
-  - '3492'
-  - '4261'
-  - '12349'
-  - '12355'
-  - '12383'
-  - '91101'
-  - '91102'
-  - '91103'
-  - '91104'
-  - '91106'
-  - '91107'
-credits: 19-23
 ---
 To provide a balanced English programme to include reading, writing, listening, speaking, and presenting. Students will be given the opportunity to gain some of the 10 literacy credits required for University Entrance.

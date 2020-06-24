@@ -13,15 +13,7 @@ leads_to:
   - DTM2
   - DTA2
   - DTS2
-credits: Up to 22
 course_fees: 
-standards:
-  - '91878'
-  - '91880'
-  - '91883'
-  - '91884'
-  - '91885'
-  - '91886'
 endorsement: Yes
 ---
 To provide a course in which students will gain a good level of expertise in using modern applications, across a wide range of activities including, basic integration of well designed documents created using Office 365 and Google, creating of original works in a variety of media using applications from the Adobe suite, such as Photoshop and Illustrator. Also included will be some simple game development using programs such as Scratch.This course will allow for Course Endorsement.

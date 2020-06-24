@@ -10,14 +10,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievment Standard and Cambridge as examination
-standards:
-  - '91573'
-  - '91575'
-  - '91577'
-  - '91578'
-  - '91579'
-  - '91587'
-credits: '27'
 course_fees: $15. Students need a Graphics calculator for this course.
 ue_approved: true
 endorsement: Yes

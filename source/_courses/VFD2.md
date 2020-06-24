@@ -12,9 +12,6 @@ course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to: ''
-standards:
-  - '167'
-credits: '8'
 course_fees: ''
 invitation_only: true
 ---

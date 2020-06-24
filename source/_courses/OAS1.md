@@ -12,18 +12,6 @@ assessment_type: Unit Standard
 leads_to:
   - OUT2
   - SPX2
-standards:
-  - '431'
-  - '448'
-  - '467'
-  - '476'
-  - '485'
-  - '20137'
-  - '20138'
-  - '20141'
-  - '20152'
-  - '20818'
-credits: 15-18
 course_fees:
 ---
 This course should provide learning experiences to develop personal and social skills for moving safely in a variety of settings. These learning experiences should also develop the understandings and skills which underpin successful outdoor activity and an increase in the awareness of the need for conservation of the environment. The Unit Standards offered in this course can be used towards the National Certificate in Outdoor Recreation Leadership.

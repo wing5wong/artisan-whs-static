@@ -13,15 +13,7 @@ course_duration: Full Year
 course_level: NCEA 1 and 2
 assessment_type: Achievement Standard
 leads_to: No further Mathematics course
-standards:
-  - '28094'
-  - '91032'
-  - '91256'
-  - '91259'
-  - '91260'
-  - '91265'
-  - '91268'
-credits: 'Level 1: 3 Credits, Level 2: 15'
 course_fees: ''
+notes: 'Level 1: 3 Credits, Level 2: 15'
 ---
 To provide a continuing Mathematics programme to students for whom a formal academic course is not suitable. This course contains Level 1 and 2 standards and is completely internally assessed. Topics covered; Trigonometry, Statistics, Networks, Coordinate Geometry.

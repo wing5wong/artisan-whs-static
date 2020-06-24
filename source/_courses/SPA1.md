@@ -12,15 +12,6 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - SPA2
-standards:
-  - '90908'
-  - '90909'
-  - '90910'
-  - '90911'
-  - '90912'
-credits: 19-24
-course_fees: >-
-  Own bi-lingual dictionary an advantage. $20 for online vocabulary learning and
-  workbooks.
+endorsement: Yes
 ---
 This course develops the five communication skills of listening, presenting, interacting, reading and writing in Spanish in everyday contexts (e.g. home, school, free time, food, holidays). Students learn to understand and communicate information, ideas and opinions through different text types, as well as developing awareness and understanding of how Hispanic language and culture/s are organised.

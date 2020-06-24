@@ -10,13 +10,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-standards:
-  - '91434'
-  - '91435'
-  - '91436'
-  - '91437'
-  - '91438'
-credits: '25'
 course_fees: Field Trip - to be advised.
 ue_approved: true
 ---

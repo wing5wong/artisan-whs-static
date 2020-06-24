@@ -14,7 +14,6 @@ leads_to:
   - MPS2
   - MCA2
   - MCS2
-credits: '23'
 course_fees: >-
   $10 workbook. (Students are strongly advised to have a Graphics calculator for
   this course).
@@ -24,13 +23,6 @@ notes: >-
   it is an external achievement standard it is sat during the internal school
   examinations in Term 3. Achievement in this standard is required for entry
   into MCA2, MCS2 MTA2 and MPS2 courses.
-standards:
-  - '91027'
-  - '91028'
-  - '91031'
-  - '91032'
-  - '91035'
-  - '91037'
 endorsement: Yes
 ---
 To provide a Mathematics programme that will develop in students a variety of approaches to solving problems involving Mathematics and provide a foundation for those students who may continue studies in Mathematics or other learning areas where Mathematical concepts are central. The following topics are studied; Number, Angle Geometry, Graphs, Algebra, Statistics, Probability and Trigonometry.

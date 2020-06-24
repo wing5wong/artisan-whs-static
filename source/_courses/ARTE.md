@@ -12,8 +12,7 @@ leads_to: ''
 credits: ''
 course_fees: 
 ---
-**PURPOSE:** To enable students to learn to make artworks and to develop an understanding of Art. Emphasis is on the Art of New Zealand and the European influence.
-
+**PURPOSE:** To enable students to learn to make artworks and to develop an understanding of Art. Emphasis is on the Art of aotearoa New Zealand.
 
 
 **CONTENT:** Sources of motivation for making artworks arising from:

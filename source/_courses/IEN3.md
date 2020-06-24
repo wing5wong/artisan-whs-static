@@ -10,13 +10,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
-standards:
-  - '22750'
-  - '91101'
-  - '91105'
-  - '91106'
-  - '91476'
-credits: Up to 19
 course_fees: Included in International Student fee
 ue_approved: true
 ---

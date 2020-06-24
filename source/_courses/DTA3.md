@@ -11,12 +11,5 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: ''
-standards:
-  - '29789'
-  - '29787'
-  - '29785'
-  - '29786'
-  - '29792'
-credits: '17'
 ---
 This course will concentrate on the production and integration of documents used in business. Design skills and accuracy of work will be essential. Students taking this course will gain experience in using the more advanced features in Microsoft Office applications, along with some of the applications in the Adobe Suite Collection.

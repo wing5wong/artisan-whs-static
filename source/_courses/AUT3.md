@@ -12,17 +12,9 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-standards:
-  - '233'
-  - '239'
-  - '918'
-  - '21680'
-  - '21683'
-  - '21684'
 notes: >-
   Students have the opportunity to complete a National Certificate of Entry
   Automotive Trades.
-credits: '20'
 course_fees: $25
 ---
 To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training.

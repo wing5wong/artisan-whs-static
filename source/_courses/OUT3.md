@@ -10,18 +10,7 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-standards:
-  - '427'
-  - '430'
-  - '476'
-  - '5482'
-  - '20125'
-  - '20128'
-  - '20138'
-  - '20150'
-  - '20817'
 notes: Is trade recognised
-credits: 21-24
 course_fees:
 ue_approved: false
 ---

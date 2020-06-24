@@ -15,20 +15,12 @@ leads_to:
   - MPS3
   - MTA3
   - MGC3
-standards:
-  - '91256'
-  - '91257'
-  - '91259'
-  - '91261'
-  - '91262'
-  - '91269'
 notes: >-
   1. Completion of this course will provide entry to any Level 3 Mathematics
   courses MCA3, MTA3, MPS3, MGC3. Students completing this course will receive
   NCEA credits and those who also complete MSC2 will gain a result in the
   Cambridge AS exam). Students taking this course are encouraged to also take
   MCS2. Endorsement if taken with MCS2.
-credits: '20'
 course_fees: >-
   Cambridge Examination Fee. Students need a Graphics calculator for this
   course.

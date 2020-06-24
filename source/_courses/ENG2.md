@@ -15,13 +15,6 @@ assessment_type: Achievement Standard
 leads_to:
   - ENG3
   - ENL3
-standards:
-  - '91098'
-  - '91099'
-  - '91101'
-  - '91102'
-  - '91106'
-credits: 21-24
 endorsement: Yes
 ---
 To provide a balanced programme of language skills, including writing, reading, listening, speaking, viewing and presenting. Study of literature, comprehension, research, creative writing and formal writing. Students will be given the opportunity to gain the 10 Literacy credits required for University Entrance.

@@ -13,12 +13,6 @@ assessment_type: Achievement Standard
 leads_to:
   - FDH3
   - FNG3
-standards:
-  - '91299'
-  - '91300'
-  - '91301'
-  - '91351'
-credits: '23'
 course_fees: ''
 ---
 Developing management skills, knowledge of nutrition, food planning, recipe development and preparation in relation to the production of a lemon meringue pie. Completing tasks and dietary analysis, presenting ideas relating to issues in our society, exploring attitudes and beliefs, considering an holistic approach to health.

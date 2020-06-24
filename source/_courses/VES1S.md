@@ -12,14 +12,7 @@ course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard
 leads_to: Vocational Studies 2 and Vocational Studies 3
-standards:
-  - '29299'
-  - '29300'
-  - '29306'
-  - '29309'
-  - '29310'
 notes: 'Leads to: Vocational Studies 2 and Vocational Studies 3'
-credits: 15-19
 course_fees: ''
 ---
 

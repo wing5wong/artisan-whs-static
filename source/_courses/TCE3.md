@@ -10,12 +10,7 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-standards:
-  - '91620'
-  - '91624'
-  - '91625'
 notes: 'Leads to: Industry Training, 12 U.E. Approved credits.'
-credits: '12'
 course_fees: $70
 ue_approved: true
 ---

@@ -12,13 +12,6 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - ENG2
-standards:
-  - '90852'
-  - '90989'
-  - '90990'
-  - '90992'
-  - '90993'
-  - '90994'
 notes: >-
   Level 1 Media Studies may not be selected in combination with Level 1 English.
   Leads to: ENG2 or Media Studies L1 depending on numbers. 

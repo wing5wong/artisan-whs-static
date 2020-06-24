@@ -12,14 +12,6 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - GEO3
-standards:
-  - '91189'
-  - '91240'
-  - '91243'
-  - '91244'
-  - '91245'
-  - '91246'
-credits: '23'
 course_fees: >-
   Field trips (Ohakune - Geographic Research approx $25/ Optional South Island
   Trip approx $1500), $25 course book

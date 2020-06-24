@@ -14,13 +14,6 @@ leads_to:
   - MPS3
   - MAG3
   - MTA3
-standards:
-  - '91260'
-  - '91264'
-  - '91265'
-  - '91266'
-  - '91267'
-  - '91268'
 notes: >-
   Students taking this course need a reasonable standard of literacy. Much of
   the work involves writing or interpreting statistical reports.
