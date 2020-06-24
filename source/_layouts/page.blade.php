@@ -5,9 +5,11 @@
 
 @yield('postContent')
 
+@if($page->blocks)
 @foreach($page->blocks as $block)
     @include('_partials.blocks.' . $block["type"], ['block'=>$block])
 @endforeach
+@endif
 
 @include('_partials.lastReviewed')
 

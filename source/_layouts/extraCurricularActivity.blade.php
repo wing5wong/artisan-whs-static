@@ -144,9 +144,11 @@ sizes="(min-width: 800px) 400px, 250px"
 @endif
 
 
+@if($page->blocks)
 @foreach($page->blocks as $block)
     @include('_partials.blocks.' . $block["type"], ['block'=>$block])
 @endforeach
+@endif
 
 @include('_partials.lastReviewed')
 
