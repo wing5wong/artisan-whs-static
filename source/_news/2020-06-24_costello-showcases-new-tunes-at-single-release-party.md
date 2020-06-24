@@ -1,7 +1,7 @@
 ---
 title: Costello showcases new tunes at single release party
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592974964/News/Ra_Costello_ex._chron_24.6.20_photo_supplied.webp
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592975619/News/Ra_Costello_snip._chron_24.6.20.jpg
   description: 'Ra Costello will be staggering the release of four new songs that
     make up his new EP "What a Ride". '
   credit: Supplied
