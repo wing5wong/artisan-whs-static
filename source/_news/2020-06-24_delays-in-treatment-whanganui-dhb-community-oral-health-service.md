@@ -1,8 +1,12 @@
 ---
 title: Delays in treatment - Whanganui DHB Community Oral Health Service
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592968714/News/Dental_van.jpg
 news_author:
   date: 2020-06-24T03:04:06.820Z
-show_in_slider: true
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592968736/News/wdhb_logo.png
+show_in_slider: false
 date: 2020-06-24T03:04:06.844Z
 ---
 Dear Whanganui region parents,
