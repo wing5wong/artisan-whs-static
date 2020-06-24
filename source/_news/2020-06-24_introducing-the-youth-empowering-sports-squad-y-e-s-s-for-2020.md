@@ -4,8 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592980902/News/Youth_Empowering_Sports_Squad_Y.E.S.S_for_2020.jpg
   description: "From left to right (back row): Sophie King, Isis Dennison-Downie,
     Siena McLean, Phoebe Collier, Mythias Cook, Majre Apiata-Cook, Tahana
-    Warren, Aigalelei Leo, Tyler Edwards. Front row: Jakob Moorhouse, Nat Kirk
-    and Sophie Andrews."
+    Warren, Aigalelei Leo, Tyler Edwards. Front row: WHS students, Jakob
+    Moorhouse, Nat Kirk and Sophie Andrews."
 news_author:
   date: 2020-06-24T06:40:34.713Z
   publication: Sport Whanganui
