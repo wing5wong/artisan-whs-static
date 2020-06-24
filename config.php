@@ -199,16 +199,22 @@ return [
             'extends' => '_layouts.course',
             'section' => 'postContent',
             'getAvailableCredits' => function($page, $assessments) {
+                if($page->credits){
+                    return $page->credits;
+                }
                 if($page->standards) {
-                return "up to " . collect($page->standards)->map(function($standard) use ($assessments){
-                    return $assessments->firstWhere('title', $standard);
+                    return "up to " . collect($page->standards)->map(function($standard) use ($assessments){
+                        return $assessments->firstWhere('title', $standard);
+                    })->reduce( function($carry, $standard){
+                        return $carry + intval($standard->credits);
+                    }, 0);
+                }
+
+                return "up to " . $assessments->map(function($standard) {
+                    return $standard->categories->contains($page->title);
                 })->reduce( function($carry, $standard){
                     return $carry + intval($standard->credits);
-                }, 0);
-            }
-            else {
-                return $page->credits;
-            }
+                }, 0); 
             }
         ],
         'curriculum' => [
