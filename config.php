@@ -208,10 +208,10 @@ return [
                     }, 0);
                 }
 
-                return "up to " . $assessments->map(function ($standard) use ($page) {
+                return "up to " . $assessments->filter(function ($standard) use ($page) {
                     return collect($standard->categories)->contains($page->title);
                 })->reduce(function ($carry, $standard) {
-                    return $carry + intval($standard["credits"]);
+                    return $carry + intval($standard->credits);
                 }, 0);
             }
         ],
