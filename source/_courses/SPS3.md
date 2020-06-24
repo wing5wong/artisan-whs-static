@@ -10,7 +10,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
-course_fees:
 ue_approved: true
 ---
 A practically based course following on from PED2 which will provide opportunities for students interested in a career related to Sports Management, Sports Officiating, Sport Teaching/Coaching and Outdoor Education. All assessments are Internal.

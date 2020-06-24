@@ -14,7 +14,6 @@ leads_to:
   - CHE2
   - PHY2
   - SCI2
-course_fees:
 endorsement: Yes
 ---
 To provide a balanced Science programme to include aspects of Biology, Chemistry and Physics: investigations, interpreting information, microorganisms, atoms, acids and bases and rates of reactions, mechanics and energy.

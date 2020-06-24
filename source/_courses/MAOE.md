@@ -9,9 +9,6 @@ type: Optional
 course_duration: 5 Week Introduction Plus 20 Week Course If Selected
 course_level: Year 9
 leads_to: ''
-credits: ''
-course_fees: 
-
 ---
 **Purpose:**
 

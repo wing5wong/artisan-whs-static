@@ -9,8 +9,7 @@ type: Compulsory
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
-leads_to: 'BIO2, CHE2, PHY2, SCI2'
-course_fees: 
+leads_to: 'BIO2, CHE2, PHY2, SCI2' 
 invitation only: Yes
 endorsement: Yes
 ---

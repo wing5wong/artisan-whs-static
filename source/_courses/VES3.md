@@ -15,7 +15,6 @@ notes: >-
   There are 5 compulsory Vocational Studies subjects, they are; English/Life
   Skills, Mathematics, Food Technology, Health and Employment Skills. Students
   choose 1 other option subject to make up the 6 lines.
-course_fees: ''
 invitation_only: true
 ---
 The Vocational Studies Programmes are designed to assist students to prepare for employment and to develop general post-school living skills. Students will spend time in the work force experiencing different work places and working with various industries of their choice. Students will enrol in the Gateway programme and have the additional benefit of gaining qualifications in workplace.

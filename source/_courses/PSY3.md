@@ -10,7 +10,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-leads_to: ''
 ue_approved: true
 ---
 To introduce students to Psychology and the study of human behaviour, the language it uses, the approaches adopted, its body of knowledge and the inquiry and research methods used. Emphasis is on helping students understand the theoretical concepts and practical application of psychology with particular reference to themselves and their peers. The course offers study of the following psychological aspects; Nature of Intelligence, Ethical Practices in Psychology, key case studies in Information Behaviour, Scientific Method, Experimentation & Research within Psychology.

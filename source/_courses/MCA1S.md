@@ -12,7 +12,6 @@ course_level: NCEA 1
 leads_to:
   - MCA2
   - MCS2
-credits: ''
 entry_requirements: Subject teacher recommendation
 course_fees: $135. Cambridge Examination Fee.
 ---

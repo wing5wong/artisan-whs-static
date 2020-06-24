@@ -12,9 +12,7 @@ leads_to:
   - SCI1
   - SCG1
   - SCX1S
-credits: ''
 entry_requirements: Satisfactory completion of SCGE course.
-course_fees: 
 ---
 **Purpose:**
 

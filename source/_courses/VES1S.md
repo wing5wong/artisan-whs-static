@@ -13,6 +13,5 @@ course_level: NCEA 1
 assessment_type: Unit Standard
 leads_to: Vocational Studies 2 and Vocational Studies 3
 notes: 'Leads to: Vocational Studies 2 and Vocational Studies 3'
-course_fees: ''
 ---
 

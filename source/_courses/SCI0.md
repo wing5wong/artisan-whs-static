@@ -10,9 +10,7 @@ course_duration: Full Year
 course_level: Year 10
 leads_to:
   - SCI1
-credits: ''
 entry_requirements: Successful completion of SCIE course.
-course_fees: 
 invitation only: Yes
 ---
 **Purpose:**

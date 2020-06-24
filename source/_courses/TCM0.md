@@ -9,8 +9,6 @@ type: Optional
 course_duration: Half Year
 course_level: Year 10
 leads_to: ''
-credits: ''
-course_fees: 
 ---
 **Purpose:**
 

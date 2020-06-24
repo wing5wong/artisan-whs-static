@@ -11,6 +11,5 @@ course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to: ''
-course_fees: ''
 ---
 To provide an opportunity for students to extend their knowledge and expertise in commercial catering in a simulated environment. Students will be encouraged to operate from a commercial perspective. Students will have the opportunity to complete industry standard courses on Food Hygiene as a pre-training qualification.

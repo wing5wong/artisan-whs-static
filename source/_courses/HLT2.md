@@ -14,6 +14,5 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - HLT3
-course_fees: ''
 ---
 To provide background knowledge and understanding of self-management, communication, problem solving, social and cooperative skills related to health and wellbeing.

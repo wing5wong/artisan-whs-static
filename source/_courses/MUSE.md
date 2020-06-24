@@ -9,8 +9,6 @@ type: Optional
 course_duration: One Term
 course_level: Year 9
 leads_to: ''
-credits: ''
-course_fees: 
 ---
 **Purpose:**
 

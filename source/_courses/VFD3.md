@@ -11,7 +11,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-leads_to: ''
 course_fees: $70
 invitation_only: true
 ---

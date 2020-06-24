@@ -10,7 +10,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-course_fees: 
 ue_approved: true
 endorsement: Yes
 ---
