@@ -8,7 +8,7 @@ feature_image:
     Moorhouse, Nat Kirk and Sophie Andrews."
 news_author:
   date: 2020-06-24T06:40:34.713Z
-  publication: Sport Whanganui
+  publication: Sport Whanganui Facebook page
 show_in_slider: true
 date: 2020-06-24T06:40:34.751Z
 ---
