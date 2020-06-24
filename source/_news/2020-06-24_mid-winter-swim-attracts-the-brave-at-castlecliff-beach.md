@@ -1,7 +1,7 @@
 ---
 title: Mid-winter swim attracts the brave at Castlecliff Beach
 feature_image:
-  description: Surf lifesavers / WHS students; Lennard, Phoenix and Ethan are on
+  description: Surf lifesavers / WHS students; Lennart, Phoenix and Ethan are on
     hand for the out-of-season dip and anything that might eventuate.
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593038762/News/Surf_lifesavers_Lennard_Phoenix_Ethan.jpg
 news_author:
