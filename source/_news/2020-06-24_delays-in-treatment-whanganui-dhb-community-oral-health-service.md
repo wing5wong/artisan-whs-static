@@ -17,8 +17,24 @@ This means there will be some delays in our usual dental mobile roster.  We are 
 
 In the meantime, if you have any concerns about your child’s dental health please call us on:
 
-Whanganui Hospital Dental Unit  
+**Whanganui Hospital Dental Unit**  
 0800 825 583 or 06 3483120 - Monday to Friday
+
+Whanganui Intermediate Dental Clinic  
+06 3481716 - Monday to Friday
+
+Tawhero Dental Clinic  
+06 3445474 - Monday to Thursday
+
+Marton Primary Dental clinic  
+06 3276016 - Mon. Tues. Thurs. Frid.
+
+Taihape Dental Clinic  
+06 3889245 - Tues. Wed. Thurs.  
+
+Ohakune Dental Clinic  
+06 3858195 - Tues. Wed. Thurs.
+
 
 
 Kind regards,
