@@ -12,6 +12,5 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - DAN3
-course_fees: ''
 ---
 Students will further develop their skills in a variety of dance forms. Students will perform in a repertoire of dances and develop choreography with the intention of performing to an audience.

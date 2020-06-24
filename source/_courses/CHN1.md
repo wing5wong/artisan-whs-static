@@ -12,7 +12,6 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - CHN2
-course_fees: 
 endorsement: Yes
 ---
 This course develops the five communication skills of listening, presenting, interacting, reading and writing in Chinese in everyday contexts (e.g. home, school, free time, food). Students learn to understand and communicate information, ideas and opinions through different text types, as well as developing awareness and understanding of how Chinese language and culture are organised.

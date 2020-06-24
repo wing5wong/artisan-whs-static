@@ -12,6 +12,5 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - DRA3
-course_fees: ''
 ---
 This course will offer students the chance to develop a wide range of personal and performance skills through the processes of drama. The course will extend the student's understanding and skills in many aspects of drama and theatre. It will incorporate workshop activities in performance, expression and theatre form. The students follow a process of participation, creation, performance and reflection.

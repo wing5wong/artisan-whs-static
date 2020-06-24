@@ -9,8 +9,6 @@ type: Core
 course_duration: Half Year
 course_level: Year 9
 leads_to: ''
-credits: ''
-course_fees: 
 ---
 **Purpose:**
 

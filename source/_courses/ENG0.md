@@ -9,11 +9,9 @@ type: Compulsory
 course_duration: Full Year
 course_level: Year 10
 leads_to: ''
-credits: ''
 entry_requirements: >-
   Satisfactory completion of the ENGE course. 50% in the End of year
   Examination.
-course_fees: 
 ---
 **Purpose:**
 

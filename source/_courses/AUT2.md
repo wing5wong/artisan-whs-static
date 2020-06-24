@@ -15,6 +15,5 @@ assessment_type: Unit Standard
 leads_to:
   - AUT3
 notes: Can lead to a National Certificate of Entry Automotive Trades
-course_fees: ''
 ---
 To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training.

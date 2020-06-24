@@ -20,8 +20,5 @@ standards:
 notes: 'Credits: Reading and writing literacy credits.'
 credits: '20'
 course_fees: Field trip - Massey Classics Day
-ue_approved: false
-invitation_only: false
-endorsement: false
 ---
 An introduction to the world of Greek Mythology and life in the classical Greek World. We focus on mythology in the first half year and there are two internal assessments based on the gods and goddesses (6 credits) and greek theatre. The second half focuses on drama and architecture in the classical world (6 credits). This course helps develop skills of research, communication and processing information in a variety of formats. It also promotes the important qualities of tolerance of other cultures, both ancient and modern.

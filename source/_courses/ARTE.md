@@ -9,8 +9,6 @@ type: Optional
 course_duration: One Term
 course_level: Year 9
 leads_to: ''
-credits: ''
-course_fees: 
 ---
 **PURPOSE:** To enable students to learn to make artworks and to develop an understanding of Art. Emphasis is on the Art of aotearoa New Zealand.
 

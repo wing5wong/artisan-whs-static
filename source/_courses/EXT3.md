@@ -17,7 +17,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-leads_to: ''
 notes: >-
   EXT3 is a supervised study period where students complete the work provided by
   external providers. Alternatively, where Year 12-13 students are on "course"

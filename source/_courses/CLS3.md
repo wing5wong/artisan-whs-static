@@ -13,7 +13,6 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard.
 notes: Reading and Writing Literacy.
-credits: 20-26
 course_fees: Field Trip
 ue_approved: true
 ---

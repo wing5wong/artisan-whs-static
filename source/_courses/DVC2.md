@@ -12,6 +12,5 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - DVC3
-course_fees: ''
 ---
 The course aims to develop student's Design and Visual Communication skills. The course is structured around two Design Briefs: Spatial Design and Product Design. Students will develop their own graphics practice through sketching, instrumental drawing, modelling, use of CAD and 3D printing.
