@@ -14,11 +14,11 @@ return [
         'github' => '',
     ],
     'phone' => [
-        'general' => ['display' => '(06) 349-0178', 'url'=> '06-3490178'],
-        'attendance' => ['display' => '(06) 349-0177', 'url'=> '06-3490177'],
+        'general' => ['display' => '(06) 349-0178', 'url' => '06-3490178'],
+        'attendance' => ['display' => '(06) 349-0177', 'url' => '06-3490177'],
         'international' => ['display' => '+64-6-349-1181', 'url' => '+64-6-349-1181']
     ],
-    'social' =>[
+    'social' => [
         'facebook' => 'https://www.facebook.com/WhanganuiHigh/',
         'youtube' => 'https://www.youtube.com/WanganuiHigh/',
         'twitter' => 'https://twitter.com/whanganuihigh',
@@ -63,97 +63,95 @@ return [
     ],
     'navigation' => require_once('navigation.php'),
 
-    'getTeachingFaculties' => function($page, $faculties) {
-        return $faculties->filter(function($f){
+    'getTeachingFaculties' => function ($page, $faculties) {
+        return $faculties->filter(function ($f) {
             return $f->is_teaching_faculty ?? false;
         })->sortBy('title');
     },
 
-    'getNonTeachingFaculties' => function($page, $faculties) {
-        return $faculties->filter(function($f){
+    'getNonTeachingFaculties' => function ($page, $faculties) {
+        return $faculties->filter(function ($f) {
             return !($f->is_teaching_faculty ?? false);
         })->sortBy('title');
     },
 
-    'getDepartmentStaff' => function($page, $faculties, $staff, $departmentToFind) {
-        return $staff->filter(function($s) use ($departmentToFind){
+    'getDepartmentStaff' => function ($page, $faculties, $staff, $departmentToFind) {
+        return $staff->filter(function ($s) use ($departmentToFind) {
             return collect($s->departments ?? [])->contains($departmentToFind);
         })
-        ->filter(function($s) use ($faculties, $departmentToFind){
-            $faculty = $faculties->firstWhere('title', $departmentToFind);
-            return !( collect($faculty->hofs ?? [])->contains($s->title) or collect($faculty->ahofs ?? [])->contains($s->title));
-        })
-        ->sort(function($st, $other) use ($departmentToFind){
+            ->filter(function ($s) use ($faculties, $departmentToFind) {
+                $faculty = $faculties->firstWhere('title', $departmentToFind);
+                return !(collect($faculty->hofs ?? [])->contains($s->title) or collect($faculty->ahofs ?? [])->contains($s->title));
+            })
+            ->sort(function ($st, $other) use ($departmentToFind) {
 
-            return  
-            (collect($st->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ")
-             <=> 
-             (collect($other->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ") 
-            
-             ?:
+                return (collect($st->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ")
+                    <=>
+                    (collect($other->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ")
 
-            implode(" ", array_reverse(explode(" ", $st->title)))
-             <=> 
-             implode(" ", array_reverse(explode(" ", $other->title)));
-            
-        });
+                    ?:
+
+                    implode(" ", array_reverse(explode(" ", $st->title)))
+                    <=>
+                    implode(" ", array_reverse(explode(" ", $other->title)));
+            });
     },
 
-    'getDepartmentHofs' => function($page, $faculties, $staff, $departmentToFind) {
+    'getDepartmentHofs' => function ($page, $faculties, $staff, $departmentToFind) {
         return collect($faculties->firstWhere('title', $departmentToFind)->hofs ?? [])
-                ->map(function($st) use ($staff){
-                    return $staff->firstWhere('title', $st);
-                });
+            ->map(function ($st) use ($staff) {
+                return $staff->firstWhere('title', $st);
+            });
     },
-    'getDepartmentAHofs' => function($page, $faculties, $staff, $departmentToFind) {
+    'getDepartmentAHofs' => function ($page, $faculties, $staff, $departmentToFind) {
         return collect($faculties->firstWhere('title', $departmentToFind)->ahofs ?? [])
-                ->map(function($st) use ($staff){
-                    return $staff->firstWhere('title', $st);
-                });
+            ->map(function ($st) use ($staff) {
+                return $staff->firstWhere('title', $st);
+            });
     },
 
-    'getFacultySubjectAreas' => function($page, $faculty, $subject_areas) {
-        return $subject_areas   ->where('faculty', $faculty->title)
-                                ->sortBy('title');
-    },
-
-    'getSubjectAreaCourses' => function($page, $subject_area, $courses) {
-        return $courses ->where('subject_area', $subject_area->title)->sortBy('name')->sortBy('year');
-    },
-
-    'getFacultyCoursesForLevel' => function($page, $faculty, $subject_areas, $courses, $level) {
+    'getFacultySubjectAreas' => function ($page, $faculty, $subject_areas) {
         return $subject_areas->where('faculty', $faculty->title)
-            ->flatMap(function($subject) use ($courses, $level){
+            ->sortBy('title');
+    },
+
+    'getSubjectAreaCourses' => function ($page, $subject_area, $courses) {
+        return $courses->where('subject_area', $subject_area->title)->sortBy('name')->sortBy('year');
+    },
+
+    'getFacultyCoursesForLevel' => function ($page, $faculty, $subject_areas, $courses, $level) {
+        return $subject_areas->where('faculty', $faculty->title)
+            ->flatMap(function ($subject) use ($courses, $level) {
                 return $courses->where('subject_area', $subject->title)
-                                ->where('year', $level)
-                                ->concat( 
-                                    $courses->where('subject_area', $subject->title)
-                                    ->where('course_level', "All Year Levels")
-                                )->unique();
+                    ->where('year', $level)
+                    ->concat(
+                        $courses->where('subject_area', $subject->title)
+                            ->where('course_level', "All Year Levels")
+                    )->unique();
             })
             ->sortBy('name');
     },
 
 
-    'getSubjectAreaCoursesForLevel' => function($page, $subject_area, $courses, $level) {
+    'getSubjectAreaCoursesForLevel' => function ($page, $subject_area, $courses, $level) {
         return $courses->where('subject_area', $subject_area->title)
-                        ->where('year', $level)
-                        ->concat( 
-                            $courses->where('subject_area', $subject_area->title)
-                                            ->where('course_level', "All Year Levels")
-                        )
-                        ->sortBy('name');
-        },
-
-    'getStaffMemberPositionsForDepartment' => function($page,$member,$departmentName) {
-        return  collect($member->positions ?? [])
-                ->filter(function($p) use ($departmentName){
-                    return $p["department"] == $departmentName;
-                });
+            ->where('year', $level)
+            ->concat(
+                $courses->where('subject_area', $subject_area->title)
+                    ->where('course_level', "All Year Levels")
+            )
+            ->sortBy('name');
     },
 
-    'yearLevelOffersVocationalPathways' => function($page, $level) {
-        return in_array($level, ['11','12','13']);
+    'getStaffMemberPositionsForDepartment' => function ($page, $member, $departmentName) {
+        return  collect($member->positions ?? [])
+            ->filter(function ($p) use ($departmentName) {
+                return $p["department"] == $departmentName;
+            });
+    },
+
+    'yearLevelOffersVocationalPathways' => function ($page, $level) {
+        return in_array($level, ['11', '12', '13']);
     },
 
     'collections' => [
@@ -188,33 +186,33 @@ return [
             'isPost' => true,
             'comments' => true,
             'tags' => [],
-            'isVisible'=> function($page){
+            'isVisible' => function ($page) {
                 return !($page->visible == "No");
             }
         ],
         'board_members',
         'courses' => [
             'path' => 'courses/{code}',
-            'sort' => ['year','course_level','name', 'code'],
+            'sort' => ['year', 'course_level', 'name', 'code'],
             'extends' => '_layouts.course',
             'section' => 'postContent',
-            'getAvailableCredits' => function($page, $assessments) {
-                if($page->credits){
+            'getAvailableCredits' => function ($page, $assessments) {
+                if ($page->credits) {
                     return $page->credits;
                 }
-                if($page->standards) {
-                    return "up to " . collect($page->standards)->map(function($standard) use ($assessments){
+                if ($page->standards) {
+                    return "up to " . collect($page->standards)->map(function ($standard) use ($assessments) {
                         return $assessments->firstWhere('title', $standard);
-                    })->reduce( function($carry, $standard){
+                    })->reduce(function ($carry, $standard) {
                         return $carry + intval($standard->credits);
                     }, 0);
                 }
 
-                return "up to " . $assessments->map(function($standard) use ($page) {
+                return "up to " . $assessments->map(function ($standard) use ($page) {
                     return collect($standard->categories)->contains($page->title);
-                })->reduce( function($carry, $standard){
+                })->reduce(function ($carry, $standard) {
                     return $carry + intval($standard["credits"]);
-                }, 0); 
+                }, 0);
             }
         ],
         'curriculum' => [
@@ -247,7 +245,7 @@ return [
             'extends' => '_layouts.faculty',
             'section' => 'postContent',
             'is_teaching_faculty' => true,
-            'isTeachingFaculty' => function($page, $faculty){
+            'isTeachingFaculty' => function ($page, $faculty) {
                 return $faculty->is_teaching_faculty ?? false;
             }
         ],
@@ -261,9 +259,9 @@ return [
             'tags' => [],
         ],
         'honours' => [
-            'sort' => ['award','-date']
+            'sort' => ['award', '-date']
         ],
-        
+
         'prizegiving_booklets' => ['sort' => '-date'],
         'achievers_lists' => ['sort' => '-date'],
         'testimonials',
@@ -279,19 +277,19 @@ return [
         ],
         'news' => [
             'path' => 'news/{-filename}',
-            'sort' => ['-publishedDate','title'],
+            'sort' => ['-publishedDate', 'title'],
             'extends' => '_layouts.post',
             'section' => 'postContent',
             'isPost' => true,
             'comments' => false,
             'tags' => [],
             'show_in_slider' => true,
-            'test' => function($page, $limit = 200, $end = '...') {
+            'test' => function ($page, $limit = 200, $end = '...') {
                 return $page->isPost
                     ? ($page->short ?? str_limit_soft(content_sanitize($page->getContent()), $limit, $end))
                     : null;
             },
-            'publishedDate' => function($page) {
+            'publishedDate' => function ($page) {
                 return $page->news_author["date"] ?? $page->date;
             }
         ],
@@ -353,20 +351,20 @@ return [
     'imageCdn' => function ($page, $path) {
         return "https://res.cloudinary.com/{$page->services->cloudinary}/{$path}";
     },
-    'featureImageSrc' => function($page, $item=null) {
-        if(!$item) $item=$page;
+    'featureImageSrc' => function ($page, $item = null) {
+        if (!$item) $item = $page;
         return $item->feature_image["image"] ?: $item->image ?: '';
     },
-    'featureImageDescription' => function($page, $item=null) {
-        if(!$item) $item=$page;
+    'featureImageDescription' => function ($page, $item = null) {
+        if (!$item) $item = $page;
         return $item->feature_image["description"] ?: $item->image_title;
     },
-    'featureImageAlt' => function($page, $item=null) {
-        if(!$item) $item=$page;
+    'featureImageAlt' => function ($page, $item = null) {
+        if (!$item) $item = $page;
         return $item->feature_image["alt"] ?: $item->image_alt;
     },
-    'featureImageCredit' => function($page, $item=null) {
-        if(!$item) $item=$page;
+    'featureImageCredit' => function ($page, $item = null) {
+        if (!$item) $item = $page;
         return $item->feature_image["credit"] ?: $item->image_credit;
     },
 ];
