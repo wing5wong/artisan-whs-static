@@ -2,7 +2,7 @@
     @if($block['heading'])
         <h3>{{ $block['heading'] }}</h3>
     @endif
-    @if($block["content"])
+    @if(isset($block["content"]))
         {!! (new Parsedown)->text($block["content"]) !!}
     @endif
 
