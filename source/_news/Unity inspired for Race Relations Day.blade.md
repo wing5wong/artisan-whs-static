@@ -7,7 +7,7 @@ feature_image:
   description: "Some of the participants after the Holi ritual - Nikita, Zach and
     Jacqueline. "
 news_author:
-  date: 2020-06-25T00:34:55.711Z
+  date: 2019-03-20T23:34:55.711Z
 image_gallery: null
 description: Unity inspired for Race Relations Day. Some of the participants
   after the Holi ritual - Nikita, Zach and Jacqueline...
