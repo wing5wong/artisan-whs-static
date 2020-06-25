@@ -16,7 +16,7 @@ image_gallery:
 show_in_slider: false
 date: 2020-06-09T00:56:06.515Z
 ---
-**WHS year 10 student, Alyssa Hartley has scored the starring role as Ariel in the Manawatu Youth Theatre's production of 'The Little Mermaid'.**
+**WHS year 10 student, Alyssa Hartley has scored the starring role as Ariel in the Manawatu Youth Theatre's production of 'The Little Mermaid' playing at the Globe Theatre in Palmerston North.**
 
 .. And just in time for the School Holidays!
 
