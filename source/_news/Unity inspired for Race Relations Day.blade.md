@@ -4,6 +4,8 @@ excerpt: Unity inspired for Race Relations Day. Some of the participants after
 title: Unity inspired for Race Relations Day
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593045514/News/Nikita_Moorhouse_RCP_21.3.19.jpg
+  description: "Some of the participants after the Holi ritual - Nikita, Zach and
+    Jacqueline. "
 news_author:
   date: 2020-06-25T00:34:55.711Z
 image_gallery: null
