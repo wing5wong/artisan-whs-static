@@ -11,5 +11,7 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
 course_fees: $75
+ue_approved: Yes
+endorsement: Yes
 ---
 Students are invited to challenge the attitudes and beliefs surrounding a nutritional issue of the time. They consider influence of multinational companies and their power to influence our eating patterns and the ethics involved in this.

@@ -12,7 +12,7 @@ leads_to: ''
 ---
 **Purpose:**
 
-To develop students understanding of Technology in a fashion design environment. They will have the opportunity to learn and develop their practical skills while completing creative solutions to given design tasks.
+To develop students understanding of Technology in a fashion design environment. They will have the opportunity to learn and develop their practical skills while completing creative solutions to given tasks.
 
 **Content:**
 

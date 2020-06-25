@@ -16,7 +16,7 @@ This course teaches drawing skills and design processes. Students will learn new
 
 **Content:**
 
-2D and 3D freehand sketching skills. Instrumental drawing techniques including orthographic projection and pictorial drawing. Application of design processes and use of colour. Students will also have the opportunity to use CAD and 3D printing.
+2D and 3D freehand sketching skills. Instrumental drawing techniques including orthographic projection and paraline drawing. Application of design processes and use of colour. Students will also have the opportunity to use CAD and 3D printing.
 
 **Assessment:**
 

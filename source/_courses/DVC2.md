@@ -10,6 +10,7 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
+endorsement: Yes
 leads_to:
   - DVC3
 ---
