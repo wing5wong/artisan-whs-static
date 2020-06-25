@@ -2,8 +2,8 @@
 title: Castlecliff Coast Care ‘showing off’ their Trophy
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593037671/News/Margot_Bennett_teacher_students._RCP_18.6.20.jpg
-  description: High School students Fynn, Shiori, Sophie and Timon with teacher,
-    Margot, who is holding the trophy.
+  description: Whanganui High School International students Fynn, Shiori, Sophie
+    and Timon with teacher, Margot, who is holding the trophy.
 news_author:
   date: 2020-06-17T22:25:51.184Z
   publication: River City Press
