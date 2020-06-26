@@ -10,7 +10,6 @@ news_author:
   publication: Whanganui Chronicle
   name: Mike Tweed
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592975910/News/Ra_Costello_ex._chron_24.6.20_photo_supplied.snip.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592975127/News/Ra_Costello_ex._video_with_city_college.chron_24.6.20_photo_Polished_media.jpg
     description: The video for "Living a Lie" was made with Whanganui City College's
       Aotea Empire.  Photo / Polished Media.
