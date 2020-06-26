@@ -1,7 +1,7 @@
 ---
 title: "WHS Cross Country "
 date: 2020-06-29T20:41:17.108Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592187005/Events/crosscountry_LOGO.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593142577/News/cross_country_2019.jpg
 ---
 **WHS Cross Country this year is on Tuesday 30 June.**
 
