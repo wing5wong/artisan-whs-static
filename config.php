@@ -258,10 +258,15 @@ return [
             'comments' => true,
             'tags' => [],
         ],
+        'galleries' => [
+            'path' => 'galleries/{filename}',
+            'sort' => 'faculty',
+            'extends' => '_layouts.gallery',
+            'section' => 'postContent'
+        ],
         'honours' => [
             'sort' => ['award', '-date']
         ],
-
         'prizegiving_booklets' => ['sort' => '-date'],
         'achievers_lists' => ['sort' => '-date'],
         'testimonials',
