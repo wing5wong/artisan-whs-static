@@ -16,14 +16,6 @@ You will be released from there to go home.
 Any questions see Mrs Murphy in Te Wehi Gym office.
 
 
-Below are the grades.
-
-* Year 9 Girls and Boys  
-* Junior Girls and Boys  
-* Senior Girls and Boys
-
-(Sign ups closed Friday, 19 June).  
-
 
 
 
