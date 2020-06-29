@@ -1,7 +1,7 @@
 ---
 title: Tours of Whanganui High School
 date: 2020-06-30T03:35:54.501Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574907236/Events/GREEN_WHS_HEADER.jpg
 ---
 ⭐️ Tours of Whanganui High School ⭐️
 
