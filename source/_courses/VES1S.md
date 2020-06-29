@@ -11,7 +11,8 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard
-leads_to: 
+leads_to:
+  - VES2
 notes: 'Leads to: Vocational Studies 2 and Vocational Studies 3'
 ---
 

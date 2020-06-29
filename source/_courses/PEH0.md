@@ -8,7 +8,8 @@ year: '10'
 type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-leads_to: ''
+leads_to:
+  - PED1
 entry_requirements: Satisfactory completion of PEHE course.
 ---
 **Purpose:** 

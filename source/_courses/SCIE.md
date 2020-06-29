@@ -10,6 +10,8 @@ course_duration: Full Year
 course_level: Year 9
 leads_to: ''
 invitation only: Yes
+leads_to:
+  - SCI0
 ---
 **Purpose:**
 

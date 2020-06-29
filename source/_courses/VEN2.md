@@ -11,7 +11,8 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-leads_to: ''
+leads_to:
+  - VEN3
 invitation_only: true
 ---
 

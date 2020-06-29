@@ -11,10 +11,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-leads_to: >-
-  There are 5 compulsory Vocational Studies subjects, they are; English,
-  Mathematics, Food Technology, Health and Employment Skills. Students choose 1
-  other option subject to make up the 6 lines.
 notes: >-
   There are 5 compulsory Vocational Studies subjects, they are; English/Life
   Skills, Mathematics, Food Technology, Health and Employment Skills. Students

@@ -17,7 +17,6 @@ leads_to:
 notes: >-
   Students taking this course need a reasonable standard of literacy. Much of
   the work involves writing or interpreting statistical reports.
-credits: '17'
 course_fees: Students need a Graphics calculator for this course.
 endorsement: Yes
 ---

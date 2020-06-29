@@ -8,7 +8,8 @@ year: '9'
 type: Optional
 course_duration: One Term
 course_level: Year 9
-leads_to: ''
+leads_to:
+  - MUS0
 ---
 **Purpose:**
 

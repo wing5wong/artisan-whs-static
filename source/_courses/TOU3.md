@@ -9,7 +9,6 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
-leads_to: Work in the tourism industry or further study in Tourism
 course_fees: A laptop is beneficial
 ---
 This course will be beneficial for students who are wishing to work in New Zealand's biggest industry (tourism) or work in a tourism related environment. Students study the benefit and impacts of tourism and also all about NZ and Pacific Islands as visitor destinations. If students choose to complete Level 2 & 3, they will be eligible for a Certificate in Tourism.
