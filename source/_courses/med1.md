@@ -12,9 +12,7 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - ENG2
-notes: >-
-  Level 1 Media Studies may not be selected in combination with Level 1 English.
-  Leads to: ENG2 or Media Studies L1 depending on numbers. 
+notes: Level 1 Media Studies may not be selected in combination with Level 1 English.
 endorsement: Yes
 ---
 Media Studies challenges and empowers students to analyse and interpret media content and to become more informed and think critically about the media and its role in everyday life.
