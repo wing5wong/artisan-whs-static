@@ -9,9 +9,9 @@ For Parents and Year 8 students who are intending to come to Whanganui High Scho
 
 Days and times of Tours this week:
 
-• 9.15 am tours on Monday, Tuesday, Wednesday and Thursday – finishing at 10.00 am\
-• 4.00 pm tours on Wednesday and Thursday – finishing at 4.45 pm\
-• Visitors assemble outside the main reception office (by the main carpark)\
+• 9.15 am tours on Monday, Tuesday, Wednesday and Thursday – finishing at 10.00 am  
+• 4.00 pm tours on Wednesday and Thursday – finishing at 4.45 pm  
+• Visitors assemble outside the main reception office (by the main carpark)  
 • Park on the road
 
 **For logistical purposes, please let us know which day and time you wish to visit by phoning our Main Office on 06 349 0178.** ☎️
