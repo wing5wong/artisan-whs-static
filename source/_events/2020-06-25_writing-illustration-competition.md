@@ -1,6 +1,6 @@
 ---
 title: Writing/Illustration Competition
-date: 2020-07-01T21:10:47.018Z
+date: 2020-07-06T21:10:47.018Z
 ---
 Community Prefects Covid19 Writing/Illustration Competition:  
 
