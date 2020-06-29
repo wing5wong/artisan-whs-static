@@ -1,8 +1,8 @@
 ---
-title: Taking Enrolments for 2021 - watch Virtual Tour of School
+title: "Taking Enrolments for 2021 - Due this Friday, 3 July "
 is_emergency: false
 date: 2020-06-14T23:49:15.297Z
-subtitle: Enrolments due by Friday 3 July 2020
+subtitle: View Virtual Tour of School
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592179434/News/new_flyer_2020_updated.jpg
 ---
 **Whanganui High School 2021 Enrolment Applications are due by Friday 3 July 2020.**
