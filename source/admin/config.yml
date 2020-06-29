@@ -170,6 +170,25 @@ collections:
       - { label: "Intro", name: "intro", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
 
+  - name: "galleries"
+    label: "Galleries"
+    label_singular: "Gallery"
+    folder: "source/_galleries"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Faculty", name: faculty, required: false, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - label: "Image Gallery"
+        name: "image_gallery"
+        widget: "list"
+        fields:
+          - { label: "Image Filename", name: "image", widget: "image", required: false }
+          - { label: "Image Description", name: "description", widget: "string", required: false }
+          - { label: "Image Alt Text", name: "alt", widget: "string", required: false }
+          - { label: "Image Credit", name: "credit", widget: "string", required: false }
+            
 
   - name: "facilities"
     label: "Facilities"
