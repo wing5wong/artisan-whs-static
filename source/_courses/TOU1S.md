@@ -14,6 +14,6 @@ leads_to:
   - TOU2
   - SOC2
 notes: Suited to middle to lower ability students.
-course_fees: '$40, plus a field trip to Adrenalin Forest Wellington'
+course_fees: 'Optional field trip to Adrenalin Forest Wellington'
 ---
 The purpose of this course is to introduce students to the Tourism industry. Students will gain an understanding of Tourism New Zealand and the wider global industry. This exciting course, aimed at middle to lower students, gives learners the chance to understand and explore all about the growing nature of travel and Tourism.

@@ -22,7 +22,7 @@ notes: >-
   the Cambridge AS exam). Students taking this course are encouraged to also
   take MCA2. Endorsement if taken with MCA2.
 course_fees: >-
-  Cambridge Examination Fee. Students need a Graphics calculator for this
+  $135 Cambridge Examination Fee. Students need a Graphics calculator for this
   course.
 endorsement: Yes
 ---

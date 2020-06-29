@@ -14,7 +14,7 @@ leads_to:
   - GEO3
 course_fees: >-
   Field Trips (Kapiti Coast - no charge / Optional Gold Coast Trip (approx $2300) or if the Gold Coast Trip does not run, Optional Mt Maunganui Trip -
-  $450
+  (Approx $450)
 ue_approved: true
 endorsement: Yes
 ---

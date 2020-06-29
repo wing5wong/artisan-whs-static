@@ -8,7 +8,8 @@ year: '10'
 type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-leads_to: ''
+leads_to:
+  - ENE1
 entry_requirements: At least 75% in the Year 9 examination as well as teacher recommendation.
 ---
 **Purpose:**

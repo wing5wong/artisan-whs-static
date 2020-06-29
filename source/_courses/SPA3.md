@@ -11,8 +11,7 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 course_fees: >-
-  Own bi-lingual dictionary an advantage. $20 for online vocabulary learning and
-  workbooks.
+  Own bi-lingual dictionary is an advantage.
 ue_approved: Yes
 endorsed: Yes
 ---

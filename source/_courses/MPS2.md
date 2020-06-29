@@ -18,7 +18,7 @@ notes: >-
   Students taking this course need a reasonable standard of literacy. Much of
   the work involves writing or interpreting statistical reports.
 credits: '17'
-course_fees: $10 workbook. Students need a Graphics calculator for this course.
+course_fees: Students need a Graphics calculator for this course.
 endorsement: Yes
 ---
 This course will offer students the chance to develop an understanding in a wider range of statistical topics. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MPS3, MTA3. Topics studied include: Probability, Simulations, Statistical Reports, Inferences and Simultaneous Equations.

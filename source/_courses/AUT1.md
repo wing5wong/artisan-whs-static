@@ -15,6 +15,6 @@ assessment_type: Unit Standard
 leads_to:
   - AUT2
 notes: Can lead to a National Certificate of Entry Automotive Trades.
-course_fees: $25
+course_fees:
 ---
 To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training.

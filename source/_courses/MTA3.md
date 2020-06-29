@@ -13,7 +13,7 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 notes: ' 1. Students need a graphics calculator for this course; 2. Students wishing to do scholarship statistics must take MPS3 and MTA3; 3. Students wishing to do Scholarship Calculus must take MTA3 and MGC3.'
-course_fees: Workbook - $10
+course_fees:
 ue_approved: true
 endorsement: Yes
 ---

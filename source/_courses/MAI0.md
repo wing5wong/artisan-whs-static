@@ -8,7 +8,8 @@ year: '10'
 type: Compulsory
 course_duration: Full Year
 course_level: Year 10
-leads_to: ''
+leads_to:
+  - MAI1
 entry_requirements: Satisfactory completion of a Year 9 Mathematics course.
 ---
 **Purpose:**

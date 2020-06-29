@@ -13,14 +13,6 @@ assessment_type: Achievement and Unit Standard
 leads_to:
   - TOU2
   - SOC2
-standards:
-  - '17383'
-  - '23761'
-  - '24726'
-  - '24727'
-  - '24732'
-  - '91009'
-  - '91012'
 notes: Suited to middle to lower ability students.
 course_fees: '$40, plus a field trip to Adrenalin Forest Wellington'
 ---

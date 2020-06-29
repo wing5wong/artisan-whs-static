@@ -8,7 +8,8 @@ year: '9'
 type: Compulsory
 course_duration: Full Year
 course_level: Year 9
-leads_to: ''
+leads_to:
+  - MAT0
 ---
 **Purpose:**
 

@@ -11,6 +11,6 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - DAN2
-course_fees: $10 for portfolio
+course_fees:
 ---
 To develop a variety of skills in dance forms. Students will participate in dance choreography and performance developing their knowledge and confidence in both areas.

@@ -10,7 +10,7 @@ type: Optional
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
-course_fees: $25
+course_fees:
 ue_approved: true
 ---
 The course aims to develop students' Design and Visual Communication ability by solving problems through Design, Modelling and advanced Graphic Communication skills. The course is structured around Design Briefs focusing on Spatial and Product Design. Students will have the opportunity to use CAD and 3D printing.

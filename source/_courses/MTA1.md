@@ -15,8 +15,8 @@ leads_to:
   - MCA2
   - MCS2
 course_fees: >-
-  $10 workbook. (Students are strongly advised to have a Graphics calculator for
-  this course).
+  Students are strongly advised to have a Graphics calculator for
+  this course.
 notes: >-
   1. This course is provided for students with a strong understanding of
   Mathematics. 2. Algebra standard 91027 is a non-calculator standard. Although

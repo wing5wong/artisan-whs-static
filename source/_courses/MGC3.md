@@ -13,7 +13,7 @@ assessment_type: Achievement Standard
 notes: >-
   1. Students need a graphics calculator for this course. 2. Students wanting to
   do scholarship calculus must take MTA3 and MGC3
-course_fees: Workbook - $15
+course_fees:
 ue_approved: true
 ---
 To improve the skills of analysis and problem solving for students who are likely to study mathematics, technical subjects or the physical sciences at a tertiary level. Expressing real life problems involving rates of change, area and volumes in mathematical terms and using the skills studied to solve these problems.

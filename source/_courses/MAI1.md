@@ -13,6 +13,6 @@ leads_to:
   - MAG1
   - MAI2
   - MAG3
-course_fees: $10 Workbook
+course_fees:
 ---
 To provide a balanced Mathematics programme to students for whom a formal academic programme is not suited. This course is completely internally assessed. Topics covered; Number, Statistics, Probability, Measurement, Geometry, Constructions and Drawings.

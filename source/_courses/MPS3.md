@@ -15,7 +15,7 @@ notes: >-
   this course need a reasonable standard of literacy. Most of the work involves
   writing or interpreting statistical reports and related information; 3.
   Students wanting to take scholarship Statistics must take MPS3 and MTA3.
-course_fees: $15 workbook
+course_fees:
 ue_approved: true
 endorsement: Yes
 ---

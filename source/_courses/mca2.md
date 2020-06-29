@@ -22,7 +22,7 @@ notes: >-
   Cambridge AS exam). Students taking this course are encouraged to also take
   MCS2. Endorsement if taken with MCS2.
 course_fees: >-
-  Cambridge Examination Fee. Students need a Graphics calculator for this
+  $135 Cambridge Examination Fee. Students need a Graphics calculator for this
   course.
 endorsement: Yes
 ---

@@ -13,8 +13,7 @@ leads_to:
   - MAG2
   - MTA2
   - MPS2
-course_fees: >-
-  $10 Workbook. Students are advised to have a Graphics calculator for this
+course_fees: Students are advised to have a Graphics calculator for this
   course.
 notes: >-
   Maximum of two Mathematics course in Year 12. Achievement in the external

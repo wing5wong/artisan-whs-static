@@ -9,6 +9,7 @@ type: Optional
 course_duration: Half Year
 course_level: Year 10
 leads_to: ''
+course_fees: $30 for take-home component
 ---
 **Purpose:**
 

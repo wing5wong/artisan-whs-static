@@ -8,7 +8,9 @@ year: '9'
 type: Optional
 course_duration: One Term
 course_level: Year 9
-leads_to: ''
+leads_to:
+  - FDZ0
+course_fees: $15 for take-home component
 ---
 **Purpose:**
 

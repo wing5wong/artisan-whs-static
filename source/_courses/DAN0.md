@@ -8,7 +8,8 @@ year: '10'
 type: Optional
 course_duration: Half Year
 course_level: Year 10
-leads_to: ''
+leads_to:
+  - DAN1
 ---
 **Purpose:**
 

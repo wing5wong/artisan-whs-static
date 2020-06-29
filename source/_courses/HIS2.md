@@ -14,7 +14,7 @@ assessment_type: Achievement Standard
 leads_to:
   - HIS3
   - CLS3
-course_fees: Field trip
+course_fees: Field trip - No charge
 endorsement: Yes
 ---
 To develop in students the ability to enter imaginatively into the events of the past. To develop skills of enquiry. To further students understanding of major forces shaping the modern world. To develop in students a deeper understanding of themselves as New Zealanders. To foster a deeper understanding of other peoples. One theme; International Relations in the Twentieth Century. Topics: Civil Rights, New Zealand at War plus one optional.

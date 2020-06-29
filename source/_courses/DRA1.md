@@ -11,6 +11,6 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - DRA2
-course_fees: $10
+course_fees:
 ---
 This course will offer students the chance to develop a wide range of personal and performance skills through the processes of drama. Students will complete units of work that will involve them creating, performing and reflecting on drama.

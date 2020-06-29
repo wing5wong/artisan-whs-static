@@ -15,7 +15,6 @@ leads_to:
 notes: >-
   Level 1 Media Studies may not be selected in combination with Level 1 English.
   Leads to: ENG2 or Media Studies L1 depending on numbers. 
-credits: 18-23
 endorsement: Yes
 ---
 Media Studies challenges and empowers students to analyse and interpret media content and to become more informed and think critically about the media and its role in everyday life.

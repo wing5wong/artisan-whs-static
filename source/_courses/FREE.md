@@ -8,7 +8,9 @@ year: '9'
 type: Optional
 course_duration: 5 Week Introduction Plus 20 Week Course If Selected
 course_level: Year 9
-leads_to: ''
+leads_to:
+  - FR10
+  - FR20
 ---
 **Purpose:**
 

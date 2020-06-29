@@ -8,7 +8,8 @@ year: '9'
 type: Core
 course_duration: Half Year
 course_level: Year 9
-leads_to: ''
+leads_to:
+  - DTG0
 ---
 **Purpose:**
 
