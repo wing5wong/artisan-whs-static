@@ -13,3 +13,5 @@ Entries should be about experiences during Lockdown.
 Entries must be handed into the Student Centre by 21 July. 
 
 Winners (Junior and Senior) will receive prize hampers of Vouchers and Treats.
+
+Any queries contact Ara:  molijn.a.16147@whs.ac.nz
