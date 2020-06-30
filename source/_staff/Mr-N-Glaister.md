@@ -6,4 +6,5 @@ departments:
 positions:
   - title: Head of Physics
     department: Sciences
+email: glaister.n@whs.ac.nz
 ---
