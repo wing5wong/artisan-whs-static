@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Sciences
     title: HOF Science
+email: crook.m@whs.ac.nz
 ---
