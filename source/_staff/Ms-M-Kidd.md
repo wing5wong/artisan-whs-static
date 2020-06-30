@@ -1,9 +1,10 @@
 ---
 title: Ms M. Kidd
-position: Joint Canteen Manager
+position: Canteen - Joint Manager
 departments:
   - Support and Ancillary
 positions:
   - department: Support and Ancillary
-    title: Joint Canteen Manager
+    title: Canteen - Joint Manager
+email: canteen@whs.ac.nz
 ---

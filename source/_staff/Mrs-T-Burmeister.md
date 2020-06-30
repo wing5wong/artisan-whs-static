@@ -1,6 +1,7 @@
 ---
 title: Mrs T. Burmeister
-position: 
+position: null
 departments:
   - Technology
+email: burmeister.t@whs.ac.nz
 ---

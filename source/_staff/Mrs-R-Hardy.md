@@ -7,5 +7,5 @@ departments:
 positions:
   - department: Deans
     title: PB4L Co-ordinator
+email: hardy.r@whs.ac.nz
 ---
-

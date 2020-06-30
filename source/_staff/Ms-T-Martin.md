@@ -1,6 +1,7 @@
 ---
 title: Ms T. Martin
-position: 
+position: null
 departments:
   - English
+email: martin.t@whs.ac.nz
 ---
