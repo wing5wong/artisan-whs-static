@@ -6,4 +6,5 @@ departments:
 positions:
   - title: Head of Building & Construction
     department: Technology
+email: morgan.k@whs.ac.nz
 ---
