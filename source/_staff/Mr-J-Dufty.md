@@ -1,6 +1,7 @@
 ---
 title: Mr J. Dufty
-position: 
+position: null
 departments:
   - Technology
+email: dufty.j@whs.ac.nz
 ---
