@@ -7,5 +7,5 @@ departments:
 positions:
   - department: Social Sciences
     title: Head of Classics
+email: peak.c@whs.ac.nz
 ---
-
