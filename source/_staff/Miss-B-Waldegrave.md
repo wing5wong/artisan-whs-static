@@ -6,4 +6,5 @@ departments:
 positions:
   - title: Head of Social Studies
     department: Social Sciences
+email: waldegrave.b@whs.ac.nz
 ---
