@@ -9,5 +9,5 @@ positions:
   - title: Head of Dance
     department: The Arts
 phone: null
-email: null
+email: campbell.n@whs.ac.nz
 ---
