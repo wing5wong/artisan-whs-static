@@ -6,4 +6,5 @@ departments:
 positions:
   - title: Head of Automotive
     department: Technology
+email: spencer.b@whs.ac.nz
 ---
