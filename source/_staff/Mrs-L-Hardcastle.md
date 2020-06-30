@@ -7,5 +7,5 @@ departments:
 positions:
   - department: Technology
     title: Head of Food Technology
+email: hardcastle.l@whs.ac.nz
 ---
-
