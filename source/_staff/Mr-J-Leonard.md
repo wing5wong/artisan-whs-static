@@ -7,5 +7,5 @@ departments:
 positions:
   - department: Deans
     title: Dean of Maunga House
+email: leonard.j@whs.ac.nz
 ---
-
