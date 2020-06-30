@@ -1,11 +1,11 @@
 ---
 title: Mr S. Brown
-position: ''
+position: ""
 departments:
   - Physical Education and Health
 positions:
   - department: Physical Education and Health
     title: (on leave)
-phone: ''
+phone: ""
+email: brown.s@whs.ac.nz
 ---
-
