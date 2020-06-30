@@ -7,4 +7,5 @@ departments:
 positions:
   - department: Deans
     title: Dean of Moana House
+email: wilson.h@whs.ac.nz
 ---
