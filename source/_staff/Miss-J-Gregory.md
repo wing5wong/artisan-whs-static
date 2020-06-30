@@ -6,5 +6,5 @@ departments:
 positions:
   - department: Vocational Studies
     title: Employment Co-ordinator
+email: gregory.j@whs.ac.nz
 ---
-
