@@ -6,5 +6,5 @@ departments:
 positions:
   - department: Support and Ancillary
     title: Administration - Main Office
+email: office@whs.ac.nz
 ---
-

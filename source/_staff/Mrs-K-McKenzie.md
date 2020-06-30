@@ -6,5 +6,5 @@ departments:
 positions:
   - department: Learning Support Centre
     title: Lead Teacher Aide
+email: mckenzie.k@whs.ac.nz
 ---
-

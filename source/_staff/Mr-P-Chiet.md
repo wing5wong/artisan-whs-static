@@ -1,6 +1,7 @@
 ---
 title: Mr P. Chiet
-position: 
+position: null
 departments:
   - English
+email: chiet.p@whs.ac.nz
 ---

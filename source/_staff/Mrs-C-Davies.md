@@ -1,6 +1,7 @@
 ---
 title: Mrs C. Davies
-position: 
+position: null
 departments:
   - Sciences
+email: davies.c@whs.ac.nz
 ---

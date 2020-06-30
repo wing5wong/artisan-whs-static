@@ -1,6 +1,7 @@
 ---
 title: Mr S. Costelloe
-position: 
+position: null
 departments:
   - Sciences
+email: costelloe.s@whs.ac.nz
 ---
