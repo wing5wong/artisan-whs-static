@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Physical Education and Health
     title: Head of Outdoor Education
+email: barnett.j@whs.ac.nz
 ---
