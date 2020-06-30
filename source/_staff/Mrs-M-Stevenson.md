@@ -1,6 +1,7 @@
 ---
 title: Mrs M. Stevenson
-position: 
+position: null
 departments:
   - English
+email: stevenson.m@whs.ac.nz
 ---
