@@ -22,14 +22,14 @@
 
         <h3>{{$person->title}} <br>
             <small>{{$person->position}}</small></h3>
-            @if($member->phone or $member->email)
+            @if($person->phone or $person->email)
             <p>
-                @if($member->phone)
-                        <a href="tel:{{$member->phone}}">Call</a>
-                        @if($member->email) | @endif
+                @if($person->phone)
+                        <a href="tel:{{$person->phone}}">Call</a>
+                        @if($person->email) | @endif
                     @endif
-                    @if($member->email)
-                        <a href="mailto:{{$member->email}}">Email</a>
+                    @if($person->email)
+                        <a href="mailto:{{$person->email}}">Email</a>
                     @endif
             </p>
             @endif
