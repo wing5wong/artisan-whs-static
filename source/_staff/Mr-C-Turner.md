@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Sciences
     title: Head of Electronics
+email: turner.c@whs.ac.nz
 ---
