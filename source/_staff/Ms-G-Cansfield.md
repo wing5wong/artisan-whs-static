@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Learning Support Centre
     title: Head of Learning Support Centre
+email: cansfield.g@whs.ac.nz
 ---
