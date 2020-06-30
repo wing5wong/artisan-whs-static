@@ -6,4 +6,5 @@ departments:
 positions:
   - department: English
     title: HOF English
+email: kasner.v@whs.ac.nz
 ---
