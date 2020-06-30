@@ -9,4 +9,5 @@ positions:
     title: HOF Digital Technology
   - department: Study Options
     title: Timetabling
+email: dunn.c@whs.ac.nz
 ---
