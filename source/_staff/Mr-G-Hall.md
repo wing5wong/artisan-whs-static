@@ -8,4 +8,5 @@ positions:
     title: Assistant HOF Performing & Visual Arts
   - title: Head of Visual Arts
     department: The Arts
+email: hall.g@whs.ac.nz
 ---
