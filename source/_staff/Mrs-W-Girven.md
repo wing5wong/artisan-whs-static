@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Te Atawhai / Special Needs
     title: Head of Te Atawhai Unit
+email: girven.w@whs.ac.nz
 ---
