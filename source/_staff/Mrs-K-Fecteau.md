@@ -7,4 +7,5 @@ departments:
 positions:
   - title: Head of Fashion Design
     department: Technology
+email: fecteau.k@whs.ac.nz
 ---
