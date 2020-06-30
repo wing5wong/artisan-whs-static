@@ -6,5 +6,5 @@ departments:
 positions:
   - department: Physical Education and Health
     title: Head of Health
+email: bennetts.m@whs.ac.nz
 ---
-
