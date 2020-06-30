@@ -5,4 +5,5 @@ departments:
 positions:
   - department: Social Sciences
     title: Specialist Classroom Teacher
+email: ander.j@whs.ac.nz
 ---
