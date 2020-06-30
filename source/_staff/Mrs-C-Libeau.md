@@ -1,6 +1,7 @@
 ---
 title: Mrs C. Libeau
-position: 
+position: null
 departments:
   - Social Sciences
+email: libeau.c@whs.ac.nz
 ---
