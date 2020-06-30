@@ -1,6 +1,7 @@
 ---
 title: Mr P. Coombs
-position: 
+position: null
 departments:
   - Mathematics
+email: coombs.p@whs.ac.nz
 ---
