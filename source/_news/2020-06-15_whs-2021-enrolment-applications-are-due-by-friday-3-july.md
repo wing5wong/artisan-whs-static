@@ -1,5 +1,5 @@
 ---
-title: Taking Enrolments for 2021 - watch Virtual Tour of School
+title: Taking Enrolments for 2021 - View Virtual Tour of School
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592179434/News/new_flyer_2020_updated.jpg
 news_author:
