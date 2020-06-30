@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Sciences
     title: Head of Biology
+email: frost.s@whs.ac.nz
 ---
