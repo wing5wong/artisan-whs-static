@@ -66,7 +66,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                     <a href="tel:{{$member->phone}}">Call</a>
                 @endif
                 @if($member->email)
-                    <a href="tel:{{$member->email}}">Email</a>
+                    <a href="mailto:{{$member->email}}">Email</a>
                 @endif
             </td>
         </tr>
@@ -86,7 +86,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                         <a href="tel:{{$member->phone}}">Call</a>
                     @endif
                     @if($member->email)
-                        <a href="tel:{{$member->email}}">Email</a>
+                        <a href="mailto:{{$member->email}}">Email</a>
                     @endif
                 </td>
         </tr>
