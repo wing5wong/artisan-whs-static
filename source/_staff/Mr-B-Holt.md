@@ -1,6 +1,7 @@
 ---
 title: Mr B. Holt
-position: 
+position: null
 departments:
   - The Arts
+email: holt.b@whs.ac.nz
 ---
