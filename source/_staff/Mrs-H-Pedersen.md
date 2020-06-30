@@ -1,6 +1,7 @@
 ---
 title: Mrs H. Pedersen
-position: 
+position: null
 departments:
   - Mathematics
+email: pedersen.h@whs.ac.nz
 ---
