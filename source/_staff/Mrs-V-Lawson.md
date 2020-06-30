@@ -1,6 +1,7 @@
 ---
 title: Mrs V. Lawson
-position: 
+position: null
 departments:
   - Sciences
+email: lawson.v@whs.ac.nz
 ---
