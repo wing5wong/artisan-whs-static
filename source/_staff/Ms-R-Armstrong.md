@@ -6,4 +6,5 @@ departments:
 positions:
   - department: The Arts
     title: Head of Drama
+email: armstrong.r@whs.ac.nz
 ---
