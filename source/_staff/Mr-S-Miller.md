@@ -1,6 +1,7 @@
 ---
 title: Mr S. Miller
-position: 
+position: null
 departments:
   - English
+email: miller.s@whs.ac.nz
 ---
