@@ -1,6 +1,6 @@
 ---
 title: Mrs D. Howard
-position: 'Head of Vocational Studies, External Education Co-ordinator'
+position: Head of Vocational Studies, External Education Co-ordinator
 departments:
   - Vocational Studies
 positions:
@@ -8,5 +8,5 @@ positions:
     title: Head of Vocational Studies
   - department: Vocational Studies
     title: External Education Co-ordinator
+email: howard.d@whs.ac.nz
 ---
-
