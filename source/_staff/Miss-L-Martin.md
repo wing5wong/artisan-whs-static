@@ -9,4 +9,5 @@ positions:
     title: Dean of Whenua House
   - department: Physical Education and Health
     title: HOF Physical Education and Health
+email: martin.l@whs.ac.nz
 ---
