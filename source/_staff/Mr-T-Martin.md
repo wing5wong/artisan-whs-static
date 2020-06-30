@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Support and Ancillary
     title: Property Manager
+email: martin.terry@whs.ac.nz
 ---
