@@ -8,4 +8,5 @@ positions:
     title: Assistant HOF Science
   - department: Sciences
     title: Head of Chemistry
+email: thomas.i@whs.ac.nz
 ---
