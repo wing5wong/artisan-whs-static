@@ -1,8 +1,9 @@
 ---
 title: Mr J. Sullenberger
-position: 
+position: null
 departments:
   - Sciences
   - Technology
   - Digital Technology
+email: sullenberger.j@whs.ac.nz
 ---
