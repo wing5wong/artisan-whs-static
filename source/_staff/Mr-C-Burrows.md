@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Mathematics
     title: Assistant HOF Mathematics
+email: burrows.c@whs.ac.nz
 ---
