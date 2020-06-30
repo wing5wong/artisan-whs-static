@@ -10,5 +10,5 @@ positions:
     title: Teacher of Māori
   - department: Deans
     title: Dean of Māori Students (acting)
+email: pauro.t@whs.ac.nz
 ---
-
