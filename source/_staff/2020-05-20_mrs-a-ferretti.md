@@ -8,4 +8,5 @@ positions:
     department: Languages
   - department: Languages
     title: Teacher of French/Spanish
+email: ferretti.a@whs.ac.nz
 ---
