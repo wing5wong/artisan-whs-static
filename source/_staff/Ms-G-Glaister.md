@@ -1,6 +1,7 @@
 ---
 title: Ms G. Glaister
-position: 
+position: null
 departments:
   - Sciences
+email: glaister.g@whs.ac.nz
 ---
