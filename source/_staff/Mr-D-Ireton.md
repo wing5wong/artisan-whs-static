@@ -6,4 +6,5 @@ departments:
 positions:
   - title: Head of Economics
     department: Social Sciences
+email: ireton.d@whs.ac.nz
 ---
