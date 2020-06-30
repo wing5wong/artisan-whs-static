@@ -8,4 +8,5 @@ positions:
     title: HOF Technology
   - department: Technology
     title: Head of Fine Furniture + Design & Visual Communication
+email: adam.c@whs.ac.nz
 ---
