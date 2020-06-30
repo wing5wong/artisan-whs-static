@@ -8,4 +8,5 @@ positions:
     department: Social Sciences
   - department: Social Sciences
     title: Head of Geography
+email: hunter.b@whs.ac.nz
 ---
