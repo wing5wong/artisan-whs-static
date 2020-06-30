@@ -6,5 +6,6 @@ departments:
 positions:
   - department: Support and Ancillary
     title: Library
-phone: library@whs.ac.nz
+phone: ""
+email: library@whs.ac.nz
 ---
