@@ -4,12 +4,11 @@
 <h1 class="decorated">{{ $page->title }}</h1>
 
 @if($page->image)
-    <a href="{{ $page->image }}"
-        @if($page->image_title) title="{{$page->image_title}}" @endif
-        @if($page->image_alt) alt="{{$page->image_alt}}" @endif
-        class="featured">
-        <img src="{{ $page->image }}" style="object-fit: cover; max-width:100%; display: block;">
-    </a>
+<a href="{{ $page->image }}" @if($page->image_title) title="{{$page->image_title}}" @endif
+    @if($page->image_alt) alt="{{$page->image_alt}}" @endif
+    class="featured">
+    <img src="{{ $page->image }}" style="object-fit: cover; max-width:100%; display: block;">
+</a>
 @endif
 
 @yield('postContent')
@@ -22,15 +21,24 @@
     <article class="col-sm-12 col-md-6 col-lg-4">
 
         <h3>{{$person->title}} <br>
-        <small>{{$person->position}}</small></h3>
+            <small>{{$person->position}}</small></h3>
+            @if($member->phone or $member->email)
+            <p>
+                @if($member->phone)
+                        <a href="tel:{{$member->phone}}">Call</a>
+                        @if($member->email) | @endif
+                    @endif
+                    @if($member->email)
+                        <a href="mailto:{{$member->email}}">Email</a>
+                    @endif
+            </p>
+            @endif
         <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $person->image)}}"
-        srcset="
+            srcset="
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400,h_360/", $person->image)}} 400w,
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $person->image)}} 250w
-        "
-        sizes="(min-width: 800px) 400px, 250px"
-        width="600" alt="{{$person->title}}" style="max-width: 100%">
-        
+        " sizes="(min-width: 800px) 400px, 250px" width="600" alt="{{$person->title}}" style="max-width: 100%">
+
 
     </article>
     @endforeach
@@ -38,8 +46,8 @@
 </div>
 @foreach($page->getTeachingFaculties($faculties)
 ->concat($page->getNonTeachingFaculties($faculties))
-->filter(function($f){ 
-    return $f->title !== "Senior Leadership Team";
+->filter(function($f){
+return $f->title !== "Senior Leadership Team";
 }) as $dept)
 
 @php
@@ -63,11 +71,12 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
             </td>
             <td>
                 @if($member->phone)
-                    <a href="tel:{{$member->phone}}">Call</a>
-                @endif
-                @if($member->email)
-                    <a href="mailto:{{$member->email}}">Email</a>
-                @endif
+                        <a href="tel:{{$member->phone}}">Call</a>
+                        @if($member->email) | @endif
+                    @endif
+                    @if($member->email)
+                        <a href="mailto:{{$member->email}}">Email</a>
+                    @endif
             </td>
         </tr>
         @endforeach
@@ -82,13 +91,14 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 @endforeach
             </td>
             <td>
-                    @if($member->phone)
-                        <a href="tel:{{$member->phone}}">Call</a>
-                    @endif
-                    @if($member->email)
-                        <a href="mailto:{{$member->email}}">Email</a>
-                    @endif
-                </td>
+                @if($member->phone)
+                <a href="tel:{{$member->phone}}">Call</a>
+                @if($member->email) | @endif
+                @endif
+                @if($member->email)
+                <a href="mailto:{{$member->email}}">Email</a>
+                @endif
+            </td>
         </tr>
         @endforeach
         @foreach($filteredStaff as $member)
@@ -102,14 +112,14 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 @endforeach
             </td>
             <td>
-                    @if($member->phone)
-                        <a href="tel:{{$member->phone}}">Call</a>
-                        @if($member->email) | @endif
-                    @endif
-                    @if($member->email)
-                        <a href="mailto:{{$member->email}}">Email</a>
-                    @endif
-                </td>
+                @if($member->phone)
+                <a href="tel:{{$member->phone}}">Call</a>
+                @if($member->email) | @endif
+                @endif
+                @if($member->email)
+                <a href="mailto:{{$member->email}}">Email</a>
+                @endif
+            </td>
         </tr>
         @endforeach
     </table>
