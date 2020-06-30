@@ -6,4 +6,5 @@ departments:
 positions:
   - department: Languages
     title: Head of Te Reo Māori
+email: henry.r@whs.ac.nz
 ---
