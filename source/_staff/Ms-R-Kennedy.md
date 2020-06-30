@@ -7,5 +7,5 @@ departments:
 positions:
   - department: Deans
     title: Dean of Whenua House
+email: kennedy.r@whs.ac.nz
 ---
-
