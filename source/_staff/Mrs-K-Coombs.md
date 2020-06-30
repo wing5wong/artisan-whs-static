@@ -6,4 +6,5 @@ departments:
 positions:
   - title: Head of Art Design
     department: The Arts
+email: coombs.k@whs.ac.nz
 ---
