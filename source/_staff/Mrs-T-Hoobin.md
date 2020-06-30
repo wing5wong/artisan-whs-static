@@ -7,6 +7,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1566173878/staff/T
 positions:
   - department: International
     title: International Administrator
+email: hoobin.t@whs.ac.nz
 ---
 I am originally from Whanganui but lived overseas for twelve years and have travelled extensively. I know what it is like to adjust to new cultures and ways of living. I returned with my Australian husband to raise our family in Whanganui as it offers a wonderful lifestyle. 
 
