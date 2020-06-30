@@ -8,4 +8,5 @@ positions:
     title: HOF Social Sciences
   - title: Head of Accounting + Tourism
     department: Social Sciences
+email: shepherd.j@whs.ac.nz
 ---
