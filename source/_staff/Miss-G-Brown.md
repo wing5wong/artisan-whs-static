@@ -8,5 +8,5 @@ departments:
 positions:
   - department: Deans
     title: Dean of Awa House
+email: brown.g@whs.ac.nz
 ---
-
