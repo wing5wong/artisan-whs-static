@@ -10,7 +10,7 @@ news_author:
   publication: Speech Competition Judges
   name: Miss Viles and Mr Chiet
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593572917/News/Y9_top_students_representing_their_classes.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593582382/News/Y9-top-students-representing-their-classes.jpg
     description: Top Year 9 speech students representing their classes.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593572953/News/Y10_top_students_representing_their_classes.jpg
     description: Top Year 10 speech students representing their classes.
