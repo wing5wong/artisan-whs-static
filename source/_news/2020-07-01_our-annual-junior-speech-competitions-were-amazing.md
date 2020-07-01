@@ -17,7 +17,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-07-01T02:16:38.767Z
 ---
-##### Today we had our annual Junior Speech Competition. 
+##### Today we had our annual Junior Speech Competition. 
 
 **Year 9 speeches had a 2-4 minute ‘How To’ topic.**  
 
