@@ -29,7 +29,7 @@ date: 2020-07-01T02:16:38.767Z
 
 **Year 10 speeches had a 3-5 minute topic on their ‘Taonga’ / 'Treasure'.**  
 
-* **1st, for the second year in a row Alyssa Hartley** controlled the stage and the audience giving us an exceptional insight into the 1st IV… years of life.  
+* **1st, for the second year in a row, Alyssa Hartley** controlled the stage and the audience giving us an exceptional insight into the first 15… years of life.  
 
 * **2nd Ela Robbins** had a very insightful speech on the importance of understanding our differences in perspectives.  
 
