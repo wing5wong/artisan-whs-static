@@ -11,7 +11,7 @@ date: 2020-07-01T22:17:41.735Z
 ---
 Whanganui Athletic Football Club (WAFC) players have been red-carded, but this time it’s all for fun and the revenue is going straight back to the club.
 
-Senior player and long-time club member, **Steve Burney** (ex WHS student), has created the club’s very own set of collectible trading cards, featuring current and past players of the club. The card’s predominant colour is red, in keeping with WAFC club colours.
+Senior player and long-time club member, **Steve Burney** (WHS old boy), has created the club’s very own set of collectible trading cards, featuring current and past players of the club. The card’s predominant colour is red, in keeping with WAFC club colours.
 
 The cards include the players’ name, shirt number, team name, position and attack and defense statistics. They should become a unique piece of club memorabilia, as well as providing an innovative fundraiser for the club.
 
