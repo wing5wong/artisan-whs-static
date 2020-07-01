@@ -23,5 +23,4 @@ And to Whanganui musicians and bands, young and old – there is a place on the 
 
 Enquiries to whanganuimusicians@gmail.com
 Friday, July 3, 65 Drews Ave. Music from 7.30pm.  
-
 Annual memberships at the door $30. Admission $10. Non members $15.
