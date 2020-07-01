@@ -26,7 +26,7 @@ The Manawatū-Whanganui Group will be chaired by Ruma Karaitiana who is also cha
 
 "Thanks to the Ministry of Business, Employment and Innovation support of data analysts, policy advisers and workforce specialists we will be able to further understand the impact that Covid-19 is having on jobs in our region, helping us to tailor the support needed at a local level."
 
-Whanganui & Partners staff member Hannah Kelly will be a member of the Manawatū/Whanganui group.
+Whanganui & Partners staff member **Hannah Kelly** will be a member of the Manawatū/Whanganui group.
 
 "The group will identify workforce and skills needs in our region and advise on how to meet these needs," Kelly said.
 
