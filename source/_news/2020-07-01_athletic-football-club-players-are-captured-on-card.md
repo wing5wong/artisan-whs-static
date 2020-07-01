@@ -1,5 +1,5 @@
 ---
-title: Athletic Football Club players are captured on card
+title: Athletic Football Club players are captured on collectible card
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593641880/News/Peter_Czerwonka_ex._RCP_25.6.20.jpg
   description: Example card of WHS old boy, Peter Czerwonka.
