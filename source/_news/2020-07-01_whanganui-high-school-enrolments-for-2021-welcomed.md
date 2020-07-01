@@ -1,5 +1,7 @@
 ---
 title: Whanganui High School - enrolments for 2021 welcomed
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593577509/News/Advert_used_in_RCP_on_25.6.20.jpg
 news_author:
   date: 2020-06-25T04:18:55.399Z
   publication: River City Press
