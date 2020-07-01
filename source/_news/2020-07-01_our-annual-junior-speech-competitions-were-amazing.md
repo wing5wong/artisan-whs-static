@@ -2,11 +2,13 @@
 title: Our Annual Junior Speech Competitions were amazing!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593572577/News/Y9-_-Y10-winners.jpg-try-again.jpg
-  description: Year 9 winners; Finnian Sinclair (3rd), Toby Clark (1st), Aarna
-    Marwah (2nd) & Year 10 winners; George Davey (3rd), Alyssa Hartley (1st),
-    Ela Robbins (2nd).
+  description: "L>R:  Year 9 winners; Finnian Sinclair (3rd), Toby Clark (1st),
+    Aarna Marwah (2nd) and Year 10 winners; George Davey (3rd), Alyssa Hartley
+    (1st), Ela Robbins (2nd)."
 news_author:
   date: 2020-07-01T02:16:38.746Z
+  publication: Speech Competition Judges
+  name: Miss Viles and Mr Chiet
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593572917/News/Y9_top_students_representing_their_classes.jpg
     description: Top Year 9 speech students representing their classes.
