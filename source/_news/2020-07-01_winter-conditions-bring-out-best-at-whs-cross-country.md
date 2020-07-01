@@ -37,16 +37,16 @@ He and Brewer took us right around the course (thankfully on a four-wheel-drive 
 
 New Zealand athletes can look forward to an exciting challenge in September.
 
-The Whanganui High School Cross Country. held on Tuesday at Springvale Park. was on a very different course. Organisers did well and made good use of all small undulations and turns and included a set of hurdles at an otherwise flat venue.
+**The Whanganui High School Cross Country. held on Tuesday at Springvale Park.** It was on a very different course. Organisers did well and made good use of all small undulations and turns and included a set of hurdles at an otherwise flat venue.
 
 Although the course was very different from Hawera, the cold, wet conditions were like those we faced inspecting the Hawera course and added a challenge to all competitors.
 
-The senior winners were Nat Kirk and Charlotte Baker. Baker followed in the footsteps of her older sister Rebecca, last year's senior girls winner who went on to her third top 10 New Zealand Schools place and her second New Zealand singlet. New Zealand Schools hurdle champion Maggie Jones was second with Renee Teers in third place.
+**The senior winners were Nat Kirk and Charlotte Baker.** Baker followed in the footsteps of her older sister Rebecca, last year's senior girls winner who went on to her third top 10 New Zealand Schools place and her second New Zealand singlet. New Zealand Schools hurdle champion **Maggie Jones was second with Renee Teers in third place.**
 
-The senior boys settled for an easy pace over the first two of the three laps. As in the Whanganui Collegiate Championships senior girls' race six days earlier (won by 400 metre runner Emma Osborne) the relatively easy pace suited the faster track runners so it was no surprise that Kirk, who was fifth as a Year 9 athlete at NZ Schools in 2018 and won the New Zealand Schools junior 300 metre hurdles in December, won the sprint for home, with Blair Gowan a worthy second and Flynn Johnston in third.
+The senior boys settled for an easy pace over the first two of the three laps. As in the Whanganui Collegiate Championships senior girls' race six days earlier (won by 400 metre runner Emma Osborne) the relatively easy pace suited the faster track runners so it was no surprise that Kirk, who was fifth as a Year 9 athlete at NZ Schools in 2018 and won the New Zealand Schools junior 300 metre hurdles in December, won the sprint for home, with **Blair Gowan a worthy second and Flynn Johnston in third.**
 
-Teressa Rennie won the Year 9 race from Estelle Murray and sister Carrie in third. They will form a formidable team for the Whanganui Schools Championships on August 17 for what could be a great team battle with the strong Nga Tawa and Collegiate combinations. Thomas Gowan impressed in the Year 9 boys winning from Damian Hodgson and Alistair Cameron.
+**Teressa Rennie won the Year 9 race from Estelle Murray and sister Carrie in third.** They will form a formidable team for the Whanganui Schools Championships on August 17 for what could be a great team battle with the strong Nga Tawa and Collegiate combinations. **Thomas Gowan impressed in the Year 9 boys winning from Damian Hodgson and Alistair Cameron.**
 
-Chardonnay Ross-Elvin took the junior girls (under 16) title from Rebekah Bayler and Macy Dobbie, while the junior boys' race was taken out by Chase Morpeth from Levi Hoekstra and Cade Knight.
+**Chardonnay Ross-Elvin took the junior girls (under 16) title from Rebekah Bayler and Macy Dobbie, while the junior boys' race was taken out by Chase Morpeth from Levi Hoekstra and Cade Knight.**
 
 Athletes have over 11 weeks to prepare for New Zealand Secondary Schools with Whanganui Schools on August 17 providing an excellent preparatory competition.
