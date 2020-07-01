@@ -1,7 +1,7 @@
 ---
 title: Historic building a haven for developing talent
 feature_image:
-  description: Te Paerata Tichbon is back in town with Bad Hagrid.
+  description: Former WHS student, Te Paerata Tichbon is back in town with Bad Hagrid.
   credit: Supplied
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593640903/News/Te_Paerata_Tichbon._Midweek_1.7.20.jpg
 news_author:
