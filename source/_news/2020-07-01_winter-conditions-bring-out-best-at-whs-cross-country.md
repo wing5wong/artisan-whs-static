@@ -37,7 +37,7 @@ He and Brewer took us right around the course (thankfully on a four-wheel-drive 
 
 New Zealand athletes can look forward to an exciting challenge in September.
 
-**The Whanganui High School Cross Country. held on Tuesday at Springvale Park.** It was on a very different course. Organisers did well and made good use of all small undulations and turns and included a set of hurdles at an otherwise flat venue.
+**The Whanganui High School Cross Country held on Tuesday at Springvale Park** was on a very different course. Organisers did well and made good use of all small undulations and turns and included a set of hurdles at an otherwise flat venue.
 
 Although the course was very different from Hawera, the cold, wet conditions were like those we faced inspecting the Hawera course and added a challenge to all competitors.
 
