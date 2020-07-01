@@ -2,7 +2,7 @@
 title: Athletic Football Club players are captured on card
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593641880/News/Peter_Czerwonka_ex._RCP_25.6.20.jpg
-  description: Example card of WHS old boy, Peter Czerwonka
+  description: Example card of WHS old boy, Peter Czerwonka.
 news_author:
   date: 2020-06-24T22:17:41.713Z
   publication: River City Press
@@ -22,7 +22,7 @@ The collection includes ‘classic’ cards to recognise past members who have s
 Steve views the cards as a catalyst for club camaraderie, “People get a chance to trade their mates and get to know the other players in the club – young and old.
 
 Steve has funded the first print run of cards personally, but also with the generous support of H&A Print. The cards are on sale at the 
-WAFC clubrooms at Wembley Park, for a $1.They are sold free of packaging but a sense of randomness is preserved with buyers receiving the next card off the pile.
+WAFC clubrooms at Wembley Park, for a $1. They are sold free of packaging but a sense of randomness is preserved with buyers receiving the next card off the pile.
 
 WAFC has 16 junior teams with around 160 juniors registered for the upcoming season. Registrations are still open.
 
