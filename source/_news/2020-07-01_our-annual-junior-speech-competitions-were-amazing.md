@@ -1,5 +1,5 @@
 ---
-title: Our Annual Junior Speech Competitions were amazing!
+title: Our annual Junior Speech Competitions were amazing!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593572577/News/Y9-_-Y10-winners.jpg-try-again.jpg
   description: "L>R:  Year 9 winners; Finnian Sinclair (3rd), Toby Clark (1st),
@@ -17,7 +17,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-07-01T02:16:38.767Z
 ---
-##### Today we had our annual Junior Speech Competitions. 
+##### **Today we had our annual Junior Speech Competitions.** 
 
 **Year 9 speeches had a 2-4 minute ‘How To’ topic.**  
 
