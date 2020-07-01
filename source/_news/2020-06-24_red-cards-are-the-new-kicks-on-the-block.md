@@ -1,5 +1,5 @@
 ---
-title: Collectible Red Cards are the new kicks on the block
+title: Collectible Red Cards raise funds for Whanganui Athletic
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593038030/News/Chris_Sandlant_etc._Midweel_24.6.20._photo_karen_hughes.jpg
   description: "WAFC youth player Chris Sandlant (left) and club president Peter
