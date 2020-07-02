@@ -1,7 +1,7 @@
 ---
 title: Winter conditions bring out best at WHS Cross Country
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593640624/News/VQVB2DRITJGZ5NOYOZIZZPQ4E4_1.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593671116/News/whs_cross_country_photo.jpg
   description: Eventual senior boys winner Nat Kirk (middle) strides to the front
     of the pack during the annual Whanganui High School cross country.
   credit: Supplied
