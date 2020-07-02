@@ -4,7 +4,7 @@ name: Music
 code: MUS0
 subject_area: Music
 date: 2019-07-01T02:08:30.836Z
-year: '10'
+year: "10"
 type: Optional
 course_duration: Half Year
 course_level: Year 10
@@ -27,4 +27,4 @@ A Master Class:   This half year course is for students who already play an inst
 
 **Assessment:**
 
-Achievement based on theory composition and performance skills.
+Achievement based on theory, composition and performance skills.
