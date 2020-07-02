@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574907236/Events/GREEN_WHS_HEADER.jpg
 news_author:
   date: 2020-06-29T03:47:17.637Z
-show_in_slider: true
+show_in_slider: false
 date: 2020-06-29T03:47:17.655Z
 ---
 ⭐️ Tours of Whanganui High School ⭐️
