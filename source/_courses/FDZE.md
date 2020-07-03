@@ -14,7 +14,7 @@ course_fees: $15 for take-home component
 ---
 **Purpose:**
 
-To develop students understanding of Technology in a fashion design environment. They will have the opportunity to learn and develop their practical skills while completing creative solutions to given tasks.
+To develop students understanding of Technology in a fashion design environment. They will have the opportunity to learn and develop their practical skills while completing creative solutions to given design tasks.
 
 **Content:**
 
@@ -22,4 +22,4 @@ Focusing on fabric and design, this course explores creative and innovative ways
 
 **Assessment:**
 
-Work and Practical Solutions.
+Book work and Practical Solutions.

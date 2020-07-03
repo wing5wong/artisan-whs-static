@@ -13,4 +13,8 @@ assessment_type: Achievement Standard
 leads_to:
   - FDZ3
 ---
-The course is intended to provide students with the opportunity to explore many areas of fashion design. The emphasis is to develop from where they are now and grow from there, both technically and creatively. Assessment: Portfolio work and constructed garments.
+The course is intended to provide students with the opportunity to explore many areas of fashion design. The emphasis is to develop from where they are now and grow from there, both technically and creatively.
+
+**Assessment:**
+
+Portfolio work and constructed garments.
