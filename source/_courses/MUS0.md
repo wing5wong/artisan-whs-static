@@ -27,4 +27,4 @@ A Master Class:   This half year course is for students who already play an inst
 
 **Assessment:**
 
-Achievement based on theory composition and performance skills.
+Achievement based on theory, composition and performance skills.

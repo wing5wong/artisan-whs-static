@@ -13,7 +13,7 @@ leads_to:
   - SCE1
   - SCX1S
 entry_requirements: Successful completion of SCEE course
-invitation only: Yes 
+invitation_only: Yes 
 ---
 **Purpose:**
 

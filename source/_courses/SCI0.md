@@ -11,7 +11,7 @@ course_level: Year 10
 leads_to:
   - SCI1
 entry_requirements: Successful completion of SCIE course.
-invitation only: Yes
+invitation_only: Yes
 ---
 **Purpose:**
 

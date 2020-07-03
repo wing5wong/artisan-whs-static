@@ -10,7 +10,7 @@ course_duration: Full Year
 course_level: Year 9
 leads_to:
   - SOE0
-invitation only: Yes
+invitation_only: Yes
 ---
 **Purpose:**
 
