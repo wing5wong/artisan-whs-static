@@ -1,5 +1,5 @@
 ---
-title: Red Cards are the new kicks on the block
+title: Collectible Red Cards raise funds for Whanganui Athletic
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593038030/News/Chris_Sandlant_etc._Midweel_24.6.20._photo_karen_hughes.jpg
   description: "WAFC youth player Chris Sandlant (left) and club president Peter
@@ -15,7 +15,7 @@ date: 2020-06-24T22:32:52.104Z
 ---
 Whanganui Athletic Football Club (WAFC) players have been well and truly red-carded, but this time it's all for fun, and the revenue is going straight back to the club.
 
-Senior player and long-time club member, **Steve Burney**, has created the club's very own set of collectible trading cards, featuring current and past players of the club. The card's predominant colour is red, in keeping with WAFC club colours.
+Senior player and long-time club member, **Steve Burney** (WHS old boy), has created the club's very own set of collectible trading cards, featuring current and past players of the club. The card's predominant colour is red, in keeping with WAFC club colours.
 
 Just like the trading cards of major sports, the card's design includes the players' name, shirt number, team name, position, and attack and defence statistics. The cards will become a unique piece of club memorabilia, as well as providing an innovative fundraiser for the club.
 
@@ -45,7 +45,7 @@ The cards are on sale at the WAFC clubrooms at Wembley Park, for $1 each. The up
 
 To protect the environment and minimise costs, the cards are sold free of packaging. However, the suspense of a random purchase is still enjoyed – buyers will receive the next card off the pile. Some purchasers will get a real thrill when they discover the card that they have been handed is their own.
 
-WAFC Youth player **Chris Sandlant** sees the appeal. "I think it's quite a good idea because a lot of the senior players that feature on the cards are coaching young teams.
+WAFC Youth player **Chris Sandlant** (WHS old boy) sees the appeal. "I think it's quite a good idea because a lot of the senior players that feature on the cards are coaching young teams.
 
 "The kids will realise they've been trained by the personality on the card. It doesn't happen very often – that you can be that close to someone on a trading card."
 
@@ -53,7 +53,7 @@ Chris would like to see his dad, Dean, who plays for the Cosmos, featured on a c
 
 WAFC has 16 junior teams registered for the season. Around 160 junior players took to the fields last weekend.
 
-Club President **Peter Czerwonka** says the club is in good shape and the numbers are looking good. "We're pretty happy with where we're going." He is excited about the card concept. "Steve has always got crazy ideas on the go. I'm right behind it."
+Club President **Peter Czerwonka** (WHS old boy) says the club is in good shape and the numbers are looking good. "We're pretty happy with where we're going." He is excited about the card concept. "Steve has always got crazy ideas on the go. I'm right behind it."
 
 Registrations are still open for anyone still wishing to join a team, and Steve is hoping the trading cards will appeal to potential new members. "It's a drawcard. Come down and play with Athletic, we'll make a card for you."
 

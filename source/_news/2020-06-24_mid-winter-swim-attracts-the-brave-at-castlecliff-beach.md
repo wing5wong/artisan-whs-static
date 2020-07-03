@@ -15,7 +15,7 @@ image_gallery:
     description: And they're off to the water!
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593038824/News/SLQAN54PCRCELHJNLHVDV25ZKI.jpg
     description: Cavorting in the cold.
-show_in_slider: false
+show_in_slider: true
 date: 2020-06-24T22:38:24.447Z
 ---
 The More FM Polar Plunge sent a good number of brave souls into the surf at Castlecliff Beach on Sunday. Paul Brooks took his camera and kept away from the water.

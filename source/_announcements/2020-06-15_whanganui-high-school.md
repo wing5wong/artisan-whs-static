@@ -1,5 +1,5 @@
 ---
-title: "Taking Enrolments for 2021 - Due this Friday, 3 July "
+title: "Enrolments for 2021 welcomed - Due this Friday, 3 July "
 is_emergency: false
 date: 2020-06-14T23:49:15.297Z
 subtitle: View Virtual Tour of School
