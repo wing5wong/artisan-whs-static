@@ -3,7 +3,7 @@ title: Pink Shirt Day a Success
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593740401/News/Womens_Refuge_photo_3.7.20.jpg
   description: Heads of Community Aranga Molijn and Miriama Joseph handing over
-    the cheque to Women's Refuge
+    the cheque to Women's Refuge Manager, Yvonne.
 news_author:
   date: 2020-07-03T01:32:14.854Z
   name: Aranga Molijn and Miriama Joseph
