@@ -1,11 +1,10 @@
 ---
 title: Course Requirements
 date: 2019-06-25T22:41:39.124Z
-intro: >-
-  Entry into all classes is subject to a satisfactory record in the preceding
-  year. Success in the Whanganui High School examinations gives students
-  provisional entry into their subjects the following year. Level 2 and Level 3
-  subject entry is confirmed through the NCEA examinations
+intro: Entry into all classes is subject to a satisfactory record in the
+  preceding year. Success in the Whanganui High School examinations gives
+  students provisional entry into their subjects the following year. Level 2 and
+  Level 3 subject entry is confirmed through the NCEA examinations
 ---
 #### Course Requirements in Senior Classes:
 
@@ -41,7 +40,7 @@ Students who gain 50 Merit or 50 Excellence credits at each level of NCEA earn a
 
 Students who gain either 14 Merit or 14 Excellence credits in a subject (including NCEA external examinations) within a calendar year, receive that subject endorsed with Merit / Excellence.
 
-A Vocational Award or Endorsement can only be gained at **_Level 2._**
+A Vocational Award or Endorsement can only be gained at ***Level 2.*** This appear on students NCEA record and learning. 
 
 Students who gain 20 ‘Sector’ Related credits along with 40 ‘Recommended’ credits in any one of the six Vocational Pathways receive a Vocational Award.
 
@@ -55,16 +54,16 @@ To qualify you will need:
 
 * NCEA Level 3
 * Three subjects - at **Level 3**, made up of:
+
   * 14 credits each, in three [approved subjects](http://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
   * Literacy - [10 credits at **Level 2 or above**](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/literacy-requirements/), made up of: 5 credits in reading and 5 credits in writing
-* Numeracy - [10 credits at **Level 1 or above** ](https://www.nzqa.govt.nz/ncea/subjects/literacy-and-numeracy/level-1-requirements/lit-num-subjects/)
 
 #### Scholarship
 
 * Scholarship is a significant monetary award to recognise and honour top academic students at Level 3. It does not attract credits or contribute to the Level 3 qualification but is included on a student’s Record of Learning.
 * Students must demonstrate very high academic attainment in the previous year in order to enter the Scholarship examinations.
 
-#### Whanganui High School Diploma - Year 13
+#### Whanganui High School Graduation Diploma
 
 * The Whanganui High School Diploma recognises the student’s graduation from secondary school and transition to tertiary study or the world of work.
 * The Diploma may be awarded ‘with Merit’ or ‘with Distinction’
