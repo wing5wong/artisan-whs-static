@@ -51,6 +51,7 @@ In general, students are encouraged to take a broad course in Year 9, 10 and 11,
 |        |         |         | CHE2    | CHE3    |
 |        |         |         | PHY2    | PHY3    |
 |        |         |         | ELE2    | ELE3    |
+|        |         |         | SCI2    |         |
 
 ## Curriculum Levels
 
