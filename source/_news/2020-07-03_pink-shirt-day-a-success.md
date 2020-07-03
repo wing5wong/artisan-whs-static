@@ -11,6 +11,7 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593740273/News/pink_shirt_day.jpg
     description: Miriama and Aranga showing off the 'Cookie for a Compliment' board.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1593744030/News/Womens-Refuge-certificate-to-school.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592517093/Events/CroppedFocusedImage288180-PSD-MC-image-copy.jpg
 show_in_slider: true
 date: 2020-07-03T01:32:14.875Z
