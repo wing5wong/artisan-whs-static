@@ -49,7 +49,7 @@ For example, at the after match function, the Bush players seemed surprised most
 
 It's not that they're teetotallers; it's just only about three members of the weekend's playing group were old enough to purchase alcohol.
 
-In the game, hooker Kimberly Hunt was driven across for a double, while flanker **Hollyrae Mete** got the third try.
+In the game, hooker Kimberly Hunt was driven across for a double, while flanker **Hollyrae Mete** (WHS student) got the third try.
 
 Mete had been named the back-of-the-game the weekend before, while the forward-of-the-game played in the backline this weekend.
 
@@ -59,7 +59,7 @@ Te Patu said that was the reality of some players not being able to commit to bo
 
 "It's hard to teach the fundamentals they need to know in the short time we have."
 
-At training, Te Patu has been doing basic catch-and-pass drills with the intended backs for each game, while prop and Black Fern **Sosoli Talawadua (nee Tofa)** takes the forwards.
+At training, Te Patu has been doing basic catch-and-pass drills with the intended backs for each game, while prop and Black Fern **Sosoli Talawadua (nee Tofa** - ex WHS student) takes the forwards.
 
 With Saturday's match possibly their best chance for a good result – playing likewise winless Linton RC in their first home game on Cooks Gardens - Te Patu wanted a really solid week of preparation, with no "mollycoddling" by the support staff.
 
