@@ -12,7 +12,7 @@ image_gallery:
 show_in_slider: false
 date: 2020-07-18T11:12:47.224Z
 ---
-Congratulations to the following volunteers who have won Lotto Volunteer gear as part of National Volunteer Week! 
+Congratulations to the following volunteers below who have won Lotto Volunteer gear as part of National Volunteer Week! 
 
 We appreciate all of your valuable time and effort put into community sport! Without you, sport simply would not exist.
 
