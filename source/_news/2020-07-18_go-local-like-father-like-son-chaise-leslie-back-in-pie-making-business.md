@@ -4,7 +4,7 @@ feature_image:
   description: Chaise Leslie has spent his life making pies under the guidance of
     his father Bruce, who owns Maggies Pies in Cross St.
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595047160/News/Chaise_Leslie_ex._chron_8.7.20.jpg
-  credit: Bevan
+  credit: Bevan Conley
 news_author:
   date: 2020-07-08T04:36:51.701Z
   name: Logan Tutty
