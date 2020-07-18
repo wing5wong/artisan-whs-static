@@ -1,8 +1,8 @@
 ---
 title: "Go Local: Like father, like son - Chaise Leslie back in pie making business"
 feature_image:
-  description: Chaise Leslie has spent his life making pies under the guidance of
-    his father Bruce, who owns Maggies Pies in Cross St.
+  description: WHS old boy, Chaise Leslie has spent his life making pies under the
+    guidance of his father Bruce, who owns Maggies Pies in Cross St.
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595047160/News/Chaise_Leslie_ex._chron_8.7.20.jpg
   credit: Bevan Conley
 news_author:
@@ -16,7 +16,7 @@ Pie making is in the family for Chaise Leslie and, after years of being out of b
 
 On Monday, June 29, he opened up his new bakery Chaising Pies in Liffiton St.
 
-Former WHS student, Chaise is no stranger to pie making, after spending countless mornings in his father Bruce's business.
+Chaise is no stranger to pie making, after spending countless mornings in his father Bruce's business.
 
 Bruce Leslie, now operating Maggie's Pies in Cross St, owned One Better Home Made Pies, which was located where Hunting and Fishing on Carlton Ave now sits.
 
@@ -46,4 +46,4 @@ He said it has been great to get his feet back into the business and looks forwa
 
 "We are doing bloody well, really. Surprised by the support and turnover already, I'll definitely do all right here."
 
-Chaising Pies in Liffiton St is open Monday to Friday from 5am to 4pm and Saturdays 7am to 1pm.
+**Chaising Pies in Liffiton St is open Monday to Friday from 5am to 4pm and Saturdays 7am to 1pm.**
