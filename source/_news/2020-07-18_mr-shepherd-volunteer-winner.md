@@ -7,8 +7,8 @@ news_author:
   date: 2020-07-10T11:12:47.052Z
   publication: Sport Whanganui Facebook
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595070908/News/Jason_Shepherd_volunteer.marie_joseph..sport_wanganui.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595070950/News/Jason_Shepherd_volunteer._..sport_wanganui.png
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595070908/News/Jason_Shepherd_volunteer.marie_joseph..sport_wanganui.png
 show_in_slider: false
 date: 2020-07-18T11:12:47.224Z
 ---
