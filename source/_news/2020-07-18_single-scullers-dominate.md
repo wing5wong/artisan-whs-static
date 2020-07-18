@@ -1,5 +1,5 @@
 ---
-title: Single scullers dominate
+title: Single scullers fight out round three of the Whanganui winter series
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595058654/News/Single_scullers_dominate._Chron_16.7.jpg
   description: Thirty crews braved the conditions to compete in round three of the
