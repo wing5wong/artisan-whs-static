@@ -20,12 +20,12 @@ A strong contingent of six kayakers from the Whanganui Multisport Club impressed
 
 In the Open Men's 10km Surf Ski race, accomplished Whanganui paddler **Toby Brooke cruised to a gold medal with a time of 45m 49s. Brooke also competed in a 12km Ocean Ski race later the same day where he came second despite challenging conditions.**
 
-**Just 18 seconds behind Brooke was Whanganui's experienced sprint paddler Liam Lace**, who is currently based in Karopiro where he trains out of the High Performance hub. Lace was racing in the K1 division where he finished first.
+**Just 18 seconds behind Brooke was Whanganui's experienced sprint paddler Liam Lace**, who is currently based in Karopiro where he trains out of the High Performance hub. **Lace was racing in the K1 division where he finished first.**
 
 In the U18 woman's division, **Sophie Brooke managed a comfortable win with a time of 53m 41s** while George Pedley came third in the U18 men's division with a time of 56m 12s.
 
-It was a sprint finish in the U16 division for the Whanganui duo of **Angus Sewell and Zane Mills-Nossiter who were neck and neck for the duration of the 5km junior race.**
+It was a sprint finish in the U16 division for the Whanganui duo of Angus Sewell and Zane Mills-Nossiter who were neck and neck for the duration of the 5km junior race.
 
-**Mills-Nossiter narrowly pipped the younger Sewell by just 1 second with spectators describing it as the closest race of the day.** The pair came away with a first and second placing, respectively.
+**Mills-Nossiter narrowly pipped the younger Sewell by just 1 second with spectators describing it as the closest race of the day. The pair came away with a first and second placing, respectively.**
 
 
