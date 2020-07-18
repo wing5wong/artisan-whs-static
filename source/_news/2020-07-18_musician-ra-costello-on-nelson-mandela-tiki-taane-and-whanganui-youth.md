@@ -3,8 +3,8 @@ title: Musician Ra Costello on Nelson Mandela, Tiki Taane and Whanganui youth
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595046678/News/ra_costello_snip_chron_6.7.20.png
   credit: Supplied
-  description: WHS old boy, Ra Costello blends R'n'B, pop, and reggae, and his new
-    single is released in New Zealand on July 12.
+  description: Ra Costello blends R'n'B, pop, and reggae, and his new single is
+    released in New Zealand on July 12.
 news_author:
   date: 2020-07-06T04:31:51.419Z
   name: Mike Tweed
@@ -12,7 +12,7 @@ news_author:
 show_in_slider: false
 date: 2020-07-18T04:31:51.546Z
 ---
-**Whanganui musician Ra Costello will celebrate the release of his new single Time with a gig at Lucky Bar on Saturday, July 11. A new EP called What a Ride has been recorded with Tiki Taane and is scheduled for release later in the year.**
+**Whanganui musician and WHS old boy, Ra Costello will celebrate the release of his new single Time with a gig at Lucky Bar on Saturday, July 11. A new EP called What a Ride has been recorded with Tiki Taane and is scheduled for release later in the year.**
 
 Whanganui Chronicle reporter Mike Tweed fired 10 questions his way in the lead up to the gig.
 
