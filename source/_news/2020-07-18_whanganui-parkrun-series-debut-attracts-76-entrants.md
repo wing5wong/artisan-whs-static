@@ -27,7 +27,7 @@ While the parkrun wasn't designed as a competitive event, Mellsop said entrants 
 
 "Most people are just there to complete the course, be it running or walking, and get out and have some exercise."
 
-The first man to finish was local GP and former WHS student, Chris Jacques in a time of 18.38 minutes, while Holly McKinlay (with 2-year-old son William in a stroller) was the first woman home in 26.21min.
+The first man to finish was local GP and former WHS student, **Chris Jacques** in a time of 18.38 minutes, while Holly McKinlay (with 2-year-old son William in a stroller) was the first woman home in 26.21min.
 
 Mellsop said people could register for parkrun online, with a downloaded barcode allowing them to enter any parkrun event worldwide.
 
