@@ -11,13 +11,10 @@ blocks:
       Our students come from all around the world and choose Whanganui for its central location and access to nature. International students also select Whanganui High School for their education when they want to be away from the distractions of the big cities, want to concentrate on learning English and prepare for entry to university.   
 
 
-
       Our school will offer you a huge variety of subjects to choose from, including languages, the arts and technology, a multitude of sporting opportunities, including rowing, athletics and sports’ performance training as well as the chance to be part of shows and musical groups.  
 
 
-
       As an international student, you will become a member of your homestay family. This will also provide lots of opportunities to practise your English-speaking skills.  
-
 
 
       We look forward to welcoming you to our school and to our city.
