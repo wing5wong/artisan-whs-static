@@ -676,6 +676,7 @@ collections:
     folder: "source/_pages"
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Extends", name: "extends", widget: "hidden" }
       - label: "Page Builder"
