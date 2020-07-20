@@ -2,7 +2,7 @@
 title: Junior Prizegiving
 date: 2020-12-08T01:29:18.832Z
 ---
-11.00am Prizegiving in the School Hall.
+11.00am start in the School Hall.
 
 Last day for the Junior School.
 
