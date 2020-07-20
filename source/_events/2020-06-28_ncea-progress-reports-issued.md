@@ -1,5 +1,5 @@
 ---
 title: NCEA Progress Reports issued
-date: 2020-07-26T21:53:32.505Z
+date: 2020-07-30T21:53:32.505Z
 ---
-NCEA Progress Reports will be issued on Monday 27 July.
+A report will be e-mailed / posted home during this week for each student in Years 11 to 13, indicating individual progress towards their NCEA Levels 1, 2 or 3.
