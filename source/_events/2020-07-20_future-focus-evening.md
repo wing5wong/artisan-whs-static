@@ -1,5 +1,5 @@
 ---
-title: Future Focus Evening
+title: Future Focus Evening to be confirmed
 date: 2020-08-26T02:13:21.214Z
 ---
 Presentation for parents in the Library – details to be provided closer to the date.
