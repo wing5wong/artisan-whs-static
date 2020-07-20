@@ -13,4 +13,4 @@ NEW ZEALAND
 **Fax:** (+64) 6 349 0176  
 **Email:**  [international@whanganuihigh.school.nz](mailto:international@wanganui-high.school.nz?subject=International%20Enquiry)
 
-[Download the Whanganui High School 2020 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1568687517/International/2020_WHS_International_Enrolment_Form.pdf)
+[Download the Whanganui High School 2021 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1592952934/International/WHS_International_Application_Form.pdf)
