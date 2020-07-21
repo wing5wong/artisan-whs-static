@@ -3,9 +3,9 @@ title: Students busy entering Chamber Music online this year
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595369008/News/29178257_1833206260032223_4568873337744261120_n.png
 news_author:
-  date: 2020-07-19T21:51:56.377Z
+  date: 2020-07-18T21:51:56.377Z
   name: Mrs Jones
-  publication: TIC / Chamber Music
+  publication: Head of Music
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595368415/News/115823917_975206042901734_2230809945445802712_n.jpg
     description: "'The Good Folk' - Jan Kruger, Will Southee and Angus Pitkethley."
@@ -19,8 +19,8 @@ date: 2020-07-21T21:51:56.467Z
 ---
 These students have been busy entering Chamber Music online (no live regional event this year😥) 
 
-The Good Folk....(Jan Kruger, Will Southee and Angus Pitkethley)  
+The Good Folk....(Jan Kruger, Will Southee and Angus Pitkethley).  
 
-Guitarsafire....(Jack Fawthorpe, David Dale, Joshua Korewha and Matavesi Lewenilovo)  
+Guitarsafire....(Jack Fawthorpe, David Dale, Joshua Korewha and Matavesi Lewenilovo). 
 
-The Tenuto Trio....(Olivia Bedwell, Alyssa Hartley and Jessie O'Connor)
+The Tenuto Trio....(Olivia Bedwell, Alyssa Hartley and Jessie O'Connor).
