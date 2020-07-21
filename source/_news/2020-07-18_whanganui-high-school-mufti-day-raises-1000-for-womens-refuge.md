@@ -6,7 +6,7 @@ feature_image:
   credit: Bevan Conley
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595065258/News/mufti_day_midweek_8.7.20.jpg
 news_author:
-  date: 2020-07-18T09:39:56.507Z
+  date: 2020-07-08T09:39:56.507Z
   name: Mike Tweed
   publication: Whanganui Midweek
 show_in_slider: true
