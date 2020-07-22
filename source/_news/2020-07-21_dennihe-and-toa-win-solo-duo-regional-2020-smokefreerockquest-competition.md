@@ -9,7 +9,7 @@ news_author:
 show_in_slider: true
 date: 2020-07-21T22:56:59.963Z
 ---
-CONGRATULATIONS DENNIHE EDWARDS AND TOA TAWHITAPOU!  🤩🤩🎤🎤👏👏  
+CONGRATULATIONS DENNIHE EDWARDS AND TOA TAWHITAPOU! 
 
 **Solo/Duo Regional Winners for the 2020 Smokefreerockquest Competition.** (entered via video online).
 
