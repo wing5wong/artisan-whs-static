@@ -14,8 +14,8 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 **BOOKINGS OPEN on MONDAY 27 JULY at 5:00pm.**
 
-BOOKINGS close at 5:00pm on Tuesday 4 August, the evening before the interviews.
+Bookings close at 5:00pm on Tuesday 4 August, the evening before the interviews.
 
-Book an interview (Instructions are included with the Interim Report).
+[BOOK AN INTERVIEW](https://www.schoolinterviews.co.nz/) (Instructions are included with the Interim Report).
 
-Any queries or difficulties in booking your appointment times please phone 349 0177.
+Any queries or difficulties in booking your appointment times please phone 349 0177.
