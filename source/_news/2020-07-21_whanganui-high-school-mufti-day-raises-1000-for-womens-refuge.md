@@ -1,16 +1,16 @@
 ---
 title: Whanganui High School mufti day raises $1000 for Women's Refuge
 feature_image:
-  description: Whanganui High School prefects Aranga Molijn (left) and Miriama
-    Joseph hand over the cheque to Women's Refuge manager Yvonne Denny.
+  description: "Whanganui High School prefects Aranga Molijn (left) and Miriama
+    Joseph hand over the cheque to Women's Refuge manager Yvonne Denny. "
   credit: Bevan Conley
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595065258/News/mufti_day_midweek_8.7.20.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595300214/News/mufti_money_womens_refuge._Midweek_8.7.20_phto_bevan_conley.jpg
 news_author:
-  date: 2020-07-08T09:39:56.507Z
-  name: Mike Tweed
+  date: 2020-07-08T02:55:12.497Z
   publication: Whanganui Midweek
+  name: Mike Tweed
 show_in_slider: true
-date: 2020-07-18T09:39:56.606Z
+date: 2020-07-21T02:55:12.519Z
 ---
 **A Whanganui High School mufti day has raised more than $1000 for Women's Refuge Whanganui.**
 
