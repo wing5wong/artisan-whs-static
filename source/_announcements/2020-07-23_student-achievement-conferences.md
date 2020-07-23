@@ -14,9 +14,9 @@ subtitle: Wednesday 5 August and Thursday 6 August 2020
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.
 
-**BOOKINGS OPEN on Monday 27 July at 5:00pm.**
+**BOOKINGS OPEN on MONDAY 27 JULY at 5:00pm.**
 
-BOOKINGS Close at 5:00pm on TUESDAY 4 AUGUST, the evening before the interviews.
+BOOKINGS close at 5:00pm on Tuesday 4 August, the evening before the interviews.
 
 Book an interview (Instructions are included with the Interim Report).
 
