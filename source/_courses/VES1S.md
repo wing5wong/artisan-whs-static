@@ -6,7 +6,7 @@ code: VES1S
 subject_area: Vocational Studies (Employment Skills)
 date: 2019-08-05T01:08:55.062Z
 entry_requirements: Consultation with House deans and Vocational Studies department.
-year: '12'
+year: '11'
 type: Optional
 course_duration: Full Year
 course_level: NCEA 1

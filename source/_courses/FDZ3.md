@@ -12,7 +12,7 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 ue_approved: true
 ---
-To extend students creative and technical skills in many aspects of fashion design. The emphasis is to extend them from Level 2 to become both technically and creatively independent thinkers. Assessment: Practical projects, portfolios, and research projects.
+To extend students creative and technical skills in many aspects of fashion design. The emphasis is to extend them from Level 2 to become both technically and creatively independent thinkers.
 
 **Assessment:**
 

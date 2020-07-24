@@ -1,7 +1,7 @@
 ---
 title: ENI0
 name: English Introductory/Internal
-code: ENG0
+code: ENI0
 subject_area: English (Introductory/Internal)
 date: 2019-07-01T00:02:59.350Z
 year: '10'
