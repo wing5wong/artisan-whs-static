@@ -80,7 +80,7 @@ policyAreas:
         policy: 5.6 Drugs
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693561/School%20Policies/5.8-Student-Related-Transport.updated-Feb-2018.pdf
         policy: 5.8 Student Related Transport
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.9-Infectious-Diseases.updated-Feb-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1595561242/School%20Policies/5.9_Infectious_Diseases.updated_June_2020.pdf
         policy: 5.9 Infectious Diseases
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.10-Guidance_-updated-May-2018.pdf
         policy: 5.10 Guidance
