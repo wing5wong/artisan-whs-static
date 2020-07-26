@@ -13,9 +13,9 @@ subtitle: Wednesday 5 August and Thursday 6 August 2020
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.
 
-**BOOKINGS OPEN on MONDAY 27 JULY at 5:00pm.**
+**BOOKINGS OPEN on MONDAY 27 JULY at 5.00pm.**
 
-Bookings close at 5:00pm on Tuesday 4 August, the evening before the interviews.
+Bookings close at 5.00pm on Tuesday 4 August, the evening before the interviews.
 
 [Book an Interview](https://www.schoolinterviews.co.nz/) (Instructions are included with the Interim Report).
 
