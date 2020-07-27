@@ -66,7 +66,7 @@ policyAreas:
         policy: 4.6 Theft and Fraud Protection
     policyArea: 4. Finance and Property
   - policies:
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1576204820/School%20Policies/5.1_-Health_and_Safety_Policy_updated_November_2019_web.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1595889170/School%20Policies/5.1_-Health_and_Safety_Policy_updated_July_2020_web.pdf
         policy: 5.1 Health and Safety
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1568853625/School%20Documents/Policies%20and%20Charter/5.2_-Emergencies_Policy_updated_October_2018.pdf
         policy: 5.2 Emergencies
