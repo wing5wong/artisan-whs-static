@@ -25,7 +25,7 @@ date: 2020-07-01T02:16:38.767Z
 
 * **In a close 2nd Aarna Marwah** had the support of all the younger siblings in the room, teaching them how to be the best.  
 
-* **3rd Finnian Sinclair** is going to get us all arresting my teaching us ‘how to rob a bank’.
+* **3rd Finnian Sinclair** is going to get us all arrested by teaching us ‘how to rob a bank’.
 
 **Year 10 speeches had a 3-5 minute topic on their ‘Taonga’ / 'Treasure'.**  
 
