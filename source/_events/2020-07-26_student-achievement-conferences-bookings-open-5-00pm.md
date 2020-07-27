@@ -11,7 +11,7 @@ Buses will run at their normal times and the Homework Centre will be open in the
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.
 
-**Bookings Opened on Monday 27 July at 5.00pm.**
+Bookings Opened on Monday 27 July at 5.00pm.
 
 BOOKINGS CLOSE at 5.00pm on Tuesday 4 August, the evening before the interviews.
 
