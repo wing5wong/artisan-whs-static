@@ -3,7 +3,7 @@ title: Student Achievement Conferences - BOOK AN INTERVIEW
 date: 2020-07-28T06:57:26.247Z
 ---
 When: Wednesday 5 August and Thursday 6 August 2020  
-Times: 3.10pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
+Times: 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana and Te Wehi Gymnasiums
 
 Students will be released at the end of Period 4 - 1.50pm on both days.
