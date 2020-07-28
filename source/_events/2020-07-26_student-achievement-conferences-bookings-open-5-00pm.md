@@ -1,6 +1,6 @@
 ---
 title: Student Achievement Conferences - Bookings Open 5.00pm
-date: 2020-07-27T06:57:26.247Z
+date: 2020-07-28T06:57:26.247Z
 ---
 When: Wednesday 5 August and Thursday 6 August 2020  
 Times: 3.10pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
