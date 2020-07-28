@@ -5,7 +5,7 @@ date: 2020-08-05T01:17:23.618Z
 subtitle: Wednesday 5 August and Thursday 6 August 2020
 ---
 **When: Wednesday 5 August and Thursday 6 August 2020**  
-**Times: 3.10pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)**  
+**Times: 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)**  
 **Where: Te Mana and Te Wehi Gymnasiums**
 
 **Students will be released at the end of Period 4 - 1.50pm on both days.**  
