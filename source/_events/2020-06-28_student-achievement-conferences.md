@@ -3,7 +3,7 @@ title: Student Achievement Conferences - Students released at 1.50pm (end of per
 date: 2020-08-04T21:49:23.167Z
 ---
 **When: Wednesday 5 August and Thursday 6 August 2020**  
-**Times: 3.10pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)**   
+**Times: 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)**   
 **Where: Te Mana and Te Wehi Gymnasiums**
 
 
