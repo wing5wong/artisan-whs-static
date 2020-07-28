@@ -4,13 +4,12 @@ date: 2020-07-03T02:23:57.661Z
 intro: Vocational Pathways provide new ways to achieve NCEA Levels 1, 2 and 3
   and develop pathways that progress to further study, training and employment
 ---
-<span>Vocational Pathways provide new ways to achieve NCEA Levels 1, 2 and 3 and develop pathways that progress to further study, training and employment.</span>
+Vocational Pathways provide new ways to achieve NCEA Levels 1, 2 and 3 and develop pathways that progress to further study, training and employment.
 
 <span>Students may choose from a variety of courses that range from one day a week or short blocks of time during the school week. Most students continue in normal classes outside of these times. Students enrol in courses by picking up enrolment forms from the Vocational Office (C5/C6).
 
 \
-Examples of courses include:\
-</span>
+**Examples of courses include:**
 
 * Agriculture
 * Building and Construction
