@@ -182,8 +182,8 @@ return [
         'url' => '/international',
         'children' => [
             [
-                'title' => 'Fees and Accomodation',
-                'url' => '/international/fees-and-accomodation'
+                'title' => 'Fees and Accommodation',
+                'url' => '/international/fees-and-accommodation'
             ],
             [
                 'title' => 'Student Experiences',
