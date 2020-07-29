@@ -1,6 +1,6 @@
 ---
 title: Course Requirements
-date: 2019-06-25T22:41:39.124Z
+date: 2020-07-28T22:41:39.124Z
 intro: Entry into all classes is subject to a satisfactory record in the
   preceding year. Success in the Whanganui High School examinations gives
   students provisional entry into their subjects the following year. Level 2 and
@@ -11,8 +11,9 @@ intro: Entry into all classes is subject to a satisfactory record in the
 * Entry into all classes is subject to a satisfactory record in the preceding year:
 * Success in the Whanganui High School examinations gives students provisional entry into their subjects the following year.
 * Level 2 and Level 3 subject entry is confirmed through the NCEA examinations.
+* All students to choose **six** option subjects.
 
-To ensure students have as wide a variety of options in the future as possible, students must select a subject from each option line and one 'spare' option.
+  To ensure students have as wide a variety of options in the future as possible, students must select a subject from each option line and one 'spare' option.
 
 #### Year 11:
 
@@ -38,9 +39,9 @@ In both Level 2 and Level 3, twenty (20) of these credits can come from the prec
 
 Students who gain 50 Merit or 50 Excellence credits at each level of NCEA earn an Endorsed Level 1, 2 or 3 Certificate respectively.
 
-Students who gain either 14 Merit or 14 Excellence credits in a subject (including NCEA external examinations) within a calendar year, receive that subject endorsed with Merit / Excellence.
+Students who gain either 14 Merit or 14 Excellence credits in a subject (must include NCEA external examinations) within a calendar year, receive that subject endorsed with Merit / Excellence.
 
-A Vocational Award or Endorsement can only be gained at ***Level 2.*** This appear on students NCEA record and learning. 
+A Vocational Award or Endorsement can only be gained at ***Level 2.*** This appear on students NCEA Record of Achievement. 
 
 Students who gain 20 ‘Sector’ Related credits along with 40 ‘Recommended’ credits in any one of the six Vocational Pathways receive a Vocational Award.
 
@@ -65,14 +66,16 @@ To qualify you will need:
 
 #### Whanganui High School Graduation Diploma
 
-* The Whanganui High School Diploma recognises the student’s graduation from secondary school and transition to tertiary study or the world of work.
+* The Whanganui High School Graduation Diploma recognises the student’s graduation from secondary school and transition to tertiary study or the world of work.
 * The Diploma may be awarded ‘with Merit’ or ‘with Distinction’
 
 #### Courses Outside of School (External Studies):
 
-Students in Senior School may wish to choose from a wide variety of Industry and Tertiary Related courses available to them to complement their school subjects. These courses are completed through as an ‘option’ at school and need to be applied for through the Vocational Department
+Students in Senior School may wish to choose from a wide variety of Industry and Tertiary Related courses available to them to complement their school subjects. These courses are completed through as an ‘option line’ at school and need to be applied for through the Vocational Department
 
 #### Vocational Studies:
+
+Students must apply to take a full Vocational Studies course. Prerequisites include good attendance and a clean pastoral record. An interview with the student and parent/caregiver must occur prior to acceptance into the programme.
 
 **Year 12:** Vocational Studies at Year 12 occupy five (5) of the six (6) lines therefore students choosing to do Vocational Studies need to take only one other subject.
 
