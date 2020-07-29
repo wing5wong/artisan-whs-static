@@ -10,15 +10,15 @@ date: 2019-09-17T02:23:57.661Z
 
 ## Tuition Fee:
 
-**Standard Year Course: NZ $14,000**
+**Standard Year Course: NZ $14,500**
 
-This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,000, Three terms - $10,500.
+This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,250; Three terms - $10,875.
 
-**Premium Year Course: NZ $15,500**
+**Premium Year Course: NZ $16,000**
 
-This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $7,750, Three terms - $11,625.
+This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $8,000; Three terms - $12,000.
 
-**Short Course: NZ $420 per week**
+**Short Course: NZ $435 per week**
 
 One Term or less
 
