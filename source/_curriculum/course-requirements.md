@@ -41,7 +41,7 @@ Students who gain 50 Merit or 50 Excellence credits at each level of NCEA earn a
 
 Students who gain either 14 Merit or 14 Excellence credits in a subject (must include NCEA external examinations) within a calendar year, receive that subject endorsed with Merit / Excellence.
 
-A Vocational Award or Endorsement can only be gained at ***Level 2.*** This appear on students NCEA Record of Achievement. 
+A Vocational Award or Endorsement can only be gained at ***Level 2.*** This appears on a student's [NCEA Record of Achievement](https://www.nzqa.govt.nz/qualifications-standards/results-2/record-of-achievement/). 
 
 Students who gain 20 ‘Sector’ Related credits along with 40 ‘Recommended’ credits in any one of the six Vocational Pathways receive a Vocational Award.
 
