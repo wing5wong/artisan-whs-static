@@ -1,11 +1,13 @@
 ---
 title: Curriculum Structure
-date: 2019-07-26T02:23:57.661Z
+date: 2020-07-29T02:23:57.661Z
 intro: .
 ---
 [Course Options](/curriculum/course-options/) 
 
 ## Course Structure
+
+Senior students (Year 11 to Year 13) must select **six** subject options.
 
 Whanganui High School offers the following course structure:
 
@@ -102,7 +104,7 @@ To cater for different student abilities, Whanganui High School offers courses o
     |NCEA Level 2 English | **E**xtension (Mixed assessment)  | EN**E**2|
 * ### NCEA Level 3 Courses
 
-    NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13 some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
+    NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13, some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
 
 ## NCEA Scholarship
 
@@ -112,7 +114,7 @@ Whanganui High School offers NCEA Level 3 students the opportunity to sit the NC
 
 ## University Entrance Approval Courses
 
-Whanganui High School Level 3 courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
+Whanganui High School **Level 3** courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
 
 In addition, if a course offers University Entrance Literacy credits, these are identified at the top of the course description.
 
