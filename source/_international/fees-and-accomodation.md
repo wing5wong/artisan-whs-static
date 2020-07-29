@@ -6,12 +6,13 @@ date: 2019-09-17T02:23:57.661Z
 
 [2021 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1592952934/International/WHS_International_Application_Form.pdf)
 
+[2021 Fee Schedule](https://res.cloudinary.com/whanganuihigh/image/upload/v1595993041/International/2021_Fee_Schedule.pdf)
+
 ## Tuition Fee:
 
 **Standard Year Course: NZ $14,000**
 
 This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,000, Three terms - $10,500.
-
 
 **Premium Year Course: NZ $15,500**
 
