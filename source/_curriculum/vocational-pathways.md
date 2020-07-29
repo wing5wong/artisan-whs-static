@@ -8,7 +8,6 @@ Vocational Pathways provide new ways to achieve NCEA Levels 1, 2 and 3 and devel
 
 <span>Students may choose from a variety of courses that range from one day a week or short blocks of time during the school week. Most students continue in normal classes outside of these times. Students enrol in courses by picking up enrolment forms from the Vocational Office (C5/C6).
 
-\
 **Examples of courses include:**
 
 * Agriculture
