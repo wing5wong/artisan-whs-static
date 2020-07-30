@@ -1,5 +1,5 @@
 ---
-title: School Ball 2020
+title: SCHOOL BALL 2020
 date: 2020-08-08T03:24:54.498Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595287117/Events/Ball_Invites.jpg
 ---
