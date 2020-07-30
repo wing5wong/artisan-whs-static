@@ -96,7 +96,7 @@ To cater for different student abilities, Whanganui High School offers courses o
 
     NCEA Level 2 Courses are assessed at Level 7 of the NZ Curriculum. Courses are either fully internally assessed or a mixture of internal and external assessment.
 
-     *(Using English as an example)*
+    *(Using English as an example)*
 
 | Subject              | Subject Level                          | Subject Code |
 | -------------------- | -------------------------------------- | ------------ |
