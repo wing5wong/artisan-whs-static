@@ -56,7 +56,7 @@ To qualify you will need:
 * NCEA Level 3
 * Three subjects - at **Level 3**, made up of:
 
-  * 14 credits each, in three [approved subjects](http://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
+  * 14 credits each, in three [approved subjects](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
   * Literacy - [10 credits at **Level 2 or above**](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/literacy-requirements/), made up of: 5 credits in reading and 5 credits in writing
 
 #### Scholarship
