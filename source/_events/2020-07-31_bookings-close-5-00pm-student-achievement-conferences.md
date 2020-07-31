@@ -2,7 +2,16 @@
 title: BOOKINGS CLOSE 5.00pm - Student Achievement Conferences
 date: 2020-08-04T00:52:10.238Z
 ---
-BOOKINGS CLOSE at 5.00pm on Tuesday 4 August, the evening before the interviews.
+When: Wednesday 5 August and Thursday 6 August 2020  
+Times: 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)  
+Where: Te Mana and Te Wehi Gymnasiums
+
+Students will be released at the end of Period 4 - 1.50pm on both days.
+Buses will run at their normal times and the Homework Centre will be open in the Library until 4.30pm as usual.
+
+Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
+
+**BOOKINGS CLOSE at 5.00pm** on Tuesday 4 August, the evening before the interviews.
 
 [BOOK AN INTERVIEW](https://www.schoolinterviews.co.nz/) (Instructions are included with the Interim Report).
 
