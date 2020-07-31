@@ -11,7 +11,7 @@ Buses will run at their normal times and the Homework Centre will be open in the
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-**BOOKINGS CLOSE at 5.00pm** on Tuesday 4 August, the evening before the interviews.
+**BOOKINGS CLOSE at 5.00pm on Tuesday 4 August**, the evening before the interviews.
 
 [BOOK AN INTERVIEW](https://www.schoolinterviews.co.nz/) (Instructions are included with the Interim Report).
 
