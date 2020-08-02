@@ -1,6 +1,6 @@
 ---
 title: Student Achievement Conferences - BOOK AN INTERVIEW
-date: 2020-08-01T06:57:26.247Z
+date: 2020-08-03T06:57:26.247Z
 ---
 When: Wednesday 5 August and Thursday 6 August 2020  
 Times: 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)  
