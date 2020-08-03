@@ -98,11 +98,11 @@ To cater for different student abilities, Whanganui High School offers courses o
 
     *(Using English as an example)*
 
-| Subject              | Subject Level                          | Subject Code |
-| -------------------- | -------------------------------------- | ------------ |
-| NCEA Level 2 English | **I**ntroductory (Internal assessment) | EN**I**2     |
-| NCEA Level 2 English | **G**eneral (Mixed assessment)         | EN**G**2     |
-| NCEA Level 2 English | **E**xtension (Mixed assessment)       | EN**E**2     |
+  | Subject              | Subject Level                          | Subject Code |
+  | -------------------- | -------------------------------------- | ------------ |
+  | NCEA Level 2 English | **I**ntroductory (Internal assessment) | EN**I**2     |
+  | NCEA Level 2 English | **G**eneral (Mixed assessment)         | EN**G**2     |
+  | NCEA Level 2 English | **E**xtension (Mixed assessment)       | EN**E**2     |
 
 * ### NCEA Level 3 Courses
 
