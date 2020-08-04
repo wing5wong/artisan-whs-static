@@ -36,13 +36,6 @@ collections:
     sortableFields: []
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     summary: "{{year}}-{{month}}-{{day}} | {{title}}"
-    view_filters:
-      - label: 'Posts published in 2020'
-        field: date
-        pattern: '2020'
-    - label: 'Posts published in 2019'
-        field: date
-        pattern: '2019'
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - label: "Feature Image"
