@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - BOOKINGS CLOSE AT 5PM TODAY!
+title: Student Achievement Conferences - Bookings Closed at 5pm
 is_emergency: false
 date: 2020-08-05T01:17:23.618Z
 subtitle: Wednesday 5 August and Thursday 6 August 2020
@@ -15,8 +15,6 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 Bookings Opened on Monday 27 July at 5.00pm.
 
-BOOKINGS CLOSE at 5.00pm on Tuesday 4 August, the evening before the interviews.
-
-[BOOK AN INTERVIEW](https://www.schoolinterviews.co.nz/) (Instructions are included with the Interim Report).
+BOOKINGS CLOSED at 5.00pm on Tuesday 4 August, the evening before the interviews.
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
