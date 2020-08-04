@@ -16,4 +16,4 @@ Bookings opened on Monday 27 July at 5.00pm.
 
 Bookings closed at 5.00pm on Tuesday 4 August, the evening before the interviews.
 
-Any queries please phone 349 0177.
+Any queries please phone the Student Centre on 349 0177.
