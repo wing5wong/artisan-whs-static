@@ -718,11 +718,24 @@ collections:
     label: "Subject Areas File Based"
     files:
       - name: areas
-        file: source/subject_areas.json
+        file: source/subject_areas_file.json
         format: json
         fields:
           - label: "Areas"
             widget: "list"
             name: "areas"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+
+  - name: "courses_file"
+    label: "Courses File Based"
+    files:
+      - name: courses
+        file: source/courses_file.json
+        format: json
+        fields:
+          - label: "Courses"
+            widget: "list"
+            name: "courses"
             fields:
               - { label: "Title", name: "title", widget: "string" }
