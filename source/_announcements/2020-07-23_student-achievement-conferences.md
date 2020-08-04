@@ -13,8 +13,8 @@ subtitle: Wednesday 5 August and Thursday 6 August 2020
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.
 
-Bookings Opened on Monday 27 July at 5.00pm.
+Bookings opened on Monday 27 July at 5.00pm.
 
-BOOKINGS CLOSED at 5.00pm on Tuesday 4 August, the evening before the interviews.
+Bookings CLOSED at 5.00pm on Tuesday 4 August, the evening before the interviews.
 
-Any queries or difficulties in booking your appointment times please phone 349 0177.
+Any queries please phone the Student Centre on 349 0177.
