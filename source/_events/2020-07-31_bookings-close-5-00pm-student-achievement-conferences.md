@@ -1,5 +1,5 @@
 ---
-title: Bookings Closed at 5.00pm - Student Achievement Conferences
+title: Student Achievement Conference Information - Bookings Closed
 date: 2020-08-04T00:52:10.238Z
 ---
 When: Wednesday 5 August and Thursday 6 August 2020  
