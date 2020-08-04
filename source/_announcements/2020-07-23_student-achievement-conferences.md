@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - Bookings Closed
+title: Student Achievement Conference Information - Bookings Closed
 is_emergency: false
 date: 2020-08-05T01:17:23.618Z
 subtitle: Wednesday 5 August and Thursday 6 August 2020
