@@ -9,7 +9,7 @@ type: Optional
 course_duration: Full Year
 entry_requirements: HOF/TIC approval
 course_level: NCEA 1
-assessment_type: Unit Standard and Achievement Standard
+assessment_type: Achievement and Unit Standard
 leads_to:
   - PDL2
   - PCS2
