@@ -17,6 +17,6 @@ leads_to:
   - VHT3
   - VMA3
 course_fees:
-endorsement:
+endorsement: false
 ---
 Description pending.

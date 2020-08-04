@@ -21,6 +21,6 @@ leads_to:
   - VHT2
   - VMA2
 course_fees:
-endorsement:
+endorsement: false
 ---
 Description pending.
