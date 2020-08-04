@@ -33,6 +33,7 @@ collections:
     label_singular: "News"
     folder: "source/_news"
     create: true
+    sortableFields: []
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     summary: "{{year}}-{{month}}-{{day}} | {{title}}"
     view_filters:
@@ -348,6 +349,7 @@ collections:
     label_singular: "NCEA Standard"
     folder: "source/_assessments"
     create: true
+    sortableFields: []
     summary: "{{title}} | {{description}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
