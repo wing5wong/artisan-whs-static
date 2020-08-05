@@ -2,12 +2,12 @@
 title: PCS1
 name: Pathways Communication Literacy
 code: PCS1
-subject_area: Pathways
+subject_area: Pathways Communication Literacy
 date: 2020-08-04T21:01:17.026Z
-year: '11'
+entry_requirements: HOF/TIC approval
+year: "11"
 type: Optional
 course_duration: Full Year
-entry_requirements: HOF/TIC approval
 course_level: NCEA 1
 assessment_type: Achievement and Unit Standard
 leads_to:
@@ -20,7 +20,7 @@ leads_to:
   - VDF2
   - VHT2
   - VMA2
-course_fees:
+course_fees: null
 endorsement: false
 ---
 Description pending.
