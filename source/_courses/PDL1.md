@@ -1,6 +1,6 @@
 ---
 title: PDL1
-name: Pathway Digital Literacy
+name: Pathways Digital Literacy
 code: PDL1
 subject_area: Pathways Digital Literacy
 date: 2019-07-03T04:34:35.368Z
