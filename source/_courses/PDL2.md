@@ -19,4 +19,4 @@ leads_to:
 course_fees: null
 endorsement: false
 ---
-Description pending.
+Computing skills are an essential requirement for most employment opportunities. This course concentrates on gaining a base of good practical knowledge through a hands on approach. Specific content includes managing computer files, presenting software incorporating digital media, word processing and spreadsheets, digital image manipulation, and creation of documents for the World Wide Web.
