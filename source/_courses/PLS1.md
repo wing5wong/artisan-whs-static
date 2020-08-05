@@ -23,4 +23,6 @@ leads_to:
 course_fees: null
 endorsement: false
 ---
-Description pending.
+Pathways Life Skills is a programme for Year 11 students where the major focus is to ensure they have developed skills needed in life and to succeed in a work environment. Students are able to gain NCEA Level 1. Students work through the units on offer at a pace suited to their learning style and gain the credits once they have completed the assessments. This is a self driven course ensuring that students develop time management skills.
+
+As appropriate units are identified based on the students and needs and interests they will be added to the course.
