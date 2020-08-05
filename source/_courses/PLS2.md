@@ -19,4 +19,4 @@ leads_to:
 course_fees: null
 endorsement: false
 ---
-Description pending.
+Pathways Life Skills is a programme for Year 12 students where the major focus is to ensure they have acquired and practised skills that enable them to be successful not just in a work environment but also competently navigate life in a variety of situations. Students are able to gain NCEA Level 2 credits. Students can also work towards industry recognised trade credits that will allow them to enter the catering community with required credits. Students work through the units on offer at a pace suited to their learning style and gain the credits once they have completed the assessments. This is a self driven course ensuring that students develop skills and gain knowledge required to enter Vocational Studies L3.
