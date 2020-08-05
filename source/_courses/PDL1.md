@@ -2,10 +2,10 @@
 title: PDL1
 name: Pathway Digital Literacy
 code: PDL1
-subject_area: Pathway Digital Literacy
+subject_area: Pathways Digital Literacy
 date: 2019-07-03T04:34:35.368Z
 entry_requirements: Subject to HOF approval.
-year: '11'
+year: "11"
 type: Optional
 course_duration: Full Year
 course_level: NCEA 1
