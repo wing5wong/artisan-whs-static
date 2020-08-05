@@ -19,4 +19,6 @@ leads_to:
 course_fees: null
 endorsement: false
 ---
-Description pending.
+Pathways Communication Skills is a programme for Year 12 students where the major focus is to ensure they have well developed communication and literacy skills that enable them to be successful in a work environment. Students are able to gain NCEA Level 1/ 2. Specific content is:
+
+Knowing my networks and my community; knowing my rights and responsibilities and the communication of these aspects.
