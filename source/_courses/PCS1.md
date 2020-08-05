@@ -23,4 +23,6 @@ leads_to:
 course_fees: null
 endorsement: false
 ---
-Description pending.
+Pathways Communication Skills focuses on developing sound communication skills, preparing students to be successful in a work environment.
+
+Students are given the opportunity to gain 10 Literacy Credits through a portfolio of work; a combination of Reading,Writing and Speaking tasks.
