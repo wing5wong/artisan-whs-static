@@ -1,10 +1,10 @@
 ---
 title: Course Requirements
 date: 2020-07-28T22:41:39.124Z
-intro: Entry into all classes is subject to a satisfactory record in the
-  preceding year. Success in the Whanganui High School examinations gives
-  students provisional entry into their subjects the following year. Level 2 and
-  Level 3 subject entry is confirmed through the NCEA examinations
+intro: Information about course requirements at Whanganui High School. Contains
+  information about; Entry into Senior subjects, NCEA requirements, Endorsements
+  at Levels 1-3, University Entrance (UE), Scholarship, Whanganui High School
+  Graduation Diploma, External Studies and Vocational Studies.
 ---
 #### Course Requirements in Senior Classes:
 
