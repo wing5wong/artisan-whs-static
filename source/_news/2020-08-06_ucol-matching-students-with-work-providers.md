@@ -1,8 +1,9 @@
 ---
 title: Ucol matching students with work providers
 feature_image:
-  description: "UCOL chef and hospitality students are amongst those who have been
-    working with businesses on work placements. "
+  description: UCOL chef and hospitality students are amongst those who have been
+    working with businesses on work placements.  Photo; Ucol cooking
+    competitions 2019, WHS students Hannah Neilson and Andrew Wong.
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1596696302/News/Hannah_Neilson_ex_chef_ucol._Chron_4.8.20_photo_file.jpg
   credit: File
 news_author:
