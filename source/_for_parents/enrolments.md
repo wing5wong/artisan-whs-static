@@ -13,8 +13,8 @@ Please ensure you attach a copy of your child's birth certificate/ or passport, 
 
 **Deliver to our school office:**
 
-Whanganui High School\
-Purnell Street\
+Whanganui High School  
+Purnell Street  
 Whanganui
 
 Enrolment Application Forms and supporting documentation for 2021 enrolments should ideally be received no later than the end of Term 2.
