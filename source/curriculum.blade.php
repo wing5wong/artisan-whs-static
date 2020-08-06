@@ -7,9 +7,7 @@
         <h2 class="mb-2 w-100">
             {{$curriculum->get('curriculum-structure')['title']}}
         </h2>
-        @if(array_key_exists('intro',$curriculum->get('curriculum-structure')))
         {{ $curriculum->get('curriculum-structure')["intro"] }}
-        @endif
         <a href="{{$curriculum->get('curriculum-structure')->getPath()}}" class="btn btn-light my-5">More
             Information</a>
     </div>
@@ -17,9 +15,7 @@
         <h2 class="mb-2 w-100">
             {{$curriculum->get('course-requirements')['title']}}
         </h2>
-        @if(array_key_exists('intro',$curriculum->get('course-requirements')))
         {{ $curriculum->get('course-requirements')["intro"] }}
-        @endif
         <a href="{{$curriculum->get('course-requirements')->getPath()}}" class="btn btn-light my-5">More
             Information</a>
     </div>
@@ -34,9 +30,7 @@
         <h2 class="mb-2 w-100">
             {{$curriculum->get('vocational-pathways')['title']}}
         </h2>
-        @if(array_key_exists('intro',$curriculum->get('vocational-pathways')))
         {{ $curriculum->get('vocational-pathways')["intro"] }}
-        @endif
         <a href="{{$curriculum->get('vocational-pathways')->getPath()}}" class="btn btn-light my-5">More
             Information</a>
     </div>
