@@ -1,7 +1,10 @@
 ---
 title: Curriculum Structure
 date: 2020-07-29T02:23:57.661Z
-intro: .
+intro: An overview of how Whanganui High School's curriculum is structured.
+  Information about; course structure, subject names, multilevel courses, course
+  pathways, course specialisation, curriculum levels, NCEA Scholarship,
+  University Entrance Approval Courses, and Vocational Subjects.
 ---
 [Course Options](/curriculum/course-options/) 
 
