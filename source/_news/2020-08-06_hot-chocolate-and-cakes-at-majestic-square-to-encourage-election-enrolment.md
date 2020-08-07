@@ -16,6 +16,6 @@ Unfortunately, it rained for much of the time but it didn’t seem to dampen the
 
 District Council employee, Nicole Grey, works with the Youth Council to encourage team building, youth developing and networking. She pointed out that 37% of Whanganui residents aged 15 to 24 are Maori, considerably more than the national average of 15%.
 
-**Charlotte Hardy** is the co-chair of the committee and explained that they have recently appointed 10 new members to the committee. Members can be aged from 12 to 24.
+**Charlotte Hardy is the co-chair of the committee** and explained that they have recently appointed 10 new members to the committee. Members can be aged from 12 to 24.
 
 There is another event coming up this Friday. The Electoral Commission is inviting young people to come anytime between 3pm to 7pm to the old National Bank/ex-Franks building in Majestic Square to hear about possible jobs associated with the election. Nicole explained that already, young people are being employed at $25 an hour to sign up new enrolments with a target of four per hour.
