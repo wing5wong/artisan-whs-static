@@ -6,7 +6,7 @@ news_author:
   date: 2020-07-20T22:56:59.946Z
   name: Mrs Jones
   publication: Head of Music
-show_in_slider: true
+show_in_slider: false
 date: 2020-07-21T22:56:59.963Z
 ---
 CONGRATULATIONS DENNIHE EDWARDS AND TOA TAWHITAPOU! 
