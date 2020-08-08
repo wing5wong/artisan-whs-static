@@ -6,7 +6,7 @@ feature_image:
 news_author:
   date: 2020-07-22T23:43:09.086Z
   publication: River City Press
-show_in_slider: true
+show_in_slider: false
 date: 2020-08-06T23:43:09.111Z
 ---
 This week the winners of this year's Whanganui Smokefreerockquest competition in the solo/duo category have been announced, both winning a prize package from the Rockshop and going into the national selection pool for the event’s live national final.
