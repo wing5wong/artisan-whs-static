@@ -6,8 +6,8 @@ feature_image:
   credit: Eva-Rose Wakefield
 news_author:
   date: 2020-07-31T01:42:32.894Z
-  name: Callista Booth-Richards
-  publication: "Head Academic Prefect "
+  name: ""
+  publication: ""
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011806/News/House%20Quiz%2031.8.20/International_Students_4.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011806/News/House%20Quiz%2031.8.20/International_Students_5.jpg
@@ -70,3 +70,8 @@ The Quiz was run by the Academic Prefects, emceed by House Captains, and marked 
 Congratulations to 'Foot', winners of the Quiz, and contributing to Whenua winning overall.
 
 **Woohoo! .. WHENUA takes out HOUSE QUIZ 2020!!**
+
+_Callista Booth-Richards  
+Head Academic Prefect_ 
+
+_PHOTOS courtesy of Eva-Rose Wakefield_
