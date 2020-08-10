@@ -4,6 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597097171/News/116785207_3201655596538254_2927066604022053747_o.jpg
 news_author:
   date: 2020-08-07T22:05:54.054Z
+  publication: www.smokefreerockquest.co.nz
 show_in_slider: false
 date: 2020-08-10T22:05:54.075Z
 ---
