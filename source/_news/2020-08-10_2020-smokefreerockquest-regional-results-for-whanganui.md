@@ -1,5 +1,5 @@
 ---
-title: 2020 Smokefreerockquest Regional Results for Whanganui
+title: Whanganui High School Rocks at 2020 Smokefreerockquest Regionals
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597097171/News/116785207_3201655596538254_2927066604022053747_o.jpg
 news_author:
