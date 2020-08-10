@@ -27,5 +27,5 @@ date: 2020-08-10T22:05:54.075Z
 **APRA Lyric Award - Imogen Maguire (Whanganui High School)**  
 **ZM Best Song Award - In Business, 1st song (Cullinane College, Whanganui High School)**
 
-Click below to listen to Whanganui Band Regional Video Submissins for 2020:
+Click below to listen to Band Regional Video Submissins for 2020, Whanganui:
 https://smokefreerockquest.co.nz/whanganui/
