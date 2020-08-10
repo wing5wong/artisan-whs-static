@@ -1,5 +1,5 @@
 ---
-title: WHENUA takes out House Quiz 2020
+title: WHENUA takes out House Quiz 2020!
 feature_image:
   description: Congratulations to 'Foot', winners of the Quiz!
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1596522494/News/FOOT._winners.jpg
