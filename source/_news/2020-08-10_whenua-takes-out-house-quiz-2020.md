@@ -24,8 +24,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011800/News/House%20Quiz%2031.8.20/DSC_0068.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011800/News/House%20Quiz%2031.8.20/DSC_0078.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011800/News/House%20Quiz%2031.8.20/DSC_0076.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011798/News/House%20Quiz%2031.8.20/DSC_0065.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011806/News/House%20Quiz%2031.8.20/International_Students_3.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011798/News/House%20Quiz%2031.8.20/DSC_0065.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011797/News/House%20Quiz%2031.8.20/DSC_0055.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011796/News/House%20Quiz%2031.8.20/DSC_0053.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011796/News/House%20Quiz%2031.8.20/DSC_0051.jpg
@@ -55,6 +55,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011780/News/House%20Quiz%2031.8.20/DSC_0009.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011780/News/House%20Quiz%2031.8.20/DSC_0008.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011798/News/House%20Quiz%2031.8.20/DSC_0060.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597041241/News/FOOT._winners.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011783/News/House%20Quiz%2031.8.20/DSC_0017.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595383918/Events/house_quiz_70s_idea.jpg
 show_in_slider: true
