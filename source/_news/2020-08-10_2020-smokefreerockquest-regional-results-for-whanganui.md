@@ -7,9 +7,13 @@ news_author:
 show_in_slider: false
 date: 2020-08-10T22:05:54.075Z
 ---
-**Smokefreerockquest Regional results are out - CONGRATULATIONS!! WHS ROCKS!! 1st and 3rd place band section, 1st place solo/duo AND taking away ALL other 7 awards.** 👏👏 🎉🎉 
+**Smokefreerockquest Regional results are out - CONGRATULATIONS!!  
+WHS ROCKS!!  
+1st and 3rd place Band section  👏  
+1st place Solo/Duo  👏  
+AND taking away ALL other 7 awards** 👏  
 
-**WOOHOO nice one guys!**
+**WOOHOO, nice one guys!**  🎉🎉
 
 ##### 2020 Smokefreerockquest Regional Results for Whanganui
 
