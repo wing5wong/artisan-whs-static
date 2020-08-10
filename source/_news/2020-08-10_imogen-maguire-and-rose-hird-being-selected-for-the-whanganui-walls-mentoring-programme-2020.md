@@ -1,6 +1,6 @@
 ---
-title: Imogen Maguire and Rose Hird being selected for the Whanganui Walls
-  mentoring programme 2020
+title: Imogen Maguire and Rose Hird selected for the Whanganui Walls mentoring
+  programme 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597017758/News/Whanganui-walls-street-art.poster.jpg
 news_author:
@@ -32,6 +32,4 @@ Sign up today, share with your community, and be part of a global movement for a
 
 Presented by PangeaSeed Foundation Alternative Arts Initiative and Whanganui Walls
 
-Artwork by supporting ARTivist @ginakiel nz @kellyspencer Nz @ericvozzola (USA).@georgerose Au
-
-#home2020 #paintforapurpose #protectwhatyoulove #artivism #earthday2020 #stayhome
+Artwork by supporting ARTivist @ginakiel nz @kellyspencer Nz @ericvozzola (USA).@georgerose Au
