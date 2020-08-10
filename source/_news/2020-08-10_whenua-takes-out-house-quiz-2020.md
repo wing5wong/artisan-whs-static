@@ -10,7 +10,6 @@ news_author:
   publication: ""
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011806/News/House%20Quiz%2031.8.20/International_Students_4.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011806/News/House%20Quiz%2031.8.20/International_Students_5.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011805/News/House%20Quiz%2031.8.20/DSC_0104.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011804/News/House%20Quiz%2031.8.20/DSC_0089.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011804/News/House%20Quiz%2031.8.20/DSC_0091.jpg
