@@ -21,7 +21,7 @@ Competing bands sent in a live performance video featuring two original songs fo
 
 "I really like playing live and feeding off the crowd, but this was the best the organisers could do," Max said.
 
-All four band members had different musical influences, singer/former WHS student **Faith Solomona** said, and they "combined them all together" to make the In Business sound.
+All four band members had different musical influences, singer **Faith Solomona** said, and they "combined them all together" to make the In Business sound.
 
 "Between last year and now we released our single Never Again on Spotify and we've been playing a lot more gigs as a result of winning last year's Rockquest.
 
