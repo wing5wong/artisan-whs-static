@@ -55,7 +55,11 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011780/News/House%20Quiz%2031.8.20/DSC_0008.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011798/News/House%20Quiz%2031.8.20/DSC_0060.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597041241/News/FOOT._winners.jpg
+    description: Congratulations to ‘Foot’, winners of the Quiz, and contributing to
+      Whenua winning overall!
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597011783/News/House%20Quiz%2031.8.20/DSC_0017.jpg
+    description: Thank you to our amazing Academic Prefect Team for making this
+      event such a success!
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1595383918/Events/house_quiz_70s_idea.jpg
 show_in_slider: true
 date: 2020-08-10T01:42:32.922Z
@@ -73,4 +77,4 @@ Congratulations to 'Foot', winners of the Quiz, and contributing to Whenua winni
 _Callista Booth-Richards  
 Head Academic Prefect_ 
 
-_PHOTOS courtesy of Eva-Rose Wakefield_
+_PHOTOS courtesy of Eva-Rose Wakefield - thank you!_
