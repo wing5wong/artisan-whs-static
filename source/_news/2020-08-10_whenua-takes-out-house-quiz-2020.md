@@ -5,7 +5,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1596522494/News/FOOT._winners.jpg
   credit: Eva-Rose Wakefield
 news_author:
-  date: 2020-08-10T01:42:32.894Z
+  date: 2020-07-31T01:42:32.894Z
   name: Callista Booth-Richards
   publication: "Head Academic Prefect "
 image_gallery:
