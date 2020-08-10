@@ -15,7 +15,7 @@ AND taking away ALL other 7 awards** 👏
 
 **WOOHOO, nice one guys!**  🎉🎉
 
-##### 2020 Smokefreerockquest Regional Results for Whanganui
+#### 2020 Smokefreerockquest Regional Results for Whanganui
 
 **1st place band - In Business (Cullinane College, Whanganui High School)**  
 2nd place band - Flower of Hades (Ruapehu College)  
@@ -31,5 +31,5 @@ AND taking away ALL other 7 awards** 👏
 **APRA Lyric Award - Imogen Maguire (Whanganui High School)**  
 **ZM Best Song Award - In Business, 1st song (Cullinane College, Whanganui High School)**
 
-Click below to listen to Band Regional Video Submissins for 2020, Whanganui:
+Click below to listen to Band Regional Video Submissions for 2020, Whanganui:
 https://smokefreerockquest.co.nz/whanganui/
