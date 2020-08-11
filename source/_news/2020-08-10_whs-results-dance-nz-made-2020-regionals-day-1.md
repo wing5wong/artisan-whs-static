@@ -1,5 +1,5 @@
 ---
-title: WHS Results - Dance NZ Made 2020 Regionals - Day 1
+title: WHS Results - Dance NZ Made 2020 Regionals - Solos, Duos and Trios
 news_author:
   date: 2020-08-10T23:25:42.303Z
   publication: Whanganui High School
@@ -7,41 +7,44 @@ news_author:
 show_in_slider: true
 date: 2020-08-10T23:25:42.319Z
 ---
-What a stunning two nights of dancing from our WHS dancers!
+**What a stunning two nights of dancing from our WHS dancers!**
 These are photos from the first night of Solos, Duos and Trios. There are some more photos to come.
-Congratulations to all of our dancers !!
 
-Photos taken by Paris Munro
+**Congratulations to all of our dancers !!**
 
-RESULTS ...
+#### RESULTS ...
 
-Year 9
+
+**SOLOS**
+
+Year 9  
 1st Place Zoe Bullock
 
-Year 10
-
-1st Place Mira Meijer
+Year 10  
+1st Place Mira Meijer  
 2nd Place Tobias Perkins
 
-Year 11
-1st Place Lauren Phillips
-2nd Place Lucia Fell
+Year 11  
+1st Place Lauren Phillips  
+2nd Place Lucia Fell  
 3rd Place Millie Frampton
 
-Year 12
-1st Place Emma Henare
+Year 12  
+1st Place Emma Henare  
 3rd Place Rebecca Allardice
 
-Year 13
+Year 13  
 1st Place Rebekah Phillips
 
-DUOS/ TRIOS
+**DUOS / TRIOS**
 
-Year 11-13
-
+Year 11-13  
 1st Place Laura McIntosh, Amy Bennetts & Nat Kirk
 
-Open Section
+**OPEN SECTION**
 
-1st Place Sophia & Olivia Bedwell
+1st Place Sophia & Olivia Bedwell  
 2nd Place Katy Harvey & Lilly Everett
+
+_Photos taken by Paris Munro_
+
