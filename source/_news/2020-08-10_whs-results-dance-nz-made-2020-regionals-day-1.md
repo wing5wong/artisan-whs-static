@@ -3,7 +3,7 @@ title: WHS Results - Dance NZ Made 2020 Regionals - Solos, Duos and Trios
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597108226/News/Dance%20NZ%20Made%20Reg2020.Solos%2C%20Duos%20and%20Trios/30.117308266_991031981319140_7334534703540096203_o.jpg
 news_author:
-  date: 2020-08-10T23:25:42.303Z
+  date: 2020-08-09T23:25:42.303Z
   publication: Whanganui High School
   name: Mrs Campbell, TIC Dance
 image_gallery:
