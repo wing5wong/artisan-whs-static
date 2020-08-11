@@ -6,8 +6,8 @@ feature_image:
     Simpson, Jacob Brown, Siobhan Sarkar, Miriama Joseph; and former students
     Brittanie Goodgame-Archer, Nikita Ebbutt-Morehouse and Tiana Absolum.
 news_author:
-  date: 2020-07-03T07:39:52.581Z
-  publication: Whanganui Distrist Council Youth Committee Facebook Page
+  date: 2020-07-31T07:39:52.581Z
+  publication: ""
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597132123/News/Youth_Committee_of_Whanganui_2020.snip_names_only.jpg
 show_in_slider: true
@@ -25,3 +25,4 @@ What do you think the youth of Whanganui need?
 
 If you know any of these wonderful humans, chat/korero with them! @ Whanganui District Council
 
+[Whanganui District Council Youth Committee Facebook Page](https://www.facebook.com/WDCYouthCommittee/)
