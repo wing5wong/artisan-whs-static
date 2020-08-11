@@ -64,7 +64,7 @@ date: 2020-08-10T23:25:42.319Z
 These are photos from the first night of Solos, Duos and Trios.  
 There are some more photos to come.
 
-**Congratulations to all of our dancers !!**
+**Congratulations to all of our dancers!!**
 
 #### RESULTS ...
 
