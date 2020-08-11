@@ -41,7 +41,7 @@ Year 13
 Year 11-13  
 1st Place Laura McIntosh, Amy Bennetts & Nat Kirk
 
-**OPEN SECTION**
+**Open Section**
 
 1st Place Sophia & Olivia Bedwell  
 2nd Place Katy Harvey & Lilly Everett
