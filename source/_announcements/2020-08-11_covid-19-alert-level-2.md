@@ -5,8 +5,6 @@ date: 2020-08-11T23:25:24.499Z
 subtitle: Information for Whanganui High School Students and Families
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
-Covid-19 Alert Level 2
-
 Following the Government's announcement last night of our move to Covid-19 Alert Level 2, we want to reassure you that the School has re-established the guidelines we put in place previously for Alert Level 2. 
 
 Our School is open as usual, with the following expectations in place:
