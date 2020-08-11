@@ -9,19 +9,21 @@ news_author:
 show_in_slider: true
 date: 2020-08-10T23:29:48.970Z
 ---
-Wow !! What a night. We were so proud of the heart and soul our amazing students brought to the stage for Dance NZ Made 2020!!
+**Wow!! What a night.** 
+
+**We were so proud of the heart and soul our amazing students brought to the stage for Dance NZ Made 2020!!**
 
 
-RESULTS
+#### RESULTS
 
-Year 9-10
+Year 9-10  
 2nd Place Triple H
 
-Year 11-13
+Year 11-13  
 2nd Place WHS Senior Team
 
-Open Section
-2nd Place Birds Set Free
+Open Section  
+2nd Place Birds Set Free  
 3rd Place The way you make me feel
 
 _Photos taken by Kate Regan_
