@@ -11,7 +11,7 @@ news_author:
 show_in_slider: false
 date: 2020-07-18T08:28:13.955Z
 ---
-Brought to you by Wanganui Rugby Union.
+Brought to you by Wanganui Rugby Union.
 
 Nelson Mandela was once quoted that he never lost - he either won or he learned.
 
