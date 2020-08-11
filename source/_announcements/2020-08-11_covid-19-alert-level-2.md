@@ -11,8 +11,10 @@ Following the Government's announcement last night of our move to Covid-19 Alert
 
 Our School is open as usual, with the following expectations in place:
 
-•	All students and staff who are unwell must stay at home. Our sick bay will not be available for students who become ill at school. These students will be asked to go home.
-•	Hand sanitizer is available throughout the school and both staff and students have been asked to follow good handwashing routines.
+•	All students and staff who are unwell must stay at home. Our sick bay will not be available for students who become ill at school. These students will be asked to go home.  
+
+•	Hand sanitizer is available throughout the school and both staff and students have been asked to follow good handwashing routines.  
+
 •	There will be no assemblies and sensible social distancing will be maintained as best we can.
 
 We encourage you to trace your movements using the NZ Covid Tracer app or something similar.
