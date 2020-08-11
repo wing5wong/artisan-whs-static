@@ -7,8 +7,6 @@ news_author:
 show_in_slider: false
 date: 2020-08-11T23:23:31.533Z
 ---
-Covid-19 Alert Level 2
-
 Following the Government's announcement last night of our move to Covid-19 Alert Level 2, we want to reassure you that the School has re-established the guidelines we put in place previously for Alert Level 2. 
 
 Our School is open as usual, with the following expectations in place:
