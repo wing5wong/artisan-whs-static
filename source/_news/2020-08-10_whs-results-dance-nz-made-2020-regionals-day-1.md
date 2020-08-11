@@ -57,8 +57,12 @@ image_gallery:
 show_in_slider: true
 date: 2020-08-10T23:25:42.319Z
 ---
-**What a stunning two nights of dancing from our WHS dancers!**
-These are photos from the first night of Solos, Duos and Trios. There are some more photos to come.
+**_(Photos taken by Paris Munro)_**
+
+**What a stunning two nights of dancing from our WHS dancers!**  
+
+These are photos from the first night of Solos, Duos and Trios.  
+There are some more photos to come.
 
 **Congratulations to all of our dancers !!**
 
@@ -96,5 +100,4 @@ Year 11-13
 1st Place Sophia & Olivia Bedwell  
 2nd Place Katy Harvey & Lilly Everett
 
-_Photos taken by Paris Munro_
 
