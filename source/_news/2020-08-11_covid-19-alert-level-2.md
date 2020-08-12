@@ -22,3 +22,5 @@ We encourage you to trace your movements using the NZ Covid Tracer app or someth
 In the meantime, please remain calm. We will keep you informed in the event of any changes.
 
 Kia kaha koutou. 
+
+For more information go to [www.covid19.govt.nz ](https://covid19.govt.nz/)
