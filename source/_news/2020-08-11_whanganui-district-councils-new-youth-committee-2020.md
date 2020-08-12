@@ -13,17 +13,17 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597183257/News/Youth_Committee_of_Whanganui_2020.snip.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597183276/News/Youth_Committee_of_Whanganui_2020.student_1.jpg
-    description: Jacob Brown congratulated by Mayor Hamish McDouall at Whanganui
-      District Council.
+    description: Newly appointed member, Jacob Brown congratulated by Mayor Hamish
+      McDouall at Whanganui District Council.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597183311/News/Youth_Committee_of_Whanganui_2020.student_3.jpg
-    description: Miriama Joseph congratulated by Mayor Hamish McDouall at Whanganui
-      District Council.
+    description: Newly appointed member, Miriama Joseph congratulated by Mayor
+      Hamish McDouall at Whanganui District Council.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597183327/News/Youth_Committee_of_Whanganui_2020.student_4.jpg
-    description: Myles Simpson congratulated by Mayor Hamish McDouall at Whanganui
-      District Council.
+    description: Newly appointed member, Myles Simpson congratulated by Mayor Hamish
+      McDouall at Whanganui District Council.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597183293/News/Youth_Committee_of_Whanganui_2020.student_2.jpg
-    description: Siobhan Sarkar congratulated by Mayor Hamish McDouall at Whanganui
-      District Council.
+    description: Newly appointed member, Siobhan Sarkar congratulated by Mayor
+      Hamish McDouall at Whanganui District Council.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597183356/News/Youth_Committee_of_Whanganui_2020_poster.jpg
 show_in_slider: true
 date: 2020-08-11T07:39:52.599Z
