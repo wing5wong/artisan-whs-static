@@ -2,7 +2,7 @@
 title: Zoe and Rose both selected as finalists in the National Youth Art Awards!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597129479/News/Zoe-_-Rose-together.jpg
-  description: Left; Rose Hird ' A Chantry for Cumulus' (Printmaking) and Zoe
+  description: Left; Rose Hird 'A Chantry for Cumulus' (Printmaking) and Zoe
     Bracegirdle 'Self Belief' (Photography).
 news_author:
   date: 2020-08-11T07:00:47.231Z
