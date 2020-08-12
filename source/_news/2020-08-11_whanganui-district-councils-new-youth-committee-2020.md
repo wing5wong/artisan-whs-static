@@ -3,7 +3,7 @@ title: Whanganui District Council's new Youth Committee 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597131864/News/Youth_Committee_of_Whanganui_2020_council_facebook_group.jpg
   description: With Cr James Barron, Mayor Hamish McDouall and Whanganui District
-    Council Youth members including WHS students Charlotte Hardy (co-chair),
+    Council Youth members including WHS students' Charlotte Hardy (co-chair),
     Myles Simpson, Jacob Brown, Siobhan Sarkar, Miriama Joseph; and former
     students Brittanie Goodgame-Archer, Nikita Ebbutt-Morehouse and Tiana
     Absolum.
@@ -32,7 +32,7 @@ Wowweee check out our new Youth Committee! 👏🏼🔥
 
 Was awesome to have 9 new members sworn in by Mayor Hamish McDouall on Monday.
 
-Congrats to Louis Devine & **Charlotte Hardy** - our new co-chairs! And a teary farewell to Ariana Cronshaw 😭
+Congrats to Louis Devine & **Charlotte Hardy** - our new co-chairs! And a teary farewell to Ariana Cronshaw.
 
 We exist to take YOUR views to the council. That means we can do our job/mahi if YOU speak up and contribute..
 
