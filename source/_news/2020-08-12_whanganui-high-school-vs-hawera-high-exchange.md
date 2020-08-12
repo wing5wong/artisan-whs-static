@@ -7,9 +7,9 @@ news_author:
 show_in_slider: true
 date: 2020-08-12T00:51:41.769Z
 ---
-Great Sports Exchange yesterday against Hawera High at Whanganui High School.  
+Great Sports Exchange yesterday against Hawera High at Whanganui High School on Tuesday 11 August 2020.  
 
-WHS were overall winners of the exchange winning 8 out of the 11 sports played.  
+**WHS were overall winners of the exchange winning 8 out of the 11 sports played.**  
 
 #### Results:  
 
