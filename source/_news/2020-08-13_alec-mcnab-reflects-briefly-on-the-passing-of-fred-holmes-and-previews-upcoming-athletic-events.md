@@ -9,7 +9,7 @@ news_author:
   date: 2020-08-12T23:49:42.591Z
   publication: Whanganui Chronicle
   name: Alex McNab, Athletic Insight
-show_in_slider: true
+show_in_slider: false
 date: 2020-08-13T23:49:42.608Z
 ---
 Last week I highlighted the invaluable work of volunteers in sport and other sectors of New Zealand society.
