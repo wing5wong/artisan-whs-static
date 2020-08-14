@@ -2,8 +2,8 @@
 title: Key items from gallery site on show
 feature_image:
   description: Archaeologist Michael Taylor (right) and Whanganui District Council
-    heritage adviser Scott Flutey are hoping to find intact evidence of housing
-    over the next two years of the project.
+    heritage adviser Scott Flutey (former WHS student) are hoping to find intact
+    evidence of housing over the next two years of the project.
   credit: Bevan Conley
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597363248/News/Scott_Flutey_ex._Chron_13.8.20.jpg
 news_author:
