@@ -6,21 +6,19 @@ date: 2019-09-17T02:23:57.661Z
 
 [2021 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1592952934/International/WHS_International_Application_Form.pdf)
 
+[2021 Fee Schedule](https://res.cloudinary.com/whanganuihigh/image/upload/v1595993041/International/2021_Fee_Schedule.pdf)
+
 ## Tuition Fee:
 
-**Standard Year Course: NZ $14,000**
+**Standard Year Course: NZ $14,500**
 
-This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,000, Three terms - $10,500.
+This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,250; Three terms - $10,875.
 
-**Standard Short Course: NZ $370 per week**
+**Premium Year Course: NZ $16,000**
 
-One Term or less.
+This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $8,000; Three terms - $12,000.
 
-**Premium Year Course: NZ $15,500**
-
-This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $7,750, Three terms - $11,625.
-
-**Premium Short Course: NZ $420 per week**
+**Short Course: NZ $435 per week**
 
 One Term or less
 
@@ -66,21 +64,21 @@ All students must have full insurance (personal effects, health and accident ins
 
 **Refund of Homestay Fees:** *(Based on all homestay fees paid up front)*
 
-If you move out of your homestay before the end of your contract, the portion of your homestay fees not already used will be returned to you. The Administration Fee of $650 and $1300 cannot be refunded.
+If you move out of your homestay before the end of your contract, the portion of your homestay fees not already used will be returned to you.
 
 To have your homestay fees returned, your parents must write to the Board of Trustees giving two weeks' notice, or pay two weeks' fees in lieu of notice.
 
-If you cancel your homestay contract before you move into the homestay, your fees will be refunded in full less the Administration Fee of $650.
+If you cancel your homestay contract before you move into the homestay, your fees will be refunded in full less an administration fee.
 
 If you request a change of homestay, then the original homestay will receive two weeks' fees in lieu of notice.
 
 ## Optional Extra Costs
 
 * **NZQA External Examination Fee: NZ $384**
-* **North Island 3 Day Trip: NZ $675** A three-day escorted tour around the centre of the North Island.  The trip goes from Whanganui to Waitomo
+* **North Island 3 Day Trip: NZ $720** A three-day escorted tour around the centre of the North Island.  The trip goes from Whanganui to Waitomo
   Caves and Rotorua, where students experience Maori culture, the luge, a farm show and Velocity Valley, before
   returning to Whanganui via Taupo (includes all entry fees, travel, food and accommodation).
-* **Wellington 3 Day Trip: NZ $350** A three-day escorted tour to Wellington. The trip goes from Whanganui to the Wairarapa then Wellington.  It includes Mount Bruce Bird Sanctuary, Te Papa Museum, Weta Workshop and Adrenaline Forest.  All entry fees, 
+* **Wellington 3 Day Trip: NZ $375** A three-day escorted tour to Wellington. The trip goes from Whanganui to the Wairarapa then Wellington.  It includes Mount Bruce Bird Sanctuary, Te Papa Museum, Weta Workshop and Adrenaline Forest.  All entry fees, 
   travel, food and accommodation is included.
 * **Air Chathams flight to Whanganui: NZ $170** Air Chathams flight to Whanganui with full concierge service. This includes a meet and transfer
   on arrival at Auckland International airport plus care of student until arrival in Whanganui.  
