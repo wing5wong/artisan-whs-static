@@ -9,7 +9,7 @@ news_author:
   date: 2020-08-12T23:39:21.552Z
   publication: Whanganui Chronicle
   name: Andy McGechan, Motocross
-show_in_slider: true
+show_in_slider: false
 date: 2020-08-13T23:39:21.579Z
 ---
 Whanganui's Seth Reardon is in the frame to potentially claim the 2020 Dirt Guide Cross Country Series this weekend.
