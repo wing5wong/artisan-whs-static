@@ -8,6 +8,9 @@ news_author:
   date: 2020-08-12T00:57:08.832Z
   publication: Whanganui Midweek
   name: Paul Brooks
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597371425/News/Judy_Webby._with_midweek_story_12.8.20_photo_from_art_society_facebook_page.jpg
+    description: Photo of Judy Webby from the Wanganui Arts Society Facebook page.
 show_in_slider: false
 date: 2020-08-14T00:57:08.848Z
 ---
