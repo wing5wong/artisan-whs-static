@@ -1,6 +1,5 @@
 ---
-title: Alec McNab reflects briefly on the passing of Fred Holmes and previews
-  upcoming athletic events
+title: Farewell to a good mate and Athletics news
 feature_image:
   description: Alec McNab (rear) farewells his good mate a dedicated community
     volunteer Fred Holmes who passed away on Monday.
@@ -17,7 +16,7 @@ Last week I highlighted the invaluable work of volunteers in sport and other sec
 
 On Monday I heard of the death of Fred Holmes, who was through the many years I knew him a dedicated volunteer, not only in athletics but for so many other areas in the community.
 
-I grew to know Fred back in the early to mid-1980s when I was coaching his son Martin, a talented middle-distance runner who was then a student at **Whanganui High School**.
+I grew to know Fred back in the early to mid-1980s when I was coaching his son **Martin**, a talented middle-distance runner who was then a student at **Whanganui High School**.
 
 Fred, like many parents, immediately volunteered.
 
