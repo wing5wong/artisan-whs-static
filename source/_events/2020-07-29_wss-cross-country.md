@@ -1,5 +1,5 @@
 ---
-title: "WSS Cross Country "
+title: WSS Cross Country - Postponed
 date: 2020-08-16T21:36:52.840Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1596059361/Events/111632050_3226676054058850_1832094114440829767_o.jpg
