@@ -1,5 +1,5 @@
 ---
-title: New Plymouth Girls High School sports exchange (away)
+title: New Plymouth Girls High School sports exchange (away) - CANCELLED
 date: 2020-08-18T02:11:09.391Z
 ---
 To be played at New Plymouth Girls High School.
