@@ -1,14 +1,10 @@
 ---
-title: Wellington Victoria University Open Day - Year 12/13
+title: Wellington Victoria University Open Day - Year 12/13 - Cancelled
 date: 2020-08-20T21:09:52.763Z
 ---
-Only Victoria University is hosting an 'on-site' open day this year on Friday 21 August. 
+As predicted, Victoria University of Wellington has cancelled its open day (21 August) because of Covid-19 level 2 restrictions, and the trip to Wellington will not proceed. 
 
-Massey will be virtual / on-line. Year 12's are welcome as well. 
-
-Register your interest by writing your name on the list at the Student Centre today, or PREFERRED, visit: bit.ly/whswgtnod2020 by Friday this week. 
-
-If you DO NOT do this, you could miss out!
+I will send out an email with more details to those affected. 	 
 
 _Mr Keene  
 Careers Advisor_
