@@ -18,7 +18,7 @@ Mr Sandman, the Sharyn Underwood School of Dance big stage production, was delay
 
 Like all of Sharyn's shows, Mr Sandman is an original production.
 
-Three of the principals are **Oisin Broadhead**, Emily Corcoran and Nikita McDonald.
+Three of the principals are **Oisin Broadhead** (former WHS student), Emily Corcoran and Nikita McDonald.
 
 Emily (12) is the child dreamer, in whose dreams the rest of the cast dance.
 
