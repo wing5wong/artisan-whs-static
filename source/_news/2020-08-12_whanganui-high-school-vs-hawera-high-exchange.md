@@ -26,5 +26,5 @@ Debate #2 won by Hawera High
 
 Thanks to Kate Regan for taking the photo's attached.  
 
-Thanks to everyone who helped make the day a success yesterday!! 💚🙂💛
+Thanks to everyone who helped make the day a success yesterday!! 💚💛
 
