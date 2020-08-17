@@ -1,5 +1,5 @@
 ---
-title: Wellness Week - Fun activities to be run at first break
+title: Wellness Week - Fun activities run at first break
 date: 2020-08-23T21:14:14.664Z
 ---
 The Year 12 Health class is running a Wellness Week which involves fun activities to help promote positive mental health. 
