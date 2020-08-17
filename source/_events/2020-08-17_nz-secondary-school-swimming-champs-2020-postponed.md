@@ -1,6 +1,7 @@
 ---
 title: NZ Secondary School Swimming Champs 2020 - POSTPONED
 date: 2020-08-20T01:07:29.347Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597626682/Events/Logo.png
 ---
 POSTPONED due to Covid-19.
 
