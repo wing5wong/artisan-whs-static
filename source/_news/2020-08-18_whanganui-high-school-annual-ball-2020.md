@@ -5,7 +5,7 @@ feature_image:
 news_author:
   date: 2020-08-07T22:16:18.601Z
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597789258/News/School_Ball_02.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597789638/News/School-Ball-02.jpg
     description: Student Choice - Jacob Brown and Anita Hohaia.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597789220/News/School_Ball_04.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597789275/News/School_Ball_03.jpg
