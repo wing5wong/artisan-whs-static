@@ -1,8 +1,8 @@
 ---
 title: WSS Cross Country - Re-scheduled date
 date: 2020-08-23T21:36:52.840Z
-image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1596059722/Events/Course_Map_at_Collegiate_School.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597807804/Events/117877692_3293202977406157_5490563319828554033_o.png
+image_gallery: []
 ---
 **WSS Cross Country will be going ahead under Level 2 on Monday 24 August.**
 
