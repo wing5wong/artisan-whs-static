@@ -3,7 +3,7 @@ title: Mrs B. Rudolph
 position: Director of International Students
 departments:
   - International
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1590015023/staff/Brenda_2.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597801951/staff/-Whanganui-High-School-005.jpg
 positions:
   - title: Director of International Students
     department: International
