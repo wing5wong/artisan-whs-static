@@ -8,15 +8,15 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804982/News/BALL%20PHOTOS%20by%20Kate%20Regan/king_queen._Kate_Rogan_photo.jpg
     description: King and Queen - Connor Hoskin and Alice Doney.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597789638/News/School-Ball-02.jpg
-    description: Student Choice - Jacob Brown and Anita Hohaia.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804983/News/BALL%20PHOTOS%20by%20Kate%20Regan/Princess_prince.jpg
     description: Prince and Princess - Kara Adrole and Liam Johnson.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804981/News/BALL%20PHOTOS%20by%20Kate%20Regan/cutest_couple_3._Kate_Rogan_photo.jpg
-    description: Cutest Couple - Divnesh Dayal and Abbie Trillo.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804981/News/BALL%20PHOTOS%20by%20Kate%20Regan/best_dressed._Kate_Rogan_photo.jpg
     description: Best Dressed Male and Female - Charlotte James and Jordyn
       Leiasamaivao-Turvey.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597789638/News/School-Ball-02.jpg
+    description: Student Choice - Jacob Brown and Anita Hohaia.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804981/News/BALL%20PHOTOS%20by%20Kate%20Regan/cutest_couple_3._Kate_Rogan_photo.jpg
+    description: Cutest Couple - Divnesh Dayal and Abbie Trillo.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804981/News/BALL%20PHOTOS%20by%20Kate%20Regan/Best_dancers._Kate_Rogan_photo.jpg
     description: Best Dancers - Brooke Ryland and Sebastian Newton.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597789220/News/School_Ball_04.jpg
@@ -37,7 +37,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804971/News/BALL%20PHOTOS%20by%20Kate%20Regan/117089662_1152010308510349_1236110616594653949_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804971/News/BALL%20PHOTOS%20by%20Kate%20Regan/117199503_1152010348510345_5699165110630057265_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804980/News/BALL%20PHOTOS%20by%20Kate%20Regan/Ball-Invites.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804980/News/BALL%20PHOTOS%20by%20Kate%20Regan/Ball_Invites.jpg
 show_in_slider: true
 date: 2020-08-18T22:16:18.622Z
 ---
