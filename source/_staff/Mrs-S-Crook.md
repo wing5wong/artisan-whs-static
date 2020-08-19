@@ -4,7 +4,7 @@ position: Homestay Co-ordinator, Alternative Education
 departments:
   - International
   - Support and Ancillary
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1566173885/staff/Sarah-Crook-2.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597801946/staff/-Whanganui-High-School-001.jpg
 positions:
   - department: International
     title: Homestay Co-ordinator
