@@ -1,5 +1,5 @@
 ---
-title: Secondary School Dodgeball Tournament - Year 9-13 - POSTPONED
+title: Secondary School Dodgeball Tournament - POSTPONED
 date: 2020-08-23T21:13:01.536Z
 ---
 The Secondary School Dodgeball Tournament has been postponed to another date. Sport Whanganui are going to be looking at another date further in the term, so keep looking out on the notices for when it will be.
