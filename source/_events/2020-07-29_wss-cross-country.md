@@ -4,7 +4,8 @@ date: 2020-08-23T21:36:52.840Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597807804/Events/117877692_3293202977406157_5490563319828554033_o.png
 image_gallery: []
 ---
-**WSS Cross Country will be going ahead under Level 2 on Monday 24 August.**
+**WSS Cross Country will be going ahead under Level 2 on Monday 24 August.**
+
 
 The afternoon will be set up differently to accommodate the races under the restrictions of Level 2.
 
@@ -15,3 +16,5 @@ There is to be NO SPECTATORS at the venue. Please abide by these rules!!
 More information will be out to the WHS Athletes this week about the format for the day!
 
 Sport Whanganui will be live streaming the races on their facebook page for families and friends to view.
+
+[2020 updated WSS Cross Country Information](https://res.cloudinary.com/whanganuihigh/image/upload/v1597874155/Events/2020-WSS-Cross-Country-Information-Sheet.pdf)
