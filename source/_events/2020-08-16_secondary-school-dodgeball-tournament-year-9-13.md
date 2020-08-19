@@ -1,10 +1,9 @@
 ---
-title: Secondary School Dodgeball Tournament - Year 9-13
+title: Secondary School Dodgeball Tournament - Year 9-13 - POSTPONED
 date: 2020-08-23T21:13:01.536Z
 ---
-If you and a group of friends are keen to play some Dodgeball on Monday 24 August against other Secondary Schools in Whanganui please use the bitly below to sign up. 
+The Secondary School Dodgeball Tournament has been postponed to another date. Sport Whanganui are going to be looking at another date further in the term, so keep looking out on the notices for when it will be.
 
-Information about the tournament will be in the bitly. 
+The bitly will still be open if anyone is keen to put a team in. Reminder that this is a mixed team tournament so you must have at least 2 girls minimum in your team.
 
-Entries will close on Monday 17 August.
-bit.ly/whsdodgeball
+**bit.ly/whsdodgeball**
