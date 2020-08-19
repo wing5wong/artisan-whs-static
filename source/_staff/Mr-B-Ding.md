@@ -5,7 +5,7 @@ departments:
   - Languages
   - International
   - Deans
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1568708771/staff/IMG_9570.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597801951/staff/-Whanganui-High-School-003.jpg
 positions:
   - department: International
     title: Dean of International Students
