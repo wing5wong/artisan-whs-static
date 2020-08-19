@@ -9,10 +9,10 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804982/News/BALL%20PHOTOS%20by%20Kate%20Regan/king_queen._Kate_Rogan_photo.jpg
     description: King and Queen - Connor Hoskin and Alice Doney.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804983/News/BALL%20PHOTOS%20by%20Kate%20Regan/Princess_prince.jpg
-    description: Prince and Princess - Kara Adrole and Liam Johnson.
+    description: Prince and Princess - Liam Johnson and Kara Adrole.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804981/News/BALL%20PHOTOS%20by%20Kate%20Regan/best_dressed._Kate_Rogan_photo.jpg
-    description: Best Dressed Male and Female - Charlotte James and Jordyn
-      Leiasamaivao-Turvey.
+    description: Best Dressed Male and Female - Jordyn Leiasamaivao-Turvey and
+      Charlotte James.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597789638/News/School-Ball-02.jpg
     description: Student Choice - Jacob Brown and Anita Hohaia.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804981/News/BALL%20PHOTOS%20by%20Kate%20Regan/cutest_couple_3._Kate_Rogan_photo.jpg
