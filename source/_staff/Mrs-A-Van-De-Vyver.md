@@ -3,7 +3,7 @@ title: Mrs A. Van De Vyver
 position: International Support Person
 departments:
   - International
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1568708772/staff/IMG_9558.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597801945/staff/-Whanganui-High-School-010.jpg
 positions:
   - department: International
     title: International Support Person
