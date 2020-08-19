@@ -2,7 +2,7 @@
 title: Whanganui High School Annual Ball 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597804971/News/BALL%20PHOTOS%20by%20Kate%20Regan/117160119_1152006425177404_873728929210209879_o.jpg
-  credit: Kate Regan
+  credit: ""
 news_author:
   date: 2020-08-07T22:16:18.601Z
 image_gallery:
