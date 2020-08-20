@@ -27,6 +27,53 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963647/News/Hawera%20Ex%2011.8.20%20basketball%20boys/118189927_1653707551445011_993103524460742005_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963646/News/Hawera%20Ex%2011.8.20%20basketball%20boys/118116256_1653689461446820_1542930395204661465_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963646/News/Hawera%20Ex%2011.8.20%20basketball%20boys/118090809_1653710348111398_1947898355643823418_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963646/News/Hawera%20Ex%2011.8.20%20basketball%20boys/118125534_1653710574778042_136844458859873700_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963646/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117973142_1653709181444848_4672628162275460520_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963646/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117945166_1653709144778185_3454288777796009963_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963645/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117904557_1653705641445202_5025913712705644784_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963644/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117773277_1653707824778317_1000236960211513910_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963644/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117772269_1653709664778133_5993941860929042945_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963644/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117791301_1653691138113319_8630914038764927226_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963644/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117890340_1653707568111676_6032472256747809112_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963644/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117890207_1653705618111871_6591043667290028976_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117713668_1653707671444999_2206715868684499018_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117768737_1653709731444793_8713814819299354370_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117702083_1653688308113602_139239390765534264_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117695474_1653710501444716_5045878003132682358_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117681817_1653691668113266_5215564098058101734_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963640/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117623246_1653705971445169_7269373351682221064_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963640/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117671620_1653709471444819_8061885456915614088_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963640/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117599849_1653709464778153_269078054277068287_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963640/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117548142_1653708631444903_6217546541151569262_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963640/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117591302_1653691418113291_7330593521100971618_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963640/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117386885_1653691781446588_6073695989197224718_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963749/News/Hawera%20Ex%2011.8.20%20netball/IMG_0366.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963744/News/Hawera%20Ex%2011.8.20%20netball/IMG_0349.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963743/News/Hawera%20Ex%2011.8.20%20netball/IMG_0339.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963742/News/Hawera%20Ex%2011.8.20%20netball/IMG_0126.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963742/News/Hawera%20Ex%2011.8.20%20netball/IMG_0139.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963742/News/Hawera%20Ex%2011.8.20%20netball/IMG_0134.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963741/News/Hawera%20Ex%2011.8.20%20netball/IMG_0117.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963735/News/Hawera%20Ex%2011.8.20%20netball/IMG_0089.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963734/News/Hawera%20Ex%2011.8.20%20netball/IMG_0061.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963734/News/Hawera%20Ex%2011.8.20%20netball/IMG_0054.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963734/News/Hawera%20Ex%2011.8.20%20netball/IMG_0063.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963734/News/Hawera%20Ex%2011.8.20%20netball/IMG_0096.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963733/News/Hawera%20Ex%2011.8.20%20netball/IMG_0106.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963725/News/Hawera%20Ex%2011.8.20%20hockey%20girls/118086194_1653688924780207_7354075451619631356_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963725/News/Hawera%20Ex%2011.8.20%20hockey%20girls/118008333_1653688554780244_4361987450525457940_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963724/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117910556_1653688518113581_496163316540674565_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963723/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117921314_1653688434780256_7472521810560923244_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963723/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117770477_1653688441446922_341412884294787922_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963723/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117877982_1653687798113653_991013933931046961_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963723/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117770494_1653688051446961_4754159349690063815_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963723/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117716454_1653688421446924_4692272874680745009_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963721/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117715459_1653688304780269_4587260601755221546_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963721/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117598683_1653689388113494_1755831695804068110_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963721/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117715459_1653688611446905_5876929240888234960_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963721/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117694618_1653688664780233_4661902310697891598_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963720/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117346122_1653689364780163_6088388425425158069_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963720/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117311591_1653688208113612_4938584831048318377_o.jpg
 show_in_slider: false
 date: 2020-08-12T00:51:41.769Z
 ---
