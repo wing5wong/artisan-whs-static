@@ -109,6 +109,19 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963708/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0189.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963708/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0182.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963707/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0234.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963771/News/Hawera%20Ex%2011.8.20%20rugby/IMG_0409.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963764/News/Hawera%20Ex%2011.8.20%20rugby/IMG_0279.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963764/News/Hawera%20Ex%2011.8.20%20rugby/IMG_0278.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963764/News/Hawera%20Ex%2011.8.20%20rugby/IMG_0316.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963762/News/Hawera%20Ex%2011.8.20%20rugby/IMG_0202.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963762/News/Hawera%20Ex%2011.8.20%20rugby/IMG_0214.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963760/News/Hawera%20Ex%2011.8.20%20rugby/IMG_0306.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963753/News/Hawera%20Ex%2011.8.20%20rugby/117302328_1653706831445083_3306775633392724824_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963753/News/Hawera%20Ex%2011.8.20%20rugby/118162191_1653706431445123_4433489862044256741_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963753/News/Hawera%20Ex%2011.8.20%20rugby/117946497_1653707021445064_6995008557556131198_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963753/News/Hawera%20Ex%2011.8.20%20rugby/117964520_1653706408111792_4989949509650781788_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963752/News/Hawera%20Ex%2011.8.20%20rugby/118150680_1653705231445243_3059784660044605380_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963752/News/Hawera%20Ex%2011.8.20%20rugby/117294637_1653710958111337_5349765226110046523_o.jpg
 show_in_slider: false
 date: 2020-08-12T00:51:41.769Z
 ---
