@@ -1,5 +1,7 @@
 ---
 title: Whanganui High School vs Hawera High Exchange great contest
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597962660/News/117768374_1653707761444990_2282984924664266953_o.jpg
 news_author:
   date: 2020-08-11T00:51:41.705Z
   publication: WHS Director of Sport
