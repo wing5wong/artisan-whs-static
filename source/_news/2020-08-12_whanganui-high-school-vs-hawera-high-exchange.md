@@ -14,7 +14,7 @@ Great Sports Exchange yesterday against Hawera High at Whanganui High School on 
 #### Results:  
 
 Phillips Electrical A1 Netball won 40-30  
-Junior A1 Netball won 45-20
+Junior A1 Netball won 45-20  
 Girls 1st XI Hockey won 4-0  
 Girls Football won 1-0  
 Boys Football won 2-1  
