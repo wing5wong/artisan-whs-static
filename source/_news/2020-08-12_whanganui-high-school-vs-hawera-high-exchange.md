@@ -74,6 +74,41 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963721/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117694618_1653688664780233_4661902310697891598_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963720/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117346122_1653689364780163_6088388425425158069_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963720/News/Hawera%20Ex%2011.8.20%20hockey%20girls/117311591_1653688208113612_4938584831048318377_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963697/News/Hawera%20Ex%2011.8.20%20football%20boys/IMG_0401.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963695/News/Hawera%20Ex%2011.8.20%20football%20boys/IMG_0402.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963689/News/Hawera%20Ex%2011.8.20%20football%20boys/IMG_0385.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963687/News/Hawera%20Ex%2011.8.20%20football%20boys/IMG_0322.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963687/News/Hawera%20Ex%2011.8.20%20football%20boys/IMG_0384.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963686/News/Hawera%20Ex%2011.8.20%20football%20boys/IMG_0378.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963685/News/Hawera%20Ex%2011.8.20%20football%20boys/IMG_0374.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963684/News/Hawera%20Ex%2011.8.20%20football%20boys/IMG_0335.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963678/News/Hawera%20Ex%2011.8.20%20football%20boys/118158405_1653707378111695_1225345006819447794_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963678/News/Hawera%20Ex%2011.8.20%20football%20boys/118205382_1653709934778106_1312425023478260482_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963678/News/Hawera%20Ex%2011.8.20%20football%20boys/118114941_1653707231445043_1403495496548550206_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963676/News/Hawera%20Ex%2011.8.20%20football%20boys/118076357_1653709034778196_9097970345892852026_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963676/News/Hawera%20Ex%2011.8.20%20football%20boys/118007885_1653707111445055_7523318037106665839_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963675/News/Hawera%20Ex%2011.8.20%20football%20boys/117907161_1653709398111493_7115638425179453977_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963675/News/Hawera%20Ex%2011.8.20%20football%20boys/118001073_1653707094778390_710431205407479124_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963675/News/Hawera%20Ex%2011.8.20%20football%20boys/117987197_1653706811445085_7661749804537404783_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963675/News/Hawera%20Ex%2011.8.20%20football%20boys/117952244_1653706628111770_8450254253809968531_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963673/News/Hawera%20Ex%2011.8.20%20football%20boys/117820761_1653706394778460_6403745703288499767_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963673/News/Hawera%20Ex%2011.8.20%20football%20boys/117772092_1653710028111430_4736739473697766086_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963673/News/Hawera%20Ex%2011.8.20%20football%20boys/117753070_1653708271444939_8653137600219107075_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963673/News/Hawera%20Ex%2011.8.20%20football%20boys/117650357_1653705444778555_1652019244845981575_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963673/News/Hawera%20Ex%2011.8.20%20football%20boys/117640275_1653711121444654_8421988394608633217_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963671/News/Hawera%20Ex%2011.8.20%20football%20boys/117351009_1653706294778470_7689057122524818555_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963671/News/Hawera%20Ex%2011.8.20%20football%20boys/117592134_1653707488111684_5752098772242340559_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963671/News/Hawera%20Ex%2011.8.20%20football%20boys/117600427_1653709338111499_6099702461259588487_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963671/News/Hawera%20Ex%2011.8.20%20football%20boys/117598959_1653710198111413_6488740067967412730_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963671/News/Hawera%20Ex%2011.8.20%20football%20boys/117581872_1653711074777992_2814077418237025191_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963671/News/Hawera%20Ex%2011.8.20%20football%20boys/117444902_1653706731445093_1457975736065186835_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963718/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0261.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963709/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0180.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963709/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0186.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963709/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0175.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963708/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0189.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963708/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0182.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963707/News/Hawera%20Ex%2011.8.20%20football%20girls/IMG_0234.jpg
 show_in_slider: false
 date: 2020-08-12T00:51:41.769Z
 ---
