@@ -36,7 +36,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963644/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117791301_1653691138113319_8630914038764927226_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963644/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117890340_1653707568111676_6032472256747809112_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963644/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117890207_1653705618111871_6591043667290028976_o.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117713668_1653707671444999_2206715868684499018_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117768737_1653709731444793_8713814819299354370_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117702083_1653688308113602_139239390765534264_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597963642/News/Hawera%20Ex%2011.8.20%20basketball%20boys/117695474_1653710501444716_5045878003132682358_o.jpg
