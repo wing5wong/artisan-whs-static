@@ -1,5 +1,5 @@
 ---
-title: NZ Secondary School Swimming Champs 2020
+title: NZ Secondary School Swimming Champs 2020 - Rescheduled Dates
 date: 2020-10-15T00:07:29.347Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597626682/Events/Logo.png
 ---
