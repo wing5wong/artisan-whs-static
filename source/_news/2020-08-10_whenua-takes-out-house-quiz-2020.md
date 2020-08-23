@@ -72,7 +72,11 @@ The Quiz was run by the Academic Prefects, emceed by House Captains, and marked 
 
 Congratulations to 'Foot', winners of the Quiz, and contributing to Whenua winning overall.
 
-**Woohoo! .. WHENUA takes out HOUSE QUIZ 2020!!**
+**Woohoo! .. WHENUA takes out HOUSE QUIZ 2020!!**  
+2nd Maunga  
+3rd Awa  
+4th Moana
+
 
 _Callista Booth-Richards  
 Head Academic Prefect_ 
