@@ -1,5 +1,5 @@
 ---
-title: WSS Cross Country - Re-scheduled date
+title: WSS Cross Country - Rescheduled Date
 date: 2020-08-23T21:36:52.840Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597807804/Events/117877692_3293202977406157_5490563319828554033_o.png
 image_gallery: []
