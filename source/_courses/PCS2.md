@@ -16,8 +16,6 @@ leads_to:
   - VDF3
   - VHT3
   - VMA3
-course_fees: null
-endorsement: false
 ---
 Pathways Communication Skills is a programme for Year 12 students where the major focus is to ensure they have well developed communication and literacy skills that enable them to be successful in a work environment. Students are able to gain NCEA Level 1/ 2. Specific content is:
 
