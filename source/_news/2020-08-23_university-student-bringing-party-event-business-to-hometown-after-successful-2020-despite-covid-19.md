@@ -21,7 +21,7 @@ Parkes is studying a conjoint degree in Business and Bachelor of Arts at the Uni
 
 Despite the disruptions caused by Covid-19, 2020 has been a success for Parkes, allowing her to expand the business to Dunedin and Whanganui.
 
-Her sister, **Grace**, will be running the Dunedin branch and friends, **Teagan Tapa and Delaney Mason**, will be running the Whanganui operation.
+Her sister, **Grace**, will be running the Dunedin branch and friends, **Teagan Tapa and Delaney Mason** (all former WHS students), will be running the Whanganui operation.
 
 GLOWNZ was born and inspired when Parkes' sister Grace was turning 21 a couple of years ago and they were looking for styling options for her birthday party.
 
