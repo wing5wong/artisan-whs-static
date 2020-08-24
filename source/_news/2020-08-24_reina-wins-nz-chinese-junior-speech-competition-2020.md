@@ -1,5 +1,5 @@
 ---
-title: Reina wins NZ Chinese Junior Speech Competition 2020
+title: Reina wins 2020 NZ Chinese Junior Speech Competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598228101/News/Reina_Jones_With_Trophy_1.jpg
   description: Reina holding the 2020 NZ School "Chinese Bridge" Speech
