@@ -13,6 +13,6 @@ Connor Hoskin our Head Boy has been recognised for dedicating his time to helpin
 
 Connor balances this service work with his sporting commitments in Hockey, where he is in the Under 21 New Zealand Māori Mens Team. He would have been playing in the Queensland tournament next month, but this has been cancelled due to Covid19.
 
-**Brother, Blake Hoskin received a Bronze Award from the Student Volunteer Army for his 32 hours volunteer work.**
+**Younger brother, Blake Hoskin received a Bronze Award from the Student Volunteer Army for his 32 hours volunteer work.**
 
 Wonderful works boys! Fantastic role models!!
