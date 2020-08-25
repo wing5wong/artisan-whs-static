@@ -7,7 +7,7 @@ news_author:
 show_in_slider: true
 date: 2020-08-25T22:41:16.431Z
 ---
-Connor Hoskin our Head Boy has been recognised for dedicating his time to helping our local community (through coaching, tutoring, event organisation, sport programmes and community service).  
+Connor Hoskin, our Head Boy, has been recognised for dedicating his time to helping our local community (through coaching, tutoring, event organisation, sport programmes and community service).  
 
 **Connor has received a Silver Award from the Student Volunteer Army to recognise his 250 hours of community service.**  
 
