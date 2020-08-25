@@ -3,7 +3,7 @@ title: WELLNESS WEEK - Fun activities running at first break!
 date: 2020-08-24T21:14:14.664Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598312560/Events/Health_poster.jpg
 ---
-##### The Year 12 Health class is running a Wellness Week which involves fun activities to help promote positive mental health. 
+#### The Year 12 Health class is running a Wellness Week which involves fun activities to help promote positive mental health. 
 
 **Positive quote for the day:** Your Attitude determines your direction.
 
