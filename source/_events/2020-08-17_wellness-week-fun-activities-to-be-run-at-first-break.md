@@ -18,7 +18,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598312560/Events/
 **Scavenger Hunt!** Find one of our wellness week painted rocks and take to the Student Centre by Friday to receive a recognition!  
 
 **Don't forget about our Dance Challenge** - If you wanna get involved and participate send us a 10-20 second video of you doing your favourite, most quirky dance moves by this Friday.  
-Send it in to WHShealth2020@gmail.com  
+Send it in to: WHShealth2020@gmail.com  
 Prizes are up for grabs for best dance moves and participation. For more details, email us at the same address.  
 
 **Need to talk?** 1737 is free to call or text from any landline or mobile phone, 24 hours a day 7 days a week. 1737 is designed to meet the needs of anyone who 'wants to talk' to a counsellor. 1737 is not tied to a specific mental health issue or condition. Also, if you are concerned about a friend give 1731 a call.
