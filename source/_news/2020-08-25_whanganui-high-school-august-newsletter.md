@@ -10,7 +10,6 @@ date: 2020-08-25T21:11:57.568Z
 ---
 **Celebrating Success of our Students!!**
 
-
 [Read the August 2020 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1598308631/newsletters/AUGUST_2020_rivercity_press_website.pdf)
 
-[To read other Newsletters see our School Newsletters page](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
+To read other Newsletters see our [School Newsletters page](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/)
