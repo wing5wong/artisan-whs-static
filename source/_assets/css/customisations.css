@@ -169,14 +169,6 @@
     /** 143c */
     color: #ecac20 !important; }
   
-  /* line 173, /css/customisations.scss */
-  blockquote {
-    text-align: center;
-    border-left: 1rem solid #ecac20;
-    color: #f1b434;
-    background-color: #014631;
-    padding: 1rem; }
-  
   /* line 180, /css/customisations.scss */
   .container {
     max-width: 960px; }
