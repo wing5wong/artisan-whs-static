@@ -1,7 +1,7 @@
 ---
 title: Winter Tournament Week
 date: 2020-08-31T02:14:19.313Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598331896/Events/winter_tourny_week_image.jpg
+image: ""
 ---
 Only a small number of our sports teams will be involved in competitions this year due to Covid restrictions.
 
