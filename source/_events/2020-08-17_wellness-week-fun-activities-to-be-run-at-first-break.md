@@ -1,21 +1,21 @@
 ---
 title: WELLNESS WEEK - Fun activities running at first break!
-date: 2020-08-24T21:14:14.664Z
+date: 2020-08-25T21:14:14.664Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598312560/Events/Health_poster.jpg
 ---
 #### The Year 12 Health class is running a 'Wellness Week' which involves fun activities to help promote positive mental health. 
 
-**Positive quote for the day:** Your Attitude determines your direction.
+**Positive quote for the day:** You’re not alone in this.
 
-**Tuesday's Health Blog** - https://bit.ly/WellnessBlog3  
+**Wednesday's Health Blog** - https://bit.ly/WellnessBlog1  
 
-**Link to Tuesday's form Class Quiz** - Work on the quizzes each day as a class, and one person in your form class answer on this google form. There will be a prize for the top form class at the end of the week https://forms.gle/iUsuWpbW7RkmW2UU9  
+**Link to Wednesday's form Class Quiz** - Work on the quizzes each day as a class, and one person in your form class answer on this google form. There will be a prize for the top form class at the end of the week https://forms.gle/iPXP6zwnBpWqATACA  
 
-**Today's break time activities are yoga (Te Ihi gym) and Juggling (Te Mana gym)** - see you there if you signed up.  
+**Today's break time activity is Volleyball in Te Wehi gym** - see you there if you signed up.  
 
-**Tomorrow is Volleyball** - see the sports noticeboard for teams and draw - make sure you bring your PE gear tomorrow  
+**Tomorrow is Dance/Jump Jam in the Hall.** 
 
-**Scavenger hunt!** Find one of our wellness week painted rocks and take to the student centre by Friday to receive a recognition!  
+**Scavenger Hunt!** Find one of our wellness week painted rocks and take to the Student Centre by Friday to receive a recognition!  
 
 **Don't forget about our Dance Challenge** - If you wanna get involved and participate send us a 10-20 second video of you doing your favourite, most quirky dance moves by this Friday.  
 Send it in to WHShealth2020@gmail.com  
