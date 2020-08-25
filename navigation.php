@@ -167,10 +167,10 @@ return [
                 'title' => 'Edith Wheal Scholarship',
                 'url' => '/info-for-parents/edith-wheal-scholarship'
             ],
-            [
-                'title' => 'Scholarship Opportunities',
-                'url' => '/info-for-parents/scholarships'
-            ],
+            // [
+            //     'title' => 'Scholarship Opportunities',
+            //     'url' => '/info-for-parents/scholarships'
+            // ],
             [
                 'title' => 'Guide to NCEA',
                 'url' => '/info-for-parents/guide-to-ncea'
