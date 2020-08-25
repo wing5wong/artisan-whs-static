@@ -20,4 +20,5 @@ Whanganui High School Year 9 student, Reina Jones has been excelling in Chinese 
 Reina was a regional finalist in the Wellington 2020 Chinese Bridge Speech Competition and has now won the National Level Competition organised by the Confucius Institute of Victoria University of Wellington.  
 
 Reina also won an iPad and her Chinese teacher, Mr Ding, won the 'Best Coach' award. 
+
 做得好 (Well Done) Reina and Mr Ding.
