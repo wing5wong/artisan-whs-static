@@ -6,7 +6,9 @@ feature_image:
     White Ferns duty next week.
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598227009/News/Jess_Watkin._chron_22.8.20.jpg
 news_author:
-  date: 2020-08-23T23:54:12.817Z
+  date: 2020-08-21T23:54:12.817Z
+  publication: Whanganui Chronicle
+  name: Iain Hyndman
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598228982/News/Jess_Watkin_chron_22.8.20_snip.jpg
     description: Photo of Jess shown in the Whanganui Chronicle, 22/8/20.  Photo supplied.
