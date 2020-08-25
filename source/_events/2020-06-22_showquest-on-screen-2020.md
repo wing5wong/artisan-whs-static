@@ -1,5 +1,5 @@
 ---
-title: Showquest on Screen 2020
+title: Showquest on Screen 2020 - Video submissions due
 date: 2020-08-27T23:49:52.344Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1592870080/Events/FB-Cover-1024x400.jpg
 ---
