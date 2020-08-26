@@ -3,7 +3,7 @@ title: Connor Hoskin recognised for his 250 hours of voluntary community service
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598395297/News/Connor_Hoskin_our_Head_Boy_holding_his_Silver_Award_from_the_Student_Volunteer_Army_recognising_250_hours_of_community_service..jpg
 news_author:
-  date: 2020-08-23T22:41:16.411Z
+  date: 2020-08-21T22:41:16.411Z
 show_in_slider: true
 date: 2020-08-25T22:41:16.431Z
 ---
