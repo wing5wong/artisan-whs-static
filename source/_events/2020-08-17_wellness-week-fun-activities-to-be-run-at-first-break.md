@@ -1,19 +1,21 @@
 ---
 title: WELLNESS WEEK - Fun activities running at first break!
-date: 2020-08-25T21:14:14.664Z
+date: 2020-08-26T21:14:14.664Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598312560/Events/Health_poster.jpg
 ---
 #### The Year 12 Health class is running a 'Wellness Week' which involves fun activities to help promote positive mental health. 
 
-**Positive quote for the day:** You’re not alone in this.
+**Positive quote for the day:** It’s ok to have bad days.
 
-**Wednesday's Health Blog** - https://bit.ly/WellnessBlog1  
+**Thursday's Health Blog** - https://bit.ly/WellnessBlog4 
 
-**Link to Wednesday's form Class Quiz** - Work on the quizzes each day as a class, and one person in your form class answer on this google form. There will be a prize for the top form class at the end of the week https://forms.gle/iPXP6zwnBpWqATACA  
+**Link to Thursday's form Class Quiz** - Work on the quizzes each day as a class, and one person in your form class answer on this google form. There will be a prize for the top form class at the end of the week https://forms.gle/yPsJR3n4ffyEbT6c7 
 
-**Today's break time activity is Volleyball in Te Wehi gym** - see you there if you signed up.  
+**Today's break time activity is Dance/Jump Jam in the Hall - see you there!**
 
-**Tomorrow is Dance/Jump Jam in the Hall.** 
+**Tomorrow is our sausage sizzle for all who have participated in Wellness Week.**  
+
+Emma, our Yoga instructor from earlier in the week, has offered to come back to take a meditation class! If you would like to give meditation a try - it will be on at first break on Monday.
 
 **Scavenger Hunt!** Find one of our wellness week painted rocks and take to the Student Centre by Friday to receive a recognition!  
 
