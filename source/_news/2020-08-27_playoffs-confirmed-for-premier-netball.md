@@ -1,7 +1,7 @@
 ---
 title: Playoffs confirmed for premier netball
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598500857/News/netball-logo.png
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597205694/News/WHS-A1-vs-WHS-old-girls-10.8.20.jpg
 news_author:
   date: 2020-08-26T03:55:30.975Z
   publication: Whanganui Chronicle
