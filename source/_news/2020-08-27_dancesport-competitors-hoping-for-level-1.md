@@ -1,17 +1,17 @@
 ---
 title: Dancesport competitors hoping for level 1
 feature_image:
-  description: Jared Sim and Reeve Watson, (17 and 14 respectively). They started
-    dancing within a school programme, Jared at Whanganui Intermediate and Reeve
-    at St Mary's.That was more than 5 years ago and the partnership was formed 3
-    years ago. The National age divisions means they dance in Youth and Adult,
-    which is determined by the oldest partner. Therefore, Reeve dances in an
-    elevated age group and currently they are ranked 3rd in NZ for their age and
-    level.
+  description: WHS students, Jared Sim and Reeve Watson, (17 and 14 respectively).
+    They started dancing within a school programme, Jared at Whanganui
+    Intermediate and Reeve at St Mary's.That was more than 5 years ago and the
+    partnership was formed 3 years ago. The National age divisions means they
+    dance in Youth and Adult, which is determined by the oldest partner.
+    Therefore, Reeve dances in an elevated age group and currently they are
+    ranked 3rd in NZ for their age and level.
   credit: Supplied
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598499102/News/Jared_Sim_and_Reeve_Watson._Midweek_26.8.20_photo_supplied.jpg
 news_author:
-  date: 2020-08-27T03:30:01.192Z
+  date: 2020-08-26T03:30:01.192Z
   name: Paul Brooks
   publication: Whanganui Midweek
 show_in_slider: false
