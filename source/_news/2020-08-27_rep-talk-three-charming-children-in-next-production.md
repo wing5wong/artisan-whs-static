@@ -16,13 +16,13 @@ date: 2020-08-27T03:36:07.514Z
 ---
 We have three charming children playing the parts of the Moffat children in Repertory Theatre's next production The Daylight Atheist.
 
-Freyja Wrigglesworth, at 15, is really a young lady now playing the part of Caitlin, the teenage daughter of Dan and Joan Moffat.
+**Freyja Wrigglesworth**, at 15, is really a young lady now playing the part of Caitlin, the teenage daughter of Dan and Joan Moffat.
 
 "Caitlin's quiet. She doesn't know how to speak out but she is kind and considerate to her siblings.
 
 "Really, she just wants to enjoy life and do fun things like going to a dance," Freyja says.
 
-When she's not studying at Whanganui High School Freyja loves to draw and paint. Would she like to continue being involved in theatre?
+When she's not studying at **Whanganui High School** Freyja loves to draw and paint. Would she like to continue being involved in theatre?
 
 "Of course! It's fun!" she says.
 
