@@ -1,7 +1,8 @@
 ---
 title: Amelia Chandulal-Mackay choreographer for Amdram's Phantom of the Opera
 feature_image:
-  description: Amelia Chandulal-Mackay is choreographer for Phantom of the Opera.
+  description: Former WHS student, Amelia Chandulal-Mackay is choreographer for
+    Phantom of the Opera.
   credit: Supplied
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598498930/News/Amelia_Chandulal-Mackay._Midweek_26.8.20_photo_supplied.jpg
 news_author:
