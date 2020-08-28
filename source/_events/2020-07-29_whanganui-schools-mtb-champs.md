@@ -10,7 +10,4 @@ bit.ly/whsmtb2020
 
 **Entries will close Wednesday, 2 September.**  
 
-There will be a meeting for all those who have signed up on Tuesday 8th September at 1st break in the Te Wehi Gym.
-
-
-Thursday 10 September at Araheke MTB Park - Pauri Tracks
+There will be a meeting for all those who have signed up on Tuesday 8 September at 1st break in the Te Wehi Gym.
