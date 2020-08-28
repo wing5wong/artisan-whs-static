@@ -298,6 +298,24 @@ return [
                 return $page->news_author["date"] ?? $page->date;
             }
         ],
+        'career_news' => [
+            'path' => 'career-and-vocational-news/{-filename}',
+            'sort' => ['-publishedDate', 'title'],
+            'extends' => '_layouts.post',
+            'section' => 'postContent',
+            'isPost' => true,
+            'comments' => false,
+            'tags' => [],
+            'show_in_slider' => true,
+            'test' => function ($page, $limit = 200, $end = '...') {
+                return $page->isPost
+                    ? ($page->short ?? str_limit_soft(content_sanitize($page->getContent()), $limit, $end))
+                    : null;
+            },
+            'publishedDate' => function ($page) {
+                return $page->news_author["date"] ?? $page->date;
+            }
+        ],
         'news_and_events' => [
             'path' => 'news-and-events/{filename}',
             'sort' => '-date',

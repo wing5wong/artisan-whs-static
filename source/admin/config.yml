@@ -114,7 +114,22 @@ collections:
       - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
 
-      
+
+  - name: "career_news"
+    label: "Careers & Vocational"
+    label_singular: "Careers & Vocational"
+    folder: "source/_career_news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    summary: "{{month}} {{year}} | {{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Closing Date", name: "closing_date", widget: "datetime" }
+      - { label: "Filename", name: "file", widget: "file", allow_multiple: false, required: false }
+      - { label: "Body", name: "body", widget: "markdown",}
+
+
   - name: "about_whs"
     label: "About WHS Pages"
     label_singular: "About WHS Page"
