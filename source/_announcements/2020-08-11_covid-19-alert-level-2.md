@@ -1,7 +1,7 @@
 ---
 title: Covid-19 Alert Level 2
 is_emergency: false
-date: 2020-08-11T23:25:24.499Z
+date: 2020-08-31T03:42:24.555Z
 subtitle: Information for Whanganui High School Students and Families
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
