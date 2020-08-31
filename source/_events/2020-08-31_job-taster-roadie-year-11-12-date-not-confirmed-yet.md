@@ -2,7 +2,7 @@
 title: Job Taster Roadie - Year 11/12 - Date not confirmed yet
 date: 2020-09-21T03:25:19.737Z
 ---
-During the last week of term, Whanganui & Partners are taking a bus load of students to various worksites around Whanganui so that they can have a 'taste' of the job opportunities available in our region. 
+During the last week of term, on Monday and Wednesday, Whanganui & Partners are taking a bus load of students to various worksites around Whanganui so that they can have a 'taste' of the job opportunities available in our region. 
 
 There are two options: Manufacturing & Construction, or Agriculture. 
 
