@@ -1,6 +1,7 @@
 ---
 title: WHS SENIOR EXAMINATIONS
 date: 2020-09-10T02:15:07.759Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598833040/Events/2020-Exam-Requests---Overall.jpg
 ---
 **Thursday 10 September - Friday 18 September**
 
