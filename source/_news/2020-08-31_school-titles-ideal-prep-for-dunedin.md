@@ -36,14 +36,9 @@ Many athletes hope to make the journey to Hāwera for the New Zealand Schools Ch
 
 All races 3km except senior boys 4.5km
 
-**Year 9 boys: Thomas Gowan 10:48 (WHS)**; 3 to score teams WHS; 6 to score teams WCS.
-
-Year 9 girls: Theodora Gempton 12:04 (WCS); 3 and 6 to score teams WCS.
-
-Junior boys: Daniel Sinclair 9:59 (WCS); 3 to score team WCS; 6 to score team WHS.
-
-Junior girls: Josephine Perkins 11:45 (WCS); 3 and 6 to score teams WCS.
-
-Senior boys: George Lambert 14:15 (WCS); 2 and 6 to score teams WCS.
-
+**Year 9 boys: Thomas Gowan 10:48 (WHS)**; 3 to score teams WHS; 6 to score teams WCS.  
+Year 9 girls: Theodora Gempton 12:04 (WCS); 3 and 6 to score teams WCS.  
+Junior boys: Daniel Sinclair 9:59 (WCS); 3 to score team WCS; 6 to score team WHS.  
+Junior girls: Josephine Perkins 11:45 (WCS); 3 and 6 to score teams WCS.  
+Senior boys: George Lambert 14:15 (WCS); 2 and 6 to score teams WCS.  
 Senior girls: Mackenzie Morgan 10:49 (WCS); 3 to score team Nga Tawa; 5 to score team WCS.
