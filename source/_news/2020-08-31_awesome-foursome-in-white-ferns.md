@@ -6,7 +6,7 @@ feature_image:
   credit: PHOTOSPORT
 news_author:
   date: 2020-08-27T21:10:27.335Z
-  publication: Central Districts Cricket
+  publication: cdcricket.co.nz/newsarticle
   name: ""
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598909703/News/Natalie_todd._photosport_photo.jpg
