@@ -1,5 +1,5 @@
 ---
-title: Round the Lake Relay - Entries close Friday, 28 August
+title: Round the Lake Relay
 date: 2020-09-06T21:16:31.148Z
 ---
 If you are keen to run in the Round the Lake Relay on Monday 7 September please fill out this bitly below.
