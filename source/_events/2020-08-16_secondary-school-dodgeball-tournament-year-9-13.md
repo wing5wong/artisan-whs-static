@@ -1,5 +1,5 @@
 ---
-title: Secondary School Dodgeball Tournament - Rescheduled date
+title: Secondary School Dodgeball Tournament - Entries close Tuesday, 15 September
 date: 2020-09-20T21:13:01.536Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598834963/Events/Dodgeball_rescheduled_date.png
 ---
