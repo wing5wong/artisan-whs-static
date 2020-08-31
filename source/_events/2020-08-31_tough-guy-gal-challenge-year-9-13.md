@@ -12,6 +12,7 @@ It is a 12km obstacle course run in Wellington and the cost for the day is $65.
 Any questions, please see Mr Barnett.
 
 ------------
+---------
 
 Take on other schools at the Secondary School Tough Guy and Gal Challenge at Camp Wainui in Wainuiomata on Friday, 16 October 2020 to win the Toughest School Trophy!
 
