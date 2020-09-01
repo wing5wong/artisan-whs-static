@@ -4,6 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598312560/Events/Health_poster.jpg
 news_author:
   date: 2020-08-31T02:34:06.485Z
+  name: Mrs Bennetts
+  publication: Head of Health
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598841519/News/from_BN_no_6.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598841434/News/from_BN_no_5.jpg
