@@ -301,7 +301,7 @@ return [
         'career_news' => [
             'path' => 'career-and-vocational-news/{-filename}',
             'sort' => ['-publishedDate', 'title'],
-            'extends' => '_layouts.post',
+            'extends' => '_layouts.vocational-news',
             'section' => 'postContent',
             'isPost' => true,
             'comments' => false,

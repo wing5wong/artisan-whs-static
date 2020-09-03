@@ -30,13 +30,13 @@ Yours sincerely,
 
 SIT Marketing Team
 
-Southern Institute of Technology (SIT)
+Southern Institute of Technology (SIT)  
 
-\-----------------------------------------------------
+-----------------------------------------------------
 
 **SOUTHERN INSTITUTE OF TECHNOLOGY (SIT)**
 
 **FREE CALL 0800 4 0 FEES | Fax (03) 214 4977 | 133 Tay Street, Private Bag 90114, Invercargill 9840, NEW ZEALAND**
 
-**[http://www.sit.ac.nz](http://www.sit.ac.nz/)** **[Follow us on Twitter](http://www.twitter.com/SIT2LRN)**\
-**\#ZeroFees Scheme continues 2019, 2020, 2021** ...
+**[http://www.sit.ac.nz](http://www.sit.ac.nz/)** **[Follow us on Twitter](http://www.twitter.com/SIT2LRN)**  
+**#ZeroFees Scheme continues 2019, 2020, 2021** ...
