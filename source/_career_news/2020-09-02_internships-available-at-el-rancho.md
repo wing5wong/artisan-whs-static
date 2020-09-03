@@ -1,7 +1,7 @@
 ---
 title: Internships Available at El Rancho
 date: 2020-09-02T23:21:58.418Z
-closing_date: 2020-09-02T23:21:58.427Z
+closing_date: ""
 file: https://res.cloudinary.com/whanganuihigh/image/upload/v1599088914/Careers%20and%20Vocational/03.09.2020_-_El_Rancho_Career_Training_Opportunities.pdf
 ---
 
