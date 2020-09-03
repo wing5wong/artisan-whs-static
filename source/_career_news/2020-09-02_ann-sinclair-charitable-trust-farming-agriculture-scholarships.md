@@ -1,5 +1,5 @@
 ---
-title: Ann Sinclair Charitable Trust Farming/Agriculture Scholarships
+title: Ann Sinclair Charitable Trust Scholarships (Farming & Agriculture)
 date: 2020-09-02T22:03:27.465Z
 closing_date: 2020-10-30T21:03:27.476Z
 file: https://res.cloudinary.com/whanganuihigh/image/upload/v1599084608/Careers%20and%20Vocational/03.09.2020_-_Ann_Sinclair_Trust_Poster.pdf
