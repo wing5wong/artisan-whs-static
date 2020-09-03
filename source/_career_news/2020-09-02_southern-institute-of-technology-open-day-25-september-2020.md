@@ -1,7 +1,7 @@
 ---
 title: Southern Institute of Technology Open Day - 25 September 2020
 date: 2020-09-02T21:43:47.293Z
-closing_date: 2020-09-24T22:00:00.000Z
+closing_date: ""
 file: https://res.cloudinary.com/whanganuihigh/image/upload/v1599083194/Careers%20and%20Vocational/03.09.2020_-_SIT_Open_Day_Poster.pdf
 ---
 **A message from the Southern Institute (SIT):**
