@@ -1,7 +1,7 @@
 ---
 title: 2019/2020 WHS Graduating Students from Victoria University Wellington
 date: 2020-09-02T22:13:07.606Z
-closing_date: 2020-09-02T22:13:07.616Z
+closing_date: ""
 ---
 ***Message from Victoria of University Wellington:***
 
