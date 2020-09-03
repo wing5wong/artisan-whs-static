@@ -68,6 +68,10 @@ return [
                 'url' => '/news-and-events/upcoming-events'
             ],
             [
+                'title' => 'Upcoming Events',
+                'url' => '/news-and-events/careers-and-vocational'
+            ],
+            [
                 'title' => 'Achievers List',
                 'url' => '/news-and-events/achievers-list'
             ],
