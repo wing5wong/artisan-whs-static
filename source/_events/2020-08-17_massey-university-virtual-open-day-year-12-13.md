@@ -1,6 +1,6 @@
 ---
 title: Massey University Virtual Open Day - Year 12/13
-date: 2020-09-03T20:58:38.416Z
+date: 2020-09-04T20:58:38.416Z
 ---
 Massey University is holding virtual open days 4-5 September. 
 
