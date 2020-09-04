@@ -68,7 +68,7 @@ return [
                 'url' => '/news-and-events/upcoming-events'
             ],
             [
-                'title' => 'Upcoming Events',
+                'title' => 'Career and Vocational',
                 'url' => '/news-and-events/careers-and-vocational'
             ],
             [
