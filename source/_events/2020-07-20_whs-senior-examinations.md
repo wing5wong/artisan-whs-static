@@ -5,10 +5,15 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598833040/Events/
 ---
 **Thursday 10 September - Friday 18 September**
 
-Please check the student pages located in the Google bookmarks or at bit.ly/whsstudentpages for information about Whanganui High School Senior Examinations.
+Students are expected to attend these examinations, and all students have been provided with a personalised examination timetable, together with instructions.
 
-Also please ensure that you can access your WHS emails as your personalised examination timetable was sent to you on Friday 28 August.
+Some students may not have qualified to have study leave for the duration of these examinations because they have not attained 75% of the credits they have been offered so far this year. Parents of these students have been notified.
+
+**Examinations commence at 9.05am and 1.10pm.**
+
+If your son or daughter is **sick** then you should contact the Student Centre as usual. Once well, they should see Mrs Spooner who will endeavour to re-schedule the missed examinations.
+
+Students personalised examination timetables were sent to them via their WHS email on Friday 28 August, otherwise view the general [Senior Examination Timetable](https://res.cloudinary.com/whanganuihigh/image/upload/v1598832589/Events/2020_Exam_Requests_-_Overall.pdf)
 
 Just a reminder we at WHS do not have gmail accounts. Your WHS email is an outlook email account which can be accessed via the Google bookmarks or bit.ly/whsemails
 
-View [Senior Examination Timetable](https://res.cloudinary.com/whanganuihigh/image/upload/v1598832589/Events/2020_Exam_Requests_-_Overall.pdf)
