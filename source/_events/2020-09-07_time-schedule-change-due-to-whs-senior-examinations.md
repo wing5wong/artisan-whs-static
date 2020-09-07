@@ -2,7 +2,7 @@
 title: Time Schedule change due to WHS Senior Examinations
 date: 2020-09-10T03:49:29.678Z
 ---
-For the duration of the Senior examinations the daily time schedule is changing to the following:
+For the duration of the Senior examinations, Thursday 10 September until Friday 18 September, the daily time schedule is changing to the following:
 
 _Form time:	  8.45 -   9.00am_  
 Period 1:	  9.00 - 10.00am  
