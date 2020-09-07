@@ -6,10 +6,10 @@ During the last week of term, on Monday 21 September and Wednesday 23 September,
 
 There are two options: Manufacturing & Construction, or Agriculture. 
 
-If you wish to be considered for this "roadie" you must sign up using the on-line form at bit.ly/whsjobtaster2020
+Thanks to those who signed up or were nominated. Permission slips are due in on Wednesday 9 September at the latest - the organiser must have confirmed numbers before you go on exam leave. Preferably, parents should return the on-line form at
+Bit.ly/whsjobtasterperm2020. 
 
-
-Numbers are limited and conditions apply, but there is no cost involved.
+Remember, lunch is provided.
 
 _Mr Keene  
 Careers Advisor_
