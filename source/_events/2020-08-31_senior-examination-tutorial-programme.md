@@ -5,10 +5,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598916141/Events/
 ---
 Tuesday 8 September
 
-Today's Tutorials are as follows:  
-3.15pm - 4.30pm : LEVEL 1
-GEO1 - Both Papers - (Ht) - F5
-
+Today's Tutorial is as follows:  
 7.00pm - 8.00pm : LEVEL 3
 BIO3 (Fs) - B1
 
