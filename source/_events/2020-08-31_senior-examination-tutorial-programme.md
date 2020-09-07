@@ -1,15 +1,15 @@
 ---
 title: Senior Examination Tutorial Programme
-date: 2020-09-06T23:19:25.124Z
+date: 2020-09-07T23:19:25.124Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598916141/Events/Tutorials.png
 ---
-Monday 7 September:
+Tuesday 8 September:
 
 Today's Tutorials are as follows:  
 
-3.15pm - 4.30pm : MTA1 Algebra MCAT - E3  
-3.15pm - 4.30pm : LEVEL 2 BIO2 (Fs) - B1  
-3.15pm - 4.30pm : Chem2 (Cr) - B3  
+3.15pm - 4.30pm : LEVEL 1
+GEO1 - Both Papers - (Ht) - F5
 
-7.00pm - 8.00pm : LEVEL 1 Genetics (SCE1) (Ds) - B5
+7.00pm - 8.00pm : LEVEL 3
+BIO3 (Fs) - B1
 
