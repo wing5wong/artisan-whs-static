@@ -2,7 +2,9 @@
 title: 2020 Manawatu Cyclones selection
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599535271/News/manawatu_cyclones_image.jpg
-  description: 2020 Manawatu Cyclones selection includes 3 former WHS students.
+  description: Three former WHS students are included in the 2020 Manawatu
+    Cyclones Rugby Team; Sosoli Talawadua (nee Tofa), Montel Vaiao Aki and Kahu
+    Sturmey.
 news_author:
   date: 2020-08-31T03:01:54.496Z
 show_in_slider: false
@@ -10,7 +12,7 @@ date: 2020-09-08T03:01:54.529Z
 ---
 Three members of the St Johns Wanganui Metro Women's team have been named in the wider 30-women Manawatu Cyclones squad preparing for the Farah Palmer Cup.
 
-Former Black Fern Sosoli Talawadua had already been taking teenager Montel Vaiao Aki with her to Palmerston North, but joining them now is Metro team-mate Lavenia Nauga-Grey.  The season kicks off in September.
+Former Black Fern **Sosoli Talawadua** had already been taking teenager **Montel Vaiao Aki** with her to Palmerston North, but joining them now is Metro team-mate Lavenia Nauga-Grey.  The season kicks off in September.
 
 _Whanganui Chronicle 31/8/20_
 
