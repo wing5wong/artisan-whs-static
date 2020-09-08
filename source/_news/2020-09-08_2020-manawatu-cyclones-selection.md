@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599535271/News/manawatu_cyclones_image.jpg
   description: 2020 Manawatu Cyclones selection includes 3 former WHS students.
 news_author:
-  date: 2020-09-08T03:01:54.496Z
+  date: 2020-08-31T03:01:54.496Z
 show_in_slider: false
 date: 2020-09-08T03:01:54.529Z
 ---
