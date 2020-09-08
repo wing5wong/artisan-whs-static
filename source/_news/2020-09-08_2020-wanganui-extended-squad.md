@@ -10,6 +10,8 @@ image_gallery:
 show_in_slider: false
 date: 2020-09-08T22:21:59.054Z
 ---
-Congratulations to all of our former students in contention for this years 2020 Steelform Wanganui Representative Squad!
+Eleven former student are in contention for this years 2020 Steelform Wanganui Representative Squad!
 
 Good Luck guys!!
+
+2020 Wanganui Extended Squad below...
