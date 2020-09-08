@@ -19,7 +19,7 @@ date: 2020-09-08T01:59:00.556Z
 ---
 ##### Vote2020
 
-Liam Johnson was one day shy of being eligible to vote in the 2020 election, but thanks to a date change he will now get to have a say.
+**Liam Johnson** was one day shy of being eligible to vote in the 2020 election, but thanks to a date change he will now get to have a say.
 
 When the general election date was changed from September 19 to October 17, about 5000 young New Zealanders like Liam became eligible to vote for the first time.
 
@@ -37,7 +37,7 @@ Liam said there are some good policies across most parties but he will not consi
 
 "Education policies are important and I've given those a lot of consideration."
 
-Fellow WHS student Aranga Molijn turns 18 on October 29 and is disappointed to miss out on this election.
+Fellow WHS student **Aranga Molijn** turns 18 on October 29 and is disappointed to miss out on this election.
 
 Despite being motivated and politically aware, she has reservations about the Make it 16 lobby.
 
