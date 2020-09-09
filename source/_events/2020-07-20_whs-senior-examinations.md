@@ -13,6 +13,6 @@ Some students may not have qualified to have study leave for the duration of the
 
 If your son or daughter is **sick** then you should contact the Student Centre as usual. Once well, they should see Mrs Spooner who will endeavour to re-schedule the missed examinations.
 
-Students personalised examination timetables were sent to them via their WHS email on Friday 28 August, otherwise view the general [Senior Examination Timetable](https://res.cloudinary.com/whanganuihigh/image/upload/v1599451954/Events/2020_Exam_Requests_-_Overall_2.jpg)
+Students personalised examination timetables were sent to them via their WHS email on Friday 28 August, otherwise view the overall [Senior Examination Timetable](https://res.cloudinary.com/whanganuihigh/image/upload/v1599451954/Events/2020_Exam_Requests_-_Overall_2.jpg)
 
 Just a reminder we at WHS do not have gmail accounts. Your WHS email is an outlook email account which can be accessed via the Google bookmarks or bit.ly/whsemails
