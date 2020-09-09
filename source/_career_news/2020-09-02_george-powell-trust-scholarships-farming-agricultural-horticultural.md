@@ -1,5 +1,6 @@
 ---
 title: George Powell Trust Scholarships (Farming, Agricultural & Horticultural)
+  - Closing 16 October
 date: 2020-09-02T23:29:35.077Z
 closing_date: 2020-10-16T04:29:00.000Z
 file: https://res.cloudinary.com/whanganuihigh/image/upload/v1599089377/Careers%20and%20Vocational/03.09.2020_-_George_Powell_Charitable_Trust_Poster_2020.pdf
