@@ -32,7 +32,7 @@ The service ended with the Ode of Remembrance, recited by flag bearer Geoff Chow
 
 In attendance were a small number of former merchant seamen, including Trevor Gibson, John Hair and Geoff Chowles, family of merchant seamen, members of the RSA, members of the public, and two Navy cadets — Lieutenant Commander Sharon Tutaki and Cadet Angel Welch.
 
-Angel joined the Navy cadets because she wants to join the Navy and be a marine engineer. Her study focus at Whanganui High School reflects that goal.
+**Angel joined the Navy cadets because she wants to join the Navy and be a marine engineer. Her study focus at Whanganui High School reflects that goal.**
 
 Sharon Tutaki joined the Cadet Forces 15 years ago when her son joined TS Calliope as a Navy cadet.
 
