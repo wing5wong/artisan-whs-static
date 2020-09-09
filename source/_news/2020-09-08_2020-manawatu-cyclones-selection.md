@@ -2,9 +2,9 @@
 title: 2020 Manawatu Cyclones selection
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599535271/News/manawatu_cyclones_image.jpg
-  description: Three former WHS students are included in the 2020 Manawatu
-    Cyclones Rugby Team; Sosoli Talawadua (nee Tofa), Montel Vaiao Aki and Kahu
-    Sturmey.
+  description: Three former WHS students are included in the wider 30-women 2020
+    Manawatu Cyclones Squad; Sosoli Talawadua (nee Tofa), Montel Vaiao Aki and
+    Kahu Sturmey.
 news_author:
   date: 2020-08-31T03:01:54.496Z
 show_in_slider: false
