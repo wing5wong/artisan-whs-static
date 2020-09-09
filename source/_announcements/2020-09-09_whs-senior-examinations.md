@@ -3,8 +3,10 @@ title: WHS SENIOR EXAMINATIONS
 is_emergency: false
 date: 2020-09-09T00:03:48.052Z
 subtitle: Thursday 10 September - Friday 18 September
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574907236/Events/GREEN_WHS_HEADER.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599451954/Events/2020_Exam_Requests_-_Overall_2.jpg
 ---
+(Click on above image to ENLARGE)
+
 Students are expected to attend these examinations, and all students have been provided with a personalised examination timetable, together with instructions.
 
 Some students may not have qualified to have study leave for the duration of these examinations because they have not attained 75% of the credits they have been offered so far this year. Parents of these students have been notified.
