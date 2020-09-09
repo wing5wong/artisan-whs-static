@@ -1,5 +1,5 @@
 ---
-title: 2020 Manawatu Cyclones selection
+title: 2020 Manawatu Cyclones selection squad named
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599535271/News/manawatu_cyclones_image.jpg
   description: Three former WHS students are included in the wider 30-women 2020
