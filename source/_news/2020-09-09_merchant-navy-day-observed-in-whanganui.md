@@ -9,6 +9,10 @@ news_author:
   date: 2020-09-08T22:56:01.903Z
   publication: Whanganui Midweek
   name: Paul Brooks
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599693585/News/Angel_Welch_Midweek_9.9.20_Cadet._Photo_Paul_Brooks._other_photo_in_the_story_re_Trevor_John.jpg
+    description: Old salts Trevor Gibson (left) and John Hair at the Cenotaph in
+      Whanganui for Merchant Navy Day.  Photo / Paul Brooks.
 show_in_slider: false
 date: 2020-09-09T22:56:01.927Z
 ---
