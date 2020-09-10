@@ -1,6 +1,6 @@
 ---
 title: Time schedule change for Junior school due to Senior examinations
-date: 2020-09-09T21:50:52.463Z
+date: 2020-09-10T21:50:52.463Z
 ---
 For the duration of the Senior examinations the daily time schedule for the Junior school will change to the following:
 
