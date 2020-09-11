@@ -31,6 +31,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599790556/News/WSS%20Mountain%20Bike%20Champs%20at%20Pauri%20Tracks%2C%20Kaitoke%2010.9.20/118883120_1673258186156614_9169540174916050754_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599790556/News/WSS%20Mountain%20Bike%20Champs%20at%20Pauri%20Tracks%2C%20Kaitoke%2010.9.20/118888635_1673257672823332_216531910820636181_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599790556/News/WSS%20Mountain%20Bike%20Champs%20at%20Pauri%20Tracks%2C%20Kaitoke%2010.9.20/118878177_1673256796156753_3782412128418057472_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599790822/News/WSS%20Mountain%20Bike%20Champs%20at%20Pauri%20Tracks%2C%20Kaitoke%2010.9.20/MTB-Champs-2020-PNG.png
 show_in_slider: true
 date: 2020-09-11T02:00:24.061Z
 ---
