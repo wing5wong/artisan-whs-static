@@ -7,7 +7,7 @@ news_author:
 show_in_slider: true
 date: 2020-09-11T02:00:24.061Z
 ---
-Well done today to our 13 riders who competed in the WSS Mountain Bike Champs at the Pauri Tracks at Kaitoke.
+Well done today to our 13 riders who competed in the WSS Mountain Bike Champs at the Pauri Tracks, Kaitoke.
 
 Results:  
 Y9-10 Boys was won by Alistair Cameron, 2nd place Eli Kuehne  
