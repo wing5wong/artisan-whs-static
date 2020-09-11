@@ -1,5 +1,7 @@
 ---
 title: WSS Mountain Bike Champs results
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599790018/News/118989046_1673256559490110_4005523949574779697_o.jpg
 news_author:
   date: 2020-09-10T02:00:24.019Z
   publication: WHS Director of Sport
