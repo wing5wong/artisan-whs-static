@@ -52,3 +52,6 @@ Pepeha challenge - https://youtu.be/kXagC5tJFvI
 Pepeha: Jimi Jackson - https://youtu.be/vqC0oiD3Tew  
 Pepeha kupu/word games - https://www.educandy.com/site/resource.php?activity-code=14249
 
+_Matua Tim  
+Acting Māori Dean_
+
