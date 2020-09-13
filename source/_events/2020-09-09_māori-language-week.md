@@ -5,15 +5,13 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599619317/Events/
 ---
 Tēnā koutou katoa. Greetings to you all.  
 
-This week is Te Wiki o te Reo Māori/Māori Language Week and here at Whanganui High School we will be supporting this kaupapa with a couple of different activities.  
+This week is Te Wiki o te Reo Māori/Māori Language Week and here at Whanganui High School we will be supporting this kaupapa with a range of different activities for Tauira and Kaiako.  
 
 First break Monday-Thursday in Te Wehi gym we will be running ngā taonga tākaro/traditional Māori games, like poi toa, rakaunui and many more, for anyone who would like to take part.  
 
-Every morning this week there will be a te reo Māori related question in the notices with plenty of prizes up for grabs. All you need to do is write your answer and name on a piece of paper and drop it into the drop-box in the Student Centre to go into the draw.  
+Every morning this week there will be a pātai in the notices with plenty of prizes up for grabs. All you need to do is write your answer and name on a piece of paper and drop it into the drop-box in the Student Centre to go into the draw.  
 
-There will also be a daily kupu hou/word list in the notices that may help with the following days question (hint hint).  
-
-So, Kia kaha, you’ve got to be in to win! 
+Kia kaha, you’ve got to be in to win! 
 
 Whaea Cherie and Matua Tim will be giving out spot prizes for those caught speaking te reo Māori around school.  
 
