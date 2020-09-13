@@ -39,7 +39,7 @@ There will be spot prizes given out for those speaking Te Reo Māori around Kura
 ##### Kupu hou/Word list
 
 Greetings  
-Mōrena – Good morning  
+Ata mārie / Mōrena – Good morning  
 Ahiahi mārie – Good afternoon  
 Tēnā koe - Greeting one person   
 Tēnā kōrua - Greeting two people   
