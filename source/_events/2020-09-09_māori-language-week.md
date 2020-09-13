@@ -2,17 +2,55 @@
 title: Māori Language Week
 date: 2020-09-14T02:40:31.604Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599619317/Events/Maori_week_14-20_sept_2020.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600033256/Events/Maori_Language_week_photo5.jpg
 ---
-Tēnā koutou katoa. Greetings to you all.  
+Tihei mauri ora!  
+Tuia te rangi e tū nei  
+Tuia te papa e hora nei  
+Tuia te here tāngata  
+Ka rongo te pō  
+Ka rongo te ao  
+Tihei mauri tu ki runga!
+
+Behold the breath of life!   
+Let the heavens above  
+and the earth beneath  
+and all mankind be as one  
+throughout the long night  
+and into the dawn of the next day.  
+May the same breath lift our waning spirit!  
+(Morvin Simon, 1984)
+
+
+Tēnā koutou katoa,  
 
 This week is Te Wiki o te Reo Māori/Māori Language Week and here at Whanganui High School we will be supporting this kaupapa with a range of different activities for Tauira and Kaiako.  
 
 First break Monday-Thursday in Te Wehi gym we will be running ngā taonga tākaro/traditional Māori games, like poi toa, rakaunui and many more, for anyone who would like to take part.  
 
-Every morning this week there will be a pātai in the notices with plenty of prizes up for grabs. All you need to do is write your answer and name on a piece of paper and drop it into the drop-box in the Student Centre to go into the draw.  
+Every morning this week there will be a pātai in the notices with prizes up for grabs. All you need to do is write your answer and name on a piece of paper and drop it into the drop-box in the Student Centre.  
 
 Kia kaha, you’ve got to be in to win! 
 
-Whaea Cherie and Matua Tim will be giving out spot prizes for those caught speaking te reo Māori around school.  
+There will be spot prizes given out for those speaking Te Reo Māori at the Kura.  
 
 “Kia Kaha te Reo Māori” / “Let’s make the Māori language strong”.
+
+Kupu hou/Word list
+
+Greetings  
+Kia ora - Greeting one person  
+Mōrena – Good morning  
+Ahiahi mārie – Good afternoon  
+Tēnā koe - Greeting one person   
+Tēnā kōrua - Greeting two people   
+Tēnā koutou - Greeting three or more people
+
+Links  
+Greetings clip - https://youtu.be/AVJraSYCe1c  
+Modern day pepeha - https://youtu.be/6npAx7Jv_AE   
+Pepeha challenge - https://youtu.be/kXagC5tJFvI   
+Pepeha: Jimi Jackson - https://youtu.be/vqC0oiD3Tew  
+Pepeha kupu/word games - https://www.educandy.com/site/resource.php?activity-code=14249
+
