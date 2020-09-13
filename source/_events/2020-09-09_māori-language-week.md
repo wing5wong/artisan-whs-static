@@ -33,7 +33,7 @@ Every morning this week there will be a pātai in the notices with prizes up for
 
 Kia kaha, you’ve got to be in to win! 
 
-There will be spot prizes given out for those speaking Te Reo Māori at the Kura.  
+There will be spot prizes given out for those speaking Te Reo Māori around Kura.  
 
 “Kia Kaha te Reo Māori” / “Let’s make the Māori language strong”.
 
