@@ -3,7 +3,8 @@ title: Māori Language Week
 date: 2020-09-14T02:40:31.604Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599619317/Events/Maori_week_14-20_sept_2020.jpg
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600033256/Events/Maori_Language_week_photo5.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600033826/Events/20200904102121_IMG_1525.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600033845/Events/20200904102238_IMG_1536.jpg
 ---
 Tihei mauri ora!  
 Tuia te rangi e tū nei  
