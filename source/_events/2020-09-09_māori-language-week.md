@@ -37,7 +37,7 @@ There will be spot prizes given out for those speaking Te Reo Māori at the Kura
 
 “Kia Kaha te Reo Māori” / “Let’s make the Māori language strong”.
 
-Kupu hou/Word list
+##### Kupu hou/Word list
 
 Greetings  
 Kia ora - Greeting one person  
@@ -47,7 +47,7 @@ Tēnā koe - Greeting one person
 Tēnā kōrua - Greeting two people   
 Tēnā koutou - Greeting three or more people
 
-Links  
+##### Links  
 Greetings clip - https://youtu.be/AVJraSYCe1c  
 Modern day pepeha - https://youtu.be/6npAx7Jv_AE   
 Pepeha challenge - https://youtu.be/kXagC5tJFvI   
