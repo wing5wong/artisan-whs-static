@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599619317/Events/
 ---
 Tēnā koutou katoa. Greetings to you all.  
 
-This week is te wiki o te reo Māori/Māori language week and here at Whanganui High School we will be supporting this kaupapa with a couple of different activities.  
+This week is Te Wiki o te Reo Māori/Māori Language Week and here at Whanganui High School we will be supporting this kaupapa with a couple of different activities.  
 
 First break Monday-Thursday in Te Wehi gym we will be running ngā taonga tākaro/traditional Māori games, like poi toa, rakaunui and many more, for anyone who would like to take part.  
 
