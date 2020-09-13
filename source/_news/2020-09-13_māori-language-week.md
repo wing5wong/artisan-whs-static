@@ -4,8 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599619317/Events/Maori_week_14-20_sept_2020.jpg
 news_author:
   date: 2020-09-13T22:07:47.605Z
-  name: ""
-  publication: ""
+  name: "Matua Tim "
+  publication: Acting Māori Dean
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600033826/Events/20200904102121_IMG_1525.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600033845/Events/20200904102238_IMG_1536.jpg
