@@ -10,7 +10,7 @@ image_gallery:
 show_in_slider: false
 date: 2020-09-08T22:21:59.054Z
 ---
-Eleven former Whanganui High School students are in contention for this years 2020 Steelform Wanganui Representative Squad!
+Former Whanganui High School students are in contention for this years 2020 Steelform Wanganui Representative Squad!
 
 Good Luck guys!!
 
