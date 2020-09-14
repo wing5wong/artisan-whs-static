@@ -9,6 +9,11 @@ feature_image:
 news_author:
   date: 2020-09-09T21:35:11.438Z
   publication: River City Press
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600120515/News/Keith_Beautrais._wife_knitting._RCP_10.9.20.jpg
+    description: Lace coronaviruses made by Margie Beautrais, using the technique of
+      tatting. Margie made a coronavirus each day during Level 4 lockdown. This
+      photo was taken by her.
 show_in_slider: false
 date: 2020-09-14T21:35:11.459Z
 ---
