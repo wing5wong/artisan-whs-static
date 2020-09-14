@@ -27,7 +27,7 @@ and all mankind be as one
 throughout the long night  
 and into the dawn of the next day.  
 May the same breath lift our waning spirit!  
-(Morvin Simon, 1984)
+<sup> (Morvin Simon, 1984)
 
 
 Tēnā koutou katoa,  
