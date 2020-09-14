@@ -1,5 +1,5 @@
 ---
-title: INTERFACE ICT Magazine - Link to September 2020 Issue
+title: INTERFACE Magazine (ICT/Digital) - September 2020 Issue
 date: 2020-09-14T01:07:37.069Z
 closing_date: 2020-09-14T01:07:37.079Z
 ---
