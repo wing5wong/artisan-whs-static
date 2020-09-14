@@ -1,6 +1,6 @@
 ---
 title: WHS SENIOR EXAMINATIONS
-date: 2020-09-14T02:15:07.759Z
+date: 2020-09-15T02:15:07.759Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599451954/Events/2020_Exam_Requests_-_Overall_2.jpg
 ---
 (Click on above image to ENLARGE)
