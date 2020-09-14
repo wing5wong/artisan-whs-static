@@ -1,7 +1,7 @@
 ---
 title: INTERFACE Magazine (ICT/Digital) - September 2020 Issue
 date: 2020-09-14T01:07:37.069Z
-closing_date: 2020-09-14T01:07:37.079Z
+closing_date: ""
 ---
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1600045987/Careers%20and%20Vocational/Logos/NZ_Interface.png)
 
