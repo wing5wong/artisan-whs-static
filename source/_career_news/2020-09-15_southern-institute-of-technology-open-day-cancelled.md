@@ -4,6 +4,8 @@ date: 2020-09-15T23:14:42.691Z
 closing_date: ""
 file: https://res.cloudinary.com/whanganuihigh/raw/upload/v1600211771/Careers%20and%20Vocational/16.09.2020_-_SIT_Booking_a_Tour_Form.docx
 ---
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1600211896/Careers%20and%20Vocational/Logos/SIT_logo.jpg)
+
 Good morning everyone,
 
 I am contacting you all to let you know that our 2020 Secondary Schools Open Day that was scheduled for Friday 25 September at the Southern Institute of Technology unfortunately has had to be cancelled.
