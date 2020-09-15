@@ -8,13 +8,12 @@ image_gallery:
 ---
 This week is Te Wiki o Te Reo Māori the theme is Kia Kaha Te Reo Māori. 
 
-There will be a pātai/question each morning in Ngā Pānui o te Rā. Write your name/form class (one per student) and answer on a paper and hand into the Student Centre. The winner will be drawn at the end of the day and prize delivered the following morning. This year we will also be having a Form Class Prize. The Form Class with the most entries over the week will be the winners!
+There will be a pātai/question each morning in Ngā Pānui o te Rā. Write your name/form class (one per student) and answer on a paper and hand into the Student Centre. The winner will be drawn at the end of the day and prize delivered the following morning. This year we will also be having a Form Class Prize. The Form Class with the most entries over the week will be Te Wiki o Te Reo Māori Form Class Champions.
 
-RAWE! We had over 100+ entries for Te Pātai o te Rā. We also had an awesome response from our Form Classes with quite a few in the running for Form Class Champions, announced in Fridays Ngā Pānui o te Rā.
-
-Congratulations to Myron Lewenilovo MAUML with the correct answer: Morena / Ata Mārie
+RAWE! Another awesome response with over 100+ entries for Te Pātai o te Rā and a fantastic effort from our Form Classes, Karawhiua!
+Congratulations to Liam Wells MOASV with the correct answer: How are you?
 
 ..Te Pātai o te Rā ...
-What is the english translation for 'Kei te pehea koe' ?
+3. How could you respond to 'Kei te pēhea' in Te Reo Māori ?
 
-"KIA KAHA TE REO MĀORI."
+"KIA KAHA TE REO MĀORI"
