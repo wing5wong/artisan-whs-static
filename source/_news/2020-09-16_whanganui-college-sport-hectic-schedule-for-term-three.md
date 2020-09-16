@@ -1,14 +1,18 @@
 ---
 title: "Whanganui college sport: Hectic schedule for term three"
 feature_image:
-  description: "Whanganui High School's Nat Kirk ran well in the Whanganui
-    Secondary Schools Cross Country. "
+  description: Whanganui High School's Nat Kirk ran well in the WSS Cross Country;
+    Nat is a first year senior, finishing 4th - an excellent debut!
   credit: Supplied
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600291962/News/Nat_Kirk._Chron_16.9.20._WU_college_sport.jpg
 news_author:
   date: 2020-09-15T21:28:29.666Z
   publication: Whanganui Chronicle
   name: Compiled by Sport Whanganui
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600295171/News/Thomas-Gowan-2.jpg
+    description: The WSS Cross Country Year 9 boys event was won impressively by
+      promising WHS athlete, Thomas Gowan.
 show_in_slider: false
 date: 2020-09-16T21:28:29.699Z
 ---
