@@ -18,6 +18,7 @@ KNOW WHO YOU'RE VOTING FOR - make sure you look on the noticeboards or the WHS w
 
 **Voting** will be held on Thursday, 24 September during Form Time.
 
+Click on the below captions for the Candidates Statements...
 
 
 
