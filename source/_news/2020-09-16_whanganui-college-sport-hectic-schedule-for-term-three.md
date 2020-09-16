@@ -20,6 +20,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600298653/News/WHS_netabll_vs_Taradale_better.jpg
     description: Phillips Electrical A1 Netball in Hawkes Bay for Winter Tournament
       week (here with the Taradale team).
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600298976/News/13_WHS_student_at_WSS_Mountain_biking_champs.jpg
+    description: This year we took away a team of 13 to the WSS Mountain Biking
+      Champs, coming away with great results.
 show_in_slider: false
 date: 2020-09-16T21:28:29.699Z
 ---
