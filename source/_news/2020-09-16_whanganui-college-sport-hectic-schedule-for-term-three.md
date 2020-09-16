@@ -13,6 +13,13 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600295171/News/Thomas-Gowan-2.jpg
     description: The WSS Cross Country Year 9 boys event was won impressively by
       promising WHS athlete, Thomas Gowan.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600298626/News/boys_hockey.jpg
+    description: Boys 1st XI Hockey in Palmerston North for Winter Tournament week.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600298677/News/hockey.jpg
+    description: Girls 1st XI Hockey in Hawkes Bay for Winter Tournament week.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600298653/News/WHS_netabll_vs_Taradale_better.jpg
+    description: Phillips Electrical A1 Netball in Hawkes Bay for Winter Tournament
+      week (here with the Taradale team).
 show_in_slider: false
 date: 2020-09-16T21:28:29.699Z
 ---
