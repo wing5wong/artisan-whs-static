@@ -23,6 +23,10 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600298653/News/WHS_netabll_vs_Taradale_better.jpg
     description: Phillips Electrical A1 Netball in Hawkes Bay for Winter Tournament
       week (here with the Taradale team).
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600300150/News/1st_XV_Final_vs_cullinane_115.jpg
+    description: 1st XV Rugby Final - WHS 1st XV vs Cullinane 1st XV.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600300059/News/U15_Final_110.jpg
+    description: U15 Rugby - WHS vs City College.
 show_in_slider: false
 date: 2020-09-16T21:28:29.699Z
 ---
