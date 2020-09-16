@@ -10,10 +10,17 @@ image_gallery:
 show_in_slider: true
 date: 2020-09-16T01:50:15.718Z
 ---
-Whanganui High School
-Candidate Statements
-Student Board of Trustee Elections 2020
+**Whanganui High School**  
+**Candidate Statements**  
+**Student Board of Trustee Elections 2020**
 
-Below are the four candidates running for Student Trustee.
+KNOW WHO YOU'RE VOTING FOR - make sure you look on the noticeboards or the WHS website to read the statements from our Student Trustee candidates. 
 
-Don't forget to vote - your vote counts!
+**Voting** will be held on Thursday, 24 September during Form Time.
+
+
+
+
+
+
+
