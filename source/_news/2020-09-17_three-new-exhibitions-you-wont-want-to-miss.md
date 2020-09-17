@@ -56,7 +56,7 @@ Like Dufty, painter Kieran Donnelly also moved to Whanganui two years ago.
 
 "It's kind of like improvised music, you don't know what you're going to come up with, and often you wouldn't have thought to go that way necessarily."
 
-Dufty said the works in his series, Astral Seasons, began by messily applying paint to the canvas and staring into it "for quite some time" to see what came out at him.
+**Dufty said the works in his series, Astral Seasons, began by messily applying paint to the canvas and staring into it "for quite some time" to see what came out at him.**
 
 "I'm not trying to paint anything in particular, so I end up with relatively figurative surrealism I suppose.
 
