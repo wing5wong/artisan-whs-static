@@ -19,8 +19,9 @@ Congratulations to our winning Form class’s this week – 1st equal
 - MOAPR
 - MOACS  
 
-Well done Mr Price’s and Mr Coombs’s Form classes, tino pai tō mahi!
-Te reo Māori is one of the three official languages of Aotearoa/New Zealand, and it is up to all of us to foster and protect this taonga/treasure.
-Te wiki o te reo Māori is the perfect time to get actively engaged in this kaupapa, but it is not restricted to one week of the year. Let’s make speaking te reo Māori the “norm”. Kia kaha te reo Māori!
-“Ko te manu e kai ana i te miro nōnā te ngahere, ko te manu e kai ana i te mātauranga nōnā te ao.”
+Well done Mr Price’s and Mr Coombs’s Form classes, tino pai tō mahi!  
+
+Te reo Māori is one of the three official languages of Aotearoa/New Zealand, and it is up to all of us to foster and protect this taonga/treasure.  
+Te wiki o te reo Māori is the perfect time to get actively engaged in this kaupapa, but it is not restricted to one week of the year. Let’s make speaking te reo Māori the “norm”. Kia kaha te reo Māori!  
+“Ko te manu e kai ana i te miro nōnā te ngahere, ko te manu e kai ana i te mātauranga nōnā te ao.”  
 “The bird that eats from the miro tree owns the forest; the bird that eats from the tree of knowledge owns the world.”
