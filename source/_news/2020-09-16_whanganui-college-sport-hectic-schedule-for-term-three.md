@@ -10,7 +10,7 @@ news_author:
   publication: Whanganui Chronicle
   name: Compiled by Sport Whanganui
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600295171/News/Thomas-Gowan-2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600300915/News/Thomas-Gowan-2...jpg
     description: The WSS Cross Country Year 9 boys event was won impressively by
       promising WHS athlete, Thomas Gowan.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600298976/News/13_WHS_student_at_WSS_Mountain_biking_champs.jpg
