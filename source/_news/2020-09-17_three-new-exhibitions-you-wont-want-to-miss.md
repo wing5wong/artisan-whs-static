@@ -9,10 +9,16 @@ news_author:
   date: 2020-09-17T22:49:44.098Z
   publication: Whanganui Chronicle
   name: Mike Tweed
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600384492/News/Marathon_Man_with_Dufty_Chron_18.9.20.jpg
+    description: Marathon Man 19 by Aramoho printmaker Anthony Davies. Photo / Bevan Conley.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600384520/News/Kieran_Donnelly_with_Dufty_Chron_18.9.20.jpg
+    description: Kieran Donnelly will be displaying his Astral Seasons series at
+      Space Gallery until the end of September. Photo / Bevan Conley.
 show_in_slider: false
 date: 2020-09-17T22:49:44.113Z
 ---
-Three new exhibitions from Whanganui artists Anthony Davies, Jason Dufty, and Kieran Donnelly opened at Space Gallery on St Hill Street on Wednesday.
+Three new exhibitions from Whanganui artists Anthony Davies, **Jason Dufty**, and Kieran Donnelly opened at Space Gallery on St Hill Street on Wednesday.
 
 Dufty said his work, Mirabilia 1905–2020, was based on a box of polaroid photos he had kept from his travels around the world 25 years ago.
 
@@ -22,7 +28,8 @@ Dufty said his work, Mirabilia 1905–2020, was based on a box of polaroid photo
 
 "The idea was to create little narratives that held memories for me and to take old stuff and make it new."
 
-Dufty, who is a graphic and visual communication teacher at Whanganui High School, said he usually made much larger paintings but his studio in the Thain Building was destroyed when it burned down last year.
+**Dufty, who is a graphic and visual communication teacher at Whanganui High School**, said he usually made much larger paintings but his studio in the Thain Building was destroyed when it burned down last year.
+
 "I was forced onto my kitchen table, really. It all came about, as a lot of the art lately has come about, during lockdown and having some free time on my hands."
 
 Printmaker Anthony Davies, who founded Hotspur Studio in Aramoho in 2002, said his exhibition featured works from a 1985 collection called The Wasteland, which he'd made on his bedroom floor in Northern Ireland.
