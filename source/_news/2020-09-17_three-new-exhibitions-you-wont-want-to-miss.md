@@ -18,9 +18,9 @@ image_gallery:
 show_in_slider: false
 date: 2020-09-17T22:49:44.113Z
 ---
-Three new exhibitions from Whanganui artists Anthony Davies, **Jason Dufty**, and Kieran Donnelly opened at Space Gallery on St Hill Street on Wednesday.
+Three new exhibitions from Whanganui artists Anthony Davies, Jason Dufty, and Kieran Donnelly opened at Space Gallery on St Hill Street on Wednesday.
 
-Dufty said his work, Mirabilia 1905–2020, was based on a box of polaroid photos he had kept from his travels around the world 25 years ago.
+**Dufty said his work, Mirabilia 1905–2020, was based on a box of polaroid photos he had kept from his travels around the world 25 years ago.**
 
 "Rather than just have them sitting in a box I thought it would be nice to repurpose them, so I took the ones that I didn't think worked as images and cut them up into collages," Dufty said.
 
