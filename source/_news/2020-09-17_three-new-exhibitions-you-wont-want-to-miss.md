@@ -62,4 +62,4 @@ Dufty said the works in his series, Astral Seasons, began by messily applying pa
 
 "That's the basic idea around this, to go with it as much as possible and not be too precious about what I'm painting."
 
-The exhibitions run until September 26.
+**The exhibitions run until September 26.**
