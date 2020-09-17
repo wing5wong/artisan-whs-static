@@ -10,9 +10,9 @@ Ngā mihi nui ki a koutou.
 
 A big thank you to all who took part in our pātai of the day. Ka mau te wehi!  
 
-Our winner for yesterday’s question: How can you say goodbye in te reo Māori?
-Jocinta Richardson WHEBG
-With the correct answer – Ka kite.
+Our winner for yesterday’s question: How can you say goodbye in te reo Māori?  
+Congratulations to Jocinta Richardson WHEBG
+with the correct answer – Ka kite.  
 Tau ke!  
 
 Congratulations to our winning Form class’s this week – 1st equal
