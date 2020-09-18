@@ -11,7 +11,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-09-18T01:11:04.933Z
 ---
-Ngā mihi nui ki a koutou  
+Ngā mihi nui ki a koutou.  
 
 It was a very successful week for Te Wiki o te reo Māori with over 500 entries throughout the week.  
 
