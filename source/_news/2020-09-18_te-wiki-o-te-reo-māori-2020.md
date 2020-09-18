@@ -23,7 +23,7 @@ A big thank you to all who took part in our pātai o te rā. Ka mau te wehi!
 • Paige Cooper MOAHU  
 • Jocinta Richardson WHEBG
 
-##### Te Wiki o te reo Maori Champs 2020:  
+##### Te Wiki o te reo Māori Champs 2020:  
 •	MOAPR  
 •	MOACS   
 
