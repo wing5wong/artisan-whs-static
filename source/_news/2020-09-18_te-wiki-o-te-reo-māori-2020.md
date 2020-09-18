@@ -12,13 +12,13 @@ It was a very successful week for Te Wiki o te reo Māori with over 500 entries 
 
 A big thank you to all who took part in our pātai o te rā. Ka mau te wehi!  
 
-Toa / Winners:  
-Myron Lewenilovo MAUML  
-Liam Wells MOASV  
-Paige Cooper MOAHU  
-Jocinta Richardson WHEBG
+##### Toa / Winners:  
+• Myron Lewenilovo MAUML  
+• Liam Wells MOASV  
+• Paige Cooper MOAHU  
+• Jocinta Richardson WHEBG
 
-Te wiki o Te Reo Maori Champs 2020 :  
+##### Te wiki o Te Reo Maori Champs 2020:  
 •	MOAPR  
 •	MOACS   
 
