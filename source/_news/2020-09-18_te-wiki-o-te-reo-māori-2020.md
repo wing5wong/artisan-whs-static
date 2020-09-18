@@ -1,8 +1,13 @@
 ---
 title: Te Wiki o te reo Māori 2020
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1599619317/Events/Maori_week_14-20_sept_2020.jpg
 news_author:
   date: 2020-09-18T01:11:04.918Z
   publication: "Te Tari Māori "
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600033845/Events/20200904102238_IMG_1536.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600033826/Events/20200904102121_IMG_1525.jpg
 show_in_slider: true
 date: 2020-09-18T01:11:04.933Z
 ---
