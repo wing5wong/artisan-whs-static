@@ -25,4 +25,4 @@ So why does he do it? Connor’s answer is: “I just want to give back. I have 
 
 At the end of this year Connor plans to do a conjoint degree in commerce and science, majoring in finance, economics and IT either at Otago or Wellington.
 
-In the meantime, younger brother Blake, has received a bronze award from the Student Volunteer Army for his volunteer work.
+**In the meantime, younger brother Blake, has received a bronze award from the Student Volunteer Army for his volunteer work.**
