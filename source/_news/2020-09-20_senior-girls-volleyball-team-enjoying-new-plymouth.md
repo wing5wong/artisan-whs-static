@@ -1,5 +1,5 @@
 ---
-title: Senior Girls Volleyball team enjoyed their weekend in New Plymouth
+title: Senior Girls Volleyball team enjoyed their weekend in Taranaki
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600632166/News/playing.jpg
 news_author:
