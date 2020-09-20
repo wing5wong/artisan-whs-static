@@ -7,7 +7,7 @@ feature_image:
     broadcaster.
   credit: Bevan Conley
 news_author:
-  date: 2020-09-20T07:08:02.337Z
+  date: 2020-09-19T07:08:02.337Z
   name: Michael Neilson
   publication: Whanganui Chronicle
 image_gallery:
