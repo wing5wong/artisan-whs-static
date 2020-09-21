@@ -7,11 +7,11 @@ Ni hao, welcome to 2020 Chinese Language Week.
 
 There will be a daily question Monday to Friday, just check the following bit.ly. You might win a Chocolate Prize.
 
-Today's question: bit.ly/whs2020chinese
-Good luck, 5 lucky winners each day, your prize will be delivered to you next day.
+Zao, as Confucius said ‘It does not matter how slowly you go so long as you do not stop.’
 
-As Confucius said, learning Chinese is cool.  
-Be happy and have a good day
+Good participation yesterday. Keep it up today. Congratulations Mrs Dunn, thanks for being a role model for the language learners. 
+
+Other winners are: Myron Lewenilovo, Spohie Andrew, Allan Thongskul and Jihoo Kim. Please collect your prize from the Student Centre. HAO, today’s question: bit.ly/whs2020chinese
 
 _Mr Ding  
 Dean of International Students_
