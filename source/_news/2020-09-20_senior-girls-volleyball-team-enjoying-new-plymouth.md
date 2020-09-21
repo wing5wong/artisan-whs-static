@@ -15,7 +15,7 @@ image_gallery:
     description: WHS and Spotswood College team.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600632215/News/playing_2.jpg
     description: Playing Spotswood College.
-show_in_slider: false
+show_in_slider: true
 date: 2020-09-20T20:00:59.670Z
 ---
 The senior girls volleyball team went to Taranaki on Friday to play Waitara High School and Spotswood College.  
