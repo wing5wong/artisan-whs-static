@@ -1,6 +1,6 @@
 ---
 title: Chinese Language Week
-date: 2020-09-21T00:01:12.810Z
+date: 2020-09-22T00:01:12.810Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600646670/Events/Chinese_Language_week_20_26_September_2020.jpg
 ---
 Ni hao, welcome to 2020 Chinese Language Week.
