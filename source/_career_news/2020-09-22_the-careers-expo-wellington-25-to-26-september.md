@@ -1,5 +1,5 @@
 ---
-title: "The Careers Expo: Wellington - 25 to 26 September"
+title: "Careers Expo: Wellington - 25 to 26 September"
 date: 2020-09-22T20:39:09.788Z
 closing_date: ""
 file: ""
