@@ -2,7 +2,7 @@
 title: Shakespeare Ora Aotearoa
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600814392/News/Toni_and_Maddi_at_the_event_use_this.png
-  description: Toni Adams and Maddison McKenzie
+  description: Toni Adams (left) and Maddison McKenzie.
 news_author:
   date: 2020-09-22T22:32:23.868Z
 show_in_slider: false
