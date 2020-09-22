@@ -5,7 +5,7 @@ feature_image:
   description: Toni Adams (left) and Maddison McKenzie previously performing in
     Shakespeare In The Park, The Merchant of Venice.
 news_author:
-  date: 2020-09-22T22:32:23.868Z
+  date: 2020-09-20T22:32:23.868Z
 show_in_slider: false
 date: 2020-09-22T22:32:23.889Z
 ---
