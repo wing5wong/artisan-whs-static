@@ -8,9 +8,9 @@ news_author:
   date: 2020-09-22T21:36:24.785Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600812534/News/Caleb_Squire_-_Sailing_10607_blue_boat.jpg
-    description: Caleb Squire
+    description: Caleb Squire sailing on the Whanganui River.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600812563/News/Luke_Squire_-_Sailing_44296_black_boat.jpg
-    description: Luke Squire
+    description: Luke Squire sailing on the Whanganui River.
 show_in_slider: true
 date: 2020-09-22T21:36:24.807Z
 ---
