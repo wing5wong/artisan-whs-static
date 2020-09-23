@@ -9,6 +9,8 @@ news_author:
   date: 2020-09-21T02:48:02.568Z
   name: Mike Tweed
   publication: Whanganui Chronicle
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600837470/News/Maori_music_awards_2020.png
 show_in_slider: false
 date: 2020-09-22T02:48:02.619Z
 ---
