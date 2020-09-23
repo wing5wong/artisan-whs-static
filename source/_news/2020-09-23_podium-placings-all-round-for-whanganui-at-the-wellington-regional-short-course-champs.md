@@ -9,6 +9,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600897991/News/Regan_Hanna._WN_Reg_Short_course_champs._Chron_24.9.20.jpg
 news_author:
   date: 2020-09-23T21:49:12.486Z
+  publication: Whanganui Chronicle
+  name: Staff Reporter
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600897956/News/Aria_Bannister_enrol._WN_REg_SHort_course_champs._Chron_24.9.20.jpg
     description: Aria Bannister picked up three golds during the Whanganui Swim
