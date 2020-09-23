@@ -16,6 +16,7 @@ image_gallery:
     description: Aria Bannister picked up three golds during the Whanganui Swim
       team's assault on the Wellington Short Course Championships at the
       weekend.  Photo / Supplied.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600902637/News/Wellington.png
 show_in_slider: true
 date: 2020-09-23T21:49:12.534Z
 ---
