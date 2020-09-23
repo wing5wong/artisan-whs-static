@@ -6,6 +6,7 @@ feature_image:
   description: “Steinlager II”
 news_author:
   date: 2020-09-22T21:36:24.785Z
+  name: The Squire Family
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600812534/News/Caleb_Squire_-_Sailing_10607_blue_boat.jpg
     description: Caleb Squire sailing on the Whanganui River.
