@@ -1,5 +1,5 @@
 ---
-title: 2nd in the 2020 Showquest Open Section
+title: Stage Art team placed 2nd in the 2020 Showquest Open Section!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600899894/News/119741751_611490482874064_3296257196022785214_o.jpg
 news_author:
