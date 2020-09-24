@@ -12,7 +12,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987257/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_155918.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987218/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_142713.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987233/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_151659.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987233/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_151652.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987215/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_142658.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987251/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_153604.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987230/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_153029.jpg
