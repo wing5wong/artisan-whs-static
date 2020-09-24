@@ -9,11 +9,11 @@ news_author:
   publication: Teacher in charge of Dance
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600916269/News/Sophia_and_Olivia_Bedwell_for_gaining_2nd_Runner_Up.jpg
-    description: Sophia and Olivia Bedwell - 2nd Runner Up.
+    description: Sophia and Olivia Bedwell - 2nd Runner Up, Open Section Duo/Trio.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600916286/News/Emma_Henare_who_were_named_the_top_Regional_Soloists.jpg
-    description: Emma Henare who was named one of the top Regional Soloists.
+    description: Emma Henare, joint winner of the top Regional Soloists.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600916299/News/Rebekah_Phillips_who_were_named_the_top_Regional_Soloists...jpg
-    description: Rebekah Phillips who was named one of the top Regional Soloists.
+    description: Rebekah Phillips, joint winner of the top Regional Soloists.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600916313/News/119191196_1591200131061176_5921921686584805664_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600916333/News/DNZM-Baycourt-copy.jpg
 show_in_slider: true
