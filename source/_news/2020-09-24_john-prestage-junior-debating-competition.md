@@ -1,5 +1,6 @@
 ---
-title: John Prestage Junior Debating competition
+title: Team Kowhai win the quarter finals of the John Prestage Junior Debating
+  competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600907666/News/John_Prestage_Jnr_Debating_comp._Charlotte_Sphia_and_Hazel.jpg
   description: The Kowhai Team winners, from left; Charlotte Hardy, Sophia Bedwell
