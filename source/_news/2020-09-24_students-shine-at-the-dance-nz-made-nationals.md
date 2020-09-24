@@ -21,6 +21,6 @@ date: 2020-09-24T02:37:39.124Z
 ---
 Dance NZ made Interschool Nationals were held at the Regent on Broadway, Palmerston North on Saturday 19 September.
 
-**Congratulations to Sophia and Olivia Bedwell for gaining 2nd Runner Up. Well done!**
+**Congratulations to Sophia and Olivia Bedwell for gaining 2nd Runner Up in the Open Section Duo/Trio. Well done!**
 
 **Congratulations to Emma Henare and Rebekah Phillips who were named the top Regional Soloists. Well done!**
