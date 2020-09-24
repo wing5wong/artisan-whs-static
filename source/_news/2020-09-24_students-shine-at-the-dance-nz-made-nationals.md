@@ -6,7 +6,7 @@ feature_image:
 news_author:
   date: 2020-09-21T02:37:39.101Z
   name: Mrs Campbell
-  publication: Teacher in charge of Dance
+  publication: Teacher in charge Dance
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600916269/News/Sophia_and_Olivia_Bedwell_for_gaining_2nd_Runner_Up.jpg
     description: Sophia and Olivia Bedwell - 2nd Runner Up, Open Section Duo/Trio.
