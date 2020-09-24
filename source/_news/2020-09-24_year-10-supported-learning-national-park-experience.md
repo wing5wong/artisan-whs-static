@@ -11,7 +11,7 @@ We read the book “Cuz” which was an NZ book about two teenagers surviving in
 _“This experience showed me I can go away on a school trip with people I don’t like being around at school and have fun, because they were better out of school. We all were. And people carried my pack and helped me when I slipped. I felt part of the team.”  
 Shekinah Lambert_
 
-On 16 September we packed our packs in the gym and jumped in a van or Mr Friedel's car and off we went. We stopped at Taihape for kai, and saw where the Tangiwai disaster happened as we headed to the Tongariro National Park. 
+On 16 September, we packed our packs in the gym and jumped in a van or Mr Friedel's car and off we went. We stopped at Taihape for kai, and saw where the Tangiwai disaster happened as we headed to the Tongariro National Park. 
 
 We put on our packs and off we went.
 
