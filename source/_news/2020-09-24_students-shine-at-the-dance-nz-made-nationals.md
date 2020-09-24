@@ -21,6 +21,10 @@ date: 2020-09-24T02:37:39.124Z
 ---
 Dance NZ Made Interschool Nationals were held at the Regent on Broadway, Palmerston North on Saturday 19 September.
 
-**Congratulations to Sophia and Olivia Bedwell for gaining 2nd Runner Up in the Open Section Duo/Trio. Well done!**
+We had 3 Duos/Trios representing WHS at the National event.  A tough competition with schools representing from all over NZ. 
 
-**Congratulations to Emma Henare and Rebekah Phillips who were named the top Regional Soloists. Well done!**
+**Congratulations to Sophia and Olivia Bedwell placed 3rd in the National Opens category.  An outstanding result for the girls. Well done!**
+
+Wonderful performances from all of our dancers.  The results didn’t go our way but an incredible level of dance displayed from all.
+
+**Congratulations to Emma Henare and Rebekah Phillips who were awarded top Regionals Soloists on the night. Well done!**
