@@ -2,7 +2,8 @@
 title: John Prestage Junior Debating competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600907666/News/John_Prestage_Jnr_Debating_comp._Charlotte_Sphia_and_Hazel.jpg
-  description: The Kowhai Team winners; Charlotte Hardy, Sophia Bedwell and Hazel Chant.
+  description: The Kowhai Team winners, from left; Charlotte Hardy, Sophia Bedwell
+    and Hazel Chant.
 news_author:
   date: 2020-09-21T00:22:39.563Z
   publication: Junior Debating
