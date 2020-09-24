@@ -19,7 +19,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-09-24T02:37:39.124Z
 ---
-Dance NZ made Interschool Nationals were held at the Regent on Broadway, Palmerston North on Saturday 19 September.
+Dance NZ Made Interschool Nationals were held at the Regent on Broadway, Palmerston North on Saturday 19 September.
 
 **Congratulations to Sophia and Olivia Bedwell for gaining 2nd Runner Up in the Open Section Duo/Trio. Well done!**
 
