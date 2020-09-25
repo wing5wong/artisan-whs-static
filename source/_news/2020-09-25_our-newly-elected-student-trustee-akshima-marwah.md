@@ -1,5 +1,5 @@
 ---
-title: Our newly elected Student Trustee - Akshima Marwah
+title: "Akshima Marwah is our newly elected Student Trustee "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600998552/News/Student-Trustee-2020.jpg
 news_author:
