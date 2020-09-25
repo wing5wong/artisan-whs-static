@@ -4,6 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987232/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_152421.jpg
 news_author:
   date: 2020-09-20T22:23:44.094Z
+  name: Students of Ms Meade's SOI01 class
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987278/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200917_092515.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600987255/News/National%20Park%20Experience%2C%20Y10%20Supported%20Learning/IMG_20200916_153519.jpg
