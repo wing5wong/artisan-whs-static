@@ -1,5 +1,5 @@
 ---
-title: Team bonding Prefect Camp in Wellington
+title: A great time was had by all at the Prefect Camp in Wellington
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600991459/News/Prefect%20Camp%20to%20WN/120154682_777324693054828_936818428027911981_n.jpg
 news_author:
