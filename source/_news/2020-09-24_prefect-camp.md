@@ -4,6 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600991459/News/Prefect%20Camp%20to%20WN/120154682_777324693054828_936818428027911981_n.jpg
 news_author:
   date: 2020-09-23T23:37:21.492Z
+  name: Scott Emerson
+  publication: Deputy Head Boy
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600990933/News/Prefect%20Camp%20to%20WN/120160905_768259457087542_2076210231747228785_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600991407/News/Prefect%20Camp%20to%20WN/120146734_3297620550314416_5402460810237622962_n.jpg
