@@ -15,7 +15,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600999218/News/CHESS.%20WU%20School%20Pupil%20Chess%20Champs%202020/119983758_1009521649512637_5048756580175407540_n.jpg
     description: Sam Gray - 1st place U16s.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600999218/News/CHESS.%20WU%20School%20Pupil%20Chess%20Champs%202020/119991796_3292879114152229_5209951120792281370_n.jpg
-    description: OVERALL WINNERS; 1st Shawn Lamong (middle), 2nd Zach Paikea (right)
+    description: Overall Winners; 1st Shawn Lamong (middle), 2nd Zach Paikea (right)
       and 3rd Jihoo Kim (left).
 show_in_slider: true
 date: 2020-09-25T01:55:39.871Z
