@@ -10,4 +10,4 @@ If you have any queries please see Mrs Murphy in Te Wehi Gym.
 
 Sign Ups close Tuesday 13 October. 
 
-**[bit.ly/sportsignupsterm4](bit.ly/sportsignupsterm4)**
+[bit.ly/sportsignupsterm4](bit.ly/sportsignupsterm4)
