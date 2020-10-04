@@ -1,5 +1,5 @@
 ---
-title: Summer Sport Sign Ups - close Tuesday 13 October
+title: Summer Sport - Sign Ups close Tuesday 13 October
 date: 2020-10-13T03:27:04.919Z
 ---
 **Term 4 Summer Sport Sign Ups** 
