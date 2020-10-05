@@ -8,4 +8,4 @@ A reminder from NZQA that School Examinations for Year 11 - Year 13 this year ha
 
 Should the November NCEA examinations be effected by a 'Lockdown', your school examination mark may well become your actual mark or 'Derived Grade' so please ensure you have a good study routine in place.
 
-**2020 Examination Timetable**  (https://www.nzqa.govt.nz/assets/qualifications-and-standards/qualifications/ncea/exams-and-portfolios/examination-timetable.pdf)
+[**2020 Examination Timetable** ](https://www.nzqa.govt.nz/assets/qualifications-and-standards/qualifications/ncea/exams-and-portfolios/examination-timetable.pdf)
