@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598844054/Events/
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1598844072/Events/TTG-2015-WGTN-map-pdf.jpg
 ---
-Any students interested in completing in this years Secondary School Tough Guy/ Gal competition on 16 October please pick up a letter from 03/04 this Wednesday, 2 September, at 1st Break. 
+Any students interested in competing in this years Secondary School Tough Guy/ Gal competition on 16 October were asked to pick up a letter from 03/04 on Wednesday, 2 September, at 1st Break. 
 
 It is a 12km obstacle course run in Wellington and the cost for the day is $65. 
 
