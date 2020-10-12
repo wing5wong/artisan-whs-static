@@ -1,7 +1,7 @@
 ---
 title: Great results at the Whanganui School Pupil Chess Championship 2020
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1600999219/News/CHESS.%20WU%20School%20Pupil%20Chess%20Champs%202020/120074088_362129928158970_7475180893875522311_n.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602471037/News/CHESS.%20WU%20School%20Pupil%20Chess%20Champs%202020/120074088_362129928158970_7475180893875522311_ncropped.jpg
   description: The winning team, from left; Jihoo (3rd overall), Shawn (1st
     overall), Sam (1st U16s), Zach (2nd overall), Toby (1st U14s).
 news_author:
