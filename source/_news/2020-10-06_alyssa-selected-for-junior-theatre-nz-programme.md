@@ -2,6 +2,7 @@
 title: Alyssa selected for Junior Theatre NZ programme
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1601979200/News/Alyssa_Hartley_RCP_sept_2020.jpg
+  description: Alyssa Hartley
 short: ""
 news_author:
   date: 2020-09-24T11:08:25.646Z
