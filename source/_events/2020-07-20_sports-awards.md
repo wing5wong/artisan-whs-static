@@ -10,6 +10,4 @@ Tickets $10
 
 Honouring the sporting excellence of our Students!
 
-Students getting their Sports Colours please purchase a ticket from the Bursars Office or Student Centre before 14 October. 
-
-Offices will be closed over the holidays.
+Tickets can be purchased from the Bursars Office or Student Centre before 14 October. 
