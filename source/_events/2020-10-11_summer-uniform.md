@@ -3,9 +3,10 @@ title: Summer Uniform
 date: 2020-10-11T22:23:25.943Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
-Students are expected to be in Summer Uniform by Monday 19 October. This allows a one week change over period.
+Students are expected to be in Summer Uniform by Monday 19 October. \
+This allows a one week change over period.
 
-Parents are reminded that Andersons Uniforms, is our uniform outlet.  [Andersons Uniform Shop - WHS Uniform Pricelist.](https://res.cloudinary.com/whanganuihigh/image/upload/v1590447921/Uniform/Anderson_Uniform_Price_List_-_25_May_2020.pdf)
+Parents are reminded that Andersons Uniforms, is our uniform outlet.  [Uniform Pricelist.](https://res.cloudinary.com/whanganuihigh/image/upload/v1590447921/Uniform/Anderson_Uniform_Price_List_-_25_May_2020.pdf)
 
 Please ensure that your son/daughter’s uniform complies with our [Uniform Regulations.](https://res.cloudinary.com/whanganuihigh/image/upload/v1590447922/Uniform/About_Our_Uniform_Booklet_-_25_May_2020.pdf)
 
