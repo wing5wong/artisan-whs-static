@@ -10,4 +10,4 @@ Tickets $10
 
 Honouring the sporting excellence of our Students!
 
-Tickets can be purchased from the Bursars Office or Student Centre before 14 October. 
+Tickets can be purchased from the Bursars Office or Student Centre. 
