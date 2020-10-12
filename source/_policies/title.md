@@ -68,13 +68,13 @@ policyAreas:
   - policies:
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1595889170/School%20Policies/5.1_-Health_and_Safety_Policy_updated_July_2020_web.pdf
         policy: 5.1 Health and Safety
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1568853625/School%20Documents/Policies%20and%20Charter/5.2_-Emergencies_Policy_updated_October_2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1602467251/School%20Policies/5.2_Emergencies_Policy_updated_August_2020.pdf
         policy: 5.2 Emergencies
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1567372515/School%20Policies/5.3_-Post-Disaster_Survival_Policy_updated_August_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1602467251/School%20Policies/5.3_Post_Disaster_Survival_updated_August_2020.pdf
         policy: 5.3 Post Disaster Survival
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/5.4--Student-Discipline-Policy-_-updated-November-2016.pdf
         policy: 5.4 Student Discipline
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1572306627/School%20Policies/5.5_-Sexuality_Education_Policy_updated_October_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1602467250/School%20Policies/5.5_Sexuality_Education_Policy_updated_August_2020.pdf
         policy: 5.5 Sexuality Education
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693561/School%20Policies/5.6--Drugs-Policy_-updated-April-2018.pdf
         policy: 5.6 Drugs
