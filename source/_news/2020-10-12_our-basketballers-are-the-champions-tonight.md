@@ -20,3 +20,7 @@ Whoop whoop!! Well done Coach Lisa Martin and our girls Basketball team winning 
 Woohoo!! Basketballers are the champs tonight at WHS! 💚💛🏀🏀
 
 Congrats to the senior boys and Coach Karney for your awesome win tonight taking out the title 39-30 against Taihape Area School. 💪🏻💪🏻
+
+Congrats also to our Junior A Girls team who won their final last week 98-8 against Collegiate. 💪🏻💚💛
+
+Thanks to Karney, Lisa and Kerwyn who have coached our teams this year!! 👍💚💛
