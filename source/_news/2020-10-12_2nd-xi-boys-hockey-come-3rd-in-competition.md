@@ -9,6 +9,6 @@ news_author:
 show_in_slider: true
 date: 2020-10-12T20:26:16.015Z
 ---
-Well done to our WHS 2nd XI boys Hockey team who beat Collegiate tonight 3-1 and finished 3rd in the competition!! 💚👌🏻💛
+**Well done to our WHS 2nd XI boys Hockey team who beat Collegiate tonight 3-1 and finished 3rd in the competition!!** 💚👌🏻💛
 
 Thanks to Coaches Chad and Haley and Manager Justine for your dedication to our boys!! 😊👍
