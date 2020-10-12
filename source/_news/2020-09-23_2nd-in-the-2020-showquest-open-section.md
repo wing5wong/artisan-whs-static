@@ -8,6 +8,6 @@ news_author:
 show_in_slider: true
 date: 2020-09-23T22:22:36.040Z
 ---
-**Congratulations to our talented Stage Art team placing 2nd in the 2020 Showquest Open Section.  A wonderful effort by you all!  💚🥈** 
+**Congratulations to our talented Stage Art team placing 2nd in the 2020 Showquest on Screen, Wellington Open Section.  A wonderful effort by you all!  💚🥈** 
 
 **A big thank you to Sasha Matthews for the time given to Showquest and all of the students involved!  😁**
