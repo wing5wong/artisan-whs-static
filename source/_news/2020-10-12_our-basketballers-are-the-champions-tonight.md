@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602535141/News/winning-boys-_-girls-teams.jpg
   description: Our winning Basketball Teams!
 news_author:
-  date: 2020-10-12T20:38:42.662Z
+  date: 2020-09-17T21:38:42.662Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
 image_gallery:
