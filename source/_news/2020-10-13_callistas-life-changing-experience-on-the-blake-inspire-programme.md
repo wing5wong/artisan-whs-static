@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561645/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/IMG_20201007_115348.jpg
   description: "Brendon O’Hagan "
 news_author:
-  date: 2020-10-13T03:57:42.566Z
+  date: 2020-10-12T03:57:42.566Z
   name: Callista Booth-Richards
   publication: WHS Year 13 Student
 image_gallery:
