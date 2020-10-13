@@ -12,7 +12,7 @@ news_author:
 show_in_slider: false
 date: 2020-10-13T01:12:20.968Z
 ---
-Congratulations to Graham Hall for being selected as a finalist for  the prestigious “New Zealand Painting & Printmaking Award” – 2020.
+**Congratulations to Graham Hall for being selected as a finalist for  the prestigious “New Zealand Painting & Printmaking Award” – 2020.**
 
 The finalists were chosen from a record number of 408 entries. His multi-block woodcut print is the 4th from a body of work about “The Stations of the Cross”.
 
