@@ -4,7 +4,7 @@ date: 2020-10-12T19:58:34.652Z
 closing_date: ""
 file: https://res.cloudinary.com/whanganuihigh/image/upload/v1602532919/Careers%20and%20Vocational/13.10.2020_STAR_Gateway_School_Handbook_2021.pdf
 ---
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1602532919/Careers%20and%20Vocational/13.10.2020_STAR_Gateway_School_Handbook_2021.pdf)
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1602621818/Careers%20and%20Vocational/13.10.2020_-_STAR_Gateway_-_Poster_2021.jpg)
 
 PORSE Education & Training (NZ) Ltd offers secondary schools seven early childhood education unit standards (level 2 and level 3) selected from the **NZ Certificate in Early Childhood Learning and Care (Level 2)** and the **NZ Certificate in Early Learning and Care (Level 3)**.
 
