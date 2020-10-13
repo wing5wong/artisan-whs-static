@@ -1,18 +1,22 @@
 ---
 title: Callista's life-changing experience on the BLAKE Inspire programme
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561645/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/IMG_20201007_115348.jpg
-  description: "Brendon O’Hagan "
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561639/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/Callista_Booth_Richards._BLAKE_inspire_scholarship_funded_by_the_Sir_Peter_Blake_Trust_and_ministry_for_the_environment.jpg
+  description: Waitomo Caves.
+  credit: Brendon O’Hagan
 news_author:
   date: 2020-10-13T03:57:42.566Z
   name: Callista Booth-Richards
   publication: WHS Year 13 Student
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561639/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/Callista_Booth_Richards._BLAKE_inspire_scholarship_funded_by_the_Sir_Peter_Blake_Trust_and_ministry_for_the_environment.jpg
-    description: "BLAKE's photographer Brendon O’Hagan "
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561645/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/IMG_20201007_115348.jpg
+    description: "Waitomo Caves.  BLAKE's photographer Brendon O’Hagan "
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602564269/News/1E7A0856.4000-width.jpg
+    description: Waitomo Caves.  BLAKE's photographer Brendon O’Hagan.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561657/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/1E7A9980.jpg
     description: Fonterra farm.  BLAKE's photographer Brendon O’Hagan.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561638/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/Screenshot_20201005_215014_com.facebook.katanacrop.jpg
+    description: Hamilton Gardens with the Waikato River in the background.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561641/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/Blake-.jpg
 show_in_slider: false
 date: 2020-10-13T03:57:42.589Z
