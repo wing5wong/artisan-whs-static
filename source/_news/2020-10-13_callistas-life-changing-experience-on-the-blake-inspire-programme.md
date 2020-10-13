@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602561645/News/Blake%20Inspire%20Sch.%20Callista%20Booth%20Richards/IMG_20201007_115348.jpg
   description: "Brendon O’Hagan "
 news_author:
-  date: 2020-10-12T03:57:42.566Z
+  date: 2020-10-13T03:57:42.566Z
   name: Callista Booth-Richards
   publication: WHS Year 13 Student
 image_gallery:
@@ -17,7 +17,7 @@ image_gallery:
 show_in_slider: false
 date: 2020-10-13T03:57:42.589Z
 ---
-Whanganui High School Year 13 student, Callista Booth-Richards was selected to go on a fully funded environment leadership trip called BLAKE Inspire from 5-9 October 2020.  The following is her story.
+Whanganui High School Year 13 student, Callista Booth-Richards was selected to go on a fully funded environment leadership trip called BLAKE Inspire from 5-9 October 2020.  The following is her story. 
 
 BLAKE NZ is an organisation founded in the memory of Sir Peter Blake, the champion New Zealand sailor, explorer and environmental activist. BLAKE NZ focuses on inspiring environmental leadership in the youth of our country, following Sir Peter Blake's philosophy.
  
