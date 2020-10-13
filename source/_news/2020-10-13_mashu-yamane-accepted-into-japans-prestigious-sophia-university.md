@@ -1,5 +1,5 @@
 ---
-title: Mashu Yamane accepted into Japans prestigious Sophia University
+title: Mashu Yamane accepted into Japan's prestigious Sophia University
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602552075/News/Mashu_Yamane.jpg
 news_author:
