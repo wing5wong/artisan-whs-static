@@ -1,5 +1,5 @@
 ---
-title: Fun at Dodgeball Competition
+title: Great fun at Dodgeball Competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602546716/News/Dodgeball%20Competition%20Secondary%20School%20.Sept%202020/150x150_Logo.jpg
 news_author:
