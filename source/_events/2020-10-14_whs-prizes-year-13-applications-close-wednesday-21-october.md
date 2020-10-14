@@ -6,4 +6,5 @@ There are two monetary scholarships which are awarded at the Year 13 Prizegiving
 
 To find out more go to - bit.ly/whsyr13prize
 
-This will take you to an informative document which includes links to the application forms. You have until next Wednesday 21 October to apply.
+This will take you to an informative document which includes links to the application forms. 
+You have until next Wednesday 21 October to apply.
