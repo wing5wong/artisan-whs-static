@@ -1,6 +1,6 @@
 ---
 title: Summer Uniform
-date: 2020-10-11T22:23:25.943Z
+date: 2020-10-14T22:23:25.943Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 ---
 Students are expected to be in Summer Uniform by Monday 19 October.  
