@@ -7,7 +7,7 @@ feature_image:
     won the same age group at the same tournament 13 years earlier)
 news_author:
   date: 2020-10-08T04:40:33.616Z
-  publication: Whanganui Chronicle
+  publication: River City Press
 show_in_slider: false
 date: 2020-10-15T04:40:33.636Z
 ---
