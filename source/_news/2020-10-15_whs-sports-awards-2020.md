@@ -20,7 +20,7 @@ image_gallery:
     description: Girls Sports Dux - Kara Adrole & Boys Sports Dux - Tyrese Herewini-Lama.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121672335_1705814022901030_3543946754399477130_o.jpg
     description: Team Award - Junior Girls Sprint Team; Maggie Jones, Paris Munro,
-      Greg, Casie Glentworth and Charlotte Baker.
+      Greg Fromont (Coach), Casie Glentworth and Charlotte Baker.
 show_in_slider: true
 date: 2020-10-15T20:10:51.134Z
 ---
