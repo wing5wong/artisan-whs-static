@@ -6,7 +6,7 @@ feature_image:
     medals after Saturday's National Club Championships.
   credit: Supplied
 news_author:
-  date: 2020-10-15T02:49:16.800Z
+  date: 2020-10-13T02:49:16.800Z
   publication: Whanganui Chronicle
   name: Mike Tweed, Roller Hockey
 image_gallery:
