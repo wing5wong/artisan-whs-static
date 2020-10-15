@@ -2,6 +2,7 @@
 title: WHS Art Students Showcasing Creations
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602735329/News/Grace-Swanston-RCP-8.10.0.jpg
+  description: Grace Swanston and her self-portrait ‘Behind the glass’
 news_author:
   date: 2020-10-08T04:10:44.454Z
   publication: River City Press
