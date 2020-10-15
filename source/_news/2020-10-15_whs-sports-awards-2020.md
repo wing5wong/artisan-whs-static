@@ -20,7 +20,7 @@ date: 2020-10-15T20:10:51.134Z
 
 ###### Well done to our Sports Prefect Team for making the Eulogy Lounge look amazing!!!!! 👌🏻🎉💚💛  
 
-##### Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the night! 👍
+###### Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the night! 👍
 
 #### Our Prestigious awards of the night went to:
 
