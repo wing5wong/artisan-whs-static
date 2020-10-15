@@ -3,7 +3,7 @@ title: WHS SPORTS AWARDS 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793075/News/Sports%20Awards%202020/121731761_1705813979567701_8461948510207561615_o.jpg
 news_author:
-  date: 2020-10-15T20:10:51.117Z
+  date: 2020-10-14T20:10:51.117Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
 image_gallery:
