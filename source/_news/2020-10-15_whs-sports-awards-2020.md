@@ -28,9 +28,9 @@ image_gallery:
 show_in_slider: true
 date: 2020-10-15T20:10:51.134Z
 ---
-Outstanding night at the WHS Sports Awards tonight!  
+Outstanding night at the WHS Sports Awards tonight! 🎉  
 
-Well done to our Sports Prefect Team for making the Eulogy Lounge look amazing!! 👌🏻🎉💚💛  
+Well done to our Sports Prefect Team for making the Eulogy Lounge look amazing!! 👌🏻💚💛  
 
 Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the night! 👍
 
