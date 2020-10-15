@@ -2,7 +2,8 @@
 title: Art for all during September
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602737514/News/judy_webby._midweek_16.9.20.jpg
-  description: Some of the affordable art on display at Cooks Gallery.
+  description: Some of the affordable art on display at Cooks Gallery, including
+    that of Judy Webby's.
 news_author:
   date: 2020-09-16T05:51:05.188Z
   publication: Whanganui Midweek
