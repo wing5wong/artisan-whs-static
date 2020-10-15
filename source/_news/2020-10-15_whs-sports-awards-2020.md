@@ -30,25 +30,25 @@ date: 2020-10-15T20:10:51.134Z
 ---
 Outstanding night at the WHS Sports Awards tonight!  
 
-Well done to our Sports Prefect Team for making the Eulogy Lounge look amazing!!!!! 👌🏻🎉💚💛  
+Well done to our Sports Prefect Team for making the Eulogy Lounge look amazing!! 👌🏻🎉💚💛  
 
 Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the night! 👍
 
 #### Our Prestigious awards of the night went to:
 
 
-**Girls Sports Dux - Kara Adrole**
+**GIRLS SPORTS DUX - Kara Adrole**  🏆
   
-**Boys Sports Dux - Tyrese Herewini-Lama** 
+**BOYS SPORTS DUX - Tyrese Herewini-Lama**  🏆 
  
-**Principals Cup - Outstanding Sport Performance- Maggie Jones**
+**PRINCIPALS CUP - Outstanding Sport Performance- Maggie Jones**  🏆
    
-**Team Award - Junior Girls Sprint Team** 
+**Team Award - Junior Girls Sprint Team**  🏆
   
-**Sportsmanship Award - Anthony Sellers** 
+**Sportsmanship Award - Anthony Sellers**  🏆 
  
-**Service to Sport - Connor Hoskin**  
+**Service to Sport - Connor Hoskin**  🏆  
 
-**Leadership in Sport - Sophie Andrews**  
+**Leadership in Sport - Sophie Andrews**  🏆  
 
 Full photos of the night will be out next week!
