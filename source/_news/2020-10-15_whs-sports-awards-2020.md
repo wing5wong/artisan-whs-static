@@ -2,8 +2,8 @@
 title: WHS SPORTS AWARDS 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121487603_1705814056234360_3778987959758287855_o.jpg
-  description: Principals Cup - Outstanding Sport Performance - Maggie Jones,
-    Girls Sports Dux - Kara Adrole & Boys Sports Dux - Tyrese Herewini-Lama.
+  description: Principals Cup, Outstanding Sport Performance - Maggie Jones, Girls
+    Sports Dux - Kara Adrole & Boys Sports Dux - Tyrese Herewini-Lama.
 news_author:
   date: 2020-10-14T20:10:51.117Z
   name: "Lisa Murphy "
@@ -40,7 +40,7 @@ Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the nig
   
 **BOYS SPORTS DUX - Tyrese Herewini-Lama**  🏆 
  
-**PRINCIPALS CUP - Outstanding Sport Performance - Maggie Jones**  🏆
+**PRINCIPALS CUP, Outstanding Sport Performance - Maggie Jones**  🏆
    
 **Team Award - Junior Girls Sprint Team**  🏆
   
