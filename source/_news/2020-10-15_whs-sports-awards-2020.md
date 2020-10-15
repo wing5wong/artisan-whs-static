@@ -40,7 +40,7 @@ Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the nig
   
 **BOYS SPORTS DUX - Tyrese Herewini-Lama**  🏆 
  
-**PRINCIPALS CUP - Outstanding Sport Performance- Maggie Jones**  🏆
+**PRINCIPALS CUP - Outstanding Sport Performance - Maggie Jones**  🏆
    
 **Team Award - Junior Girls Sprint Team**  🏆
   
