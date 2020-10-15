@@ -14,8 +14,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121272449_1705813999567699_5528666538781816832_o.jpg
     description: Beautifully set up Eulogy Lounge by the Sports Prefect Team.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121458410_1705813996234366_6430021763728447662_o.jpg
-    description: Head of Sport Sophie Andrews and Jakob Moorhouse were fantastic
-      hosts for the night.
+    description: Our fantastic hosts - Head of Sport Sophie Andrews and Jakob Moorhouse.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121461663_1705814006234365_5904478668619426759_o.jpg
     description: Sports Prefect Team; Jakob Moorhouse, Sophie Andrews, Piper Slade,
       Renee Teers, Mikayla Heka, Tyrese Herewini-Lama and Divnesh Dayal who had
