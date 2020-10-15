@@ -1,0 +1,42 @@
+---
+title: WHS SPORTS AWARDS 2020
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793075/News/Sports%20Awards%202020/121731761_1705813979567701_8461948510207561615_o.jpg
+news_author:
+  date: 2020-10-15T20:10:51.117Z
+  name: "Lisa Murphy "
+  publication: WHS Director of Sport
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121272449_1705813999567699_5528666538781816832_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121458410_1705813996234366_6430021763728447662_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121461663_1705814006234365_5904478668619426759_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121487603_1705814056234360_3778987959758287855_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121602245_1705814032901029_2669831197338692181_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121672335_1705814022901030_3543946754399477130_o.jpg
+show_in_slider: true
+date: 2020-10-15T20:10:51.134Z
+---
+Outstanding night at the WHS Sports Awards tonight!  
+
+Well done to our Sports Prefect Team for making the Eulogy Lounge look amazing!!!!! 👌🏻🎉💚💛  
+
+Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the night!  
+
+#### Our Prestigious awards of the night went to:
+
+
+**Girls Sports Dux - Kara Adrole**
+  
+**Boys Sports Dux - Tyrese Herewini-Lama** 
+ 
+**Principals Cup - Outstanding sport performance- Maggie Jones**
+   
+**Team Award - Junior Girls Sprint Team** 
+  
+**Sportsmanship Award - Anthony Sellers** 
+ 
+**Service to Sport - Connor Hoskin**  
+
+**Leadership in Sport - Sophie Andrews**  
+
+Full photos of the night will be out next week!
