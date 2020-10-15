@@ -2,17 +2,21 @@
 title: WHS SPORTS AWARDS 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793075/News/Sports%20Awards%202020/121731761_1705813979567701_8461948510207561615_o.jpg
+  description: WHS Sports Awards 2020 all set to go!
 news_author:
   date: 2020-10-14T20:10:51.117Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121272449_1705813999567699_5528666538781816832_o.jpg
+    description: Beautifully set up Eulogy Lounge by the Sports Prefect Team.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121458410_1705813996234366_6430021763728447662_o.jpg
-    description: Head of Sport Sophie Andrews and Jakob Moorhouse hosted the night.
+    description: Head of Sport Sophie Andrews and Jakob Moorhouse were fantastic
+      hosts for the night.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121461663_1705814006234365_5904478668619426759_o.jpg
     description: Sports Prefect Team; Jakob Moorhouse, Sophie Andrews, Piper Slade,
-      Renee Teers, Mikayla Heka, Tyrese Herewini-Lama and Divnesh Dayal.
+      Renee Teers, Mikayla Heka, Tyrese Herewini-Lama and Divnesh Dayal who had
+      the Eulogy Lounge look amazing.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121487603_1705814056234360_3778987959758287855_o.jpg
     description: Principals Cup - Outstanding Sport Performance - Maggie Jones,
       Girls Sports Dux - Kara Adrole & Boys Sports Dux - Tyrese Herewini-Lama.
