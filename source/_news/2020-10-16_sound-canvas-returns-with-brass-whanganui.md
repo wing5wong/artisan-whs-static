@@ -14,7 +14,7 @@ date: 2020-10-16T00:07:46.292Z
 ---
 Brass Whanganui's surround sound art and music event Sound Canvas returns, after being postponed by Covid-19.
 
-It's on Saturday, October 31, at 3pm and 7pm, and on Sunday, November 1 at 2pm and includes Whanganui High School students Luke Squire and Jonathan Stolk.
+It's on Saturday, October 31, at 3pm and 7pm, and on Sunday, November 1 at 2pm, and includes **Whanganui High School students Luke Squire (playing the cornet) and Jonathan Stolk (playing percussion).**
 
 Presented completely on stage at the Royal Wanganui Opera House, audience and all, Sound Canvas is an experience for music and art lovers, especially those who enjoy the unpredictable.
 
