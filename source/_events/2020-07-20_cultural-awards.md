@@ -1,6 +1,7 @@
 ---
 title: CULTURAL AWARDS 2020
 date: 2020-10-22T01:21:19.039Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602806686/Events/Cultural-Awards-2020-poster.jpg
 ---
 Held at The Royal Wanganui Opera House.
 
