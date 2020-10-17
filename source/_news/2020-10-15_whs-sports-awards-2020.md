@@ -48,6 +48,8 @@ Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the nig
  
 **Service to Sport - Connor Hoskin**  🏆  
 
-**Leadership in Sport - Sophie Andrews**  🏆  
+**Leadership in Sport - Sophie Andrews**  🏆
+
+Huge congratulations to you all!!  👏👏  
 
 Full photos of the night will be out next week!
