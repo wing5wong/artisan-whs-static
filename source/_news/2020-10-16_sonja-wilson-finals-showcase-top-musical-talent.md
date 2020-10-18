@@ -1,8 +1,15 @@
 ---
 title: Sonja Wilson finals showcase top musical talent
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603057406/News/Alyssa-_-Eve-1st-_-2nd.jpg
+  description: Aylssa with her winning trophy and Eve singing with accompanist
+    Lisa Bossenkool.
 news_author:
   date: 2020-09-16T02:22:35.908Z
   publication: Whanganui Midweek
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603057428/News/Alyssa-and-Eve.in-lineup--midweek-16.9.20.jpg
+    description: Alyssa with her winning trophy and Eve coming 2nd at prizegiving evening.
 show_in_slider: false
 date: 2020-10-16T01:22:35.935Z
 ---
