@@ -1,6 +1,7 @@
 ---
 title: Careers & Study Magazine - Year 11-13
 date: 2020-10-18T20:43:51.341Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603054330/News/Leaving_School_Magazine_Oct_2020_issue.jpg
 ---
 The October issue of the Leaving School Magazine has been handed out to our Year 11, 12, and 13 students. 
 
