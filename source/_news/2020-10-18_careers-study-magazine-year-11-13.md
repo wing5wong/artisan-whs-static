@@ -1,5 +1,7 @@
 ---
 title: Careers & Study Magazine - Year 11-13
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603054330/News/Leaving_School_Magazine_Oct_2020_issue.jpg
 news_author:
   date: 2020-10-18T20:48:03.125Z
 show_in_slider: false
