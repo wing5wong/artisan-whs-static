@@ -1,5 +1,5 @@
 ---
-title: Motocross, Rotorua Interschool Challenge
+title: Motocross, Rotorua Interschool Challenge 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603071529/News/Rotorua_Interschool_Challenge_Motocross_in_Rotorua._Ajah_Sullivan_Troy_Bullock._Riki_Wainhouse..jpg
   description: Left to right; Troy Bullock, Riki Wainhouse and Ajah Sullivan.
