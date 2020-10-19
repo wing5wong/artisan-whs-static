@@ -31,7 +31,7 @@ Captain Dean Fitness said the two teams had drawn during pool play, but, despite
 
 Fitness, who is a member of New Zealand's national team, said he was proud of the way they played, and because most of the starting line-up were still under 20, the team had a bright future ahead.
 
-"Whanganui took home three medals, and our under 14s (Whanganui Lightening) won their final 14-2. Our division two team came second and our under 17s came third.
+"Whanganui took home three medals, and our under 14s (Whanganui Lightening) won their final 14-2. Our division two team came third and our under 17s came second.
 
 "At the moment we actually have two kids' teams, and there seems to be quite a bit of interest in roller hockey here in Whanganui.
 
