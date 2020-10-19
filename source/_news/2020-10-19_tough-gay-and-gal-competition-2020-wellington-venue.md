@@ -27,7 +27,7 @@ There was a 6 km and 12 km course.
 
 Our students did the 12 km course. It was a tough course, which the students completed 2 laps of running up hills, through rivers, muddy swamps, up cargo nets and under electric fences. 
 
-The team did well with Connor Hoskin placing 2nd (senior boys) Chase Morpeth 2nd (junior boys), Charlotte baker 2nd and Maggie Jones 3rd in Senior Girls. 
+The team did well with Connor Hoskin placing 2nd (Senior Boys) Chase Morpeth 2nd (Junior Boys), Charlotte Baker 2nd and Maggie Jones 3rd (Senior Girls). 
 
 Important to note that the adult event took place a day later, and going off the adult’s time over the same course, our Connor and Charlotte would have had the same placing. 
 
