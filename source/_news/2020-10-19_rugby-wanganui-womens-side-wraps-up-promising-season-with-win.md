@@ -4,6 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603081166/News/Rugby._Wanganui_Women_s_side._sosili_Talawadua_chron_19.10.20.jpg
 news_author:
   date: 2020-10-19T04:19:03.169Z
+  publication: Whanganui Chronicle
+  name: Jared Smith
 show_in_slider: true
 date: 2020-10-19T04:19:03.185Z
 ---
