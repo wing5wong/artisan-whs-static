@@ -14,6 +14,9 @@ image_gallery:
     description: Ex WHS students representing Wanganui Rugby Team; Josh Lane, Ethan
       Robinson, Cameron Davies, Matt Ashworth, Cade Robinson and Joe
       Edwards.  Photo / Kaierau Rugby Facebook page.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603083129/News/Wanganui-with-Bruce-Steel-Memorial-Cup-scaled.jpg
+    description: Steelform Wanganui regain Bruce Steel Memorial Cup. Photo /
+      Wanganui Rugby Facebook page.
 show_in_slider: false
 date: 2020-10-19T03:48:49.699Z
 ---
