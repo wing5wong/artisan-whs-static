@@ -11,9 +11,9 @@ news_author:
   name: Jared Smith
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603079346/News/Ex_WHS_boy_playing_for_Wanganui_2020._Josh_Lane_Ethan_Robinson_Cameron_Davies_Matt_Ashworth_Cade_Robinson_Joe_Edwards.jpg
-    description: Ex WHS students representing Wanganui Rugby in game on Sunday; Josh
-      Lane, Ethan Robinson, Cameron Davies, Matt Ashworth, Cade Robinson and Joe
-      Edwards.
+    description: Ex WHS students representing Wanganui Rugby Team; Josh Lane, Ethan
+      Robinson, Cameron Davies, Matt Ashworth, Cade Robinson and Joe
+      Edwards.  Photo / Kaierau Rugby Facebook page.
 show_in_slider: false
 date: 2020-10-19T03:48:49.699Z
 ---
