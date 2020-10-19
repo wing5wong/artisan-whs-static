@@ -54,6 +54,6 @@ Wanganui 20 (S Talawadua 2, S Vakuruivalu, I Pomana tries) bt Wairarapa Bush 17 
 
 ##### Around the grounds  
 
-CYCLONES: The Manawatū Cyclones locked in their Farah Palmer Cup semifinal spot with a 29-12 win over the Hawke's Bay Tui at McLean Park in Napier on Friday. St John's Wanganui Metro's **Sosoli Talawadua (ne Tofa)** played prop while clubmate Lavenia Nauga-Grey was on the bench, with both backing up on the Saturday in the Wanganui Women's game with Wairarapa Bush.
+CYCLONES: The Manawatū Cyclones locked in their Farah Palmer Cup semifinal spot with a 29-12 win over the Hawke's Bay Tui at McLean Park in Napier on Friday. St John's Wanganui Metro's **Sosoli Talawadua (nee Tofa)** played prop while clubmate Lavenia Nauga-Grey was on the bench, with both backing up on the Saturday in the Wanganui Women's game with Wairarapa Bush.
 
 SEVENS: Three local players were chosen for the tournament teams after the Hurricanes Youth Rugby Secondary Schools Sevens tournament at Rathkeale College on Saturday. NZ Barbarians U18 players Harry Godfrey and Adam Lennox added another honour to their season, being named in the Boys team after helping guide Whanganui Collegiate to the semifinals of their 10-school grade. While **Whanganui High School weren't quite as successful in their five-school Girls grade, their speedster Paris Munro was still named in that tournament side.**
