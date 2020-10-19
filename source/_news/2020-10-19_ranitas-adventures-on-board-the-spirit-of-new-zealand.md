@@ -1,11 +1,11 @@
 ---
-title: Ranitas adventures on board the 'Spirit of New Zealand'
+title: Ranita's adventures on board the 'Spirit of New Zealand'
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603068395/News/Spirit_of_Adventure_2.jpg
 news_author:
   date: 2020-09-28T00:42:24.608Z
   name: Ranita Kirk
-  publication: Year 13 WHS student
+  publication: WHS Year 13 student
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603068416/News/Spirit_of_Adventure_1.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603068395/News/Spirit_of_Adventure_2.jpg
