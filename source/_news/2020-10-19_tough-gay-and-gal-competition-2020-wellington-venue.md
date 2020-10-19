@@ -17,9 +17,12 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603138012/News/3456.jpg
     description: Maggie Jones - 3rd Senior Girls.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603138036/News/4567.jpg
-    description: Charlotte Baker, Connor Hoskin and Maggie Jones (second from right).
+    description: Charlotte Baker (2nd Senior Girls), Connor Hoskin (2nd Senior Boys)
+      and Maggie Jones (3rd Senior Girls, second from right).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603076699/News/20201016_115020.jpg
     description: Left to right; Ashley Cowley, Christina Donne-Lee, Paris Munro.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603142967/News/connor_hoskins.jpg
+    description: Year 12 student, Cameron Hopkins.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603076720/News/20201016_113901.jpg
     description: Year 9 student, Noah Jones.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603076742/News/tough-guy-gal-wellington.jpg
