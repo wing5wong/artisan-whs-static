@@ -20,7 +20,7 @@ Well done to our netball teams who won or came runners up in their grade this ye
 
 * WHS Senior C1 - winners of SS4 Open Day Tournament and SS4 Competition. 
 
-* WHS Senior B1 - winners of Open Day Tournament.
+* WHS Senior B1 - winners of SS1 Open Day Tournament.
 
 * WHS Junior A1 - winners of SS1 Open Day Tournament and runners up of SS1 Competition  
 
