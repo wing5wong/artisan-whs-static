@@ -1,0 +1,23 @@
+---
+title: Michiel Vanderwal – Builder and Grand Design NZ participant
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154856/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/1Capture.PNG_4.png
+news_author:
+  date: 2020-10-12T00:46:24.492Z
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154855/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/3oipo.png
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154856/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/4Capture.PNG_2.png
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154864/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/5aCapture.PNG6.png
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154864/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/6Capture.PNG_3.png
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154864/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/7Capture.PNG9.png
+show_in_slider: false
+date: 2020-10-20T00:46:24.517Z
+---
+Former student Michiel Vanderwal – Builder and Grand Design NZ participant!
+
+Roland and Lucienne Vanderwal join forces with their son Michiel to build a home out of local schist, in the middle of their central Otago vineyard.
+
+Remarkable build Michiel!  What an achievement!!  
+Congrats and all the very best.
+
+View Michiels ‘Schist Vineyard’ build on Grand Designs NZ, Episode 5, TV3 on Demand.
