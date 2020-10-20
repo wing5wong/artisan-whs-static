@@ -14,7 +14,7 @@ image_gallery:
     description: Mark Johnston (78v) clips Jack Purcell (5V) sending Purcell on a
       wild ride. Photo / PS3 Photography.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603230593/News/Trent_James_56V_17.10.20_from_Trents_facebook_page.jpg
-    description: Trent James (56V) winning a Youth Minstocks race on Saturday.
+    description: Trent James (56V) winning a race in the Youth Minstocks on Saturday.
 show_in_slider: false
 date: 2020-10-20T02:59:14.235Z
 ---
