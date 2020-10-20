@@ -11,7 +11,7 @@ news_author:
   name: Jared Smith
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603079346/News/Ex_WHS_boy_playing_for_Wanganui_2020._Josh_Lane_Ethan_Robinson_Cameron_Davies_Matt_Ashworth_Cade_Robinson_Joe_Edwards.jpg
-    description: Ex WHS students representing Wanganui in the Steelformers Wanganui
+    description: Ex WHS students representing Wanganui in the Steelform Wanganui
       Rugby Team; Josh Lane, Ethan Robinson, Cameron Davies, Matt Ashworth, Cade
       Robinson and Joe Edwards.  Photo / Kaierau Rugby Facebook page.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603083129/News/Wanganui-with-Bruce-Steel-Memorial-Cup-scaled.jpg
