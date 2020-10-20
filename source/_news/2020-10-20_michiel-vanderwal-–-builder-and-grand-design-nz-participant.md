@@ -1,5 +1,5 @@
 ---
-title: Michiel Vanderwal – Builder and Grand Design NZ participant
+title: Michiel Vanderwal – Builder and Grand Design NZ star
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154856/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/1Capture.PNG_4.png
 news_author:
