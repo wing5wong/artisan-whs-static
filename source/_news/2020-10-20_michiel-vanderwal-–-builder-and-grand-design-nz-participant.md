@@ -27,11 +27,12 @@ image_gallery:
 show_in_slider: false
 date: 2020-10-20T00:46:24.517Z
 ---
-Former student Michiel Vanderwal – Builder and Grand Design NZ participant!
+Former student Michiel Vanderwal – Builder and Grand Design NZ star!
 
 Roland and Lucienne Vanderwal join forces with their son Michiel to build a home out of local schist, in the middle of their central Otago vineyard.
 
-Remarkable build Michiel!  What an achievement!!\
+Remarkable build Michiel!  What an achievement!!  
+
 Congrats and all the very best.
 
 [View Michiels ‘Schist Vineyard’ build on Grand Designs NZ, Episode 5, TV3 on Demand.](https://www.threenow.co.nz/shows/grand-designs-nz/schist-vineyard/S1347-654/M40791-736)
