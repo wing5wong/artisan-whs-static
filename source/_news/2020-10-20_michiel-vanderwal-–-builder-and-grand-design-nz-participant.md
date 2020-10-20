@@ -11,9 +11,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154864/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/6Capture.PNG_3.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154864/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/7Capture.PNG9.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603155320/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/8Capture.PNG11.png
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154864/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/j11dfadfas.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154856/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/10Capture.PNG12.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154855/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/12Capture.PNG14.png
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154864/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/j11dfadfas.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154865/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/jkty.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154869/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/jwCapture.PNG16.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154871/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/wCapture.PNG15.png
@@ -23,7 +23,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154872/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/yaaaCapture.PNG18.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154873/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/yaaaczCapture.PNG14a.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154873/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/yjdf.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603154871/News/Grand%20Designs%20NZ%20ex%20Michiel%20Vanderwal/yaaad.jpg
 show_in_slider: false
 date: 2020-10-20T00:46:24.517Z
 ---
