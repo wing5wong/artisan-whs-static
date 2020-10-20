@@ -24,7 +24,7 @@ From the moment the pit gates were opened early at 2pm, competitors from all ove
 
 And the big fields provided the recipe for an action-packed evening.
 
-Twenty-three Superstocks faced the starter for the first heat of the night, and it only took half a lap for 81V Max Holloway's race to end. The young Whanganui driver was squeezed between Dylan Marshall (57V) and the concrete wall, and with a little help from Hayden Hart (166B), Holloway was left high and dry.
+Twenty-three Superstocks faced the starter for the first heat of the night, and it only took half a lap for **81V Max Holloway's** race to end. The young Whanganui driver was squeezed between Dylan Marshall (57V) and the concrete wall, and with a little help from Hayden Hart (166B), Holloway was left high and dry.
 
 The impressive Asher Rees (126K) stormed to the lead in his aluminium bodied car, taking the race win ahead of younger brother Ethan (127G) and Jared Wade (85K).
 
@@ -42,9 +42,9 @@ Dennis Black (82V) looked headed for a race win until he got caught up in a last
 
 Miers dominated the second heat to take a comfortable win ahead of Justin Hutchby (88H) and Kyle Rowe (79P), but the action was happening back in the pack.
 
-Jack Purcell was squeezed onto his side at the southern bend then he was clipped by Mark Johnston (78V), causing the 5V car to stand on its front bumper before crashing down on its wheels. That was the end of Purcell's night.
+**Jack Purcell** was squeezed onto his side at the southern bend then he was clipped by **Mark Johnston (78V)**, causing the 5V car to stand on its front bumper before crashing down on its wheels. That was the end of Purcell's night.
 
-Miers completed the first hattrick of the season, winning the third heat ahead of Mooney and Trazarn Ryland-Annabell (33V), whilst Mooney finally got a win in the final heat, finishing ahead of Trevor Greig (81V) and Black.
+Miers completed the first hattrick of the season, winning the third heat ahead of Mooney and **Trazarn Ryland-Annabell (33V)**, whilst Mooney finally got a win in the final heat, finishing ahead of Trevor Greig (81V) and Black.
 
 To end the night, the Stockcars and Superstocks got together for the Grand Slam, with the Superstocks starting more than half a lap behind.
 
@@ -60,10 +60,12 @@ Dylan Smith (53V) took out a comfortable win in the opening Minisprint heat, reg
 
 In the Adult Ministocks, Nathan Nolly (39S) won the first heat, with Jack Lammas-Martin (157P) winning the other two races, running down Jayden Barnaby (9V) in the closing laps of heat 2.
 
-There was some excellent, close racing in the Youth Ministocks, with wins shared between Conor Linklater (27P), Trent James (56V), and Jessie Henderson (454V).
+There was some excellent, close racing in the Youth Ministocks, with wins shared between Conor Linklater (27P), **Trent James (56V)**, and Jessie Henderson (454V).
 
-James' win was especially meritorious when he shot through a gap by the pole line coming off the final corner as the leaders got momentarily slowed by lapped traffic.
+**James'** win was especially meritorious when he shot through a gap by the pole line coming off the final corner as the leaders got momentarily slowed by lapped traffic.
 
 A very good opening night crowd was on hand to watch the action in fine, cool conditions.
 
-An even bigger crowd is expected on Sunday, October 25, when along with last season's rescheduled West Coast Superstocks, the Noel Kensington, George Podjursky and Craig Heibner Superstock Memorials and the Heiby Memorial Youth Ministocks will be contested. There will also be a spectacular fireworks display.
+An even bigger crowd is expected on Sunday, October 25, when along with last season's rescheduled West Coast Superstocks, the Noel Kensington, George Podjursky and Craig Heibner Superstock Memorials and the Heiby Memorial Youth Ministocks will be contested.  
+
+There will also be a spectacular fireworks display.
