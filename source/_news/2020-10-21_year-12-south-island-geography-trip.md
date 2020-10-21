@@ -19,6 +19,6 @@ date: 2020-10-21T20:37:28.522Z
 ---
 Despite all the challenges that 2020 has thrown at us, we somehow managed to squeeze our annual South Island trip in. After six different proposals and schedules, we eventually settled on version seven. So, with a much smaller cohort and a shortened version of what we normally do, we set off on a five day and four night adventure.
 
-The trip entailed some bungy jumping at the Kawarau Gorge, driving the Crown Range to Wanaka. Day 2 was a drive down the Clutha River past the dams and then on to Te Anau.  Day 3 involved the epic drive to Milford and boat cruise on the fiord.  Day 4 was back to Queenstown for gondola and luge, followed by Fergburger and Fear Factory.  The final day was a drive to Glenorchy and then back to Arrowtown for gold panning before a quick laser tag game and flying back home.
+The trip entailed some bungy jumping at the Kawarau Gorge, driving the Crown Range to Wanaka. Day 2 was a drive down the Clutha River past the Dams and then on to Te Anau.  Day 3 involved the epic drive to Milford and boat cruise on the Fiord.  Day 4 was back to Queenstown for gondola and luge, followed by Fergburger and Fear Factory.  The final day was a drive to Glenorchy and then back to Arrowtown for gold panning before a quick laser tag game and flying back home.
 
 A great trip and lots of memories made and learning done.
