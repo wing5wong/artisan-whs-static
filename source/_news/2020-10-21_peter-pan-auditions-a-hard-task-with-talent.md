@@ -6,7 +6,7 @@ feature_image:
     and Sophie Toyne. "
   credit: Reuben Janes
 news_author:
-  date: 2020-10-21T22:19:59.101Z
+  date: 2020-10-20T22:19:59.101Z
   publication: Whanganui Midweek
   name: Rep talk with Nadine Rayner
 show_in_slider: false
