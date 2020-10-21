@@ -9,7 +9,7 @@ news_author:
   publication: Teacher in Charge
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603313087/News/Milford_Road.jpg
-    description: Milford Road.
+    description: Monkey Creek on SH94.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603313069/News/Milford.jpg
     description: Milford Sound.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603313104/News/Fear.jpg
