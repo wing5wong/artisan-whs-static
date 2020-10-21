@@ -11,7 +11,7 @@ The season sprung into life at the opening club night on a typically breezy spri
 
 At this time of the year, we share the ground with the Whanganui Heartland rugby team, preparing for their final fixture. There was rugby action in the midfield, full fields on the track, triple jump on the run-up under the grandstand with high jump back in place at the council end of the ground. There were encouraging large entries with nine heats needed to complete the 200m series (4 female heats and 5 male heats).
 
-Franca Morrah was the first to cross the line, winning her 70m hurdle event in a smart 11.3s with Carrie Rennie taking the 80m hurdles in 14.0s with her twin sister Teresa finishing second, 0.7s in arrears.
+Franca Morrah was the first to cross the line, winning her 70m hurdle event in a smart 11.3s with **Carrie Rennie taking the 80m hurdles in 14.0s with her twin sister Teresa finishing second, 0.7s in arrears.**
 
 Both Carrie Rennie and Franca had similar speeds over every 10 metres which suggest some good racing to come over the season. The top hurdle performance came from **New Zealand School junior champion and Athletic New Zealand hurdle silver medallist Maggie Jones, who convincingly won in 15.1s (hand-timed).**
 
