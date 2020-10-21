@@ -1,5 +1,7 @@
 ---
 title: Whanganui athletics season springs into life with first club night
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1591673071/News/Athletics-Image.jpg
 news_author:
   date: 2020-10-21T23:44:09.591Z
   publication: Whanganui Chronicle
