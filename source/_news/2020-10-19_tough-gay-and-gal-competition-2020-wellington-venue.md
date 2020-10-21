@@ -1,5 +1,5 @@
 ---
-title: Tough Gay and Gal Competition 2020, Central/Lower North Island
+title: Tough Guy and Gal Competition 2020, Central/Lower North Island
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603076153/News/20201016_130255.jpg
   description: Our team from left; Christina Donne-Lee, Ashley Cowley, Cameron
