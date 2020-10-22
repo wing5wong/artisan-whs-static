@@ -2,7 +2,7 @@
 title: Aranga Molijn was the overall winner of the Wynne Costley Scholarship
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603404177/News/Aranga_Moijln_Overall_winner_with_Jenny_Saywood_from_the_National_Council_of_Women_and_Adjudicator_Mrs_Mary_Ann_Ewing.jpg
-  description: Aranga Moijln, Overall winner with Jenny Saywood from the National
+  description: Aranga Molijn, Overall winner with Jenny Saywood from the National
     Council of Women, and Adjudicator Mrs Mary Ann Ewing.
 news_author:
   date: 2020-10-18T22:00:31.545Z
