@@ -1,6 +1,7 @@
 ---
 title: " Telford Open Day - Year 12/13"
 date: 2020-10-29T20:31:57.832Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603398950/Events/Telford-Open-Day_30.10.2020_.jpg
 ---
 Telford Open Day is Friday 30 October, 10am until 2pm. 
 
