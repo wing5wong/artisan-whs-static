@@ -32,12 +32,20 @@ image_gallery:
     description: Massey University Junior Earth Guardians Competition, Digital
       Winner - Hazel Chant.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/14.122200847_979211832576362_79055524561419731_o.jpg
+    description: Massey University Junior Earth Guardians Competition, Costume
+      Winner - Harriet Buchan.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/15.122288601_979211865909692_5821026869332858722_o.jpg
+    description: Trustpower Photographic Exhibition Finalist, Top 20, Highly
+      Commended - Kate Regan.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/16.122104205_979211899243022_1951143006351578628_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/17.122117417_979211919243020_4080404287094898322_o.jpg
+    description: National Youth Art Award 2020 Finalist - Zoe Bracegirdle.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833267/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/18.122177014_979211949243017_1462051279808314201_o.jpg
+    description: National Youth Art Award 2020, Finalist - Rose Hird.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833268/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/19.122446248_979211979243014_7085324343129381427_o.jpg
+    description: NZ 2020 Wallace Secondary School Art Award, Finalist- Grace Swanston.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833268/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/20.122432291_979212002576345_7936706898484490311_o.jpg
+    description: The Principals Cup for Excellence in the Arts - Grace Swanston.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833268/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/21.122132547_979211689243043_1716278979952693619_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833269/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/22.122386920_979211479243064_292916851103931684_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/23.122501771_979211579243054_3243644244545267616_o.jpg
