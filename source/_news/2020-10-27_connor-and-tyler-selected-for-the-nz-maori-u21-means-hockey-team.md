@@ -5,7 +5,7 @@ feature_image:
   description: Connor and Tyler selected for the NZ Māori U21 Means Hockey Team
     for 2020/2021.
 news_author:
-  date: 2020-10-27T23:18:18.616Z
+  date: 2020-10-25T23:18:18.616Z
   publication: WHS Director of Sport
   name: Lisa Murphy
 show_in_slider: false
