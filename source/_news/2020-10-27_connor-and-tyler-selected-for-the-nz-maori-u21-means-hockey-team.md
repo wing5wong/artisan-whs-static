@@ -8,7 +8,7 @@ news_author:
   date: 2020-10-26T23:18:18.616Z
   publication: WHS Director of Sport
   name: Lisa Murphy
-show_in_slider: false
+show_in_slider: true
 date: 2020-10-27T23:18:18.630Z
 ---
 **Over the weekend our head boy Connor Hoskin and ex student Tyler Nicoll-Hylton were Selected for the NZ Māori U21 Mens Hockey Team For 2020/2021**. 
