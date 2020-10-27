@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603236286/Events/
 ---
 WHS Māori Awards are being held at the Function Centre, Whanganui Racecourse at 6:00pm on Thursday 29 October 2020.
 
-Tickets are now available to purchase at the Student Centre for $10. 
+Tickets are now available to purchase at the Student Centre and Bursars Office for $10.  
+Student's attending the evening will need to purchase a ticket. 
 
 Nau mai, haere mai.
