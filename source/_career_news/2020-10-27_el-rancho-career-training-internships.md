@@ -5,10 +5,7 @@ closing_date: ""
 ---
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1603834910/Careers%20and%20Vocational/28.10.2020_El_Rancho.jpg)
 
-# 
-Career Training Internships
-
- 
+# Career Training Internships
 
 The El Rancho Internship programme will unlock your potential…empowering you and equipping you with life skills that will look great on your CV and kickstart your career!\
 \
