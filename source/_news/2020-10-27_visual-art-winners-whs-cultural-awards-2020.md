@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/1.122117163_979211382576407_7312265862206567581_o.jpg
 news_author:
   date: 2020-10-22T20:52:30.365Z
-  publication: Visual Arts Department
+  publication: WHS Visual Arts Department
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833268/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/2.122447364_979211375909741_3037492190009686948_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/3.121974748_979211459243066_2892638314430649639_o.jpg
