@@ -7,17 +7,30 @@ news_author:
   publication: WHS Visual Arts Department
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833268/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/2.122447364_979211375909741_3037492190009686948_o.jpg
+    description: Graham Hall Cup for Art, Year 11 - Freyja Wrigglesworth.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/3.121974748_979211459243066_2892638314430649639_o.jpg
+    description: Coombs Cup for Design, Year 12 - Jenna Ruggiero.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833271/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/4.122132092_979211465909732_1655994256051555226_o.jpg
+    description: Sleyer Cup for Photography, Year 12 - Zoe Bracegirdle & Kate Regan.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833272/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/5.122158330_979211482576397_8375935932908830633_o.jpg
+    description: The John Innes Cup for the Most Promising Art student - Sophie Barron.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833273/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/6.122284623_979211605909718_1769284588715901453_o.jpg
+    description: Lennard Webby Cup for Visual Arts, Painting - Grace Swanston.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833272/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/7.122211448_979211645909714_4015113683613939654_o.jpg
+    description: Kidd Cup for Senior Art Design - Merle Chant.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833272/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/8.122203633_979211662576379_5629110343535077409_o.jpg
+    description: Head Family Trophy for Dedication to Photography - Vanessa Corlett.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833272/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/9.122119317_979211679243044_1969896302019222251_o.jpg
+    description: Marty Vreede Cup for Printmaking Excellence - Eva-Rose Wakefield.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/10.122522208_979211732576372_7226425626156884735_o.jpg
+    description: The Peter Donne Cup for the Most Outstanding Art Student - Grace Swanston.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833263/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/11.Excellance_Certificates.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/12.122000196_979211789243033_2984335513807276295_o.jpg
+    description: Patillo Whanganui Arts Review, WDC Youth Recognition Award Winner -
+      Nat Kirk.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/13.122153334_979211819243030_7930617845760131621_o.jpg
+    description: Massey University Junior Earth Guardians Competition, Digital
+      Winner - Hazel Chant.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/14.122200847_979211832576362_79055524561419731_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/15.122288601_979211865909692_5821026869332858722_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/16.122104205_979211899243022_1951143006351578628_o.jpg
