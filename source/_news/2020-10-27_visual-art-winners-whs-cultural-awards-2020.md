@@ -35,6 +35,7 @@ image_gallery:
     description: Grace Swanston won the Principal's Cup for Excellence in the Arts.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122114473_979211569243055_5118927561205354188_o.jpg
     description: Abby Squire picked up 4/5 ELITE Awards, most notably, Dux Artium 2020.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122150533_979211392576406_6919685923945367691_o.jpg
 show_in_slider: true
 date: 2020-10-27T20:52:30.389Z
 ---
