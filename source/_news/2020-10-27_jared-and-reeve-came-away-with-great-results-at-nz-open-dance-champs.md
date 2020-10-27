@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603839139/News/Jared_Smith_Reeve_Watson.NZ_Open_Dance_Championship_at_the_Te_Rauparaha_Arena_2.jpg
   description: Reeve Watson (14) & Jared Sim (18) dressed to dance.
 news_author:
-  date: 2020-10-27T22:46:25.074Z
+  date: 2020-10-26T22:46:25.074Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
 image_gallery:
