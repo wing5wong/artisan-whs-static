@@ -46,14 +46,14 @@ image_gallery:
     description: NZ 2020 Wallace Secondary School Art Award, Finalist- Grace Swanston.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833268/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/20.122432291_979212002576345_7936706898484490311_o.jpg
     description: The Principals Cup for Excellence in the Arts - Grace Swanston.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122087710_979211439243068_1111699115200923248_o.jpg
+    description: Grace Swanston with her Principal's Cup for Excellence in the Arts.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833268/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/21.122132547_979211689243043_1716278979952693619_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833269/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/22.122386920_979211479243064_292916851103931684_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/23.122501771_979211579243054_3243644244545267616_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/24.122044090_979211512576394_4119448083630193067_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/25.122219502_979211699243042_8392416047858995787_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/26.122056090_979211619243050_4987625470081804387_o.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122087710_979211439243068_1111699115200923248_o.jpg
-    description: Grace Swanston won the Principal's Cup for Excellence in the Arts.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122114473_979211569243055_5118927561205354188_o.jpg
     description: Abby Squire picked up 4/5 ELITE Awards, most notably, Dux Artium 2020.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122150533_979211392576406_6919685923945367691_o.jpg
