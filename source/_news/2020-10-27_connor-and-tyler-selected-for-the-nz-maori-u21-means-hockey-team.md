@@ -11,7 +11,7 @@ news_author:
 show_in_slider: false
 date: 2020-10-27T23:18:18.630Z
 ---
-Over the weekend our head boy Connor Hoskin and ex student Tyler Nicoll-Hylton were Selected for the NZ Māori U21 Mens Hockey Team For 2020/2021. 
+**Over the weekend our head boy Connor Hoskin and ex student Tyler Nicoll-Hylton were Selected for the NZ Māori U21 Mens Hockey Team For 2020/2021**. 
 
 They were part of the Men’s Aotea Team who were placed 5th in the NZ Māori National Tournament held in Hamilton over the weekend. 
 
