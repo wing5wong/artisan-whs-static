@@ -6,25 +6,46 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916656/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/1.122237963_1048695992219405_2688172380028327229_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916658/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/2.122449701_1048696082219396_8686566427524752436_o.jpg
+    description: WHS Cup for Outstanding Supporting Contribution to Dance, Female -
+      Rebekah Phillips.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916663/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/3.122708170_1048696058886065_8003910367757645439_o.jpg
+    description: WHS Cup for Outstanding Contribution to Dance, Female - Rosa Spence.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916665/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/4.122457583_1048696262219378_3879736880016440854_o.jpg
+    description: WHS Cup for Outstanding Contribution to Dance, Male - Liam Johnson.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916670/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/5.122379196_1048696125552725_8327326523594695728_o.jpg
+    description: The Pond Trophy for Excellence in Dance Performance - Rosa Spence.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916672/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/6.122150525_1048696272219377_6073792304444298865_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916672/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/7.122214381_1048696112219393_5164187979878699723_o.jpg
+    description: WHS Cup for Outstanding Supporting Contribution to Music, Female -
+      Imogen Maguire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916672/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/8.122182413_1048696298886041_6820908280185001429_o.jpg
+    description: WHS Cup for Outstanding Supporting Contribution to Music, Male -
+      Joseph Petersen.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916673/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/9.122213304_1048696418886029_324656509984726579_o.jpg
+    description: WHS Cup for Outstanding Contribution to Music, Female - Abby Squire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916656/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/10.122426058_1048696468886024_7345500487850218675_o.jpg
+    description: WHS Cup for Outstanding Contribution to Music, Male - Daniel Goodwin.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916656/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/11.122507997_1048696455552692_754316161741585160_o.jpg
+    description: Kahu Miller Memorial Cup for Dedication to Music - Freya Battersby.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916657/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/12.122189983_1048696548886016_8621404823178189612_o.jpg
+    description: Principal's Cup for Excellence in Music Performance - Abby Squire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916656/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/13.122268818_1048695972219407_4227526172071577056_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916657/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/14.122430443_1048696585552679_1546926666743910969_o.jpg
+    description: The Todd Cup for Outstanding Contribution to Drama, Year 11 - Maddi
+      McKenzie.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916658/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/15.122222141_1048696608886010_3502938788255114642_o.jpg
+    description: WHS Cup for Supporting Contribution to Drama, Female - Abby Squire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916658/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/16.122437317_1048696712219333_4635061031717327248_o.jpg
+    description: WHS Cup for Supporting Contribution to Drama, Male - Soul Borberg.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916658/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/17.122440587_1048696328886038_652491483200026290_o.jpg
+    description: WHS Cup for Outstanding Contribution to Drama, Female - Timara Wallace.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916658/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/18.122358904_1048696362219368_6527182508603675407_o.jpg
+    description: WHS Cup for Outstanding Contribution to Drama, Male - Patrick Absolum.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/19.122168320_1048696118886059_5863468252288256956_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/20.122222144_1048696375552700_3629037877253719867_o.jpg
+    description: Kaitataki Wahine (Female Leader Kapahaka) - Hinerangi Ratana.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/21.122129066_1048696508886020_281962570728927057_o.jpg
+    description: Kaea Tane (Male Leader Kapahaka) - Hemi Neil.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/22.122207335_1048696685552669_6723770929584520009_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/23.122236677_1048696532219351_606277153409342951_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/24.122364584_1048696555552682_187701772515900514_o.jpg
