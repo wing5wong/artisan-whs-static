@@ -9,7 +9,7 @@ news_author:
   publication: WHS Director of Sport
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603838456/News/Roller_Hockey_Nationals_held_in_New_Plymouth_photo_1.jpg
-    description: Current Students, Connor Alderton, Amelia Neale and Wilson McKee.
+    description: Current Students; Wilson McKee, Connor Alderton and Amelia Neale.
 show_in_slider: true
 date: 2020-10-27T22:36:28.690Z
 ---
