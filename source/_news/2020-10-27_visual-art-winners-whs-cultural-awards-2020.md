@@ -25,6 +25,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/10.122522208_979211732576372_7226425626156884735_o.jpg
     description: The Peter Donne Cup for the Most Outstanding Art Student - Grace Swanston.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833263/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/11.Excellance_Certificates.jpg
+    description: EXCELLENCE CERTIFICATES..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833264/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/12.122000196_979211789243033_2984335513807276295_o.jpg
     description: Patillo Whanganui Arts Review, WDC Youth Recognition Award Winner -
       Nat Kirk.
@@ -38,6 +39,7 @@ image_gallery:
     description: Trustpower Photographic Exhibition Finalist, Top 20, Highly
       Commended - Kate Regan.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/16.122104205_979211899243022_1951143006351578628_o.jpg
+    description: EXCELLENCE TIES..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/17.122117417_979211919243020_4080404287094898322_o.jpg
     description: National Youth Art Award 2020, Finalist - Zoe Bracegirdle.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833267/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/18.122177014_979211949243017_1462051279808314201_o.jpg
