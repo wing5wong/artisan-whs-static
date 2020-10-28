@@ -1,5 +1,5 @@
 ---
-title: WHS students do well in the Roller Hockey Nationals 2020
+title: Great results from students in the Roller Hockey Nationals 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603838474/News/Roller_Hockey_Nationals_held_in_New_Plymouth_photo_2.jpg
   description: Past and present students of WHS that played at the Roller Hockey Nationals.
