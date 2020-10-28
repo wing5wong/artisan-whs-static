@@ -94,7 +94,7 @@ image_gallery:
     description: DanceNZMade Regional 1st Place Open Duo/Trio - Olivia Bedwell,
       Sophia Bedwell.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916666/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/39.122257885_1048696995552638_5950947410863501988_o.jpg
-    description: DanceNZMade Regional 2nd Place Open Duo/Trio - Lilly Everett
+    description: DanceNZMade Regional 2nd Place Open Duo/Trio - Lilly Everett, Katy Harvey.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916667/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/40.122702543_1048697015552636_1748445175073918943_o.jpg
     description: DanceNZMade Regional 2nd Place Y9/10 Team 'Triple H' - Kathleen
       Dacalcap, Olivia MacDonald, Tobias Perkins, Febelyn Kitongan, Harmony
