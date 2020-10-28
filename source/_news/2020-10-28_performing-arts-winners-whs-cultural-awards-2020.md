@@ -128,6 +128,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916671/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/54.122158331_1048696352219369_1449318098468808236_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916671/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/55.122181032_1048696462219358_9090644709629009729_o.jpg
     description: THE PRINCIPAL'S CUP for EXCELLENCE in the ARTS - GRACE SWANSTON.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122150533_979211392576406_6919685923945367691_o.jpg
 show_in_slider: true
 date: 2020-10-28T20:11:04.424Z
 ---
