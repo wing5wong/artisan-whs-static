@@ -48,15 +48,30 @@ image_gallery:
     description: Kaea Tane (Male Leader Kapahaka) - Hemi Neil.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/22.122207335_1048696685552669_6723770929584520009_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/23.122236677_1048696532219351_606277153409342951_o.jpg
+    description: Regional Chamber Music Competition, Highly Commended - Olivia
+      Bedwell, Alyssa Hartley, Jessie O'Connor.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/24.122364584_1048696555552682_187701772515900514_o.jpg
+    description: Regional Chamber Music Competition, Adjudicators Award - Eve Parker-Groves.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916662/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/25.122144538_1048696642219340_5202577960435076613_o.jpg
+    description: Regional Smokefreerockquest, 1st Place Duo - Dennihe Edwards, Toa
+      Tawhitapou.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916662/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/26.122444224_1048696665552671_6308454868668192857_o.jpg
+    description: Regional Smokefreerockquest, 1st Place Band 'In Business' - Tomas
+      Bidgood, Christian Garratt, Max Hughes.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916662/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/27.122269307_1048696672219337_7838109517662647801_o.jpg
+    description: "Regional Smokefreerockquest, 3rd Place Band 'Rythym Vision' -
+      Daniel Goodwin, Imogen Maguire, Sophie Maxey, Chester Nevil. "
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916662/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/28.122232698_1048696758885995_5138236628854715604_o.jpg
+    description: Regional Smokefreerockquest Musicianship Award - Imogen Maguire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916662/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/29.122296705_1048696808885990_1739021879831392699_o.jpg
+    description: Regional Smokefreerockquest Musicianship Award - Harvey Hughes.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916662/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/30.122333038_1048696815552656_3001003779236768482_o.jpg
+    description: Regional Smokefreerockquest Best Vocal Award - Jansen Condon-Ngapo.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916664/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/31.122637739_1048696848885986_2983265699592683356_o.jpg
+    description: Regional Smokefreerockquest Apra Lyric Award - Imogen Maguire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916664/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/32.122147420_1048696212219383_8121808408698676141_o.jpg
+    description: Regional Smokefreerockquest ZM Best Song Award 'In Business' -
+      Tomas Bidgood, Christian Garratt, Max Hughes.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916664/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/33.122451105_1048696878885983_7942213716989444293_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916664/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/34.122325350_1048696895552648_3595579272308068764_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916664/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/35.122310807_1048696912219313_8158521652467402496_o.jpg
