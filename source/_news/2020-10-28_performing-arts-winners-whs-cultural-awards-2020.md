@@ -1,5 +1,7 @@
 ---
 title: Performing Arts Winners, WHS Cultural Awards 2020
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603920383/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/PERFORMING_ARTS.jpg
 news_author:
   date: 2020-10-22T20:11:04.410Z
   name: WHS Performing Arts Department
