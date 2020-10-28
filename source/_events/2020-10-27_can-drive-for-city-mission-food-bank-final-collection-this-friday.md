@@ -6,4 +6,6 @@ The Community Prefects have organised a CAN DRIVE House competition to donate to
 
 Bring along a can of food, or other non-perishable food items, to your Form Class to earn a house point. 
 
+This will be our final 'House' event for the year!
+
 The final collection date is Friday 30 October.
