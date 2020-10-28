@@ -45,9 +45,9 @@ image_gallery:
     description: WHS Cup for Outstanding Contribution to Drama, Male - Patrick Absolum.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/19.122168320_1048696118886059_5863468252288256956_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/20.122222144_1048696375552700_3629037877253719867_o.jpg
-    description: Kaitataki Wahine (Female Leader Kapahaka) - Hinerangi Ratana.
+    description: Kaitātaki Wāhine (Female Leader Kapahaka) - Hinerangi Ratana.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/21.122129066_1048696508886020_281962570728927057_o.jpg
-    description: Kaea Tane (Male Leader Kapahaka) - Hemi Neil.
+    description: Kaea Tāne (Male Leader Kapahaka) - Hemi Neil.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/22.122207335_1048696685552669_6723770929584520009_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/23.122236677_1048696532219351_606277153409342951_o.jpg
     description: Regional Chamber Music Competition, Highly Commended - Olivia
