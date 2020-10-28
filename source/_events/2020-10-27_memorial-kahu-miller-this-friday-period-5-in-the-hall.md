@@ -1,6 +1,6 @@
 ---
 title: Memorial - Kahu Miller - this Friday, period 5 in the Hall
-date: 2020-10-27T22:14:14.364Z
+date: 2020-10-29T22:14:14.364Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603836917/Kahu_Miller._16341.jpg
 ---
 Sadly, during lock-down this year, Kahu Miller, a cherished Year 13 student and friend, passed away. 
