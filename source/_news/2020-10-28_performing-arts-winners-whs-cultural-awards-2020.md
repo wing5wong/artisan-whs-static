@@ -7,6 +7,7 @@ news_author:
   name: WHS Performing Arts Department
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916656/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/1.122237963_1048695992219405_2688172380028327229_o.jpg
+    description: DANCE..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916658/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/2.122449701_1048696082219396_8686566427524752436_o.jpg
     description: WHS Cup for Outstanding Supporting Contribution to Dance, Female -
       Rebekah Phillips.
@@ -17,6 +18,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916670/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/5.122379196_1048696125552725_8327326523594695728_o.jpg
     description: The Pond Trophy for Excellence in Dance Performance - Rosa Spence.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916672/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/6.122150525_1048696272219377_6073792304444298865_o.jpg
+    description: MUSIC..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916672/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/7.122214381_1048696112219393_5164187979878699723_o.jpg
     description: WHS Cup for Outstanding Supporting Contribution to Music, Female -
       Imogen Maguire.
@@ -32,6 +34,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916657/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/12.122189983_1048696548886016_8621404823178189612_o.jpg
     description: Principal's Cup for Excellence in Music Performance - Abby Squire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916656/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/13.122268818_1048695972219407_4227526172071577056_o.jpg
+    description: DRAMA..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916657/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/14.122430443_1048696585552679_1546926666743910969_o.jpg
     description: The Todd Cup for Outstanding Contribution to Drama, Year 11 - Maddi
       McKenzie.
@@ -44,11 +47,13 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916658/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/18.122358904_1048696362219368_6527182508603675407_o.jpg
     description: WHS Cup for Outstanding Contribution to Drama, Male - Patrick Absolum.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/19.122168320_1048696118886059_5863468252288256956_o.jpg
+    description: KAPAHAKA..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/20.122222144_1048696375552700_3629037877253719867_o.jpg
     description: Kaitātaki Wāhine (Female Leader Kapahaka) - Hinerangi Ratana.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/21.122129066_1048696508886020_281962570728927057_o.jpg
     description: Kaea Tāne (Male Leader Kapahaka) - Hemi Neil.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/22.122207335_1048696685552669_6723770929584520009_o.jpg
+    description: EXCELLENCE CERTIFICATES..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916660/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/23.122236677_1048696532219351_606277153409342951_o.jpg
     description: Regional Chamber Music Competition, Highly Commended - Olivia
       Bedwell, Alyssa Hartley, Jessie O'Connor.
@@ -106,6 +111,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916668/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/43.122451478_1048696162219388_2229885555887207726_o.jpg
     description: DanceNZMade Regional 3rd Place Open Team 'The Way You Make Me Feel'.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916667/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/44.122210151_1048696725552665_4333016509774383294_o.jpg
+    description: EXCELLENCE TIES..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916668/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/45.122211456_1048697058885965_356972612849400732_o.jpg
     description: DanceNZMade National 3rd Place Duo/Trio - Sophia Bedwell.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916668/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/46.122219967_1048697108885960_1410700609747549487_o.jpg
@@ -113,6 +119,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916669/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/47.122499467_1048697125552625_7991913271130449907_o.jpg
     description: 2020 National Secondary Schools Brass Band - Luke Squire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916669/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/48.122146105_1048696785552659_8126003090797533793_o.jpg
+    description: ELITE AWARDS..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916669/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/49.122426058_1048697088885962_5201336234155921656_o.jpg
     description: WHS Brown Family Cup for Co-curricular Involvement in the Cultural
       Life of the School - Abby Squire.
@@ -123,9 +130,11 @@ image_gallery:
     description: WHS Cup for Outstanding Leadership in the Cultural Life of the
       School - Abby Squire.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916671/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/52.122208648_1048697162219288_7495506648816749050_o.jpg
+    description: DUX ARTIUM, FEMALE..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916671/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/53.122427725_1048696148886056_16558169539949914_o.jpg
     description: DUX ARTIUM, FEMALE - ABBY SQUIRE.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916671/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/54.122158331_1048696352219369_1449318098468808236_o.jpg
+    description: THE PRINCIPAL'S CUP for EXCELLENCE in the ARTS..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603916671/News/Performing%20Arts%20winners.%20Cultural%20Awards%202020/55.122181032_1048696462219358_9090644709629009729_o.jpg
     description: THE PRINCIPAL'S CUP for EXCELLENCE in the ARTS - GRACE SWANSTON.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122150533_979211392576406_6919685923945367691_o.jpg
