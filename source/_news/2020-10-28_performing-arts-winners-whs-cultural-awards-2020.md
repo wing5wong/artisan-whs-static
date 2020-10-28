@@ -1,7 +1,8 @@
 ---
 title: Performing Arts Winners, WHS Cultural Awards 2020
 news_author:
-  date: 2020-10-28T20:11:04.410Z
+  date: 2020-10-22T20:11:04.410Z
+  name: WHS Performing Arts Department
 show_in_slider: true
 date: 2020-10-28T20:11:04.424Z
 ---
