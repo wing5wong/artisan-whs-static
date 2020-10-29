@@ -1,5 +1,5 @@
 ---
-title: Memorial - Kahu Miller
+title: Memorial for Kahu Miller
 date: 2020-10-29T22:14:14.364Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603836917/Kahu_Miller._16341.jpg
 ---
