@@ -1,5 +1,5 @@
 ---
-title: Whanganui High School News - October 2020
+title: ⭐️ Whanganui High School News - October 2020 ⭐️
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604014697/News/GREEN_WHS_HEADER_october.jpg
 news_author:
