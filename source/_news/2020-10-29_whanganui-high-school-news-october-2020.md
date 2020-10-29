@@ -8,7 +8,7 @@ news_author:
 show_in_slider: true
 date: 2020-10-29T23:35:58.768Z
 ---
-**Celebrating Success of our Students!!**
+**Celebrating Success of our Students!!**   👏👏  
 
 [Read the October 2020 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1603766136/newsletters/OCTOBER_2020_rivercity_press_for_website.pdf)
 
