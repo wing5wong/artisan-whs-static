@@ -8,7 +8,7 @@ news_author:
 show_in_slider: true
 date: 2020-10-29T23:35:58.768Z
 ---
-The Whanganui High School October Newsletter With special mention to; Breakfast Club, Learning Support Centre, Education outside the classroom & Important Dates. 👍🙂
+The Whanganui High School October Newsletter With special mention to; Breakfast Club, Learning Support Centre, Education outside the classroom, Important Dates and a letter from the Principal, Martin McAllen.  👍🙂
 
 [Read the October 2020 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1603766136/newsletters/OCTOBER_2020_rivercity_press_for_website.pdf)
 
