@@ -1,8 +1,8 @@
 ---
 title: Jobs for School Leavers, Year 11-13
-date: 2020-10-30T19:39:38.386Z
+date: 2020-11-05T03:50:39.492Z
 ---
-Are you leaving school?\
+Are you leaving school?  
 Are you not sure what you are wanting to do?  
 
 School leavers are wanted for the following positions:
