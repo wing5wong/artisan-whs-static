@@ -2,7 +2,7 @@
 title: Crowds out in force at Oceanview Speedway
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604269755/News/Kaelin_Mooney._28.10.20_photo_from_his_facebook.jpg
-  description: Kaelin Mooney won the Grand Slam.
+  description: Former student, Kaelin Mooney won the Grand Slam.
 news_author:
   date: 2020-10-27T22:24:06.245Z
   publication: Whanganui Chronicle
