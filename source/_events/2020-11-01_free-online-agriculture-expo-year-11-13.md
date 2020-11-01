@@ -1,6 +1,7 @@
 ---
 title: Free Online Agriculture Expo - Year 11-13
 date: 2020-11-16T20:32:50.777Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604263011/Events/30.10.2020_Online_Careers_Expo_FB.jpg
 ---
 Agri Training are running a free online webinar on Tuesday, 17 November 2020 between 1:00 pm and 3.30 pm. 
 
