@@ -2,9 +2,8 @@
 title: Community backs scholarships
 feature_image:
   description: Te Rūnanga o Ngā Wairiki Ngati Apa Scholarship recipients Te
-    Ngoi-Maika Mason (left) and Huki-Ana Bishop-Williams (ex WHS student, right)
-    with Grant Huwyler, Te Rūnanga o Ngā Wairiki Ngāti Apa Group chief
-    executive.
+    Ngoi-Maika Mason (left) and Huki-Ana Bishop-Williams (right) with Grant
+    Huwyler, Te Rūnanga o Ngā Wairiki Ngāti Apa Group chief executive.
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604264633/News/Huki-Ana_BishopWilliams._chron_27.10.20_ex.jpg
 news_author:
   date: 2020-10-26T21:13:29.632Z
@@ -28,7 +27,7 @@ Scholarship recipients were chosen based on their academic achievements, effort,
 
 journeys. They keep supporting the scholarships because they know they’re making a difference in students’ lives.”
 
-For Bachelor of Applied Management student Huki-Ana BishopWilliams, the awards ceremony was a double blessing — she was awarded the Chartered Accountants Australia New Zealand Scholarship and Te Ru¯nanga o Nga¯ Wairiki Nga¯ti Apa Scholarship. She said the overwhelming feeling for her is gratitude.
+For Bachelor of Applied Management student (and former WHS student) **Huki-Ana Bishop-Williams**, the awards ceremony was a double blessing — she was awarded the Chartered Accountants Australia New Zealand Scholarship and Te Ru¯nanga o Nga¯ Wairiki Nga¯ti Apa Scholarship. She said the overwhelming feeling for her is gratitude.
 
 “Now that I’m in the second year of my studies, I’ve needed more books and resources, so my scholarships will go towards that and any expenses that pop up.”
 
