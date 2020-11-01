@@ -1,6 +1,6 @@
 ---
 title: Fonterra Apprenticeships - Applications close on 10 November
-date: 2020-11-05T20:39:07.185Z
+date: 2020-11-09T20:39:07.185Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603399181/Events/Fonterra_Apprenticeships_22.10.2020_Fonterra.jpg
 ---
 <!--StartFragment-->
