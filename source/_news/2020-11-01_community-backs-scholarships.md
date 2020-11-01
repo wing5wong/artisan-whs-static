@@ -27,12 +27,12 @@ Scholarship recipients were chosen based on their academic achievements, effort,
 
 journeys. They keep supporting the scholarships because they know they’re making a difference in students’ lives.”
 
-For Bachelor of Applied Management student (and former WHS student) **Huki-Ana Bishop-Williams**, the awards ceremony was a double blessing — she was awarded the Chartered Accountants Australia New Zealand Scholarship and Te Ru¯nanga o Nga¯ Wairiki Nga¯ti Apa Scholarship. She said the overwhelming feeling for her is gratitude.
+For Bachelor of Applied Management student (and former WHS student) **Huki-Ana Bishop-Williams**, the awards ceremony was a double blessing — she was awarded the Chartered Accountants Australia New Zealand Scholarship and Te Rūnanga o Ngā Wairiki Ngāti Apa Scholarship. She said the overwhelming feeling for her is gratitude.
 
 “Now that I’m in the second year of my studies, I’ve needed more books and resources, so my scholarships will go towards that and any expenses that pop up.”
 
 Consistently achieving A and A+ grades, Bishop-Williams is well on her way to achieving her goal of becoming a chartered accountant.
 
-“I’ve always loved numbercrunching. After my kids were born, I wanted to get more involved in my iwi and hapu¯ in my hometown of Whanganui, and I thought accounting would be a great career path to look into.”
+“I’ve always loved numbercrunching. After my kids were born, I wanted to get more involved in my iwi and hapū in my hometown of Whanganui, and I thought accounting would be a great career path to look into.”
 
-Nine local organisations and trusts donated scholarships, along with Chartered Accountants Australia New Zealand. New donors Te Ru¯nanga o Nga¯ Wairiki Nga¯ti Apa, Whanganui and Partners and Action Coach Business Coaching joined longterm donors Akoranga Education Trust, Arthur Wheeler Leedstown Trust, Combined Rotary Clubs of Wanganui, George Bolton Trust and Whanganui Education Trust.
+Nine local organisations and trusts donated scholarships, along with Chartered Accountants Australia New Zealand. New donors Te Rūnanga o Ngā Wairiki Ngāti Apa, Whanganui and Partners and Action Coach Business Coaching joined longterm donors Akoranga Education Trust, Arthur Wheeler Leedstown Trust, Combined Rotary Clubs of Wanganui, George Bolton Trust and Whanganui Education Trust.
