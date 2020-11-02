@@ -15,7 +15,7 @@ Another successful year at our annual WHS Māori awards evening.  🎉
 
 Hosted by our masters of ceremony, Heads of Māori for 2020, Jacob Brown and Dennihe Edwards.  👌🏻
 
-Congrats to our Heads of Māori Jacob Brown and Dennihe Edwards for hosting the night!  👍 
+This year we had the pleasure of having our local Make up and Lash Artist, Business owner, Nika Steele speak at our awards evening, an inspiring ex Whanganui High school student who’s main message was for Rangatahi to Dream, Aspire and not be afraid to fail, for that is where your best lessons are learned.
 
 #### Our Prestigious awards of the night went to: 
 
