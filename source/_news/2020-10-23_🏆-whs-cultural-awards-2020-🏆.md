@@ -21,13 +21,13 @@ It was an outstanding night at the WHS Cultural Awards!  🎉🎉
 #### Our Elite Awards of the night went to:
 
 **ABBY SQUIRE**  
-* DUX ARTIUM FEMALE
-* Outstanding Leadership in the Cultural Life of the School
-* Outstanding Contribution to the Cultural Life of the School
-* Co-Curricular Involvement in the Cultural Life of the School
+* DUX ARTIUM FEMALE  🏆
+* Outstanding Leadership in the Cultural Life of the School  🏆
+* Outstanding Contribution to the Cultural Life of the School  🏆
+* Co-Curricular Involvement in the Cultural Life of the School  🏆
 
 **GRACE SWANSTON**
-* PRINCIPAL'S CUP for Excellence in the Arts
+* PRINCIPAL'S CUP for Excellence in the Arts  🏆
 
 Woohoo, Abby you rock!  🥳🥳
 
