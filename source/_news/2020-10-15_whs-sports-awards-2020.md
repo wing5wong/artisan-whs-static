@@ -1,5 +1,5 @@
 ---
-title: WHS SPORTS AWARDS 2020
+title: 🏆  WHS SPORTS AWARDS 2020  🏆
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121487603_1705814056234360_3778987959758287855_o.jpg
   description: Principals Cup, Outstanding Sport Performance - Maggie Jones, Girls
