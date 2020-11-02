@@ -10,4 +10,4 @@ date: 2020-11-02T00:00:30.330Z
 ---
 **Congratulations to Tobias Perkins and his dance partner and former student Sophie Perkins for gaining 2nd place in the Youth Couples Section, Salsa Competition of the South Island Latin Championships in Christchurch at the weekend!**
 
-**Fantastic dancing guys!!**
+**Fantastic!  Well done guys!!**
