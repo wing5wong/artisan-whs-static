@@ -83,6 +83,4 @@ This year we had the pleasure of having our local Make up and Lash Artist, Busin
 
 **KEREOMA PURU TAONGA HEAD OF MĀORI, MALE - Jacob Brown**  🏆
 
-Congratulations to you and all the other winners on the night. 👏👏🎊 
-
-More photos of the night will be available soon. 📷
+Congratulations to you and all the other winners on the night. 👏👏🎊
