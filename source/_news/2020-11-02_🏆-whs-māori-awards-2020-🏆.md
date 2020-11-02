@@ -6,7 +6,7 @@ feature_image:
     Head of Māori Female, Dennihe Edward.
 news_author:
   date: 2020-10-30T02:29:00.630Z
-  name: Miss R Henry
+  name: Whaea Riria
   publication: Head of Te Reo Māori
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351503/News/Maori%20Awards%202020%20for%20Website/1.IMG_1240.jpg
@@ -79,10 +79,10 @@ This year we had the pleasure of having our local Make up and Lash Artist, Busin
 
 **MĀORI DUX 2020 - Connor Hoskin**  🏆
 
-**MAREWA KITERANGI HEAD OF MĀORI, FEMALE - Dennihe Edwards**  🏆
+**MAREWA KITERANGI TAONGA - Dennihe Edwards**  🏆
 
-**KEREOMA PURU TAONGA HEAD OF MĀORI, MALE - Jacob Brown**  🏆
+**KEREOMA PURU TAONGA - Jacob Brown**  🏆
 
-Congratulations to you and all the other winners on the night. 👏👏🎊
+Big congratulations to you and all of our recipients who made this night so special.  👏👏🎊
 
 A big thank you to Aaron Cogan for taking the photos on the night!
