@@ -20,7 +20,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604288612/News/Get%202%20Go%202020/18.20201029_113325.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604288612/News/Get%202%20Go%202020/19.20201029_113332.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604288617/News/Get%202%20Go%202020/21.20201029_114610.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604288617/News/Get%202%20Go%202020/22.20201029_114612.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604288616/News/Get%202%20Go%202020/23.20201029_115812.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604288616/News/Get%202%20Go%202020/24.20201029_124121.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604288617/News/Get%202%20Go%202020/26.20201029_124947.jpg
