@@ -11,9 +11,9 @@ news_author:
 show_in_slider: true
 date: 2020-11-02T02:29:00.645Z
 ---
-It was an outstanding evening at the WHS Māori Awards.  🎉
+Another successful year at our annual WHS Māori awards evening.  🎉
 
-Well done to our Māori Heads and Prefect Team for making the Eulogy Lounge look stunning!!  👌🏻
+Hosted by our masters of ceremony, Heads of Māori for 2020, Jacob Brown and Dennihe Edwards.  👌🏻
 
 Congrats to our Heads of Māori Jacob Brown and Dennihe Edwards for hosting the night!  👍 
 
