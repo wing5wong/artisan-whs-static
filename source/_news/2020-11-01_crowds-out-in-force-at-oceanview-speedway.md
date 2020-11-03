@@ -42,7 +42,7 @@ There was predictable carnage in the stockcars, with another big field on hand.
 
 Former New Zealand Stockcar champion Josh Prentice ( 5W) took out the first and third heats, with Luke Miers (15P) continuing his excellent early-season form to win the second race.
 
-**Kaelin Mooney (26V), Trazarn Ryland-Annabell (33V)**, Trevor Greig (81V), **Hailey James (18V)** and Jason Wright (19V) all picked up minor placings, while Mooney won the Grand Slam, heading home Seth Hodge’s 12P superstock.
+**Kaelin Mooney (26V), Trazarn Ryland-Annabell (33V)**, Trevor Greig (81V), **Hailey James (18V)** and Jason Wright (19V) all picked up minor placings, while **Mooney won the Grand Slam**, heading home Seth Hodge’s 12P superstock.
 
 Clinton Green (27V) provided fireworks of his own when his stockcar caught fire after a collision in front of the large crowd at the Airport end. The fire was quickly extinguished, and Green exited the car safely.
 
