@@ -61,11 +61,11 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351699/News/Maori%20Awards%202020%20for%20Website/50.IMG_1322.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351698/News/Maori%20Awards%202020%20for%20Website/51.IMG_1323.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351706/News/Maori%20Awards%202020%20for%20Website/52.IMG_1324.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351714/News/Maori%20Awards%202020%20for%20Website/53.IMG_1327.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351716/News/Maori%20Awards%202020%20for%20Website/54.IMG_1328.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351718/News/Maori%20Awards%202020%20for%20Website/55.IMG_1329.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351714/News/Maori%20Awards%202020%20for%20Website/56.IMG_1332.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351721/News/Maori%20Awards%202020%20for%20Website/ticket-to-maori-awards-without-ticket-number.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351714/News/Maori%20Awards%202020%20for%20Website/56.IMG_1332.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351718/News/Maori%20Awards%202020%20for%20Website/55.IMG_1329.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604351714/News/Maori%20Awards%202020%20for%20Website/53.IMG_1327.jpg
 show_in_slider: true
 date: 2020-11-02T02:29:00.645Z
 ---
