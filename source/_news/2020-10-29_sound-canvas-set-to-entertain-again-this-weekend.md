@@ -2,6 +2,9 @@
 title: Sound Canvas set to entertain again this weekend
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604006440/News/poster_rcp_22.10.20.jpg
+  description: WHS students Luke Squire, Jonathan Stolk, Toby Clark and Finnian
+    Sinclair are all performing in this amazing collaboration as part of
+    Whanganui Brass.
 news_author:
   date: 2020-10-28T21:18:51.345Z
   publication: River City Press
