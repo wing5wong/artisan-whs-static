@@ -31,6 +31,4 @@ It was an outstanding night at the WHS Cultural Awards!  🎉🎉
 
 Woohoo, Abby you rock!  🥳🥳
 
-Huge Congratulations to you, Grace and all the other winners on the night  👏👏🎊
-
-More photos of the night will be out next week!  📷
+Huge Congratulations to you, Grace and all our other winners on the night  👏👏🎊
