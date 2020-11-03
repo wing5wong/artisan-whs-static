@@ -2,6 +2,7 @@
 title: Get 2 Go Adventure Racing 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604288618/News/Get%202%20Go%202020/30.20201029_140815.jpg
+  description: Our GET 2 GO Challenge Team, 2020.
 news_author:
   date: 2020-10-30T02:04:47.709Z
   name: Mr J Barnett
