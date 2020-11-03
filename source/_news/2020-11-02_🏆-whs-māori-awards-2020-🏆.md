@@ -3,7 +3,7 @@ title: 🏆  WHS MĀORI AWARDS 2020  🏆
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604286171/News/Connor-Dennihe-_-Jacob.jpg
   description: Māori Dux 2020, Connor Hoskin; Head of Māori Male, Jacob Brown and
-    Head of Māori Female, Dennihe Edward.
+    Head of Māori Female, Dennihe Edwards.
 news_author:
   date: 2020-10-30T02:29:00.630Z
   name: Whaea Riria
