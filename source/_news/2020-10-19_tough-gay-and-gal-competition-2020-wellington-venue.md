@@ -1,5 +1,5 @@
 ---
-title: Tough Guy and Gal Competition 2020, Central/Lower North Island
+title: Tough Guy and Gal Competition 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603076153/News/20201016_130255.jpg
   description: Our team from left; Christina Donne-Lee, Ashley Cowley, Cameron
@@ -34,9 +34,7 @@ On Friday 16 October, WHS took a team of students to the Central/Lower North Isl
 
 With no Covid restrictions over 700 students took on the toughest course in the North Island. 
 
-There was a 6 km and 12 km course. 
-
-Our students did the 12 km course. It was a tough course, which the students completed 2 laps of running up hills, through rivers, muddy swamps, up cargo nets and under electric fences. 
+There was a 6 km and 12 km course. Our students did the 12 km course. It was a tough course, which the students completed 2 laps of running up hills, through rivers, muddy swamps, up cargo nets and under electric fences. 
 
 **The team did well with Connor Hoskin placing 2nd (Senior Boys), Chase Morpeth 2nd (Junior Boys), Charlotte Baker 2nd and Maggie Jones 3rd (Senior Girls).** 
 
