@@ -11,3 +11,5 @@ Year 12 students are expected to attend the Year 12 Prizegiving which **commence
 At the conclusion of this ceremony students will be issued with their reports and NCEA examination admission slips. 
 
 This is the last day for Year 12.
+
+Buses run at the normal times and the Library will be open until 4.30pm.
