@@ -2,7 +2,7 @@
 title: Sew what?  WHS students show outfits
 feature_image:
   description: "Whanganui High School students showing off their designs. From
-    left, Stephanie Waghorn, Haley Bardell, teacher Kirsty Fecteau, Riley Heka
+    left, Stephanie Waghorn, Hayley Bardell, teacher Kirsty Fecteau, Riley Heka
     and Bianca Ross. "
   credit: Bevan Conley
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604609270/News/Fashion_students._Chron_5.11.20.jpg
