@@ -9,3 +9,5 @@ Year 11 students are expected to attend the Year 11 Prizegiving which **commence
 At the conclusion of this ceremony students will be issued with their reports and NCEA examination admission slips. 
 
 This is the last day for Year 11.
+
+Buses run at the normal times and the Library will be open until 4.30pm.
