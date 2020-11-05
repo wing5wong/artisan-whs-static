@@ -1,9 +1,11 @@
 ---
-title: "Year 11 Prizegiving "
+title: Year 11 Prizegiving - early release for other year levels
 date: 2020-11-10T01:24:40.284Z
 ---
-1.30pm start in the School Hall. 
+Students in Year 9, 10, 12 and 13 will be released at 12.50pm. 
 
-Last day for Year 11.
+Year 11 students are expected to attend the Year 11 Prizegiving which commences at **1.30pm in the School Hall**.  
 
-Final reports for 2020 will be issued to students and emailed to parents.
+At the conclusion of this ceremony students will be issued with their reports and NCEA examination admission slips. 
+
+This is the last day for Year 11.
