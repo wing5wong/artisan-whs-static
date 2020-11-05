@@ -1,5 +1,5 @@
 ---
-title: Year 11 Prizegiving - early release for other year levels
+title: Year 11 Prizegiving - early release for all other year levels
 date: 2020-11-10T01:24:40.284Z
 ---
 Students in Year 9, 10, 12 and 13 will be released at 12.50pm. 
