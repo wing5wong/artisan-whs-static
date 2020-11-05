@@ -6,7 +6,7 @@ Students in Years 9 and 10 will be released at 12.50pm.
 
 Year 13 students will be having an informal prizegiving in the Gymnasium courtyard. 
 
-Year 12 students are expected to attend the Year 12 Prizegiving which **commences at 1.30pm in the School Hall**.  
+**Year 12 students are expected to attend the Year 12 Prizegiving which commences at 1.30pm in the School Hall**.  
 
 At the conclusion of this ceremony students will be issued with their reports and NCEA examination admission slips. 
 
