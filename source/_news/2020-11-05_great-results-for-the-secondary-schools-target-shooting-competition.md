@@ -14,6 +14,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618368/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_perfect_100_score_NZvGB_match.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618370/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/2020_WHS_School_Team_prone_Harry_James_Michael.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618370/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/2.Harry_Kibblewhite.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604620052/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/2.Harry-Kibblewhite-Shooting.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618386/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/7.Michael_prone.jpg
 show_in_slider: false
 date: 2020-11-05T23:11:37.832Z
 ---
