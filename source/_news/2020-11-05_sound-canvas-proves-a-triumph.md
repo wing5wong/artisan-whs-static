@@ -19,7 +19,7 @@ REVIEW
 
 Not a single seat in the Royal Wanganui Opera House was filled for Brass Whanganui's second Sound Canvas show on Saturday night which, on any other night, would surely have been a disaster for a local performance.
 
-In this case, however, a near sold-out audience took their places on the stage with the band itself, after perusing works by local artists Dan Mills and Scott Anthony de Lautour in the foyer and being treated to a hilarious safety briefing, where Jonathon Greenwell's every word was accompanied by Hamish Jellyman's trombone.
+In this case, however, a near sold-out audience took their places on the stage with the band itself, after perusing works by local artists Dan Mills and Scott Anthony de Lautour in the foyer and being treated to a hilarious safety briefing, where **Jonathon Greenwell's every word was accompanied by Hamish Jellyman's trombone.**
 
 It was clear from then on that this wouldn't be your average brass band show.
 
@@ -36,3 +36,7 @@ Hamish Jellyman, son of Bruce, provided a significant amount of original music t
 As the doors to the foyer swung open, the band broke into a heavy groove and disappeared out of view. After clapping politely for a moment, the audience followed along after them and the band, lining each side of the Opera House carpark, played them off into the night.
 
 Overall, Sound Canvas was a brilliant and innovative hour and a half, and one can only hope that it will return again next year. If the smiles on the faces of band and audience alike are anything to go by, then it will definitely will.
+
+_____________________________
+
+**Well done to the Whanganui High School students performing in Brass Whanganui; Luke Squire, Jonathan Stolk, Toby Clark and Finnian Sinclair.**
