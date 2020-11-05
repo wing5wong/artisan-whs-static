@@ -2,8 +2,18 @@
 title: Junior Examinations
 date: 2020-11-15T21:37:14.995Z
 ---
-The Junior examinations will be held on Monday 16 November and Tuesday 17 November. 
+Our Junior examinations in English, Mathematics, Science and Social Studies are scheduled for Monday 16 and Tuesday 17 November. Each examination is two hours in duration and there is a digital component involved in each, so students are expected to bring their devices well charged. 
 
-The timetable for these will be emailed to parents as soon as it is confirmed. 
+For these two days, we will be running an altered time schedule as follows:
 
-Students sit examinations in English, Mathematics, Science and Social Studies.
+Form time:  	9.00 – 9.20am\
+Exam 1:       	9.30 – 11.30am\
+Lunch:         	11.30 – 12.30pm\
+Exam 2:       	12.40 – 2.40pm
+
+Students may go home at 2.40pm.\
+Buses will run at the normal times and the Library will be open until 4.30pm.
+
+
+
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1604615073/Events/Junior_Exams_timetable_16_17_Nov_2020.jpg)
