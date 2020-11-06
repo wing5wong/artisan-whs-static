@@ -65,7 +65,7 @@ date: 2020-11-05T23:11:37.832Z
 
 Well done to our WHS Small-bore Rifle Shooting teams who competed at the New Zealand Secondary Schools Postal Shooting Competition.
 
-Special mention to James Gray being awarded Overall Top Boy! He was also selected for the North Island team which won the Inter-Island match with the highest ever score! Out of the two teams the top 12 are then selected for the New Zealand team. James then shot for New Zealand against the British Schools Team. He was one of three shooters to shoot a prefect score of 100!  
+Special mention to **James Gray** being awarded Overall Top Boy! He was also selected for the North Island team which won the Inter-Island match with the highest ever score! Out of the two teams the top 12 are then selected for the New Zealand team. James then shot for New Zealand against the British Schools Team. He was one of three shooters to shoot a prefect score of 100!  
 
 Coach Graeme Simpson was really impressed with the results and efforts of all the shooters.
 
