@@ -48,8 +48,7 @@ image_gallery:
 show_in_slider: false
 date: 2020-11-05T23:11:37.832Z
 ---
-##### TSNZ Challenge 2020
-##### Secondary Schools Postal Shooting Competition  
+##### 2020 TSNZ Challenge - Secondary Schools Postal Shooting Competition  
 
 ##### Top Individuals  
 **Overall Top Boy – James Gray**
