@@ -69,4 +69,4 @@ Special mention to James Gray being awarded Overall Top Boy! He was also selecte
 
 Coach Graeme Simpson was really impressed with the results and efforts of all the shooters.
 
-Great work from everyone!!  🙂 💛💚  
+Great work from everyone!!  🙂   
