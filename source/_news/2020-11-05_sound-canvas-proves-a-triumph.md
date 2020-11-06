@@ -39,4 +39,4 @@ Overall, Sound Canvas was a brilliant and innovative hour and a half, and one ca
 
 _____________________________
 
-**Well done to the Whanganui High School students performing in Brass Whanganui; Luke Squire, Jonathan Stolk, Toby Clark and Finnian Sinclair.**
+**Well done to our Whanganui High School students performing in Brass Whanganui; Luke Squire, Jonathan Stolk, Toby Clark and Finnian Sinclair.**
