@@ -1,5 +1,6 @@
 ---
-title: Great results for the Secondary Schools Target Shooting Competition
+title: Great results from our Small-bore Rifle team in the Secondary Schools
+  Shooting Competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618368/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_perfect_100_score_NZvGB_match.jpg
   description: "James shot a perfect 100 for New Zealand against the British Schools Team. "
