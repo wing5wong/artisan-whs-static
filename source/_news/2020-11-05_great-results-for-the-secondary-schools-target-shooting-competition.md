@@ -41,8 +41,7 @@ Secondary Schools Postal Shooting Competition
 **1st James Gray**  
 **2nd  Harry Kibblewhite**
 
-##### Top Teams  
-###### Mixed Grade (hardest grade to win)  
+##### Top Teams - Mixed Grade  
 **1st James Gray, Harry Kibblewhite, Tayla Price**  
 **4th Hayley Bardell, Tanysha-Rochelle Jones, Michael Sturdee**
 
