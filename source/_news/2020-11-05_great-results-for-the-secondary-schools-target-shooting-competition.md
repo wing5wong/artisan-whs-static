@@ -45,7 +45,10 @@ Secondary Schools Postal Shooting Competition
 **4th Hayley Bardell, Tanysha-Rochelle Jones, Michael Sturdee**
 
 
-Well done to our WHS Smallbore Rifle Shooting teams who competed at the New Zealand Secondary Schools Postal Shooting Competition and James Gray being awarded Overall Top Boy!  
+Well done to our WHS Smallbore Rifle Shooting teams who competed at the New Zealand Secondary Schools Postal Shooting Competition.
+
+Special mention to James Gray being awarded Overall Top Boy and making the 2020 Secondary School New Zealand Team and the North Island Team!  
+
 Coach Graeme Simpson was really impressed with the result and their efforts.
 
 Great work from everyone!!  🙂 💛💚  
