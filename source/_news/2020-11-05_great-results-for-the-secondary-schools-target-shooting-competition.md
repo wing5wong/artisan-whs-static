@@ -59,7 +59,7 @@ date: 2020-11-05T23:11:37.832Z
 **2nd  Harry Kibblewhite**
 
 ##### Top Teams - Mixed Grade  
-**1st James Gray, Harry Kibblewhite, Tayla Price**  
+**1st James Gray, Harry Kibblewhite, Tayla Pryce**  
 **4th Hayley Bardell, Tanysha-Rochelle Jones, Michael Sturdee**
 
 
