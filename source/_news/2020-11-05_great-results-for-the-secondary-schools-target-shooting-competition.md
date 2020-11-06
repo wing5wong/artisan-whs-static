@@ -41,6 +41,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618378/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/7.Michael_head_up.jpg
     description: Michael Sturdee
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618370/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/2020_WHS_School_Team_prone_Harry_James_Michael.jpg
+    description: Harry, James and Michael
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618382/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/Secondary_Schools_NZ_Team.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618381/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/North_Island_Team.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618378/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/better_image.jpg
