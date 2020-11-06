@@ -15,7 +15,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618366/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_in_lineout.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618366/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_3.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618368/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_perfect_100_score_NZvGB_match.jpg
-    description: James Gray
+    description: James Grays perfect 100!
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604620052/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/2.Harry-Kibblewhite-Shooting.jpg
     description: Harry Kibblewhite
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618370/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/2.Harry_Kibblewhite.jpg
