@@ -2,6 +2,7 @@
 title: Great results for the Secondary Schools Target Shooting Competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618368/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_perfect_100_score_NZvGB_match.jpg
+  description: "James shot a perfect 100 for New Zealand against the British Schools Team. "
 news_author:
   date: 2020-11-01T23:11:37.809Z
 image_gallery:
@@ -45,10 +46,10 @@ Secondary Schools Postal Shooting Competition
 **4th Hayley Bardell, Tanysha-Rochelle Jones, Michael Sturdee**
 
 
-Well done to our WHS Smallbore Rifle Shooting teams who competed at the New Zealand Secondary Schools Postal Shooting Competition.
+Well done to our WHS Small-bore Rifle Shooting teams who competed at the New Zealand Secondary Schools Postal Shooting Competition.
 
-Special mention to James Gray being awarded Overall Top Boy and making the 2020 Secondary School New Zealand Team and the North Island Team!  
+Special mention to James Gray being awarded Overall Top Boy! He was also selected for the North Island team which won the Inter-Island match with the highest ever score! Out of the two teams the top 12 are then selected for the New Zealand team. James then shot for New Zealand against the British Schools Team. He was one of three shooters to shoot a prefect score of 100!  
 
-Coach Graeme Simpson was really impressed with the result and their efforts.
+Coach Graeme Simpson was really impressed with the results and efforts of all the shooters.
 
 Great work from everyone!!  🙂 💛💚  
