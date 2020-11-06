@@ -5,7 +5,6 @@ feature_image:
 news_author:
   date: 2020-11-01T23:11:37.809Z
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618368/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_27-9-20_set-up.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618365/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_6.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618365/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_9.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604618367/News/Smallbore%20Target%20Shooting.NZSSs%20Postal%20Shooting%20Comp%202020/1.James_27-9-20_prone.jpg
