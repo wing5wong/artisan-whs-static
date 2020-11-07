@@ -42,3 +42,5 @@ Students are expected to attend their **final form time at 6.15pm** prior to the
 Students will be issued with their final school reports and NCEA admission slips at the conclusion of this ceremony.
 
 Parents are reminded that supper will be served in the Library for those wishing to attend.
+
+__________________________________________
