@@ -13,7 +13,7 @@ At the conclusion of this ceremony students will be issued with their reports an
 
 This is the last day for Year 11.
 
-NB: Students in Year 9, 10, 12 and 13 will be released at 12.50pm.  
+**NB:** Students in Year 9, 10, 12 and 13 will be released at 12.50pm.  
 Buses run at the normal times and the Library will be open until 4.30pm.
 
 
@@ -30,7 +30,7 @@ At the conclusion of this ceremony students will be issued with their reports an
 
 This is the last day for Year 12.
 
-NB: Students in Years 9 and 10 will be released at 12.50pm.  
+**NB:** Students in Years 9 and 10 will be released at 12.50pm.  
 Buses run at the normal times and the Library will be open until 4.30pm.
 
 _____________________________
@@ -38,7 +38,7 @@ _____________________________
 ##### Wednesday 11 November  
 **Year 13 Prizegiving**
 
-Students are expected to attend their **final form time at 6.15pm** prior to the Year 13 Prizegiving which **commences at 7.00pm in the School Hall**.
+Students are expected to attend their **final form time at 6.15pm** prior to the **Year 13 Prizegiving which commences at 7.00pm in the School Hall**.
 
 Students will be issued with their final school reports and NCEA admission slips at the conclusion of this ceremony.
 
