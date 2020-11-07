@@ -16,10 +16,8 @@ This is the last day for Year 11.
 **NB:** Students in Year 9, 10, 12 and 13 will be released at 12.50pm.  
 Buses run at the normal times and the Library will be open until 4.30pm.
 
-
-
 ______________________
-
+______________________
 
 ##### Wednesday 11 November  
 **Year 12 Prizegiving**
@@ -33,6 +31,7 @@ This is the last day for Year 12.
 **NB:** Students in Years 9 and 10 will be released at 12.50pm.  
 Buses run at the normal times and the Library will be open until 4.30pm.
 
+_____________________________
 _____________________________
 
 ##### Wednesday 11 November  
