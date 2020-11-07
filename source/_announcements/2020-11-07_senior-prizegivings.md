@@ -2,7 +2,7 @@
 title: SENIOR PRIZEGIVINGS
 is_emergency: false
 date: 2020-11-07T07:11:10.472Z
-subtitle: Tuesday 10 and Wednesday 11 November
+subtitle: Tuesday 10 and Wednesday 11 November 2020
 ---
 ##### Tuesday 10 November 
 **Year 11 Prizegiving**
