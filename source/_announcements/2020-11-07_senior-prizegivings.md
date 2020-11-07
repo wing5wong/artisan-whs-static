@@ -13,6 +13,11 @@ At the conclusion of this ceremony students will be issued with their reports an
 
 This is the last day for Year 11.
 
+NB: Students in Year 9, 10, 12 and 13 will be released at 12.50pm.  
+Buses run at the normal times and the Library will be open until 4.30pm.
+
+
+
 ______________________
 
 
@@ -24,6 +29,9 @@ Year 12 students are expected to attend the Year 12 Prizegiving which **commence
 At the conclusion of this ceremony students will be issued with their reports and NCEA examination admission slips.
 
 This is the last day for Year 12.
+
+NB: Students in Years 9 and 10 will be released at 12.50pm.  
+Buses run at the normal times and the Library will be open until 4.30pm.
 
 _____________________________
 
