@@ -35,4 +35,4 @@ As more and more moustaches are grown each year, the range of Movember's support
 
 The campaign has also introduced new ways to participate and there are now options to Grow a Mo, Move for Movember by taking part in a walk or run, Host a Mo-ment by rallying a crew for a fun challenge or Mo Your Own Way with a wild card idea of your own.
 
-• Find out more at nz.movember.com
+• Find out more at [nz.movember.com](https://nz.movember.com/)
