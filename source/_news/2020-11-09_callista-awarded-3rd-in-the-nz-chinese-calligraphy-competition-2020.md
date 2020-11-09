@@ -4,6 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604963820/News/Callista-no-4.jpg
 news_author:
   date: 2020-11-09T23:14:42.732Z
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604964154/News/Callista-no-2.NZ-chinese-work.jpg
 show_in_slider: true
 date: 2020-11-09T23:21:38.949Z
 ---
