@@ -46,6 +46,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978274/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/37.IMG_6247.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978270/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/35.IMG_6266.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978267/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/38.IMG_6253.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978260/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/34.IMG_6263.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978276/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/39.IMG_6255.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978285/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/40.IMG_6256.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978288/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/41.IMG_6258.jpg
