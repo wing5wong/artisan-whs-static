@@ -33,7 +33,7 @@ Well done to our Sports Prefect Team for making the Eulogy Lounge look amazing!!
 
 Congrats to Head of Sport Sophie Andrews and Jakob Moorhouse for hosting the night! 👍
 
-#### Our Prestigious awards of the night went to:
+#### Our Prestigious Awards of the night went to:
 
 
 **GIRLS SPORTS DUX - Kara Adrole**  🏆
