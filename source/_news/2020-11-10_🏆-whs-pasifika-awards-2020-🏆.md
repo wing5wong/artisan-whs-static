@@ -51,6 +51,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978285/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/40.IMG_6256.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978288/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/41.IMG_6258.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978169/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/43.IMG_6261.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603924031/Events/ticket-without-number.jpg
 show_in_slider: true
 date: 2020-11-10T02:21:50.223Z
 ---
