@@ -64,11 +64,11 @@ There was lots of entertainment including singing and Pasifika dancing. A Taualu
 
 ##### Our Prestigious awards of the night went to:
 
-**Outstanding Contribution to Pasifika, Junior – Seini Baleinukulala** 🏆
+**WHS Cup for Outstanding Contribution to Pasifika, Junior – Seini Baleinukulala** 🏆
   
-**Outstanding contribution to Pasifika, Senior – Matavesi Lewenilovo** 🏆 
+**WHS Cup for Outstanding contribution to Pasifika, Senior – Matavesi Lewenilovo** 🏆 
  
-**Pasifika Bowl for Academic Excellence – Leah Aiono** 🏆
+**WHS Pasifika Bowl for Academic Excellence – Leah Aiono** 🏆
   
 **Seunu’u Mau Leleimalefaga Memorial Trophy for Pasifika Leadership, Female – Dennihe Edwards** 🏆 
  
