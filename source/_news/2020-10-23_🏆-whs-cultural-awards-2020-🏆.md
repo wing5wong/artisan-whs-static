@@ -18,7 +18,7 @@ date: 2020-10-23T01:42:09.075Z
 ---
 It was an outstanding night at the WHS Cultural Awards!  🎉🎉
   
-#### Our Elite Awards of the night went to:
+#### Our Prestigious Awards of the night went to:
 
 **ABBY SQUIRE**  
 * DUX ARTIUM FEMALE  🏆
