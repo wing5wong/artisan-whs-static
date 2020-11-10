@@ -46,11 +46,21 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978274/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/37.IMG_6247.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978270/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/35.IMG_6266.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978267/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/38.IMG_6253.jpg
+    description: WHS Cup for Outstanding Contribution to Pasifika, Junior – Seini
+      Baleinukulala.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978260/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/34.IMG_6263.jpg
+    description: WHS Cup for Outstanding Contribution to Pasifika, Senior – Matavesi
+      Lewenilovo.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978276/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/39.IMG_6255.jpg
+    description: WHS Pasifika Bowl for Academic Excellence – Leah Aiono.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978285/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/40.IMG_6256.jpg
+    description: "Seunu’u Mau Leleimalefaga Memorial Trophy for Pasifika Leadership,
+      Female – Dennihe Edwards. "
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978288/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/41.IMG_6258.jpg
+    description: Seunu’u Mau Leleimalefaga Memorial Trophy for Pasifika Leadership,
+      Male – Jacob Brown.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604978169/News/Pacifika%20Awards%202020%20PHOTOS%20by%20Rebecca%20Allardice/43.IMG_6261.jpg
+    description: ""
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603924031/Events/ticket-without-number.jpg
 show_in_slider: true
 date: 2020-11-10T02:21:50.223Z
