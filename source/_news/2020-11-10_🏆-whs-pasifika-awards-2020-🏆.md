@@ -70,7 +70,7 @@ There was lots of entertainment including singing and Pasifika dancing. A Taualu
  
 **WHS Pasifika Bowl for Academic Excellence – Leah Aiono** 🏆
   
-**Seunu’u Mau Leleimalefaga Memorial Trophy for Pasifika Leadership, Female – Dennihe Edwards** 🏆 
+**Seunu’u Mau Leleimalefaga Memorial Trophy for Pasifika Leadership, Female – Dennihe Edwards**🏆 
  
 **Seunu’u Mau Leleimalefaga Memorial Trophy for Pasifika Leadership, Male – Jacob Brown** 🏆  
 
