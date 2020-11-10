@@ -1,5 +1,5 @@
 ---
-title: Stella Warner is the top woman player of the year for Whanganui Women’s
+title: Stella Warner, top woman player of the year for Whanganui Women’s
   Federation League
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605042798/News/Stella_Warner._top_woman_player_of_the_year_award_for_Whanganui_women_s_federation_league_at_the_central_football_awards_this_year.jpg
