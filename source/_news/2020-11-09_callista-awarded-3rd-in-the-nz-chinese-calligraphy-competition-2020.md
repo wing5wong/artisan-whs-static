@@ -10,7 +10,7 @@ show_in_slider: true
 date: 2020-11-09T23:21:38.949Z
 ---
 Congratulations to Callista Booth-Richards awarded 3rd place in the New Zealand Chinese Calligraphy Competition 2020! 
-Callista was in the Secondary - non native section.
+Callista was in the Secondary School Non-Native section.
 
 Her prize was a beautifully illustrated book with a collection of this years most recognized entries. She also received tradition Chinese art in the shape of book marks.
 
