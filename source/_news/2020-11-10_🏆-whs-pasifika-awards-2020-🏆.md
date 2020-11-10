@@ -1,5 +1,7 @@
 ---
 title: 🏆 WHS PASIFIKA AWARDS 2020 🏆
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604977554/News/ALL-5-Prestigious-Award-winners.jpg
 news_author:
   date: 2020-11-06T02:21:50.142Z
   name: Brent Holt and Marie Aki
