@@ -33,8 +33,4 @@ Lunch: 11.30 – 12.30pm
 Students may go home at 2.40pm.  
 Buses will run at the normal times and the Library will be open until 4.30pm.
 
-
-
-
-
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1604615073/Events/Junior_Exams_timetable_16_17_Nov_2020.jpg)
