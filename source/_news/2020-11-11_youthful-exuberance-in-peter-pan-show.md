@@ -1,7 +1,7 @@
 ---
 title: Youthful exuberance in Peter Pan show
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605128463/News/Autumn_Lilley._midweek_4.11.20_photo_reuben_janes.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605140219/News/Autumn_Lilley._midweek_4.11.20_colour_photo_reuben_janes.jpg
   description: Three Young Theatre Enthusiasts, from left; Ela Robbins, Hannah
     Smith and Autumn Lilley.
 news_author:
