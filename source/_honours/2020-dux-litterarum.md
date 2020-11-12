@@ -1,5 +1,5 @@
 ---
-title: 2020 - Dux Litterarum
+title: 2020 Dux Litterarum
 date: 2020-11-12T22:52:39.467Z
 award: Dux Litterarum
 person1_name: Callista Booth-Richards
