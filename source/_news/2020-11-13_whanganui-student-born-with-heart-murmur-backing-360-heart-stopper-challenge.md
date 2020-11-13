@@ -32,7 +32,7 @@ Hura said Heart Kids had been "awesome" throughout the early stages of Sam's lif
 
 "Heart Kids always had different events here in Whanganui for all the Heart Kids to come along to, and they gave us tickets for things like Kids Extravaganza up in Taranaki.
 
-"[Heart Kids has been] really, really, good. I was in my second year of nursing when everything happened, so things were quite full on.
+"\[Heart Kids has been] really, really, good. I was in my second year of nursing when everything happened, so things were quite full on.
 
 "You can't help what's happening, but I'd say to other people out there that are going through a similar thing, if there's help available then take it, especially if you're on your own.
 
@@ -54,4 +54,4 @@ I sat in a icy cold spa pool for two years in a row. It was crazy, and I remembe
 
 "You can't help what's happening, but if there's help available then take it, especially if you're on your own.
 
-* The 360 Heart Stopper Challenge runs until Sunday, November 15. For more information on how to participate or donate, go to heartstopper.org.nz
+* The 360 Heart Stopper Challenge runs until Sunday, November 15. For more information on how to participate or donate, go to [heartstopper.org.nz](https://heartstopper.org.nz/)
