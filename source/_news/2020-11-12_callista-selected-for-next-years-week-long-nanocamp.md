@@ -3,7 +3,7 @@ title: Callista selected for next year's week long NanoCamp in Christchurch
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605146338/News/NANOCAMP_2021_Callista_Booth_Richards.snip.jpg
 news_author:
-  date: 2020-11-10T01:57:33.115Z
+  date: 2020-11-11T01:57:33.115Z
 show_in_slider: true
 date: 2020-11-12T01:57:33.201Z
 ---
