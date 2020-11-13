@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574726372/News/Oceanview_speedway_image.jpg
 news_author:
   date: 2020-11-10T00:28:18.339Z
-  name: Tony Stuart
+  name: Tony Stuart, Speedway
   publication: Whanganui Chronicle
 show_in_slider: false
 date: 2020-11-13T00:28:18.882Z
