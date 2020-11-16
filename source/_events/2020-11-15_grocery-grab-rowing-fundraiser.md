@@ -8,7 +8,9 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605477051/Events/
 2 x 1st prizes will be drawn.  
 Both are 4-minute Grocery Grabs worth up to $500.00.  
 The prizes will be drawn and winners notified on Thursday 3 December.  
-If a winner cannot be contacted within 48 hours, then a re-draw for that prize will occur. 
+If a winner cannot be contacted within 48 hours, then a re-draw for that prize will occur.  
+
+**Tickets** can be purchased from the rowers themselves or Lisa Murphy. 
 
 
 ##### Rules and Conditions
