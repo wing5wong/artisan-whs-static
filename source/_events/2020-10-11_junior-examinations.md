@@ -1,6 +1,6 @@
 ---
 title: Junior Examinations
-date: 2020-11-15T21:37:14.995Z
+date: 2020-11-16T21:37:14.995Z
 image_gallery: []
 ---
 Our Junior examinations in English, Mathematics, Science and Social Studies are scheduled for Monday 16 and Tuesday 17 November.  Each examination is two hours in duration and there is a digital component involved in each, so students are expected to bring their devices well charged. 
