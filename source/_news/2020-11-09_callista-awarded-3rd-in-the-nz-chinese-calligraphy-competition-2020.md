@@ -6,7 +6,7 @@ news_author:
   date: 2020-11-09T23:14:42.732Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604964154/News/Callista-no-2.NZ-chinese-work.jpg
-show_in_slider: true
+show_in_slider: false
 date: 2020-11-09T23:21:38.949Z
 ---
 Congratulations to Callista Booth-Richards awarded 3rd place in the New Zealand Chinese Calligraphy Competition 2020! 
