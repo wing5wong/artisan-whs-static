@@ -2,7 +2,7 @@
 title: Big Bang Adventure Race 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1604960787/News/Big%20Bang%20Adventure%20Race%202020/20201107_104853.jpg
-  description: "Men of endurance from left; Chase Morpeth, Connor Hoskin, Scott
+  description: "Men of endurance, from left; Chase Morpeth, Connor Hoskin, Scott
     Emerson and Matt Grant. "
 news_author:
   date: 2020-11-08T20:45:13.227Z
