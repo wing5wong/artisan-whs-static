@@ -1,6 +1,6 @@
 ---
 title: "Grocery Grab Rowing fundraiser "
-date: 2020-11-15T21:41:59.890Z
+date: 2020-11-19T21:41:59.890Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605477051/Events/ticket_for_grocery_grab.jpg
 ---
 #### Rules and Conditions for Whanganui High School Rowing/Pak n Save Grab Prizes - 6 December 2020 
