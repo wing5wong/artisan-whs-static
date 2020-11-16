@@ -5,7 +5,7 @@ feature_image:
   description: The winning Kowhai team from left; Sophia Bedwell, Charlotte Hardy
     and Hazel Chant.
 news_author:
-  date: 2020-11-04T20:59:34.786Z
+  date: 2020-11-05T20:59:34.786Z
   publication: Junior Debating
   name: Mr Berkhout
 show_in_slider: true
