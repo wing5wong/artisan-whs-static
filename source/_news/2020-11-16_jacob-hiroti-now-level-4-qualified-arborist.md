@@ -2,7 +2,7 @@
 title: Jacob Hiroti now Level 4 qualified Arborist
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605491912/News/Jacob_Hiroti._WU_Area_news_facebook._bever_tree_felling_cert.jpg
-  description: Jono Nixon and Jacob Hiroti.
+  description: Former WHS students; Jono Nixon and Jacob Hiroti with their certificates.
 news_author:
   date: 2020-11-10T01:57:55.166Z
   publication: Beaver Tree Service facebook page
