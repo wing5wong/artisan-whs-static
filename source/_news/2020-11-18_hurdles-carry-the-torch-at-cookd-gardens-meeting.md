@@ -1,5 +1,5 @@
 ---
-title: Hurdles carry the torch at Cooks Gardens meeting
+title: Results of Regional League Meeting at Cooks Gardens
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605733341/News/Nathan_Kirk_Flynn_Johnstone._Chron_19.11.20_phogo_Lewis_Gardner.jpg
   description: Nat Kirk sweeps through on the inside of Whanganui teammate Flynn
