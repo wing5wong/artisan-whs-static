@@ -2,9 +2,9 @@
 title: Hurdles carry the torch at Cooks Gardens meeting
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605733341/News/Nathan_Kirk_Flynn_Johnstone._Chron_19.11.20_phogo_Lewis_Gardner.jpg
-  description: Nathan Kirk sweeps through on the inside of Whanganui teammate
-    Flynn Johnstone to impressively win the men's 300m hurdle at the Regional
-    League meet at Cooks Gardens on Saturday.
+  description: Nat Kirk sweeps through on the inside of Whanganui teammate Flynn
+    Johnstone to impressively win the men's 300m hurdle at the Regional League
+    meet at Cooks Gardens on Saturday.
   credit: Lewis Gardner.
 news_author:
   date: 2020-11-18T21:02:00.422Z
@@ -21,7 +21,7 @@ Maples, who has missed all this new season with injury, ran in what was only her
 
 The last time Maples competed was at a club night straight after the New Zealand Championships in March over 300 metre hurdles where Jones prevailed.
 
-**Nathaniel Kirk was again very impressive winning the male event with another stylish effort. The Year 11 Whanganui High School athlete has the credentials to make a real statement in his senior New Zealand Schools debut.**
+**Nat Kirk was again very impressive winning the male event with another stylish effort. The Year 11 Whanganui High School athlete has the credentials to make a real statement in his senior New Zealand Schools debut.**
 
 **The Rennie twins battled out the 70 metre hurdles with Carrie edging out her sister Teresa by two one-hundredths of a second (13.09 – 13.11)** with Franca Morrah not far behind in a personal best 13.49. Whanganui hurdlers could make an impact at New Zealand Schools in Tauranga in early December.
 
