@@ -15,7 +15,7 @@ date: 2020-11-18T21:15:20.544Z
 ---
 Genna Maples, in her first race since March, gave her Whanganui team the perfect start to the home Regional League Meeting at Cooks Gardens at the weekend by winning the 300 metre hurdles.
 
-Maples, who has missed all this new season with injury, ran in what was only her second run over the long hurdles to record an excellent 45.37. New Zealand under 18 silver medal winner and fellow Whanganui club member **Maggie Jones finished second (46.50) with Cassie Glentworth securing a local trifecta with a pleasing 48.19 second effort.**
+Maples, who has missed all this new season with injury, ran in what was only her second run over the long hurdles to record an excellent 45.37. **New Zealand under 18 silver medal winner and fellow Whanganui club member Maggie Jones finished second (46.50) with Cassie Glentworth securing a local trifecta with a pleasing 48.19 second effort.**
 
 **Jones later won the 100 metre hurdles in 15.46 battling against a strong 4 metre/second headwind.**
 
