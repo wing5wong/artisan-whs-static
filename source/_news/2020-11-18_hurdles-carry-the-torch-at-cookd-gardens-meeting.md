@@ -7,6 +7,7 @@ feature_image:
     meet at Cooks Gardens on Saturday.  Flynn did exceptionally well for a first
     timer at hurdle racing coming 3rd.
   credit: Lewis Gardner.
+short: ""
 news_author:
   date: 2020-11-18T21:02:00.422Z
   publication: Whanganui Chronicle
