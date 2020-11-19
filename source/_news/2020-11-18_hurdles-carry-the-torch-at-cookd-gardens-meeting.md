@@ -2,10 +2,10 @@
 title: Results of Regional League Meeting at Cooks Gardens
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1605733341/News/Nathan_Kirk_Flynn_Johnstone._Chron_19.11.20_phogo_Lewis_Gardner.jpg
-  description: Nat Kirk sweeps through on the inside of Whanganui teammate Flynn
+  description: "Nat Kirk sweeps through on the inside of Whanganui teammate Flynn
     Johnstone to impressively win the men's 300m hurdle at the Regional League
-    meet at Cooks Gardens on Saturday. Flynn did exceptionally well coming 3rd
-    at his first hurdle racing event.
+    meet at Cooks Gardens on Saturday. Flynn did exceptionally well for a first
+    timer at hurdle racing coming 3rd.           "
   credit: Lewis Gardner.
 news_author:
   date: 2020-11-18T21:02:00.422Z
