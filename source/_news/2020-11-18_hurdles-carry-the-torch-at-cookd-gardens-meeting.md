@@ -5,7 +5,7 @@ feature_image:
   description: Nat Kirk sweeps through on the inside of Whanganui teammate Flynn
     Johnstone to impressively win the men's 300m hurdle at the Regional League
     meet at Cooks Gardens on Saturday.  This was Flynns debut in hurdle racing
-    and did exceptionlly well coming 3rd.
+    and did exceptionally well coming 3rd.
   credit: Lewis Gardner.
 short: ""
 news_author:
