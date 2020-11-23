@@ -9,7 +9,7 @@ news_author:
   date: 2020-11-17T02:49:28.830Z
   publication: Whanganui Chronicle
   name: Mike Tweed
-show_in_slider: true
+show_in_slider: false
 date: 2020-11-23T02:49:28.904Z
 ---
 Fine Arts Whanganui's $1000 Young Artist Scholarship attracted 11 entrants this year, with each artist providing a work to be hung on the gallery's walls and a portfolio.
