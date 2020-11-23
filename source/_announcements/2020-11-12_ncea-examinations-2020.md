@@ -2,7 +2,7 @@
 title: NCEA EXAMINATIONS 2020
 is_emergency: false
 date: 2020-11-12T01:20:04.346Z
-subtitle: Teacher Only Day
+subtitle: Teacher Only Day - Friday 27 November
 image: ""
 ---
 #### NCEA EXAMINATIONS 2020
