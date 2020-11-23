@@ -23,8 +23,8 @@ They point out “There are also changes in insurance arrangements with some com
 
 They add, “We are local girls. This is our livelihood. We will look after our customers.”
 
-You can contact them as follows:\
-Sierra – sierra.odonnell.nz@flightcentre.co.nz\
+You can contact them as follows:  
+Sierra – sierra.odonnell.nz@flightcentre.co.nz  
 Jo – jo.mcdonnell.nz@flightcentre.co.nz
 
 You can also contact them through their [Facebook page; Wanganui Flight Centre Travel Brokers](https://www.facebook.com/Wanganui-Flight-Centre-Travel-Brokers-628164494477630/).
