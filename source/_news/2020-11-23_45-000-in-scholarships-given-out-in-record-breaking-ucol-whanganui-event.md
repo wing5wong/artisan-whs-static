@@ -47,66 +47,38 @@ Laura Cooper (NZ Diplomas in Business).
 
 ##### Akoranga Education Trust Scholarship:
 
-Dale Heywood (NZ Certificate in Security – Levels 3 & 4)
-
-**Nicholas Toyne** (Bachelor of Design & Art)
-
-Terella Kahu (NZ Certificate in Beauty Therapy) 
-
-**Rachel Hamblyn** (NZ Certificate in Beauty Therapy)
-
-Sonita Sey (NZ Certificate in Food & Beverage – Level 4)
-
-Kataraina Hurinui-Tetau (NZ Diploma in Cookery)
-
-Charlene McGechan (NZ Certificate in Study & Career Preparation – Level 4)
-
-Shayden Tamatea (NZ Certificate in Security – Levels 3 & 4)
-
-Winne Tawaroa (NZ Certificate in Business - Administration and Technology - Level 3)
-
-Farid Sovini-Nezhadi (Master of Design)
-
-Aija Kyllowen (Bachelor of Nursing)
-
-**Taylor Head** (Bachelor of Nursing)
-
-**Mikaya Teki** (Bachelor of Nursing)
-
-Kayla Maguire (Bachelor of Nursing)
-
-Te Reo Moana Whakaruru (Bachelor of Nursing)
-
-So Young Kim (Bachelor of Nursing)
-
+Dale Heywood (NZ Certificate in Security – Levels 3 & 4)  
+**Nicholas Toyne** (Bachelor of Design & Art)  
+Terella Kahu (NZ Certificate in Beauty Therapy)  
+**Rachel Hamblyn** (NZ Certificate in Beauty Therapy)  
+Sonita Sey (NZ Certificate in Food & Beverage – Level 4)  
+Kataraina Hurinui-Tetau (NZ Diploma in Cookery)  
+Charlene McGechan (NZ Certificate in Study & Career Preparation – Level 4)  
+Shayden Tamatea (NZ Certificate in Security – Levels 3 & 4)  
+Winne Tawaroa (NZ Certificate in Business - Administration and Technology - Level 3)  
+Farid Sovini-Nezhadi (Master of Design)  
+Aija Kyllowen (Bachelor of Nursing)  
+**Taylor Head** (Bachelor of Nursing)  
+**Mikaya Teki** (Bachelor of Nursing)  
+Kayla Maguire (Bachelor of Nursing)  
+Te Reo Moana Whakaruru (Bachelor of Nursing)  
+So Young Kim (Bachelor of Nursing)  
 Emma Pickersgill (Bachelor of Nursing).
 
 ##### Arthur Wheeler Leedstown Trust Scholarship:
 
-Jackson Henry (NZ Certificate in Baking)
-
-**Natalie McKenna** (NZ Certificate in Food & Beverage – Level 4)
-
-**Fergus Matthews** (NZ Certificate in Security – Levels 3 &4)
-
-Te Ngoi-Maika Mason (NZ Certificate in Security – Levels 3 &4)
-
-Azaria Cooney (NZ Certificate in Music) 
-
-Arama Tuka (Bachelor of Design & Art)
-
-Bwena Maunaa (Bachelor of Nursing)
-
-Elizabeth Carlsen (Bachelor of Nursing)
-
-Fiona Te Haara (Bachelor of Nursing)
-
-Monica Te Kaponga (Bachelor of Nursing)
-
-Lizette Andrews (Bachelor of Nursing)
-
-**Kelsi Keown** (Bachelor of Nursing)
-
+Jackson Henry (NZ Certificate in Baking)  
+**Natalie McKenna** (NZ Certificate in Food & Beverage – Level 4)  
+**Fergus Matthews** (NZ Certificate in Security – Levels 3 &4)  
+Te Ngoi-Maika Mason (NZ Certificate in Security – Levels 3 &4)  
+Azaria Cooney (NZ Certificate in Music)  
+Arama Tuka (Bachelor of Design & Art)  
+Bwena Maunaa (Bachelor of Nursing)  
+Elizabeth Carlsen (Bachelor of Nursing)  
+Fiona Te Haara (Bachelor of Nursing)  
+Monica Te Kaponga (Bachelor of Nursing)  
+Lizette Andrews (Bachelor of Nursing)  
+**Kelsi Keown** (Bachelor of Nursing)  
 Elizabeth Mischefski (Bachelor of Nursing).
 
 ##### Chartered Accountants Australia New Zealand Scholarship:
@@ -119,22 +91,18 @@ Sharon Baldwin (NZ Certificate in Study & Career Preparation – Level 4).
 
 ##### George Bolton Trust Scholarship:
 
-Sharon Rowan (NZ Certificate in Beauty Therapy)
-
-**Holly McGuiness** (Bachelor of Nursing)
-
+Sharon Rowan (NZ Certificate in Beauty Therapy)  
+**Holly McGuiness** (Bachelor of Nursing)  
 Michele Balsey (Bachelor of Nursing).
 
 ##### Te Rünanga o Ngã Wairiki Ngãti Apa Scholarship:
 
-Te Ngoi-Maika Mason (NZ Certificate in Security – Levels 3 & 4)
-
+Te Ngoi-Maika Mason (NZ Certificate in Security – Levels 3 & 4)  
 **Huki-Ana Bishop-Williams** (Bachelor of Applied Management).
 
 ##### Whanganui Education Trust Scholarship:
 
-Celone Tuka (Bachelor of Nursing)
-
+Celone Tuka (Bachelor of Nursing)  
 **Keelan Tui** (NZ Certificate in Music)
 
 ##### Whanganui & Partners Scholarship:
