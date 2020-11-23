@@ -2,7 +2,8 @@
 title: NCEA EXAMINATIONS 2020
 is_emergency: false
 date: 2020-11-12T01:20:04.346Z
-subtitle: Teacher Only Day - Friday 27 November
+subtitle: Teacher Only Day - Friday 27 November.  Seniors come in for their NCEA
+  examinatons as usual.  No school for Junior students.
 image: ""
 ---
 #### NCEA EXAMINATIONS 2020
