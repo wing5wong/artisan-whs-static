@@ -1,6 +1,6 @@
 ---
 title: NCEA EXAMINATIONS
-date: 2020-11-23T01:27:53.873Z
+date: 2020-11-24T01:27:53.873Z
 ---
 **Monday 16 November - Wednesday 9 December**
 
