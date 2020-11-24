@@ -15,7 +15,7 @@ date: 2020-11-24T02:43:30.948Z
 ---
 Three members of the Whanganui Volunteer Rural Fire Force have answered the call and will journey to Auckland this weekend for a worthy cause.
 
-Team captain Aaron Whitford, Blair Gray and Simon Dibben will be part of a 500 strong army of firefighters participating in the annual firefighters Sky Tower Stair Challenge, a fundraiser for Leukemia & Blood Cancer New Zealand.
+Team captain Aaron Whitford, Blair Gray and **Simon Dibben** will be part of a 500 strong army of firefighters participating in the annual firefighters Sky Tower Stair Challenge, a fundraiser for Leukemia & Blood Cancer New Zealand.
 
 This will be Whitford's eighth ascent of the Southern Hemisphere's highest freestanding building.
 
