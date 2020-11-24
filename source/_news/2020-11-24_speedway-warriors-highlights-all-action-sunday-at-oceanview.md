@@ -1,9 +1,17 @@
 ---
 title: "Speedway: Warriors highlights all action Sunday at Oceanview"
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606184506/News/Kaelin_Mooney._Chron_24.11.20_photo_SB_OHagan_photo.jpg
+  credit: S. B. O'Hagan Photography
+  description: Pumas driver Cameron Renwick (76P) tips Wanganui Vulcan Kaelin
+    Mooney (26V) over.
 news_author:
   date: 2020-11-24T01:52:17.768Z
   publication: Whanganui Chronicle
   name: Tony Stuart, Speedway
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606184547/News/Cody_Alabaster._chron_24.11.20_photo_SB_OHara.jpg
+    description: Cody Alabaster (16V).  Photo / S. B. O'Hagan Photography.
 show_in_slider: false
 date: 2020-11-24T01:52:17.826Z
 ---
