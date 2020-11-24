@@ -14,7 +14,7 @@ date: 2020-11-24T02:27:09.922Z
 ---
 The Whanganui Rural Fire Force have raised over $6000 as part of the Sky Tower Stair Challenge - with two members finishing in the top 10.
 
-Three members from the brigade, team captain Aaron Whitford, Blair Gray and Simon Dibben, went up to Auckland to compete in the challenge.
+Three members from the brigade, team captain Aaron Whitford, Blair Gray and **Simon Dibben**, went up to Auckland to compete in the challenge.
 
 Team captain Aaron Whitford said it was a great day out and they are stoked they crushed their fundraising goal of $3000, raising $6858 for Leukemia & Blood Cancer New Zealand.
 
