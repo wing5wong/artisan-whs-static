@@ -46,7 +46,7 @@ They have competed over an encouragingly wide range of events (important at that
 
 Earlier in the year, Carrie had shown her versatility by finishing a highly creditable 5th in the Schools Cross Country Challenge on the Collegiate golf course against strong opposition (Teresa was not available for that race). One such promising all-rounder in a team is great but having a twin is a bonus.
 
-Let the Games begin
+##### Let the Games begin
 
 The qualifying period for the postponed Tokyo Olympics starts on Tuesday, December 1.
 
