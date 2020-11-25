@@ -40,7 +40,7 @@ I remember announcing at a cross country race from a distance, correctly calling
 
 The present crop of junior distance runners are faster than the van Dalens were but time will tell if they show the same application and progress.
 
-The club has a new set of promising athlete twins with Teresa and Carrie Rennie giving strength and versatility to the Year 9 Whanganui High School team.
+**The club has a new set of promising athlete twins with Teresa and Carrie Rennie giving strength and versatility to the Year 9 Whanganui High School team.**
 
 They have competed over an encouragingly wide range of events (important at that age of development) and like the aforementioned twins, are never far apart in time or position. At the Regional League meeting at Cooks Gardens 10 days ago Carrie won the 70m hurdles from her sister Teresa, separated by only two one-hundredths of a second (13.09s – 13.11s).
 
