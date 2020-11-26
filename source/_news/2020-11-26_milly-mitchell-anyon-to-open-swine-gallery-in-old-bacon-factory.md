@@ -1,5 +1,6 @@
 ---
-title: Milly Mitchell-Anyon to open Swine Gallery in old bacon factory
+title: Former WHS student, Milly Mitchell-Anyon to open Swine Gallery in old
+  bacon factory
 feature_image:
   description: "Milly Mitchell-Anyon in front of 'Happy Hour', her first
     exhibition at Swine Gallery. "
