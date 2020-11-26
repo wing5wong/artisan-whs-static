@@ -24,7 +24,7 @@ Third-year students in visual arts, fashion and design media courses are putting
 
 Visual arts lecturers Lorraine Webb and Kathryn Wightman have supported their students to complete their work for the year and some managed to continue working at home during the lockdown stage of Covid restrictions.
 
-Student Nicholas Toyne said the restrictions had been challenging.
+Student **Nicholas Toyne** said the restrictions had been challenging.
 
 "When we were able to come back after lockdown I thought about how I could keep working if the levels went up again," he said.
 
@@ -68,7 +68,7 @@ Programme leader Stephanie West said it has been inspirational to see Crawford's
 
 "She has achieved so much and she just hasn't stopped."
 
-Josh Taylor made the switch from visual arts to design just before lockdown and said he thought about deferring to next year but decided to push on.
+**Josh Taylor** made the switch from visual arts to design just before lockdown and said he thought about deferring to next year but decided to push on.
 
 "I'm just mocking up my video game design," he said.
 
