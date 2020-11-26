@@ -1,5 +1,6 @@
 ---
-title: UCOL design students exhibit work
+title: "DNA 20: UCOL Whanganui design students bring out their best for end of
+  year shows"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606423690/News/Nicholas_Toyne._ex_Chron_14.11.20_photo_bevan_conley.jpg
   description: UCOL Whanganui visual arts students Hannah Williams (left),
