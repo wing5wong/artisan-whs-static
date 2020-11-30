@@ -1,7 +1,7 @@
 ---
 title: "🎊  Whanganui High School News - November 2020  🎊  "
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606700173/newsletters/november.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606700461/newsletters/GREEN_WHS_HEADER_november.jpg
 news_author:
   date: 2020-11-30T01:35:13.820Z
 show_in_slider: true
