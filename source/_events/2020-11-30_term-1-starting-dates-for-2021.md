@@ -16,20 +16,5 @@ Shortened Period 4 and 5 classes will be held during the day.
 
 
 
-##### Tuesday 2 February 2021
-
-**ALL year levels starting at 8.45am.**
-
-Year 9 and Year 13 go to form rooms;  
-Years 10, 11, 12 go to House venues which are:  
-Awa - Te Wehi Gymnasium 
-Maunga - Te Mana Gymnasium  
-Moana - Te Ihi Gymnasium  
-Whenua - Hall  
-
-Normal Periods 3, 4 and 5 classes will then continue for the rest of the day.
 
 
-##### Wednesday 3 February 2021
-
-Normal timetable school day for ALL year levels on Wednesday 3 February, Thursday 4 February and Friday 5 February.
