@@ -6,7 +6,7 @@ date: 2021-02-02T00:14:50.338Z
 
 **Year 9 and Year 13** go to form rooms;  
 **Years 10, 11, 12** go to House venues which are:  
-Awa - Te Wehi Gymnasium 
+Awa - Te Wehi Gymnasium  
 Maunga - Te Mana Gymnasium  
 Moana - Te Ihi Gymnasium  
 Whenua - Hall  
