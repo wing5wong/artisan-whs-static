@@ -1,5 +1,5 @@
 ---
-title: Term 1 starting dates for 2021
+title: Term 1 begins - Year 9 & Year 13 & all new students
 date: 2021-01-31T23:56:40.755Z
 ---
 ##### Monday 1 February 2021
