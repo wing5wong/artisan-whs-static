@@ -1,0 +1,12 @@
+---
+title: "🎊  Whanganui High School News - November 2020  🎊  "
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606700173/newsletters/november.jpg
+news_author:
+  date: 2020-11-30T01:35:13.820Z
+show_in_slider: true
+date: 2020-11-30T01:35:13.863Z
+---
+Congratulations to all our senior students and thank you to all whānau who were able to attend our various award evenings over the last few weeks. 👍🤩
+
+▶️️ VIEW the celebratory [November 2020 edition of our School Newsletter](<Congratulations to all our senior students and thank you to all whānau who were able to attend our various award evenings over the last few weeks. 👍🤩 ▶️️ VIEW the celebratory November 2020 edition of our School Newsletter:>)
