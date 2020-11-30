@@ -9,4 +9,4 @@ date: 2020-11-30T01:35:13.863Z
 ---
 Congratulations to all our senior students and thank you to all whānau who were able to attend our various award evenings over the last few weeks. 👍🤩
 
-▶️️ VIEW the celebratory [November 2020 edition of our School Newsletter](<Congratulations to all our senior students and thank you to all whānau who were able to attend our various award evenings over the last few weeks. 👍🤩 ▶️️ VIEW the celebratory November 2020 edition of our School Newsletter:>)
+▶️️ VIEW the celebratory [November 2020 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1606698483/newsletters/November_2020_rivercity_press_web.pdf)
