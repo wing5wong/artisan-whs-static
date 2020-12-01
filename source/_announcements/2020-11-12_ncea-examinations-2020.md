@@ -5,7 +5,8 @@ date: 2020-11-12T01:20:04.346Z
 subtitle: NCEA EXAMINATIONS 2020
 image: ""
 ---
-#### JUNIOR PRIZEGIVING - Tuesday 8 December 2020  
+#### JUNIOR PRIZEGIVING  
+**Tuesday 8 December 2020**  
 
 Form time is at the usual time of 8.45am and this will be followed by House Assemblies which will focus on LIFE Diploma awards.
 
