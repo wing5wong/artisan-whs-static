@@ -23,4 +23,4 @@ The flyer to cover the main points and the enrollment form with programme costs 
 
 <https://www.serviceiq.org.nz/schools/gateway-training/aviation-gateway-aeroscience-programme/>
 
-***See Mrs Gregory (Employment Co-Ordinator) in her D7/D8 Office if you are interested.***
+***See Mrs Howard (Gateway) in her D7/D8 Office if you are interested.***
