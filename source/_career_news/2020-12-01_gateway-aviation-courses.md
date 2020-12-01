@@ -22,3 +22,5 @@ Students who may wish to become a pilot can obtain up to 33 NCEA Credit points a
 The flyer to cover the main points and the enrollment form with programme costs etc. to be downloaded at:
 
 <https://www.serviceiq.org.nz/schools/gateway-training/aviation-gateway-aeroscience-programme/>
+
+***See Mrs Gregory (Employment Co-Ordinator) in her D7/D8 Office if you are interested.***
