@@ -2,7 +2,7 @@
 title: Proud winners of the prestigious John Prestage Debating Competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606856107/News/WINNERS_of_interschool_1.12.20.jpg
-  description: The winning Kowhai team. from left; Hazel Chant, Charlotte Hardy
+  description: The winning Kowhai team, from left; Hazel Chant, Charlotte Hardy
     and Sophia Bedwell.
 news_author:
   date: 2020-12-01T20:54:39.567Z
@@ -15,7 +15,7 @@ Both teams were unbeaten, coming into the finals after four rounds of harsh comp
 
 The teams were given 40 minutes to prepare the near very difficult moot:
 
-This House would institute a superannuation scheme with an age of entitlement based on ethnic identification.
+_This House would institute a superannuation scheme with an age of entitlement based on ethnic identification._
 
 It was a pleasure to watch the high-level debate that showed a deep awareness of how New Zealand society can move forward towards fairness for all. I am very proud and congratulate the girls with this outstanding result. I have seen them grow from strength to ‘strongest’ and can honestly say that the future of debating at Whanganui High School is in safe hands. Hats off!!!
 
