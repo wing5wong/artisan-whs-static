@@ -1,5 +1,5 @@
 ---
-title: Kowhai team winners of the prestigious John Prestage Debating Competition
+title: Kowhai team winners of the prestigious John Prestage Debating Competition 2020
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606856107/News/WINNERS_of_interschool_1.12.20.jpg
   description: The winning Kowhai team, from left; Hazel Chant, Charlotte Hardy
