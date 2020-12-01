@@ -1,5 +1,5 @@
 ---
-title: Proud winners of the prestigious John Prestage Debating Competition
+title: Kowhai team winners of the prestigious John Prestage Debating Competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606856107/News/WINNERS_of_interschool_1.12.20.jpg
   description: The winning Kowhai team, from left; Hazel Chant, Charlotte Hardy
@@ -11,6 +11,8 @@ news_author:
 show_in_slider: true
 date: 2020-12-01T20:54:39.629Z
 ---
+**Whanganui High School Kowhai Team - Proud Winners!!**
+
 On the first day of Summer our Kowhai team took on Fielding Agricultural High School in the finals of the prestigious John Prestage Debating Competition. 
 
 Both teams were unbeaten, coming into the finals after four rounds of harsh competition with schools from the wider Manawatu and Whanganui regions. In total 32 teams were involved in the competition.
