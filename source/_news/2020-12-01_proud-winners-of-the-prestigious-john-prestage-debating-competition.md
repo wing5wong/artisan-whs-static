@@ -6,7 +6,7 @@ feature_image:
     and Sophia Bedwell.
 news_author:
   date: 2020-12-01T20:54:39.567Z
-  publication: Teacher in charge
+  publication: Very proud TIC
   name: Jos Berkhout
 show_in_slider: true
 date: 2020-12-01T20:54:39.629Z
