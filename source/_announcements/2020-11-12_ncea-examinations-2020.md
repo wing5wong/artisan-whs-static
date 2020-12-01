@@ -11,7 +11,7 @@ Form time is at the usual time of 8.45am and this will be followed by House Asse
 
 Please contact the School is you have any questions or concerns.
 
-Last day for the Junior School.
+**Last day for the Junior School.**
 
 ______________
 ______________
