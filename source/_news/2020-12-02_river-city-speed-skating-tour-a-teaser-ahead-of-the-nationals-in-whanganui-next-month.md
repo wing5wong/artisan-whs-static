@@ -13,7 +13,7 @@ The Premier Men had a blend of senior and junior skaters. Whanganui's Andrew Jon
 
 Jones kept in touch with a strong finish to win the 5k at Mitre 10 and secured second-place prize money behind Beach in the final standings.
 
-Timaru's Keaton Swindels took out the long track time trial at Mitre 10 and finished third on points. **The diminutive figure of 14-year-old Chase Morpeth, Whanganui, was the standout of the younger skaters, with a runaway win in the 3000m at Jubilee Stadium leaving NZ's best senior skaters in his wake. He was also second to Beach in the 400m in a lunge by a wheel to finish a creditable fourth overall on points.**
+Timaru's Keaton Swindels took out the long track time trial at Mitre 10 and finished third on points. The diminutive figure of 14-year-old **Chase Morpeth, Whanganui, was the standout of the younger skaters, with a runaway win in the 3000m at Jubilee Stadium leaving NZ's best senior skaters in his wake. He was also second to Beach in the 400m in a lunge by a wheel to finish a creditable fourth overall on points.**
 
 Whanganui's **Drew Brennan, also 14, was another junior to finish ahead of some of the senior men. He was fifth on points.** The special stage was won by Mt Wellington's Josh Wood.
 
