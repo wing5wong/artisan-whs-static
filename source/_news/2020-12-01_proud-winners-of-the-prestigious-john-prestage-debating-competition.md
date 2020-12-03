@@ -17,7 +17,7 @@ On the first day of Summer our Kowhai team took on Fielding Agricultural High Sc
 
 Both teams were unbeaten, coming into the finals after four rounds of harsh competition with schools from the wider Manawatu and Whanganui regions. In total 32 teams were involved in the competition.
 
-The teams were given 40 minutes to prepare the near very difficult moot:
+The teams were given 40 minutes to prepare the very difficult moot:
 
 _This House would institute a superannuation scheme with an age of entitlement based on ethnic identification._
 
