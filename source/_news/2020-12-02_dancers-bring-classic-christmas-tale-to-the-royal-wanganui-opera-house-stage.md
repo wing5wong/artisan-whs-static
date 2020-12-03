@@ -2,9 +2,9 @@
 title: Dancers bring classic Christmas tale to the Royal Wanganui Opera House stage
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606942446/News/nutcracker_Rebecca_Allardice_Peter_Doney_Amy_Bennetts._Chron_28.11.20_phto_bevan_conly.jpg
-  description: Dancers Rebecca Allardice (left), Peter Doney, Amy Bennetts, Connor
-    Jenkins, Makenzie Tate, Elena O'Leary and Laura Mackintosh rehearse for The
-    Nutcracker.
+  description: Dancers Rebecca Allardice (WHS - left), Peter Doney (WHS), Amy
+    Bennetts (WHS), Connor Jenkins, Makenzie Tate, Elena O'Leary and Laura
+    Mackintosh (WHS) rehearse for The Nutcracker.
   credit: Bevan Conley
 news_author:
   date: 2020-11-27T20:53:40.223Z
