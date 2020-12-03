@@ -3,7 +3,7 @@ title: Bible Friends Concert at Christ Church Anglican on 1 December
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606961147/News/Daniel_Sutherland_ex._RCP_26.11.20.jpg
   description: Former student, Daniel Sutherland (in green) will be taking part in
-    this concert.
+    this fun concert.
 news_author:
   date: 2020-11-26T02:03:14.349Z
   publication: River City Press
