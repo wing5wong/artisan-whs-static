@@ -1,6 +1,9 @@
 ---
 title: River City Speed Skating Tour a teaser ahead of the nationals in
   Whanganui next month
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607040667/News/Chase_in_action_for_Chron_3.12.20.jpg
+  description: Chase Morpeth in action.
 news_author:
   date: 2020-12-02T22:12:51.065Z
   publication: Whanganui Chronicle
