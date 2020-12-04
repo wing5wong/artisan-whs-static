@@ -7,7 +7,7 @@ feature_image:
 news_author:
   date: 2020-12-02T22:12:51.065Z
   publication: Whanganui Chronicle
-show_in_slider: false
+show_in_slider: true
 date: 2020-12-02T22:12:51.117Z
 ---
 The cream of New Zealand's skaters were eager to perform at the 11th annual St John's Club River City Speed Skating in Whanganui at the weekend with the national championship just a month away at the same venues.
