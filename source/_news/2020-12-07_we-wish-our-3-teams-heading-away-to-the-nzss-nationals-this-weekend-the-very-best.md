@@ -5,6 +5,11 @@ news_author:
   date: 2020-12-07T23:22:59.973Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607383811/News/130006162_1755770401238725_6011301079323277049_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607383824/News/129484329_1755770361238729_1075807762324586682_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607383838/News/129618367_1755770367905395_2481087473294861085_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607383851/News/130697661_1755770417905390_7091768156972209734_o.jpg
 show_in_slider: true
 date: 2020-12-07T23:23:00.037Z
 ---
