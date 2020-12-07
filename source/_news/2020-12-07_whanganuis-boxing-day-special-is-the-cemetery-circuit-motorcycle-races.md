@@ -2,7 +2,7 @@
 title: Whanganui's Boxing Day special is the Cemetery Circuit motorcycle races
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1606345045/News/Richie_Dibben._2.Chron_26.11.20_photo_file.jpg
-  description: ""
+  description: Richie Dibben in action.
   credit: File
 news_author:
   date: 2020-12-04T01:42:39.457Z
