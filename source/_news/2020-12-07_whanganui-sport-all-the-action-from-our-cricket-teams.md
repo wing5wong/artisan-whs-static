@@ -2,7 +2,7 @@
 title: "Whanganui sport: All the action from our cricket teams"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607305052/News/Jess_Watkin._ex_chron_5.12.20_phtot_supplied.jpg
-  description: "t was high fives all round after Coastal Challengers Levin,
+  description: "It was high fives all round after Coastal Challengers Levin,
     captained by Whanganui's Jess Watkin (centre), beat Tararua Kotahi in the
     opening round of the new Central Super League. "
   credit: Supplied
