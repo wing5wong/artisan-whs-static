@@ -16,7 +16,7 @@ Surf lifeguard patrols will begin at beaches at Castlecliff and Mowhanau from ne
 
 There are familiar names in the line-up as some of the 2020 team are the children and younger siblings of former volunteers.
 
-Lifeguarding tends to be a tradition in some local families and father and son James and Matthew Newell are both dedicated longtime servers with the Whanganui Surf Lifesaving Club.
+Lifeguarding tends to be a tradition in some local families and father and son **James and Matthew Newell** are both dedicated longtime servers with the Whanganui Surf Lifesaving Club.
 
 Both received awards for their life saving services in the central region in July, with James awarded a regional Service Award, Distinguished Service Award and regional Life Membership Award.
 
