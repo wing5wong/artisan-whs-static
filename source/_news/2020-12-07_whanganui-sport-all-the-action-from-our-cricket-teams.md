@@ -31,7 +31,7 @@ There are two rounds remaining before the semifinals following next weekend's Ro
 
 Meanwhile, Whanganui featured strongly in the opening round of the new Central Super League women's franchise competition in Palmerston North last weekend,
 
-Palmerston North Tui, coached by former Cricket Wanganui chief Dilan Raj, and Coastal Challengers Levin, skippered by Whanganui White Fern and Central Hinds co-captain Jess Watkin, were the only two sides to win on the inaugural day.
+Palmerston North Tui, coached by former Cricket Wanganui chief Dilan Raj, and Coastal Challengers Levin, **skippered by Whanganui White Fern and Central Hinds co-captain Jess Watkin**, were the only two sides to win on the inaugural day.
 
 Natalie Dodd's New Plymouth Power elected to bat first against the Tui after winning the toss at Manawaroa Park, but a total of 129 all out in 40 overs proved no match for the Tui who scored the winning runs in the 29th over with eight wickets still in hand.
 
