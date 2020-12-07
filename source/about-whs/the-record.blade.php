@@ -11,13 +11,15 @@ pagination:
 @yield('postContent')
 
 
+<ul>
 @foreach($pagination->items as $record)
-
+<li>
 {{ date('F j, Y', $record->date) }}
 {{$record->title}}
-<a href="{{$record->getPath()}}">Download</a>
-
+<a href="{{$record->file}}">Download</a>
+</li>
 @endforeach
+</ul>
 
 @if ($previous = $pagination->previous)
 <a href="{{ $page->baseUrl }}{{ $pagination->first }}">&lt;&lt;</a>
