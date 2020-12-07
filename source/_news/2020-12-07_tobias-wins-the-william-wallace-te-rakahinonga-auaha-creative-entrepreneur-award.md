@@ -11,8 +11,8 @@ image_gallery:
 show_in_slider: true
 date: 2020-12-07T02:19:16.425Z
 ---
-**Congratulations to one of our Year 10 students, Tobias Perkins, for receiving the William Wallace Te Rakahinonga Auaha Creative Entrepreneur Award from Prime Minister, Jacinda Ardern on the weekend at Parliament House in Wellington.**
+**Congratulations to Year 10 student, Tobias Perkins, for receiving the William Wallace Te Rakahinonga Auaha Creative Entrepreneur Award for success in the face of adversity.  Tobias received the $3000 scholarship from Prime Minister, Jacinda Ardern on the weekend at Parliament House in Wellington.**  👌
 
-**Outstanding achievement Tobias!  Well done!**
 
+**Outstanding achievement Tobias! Well done!**  👏👏
 
