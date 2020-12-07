@@ -334,7 +334,9 @@ return [
         'prefects',
         'school_leaders',
         'school_documents',
-        'the_record',
+        'the_record' => [
+            'sort' => ['-date', 'title'],
+        ],
         'scholarships' => [
             'path' => 'scholarships/{filename}',
             'extends' => '_layouts.post',
