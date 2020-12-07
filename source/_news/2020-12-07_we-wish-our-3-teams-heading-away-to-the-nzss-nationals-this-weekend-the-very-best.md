@@ -1,6 +1,8 @@
 ---
 title: We wish our 3 teams heading away to the NZSS Nationals this weekend the
   very best
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607384452/News/all_4_photos_for_NZSS_nationals_2020.jpg
 news_author:
   date: 2020-12-07T23:22:59.973Z
   name: "Lisa Murphy "
