@@ -47,7 +47,7 @@ Su'a said while styles and fashions had changed during his 17-year career, he ha
 
 Su'a said he hadn't been sure of what he wanted to do when he left school, but knew that whatever it was would be "hands on".
 
-"I was just a Whanganui kid who didn't quite know which direction to go in, but once I had captured music [his high school band Xodus won the Smokefree Pasifika Beats competition in 2002], I knew I wanted to do something creative. I was into fashion, and me and my mates would be changing our hairstyles every second day almost.
+"I was just a Whanganui kid who didn't quite know which direction to go in, but once I had captured music **[his high school band Xodus won the Smokefree Pasifika Beats competition in 2002]**, I knew I wanted to do something creative. I was into fashion, and me and my mates would be changing our hairstyles every second day almost.
 
 "We'd have Afros, then we'd go spiky. We'd always be biking around to all the op shops and picking stuff out.
 
