@@ -1,6 +1,6 @@
 ---
-title: We wish our 3 teams heading away to the NZSS Nationals this weekend the
-  very best
+title: We wish our 3 WHS teams heading away to the NZSS Nationals this weekend
+  the very best
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607384452/News/all_4_photos_for_NZSS_nationals_2020.jpg
 news_author:
