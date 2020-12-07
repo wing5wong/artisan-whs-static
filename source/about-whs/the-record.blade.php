@@ -12,13 +12,12 @@ pagination:
 
 
 <ul>
-@foreach($pagination->items as $record)
-<li>
-{{ date('F j, Y', $record->date) }}
-{{$record->title}}
-<a href="{{$record->file}}">Download</a>
-</li>
-@endforeach
+    @foreach($pagination->items as $record)
+    <li>
+        {{$record->title}}
+        <a href="{{$record->file}}">Download</a>
+    </li>
+    @endforeach
 </ul>
 
 @if ($previous = $pagination->previous)
@@ -31,18 +30,16 @@ pagination:
 {{ $pageNumber }}
 </a>
 @else
-    @if( ($pagination->currentPage - $pageNumber <=5) or ($pageNumber - $pagination->currentPage <= 5))
-    <a href="{{ $page->baseUrl }}{{ $path }}">
+@if( ($pagination->currentPage - $pageNumber <=5) or ($pageNumber - $pagination->currentPage <= 5)) <a
+        href="{{ $page->baseUrl }}{{ $path }}">
         {{ $pageNumber }}
-    </a>
-    @endif
-@endif
-@endforeach
+        </a>
+        @endif
+        @endif
+        @endforeach
 
-@if ($next = $pagination->next)
-<a href="{{ $page->baseUrl }}{{ $next }}">&gt;</a>
-<a href="{{ $page->baseUrl }}{{ $pagination->last }}">&gt;&gt;</a>
-@endif
-@endsection
-
-
+        @if ($next = $pagination->next)
+        <a href="{{ $page->baseUrl }}{{ $next }}">&gt;</a>
+        <a href="{{ $page->baseUrl }}{{ $pagination->last }}">&gt;&gt;</a>
+        @endif
+        @endsection
