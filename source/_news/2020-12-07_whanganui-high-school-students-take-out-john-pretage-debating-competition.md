@@ -12,9 +12,9 @@ news_author:
 show_in_slider: true
 date: 2020-12-07T23:45:12.670Z
 ---
-Three Whanganui students are the proud holders of one of the region's most prestigious debating trophies.
+**Three Whanganui students are the proud holders of one of the region's most prestigious debating trophies.**
 
-Whanganui High School Year 10 students Charlotte Hardy, Sophia Bedwell, and Hazel Chant took out the annual John Prestage Debating Competition last week, beating Feilding High School in the final.
+**Whanganui High School Year 10 students Charlotte Hardy, Sophia Bedwell, and Hazel Chant took out the annual John Prestage Debating Competition last week, beating Feilding High School in the final.**
 
 Teacher Jos Berkhout said the work of his students was something to be proud of.
 
