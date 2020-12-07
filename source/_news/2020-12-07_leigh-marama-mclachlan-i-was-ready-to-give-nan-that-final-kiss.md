@@ -1,5 +1,5 @@
 ---
-title: "Leigh-Marama McLachlan: I was ready to give Nan that final kiss"
+title: "Losing a loved one: Why the Māori way is a good way"
 feature_image:
   description: '"On Sunday 22 November, my powerhouse of a kuia, Wahi Marama Teki,
     passed-away at Whanganui Hospital at 89 years-old."'
