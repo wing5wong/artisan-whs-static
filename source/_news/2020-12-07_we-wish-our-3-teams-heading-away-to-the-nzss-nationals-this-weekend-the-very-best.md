@@ -8,9 +8,7 @@ news_author:
 show_in_slider: true
 date: 2020-12-07T23:23:00.037Z
 ---
-We wish our 3 teams heading away to the NZSS Nationals this weekend the very best.
-
-WHS Athletics, Touch and Girls Rugby head to Nationals
+**WHS Athletics, Touch and Girls Rugby head to Nationals.**
 
 The WHS **Athletics team** of 20 athletes leaves this Thursday for the N.Z Secondary schools athletics champs in Tauranga, where they will be competing against 1285 athletes from 215 schools across the country. The standard of competition will be extremely high, but every member of the team has qualified for their spot on the big stage and is ready to perform to their very best.
 
