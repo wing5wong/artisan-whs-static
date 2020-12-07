@@ -4,6 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607304415/News/Sam_Su_a._ex_Chron_5.12.20.jpg
   description: One of New Zealand's most sought-after hair stylists Sam Su'a has
     moved home to Whanganui.
+  credit: Bevan Conley
 news_author:
   date: 2020-12-05T01:25:53.214Z
   publication: Whanganui Chronicle
