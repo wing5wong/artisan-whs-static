@@ -4,6 +4,7 @@ feature_image:
   description: "Marama Allen has served as deputy principal of Ruapehu College and
     has now been appointed to replace Kim Basse as the school principal. "
   credit: Supplied
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607471762/News/Marama_Allen_Chron_8.12.20.jpg
 news_author:
   date: 2020-12-07T22:01:54.653Z
   publication: Whanganui Chronicle
