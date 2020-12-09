@@ -14,6 +14,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607474160/News/Lucy_Brickley._2.Chron_10.12.20.jpg
     description: Whanganui rural firefighter recruits Lucy Brickley (left), Jordan
       Conibear and Richard Jordan. Photo / Gavin Pryce.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607474385/News/Lucy_Brickley._3_Midweek_9.12.20.jpg
+    description: Rural firefighters on morning parade at the block course. Photo / Supplied.
 show_in_slider: false
 date: 2020-12-09T00:35:18.006Z
 ---
