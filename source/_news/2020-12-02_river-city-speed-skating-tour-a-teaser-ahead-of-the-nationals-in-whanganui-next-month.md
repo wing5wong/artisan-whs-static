@@ -7,6 +7,9 @@ feature_image:
 news_author:
   date: 2020-12-02T22:12:51.065Z
   publication: Whanganui Chronicle
+image_gallery:
+  - description: Drew Brennan in action.
+    image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607474642/News/Drew_Brenna_Skating_photo_from_dad.jpg
 show_in_slider: true
 date: 2020-12-02T22:12:51.117Z
 ---
