@@ -30,15 +30,15 @@ policyAreas:
         policy: 3.1 Board of Trustees' "Employer" Policy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/3.2---Appointment-of-Staff-Policy_-updated-November-2018.pdf
         policy: 3.2 Appointment of Staff
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1574824720/School%20Policies/3.3_-EEO_Policy.updated_November_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478710/School%20Policies/3.3_-_EEO_Policy_updated_November_2020.pdf
         policy: 3.3 Equal Employment Opportunities
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1574824723/School%20Policies/3.5_-Protected_Disclosures_Policy.updated_November_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.5_-_Protected_Disclosures_Policy_updated_November_2020.pdf
         policy: 3.5 Protected Disclosures
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1574824721/School%20Policies/3.6_-_Performance_Management_System_Appraisal_and_Attestation_Policy_updated_Novembeer_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.6_-_Performance_Management_System_Appraisal_and_Attestation_Policy_updated_November_2020.pdf
         policy: 3.6 Performance Management Systems, Appraisal and Attestation
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1574824720/School%20Policies/3.7_-_Staff_Competency_updated_November_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.7_-_Staff_Competency_updated_November_2020.pdf
         policy: 3.7 Staff Competency
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1574824721/School%20Policies/3.8_-_Staff_Professional_Development_updated_November_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.8_-_Staff_Professional_Development_updated_November_2020.pdf
         policy: 3.8 Staff Professional Development
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1583788502/School%20Policies/3.9_-Timetable_Policy_updated_February_2020.pdf
         policy: 3.9 Timetable
@@ -76,7 +76,7 @@ policyAreas:
         policy: 5.4 Student Discipline
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1602467250/School%20Policies/5.5_Sexuality_Education_Policy_updated_August_2020.pdf
         policy: 5.5 Sexuality Education
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693561/School%20Policies/5.6--Drugs-Policy_-updated-April-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/5.6_-_Alcohol_Tobacco_Vaping_Drugs_Policy_updated_November_2020.pdf
         policy: 5.6 Drugs
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693561/School%20Policies/5.8-Student-Related-Transport.updated-Feb-2018.pdf
         policy: 5.8 Student Related Transport
@@ -88,7 +88,7 @@ policyAreas:
         policy: 5.11 Child Protection Policy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.12-Dealing-with-Child-Abuse-Allegations-against-Employees-in-Schools_-April-2018.pdf
         policy: 5.12 Dealing with Child Abuse Allegations
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1574824721/School%20Policies/5.13_Physical_Restraint_Policy_November_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/5.13_Physical_Restraint_Policy_November_2020.pdf
         policy: 5.13 Physical Restraint
     policyArea: 5. Health and Safety
   - policies:
