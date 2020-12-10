@@ -9,7 +9,7 @@ news_author:
   date: 2020-12-10T10:21:32.007Z
   publication: Whanganui Chronicle
   name: Ethan Griffiths
-show_in_slider: true
+show_in_slider: false
 date: 2020-12-10T10:21:32.673Z
 ---
 Two families now have full bellies and bright smiles thanks to the generosity of one lucky Whanganui man.
