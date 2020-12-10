@@ -2,6 +2,7 @@
 title: Lucky Bar – Big Night Out Benefit Concert – December 12
 feature_image:
   description: "Pictured: Late Night Tales band."
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607589473/News/Jack_McCoubrie_plays_in_Late_Night_Tales_band_RCP_10.12.20.jpg
 news_author:
   date: 2020-12-10T08:18:22.422Z
   publication: River City Press
