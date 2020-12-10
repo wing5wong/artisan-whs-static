@@ -4,6 +4,7 @@ feature_image:
   description: "The WHS girls rugby sevens team head to the Condor Sevens in
     Auckland this week full of hope. "
   credit: Supplied
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607587886/News/girls_rugby_sevens_team_off_to_NZSS_Nationals_Dec_2020.jpg
 news_author:
   date: 2020-12-10T07:09:23.629Z
   publication: Whanganui Chronicle
