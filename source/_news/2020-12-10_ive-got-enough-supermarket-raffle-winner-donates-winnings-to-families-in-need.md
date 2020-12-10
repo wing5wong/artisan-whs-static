@@ -5,6 +5,7 @@ feature_image:
   description: Elizabeth, one of the grateful recipients of Bruce Tonkin's
     generous donation.
   credit: Ethan Griffiths
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607597034/News/Bruce_Tonkin_WHS_rowing_raffle_winner_chron_10.12.20.jpg
 news_author:
   date: 2020-12-10T10:21:32.007Z
   publication: Whanganui Chronicle
