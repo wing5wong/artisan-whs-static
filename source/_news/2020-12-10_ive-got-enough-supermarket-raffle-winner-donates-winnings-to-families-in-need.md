@@ -15,7 +15,7 @@ date: 2020-12-10T10:21:32.673Z
 ---
 Two families now have full bellies and bright smiles thanks to the generosity of one lucky Whanganui man.
 
-Bruce Tonkin last week found out he was the winner of a Whanganui High School rowing team raffle, granting him a $500 four-minute mad dash around Pak'nSave Whanganui to grab anything and everything he wanted.
+Bruce Tonkin last week found out he was the **winner of a Whanganui High School rowing team raffle**, granting him a $500 four-minute mad dash around Pak'nSave Whanganui to grab anything and everything he wanted.
 
 But instead of filling up his own fridge, he decided he wanted to fill up someone else's.
 
