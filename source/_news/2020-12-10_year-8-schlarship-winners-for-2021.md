@@ -1,5 +1,5 @@
 ---
-title: Year 8 Schlarship Winners for 2021
+title: Year 8 Scholarship Winners for 2021
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607634761/News/year_8_scholarship_2020.jpg
 news_author:
