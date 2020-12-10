@@ -14,7 +14,7 @@ date: 2020-12-10T08:30:33.016Z
 ---
 Whanganui riders had an ordinary start to the 2020 Suzuki International Series during round one at Taupō's Bruce McLaren Motorsport Park on Sunday.
 
-Richie Dibben (Suzuki GSX-R1000) had a mixed day on debut in the F1/superbike class. The 2020 national Supersport 600 champion crashed out of the first of his two 1000cc F1 superbike races while running with the leading bunch and then settled for sixth in his next outing.
+**Richie Dibben** (Suzuki GSX-R1000) had a mixed day on debut in the F1/superbike class. The 2020 national Supersport 600 champion crashed out of the first of his two 1000cc F1 superbike races while running with the leading bunch and then settled for sixth in his next outing.
 
 "I had a few issues with the bike after my crash, but I managed to bring it home and finish race two," Dibben said.
 
@@ -22,7 +22,7 @@ Richie Dibben (Suzuki GSX-R1000) had a mixed day on debut in the F1/superbike cl
 
 His Barracks Racing Team team-mate, Luca Durning, rode well on debut in the 600 Supersport and got a personal best time in qualifying at Taupō, finishing 8th in race one. In race two he had mechanical issues and was further back in the pack than planned. Durning also rode in the Supersport 300 class where he finished a creditable 6th in both races.
 
-Meanwhile, former Whanganui racer Caleb Gilmore, now living in Christchurch, shares the lead in the Supersport 300 class with Timaru's Harry Parker and has the outright lead in the Gixxer 150 class.
+Meanwhile, former Whanganui racer **Caleb Gilmore**, now living in Christchurch, shares the lead in the Supersport 300 class with Timaru's Harry Parker and has the outright lead in the Gixxer 150 class.
 
 Whanganui's only other rider in the superbike class, Jayden Carrick (Suzuki GSX-R1000), did not compete in round one after suffering an eye injury at work a week ago. He will, however, be fit to race at Manfield this weekend.
 
@@ -30,4 +30,4 @@ Tarbon Walker (Kawasaki ZX 600cc) suffered mapping issues that forced him to pul
 
 The popular Motard class features a number of Whanganui racers, although none finished among the leading bunch at Taupo.
 
-Class leaders after the first of three rounds of the Suzuki International Series are Christchurch's Alastair Hoogenboezem (Formula One); Upper Hutt's Rogan Chandler (Formula Two); Nikau Valley's Richard Markham-Barrett and Whagamata's Jarad Horn (first equal in Formula Three); Markham-Barrett (Bears Senior); Te Awamutu's Stephen Bates (Bears Junior); Christchurch's Caleb Gilmore (GIXXER 150 Cup); Pukekohe's Matt Eggleton (Post Classics, pre-89 Senior); Ngaruawahia's Steve Bridge (Post Classics, pre-89 Junior); Tauranga's Barry Smith and Stu Dawe (F1 Sidecars); Albany's Mark Halls and Michelle MacLean (F2 Sidecars); Taumarunui's Jette Josiah (Super Motard); Caleb Gilmore and Timaru's Harry Parker (first equal in Supersport 300).
+Class leaders after the first of three rounds of the Suzuki International Series are Christchurch's Alastair Hoogenboezem (Formula One); Upper Hutt's Rogan Chandler (Formula Two); Nikau Valley's Richard Markham-Barrett and Whagamata's Jarad Horn (first equal in Formula Three); Markham-Barrett (Bears Senior); Te Awamutu's Stephen Bates (Bears Junior); Christchurch's **Caleb Gilmore** (GIXXER 150 Cup); Pukekohe's Matt Eggleton (Post Classics, pre-89 Senior); Ngaruawahia's Steve Bridge (Post Classics, pre-89 Junior); Tauranga's Barry Smith and Stu Dawe (F1 Sidecars); Albany's Mark Halls and Michelle MacLean (F2 Sidecars); Taumarunui's Jette Josiah (Super Motard); Caleb Gilmore and Timaru's Harry Parker (first equal in Supersport 300).
