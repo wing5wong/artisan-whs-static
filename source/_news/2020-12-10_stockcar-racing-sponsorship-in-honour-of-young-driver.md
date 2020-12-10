@@ -12,15 +12,16 @@ show_in_slider: false
 date: 2020-12-10T10:31:06.626Z
 ---
 After this weekend's Christmas parade there is the usual charitable sausage sizzle.
+
 "This year we're doing something a little bit different," says Kelly Scarrow of Mainstreet.
 
 This year the cause is in honour of a young man who died earlier this year and the proceeds from the sausage sizzle will go to a 12-year-old ministock driver.
 
-In February 14-year-old Chase Swanson-Ewing drowned in the Whanganui River. As a young child he had been a budding stock car racer, starting in the peewee class at Oceanview Speedway when he was four years old, taking to the track between races. He dreamed of racing ministocks when he got older and taking it further as an adult.
+**In February 14-year-old Chase Swanson-Ewing drowned in the Whanganui River. As a young child he had been a budding stock car racer, starting in the peewee class at Oceanview Speedway when he was four years old, taking to the track between races. He dreamed of racing ministocks when he got older and taking it further as an adult.**
 
 Unfortunately, his mum, Lou Baldwin, couldn't afford to get him into ministocks and the dream came to an end.
 
-In Chase's honour, Lou, with a group of friends, has initiated a sponsorship to help some other youngster who may not have the resources to fulfil their dream of becoming a stock car driver.
+**In Chase's honour, Lou, with a group of friends, has initiated a sponsorship to help some other youngster who may not have the resources to fulfil their dream of becoming a stock car driver.**
 
 Twelve year old Angus Mulholland is the lucky recipient. He races ministock number 69v.
 
