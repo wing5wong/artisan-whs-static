@@ -6,6 +6,7 @@ feature_image:
     of the Suzuki International Series superbike class at Taupo on Sunday
     crashing in race one and finishing 6th in the second.
   credit: Andy McGechan
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607593048/News/Richie_Dibben_Chron_10.12.20.jpg
 news_author:
   date: 2020-12-10T08:30:32.837Z
   publication: Whanganui Chronicle
