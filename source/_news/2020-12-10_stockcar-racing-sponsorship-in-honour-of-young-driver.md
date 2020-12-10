@@ -3,11 +3,16 @@ title: Stockcar racing sponsorship in honour of young driver
 feature_image:
   description: Angus Mulholland with his mum, Monique Coughey.
   credit: Paul Brooks
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607598911/News/Angus_Mulholland_1.jpg
 news_author:
   date: 2020-12-09T10:31:06.440Z
   publication: Whanganui Midweek
   name: Paul Brooks
-image_gallery: []
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607598957/News/Chase_Swanson-Ewing.jpg
+    description: Chase Swanson-Ewing when he raced peewee stocks. Photo / Supplied.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607598983/News/Angus_Mulholland_2.jpg
+    description: Angus Mulholland behind the wheel of ministock 69v. Photo / Supplied.
 show_in_slider: false
 date: 2020-12-10T10:31:06.626Z
 ---
