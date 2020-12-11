@@ -2,6 +2,7 @@
 title: Taylor Barrie interacting with dolphins and whales
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607644949/News/Taylor_Barrie.jpg
+  description: Taylor Barrie
 news_author:
   date: 2020-12-06T21:11:13.080Z
   publication: Queenstown Resort College facebook page
