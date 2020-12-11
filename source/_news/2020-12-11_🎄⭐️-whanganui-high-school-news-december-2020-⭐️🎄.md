@@ -7,8 +7,6 @@ news_author:
 show_in_slider: true
 date: 2020-12-11T02:29:27.662Z
 ---
-🎄⭐️  Whanganui High School News - December 2020  ⭐️🎄
-
 Congratulations to our Year 8 Scholarship winners for 2021 and to our super talented students and their recent achievements. 👏👏
 Read the end of year message from our Principal, Martin McAllen. 👍
 
