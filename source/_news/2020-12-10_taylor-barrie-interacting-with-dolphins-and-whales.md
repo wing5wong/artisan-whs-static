@@ -1,5 +1,6 @@
 ---
-title: Taylor Barrie interacting with dolphins and whales
+title: Taylor Barrie is currently doing an internship with Bay of Islands -
+  Fullers GreatSights
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607644949/News/Taylor_Barrie.jpg
   description: Taylor Barrie
