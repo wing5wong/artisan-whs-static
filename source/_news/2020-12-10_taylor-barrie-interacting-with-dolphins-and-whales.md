@@ -26,6 +26,6 @@ Finally, some words of wisdom from Taylor:
 
 “Always do what you’re afraid to do’, start a new chapter, a new career, I promise you will love it!”
 
-Prior to joining QRC Taylor was a student at  Whanganui High School.
+Prior to joining QRC Taylor was a student at  [Whanganui High School](https://www.facebook.com/WhanganuiHigh/).
 
 To learn more about our Adventure Tourism programme click the following link: https://www.qrc.ac.nz/study/adventure-tourism-management/
