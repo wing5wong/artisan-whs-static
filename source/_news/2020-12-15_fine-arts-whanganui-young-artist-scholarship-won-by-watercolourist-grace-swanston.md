@@ -32,7 +32,7 @@ Fine Arts Whanganui first offered the scholarship in 2017, with WHS student **Mi
 
 Each year, the winner receives a $1000 cash prize and members of the Whanganui Fine Arts Collective support them to prepare for a solo exhibition of their work at the Taupō Quay gallery.
 
-Gallery visitors also get to vote for a People's Choice award of $200 and this year's winner is Zoe Bracegirdle.
+**Gallery visitors also get to vote for a People's Choice award of $200 and this year's winner is Zoe Bracegirdle.**
 
 There were also some highly commended categories this year as the quality of submissions was of an especially high standard.
 
