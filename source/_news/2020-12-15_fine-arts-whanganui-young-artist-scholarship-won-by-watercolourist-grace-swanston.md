@@ -12,7 +12,7 @@ news_author:
 show_in_slider: true
 date: 2020-12-15T09:23:53.978Z
 ---
-While some of us will be pleased to see the back of 2020, young Whanganui artist Grace Swanston will remember it as a year of personal triumphs.
+**While some of us will be pleased to see the back of 2020, young Whanganui artist Grace Swanston will remember it as a year of personal triumphs.**
 
 In September, the **Year 13 Whanganui High School (WHS) student was named a finalist in the Wallace Secondary School Art Awards and she has now won the Whanganui Fine Arts 2020 Young Artist Scholarship Award.**
 
