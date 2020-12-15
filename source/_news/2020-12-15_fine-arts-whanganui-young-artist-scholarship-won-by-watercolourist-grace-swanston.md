@@ -13,7 +13,7 @@ news_author:
 show_in_slider: true
 date: 2020-12-15T09:23:53.978Z
 ---
-The winner of the Fine Arts Whanganui Young Artist Scholarship is Grace Swanston, a Whanganui High School student who paints in watercolour.
+**The winner of the Fine Arts Whanganui Young Artist Scholarship is Grace Swanston, a Whanganui High School student who paints in watercolour.**
 
 On display in the gallery is a framed self portrait. As part of her prize, Grace will hold a solo exhibition in the Fine Arts Whanganui Gallery next year, showing from June 24 to July 15.
 
