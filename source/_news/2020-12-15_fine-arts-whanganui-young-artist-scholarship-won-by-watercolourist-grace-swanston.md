@@ -1,10 +1,9 @@
 ---
-title: Fine Arts Whanganui Young Artist Scholarship won by watercolourist Grace
-  Swanston
+title: Grace Swanston wins Whanganui Fine Arts 2020 Young Artist Scholarship Award
 feature_image:
-  description: "A lovely sunny day, framed watercolour by Grace Swanston, winner
-    of the Fine Arts Whanganui Young Artist Scholarship. "
-  credit: Supplied
+  description: Whanganui Fine Arts 2020 Youth Scholarship winner Grace Swanston
+    with her self portrait.
+  credit: Liz Wylie
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608027488/News/Grace_Swanston._chron_14.12.20.jpg
 news_author:
   date: 2020-12-14T01:09:07.483Z
@@ -13,44 +12,48 @@ news_author:
 show_in_slider: true
 date: 2020-12-15T09:23:53.978Z
 ---
-**The winner of the Fine Arts Whanganui Young Artist Scholarship is Grace Swanston, a Whanganui High School student who paints in watercolour.**
+While some of us will be pleased to see the back of 2020, young Whanganui artist Grace Swanston will remember it as a year of personal triumphs.
 
-On display in the gallery is a framed self portrait. As part of her prize, Grace will hold a solo exhibition in the Fine Arts Whanganui Gallery next year, showing from June 24 to July 15.
+In September, the **Year 13 Whanganui High School (WHS) student was named a finalist in the Wallace Secondary School Art Awards and she has now won the Whanganui Fine Arts 2020 Young Artist Scholarship Award.**
 
-Her prize was awarded at a ceremony last Friday.
+Her winning entry is a watercolour self-portrait which is one of a series she completed for her NCEA portfolio this year.
 
-Jim Norris, chairman of Fine Arts Whanganui Collective, opened the evening and told the audience in the collective's original mission statement it was stated that there was a determination to encourage the development of talented young artists in the Whanganui, Rangitikei and Ruapehu districts.
+"It is one of the later ones in the series which has some optimism to it," Grace said.
 
-This scholarship, he said, is intended to do that by providing them with an opportunity to experience both the process of preparing for a juried exhibition and the pleasure that can come with seeing their work on the walls in a public art gallery.
+"The series moves through a range of moods and emotions I was experiencing."
 
-The winner receives a cash prize and the further valuable experience of a solo exhibition in the Fine Arts Whanganui Gallery.
+The painting shows the artist with one hand raised to her forehead, gazing towards the viewer.
 
-"Art has been a huge part of my daily routine for many years now," says Grace in her artist statement. "Drawing till ridiculous hours of the night 'because I'm in the zone' and constantly hunched over on my desk is definitely my new normal. There is something about it that is so therapeutic. Hours pass by without me noticing.
+The light and shadows in the painting are beautifully rendered and we see the fine hairs on her forearm highlighted in delicate brushwork. The realism is balanced by tiny goldfishes swimming through the background of the painting.
 
-"When I'm feeling stressed or anxious it's the one thing I come back to as there is something so rewarding in being able to sit down and create.
+It is easy to see why judges Sietske Jansma and Anique Jayasinghe selected the painting as the winner from an impressive selection of work submitted by 11 artists this year.
 
-"Personally, I am a huge fan of graphite and watercolour. I love the control you can get with graphite and the looseness with watercolour. My two favourite artists are Michael Borremans, specifically his coffee and watercolour works, and Miles Johnston for his breathtaking graphite works.
+Fine Arts Whanganui first offered the scholarship in 2017, with WHS student **Mikayla Baldwin** the inaugural winner. **Lily Claypole** (WHS) was the winner in 2018 and last year's winner was Whanganui Girls' College student Tsubaki Scythe who held her solo exhibition in June this year.
 
-"I have high goals for both my academic and artistic success. I am currently enrolled to do a Bachelor of Arts majoring in psychology. With my degree I really want to help people with the end goal of hopefully becoming a clinical psychologist. In my opinion psychology and visual arts go hand in hand.
+Each year, the winner receives a $1000 cash prize and members of the Whanganui Fine Arts Collective support them to prepare for a solo exhibition of their work at the Taupō Quay gallery.
 
-"Learning more about psychology has highly influenced the way I approach art. I want to create art that means something, that is my biggest goal."
+Gallery visitors also get to vote for a People's Choice award of $200 and this year's winner is Zoe Bracegirdle.
 
-Judges for the scholarship were Sietske Jansma (Sarjeant Gallery) and Anique Jayasinghe (arts co-ordinator at Whanganui Holdings) Presenting the awards, Sietske Jansma congratulated all the entrants, who she said had achieved a standard of work that provided the highest general quality that had been seen in the Fine Arts Whanganui Young Artist Scholarships to date.
+There were also some highly commended categories this year as the quality of submissions was of an especially high standard.
 
-She emphasised the difficulty the judges encountered in selecting an ultimate winner from the top four entries, all of which had achieved a very high standard, both in the artworks displayed and in the folios of work that are submitted as a condition of the entry.
+Collective chairman Craig Hooker said it has been fantastic to see the quality of work submitted each year.
 
-Three Distinction Certificates were awarded to: Ani Latus, an oil painter; Stella Howe, Whanganui Girls College, printmaker, and **Zoe Bracegirdle, Whanganui High School, photographer.**
+"When we formed the collective and opened the gallery in 2015, we wanted to make nurturing emerging artists a part of what we do.
 
-During the exhibition, which showed at 17 Taupo Quay from November 14 to December 4, entries were also eligible for a People's Choice Award of $200, sponsored by Renata's Art and Framing.
+"All the winners have sold most of their work at their solo shows and it is so good to see them getting that encouragement from the community and a fair number of out of town visitors purchased some as well."
 
-This award is decided by votes cast by gallery visitors during the exhibition. The portfolios were available for inspection during this period, as well as a framed work by each artist which is on show in the gallery.
+Hooker said the collective was adjusting the submission dates for next year so they aligned better with the NCEA schedule which would allow more young artists to enter.
 
-The winner of Renata's Art and Framing People's Choice Award was photographer Zoe Bracegirdle.
+The collective line-up of 12 artists has changed personnel over five years and Hooker is the only original member as they celebrate their fifth anniversary.
 
-Zoe was in Australia at the time of the awards evening and so was unable to be present at the presentation. However, courtesy of her two younger sisters who attended, and Facetime, Zoe did hear the entire presentation programme including the remarks of Renata Szarvas, who announced the presentation.
+"Individual artists have set up their own studios or moved on to other things but we haven't had trouble recruiting new members so it is working well.
 
-Her pleasure and excitement at receiving the Peoples Choice was clear and heard by all at the presentations and by Renata as she made the announcement.
+"Each new artist brings something unique to the collective."
 
-The 2020 Young Artist Scholarship provided a very successful exhibition and an enjoyable awards evening. The exhibition has been left up in the Fine Arts Whanganui Gallery and is available for a short extended period for those who have missed it.
+Swanston has enrolled to study psychology at Massey University in Palmerston North next year.
 
+"I won't stop doing art and I might look at specialising in art therapy eventually," she said.
 
+"I will always want to do art - it is always the first thing I do when I get home and I'm happy to work anywhere.
+
+'If I don't have a space I'm happy to work on the lounge floor."
