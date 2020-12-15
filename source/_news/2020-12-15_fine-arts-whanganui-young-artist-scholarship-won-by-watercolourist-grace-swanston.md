@@ -11,6 +11,8 @@ news_author:
   name: Liz Wylie
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608027488/News/Grace_Swanston._chron_14.12.20.jpg
+    description: A lovely sunny day, framed watercolour by Grace Swanston, winner of
+      the Fine Arts Whanganui Young Artist Scholarship. Photo / Supplied.
 show_in_slider: true
 date: 2020-12-15T09:23:53.978Z
 ---
