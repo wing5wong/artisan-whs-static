@@ -39,7 +39,7 @@ Judges for the scholarship were Sietske Jansma (Sarjeant Gallery) and Anique Jay
 
 She emphasised the difficulty the judges encountered in selecting an ultimate winner from the top four entries, all of which had achieved a very high standard, both in the artworks displayed and in the folios of work that are submitted as a condition of the entry.
 
-Three Distinction Certificates were awarded to: Ani Latus, an oil painter; Stella Howe, Whanganui Girls College, printmaker, and Zoe Bracegirdle, Whanganui High School, photographer.
+Three Distinction Certificates were awarded to: Ani Latus, an oil painter; Stella Howe, Whanganui Girls College, printmaker, and **Zoe Bracegirdle, Whanganui High School, photographer.**
 
 During the exhibition, which showed at 17 Taupo Quay from November 14 to December 4, entries were also eligible for a People's Choice Award of $200, sponsored by Renata's Art and Framing.
 
