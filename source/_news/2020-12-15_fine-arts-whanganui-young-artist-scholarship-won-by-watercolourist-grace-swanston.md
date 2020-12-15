@@ -5,6 +5,7 @@ feature_image:
   description: "A lovely sunny day, framed watercolour by Grace Swanston, winner
     of the Fine Arts Whanganui Young Artist Scholarship. "
   credit: Supplied
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608027488/News/Grace_Swanston._chron_14.12.20.jpg
 news_author:
   date: 2020-12-14T01:09:07.483Z
   publication: Whanganui Chronicle
