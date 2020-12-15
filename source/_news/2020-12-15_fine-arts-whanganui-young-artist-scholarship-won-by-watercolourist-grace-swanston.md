@@ -9,12 +9,14 @@ news_author:
   date: 2020-12-14T01:09:07.483Z
   publication: Whanganui Chronicle
   name: Liz Wylie
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608027488/News/Grace_Swanston._chron_14.12.20.jpg
 show_in_slider: true
 date: 2020-12-15T09:23:53.978Z
 ---
 **While some of us will be pleased to see the back of 2020, young Whanganui artist Grace Swanston will remember it as a year of personal triumphs.**
 
-In September, the **Year 13 Whanganui High School (WHS) student was named a finalist in the Wallace Secondary School Art Awards and she has now won the Whanganui Fine Arts 2020 Young Artist Scholarship Award.**
+**In September, the Year 13 Whanganui High School (WHS) student was named a finalist in the Wallace Secondary School Art Awards and she has now won the Whanganui Fine Arts 2020 Young Artist Scholarship Award.**
 
 Her winning entry is a watercolour self-portrait which is one of a series she completed for her NCEA portfolio this year.
 
