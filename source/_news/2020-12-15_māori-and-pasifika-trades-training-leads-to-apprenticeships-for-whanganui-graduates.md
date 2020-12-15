@@ -21,7 +21,7 @@ Wanganui Toyota service manager Shane Jordan is happy to welcome two enthusiasti
 
 "They both spent three months here getting experience during their training and proved that they can hack it."
 
-Thornby-Reid (ex WHS student)said he presented his CV to Jordan before completing his certificate because he knew he liked the workplace.
+Thornby-Reid (ex WHS student) said he presented his CV to Jordan before completing his certificate because he knew he liked the workplace.
 
 "When I was a young kid I never saw the appeal of cars and engines but when I was 16, my brother blew the radiator in his car and I worked out how to fix it.
 
