@@ -24,7 +24,7 @@ Aircraftman Chapman, 20, was born in Britain but spent most of his life in Kuwai
 
 "As a kid from Kuwait that used to watch stealth bombers fly over me, I never thought I'd be part of an air force."
 
-He spent his teenage years in Whanganui, where he attended Whanganui High School.
+He spent his teenage years in Whanganui, where he attended **Whanganui High School**.
 
 "I did the fly overs for the Anzac parades in Whanganui with the local flying club in 2017-18."
 
