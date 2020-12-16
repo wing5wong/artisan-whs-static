@@ -7,7 +7,7 @@ feature_image:
     Wanganui Toyota after completing training at UCOL Whanganui.
   credit: Bevan Conley
 news_author:
-  date: 2020-12-11T10:04:17.687Z
+  date: 2020-12-16T10:04:17.687Z
   publication: Whanganui Chronicle
   name: Liz Wylie
 show_in_slider: false
