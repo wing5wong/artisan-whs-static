@@ -15,7 +15,7 @@ image_gallery:
 show_in_slider: true
 date: 2020-12-16T03:23:20.148Z
 ---
-**Congratulations to our Whanganui High School Mixed Touch Team.**  
+**Congratulations to our Whanganui High School Mixed Touch Team..**  
 **NZ Secondary Schools Touch Nationals - Pakiaka Shield Winners 2020.** 👏🏽🏉💚💛  
 
 **Great work team!!!!** 👏👏  
