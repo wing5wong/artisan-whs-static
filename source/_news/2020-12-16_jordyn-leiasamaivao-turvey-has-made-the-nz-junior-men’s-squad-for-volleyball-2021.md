@@ -1,6 +1,6 @@
 ---
 title: Jordyn Leiasamaivao-Turvey has made the NZ Junior Men’s Squad for
-  Volleyball 2021
+  Volleyball 2021!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608088790/News/Jordyn_Leiasamaivao_-_Turvey_who_has_just_made_the_NZ_Junior_Men_s_Squad_for_Volleyball_for_2021..jpg
   description: Jordyn Leiasamaivao-Turvey
