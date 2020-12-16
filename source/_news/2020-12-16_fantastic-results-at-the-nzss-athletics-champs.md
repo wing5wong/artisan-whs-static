@@ -12,11 +12,11 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092569/News/130484026_1760102470805518_5206420259641387935_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092691/News/131037473_1760102610805504_5389563541831108128_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092604/News/130770368_1760102567472175_4763081453752150041_o.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092712/News/131441464_1760102507472181_6260440450404324530_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092583/News/130581816_1760102484138850_2545589351668599200_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092483/News/130817068_1760102574138841_386092397805815124_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092628/News/130815686_1760102547472177_1619882197971557629_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092465/News/130809487_1760102570805508_1692311721143733312_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092712/News/131441464_1760102507472181_6260440450404324530_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092672/News/130865100_1760102510805514_3455555566020360614_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092441/News/130605509_1760102584138840_8344464241580736114_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608092523/News/131416213_1760102604138838_4515851139239061840_o.jpg
