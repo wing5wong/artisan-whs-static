@@ -1,5 +1,5 @@
 ---
-title: WHS Mixed Touch Team - Winners of the Pakiaka Shield 2020
+title: WHS Mixed Touch Team - Winners of the Pakiaka Shield 2020!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608089219/News/131418104_1759991807483251_8090786909347275338_o.jpg
   description: Captains Tyrese Herewini-Lama and Mikayla Heka holding the shield.
