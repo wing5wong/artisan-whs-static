@@ -5,7 +5,7 @@ feature_image:
   credit: Supplied
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608024743/News/Henry_Chapman_chron_dec_2020.jpg
 news_author:
-  date: 2020-12-09T09:37:39.156Z
+  date: 2020-12-16T09:37:39.156Z
   publication: Whanganui Midweek
 show_in_slider: false
 date: 2020-12-15T09:37:39.366Z
