@@ -1,5 +1,5 @@
 ---
-title: Day 2 - NZSS Touch Nationals
+title: NZSS Touch Nationals - Day 2
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608089548/News/130748101_1759099907572441_7084453095074351904_o.jpg
 news_author:
@@ -15,8 +15,6 @@ image_gallery:
 show_in_slider: true
 date: 2020-12-16T03:31:51.208Z
 ---
-Day 2 - NZSS Touch Nationals.  
-
 First game win this morning to WHS 9-1 against Ngaruawahia High School! 👏  
 Whanganui High School vs Central Hawkes Bay College.  Another win for WHS 9-1. 👏  
 Last game of the day. Another win 14-4 against Coromandel Area School. 👏  
