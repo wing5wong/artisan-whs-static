@@ -2,6 +2,7 @@
 title: WHS Rowing Raffle winners
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608087718/News/129740293_1756849311130834_3145426059097430196_o.jpg
+  description: Bruce Tonkin, Tania Taylor and Roos van der Wees.
 news_author:
   date: 2020-12-09T03:01:10.956Z
   name: "Lisa Murphy "
