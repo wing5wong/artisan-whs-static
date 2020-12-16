@@ -1,7 +1,7 @@
 ---
 title: "NZSS Athletic Nationals Update - Day 2 "
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608091363/130285039_1759197487562683_1944987008209160840_o.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608091726/News/130285039_1759197487562683_1944987008209160840_o.jpg
 news_author:
   date: 2020-12-12T03:46:29.744Z
   name: Lisa Murphy
