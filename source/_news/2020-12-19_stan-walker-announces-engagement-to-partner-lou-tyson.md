@@ -7,7 +7,7 @@ feature_image:
 news_author:
   date: 2020-12-14T10:26:31.521Z
   publication: Whanganui Chronicle
-show_in_slider: true
+show_in_slider: false
 date: 2020-12-19T10:27:21.517Z
 ---
 Stan Walker and Lou Tyson are engaged.
