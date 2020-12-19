@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608367264/News/Chase_Morpeth_Dec_2020.jpg
   description: Chase with his impressive trophy.
 news_author:
-  date: 2020-12-19T08:40:14.829Z
+  date: 2020-12-14T08:40:14.829Z
 show_in_slider: false
 date: 2020-12-19T08:40:15.004Z
 ---
