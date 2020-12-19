@@ -6,7 +6,7 @@ feature_image:
     won the 300 hurdles in her senior debut with an impressive personal best. "
   credit: Supplied
 news_author:
-  date: 2020-12-19T08:19:18.697Z
+  date: 2020-12-17T08:19:18.697Z
   publication: Whanganui Chronicle
   name: Alec McNab
 show_in_slider: false
