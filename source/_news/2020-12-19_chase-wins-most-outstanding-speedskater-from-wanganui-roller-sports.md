@@ -2,6 +2,7 @@
 title: Chase wins Most Outstanding Speedskater, Speed Section
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1608367264/News/Chase_Morpeth_Dec_2020.jpg
+  description: Chase with his trophy.
 news_author:
   date: 2020-12-19T08:40:14.829Z
 show_in_slider: false
