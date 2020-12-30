@@ -4,8 +4,8 @@ title: Alec McNab reflects on the rich promise shown by athletes outside the
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1609290350/News/website-logo-refreshed.gif
 news_author:
-  date: 2020-12-23T00:59:15.734Z
-  name: Alec McNab
+  date: 2020-12-24T00:59:15.734Z
+  name: Alec McNab, Athletics Insight
   publication: Whanganui Chronicle
 show_in_slider: false
 date: 2020-12-30T00:59:15.802Z
