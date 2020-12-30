@@ -3,7 +3,9 @@ title: Under-17s aim to cause CD upsets
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1609316191/News/cricket-300x300_orig.jpg
 news_author:
-  date: 2020-12-30T08:12:30.390Z
+  date: 2020-12-15T08:12:30.390Z
+  publication: Whanganui Chronicle
+  name: Jordan Healy, Cricket
 show_in_slider: false
 date: 2020-12-30T08:12:31.416Z
 ---
