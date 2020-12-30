@@ -1,5 +1,5 @@
 ---
-title: "2020 Boxing Day Cemetery Circuit results    "
+title: "Results of former students - 2020 Boxing Day Cemetery Circuit   "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1609288004/News/Sam_Willacy_photo_Grahams_Glimpses_photography.jpg
   credit: Grahams Glimpses Photography
