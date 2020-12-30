@@ -39,7 +39,7 @@ Super Motard
 14th Alex Luff-Scott (622)  
 
 F1 Superbikes  
-5th Richie Dibben (91) 33 points  
+5th Richie Dibben (91) 33 points - F1 debut
 
 Robert Holden Memorial Race  
 7th Richie Dibben (91)  
