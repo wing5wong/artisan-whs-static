@@ -1,5 +1,7 @@
 ---
 title: "Speedway: Demolition expected at Oceanview in Whanganui"
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574726372/News/Oceanview_speedway_image.jpg
 news_author:
   date: 2020-12-19T08:37:17.113Z
   publication: Whanganui Chronicle
