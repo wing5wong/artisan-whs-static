@@ -10,6 +10,7 @@ feature_image:
 news_author:
   date: 2020-12-10T08:30:32.837Z
   publication: Whanganui Chronicle
+  name: Andy McGechan, Motorcycling
 show_in_slider: false
 date: 2020-12-10T08:30:33.016Z
 ---
@@ -31,4 +32,4 @@ Tarbon Walker (Kawasaki ZX 600cc) suffered mapping issues that forced him to pul
 
 The popular Motard class features a number of Whanganui racers, although none finished among the leading bunch at Taupo.
 
-Class leaders after the first of three rounds of the Suzuki International Series are Christchurch's Alastair Hoogenboezem (Formula One); Upper Hutt's Rogan Chandler (Formula Two); Nikau Valley's Richard Markham-Barrett and Whagamata's Jarad Horn (first equal in Formula Three); Markham-Barrett (Bears Senior); Te Awamutu's Stephen Bates (Bears Junior); Christchurch's **Caleb Gilmore** (GIXXER 150 Cup); Pukekohe's Matt Eggleton (Post Classics, pre-89 Senior); Ngaruawahia's Steve Bridge (Post Classics, pre-89 Junior); Tauranga's Barry Smith and Stu Dawe (F1 Sidecars); Albany's Mark Halls and Michelle MacLean (F2 Sidecars); Taumarunui's Jette Josiah (Super Motard); Caleb Gilmore and Timaru's Harry Parker (first equal in Supersport 300).
+Class leaders after the first of three rounds of the Suzuki International Series are Christchurch's Alastair Hoogenboezem (Formula One); Upper Hutt's Rogan Chandler (Formula Two); Nikau Valley's Richard Markham-Barrett and Whagamata's Jarad Horn (first equal in Formula Three); Markham-Barrett (Bears Senior); Te Awamutu's Stephen Bates (Bears Junior); Christchurch's **Caleb Gilmore** (GIXXER 150 Cup); Pukekohe's Matt Eggleton (Post Classics, pre-89 Senior); Ngaruawahia's Steve Bridge (Post Classics, pre-89 Junior); Tauranga's Barry Smith and Stu Dawe (F1 Sidecars); Albany's Mark Halls and Michelle MacLean (F2 Sidecars); Taumarunui's Jette Josiah (Super Motard); **Caleb Gilmore** and Timaru's Harry Parker (first equal in Supersport 300).
