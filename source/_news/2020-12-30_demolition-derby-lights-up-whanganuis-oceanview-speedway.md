@@ -44,7 +44,7 @@ Grant Loveridge won the first two Production Saloon races, the second race after
 
 All three drivers will be ones to watch at the Tom Francis Builders New Zealand Production Saloon Championship at Oceanview on January 22-23, 2021.
 
-Jesse Whelan and Trent James won the two Youth Ministock races that were completed. The third and final heat was abandoned by the Speedway New Zealand referees after three unsuccessful attempts to get the race under way; a reminder to the drivers that theirs is a non-contact class.
+Jesse Whelan and **Trent James** won the two Youth Ministock races that were completed. The third and final heat was abandoned by the Speedway New Zealand referees after three unsuccessful attempts to get the race under way; a reminder to the drivers that theirs is a non-contact class.
 
 A small field of Minisprints took advantage of the opportunity to get track time ahead of the Dewtec New Zealand Minisprint Championship at Whanganui on Saturday, March 9.
 
