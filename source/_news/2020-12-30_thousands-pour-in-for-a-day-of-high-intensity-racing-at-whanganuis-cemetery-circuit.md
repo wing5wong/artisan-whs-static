@@ -2,7 +2,8 @@
 title: Thousands pour in for a day of high intensity racing at Whanganui's
   Cemetery Circuit
 feature_image:
-  description: "Father and son Jacob Wyeth and Luka Wyeth with their eyes on bikes. "
+  description: "Father and son Jacob Wyeth (ex WHS student) and Luka Wyeth with
+    their eyes on bikes. "
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1609320041/News/Jacob_Wyeth._chron_28.12.20.jpg
   credit: Lewis Gardner
 news_author:
