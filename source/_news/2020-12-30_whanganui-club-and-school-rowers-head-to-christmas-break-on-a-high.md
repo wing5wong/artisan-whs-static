@@ -1,5 +1,7 @@
 ---
 title: Whanganui club and school rowers head to Christmas break on a high
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1609323858/News/row_it_nz.png
 news_author:
   date: 2020-12-24T09:48:22.349Z
   name: Phillippa Baker-Hogan
