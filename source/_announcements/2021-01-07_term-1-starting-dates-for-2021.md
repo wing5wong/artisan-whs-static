@@ -7,6 +7,10 @@ date: 2021-01-07T00:04:19.802Z
 
 **Year 9 and Year 13 students, and new students from all other year levels.**  
 
+A powhiri for new students and staff will be held at 9.00am in the School Hall. Please assemble by 8.45am in the school grounds outside the School Hall. Prefects will be on duty to assist.  
+Parents/caregivers are very welcome to attend.
+  
+
 #### Tuesday 2 February 2021  
 
 **ALL year levels starting at 8.45am.** 
