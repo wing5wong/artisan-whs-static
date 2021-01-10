@@ -50,19 +50,19 @@ The Masters Women's grade was dominated by Wanganui's Krystine Davies with her d
 
 The primary grades featured great racing, with Eden Wason winning gold in the 400m flat track and taking second overall behind South Canterbury's Mia Rich in the girls and Caleb Valentine third in the Boys to Manawatū's Tane Garcia-Soto.
 
-The Marathon featured gutsy wins to South Canterbury's Keaton Swindells in the Men's and Charlotte Clarke in the Women's while Wanganui's Josh Valentine dominated the Junior Boys' Half Marathon and Nelson's Mikaela MacDonald the Girls'.
+The Marathon featured gutsy wins to South Canterbury's Keaton Swindells in the Men's and Charlotte Clarke in the Women's while Wanganui's **Josh Valentine dominated the Junior Boys' Half Marathon** and Nelson's Mikaela MacDonald the Girls'.
 
 The best racing of the championships was seen in the relay races.
 
-The flat track mixed senior team relay was the highlight of the championships. The Wanganui team of **Chase Morpeth**, Andrew Jones, Krystine Davies and Melissa Allen led out early after a stunning charge to the lead by Morpeth and then seemed to have the race in the bag when South Canterbury's Keaton Swindells fell while running second.
+The flat track mixed senior team relay was the highlight of the championships. The Wanganui team of **Chase Morpeth**, Andrew Jones, Krystine Davies and Melissa Allen led out early after a stunning charge to the lead by **Morpeth** and then seemed to have the race in the bag when South Canterbury's Keaton Swindells fell while running second.
 
 However, Swindells - despite being in considerable pain - got back up and his team of Kaylum McAuley, Charli Nevin and Roshean O'Conner staged a fightback that saw them take the lead on the final exchange and claim an astonishing victory in front of an hysterical crowd.
 
 For their performance, the South Canterbury team won the Oscar award for an outstanding performance.
 
-Wanganui got plenty of consolation, with a win in the Road Junior Boys relay to Josh Valentine, Braydon Wason and Mickey Zhang. The Junior Girls team took a fine silver with Tazia Parker, Gabby Valentine and Mikayla Wason.
+Wanganui got plenty of consolation, with a win in the Road Junior Boys relay to **Josh Valentine**, Braydon Wason and Mickey Zhang. The Junior Girls team took a fine silver with Tazia Parker, Gabby Valentine and Mikayla Wason.
 
-On the Flat Track, the Junior Mixed team of Josh Valentine, Mickey Zhang, Tazia Parker and Gabby Valentine went one better than the seniors and claimed the gold.
+On the Flat Track, the Junior Mixed team of **Josh Valentine**, Mickey Zhang, Tazia Parker and Gabby Valentine went one better than the seniors and claimed the gold.
 
 The Wanganui Boys team won the Junior Boys team relay, with Austin Clifford stepping in to fill the big shoes of Josh Valentine and join Mickey Zhang and Braydon Wason on top of the podium.
 
