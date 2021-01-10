@@ -2,7 +2,7 @@
 title: "Speed Skating Nationals 2021: Chase Morpeth was crowned Junior Boys Champion"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610267238/News/Chase_Morpeth_was_crowned_Junior_Boys_champion_at_the_2021_Speed_Skating_Nationals.jpg
-  description: "Whanganui's Chase Morpeth was crowned Junior Boys champion at the
+  description: "Whanganui's Chase Morpeth was crowned Junior Boys Champion at the
     2021 Speed Skating Nationals in his hometown. "
   credit: Bevan Conley
 news_author:
