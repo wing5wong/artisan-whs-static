@@ -3,7 +3,7 @@ title: Pakiaka Grade Winners!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610264293/News/Mixed_Touch_Team._Winners_of_the_Pakiaka_Grade.jpg
 news_author:
-  date: 2021-01-10T07:36:32.725Z
+  date: 2021-01-09T07:36:32.725Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
 extracurricular_areas:
@@ -19,5 +19,5 @@ End of an era for our Y13 students also! 💚💛
 
 
 
-<https://www.facebook.com/WhanganuiHigh/>    \
+<https://www.facebook.com/WhanganuiHigh/>      
 (Thanks to Mike Lama for the video) 👌🏻😊
