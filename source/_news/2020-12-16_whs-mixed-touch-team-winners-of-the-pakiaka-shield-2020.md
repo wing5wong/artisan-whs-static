@@ -20,7 +20,7 @@ date: 2020-12-16T03:23:20.148Z
 
 **Great work team!!!!** 👏👏  
 
-Thank you Sheree Herewini for the photos! 👍
+(Thank you Sheree Herewini for the photos!) 👍
 
 
 End of an era for our Y13 students also! 💚💛  
