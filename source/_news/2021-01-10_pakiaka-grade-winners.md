@@ -16,3 +16,8 @@ date: 2021-01-10T07:36:33.572Z
 Great way to finish the 2020 season for our Mixed Touch Team. Winners of the Pakiaka Grade at the NZSS Nationals in December.
 
 End of an era for our Y13 students also! 💚💛
+
+
+
+<https://www.facebook.com/WhanganuiHigh/>    \
+(Thanks to Mike Lama for the video) 👌🏻😊
