@@ -38,7 +38,7 @@ Georgia Hurley, of Valley Inline, won the Senior Women's grade from South Canter
 
 **Morpeth won four golds and a stunning silver in the Open 10K indoors behind Beech, while Brennan picked up four silvers and two bronze.**
 
-Wanganui was strongly represented in the Cadet Girls where Nelson's Mikaela MacDonald won the overall in an epic battle from Wanganui's Tazia Parker with only four points separating them at the end. Parker took wins in the 500M Road and 300MTT and 1500M Indoor.
+Wanganui was strongly represented in the Cadet Girls where Nelson's Mikaela MacDonald won the overall in an epic battle from Wanganui's **Tazia Parker** with only four points separating them at the end. **Parker took wins in the 500M Road and 300MTT and 1500M Indoor.**
 
 Gabby Valentine picked up a silver in the 300M TT and **Keria Brennan and Mikayla Wason** battled hard all nationals. Newcomer Sophie Liang was a real surprise package, picking up speed as the racing progressed and has the look of a potential champion.
 
