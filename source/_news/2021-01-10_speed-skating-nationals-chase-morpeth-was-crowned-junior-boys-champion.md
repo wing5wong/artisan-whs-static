@@ -54,9 +54,9 @@ The Marathon featured gutsy wins to South Canterbury's Keaton Swindells in the M
 
 The best racing of the championships was seen in the relay races.
 
-The flat track mixed senior team relay was the highlight of the championships. The Wanganui team of Chase Morpeth, Andrew Jones, Krystine Davies and Melissa Allen led out early after a stunning charge to the lead by Morpeth and then seemed to have the race in the bag when South Canterbury's Keaton Swindells fell while running second.
+The flat track mixed senior team relay was the highlight of the championships. The Wanganui team of **Chase Morpeth**, Andrew Jones, Krystine Davies and Melissa Allen led out early after a stunning charge to the lead by Morpeth and then seemed to have the race in the bag when South Canterbury's Keaton Swindells fell while running second.
 
-However, Swindells - despite being in considerable pain - got back up and his team of Kaylum McAuley, Charli Nevin and Roshean O' Conner staged a fightback that saw them take the lead on the final exchange and claim an astonishing victory in front of an hysterical crowd.
+However, Swindells - despite being in considerable pain - got back up and his team of Kaylum McAuley, Charli Nevin and Roshean O'Conner staged a fightback that saw them take the lead on the final exchange and claim an astonishing victory in front of an hysterical crowd.
 
 For their performance, the South Canterbury team won the Oscar award for an outstanding performance.
 
@@ -68,5 +68,5 @@ The Wanganui Boys team won the Junior Boys team relay, with Austin Clifford step
 
 The Junior Girls followed suit, with Tazia Parker, Keira Brennan and newcomer Sophie Liang taking the gold. The Senior Men's team got redemption for the mixed seniors loss to South Canterbury.
 
-In an incredibly even and talented field, Andrew Jones, Chase Morpeth and Drew Brennan came home ahead of South Canterbury's Keaton Swindells, Kaylon McAuley and Jan – Henrik Kuepper, with Southern Speeds Hadley Beech and Brett and Mark McCormack third.
+In an incredibly even and talented field, Andrew Jones, **Chase Morpeth and Drew Brennan** came home ahead of South Canterbury's Keaton Swindells, Kaylon McAuley and Jan – Henrik Kuepper, with Southern Speeds Hadley Beech and Brett and Mark McCormack third.
 
