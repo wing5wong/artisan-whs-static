@@ -15,11 +15,11 @@ date: 2021-01-10T09:22:26.076Z
 ---
 Two young men are alive to welcome the new year thanks to the quick actions of four young surf lifesavers at Kai iwi beach on Wednesday.
 
-"A guy was really drunk and he was trying to float in the water on an airbed," lifeguard Layton Comp said.
+"A guy was really drunk and he was trying to float in the water on an airbed," lifeguard **Layton Comp** said.
 
 "His mate tried to swim out and save him and got into trouble as well."
 
-Comp, who is newly qualified this year, launched the inflatable rescue boat (IRB) along with his teammates Mia Gemmell, Phoenix Grammaticogiannis and Geoff Karipa.
+**Comp**, who is newly qualified this year, launched the inflatable rescue boat (IRB) along with his teammates Mia Gemmell, **Phoenix Grammaticogiannis** and Geoff Karipa.
 
 "We knew the guy who had fallen off the airbed was likely to be a dead weight and he was," Karipa said.
 
