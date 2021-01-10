@@ -22,6 +22,6 @@ date: 2020-12-16T03:23:20.148Z
 
 Thank you Sheree Herewini for the photos! 👍
 
-[https://www.facebook.com/WhanganuiHigh/](https://www.facebook.com/168112976671150/videos/155452669433787)\
+\
 End of an era for our Y13 students also! 💚💛\
-(Thanks to Mike Lama for the above video) 👌🏻😊
+[Thanks to Mike Lama for this video](https://www.facebook.com/watch/?v=155452669433787) 👌🏻😊
