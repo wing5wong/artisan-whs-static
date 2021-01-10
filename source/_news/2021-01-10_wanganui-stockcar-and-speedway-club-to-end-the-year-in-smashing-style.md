@@ -31,9 +31,9 @@ In the years prior to his untimely death in October 2015, Charlie was the patron
 
 More than 30 cars had already entered this year's Charlie at the time of writing, with more entries expected.
 
-Topping the bill are last year's winner Kaelin Mooney (26V) and his father Dion (6V), a two-time winner of the unique trophy.
+Topping the bill are last year's winner **Kaelin Mooney (26V)** and his father Dion (6V), a two-time winner of the unique trophy.
 
-Other locals in with a chance include Mark Johnston (78V), Callum Sturzaker (15V), Blair Lockett (89V) and former 1NZ Gerry Linklater (98V).
+Other locals in with a chance include **Mark Johnston (78V), Callum Sturzaker (15V)**, Blair Lockett (89V) and former 1NZ Gerry Linklater (98V).
 
 A number of Palmerston North, Stratford and Hawke's Bay cars have entered, while the father-and-son team of Les Hepworth (22M) and Hayden Hepworth (922M) will also be in attendance.
 
