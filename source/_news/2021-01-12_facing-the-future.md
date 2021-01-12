@@ -86,7 +86,7 @@ There would be nine university papers to complete in his first year, Daignault s
 
 “I’m keen to keep on rowing in 2021 as well. I probably can’t get involved in too many clubs and things like that though because, like I said, there's going to be a lot of maths in my future.
 
-Maori Party co-leader and MP Debbie Ngarewa-Packer said her hopes for a new year remained the same — “world peace and harmony”.
+Māori Party co-leader and MP Debbie Ngarewa-Packer said her hopes for a new year remained the same — “world peace and harmony”.
 
 “I think particularly after 2020, with Covid-19, climate strikes and Black Lives Matter, there were real highlights and emphasis on those in our community who do it hard, and the importance of being seen and being heard,” Ngarewa-Packer said.
 
@@ -96,9 +96,9 @@ Maori Party co-leader and MP Debbie Ngarewa-Packer said her hopes for a new year
 
 Ngarewa-Packer said maintaining that respect and value would put people in a much better position to face issues such as “pandemics, racism, disparities and equities”.
 
-“If 2020 has taught us anything, it’s the absolute need to look after each other. We are going to need to do that more and more as we confront some pretty unprecedented issues. This isn’t just as Aotearoa and Maori and Pakeha, but as the world.”
+“If 2020 has taught us anything, it’s the absolute need to look after each other. We are going to need to do that more and more as we confront some pretty unprecedented issues. This isn’t just as Aotearoa and Māori and Pakeha, but as the world.”
 
-Working on the ground during Covid-19 had shown Ngarewa Packer the “absolute best of us”, she said. “It was the unity of strength and the harmonisation of communities.
+Working on the ground during Covid-19 had shown Ngarewa-Packer the “absolute best of us”, she said. “It was the unity of strength and the harmonisation of communities.
 
 “We can embrace that and not forget the experiences of 2020, and use the experience of the unknown to move forward.
 
