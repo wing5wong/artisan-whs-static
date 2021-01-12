@@ -26,7 +26,7 @@ image_gallery:
 show_in_slider: false
 date: 2021-01-12T08:01:41.777Z
 ---
-**For the first time in history, one extended family has dominated the Aotearoa Māori Tennis Championship, winning all five open titles on offer at the prestigious tournament.**
+##### For the first time in history, one extended family has dominated the Aotearoa Māori Tennis Championship, winning all five open titles on offer at the prestigious tournament.
 
 The closely-related Hourigan and Butters clans gave visitors no chance in the open sections in the 2020 version of the classic tournament, this time hosted by their home club, the Wanganui Tennis Club.
 
