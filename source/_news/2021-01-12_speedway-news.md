@@ -1,5 +1,7 @@
 ---
 title: Speedway news
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574726372/News/Oceanview_speedway_image.jpg
 news_author:
   date: 2021-01-04T10:35:48.735Z
   publication: Whanganui Chronicle
@@ -29,13 +31,13 @@ Through it all, Hepworth had a dream ride, and his many years of travelling to t
 
 Heading into turn three, with the points lead firmly in his grasp, Hepworth gave Gerry Linklater (98V) a slight opening, and Linklater took the 22M car to the wall, holding him there as car after car passed.
 
-Trazarn Ryland-Annabell (33V), usually an initiator of trouble, powered away to take the race win ahead of Jessi Black (822V) and Greig. Sutton finished ninth and Hepworth finally limped across the line in 14th place.
+**Trazarn Ryland-Annabell (33V)**, usually an initiator of trouble, powered away to take the race win ahead of Jessi Black (822V) and Greig. Sutton finished ninth and Hepworth finally limped across the line in 14th place.
 
 It was an outstanding heat 3, the kind of race that would have made Charlie Berntsen grin, and was reminiscent of the final heat at the 1982 New Zealand Stockcar Championship when Evan Mooney stopped Dave Evans late in the race to allow the race to Berntsen, his proudest moment in the sport.
 
 Greig was delighted afterwards, winning his first significant championship in a long stockcar career. He was lavish in his praise for his Whanganui clubmates when accepting the Charlie Berntsen Trophy.
 
-Corey Sutton managed to finish in second place overall, and Trazarn Ryland-Annabell's last heat victory was enough to give him third place on the podium.
+Corey Sutton managed to finish in second place overall, and **Trazarn Ryland-Annabell's last heat victory was enough to give him third place on the podium.**
 
 In terms of action, the West Coast Streetstocks provided a spectacle not far behind their stockcar colleagues.
 
