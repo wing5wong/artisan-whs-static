@@ -3,7 +3,8 @@ title: Facing the future
 feature_image:
   description: "Sam Su’a is hoping to use his loft-style hair salon in Whanganui’s
     CBD as a space for collaboration in 2021. "
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610440270/News/Sam-Sua-Facing-the-future.-Chron-2.1.21.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607304415/News/Sam_Su_a._ex_Chron_5.12.20.jpg
+  credit: Bevan Conley
 news_author:
   date: 2021-01-02T08:24:16.542Z
   publication: Whanganui Chronicle
