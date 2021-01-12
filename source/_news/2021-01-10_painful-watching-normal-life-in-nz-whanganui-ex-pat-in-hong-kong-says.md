@@ -9,7 +9,7 @@ news_author:
   date: 2021-01-09T08:06:11.752Z
   publication: Whanganui Chronicle
   name: Logan Tutty
-show_in_slider: false
+show_in_slider: true
 date: 2021-01-10T08:06:11.833Z
 ---
 A Whanganui expat in Hong Kong says Covid-19 means visiting his home country will be too difficult for the foreseeable future after almost 12 months away.
