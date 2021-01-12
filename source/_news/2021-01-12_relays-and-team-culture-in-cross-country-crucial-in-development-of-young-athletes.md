@@ -1,6 +1,6 @@
 ---
-title: Relays and team culture in cross country crucial in development of young
-  athletes
+title: "Alec McNab: Relays and team culture in cross country crucial in
+  development of young athletes"
 feature_image:
   description: The Whanganui High School bronze medal winning mixed 4 x 400 junior
     relay team at the New Zealand Schools Championships.
