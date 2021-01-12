@@ -1,16 +1,18 @@
 ---
-title: Facing the future
+title: Whanganui locals look forward to 2021, hoping to put 2020 behind them
 feature_image:
   description: "Sam Su’a is hoping to use his loft-style hair salon in Whanganui’s
     CBD as a space for collaboration in 2021. "
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1607304415/News/Sam_Su_a._ex_Chron_5.12.20.jpg
-  credit: Bevan Conley
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610444579/News/sam_Sua_photo_mike_tweed_2.1.21.jpg
+  credit: Mike Tweed
 news_author:
   date: 2021-01-02T08:24:16.542Z
   publication: Whanganui Chronicle
   name: Mike Tweed
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610441335/News/Sam-Sua-Facing-the-future.-Chron-2.1.21.jpg2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610444711/News/sam_Sua_river_photo.photo_mike_tweed_2.1.21.jpg
+    description: Do calmer waters lie ahead in 2021?  Photo / Lewis Gardner.
 show_in_slider: false
 date: 2021-01-12T08:24:16.726Z
 ---
