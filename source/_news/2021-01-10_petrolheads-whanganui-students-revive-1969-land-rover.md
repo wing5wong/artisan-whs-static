@@ -12,12 +12,12 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610266774/News/Land_Rover_4.jpg
     description: The Land Rover was used on a Waitotara farm. Photo / Bevan Conley.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610266809/News/Land_Rover_3.jpg
-    description: The Land Rover's chassis was stripped bare, sandblasted and
-      spraypainted. Photo / Bevan Conley.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610266850/News/Land_Rover_2.jpg
     description: Whanganui High School students work on the Land Rover. Photo /
       Bevan Conley.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610266809/News/Land_Rover_3.jpg
+    description: The Land Rover's chassis was stripped bare, sandblasted and
+      spraypainted. Photo / Bevan Conley.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610266890/News/Land_Rover_6.jpg
     description: The Land Rover was finished and ready to drive in December 2020.
       Photo / Bevan Conley.
