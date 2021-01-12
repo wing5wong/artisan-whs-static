@@ -13,7 +13,7 @@ news_author:
 show_in_slider: false
 date: 2021-01-12T09:52:06.794Z
 ---
-Independent filmmaker Jason Ellis was born and raised in Whanganui, shooting his first home made videos in Gonville with kids from the neighbourhood. Now Wellington-based, Ellis and his friend Eli Hill have self-funded and directed their first feature length film - a mockumentary entitled 'Two Idiots and a Tin Whistle'.
+Independent filmmaker **Jason Ellis** was born and raised in Whanganui, shooting his first home made videos in Gonville with kids from the neighbourhood. Now Wellington-based, Ellis and his friend Eli Hill have self-funded and directed their first feature length film - a mockumentary entitled 'Two Idiots and a Tin Whistle'.
 
 The story revolves around two warring recorder players, Giovani and Freddie, as they compete for a scholarship to a prestigious music academy. The pair, along with several other characters, are put through a boot camp, a performance at the local pub, and a final judged performance.
 
