@@ -32,11 +32,11 @@ In looking at New Zealand rankings last week I highlighted two former Whanganui 
 
 In my review of this year's New Zealand Schools Championships, I highlighted a number of athletes who finished close to medals competing in finals. Among these were Josephine Perkins who two years earlier gained confidence and reward as a member of a medal-winning road race team.
 
-Others this year such as Flynn Johnston not only finished 4th in the 300m hurdles but was in the 6th-placed Whanganui High School 4 x 100 team and the 4th-placed 4 x 400 team to round off a profitable weekend that will be confidence building for 2021.
+Others this year such as **Flynn Johnston** not only finished 4th in the 300m hurdles but was in the 6th-placed Whanganui High School 4 x 100 team and the 4th-placed 4 x 400 team to round off a profitable weekend that will be confidence building for 2021.
 
-I am delighted that Whanganui High School have adopted a relay policy and were rewarded by their efforts. The mixed junior team 4 x 400 of Teresa Rennie, Alistair Cameron, Carrie Rennie and Thomas Gowan took the bronze medal.
+**I am delighted that Whanganui High School have adopted a relay policy and were rewarded by their efforts. The mixed junior team 4 x 400 of Teresa Rennie, Alistair Cameron, Carrie Rennie and Thomas Gowan took the bronze medal.**
 
-The senior Whanganui High School 4 x 100 team of Paris Munro, Cassie Glentworth, Charlotte Baker and Maggie Jones took the baton round in 50.62 for fourth, a place shared by their senior boys 4 x 400 team of Jakob Moorhouse, Nat Kirk, Flynn Johnston and Ryan Bayler.
+**The senior Whanganui High School 4 x 100 team of Paris Munro, Cassie Glentworth, Charlotte Baker and Maggie Jones took the baton round in 50.62 for fourth, a place shared by their senior boys 4 x 400 team of Jakob Moorhouse, Nat Kirk, Flynn Johnston and Ryan Bayler.**
 
 Other Whanganui High School combinations finished 6th in the senior 4 x 100, 7th in the junior girls 4 x 400, senior girls 4 x 400 and mixed senior 4 x 400 relay,
 
