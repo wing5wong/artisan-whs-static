@@ -1,5 +1,15 @@
 ---
 title: Facing the future
+feature_image:
+  description: Do calmer waters lie ahead in 2021? Cameron Daignault is hoping
+    there won’t be any lockdowns in 2021, so he can get stuck into studying at
+    the University of Canterbury. Aside from attending to Whanganui District
+    Council business, Mayor Hamish Mcdouall has two long-term writing projects
+    he wants to finish in 2021. Whanganui MP Steph Lewis is hoping to strike a
+    balance in 2021. Sam Su’a is hoping to use his loft-style hair salon in
+    Whanganui’s CBD as a space for collaboration in 2021. Debbie NgarewaPacker
+    says the key to recovering from Covid-19 is “unity of strength and the
+    harmonisation of communities”.
 news_author:
   date: 2021-01-02T08:24:16.542Z
   publication: Whanganui Chronicle
