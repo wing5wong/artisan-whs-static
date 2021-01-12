@@ -44,7 +44,7 @@ Harrison has been offered three tennis university scholarships to the states and
 
 Kyle Butters has won the Māori tournament men's singles title seven times.
 
-He then teamed up with his older brother, Sam, in the men's doubles final to beat a talented pairing from Waikato and Hawke's Bay, of River Apatu and Phillip Warren 6/1 6/2. **This was the Butters brothers' fourth Māori doubles title.**
+**He then teamed up with his older brother, Sam, in the men's doubles final to beat a talented pairing from Waikato and Hawke's Bay, of River Apatu and Phillip Warren 6/1 6/2. This was the Butters brothers' fourth Māori doubles title.**
 
 That just left the mixed doubles title to win.
 
