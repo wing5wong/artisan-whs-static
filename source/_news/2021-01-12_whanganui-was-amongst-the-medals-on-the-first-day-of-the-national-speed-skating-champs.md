@@ -30,9 +30,9 @@ Numbers were down on previous years, Smith said, with more than 100 skaters usua
 
 The first event of the day was the 200 metre individual time trial, which consisted of one lap of the track on the banks of the Whanganui River.
 
-Whanganui was amongst the medals throughout the age groups, with Josh Valentine winning the Cadet Boys and Micky Zhang taking bronze, Paul Cleeve winning the Masters Men, Tazia Parker claiming silver in the Cadet Girls, and Andrew Jones coming home second in the Senior Men.
+Whanganui was amongst the medals throughout the age groups, with **Josh Valentine winning the Cadet Boys** and Micky Zhang taking bronze, Paul Cleeve winning the Masters Men, Tazia Parker claiming silver in the Cadet Girls, and Andrew Jones coming home second in the Senior Men.
 
-Melissa Allen and Krystine Davies came second and third respectively in the Masters Ladies event, while Drew Brennan and Chase Morpeth repeated that feat in the Junior Men group.
+Melissa Allen and Krystine Davies came second and third respectively in the Masters Ladies event, while **Drew Brennan and Chase Morpeth repeated that feat in the Junior Men group**.
 
 Other distances on Tuesday included the 1000 metres and 15km elimination race. The heats for the 500 metres begin on Wednesday morning.
 
