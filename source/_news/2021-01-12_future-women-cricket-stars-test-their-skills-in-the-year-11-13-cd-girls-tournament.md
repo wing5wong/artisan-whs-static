@@ -1,6 +1,11 @@
 ---
 title: Future women cricket stars test their skills in the Year 11-13 CD Girls
   Tournament
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610438105/News/Cricket_Jemma_Tan_Grace_Palazzo_Chron_1.1.21.jpg
+  description: "The teams gather at the Whanganui Collegiate School cricket
+    grounds to contest on the annual CD Year 11-13 Girls' Cricket Tournament. "
+  credit: Supplied
 news_author:
   date: 2021-01-01T06:30:30.083Z
   publication: Whanganui Chronicle
@@ -15,9 +20,10 @@ During the week before Christmas teams from Hawke's Bay, Manawatū, Nelson, Tara
 That equated to almost half a season of cricket in four days, which the girls handled well, playing the tournament with great spirit.
 
 Eventual champions Hawke's Bay began the tournament as they meant to go on with a dominant display against Taranaki. Hawke's Bay posted 182/8 off their 30 overs and bowled Taranaki out for 52 off 21.2 overs.
+
 Day two featured three T20 games that marked the start of the festival for the combined Horowhenua-Kāpiti/Whanganui/Taranaki team.
 
-Whanganui had three representatives in the side, Grace Palazzo, Jemma Tan and Hannah Hickey. Each contributed well and played significant roles in the team and as they are just Year 11 students they will have two more years to really stamp their mark on future tournaments.
+Whanganui had three representatives in the side, **Grace Palazzo, Jemma Tan** and Hannah Hickey. Each contributed well and played significant roles in the team and as they are just Year 11 students they will have two more years to really stamp their mark on future tournaments.
 
 With Hawke's Bay automatically qualifying for the final as the only unbeaten team, this left a second/third playoff between Manawatū and Taranaki and a fourth/fifth fixture between the combined side and Nelson.
 
