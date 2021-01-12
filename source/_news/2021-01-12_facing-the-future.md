@@ -10,6 +10,7 @@ feature_image:
     Whanganui’s CBD as a space for collaboration in 2021. Debbie NgarewaPacker
     says the key to recovering from Covid-19 is “unity of strength and the
     harmonisation of communities”.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610440107/News/Sam_Sua_Facing_the_future._Chron_2.1.21.jpg
 news_author:
   date: 2021-01-02T08:24:16.542Z
   publication: Whanganui Chronicle
