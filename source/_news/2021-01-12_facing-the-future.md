@@ -9,7 +9,7 @@ news_author:
   publication: Whanganui Chronicle
   name: Mike Tweed
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610440107/News/Sam_Sua_Facing_the_future._Chron_2.1.21.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610441335/News/Sam-Sua-Facing-the-future.-Chron-2.1.21.jpg2.jpg
 show_in_slider: false
 date: 2021-01-12T08:24:16.726Z
 ---
