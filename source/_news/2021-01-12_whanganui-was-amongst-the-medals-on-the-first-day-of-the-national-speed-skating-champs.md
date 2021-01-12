@@ -3,6 +3,7 @@ title: Whanganui was amongst the medals on the first day of the national speed
   skating champs.
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610483940/News/Chase_at_Kowhai_Park_1.jpg
+  description: Drew Brennan and Chase Morpeth racing at Kowhai Park.
 news_author:
   date: 2020-12-30T09:15:19.827Z
   name: "Mike Tweed "
