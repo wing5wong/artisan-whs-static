@@ -23,7 +23,7 @@ image_gallery:
       family charge to win all five open titles at the Aotearoa Māori Tennis
       Championships on home soil this week. Hourigan won the women's singles and
       the women's doubles. Photo / Lewis Gardner.
-show_in_slider: false
+show_in_slider: true
 date: 2021-01-12T08:01:41.777Z
 ---
 ##### For the first time in history, one extended family has dominated the Aotearoa Māori Tennis Championship, winning all five open titles on offer at the prestigious tournament.
