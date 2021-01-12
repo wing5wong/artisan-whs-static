@@ -26,7 +26,7 @@ image_gallery:
 show_in_slider: false
 date: 2021-01-12T08:01:41.777Z
 ---
-For the first time in history, one extended family has dominated the Aotearoa Māori Tennis Championship, winning all five open titles on offer at the prestigious tournament.
+**For the first time in history, one extended family has dominated the Aotearoa Māori Tennis Championship, winning all five open titles on offer at the prestigious tournament.**
 
 The closely-related Hourigan and Butters clans gave visitors no chance in the open sections in the 2020 version of the classic tournament, this time hosted by their home club, the Wanganui Tennis Club.
 
@@ -38,19 +38,19 @@ Hourigan was in devastating form and followed it by winning the doubles title.
 
 **Teaming up with cousin Paris Butters, they won the final against Jane Wylie and Tania Martin Phillips 6/1 6/1.**
 
-Then up stepped Hourigan's cousin and Paris Butters' brother, Kyle Butters. In a hard-fought match, he beat Jayden Harrison (Taranaki) 6/2 6/4 in the men's singles final.
+Then up stepped Hourigan's cousin and Paris Butters' brother, **Kyle Butters**. In a hard-fought match, he **beat Jayden Harrison (Taranaki) 6/2 6/4 in the men's singles final**.
 
 Harrison has been offered three tennis university scholarships to the states and will head off this year.
 
 Kyle Butters has won the Māori tournament men's singles title seven times.
 
-He then teamed up with his older brother, Sam, in the men's doubles final to beat a talented pairing from Waikato and Hawke's Bay, of River Apatu and Phillip Warren 6/1 6/2. This was the Butters brothers' fourth Māori doubles title.
+He then teamed up with his older brother, Sam, in the men's doubles final to beat a talented pairing from Waikato and Hawke's Bay, of River Apatu and Phillip Warren 6/1 6/2. **This was the Butters brothers' fourth Māori doubles title.**
 
 That just left the mixed doubles title to win.
 
 Kyle Butters teamed up with nervous sister Paris to play Phillip Warren and Pacifica representative and sister Mahinarangi Warren in the final.
 
-Kyle Butters' class was a step up from the rest and the steadiness of Paris won them their fourth Māori mixed doubles title.
+**Kyle Butters' class was a step up from the rest and the steadiness of Paris won them their fourth Māori mixed doubles title.**
 
 The record books will also show Whanganui produced the winners of the youngest and oldest grades played.
 
