@@ -13,7 +13,9 @@ date: 2021-01-12T08:24:16.726Z
 ---
 Whanganui people share their hopes and aspirations for 2021.
 
-The effects of the global Covid19 pandemic have dominated 2020, but after three months of alert level 1 in Whanganui, locals are optimistic about what lies in store for them in 2021. As we celebrate the New Year, we ask people in the community about their hopes and aspirations for the next 12 months, and how they plan to move on from a year unlike any other in recent memory.
+The effects of the global Covid19 pandemic have dominated 2020, but after three months of alert level 1 in Whanganui, locals are optimistic about what lies in store for them in 2021. 
+
+As we celebrate the New Year, we ask people in the community about their hopes and aspirations for the next 12 months, and how they plan to move on from a year unlike any other in recent memory.
 
 Whanganui MP Steph Lewis said she was hoping for “a nice, calm year” in 2021.
 
@@ -25,13 +27,9 @@ Whanganui MP Steph Lewis said she was hoping for “a nice, calm year” in 2021
 
 New job opportunities, support for those who had lost their jobs, and working to provide more affordable housing locally were all issues that she would be addressing as MP in the new year, Lewis said.
 
-“It’s at the top of my to-do list to go and talk to the
+“It’s at the top of my to-do list to go and talk to the Minister for Housing and say ‘look, we need housing out in the regions just as much as in the main centres’.
 
-Minister for Housing and say ‘ look, we need housing out in the regions just as much as in the main centres’.
-
-“We’ve got t hese pri ori t i es locally, but you’ve got to bal ance that with the need to act r eal l y quickly where
-
-Covid-19 is concerned.
+“We’ve got these priorities locally, but you’ve got to balance that with the need to act really quickly where Covid-19 is concerned.
 
 “Every single day we’re learning new stuff about Covid-19, so we have to continue to be vigilant and on top of our game there. We still need to be looking to the future though, and how we’re going to address those big issues.”
 
@@ -41,11 +39,11 @@ On a personal level, Lewis said she hoped to maintain a balance between work and
 
 “It’s that juggle that everybody out there does.”
 
-Whanganui mayor Hamish Mcdouall hoped to complete two longterm writing projects, a screenplay and a young adult novel, at some point in 2021.
+Whanganui mayor Hamish McDouall hoped to complete two longterm writing projects, a screenplay and a young adult novel, at some point in 2021.
 
 “It’s hard to find time, but it would make me extremely happy if I managed to tick at least one of them off,” Mcdouall said.
 
-It would be a “di s ast er” if Whanganui went back into lockdown over the next 12 months, he said.
+It would be a “disaster” if Whanganui went back into lockdown over the next 12 months, he said.
 
 “The number one thing is to keep safe and make sure Covid-19 doesn’t get here.
 
@@ -81,39 +79,33 @@ There would be nine university papers to complete in his first year, Daignault s
 
 “I’m excited. It’s the next challenge, and I’ll be meeting a lot of new people. It’s the great beyond.
 
-“I’m keen to keep on rowing in 2021 as well. I probably can’t get involved in
+“I’m keen to keep on rowing in 2021 as well. I probably can’t get involved in too many clubs and things like that though because, like I said, there's going to be a lot of maths in my future.
 
-"I could be saying I want to do this [in 2021] and I want to do that, but nothing else you can aspire to is worth anything if we don’t look after and respect each other."
+Maori Party co-leader and MP Debbie Ngarewa-Packer said her hopes for a new year remained the same — “world peace and harmony”.
 
-Debbie Ngarewa-packer
-
-too many clubs and things like that though because, like I said, there’s going to be a lot of maths in my future.”
-
-Ma¯ori Party co-leader and MP Debbie Ngarewa-packer said her hopes for a new year remained the same — “world peace and harmony”.
-
-“I think particularly after 2020, with Covid-19, climate strikes and Black Lives Matter, there were real highlights and emphasis on those in our community who do it hard, and the importance of being seen and being heard,” NgarewaPacker said.
+“I think particularly after 2020, with Covid-19, climate strikes and Black Lives Matter, there were real highlights and emphasis on those in our community who do it hard, and the importance of being seen and being heard,” Ngarewa-Packer said.
 
 “My aspirations are probably what they’ve always been, but quite emphatic on being able to grow and encourage communities that are harmonised.
 
 “We need to respect each other and value our differences.”
 
-Ngarewa- Packer s ai d maintaining that respect and value would put people in a much better position to face issues such as “pandemics, racism, disparities and equities”.
+Ngarewa-Packer said maintaining that respect and value would put people in a much better position to face issues such as “pandemics, racism, disparities and equities”.
 
-“If 2020 has taught us anything, it’s the absolute need to look after each other. We are going to need to do that more and more as we confront some pretty unprecedented issues. This isn’t just as Aotearoa and Ma¯ori and Pakeha, but as the world.”
+“If 2020 has taught us anything, it’s the absolute need to look after each other. We are going to need to do that more and more as we confront some pretty unprecedented issues. This isn’t just as Aotearoa and Maori and Pakeha, but as the world.”
 
-Working on the ground during Covid-19 had shown NgarewaPacker the “absolute best of us”, she said. “It was the unity of strength and the harmonisation of communities.
+Working on the ground during Covid-19 had shown Ngarewa Packer the “absolute best of us”, she said. “It was the unity of strength and the harmonisation of communities.
 
 “We can embrace that and not forget the experiences of 2020, and use the experience of the unknown to move forward.
 
 “I could be saying I want to do this [in 2021] and I want to do that, but nothing else you can aspire to is worth anything if we don’t look after and respect each other.”
 
-On a personal level, NgarewaPacker said she wanted to spend more time with loved ones and “out amongst the community” in 2021.
+On a personal level, Ngarewa-Packer said she wanted to spend more time with loved ones and “out amongst the community” in 2021.
 
-“I act uall y r eal l y miss campaigning, because it was a really good excuse to be together and meet different people. I want to have more time to do that.
+“I actually really miss campaigning, because it was a really good excuse to be together and meet different people. I want to have more time to do that.
 
-“I don’t really have any other projects as such, other than to find time to be, and to enjoy family, new r el at i onships and new friendships.”
+“I don’t really have any other projects as such, other than to find time to be, and to enjoy family, new relationships and new friendships.”
 
-Sam Su’a returned to his hometown of Whanganui after almost two decades to open a new hair salon, The Studio.
+**Sam Su’a returned to his hometown of Whanganui after almost two decades to open a new hair salon, The Studio.**
 
 Su’a said he felt like his new venture was moving forward and he was keen to build a team and to collaborate with other like-minded people in the community in 2021.
 
