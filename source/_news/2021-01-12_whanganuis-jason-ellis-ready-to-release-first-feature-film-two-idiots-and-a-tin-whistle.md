@@ -10,7 +10,7 @@ news_author:
   date: 2021-01-12T09:52:06.481Z
   publication: Whanganui Chronicle
   name: Mike Tweed
-show_in_slider: false
+show_in_slider: true
 date: 2021-01-12T09:52:06.794Z
 ---
 Independent filmmaker **Jason Ellis** was born and raised in Whanganui, shooting his first home made videos in Gonville with kids from the neighbourhood. Now Wellington-based, Ellis and his friend Eli Hill have self-funded and directed their first feature length film - a mockumentary entitled 'Two Idiots and a Tin Whistle'.
