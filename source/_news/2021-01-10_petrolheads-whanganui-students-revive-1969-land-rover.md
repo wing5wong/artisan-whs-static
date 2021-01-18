@@ -1,5 +1,5 @@
 ---
-title: "Petrolheads: Whanganui students revive 1969 Land Rover"
+title: Whanganui High School students revive 1969 Land Rover
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1610266738/News/Land_Rover_1.jpg
   description: (From left) Maureen Flutey, Joan Richardson, Scott Emerson, George
