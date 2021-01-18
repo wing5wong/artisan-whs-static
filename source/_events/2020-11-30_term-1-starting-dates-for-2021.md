@@ -4,6 +4,6 @@ date: 2021-01-31T23:56:40.755Z
 ---
 ##### Monday 1 February 2021
 
-**Year 9 and Year 13 students, and new students from all other year levels.**  
+**Year 9 and Year 13 students, and new students from all other year levels.** There will be a Powhiri for all new students at 8.45am. 
 
 
