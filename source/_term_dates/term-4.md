@@ -1,14 +1,8 @@
 ---
-title: Term 4, 2020
-date: 2019-03-31T21:51:13.652Z
+title: Term 4, 2021
+date: 2021-01-18T05:47:08.386Z
 start_dates:
-  - date: 2020-10-12T03:12:29.342Z
+  - date: 2021-10-18T05:47:18.734Z
     body: Whole School
-end_dates:
-  - date: 2020-11-09T11:00:00.000Z
-    body: Year 11 Prizegiving
-  - date: 2020-11-10T11:00:00.000Z
-    body: Year 12 and 13 Prizegiving
-  - date: 2020-12-07T11:00:00.000Z
-    body: Year 9 and 10 Prizegiving
+end_dates: []
 ---
