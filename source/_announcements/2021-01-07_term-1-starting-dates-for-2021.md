@@ -7,7 +7,8 @@ subtitle: Stationery Lists
 #### Monday 1 February 2021
 
 **Year 9 and Year 13 students, and new students from all other year levels.**  
-Year 9 students need to be at school by 8.45am where prefects will guide them to Centre Court. The powhiri starts at 9.00am.  
+Year 9 students need to be at school by 8.45am where prefects will guide them to Centre Court.  
+The Powhiri starts at 9.00am.  
 Parents/caregivers are very welcome to attend.  
 
 Returning Year 13 students are to assemble in the Te Wehi Gymnasium at 9.30am.  
