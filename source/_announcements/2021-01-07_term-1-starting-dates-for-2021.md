@@ -17,7 +17,8 @@ Returning Year 13 students are to assemble in the Te Wehi Gymnasium at 9.30am.  
 #### Tuesday 2 February 2021
 
 **ALL year levels starting at 8.45am.**  
-Please go to your House venues which are:  
+Year 9 and Year 13 go to form rooms;  
+Year 10, 11, 12 go to House venues which are:  
 Awa - Te Wehi Gymnasium  
 Maunga - Te Mana Gymnasium  
 Moana - Te Ihi Gymnasium  
