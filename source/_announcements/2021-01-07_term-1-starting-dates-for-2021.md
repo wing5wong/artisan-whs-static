@@ -10,7 +10,8 @@ subtitle: Stationery Lists
 Year 9 students need to be at school by 8.45am where prefects will guide them to Centre Court. The powhiri starts at 9.00am.  
 Parents/caregivers are very welcome to attend.  
 
-Returning Year 13 students are to assemble in the Te Wehi Gymnasium at 9.30am.  Prefects are to arrive at 8.00am in the Library.
+Returning Year 13 students are to assemble in the Te Wehi Gymnasium at 9.30am.  
+Prefects are to arrive at 8.00am in the Library.
 
 
 
