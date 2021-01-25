@@ -12,7 +12,14 @@ The Powhiri starts at 9.00am.
 Parents/caregivers are very welcome to attend.  
 
 Returning Year 13 students are to assemble in the Te Wehi Gymnasium at 9.30am.  
-Prefects are to arrive at 8.00am in the Library.
+Prefects are to arrive at 8.00am in the Library.  
+
+10.30am Organisation of students into Houses and Form classes.  
+12.30pm – 1.10pm Lunch break  
+1.10pm – 1.30pm Form Room to check Timetables  
+1.30pm – 2.10pm Period 4 – normal class for Monday  
+2.10pm – 2.50pm Period 5 – normal class for Monday  
+2.50pm – 3.05pm Form Time 
 
 
 
