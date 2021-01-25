@@ -10,4 +10,6 @@ date: 2021-02-02T00:14:50.338Z
 Awa - Te Wehi Gymnasium  
 Maunga - Te Mana Gymnasium  
 Moana - Te Ihi Gymnasium  
-Whenua - School Hall 
+Whenua - School Hall  
+
+11.50am Normal Timetable commences with period 3 for Tuesday (tbc).
