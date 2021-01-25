@@ -31,7 +31,9 @@ Year 10, 11, 12 go to House venues which are:
 Awa - Te Wehi Gymnasium  
 Maunga - Te Mana Gymnasium  
 Moana - Te Ihi Gymnasium  
-Whenua - School Hall 
+Whenua - School Hall  
+
+11.50am Normal Timetable commences with period 3 for Tuesday (tbc). 
 
 
 
