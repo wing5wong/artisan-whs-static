@@ -43,4 +43,6 @@ Normal timetabled school day for ALL year levels on Wednesday 3 February, Thursd
 
 #### Stationery Lists
 
-Stationery Lists will be provided on the first day of school, or you can access the lists from our Whanganui High School website [Stationery Lists](https://www.whanganuihigh.school.nz/info-for-parents/stationery-lists/).
+Stationery Lists will be provided on the first day of school, or you can access the lists from our Whanganui High School website [Stationery Lists](https://www.whanganuihigh.school.nz/info-for-parents/stationery-lists/).  
+
+Our **SCHOOL OFFICE** reopens on Tuesday 26 January 2021. 🙂
