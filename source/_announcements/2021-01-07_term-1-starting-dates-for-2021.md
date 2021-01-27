@@ -4,45 +4,50 @@ is_emergency: false
 date: 2021-01-07T00:04:19.802Z
 subtitle: Stationery Lists & Uniform Information
 ---
-#### Monday 1 February 2021
+# Welcome to 2021
 
-**Year 9 and Year 13 students, and new students from all other year levels.**  
-Year 9 and all new students from all other year levels need to be at school by 8.45am where prefects will guide them to Centre Court.  
-The Powhiri starts at 9.00am.  
-Parents/caregivers are very welcome to attend.  
+27 January 2021
 
-Returning Year 13 students are to assemble in the Te Wehi Gymnasium at 9.30am.  
-Prefects are to arrive at 8.00am in the Library.  
+Kia ora - a warm welcome to all whānau for 2021. 
 
-10.30am Organisation of students into Houses and Form classes.  
-12.30pm – 1.10pm Lunch break  
-1.10pm – 1.30pm Form Room to check Timetables  
-1.30pm – 2.10pm Period 4 – normal class for Monday  
-2.10pm – 2.50pm Period 5 – normal class for Monday  
-2.50pm – 3.05pm Form Time 
+#### Year 9
 
-#### Tuesday 2 February 2021
+**Monday 1 February – 8.45am** assemble in Centre Court (senior students will be assisting).
 
-**ALL year levels starting at 8.45am.**  
-Year 9 and Year 13 go to form rooms;  
-Year 10, 11, 12 go to House venues which are:  
-Awa - Te Wehi Gymnasium  
-Maunga - Te Mana Gymnasium  
-Moana - Te Ihi Gymnasium  
-Whenua - School Hall  
+Welcome pōwhiri begins at 9.00am.  
+Refreshments will be available for parents/caregivers in Room A1 after the pōwhiri.  
+Students will finish school at 3.05pm 
 
-11.50am Normal Timetable commences with period 3 for Tuesday. 
+#### Years 10, 11 and 12
 
-#### Wednesday 3 February 2021
+**Tuesday 2 February – 8.45am report to House venues as follows:**
 
-Normal timetabled school day for ALL year levels on Wednesday 3 February, Thursday 4 February and Friday 5 February.  
+Awa – Te Wehi gym  
+Maunga – Te Mana gym  
+Moana – Te Ihi gym  
+Whenua – The Hall  
+This will be a full school day.
 
-#### Stationery Lists
+#### Year 13
 
-Stationery Lists will be provided on the first day of school, or you can access the lists from our Whanganui High School website [Stationery Lists](https://www.whanganuihigh.school.nz/info-for-parents/stationery-lists/).  
+**Monday 1 February**  
 
-#### Uniform Information
+**· All prefects** to be at school by 8.00am to assist the new Year 9 students.  
+**· All other Year 13 students** are to be in Te Wehi gym by **9.30am**  
+There will be an early afternoon finishing time for Year 13 students.
 
-[Uniform Regulations and Pricelist ](https://www.whanganuihigh.school.nz/info-for-parents/uniform/)
+All **new** pupils in Years 10, 11, 12 and 13 are expected to also attend the pōwhiri at **9.00am** on  
+**Monday 1 February.**
 
-Our **SCHOOL OFFICE** reopens on Tuesday 26 January 2021. 🙂
+**All students should bring their digital learning devices to school.**
+
+**Year 9 Parents Information Evening** will be held on Wednesday, 17 February.
+
+**[Stationery](https://www.whanganuihigh.school.nz/info-for-parents/stationery-lists/) and [Uniform](https://www.whanganuihigh.school.nz/info-for-parents/uniform/) lists** are available on the School’s website – www.whanganuihigh.school.nz
+
+Looking forward to a great 2021.
+
+Ngā mihi nui
+
+**Martin McAllen**  
+**Principal**
