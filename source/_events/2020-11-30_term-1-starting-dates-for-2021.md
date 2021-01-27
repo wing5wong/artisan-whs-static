@@ -2,18 +2,30 @@
 title: 2021 Term 1 begins - Year 9 & Year 13 & all new students
 date: 2021-01-31T23:56:40.755Z
 ---
-**Year 9 and Year 13 students, and new students from all other year levels.**  
-Year 9 and all new students from all other year levels need to be at school by **8.45am** where prefects will guide them to Centre Court. The Powhiri starts at 9.00am.  
-Parents/caregivers are very welcome to attend.  
+#### Year 9
 
-Returning Year 13 students are to assemble in the Te Wehi Gymnasium at 9.30am.  
-Prefects are to arrive at 8.00am in the Library.  
+**Monday 1 February – 8.45am** assemble in Centre Court (senior students will be assisting).
 
-10.30am Organisation of students into Houses and Form classes.  
-12.30pm – 1.10pm Lunch break  
-1.10pm – 1.30pm Form Room to check Timetables  
-1.30pm – 2.10pm Period 4 – normal class for Monday  
-2.10pm – 2.50pm Period 5 – normal class for Monday  
-2.50pm – 3.05pm Form Time 
+Welcome pōwhiri begins at 9.00am.  
+Refreshments will be available for parents/caregivers in Room A1 after the pōwhiri.  
+Students will finish school at 3.05pm 
+
+#### Year 13
+
+**Monday 1 February**  
+
+**· All prefects** to be at school by 8.00am to assist the new Year 9 students.  
+**· All other Year 13 students** are to be in Te Wehi gym by **9.30am**  
+There will be an early afternoon finishing time for Year 13 students.
+
+All **new** pupils in Years 10, 11, 12 and 13 are expected to also attend the pōwhiri at **9.00am** on  
+**Monday 1 February.**
+
+**All students should bring their digital learning devices to school.**
+
+**[Stationery](https://www.whanganuihigh.school.nz/info-for-parents/stationery-lists/) and [Uniform](https://www.whanganuihigh.school.nz/info-for-parents/uniform/) lists** are available on the School’s website – www.whanganuihigh.school.nz
+
+
+
 
 
