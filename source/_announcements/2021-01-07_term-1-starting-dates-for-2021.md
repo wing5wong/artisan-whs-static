@@ -4,11 +4,11 @@ is_emergency: false
 date: 2021-01-07T00:04:19.802Z
 subtitle: Stationery Lists & Uniform Information
 ---
-### Welcome to 2021
+#### Welcome to 2021
 
 27 January 2021
 
-Kia ora - a warm welcome to all whānau for 2021. 
+Kia ora - a warm welcome to all whānau for 2021.  
 
 #### Year 9
 
