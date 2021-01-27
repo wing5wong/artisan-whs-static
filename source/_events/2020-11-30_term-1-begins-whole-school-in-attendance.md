@@ -2,14 +2,20 @@
 title: 2021 Term 1 begins - Whole School in attendance
 date: 2021-02-02T00:14:50.338Z
 ---
-#### Tuesday 2 February 2021
+**Tuesday 2 February**
 
 **ALL year levels starting at 8.45am.**  
-**Year 9 and Year 13** go to form rooms;  
-**Year 10, 11, 12** go to House venues which are:  
-Awa - Te Wehi Gymnasium  
-Maunga - Te Mana Gymnasium  
-Moana - Te Ihi Gymnasium  
-Whenua - School Hall  
+**Year 9 and Year 13** go to form rooms.  
 
-11.50am Normal Timetable commences with period 3 for Tuesday (tbc).
+#### Years 10, 11 and 12
+
+**8.45am report to House venues as follows:**
+
+Awa – Te Wehi gym  
+Maunga – Te Mana gym  
+Moana – Te Ihi gym  
+Whenua – The Hall  
+This will be a full school day.
+
+
+11.50am Normal Timetable commences with period 3 for Tuesday.
