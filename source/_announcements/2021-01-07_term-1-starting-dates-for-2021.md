@@ -21,8 +21,6 @@ Prefects are to arrive at 8.00am in the Library.
 2.10pm – 2.50pm Period 5 – normal class for Monday  
 2.50pm – 3.05pm Form Time 
 
-
-
 #### Tuesday 2 February 2021
 
 **ALL year levels starting at 8.45am.**  
@@ -33,9 +31,7 @@ Maunga - Te Mana Gymnasium
 Moana - Te Ihi Gymnasium  
 Whenua - School Hall  
 
-11.50am Normal Timetable commences with period 3 for Tuesday (tbc). 
-
-
+11.50am Normal Timetable commences with period 3 for Tuesday. 
 
 #### Wednesday 3 February 2021
 
@@ -44,5 +40,9 @@ Normal timetabled school day for ALL year levels on Wednesday 3 February, Thursd
 #### Stationery Lists
 
 Stationery Lists will be provided on the first day of school, or you can access the lists from our Whanganui High School website [Stationery Lists](https://www.whanganuihigh.school.nz/info-for-parents/stationery-lists/).  
+
+#### Uniform Information
+
+[Uniform Regulations and Pricelist ](https://www.whanganuihigh.school.nz/info-for-parents/uniform/)
 
 Our **SCHOOL OFFICE** reopens on Tuesday 26 January 2021. 🙂
