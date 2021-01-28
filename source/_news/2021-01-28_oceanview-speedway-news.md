@@ -1,5 +1,7 @@
 ---
 title: Oceanview Speedway news
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611870144/News/Oceanview_speedway_image_no_2.jpg
 news_author:
   date: 2021-01-24T21:18:54.490Z
   publication: Whanganui Chronicle
