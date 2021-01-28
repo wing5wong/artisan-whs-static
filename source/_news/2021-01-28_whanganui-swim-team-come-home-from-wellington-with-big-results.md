@@ -1,7 +1,7 @@
 ---
 title: Whanganui Swim Team come home from Wellington with big results
 news_author:
-  date: 2021-01-28T20:49:54.896Z
+  date: 2021-01-27T20:49:54.896Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
 show_in_slider: true
