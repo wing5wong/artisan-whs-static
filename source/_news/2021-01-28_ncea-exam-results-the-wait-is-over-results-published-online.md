@@ -6,10 +6,10 @@ feature_image:
   credit: File
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611872510/News/NCEA_exam_results_after_a_Covid-19_stricken_year_in_2020.jpg
 news_author:
-  date: 2021-01-28T22:20:50.598Z
+  date: 2021-01-20T22:20:50.598Z
   publication: Whanganui Chronicle
 show_in_slider: false
-date: 2021-01-28T22:20:50.842Z
+date: 2021-01-20T22:20:50.842Z
 ---
 NCEA results went online this morning and 140,000 teenagers are finding out how the pandemic affected their education last year.
 
