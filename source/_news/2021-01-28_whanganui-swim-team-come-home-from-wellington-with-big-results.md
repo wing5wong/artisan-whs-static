@@ -13,7 +13,7 @@ The six swimmers backed up from their recent swim camp to travel to the Kilbirni
 
 Fifteen-year-old Georgia Abraham was the team's most successful swimmer, winning gold in the 50m backstroke posting a personal best time in the final. She also picked up a silver medal in the 100m backstroke, and bronzes in the 200m backstroke and the 50 freestyle. She rounded off the competition with a further four top 10 (finals) finishes and had swum several personal best times.
 
-Aria Bannister, 13, swam a number of personal bests on her way to silver medals in the 100 and 200m breaststroke events and made the finals in another four events.
+**Aria Bannister, 13, swam a number of personal bests on her way to silver medals in the 100 and 200m breaststroke events and made the finals in another four events.**
 
 **Fourteen-year-old Regan Hanna was Whanganui's other medallist with a silver in the 400 freestyle. He had a heavy work schedule and added a number of qualifying times for the national age group championships. He also swam in six finals.**
 
