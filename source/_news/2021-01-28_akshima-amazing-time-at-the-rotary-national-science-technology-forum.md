@@ -5,7 +5,7 @@ feature_image:
 news_author:
   date: 2021-01-27T19:52:44.448Z
   name: "Akshima Marwah "
-  publication: Head of Academia, 2021
+  publication: 2021 Head of Academia
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866492/News/Akshima_Marwah_1.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866521/News/Akshima_Marwah_2.jpg
