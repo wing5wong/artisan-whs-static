@@ -34,7 +34,7 @@ Harley Robb (991C) won the first championship heat from 3NZ Mitch Vickery, 9S Sh
 
 **Callum Sturzaker** crossed the line in fourth place in the second championship heat, behind Smith, Luke Miers (15P) and Stratford rookie Karlin Painter-Dudley (267S). Then controversy struck.
 
-Smith and Miers were excluded from the results of heat 2 for failing to go over the scales as they drove from the track, a Speedway New Zealand requirement. That saw Sturzaker promoted to second place in the heat.
+Smith and Miers were excluded from the results of heat 2 for failing to go over the scales as they drove from the track, a Speedway New Zealand requirement. That saw **Sturzaker** promoted to second place in the heat.
 
 After two heats, Vickery topped the standings with 56 points, ahead of 2NZ Tyler Walker, Arapere, Richard Keijzer (186R) and Hawke's Bay's Brett Loveridge (16B).
 
