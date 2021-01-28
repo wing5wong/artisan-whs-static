@@ -1,8 +1,9 @@
 ---
-title: Akshima amazing time at the Rotary National Science & Technology Forum
+title: Akshima's amazing time at the Rotary National Science & Technology Forum
 news_author:
-  date: 2021-01-28T19:52:44.448Z
+  date: 2021-01-27T19:52:44.448Z
   name: "Akshima Marwah "
+  publication: Head of Academia, 2021
 show_in_slider: true
 date: 2021-01-28T19:52:44.629Z
 ---
