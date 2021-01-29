@@ -1,5 +1,7 @@
 ---
 title: Student arts winner to hold exhibition
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611888963/News/Grace_Swanston._chron_14.12.20..jpg
 news_author:
   date: 2021-01-20T02:47:20.613Z
   publication: Whanganui Midweek
