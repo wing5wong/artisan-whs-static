@@ -8,7 +8,7 @@ news_author:
 show_in_slider: true
 date: 2021-01-29T01:40:54.841Z
 ---
-**The local Roundtable Service Club recently assisted James Gray (17) a Whanganui High school pupil, to allow him to represent the New Zealand Junior small bore rifle team against Scotland and Australia in a postal competition this year.**
+The local Roundtable Service Club recently assisted James Gray (17) a Whanganui High school pupil, to allow him to represent the New Zealand Junior small bore rifle team against Scotland and Australia in a postal competition this year.
 
 James presented Roundtable President, Glenn Kearse, with a photograph as thanks. It shows James receiving his Silver Fern and NZ Representative Pocket as well as doing a shoot.
 
