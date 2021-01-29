@@ -14,7 +14,7 @@ news_author:
 show_in_slider: false
 date: 2021-01-29T03:15:37.010Z
 ---
-Cricket Wanganui's under-15 rep side's trip to Levin for the Central Districts Development tournament last week proved why there is so much excitement around the talent this team possesses.
+**Cricket Wanganui's under-15 rep side's trip to Levin for the Central Districts Development tournament last week proved why there is so much excitement around the talent this team possesses.**
 
 The tournament consists of four T20 fixtures and two 50-over games which allows the players to experience different forms of cricket and develop a well-rounded skill set in limited overs cricket.
 
