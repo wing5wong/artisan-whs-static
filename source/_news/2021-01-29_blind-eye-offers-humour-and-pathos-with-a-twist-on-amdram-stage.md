@@ -48,6 +48,6 @@ Just 17 at the time, Phillips attended Whanganui Girls' College where Joan Stree
 
 Now based in Wellington, Phillips will be attending the final night of 'Blind Eye' at Amdram
 
-The gala opening for 'Blind Eye' is on Thursday, February 4, at 7.30pm and there will be nightly performances on Thursday, Friday and Saturday for two weeks as well as a matinee performance at 2pm on Sunday, February 7, at 171 Guyton St, Whanganui.
+**The gala opening for 'Blind Eye' is on Thursday, February 4, at 7.30pm and there will be nightly performances on Thursday, Friday and Saturday for two weeks as well as a matinee performance at 2pm on Sunday, February 7, at 171 Guyton St, Whanganui.**
 
-Book at iTicket.co.nz or via the Amdram Whanganui Facebook page.
+**Book at iTicket.co.nz or via the Amdram Whanganui Facebook page.**
