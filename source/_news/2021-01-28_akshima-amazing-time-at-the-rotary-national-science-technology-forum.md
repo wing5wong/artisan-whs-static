@@ -1,21 +1,20 @@
 ---
 title: Akshima's amazing time at the Rotary National Science & Technology Forum
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866351/News/Akshima_Marwah_4.jpg
-  description: Akshima Marwah (left) with other students at the Forum.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866492/News/Akshima_Marwah_1.jpg
+  description: ""
 news_author:
   date: 2021-01-26T19:52:44.448Z
   name: "Akshima Marwah "
   publication: 2021 Head of Academia.
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866492/News/Akshima_Marwah_1.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866351/News/Akshima_Marwah_4.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866655/News/Akshima_Marwah_8.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866567/News/Akshima_Marwah_5.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866635/News/Akshima_Marwah_7.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866613/News/Akshima_Marwah_6.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866521/News/Akshima_Marwah_2.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866542/News/Akshima_Marwah_3.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866351/News/Akshima_Marwah_4.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866567/News/Akshima_Marwah_5.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866613/News/Akshima_Marwah_6.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866635/News/Akshima_Marwah_7.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866655/News/Akshima_Marwah_8.jpg
 show_in_slider: true
 date: 2021-01-28T19:52:44.629Z
 ---
