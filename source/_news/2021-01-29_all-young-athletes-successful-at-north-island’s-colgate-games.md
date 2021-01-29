@@ -12,7 +12,7 @@ date: 2021-01-29T03:47:26.241Z
 ---
 Athletics Wanganui had 5 athletes represent the club at this year’s North Island Colgate Games in Inglewood. This is an annual event and is highly competitive. Athletes can compete from the age of 7 to 14 years with under 10’s competing for pennants from each race and 10 and up competing in age groups through to a final to win a medal in their chosen event.
 
-This year’s team and results were:  
+#### This year’s team and results were:  
 
 • 10 year old boys - Cruz Malo - 2 Golds in 100m and 200m, 9th High Jump, 10th in long jump.  
 • 8 year old girls - Harlynn Faalili – Pennants won in the following - 3rd 60m, 2nd in the 100m, 1st in the 200m and 3rd in the long jump.  
