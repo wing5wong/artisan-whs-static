@@ -2,6 +2,7 @@
 title: Akshima's amazing time at the Rotary National Science & Technology Forum
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611866351/News/Akshima_Marwah_4.jpg
+  description: Akshima Marwah (left) with other students at the Forum.
 news_author:
   date: 2021-01-26T19:52:44.448Z
   name: "Akshima Marwah "
