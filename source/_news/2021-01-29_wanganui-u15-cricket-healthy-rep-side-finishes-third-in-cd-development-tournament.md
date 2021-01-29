@@ -24,7 +24,7 @@ Wanganui's opening two fixtures were T20s against Horowhenua-Kapiti and Manawat≈
 
 **Skipper Charlie Meredith** won the toss against Horowhenua and opted to bowl on a green wicket. This was a masterstroke as Wanganui bowled HK out for 54 runs in 13.2 overs.
 
-Energy in the field was key to the performance with 4 runouts in the innings, many of which were direct hits. Keeper Connor Rees got the ball rolling with a smart run out from behind the stumps, quickly removing his glove to throw down the stumps from 20 metres. The other three runouts came through **Levi Hoekstra**, Tim O'Leary and **Meredith**.
+Energy in the field was key to the performance with 4 runouts in the innings, many of which were direct hits. Keeper Connor Rees got the ball rolling with a smart run out from behind the stumps, quickly removing his glove to throw down the stumps from 20 metres. **The other three runouts came through Levi Hoekstra**, Tim O'Leary and **Meredith**.
 
 **The pick of the bowlers were Hoekstra, 2 for 8 off 3**, Mickey Peacock, 2 for 13 off 3.2, and **Meredith, 2 for 12 off 4.** Wanganui made hard work of the meagre total, losing **Campbell Mckerras** and Oscar Mabin early to lbw decisions.
 
