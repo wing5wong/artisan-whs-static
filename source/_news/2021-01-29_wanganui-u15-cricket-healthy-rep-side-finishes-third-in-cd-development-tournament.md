@@ -28,11 +28,11 @@ Energy in the field was key to the performance with 4 runouts in the innings, ma
 
 The pick of the bowlers were **Hoekstra**, 2 for 8 off 3, Mickey Peacock, 2 for 13 off 3.2, and **Meredith**, 2 for 12 off 4. Wanganui made hard work of the meagre total, losing **Campbell Mckerras** and Oscar Mabin early to lbw decisions.
 
-Rees came to the crease and steadied the innings, but he and Hoekstra both fell in quick succession for 9 runs a piece. Two more quick wickets fell before **Meredith** and Luke Bullock saw the innings home with 14 and 4 not out.
+Rees came to the crease and steadied the innings, but he and Hoekstra both fell in quick succession for 9 runs a piece. Two more quick wickets fell before Meredith and Luke Bullock saw the innings home with 14 and 4 not out.
 
 Wanganui's next challenge was a strong Manawatū side who won the toss and elected to bat. Again, Wanganui were devastatingly sharp both in the field and with the ball.
 
-**Meredith** and Mabin were working great in tandem with a wicket each early on to have Manawatū reeling at 14 for 2 before Hoekstra again fronted up in the field to get a direct hit run out of the Manawatū captain.
+**Meredith** and Mabin were working great in tandem with a wicket each early on to have Manawatū reeling at 14 for 2 before **Hoekstra** again fronted up in the field to get a direct hit run out of the Manawatū captain.
 
 Wanganui bowled Manawatū out for 57 off 19.5 overs.
 
