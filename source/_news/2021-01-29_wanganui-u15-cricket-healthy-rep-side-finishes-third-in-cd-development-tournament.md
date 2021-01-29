@@ -26,7 +26,7 @@ Wanganui's opening two fixtures were T20s against Horowhenua-Kapiti and Manawat≈
 
 Energy in the field was key to the performance with 4 runouts in the innings, many of which were direct hits. Keeper Connor Rees got the ball rolling with a smart run out from behind the stumps, quickly removing his glove to throw down the stumps from 20 metres. The other three runouts came through **Levi Hoekstra**, Tim O'Leary and **Meredith**.
 
-The pick of the bowlers were **Hoekstra**, 2 for 8 off 3, Mickey Peacock, 2 for 13 off 3.2, and **Meredith**, 2 for 12 off 4. Wanganui made hard work of the meagre total, losing **Campbell Mckerras** and Oscar Mabin early to lbw decisions.
+**The pick of the bowlers were Hoekstra, 2 for 8 off 3**, Mickey Peacock, 2 for 13 off 3.2, and **Meredith, 2 for 12 off 4.** Wanganui made hard work of the meagre total, losing **Campbell Mckerras** and Oscar Mabin early to lbw decisions.
 
 Rees came to the crease and steadied the innings, but he and Hoekstra both fell in quick succession for 9 runs a piece. Two more quick wickets fell before Meredith and Luke Bullock saw the innings home with 14 and 4 not out.
 
@@ -42,7 +42,7 @@ Rees knew there was plenty of time and waited for the bad ball to score the winn
 
 With Wanganui confident and on a roll there was never a better time to play the traditionally strong Hawke's Bay.
 
-A real captain's knock from **Meredith** of 86 off 100 balls was key to the Wanganui innings. The final overs saw Mabin and Luke Bullock shoulder the hopes of the team. Bullock played some smart cricket, taking the singles to get Mabin on strike. Unfortunately, Wanganui fell 10 runs short of the target on 262/7 in 50 overs.
+**A real captain's knock from Meredith of 86 off 100 balls was key to the Wanganui innings.** The final overs saw Mabin and Luke Bullock shoulder the hopes of the team. Bullock played some smart cricket, taking the singles to get Mabin on strike. Unfortunately, Wanganui fell 10 runs short of the target on 262/7 in 50 overs.
 
 On Wednesday, Wanganui was back in T20 mode with two fixtures against Marlborough and Wairarapa.
 
