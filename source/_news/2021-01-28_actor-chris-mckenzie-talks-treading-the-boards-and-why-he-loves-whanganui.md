@@ -12,13 +12,13 @@ news_author:
 show_in_slider: false
 date: 2021-01-28T22:50:11.833Z
 ---
-Whether playing a Shakespearean lord or a pantomime dame, Chris McKenzie is a is well-known to Whanganui theatre goers.
+**Whether playing a Shakespearean lord or a pantomime dame, Chris McKenzie is a is well-known to Whanganui theatre goers.**
 
-Next month he will occupy both stage and director's chair for Amdram's production Blind Eye.
+**Next month he will occupy both stage and director's chair for Amdram's production Blind Eye.**
 
-Liz Wylie asks what drives him.
+#### Liz Wylie asks what drives him.
 
-*When did you first discover your love for theatre?*
+***When did you first discover your love for theatre?***
 
 When I was a student at Raetihi Primary School I won the impromptu speech competition in my last two years.
 
@@ -30,7 +30,7 @@ I was one half of a bumbling pair of criminals called Nosher and Nasher, and onc
 
 I was extremely intrigued with theatre from that point on.
 
-*What has been your most memorable moment on stage?*
+***What has been your most memorable moment on stage?***
 
 In Amdram's production of Yours Truly, my character, Dr Gull, had a very long monologue during the first act.
 
@@ -40,7 +40,7 @@ Firstly it was very long, so learning it was the first hurdle. Then trying to de
 
 Add to this the fact that Dr Gull was the first "bad guy" I had played and Yours Truly was certainly a very memorable play.
 
-*You are directing as well as acting in April Phillps' play Blind Eye which opens at Amdram next month. Can you give us a small taster of what the play is about?*
+***You are directing as well as acting in April Phillps' play Blind Eye which opens at Amdram next month. Can you give us a small taster of what the play is about?***
 
 Wally and Vera, played by Mike and Joan Street, are an elderly couple who have been together for over 60 years and have kept to themselves for most of that time.
 
@@ -52,11 +52,11 @@ As the two newcomers spend more time with the couple, they discover that all is 
 
 It is a powerful, thought-provoking play that will tug at people's heartstrings and make them question what devotion truly is.
 
-*You have played many vastly different roles in local productions - is there a particular character you would dearly like to play?*
+***You have played many vastly different roles in local productions - is there a particular character you would dearly like to play?***
 
 I have really enjoyed the two Shakespeare plays I have done with Karen Craig, and I would love to play Lago from Othello. Also, I would love to play Sherlock Holmes.
 
-*What are the things you love most about living in Whanganui?*
+***What are the things you love most about living in Whanganui?***
 
 Whanganui has everything, really. If you're an outdoors person, you have beaches, mountains, bush walks, all close at hand.
 
@@ -68,17 +68,17 @@ The people I have been associated with, in the education, church and theatre wor
 
 Plus most of my family is here, my wife's family is here, and my mum, of course.
 
-*Where would you take visitors if they have never been to Whanganui before?*
+***Where would you take visitors if they have never been to Whanganui before?***
 
 Down Victoria Avenue for a start. It's beautiful. Virginia Lake and all the attractions attached to it. Walking along the river bank. The magnificent wall art we have.
 
 Those who know me well know that I'm not the most active person so I'd probably find a bench to sit on, and point them in the right direction.
 
-*What are you reading right now?*
+***What are you reading right now?***
 
 I usually have a few books going at the same time, but right now I'm reading Wanderers by Chuck Wendig and a book called Not For You by Ronen Givony, about the rock band Pearl Jam. Plus my Bible is a pretty constant companion.
 
-*What is the best book you've ever read?*
+***What is the best book you've ever read?***
 
 I read a great deal so it's difficult to narrow it down to one.
 
@@ -86,7 +86,7 @@ The Passage Trilogy by Justin Cronin has been read more than once. As well as Ca
 
 I also read a lot of music biographies, and Bruce Dickinson's What Does This Button Do? is a standout.
 
-*What is your favourite film?*
+***What is your favourite film?***
 
 The Shawshank Redemption is my number one. I've seen it a dozen times and I never get tired of it. Despite its bleak setting, it's such an uplifting film.
 
