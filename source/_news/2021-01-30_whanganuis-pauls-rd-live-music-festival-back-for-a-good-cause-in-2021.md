@@ -1,8 +1,15 @@
 ---
 title: Whanganui's Pauls Rd Live music festival back for a good cause in 2021
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611981497/News/Pauls_Road_Live_2020._Local_band_Dusta_perform.jpg
+  description: Local band Dusta perform at Pauls Road Live 2020.
+  credit: Bevan Conley
 news_author:
   date: 2021-01-30T04:36:37.988Z
-show_in_slider: true
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611981527/News/Pauls_Road_Live_2020.jpg
+    description: About 600 people attended the festival in 2020. Photo / Bevan Conley.
+show_in_slider: false
 date: 2021-01-30T04:36:38.249Z
 ---
 The Pauls Road Live music festival in Whanganui East is back again this year, and proceeds will be given to Gabby's Starlit Hope Charity.
