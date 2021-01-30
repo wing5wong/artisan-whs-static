@@ -5,7 +5,9 @@ feature_image:
   description: Local band Dusta perform at Pauls Road Live 2020.
   credit: Bevan Conley
 news_author:
-  date: 2021-01-30T04:36:37.988Z
+  date: 2021-01-29T04:36:37.988Z
+  publication: Whanganui Chronicle
+  name: Mike Tweed
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611981527/News/Pauls_Road_Live_2020.jpg
     description: About 600 people attended the festival in 2020. Photo / Bevan Conley.
