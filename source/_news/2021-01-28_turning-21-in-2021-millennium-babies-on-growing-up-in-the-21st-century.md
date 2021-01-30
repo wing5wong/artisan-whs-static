@@ -13,6 +13,10 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611870756/News/Eva_Falloon._chron_23.1.21.jpg
     description: Eva Falloon, soon to be 21-year-old may have to wait to travel
       overseas. Photo / Lewis Gardner.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611978709/News/Sam-the-man-1.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611978733/News/Sam-the-man-2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611978759/News/Sam-the-man-3.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611978784/News/Sam-the-man-4.jpg
 show_in_slider: false
 date: 2021-01-28T21:46:32.572Z
 ---
