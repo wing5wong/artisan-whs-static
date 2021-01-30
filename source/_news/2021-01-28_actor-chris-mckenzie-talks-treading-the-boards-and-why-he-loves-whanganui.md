@@ -90,7 +90,7 @@ I also read a lot of music biographies, and Bruce Dickinson's What Does This But
 
 The Shawshank Redemption is my number one. I've seen it a dozen times and I never get tired of it. Despite its bleak setting, it's such an uplifting film.
 
-*Which real or fictional person would you like to invite home for dinner and what would you like to ask them?*
+***Which real or fictional person would you like to invite home for dinner and what would you like to ask them?***
 
 If I could concoct a truth serum that I could slip into whatever beverage they requested to accompany their meal, I would have to say, Donald Trump.
 
