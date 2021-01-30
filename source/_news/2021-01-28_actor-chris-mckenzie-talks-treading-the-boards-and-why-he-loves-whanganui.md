@@ -24,7 +24,7 @@ When I was a student at Raetihi Primary School I won the impromptu speech compet
 
 Having the audience laugh at the things I was saying certainly gave me a taste for performing.
 
-\*\*In my final year at Whanganui High School, I had a role in the school musical Bats.\*\*
+**In my final year at Whanganui High School, I had a role in the school musical Bats.**
 
 I was one half of a bumbling pair of criminals called Nosher and Nasher, and once again, having the audience respond favourably to what you were doing on stage was very exciting.
 
