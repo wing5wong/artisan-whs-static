@@ -14,6 +14,7 @@ image_gallery:
     description: Eva Falloon, soon to be 21-year-old may have to wait to travel
       overseas. Photo / Lewis Gardner.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611978709/News/Sam-the-man-1.jpg
+    description: Sam Russell moves to Whitianga this year to take up scuba diving.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611978733/News/Sam-the-man-2.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611978759/News/Sam-the-man-3.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611978784/News/Sam-the-man-4.jpg
