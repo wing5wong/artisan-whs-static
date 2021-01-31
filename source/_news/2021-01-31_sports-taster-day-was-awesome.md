@@ -1,5 +1,5 @@
 ---
-title: Sports Taster Day was awesome!
+title: "Sports Taster Day was awesome! "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612083611/News/Sports_Taster_Day_1.jpg
 news_author:
