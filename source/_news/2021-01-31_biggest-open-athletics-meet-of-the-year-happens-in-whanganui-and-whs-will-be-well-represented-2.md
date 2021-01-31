@@ -2,7 +2,7 @@
 title: "Biggest open Athletics meet of the year happens in Whanganui and WHS
   will be well represented "
 feature_image:
-  image: ""
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612126017/News/Nat.-Maggie.-Flynn.jpg
 news_author:
   date: 2021-01-31T20:39:05.929Z
 image_gallery:
