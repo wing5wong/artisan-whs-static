@@ -1,5 +1,5 @@
 ---
-title: "Sound Valley Concert at Cook Gardens "
+title: Sound Valley Concert at Cook Gardens
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612209919/News/Sound_Valley_poster_20_Feb_2021.jpg
 news_author:
