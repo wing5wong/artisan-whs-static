@@ -1,5 +1,7 @@
 ---
 title: Bike Wise Whanganui offering a month of activities in February
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612220630/News/Bikewise_Wanganui._RCP_28.1.21.jpg
 news_author:
   date: 2021-01-28T03:04:54.346Z
   publication: River City Press
