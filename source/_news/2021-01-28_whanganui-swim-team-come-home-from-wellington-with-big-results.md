@@ -1,5 +1,9 @@
 ---
 title: Whanganui Swim Team come home from Wellington with big results
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612153083/News/North_island_over_13_in_Wellington_beg_Feb_2021.jpg
+  description: Year 9 student, Aria Bannister and Year 10 student, Regan Hanna
+    with their medals.
 news_author:
   date: 2021-01-27T20:49:54.896Z
   name: Iain Hyndman
