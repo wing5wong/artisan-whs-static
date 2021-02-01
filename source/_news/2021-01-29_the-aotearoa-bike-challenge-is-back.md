@@ -3,7 +3,7 @@ title: "The Aotearoa Bike Challenge is back! "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611881012/News/Bike_Challenge_2021.png
 news_author:
-  date: 2021-01-28T00:43:01.059Z
+  date: 2021-01-26T00:43:01.059Z
   publication: River City Press
 show_in_slider: false
 date: 2021-01-29T00:43:01.229Z
