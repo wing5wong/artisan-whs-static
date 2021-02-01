@@ -20,7 +20,7 @@ Tickets go on sale on February 1.
 
 Whanganui residents Dean and Marian Butler have opened their property at 42 Pauls Rd to the public every year since 2008, and the money raised at this year's event will once again go to Whanganui families who have children undergoing cancer treatment.
 
-Organiser **Freddy Loveridge** said about 600 people attended the festival in 2020, and all the artists performing at this year's edition would be local.
+Organiser Freddy Loveridge said about 600 people attended the festival in 2020, and all the artists performing at this year's edition would be local.
 
 "We normally bring in an out-of-town act, but a lot of people have been saying 'nah, just keep it local'," Loveridge said.
 
@@ -32,7 +32,7 @@ Devine died in 2015 at the age of 13, but her charity has continued in her honou
 
 "After expenses, we managed to get $10,000 to four Whanganui families that had sick children last year," Loveridge said.
 
-Acts for 2021 are The Replicants, **Whiskey Mama**, Hot Potato, Heavy Water, Richard Littlejohn, Kessel and Burn the Machines.
+Acts for 2021 are The Replicants, Whiskey Mama, Hot Potato, Heavy Water, Richard Littlejohn, Kessel and Burn the Machines.
 
 Loveridge said because there were so many acts to get through, the first band would be on stage at 11.30am.
 
