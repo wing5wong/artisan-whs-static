@@ -10,7 +10,7 @@ news_author:
   name: Miss Morgan
   publication: WHS Sports Assistant
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612141837/News/Kerwyn_Morgan.139526844_4262086533806549_5127786566906157894_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612221913/News/Kerwyn-Morgan.139526844_4262086533806549_5127786566906157894_n.jpg
     description: The boys crew -  From the front; Tamati Tamehana (ex student),
       Jesse Malcolm, and ex students' Sam Beaston-Shaw, Sean Morgan, Eru
       Ranginui, Matenga Tamehana.
