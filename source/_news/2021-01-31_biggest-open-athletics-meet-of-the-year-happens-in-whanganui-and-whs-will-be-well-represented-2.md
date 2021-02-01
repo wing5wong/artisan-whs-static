@@ -3,18 +3,12 @@ title: "Biggest open Athletics meet of the year happens in Whanganui and WHS
   will be well represented "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612126017/News/Nat.-Maggie.-Flynn.jpg
-  description: L>R - Nat Kirk, Maggie Jones and Flynn Johnston.
 news_author:
-  date: 2021-01-28T20:39:05.929Z
-  name: "Lisa Murphy "
-  publication: WHS Director of Sport
+  date: 2021-01-31T20:39:05.929Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612084683/News/Athletics_meet_of_the_year_nat_kirk.jpg
-    description: Nat Kirk
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612084738/News/Athletics_meet_of_the_year_girl.jpg
-    description: Maggie Jones
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612084767/News/Athletics_meet_of_the_year_boy.jpg
-    description: Flynn Johnston
 show_in_slider: true
 date: 2021-01-31T20:39:06.285Z
 ---
