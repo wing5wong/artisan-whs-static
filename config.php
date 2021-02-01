@@ -378,18 +378,30 @@ return [
     },
     'featureImageSrc' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        return $item->feature_image["image"] ?: $item->image ?: '';
+        if(array_key_exists('image', $item->feature_image)){
+            return $item->feature_image["image"];
+        }
+        return $item->image ?: '';
     },
     'featureImageDescription' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        return $item->feature_image["description"] ?: $item->image_title;
+        if(array_key_exists('description', $item->feature_image)){
+            return $item->feature_image["description"];
+        }
+        return $item->image_title;
     },
     'featureImageAlt' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        return $item->feature_image["alt"] ?: $item->image_alt;
+        if(array_key_exists('alt', $item->feature_image)){
+            return $item->feature_image["alt"];
+        }
+        return $item->image_alt;
     },
     'featureImageCredit' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        return $item->feature_image["credit"] ?: $item->image_credit;
+        if(array_key_exists('credit', $item->feature_image)){
+            return $item->feature_image["credit"];
+        }
+        return $item->image_credit;
     },
 ];
