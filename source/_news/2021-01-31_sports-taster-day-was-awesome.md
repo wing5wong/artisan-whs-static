@@ -1,10 +1,10 @@
 ---
-title: "Sports Taster Day was awesome! "
+title: "Sports Taster Day was awesome!"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612083611/News/Sports_Taster_Day_1.jpg
 news_author:
   date: 2021-01-29T08:49:15.382Z
-  name: "Lisa Murphy "
+  name: "Lisa Murphy"
   publication: WHS Director of Sport
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612085349/News/Sports_Taster_Day_2.jpg

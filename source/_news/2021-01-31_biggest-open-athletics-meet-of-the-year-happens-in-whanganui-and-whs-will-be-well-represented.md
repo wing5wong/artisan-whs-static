@@ -1,9 +1,8 @@
 ---
-title: "Biggest open Athletics meet of the year happens in Whanganui and WHS
-  will be well represented "
+title: "Biggest open Athletics meet of the year happens in Whanganui and WHS will be well represented"
 news_author:
   date: 2021-01-30T09:10:29.670Z
-  name: "Lisa Murphy "
+  name: "Lisa Murphy"
   publication: WHS Director of Sport
 show_in_slider: true
 date: 2021-01-31T09:10:37.411Z
