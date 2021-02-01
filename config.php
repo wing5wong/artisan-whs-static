@@ -378,28 +378,28 @@ return [
     },
     'featureImageSrc' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        if(array_key_exists('image', $item->feature_image)){
+        if($this->feature_image && array_key_exists('image', $item->feature_image)){
             return $item->feature_image["image"];
         }
         return $item->image ?: '';
     },
     'featureImageDescription' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        if(array_key_exists('description', $item->feature_image)){
+        if($this->feature_image && array_key_exists('description', $item->feature_image)){
             return $item->feature_image["description"];
         }
         return $item->image_title;
     },
     'featureImageAlt' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        if(array_key_exists('alt', $item->feature_image)){
+        if($this->feature_image && array_key_exists('alt', $item->feature_image)){
             return $item->feature_image["alt"];
         }
         return $item->image_alt;
     },
     'featureImageCredit' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        if(array_key_exists('credit', $item->feature_image)){
+        if($this->feature_image && array_key_exists('credit', $item->feature_image)){
             return $item->feature_image["credit"];
         }
         return $item->image_credit;
