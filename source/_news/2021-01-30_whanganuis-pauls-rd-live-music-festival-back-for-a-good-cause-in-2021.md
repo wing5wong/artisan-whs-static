@@ -11,6 +11,9 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1611981527/News/Pauls_Road_Live_2020.jpg
     description: About 600 people attended the festival in 2020. Photo / Bevan Conley.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612152760/News/Fred_Loveridge._Whiskey_Mama._Midweek_5.2.20.png
+    description: Fred Loveridge
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612143914/News/1242736-553485-34.jpg
 show_in_slider: false
 date: 2021-01-30T04:36:38.249Z
 ---
