@@ -1,11 +1,11 @@
 ---
 title: Mr S. Brown
-position: ""
+position: Dean of Māori students
 departments:
   - Physical Education and Health
-positions:
-  - department: Physical Education and Health
-    title: (on leave)
+  - Languages
+  - Deans
+positions: []
 phone: ""
 email: brown.s@whs.ac.nz
 ---
