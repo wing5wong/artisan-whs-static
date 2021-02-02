@@ -1,10 +1,8 @@
 ---
 title: Miss G. Brown
-position: Dean of Awa House
+position: ""
 departments:
   - Social Sciences
-  - Deans
-  - English
 positions:
   - department: Deans
     title: Dean of Awa House
