@@ -6,5 +6,5 @@ departments:
 positions:
   - department: Support and Ancillary
     title: Performing Arts Administration Assistant
-email: matthews.s@whs.ac.nz
+email: carson.l@whs.ac.nz
 ---
