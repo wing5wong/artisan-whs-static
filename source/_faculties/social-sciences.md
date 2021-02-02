@@ -17,6 +17,7 @@ ahofs:
   - Mrs J. de Smidt
   - Mr D. Ireton
   - Miss B. Waldegrave
+  - Mrs C. Libeau
 vocational_pathways:
   - service
   - creative
