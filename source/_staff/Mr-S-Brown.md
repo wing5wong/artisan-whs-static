@@ -5,7 +5,11 @@ departments:
   - Physical Education and Health
   - Languages
   - Deans
-positions: []
+positions:
+  - title: Teacher of Māori
+    department: Languages
+  - title: Dean of Māori students
+    department: Deans
 phone: ""
 email: brown.s@whs.ac.nz
 ---
