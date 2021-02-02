@@ -1,6 +1,6 @@
 ---
 title: Mr B. Hunter
-position: Assistant HOF Social Sciences, Head of Geography
+position: Acting HOF Social Sciences, Head of Geography
 departments:
   - Social Sciences
 positions:
