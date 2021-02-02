@@ -1,11 +1,8 @@
 ---
 title: Mrs C. Graham
-position: Dean of Moana House
+position: ""
 departments:
   - Physical Education and Health
-  - Deans
-positions:
-  - department: Deans
-    title: Dean of Moana House
+positions: []
 email: graham.c@whs.ac.nz
 ---
