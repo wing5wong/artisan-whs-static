@@ -1,6 +1,6 @@
 ---
 title: Bell Times
-date: 2019-04-02T01:23:57.661Z
+date: 2021-02-02T22:28:03.676Z
 ---
 
 **Students should be at school by 8:40am.  
