@@ -1,5 +1,5 @@
 ---
-title: Miss S. Matthews
+title: Ms L. Carson
 position: Performing Arts Administration Assistant
 departments:
   - Support and Ancillary
