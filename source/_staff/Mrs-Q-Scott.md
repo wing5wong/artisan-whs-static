@@ -1,10 +1,10 @@
 ---
-title: Mrs Q. Scott
+title: Mr C. Salazar
 position: Spanish
 departments:
   - Languages
 positions:
   - department: Languages
     title: Teacher of Spanish
-email: scott.q@whs.ac.nz
+email: salazar.c@whs.ac.nz
 ---
