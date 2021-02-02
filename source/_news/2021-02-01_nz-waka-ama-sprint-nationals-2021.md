@@ -6,7 +6,7 @@ feature_image:
     (ex student), Amiria Paranihi, Ashlee Morgan (ex student), Leilani Tua (ex
     student) and Renee Tamehana.
 news_author:
-  date: 2021-01-15T23:09:52.289Z
+  date: 2021-01-25T23:09:52.289Z
   name: Miss Morgan
   publication: WHS Sports Assistant
 image_gallery:
@@ -17,7 +17,7 @@ image_gallery:
 show_in_slider: true
 date: 2021-02-01T23:09:52.353Z
 ---
-I first starting paddling for Te Ringa Miti Tai Heke Whanganui Waka Ama Club when I was at Intermediate and am still paddling/steering today. It’s definitely a whanau/family sport as my dad, brother, sister and I all paddled at the NZ Sprint Nationals a couple of weeks ago at Lake Karapiro, Cambridge. 
+I first starting paddling for Te Ringa Miti Tai Heke Whanganui Waka Ama Club when I was at Intermediate and am still paddling/steering today. It’s definitely a whanau/family sport as my dad, brother, sister and I all paddled at the NZ Sprint Nationals at Lake Karapiro, Cambridge, 17-23 January. 
 
 The event is huge and is one of the largest growing water sporting events in New Zealand with over 3500 paddlers competing over the seven days from Midgets (5+) to 70+ year olds.  One day is also set aside for 1-man/single racing which also is quite popular.  Teams will compete across all ages in singles, 6-man and 12-man racing which is always exciting to do and watch.
 
