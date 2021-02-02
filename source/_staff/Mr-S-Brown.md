@@ -1,5 +1,5 @@
 ---
-title: Mr S. Brown - Dean of Māori students
+title: "Mr S. Brown "
 position: Dean of Māori students
 departments:
   - Physical Education and Health
