@@ -1,10 +1,9 @@
 ---
 title: Mrs L. Sharp
-position: Science Technician (on leave)
+position: Science Technician
 departments:
   - Support and Ancillary
 positions:
   - department: Support and Ancillary
-    title: Science Technician (on leave)
+    title: Science Technician
 ---
-
