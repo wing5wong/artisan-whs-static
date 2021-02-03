@@ -13,11 +13,11 @@ hofs:
   - Mr J. Shepherd
 ahofs:
   - Mr B. Hunter
-  - Mrs C. Peak
-  - Mrs J. de Smidt
-  - Mr D. Ireton
-  - Miss B. Waldegrave
   - Mrs C. Libeau
+  - Mrs J. de Smidt
+  - Miss B. Waldegrave
+  - Mr D. Ireton
+  - Mrs C. Peak
 vocational_pathways:
   - service
   - creative
