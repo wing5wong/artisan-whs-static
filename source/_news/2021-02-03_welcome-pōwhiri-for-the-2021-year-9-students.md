@@ -3,7 +3,7 @@ title: Welcome pōwhiri for the 2021 Year 9 students
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612328603/News/P%C5%8Dwhiri%20for%20the%202021%20Year%209%20students/1.143607211_3894749480568118_7130179710772020196_o.jpg
 news_author:
-  date: 2021-02-02T05:02:37.418Z
+  date: 2021-02-03T05:02:37.418Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612328605/News/P%C5%8Dwhiri%20for%20the%202021%20Year%209%20students/2.144338150_3894747540568312_1914579532762879232_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612328606/News/P%C5%8Dwhiri%20for%20the%202021%20Year%209%20students/3.144497437_3894746583901741_3300546690817902407_o.jpg
