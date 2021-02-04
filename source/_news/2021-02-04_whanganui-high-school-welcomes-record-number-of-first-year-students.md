@@ -7,6 +7,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612472242/News/WHS_welcomes_record_number_of_first_year_students._chron_5.2.21._Photo_bevan_conley.jpg
 news_author:
   date: 2021-02-04T20:57:03.278Z
+  publication: Whanganui Chronicle
+  name: Liz Wylie
 show_in_slider: true
 date: 2021-02-04T20:57:03.381Z
 ---
