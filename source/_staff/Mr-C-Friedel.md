@@ -1,6 +1,6 @@
 ---
 title: Mr C. Friedel
-position: Deputy Principal (on leave)
+position: Deputy Principal
 departments:
   - Senior Leadership Team
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1562189461/staff/Chris_Friedel.jpg
