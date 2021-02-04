@@ -3,6 +3,7 @@ title: Local recording artists set to light up the Whanganui Musicians Club
 feature_image:
   description: Performing at the Musicians Club are (from left) Erna Ferry,
     Chester Nevil, Fred Loveridge, Paul Wilson and Murray 'Dusty' Loveridge.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612408851/News/Chester_Nevil_Fred_Loveridge._midweek_3.1.21.jpg
 news_author:
   date: 2021-02-03T03:03:32.042Z
   publication: Whanganui Midweek
