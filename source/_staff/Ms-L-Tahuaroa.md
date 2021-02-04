@@ -1,5 +1,5 @@
 ---
-title: Ms L. Tahuaroa
+title: Mrs L. Tahuaroa
 departments:
   - English
   - Social Sciences
