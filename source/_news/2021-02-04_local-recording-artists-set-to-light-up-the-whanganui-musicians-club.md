@@ -27,5 +27,5 @@ For those of you new to the musicians club, the address is 65 Drews Ave. Club ni
 
 Memberships for the year are available at the door for $30. As a member, you will pay $10 club nights. Non members pay $15 and are always welcome.
 
-The Blues Buffet with Erna Ferry, Whanganui Musicians Club, 65 Drews Ave
-Friday, February 5, doors open at 7pm for Open Mic.
+**The Blues Buffet with Erna Ferry, Whanganui Musicians Club, 65 Drews Ave
+Friday, February 5, doors open at 7pm for Open Mic.**
