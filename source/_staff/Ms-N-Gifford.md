@@ -1,5 +1,5 @@
 ---
-title: Ms N. Gifford
+title: Mrs N. Gifford
 position: null
 departments:
   - Social Sciences
