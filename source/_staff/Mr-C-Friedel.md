@@ -1,6 +1,6 @@
 ---
 title: Mr C. Friedel
-position: Deputy Principal
+position: Deputy Principal (on leave)
 departments:
   - Senior Leadership Team
   - Deputy Principal
