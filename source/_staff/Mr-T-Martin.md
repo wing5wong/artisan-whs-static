@@ -1,10 +1,10 @@
 ---
-title: Mr T. Martin
+title: TBC
 position: Property Manager
 departments:
   - Support and Ancillary
 positions:
   - department: Support and Ancillary
     title: Property Manager
-email: martin.terry@whs.ac.nz
+email: ""
 ---
