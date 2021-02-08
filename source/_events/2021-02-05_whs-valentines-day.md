@@ -9,6 +9,8 @@ It’s Valentine’s day and love is in the air!!
 
 The Social Prefects have yummy cookies and cakes for sale to send to that special someone or friend so come and see us by the canteen during 1st break this Friday until Wednesday! The cookies will be $3 and the cakes will be $5. !CASH ONLY! There are limited numbers so get in quick!! 
 
-We will be having an open mic, working closely with the cultural perfect team to make that happen, featuring students and staff performing songs about love for everyone to enjoy. The cultural prefects will organise the sign up for this, so keep an eye out.
+We will be having an open mic, working closely with the cultural perfect team to make that happen, featuring students and staff performing songs about love for everyone to enjoy. The cultural prefects will organise the sign up for this, so keep an eye out!
 
 We will also be having a photo frame going around for everyone to take photos with, having a couple of our amazing photographers take photo’s throughout the day.
+
+*With thanks, your Social Prefect Team.*
