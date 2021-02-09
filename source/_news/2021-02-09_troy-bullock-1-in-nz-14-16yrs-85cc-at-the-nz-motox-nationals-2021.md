@@ -2,6 +2,7 @@
 title: "Troy Bullock, #1 in NZ (14-16yrs 85cc) at the NZ Motox Nationals 2021!"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1612831397/News/Troy-Bullock-who-became-_1-in-NZ-in-his-class-14-16yrs-85cc-at-the-NZ-Motox-Nationals.jpg
+  description: Troy Bullock in action.
 news_author:
   date: 2021-02-09T00:42:54.759Z
 show_in_slider: true
