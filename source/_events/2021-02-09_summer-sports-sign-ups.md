@@ -9,4 +9,4 @@ Information about the sport will be in the bitly.
 
 If you are a **Year 9 student that went to the Taster Day** you do not need to sign up again.
 
-**You have until Friday 12 of February to sign up.**
+**You have until Friday 12 February to sign up.**
