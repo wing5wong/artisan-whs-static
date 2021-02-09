@@ -7,6 +7,6 @@ If you are interested in signing up to play summer sport this Term use the bitly
 
 Information about the sport will be in the bitly.  
 
-If you are a Year 9 student that went to the Taster Day you do not need to sign up again.
+If you are a **Year 9 student that went to the Taster Day** you do not need to sign up again.
 
 **You have until Friday 12 of February to sign up.**
