@@ -11,7 +11,7 @@ We encourage you to get involved and earn points for your house and have fun.
 More information will be given to you at your house assemblies this week.
 
 Students MUST sign up for track and field events.  
-Please use the bitly below to sign up now..\
+Please use the bitly below to sign up now..  
 [bit.ly/whsathletics2021](https://docs.google.com/forms/d/e/1FAIpQLSfvEgBFiheYoRnUg590GqNFyfqt63CTM5Gk5fVVcr1IfCohLg/viewform)
 
 **You have until Wednesday 17 February to sign up.**
