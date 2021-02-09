@@ -1,5 +1,5 @@
 ---
-title: Summer Sports Sign Ups
+title: Summer Sports Sign Ups - cut off, Friday 12 February
 date: 2021-02-09T02:04:50.636Z
 ---
 If you are interested in signing up to play summer sport this Term use the bitly below..
