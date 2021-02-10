@@ -1,8 +1,8 @@
 ---
-title: WHS House Athletics Day
+title: WHS House Athletics Day - Whole School
 date: 2021-02-25T01:01:38.218Z
 ---
-WHS House Athletics Day - Thursday 25 February  
+WHS House Athletics Day - Thursday 25 February - Whole School participating  
 
 **Sign ups** for Athletics House Day are for **Track and Fields events only**.  
 The fun participation activities sign ups will happen on the day.  
