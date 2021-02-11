@@ -20,6 +20,7 @@ We love celebrating the successes of our students!
 **Today we want to congratulate Merle Chant (DESIGN) and Grace Swanston (PAINTING) for obtaining Level 3 NZQA Visual Arts scholarships- in support of their EXCELLENCE graded folios.**  
 
 The scholarship is a portfolio presentation of support documentation for their folio boards. 
+
 In addition to that, **Merle Chant's Design folio was selected, as one of 60 folios nationwide, to tour New Zealand with the NZQA TOP ARTS EXHIBITION.**  
 
 Well done ladies, you should be super proud of yourselves, we are!!!
