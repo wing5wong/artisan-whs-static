@@ -1,5 +1,6 @@
 ---
-title: Merle and Grace receive L3 NZQA Visual Arts Scholarships
+title: Merle and Grace receive L3 NZQA Visual Arts Scholarships, plus Merle's
+  work to tour NZ!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613082847/News/4.Merle_Chant_DESIGN_Grace_Swanston_PAINTING_L3_NZQA_Visual_Arts_scholarship.jpg
   description: Merle Chant's folio.
