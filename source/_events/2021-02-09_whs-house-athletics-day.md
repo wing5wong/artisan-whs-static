@@ -6,7 +6,7 @@ WHS House Athletics Day at Cooks Gardens - Thursday 25 February
 Whole School participating  
 
 **Sign ups** for Athletics House Day are for **Track and Fields events only**.  
-The fun participation activities sign ups will happen on the day.  
+**The fun participation activities sign ups will happen on the day.**  
 We encourage you to get involved and earn points for your house and have fun.
 
 More information will be given to you at your house assemblies this week.
