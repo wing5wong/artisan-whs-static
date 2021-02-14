@@ -1,8 +1,8 @@
 ---
-title: WHS Swim Champs
+title: WHS Swim Champs / Lifesaving
 date: 2021-02-19T01:00:20.371Z
 ---
-WHS Swim Champs / WSS Lifesaving - Friday 19 February
+WHS Swim Champs / Lifesaving - Friday 19 February
 
 Sign ups for our WHS Swim Champs is now open.  
 There are two grades you can compete in A Grade (Competitive) and B Grade (Social).  
