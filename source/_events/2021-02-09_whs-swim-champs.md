@@ -1,5 +1,5 @@
 ---
-title: WHS Swim Champs / WSS Lifesaving
+title: WHS Swim Champs
 date: 2021-02-19T01:00:20.371Z
 ---
 WHS Swim Champs / WSS Lifesaving - Friday 19 February
