@@ -18,14 +18,14 @@ I sent our Revised and Updated Alert Level 2 Safety Plan (2021) to all teaching 
 * Hand sanitiser is available in every single classroom and common area in the school.   
 * Relevant instructional signage is put up in public places throughout the school.  
 * House Assemblies will be cancelled for at least all of this week.  
-* The Year 9 Parents' Information Evening on Wednesday, 17 February has been postponed to 6.30 pm, Wednesday, 2 March.  
+* The Year 9 Parents' Information Evening on Wednesday, 17 February has been postponed to **6.30 pm, Tuesday, 2 March**.  
 * Inter-regional Professional Learning Development and class trips have been postponed until at least Thursday, 18 February.  
 
 I greatly appreciate your support and will continue to keep you informed as quickly as possible regarding any significant developments. I attach for your information Important Term 1 dates.  
 
 Kia kaha koutou  
 
-Martin McAllen\
+*Martin McAllen*  
 Principal
 
 [IMPORTANT TERM 1 DATES](https://res.cloudinary.com/whanganuihigh/image/upload/v1613428147/newsletters/Special_Newsletter_-_February_2021.pdf)
