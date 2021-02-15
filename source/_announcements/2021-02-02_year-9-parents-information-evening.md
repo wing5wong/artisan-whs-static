@@ -2,7 +2,8 @@
 title: COVID-19 Level 2 Guidelines
 is_emergency: false
 date: 2021-02-17T04:46:53.975Z
-subtitle: This Wednesday's Parent Information Evening is POSTPONED until further notice.
+subtitle: Our region will be in Alert Level 2 until at least 11:59pm on
+  Wednesday night, 17 February.
 ---
 **INFORMATION for WHANGANUI HIGH SCHOOL STUDENTS AND FAMILIES**  
 
