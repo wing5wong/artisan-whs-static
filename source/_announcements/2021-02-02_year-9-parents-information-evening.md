@@ -12,13 +12,13 @@ Following the Government's announcement last night of our move to Covid-19 Alert
 we want to reassure you that the School has re-established the guidelines we put in place
 previously for Alert Level 2.  
 
-Our School is open as usual, with the following expectations in place:
+Our School is open as usual, with the following expectations in place:  
 
 * All students and staff who are unwell must stay at home. Our sick bay will not be
   available for students who become ill at school. These students will be asked to go
-  home.
+  home.  
 * Hand sanitizer is available throughout the school and both staff and students have
-  been asked to follow good handwashing routines.
+  been asked to follow good handwashing routines.  
 * There will be no assemblies and sensible social distancing will be maintained as best
   we can.  
 
