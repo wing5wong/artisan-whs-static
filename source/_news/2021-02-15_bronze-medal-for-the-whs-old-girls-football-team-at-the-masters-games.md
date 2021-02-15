@@ -18,4 +18,6 @@ These girls have just competed in the Masters Games as Whanganui High School Old
 It has been 20 years since some of the team first took to the field for school.  
 If you look closely you will even see that Mrs Langrish and Mrs Davies came out of retirement.  
 
-**The team took away a bronze medal and did not let in a single goal over 6 games of football.** 🥳
+**The team took away a bronze medal and did not let in a single goal over 6 games of football.** 🥳  
+
+**Big Congrats ladies, well done!!** 👏👏
