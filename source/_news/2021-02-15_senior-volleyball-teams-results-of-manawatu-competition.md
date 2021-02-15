@@ -25,7 +25,7 @@ image_gallery:
 show_in_slider: true
 date: 2021-02-15T02:25:00.823Z
 ---
-Well done to our Senior Volleyball Teams in the Manawatu Competition in Palmerston Nth tonight.  
+Well done to our Senior Volleyball Teams in the Manawatu Competition in Palmerston North tonight.  
 
 The Boys team won 2 out of 3 against PNBHS A and the girls team lost by 1 point to LAC (Longburn College)  
 
