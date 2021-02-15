@@ -1,11 +1,31 @@
 ---
-title: Year 9 Parents Information Evening - Postponed until further notice
+title: COVID-19 Level 2 Guidelines
 is_emergency: false
 date: 2021-02-17T04:46:53.975Z
 subtitle: This Wednesday's Parent Information Evening is POSTPONED until further notice.
 ---
-#### **This Wednesday's Parent Information Evening is postponed until further notice.**
+INFORMATION for WHANGANUI HIGH SCHOOL STUDENTS AND FAMILIES  
 
-A Year 9 parents evening is to be held on Wednesday 17 February at 6.30pm, starting in the School Hall and finishing with light refreshments in the Library. The School Hall will be open from 6.00pm. 
+Covid-19 Alert Level 2  
+Following the Government's announcement last night of our move to Covid-19 Alert Level 2,
+we want to reassure you that the School has re-established the guidelines we put in place
+previously for Alert Level 2.  
 
-This evening will cover key aspects for parents of Year 9 students at WHS, such as device use and google classroom, uniform, extra-curricular sport options, plus it will be a chance for parents to mingle with staff and other Year 9 parents.  Students are welcome to attend.
+Our School is open as usual, with the following expectations in place:
+* All students and staff who are unwell must stay at home. Our sick bay will not be
+available for students who become ill at school. These students will be asked to go
+home.
+* Hand sanitizer is available throughout the school and both staff and students have
+been asked to follow good handwashing routines.
+* There will be no assemblies and sensible social distancing will be maintained as best
+we can.  
+
+We encourage you to trace your movements using the NZ Covid Tracer app or something
+similar.  
+
+In the meantime, please remain calm. We will keep you informed in the event of any
+changes.  
+
+Kia kaha koutou.  
+
+For more information go to www.covid19.govt.nz 
