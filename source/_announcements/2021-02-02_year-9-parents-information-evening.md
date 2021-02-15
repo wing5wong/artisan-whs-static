@@ -32,3 +32,5 @@ changes.
 Kia kaha koutou.  
 
 For more information go to [www.covid19.govt.nz](https://covid19.govt.nz/)
+
+#### [SPECIAL NEWSLETTER](https://res.cloudinary.com/whanganuihigh/image/upload/v1613369969/newsletters/Special_Newsletter_-_February_2021.pdf) sent from Principal, Mr Martin McAllen, on 15 February 2021.
