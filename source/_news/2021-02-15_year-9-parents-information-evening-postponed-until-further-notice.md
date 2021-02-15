@@ -1,0 +1,13 @@
+---
+title: Year 9 Parents Information Evening - POSTPONED until further notice
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574907236/Events/GREEN_WHS_HEADER.jpg
+news_author:
+  date: 2021-02-15T02:17:33.480Z
+show_in_slider: true
+date: 2021-02-15T02:17:33.523Z
+---
+Year 9 Parents Information Evening.
+
+This Wednesday's Parent Information Evening is POSTPONED until further notice.  
+Sorry for any inconvenience caused.
