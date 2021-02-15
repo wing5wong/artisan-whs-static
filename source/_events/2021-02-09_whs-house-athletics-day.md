@@ -8,7 +8,7 @@ Whole School participating
 
 9.00am start (approx) at Cooks Gardens.  
 More in-depth information about the day’s organisation will be sent prior to the event.  
-Parents and caregivers are welcome to attend 
+Parents and caregivers are welcome to attend. 
 
 **Sign ups** for Athletics House Day are for **Track and Fields events only**.  
 **The fun participation activities sign ups will happen on the day.**  
