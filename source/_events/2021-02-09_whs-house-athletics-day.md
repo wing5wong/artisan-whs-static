@@ -2,8 +2,13 @@
 title: WHS House Athletics Day - Whole School
 date: 2021-02-25T01:01:38.218Z
 ---
-WHS House Athletics Day at Cooks Gardens - Thursday 25 February  
+WHS House Athletics Day - Thursday 25 February  
 Whole School participating  
+
+
+9.00am start (approx) at Cooks Gardens.  
+More in-depth information about the day’s organisation will be sent prior to the event.  
+Parents and caregivers are welcome to attend 
 
 **Sign ups** for Athletics House Day are for **Track and Fields events only**.  
 **The fun participation activities sign ups will happen on the day.**  
