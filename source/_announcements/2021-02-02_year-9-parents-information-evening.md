@@ -4,9 +4,10 @@ is_emergency: false
 date: 2021-02-17T04:46:53.975Z
 subtitle: This Wednesday's Parent Information Evening is POSTPONED until further notice.
 ---
-INFORMATION for WHANGANUI HIGH SCHOOL STUDENTS AND FAMILIES  
+**INFORMATION for WHANGANUI HIGH SCHOOL STUDENTS AND FAMILIES**  
 
-Covid-19 Alert Level 2  
+**Covid-19 Alert Level 2**  
+
 Following the Government's announcement last night of our move to Covid-19 Alert Level 2,
 we want to reassure you that the School has re-established the guidelines we put in place
 previously for Alert Level 2.  
