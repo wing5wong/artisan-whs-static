@@ -13,7 +13,7 @@ Our Whanganui High School Valentine’s Day was held on Friday 12 February, as o
 
 Many hard hours of work and planning were put into making this day a success, right down to the last pink tutu. We could not thank everyone enough who contributed to this event, and for all of the support we received. This especially includes Kate Regan, one of our amazing student photographers, for taking most of these photos!
 
-Again, many many thanks,
+Again, many thanks,
 
 *Molly Fothergill & Ben Conley*  
 *Heads of Social*  
