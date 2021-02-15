@@ -2,6 +2,8 @@
 title: WHS Valentines Day 2021 - What a great start to 2021!!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359371/News/Valentines%20Day%202021/Main_Photo.jpg
+  description: Heads of Social, Molly Fothergill and Ben Conley with Associate
+    Principal, Mrs Spooner.
 news_author:
   date: 2021-02-12T03:11:27.328Z
 show_in_slider: true
