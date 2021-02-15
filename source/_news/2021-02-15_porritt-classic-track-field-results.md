@@ -1,5 +1,5 @@
 ---
-title: Porritt Classic Track & Field results
+title: Excellent results at the Porritt Classic Track & Field meeting
 news_author:
   date: 2021-02-15T04:08:57.113Z
   name: "Lisa Murphy "
