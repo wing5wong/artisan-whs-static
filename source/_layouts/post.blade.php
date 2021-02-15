@@ -16,7 +16,7 @@
                 "
         alt="" style="max-width: 100%">
         </a>
-        @if($page->image_credit or $page->feature_image["credit"])
+        @if($page->image_credit or array_key_exists('credit',$page->feature_image))
         <div class="image-credit">
             <em>Photo / {{$page->feature_image["credit"] ?: $page->image_credit}}</em>
         </div>
@@ -29,8 +29,8 @@
     @if($page->news_author)
         <p>
             <em>
-                @if($page->news_author["name"]){{$page->news_author["name"]}} <br>@endif
-                {{ $page->news_author["publication"]}} {{ date('j/n/y', $page->news_author["date"]) }}
+                @if(array_key_exists('name',$page->news_author)){{$page->news_author["name"]}} <br>@endif
+                @if(array_key_exists('publication',$page->news_author)){{ $page->news_author["publication"]}}@endif @if(array_key_exists('date',$page->news_author)){{ date('j/n/y', $page->news_author["date"]) }}@endif
             </em>
         </p>
 
