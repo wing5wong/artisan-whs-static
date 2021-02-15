@@ -25,8 +25,7 @@ I greatly appreciate your support and will continue to keep you informed as quic
 
 Kia kaha koutou  
 
-Martin McAllen  
+Martin McAllen\
 Principal
 
-
-[IMPORTANT TERM 1 DATES](https://res.cloudinary.com/whanganuihigh/image/upload/v1613369969/newsletters/Special_Newsletter_-_February_2021.pdf)
+[IMPORTANT TERM 1 DATES](https://res.cloudinary.com/whanganuihigh/image/upload/v1613428147/newsletters/Special_Newsletter_-_February_2021.pdf)
