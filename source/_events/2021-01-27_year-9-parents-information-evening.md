@@ -1,5 +1,5 @@
 ---
-title: Year 9 Parents Information evening - new rescheduled date
+title: "Rescheduled Year 9 Parents Information evening "
 date: 2021-03-03T10:05:21.100Z
 ---
 Year 9 Parents’ Information evening is to be held on Wednesday 3 March.  
