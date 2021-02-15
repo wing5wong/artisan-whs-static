@@ -2,7 +2,12 @@
 title: WHS Swim Champs / Lifesaving
 date: 2021-02-19T01:00:20.371Z
 ---
-WHS Swim Champs / Lifesaving - Friday 19 February
+WHS Swim Champs / Lifesaving - Friday 19 February  
+
+
+12.00pm to 2.00pm at the Splash Centre  
+(if we are still
+at Alert Level 2 only students and staff will attend).
 
 Sign ups for our WHS Swim Champs is now open.  
 There are two grades you can compete in A Grade (Competitive) and B Grade (Social).  
