@@ -7,7 +7,7 @@ news_author:
 show_in_slider: true
 date: 2021-02-15T04:08:57.172Z
 ---
-Excellent results over the weekend from some of our top athletes and Coach Greg Fromont. 💛💚  
+**Excellent results over the weekend from some of our top athletes and Coach Greg Fromont.** 💛💚  
 
 On Saturday a small group of WHS athletes headed to Hamilton with Coach Greg Fromont to compete in the elite Porritt Classic Track & Field meeting which is part of the current national circuit. WHS was represented by 3 current and one former pupil in the elite events.
 This meet follows on from the successful Cooks Classic in Whanganui where both Maggie Jones and Nat Kirk both produced efforts that took them to the top of the N.Z U18 rankings over 400m Hurdles.  
