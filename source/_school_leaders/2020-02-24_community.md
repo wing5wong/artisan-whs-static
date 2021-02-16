@@ -1,7 +1,6 @@
 ---
 title: Community
 category: Prefects
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1582577241/prefects/2020%20Prefect%20Photos/4.Head-of-Community...aaaaa........---Aranga-Molijn-_2.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435186/prefects/PREFECTS%202021/04_-_Head_of_Community_-_Trinity_Taylor_Moore_and_Rose_Hird_3.jpg
 ---
-Aranga Molijn
+Trinity Taylor Moore & Rose Hird
