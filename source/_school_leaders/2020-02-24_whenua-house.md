@@ -1,7 +1,6 @@
 ---
 title: Whenua
 category: Heads of House
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1582498325/prefects/2020%20Prefect%20Photos/13.Heads-of-Whenua---Renee-Teers-and-Rebekah-Phillips-_1.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435206/prefects/PREFECTS%202021/15_-_Head_of_Whenua_-_Emma_Wood_and_Bridie_Knapp_2.jpg
 ---
-Renee Teers & Rebekah Phillips
+Emma Wood & Bridie Knapp
