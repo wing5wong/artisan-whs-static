@@ -1,8 +1,8 @@
 ---
-title: WHS Swim Champs / Lifesaving
+title: WHS Swim Champs
 date: 2021-02-19T01:00:20.371Z
 ---
-WHS Swim Champs / Lifesaving - Friday 19 February  
+WHS Swim Champs - Friday 19 February  
 
 
 12.00pm to 2.00pm at the Splash Centre  
