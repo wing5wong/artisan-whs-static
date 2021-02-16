@@ -20,4 +20,4 @@ All students need to leave their lesson 5 minutes before their class photographs
 
 
 
-**View the Photo Schedule Times below...** 
+**Click on below to view the Photo Schedule Times...** 
