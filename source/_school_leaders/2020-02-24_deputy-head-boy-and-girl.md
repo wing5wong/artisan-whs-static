@@ -1,7 +1,6 @@
 ---
 title: Deputy Head Boy and Girl
 category: Deputy Heads of School
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1582577417/prefects/2020%20Prefect%20Photos/2.Deputy-Head-Boy-and-Deputy-Head-Girl---Scott-Emerson-and-Kara-Adrole..............-_1.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435185/prefects/PREFECTS%202021/02_-_Deputy_Head_-_Troy_Brennan_and_Lilee_Taylor_2.jpg
 ---
-Scott Emerson & Kara Adrole
+Troy Brennan & Lilee Taylor 
