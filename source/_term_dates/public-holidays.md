@@ -10,6 +10,8 @@ start_dates:
     body: Good Friday
   - date: 2021-04-05T04:29:33.023Z
     body: "Easter Monday "
+  - date: 2021-04-06T03:11:24.949Z
+    body: Easter Tuesday
   - date: 2021-04-25T04:29:51.542Z
     body: Anzac Day
   - date: 2021-04-26T00:11:19.683Z
