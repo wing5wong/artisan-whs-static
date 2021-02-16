@@ -1,7 +1,6 @@
 ---
 title: International
 category: Prefects
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1582582548/prefects/2020%20Prefect%20Photos/7.Heads-of-International---Gary-Chen-and-Elli-von-Holst-.............._1.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435193/prefects/PREFECTS%202021/07_-_Head_of_International_-_Finn_Nguyen_2.jpg
 ---
-Gary Chen & Elli von Holst
+Finn Nguyen
