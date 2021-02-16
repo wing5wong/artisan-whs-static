@@ -1,5 +1,5 @@
 ---
-title: Year 9 Parents Information Evening - Rescheduled to Tuesday 2 March
+title: Year 9 Parents Information Evening - Rescheduled to Tuesday, 2 March
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1574907236/Events/GREEN_WHS_HEADER.jpg
 news_author:
