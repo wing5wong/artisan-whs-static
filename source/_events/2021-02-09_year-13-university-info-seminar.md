@@ -4,8 +4,8 @@ date: 2021-02-18T01:51:44.636Z
 ---
 Mr Keene will run a seminar for year 13 students who are considering university as a future option. 
 
-This will be in the library, Thursday 18 February. 
+This will be in the library, period 2 on Thursday 18 February. 
 
-Entry is FREE but you MUST register using this link: [bit.ly/whsuniinfo2021](https://docs.google.com/forms/d/e/1FAIpQLSdFS1qrckiNNjuWyXDtXQ8fzGnYFQdnZS03FiV0fKj8aNpX6A/viewform) 
+Thanks to those who registered for this event. Entry is by individual ticket - these are in form class registers now. No ticket, no entry! 
 
-Last chance to sign up is Monday 15 February.
+**Forgot to register? See Mr. Keene, START of 1st break (Weds.) in LB1.**
