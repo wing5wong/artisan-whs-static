@@ -1,7 +1,6 @@
 ---
 title: Maunga
 category: Heads of House
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1582498331/prefects/2020%20Prefect%20Photos/9.Heads-of-Maunga---Jack-Galvin-and-Ranita-Kirk-_2.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435201/prefects/PREFECTS%202021/13_-_Head_of_Maunga_-_Flynn_Johnston_and_Rebecca_Allardice_1.jpg
 ---
-Jack Galvin & Ranita Kirk
+ Flynn Johnston & Rebecca Allardice
