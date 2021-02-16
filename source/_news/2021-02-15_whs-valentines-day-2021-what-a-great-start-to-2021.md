@@ -8,13 +8,13 @@ news_author:
   date: 2021-02-12T03:11:27.328Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359367/News/Valentines%20Day%202021/IMG_8388.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359366/News/Valentines%20Day%202021/IMG_8378.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359370/News/Valentines%20Day%202021/IMG_8395.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359364/News/Valentines%20Day%202021/IMG_8366.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359363/News/Valentines%20Day%202021/IMG_8368.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359360/News/Valentines%20Day%202021/IMG_7283.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359364/News/Valentines%20Day%202021/IMG_8366.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359362/News/Valentines%20Day%202021/IMG_8372.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359361/News/Valentines%20Day%202021/IMG_7288.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359360/News/Valentines%20Day%202021/IMG_7283.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359366/News/Valentines%20Day%202021/IMG_8378.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359370/News/Valentines%20Day%202021/IMG_8395.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359356/News/Valentines%20Day%202021/IMG_7269.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359354/News/Valentines%20Day%202021/IMG_7261.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613359353/News/Valentines%20Day%202021/IMG_7260.jpg
