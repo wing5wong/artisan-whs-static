@@ -8,4 +8,4 @@ This will be in the library, period 2 on Thursday 18 February.
 
 Thanks to those who registered for this event. Entry is by individual ticket - these are in form class registers now. No ticket, no entry! 
 
-**Forgot to register? See Mr. Keene, START of 1st break (Weds.) in LB1.**
+**Forgot to register? See Mr Keene, START of 1st break (Weds.) in LB1.**
