@@ -39,7 +39,7 @@
     <div class="col-sm-12">
         <h1 class="decorated py-3 mb-4">{{$headGroup}}</h1>
     </div>
-    @foreach($school_leaders->where('category',$headGroup) as $role )
+    @foreach($school_leaders->where('category',$headGroup)->sortBy('title') as $role )
     <div class="col-sm-12 col-md-6 col-lg-6 mb-5">
         <h2 class="school-leader-{{$role->title}}">{{ $role->title }}</h2>
 
