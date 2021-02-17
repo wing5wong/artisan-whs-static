@@ -10,4 +10,4 @@ Thanks to those who registered for this event.
 Entry is by individual ticket - these are in form class registers now.  
 No ticket, no entry! 
 
-**Forgot to register? See Mr Keene, START of 1st break (Weds.) in LB1.**
+
