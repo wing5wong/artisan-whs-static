@@ -29,5 +29,7 @@ You will need to:
 
 *Please note we are aiming to stick to this timeline, however we reserve the right to adjust it as needed. Thank you all for your cooperation, patience and enthusiasm.*
 
-**BREAK A LEG!!!**
+**BREAK A LEG!!!**  
 
+*Miss Armstrong*  
+*WHS Head of Drama*
