@@ -27,7 +27,7 @@ You will need to:
 2. Perform a scene from the [Audition Scripts](https://mtow.org/attachments/article/278/Mamma%20Mia%20Audition%20Scenes.pdf) (please familiarize yourself with them on your device, we will provide you with a hard copy at the audition)
 3. Sing a song of your choice, ideally to a track (YouTube/Spotify) or you can accompany yourself.
 
-**24/2/21 WEDNESDAY 3.30pm - 5.30pm** ~ Catch ups for those who are unable to audition on Tuesday. You will need to book a time from [Miss Armstrong](armstrong.r@whs.ac.nz<armstrong.r@whs.ac.nz>;) if you want to audition Wednesday. Some callbacks may also happen on this day.
+**24/2/21 WEDNESDAY 3.30pm - 5.30pm** ~ Catch ups for those who are unable to audition on Tuesday. You will need to book a time from [Miss Armstrong](armstrong.r@whs.ac.nz<armstrong.r@whs.ac.nz>) if you want to audition Wednesday. Some callbacks may also happen on this day.
 
 **25/2/21 THURSDAY** ~ People who receive callbacks will be notified by email and will need to prepare a song from the show (we may assign you one).
 
