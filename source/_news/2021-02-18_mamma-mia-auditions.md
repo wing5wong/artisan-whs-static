@@ -7,9 +7,9 @@ news_author:
 show_in_slider: true
 date: 2021-02-18T06:49:27.378Z
 ---
-After a two year break, Whanganui High School is pleased to announce their production of MAMMA MIA coming to the Royal Wanganui Opera House this May.
+After a two year break, Whanganui High School is pleased to announce their production of **MAMMA MIA** coming to the Royal Wanganui Opera House this May.
 
-#### Students are invited to audition this week.
+#### Students are invited to audition next week.
 
 **22/2/21 MONDAY FIRST BREAK** ~ we will be teaching the Dance Audition in the School Hall.
 
