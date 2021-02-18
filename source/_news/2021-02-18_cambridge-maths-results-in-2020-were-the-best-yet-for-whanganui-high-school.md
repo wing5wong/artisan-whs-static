@@ -13,7 +13,7 @@ news_author:
 show_in_slider: true
 date: 2021-02-18T23:47:24.288Z
 ---
-Students at Whanganui High School have again aced their Cambridge Mathematics exams, with 15 of the 17 Year 11 students receiving an A grade or better.
+**Students at Whanganui High School have again aced their Cambridge Mathematics exams, with 15 of the 17 Year 11 students receiving an A grade or better.**
 
 The Cambridge International General Certificate of Secondary Education Mathematics course (IGCSE) has been offered at the school for the past eight years and became part of the curriculum for the first time in 2019.
 
