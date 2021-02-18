@@ -7,7 +7,7 @@ feature_image:
   credit: Mike Tweed
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613692204/News/Cambridge_Maths_exams_aced_once_again._Chron_photo_Mike_Tweed.jpg
 news_author:
-  date: 2021-02-18T23:47:24.236Z
+  date: 2021-02-16T23:47:24.236Z
   name: Mike Tweed
   publication: Whanganui Chronicle
 show_in_slider: true
