@@ -1,5 +1,7 @@
 ---
 title: Mamma Mia Auditions
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613633033/News/Mamma_Mia_1st_poster.png
 news_author:
   date: 2021-02-18T06:49:27.134Z
   name: Miss Armstrong
