@@ -6,6 +6,8 @@ news_author:
   date: 2021-02-18T06:49:27.134Z
   name: Miss Armstrong
   publication: WHS Head of Drama
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613637236/News/Mamma_Mia.png
 show_in_slider: true
 date: 2021-02-18T06:49:27.378Z
 ---
