@@ -15,7 +15,7 @@ After a two year break, Whanganui High School is pleased to announce their produ
 
 [**Watch The Promo**](https://drive.google.com/file/d/1Gig2c9_T88qu2N8jDItRyzF6p-uPEXM7/view?ts=602e1b35)
 
-#### Students are invited to audition next week.
+#### **Students are invited to audition next week.**
 
 **22/2/21 MONDAY FIRST BREAK** ~ we will be teaching the Dance Audition in the School Hall.
 
