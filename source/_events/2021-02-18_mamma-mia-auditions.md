@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613633033/News/Ma
 ---
 After a two year break, Whanganui High School is pleased to announce their production of **MAMMA MIA** coming to the Royal Wanganui Opera House this May.
 
-#### Students are invited to audition next week.
+#### Students are invited to audition this week.
 
 **22/2/21 MONDAY FIRST BREAK** ~ we will be teaching the Dance Audition in the School Hall.
 
