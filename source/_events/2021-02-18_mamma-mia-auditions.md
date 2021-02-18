@@ -2,6 +2,8 @@
 title: Mamma Mia Auditions
 date: 2021-02-22T07:41:11.327Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613633033/News/Mamma_Mia_1st_poster.png
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613637236/News/Mamma_Mia.png
 ---
 After a two year break, Whanganui High School is pleased to announce their production of **MAMMA MIA** coming to the Royal Wanganui Opera House this May.
 
