@@ -8,7 +8,7 @@ feature_image:
   credit: Bevan Conley
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613693674/News/Tash_and_Scott_Burney._chron_13.2.21_photo_bevan_conley.jpg
 news_author:
-  date: 2021-02-19T00:13:20.287Z
+  date: 2021-02-13T00:13:20.287Z
   publication: Whanganui Chronicle
   name: Logan Tutty
 show_in_slider: false
