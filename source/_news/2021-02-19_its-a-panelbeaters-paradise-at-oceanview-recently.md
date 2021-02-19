@@ -28,13 +28,13 @@ Ethan Levien narrowly missed getting caught in the incident, finishing second in
 
 That left Levien on 47 points, and leading the championship, but a DNF in heat three, Levien's final race, ended his championship.
 
-Hughes was dominant again in heat three coming home in first ahead of Keegan Levien, Brian Taniwha (98V), **Sturzaker** and Trevor Greig (81V).
+Hughes was dominant again in heat three coming home in first ahead of Keegan Levien, Brian Taniwha (98V), Sturzaker and Trevor Greig (81V).
 
 Going into the final heat Hughes led Keegan Levien by a solitary point with **Sturzaker** and Ethan Levien tied for third, a further four points back, although Ethan had completed his racing.
 
 There was an immediate stoppage to heat four, when Keegan Levien's car remained stationary at the drop of the green flag, ending his title challenge.
 
-**Johnston** led for most of the race, until he was run down by Rowe and Byron Rowlands (97P), eventually finishing third ahead of impressive debutant **Cody Lockett**, driving his father Blair's 89V machine.
+**Johnston** led for most of the race, until he was run down by Rowe and Byron Rowlands (97P), eventually **finishing third** ahead of **impressive debutant Cody Lockett**, driving his father Blair's 89V machine.
 
 Hughes was content to run just behind the lead pack, until he was spun by **Sturzaker** on the final corner.
 
@@ -46,7 +46,7 @@ However, a major pile-up in heat two saw many of the favourites eliminated eithe
 
 Seth McKay (48G) caught the wall at the end of the back straight and Richard Hudson (83V) had nowhere to go, ploughing into the back of McKay's car.
 
-In quick succession Loveridge, Nathan Smith (29V), Goldsack, Jason Pointon (71V), Darren McKay (18V) and Mike Lovell (10V) joined the fray in a panelbeater's delight.
+In quick succession Loveridge, **Nathan Smith (29V)**, Goldsack, Jason Pointon (71V), Darren McKay (18V) and Mike Lovell (10V) joined the fray in a panelbeater's delight.
 
 Of the cars involved, only Smith was able to continue, finishing third when the race restarted, behind Ray Jaggard (48V) and Huijs.
 
