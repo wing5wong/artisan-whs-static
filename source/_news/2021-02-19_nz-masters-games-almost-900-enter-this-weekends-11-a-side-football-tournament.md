@@ -2,8 +2,9 @@
 title: "NZ Masters Games: Almost 900 enter this weekend's 11-a-side football
   tournament"
 feature_image:
-  description: "Tash and Scott Burney from Whanganui Athletic are running the show
-    at Wembley Park for the Masters Games. "
+  description: "Former WHS students, Tash (nee Kirk) and Scott Burney from
+    Whanganui Athletic are running the show at Wembley Park for the Masters
+    Games. "
   credit: Bevan Conley
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613693674/News/Tash_and_Scott_Burney._chron_13.2.21_photo_bevan_conley.jpg
 news_author:
