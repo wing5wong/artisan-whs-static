@@ -2,7 +2,7 @@
 title: Special Newsletter from Principal, Mr Martin McAllen
 is_emergency: false
 date: 2021-02-17T04:46:53.975Z
-subtitle: Alert Level 2 and important events for Term 1
+subtitle: Important events for Term 1
 ---
 SPECIAL NEWSLETTER - February 2021  
 
