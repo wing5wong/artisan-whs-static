@@ -4,7 +4,7 @@ date: 2021-02-25T01:01:38.218Z
 image: ""
 image_gallery: []
 ---
-#### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens
+#### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens.
 
 •	All students are to **go straight to Cooks Gardens** in the morning.
 
