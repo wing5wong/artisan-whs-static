@@ -1,7 +1,7 @@
 ---
 title: Health Nurses
 date: 2019-06-26T21:56:17.468Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613957745/facilities/School_nurses_combined_22_Feb_2021.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613964293/facilities/health_nurses.jpg
 description: |
   The public health nurses for our school are Jo Anne and Deborah.
 ---
