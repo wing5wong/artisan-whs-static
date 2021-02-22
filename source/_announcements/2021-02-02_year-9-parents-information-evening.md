@@ -1,31 +1,51 @@
 ---
-title: Special Newsletter from Principal, Mr Martin McAllen
+title: Inter-House Athletics Day - Whole School
 is_emergency: false
 date: 2021-02-17T04:46:53.975Z
-subtitle: Important events for Term 1
+subtitle: Thursday, 25 February, at Cooks Gardens
 ---
-SPECIAL NEWSLETTER - February 2021  
+#### Inter-House Athletics Day - Parent Information  
+#### Thursday, 25 February, at Cooks Gardens.
 
-This special newsletter is just focusing on two specific areas: our movement into Alert Level 2 until at least 11:59 pm on Wednesday, 17 February; and important events for the rest of Term 1.  
+•	All students are to go straight to Cooks Gardens in the morning.
 
-I sent our Revised and Updated Alert Level 2 Safety Plan (2021) to all teaching and support staff members on Sunday evening. Key points for parents and students:  
+•	Competitive athletes are to be there by 8.30am, and all other students must be there by 9.30am.
 
-* Whanganui High School is open as usual.  
-* All students and staff who are unwell must stay at home.  
-* Physical distancing measures will be maintained so that there is no breathing on or touching of each other.  
-* Good hygiene and cleaning practices will be followed: regular hand-washing and drying; coughing or sneezing into one's own elbow; no spitting; keeping surfaces as clean as possible.  
-* Accurate contact tracing registers will continue to be maintained as well as full utilisation of the NZ Covid Tracer app. All visitors to the school must sign in at the Main Reception or the Student Centre - no exceptions.  
-* Hand sanitiser is available in every single classroom and common area in the school.   
-* Relevant instructional signage is put up in public places throughout the school.  
-* House Assemblies will be cancelled for at least all of this week.  
-* The Year 9 Parents' Information Evening on Wednesday, 17 February has been postponed to **6.30 pm, Tuesday, 2 March**.  
-* Inter-regional Professional Learning Development and class trips have been postponed until at least Thursday, 18 February.  
+•	Buses will run as usual. Students should get off at City College and walk to Cooks Gardens from there. At the end of the day, bus students will catch the bus from City College.
 
-I greatly appreciate your support and will continue to keep you informed as quickly as possible regarding any significant developments. I attach for your information Important Term 1 dates.  
+•	On arrival students are to go straight to the Main stand, and sit in form class groups under House banners, then attendance rolls will be taken.
 
-Kia kaha koutou  
+•	Students are encouraged to wear House colours. Face paint is allowed but must be applied at home. Cooks Gardens management have a zero tolerance of inappropriate use of paint on their facility. Students must respect this!
 
-*Martin McAllen*  
-Principal
+•	We also have six fun activities situated around the outside of the track for ALL students to get involved in. House points will be given for participation. 
+
+•	Everyone is to stay on site throughout the whole day. If a student has an appointment – for example, doctor or dentist -  then they must report to Mrs Barr at the First Aid tent before leaving the grounds. She will issue a pass.
+
+•	We have the Maori Wardens assisting us on the gates. 
+
+•	There will be food, drink and coffee vans on site all day. Students need to bring their lunch and a water bottle. A water fountain is available to top up bottles and we also have sun screen stations.
+
+•	We recommend that students do not bring laptops/tablets to athletics, and cell phones are strictly the responsibility of their owners.
+
+•	Students need to come prepared for the weather conditions. Sunhats and sunscreen, and something warm to wear if the weather is not so hot.
+
+•	We have a First Aid tent on site all day.
+
+•	Again this year, our Public Health nurses are setting up an information marquee promoting Sun Smart – Slip, Slop, Slap, and Wrap. They will also be promoting drinking water rather than cordial or fizz.
+
+•	Parents are welcome to come and support sons and daughters. 
+If you cannot come we have a Website with live updates throughout the day. Go onto bit.ly/whshouse and find out if your son or daughter is in any finals, and how their House is going. 
+
+•	If by any chance the weather turns bad, cancellations will be on our WHS Facebook page, WHS Sport Facebook page and WHS website by 7am. 
+
+. 
+
+We are looking forward to an awesome day, filled with School spirit, fun, participation and lots of House support for our top athletes as they showcase in front of the whole school. 
+
+Please phone the school if you have any questions.
+
+
+
+
 
 [IMPORTANT TERM 1 DATES](https://res.cloudinary.com/whanganuihigh/image/upload/v1613428147/newsletters/Special_Newsletter_-_February_2021.pdf)
