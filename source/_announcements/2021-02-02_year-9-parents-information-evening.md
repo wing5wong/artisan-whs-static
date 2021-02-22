@@ -9,7 +9,7 @@ subtitle: Thursday, 25 February, at Cooks Gardens
 
 •	All students are to **go straight to Cooks Gardens** in the morning.
 
-•	**Competitive athletes are to be there by 8.30am, and all other students must be there by 9.30am.**
+•	**Competitive athletes are to be there by 8.30am, and *all other students must be there by 9.30am.***
 
 •	**Buses will run as usual.** Students should get off at City College and walk to Cooks Gardens from there. At the end of the day, bus students will catch the bus from City College.
 
