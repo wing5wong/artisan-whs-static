@@ -4,7 +4,7 @@ is_emergency: false
 date: 2021-02-17T04:46:53.975Z
 subtitle: Thursday, 25 February, at Cooks Gardens
 ---
-#### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens
+#### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens.
 
 •	All students are to **go straight to Cooks Gardens** in the morning.
 
@@ -42,4 +42,7 @@ We are looking forward to an awesome day, filled with School spirit, fun, partic
 
 Please phone the school if you have any questions.
 
-[IMPORTANT TERM 1 DATES](https://res.cloudinary.com/whanganuihigh/image/upload/v1613957495/newsletters/IMPORTANT_TERM_1_DATES..pdf)
+.  
+
+*Click on the below link for:*  
+[*IMPORTANT TERM 1 DATES*](https://res.cloudinary.com/whanganuihigh/image/upload/v1613957495/newsletters/IMPORTANT_TERM_1_DATES..pdf)
