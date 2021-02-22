@@ -1,24 +1,19 @@
 ---
-title: Health Nurse
+title: Health Nurses
 date: 2019-06-26T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569369022/facilities/School_nurses.jpg
-description: >
-  The public health nurse for our school is Michelle and Jo. They visit our
-  school every Monday, Wednesday and Thursday during the school term.They are
-  happy to be contacted by phone, text or e-mail out of these times.
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613957745/facilities/School_nurses_combined_22_Feb_2021.jpg
+description: |
+  The public health nurses for our school are Jo Anne and Deborah.
 ---
-The public health nurses for our school are Michelle and Jo. They visit our school every Monday, Wednesday and Thursday during the school term. They are happy to be contacted by phone, text or e-mail out of these times.
+The public health nurses for our school are Jo Anne and Deborah. They visit our school every day during the school term.
 
 **Clinic days are:**
 
-            Monday:         9am to 11am
+            Monday to Thursday      9.00am to 2.30pm
 
-            Wednesday:    11.45am to 1.45pm
+\    Friday                              9.00am to 2.00pm
 
-            Thursday:        9.30am to 11.30am
-
-**She can help with:**
+**They can help with:**
 
 * Health information and concerns
 * Health Assessments including Sexual Health, Contraception and STI checks
@@ -28,8 +23,4 @@ The public health nurses for our school are Michelle and Jo. They visit our scho
 * Referrals to other services and/or agencies
 * Or any other health concerns you may have.
 
-Appointments can be made at the **Student Centre** or by contacting her directly on:
-
-Mobile: 027 496 8368 (Michelle) or 021 903 292 (Jo)
-
-Email: nurse@whs.ac.nz
+Appointments can be made at the **Student Centre.**
