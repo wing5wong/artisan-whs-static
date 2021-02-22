@@ -17,7 +17,7 @@ After a two year break, Whanganui High School is pleased to announce their produ
 
 You will need to:  
 
-1. Perform the dance you learned on Monday.
+1. Perform the dance you learned on Monday. [Dance Audition Video link - here.](https://www.facebook.com/watch/?v=855335925311759)
 2. Perform a scene from the [Audition Scripts](https://mtow.org/attachments/article/278/Mamma%20Mia%20Audition%20Scenes.pdf) (please familiarize yourself with them on your device, we will provide you with a hard copy at the audition)
 3. Sing a song of your choice, ideally to a track (YouTube/Spotify) or you can accompany yourself.
 
@@ -33,5 +33,5 @@ You will need to:
 
 **BREAK A LEG!!!**
 
-*Miss Armstrong*  
+*Miss Armstrong*\
 *WHS Head of Drama*
