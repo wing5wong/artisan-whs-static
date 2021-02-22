@@ -1,5 +1,5 @@
 ---
-title: WHS House Athletics Day - Whole School
+title: WHS Inter-House Athletics Day - Whole School
 date: 2021-02-25T01:01:38.218Z
 image: ""
 image_gallery: []
