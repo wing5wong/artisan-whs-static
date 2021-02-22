@@ -4,7 +4,6 @@ is_emergency: false
 date: 2021-02-17T04:46:53.975Z
 subtitle: Thursday, 25 February, at Cooks Gardens
 ---
-
 •	All students are to **go straight to Cooks Gardens** in the morning.
 
 •	**Competitive athletes are to be there by 8.30am, and *all other students must be there by 9.30am.***
@@ -42,8 +41,4 @@ We are looking forward to an awesome day, filled with School spirit, fun, partic
 
 Please phone the school if you have any questions.
 
-
-
-
-
-[IMPORTANT TERM 1 DATES](https://res.cloudinary.com/whanganuihigh/image/upload/v1613428147/newsletters/Special_Newsletter_-_February_2021.pdf)
+[IMPORTANT TERM 1 DATES](https://res.cloudinary.com/whanganuihigh/image/upload/v1613957495/newsletters/IMPORTANT_TERM_1_DATES..pdf)
