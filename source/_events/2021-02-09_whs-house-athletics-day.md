@@ -1,13 +1,13 @@
 ---
 title: WHS House Athletics Day - Whole School
 date: 2021-02-25T01:01:38.218Z
+image: ""
+image_gallery: []
 ---
-WHS House Athletics Day - Thursday 25 February  
+[WHS House Athletics Day](https://res.cloudinary.com/whanganuihigh/image/upload/v1613953868/newsletters/Inter_-_House_Athletics_Day_Thursday_25_March_2021.pdf) - Thursday 25 February  
 Whole School participating  
 
-
 9.00am start (approx) at Cooks Gardens.  
-More in-depth information about the day’s organisation will be sent prior to the event.  
 Parents and caregivers are welcome to attend. 
 
 **Sign ups** for Athletics House Day are for **Track and Fields events only**.  
