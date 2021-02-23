@@ -3,7 +3,7 @@ title: Mt Ruapehu Apprenticeship Programmes
 date: 2021-02-23T02:55:54.170Z
 closing_date: ""
 ---
-![]()
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1614049492/Careers%20and%20Vocational/mt-ruapehu-launch_23_Feb_2021.jpg)
 
 As NZ is moving towards training in the workforce and providing apprenticeships within the snow sports industry.  What better place to provide this than at Mt Ruapehu, in this unique dual world heritage area.
 
