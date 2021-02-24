@@ -14,7 +14,7 @@ date: 2021-02-24T03:32:42.232Z
 ---
 Two Whanganui riders have blown away the competition at the recent New Zealand Junior Motocross Championships in Tauranga.
 
-Troy Bullock and Karaitiana Horne both took out 1NZ in their respective classes. Troy won the 14-16yrs 85cc class and Karaitiana won the 12-16yrs womens class at the Junior Nationals on February 5, 6 and 7.
+**Troy Bullock** and Karaitiana Horne both took out **1NZ in their respective classes. Troy won the 14-16yrs 85cc class** and Karaitiana won the 12-16yrs womens class at the Junior Nationals on February 5, 6 and 7.
 
 Committee Member of the Wanganui Motocross Club Faye Bullock said it is a huge achievement and has been a long time coming for their riders.
 
@@ -22,7 +22,7 @@ Committee Member of the Wanganui Motocross Club Faye Bullock said it is a huge a
 
 After the 2020 event was cancelled due to Covid, riders were well and truly ready to hit the track.
 
-Troy, a Year 12 student at Whanganui High School, had a strong build up to the final. He had two first and second places in the heats before winning the big one.
+**Troy, a Year 12 student at Whanganui High School, had a strong build up to the final. He had two first and second places in the heats before winning the big one.**
 
 "He has been riding since he was about seven years old. It's been working at it in a long time and as a mum I'm just really proud. He has done a lot of racing over the last six weeks," Faye said.
 
