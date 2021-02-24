@@ -3,8 +3,10 @@ title: Inter-House Athletics Day - Whole School
 is_emergency: false
 date: 2021-02-17T04:46:53.975Z
 subtitle: Thursday, 25 February, at Cooks Gardens
+image: ""
 ---
-#### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens.  
+#### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens.
+
 💚💛💙❤️     
 
 **Click on bit.ly/whshouse for information regarding schedules & points updates throughout the day!** 👍
@@ -40,12 +42,17 @@ If you cannot come we have a Website with live updates throughout the day. Go on
 
 •	If by any chance the weather turns bad, cancellations will be on our WHS Facebook page, WHS Sport Facebook page and WHS website by 7am. 
 
-
 We are looking forward to an awesome day, filled with School spirit, fun, participation and lots of House support for our top athletes as they showcase in front of the whole school. 
 
 Please phone the school if you have any questions.
+.
 
-.  
+**WHS House Athletics Programme** ![💚](https://www.facebook.com/images/emoji.php/v9/ted/1.5/16/1f49a.png)![💛](https://www.facebook.com/images/emoji.php/v9/t6e/1.5/16/1f49b.png)![💙](https://www.facebook.com/images/emoji.php/v9/tc5/1.5/16/1f499.png)![❤️](https://www.facebook.com/images/emoji.php/v9/tf3/1.5/16/2764.png)
 
-*Click on the below link for:*  
-[*IMPORTANT TERM 1 DATES*](https://res.cloudinary.com/whanganuihigh/image/upload/v1613957495/newsletters/IMPORTANT_TERM_1_DATES..pdf)
+
+
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1614202330/Events/WHS_Athletics_day_programme_1.jpg)
+
+  
+
+![](https://res.cloudinary.com/whanganuihigh/image/upload/v1614202399/Events/WHS_Athletics_day_programme_2.jpg)
