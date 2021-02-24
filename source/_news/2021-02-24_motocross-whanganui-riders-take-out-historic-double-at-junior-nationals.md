@@ -1,8 +1,8 @@
 ---
 title: "Motocross: Whanganui riders take out historic double at Junior Nationals"
 feature_image:
-  description: Troy Bullock took out the 14-16yrs 85cc class at the New Zealand
-    Junior Motocross Championships.
+  description: Troy Bullock (111) took out the 14-16yrs 85cc class at the New
+    Zealand Junior Motocross Championships.
   credit: Sophie Pennicott
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614137774/News/Troy_Bullock_14-16yrs_85cc_NZ_Jnr_MX_Champs._chron_23.2.21.photo_Sophie_Pennicott.jpg
 news_author:
