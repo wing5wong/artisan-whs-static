@@ -12,6 +12,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614137389/News/Brass_Whanganui_s_Sound_Canvas_chron_23.2.21.jpg
     description: Brass Whanganui's Sound Canvas performance is held on the stage of
       the Royal Whanganui Opera House. Photo / Michael Davis.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614137491/News/Sound-Canvas-2021-Event-Promo-Image-20a.jpg
 show_in_slider: false
 date: 2021-02-24T03:07:07.365Z
 ---
