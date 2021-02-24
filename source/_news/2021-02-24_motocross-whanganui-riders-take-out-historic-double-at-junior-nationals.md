@@ -30,7 +30,7 @@ It has been over 30 years, since 1985 that the club had a rider get an NZ placin
 
 "For Troy and Karaitiana to do that is really special."
 
-Other Whanganui riders included **Chase Williamson** and Finn Lennox, who placed **10th** and 28th respectively in the 12-13yrs 85cc class.
+Other Whanganui riders included **Chase Williamson** and Finn Lennox, who placed **10th** and 28th respectively in the **12-13yrs 85cc class.**
 
 Isaac Ashworth placed 17th in the 8-11yrs 85cc class and Jet Ashworth finished 21st in the 14-16yrs 250cc class.
 
