@@ -7,6 +7,9 @@ image_gallery: []
 #### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens.
 💚💛💙❤️  
 
+**Click on bit.ly/whshouse for information regarding schedules & points updates throughout the day!** 👍
+ 
+
 
 
 •	All students are to **go straight to Cooks Gardens** in the morning.
