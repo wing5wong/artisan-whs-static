@@ -4,7 +4,8 @@ is_emergency: false
 date: 2021-02-17T04:46:53.975Z
 subtitle: Thursday, 25 February, at Cooks Gardens
 ---
-#### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens. 💚💛💙❤️     
+#### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens.  
+💚💛💙❤️     
 
 **Click on bit.ly/whshouse for information regarding schedules & points updates throughout the day!** 👍
 
