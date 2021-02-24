@@ -12,9 +12,10 @@ date: 2021-02-22T00:36:37.412Z
 Whole School participating  💚💛💙❤️ 
 
 Looking forward to seeing you all at Cooks 🤗🤗  
+.  
 
 Click on bit.ly/whshouse for information regarding schedules & points updates throughout the day! 👍  
-.  
+  
   
 
 **WHS House Athletics PROGRAMME below...** 
