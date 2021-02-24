@@ -1,6 +1,6 @@
 ---
 title: Mamma Mia Auditions
-date: 2021-02-24T07:41:11.327Z
+date: 2021-02-26T07:41:11.327Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613633033/News/Mamma_Mia_1st_poster.png
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613637236/News/Mamma_Mia.png
