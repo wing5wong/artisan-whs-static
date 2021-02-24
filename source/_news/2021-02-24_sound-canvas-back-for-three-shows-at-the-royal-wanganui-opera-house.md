@@ -3,10 +3,15 @@ title: Sound Canvas back for three shows at the Royal Wanganui Opera House
 feature_image:
   description: Hamish Jellyman wrote two songs and arranged two more for Sound Canvas 2021.
   credit: Lewis Gardner
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614137359/News/Hamish_Jellyman._chron_23.2.21_photo_lewis_gardner.jpg
 news_author:
   date: 2021-02-23T03:07:07.280Z
   name: Mike Tweed
   publication: Whanganui Chronicle
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614137389/News/Brass_Whanganui_s_Sound_Canvas_chron_23.2.21.jpg
+    description: Brass Whanganui's Sound Canvas performance is held on the stage of
+      the Royal Whanganui Opera House. Photo / Michael Davis.
 show_in_slider: false
 date: 2021-02-24T03:07:07.365Z
 ---
