@@ -4,11 +4,11 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435186/prefects/PREFECTS%202021/01_-_Head_of_School_-_Blair_Gowan_and_Sophia_Unga-Cribb_2.jpg
   description: Blair Gowan (Head Boy) & Sophia Unga-Cribb (Head Girl)
 news_author:
-  date: 2021-02-01T04:50:38.168Z
+  date: 2021-02-25T04:50:38.168Z
   publication: River City Press
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435185/prefects/PREFECTS%202021/02_-_Deputy_Head_-_Troy_Brennan_and_Lilee_Taylor_2.jpg
-    description: "Deputy Head - Troy Brennan & Lilee Taylor "
+    description: Troy Brennan (Deputy Head Boy) & Lilee Taylor (Deputy Head Girl)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435186/prefects/PREFECTS%202021/03_-_Head_of_Academia_-_Lennart_Nowak_and_Akshima_Marwah_1.jpg
     description: Head of Academia - Lennart Nowak & Akshima Marwah
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435186/prefects/PREFECTS%202021/04_-_Head_of_Community_-_Trinity_Taylor_Moore_and_Rose_Hird_4.jpg
@@ -35,7 +35,7 @@ image_gallery:
     description: "Head of Moana - Max Verhaaren & Kera Forrest "
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435206/prefects/PREFECTS%202021/15_-_Head_of_Whenua_-_Emma_Wood_and_Bridie_Knapp_2.jpg
     description: Head of Whenua - Emma Wood & Bridie Knapp
-show_in_slider: true
+show_in_slider: false
 date: 2021-02-25T04:50:38.266Z
 ---
 Whanganui High School News - February 2021  
