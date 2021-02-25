@@ -9,8 +9,6 @@ image: ""
 
 💚💛💙❤️     
 
-
-
 •	All students are to **go straight to Cooks Gardens** in the morning.
 
 •	**Competitive athletes are to be there by 8.30am, and *all other students must be there by 9.30am.***
@@ -44,17 +42,13 @@ If you cannot come we have a Website with live updates throughout the day. Go on
 
 We are looking forward to an awesome day, filled with School spirit, fun, participation and lots of House support for our top athletes as they showcase in front of the whole school. 
 
-Please phone the school if you have any questions.  
+Please phone the school if you have any questions.\
 .  
 
-Click on bit.ly/whshouse for information regarding schedules & points updates throughout the day! 👍
+Click on [bit.ly/whshouse](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home?fbclid=IwAR01laP974Vw5D6_i2ufYhiwRkeC7I5b2t1uvsilfU5bF9Wf26exqZczSZM) for information regarding schedules & points updates throughout the day! 👍
 
 **WHS House Athletics Programme** ![💚](https://www.facebook.com/images/emoji.php/v9/ted/1.5/16/1f49a.png)![💛](https://www.facebook.com/images/emoji.php/v9/t6e/1.5/16/1f49b.png)![💙](https://www.facebook.com/images/emoji.php/v9/tc5/1.5/16/1f499.png)![❤️](https://www.facebook.com/images/emoji.php/v9/tf3/1.5/16/2764.png)
 
-
-
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1614202330/Events/WHS_Athletics_day_programme_1.jpg)
-
-  
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1614202399/Events/WHS_Athletics_day_programme_2.jpg)
