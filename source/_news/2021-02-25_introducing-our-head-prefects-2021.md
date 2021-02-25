@@ -5,6 +5,7 @@ feature_image:
   description: Blair Gowan (Head Boy) & Sophia Unga-Cribb (Head Girl)
 news_author:
   date: 2021-02-01T04:50:38.168Z
+  publication: River City Press
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435185/prefects/PREFECTS%202021/02_-_Deputy_Head_-_Troy_Brennan_and_Lilee_Taylor_2.jpg
     description: "Deputy Head - Troy Brennan & Lilee Taylor "
