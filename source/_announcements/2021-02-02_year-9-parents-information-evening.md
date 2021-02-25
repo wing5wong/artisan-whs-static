@@ -47,7 +47,7 @@ We are looking forward to an awesome day, filled with School spirit, fun, partic
 
 Click on [bit.ly/whshouse](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home?fbclid=IwAR01laP974Vw5D6_i2ufYhiwRkeC7I5b2t1uvsilfU5bF9Wf26exqZczSZM) for information regarding schedules & points updates throughout the day! 👍
 
-**WHS House Athletics Programme** ![💚](https://www.facebook.com/images/emoji.php/v9/ted/1.5/16/1f49a.png)![💛](https://www.facebook.com/images/emoji.php/v9/t6e/1.5/16/1f49b.png)![💙](https://www.facebook.com/images/emoji.php/v9/tc5/1.5/16/1f499.png)![❤️](https://www.facebook.com/images/emoji.php/v9/tf3/1.5/16/2764.png)
+**Click on WHS House Athletics Programme below..** ![💚](https://www.facebook.com/images/emoji.php/v9/ted/1.5/16/1f49a.png)![💛](https://www.facebook.com/images/emoji.php/v9/t6e/1.5/16/1f49b.png)![💙](https://www.facebook.com/images/emoji.php/v9/tc5/1.5/16/1f499.png)![❤️](https://www.facebook.com/images/emoji.php/v9/tf3/1.5/16/2764.png)
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1614202330/Events/WHS_Athletics_day_programme_1.jpg)
 
