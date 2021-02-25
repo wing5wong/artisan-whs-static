@@ -20,7 +20,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435193/prefects/PREFECTS%202021/07_-_Head_of_International_-_Finn_Nguyen_2.jpg
     description: Head of International - Finn Nguyen
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435192/prefects/PREFECTS%202021/08_-_Head_of_Maori_-_Kevin_Rennie_and_Rylee_Wroe_1.jpg
-    description: Head of Maori - Kevin Rennie & Rylee Wroe
+    description: Head of Māori - Kevin Rennie & Rylee Wroe
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435199/prefects/PREFECTS%202021/09_-_Head_of_Pasifika_-_Molly_Bullock_2.jpg
     description: "Head of Pasifika - Molly Bullock "
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435199/prefects/PREFECTS%202021/10_-_Head_of_Social_-_Ben_Conley_and_Molly_Fothergill_3.jpg
