@@ -42,7 +42,7 @@ If you cannot come we have a Website with live updates throughout the day. Go on
 
 We are looking forward to an awesome day, filled with School spirit, fun, participation and lots of House support for our top athletes as they showcase in front of the whole school. 
 
-Please phone the school if you have any questions.\
+ 
 .  
 
 Click on [bit.ly/whshouse](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home?fbclid=IwAR01laP974Vw5D6_i2ufYhiwRkeC7I5b2t1uvsilfU5bF9Wf26exqZczSZM) for information regarding schedules & points updates throughout the day! 👍
