@@ -38,10 +38,10 @@ image_gallery:
 show_in_slider: false
 date: 2021-02-25T04:50:38.266Z
 ---
-Whanganui High School News - February 2021  
+**Whanganui High School News - February 2021**  
 
 **⭐️ INTRODUCING OUR HEAD PREFECTS 2021 ⭐️**
 
-**Congratulations to you all!!** 👏👏 🥳
+**Congratulations to you all!!** 👏👏 
 
-[**READ about our Head Prefect Team** in the February 2021 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1614218505/newsletters/FEBRUARY_2021_rivercity_press.ai_new-small.pdf)
+[READ about our Head Prefect Team in the February 2021 edition of our School Newsletter](https://res.cloudinary.com/whanganuihigh/image/upload/v1614218505/newsletters/FEBRUARY_2021_rivercity_press.ai_new-small.pdf)
