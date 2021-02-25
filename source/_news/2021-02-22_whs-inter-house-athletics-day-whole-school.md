@@ -14,8 +14,6 @@ Whole School participating  💚💛💙❤️
 Looking forward to seeing you all at Cooks 🤗🤗  
 .  
 
-Click on bit.ly/whshouse for information regarding schedules & points updates throughout the day! 👍  
-  
-  
+Click on [bit.ly/whshouse](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home?fbclid=IwAR01laP974Vw5D6_i2ufYhiwRkeC7I5b2t1uvsilfU5bF9Wf26exqZczSZM) for information regarding schedules & points updates throughout the day! 👍  
 
-**WHS House Athletics PROGRAMME below...** 
+**Click on WHS House Athletics PROGRAMME below...**
