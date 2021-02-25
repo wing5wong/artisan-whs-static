@@ -2,7 +2,7 @@
 title: Introducing our Head Prefects 2021!!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435186/prefects/PREFECTS%202021/01_-_Head_of_School_-_Blair_Gowan_and_Sophia_Unga-Cribb_2.jpg
-  description: Blair Gowan (Head Boy) & Sophia Unga-Cribb (Head Girl)
+  description: BLAIR GOWAN (Head Boy) & SOPHIA UNGA-CRIBB (Head Girl)
 news_author:
   date: 2021-02-25T04:50:38.168Z
   publication: River City Press
