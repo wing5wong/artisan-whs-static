@@ -50,4 +50,4 @@ Jellyman said Sound Canvas required a lot more organisation than standard Brass 
 
 "The crazier the idea, the cooler it will probably turn out."
 
-Brass Whanganui's Sound Canvas will take place at the Royal Whanganui Opera House on March 27 (two shows) and March 28 (one show).
+**Brass Whanganui's Sound Canvas will take place at the Royal Whanganui Opera House on March 27 (two shows) and March 28 (one show).**
