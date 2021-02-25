@@ -20,19 +20,19 @@ The third instalment of Brass Whanganui's Sound Canvas production will take plac
 
 Due to Covid-19 the group hasn't performed Sound Canvas since October.
 
-Despite the short turnaround, Hamish Jellyman, part of the creative team behind the latest show, said the new edition would feature completely different music and art.
+Despite the short turnaround, **Hamish Jellyman**, part of the creative team behind the latest show, said the new edition would feature completely different music and art.
 
 "It's not far off the same amount of music we (Brass Whanganui) would normally do in a two-hour show, but the difference with this is there's no compere-ing like we'd do in standard concerts," Jellyman said.
 
 "We're going bigger with the lighting this time around, and I think we're finding a better way to incorporate the poetry as well."
 
-Jellyman has composed two new songs for the shows next month, and has arranged two others.
+**Jellyman has composed two new songs for the shows next month, and has arranged two others.**
 
 "I'm on the musical and crazy ideas team, which is really fun.
 
 "Luckily the band seem to enjoy what I've come up with. It's cool to be able to write for a specific ensemble, because you know everyone's strength.
 
-"We have a strong percussion section, for example, and this time around it will include Michael Franklin-Browne (Pluto, HLAH)."
+"We have a strong percussion section, for example, and this time around it will include **Michael Franklin-Browne** (Pluto, HLAH)."
 
 The new edition of Sound Canvas was both an evolution and a continuation of previous year's concerts, Jellyman said, with some new surprises thrown in.
 
