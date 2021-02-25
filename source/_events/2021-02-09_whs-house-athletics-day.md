@@ -48,4 +48,4 @@ We are looking forward to an awesome day, filled with School spirit, fun, partic
 
 Click on [bit.ly/whshouse](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home?fbclid=IwAR01laP974Vw5D6_i2ufYhiwRkeC7I5b2t1uvsilfU5bF9Wf26exqZczSZM) for information regarding schedules & points updates throughout the day! 👍  
 
-**WHS House Athletics PROGRAMME below...** 💚💛💙❤️
+**Click on WHS House Athletics PROGRAMME below...** 💚💛💙❤️
