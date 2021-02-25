@@ -28,7 +28,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435199/prefects/PREFECTS%202021/11_-_Head_of_Sport_-_Jordyn_Leiasamaivao-Turvey_and_Paris_Munro_2.jpg
     description: "Head of Sport - Jordyn Leiasamaivao-Turvey & Paris Munro "
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435199/prefects/PREFECTS%202021/12_-_Heads_of_Awa_-_Ryan_Donaldson_and_Georgia_Sutherland_1.jpg
-    description: Heads of Awa - Ryan Donaldson & Georgia Sutherland
+    description: Head of Awa - Ryan Donaldson & Georgia Sutherland
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435201/prefects/PREFECTS%202021/13_-_Head_of_Maunga_-_Flynn_Johnston_and_Rebecca_Allardice_1.jpg
     description: Head of Maunga - Flynn Johnston & Rebecca Allardice
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435205/prefects/PREFECTS%202021/14_-_Head_of_Moana_-_Max_Verhaaren_and_Kera_Forrest_1.jpg
