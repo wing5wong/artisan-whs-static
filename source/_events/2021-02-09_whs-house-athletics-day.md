@@ -7,9 +7,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614202399/Events/WHS_Athletics_day_programme_2.jpg
 ---
 #### Our Inter-House Athletics Day is on Thursday, 25 February, at Cook Gardens.
+
 💚💛💙❤️  
-
-
 
 •	All students are to **go straight to Cooks Gardens** in the morning.
 
@@ -42,12 +41,11 @@ If you cannot come we have a Website with live updates throughout the day. Go on
 
 •	If by any chance the weather turns bad, cancellations will be on our WHS Facebook page, WHS Sport Facebook page and WHS website by 7am. 
 
-
 We are looking forward to an awesome day, filled with School spirit, fun, participation and lots of House support for our top athletes as they showcase in front of the whole school. 
 
-Please phone the school if you have any questions.  
+
 .  
 
-Click on bit.ly/whshouse for information regarding schedules & points updates throughout the day! 👍  
+Click on [bit.ly/whshouse](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home?fbclid=IwAR01laP974Vw5D6_i2ufYhiwRkeC7I5b2t1uvsilfU5bF9Wf26exqZczSZM) for information regarding schedules & points updates throughout the day! 👍  
 
 **WHS House Athletics PROGRAMME below...** 💚💛💙❤️
