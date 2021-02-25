@@ -10,31 +10,31 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435185/prefects/PREFECTS%202021/02_-_Deputy_Head_-_Troy_Brennan_and_Lilee_Taylor_2.jpg
     description: Troy Brennan (Deputy Head Boy) & Lilee Taylor (Deputy Head Girl)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435186/prefects/PREFECTS%202021/03_-_Head_of_Academia_-_Lennart_Nowak_and_Akshima_Marwah_1.jpg
-    description: Head of Academia - Lennart Nowak & Akshima Marwah
+    description: Lennart Nowak & Akshima Marwah (Head of Academia)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435186/prefects/PREFECTS%202021/04_-_Head_of_Community_-_Trinity_Taylor_Moore_and_Rose_Hird_4.jpg
-    description: Head of Community - Trinity Taylor Moore & Rose Hird
+    description: Trinity Taylor Moore & Rose Hird (Head of Community)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435192/prefects/PREFECTS%202021/05_-_Head_of_Culture_-_Heath_McKenzie_and_Emma_Henare_4.jpg
-    description: Head of Culture - Heath McKenzie & Emma Henare
+    description: Heath McKenzie & Emma Henare (Head of Culture)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435193/prefects/PREFECTS%202021/06_-_Head_of_E-Life_-_Benji_Hermann_and_Oliver_Keelty_4.jpg
-    description: Head of E-Life - Benji Hermann & Oliver Keelty
+    description: Benji Hermann & Oliver Keelty (Head of E-Life)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435193/prefects/PREFECTS%202021/07_-_Head_of_International_-_Finn_Nguyen_2.jpg
-    description: Head of International - Finn Nguyen
+    description: Finn Nguyen (Head of International)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435192/prefects/PREFECTS%202021/08_-_Head_of_Maori_-_Kevin_Rennie_and_Rylee_Wroe_1.jpg
-    description: Head of Māori - Kevin Rennie & Rylee Wroe
+    description: Kevin Rennie & Rylee Wroe (Head of Māori)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435199/prefects/PREFECTS%202021/09_-_Head_of_Pasifika_-_Molly_Bullock_2.jpg
-    description: "Head of Pasifika - Molly Bullock "
+    description: Molly Bullock (Head of Pasifika)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435199/prefects/PREFECTS%202021/10_-_Head_of_Social_-_Ben_Conley_and_Molly_Fothergill_3.jpg
-    description: "Head of Social - Ben Conley & Molly Fothergill "
+    description: Ben Conley & Molly Fothergill (Head of Social)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435199/prefects/PREFECTS%202021/11_-_Head_of_Sport_-_Jordyn_Leiasamaivao-Turvey_and_Paris_Munro_2.jpg
-    description: "Head of Sport - Jordyn Leiasamaivao-Turvey & Paris Munro "
+    description: Jordyn Leiasamaivao-Turvey & Paris Munro (Head of Sport)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435199/prefects/PREFECTS%202021/12_-_Heads_of_Awa_-_Ryan_Donaldson_and_Georgia_Sutherland_1.jpg
-    description: Head of Awa House - Ryan Donaldson & Georgia Sutherland
+    description: Ryan Donaldson & Georgia Sutherland (Head of Awa House)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435201/prefects/PREFECTS%202021/13_-_Head_of_Maunga_-_Flynn_Johnston_and_Rebecca_Allardice_1.jpg
-    description: Head of Maunga House - Flynn Johnston & Rebecca Allardice
+    description: Flynn Johnston & Rebecca Allardice (Head of Maunga House)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435205/prefects/PREFECTS%202021/14_-_Head_of_Moana_-_Max_Verhaaren_and_Kera_Forrest_1.jpg
-    description: "Head of Moana House - Max Verhaaren & Kera Forrest "
+    description: Max Verhaaren & Kera Forrest (Head of Moana House)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435206/prefects/PREFECTS%202021/15_-_Head_of_Whenua_-_Emma_Wood_and_Bridie_Knapp_2.jpg
-    description: Head of Whenua House - Emma Wood & Bridie Knapp
+    description: Emma Wood & Bridie Knapp (Head of Whenua House)
 show_in_slider: false
 date: 2021-02-25T04:50:38.266Z
 ---
