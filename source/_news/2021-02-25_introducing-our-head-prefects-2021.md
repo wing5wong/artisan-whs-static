@@ -35,7 +35,7 @@ image_gallery:
     description: Max Verhaaren & Kera Forrest (Head of Moana House)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435206/prefects/PREFECTS%202021/15_-_Head_of_Whenua_-_Emma_Wood_and_Bridie_Knapp_2.jpg
     description: Emma Wood & Bridie Knapp (Head of Whenua House)
-show_in_slider: false
+show_in_slider: true
 date: 2021-02-25T04:50:38.266Z
 ---
 **Whanganui High School News - February 2021**  
