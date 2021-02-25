@@ -33,5 +33,5 @@ You will need to:
 
 **BREAK A LEG!!!**
 
-*Miss Armstrong*\
+*Miss Armstrong*  
 *WHS Head of Drama*
