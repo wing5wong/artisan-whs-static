@@ -46,7 +46,7 @@ Jellyman said Sound Canvas required a lot more organisation than standard Brass 
 
 "I think we're a pretty forward-thinking ensemble when it comes to traditional brass bands in New Zealand.
 
-"We get a bit bored just doing the same old concerts each time, so really, for us, it (Sound Canvas) is about having as much fun as we can.
+"We get a bit bored just doing the same old concerts each time, so really, for us, it **(Sound Canvas) is about having as much fun as we can.**
 
 "The crazier the idea, the cooler it will probably turn out."
 
