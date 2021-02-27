@@ -26,7 +26,7 @@ Reigning senior champion is 26-year-old Raglan farmer Jason Dickey, the outright
 
 Likewise for Taupo's three-time former champion Brad Groombridge, sidelined with a knee injury after he crashed during the motocross nationals event near Rotorua on Sunday.
 
-However, Whanganui's Seth Reardon, the championship runner-up in 2019, is expected to line up on Sunday, alongside Palmerston North's 2015 national champion Paul Whibley, Wairoa's Tommy Watts, Pahiatua's Charles Alabaster, Raglan's Brandon Given, Hamilton's Phil Goodwright, Hamilton's Andrew Charleston, Te Kauwhata's Jacob Brown and Rotorua's Callum Dudson, to name a few.
+However, Whanganui's **Seth Reardon**, the championship runner-up in 2019, is expected to line up on Sunday, alongside Palmerston North's 2015 national champion Paul Whibley, Wairoa's Tommy Watts, Pahiatua's Charles Alabaster, Raglan's Brandon Given, Hamilton's Phil Goodwright, Hamilton's Andrew Charleston, Te Kauwhata's Jacob Brown and Rotorua's Callum Dudson, to name a few.
 
 Napier's Reece Lister makes his return to the sport and he'll be one to watch for after his scintillating performances in the parallel-but-separate motocross championships.
 
