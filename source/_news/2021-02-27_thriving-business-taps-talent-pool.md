@@ -3,7 +3,7 @@ title: Thriving business taps talent pool
 feature_image:
   description: Jack Pilet, Matthew Wenborn and Alex Reid are the latest to join
     the WSP ranks.
-  credit: Photo / Supplied
+  credit: Supplied
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614399526/News/Jack_Pilet_chron_25.2.21.jpg
 news_author:
   date: 2021-02-25T04:13:42.315Z
