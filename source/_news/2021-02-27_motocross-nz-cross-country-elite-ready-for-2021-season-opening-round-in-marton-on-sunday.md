@@ -8,7 +8,7 @@ feature_image:
     position again this year.
   credit: Andy McGechan
 news_author:
-  date: 2021-02-27T05:01:31.161Z
+  date: 2021-02-23T05:01:31.161Z
   name: Andy McGechan
   publication: Whanganui Chronicle
 show_in_slider: false
