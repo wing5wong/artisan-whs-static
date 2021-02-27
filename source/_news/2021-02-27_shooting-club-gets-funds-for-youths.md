@@ -3,9 +3,9 @@ title: Shooting club gets funds for youths
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614402929/News/James_Gray_back_left_Tayla_Pryce_Harry_Kibblewhite_Midweek_24.2.21.jpg
   description: "Members of the RSA Target Shooting Club with junior and
-    intermediate rifles funded by Sport Whanganui: James Gray (back left), Tayla
-    Pryce, Harry Kibblewhite, Alex Stephens. Front row are Paul Turner
-    (Westmere, left) and Graeme Simpson. "
+    intermediate rifles funded by Sport Whanganui: WHS students; James Gray
+    (back left), Tayla Pryce and Harry Kibblewhite; and Alex Stephens. Front row
+    are Paul Turner (Westmere, left) and Graeme Simpson. "
   credit: Paul Brooks
 news_author:
   date: 2021-02-24T05:14:36.492Z
