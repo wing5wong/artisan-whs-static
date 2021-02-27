@@ -33,7 +33,7 @@ You will need to:
 
 **26/2/21 FRIDAY 2.30pm - 5.00pm** ~ Final callback auditions.
 
-**CAST LIST will be posted on the School Hall windows MONDAY 29/2/21 FIRST BREAK.**
+**CAST LIST will be posted on the School Hall windows MONDAY 1/3/21 FIRST BREAK.**
 
 *Please note we are aiming to stick to this timeline, however we reserve the right to adjust it as needed. Thank you all for your cooperation, patience and enthusiasm.*
 
