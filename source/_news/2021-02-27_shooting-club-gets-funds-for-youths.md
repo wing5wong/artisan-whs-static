@@ -36,7 +36,7 @@ All rifles used are single shot .22 calibre.
 
 Sport Whanganui funded a junior target rifle for the RSA club in 2017.
 
-"They're obviously very competitive because James (Gray) just won the Manawatu C Grade Championship, Outdoor, with a personal best," says Graeme. 
+"They're obviously very competitive because **James (Gray) just won the Manawatu C Grade Championship, Outdoor, with a personal best**," says Graeme. 
 
 James still belongs to the RSA Target Shooting Club and also shoots outdoor at the Pistol Club in Airport Rd.
 
