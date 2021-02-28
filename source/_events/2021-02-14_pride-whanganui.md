@@ -1,5 +1,5 @@
 ---
-title: Pride Whanganui
+title: Whanganui Pride Week 2021
 date: 2021-02-26T23:43:50.450Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613351754/Events/download_2_.jpg_best.jpg
 image_gallery:
