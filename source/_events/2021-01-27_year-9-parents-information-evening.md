@@ -2,9 +2,9 @@
 title: Year 9 Parents Information evening - POSTPONED until further notice
 date: 2021-03-02T10:05:21.100Z
 ---
-**The Year 9 Parents' Information evening has been postponed until further notice due to Level 2 restrictions.**
+**The Year 9 Parents' Information evening has been postponed until further notice due to Alert Level 2 restrictions.**
 
-It will be held at a future date when we move back to Level 1.  
+It will be held at a future date when we move back to Alert Level 1.  
 6.30pm – 8.00pm starting in the School Hall and finishing with light refreshments in the Library.  
 (The School Hall will be open from 6.00pm). 
 
