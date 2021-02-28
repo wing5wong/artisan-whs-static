@@ -2,7 +2,7 @@
 title: Year 9 Parents Information evening - postponed until further notice
 is_emergency: false
 date: 2021-03-02T04:46:53.975Z
-subtitle: Tuesday, 2 March
+subtitle: ""
 image: ""
 ---
 **The Year 9 Parents' Information evening has been postponed until further notice due to Level 2 restrictions.**
