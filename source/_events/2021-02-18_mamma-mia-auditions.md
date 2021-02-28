@@ -1,5 +1,5 @@
 ---
-title: Mamma Mia Auditions
+title: Mamma Mia CAST LIST will be posted on the School Hall windows
 date: 2021-03-01T07:41:11.327Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613633033/News/Mamma_Mia_1st_poster.png
 image_gallery:
