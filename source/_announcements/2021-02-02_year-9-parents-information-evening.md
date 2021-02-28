@@ -1,5 +1,6 @@
 ---
-title: Year 9 Parents Information evening - postponed until further notice
+title: Year 9 Parents Information evening - Postponed until we go back to Alert
+  Level 1
 is_emergency: false
 date: 2021-03-02T04:46:53.975Z
 subtitle: Due to Level 2 restrictions
