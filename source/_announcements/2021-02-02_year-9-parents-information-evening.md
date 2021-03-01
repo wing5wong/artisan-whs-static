@@ -1,16 +1,53 @@
 ---
-title: Year 9 Parents Information evening - Postponed until we go back to Alert
-  Level 1
+title: NEWSLETTER - March 2021
 is_emergency: false
 date: 2021-03-02T04:46:53.975Z
-subtitle: Due to Alert Level 2 restrictions
+subtitle: ""
 image: ""
 ---
-**The Year 9 Parents' Information evening has been postponed until further notice due to Level 2 restrictions.**
+NEWSLETTER - March 2021
 
-It will be held at a future date when we move back to Level 1.  
-6.30pm – 8.00pm starting in the School Hall and finishing with light refreshments in the Library.  
-(The School Hall will be open from 6.00pm). 
+Following on from my message placed onto our main WHS Facebook page on Sunday, our WHS ALERT LEVEL 2 SAFETY PLAN is re-activated again until we return to Alert Level 1. Key summary points:
 
-This is an excellent opportunity for parents to hear about the services the School provides and how to access information related to daughters and sons. For example; device use and google classroom, uniform, extra-curricular sport options, plus it will be a chance for parents to mingle with staff and other Year 9 parents.
+* Whanganui High School is open as usual.
+* If unwell, please stay at home.
+* The Year 9 Parents' Information Evening on Tuesday, 2 March has been postponed.
+* The Prefects' Camp has been postponed.
+* All student and teacher school trips outside of Whanganui City limits have been postponed until we move back to Alert Level 1.
+* House and Year level assemblies have been postponed until we move back to Alert Level 1.
+* Physical distancing (no breathing on or touching of each other).
+* Good hygiene and cleaning practices will be followed: regular hand-washing and drying; coughing or sneezing into one's own elbow; no spitting; regularly cleaning and disinfecting high touch surfaces.
+* Hand sanitisers are available in every classroom and common area in the school.
+* All visitors to the school must sign in at the Main Reception or the Student Centre. Accurate contact tracing registers will continue to be maintained as well as full utilisation of the NZ Covid Tracer App.
+
+NEW STUDENTS AND STAFF  
+Our 368 Year 9 students and about 40 new students across other year levels have settled well into Whanganui High School. Our Year 9 class average is 26 students (with 18 students in each of the two Year 9 Supported Learning classes and 18 students in the Year 9 SPEC class). Our school roll is currently around 1400 students which is an excellent size for the wide range of subjects and opportunities we offer to our students.
+
+At the beginning of the year we also welcomed three new staff members: Cristian Salazar (Spanish teacher); Heather Fox (English teacher); Lydia Carson (part time Performing Arts Administration Assistant).
+
+ACADEMIC RESULTS  
+Our NCEA results were pleasing - we have exceeded National figures for passing NCEA Levels 1, 2 and 3. Congratulations also go to the following students for passing their NZ Scholarship Examinations:  
+Leah Aiono (English)  
+Callista Booth-Richards (Biology)  
+Merle Chant (Design)  
+Aranga Molijn (Health and Physical Education)  
+Grace Swanston (Painting)  
+
+Special congratulations also go to Merle Chant for being chosen as one of 60 students throughout New Zealand to have work included in the Art Portfolio Awards nation-wide tour.
+
+PUBLIC HEALTH NURSES  
+Parents and caregivers of Year 9 students will shortly receive a letter by mail offering a health and well-being check by one of our Public Health Nurses (WDHB) based in the school. If you do not receive a letter, please contact Public Health on 06 348 1775 for further information.
+The Public Health Nurses provide a confidential nurse-led clinic (Monday to Friday) via the Student Centre. This provides all students with the opportunity to seek focused health advice and support.
+
+RIVER CITY PRESS NEWSPAPER  
+At the end of each month, we have a full page newsletter that is published in the 'River City Press'. If you do not receive a copy of the newspaper and would like a hard copy please contact our Main Office (06 349 0178).
+
+STAFF CAR PARK AND TRADE DELIVERIES  
+Please note that our staff car parks are only for staff cars and delivery vehicles. Purnell Street becomes very congested immediately before school and immediately after school with a wide variety of traffic - a number of near-misses and minor accidents have occurred.
+I strongly recommend that students use our covered walkway to exit onto the London Street crossing if that is the best direction to head home. Parents can park in the Jubilee Stadium car park to collect their daughters or sons.
+
+Nga mihi nui
+
+Martin McAllen  
+PRINCIPAL
 
