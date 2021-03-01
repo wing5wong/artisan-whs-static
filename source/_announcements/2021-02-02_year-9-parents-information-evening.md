@@ -46,6 +46,6 @@ I strongly recommend that students use our covered walkway to exit onto the Lond
 
 Nga mihi nui
 
-Martin McAllen  
+*Martin McAllen*  
 PRINCIPAL
 
