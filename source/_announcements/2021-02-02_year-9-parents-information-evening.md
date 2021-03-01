@@ -2,7 +2,7 @@
 title: NEWSLETTER - March 2021
 is_emergency: false
 date: 2021-03-02T04:46:53.975Z
-subtitle: ""
+subtitle: From the Principal, Martin McAllen
 image: ""
 ---
 NEWSLETTER - March 2021
