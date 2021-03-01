@@ -5,8 +5,6 @@ date: 2021-03-02T04:46:53.975Z
 subtitle: From the Principal, Martin McAllen
 image: ""
 ---
-NEWSLETTER - March 2021
-
 Following on from my message placed onto our main WHS Facebook page on Sunday, our WHS ALERT LEVEL 2 SAFETY PLAN is re-activated again until we return to Alert Level 1. Key summary points:
 
 * Whanganui High School is open as usual.
