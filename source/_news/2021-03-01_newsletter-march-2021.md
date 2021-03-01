@@ -27,6 +27,7 @@ At the beginning of the year we also welcomed three new staff members: Cristian 
 
 ACADEMIC RESULTS  
 Our NCEA results were pleasing - we have exceeded National figures for passing NCEA Levels 1, 2 and 3. Congratulations also go to the following students for passing their NZ Scholarship Examinations:  
+
 Leah Aiono (English)  
 Callista Booth-Richards (Biology)  
 Merle Chant (Design)  
