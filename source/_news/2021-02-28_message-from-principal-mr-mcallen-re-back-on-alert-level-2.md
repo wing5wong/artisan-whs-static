@@ -1,5 +1,5 @@
 ---
-title: Message from Principal, Mr McAllen, re back on Alert Level 2
+title: Message from Principal, Mr McAllen, back on Alert Level 2 Safety Plan
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/GREEN_WHS_HEADER_WITH_WWW._on_it.jpg
 news_author:
