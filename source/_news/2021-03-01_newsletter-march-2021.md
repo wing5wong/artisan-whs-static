@@ -44,6 +44,7 @@ At the end of each month, we have a full page newsletter that is published in th
 
 STAFF CAR PARK AND TRADE DELIVERIES  
 Please note that our staff car parks are only for staff cars and delivery vehicles. Purnell Street becomes very congested immediately before school and immediately after school with a wide variety of traffic - a number of near-misses and minor accidents have occurred.
+
 I strongly recommend that students use our covered walkway to exit onto the London Street crossing if that is the best direction to head home. Parents can park in the Jubilee Stadium car park to collect their daughters or sons.
 
 Nga mihi nui
