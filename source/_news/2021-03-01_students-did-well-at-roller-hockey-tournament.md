@@ -2,12 +2,16 @@
 title: Students did well at Roller Hockey Tournament
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614640994/News/154376202_1820293718119726_2464348717788317734_o.jpg
+  description: Year 9 Students, Charlie Teager, Michaela Ross and Siobhan Pitkethley.
 news_author:
   date: 2021-03-01T23:21:35.913Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614641012/News/154149748_1820293714786393_463991989327573287_o.jpg
+    description: Amelia Neale (Y12)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614641025/News/154786796_1820293708119727_1471021071320577719_n.jpg
+    description: Wilson McKee (Y13)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614641040/News/154329295_1820293778119720_826793098641985678_n.jpg
+    description: Connor Alderton (Y11)
 show_in_slider: false
 date: 2021-03-01T23:21:36.011Z
 ---
