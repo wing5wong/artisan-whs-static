@@ -20,4 +20,4 @@ WHS Swim Champs 2021 💚💙💛❤️
 3rd - Awa  
 4th - Maunga 
 
-Thanks to Zoe Bracegirdle for the amazing photo's 
+Thanks to Zoe Bracegirdle for the amazing [PHOTO'S](https://zoebracegirdlephotography.pixieset.com/swimmingsports/).
