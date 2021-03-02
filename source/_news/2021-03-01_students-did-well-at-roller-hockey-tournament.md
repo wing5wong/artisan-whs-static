@@ -21,13 +21,13 @@ Well done to our Roller Hockey Students 💚💛
 
 Whanganui High School had a number of students travel to Hastings over the weekend 13th – 14th February 2021 to represent Whanganui and the Wanganui Roller Hockey Club.
 
-**Year 9 Students, Michaela Ross, Siobhan Pitkethley and Charlie Teager played for the U14 Lightening Team. They went through the tournament undefeated to take out first place in their division.**
+* Year 9 Students, Michaela Ross, Siobhan Pitkethley and Charlie Teager played for the U14 Lightening Team. They went through the tournament undefeated to take out first place in their division.
 
-**Connor Alderton (Y11), Amelia Neale (Y12), along with Wilson McKee (Y13) all played in the Senior 2nd Division. They had some very close games but were triumphant finishing in First Place.**
+* Connor Alderton (Y11), Amelia Neale (Y12), along with Wilson McKee (Y13) all played in the Senior 2nd Division. They had some very close games but were triumphant finishing in First Place.
 
-**Amelia Neale, Michaela Ross and Siobhan Pitkethley also represented Wanganui competing in the Ladies division. This was the first tournament for the ladies team to play in and they finished in Second Place.**
+* Amelia Neale, Michaela Ross and Siobhan Pitkethley also represented Wanganui competing in the Ladies division. This was the first tournament for the ladies team to play in and they finished in Second Place.
 
-**Wilson McKee** then stepped it up a notch also forming part of the Clubs Premier Team. Again this team finishing in the top three taking Third Place.
+* Wilson McKee then stepped it up a notch also forming part of the Clubs Premier Team. Again this team finishing in the top three taking Third Place.
 
 Congratulations to these students for achieving such fantastic results. Keep up the great work.
 
