@@ -3,7 +3,7 @@ title: WHS Swim Champs 2021
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614650386/News/Aria_Bannister.jpg
 news_author:
-  date: 2021-03-02T01:59:24.861Z
+  date: 2021-02-22T01:59:24.861Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
 image_gallery:
@@ -13,7 +13,9 @@ image_gallery:
 show_in_slider: true
 date: 2021-03-02T01:59:25.001Z
 ---
-WHS Swim Champs 2021 💚💙💛❤️
+WHS Swimming Champs 2021 💚💙💛❤️
+
+Our Swimming Champs were held on Friday 19 February at the Splash Centre.
 
 1st - Whenua  
 2nd - Moana  
