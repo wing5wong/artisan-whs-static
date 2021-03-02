@@ -1,5 +1,6 @@
 ---
-title: Swimmers dive into the Whanganui Bridge to Bridge Challenge
+title: Cayden comes away winning 2 Cups at the annual Whanganui Bridge to Bridge
+  Challenge
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614716572/News/Cayden-Earles-for-Chron-article-end-Feb..jpg
   description: Cayden Earles (centre) holding her Bridge to Bridge Cup and the
