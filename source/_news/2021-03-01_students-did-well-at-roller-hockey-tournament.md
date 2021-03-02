@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614640994/News/154376202_1820293718119726_2464348717788317734_o.jpg
   description: Year 9 Students, Charlie Teager, Michaela Ross and Siobhan Pitkethley.
 news_author:
-  date: 2021-02-18T23:21:35.913Z
+  date: 2021-02-22T23:21:35.913Z
   publication: WHS Director of Sport
   name: "Lisa Murphy "
 image_gallery:
