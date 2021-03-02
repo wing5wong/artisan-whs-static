@@ -5,7 +5,9 @@ feature_image:
   description: Cayden Earles (centre) holding her Bridge to Bridge Cup and the
     Central Cup with other prizewinners.
 news_author:
-  date: 2021-03-02T20:22:26.712Z
+  date: 2021-03-01T20:22:26.712Z
+  publication: Whanganui Chronicle
+  name: Logan Tutty
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614716822/News/Bridge_to_Bridge._photo_lewis_gardner.jpg
     description: Spectators took to the banks of the Whanganui River to watch
