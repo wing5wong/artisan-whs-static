@@ -4,7 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614731552/News/1397167-615480-34.jpg
 news_author:
   date: 2021-03-03T00:31:27.687Z
-  publication: Community Prefects
+  publication: Heads of Community
+  name: Rose Hird & Trinity Taylor Moore
 show_in_slider: false
 date: 2021-03-03T00:31:27.754Z
 ---
