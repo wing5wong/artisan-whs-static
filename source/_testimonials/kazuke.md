@@ -1,5 +1,5 @@
 ---
-title: Kazuke
+title: Kazuke Oiwake
 date: 2021-03-03T01:48:10.027Z
 place: Japan
 international: true
