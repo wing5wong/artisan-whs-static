@@ -1,5 +1,5 @@
 ---
-title: Relay For Life
+title: Relay For Life 2021
 date: 2021-03-13T00:38:01.777Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614731552/News/1397167-615480-34.jpg
 ---
