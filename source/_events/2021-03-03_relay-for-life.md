@@ -11,3 +11,6 @@ This year the Community Prefects would like your support to help them fundraise 
 
 Please follow the link below and donate as little or as much as you like.. 🙂
 [https://whanganui.relayforlife.org.nz/whs](https://whanganui.relayforlife.org.nz/t/whs)
+
+*Rose Hird & Trinity Taylor Moore  
+Heads of Community*
