@@ -1,6 +1,6 @@
 ---
 title: International
-date: 2020-06-26T12:00:00.000Z
+date: 2021-03-03T01:04:16.843Z
 blocks:
   - content: >-
       Whanganui High School has hosted international students for the past 25
