@@ -1,5 +1,5 @@
 ---
-title: Relay For Life
+title: Relay For Life 2021
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614731552/News/1397167-615480-34.jpg
 news_author:
