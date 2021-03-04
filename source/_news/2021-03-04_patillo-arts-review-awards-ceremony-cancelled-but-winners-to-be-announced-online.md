@@ -2,8 +2,8 @@
 title: Patillo Arts Review awards ceremony cancelled, but winners to be
   announced online
 feature_image:
-  description: Jessica Kidd collecting all the Art work for the 2021 Pattillo
-    Whanganui Arts Review.
+  description: Former WHS student, Jessica Kidd collecting all the Art work for
+    the 2021 Pattillo Whanganui Arts Review.
   credit: Bevan Conley
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614821141/News/Jessica-Kidd.-Arts-Reveiw-ex.Chron-3.3.21.jpg
 news_author:
