@@ -5,7 +5,7 @@ feature_image:
   description: Jessica Kidd collecting all the Art work for the 2021 Pattillo
     Whanganui Arts Review.
   credit: Bevan Conley
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614820830/News/Jessica_Kidd._Arts_Reveiw_ex.Chron_3.3.21.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614821141/News/Jessica-Kidd.-Arts-Reveiw-ex.Chron-3.3.21.jpg
 news_author:
   date: 2021-03-03T01:20:14.481Z
   publication: Whanganui Chronicle
