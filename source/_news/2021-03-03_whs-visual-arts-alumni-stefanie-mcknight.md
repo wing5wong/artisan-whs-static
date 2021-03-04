@@ -32,7 +32,9 @@ I work at Inland Revenue as an Insight and Intelligence Specialist level 3. This
 ***Which Arts subjects did you do at school?***
 
 Graphic design, art, photography at school. Fashion and sewing at home with my mum.
-What skills, learnt in the Arts, have been useful in your career since whs?
+
+***What skills, learnt in the Arts, have been useful in your career since WHS?***  
+
 Graphic design has been a massive skill for me. I use it everyday in my role as a Service Designer. Service Designers work throughout government and the private sector and bounce between strategic design and operational implementation. Being able to write, and more importantly, create diagrams and infographics has been incredibly valuable. 
 
 ***What other life skills did you learn in your Arts subjects?*** 
