@@ -7,6 +7,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614892716/News/Graham_Pearson_of_Castlecliff_Coast_Care._Chron_5.3.21.jpg
 news_author:
   date: 2021-03-04T21:18:17.574Z
+  publication: Whanganui Chronicle
+  name: Liz Wylie
 show_in_slider: false
 date: 2021-03-04T21:18:17.654Z
 ---
