@@ -13,7 +13,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614716822/News/Bridge_to_Bridge._photo_lewis_gardner.jpg
     description: Spectators took to the banks of the Whanganui River to watch
       swimmers competing in the Bridge to Bridge swim. Photo / Lewis Gardner.
-show_in_slider: false
+show_in_slider: true
 date: 2021-03-02T20:22:26.816Z
 ---
 Swimmers dived into the Whanganui River over the weekend to compete in the annual Bridge to Bridge swim.
