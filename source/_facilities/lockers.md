@@ -3,7 +3,7 @@ title: Lockers
 date: 2019-06-26T21:56:17.468Z
 image: ""
 description: |
-  Wooden lockers in F block available for student use.
+  Wooden lockers in B, F and G block available for student use.
 ---
 **Wooden Lockers** **(B, F and G Block)**
 
