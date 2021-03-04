@@ -9,6 +9,18 @@ news_author:
 show_in_slider: false
 date: 2021-03-03T00:31:27.754Z
 ---
+Any students or teachers wanting to join the WHS Relay For Life team, please fill out the Google Form on [bit.ly/whsrfl2021](https://docs.google.com/forms/d/e/1FAIpQLSeIkCmxpPj0Mchr86hEWkiSp2g1sutFvt2PrrxTA_V6WVx7QQ/viewform). 
+
+The event will be held at Cooks Gardens on 13 and 14 March (4pm Saturday - 10am Sunday). 
+
+Please think about your availability before you fill out the form, you are welcome to sign up for as many shifts as you want. Once you sign up an email will be sent to you with the rest of the information needed. 
+
+*Community Prefects*
+
+- - -
+
+- - -
+
 The Community Prefects are asking for your help! 
 
 On 13 and 14 March the annual Relay For Life is happening! 
