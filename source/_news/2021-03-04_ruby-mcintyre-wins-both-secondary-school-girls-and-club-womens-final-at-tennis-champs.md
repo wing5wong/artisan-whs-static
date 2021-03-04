@@ -1,6 +1,6 @@
 ---
 title: Ruby McIntyre wins both Secondary School girls' and Club Women's Final at
-  Tennis Champs
+  Whanganui Tennis Champs
 news_author:
   date: 2021-03-04T01:33:40.927Z
   publication: Whanganui Chronicle
