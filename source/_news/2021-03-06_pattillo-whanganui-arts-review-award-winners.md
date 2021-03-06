@@ -54,3 +54,5 @@ And further congratulations to our extended WHS Visual Arts whanau; Leigh Andert
 Creativity takes courage- congratulations to all!!!
 
 Open for viewing from today until 16 May - images here don't do the work justice - go and visit them at the Sarjeant Gallery on Taupo Quay 🤗
+
+[2021 Pattillo Award Announcement](https://vimeo.com/519846610?fbclid=IwAR0LvmEPFvF-dBaf8SI1tzt2rEP-QQRiyiidnhJTsi6Uu7639sM5EYTYyac)
