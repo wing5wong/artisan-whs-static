@@ -1,5 +1,5 @@
 ---
-title: "Pattillo Whanganui Arts Review Award Winners "
+title: "2021 Pattillo Whanganui Arts Review Award Winners "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615019015/News/WU%20Pattillo%20Arts%20Awards%20March%202021/YOUTH_RECOGNITION_AWARD_WINNER.jpg
   description: 'YOUTH RECOGNITION AWARD WINNER: Zoe Bracegirdle "Living Dead" YEAR 13.'
