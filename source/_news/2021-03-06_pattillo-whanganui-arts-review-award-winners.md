@@ -44,7 +44,7 @@ date: 2021-03-06T08:21:34.844Z
 ---
 BURSTING WITH PRIDE to share our award winners and acceptances into the Pattillo Whanganui Arts Review.
 
-A special congratulations to Zoe Bracgirdle for winning the Youth Recognition Award and Mrs Kaye Coombs for her Merit Award.
+**A special congratulations to Zoe Bracgirdle for winning the Youth Recognition Award and Mrs Kaye Coombs for her Merit Award.**
 
 To be accepted into the Arts Review is an achievement in itself, so well done to Ellie Reyland, Freyja Wrigglesworth, Rose Hird, Kate Regan, Mr Graham Hall, Miss Catherine Sleyer and Mrs Lee Su'a.
 It’s wonderful to see some of our Alumni continuing to follow their passion in the Visual Arts; Ming Ranginui, Lily Claypole, Alexzander Nightengale and Briana Gregg.
