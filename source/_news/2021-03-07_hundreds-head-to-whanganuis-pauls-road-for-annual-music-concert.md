@@ -16,6 +16,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615153701/News/crowd_chron_8.3.21_phto_Lewis_Gardner.jpg
     description: Just over 500 people gathered at Pauls Road for the annual concert.
       Photo / Lewis Gardner.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615153812/News/Richard_Littlejohn_and_Friends.jpg
+    description: Richard Littlejohn and Friends were one of the many local bands on
+      tap. Photo / Lewis Gardner.
 show_in_slider: false
 date: 2021-03-07T21:43:07.661Z
 ---
