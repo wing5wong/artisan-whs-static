@@ -1,5 +1,5 @@
 ---
-title: Sosoli looks on the bright side
+title: Whanganui's Sosoli Talawadua on rugby world cup postponement
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615153143/News/Sosoli_Talawadua_1_Chron_6.3.21.jpg
   description: "Whanganui Black Fern Sosoli Talawadua looks on the bright side of
