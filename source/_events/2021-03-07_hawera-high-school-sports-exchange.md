@@ -13,5 +13,5 @@ Mixed Touch
 
 Plus Debating 
 
-Below is the programme of the days events.. 
+*Below is the programme of the days events..* 
 
