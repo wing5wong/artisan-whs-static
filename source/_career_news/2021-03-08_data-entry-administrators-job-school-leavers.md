@@ -13,4 +13,4 @@ For more information:
 
 **Applications close: 29th March, 2021.** 
 
-*For further employment information please see Ms Dunn (Acting Employment Co-Ordinator) in her D7/D8 Office.*
+*For further employment information please see Ms Dunn (Acting Employment Co-ordinator) in her D7/D8 Office.*
