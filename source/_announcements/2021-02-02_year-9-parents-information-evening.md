@@ -5,19 +5,6 @@ date: 2021-03-02T04:46:53.975Z
 subtitle: From the Principal, Martin McAllen
 image: ""
 ---
-Following on from my message placed onto our main WHS Facebook page on Sunday, our WHS ALERT LEVEL 2 SAFETY PLAN is re-activated again until we return to Alert Level 1. Key summary points:
-
-* Whanganui High School is open as usual.
-* If unwell, please stay at home.
-* The Year 9 Parents' Information Evening on Tuesday, 2 March has been postponed.
-* The Prefects' Camp has been postponed.
-* All student and teacher school trips outside of Whanganui City limits have been postponed until we move back to Alert Level 1.
-* House and Year level assemblies have been postponed until we move back to Alert Level 1.
-* Physical distancing (no breathing on or touching of each other).
-* Good hygiene and cleaning practices will be followed: regular hand-washing and drying; coughing or sneezing into one's own elbow; no spitting; regularly cleaning and disinfecting high touch surfaces.
-* Hand sanitisers are available in every classroom and common area in the school.
-* All visitors to the school must sign in at the Main Reception or the Student Centre. Accurate contact tracing registers will continue to be maintained as well as full utilisation of the NZ Covid Tracer App.
-
 NEW STUDENTS AND STAFF  
 Our 368 Year 9 students and about 40 new students across other year levels have settled well into Whanganui High School. Our Year 9 class average is 26 students (with 18 students in each of the two Year 9 Supported Learning classes and 18 students in the Year 9 SPEC class). Our school roll is currently around 1400 students which is an excellent size for the wide range of subjects and opportunities we offer to our students.
 
