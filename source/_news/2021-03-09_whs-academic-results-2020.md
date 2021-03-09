@@ -2,7 +2,7 @@
 title: WHS Academic results 2020
 news_author:
   date: 2021-02-16T08:15:14.722Z
-show_in_slider: true
+show_in_slider: false
 date: 2021-03-09T08:15:14.798Z
 ---
 ACADEMIC RESULTS 2020  
