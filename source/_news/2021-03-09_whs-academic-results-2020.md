@@ -6,6 +6,7 @@ show_in_slider: false
 date: 2021-03-09T08:15:14.798Z
 ---
 ACADEMIC RESULTS 2020  
+ 
 Our NCEA results were pleasing - we have exceeded National figures for passing NCEA Levels 1, 2 and 3. 
 
 Congratulations also go to the following students for passing their NZ Scholarship Examinations:  
