@@ -1,5 +1,5 @@
 ---
-title: TBC
+title: Mr K. Luff
 position: Property Manager
 departments:
   - Support and Ancillary
