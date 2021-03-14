@@ -4,8 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614810004/News/STEFANIE_MCKNIGHT_at_WHS_from_2003-2007_1.jpg
 news_author:
   date: 2021-03-03T22:19:10.034Z
-  name: Stefanie McKnight
-  publication: Former WHS Student
+  name: ""
+  publication: ""
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614810023/News/STEFANIE_MCKNIGHT_at_WHS_from_2003-2007_2.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614810038/News/STEFANIE_MCKNIGHT_at_WHS_from_2003-2007_3.jpg
@@ -43,4 +43,7 @@ Prototyping and learning through doing. I also found doing dark room photography
 
 ***What advice would you give to our current arts students?***
 
-Be smart about your choices. Studying art/design/fashion is more than fine but make it actionable. Combine your studies with business studies or something that makes you more than just an artist but a creative business practitioner. And do art for yourself – I never went into my studies wanting the best marks, rather I wanted to feel satisfied that I learned something new and that I did it my way.
+Be smart about your choices. Studying art/design/fashion is more than fine but make it actionable. Combine your studies with business studies or something that makes you more than just an artist but a creative business practitioner. And do art for yourself – I never went into my studies wanting the best marks, rather I wanted to feel satisfied that I learned something new and that I did it my way.  
+
+*STEFANIE MCKNIGHT  
+WHS ALUMNI, 2003-2007*
