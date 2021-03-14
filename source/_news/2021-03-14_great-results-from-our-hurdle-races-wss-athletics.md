@@ -3,7 +3,7 @@ title: "Great results from our hurdle races - WSS Athletics "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615755903/News/both-boys-and-girls.jpg
 news_author:
-  date: 2021-03-10T21:04:47.573Z
+  date: 2021-03-11T21:04:47.573Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
 image_gallery:
