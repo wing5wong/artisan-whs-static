@@ -16,7 +16,7 @@ These are done on a separate night to next weeks champs!
 
 Senior Girls 300mtr Hurdles:  
 1st - Maggie Jones  
-2nd - Casie Glentwort  
+2nd - Casie Glentworth  
 3rd - Charlotte Baker  
 5th - Grave Walford  
 6th - Paris Munro  
