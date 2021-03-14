@@ -26,7 +26,7 @@ date: 2021-03-14T20:40:24.639Z
 
 I graduated from the Whanganui School of Design in 2014 with a Masters of Computer Graphic Design. I've been at Liquid Edge (a small design company based in Whanganui) as a designer for for the last 6 1/2 years, and have been working remotely from Wellington for the last 4. I'm still involved in the background in the arts in Whanganui as the designer for Artists Open Studios, Space Studio & Gallery and a soon-to-be announced arts project spanning the Taranaki/Whanganui/Manawatu/Kapiti regions.  
 
-**Do you continue to pursue your creativity in your own time?***  
+***Do you continue to pursue your creativity in your own time?***  
 
 Sure do. I'm into the intersection of technology and tradition; I did a fair bit of work on this for my Masters in the context of printmaking. I'm currently working with a CNC router to create blocks for woodcut printing.  
 
