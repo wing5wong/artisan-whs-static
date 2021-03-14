@@ -4,8 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615755144/News/1.158487625_1077563396074538_7012913453434453178_o.jpg
 news_author:
   date: 2021-03-14T20:40:24.560Z
-  name: Brad Tipper
-  publication: Former WHS Student
+  name: ""
+  publication: ""
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615755166/News/2.158432689_1077563419407869_1885244433632819142_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615755180/News/3.159977448_1077563469407864_8649827640467979483_o.jpg
@@ -49,3 +49,6 @@ Definitely the ability to self-direct & self-teach. I've taught myself web devel
 ***What advice would you give to our current arts students?***  
 
 In the design space anyway, being flexible & willing/able to learn new technologies- design software, web frameworks, is basically essential I think. Especially in a job market saturated with graduates, practical skills and adaptability go a long way. We've struggled to find new staff with the right combination of technical ability and a high design taste level.
+
+*BRAD TIPPER  
+WHS ALUMNI, 2003-2007*
