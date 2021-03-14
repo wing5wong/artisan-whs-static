@@ -17,22 +17,22 @@ Great results already from our athletes in the WSS athletics champs on Tuesday n
 These are done on a separate night to next weeks champs!  
 💚💛💚💛  
 
-Senior Girls 300mtr Hurdles:  
+*Senior Girls 300mtr Hurdles:*  
 1st - Maggie Jones  
 2nd - Casie Glentworth  
 3rd - Charlotte Baker  
 5th - Grave Walford  
 6th - Paris Munro  
 
-Junior Girls 300mtr Hurdles  
+*Junior Girls 300mtr Hurdles:*  
 1st - Teresa Rennie  
 3rd - Carrie Rennie  
 
-Senior Boys 300mt Hurdles:  
+*Senior Boys 300mtr Hurdles:*  
 1st - Nat Kirk  
 2nd - Flynn Johnston  
 
-Junior Boys 300mtr hurdles:  
+*Junior Boys 300mtr Hurdles:*  
 1st - Coby Pye  
 2nd - Cade Knight  
 3rd - Noah Jones  
