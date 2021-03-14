@@ -6,6 +6,9 @@ news_author:
   date: 2021-03-10T21:04:47.573Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615756288/News/WSS_Athletics_Champs_HURDLES_BOYS.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615756305/News/WSS_Athletics_Champs_HURDLES_GIRLS.jpg
 show_in_slider: true
 date: 2021-03-14T21:04:47.647Z
 ---
