@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615772316/News/IMG_20210313..._160955.jpg
 news_author:
   date: 2021-03-15T01:31:32.809Z
-show_in_slider: true
+show_in_slider: false
 date: 2021-03-15T01:31:32.880Z
 ---
 The Whanganui High School Community Prefects entered a team this year for the Cancer Society's Relay for Life!  
