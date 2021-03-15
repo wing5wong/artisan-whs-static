@@ -14,6 +14,7 @@ image_gallery:
     description: International Whanganui footballer James Musa is back in training
       with his old United States team, Phoenix Rising FC.  Photo / Phoenix
       Rising FC (Jose Bosch).
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615774044/News/Phoenix-Rising-soccer-ball.jpg
 show_in_slider: false
 date: 2021-03-15T00:12:48.591Z
 ---
