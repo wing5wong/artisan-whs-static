@@ -1,5 +1,5 @@
 ---
-title: QUIZ NIGHT
+title: QUIZ NIGHT 2021
 date: 2021-03-16T20:38:57.507Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615239139/Events/Quiz_Night_Poster_2021.jpg
 ---
