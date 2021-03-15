@@ -3,7 +3,7 @@ title: WHS Visual Arts Alumni - Brad Tipper
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615755144/News/1.158487625_1077563396074538_7012913453434453178_o.jpg
 news_author:
-  date: 2021-03-14T20:40:24.560Z
+  date: 2021-03-11T20:40:24.560Z
   name: ""
   publication: ""
 image_gallery:
