@@ -11,6 +11,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616015751/News/5.IMG_20210313_160948.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616015769/News/5a.IMG_20210313..._160955.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616015816/News/6.IMG_20210313_170020.jpg
+    description: Year 13 student Chester Nevil (back, on drums) entertained the
+      Relay for Life participants.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616015791/News/6a.FB_IMG_1615755044341.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616015848/News/7.IMG_20210314_015702.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616015871/News/8.IMG_20210314_043038.jpg
