@@ -17,7 +17,7 @@ This won’t be an issue for 2021 because all seven artists are based in New Zea
 
 Simon explains, “A lot has changed in public mural art over the last 15 years. The artists will bring their own unique styles and techniques.” 
 
-There is also a youth art mural to take place with eight aspiring artists selected from UCOL and local secondary schools – **Whanganui High School (Imogen Maguire and Rose Hird)**, Whanganui Girls’ College and from Te Kura A Iwi O Kokohuia. Shanti explains, “The mural will be off Drews Ave at the back of Embassy 3,” and Simon adds, “We were blown away by the high standard of artwork the young artists sent to us.” 
+There is also a youth art mural to take place with eight aspiring artists selected from UCOL and local secondary schools – **Whanganui High School (Imogen Maguire, Rose Hird and Freyja Wrigglesworth)**, Whanganui Girls’ College and from Te Kura A Iwi O Kokohuia. Shanti explains, “The mural will be off Drews Ave at the back of Embassy 3,” and Simon adds, “We were blown away by the high standard of artwork the young artists sent to us.” 
 
 All of the seven murals will be painted on new sites. Check their Facebook page to find out where. Shanti says, “The public are encouraged to watch. Each artist has a ‘spotter’ for health and safety reasons but also for answering questions from the public. This also takes pressure off the artists.”
 
