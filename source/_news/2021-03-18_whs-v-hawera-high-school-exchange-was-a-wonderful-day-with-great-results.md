@@ -7,11 +7,11 @@ news_author:
 show_in_slider: true
 date: 2021-03-18T03:35:34.212Z
 ---
-Well done to WHS in the sports exchange on Tuesday against Hawera High School. 
+**Well done to WHS in the sports exchange on Tuesday against Hawera High School.** 
 
-Senior Boys & Girls Volleyball, Colts Cricket, 1st XI Cricket and Senior Debating team won all their games. 
+**Senior Boys & Girls Volleyball, Colts Cricket, 1st XI Cricket and Senior Debating team won all their games.** 
 
-The Sports Exchange was overall won by us!!! 💚💛
+**The Sports Exchange was overall won by us!!!** 💚💛
 
 [PHOTOS from the WHS Sports Facebook page](https://www.facebook.com/Whanganui-High-School-Sports-168112976671150/)
 
