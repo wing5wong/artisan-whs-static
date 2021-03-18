@@ -19,5 +19,5 @@ date: 2021-03-18T03:29:39.807Z
 
 [PHOTOS from WHS Sports Facebook page](https://www.facebook.com/Whanganui-High-School-Sports-168112976671150/)
 
-*Lisa Murphy\
+*Lisa Murphy  
 WHS Director of Sport*
