@@ -4,10 +4,15 @@ feature_image:
   description: Race 13 Superstock Final Heat 1, 15 laps - 7455 27w Simon Davis
     gets tagged by 581p Jordan Dare and really feels the heat.
   credit: Darryl Seymour (Motorsport Photographer)
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616034375/News/speedway_racing_-_car_on_fire.jpg._RCP_11.3.21.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616035176/News/152062179_4341860945829647_6986246487267122088_o.jpg
 news_author:
   date: 2021-03-11T02:23:19.080Z
   publication: River City Press
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616034375/News/speedway_racing_-_car_on_fire.jpg._RCP_11.3.21.jpg
+    description: Race 13 Superstock Final Heat 1, 15 laps - 7455 27w Simon Davis
+      gets tagged by 581p Jordan Dare and really feels the heat.  Photo / Darryl
+      Seymour (Motorsport Photographer).
 show_in_slider: false
 date: 2021-03-18T02:23:19.139Z
 ---
