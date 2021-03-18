@@ -1,5 +1,5 @@
 ---
-title: WHS Winter Sports Sign Ups CLOSE Friday 26 March
+title: WHS Winter Sports SIGN UPS CLOSE Friday 26 March
 date: 2021-03-26T04:29:48.963Z
 ---
 If you are interested in playing winter sports this year please sign up using the bitly below. Information about the sport will be in the bitly.
