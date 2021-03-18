@@ -11,6 +11,9 @@ news_author:
   date: 2021-03-18T21:01:41.866Z
   publication: Whanganui Chronicle
   name: Alex McNab, Athletic Insight
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111155/News/Y._Teresa_Rennie_1st_Carie_Rennie_2nd_Int_80m_hurdles.jpg
+    description: 1st Teresa Rennie, 2nd Carrie Rennie - Girls Intermediatet 80m hurdles.
 show_in_slider: true
 date: 2021-03-18T21:01:41.916Z
 ---
