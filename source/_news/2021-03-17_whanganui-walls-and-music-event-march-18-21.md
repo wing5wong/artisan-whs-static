@@ -1,8 +1,13 @@
 ---
 title: Whanganui Walls and Music event, March 18-21
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616026007/News/155808052_3855456021160034_4394739102191148606_o.jpg
 news_author:
   date: 2021-03-03T23:45:29.331Z
   publication: River City Press
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616026024/News/159331673_925708101499687_5608822115618204510_o.jpg
+    description: Whanganui Walls booklets.
 show_in_slider: false
 date: 2021-03-17T23:45:29.397Z
 ---
@@ -22,3 +27,10 @@ Another group is the 10 piece Hip Hop group called ‘Raw Collective,’ from We
 There will be food and beverages at the site and Charlotte recommends you bring both sunscreen and your dancing shoes.
 
 Major funding partners are Whanganui Town Centre Regeneration, Whanganui & Partners, the District Council and Creative NZ. Resene and Harrisons Hire Master are in-kind sponsors, plus many local businesses are supporting the event.
+
+___________________________
+
+Whanganui Walls booklets!!  
+Packed with everything you need to know about this years festival will be available at Whanganui I-Site Visitor Centre and Sarjeant Gallery Te Whare O Rehua Whanganui.
+
+This year we also have a convenient Pamphlet with full festival map and music schedule to tuck in your back pocket.
