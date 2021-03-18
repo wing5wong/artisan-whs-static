@@ -15,5 +15,5 @@ The Sports Exchange was overall won by us!!! 💚💛
 
 [PHOTOS from the WHS Sports Facebook page](https://www.facebook.com/Whanganui-High-School-Sports-168112976671150/)
 
-*Lisa Murphy\
+*Lisa Murphy  
 WHS Director of Sport*
