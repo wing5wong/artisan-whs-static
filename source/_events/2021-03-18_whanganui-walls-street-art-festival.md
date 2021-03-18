@@ -1,6 +1,9 @@
 ---
 title: Whanganui Walls Street Art Festival
 date: 2021-03-19T20:48:10.171Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616100976/Events/155808052_3855456021160034_4394739102191148606_o.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616100995/Events/159331673_925708101499687_5608822115618204510_o.jpg
 ---
 **Aspiring artists Imogen Maguire, Rose Hird and Freyja Wrigglesworth will be taking part in the Youth Art Mural at Whanganui Walls this weekend.** 🎨🤩
 
