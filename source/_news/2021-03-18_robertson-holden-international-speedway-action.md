@@ -11,7 +11,7 @@ news_author:
 show_in_slider: false
 date: 2021-03-18T02:23:19.139Z
 ---
-Robertson Holden International Speedway – Palmerston North
+*Robertson Holden International Speedway – Palmerston North*
 
 Featuring the 248 Global Challenge, Adult Ministock Champs and Manawatu Modified Champs. There was plenty of action in most classes with some Whanganui drivers getting on the podium.
 
