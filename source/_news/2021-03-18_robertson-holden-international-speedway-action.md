@@ -5,7 +5,7 @@ feature_image:
   credit: ""
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616035176/News/152062179_4341860945829647_6986246487267122088_o.jpg
 news_author:
-  date: 2021-03-11T02:23:19.080Z
+  date: 2021-03-10T02:23:19.080Z
   publication: River City Press
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616034375/News/speedway_racing_-_car_on_fire.jpg._RCP_11.3.21.jpg
