@@ -14,7 +14,7 @@ news_author:
 show_in_slider: true
 date: 2021-03-18T21:01:41.916Z
 ---
-There were sparkling performance to match the sparkling early autumn day on Wednesday at the Whanganui Secondary Schools Championships at Cooks Gardens on Wednesday.
+**There were sparkling performance to match the sparkling early autumn day on Wednesday at the Whanganui Secondary Schools Championships at Cooks Gardens on Wednesday.**
 
 Few sparkled more than the **Maggie Jones** (Whanganui High School) who added a further five titles to the 300m hurdles title won eight days earlier. The New Zealand Schools silver medal hurdler set an outstanding personal best time of 14.57 seconds over the 100m hurdles and later added the 100m (12.82) and 200m (26.82) sprint double.
 
