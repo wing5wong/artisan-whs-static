@@ -14,6 +14,11 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111155/News/Y._Teresa_Rennie_1st_Carie_Rennie_2nd_Int_80m_hurdles.jpg
     description: 1st Teresa Rennie, 2nd Carrie Rennie - Girls Intermediatet 80m hurdles.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111310/News/y._Teresa_Rennie_1st_Int_girls_100m.jpg
+    description: 1st Teresa Rennie - 100m Girls Intermediate
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111364/News/y.100m_snr_girls_final._1_Maggie_2_Cassie_3_Paris.jpg
+    description: 1st Maggie Jones, 2nd Cassie Glentworth, 3rd Paris Munro - Senior
+      Girls 100m.
 show_in_slider: true
 date: 2021-03-18T21:01:41.916Z
 ---
