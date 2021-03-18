@@ -15,5 +15,9 @@ The results were outstanding and proved that committment, hard work and dedicate
 
 [RESULTS](http://www.matstiming.co.nz/results/2021%20Results/2021%20WhanganuiSSTFChamps/?fbclid=IwAR0FkvmNpIBK7j38uMvRQvmWvGy__yFo3-kcIOLJz6GCVG47DMxAj2-mFfw)
 
-*Lisa Murphy  
+
+
+[PHOTOS from WHS Sports Facebook page](https://www.facebook.com/Whanganui-High-School-Sports-168112976671150/)
+
+*Lisa Murphy\
 WHS Director of Sport*
