@@ -1,5 +1,5 @@
 ---
-title: " Robertson Holden International Speedway action - Global Challenge"
+title: " Robertson Holden International Speedway action - 248 Global Challenge"
 feature_image:
   description: ""
   credit: ""
