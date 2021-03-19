@@ -16,7 +16,7 @@ date: 2021-03-19T00:32:59.482Z
 ---
 Whanganui riders continue to feature among the elite group at national level of the New Zealand Mounted Games.
 
-**Rebecca Benge**, 20, only needs the national individual title to hold all three trophies in the open grade after winning the open teams and open pairs in Hastings last week. Benge won the open pairs title with partner Olivia Brookes (Hawke's Bay) riding Briar.
+Former Whanganui High School student, **Rebecca Benge**, 20, only needs the national individual title to hold all three trophies in the open grade after winning the open teams and open pairs in Hastings last week. Benge won the open pairs title with partner Olivia Brookes (Hawke's Bay) riding Briar.
 
 Normally the national pairs and teams events are held in conjunction with the Horse of the Year showcase in Hawke's Bay, but with HOY cancelled because of Covid-19 this season, the Mounted Games was held as a stand-alone event.
 
