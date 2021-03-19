@@ -66,7 +66,7 @@ Only hours after the championships it is difficult to do justice to the many goo
 
 
 _________________
-.
+_________________
 
 
 ***Below are photos of some of our outstanding athletes from WHS...***
