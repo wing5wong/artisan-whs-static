@@ -15,8 +15,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111364/News/y.100m_snr_girls_final._1_Maggie_2_Cassie_3_Paris.jpg
     description: 1st Maggie Jones, 2nd Cassie Glentworth, 3rd Paris Munro - Senior
       Girls 100m sprint.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111621/News/y.both_200_400m_snr_boys_Flyn_1st._Nat_2nd.jpg
-    description: 1st Flynn Johnston - Senior Boys 100m sprint.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111865/News/162033348_1833262590156172_3466390542236633777_o.jpg
     description: 1st Flynn Johnston and 2nd Nat Kirk in both Senior Boys 200 & 400m.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112803/News/y.Nat_Kirk_Flyn_Johnston_snr_boys_110m_hurdles.jpg
