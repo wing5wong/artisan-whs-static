@@ -9,8 +9,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616101350/News/Flynn_Johnston._chron_19.3.21_photo_bevan_conley.jpg
 news_author:
   date: 2021-03-18T21:01:41.866Z
-  publication: Whanganui Chronicle
-  name: Alex McNab, Athletic Insight
+  publication: ""
+  name: ""
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111364/News/y.100m_snr_girls_final._1_Maggie_2_Cassie_3_Paris.jpg
     description: 1st Maggie Jones, 2nd Casie Glentworth, 3rd Paris Munro - Senior
@@ -62,7 +62,10 @@ Louise Brabyn (Collegiate) dominated the intermediate girls middle distance even
 
 **Emily Corcoran** (High School) with wins in the junior 70m hurdles and 300m, Mathew Sinclair (Collegiate) with wins in the junior boys 800m and 1500m, Mady Petley (Collegiate) 800 and 1500m junior girls, Lucy Monckton (Collegiate) senior 1500 and 3000m, **Aria Bannister** (High School) long and triple jump junior girls, **Emily Hutchins** (High School) 100 and 200m junior girls, **Cody Campbell** (High School) discus and javelin and Samu Herman 200m and 300m junior boys were other athletes to take two titles.
 
-Only hours after the championships it is difficult to do justice to the many good athletes and their performances. I will follow up in greater depth on this snapshot of Wednesday's events in next week's Athletics Insight column.
+Only hours after the championships it is difficult to do justice to the many good athletes and their performances. I will follow up in greater depth on this snapshot of Wednesday's events in next week's Athletics Insight column.  
+
+*Alex McNab, Athletic Insight
+Whanganui Chronicle*
 
 
 _________________
