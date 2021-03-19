@@ -30,7 +30,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112071/News/y.Coby_Pye_interm_boys_100m_hurdle_1st.jpg
     description: 1st Coby Pye - Intermediate Boys 100m hurdles.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112887/News/y.Quin_Harris_Campbell_80m_Junior_hurdles.jpg
-    description: 1st Quin Harris-Campbell, 2nd Corquinbin Eiseman - Junior Boys 80m hurdles.
+    description: 1st Quin Harris-Campbell, 2nd Corbin Eiseman - Junior Boys 80m hurdles.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112666/News/y.Maggie_Jones_snr_girls_long_jump.jpg
     description: 1st Maggie Jones - Senior Girls long jump.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616113066/News/y.Triple_jump_snr_girls_Paris.jpg
