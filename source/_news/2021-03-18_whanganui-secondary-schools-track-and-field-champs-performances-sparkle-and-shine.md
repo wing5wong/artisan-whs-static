@@ -31,6 +31,12 @@ image_gallery:
     description: 1st Maggie Jones - Senior Girls long jump.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112724/News/y.Mason_henry_jnr_boy_high_jump_1st.jpg
     description: 1st Mason Henry - Junior Boys high jump.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112803/News/y.Nat_Kirk_Flyn_Johnston_snr_boys_110m_hurdles.jpg
+    description: 1st Nat Kirk, 2nd Flynn Johnston - Senior Boys 110m hurdles.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112887/News/y.Quin_Harris_Campbell_80m_Junior_hurdles.jpg
+    description: 1st Quin Harris-Campbell, 2nd Corquinbin Eiseman - Junior Boys 80m hurdles.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616113066/News/y.Triple_jump_snr_girls_Paris.jpg
+    description: 1st Paris Munro - Senior Girls triple jump.
 show_in_slider: true
 date: 2021-03-18T21:01:41.916Z
 ---
