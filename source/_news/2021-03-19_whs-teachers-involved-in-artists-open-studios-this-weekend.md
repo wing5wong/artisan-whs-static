@@ -21,3 +21,6 @@ date: 2021-03-19T03:07:40.594Z
 #38 - MRS SHARP https://openstudios.co.nz/studio/the-nest/  
 
 #THE MAP: https://openstudios.co.nz/map/
+
+*Visual Arts Department  
+Whanganui High School*
