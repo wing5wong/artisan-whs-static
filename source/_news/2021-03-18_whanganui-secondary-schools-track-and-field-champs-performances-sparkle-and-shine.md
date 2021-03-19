@@ -20,7 +20,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112803/News/y.Nat_Kirk_Flyn_Johnston_snr_boys_110m_hurdles.jpg
     description: 1st Nat Kirk, 2nd Flynn Johnston - Senior Boys 110m hurdles.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111155/News/Y._Teresa_Rennie_1st_Carie_Rennie_2nd_Int_80m_hurdles.jpg
-    description: 1st Teresa Rennie, 2nd Carrie Rennie -  Intermediate Girls 80m hurdles..
+    description: 1st Teresa Rennie, 2nd Carrie Rennie -  Intermediate Girls 80m hurdles.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616111310/News/y._Teresa_Rennie_1st_Int_girls_100m.jpg
     description: 1st Teresa Rennie - Intermediate Girls 100m sprint..
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112565/News/y.Emily_Hutchins_jnr_girls_100m_200m_sprints_1st.jpg
