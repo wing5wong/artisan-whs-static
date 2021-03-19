@@ -64,8 +64,10 @@ Louise Brabyn (Collegiate) dominated the intermediate girls middle distance even
 
 Only hours after the championships it is difficult to do justice to the many good athletes and their performances. I will follow up in greater depth on this snapshot of Wednesday's events in next week's Athletics Insight column.
 
-.
+
 _________________
+.
+
 
 ***Below are photos of some of our outstanding athletes from WHS...***
 
