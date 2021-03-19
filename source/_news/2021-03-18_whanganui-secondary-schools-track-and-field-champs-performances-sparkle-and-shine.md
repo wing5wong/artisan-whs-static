@@ -25,6 +25,12 @@ image_gallery:
     description: 1st Coby Pye - Intermediate Boys 100m hurdles.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112206/News/y.Emily_corcoran_70m_jnr_girls_hurdles.jpg
     description: 1st Emily Corcoran - Junior Girls 70m hurdles.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112565/News/y.Emily_Hutchins_jnr_girls_100m_200m_sprints_1st.jpg
+    description: 1st Emily Hutchins - Junior Girls 100m & 200m sprints.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112666/News/y.Maggie_Jones_snr_girls_long_jump.jpg
+    description: 1st Maggie Jones - Senior Girls long jump.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112724/News/y.Mason_henry_jnr_boy_high_jump_1st.jpg
+    description: 1st Mason Henry - Junior Boys high jump.
 show_in_slider: true
 date: 2021-03-18T21:01:41.916Z
 ---
