@@ -7,4 +7,4 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/
 ---
 Student Achievement Conferences (Parent Teacher Interviews) will be held on Wednesday 14 and Thursday 15 April .
 
-Details will be advised in the Interim Report emailed, or alternatively mailed if no email address, to all students on Friday 26 March.
+Details will be advised in the Interim Report which will be emailed, or alternatively mailed if no email address, to all students on Friday 26 March.
