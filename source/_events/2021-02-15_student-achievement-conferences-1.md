@@ -7,4 +7,4 @@ Student Achievement Conferences (Parent Teacher Interviews) will be held on Wed
 
 
 
-Details will be advised in the Interim Report emailed, or alternatively mailed if no email address, to all students on Friday 26 March.
+Details will be advised in the Interim Report which will be emailed, or alternatively mailed if no email address, to all students on Friday 26 March.
