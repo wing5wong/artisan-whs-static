@@ -1,7 +1,7 @@
 ---
 title: WHS teachers involved in Artists Open Studios this weekend
 date: 2021-03-27T01:59:06.739Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616118750/Events/160091327_10157410639151222_1347946086993411368_o.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616357483/Events/158876562_10157403769121222_9004883095548907726_o.jpg
 ---
 We are so lucky to live in such a creative community. 
 
