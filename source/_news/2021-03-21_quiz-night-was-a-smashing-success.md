@@ -1,5 +1,7 @@
 ---
 title: Quiz Night was a smashing success
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616446096/Events/Copy_of_IMG_6942.jpg
 news_author:
   date: 2021-03-18T23:16:16.430Z
   publication: Academic Prefects
