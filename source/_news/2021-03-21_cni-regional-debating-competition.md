@@ -2,6 +2,7 @@
 title: CNI Regional Debating Competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542436/News/1._Junir_Senior_participating_teams_20210314_160624.jpg
+  description: WHS Junior and Senior teams participating.
 news_author:
   date: 2021-03-14T21:39:16.101Z
   name: Ms Hughes & Mr Miller
