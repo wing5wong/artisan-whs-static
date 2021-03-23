@@ -11,7 +11,7 @@ news_author:
   name: Mike Tweed
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616477125/News/Bad_Hagrid_Chron_23.3.21snip.png
-    description: Bad Hagrid played at Majestic Place on Saturday. They are ex WHS
+    description: Bad Hagrid played earlier in the afternoon. They are ex WHS
       students, Te Paerata Tichbon, Finn Mitchell-Anyon and Shay Wright.
 show_in_slider: false
 date: 2021-03-23T05:15:46.859Z
