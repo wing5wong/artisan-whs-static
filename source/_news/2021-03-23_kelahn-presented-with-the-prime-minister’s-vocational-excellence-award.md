@@ -17,5 +17,5 @@ Due to constraints around the election and government formation, he was unable t
 
 The certificate arrived and Kelahn was able to come into Whanganui High School during his lunch break from work for it to be presented to him by our Principal, Mr Martin McAllen. 
 
-Well done Kelahn, a fantastic achievement!
+Well deserved Kelahn, a fantastic achievement!
 
