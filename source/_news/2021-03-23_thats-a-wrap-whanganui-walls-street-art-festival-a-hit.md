@@ -27,7 +27,7 @@ This year marked the second year the event has been staged in Whanganui, bringin
 
 Across the city on Sunday, artists were busy adding the finishing touches to their murals, most of which began work on Thursday or Friday.
 
-**At the youth wall, 16-year-old Whanganui High School student Freyja Wrigglesworth** was one of a number of local students handpicked to put together their own mural just off Drews Ave.
+**At the youth wall, 16-year-old Whanganui High School student Freyja Wrigglesworth** was one of a number of local students handpicked to put together their own mural just off Drews Ave (other Whanganui High School aspiring artists working at the youth wall included Imogen Maguire and Rose Hird).
 
 
 **Wrigglesworth** decided to add a slightly upbeat feel as her addition to the collective effort, choosing to paint a number of native birds seen across Whanganui.
