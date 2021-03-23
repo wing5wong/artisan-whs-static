@@ -1,5 +1,5 @@
 ---
-title: Junior Careers Expo
+title: Junior Careers Expo - ALL Junior students to attend
 date: 2021-03-25T22:18:54.613Z
 ---
 Whanganui High School is participating in the Whanganui Junior Careers EXPO. 
