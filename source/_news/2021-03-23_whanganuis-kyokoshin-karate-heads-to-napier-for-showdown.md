@@ -2,7 +2,7 @@
 title: Whanganui's Kyokoshin Karate heads to Napier for showdown
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616474512/News/Karate._Chorn_20.3.21._Emily_Oscar_Benson.Jake_Hood.jpg
-  description: "Tracey Boswell, Emily Benson (WHS student), William Wallace, Tvern
+  description: "Tracey Boswell, Emily Benson (WHS student), William Collins, Taven
     Alderton, Oscar Benson (WHS student), Jake Hood (WHS student) and Brian
     Alderton from Kyokoshin Karate are all going to Napier over the weekend. "
   credit: Supplied
