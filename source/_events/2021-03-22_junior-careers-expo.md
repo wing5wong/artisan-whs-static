@@ -6,7 +6,7 @@ Whanganui High School is participating in the Whanganui Junior Careers EXPO.
 
 This is a good opportunity for students in Years 9 and 10 to investigate career and training opportunities that are available through local businesses, training providers, and tertiary institutions: about 80 organisations will be represented. 
 
-The Expo venue is The Racecourse, Purnell Street.
+The Expo venue is The Racecourse, Purnell Street on Friday 26 March.
 
 
 **All Year 9 and 10 students will attend the EXPO at some time between 9:15am and 11:30am.** 
