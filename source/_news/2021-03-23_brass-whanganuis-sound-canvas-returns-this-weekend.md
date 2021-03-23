@@ -7,6 +7,9 @@ news_author:
   date: 2021-03-17T05:34:25.997Z
   publication: ""
   name: ""
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614137491/News/Sound-Canvas-2021-Event-Promo-Image-20a.jpg
+    description: Sound Canvas 2021
 show_in_slider: false
 date: 2021-03-23T05:34:26.012Z
 ---
