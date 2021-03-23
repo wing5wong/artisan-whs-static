@@ -9,6 +9,10 @@ news_author:
   date: 2021-03-20T04:28:27.036Z
   publication: Whanganui Chronicle
   name: Ethan Griffiths
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616474071/News/Majestic_Square_hive_of_activity._Chorn_20.3.21.jpg
+    description: Majestic Square was a hive of activity across Saturday day and
+      night. Photo / Lewis Gardner.
 show_in_slider: false
 date: 2021-03-23T04:28:27.057Z
 ---
