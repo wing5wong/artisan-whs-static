@@ -15,10 +15,10 @@ image_gallery:
       night. Photo / Lewis Gardner.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616477125/News/Bad_Hagrid_Chron_23.3.21snip.png
     description: Including 'Bad Hagrid', with former WHS students, Te Paerata
-      Tichbon, Finn Mitchell-Anyon and Shay Wright.
+      Tichbon, Finn Mitchell-Anyon and Shay Wright.  Photo / Lewis Gardner.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616476562/News/Michael_Franklin-Browne._Chron_23.3.21.jpg
     description: Including 'Pluto', with WHS music tutor Michael Franklin-Browne on
-      the drums.
+      the drums.  Photo / Kai Arahi Hagger.
 show_in_slider: false
 date: 2021-03-23T04:28:27.057Z
 ---
