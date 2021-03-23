@@ -11,10 +11,9 @@ news_author:
 show_in_slider: true
 date: 2021-03-23T21:20:06.637Z
 ---
-Kelahn Te Awhe Taylor was awarded the Prime Minister’s Vocational Excellence Award at last years’ Senior Prizegiving. 
+Kelahn Te Awhe-Taylor was awarded the Prime Minister’s Vocational Excellence Award at last years’ Senior Prizegiving. 
 
 Due to constraints around the election and government formation, he was unable to be provided with a signed certificate from the Prime Minister. 
-
 
 The certificate arrived and Kelahn was able to come into Whanganui High School during his lunch break from work for it to be presented to him by our Principal, Mr Martin McAllen. 
 
