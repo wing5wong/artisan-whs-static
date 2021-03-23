@@ -13,6 +13,12 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616474071/News/Majestic_Square_hive_of_activity._Chorn_20.3.21.jpg
     description: Majestic Square was a hive of activity across Saturday day and
       night. Photo / Lewis Gardner.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616477125/News/Bad_Hagrid_Chron_23.3.21snip.png
+    description: Including 'Bad Hagrid', with former WHS students, Te Paerata
+      Tichbon, Finn Mitchell-Anyon and Shay Wright.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616476562/News/Michael_Franklin-Browne._Chron_23.3.21.jpg
+    description: Including 'Pluto', with WHS music tutor Michael Franklin-Browne on
+      the drums.
 show_in_slider: false
 date: 2021-03-23T04:28:27.057Z
 ---
