@@ -5,6 +5,7 @@ feature_image:
   description: "'Gnomeo & Juliet' took out the win for the evening, featuring from
     left; Sophia Bedwell, Olivia Bedwell, Calum Sinclair, Benjamin White and
     Finnian Sinclair."
+  credit: Rebecca Allardice
 news_author:
   date: 2021-03-18T23:16:16.430Z
   publication: Academic Prefects
