@@ -1,9 +1,24 @@
 ---
 title: CNI Regional Debating Competition
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542436/News/1._Junir_Senior_participating_teams_20210314_160624.jpg
 news_author:
   date: 2021-03-14T21:39:16.101Z
   name: Ms Hughes & Mr Miller
   publication: Teachers in charge
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542711/News/Opening_of_competition_by_Steph_Lewins_Local_MP.jpg
+    description: Opening of competition by Local MP, Steph Lewis.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542599/News/2.Central_North_Island_Regional_Team_including_Alice.jpg
+    description: Central North Island Regional Team, including Alice Quigley.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542614/News/3._Junior_Debating_Team_2nd_Bazil_Sanderson._Finnian_Sinclair._Ivan_Adams.jpg
+    description: 2nd Junior Debating - WHS Year 10 students, Bazil Sanderson,
+      Finnian Sinclair & Ivan Adams.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542644/News/3.Most_promising_speaker_award_over_the_comp._Alice_BEST.jpg
+    description: Most Promising Speaker Award overall - Alice Quigley.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542668/News/4.Best_Junior_Speaker._Alice.jpg
+    description: Best Junior Speaker - Alice Quigley.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542683/News/158912455_151300073518908_1617728874170531533_n.jpg
 show_in_slider: true
 date: 2021-03-21T21:39:16.173Z
 ---
