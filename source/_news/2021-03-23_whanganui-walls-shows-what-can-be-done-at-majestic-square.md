@@ -5,6 +5,7 @@ feature_image:
   description: (From left) Tim Arnold, Michael Franklin-Browne (WHS music tutor)
     and Milan Borich of Pluto filled Majestic Square as the headliners of
     Saturday's Whanganui Walls music festival.
+  credit: Kai Arahi Hagger
 news_author:
   date: 2021-03-23T05:15:46.843Z
   publication: Whanganui Chronicle
@@ -12,7 +13,8 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616477125/News/Bad_Hagrid_Chron_23.3.21snip.png
     description: Bad Hagrid played earlier in the afternoon. They are ex WHS
-      students, Te Paerata Tichbon, Finn Mitchell-Anyon and Shay Wright.
+      students, Te Paerata Tichbon, Finn Mitchell-Anyon and Shay Wright.  Photo
+      / Lewis Gardner.
 show_in_slider: false
 date: 2021-03-23T05:15:46.859Z
 ---
