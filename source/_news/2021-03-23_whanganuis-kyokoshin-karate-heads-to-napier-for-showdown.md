@@ -30,7 +30,7 @@ Sensei Richard Hood said they were all itching to get back into action after the
 Hood was meant to be in the main event, but an out of training injury has forced him to be replaced by Brian Alderton.
 
 
-Tracey Boswell is one of New Zealand's longest-serving female fighters and 17 year old **Jake Hood** will take on a two opponents on the day, fighting two 30-year-olds who have more than 30kg in weight over the teenager.
+Tracey Boswell is one of New Zealand's longest-serving female fighters and **17 year old Jake Hood** will take on a two opponents on the day, **fighting two 30-year-olds** who have more than 30kg in weight over the teenager.
 
 
 Other than the three aforementioned, the remaining six fighters are all making their debuts.
