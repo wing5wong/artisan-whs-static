@@ -5,8 +5,8 @@ feature_image:
   description: Brass Whanganui performing last year at Sound Canvas.
 news_author:
   date: 2021-03-17T05:34:25.997Z
-  publication: Whanganui Midweek
-  name: Paul Brooks
+  publication: ""
+  name: ""
 show_in_slider: false
 date: 2021-03-23T05:34:26.012Z
 ---
@@ -62,3 +62,12 @@ What: Sound Canvas
 When: Saturday, March 27 at 3pm and 7pm, and Sunday, March 28 at 2pm.  
 Where: Royal Whanganui Opera House  
 Tickets: Adults $35, seniors / FOH $30, students and children $20, available from the Opera House.
+
+*Paul Brooks  
+Whanganui Midweek 17/3/21*
+
+_____________________
+
+**Whanganui High School students performing at Sound Canvas 2021 with Brass Whanganui are Finnian Sinclair, Toby Clark, Luke Squire and Bryn Morgan; and former students, Rose Wainhouse, Haydn Davis, William Meremere, Gavin Herdman, Jonathon Greenwell, Michael Franklyn-Brown, Hamish Jellyman and Bruce Jellyman.**  
+
+**A must see performance!!**
