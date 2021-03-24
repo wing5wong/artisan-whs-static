@@ -1,5 +1,7 @@
 ---
 title: ⭐️ Whanganui High School Newsletter - March 2021 ⭐️
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616566886/News/MARCH_2021_BIGGER-KBSrivercity-press_this-one.jpg
 news_author:
   date: 2021-03-25T06:06:02.332Z
   publication: River City Press
