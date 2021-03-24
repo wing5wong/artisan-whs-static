@@ -5,7 +5,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616564112/News/Trinity_Taylor_Moore._New_Zealand_Coastal_Restoration_Trust_s_annual_conference_3.png
 news_author:
   date: 2021-03-24T05:30:25.603Z
-  name: Trinity Taylor Moore
+  name: Trinity Taylor Moore (Year 13 student)
   publication: Recipient of Scholarship
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616564141/News/Screenshot_11.png
