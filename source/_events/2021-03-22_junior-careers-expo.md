@@ -7,7 +7,8 @@ Whanganui High School is participating in the Whanganui Junior Careers EXPO on F
 This is a good opportunity for students in Years 9 and 10 to investigate career and training opportunities that are available through local businesses, training providers, and tertiary institutions: about 80 organisations will be represented. 
 
 
-**All Year 9 and 10 students will be spending 90 minutes at the Whanganui Junior Vocational Expo being held at the Raceway. All students will have tasks to complete from their Social Studies class as well as two activities at the Expo to go into the drawer for three $50 Stirling Sports Vouchers and numerous Apple / itunes cards
+
+All Year 9 and 10 students will be spending 90 minutes at the Whanganui Junior Vocational Expo being held at the Raceway. All students will have tasks to complete from their Social Studies class as well as two activities at the Expo to go into the drawer for three $50 Stirling Sports Vouchers and numerous Apple / itunes cards.
 
 **Year 9 students:** Make sure you get to Form Time quickly on Friday, have your name checked off and move to an assembly in the hall. From there we will make our way in two groups down to the Expo at Whanganui Raceway. You will be returning, as a group, to school early in period 2.
 
@@ -15,4 +16,9 @@ This is a good opportunity for students in Years 9 and 10 to investigate career 
 
 
 
-Mr P Keene, (Careers Advisor) and Mr P Turner (Deputy Principal) are assisting in organising the expo. Deans, senior staff and class teachers will be present on site as well.
+
+
+*Mr Keene  
+Careers Advisor*
+
+
