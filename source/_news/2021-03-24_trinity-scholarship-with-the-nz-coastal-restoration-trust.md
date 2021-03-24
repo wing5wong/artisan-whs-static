@@ -1,5 +1,6 @@
 ---
-title: Trinity's Scholarship with the NZ Coastal Restoration Trust
+title: Trinity's Scholarship to attend the NZ Coastal Restoration Trust annual
+  conference
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616564112/News/Trinity_Taylor_Moore._New_Zealand_Coastal_Restoration_Trust_s_annual_conference_3.png
 news_author:
