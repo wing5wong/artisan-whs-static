@@ -9,7 +9,8 @@ news_author:
   publication: Recipient of Scholarship
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616564141/News/Screenshot_11.png
-    description: Trinity, with the chair of the New Zealand Coastal Restoration Trust.
+    description: Trinity, with the chair of the New Zealand Coastal Restoration
+      Trust, Greg Bennett.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616564170/News/Trinity_Taylor_Moore._New_Zealand_Coastal_Restoration_Trust_s_annual_conference.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616564194/News/Trinity_Taylor_Moore._New_Zealand_Coastal_Restoration_Trust_s_annual_conference_2.png
 show_in_slider: true
