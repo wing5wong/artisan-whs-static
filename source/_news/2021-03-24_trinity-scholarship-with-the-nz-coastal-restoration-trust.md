@@ -14,7 +14,7 @@ image_gallery:
 show_in_slider: true
 date: 2021-03-24T05:30:25.651Z
 ---
-I recently won a scholarship to attend the New Zealand Coastal Restoration Trust's annual conference from 9-12 March 2021. 
+I recently won a scholarship to attend the New Zealand Coastal Restoration Trust's annual conference held in and around Whanganui from 9-12 March 2021. 
 
 The annual conference is an event where environmental conservation leaders and workers meet together to learn, discuss current restoration projects and network amongst New Zealand's leading conservation experts, scientists and workers. 
 
