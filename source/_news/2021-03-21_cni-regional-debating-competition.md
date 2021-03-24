@@ -18,9 +18,8 @@ image_gallery:
       Finnian Sinclair & Ivan Adams.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542644/News/3.Most_promising_speaker_award_over_the_comp._Alice_BEST.jpg
     description: Most Promising Speaker Award overall - Alice Quigley.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542668/News/4.Best_Junior_Speaker._Alice.jpg
-    description: Best Junior Speaker - Alice Quigley.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542683/News/158912455_151300073518908_1617728874170531533_n.jpg
+    description: Best Junior Speakers - Alice Quigley and a student from Hawera High School.
 show_in_slider: true
 date: 2021-03-21T21:39:16.173Z
 ---
