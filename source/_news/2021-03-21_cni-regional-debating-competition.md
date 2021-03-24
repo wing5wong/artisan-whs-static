@@ -17,7 +17,7 @@ image_gallery:
     description: 2nd Junior Debating - WHS Year 10 students, Bazil Sanderson,
       Finnian Sinclair & Ivan Adams.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542644/News/3.Most_promising_speaker_award_over_the_comp._Alice_BEST.jpg
-    description: Most Promising Speaker Award overall - Alice Quigley.
+    description: Most Promising Speaker Award Overall - Alice Quigley.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542683/News/158912455_151300073518908_1617728874170531533_n.jpg
     description: Best Junior Speakers - Alice Quigley and a student from Hawera High School.
 show_in_slider: true
