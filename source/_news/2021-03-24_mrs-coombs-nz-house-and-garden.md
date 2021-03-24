@@ -18,6 +18,6 @@ date: 2021-03-24T03:57:49.621Z
 ARTIST OPEN STUDIOS this weekend.  
 Saturday and Sunday 10am-4pm.
 
-**56 - MRS KAYE COOMBS** https://openstudios.co.nz/.../kaye-coombs-diana-pottinger/
+**56 - MRS KAYE COOMBS** [https://openstudios.co.nz/.../kaye-coombs-diana-pottinger/](https://openstudios.co.nz/studio/kaye-coombs-diana-pottinger/)
 
 THE MAP: https://openstudios.co.nz/map/
