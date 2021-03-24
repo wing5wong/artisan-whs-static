@@ -2,7 +2,7 @@
 title: Lauren Phillips is excelling at Polocrosse!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616620965/News/Lauren_Phillips_.C830057C-A39C-4543-A358-867A021AA11C.jpg
-  description: Lauren on her thoroughbred horse, Richard.
+  description: Lauren on her thoroughbred horse named Richard.
 news_author:
   date: 2021-03-24T21:21:52.426Z
 image_gallery:
