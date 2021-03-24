@@ -1,5 +1,5 @@
 ---
-title: CNI Regional Debating Competition
+title: CNI Regional Debating Competition 2021, hosted by WHS
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542436/News/1._Junir_Senior_participating_teams_20210314_160624.jpg
   description: WHS Junior and Senior teams participating in the CNI Regional
