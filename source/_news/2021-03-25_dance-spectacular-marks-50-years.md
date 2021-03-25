@@ -2,7 +2,9 @@
 title: Dance spectacular marks 50 years
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616630536/News/Sharyn_Underwood_50_yrs._Midweek_24.3.21._Phto_Paul_Brooks.jpg
-  description: Sharyn Underwood (right) with some of her advanced dancers.
+  description: Sharyn Underwood (right) with some of her advanced dancers,
+    including former WHS students Keira Bennett (left) and Abby Squire (next to
+    Sharyn)..
   credit: Paul Brooks
 news_author:
   date: 2021-03-23T23:59:56.221Z
@@ -30,7 +32,7 @@ She still uses Amdram as well as her purpose built studio in Great North Rd, bui
 
 The show this year has no story, but the theme is time.
 
-"The best thing about the show is that I have asked my past students overseas who are still dancing to choreograph a dance for my students. So Mark Lace [London] has choreographed a dance, Sarah Seville [London] has choreographed a dance, Nikita McDonald in Sydney... Joana [Simmons] has choreographed dances.
+"The best thing about the show is that I have asked my past students overseas who are still dancing to choreograph a dance for my students. So **Mark Lace** [London] has choreographed a dance, **Sarah Seville** [London] has choreographed a dance, Nikita McDonald in Sydney... Joana [Simmons] has choreographed dances.
 
 "I asked Mel Holly to choreograph a dance and she said, 'Yes, I'm choreographing a dance, but not for your students. Is it all right if I ask if any of the past students want to join?' She put it on Facebook and there was massive interest, right back from my original students."
 
@@ -38,7 +40,7 @@ Mel's choreography has attracted about 29 past students who want to dance for Sh
 
 The 29, including Mel, are coming to Whanganui from all over the country. Sharyn's first pupil, Ann-Marie Harper, will be dancing in the show. Some of the participants won't have danced for a long time.
 
-"Some I haven't seen for years," says Sharyn. "Mel made up the dance and she has been giving Zoom lessons to all the people involved. On a Monday night Tori [Rivers] has been taking a big class here and I teach at Amdram, so I come home, all the cars are still here, and I think no, I'm not going in there: I don't want to see this dance."
+"Some I haven't seen for years," says Sharyn. "Mel made up the dance and she has been giving Zoom lessons to all the people involved. On a Monday night **Tori [Rivers]** has been taking a big class here and I teach at Amdram, so I come home, all the cars are still here, and I think no, I'm not going in there: I don't want to see this dance."
 
 Mark, Sarah and Nikita have provided tutorials for the students.
 
