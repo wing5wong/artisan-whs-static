@@ -1,19 +1,13 @@
 ---
-title: Great results at the North Island Schools MTB Championships 2021
+title: Arlo smashes his first attempt in the Downhill event at the North Island
+  Schools MTB Championships 2021
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709003/News/cD4mflTw.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616711913/News/Arlo_2.jpg
 news_author:
   date: 2021-03-24T21:44:23.385Z
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709052/News/cRJ9cO-w.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709068/News/eV48hk4A.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709098/News/kZa4qoTQ.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709021/News/0JqckbmQ.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709035/News/0XIp5xvA.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709003/News/cD4mflTw.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709134/News/Z-S6vCHQ.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709114/News/Ntlk8fPQ.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616709083/News/i8RpfcGQ.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616711955/News/x12dpvcQ_1.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616711985/News/Nvm5s8vQ.jpg
 show_in_slider: true
 date: 2021-03-25T21:44:23.442Z
 ---
