@@ -8,7 +8,7 @@ news_author:
   date: 2021-03-24T21:44:23.385Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712242/News/MTB%20Nth%20Island%20Champs%202021/x12dpvcQ_1.jpg
-    description: George Davey and Arlo Johnston
+    description: George Davey (left) and Arlo Johnston
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712245/News/MTB%20Nth%20Island%20Champs%202021/Nvm5s8vQ.jpg
     description: Arlo Johnston and George Davey
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712235/News/MTB%20Nth%20Island%20Champs%202021/George_1.jpg
