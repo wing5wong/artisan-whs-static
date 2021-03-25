@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616630536/News/Sharyn_Underwood_50_yrs._Midweek_24.3.21._Phto_Paul_Brooks.jpg
   description: Sharyn Underwood (right) with some of her advanced dancers,
     including former WHS students Keira Bennett (left) and Abby Squire (next to
-    Sharyn)..
+    Sharyn).
   credit: Paul Brooks
 news_author:
   date: 2021-03-23T23:59:56.221Z
