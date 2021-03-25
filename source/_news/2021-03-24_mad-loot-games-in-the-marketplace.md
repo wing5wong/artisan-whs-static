@@ -9,6 +9,8 @@ news_author:
   date: 2021-03-20T01:49:38.989Z
   publication: Whanganui Chronicle
   name: Logan Tutty
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616642522/News/Nic_Plane._ex.Chron..._20.3.21.jpg
 show_in_slider: false
 date: 2021-03-24T01:49:39.113Z
 ---
