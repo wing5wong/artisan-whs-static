@@ -6,8 +6,15 @@ feature_image:
 news_author:
   date: 2021-03-24T21:44:23.385Z
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616711955/News/x12dpvcQ_1.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616711985/News/Nvm5s8vQ.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712242/News/MTB%20Nth%20Island%20Champs%202021/x12dpvcQ_1.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712245/News/MTB%20Nth%20Island%20Champs%202021/Nvm5s8vQ.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712235/News/MTB%20Nth%20Island%20Champs%202021/George_1.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712240/News/MTB%20Nth%20Island%20Champs%202021/George_2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712238/News/MTB%20Nth%20Island%20Champs%202021/Arlo_1.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712241/News/MTB%20Nth%20Island%20Champs%202021/George_3.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712238/News/MTB%20Nth%20Island%20Champs%202021/Arlo_2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712234/News/MTB%20Nth%20Island%20Champs%202021/Arlo_4.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712236/News/MTB%20Nth%20Island%20Champs%202021/Arlo_3rd.jpg
 show_in_slider: true
 date: 2021-03-25T21:44:23.442Z
 ---
