@@ -2,7 +2,7 @@
 title: Arlo smashes his first attempt in the Downhill event at the North Island
   Schools MTB Championships 2021
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616711913/News/Arlo_2.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712238/News/MTB%20Nth%20Island%20Champs%202021/Arlo_2.jpg
   description: Arlo Johnston
 news_author:
   date: 2021-03-24T21:44:23.385Z
