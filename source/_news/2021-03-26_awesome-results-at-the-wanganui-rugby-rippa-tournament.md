@@ -1,5 +1,5 @@
 ---
-title: Awesome results at the Wanganui Rugby Rippa Tournament
+title: Awesome results at the Wanganui Rugby Rippa Tournament!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616740001/News/Prefects%20Camp%202021/164769153_1839748026174295_7435037439915167725_o.jpg
 news_author:
