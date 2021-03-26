@@ -10,7 +10,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712242/News/MTB%20Nth%20Island%20Champs%202021/x12dpvcQ_1.jpg
     description: George Davey (left) and Arlo Johnston
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712245/News/MTB%20Nth%20Island%20Champs%202021/Nvm5s8vQ.jpg
-    description: Arlo Johnston and George Davey
+    description: ""
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712235/News/MTB%20Nth%20Island%20Champs%202021/George_1.jpg
     description: George Davey
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712240/News/MTB%20Nth%20Island%20Champs%202021/George_2.jpg
@@ -24,7 +24,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712234/News/MTB%20Nth%20Island%20Champs%202021/Arlo_4.jpg
     description: Arlo Johnston
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712236/News/MTB%20Nth%20Island%20Champs%202021/Arlo_3rd.jpg
-    description: Arlo Johnston (left) on the podium - 3rd U17 Downhill event.
+    description: Arlo Johnston (left) on the podium - 3rd U17 Downhill Event.
 show_in_slider: true
 date: 2021-03-25T21:44:23.442Z
 ---
