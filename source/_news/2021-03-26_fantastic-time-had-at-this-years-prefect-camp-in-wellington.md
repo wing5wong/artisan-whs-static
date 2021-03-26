@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616729139/News/Prefects%20Camp%202021/prefect_camp_9.jpg
   description: Whanganui High School Prefect team.
 news_author:
-  date: 2021-03-25T03:07:07.195Z
+  date: 2021-03-22T03:07:07.195Z
   name: Blair Gowan and Troy Brennan
   publication: Head Boy and Deputy Head Boy
 image_gallery:
