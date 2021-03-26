@@ -14,7 +14,7 @@ date: 2021-03-26T06:22:27.278Z
 ---
 Well done to our WHS Rippa Rugby teams who played in the Wanganui Rugby Rippa Tourney today! 
 
-We won all the secondary school grades!! 💚💛🎉
+**We won all the secondary school grades!!** 💚💛🎉
 
 ##### Results were:  
 Y9-10 Boys finals - WHS vs Cullinane (we won)  
