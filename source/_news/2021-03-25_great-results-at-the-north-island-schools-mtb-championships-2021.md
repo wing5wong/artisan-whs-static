@@ -24,14 +24,14 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712234/News/MTB%20Nth%20Island%20Champs%202021/Arlo_4.jpg
     description: Arlo Johnston
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712236/News/MTB%20Nth%20Island%20Champs%202021/Arlo_3rd.jpg
-    description: Arlo Johnston (left) on the podium - 3rd U17 Downhill Event.
+    description: Arlo Johnston (left) on the podium - 3rd U17 Downhill event.
 show_in_slider: true
 date: 2021-03-25T21:44:23.442Z
 ---
 Arlo Johnston and George Davies recently returned from a successful 2 days of MTB racing in Auckland at the North Island Schools MTB Championships.
 
-Both did very well on Day 1 for the Enduro Event, with Arlo taking 4th place and George only a mere 4 seconds behind in 7th place out of more than 50 riders in the U17 age group.
+Both did very well on Day 1 for the Enduro event, with Arlo taking 4th place and George only a mere 4 seconds behind in 7th place out of more than 50 riders in the U17 age group.
 
-The following day was the Downhill Event. Unfortunately George crashed in practice earlier in the day but still managed a creditable 17th place while **Arlo finished with the 3rd fastest time in U17’s giving him a spot on the podium!**
+The following day was the Downhill event. Unfortunately George crashed in practice earlier in the day but still managed a creditable 17th place while **Arlo finished with the 3rd fastest time in U17’s giving him a spot on the podium!**
 
 Awesome racing guys!!
