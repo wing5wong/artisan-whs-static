@@ -16,10 +16,10 @@ Well done to our WHS Rippa Rugby teams who played in the Wanganui Rugby Rippa To
 
 We won all the secondary school grades!! 💚💛🎉
 
-Results were :
-Y9-10 Boys finals - WHS vs Cullinane (we won)
-Y9-10 Girls finals - WHS vs Cullinane (we won )
-Y11-13 Girls - WHS vs Cullinane (we won)
+##### Results were:  
+Y9-10 Boys finals - WHS vs Cullinane (we won)  
+Y9-10 Girls finals - WHS vs Cullinane (we won )  
+Y11-13 Girls - WHS vs Cullinane (we won)  
 Y11-13  - WHS Gold vs WHS Green (Gold won)
 
 Awesome work teams!! 👍👍
