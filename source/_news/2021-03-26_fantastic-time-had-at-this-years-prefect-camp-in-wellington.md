@@ -6,7 +6,7 @@ feature_image:
 news_author:
   date: 2021-03-25T03:07:07.195Z
   name: Blair Gowan and Troy Brennan
-  publication: Head and Deputy Head Boy
+  publication: Head Boy and Deputy Head Boy
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616729134/News/Prefects%20Camp%202021/prefect_camp_5.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616729135/News/Prefects%20Camp%202021/thumbnail_received_4247945201899860.jpg
