@@ -40,7 +40,7 @@ policyAreas:
         policy: 3.7 Staff Competency
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.8_-_Staff_Professional_Development_updated_November_2020.pdf
         policy: 3.8 Staff Professional Development
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1583788502/School%20Policies/3.9_-Timetable_Policy_updated_February_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1616961142/School%20Policies/3.9_-Timetable_Policy_updated_February_2021.pdf
         policy: 3.9 Timetable
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1567372190/School%20Policies/3.10_-_Staff_Leave_updated_August_2019.pdf
         policy: 3.10 Staff Leave
@@ -82,7 +82,7 @@ policyAreas:
         policy: 5.8 Student Related Transport
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1595561242/School%20Policies/5.9_Infectious_Diseases.updated_June_2020.pdf
         policy: 5.9 Infectious Diseases
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.10-Guidance_-updated-May-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1616961142/School%20Policies/5.10_Guidance_updated_February_2021.pdf
         policy: 5.10 Guidance
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.11-Child-Protection-Policy-in-Schools_-April-2018.pdf
         policy: 5.11 Child Protection Policy
