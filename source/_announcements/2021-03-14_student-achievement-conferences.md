@@ -8,7 +8,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/
 **Whanganui High School  
 Student Achievement Conferences**
 
-**BOOKINGS open at 5pm on Thursday 1 April** 🙂  
+**BOOKINGS OPEN at 5pm on Thursday 1 April** 🙂  
 Book an interview by clicking on the following link:  
 👉 https://www.schoolinterviews.co.nz/  
 (Event Code is needed from the Interim Report)  
