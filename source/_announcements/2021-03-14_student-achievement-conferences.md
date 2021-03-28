@@ -11,7 +11,7 @@ Student Achievement Conferences**
 BOOKINGS are open at **5pm on Thursday 1 April** 🙂  
 Book an interview by clicking on the following link:  
 👉 https://www.schoolinterviews.co.nz/  
-(Event Code in needed from the Interim Report)  
+(Event Code is needed from the Interim Report)  
 
 When: Wednesday 14 April and Thursday 15 April 2021  
 Times: 3.10pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
