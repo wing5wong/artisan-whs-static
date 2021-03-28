@@ -1,12 +1,12 @@
 ---
-title: Student Achievement Conferences - BOOKINGS are open at 5pm on THURSDAY 1 April
+title: Student Achievement Conferences - BOOKINGS OPEN at 5pm on THURSDAY 1 April
 date: 2021-04-14T08:47:56.768Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/School_Interviews_image.jpg
 ---
 **Whanganui High School  
 Student Achievement Conferences**
 
-BOOKINGS are open at **5pm on Thursday 1 April** 🙂  
+**BOOKINGS open at 5pm on Thursday 1 April** 🙂  
 Book an interview by clicking on the following link:  
 👉 https://www.schoolinterviews.co.nz/  
 (Event Code is needed from the Interim Report)  
@@ -24,3 +24,4 @@ Students are encouraged to attend these conferences with their parents or caregi
 Bookings close at 5.00pm on Tuesday 13 April, the evening before the interviews.  
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
+
