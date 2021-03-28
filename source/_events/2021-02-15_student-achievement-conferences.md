@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences
+title: Student Achievement Conferences - BOOKINGS are open at 5pm on THURSDAY 1 April
 date: 2021-04-14T08:47:56.768Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/School_Interviews_image.jpg
 ---
