@@ -11,6 +11,6 @@ news_author:
 show_in_slider: true
 date: 2021-03-29T03:58:42.598Z
 ---
-**Well done to Eddie Dewhirst and Caleb Squire winning the Feva class trophy from the Wellington Centreboard Championships 2021 on 27 March and 28 March.**
+**Well done to Eddie Dewhirst and Caleb Squire winning the Feva class trophy from the Wellington Centreboard Championships 2021, 27 March and 28 March.**
 
 Awesome work boys!! 💚💛⛵️⛵️
