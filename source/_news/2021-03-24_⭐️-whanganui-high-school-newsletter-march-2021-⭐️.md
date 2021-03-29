@@ -8,10 +8,8 @@ news_author:
 show_in_slider: true
 date: 2021-03-24T06:06:02.391Z
 ---
-Whanganui High School News - March 2021
+**Celebrating Success of our Amazing Students!!** 🥳 🥳
 
-**Celebrating Success of our Students!!** 👏👏
-
-READ the [March 2021 edition of our School Newsletter️](https://res.cloudinary.com/whanganuihigh/image/upload/v1616454998/newsletters/MARCH_2021_rivercity_press_web.pdf)
+Take a LOOK at the [March 2021 edition of our School Newsletter️](https://res.cloudinary.com/whanganuihigh/image/upload/v1616454998/newsletters/MARCH_2021_rivercity_press_web.pdf)
 
 To read other Newsletters see our [School Newsletters](https://www.whanganuihigh.school.nz/news-and-events/school-newsletters/) page.
