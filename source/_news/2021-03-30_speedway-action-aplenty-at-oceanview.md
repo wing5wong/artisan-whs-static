@@ -30,7 +30,7 @@ From the moment the flag dropped, Ricky Dykstra, his brother Zane and their cous
 
 Booker was the worst affected, being slowed and stopped multiple times as the Dykstras tried to engineer a local victory.
 
-Hawke's Bay driver Hayden Hart led through most of the race before being passed by Wanganui Warrior Dylan Marshall with a lap to go.
+Hawke's Bay driver Hayden Hart led through most of the race before being passed by Wanganui Warrior **Dylan Marshall** with a lap to go.
 
 Just as Marshall seemed poised to win a second trophy for the locals, he was momentarily slowed on the final bend, allowing Hart through to win by less than half a second.
 
