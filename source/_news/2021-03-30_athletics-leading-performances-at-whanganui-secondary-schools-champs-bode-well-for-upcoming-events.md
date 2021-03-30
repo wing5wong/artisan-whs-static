@@ -1,6 +1,10 @@
 ---
 title: "Athletics: Leading performances at Whanganui Secondary Schools Champs
   bode well for upcoming events"
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112071/News/y.Coby_Pye_interm_boys_100m_hurdle_1st.jpg
+  description: Coby Pye running and coming first in the Intermediate boys 100m
+    hurdle at the WSS Athletics.
 news_author:
   date: 2021-03-25T03:33:23.916Z
   publication: Whanganui Chronicle
