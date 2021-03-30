@@ -22,7 +22,7 @@ Shaun Smith won the opening heat, the Noel Kensington Memorial, with a terrific 
 
 Shearer turned the tables in the second race, the George Podjursky Memorial, heading home fellow Stratford drivers Scott Williams and Hamish Booker.
 
-After two heats, Shearer led the points with 46, well ahead of Booker and local driver Max Holloway.
+After two heats, Shearer led the points with 46, well ahead of Booker and local driver **Max Holloway**.
 
 The third and final heat, the Craig Heibner Memorial, was all action.
 
