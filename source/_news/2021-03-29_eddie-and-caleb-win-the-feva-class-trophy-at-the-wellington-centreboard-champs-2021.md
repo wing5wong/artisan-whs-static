@@ -1,6 +1,6 @@
 ---
-title: Eddie and Caleb win the Feva class trophy at the Wellington Centreboard
-  Champs 2021
+title: "Sailing: Eddie and Caleb win the Feva class trophy at the Wellington
+  Centreboard Champs 2021"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616990410/News/Eddie_Dewhirst_Caleb_Squire_winning_Feva_trophy_WN_Champs.jpg
   description: Eddie Dewhirst (left) and Caleb Squire holding the trophy.
