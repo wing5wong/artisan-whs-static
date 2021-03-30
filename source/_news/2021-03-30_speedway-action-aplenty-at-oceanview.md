@@ -42,7 +42,7 @@ The quality of the racing bodes well for the Sharp As Group North Island Superst
 
 The Trev's Concrete Stockcar Shootout was the second feature event of the night and was taken out by Kaelin Mooney, who beat Shootout sponsor Trevor Greig in the final after four rounds of eliminations.
 
-The highlight of the eliminations though was the race between Wayne Wright and Trazarn Ryland-Annabell in the second round.
+The highlight of the eliminations though was the race between Wayne Wright and **Trazarn Ryland-Annabell** in the second round.
 
 Wright got the jump and looked headed for an upset win until Ryland-Annabell made a huge lunge on the final corner, taking Wright into and up the wall, and almost rolling.
 
@@ -56,7 +56,7 @@ The Heiby Memorial Youth Ministocks drew a smaller than usual field, with both P
 
 However, that didn't affect the quality of the racing and a close contest ensued.
 
-Locals Tyler Schicker and Trent James won the first two heats, but Conor Linklater's consistency left him with a one-point lead over James going into the final heat.
+Locals Tyler Schicker and **Trent James** won the first two heats, but Conor Linklater's consistency left him with a one-point lead over James going into the final heat.
 
 Linklater got to the lead early in the final heat, with James hot on his heels, and looked headed for victory until the caution lights came on just as he crossed the finish line.
 
@@ -64,7 +64,7 @@ The officials ordered that the final lap be re-run and Linklater had to withstan
 
 James lost several places on the re-run last lap, losing second place overall to Bullmore.
 
-Jemma Barnes was in dominant form in the small Adult Ministocks field, taking a hat-trick of wins, while in the production saloons, wins were shared between Brent Hackett, running the 2NZ livery for the first time at his home track, John Huijs and Matt Buckley.
+**Jemma Barnes** was in dominant form in the small Adult Ministocks field, taking a hat-trick of wins, while in the production saloons, wins were shared between Brent Hackett, running the 2NZ livery for the first time at his home track, John Huijs and Matt Buckley.
 
 As the night drew to a close, the team from the Kairanga Lions Club put on a brilliant fireworks display.
 
