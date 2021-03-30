@@ -21,6 +21,6 @@ Homework Centre will be open in the Library until 4.30pm as usual.
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.
 
-Bookings close at 5.00pm on Tuesday 13 April, the evening before the interviews.
+**Bookings close** at 5.00pm on Tuesday 13 April, the evening before the interviews.
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
