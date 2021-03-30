@@ -50,7 +50,7 @@ The other highlight of the stockcar racing was the return of veteran and legend 
 
 Driving son Dion's "old" car, Evan Mooney drove as though he had never been out of the seat, proving that class is permanent.
 
-As if watching three generations of Mooneys compete together wasn't special enough, Evan drew the biggest cheer of the night when he won the last stockcar race after grandson Kaelin had slowed his dad, and Evan's son, Dion, and Blair Lockett.
+As if watching three generations of Mooneys compete together wasn't special enough, Evan drew the biggest cheer of the night when he won the last stockcar race after grandson **Kaelin** had slowed his dad, and Evan's son, Dion, and Blair Lockett.
 
 The Heiby Memorial Youth Ministocks drew a smaller than usual field, with both Palmerston North and Stratford also running on Saturday night.
 
