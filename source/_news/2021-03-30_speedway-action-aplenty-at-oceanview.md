@@ -9,6 +9,10 @@ news_author:
   date: 2021-03-30T03:49:50.078Z
   publication: Whanganui Chronicle
   name: Tony Stuart, Speedway
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617077083/News/Dylan_Marshall_ex._Chron_30.3.21_photo_SB_oHagan.jpg
+    description: The squeeze is on as Zane Dykstra (38V), Kerry Podjursky (56P) and
+      Dylan Marshall (57V) come together. Photo / SB O'Hagan Photography.
 show_in_slider: false
 date: 2021-03-30T03:49:50.124Z
 ---
