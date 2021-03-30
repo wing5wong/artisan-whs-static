@@ -40,7 +40,7 @@ Hart finished in second place, seven points behind Shearer, with Marshall in thi
 
 The quality of the racing bodes well for the Sharp As Group North Island Superstock Championship at Oceanview in two weeks.
 
-The Trev's Concrete Stockcar Shootout was the second feature event of the night and was taken out by Kaelin Mooney, who beat Shootout sponsor Trevor Greig in the final after four rounds of eliminations.
+The Trev's Concrete Stockcar Shootout was the second feature event of the night and was taken out by **Kaelin Mooney**, who beat Shootout sponsor Trevor Greig in the final after four rounds of eliminations.
 
 The highlight of the eliminations though was the race between Wayne Wright and **Trazarn Ryland-Annabell** in the second round.
 
