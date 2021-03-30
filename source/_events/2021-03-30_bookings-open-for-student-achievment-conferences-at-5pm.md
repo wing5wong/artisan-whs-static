@@ -1,5 +1,5 @@
 ---
-title: BOOKINGS OPEN at 5pm for Student Achievment Conferences
+title: BOOKINGS OPEN at 5pm for Student Achievement Conferences
 date: 2021-04-01T05:05:27.940Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/School_Interviews_image.jpg
 ---
