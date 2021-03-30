@@ -14,7 +14,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063721/News/165159674_115260597312016_582685655536691698_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063692/News/163627719_2033551876786520_6929371066897833436_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063739/News/165894061_115175033987239_1734743001515098044_n.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063797/News/165123576_115174907320585_9126482677957795249_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063828/News/166091025_115175133987229_2842090833962112292_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063768/News/163598841_115174893987253_8162257200298736280_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063783/News/164047049_115363330635076_8566780896956332752_n.jpg
