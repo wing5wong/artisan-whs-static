@@ -5,6 +5,19 @@ news_author:
   date: 2021-03-30T05:55:37.895Z
   name: "Lisa Murphy "
   publication: WHS Director of Sport
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084253/News/1.165941366_1842627192553045_3041606167464357921_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084270/News/2.164651350_1842627185886379_8636413260010434723_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084283/News/3.164402487_1842627179219713_7847254668186102834_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084297/News/4.165188181_1842627239219707_3854474990547768667_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084310/News/5.166544865_1842627245886373_346875210062289518_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084325/News/6.167514113_1842628145886283_2807848787172137228_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084340/News/7.165425583_1842628109219620_6554232950734140537_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084357/News/8.165369534_1842628115886286_6462546333758106301_o.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084372/News/9.165495183_1842628069219624_3346555467566835801_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084389/News/10.166589713_1842628042552960_8411131211650489982_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084403/News/11.165055118_1842628019219629_5317001060507457074_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084417/News/12.165241274_1842628089219622_4152376840239487484_n.jpg
 show_in_slider: true
 date: 2021-03-30T05:55:37.941Z
 ---
