@@ -1,5 +1,5 @@
 ---
-title: "Y9 student, Aria Bannister wins the Ohakune B grade Open Woman’s Squash
+title: "13 year old, Aria Bannister wins the Ohakune B grade Open Woman’s Squash
   Tournament "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617164570/News/Aria_Bannister_3.jpg
