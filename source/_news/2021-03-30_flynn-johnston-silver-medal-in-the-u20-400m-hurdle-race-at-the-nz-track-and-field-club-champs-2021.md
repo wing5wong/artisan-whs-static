@@ -1,8 +1,8 @@
 ---
-title: Flynn Johnston, Silver Medal in the U20 - 400m hurdle race at the NZ
-  Track and Field Club Champs 2021!
+title: Flynn Johnston - Silver Medal - U20, 400m Hurdle race at the NZ Track &
+  Field Club Champs 2021!
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617083499/News/Flynn_Johnston_over_a_hurdle.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617149077/News/Flynn-Johnston-over-a-hurdle.jpg
 news_author:
   date: 2021-03-30T05:47:42.350Z
   name: "Lisa Murphy "
