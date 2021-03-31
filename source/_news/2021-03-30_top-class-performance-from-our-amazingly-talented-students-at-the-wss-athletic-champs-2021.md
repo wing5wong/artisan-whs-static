@@ -41,7 +41,7 @@ The five most successful athletes of the meet were all from WHS:
 
 In a demonstration of WHS No1 status Hurdle among N.Z school’s we took out all 10 hurdle events and in most scored the top 2 places.
 
-In addition to this WHS had a number of 1,2,3 finishes in events to clearly demonstrate our great depth, for example the senior girls 100mtrs with Maggie 1st, Casie Glentworth 2nd and Paris Munro 3rd or the 200mtrs where WHS went one to four with Maggie, Charlotte Baker 2nd, Casie 3rd and Grace Walford 4th. WHS also took 1,2,3 in the Junior girls 100mtrs with Emily Corcoran, Emily Hutchins, and Nevaeh Blake, the 400mtrs Tom Gowan, Cade Knight, and Damian Hodgson and the Junior 300mtrs Hurdles with Coby, Cade Knight, and Noah Jones.  
+In addition to this WHS had a number of 1,2,3 finishes in events to clearly demonstrate our great depth, for example the senior girls 100mtrs with Maggie 1st, Casie Glentworth 2nd and Paris Munro 3rd or the 200mtrs where WHS went one to four with Maggie, Charlotte Baker 2nd, Casie 3rd and Grace Walford 4th. WHS also took 1,2,3 in the Junior girls 100mtrs with Emily Corcoran, Emily Hutchins, and Nevaeh Blake, the 400mtrs Tom Gowan, Cade Knight, and Damian Hodgson and the Junior 300mtrs Hurdles with Coby, Cade Knight, and Noah Jones plus Quin Harris-Campbell winning the Junior Boys 80m hurdles.  
 
 Charlotte Baker ended the day with 3 titles winning the 400mtrs the 4x100mtrs and 4x400mtrs and finishing 2nd in the 200mtrs, and third in the 300mtrs Hurdles and Long Jump, while Paris Munro returned to form to take out the triple jump, and 4x100mtrs relay and finish runner up in the 100mtr hurdles and 3rd in the 100mtrs.
 
