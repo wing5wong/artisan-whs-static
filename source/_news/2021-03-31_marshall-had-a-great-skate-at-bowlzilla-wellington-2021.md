@@ -11,6 +11,6 @@ image_gallery:
 show_in_slider: false
 date: 2021-03-31T01:03:45.243Z
 ---
-Congratulations to Marshall Lifflefair who came 4th in the 16 and Under, 2021 Bowlzilla Wellington National Park Skating Championships last Saturday, 27 March.
+Congratulations to Marshall Littlefair who came 4th in the 16 and Under, 2021 Bowlzilla Wellington National Park Skating Championships last Saturday, 27 March.
 
 Well done Marshall!!
