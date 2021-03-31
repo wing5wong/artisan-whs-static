@@ -2,6 +2,8 @@
 title: "'It's bloody tough': New rules and the Whanganui market"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617222369/News/Jason_George_ex_Chron_27.3.21_photo_bevan_conley.jpg
+  description: Builder Jason George is struggling to get on the housing ladder,
+    despite having the skills to do up houses that may need work.
 news_author:
   date: 2021-03-26T20:25:28.775Z
   publication: Whanganui Chronicle
