@@ -2,7 +2,7 @@
 title: TOP CLASS Performance from our amazingly talented students at the WSS
   Athletic Champs 2021!
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617084283/News/3.164402487_1842627179219713_7847254668186102834_n.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617225693/News/lots-of-hurdlers.jpg
 news_author:
   date: 2021-03-30T05:55:37.895Z
   name: "Lisa Murphy "
@@ -23,9 +23,9 @@ image_gallery:
 show_in_slider: true
 date: 2021-03-30T05:55:37.941Z
 ---
-Whanganui High school had an amazing day at the WSS athletic champs held Wednesday the 17th of March with High school athletes dominating the sprints, hurdles, jumps and relays as well as showing well in throws.
+**Whanganui High school had an amazing day at the WSS athletic champs held Wednesday the 17th of March with High school athletes dominating the sprints, hurdles, jumps and relays as well as showing well in throws.**
 
-For the 1st time in more than 30 years WHS won the most individual titles ahead of Collegiate as well as taking many of the relay titles.
+**For the 1st time in more than 30 years WHS won the most individual titles ahead of Collegiate as well as taking many of the relay titles.**
 
 The five most successful athletes of the meet were all from WHS: 
 
