@@ -6,6 +6,13 @@ news_author:
   date: 2021-03-26T20:25:28.775Z
   publication: Whanganui Chronicle
   name: Ethan Griffiths
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617222777/News/Jason_George_ex_Chron_27.3.21_photo_no_2._bevan_conley.jpg
+    description: What do the new changes mean for Whanganui? Photo / Bevan Conley.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617222796/News/Jason_George_ex_Chron_27.3.21_photo_no_3_of_Kirsty_Healy._bevan_conley.jpg
+    description: Whanganui property investor Kirsty Healy says she feels sorry for
+      first-home buyers attempting to get on the ladder in such an inflated
+      market. Photo / Supplied.
 show_in_slider: false
 date: 2021-03-31T20:25:28.845Z
 ---
