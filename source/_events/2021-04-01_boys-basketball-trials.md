@@ -1,5 +1,5 @@
 ---
-title: Boys Basketball trials
+title: Boys Basketball trials (7 April & 12 April)
 date: 2021-04-07T04:20:12.814Z
 ---
 **Senior Boys** Basketball trials are on;  
