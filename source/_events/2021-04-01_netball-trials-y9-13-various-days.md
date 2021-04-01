@@ -1,5 +1,5 @@
 ---
-title: Netball Trials (various days)
+title: Netball trials (various days)
 date: 2021-04-07T04:26:37.454Z
 ---
 **WHS Netball Trials 2021**
