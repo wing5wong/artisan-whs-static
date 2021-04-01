@@ -1,8 +1,8 @@
 ---
-title: "Student Achievement Conferences - Wednesday 14 April and Thursday 15 April "
+title: Student Achievement Conferences -  BOOKINGS are now OPEN
 is_emergency: false
 date: 2021-04-14T00:15:07.939Z
-subtitle: "** BOOKINGS are now OPEN **"
+subtitle: "Wednesday 14 April and Thursday 15 April "
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/School_Interviews_image.jpg
 ---
 **Whanganui High School  
