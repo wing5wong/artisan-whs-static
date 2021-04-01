@@ -11,4 +11,4 @@ Big congrats to Mr Barnett who competed in the 2021 IRONMAN 70.3 Taupo, with a t
 
 This qualified him to participate in the Ironman World Champs in Utah, USA on 17-18 September this year but Josh has chosen not to go due to the current covid restrictions.
 
-🏊‍♂️🚴‍♂️🏃‍♂️  Well done Josh!! 👍 😀
+🏊‍♂️🚴‍♂️🏃‍♂️  Well done Josh!! 👍😀
