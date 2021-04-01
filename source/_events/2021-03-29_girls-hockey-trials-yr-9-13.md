@@ -1,5 +1,5 @@
 ---
-title: Girls Hockey Trials - YR 9-13 (6 April & 12 April)
+title: Girls Hockey trials (6 April & 12 April)
 date: 2021-04-05T21:37:59.205Z
 ---
 Girls Hockey Trials  
