@@ -1,5 +1,5 @@
 ---
-title: Netball Trials (Y9-13) - various days
+title: Netball Trials (various days)
 date: 2021-04-07T04:26:37.454Z
 ---
 **WHS Netball Trials 2021**
