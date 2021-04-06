@@ -1,6 +1,6 @@
 ---
-title: Girls Hockey trials (6 April & 12 April)
-date: 2021-04-05T21:37:59.205Z
+title: "Girls Hockey trials "
+date: 2021-04-11T21:37:59.205Z
 ---
 Girls Hockey Trials  
 Tuesday 6 April 4pm - 5.15pm - Gonville Turf  
