@@ -1,5 +1,5 @@
 ---
-title: Tough Guy / Gal Competition
+title: Tough Guy and Gal Challenge
 date: 2021-05-27T21:21:24.463Z
 ---
 The 2021 NZ Secondary Schools Tough Guy and Gal Challenge will be held at Camp Wainui, Wainuiomata, Wellington on Friday 28 May. 
