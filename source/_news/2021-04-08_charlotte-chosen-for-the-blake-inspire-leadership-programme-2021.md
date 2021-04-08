@@ -3,7 +3,7 @@ title: Charlotte chosen for the BLAKE Inspire Leadership Programme 2021
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617848576/News/BLAKE-Inspire-_-Charlotte-together.jpg
 news_author:
-  date: 2021-04-08T02:22:25.175Z
+  date: 2021-04-07T02:22:25.175Z
 show_in_slider: true
 date: 2021-04-08T02:22:25.241Z
 ---
