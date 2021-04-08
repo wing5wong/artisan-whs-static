@@ -17,6 +17,6 @@ Massive congratulations to **Charlotte Hagan** and two other students from Palme
 
 The Challenge was to Design and Create an App.  Their very impressive winning entry was a 1st Aid App with visual aides to help people understand how to properly perform CPR and save lives in emergency situations.
 
-Fantastic effort girls!!  
+**Fantastic effort girls!!**  
 They have only recently received their trophies and medals.
 
