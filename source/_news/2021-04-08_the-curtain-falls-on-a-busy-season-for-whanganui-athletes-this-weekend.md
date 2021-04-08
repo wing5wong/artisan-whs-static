@@ -33,7 +33,7 @@ The cancellation of last year's competition has added to the number making their
 
 Athletes such as Lucy van Dalen (first decade of the millennium), Martin Holmes (1980s) and Marguerite Couchman (1970s) finished near the tail of their respective middle-distance fields on debut but by the end of their school careers had climbed to the top of the podium and later international success.
 
-Whanganui Collegiate and Whanganui High School athletes make up most of the team following their success at Whanganui Secondary Schools in March when they combined to win more than 80 per cent of the titles.
+Whanganui Collegiate and **Whanganui High School** athletes make up most of the team following their success at Whanganui Secondary Schools in March when they combined to win more than 80 per cent of the titles.
 
 Medal winners from December's New Zealand Secondary Schools return with hope to again challenge for podium spots.
 
