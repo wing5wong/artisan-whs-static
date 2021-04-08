@@ -1,5 +1,5 @@
 ---
-title: Bubble of Joy for Whanganui expat, Paige Mailman
+title: Whanganui welcomes transtasman bubble
 feature_image:
   description: Whanganui expat Paige Mailman said she is going to wait a few
     months to see how the bubble system operates before getting too excited.
