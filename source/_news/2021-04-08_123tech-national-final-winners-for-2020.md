@@ -1,6 +1,5 @@
 ---
-title: Charlotte Hagan, part of team crowned - 123Tech National Final winners
-  for 2020!
+title: Charlotte Hagan, part of team crowned 123Tech National Final winners for 2020!
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617845969/News/CHARLOTTE-Hagan-trophy-photo-niceest15.3.jpg
   description: Year 11 student, Charlotte Hagan with her winning trophy and medal!
