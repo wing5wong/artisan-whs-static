@@ -15,16 +15,16 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617164953/News/4.165858816_1843313895817708_6340237426871735904_n.jpg
     description: Devon Maihi was named MVP for the WHS Juniors, while Nathan Procter
       was the MVP for the WHS Gold softball team. Photo / Supplied.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617852012/News/WHS_volleyball_teams._winter_tourny._chron_1.4.21.jpg
-    description: The boys and girls WHS volleyball teams faced some tough games at
-      the National Secondary Schools champs in Palmerston North. Photo /
-      Supplied.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063692/News/163627719_2033551876786520_6929371066897833436_o.jpg
     description: Eddie Dewhirst and Caleb Squire won the Feva Class Trophy from the
       Wellington Centreboard Championships for Sailing. Photo / Supplied.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712238/News/MTB%20Nth%20Island%20Champs%202021/Arlo_1.jpg
     description: Arlo Johnston smashing his 1st attempt in downhill finishing 3rd in
       the U17 and 4th in the U17 Enduro. Photo / Supplied.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617852012/News/WHS_volleyball_teams._winter_tourny._chron_1.4.21.jpg
+    description: The boys and girls WHS volleyball teams faced some tough games at
+      the National Secondary Schools champs in Palmerston North. Photo /
+      Supplied.
 show_in_slider: true
 date: 2021-04-08T03:14:14.897Z
 ---
