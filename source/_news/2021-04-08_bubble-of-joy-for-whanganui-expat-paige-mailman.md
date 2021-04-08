@@ -12,7 +12,7 @@ news_author:
 show_in_slider: false
 date: 2021-04-08T04:03:22.521Z
 ---
-Paige Mailman says the idea of getting to seeing family and friends again is exciting.
+Former WHS student, Paige Mailman says the idea of getting to seeing family and friends again is exciting.
 
 The Whanganui woman moved to Perth in late 2019 but has not been able to visit her family since without quarantine travel since the Covid-19 pandemic closed New Zealand's borders in March last year.
 
