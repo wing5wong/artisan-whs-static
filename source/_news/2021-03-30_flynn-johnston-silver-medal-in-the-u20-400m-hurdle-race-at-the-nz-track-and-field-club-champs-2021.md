@@ -14,4 +14,4 @@ date: 2021-03-30T05:47:42.419Z
 
 **Outstanding effort Flynn!**  
 
-Also, well done to former student **Sophie Andrews** had a personal best of 38.96m in the under-20 hammer, coming 4th; and **Jonathan Maples** was rewarded with a bronze and personal best of 56.5 in the hurdles!
+Also, well done to former students **Sophie Andrews** had a personal best of 38.96m in the under-20 hammer, coming 4th; and **Jonathan Maples** was rewarded with a bronze and personal best of 56.5 in the hurdles!
