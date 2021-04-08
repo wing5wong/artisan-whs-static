@@ -13,7 +13,7 @@ image_gallery:
 show_in_slider: false
 date: 2021-04-08T01:37:53.569Z
 ---
-Huge congratulations to **Charlotte Hagan** and two other students from Palmerston North Girls High who were crowded; **123 Digital Technologies National Challenge winners for 2020, Secondary Level!**  It was presented virtually on-line due to Covid, and hosted by Suzy Cato late last year.
+Huge congratulations to **Charlotte Hagan** and two other students from Palmerston North Girls High who were crowded; **123 Digital Technologies National Challenge winners for 2020, Secondary Level!**  It was an on-line presentation due to Covid, and hosted by Suzy Cato late last year.
 
 The Challenge was to Design and Create an App.  Their very impressive winning entry was a 1st Aid App with visual aids to help people understand how to properly perform CPR and save lives in emergency situations.
 
