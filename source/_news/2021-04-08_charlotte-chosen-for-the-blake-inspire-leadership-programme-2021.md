@@ -7,7 +7,7 @@ news_author:
 show_in_slider: true
 date: 2021-04-08T02:22:25.241Z
 ---
-Charlotte Hardy has been chosen out ot 400 applications for one of the 70 spots to go to the BLAKE Inspire Leadership Programme in Auckland, 11-15 October 2021.
+Charlotte Hardy has been chosen out of 400 applications for one of the 70 spots to go to the BLAKE Inspire Leadership Programme in Auckland, 11-15 October 2021.
 
 BLAKE Inspire is an adventure for young leaders with a passion for the environment.
 
