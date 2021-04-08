@@ -1,26 +1,28 @@
 ---
 title: Sport Whanganui's review of college sport focuses on Whanganui High School
 feature_image:
-  description: "Year 12 student Lauren Phillips was selected in the NZ polocrosse
-    Junior U16 team, was a recipient of the NZ Polocrosse Junior U16 Scholarship
-    to NSW or QLD Australia and was named in the NZ Polocrosse Junior U16
-    Tournament Team. "
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616620965/News/Lauren_Phillips_.C830057C-A39C-4543-A358-867A021AA11C.jpg
-  credit: Supplied
+  description: ""
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617853990/News/College-Sport-Page.-chron-1.4.21.jpg
+  credit: ""
 news_author:
   date: 2021-04-08T03:14:14.837Z
   publication: Whanganui Chronicle
   name: College Sport
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617164953/News/4.165858816_1843313895817708_6340237426871735904_n.jpg
-    description: Devon Maihi was named MVP for the WHS Juniors, while Nathan Procter
-      was the MVP for the WHS Gold softball team. Photo / Supplied.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616620965/News/Lauren_Phillips_.C830057C-A39C-4543-A358-867A021AA11C.jpg
+    description: Year 12 student Lauren Phillips was selected in the NZ polocrosse
+      Junior U16 team, was a recipient of the NZ Polocrosse Junior U16
+      Scholarship to NSW or QLD Australia and was named in the NZ Polocrosse
+      Junior U16 Tournament Team. Photo / Supplied.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617063692/News/163627719_2033551876786520_6929371066897833436_o.jpg
     description: Eddie Dewhirst and Caleb Squire won the Feva Class Trophy from the
       Wellington Centreboard Championships for Sailing. Photo / Supplied.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712238/News/MTB%20Nth%20Island%20Champs%202021/Arlo_1.jpg
     description: Arlo Johnston smashing his 1st attempt in downhill finishing 3rd in
       the U17 and 4th in the U17 Enduro. Photo / Supplied.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617164953/News/4.165858816_1843313895817708_6340237426871735904_n.jpg
+    description: Devon Maihi was named MVP for the WHS Juniors, while Nathan Procter
+      was the MVP for the WHS Gold softball team. Photo / Supplied.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617852012/News/WHS_volleyball_teams._winter_tourny._chron_1.4.21.jpg
     description: The boys and girls WHS volleyball teams faced some tough games at
       the National Secondary Schools champs in Palmerston North. Photo /
