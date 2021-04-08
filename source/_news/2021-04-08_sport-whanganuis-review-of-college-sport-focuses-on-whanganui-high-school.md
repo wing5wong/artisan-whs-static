@@ -27,6 +27,10 @@ image_gallery:
     description: The boys and girls WHS volleyball teams faced some tough games at
       the National Secondary Schools champs in Palmerston North. Photo /
       Supplied.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617918842/News/Maadi_cup_team.jpg
+    description: Our Maadi Cup squad. We had two crews in the A Finals; our U16
+      coxed quad and first-year novice boys in the U18 novice coxed quad. Photo
+      / Supplied.
 show_in_slider: true
 date: 2021-04-08T03:14:14.897Z
 ---
