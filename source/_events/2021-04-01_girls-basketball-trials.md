@@ -1,6 +1,6 @@
 ---
-title: Girls Basketball trials (8 April & 9 April)
-date: 2021-04-08T04:23:09.074Z
+title: Girls Basketball trials
+date: 2021-04-09T04:23:09.074Z
 ---
 **Senior Girls**: Thursday 8 April, 3.15-4.30pm in Te Wehi Gym  
 **Junior Girls**: Friday 9 April, 2pm-3.30pm in Te Wehi Gym
