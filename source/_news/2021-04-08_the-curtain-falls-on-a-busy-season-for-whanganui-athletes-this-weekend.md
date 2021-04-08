@@ -37,9 +37,9 @@ Whanganui Collegiate and Whanganui High School athletes make up most of the team
 
 Medal winners from December's New Zealand Secondary Schools return with hope to again challenge for podium spots.
 
-Maggie Jones won the 300m hurdles and was second in the 100m hurdles in December and was Whanganui's best performer at the championships and with the under-18 championships postponed, will be determined to make her mark in Hamilton. Jones will be supported by High School training partners Casie Glentworth and Charlotte Baker.
+**Maggie Jones** won the 300m hurdles and was second in the 100m hurdles in December and was Whanganui's best performer at the championships and with the under-18 championships postponed, will be determined to make her mark in Hamilton. **Jones will be supported by High School training partners Casie Glentworth and Charlotte Baker.**
 
-Paige Cromarty (Girls College) provides genuine depth to the field. Whanganui has three in the senior boys field including New Zealand Schools hurdle bronze medal winner Nat Kirk and High School teammate Flynn Johnston, silver medal winner at the recent under-20 New Zealand 400m hurdles and Whanganui Collegiate Team captain Daniel Taylor.
+Paige Cromarty (Girls College) provides genuine depth to the field. Whanganui has three in the senior boys field including New Zealand Schools hurdle bronze medal winner **Nat Kirk and High School teammate Flynn Johnston**, silver medal winner at the recent under-20 New Zealand 400m hurdles and Whanganui Collegiate Team captain Daniel Taylor.
 
 Lucas Martin - winner of the 10,000m walk at the New Zealand Championships - renews his battle with Daniel de Toit (Wellington) over the 3000m walk. Du Toit defeated Marti in December with Martin winning in Hastings at the New Zealand Championships
 
