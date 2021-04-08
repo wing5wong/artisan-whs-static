@@ -4,7 +4,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617845969/News/CHARLOTTE-Hagan-trophy-photo-niceest15.3.jpg
   description: Year 11 student, Charlotte Hagan with her winning trophy and medal!
 news_author:
-  date: 2021-04-08T01:00:07.930Z
+  date: 2021-03-31T00:00:07.930Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617846001/News/Charlotte_snip_best.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617846027/News/Charlotte_snip_prizes.jpg
