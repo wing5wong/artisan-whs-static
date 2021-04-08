@@ -6,4 +6,5 @@ Girls Hockey Trials
 Monday 12 April 4pm - 5.15pm - Gonville Turf  
 
 Please attend at least one of these trials if you are keen to play for the school this year.  
+
 If you cannot make either and want to play, please see Mr Hardy ASAP.
