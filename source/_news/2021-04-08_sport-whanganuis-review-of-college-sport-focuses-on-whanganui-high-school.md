@@ -3,7 +3,7 @@ title: Sport Whanganui's review of college sport focuses on Whanganui High Schoo
 feature_image:
   description: ""
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617853990/News/College-Sport-Page.-chron-1.4.21.jpg
-  credit: ""
+  credit: Supplied
 news_author:
   date: 2021-04-08T03:14:14.837Z
   publication: Whanganui Chronicle
