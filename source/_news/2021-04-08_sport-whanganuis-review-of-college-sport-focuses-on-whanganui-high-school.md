@@ -2,7 +2,7 @@
 title: Sport Whanganui's review of college sport focuses on Whanganui High School
 feature_image:
   description: ""
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617919400/News/College-sport-all-codes.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617928196/News/College-sport-all-codes.jpg
   credit: Supplied
 news_author:
   date: 2021-04-08T03:14:14.837Z
