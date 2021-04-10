@@ -1,9 +1,7 @@
 ---
-title: BOOKINGS CLOSE 5pm for Student Achievement Conferences
+title: BOOKINGS CLOSE at 5.00pm for Student Achievement Conferences
 date: 2021-04-13T08:20:07.079Z
 ---
-Bookings CLOSE 5pm Tuesday 13 April for the Student Achievement Conferences.
-
 Book an interview by clicking on the following link:  
 👉 https://www.schoolinterviews.co.nz/  
 (Event Code is needed from the Interim Report, emailed to you on 26 March)  
