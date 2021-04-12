@@ -1,5 +1,5 @@
 ---
-title: BOOKINGS CLOSE at 5.00pm for Student Achievement Conferences
+title: BOOKINGS CLOSE TODAY at 5.00pm for Student Achievement Conferences
 date: 2021-04-13T08:20:07.079Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/School_Interviews_image.jpg
 ---
