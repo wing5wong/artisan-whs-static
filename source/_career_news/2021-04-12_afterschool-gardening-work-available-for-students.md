@@ -1,5 +1,5 @@
 ---
-title: Afterschool Gardening work available for students
+title: After-school Gardening work available for students
 date: 2021-04-12T20:35:07.607Z
 closing_date: ""
 ---
