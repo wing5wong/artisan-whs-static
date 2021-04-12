@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences -  BOOKINGS are now OPEN
+title: Student Achievement Conferences -  BOOKINGS CLOSE TODAY AT 5PM
 is_emergency: false
 date: 2021-04-14T00:15:07.939Z
 subtitle: "Wednesday 14 April and Thursday 15 April "
