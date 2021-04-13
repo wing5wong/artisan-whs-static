@@ -25,7 +25,7 @@ Along with **Paris Munro** who had a great weekend with a season’s best in the
 
 **Cody Campbell** in his first big competition threw brilliantly in the junior boys Javelin to take third in a PB of 33.21mtrs and showcase his considerable talent. He also backed this up with a 9th in the Shot and 12th in the Discus.
 
-**Carrie** Rennie jumped a new personal best for 7th in the Long Jump of 4.60 and then anchored the Whanganui 4x400mtrs team to a 5th place finish.
+**Carrie Rennie** jumped a new personal best for 7th in the Long Jump of 4.60 and then anchored the Whanganui 4x400mtrs team to a 5th place finish.
 
 **Teresa Rennie** was 7th in the final of the 80mtrs hurdles with a PB of 12.93, was 5th in the 300mtrs Hurdles and lead off runner for the 4x400mtrs who finished 5th.
 
@@ -33,6 +33,6 @@ Along with **Paris Munro** who had a great weekend with a season’s best in the
 
 All other members of the team competed with distinction and the whole team had great experiences and strong competition which will hold them in good stead when the new season starts in October and heading into the biggest competition of the year the N.Z schools the first weekend of December. 
 
-A huge thank you to Greg Fromont and Elaine Baker for your continued coaching and support you give our athletes. 
+**A huge thank you to Greg Fromont and Elaine Baker for your continued coaching and support you give our athletes.** 
 
 Thanks to Helen Jones for the photos!!
