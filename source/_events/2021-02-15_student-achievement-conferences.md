@@ -19,6 +19,4 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 BOOKINGS CLOSED at 5.00pm on Tuesday 13 April, the evening before the interviews.  
 
-Any queries or difficulties in booking your appointment times please phone 349 0177 after the Easter Break.  School resumes back on Wednesday, 7 April.
-
 FYI - Mr Leonard, Mr Sullenberger, Mrs Howard & Ms Cansfield will NOT be available for the Conferences.  If you need to speak to them please contact them via email.
