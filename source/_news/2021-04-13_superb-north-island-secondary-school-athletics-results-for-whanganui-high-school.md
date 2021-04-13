@@ -6,6 +6,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618279160/News/1.171638055_1852978104851287_4428154197021893656_n.jpg
 news_author:
   date: 2021-04-12T23:58:14.764Z
+  name: "Lisa Murphy "
+  publication: WHS Director of Sport
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280523/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/2.172899637_1852978674851230_9114455048460772550_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280528/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/3.172426211_1852978698184561_6310030420488620659_n.jpg
@@ -32,6 +34,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280525/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/24.172025588_1852978984851199_7602633572635748026_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280525/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/25.173206934_1852978271517937_1280798372415317328_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280526/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/26.171232201_1852977874851310_4194017964654275623_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280527/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/27.172731199_1852978368184594_7106431434650399277_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280527/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/28.172735256_1852978361517928_3968070482646122853_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280527/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/29.171906520_1852978521517912_1262242611451637068_n.jpg
 show_in_slider: true
 date: 2021-04-12T23:58:14.829Z
 ---
