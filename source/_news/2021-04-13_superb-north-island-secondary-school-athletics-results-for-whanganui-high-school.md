@@ -15,7 +15,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280531/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/5.171827324_1852978424851255_3656861459876029182_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280532/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/6.171658225_1852978611517903_7709865535625594192_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280532/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/7.171406975_1852978628184568_4435404126640634950_n.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280532/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/7.171406975_1852978628184568_4435404126640634950_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280533/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/8.171809967_1852978738184557_7340707859861484671_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280533/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/9.171477219_1852978791517885_4620816415068218668_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280520/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/10.172668711_1852978811517883_7966584924500892599_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280520/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/11.173022594_1852977958184635_1146948194485245916_n.jpg
@@ -43,6 +43,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280530/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/33.171485064_1852978854851212_4335440962416479962_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280530/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/34.173170100_1852978918184539_565189329380270710_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280530/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/35.171670905_1852978924851205_1597925923982219123_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280530/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/36.173211612_1852978301517934_2623066458215104060_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280531/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/37.171897725_1852978214851276_3500381159956855838_n.jpg
 show_in_slider: true
 date: 2021-04-12T23:58:14.829Z
 ---
