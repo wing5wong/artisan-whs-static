@@ -8,7 +8,7 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618281689/News/Duke-of-Ed-gold-recipiants-board-1.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618281711/News/Duke-of-Ed-gold-recipiants-board-2.jpg
-show_in_slider: false
+show_in_slider: true
 date: 2021-04-13T02:39:55.223Z
 ---
 In recognition of the passing of Prince Philip, The Duke of Edinburgh, below are our Whanganui High School Gold Award Recipients. 🙂 🇬🇧
