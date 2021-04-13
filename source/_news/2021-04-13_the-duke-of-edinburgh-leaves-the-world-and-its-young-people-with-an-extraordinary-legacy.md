@@ -13,7 +13,7 @@ date: 2021-04-13T02:39:55.223Z
 ---
 In recognition of the passing of Prince Philip, The Duke of Edinburgh, below are our Whanganui High School Gold Award Recipients. 🙂 🇬🇧
 
-Thanks to his vision many WHS students have flourished in the programme over the years.👌
+Thanks to his vision many Whanganui High School students have flourished in the programme over the years.👌
 
 A committed champion of young people; His Royal Highness The Duke of Edinburgh, leaves the world and its young people with an extraordinary legacy. 🤗
 
