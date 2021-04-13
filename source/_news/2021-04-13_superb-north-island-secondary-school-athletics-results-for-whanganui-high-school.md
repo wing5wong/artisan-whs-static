@@ -3,6 +3,7 @@ title: Superb North Island Secondary School Athletics Results for Whanganui High
   School
 feature_image:
   credit: Helen Jones
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618279160/News/1.171638055_1852978104851287_4428154197021893656_n.jpg
 news_author:
   date: 2021-04-12T23:58:14.764Z
 show_in_slider: true
