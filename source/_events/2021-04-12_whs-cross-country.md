@@ -11,5 +11,5 @@ Go to [bit.ly/whscrosscountry2021](https://docs.google.com/forms/d/e/1FAIpQLSeeq
 
 More information about the distances and relays is on the bitly. 
 
-Any queries see Miss Morgan or Mrs Murphy in Te Wihi Gym Office.
+Any queries see Miss Morgan or Mrs Murphy in Te Wihi Gym Office.  
 Sign ups close Tuesday 4 May.
