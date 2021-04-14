@@ -1,5 +1,5 @@
 ---
-title: WHS Cross Country
+title: WHS Cross Country -  Sign ups close Tuesday 4 May
 date: 2021-05-05T20:40:56.201Z
 ---
 Our WHS Cross Country is on 6 May on the School field. 
