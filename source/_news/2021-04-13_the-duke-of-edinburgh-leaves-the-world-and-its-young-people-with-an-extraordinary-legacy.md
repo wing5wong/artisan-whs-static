@@ -17,3 +17,6 @@ Thanks to his vision many Whanganui High School students have flourished in the 
 
 A committed champion of young people; His Royal Highness The Duke of Edinburgh, leaves the world and its young people with an extraordinary legacy. 🤗
 
+Watch YouTube entry below: In memory of HRH The Duke of Edinburgh, KG KT, 1921 - 2021  
+https://www.youtube.com/watch?v=65fwW8JIsAw
+
