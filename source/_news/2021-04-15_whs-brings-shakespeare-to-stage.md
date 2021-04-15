@@ -12,9 +12,9 @@ WHS represented at the University of Otago Sheilah Winn Shakespeare Festival hel
 Congratulations to our 10 actors for entering and performing excerpts from Shakespeare’s plays in the festival. 
 
 The three plays performed were:  
-‘The Tempest’ - Toni Adams, Maddy McKenzie, Firooze Colaabavala and Kezia Pickering  
-’As You Like It’ - Toni Adams and Maddy McKenzieEla Robbins, Firooze Colaabavala, Max Hughes,  
-‘The Taming of The Shrew’ - Autumn Lilley, Nadeem Wali, Laila Belkouadssi and Godfavour Akinyele  
+‘The Tempest’ - Toni Adams, Maddy McKenzie, Firooze Colaabavala and Kezia Pickering.  
+’As You Like It’ - Toni Adams and Maddy McKenzie.  
+‘The Taming of The Shrew’ - Ela Robbins, Firooze Colaabavala, Max Hughes, Autumn Lilley, Nadeem Wali, Laila Belkouadssi and Godfavour Akinyele.  
 They were 5 minute, self-directed and GO!
 
 We are particularly proud of your efforts as directors.  You demonstrated our LIFE values through your self-management and determination to be part of this fabulous event.
