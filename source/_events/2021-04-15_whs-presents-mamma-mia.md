@@ -16,5 +16,5 @@ School Students $15
 Family $60 (2 Adults & 2 School Students)
 
 For all you 'Dancing Queens' and 'Super Troupers', say 'I Do I Do I Do' and get your tickets..  
-**Tickets** on sale from Monday 19 April at The Royal Wanganui Opera House.
+**Tickets on sale from Monday 19 April at The Royal Wanganui Opera House.**
 
