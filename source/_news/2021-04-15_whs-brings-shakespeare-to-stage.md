@@ -1,13 +1,13 @@
 ---
-title: WHS Brings Shakespeare to Stage
+title: WHS brings Shakespeare to stage
 news_author:
   date: 2021-04-13T02:19:10.905Z
 show_in_slider: false
 date: 2021-04-15T02:19:10.969Z
 ---
-WHS Performing Arts hit the boards again in the weekend.
+Whanganui High School Performing Arts hit the boards again in the weekend.
 
-WHS represented at the University of Otago Sheilah Winn Shakespeare Festival held at Feilding High School on Sunday 11 April.  This was the Whanganui / Manawatu Regional Festival celebrating the works of the Bard.
+Whanganui High School represented at the University of Otago Sheilah Winn Shakespeare Festival held at Feilding High School on Sunday 11 April.  This was the Whanganui / Manawatu Regional Festival celebrating the works of the Bard.
 
 Congratulations to our 10 actors for entering and performing excerpts from Shakespeare’s plays in the festival. 
 
