@@ -33,19 +33,19 @@ That special routine was organised and choreographed by former student Mel Holly
 
 It was a class act, with women who still had all the moves, regardless of how long it had been since some of them had danced. And their huge smiles said it all.
 
-Some dances were choreographed by former students now living overseas – like Sarah Seville, Mark Lace in London, and Nikita McDonald in Sydney, all of whom introduced their dances with a video message.
+Some dances were choreographed by former students now living overseas – like **Sarah Seville**, Mark Lace in London, and Nikita McDonald in Sydney, all of whom introduced their dances with a video message.
 
 Joana Simmons, former student, dancer and comedian, recently returned from Australia, was another guest choreographer, who also came out on stage and revved up the crowd with introductions to the first and second halves of the show.
 
-Student choreographers Abby Squire, Emma Henare and Lauren Phillips showed just how their abilities have profited from their time with Sharyn Underwood School of Dance.
+Student choreographers **Abby Squire, Emma Henare and Lauren Phillips** showed just how their abilities have profited from their time with Sharyn Underwood School of Dance.
 
 Moving with the Times was a delight from start to finish, with superb dancing, just the right music and talent other centres can only dream of. Once again, Whanganui punched way above its weight, but that's something we're used to in the performing arts.
 
-A real treat was to hear Abby Squire, an accomplished advanced dancer and choreographer, use another of her many talents. Backed by recorded accompaniment from her singing teacher, Marie Brooks, Abby sang How Could I Ever Know from The Secret Garden. Her strong, true voice hushed the crowd and added copiously to the emotional content of the show.
+A real treat was to hear **Abby Squire**, an accomplished advanced dancer and choreographer, use another of her many talents. Backed by recorded accompaniment from her singing teacher, **Marie Brooks**, Abby sang How Could I Ever Know from The Secret Garden. Her strong, true voice hushed the crowd and added copiously to the emotional content of the show.
 
 The dancing throughout was amazing, with international standards reached and overtaken with every routine. And each dance was given that extra something with an array of costumes that dazzled and impressed us all.
 
-Adding to the spectacle with technical and personal help were those often unsung heroes like Brian Kenny (lighting), Jacqui McKenzie (stage manager), and those backstage and front of house who included Fergus Reid, Stephanie Thomas and Friends of the Opera House.
+Adding to the spectacle with technical and personal help were those often unsung heroes like Brian Kenny (lighting), **Jacqui McKenzie** (stage manager), and those backstage and front of house who included **Fergus Reid**, Stephanie Thomas and Friends of the Opera House.
 
 At the celebrations afterwards, Sharyn thanked many for their part in the show and for their ongoing support, but she was not prepared for the speeches and gifts from students individually and collectively, nor was she ready for the carefully and lovingly prepared video shown afterwards.
 
