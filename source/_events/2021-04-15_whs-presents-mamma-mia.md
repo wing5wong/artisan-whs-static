@@ -1,5 +1,5 @@
 ---
-title: "WHS presents: MAMMA MIA !"
+title: "Whanganui High School presents: MAMMA MIA !"
 date: 2021-05-19T03:58:30.665Z
 ---
 **Whanganui High School presents:**  
@@ -15,5 +15,6 @@ Adults $20
 School Students $15  
 Family $60 (2 Adults & 2 School Students)
 
-Tickets on sale from Monday 19 April at The Royal Wanganui Opera House.
+For all you 'Dancing Queens' and 'Super Troupers', say 'I Do I Do I Do' and get your tickets..  
+**Tickets** on sale from Monday 19 April at The Royal Wanganui Opera House.
 
