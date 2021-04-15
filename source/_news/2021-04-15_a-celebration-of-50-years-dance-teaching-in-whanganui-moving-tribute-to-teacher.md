@@ -33,7 +33,7 @@ That special routine was organised and choreographed by former student Mel Holly
 
 It was a class act, with women who still had all the moves, regardless of how long it had been since some of them had danced. And their huge smiles said it all.
 
-Some dances were choreographed by former students now living overseas – like **Sarah Seville**, **Mark Lace** in London, and Nikita McDonald in Sydney, all of whom introduced their dances with a video message.
+Some dances were choreographed by former students now living overseas – like **Sarah Seville, Mark Lace** in London, and Nikita McDonald in Sydney, all of whom introduced their dances with a video message.
 
 Joana Simmons, former student, dancer and comedian, recently returned from Australia, was another guest choreographer, who also came out on stage and revved up the crowd with introductions to the first and second halves of the show.
 
