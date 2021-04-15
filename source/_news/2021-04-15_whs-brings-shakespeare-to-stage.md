@@ -13,7 +13,7 @@ Congratulations to our 10 actors for entering and performing excerpts from Shake
 
 The three plays performed were:  
 ‘The Tempest’ - Toni Adams, Maddy McKenzie, Firooze Colaabavala and Kezia Pickering.  
-’As You Like It’ - Toni Adams and Maddy McKenzie.  
+'As You Like It’ - Toni Adams and Maddy McKenzie.  
 ‘The Taming Of The Shrew’ - Ela Robbins, Firooze Colaabavala, Max Hughes, Autumn Lilley, Nadeem Wali, Laila Belkouadssi and Godfavour Akinyele.  
 They were 5 minute, self-directed and GO!
 
