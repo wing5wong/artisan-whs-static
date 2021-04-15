@@ -36,4 +36,8 @@ As I said last week the North Island Championships have often revealed new faces
 
 Hermann also ran in an inexperienced Whanganui Collegiate 4 x 100 Junior team running for Whanganui (Israel Calkin, Filipe Bayley, and Dominic Bingle), finishing fourth, only tenths of a second from third place running against regional combinations.
 
-Lucy Monckton won the Senior Girls Steeplechase with Franca Morrah taking third in the under-16s in a combined grade race. Again, the small field perhaps reflects the demanding nature of the event. **Mason Pye** returned with a first in the Para Long Jump and second in the Para 100 metres, with two meritorious performances - a deserved reward for a dedicated athlete.
+Lucy Monckton won the Senior Girls Steeplechase with Franca Morrah taking third in the under-16s in a combined grade race. Again, the small field perhaps reflects the demanding nature of the event. 
+
+**Mason Pye** returned with a first in the Para Long Jump and second in the Para 100 metres, with two meritorious performances - a deserved reward for a dedicated athlete.
+
+A second review of other Whanganui performances will be published next week.
