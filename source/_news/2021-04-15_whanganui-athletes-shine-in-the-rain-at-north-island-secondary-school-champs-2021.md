@@ -16,7 +16,7 @@ date: 2021-04-15T04:47:28.209Z
 ---
 Being favourite for the first time at a major championship carries with it an additional pressure. **Maggie Jones** travelled to the North Island Secondary Schools event with that pressure and emphatically delivered in the rain in Hamilton.
 
-On a day of heavy rain, **Jones** ran smoothly in the morning to qualify fastest in the 100 metre hurdles (14.89). She moved up a notch to win the afternoon final, coming in just a smidgeon outside her personal best in 14.59 to win by almost a second. Jones's win in the 300 metres was even more emphatic - her winning margin was 2.73 seconds, with a personal best 43.72.
+On a day of heavy rain, **Jones** ran smoothly in the morning to qualify fastest in the 100 metre hurdles (14.89). She moved up a notch to win the afternoon final, coming in just a smidgeon outside her personal best in 14.59 to win by almost a second. **Jones's** win in the 300 metres was even more emphatic - her winning margin was 2.73 seconds, with a personal best 43.72.
 
 Whanganui fully justified applying for a fourth competitor (three is the maximum and a case can only be made when all have reached proven national standard). Again the athletes delivered, with **Jones's Whanganui High School teammates Casie Glentworth in second and Charlotte Baker** third with Paige Cromarty (Girls College) fourth. All set personal bests.
 
