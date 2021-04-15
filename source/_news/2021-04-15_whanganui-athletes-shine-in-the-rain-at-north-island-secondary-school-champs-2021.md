@@ -14,7 +14,7 @@ news_author:
 show_in_slider: true
 date: 2021-04-15T04:47:28.209Z
 ---
-Being favourite for the first time at a major championship carries with it an additional pressure. **Maggie Jones8* travelled to the North Island Secondary Schools event with that pressure and emphatically delivered in the rain in Hamilton.
+Being favourite for the first time at a major championship carries with it an additional pressure. **Maggie Jones** travelled to the North Island Secondary Schools event with that pressure and emphatically delivered in the rain in Hamilton.
 
 On a day of heavy rain, **Jones** ran smoothly in the morning to qualify fastest in the 100 metre hurdles (14.89). She moved up a notch to win the afternoon final, coming in just a smidgeon outside her personal best in 14.59 to win by almost a second. Jones's win in the 300 metres was even more emphatic - her winning margin was 2.73 seconds, with a personal best 43.72.
 
