@@ -7,6 +7,7 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618526479/News/Eddie_Dewhirst_and_Caleb_Squire_WN_Schools_Regatta.Chron_16.4.21.jpg
 news_author:
   date: 2021-04-15T22:38:45.683Z
+  publication: Whanganui Chronicle
 image_gallery:
   - description: Eddie Dewhirst and Caleb Squire (left) and Leo Jones and Luke
       Squire on the podium at Wellington Region Schools Regatta. Photo /
