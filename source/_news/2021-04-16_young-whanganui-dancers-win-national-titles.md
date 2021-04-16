@@ -2,7 +2,7 @@
 title: Young Whanganui Dancers win National titles
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618533867/News/Reeve_Watson._RCP_15.4.21.jpg
-  description: Year 11 student Reeve Watson; and Patrick and Taliah.
+  description: Year 11 student Reeve Watson (left); and Patrick and Taliah.
 news_author:
   date: 2021-04-15T00:43:02.113Z
   publication: River City Press
