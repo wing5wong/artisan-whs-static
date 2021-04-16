@@ -23,8 +23,8 @@ image_gallery:
     description: Hayley Poari.  Photo / No.9 (City of Wanganui) Squadron, Air
       Training Corps Facebook Page.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618544490/News/No.9%20%28City%20of%20Wanganui%29%20Squadron%2C%20Air%20Training%20Corps/11.Logan_Bradley.Air_Training_Corps_cadet.172186026_4153821327996410_5263322949228003028_n.jpg
-    description: Logan Symes & Bradley Belton.  Photo / No.9 (City of Wanganui)
-      Squadron, Air Training Corps Facebook Page.
+    description: Bradley Belton (left) & Logan Symes.  Photo / No.9 (City of
+      Wanganui) Squadron, Air Training Corps Facebook Page.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618544490/News/No.9%20%28City%20of%20Wanganui%29%20Squadron%2C%20Air%20Training%20Corps/12.Cara_Benseman_with_cap_Air_Training_Corps_cadet.171025638_4153821461329730_1769383690306497181_n.jpg
     description: Cara Benseman (wearing cap).  Photo / No.9 (City of Wanganui)
       Squadron, Air Training Corps Facebook Page.
