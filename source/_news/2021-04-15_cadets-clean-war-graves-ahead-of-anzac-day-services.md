@@ -5,7 +5,7 @@ feature_image:
   description: Group of cadets cleaning the True War and Old Soldiers graves at
     Aramoho Cemetery, including WHS students, Jacob Gorman, Eddy Reid & Ryan
     Matthews.
-  credit: Charlie Quirk, Photo / No.9 (City of Wanganui) Squadron, Air Training Corps
+  credit: Charlie Quirk, No.9 (City of Wanganui) Squadron, Air Training Corps.
 news_author:
   date: 2021-04-14T04:15:12.175Z
   publication: Whanganui Midweek
