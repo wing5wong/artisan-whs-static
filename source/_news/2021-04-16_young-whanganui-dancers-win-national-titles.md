@@ -6,6 +6,9 @@ feature_image:
 news_author:
   date: 2021-04-15T00:43:02.113Z
   publication: River City Press
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618539763/News/Reeve_Watson._photo_Reeve.jpg
+    description: Reeve Watson dancing. Photo / Supplied.
 show_in_slider: false
 date: 2021-04-16T00:43:02.187Z
 ---
