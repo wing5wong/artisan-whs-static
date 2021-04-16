@@ -11,8 +11,8 @@ news_author:
   publication: Whanganui Midweek
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618544492/News/No.9%20%28City%20of%20Wanganui%29%20Squadron%2C%20Air%20Training%20Corps/2.Logan_Symes_right_Jacob_Gorman.Air_Training_Corps_cadet.169596342_4153821241329752_8520961794931971885_n.jpg
-    description: Logan Symes (right) & Jacob Gorman.  Photo / No.9 (City of
-      Wanganui) Squadron, Air Training Corps Facebook Page.
+    description: Jacob Gorman (left) & Logan Symes.  Photo / No.9 (City of Wanganui)
+      Squadron, Air Training Corps Facebook Page.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618544494/News/No.9%20%28City%20of%20Wanganui%29%20Squadron%2C%20Air%20Training%20Corps/6.Ryan_Matthews.Air_Training_Corps_cadet.169615095_4153821111329765_467912829307414292_n.jpg
     description: Ryan Matthews.  Photo / No.9 (City of Wanganui) Squadron, Air
       Training Corps Facebook Page.
