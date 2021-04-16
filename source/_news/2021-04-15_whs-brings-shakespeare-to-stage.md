@@ -1,7 +1,17 @@
 ---
 title: WHS brings Shakespeare to stage
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618549363/News/4.Sheilah_Winn_Shakespeare_Festival_11_April_Fielding.jpg
+  description: ‘The Taming Of The Shrew’ - Nadeem Wali, Laila Belkouadssi
+    (kneeing), Firooze Colaabavala, Autumn Lilley, Max Hughes & Ela Robbins.
 news_author:
   date: 2021-04-13T02:19:10.905Z
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618549344/News/3.Sheilah_Winn_Shakespeare_Festival_11_April_Fielding.jpg
+    description: ‘The Tempest’ - Firooze Colaabavala, Toni Adams, Maddy McKenzie
+      (front) & Kezia Pickering.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618549306/News/1.Sheilah_Winn_Shakespeare_Festival_11_April_Fielding.jpg
+    description: "'As You Like It’ - Maddy McKenzie (left) & Toni Adams."
 show_in_slider: false
 date: 2021-04-15T02:19:10.969Z
 ---
