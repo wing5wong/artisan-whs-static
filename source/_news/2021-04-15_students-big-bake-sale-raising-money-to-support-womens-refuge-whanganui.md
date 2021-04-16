@@ -6,7 +6,7 @@ feature_image:
   credit: Karen Hughes, Training For You
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618525159/News/Phoenix_Kerr.Campus_Cafe._Chron_16.4.21.jpg
 news_author:
-  date: 2021-04-15T22:14:41.892Z
+  date: 2021-04-14T22:14:41.892Z
   publication: Whanganui Chronicle
   name: Staff Reporter
 show_in_slider: false
