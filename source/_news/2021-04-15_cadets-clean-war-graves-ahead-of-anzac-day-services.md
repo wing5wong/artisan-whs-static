@@ -35,7 +35,7 @@ image_gallery:
     description: Cara Benseman (left).  Photo / No.9 (City of Wanganui) Squadron,
       Air Training Corps Facebook Page.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618544492/News/No.9%20%28City%20of%20Wanganui%29%20Squadron%2C%20Air%20Training%20Corps/13b.Ryan_Eddy_Logan_Bradley_Belton.Air_Training_Corps_cadet.169534766_4153821181329758_5639900415417549971_n.jpg
-    description: Ryan Matthews, Eddy Reid, Logan Symes & Bradley Belton.  Photo /
+    description: Bradley Belton, Ryan Matthews, Logan Symes & Eddy Reid.  Photo /
       No.9 (City of Wanganui) Squadron, Air Training Corps Facebook Page.
 show_in_slider: false
 date: 2021-04-15T04:15:12.255Z
