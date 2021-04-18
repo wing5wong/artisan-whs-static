@@ -9,6 +9,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613352614/News/WHS%20Old%20Girls%20playing%20in%20Masters%20Games%202021/4_Whanganui_High_School_Old_Girls.png
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613352609/News/WHS%20Old%20Girls%20playing%20in%20Masters%20Games%202021/5_Whanganui_High_School_Old_Girls.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613352609/News/WHS%20Old%20Girls%20playing%20in%20Masters%20Games%202021/3_Whanganui_High_School_Old_Girls.jpg
+extracurricular_activities:
+  - Football - Girls
 show_in_slider: true
 date: 2021-02-15T01:19:16.972Z
 ---
