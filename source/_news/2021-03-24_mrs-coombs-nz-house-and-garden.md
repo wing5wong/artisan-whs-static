@@ -10,6 +10,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616558404/News/162653690_1084841152013429_533302180774666178_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616558423/News/163598580_1084841178680093_3763088531682567742_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616558442/News/162329671_1084841205346757_7765057716110935284_n.jpg
+subject_areas:
+  - Visual Art
 show_in_slider: true
 date: 2021-03-24T03:57:49.621Z
 ---
