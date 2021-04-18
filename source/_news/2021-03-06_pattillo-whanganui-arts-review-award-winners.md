@@ -39,6 +39,10 @@ image_gallery:
       OF GRAHAM HALL (HOD VISUAL ARTS).'
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1615019017/News/WU%20Pattillo%20Arts%20Awards%20March%202021/Wendy-ann_Molijn.jpg
     description: 'MERIT WINNER: Wendy-ann Molijn "Ara" WIFE OF MR BERKHOUT.'
+faculties:
+  - The Arts
+subject_areas:
+  - Visual Art
 show_in_slider: true
 date: 2021-03-06T08:21:34.844Z
 ---
