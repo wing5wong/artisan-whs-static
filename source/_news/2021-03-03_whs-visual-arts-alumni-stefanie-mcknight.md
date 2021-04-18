@@ -10,6 +10,10 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614810023/News/STEFANIE_MCKNIGHT_at_WHS_from_2003-2007_2.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614810038/News/STEFANIE_MCKNIGHT_at_WHS_from_2003-2007_3.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614810051/News/STEFANIE_MCKNIGHT_at_WHS_from_2003-2007_4.jpg
+faculties:
+  - The Arts
+subject_areas:
+  - Visual Art
 show_in_slider: true
 date: 2021-03-03T22:19:43.244Z
 ---
