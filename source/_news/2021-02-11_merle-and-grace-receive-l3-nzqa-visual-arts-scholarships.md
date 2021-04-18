@@ -19,6 +19,10 @@ image_gallery:
     description: Grace Swanston's folio.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613082814/News/2._Merle_Chant_DESIGN_Grace_Swanston_PAINTING_L3_NZQA_Visual_Arts_scholarship.jpg
     description: Grace Swanston's folio.
+faculties:
+  - The Arts
+subject_areas:
+  - Visual Art
 show_in_slider: true
 date: 2021-02-11T22:32:49.969Z
 ---
