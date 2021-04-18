@@ -22,6 +22,11 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613356066/News/Snr%20Volleyball%20Teams%20Manawatu%20Comp%20PNth.%20mid%20feb%202021/148711313_1807022486113516_6800026554115928941_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613356064/News/Snr%20Volleyball%20Teams%20Manawatu%20Comp%20PNth.%20mid%20feb%202021/148110354_1807022402780191_1300148695164447288_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613356062/News/Snr%20Volleyball%20Teams%20Manawatu%20Comp%20PNth.%20mid%20feb%202021/147046473_1807022449446853_7831269045320348937_o.jpg
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Volleyball - Boys
+  - Volleyball - Girls
 show_in_slider: true
 date: 2021-02-15T02:25:00.823Z
 ---
