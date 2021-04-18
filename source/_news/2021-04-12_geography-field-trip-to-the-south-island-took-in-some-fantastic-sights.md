@@ -26,6 +26,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618270666/News/GEO%20South%20Island%20trip%202021/14.Geo-Field-trip-to-Sth-Is.April-2021-21.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618270667/News/GEO%20South%20Island%20trip%202021/19.Geo-Field-trip-to-Sth-Is.April-2021-10.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618270667/News/GEO%20South%20Island%20trip%202021/20.Geo_Field_trip_to_Sth_Is.April_2021_15.jpg
+faculties: []
+subject_areas:
+  - Geography
 show_in_slider: false
 date: 2021-04-12T23:19:26.064Z
 ---
