@@ -19,6 +19,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616476562/News/Michael_Franklin-Browne._Chron_23.3.21.jpg
     description: Including 'Pluto', with WHS music tutor Michael Franklin-Browne on
       the drums.  Photo / Kai Arahi Hagger.
+subject_areas:
+  - Visual Art
+extracurricular_activities: []
 show_in_slider: false
 date: 2021-03-23T04:28:27.057Z
 ---
