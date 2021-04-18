@@ -4,6 +4,10 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617162792/News/WHS_Visual_Arts_Alumni_-_Georgia_Millward.jpg
 news_author:
   date: 2021-03-31T03:36:27.982Z
+faculties: []
+subject_areas:
+  - Visual Art
+extracurricular_areas: []
 show_in_slider: false
 date: 2021-03-31T03:36:28.044Z
 ---
