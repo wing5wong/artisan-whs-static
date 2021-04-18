@@ -10,6 +10,8 @@ news_author:
   date: 2021-02-16T23:47:24.236Z
   name: Mike Tweed
   publication: Whanganui Chronicle
+faculties:
+  - Mathematics
 show_in_slider: true
 date: 2021-02-18T23:47:24.288Z
 ---
