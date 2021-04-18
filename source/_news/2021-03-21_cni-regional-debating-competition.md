@@ -20,6 +20,7 @@ image_gallery:
     description: Most Promising Speaker Award Overall - Alice Quigley.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616542683/News/158912455_151300073518908_1617728874170531533_n.jpg
     description: Best Junior Speakers - Alice Quigley and a student from Hawera High School.
+extracurricular_areas: []
 extracurricular_activities:
   - Debating Club
 show_in_slider: true
