@@ -38,7 +38,7 @@ image_gallery:
 show_in_slider: false
 date: 2021-04-21T07:44:49.170Z
 ---
-The long Easter Weekend, saw a group of Whanganui High School students make the long trip across the Cook Strait to represent Whanganui in Roller Hockey at the Roller Hockey Easter Tournament in Motueka. The Tournament hosted competing teams from all over New Zealand,making for a very busy three days of fast paced and in some instances intense games.
+The long Easter Weekend, saw a group of Whanganui High School students make the long trip across the Cook Strait to represent Whanganui in Roller Hockey at the Roller Hockey Easter Tournament in Motueka. The Tournament hosted competing teams from all over New Zealand, making for a very busy three days of fast paced and in some instances intense games.
 
 
 Whanganui Year 9 High School Students, Michaela Ross, Charlie Teager, Siobhan Pitkethley played for the Under 14 Lightening Team which came up against some strong competition, suffering a first loss for some time in the round robins. The team made it to the playoffs for first and second and were successful in claiming First Place.
