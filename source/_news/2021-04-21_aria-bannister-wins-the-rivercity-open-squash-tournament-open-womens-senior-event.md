@@ -17,10 +17,10 @@ image_gallery:
 show_in_slider: true
 date: 2021-04-21T09:39:24.744Z
 ---
-WHS year 9 student Aria Bannister won the RiverCity Open squash tournament over the weekend.
+WHS year 9 student Aria Bannister won the RiverCity Open Squash Tournament over the weekend.
 
 Aria was the number 2 seed for the event defeating current Central Districts Senior Woman’s rep Emma Rowe 3 games to 0.
 
 It was Arias first Open Women’s Senior event win at just 13 years of age, a very rare achievement for someone her age in New Zealand.
 
-This week she heads off to the NZ Age Group swimming champs with fellow WHS students in Wellington before contesting the Whanganui Open Squash tournament in a few weeks time.
+This week she heads off to the NZ Age Group Swimming Champs with fellow WHS students in Wellington before contesting the Whanganui Open Squash tournament in a few weeks time.
