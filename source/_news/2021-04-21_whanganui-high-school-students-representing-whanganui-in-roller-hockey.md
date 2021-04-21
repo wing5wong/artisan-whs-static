@@ -44,12 +44,12 @@ The long Easter Weekend, saw a group of Whanganui High School students make the 
 Whanganui Year 9 High School Students, Michaela Ross, Charlie Teager, Siobhan Pitkethley played for the Under 14 Lightening Team which came up against some strong competition, suffering a first loss for some time in the round robins. The team made it to the playoffs for first and second and were successful in claiming First Place.
 
 
-Amelia Neale (Y12), Michaela Ross and Siobhan Pitkethley also competed in the Ladies Division for Whanganui. As a new under development team, they did incredibly well to come home with a second placing, particularly coming up against a strong Taranaki team, which held a number of New Zealand Ladies players. A great achievement by these players who were not phased and rose to the challenge.
+Amelia Neale (Yr 12), Michaela Ross and Siobhan Pitkethley also competed in the Ladies Division for Whanganui. As a new under development team, they did incredibly well to come home with a second placing, particularly coming up against a strong Taranaki team, which held a number of New Zealand Ladies players. A great achievement by these players who were not phased and rose to the challenge.
 
 
-Connor Alderton (Y11), and Amelia Neale played in the Senior 2nd Division Team and were faced with some very strong and tough competition.  Both Connor and Amelia got plenty of game time and Connor had a blinder in one of the games, scoring three of the 4 goals to take the win. The Wanganui 2nd Division team took home Third Place.
+Connor Alderton (Yr 11), and Amelia Neale played in the Senior 2nd Division Team and were faced with some very strong and tough competition.  Both Connor and Amelia got plenty of game time and Connor had a blinder in one of the games, scoring three of the 4 goals to take the win. The Wanganui 2nd Division team took home Third Place.
 
 
-Wilson McKee (Y13), has grown and shown so much improvement over the past 12 months that he has now 'graduated' up into Wanganui Roller Hockey's Premier Team. Wilson played incredibly well and certainly looked like he was where he belonged. Wilson has risen to the challenge of playing in the premier league with confidence and he took his place in the team seamlessly, helping the team to claim Second Place.
+Wilson McKee (Yr 13), has grown and shown so much improvement over the past 12 months that he has now 'graduated' up into Wanganui Roller Hockey's Premier Team. Wilson played incredibly well and certainly looked like he was where he belonged. Wilson has risen to the challenge of playing in the premier league with confidence and he took his place in the team seamlessly, helping the team to claim Second Place.
 
 *By Andrea Ross*
