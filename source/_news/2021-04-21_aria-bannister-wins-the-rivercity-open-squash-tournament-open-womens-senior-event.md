@@ -1,6 +1,6 @@
 ---
-title: Aria Bannister wins the RiverCity Open Squash Tournament - Open Women's
-  Senior event
+title: "Aria Bannister wins the RiverCity Open Squash Tournament, Women's Senior
+  Open "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618998187/News/Aria_Bannister_Squash_2.jpg
   description: Aria in action on the court.
