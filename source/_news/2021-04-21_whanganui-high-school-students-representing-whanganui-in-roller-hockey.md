@@ -9,32 +9,32 @@ feature_image:
 news_author:
   date: 2021-04-21T07:44:48.937Z
 image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992660/News/Siobhan_Pitkethley_Yr9_getting_ready_to_start_the_Game.jpg
+    description: Siobhan Pitkethley (Yr 9) getting ready to start the game.  Photo /
+      Andrea Ross.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992445/News/Charlie_Teager_Yr_9_in_action.jpg
+    description: Charlie Teager (Yr 9) in action.  Photo / Andrea Ross.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992619/News/Michaela_Ross_Yr_9_taking_a_successful_shot_at_Goal.jpg
+    description: Michaela Ross (Yr 9) taking a successful shot at goal.  Photo /
+      Andrea Ross.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992491/News/Connor_Alderton_Yr_11_Taking_a_successful_shot_at_Goal.jpg
+    description: Connor Alderton (Yr 11) taking a successful shot at goal.  Photo /
+      Andrea Ross.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992546/News/Connor_Alderton_Yr11_on_Defence.jpg
+    description: Connor Alderton (Yr 11) on defence.  Photo / Andrea Ross.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992322/News/Amelia_Neale_Yr_12_in_action.jpg
     description: Amelia Neale (Yr 12) in action.  Photo / Andrea Ross.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992357/News/Amelia_Neale_Yr12_in_Action_ready_to_take_a_goal.jpg
-    description: Amelia Neale (Yr 12) in Action ready to take a goal.  Photo / Andrea Ross.
+    description: Amelia Neale (Yr 12) in action ready to take a goal.  Photo / Andrea Ross.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992411/News/Amelia_Neale_Yr12_Siobhan_Pitkethley_Yr_9_Michaela_Ross_Yr_9_warming_up_before_their_ladies_game.jpg
     description: Amelia Neale (Yr 12), Siobhan Pitkethley (Yr 9), Michaela Ross (Yr
       9) warming up before their ladies game.  Photo / Andrea Ross.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992445/News/Charlie_Teager_Yr_9_in_action.jpg
-    description: Charlie Teager (Yr 9) in action.  Photo / Andrea Ross.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992491/News/Connor_Alderton_Yr_11_Taking_a_successful_shot_at_Goal.jpg
-    description: Connor Alderton (Yr 11) taking a successful shot at Goal.  Photo /
-      Andrea Ross.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992546/News/Connor_Alderton_Yr11_on_Defence.jpg
-    description: Connor Alderton (Yr 11) on Defence.  Photo / Andrea Ross.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992619/News/Michaela_Ross_Yr_9_taking_a_successful_shot_at_Goal.jpg
-    description: Michaela Ross (Yr 9) taking a successful shot at Goal.  Photo /
-      Andrea Ross.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992660/News/Siobhan_Pitkethley_Yr9_getting_ready_to_start_the_Game.jpg
-    description: Siobhan Pitkethley (Yr 9) getting ready to start the Game.  Photo /
-      Andrea Ross.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992715/News/Wilson_McKee_Yr13_getting_ready_to_take_a_shot_at_Goal.jpg
-    description: Wilson McKee (Yr 13) getting ready to take a shot at Goal.  Photo /
-      Andrea Ross.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992758/News/Wilson_Mckee_Yr13_Warming_up_Whanganui_s_Premier_Goalie_before_the_game_starts.jpg
     description: Wilson Mckee (Yr 13) warming up Whanganui's Premier Goalie before
       the game starts.  Photo / Andrea Ross.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992715/News/Wilson_McKee_Yr13_getting_ready_to_take_a_shot_at_Goal.jpg
+    description: Wilson McKee (Yr 13) getting ready to take a shot at goal.  Photo /
+      Andrea Ross.
 show_in_slider: false
 date: 2021-04-21T07:44:49.170Z
 ---
