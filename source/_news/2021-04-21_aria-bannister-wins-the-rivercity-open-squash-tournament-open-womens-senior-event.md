@@ -9,7 +9,10 @@ news_author:
   publication: WHS Director of Sport
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618998187/News/Aria_Bannister_Squash_2.jpg
+    description: Aria in action on the court.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618998225/News/Aria_Bannister_Squash._with_swimming_students.jpg
+    description: Aria, with fellow WHS students heading off to the NZ Age Group
+      swimming champs.
 show_in_slider: true
 date: 2021-04-21T09:39:24.744Z
 ---
