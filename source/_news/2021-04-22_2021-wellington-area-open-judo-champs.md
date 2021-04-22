@@ -3,7 +3,7 @@ title: 2021 Wellington Area Open Judo Champs
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619088465/News/Judo_NZ_embem.png
 news_author:
-  date: 2021-04-15T08:47:02.061Z
+  date: 2021-04-20T08:47:02.061Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082608/News/Jake_Hood._podium.L-R.Zeke_Thornton.Jake.Noah_Walliss.jpg
     description: Jake Hood, 3rd in the Junior Men U90kg. Photo / Richard Hood.
