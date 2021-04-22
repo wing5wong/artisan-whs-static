@@ -7,7 +7,7 @@ feature_image:
     McKee (Yr 13), missing Amelia Neale (Yr 12)."
   credit: Andrea Ross
 news_author:
-  date: 2021-04-21T07:44:48.937Z
+  date: 2021-04-18T07:44:48.937Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618992660/News/Siobhan_Pitkethley_Yr9_getting_ready_to_start_the_Game.jpg
     description: Siobhan Pitkethley (Yr 9) getting ready to start the game.  Photo /
