@@ -24,14 +24,14 @@ image_gallery:
     description: Jake Hood vs Callaghan Watson. Photo / Richard Hood.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082583/News/Jake_Hood_with_coach_Wayne_Watson_Keightley_Watson.jpg
     description: Wayne Watson (Coach), Jake Hood and Keightley Watson. Photo / Richard Hood.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082819/News/Oscar_Benson_1.jpg
-    description: Oscar Benson in action on Easter weekend at Napier.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082842/News/Oscar_Benson_2.jpg
-    description: Oscar Benson in action on Easter weekend at Napier.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619089603/News/Emily_Benson_1.jpg
     description: Emily Benson in action on Easter weekend at Napier.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619089623/News/Emily_Benson_2.jpg
     description: Emily Benson in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082819/News/Oscar_Benson_1.jpg
+    description: Oscar Benson in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082842/News/Oscar_Benson_2.jpg
+    description: Oscar Benson in action on Easter weekend at Napier.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082249/News/Jake_Hood_2.jpg
     description: Jake Hood in action on Easter weekend at Napier.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082369/News/Jake_Hood_5.jpg
