@@ -1,6 +1,6 @@
 ---
 title: "Year 9 student, Aria Bannister wins the RiverCity Open Squash
-  Tournament, Women's Senior Open "
+  Tournament, Women's Senior Open! "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618998187/News/Aria_Bannister_Squash_2.jpg
   description: Aria in action on the court.
@@ -10,7 +10,7 @@ news_author:
   publication: WHS Director of Sport
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618998148/News/Aria_Bannister_Squash_1.jpg
-    description: ""
+    description: Ladies and Men's Open Champ winners; Aria Bannister and Chris Van der Salm.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618998225/News/Aria_Bannister_Squash._with_swimming_students.jpg
     description: Aria, with fellow WHS students heading off to the NZ Age Group
       swimming champs.
