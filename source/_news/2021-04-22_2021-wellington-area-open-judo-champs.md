@@ -1,5 +1,7 @@
 ---
 title: 2021 Wellington Area Open Judo Champs
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619088465/News/Judo_NZ_embem.png
 news_author:
   date: 2021-04-15T08:47:02.061Z
 image_gallery:
