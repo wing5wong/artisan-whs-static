@@ -24,13 +24,32 @@ image_gallery:
 show_in_slider: false
 date: 2021-04-22T08:47:02.280Z
 ---
-Afew Whanganui High School boys representing the Wanganui Judo Club competed in the Wellington Area Open Champs at Kapiti College, 17-18 April.
+Afew Whanganui High School boys representing the Wanganui Judo Club competed in the Wellington Area Open Championships at Kapiti College, 17-18 April.
 
-**Jake Hood took out Bronze** after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
+**Jake Hood took out Bronze** in the Junior Men U90kg after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
 
-**Callaghan Watson won Gold in the Colts Division** and stepped up to fight Junior mens where the competion was a lot harder against far more stronger and experienced fighters.
+**Callaghan Watson won Gold** in the Cadet Man +81kg Division and stepped up to fight Junior Mens where the competion was a lot harder against stronger and experienced fighters.  
+**Gold - Junior Men U100kg**
+
+**Jayden Ivory took out Bronze** in the Senior Boys U60kg Division.
 
 *Richard Hood  
 Karate Coach*
 
-**Jayden Ivory also took out 3rd equal.**
+_______________________________________________
+_______________________________________________
+
+
+Former students also excelled, including the one and only,  
+**Keightley Watson**..  
+Gold - Senior Men +100kg  
+Gold - Senior Men OPEN  
+Gold - Junior Men +100kg  
+Gold - Junior Men OPEN
+
+& **Finn Brown**..  
+Silver - Senior Men OPEN  
+Bronze - Senior Men U81kg
+
+Fantastic work to all of you that competed!  Congratulations!!
+
