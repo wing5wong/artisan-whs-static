@@ -24,13 +24,13 @@ image_gallery:
     description: Jake Hood vs Callaghan Watson. Photo / Richard Hood.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082583/News/Jake_Hood_with_coach_Wayne_Watson_Keightley_Watson.jpg
     description: Wayne Watson (Coach), Jake Hood and Keightley Watson. Photo / Richard Hood.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619089603/News/Emily_Benson_1.jpg
-    description: Emily Benson in action on Easter weekend at Napier.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619089623/News/Emily_Benson_2.jpg
     description: Emily Benson in action on Easter weekend at Napier.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082819/News/Oscar_Benson_1.jpg
-    description: Oscar Benson in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619089603/News/Emily_Benson_1.jpg
+    description: Emily Benson in action on Easter weekend at Napier.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082842/News/Oscar_Benson_2.jpg
+    description: Oscar Benson in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082819/News/Oscar_Benson_1.jpg
     description: Oscar Benson in action on Easter weekend at Napier.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082249/News/Jake_Hood_2.jpg
     description: Jake Hood in action on Easter weekend at Napier.
@@ -45,12 +45,12 @@ On Easter weekend a few students representing Wanganui Kyokushin MOKNZ competed 
 ##### Judo  
 A few Whanganui High School boys representing the Wanganui Judo Club competed in the Wellington Area Open Championships at Kapiti College, 17-18 April.
 
-**Jake Hood took out Bronze** in the Junior Men U90kg after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
+**Jake Hood took out Bronze**, Junior Men U90kg, after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
 
-**Callaghan Watson won Gold** in the Cadet Man +81kg Division and stepped up to fight Junior Mens where the competition was a lot harder against stronger and experienced fighters.  
-**Gold - Junior Men U100kg**
+**Callaghan Watson won Gold**, Cadet Men +81kg Division and stepped up to fight Junior Mens where the competition was a lot harder against stronger and experienced fighters.  
+**Callaghan also won Gold**, Junior Men U100kg.
 
-**Jayden Ivory took out Bronze** in the Senior Boys U60kg Division.
+**Jayden Ivory took out Bronze**, Senior Boys U60kg.
 
 *Richard Hood  
 (Karate Coach)*
