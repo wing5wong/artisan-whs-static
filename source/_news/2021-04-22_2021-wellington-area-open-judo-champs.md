@@ -24,9 +24,25 @@ image_gallery:
     description: Jake Hood vs Callaghan Watson. Photo / Richard Hood.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082583/News/Jake_Hood_with_coach_Wayne_Watson_Keightley_Watson.jpg
     description: Wayne Watson (Coach), Jake Hood and Keightley Watson. Photo / Richard Hood.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082819/News/Oscar_Benson_1.jpg
+    description: Oscar Benson in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082842/News/Oscar_Benson_2.jpg
+    description: Oscar Benson in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619089603/News/Emily_Benson_1.jpg
+    description: Emily Benson in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619089623/News/Emily_Benson_2.jpg
+    description: Emily Benson in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082249/News/Jake_Hood_2.jpg
+    description: Jake Hood in action on Easter weekend at Napier.
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082369/News/Jake_Hood_5.jpg
+    description: Jake Hood in action on Easter weekend at Napier.
 show_in_slider: false
 date: 2021-04-22T08:47:02.280Z
 ---
+##### Karate  
+On Easter weekend a few students representing Wanganui Kyokushin MOKNZ competed in the 2021 Match Fights in Napier.  **Oscar and Emily Benson** both won their match fights performing very well with confidence and good technique. **Jake Hood** fought the two big boys from Auckland both 40kg heavier than Jake and his first time competing against men. He narrowly lost his first fight, and I had him scoring a knockdown in his second fight but the referee didn’t award it, and lost by decision.
+
+##### Judo  
 A few Whanganui High School boys representing the Wanganui Judo Club competed in the Wellington Area Open Championships at Kapiti College, 17-18 April.
 
 **Jake Hood took out Bronze** in the Junior Men U90kg after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
