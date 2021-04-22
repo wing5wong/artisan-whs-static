@@ -1,17 +1,21 @@
 ---
-title: Yet another product of the mighty Whanganui River is set to make his
-  Olympic debut
+title: "Tokyo Olympics: Whanganui paddler Max Brown, K2 crewmate Kurtis Imrie
+  first to be named"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619052976/News/Max_Brown_chron22.4.21.jpg
   description: "Whanganui paddler Max Brown (front) and Wellington K2 1000m
     crewmate Kurtis Imrie are the first New Zealand canoe crew to be named for
     the Tokyo Olympics. "
+  credit: Getty Images
 news_author:
   date: 2021-04-22T00:52:39.285Z
   publication: Whanganui Chronicle
   name: Iain Hyndman
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619053072/News/max_brown.jpg
+    description: Whanganui paddler Max Brown (left) and Wellington K2 1000m crewmate
+      Kurtis Imrie are the first New Zealand canoe crew to be named for the
+      Tokyo Olympics. Photo / File.
 show_in_slider: true
 date: 2021-04-22T00:52:39.366Z
 ---
