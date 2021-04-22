@@ -4,21 +4,21 @@ news_author:
   date: 2021-04-15T08:47:02.061Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082608/News/Jake_Hood._podium.L-R.Zeke_Thornton.Jake.Noah_Walliss.jpg
-    description: Jake Hood, 3rd.
+    description: Jake Hood, 3rd in the Junior Men U90kg.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082745/News/Jayden_Ivory_better.1.jpg
-    description: Jayden Ivory, 3rd equal.
+    description: Jayden Ivory (second from right), 3rd equal in the Senior Boys 60kg.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082787/News/Jayden_Ivory_better2.jpg
     description: Jayden Ivory with his medal.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082634/News/Jayden_Ivory_1.jpg
     description: Jayden Ivory (left).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082448/News/Jake_Hood_v_Callahan_Watson_1.jpg
-    description: Jake Hood vs Callahan Watson
+    description: Jake Hood vs Callaghan Watson
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082472/News/Jake_Hood_v_Callahan_Watson_2.jpg
-    description: Jake Hood vs Callahan Watson
+    description: Jake Hood vs Callaghan Watson
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082512/News/Jake_Hood_v_Callahan_Watson_3.jpg
-    description: Jake Hood vs Callahan Watson
+    description: Jake Hood vs Callaghan Watson
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082545/News/Jake_Hood_v_Callahan_Watson_4.jpg
-    description: Jake Hood vs Callahan Watson
+    description: Jake Hood vs Callaghan Watson
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082583/News/Jake_Hood_with_coach_Wayne_Watson_Keightley_Watson.jpg
     description: Wayne Watson, Jake Hood and Keightley Watson.
 show_in_slider: false
