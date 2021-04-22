@@ -28,7 +28,7 @@ Afew Whanganui High School boys representing the Wanganui Judo Club competed in 
 
 **Jake Hood took out Bronze** after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
 
-**Callahan Watson won Gold in the Colts Division** and stepped up to fight Junior mens where the competion was a lot harder against far more stronger and experienced fighters.
+**Callaghan Watson won Gold in the Colts Division** and stepped up to fight Junior mens where the competion was a lot harder against far more stronger and experienced fighters.
 
 *Richard Hood  
 Karate Coach*
