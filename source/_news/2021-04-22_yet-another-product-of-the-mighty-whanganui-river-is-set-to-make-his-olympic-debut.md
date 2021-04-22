@@ -19,12 +19,12 @@ image_gallery:
 show_in_slider: true
 date: 2021-04-22T00:52:39.366Z
 ---
-Yet another product of the mighty Whanganui River is set to make his Olympic debut after gaining selection into the New Zealand men's K2 1000m boat for the Tokyo Games.
+**Yet another product of the mighty Whanganui River is set to make his Olympic debut after gaining selection into the New Zealand men's K2 1000m boat for the Tokyo Games.**
 
 
-Max Brown and regular Kiwi K2 Wellington crewmate Kurtis Imrie were officially named yesterday at Lake Karapiro as the first New Zealand canoe sprint paddlers to earn selection for Tokyo.
+**Max Brown and regular Kiwi K2 Wellington crewmate Kurtis Imrie were officially named yesterday at Lake Karapiro as the first New Zealand canoe sprint paddlers to earn selection for Tokyo.**
 
-Brown rates the Whanganui River as one of the major factors in achieving this Olympic goal and appreciates he is one of many from that river culture to reach such lofty heights.
+**Brown rates the Whanganui River as one of the major factors in achieving this Olympic goal and appreciates he is one of many from that river culture to reach such lofty heights.**
 
 
 While he is the first from the paddling fraternity to make the Olympic journey, those before him have included rowing greats Simon Dickie, coxswain of the gold medal-winning 1972 New Zealand eight that triumphed in Munich; and Rebecca Scown who, together with Juliette Haigh, took bronze in the women's coxless pair at the 2012 Summer Olympics in London.
