@@ -40,10 +40,13 @@ show_in_slider: false
 date: 2021-04-22T08:47:02.280Z
 ---
 ##### Karate  
-On Easter weekend a few students representing Wanganui Kyokushin MOKNZ competed in the 2021 Match Fights in Napier.  **Oscar and Emily Benson** both won their match fights performing very well with confidence and good technique. **Jake Hood** fought the two big boys from Auckland both 40kg heavier than Jake and his first time competing against men. He narrowly lost his first fight, and I had him scoring a knockdown in his second fight but the referee didn’t award it, and lost by decision.
+On Easter weekend a few WHS students representing Wanganui Kyokushin MOKNZ competed at the 2021 Match Fights in Napier.  
+
+**Oscar and Emily Benson** both won their match fights performing very well with confidence and good technique.  
+**Jake Hood** fought the two big boys from Auckland both 40kg heavier than Jake and his first time competing against men. He narrowly lost his first fight, and I had him scoring a knockdown in his second fight but the referee didn’t award it, and lost by decision.
 
 ##### Judo  
-A few Whanganui High School boys representing the Wanganui Judo Club competed in the Wellington Area Open Championships at Kapiti College, 17-18 April.
+A few WHS students representing the Wanganui Judo Club competed in the Wellington Area Open Championships at Kapiti College, 17-18 April.
 
 **Jake Hood took out Bronze**, Junior Men U90kg, after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
 
