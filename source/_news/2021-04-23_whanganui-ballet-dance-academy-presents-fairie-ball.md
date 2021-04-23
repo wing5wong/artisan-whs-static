@@ -2,8 +2,8 @@
 title: Whanganui Ballet & Dance Academy presents Fairie Ball
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619218157/News/Dance._Mira_RCP_22.4.21.jpg
-  description: Dancers include from the left Tessa, Zoe, Mira (WHS student),
-    Julliette and Amber with Caleb in the centre.
+  description: Dancers include from the left Tessa, Zoe, Mira Meijer (WHS
+    student), Julliette and Amber with Caleb in the centre.
 news_author:
   date: 2021-04-21T22:40:17.532Z
   publication: River City Press
