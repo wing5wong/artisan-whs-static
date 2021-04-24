@@ -32,6 +32,6 @@ The performance will include a prayer call and a bugle playing of ‘The Last Po
 
 Tetley agreed it had taken a big logistical effort to bring all the different groups together, but there had been a real combined enthusiasm from everyone to take part.
 
-‘The Armed Man: A Mass for Peace’ will be begin at 2.30pm on Anzac Day.
-Tickets can be purchased from Royal Wanganui Opera House Booking Office, with booking fees applying. 
+‘The Armed Man: A Mass for Peace’ will be begin at 2.30pm on Anzac Day.  
+Tickets can be purchased from Royal Wanganui Opera House Booking Office, with booking fees applying.  
 Costs are $30 for adults or $25 for concessions (seniors, 13 to 17-year-olds, Friends of the Opera House). Phone 06 349 0511 or for online bookings go to www.whanganuiivenues.co.nz.
