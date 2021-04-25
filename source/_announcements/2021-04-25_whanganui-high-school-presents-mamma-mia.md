@@ -10,10 +10,10 @@ Whanganui High School presents:
 **MAMMA MIA!!**  
 @ The Royal Wanganui Opera House
 
-Wednesday 19 May at 7pm  
-Thursday 20 May at 7pm  
-Friday 21 May at 7pm  
-Saturday 22 May at 5pm
+* Wednesday 19 May at 7pm  
+* Thursday 20 May at 7pm  
+* Friday 21 May at 7pm  
+* Saturday 22 May at 5pm
 
 Adults $20  
 School Students $15  
