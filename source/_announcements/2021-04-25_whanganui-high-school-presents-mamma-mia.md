@@ -3,6 +3,7 @@ title: "Whanganui High School presents:  MAMMA MIA !!  "
 is_emergency: false
 date: 2021-05-19T08:25:28.571Z
 subtitle: Wednesday 19 May until Saturday 22 May
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619339473/Mamma-Mia-poster.jpg
 ---
 Whanganui High School presents:
 
