@@ -76,5 +76,5 @@ Gold - Junior Men OPEN
 Silver - Senior Men OPEN  
 Bronze - Senior Men U81kg
 
-***Fantastic work to all of you that competed!  Congratulations!!***
+**Fantastic work to all of you that competed!  Congratulations!!**
 
