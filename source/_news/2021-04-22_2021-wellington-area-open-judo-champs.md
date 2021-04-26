@@ -61,11 +61,6 @@ A few WHS students representing the Wanganui Judo Club competed in the Wellingto
 **Callaghan also won Gold**, Junior Men U100kg.
 
 
-
-_______________________________________________
-
-
-
 Former students also excelled, including the one and only;
   
 * **Keightley Watson**..  
