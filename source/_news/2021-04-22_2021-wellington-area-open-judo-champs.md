@@ -36,8 +36,6 @@ image_gallery:
     description: Jake Hood in action on Easter weekend at Napier.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082369/News/Jake_Hood_5.jpg
     description: Jake Hood in action on Easter weekend at Napier.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619340840/News/Callaghan_Watson.jpg
-    description: Callaghan Watson.
 show_in_slider: false
 date: 2021-04-22T08:47:02.280Z
 ---
