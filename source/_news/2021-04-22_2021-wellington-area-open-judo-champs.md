@@ -1,5 +1,5 @@
 ---
-title: 2021 Wellington Area Open Judo Champs
+title: "Students excelling in Martial Arts "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619088465/News/Judo_NZ_embem.png
 news_author:
