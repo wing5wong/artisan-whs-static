@@ -43,7 +43,8 @@ date: 2021-04-22T08:47:02.280Z
 #### Karate catch up  
 On Easter weekend a few WHS students representing Wanganui Kyokushin MOKNZ competed at the 2021 Match Fights in Napier.  
 
-**Oscar and Emily Benson** both won their match fights performing very well with confidence and good technique.  
+**Oscar and Emily Benson** both won their match fights performing very well with confidence and good technique.
+  
 **Jake Hood** fought the two big boys from Auckland both 40kg heavier than Jake and his first time competing against men. He narrowly lost his first fight, and I had him scoring a knockdown in his second fight but the referee didn’t award it, and lost by decision.
 
 *Richard Hood  
