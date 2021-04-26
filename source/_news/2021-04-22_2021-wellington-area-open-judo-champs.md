@@ -51,11 +51,11 @@ On Easter weekend a few WHS students representing Wanganui Kyokushin MOKNZ compe
 #### Judo  
 A few WHS students representing the Wanganui Judo Club competed in the Wellington Area Open Championships at Kapiti College, 17-18 April.
 
-**Jayden Ivory won Bronze**, Senior Boys U60kg.
+* **Jayden Ivory won Bronze**, Senior Boys U60kg.
 
-**Jake Hood won Bronze**, Junior Men U90kg, after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
+* **Jake Hood won Bronze**, Junior Men U90kg, after five tough fights. He only had 3 weeks training, a month after his Karate bouts at the National Match Fight Karate Championships in Napier.
 
-**Callaghan Watson won Gold**, Cadet Men +81kg Division and stepped up to fight Junior Mens where the competition was a lot harder against stronger and experienced fighters.  
+* **Callaghan Watson won Gold**, Cadet Men +81kg Division and stepped up to fight Junior Mens where the competition was a lot harder against stronger and experienced fighters.  
 **Callaghan also won Gold**, Junior Men U100kg.
 
 
@@ -64,14 +64,15 @@ _______________________________________________
 
 
 
-Former students also excelled, including the one and only,  
-**Keightley Watson**..  
+Former students also excelled, including the one and only;
+  
+* **Keightley Watson**..  
 Gold - Senior Men +100kg  
 Gold - Senior Men OPEN  
 Gold - Junior Men +100kg  
 Gold - Junior Men OPEN
 
-& **Finn Brown**..  
+* & **Finn Brown**..  
 Silver - Senior Men OPEN  
 Bronze - Senior Men U81kg
 
