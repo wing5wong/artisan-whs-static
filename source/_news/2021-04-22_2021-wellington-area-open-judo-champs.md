@@ -13,7 +13,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082745/News/Jayden_Ivory_better.1.jpg
     description: Jayden Ivory (second from right), 3rd equal in the Senior Boys
       60kg.  Photo / Phillipa Sperling.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082787/News/Jayden_Ivory_better2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619402475/News/Jayden-Ivory-better2.jpg
     description: Jayden Ivory with his medal. Photo / Phillipa Sperling.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619082634/News/Jayden_Ivory_1.jpg
     description: Jayden Ivory (left). Photo / Phillipa Sperling.
