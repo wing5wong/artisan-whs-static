@@ -61,7 +61,7 @@ A few WHS students representing the Wanganui Judo Club competed in the Wellingto
 
 
 _______________________________________________
-_______________________________________________
+
 
 
 Former students also excelled, including the one and only,  
