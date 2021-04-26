@@ -39,7 +39,7 @@ image_gallery:
 show_in_slider: false
 date: 2021-04-22T08:47:02.280Z
 ---
-##### Karate catch up  
+#### Karate catch up  
 On Easter weekend a few WHS students representing Wanganui Kyokushin MOKNZ competed at the 2021 Match Fights in Napier.  
 
 **Oscar and Emily Benson** both won their match fights performing very well with confidence and good technique.  
@@ -48,7 +48,7 @@ On Easter weekend a few WHS students representing Wanganui Kyokushin MOKNZ compe
 *Richard Hood  
 (Karate Coach)*
 
-##### Judo  
+#### Judo  
 A few WHS students representing the Wanganui Judo Club competed in the Wellington Area Open Championships at Kapiti College, 17-18 April.
 
 **Jayden Ivory won Bronze**, Senior Boys U60kg.
@@ -57,8 +57,6 @@ A few WHS students representing the Wanganui Judo Club competed in the Wellingto
 
 **Callaghan Watson won Gold**, Cadet Men +81kg Division and stepped up to fight Junior Mens where the competition was a lot harder against stronger and experienced fighters.  
 **Callaghan also won Gold**, Junior Men U100kg.
-
-
 
 
 
