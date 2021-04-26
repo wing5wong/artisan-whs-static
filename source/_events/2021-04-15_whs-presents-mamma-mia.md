@@ -17,6 +17,6 @@ Adults $20
 School Students $15  
 Family $60 (2 Adults & 2 School Students)
 
-For all you 'Dancing Queens' and 'Super Troupers', say 'I Do I Do I Do' and get your **tickets from The Royal Wanganui Opera House.**
+For all you 'Dancing Queens' and 'Super Troupers', say 'I Do I Do I Do' and get your **tickets from The Royal Wanganui Opera House.**  
 [Click here to purchase tickets online](https://rwoh.sales.ticketsearch.com/sales/sales?fbclid=IwAR3JHbCv6U_Gz05zAtcquU2z9UGvrTXiYQ1esqeTB8cY7s5qDB72W-kKhFk)
 
