@@ -1,5 +1,8 @@
 ---
 title: Jess Tyson & Ardon England sharing their stories at Real Talk event
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619498767/News/Real-Talk-Ardon-England-chron-17.4.21.jpg
+  description: Former WHS students, Jess Tyson & Ardon England.
 news_author:
   date: 2021-04-17T04:33:01.816Z
   publication: Whanganui Chronicle
