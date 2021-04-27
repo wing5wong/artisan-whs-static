@@ -10,7 +10,7 @@ date: 2021-04-27T04:53:26.320Z
 ---
 There was much for Whanganui athletes to celebrate at the recent North Island Championships over and above the 16 podium places reported on last week (four titles, four seconds and eight third places)
 
-In giving details of Whanganui podium places from the Whanganui Team at the North Island Schools. I must apologise to young Cody Campbell who I missed last week following his excellent third in the Junior Javelin with a personal best 33.21 metre throw.
+In giving details of Whanganui podium places from the Whanganui Team at the North Island Schools. I must apologise to young **Cody Campbell who I missed last week following his excellent third in the Junior Javelin with a personal best 33.21 metre throw.**
 
 The young Whanganui High School thrower also gave a solid effort in Shot and Discus in support of his promising Javelin.
 
