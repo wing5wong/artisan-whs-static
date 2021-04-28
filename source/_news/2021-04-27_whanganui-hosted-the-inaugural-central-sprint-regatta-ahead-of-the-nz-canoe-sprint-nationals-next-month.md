@@ -25,7 +25,7 @@ The standout event was the Division A 300m A Final dominated by the region's fas
 
 The 100m event also sported some close racing with barely a boat-length separating the first four paddlers across the line. Robson Old took first place once again with Whanganui's **Ethan Ross** hot on his heels in fourth place.
 
-The Division A 300m C Final was dominated by Whanganui paddlers with the trio of **Angus Sewell, Sophie Brooke** and George Pedley battling it out for the podium places with **Sewell crossing the finish line first closely followed by his club mates Brooke** and Pedley.
+The Division A 300m C Final was dominated by Whanganui paddlers with the trio of **Angus Sewell, Sophie Brooke** and George Pedley battling it out for the podium places with Sewell crossing the finish line first closely followed by his club mates Brooke and Pedley.
 
 In the Division A 100m B Final Hawke's Bay's Damien da Silva and Whanganui's **Angus Sewell** battled for first place in a nail-bitingly close race which ended with da Silva narrowly pipping the younger Sewell by barely a second.
 
