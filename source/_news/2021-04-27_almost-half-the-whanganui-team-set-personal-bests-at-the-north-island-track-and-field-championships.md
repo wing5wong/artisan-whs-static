@@ -1,6 +1,8 @@
 ---
 title: Almost half the Whanganui team set personal bests at the North Island
   Track and Field Championships
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619604610/News/Athletics_North_island_SS_Chamsp.gif
 news_author:
   date: 2021-04-22T04:53:26.082Z
   publication: Whanganui Chronicle
