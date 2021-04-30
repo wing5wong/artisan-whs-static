@@ -26,15 +26,15 @@ Back to two rounds between seven teams, allowing for full campaign of 12 matches
 
 Since that time the Yellows had two draws with Old Boys Marist (12-12) and Freyberg Old Boys (15-15), whereas Metro rebounded with impressive wins over Feilding Old Boys-Oroua (27-10) and Dannevirke SC (38-10) last Saturday.
 
-Against Dannevirke at the Kaierau Country Club, winger Joey Devine scored two tries and added three conversions, as he will share the kicking duties with 2019 Heartland Hurricanes player Jack O'Leary.
+Against Dannevirke at the Kaierau Country Club, winger Joey Devine scored two tries and added three conversions, as he will share the kicking duties with 2019 Heartland Hurricanes player **Jack O'Leary**.
 
-Tipene Reweti, an outstanding touch and league player, also scored a double.
+**Tipene Reweti**, an outstanding touch and league player, also scored a double.
 
 "There's plenty to improve upon but they're heading in the right direction," said Cosford.
 
-The team will miss foundation halfback Chris Ferguson this season, while winger Matthew Murphy has linked up with Kaierau.
+The team will miss foundation halfback Chris Ferguson this season, while winger **Matthew Murphy** has linked up with Kaierau.
 
-However, promising newcomers include former Cullinane openside flanker Neo Tichbon, and prop Keightley Watson – the judo champion who won International Junior Sportsperson at the 2019 Whanganui Sports Awards.
+However, promising newcomers include former Cullinane openside flanker Neo Tichbon, and prop **Keightley Watson** – the judo champion who won International Junior Sportsperson at the 2019 Whanganui Sports Awards.
 
 There has been a reset in the Metro Women's team for their quite short sophomore season.
 
@@ -48,7 +48,7 @@ Metro suffered heavy losses in their opening two matches, beaten 83-0 by defendi
 
 "We'll hang in there and see how things go. The players we are playing [against] are experienced players."
 
-Of Metro's Manawatū Cyclones squad members from 2020, former Black Fern Sosoli Talawadua is just focusing on helping coach the squad, while Lavenia Nauga-Grey is wearing a moon boot – one of three injuries to senior players.
+Of Metro's Manawatū Cyclones squad members from 2020, former Black Fern **Sosoli Talawadua** is just focusing on helping coach the squad, while Lavenia Nauga-Grey is wearing a moon boot – one of three injuries to senior players.
 
 Post MRU season, Metro will see if they can organise exhibition games with clubs from other regions as they also wrap up.
 
