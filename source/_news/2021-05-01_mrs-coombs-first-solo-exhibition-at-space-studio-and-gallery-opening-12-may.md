@@ -2,6 +2,7 @@
 title: Mrs Coombs first solo exhibition at Space Studio and Gallery, opening 12 May
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619862043/News/Big%20Bang%20Adv%20Race%202.11.19/kaye-coombes-3.jpg
+  description: For the Love of Botanical & Dark Florals
 news_author:
   date: 2021-05-01T09:20:19.073Z
 image_gallery:
