@@ -29,8 +29,9 @@ Kaye Coombs, Dark Florals, Pop-up Gallery
 With a guest video screening by Brit Bunkley {Events Area}  
 For more information click the link below:  
 <https://spacestudiogallery.co.nz/exhibitions/>  
+. 
 
-##### For the Love of Botanical
+##### **For the Love of Botanical**
 
 Kaye Coombs
 
@@ -45,7 +46,7 @@ Additional to our usual business hours we will also open Tuesday 18th May
 {Galleries 1 & 2}  
 [https://spacestudiogallery.co.nz/.../for-the-love-of.../  ](https://spacestudiogallery.co.nz/exhibition/for-the-love-of-botanical/?fbclid=IwAR0ABTKJkU3h0cfymqvS2oIo_Uiq3fsAokiZaH4jG2ZYGIqtjRoWjOoC7fM)
 
-##### Dark Florals
+##### **Dark Florals**
 
 Kaye Coombs
 
