@@ -6,9 +6,9 @@ news_author:
   date: 2021-05-01T09:20:19.073Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619860946/News/Kaye_Coombs_has_her_first_solo_exhibition.jpg
-    description: For the Love of Botanical.
+    description: For the Love of Botanical
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1619860992/News/Kaye_Coombs_has_her_first_solo_exhibition_2.jpg
-    description: Dark Florals.
+    description: Dark Florals
 show_in_slider: false
 date: 2021-05-01T09:20:19.205Z
 ---
