@@ -28,4 +28,34 @@ For the Love of Botanical, A major group exhibition {Galleries 1 & 2}
 Kaye Coombs, Dark Florals, Pop-up Gallery  
 With a guest video screening by Brit Bunkley {Events Area}  
 For more information click the link below:  
-<https://spacestudiogallery.co.nz/exhibitions/>
+<https://spacestudiogallery.co.nz/exhibitions/>  
+
+##### For the Love of Botanical
+
+Kaye Coombs
+
+Opening: May 12 5:30 pm  
+Viewing: May 12 until May 22
+
+Local and national botanical artists celebrate Worldwide Day of Botanical Art.
+
+Additional to our usual business hours we will also open Tuesday 18th May 
+(Worldwide Day of Botanical Art).
+
+{Galleries 1 & 2}  
+[https://spacestudiogallery.co.nz/.../for-the-love-of.../  ](https://spacestudiogallery.co.nz/exhibition/for-the-love-of-botanical/?fbclid=IwAR0ABTKJkU3h0cfymqvS2oIo_Uiq3fsAokiZaH4jG2ZYGIqtjRoWjOoC7fM)
+
+##### Dark Florals
+
+Kaye Coombs
+
+Opening: May 12 5:30 pm  
+Viewing: May 12 until May 22
+
+An exploration of cascading floralscapes, emerging from the darkness.
+
+Additional to our usual business hours we will also open Tuesday 18th May 
+(Worldwide Day of Botanical Art).
+
+{Pop-up Gallery}  
+[https://spacestudiogallery.co.nz/exhibition/dark-florals/](https://spacestudiogallery.co.nz/exhibition/dark-florals/?fbclid=IwAR3qlNQoZQHRgdqniGpJPPeM2uxcthNG450-YDlXcFKrvE3y3RMD-0ecMpQ)
