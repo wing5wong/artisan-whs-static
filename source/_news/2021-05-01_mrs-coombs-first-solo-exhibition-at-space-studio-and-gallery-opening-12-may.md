@@ -18,9 +18,9 @@ Mrs Coombs has her first solo exhibition coming up soon, in the pop up space, at
 
 .
 
-Space Studio & Gallery
+**Space Studio & Gallery**
  
-U P C O M I N G ✨
+U P C O M I N G ✨  
 We are kicking off our May programme with a celebration of all things botanical in ode to Worldwide Day of Botanical Art so please save the date for this gorgeous event!  
 Opening Wednesday, May 12th, 5.30pm...  
 Viewing until 22nd May.  
