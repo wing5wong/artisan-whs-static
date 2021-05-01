@@ -13,7 +13,9 @@ image_gallery:
 show_in_slider: false
 date: 2021-05-01T09:20:19.205Z
 ---
-Mrs Coombs has her first solo exhibition coming up soon, in the pop up space, at Space Studio and Gallery. We are super excited for her to show off her beautiful work at such a fantastic gallery. ☺️
+Mrs Coombs has her first solo exhibition coming up soon, in the pop up space, at Space Studio and Gallery.  
+
+We are super excited for her to show off her beautiful work at such a fantastic gallery. ☺️
 
 *Visual Arts Department*  
 
