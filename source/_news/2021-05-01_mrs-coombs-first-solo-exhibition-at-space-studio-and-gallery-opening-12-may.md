@@ -19,7 +19,7 @@ Mrs Coombs has her first solo exhibition coming up soon, in the pop up space, at
 .
 
 **Space Studio & Gallery**
- 
+
 U P C O M I N G ✨  
 We are kicking off our May programme with a celebration of all things botanical in ode to Worldwide Day of Botanical Art so please save the date for this gorgeous event!  
 Opening Wednesday, May 12th, 5.30pm...  
@@ -28,4 +28,4 @@ For the Love of Botanical, A major group exhibition {Galleries 1 & 2}
 Kaye Coombs, Dark Florals, Pop-up Gallery  
 With a guest video screening by Brit Bunkley {Events Area}  
 For more information click the link below:  
-https://spacestudiogallery.co.nz/exhibitions/
+<https://spacestudiogallery.co.nz/exhibitions/>
