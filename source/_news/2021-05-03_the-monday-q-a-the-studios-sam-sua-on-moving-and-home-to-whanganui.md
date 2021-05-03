@@ -2,8 +2,8 @@
 title: "The Monday Q&A: The Studio's Sam Su'a on moving and home to Whanganui"
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620007947/News/Sam_Sua_Chron_3.5.21.jpg
-  description: "Sam Su'a returned to Whanganui last year to build The Studio, a
-    loft-style salon on Victoria Avenue. "
+  description: "Sam Su'a (WHS old boy) returned to Whanganui last year to build
+    The Studio, a loft-style salon on Victoria Avenue. "
 short: Michael McKeagg
 news_author:
   date: 2021-05-03T02:11:55.070Z
