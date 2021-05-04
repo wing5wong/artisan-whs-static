@@ -23,6 +23,6 @@ GOLD - Small Show skate
 SILVER - Dance/Freedance combined  
 BRONZE - Figures 
 
-Not only did she get on the podium for each event that she competed in she also qualified in each event at Nationals in July.
+Not only did she get on the podium for each event that she competed in, she also qualified in each event at Nationals in July.
 
 Congratulations Pippa!  Fantastic effort!!
