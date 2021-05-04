@@ -19,13 +19,13 @@ date: 2021-05-02T04:05:45.107Z
 Our dancers have had a busy three days at [Wanganui Competitions Society INC](https://www.facebook.com/WanganuiCompetitionsSociety/).  
 Some students not only representing WHS but also their own dance studios! 👏🏼
 
-Results: 
+##### Results: 
 
-Neo Classical Group - 1st 🥇  
-Lauren Phillips & Emma Henare Duo - 1st 🥇  
-Billie Dufty Lyrical Solo - 3rd 🥉  
-Emily Corcoran, Amaliah Pohio & Billie Dufty Trio - Very Highly Commended  
-Nat Kirk, Laura Mackintosh & Amy Bennetts - Very Highly Commended  
-Laura Mackintosh Contemporary Solo - Very Highly Commended  
-Lyrical Group - Highly Commended  
-Jazz Group - Highly Commended
+**Neo Classical Group - 1st** 🥇  
+**Lauren Phillips & Emma Henare Duo - 1st** 🥇  
+**Billie Dufty Lyrical Solo - 3rd** 🥉  
+**Emily Corcoran, Amaliah Pohio & Billie Dufty Trio - Very Highly Commended**  
+**Nat Kirk, Laura Mackintosh & Amy Bennetts - Very Highly Commended**  
+**Laura Mackintosh Contemporary Solo - Very Highly Commended**  
+**Lyrical Group - Highly Commended**  
+**Jazz Group - Highly Commended**
