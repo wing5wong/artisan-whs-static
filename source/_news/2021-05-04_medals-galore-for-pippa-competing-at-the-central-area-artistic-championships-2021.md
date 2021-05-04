@@ -3,6 +3,7 @@ title: Medals galore for Pippa competing at the Central Area Artistic
   Championships 2021
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620119590/News/Pippa_McKee_Artistic_skating_Areas_1.jpg
+  description: Pippa McKee
 news_author:
   date: 2021-05-04T08:05:48.207Z
 image_gallery:
