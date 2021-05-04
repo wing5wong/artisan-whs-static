@@ -13,7 +13,7 @@ image_gallery:
 show_in_slider: true
 date: 2021-05-04T08:05:48.282Z
 ---
-Pippa McKee won medals galore whilst competing at the 2021 Central Area Artistic Championships in Palmerston North on 30 April - 2 May. 
+Pippa McKee had a very successful few days at the 2021 Central Area Artistic Championships in Palmerston North on 30 April - 2 May. 
 
 ##### Results:
 
