@@ -8,8 +8,8 @@ news_author:
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620119452/News/Pippa_McKee_Artistic_skating_Areas_2.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620119483/News/Pippa_McKee_Artistic_skating_Areas_5.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620119522/News/Pippa_McKee_Artistic_skating_Areas_4.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620119560/News/Pippa_McKee_Artistic_skating_Areas_3.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620119522/News/Pippa_McKee_Artistic_skating_Areas_4.jpg
 show_in_slider: true
 date: 2021-05-04T08:05:48.282Z
 ---
