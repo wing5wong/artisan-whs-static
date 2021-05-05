@@ -19,7 +19,7 @@ date: 2021-05-02T04:05:45.107Z
 Our dancers have had a busy three days at [Wanganui Competitions Society INC](https://www.facebook.com/WanganuiCompetitionsSociety/).  
 Some students not only representing WHS but also their own dance studios! 👏🏼
 
-##### Results: 
+##### Results:
 
 **Neo Classical Group - 1st** 🥇  
 **Lauren Phillips & Emma Henare Duo - 1st** 🥇  
@@ -29,3 +29,7 @@ Some students not only representing WHS but also their own dance studios! 👏�
 **Laura Mackintosh Contemporary Solo - Very Highly Commended**  
 **Lyrical Group - Highly Commended**  
 **Jazz Group - Highly Commended**
+
+Congratulations, stunning performances by all of our students!! 💃🤩🕺 
+
+A big thank you to Miss Viles for her fabulous work and these [amazing highlights of our dancers](https://www.facebook.com/whsperformingarts00/videos/333813668189828) at the Wanganui Opera House recently. 👏👌
