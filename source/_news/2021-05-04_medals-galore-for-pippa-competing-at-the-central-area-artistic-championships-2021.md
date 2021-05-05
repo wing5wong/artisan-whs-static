@@ -14,6 +14,7 @@ image_gallery:
     description: Podium is a combined event of Solodance and Freedance where Pippa
       won 2nd place (only 0.48 of a point behind the winner).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620119560/News/Pippa_McKee_Artistic_skating_Areas_3.jpg
+    description: Pippa's array of Medals!
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1620119522/News/Pippa_McKee_Artistic_skating_Areas_4.jpg
     description: The group Show skate is made up of Whanganui and Manawatu skaters
       called MW, with the intention of taking the group to National and
