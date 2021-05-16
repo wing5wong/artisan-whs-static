@@ -2,6 +2,8 @@
 title: Pink Shirt Mufti Day
 date: 2021-05-21T02:04:28.339Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1621199568/Events/2021_poster.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1621199729/Events/2021_poster_2.jpg.png
 ---
 **Pink Shirt Mufti Day is on Friday 21 May!**  
 Please bring along a gold coin donation to support Youthline!  
