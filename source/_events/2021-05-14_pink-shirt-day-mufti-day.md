@@ -1,7 +1,14 @@
 ---
-title: Pink Shirt Day - mufti day
+title: Pink Shirt Mufti Day
 date: 2021-05-21T02:04:28.339Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1621199568/Events/2021_poster.jpg
 ---
+**Pink Shirt Mufti Day is on Friday 21 May!**  
+Please bring along a gold coin donation to support Youthline!  
+Please wear tidy mufti! 
+
+.
+
 Anti-Bullying, or Pink Shirt Day symbolising a stand against bullying.  
 
 This year E-Life Prefects are making a form where you can express your happy thoughts and positive messages to others.  
