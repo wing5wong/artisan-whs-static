@@ -6,4 +6,4 @@ From 21 June to 9 July, I will be holding one morning tour and one afternoon tou
 
 Prior to this I will take enrolment information and information about the tour dates out to contributing schools from Tuesday, 8 June.  
 
-Please ring our Main Office on 349 0178 if you would like to book a tour for you and your daughter or son.
+**Please ring our Main Office on 349 0178 if you would like to book a tour for you and your daughter or son.**
