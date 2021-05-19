@@ -1,6 +1,7 @@
 ---
 title: Accord Teacher Only Day
 date: 2021-05-19T21:52:52.824Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1621384827/Events/Teacher_Only_Day._Accord.jpg
 ---
 Accord Teacher Only Day - Thursday 20 May.  
 
