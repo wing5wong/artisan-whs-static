@@ -1,6 +1,6 @@
 ---
 title: "Whanganui High School presents: MAMMA MIA!!"
-date: 2021-05-19T03:58:30.665Z
+date: 2021-05-21T03:58:30.665Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618534771/Events/Mamma-Mia-poster.jpg
 ---
 Whanganui High School presents:  
