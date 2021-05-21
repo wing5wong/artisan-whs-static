@@ -1,5 +1,5 @@
 ---
-title: MAMMA MIA!!  Last Show Tonight!
+title: MAMMA MIA!!  Final Show Tonight!
 date: 2021-05-22T03:58:30.665Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618534771/Events/Mamma-Mia-poster.jpg
 ---
