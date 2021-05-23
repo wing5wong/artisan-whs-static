@@ -2,7 +2,7 @@
 title: HOUSE QUIZ 2021 - sign ups now open!
 date: 2021-06-03T21:25:21.119Z
 ---
-Sign-ups for our annual House Quiz to be held on 4 June at Jubilee Stadium from 12pm are now open! 
+Sign-ups for our annual House Quiz to be held on Friday 4 June at Jubilee Stadium from 12pm are now open! 
 
 Register your team of 3-5 from people in your house using the bit.ly below; extra points are awarded to teams from the same form class.  Come up with a thematic team name and go wild with house colours! Get in quick as each house can only put forward 25 teams, may the best house win! 
 
