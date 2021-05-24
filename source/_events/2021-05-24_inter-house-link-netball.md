@@ -10,4 +10,7 @@ Be changed into your house colours ready to go.
 
 Check the Te Mana Gym Notice board for the draw and rules.  
 
+*Miss Morgan  
+Sports Assistant*
+
  	
