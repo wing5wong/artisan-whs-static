@@ -2,19 +2,17 @@
 title: Pasifika
 date: 2019-08-27T03:56:38.924Z
 people:
-  - name: Ms R. Armstrong
-    role: Teacher in Charge
+  - role: Teacher in Charge
+    name: Mr B. Holt
 extracurricular_area: Performing Arts
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569273377/Performing%20Arts/Pasifika_800x533.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569273377/Performing%20Arts/Pasifika_800x533.jpg
 blocks:
   - heading: Pasifika Fusion video of 2018 Whanganui High School Performance
     type: videoFB
-    url: >-
-      https://www.facebook.com/NiuFM/videos/10156470407716591/UzpfSTEwNDEzNjM4NjI5NzkzODoxOTk2Nzg1NDczNjk5Njc3/
+    url: https://www.facebook.com/NiuFM/videos/10156470407716591/UzpfSTEwNDEzNjM4NjI5NzkzODoxOTk2Nzg1NDczNjk5Njc3/
   - heading: Pasifika Fusion video of 2017 Whanganui High School Performance
     type: video
-    url: 'https://www.youtube.com/watch?v=zrT9FNtwZpg&feature=share'
+    url: https://www.youtube.com/watch?v=zrT9FNtwZpg&feature=share
 ---
 Fanau Pasifika contributes a lively presence to the culture of our school.
 
