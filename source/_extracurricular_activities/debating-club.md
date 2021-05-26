@@ -10,9 +10,10 @@ people:
     role: Teacher in Charge
   - name: Mr J. Berkhout
     role: Teacher in Charge
+  - role: Teacher in Charge
+    name: Mrs B. Rudolph
 extracurricular_area: Other
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569190546/Performing%20Arts/Debating.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569190546/Performing%20Arts/Debating.jpg
 ---
 Senior debating teams. Debating enables students to learn the art of persuasion, research skills and public speaking skills. Our school teams prepare to compete in local, regional, and national tournaments. 
 
