@@ -10,15 +10,12 @@ people:
     role: Teacher in Charge - Gold
   - name: Ms R. Kennedy
     role: Teacher in Charge - Silver
-  - name: Mrs J. Dunn
-    role: Teacher in Charge - Bronze
+  - role: Teacher in Charge
+    name: Mrs R. Hardy
 extracurricular_area: Other
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569191787/Performing%20Arts/Duke_of_Ed.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569191787/Performing%20Arts/Duke_of_Ed.jpg
 ---
 Whanganui High School provides the opportunity for students to gain the Duke of Edinburgh Hillary Award at Bronze, Silver and Gold levels. Students work on four sections at each level; Skills, Service, Physical Recreation and an Adventurous Project. The first three sections are completed by students independently out of school time and the Adventurous Project section is organised by staff as a group activity.
-
-
 
 **Who can join:** Students from the ages of 14yrs to 25yrs.
 
@@ -26,7 +23,7 @@ Whanganui High School provides the opportunity for students to gain the Duke of 
 
 **Events:**	                                                                                                                                                         
 
-**_Bronze (14yrs+)_**	
+***Bronze (14yrs+)***	
 
 * Skills
 * Service
@@ -34,7 +31,7 @@ Whanganui High School provides the opportunity for students to gain the Duke of 
 * 2 sections for 3 months and 1 section for 6 months
 * Adventurous Project 2 days/1 night
 
-_**Silver (15yrs+)**_
+***Silver (15yrs+)***
 
 * Skills
 * Service
@@ -42,7 +39,7 @@ _**Silver (15yrs+)**_
 * All 3 sections 6 months each if Bronze is completed.
 * Adventurous Project 3 days/2 nights
 
-_**Gold (16yrs+)**_
+***Gold (16yrs+)***
 
 * Skills
 * Service
@@ -51,4 +48,4 @@ _**Gold (16yrs+)**_
 * Adventurous Project 4 days 3 nights
 * Residential Course 5 days/4 nights
 
-**Cost:** Students will need to cover trip costs.
+**Cost:** Students will need to cover registration and trip costs.
