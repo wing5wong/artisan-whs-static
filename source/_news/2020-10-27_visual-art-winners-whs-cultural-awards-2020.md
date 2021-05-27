@@ -58,6 +58,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/23.122501771_979211579243054_3243644244545267616_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833270/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/26.122056090_979211619243050_4987625470081804387_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603833266/News/Visual%20Arts%20Dept%20winners%20at%20Cultural%20Awards%202020/122150533_979211392576406_6919685923945367691_o.jpg
+subject_areas:
+  - Visual Art
 show_in_slider: true
 date: 2020-10-27T20:52:30.389Z
 ---
