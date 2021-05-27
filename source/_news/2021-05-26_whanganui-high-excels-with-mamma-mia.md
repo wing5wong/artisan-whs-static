@@ -10,7 +10,7 @@ news_author:
 show_in_slider: true
 date: 2021-05-26T03:51:17.757Z
 ---
-Mamma Mia!  
+**Mamma Mia!**  
 A Whanganui High School production  
 Royal Whanganui Opera House  
 May 19-22, 2021  
