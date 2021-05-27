@@ -12,6 +12,8 @@ news_author:
   date: 2021-04-23T04:17:40.080Z
   publication: Whanganui Chronicle
   name: Staff Reporter
+extracurricular_areas:
+  - Sport
 show_in_slider: false
 date: 2021-04-27T04:17:40.262Z
 ---
