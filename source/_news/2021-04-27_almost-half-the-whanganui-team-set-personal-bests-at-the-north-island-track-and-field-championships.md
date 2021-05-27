@@ -7,6 +7,10 @@ news_author:
   date: 2021-04-22T04:53:26.082Z
   publication: Whanganui Chronicle
   name: Alex McNab, Athletics Insight
+extracurricular_areas:
+  - Sport
+extracurricular_activities:
+  - Athletics
 show_in_slider: false
 date: 2021-04-27T04:53:26.320Z
 ---
