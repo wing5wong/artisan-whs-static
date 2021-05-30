@@ -6,8 +6,11 @@ news_author:
   date: 2021-05-30T21:45:13.444Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1622414835/News/2.NZ_Chef_s_Regional_Competition_2021.jpg
+    description: Keylah Bouzaid-Hoggarth - Gold Medal & Class Winner
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1622414850/News/3.NZ_Chef_s_Regional_Competition_2021_1.jpg
+    description: Joshua Christall - Gold Medal & Class Winner
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1622414863/News/4.NZ_Chef_s_Regional_Competition_2021_2.jpg
+    description: Jaydene  Bullock - Silver Medal
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1622414877/News/1.NZ_Chef_s_Regional_Competition_2021_4.jpg
 show_in_slider: true
 date: 2021-05-30T22:40:12.375Z
