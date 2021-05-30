@@ -19,7 +19,7 @@ Three excited students and I left Whanganui at 5am on Sunday morning heading to 
 
 Two took part in ‘Hot Kitchen’ which was in front of a live audience. Kaylah cooked pumpkin soup and Jaydene cooked her broccoli dish for NSSCC (National Secondary School Culinary Challenge).
 
-All three students excelled in ‘Setting out Statics’;  
+All three students took part in ‘Setting out Statics’;  
 Kaylah - Creative Cupcake  
 Joshua and Jaydene - Fonterra Cheesecake classes 
 
