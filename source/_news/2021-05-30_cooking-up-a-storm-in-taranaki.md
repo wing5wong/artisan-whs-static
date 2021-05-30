@@ -25,15 +25,15 @@ Joshua and Jaydene - Fonterra Cheesecake classes
 
 Results:
 * Keylah Bouzaid-Hoggarth  
-Gold & Class Winner - Creative Cupcake “Serengeti High Life”  
-Gold & Class Winner – “Natural Fare Soup”
+Gold Medal & Class Winner - Creative Cupcake “Serengeti High Life”  
+Gold Medal & Class Winner – “Natural Fare Soup”
 
 * Joshua Christall  
-Gold & Class Winner - Cheesecake “Go Mango Go”
+Gold Medal & Class Winner - Cheesecake “Go Mango Go”
 
 * Jaydene  Bullock  
-Silver - Cheesecake “Hearty Blueberry Cheesecake”  
-Silver - NSSCC “Broccoli Daze”
+Silver Medal - Cheesecake “Hearty Blueberry Cheesecake”  
+Silver Medal - NSSCC “Broccoli Daze”
 
 It was a very successful day and the class winners received a $100 voucher as well as a Gold Medal.
 
