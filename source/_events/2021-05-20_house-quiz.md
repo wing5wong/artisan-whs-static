@@ -9,5 +9,5 @@ Register your team of 3-5 from people in your house using [bit.ly/whshousequiz20
 
 There are many prizes to be won, get dressed up in house colours at break and get involved!
 
-Students are to get dressed in house colours at break time before heading over to the London Street Crossing across to Jubilee Stadium. Students partaking will be exempt from Period 3 and Period 4 for that day.  
+Students are to get dressed on the day in house colours at break time before heading over to the London Street Crossing across to Jubilee Stadium. Students partaking will be exempt from Period 3 and Period 4 for that day.  
 
