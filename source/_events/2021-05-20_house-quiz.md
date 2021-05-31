@@ -9,6 +9,7 @@ Register your team of 3-5 from people in your house using the bit.ly below; extr
 
 There are many prizes to be won, get dressed up in house colours at break and get involved!
 
+[bit.ly/whshousequiz2021](https://docs.google.com/forms/d/e/1FAIpQLSfCVuDX50U_K2zj2MOkoYVioK2deyw8L8-hybePeQqJ7CCmSw/viewform)
+
 Students are to get dressed in house colours at break time before heading over to the London Street Crossing across to Jubilee Stadium. Students partaking will be exempt from Period 3 and Period 4 for that day.  
 
-[bit.ly/whshousequiz2021](https://docs.google.com/forms/d/e/1FAIpQLSfCVuDX50U_K2zj2MOkoYVioK2deyw8L8-hybePeQqJ7CCmSw/viewform)
