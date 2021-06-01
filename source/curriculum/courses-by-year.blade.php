@@ -1,6 +1,6 @@
 @extends('_layouts.standard')
 
-@section('title', "Courses Options")
+@section('title', "Courses Selections")
 
 @section('content')
 <h1 class="decorated py-3 mb-4">Courses Options</h1>

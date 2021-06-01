@@ -98,7 +98,7 @@ return [
                 'url' => '/curriculum/curriculum-structure'
             ],
             [
-                'title' => 'Course Options',
+                'title' => 'Course Selections',
                 'url' => '/curriculum/course-options'
             ],
             [
