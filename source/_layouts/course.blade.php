@@ -14,7 +14,7 @@ $faculty = $faculties->firstWhere('title',$subject->faculty);
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item">
-                <a href="/curriculum/course-options/">Course Options</a>
+                <a href="/curriculum/course-options/">Course Selections</a>
             </li>
             <li class="breadcrumb-item">
                 <a href="{{$faculty->getPath()}}">{{$faculty->title}}</a>
