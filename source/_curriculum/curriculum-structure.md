@@ -6,7 +6,7 @@ intro: An overview of how Whanganui High School's curriculum is structured.
   pathways, course specialisation, curriculum levels, NCEA Scholarship,
   University Entrance Approval Courses, and Vocational Subjects.
 ---
-[Course Options](/curriculum/course-options/) 
+[Course Selections](/curriculum/course-options/) 
 
 ## Course Structure
 
