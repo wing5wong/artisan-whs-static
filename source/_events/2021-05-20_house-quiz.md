@@ -1,5 +1,5 @@
 ---
-title: HOUSE QUIZ 2021 - sign ups now open!
+title: "HOUSE QUIZ 2021 "
 date: 2021-06-03T21:25:21.119Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1621997665/Events/House_Quiz_Poster_-_Photo_File.jpg
 ---
