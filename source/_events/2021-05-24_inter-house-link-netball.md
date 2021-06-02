@@ -1,12 +1,10 @@
 ---
 title: Inter House Link Netball
-date: 2021-06-02T04:44:15.314Z
+date: 2021-06-03T00:40:44.703Z
 ---
 This term we are playing inter-house link netball.  
 
-Please get a hold of your house prefects if you are interested in playing.  
-The second game will be on Wednesday 2 June at 1st break in the Te Wehi Gym.  
-Be changed into your house colours ready to go.
+Moana and Whenua will be playing on Thursday at 1st break in the Te Wehi Gym for this weeks inter-house link netball game. Can all players be changed into your house colours ready to go.
 
 Check the Te Mana Gym Notice board for the draw and rules.  
 
