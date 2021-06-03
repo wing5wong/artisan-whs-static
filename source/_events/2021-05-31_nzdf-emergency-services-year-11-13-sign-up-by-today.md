@@ -6,3 +6,5 @@ The New Zealand Defence Force (NZDF) and Emergency services (Police / Fire / Amb
 
 If you are year 11, 12 or 13 and seriously considering a career in this area, please sign up at: [bit.ly/whsnzdfday2021](https://docs.google.com/forms/d/e/1FAIpQLSfqm8s8nwS7q06XgXTr4UDnB1XTZOP2kKe8RBMY7MhKll_x-w/viewform) (or this link - https://forms.gle/tS1j4pmL54Lou7Ua7) or write your name on the list in the Student Centre.  
 
+*Mr Keene  
+Careers Advisor*
