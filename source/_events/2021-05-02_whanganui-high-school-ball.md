@@ -2,7 +2,13 @@
 title: Whanganui High School BALL
 date: 2021-07-09T22:04:37.876Z
 ---
-Whanganui High School Ball is on Saturday 10 July.  
+Whanganui High School Ball is on Saturday 10 July. 
 
-The Ball is a formal event for Year 13 students and their partners. Partners may be Year 12 or Year 13 students from any Secondary School in New Zealand. If the partner is in Year 11, special permission has to be got from Mrs Spooner. There is a provision for 'outside' partners - who do not attend school. In this case, a formal letter addressed to Mrs Spooner requesting permission, has to be provided along with photographic evidence of the partners identity (eg a drivers' licence or passport). Those applying in this case, will be interviewed by Mr McAllen and Mrs Spooner.
+Tickets will be on sale at the front of the Student Centre at 1st break on 8-9 June, 14-15 June and 21-22 June. Tickets are $85.00 per person and can be paid in cash or at the Bursar's Office (bring receipt). If you have a partner in Year 12 or out of school please bring money for them. If you are waiting for partner approval please wait until then to purchase your ticket.
+
+Any questions please contact us through VIA instagram @whs.socialprefects2021 
+
+
+
+
 
