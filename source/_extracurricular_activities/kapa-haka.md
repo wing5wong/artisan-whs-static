@@ -1,19 +1,14 @@
 ---
 title: Kapa Haka
 date: 2019-08-27T03:48:53.773Z
-people:
-  - name: Miss L. Simon
-    role: Teacher in Charge
+people: []
 extracurricular_area: Performing Arts
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569193467/Performing%20Arts/kapahaka.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569193467/Performing%20Arts/kapahaka.jpg
 ---
-Kapa haka plays a vital role in the culture of our school. Our roopu Kia Whaiora has performed creditably in both local and regional events and holds pride of place during the School's formal occasions with Waiata, Karakia and Pōwhiri.      
+Kapa haka plays a vital role in the culture of our school and holds pride of place during the School's formal occasions with Waiata, Karakia and Pōwhiri. Kia Whaiora Kapa Haka rōpu, take part in the annual Aotea Regional Pae Rangatahi Competitions, with the goal of eventually heading to the National secondary school competition held every other year. Ko te tumanako ka tutuki tenei whainga. Karawhiua mai Kia Whaiora e!    
 
-> _Kua tu te ropu kapahaka o Kia Whaiora i roto nga whakataetae huri noa i te motu, te rohe hoki, a ka tu rangatira i roto i nga kaupapa nui o te kura._
-
-__
+**Teacher-in-charge:** Brooke Whanarere and Te Rangiotu Pewhairangi
 
 [Click here to view video of Kia Whaiora's performance at 2016 Performing Arts Concert](https://www.youtube.com/watch?v=9hkl_kPJFJw)
 
-_Image from: Rivercity Press 11/07/19_
+*Image from: Rivercity Press 11/07/19*
