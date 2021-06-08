@@ -7,4 +7,4 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1586786467/Events/
 ---
 Guided school tours will be running from Monday 21st June until Friday 9th July. Take a guided tour of our school site, where you will be taken through our classrooms, as well as our cultural and sporting areas and other points of interest. Book online at the following link to see our school in action: [https://forms.gle/iRUmUnVVhPbgfauG6](https://forms.gle/iRUmUnVVhPbgfauG6?fbclid=IwAR0iojXCYQ_N63BJRpohYdlCq0ATUQFteO5jGwlMwpGoxXsdXqwS7-Cfzmo)
 
-2022 enrolment application packs will be given to contributing schools from Tuesday, 8 June, with applications ideally due back to the school by Friday 9th July.
+2022 enrolment application packs will be given to contributing schools from Tuesday, 8 June, with applications ideally due back to the school by Friday 9th July. If you have any enrolment enquiries please call our school office on 06 349 0178.
