@@ -1,4 +1,4 @@
-<div class="site-banner site-banner-home w-100 position-relative 
+<div class="site-banner site-banner-home2 w-100 position-relative 
 text-center 
 d-flex flex-column 
 justify-content-between align-items-between">
@@ -8,3 +8,12 @@ justify-content-between align-items-between">
     </picture>
 
   </div>
+  
+  <style>
+  
+  .site-banner-home2 {
+    background-image: linear-gradient(
+45deg
+,transparent 50%,transparent 85%),url(https://res.cloudinary.com/whanganuihigh/image/upload/e_auto_brightness/e_auto_color/e_auto_contrast/e_auto_saturation/g_auto,c_lfill,q_80,w_1920,h_650/v1623119597/life-header.png);
+}
+  </style>
