@@ -6,9 +6,9 @@ feature_image:
 news_author:
   date: 2021-06-07T01:50:23.246Z
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1623203631/News/IMG_1321.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1623203725/News/1._First_Place_-_Team.jpg
     description: First Place Team, Moana
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1623203631/News/IMG_1321.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1623203677/News/Team_Photo.jpg
 show_in_slider: true
 date: 2021-06-09T01:50:23.295Z
