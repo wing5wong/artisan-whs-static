@@ -2,6 +2,6 @@
 title: Tours of Whanganui High School, 21 June - 9 July
 date: 2021-06-21T04:09:51.918Z
 ---
-From 21 June to 9 July, we will be holding one morning tour and one afternoon tour during normal class lessons on most days of the week for students and family members looking to be a part of our school from 2022 onwards. A link to book tour sessions will be available online soon.
+Guided school tours will be running from Monday 21 June until Friday 9 July. Take a guided tour of our school site, where you will be taken through our classrooms, as well as our cultural and sporting areas and other points of interest. Book online at the following link to see our school in action: [https://forms.gle/iRUmUnVVhPbgfauG6](https://docs.google.com/forms/d/e/1FAIpQLScFpUVbe9Peo3ZtfdGxIAhsSpmBXgZVPmb0NEF7kFjuLl1EBA/viewform)
 
-Prior to this we will take enrolment information and information about the tour dates out to contributing schools from Tuesday, 8 June.
+2022 enrolment application packs will be given to contributing schools from Tuesday, 8 June, with applications ideally due back to the school by Friday 9th July. If you have any enrolment enquiries please call our school office on 06 349 0178.
