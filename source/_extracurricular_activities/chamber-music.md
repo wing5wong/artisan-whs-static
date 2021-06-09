@@ -5,9 +5,8 @@ people:
   - name: Mrs J. Jones
     role: Teacher in Charge
 extracurricular_area: Performing Arts
-cost: ''
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569186122/Performing%20Arts/Chamber_Music.jpg
+cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1623277855/Performing%20Arts/Chamber_Music_Montage_2.jpg
 ---
 The purpose of the Chamber Music Contest is to encourage young musicians regardless of standard or experience, to perform together and strive towards excellence. It also aims to provide an opportunity for musical activities within schools to have a link with the wider community at both a local and national level. The New Zealand Community Trust Chamber Music Contest is the longest running youth music competition in New Zealand and is the only nationwide chamber music competition for young secondary school musicians and composers in the country.
 
