@@ -12,7 +12,7 @@ The purpose of the Chamber Music Contest is to encourage young musicians regardl
 
 **Who can join:** The annual Chamber Music Contest provides an opportunity for students of all levels and ages to form a group and enter the contest.
 
-**When:** Contest is held in June	
+**When:** Contest is held in 	
 
 **Event:** New Zealand Community Trust Chamber Music Contest
 
