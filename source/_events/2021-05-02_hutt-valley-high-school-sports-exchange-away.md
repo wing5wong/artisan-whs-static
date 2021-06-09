@@ -9,7 +9,7 @@ Tuesday 15 June at Whanganui High School
 **Round One: 10:45am**  
 A1 Netball - Springvale Stadium  
 U15 Rugby - WHS Field rugby #1  
-Girls Football - WHS football #1  
+Girls Football - WHS football #1  
 Boys Basketball - Springvale Stadium  
 Girls Hockey - Collegiate Turf  
 Boys Volleyball - Te Wehi Gym  
