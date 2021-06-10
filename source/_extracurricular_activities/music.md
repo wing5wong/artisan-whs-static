@@ -5,8 +5,7 @@ people:
   - name: Mrs J. Jones
     role: Teacher in Charge
 extracurricular_area: Performing Arts
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569199921/Performing%20Arts/Music_Tuition.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569199921/Performing%20Arts/Music_Tuition.jpg
 image_gallery: []
 ---
 Outside of class time there’s plenty of scope for those who wish to learn an instrument. Music tuition is available upon request to students throughout the year. In any given year, some instruments are limited by student numbers and the availability of tutors. There are on-going assessments by tutors. External music exams may be taken by some students.
@@ -25,4 +24,4 @@ Outside of class time there’s plenty of scope for those who wish to learn an i
 
 **When:** Students to come out of normal classes for 20-30 minutes per week.
 
-**Cost:** $60 per year ($15 per term). The school provides information on instrumental hire and purchase early in year.
+**Cost:** The school provides information on instrumental hire and purchase early in year.
