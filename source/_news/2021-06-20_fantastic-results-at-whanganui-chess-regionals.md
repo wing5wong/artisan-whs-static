@@ -9,7 +9,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624229956/News/IMG_1528.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624229992/News/IMG_1544.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624230028/News/IMG_1552.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624230065/News/IMG_1557.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624230100/News/IMG_1558.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624230139/News/IMG_1567.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624230179/News/IMG_1570.jpg
