@@ -2,7 +2,8 @@
 title: Fantastic results at Whanganui Chess Regionals
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624229915/News/1.Main_photo.jpg
-  description: Our winning A team - Zach Paikea, Shawn Lamong, Sam Gray and Connor Rooke.
+  description: Our winning A team, from left - Zach Paikea, Shawn Lamong, Sam Gray
+    and Connor Rooke.
 news_author:
   date: 2021-06-16T22:51:43.914Z
 image_gallery:
