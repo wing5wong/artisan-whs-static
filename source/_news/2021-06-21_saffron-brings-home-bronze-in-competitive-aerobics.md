@@ -1,7 +1,7 @@
 ---
 title: Saffron Brings Home Bronze in Competitive Aerobics
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624240341/News/Saffron_pic_2.jpg
+  image: ""
 news_author:
   date: 2021-06-21T01:51:11.682Z
 extracurricular_areas:
