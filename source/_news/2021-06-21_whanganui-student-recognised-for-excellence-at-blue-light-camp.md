@@ -16,8 +16,6 @@ image_gallery:
 show_in_slider: true
 date: 2021-06-21T01:54:39.945Z
 ---
-*Article from Whanganui Chronicle 12 June 2021 -*
-
 A Whanganui teen walked away with a top award at a recent life skills programme run alongside the police and defence force earlier this month.
 
 **Sixteen-year-old Whanganui High School student Cyprus Hill was awarded the Overall Excellence Award at the Blue Light Life Skills programme held at Taupō between May 31 and June 4.**
