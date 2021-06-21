@@ -1,8 +1,8 @@
 ---
 title: Performance Showcase at the Salsa Congress
 feature_image:
-  image: ""
-  description: Tobias Perkins
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624237335/News/Tobias_and_Sophie_Perkins_screenshot.png
+  description: Tobias Perkins and Sophie Perkins
 news_author:
   date: 2021-06-14T22:23:51.037Z
 extracurricular_areas:
