@@ -1,5 +1,7 @@
 ---
 title: Whanganui student recognised for excellence at Blue Light camp
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624240839/News/Use_this_one.jpg
 news_author:
   date: 2021-06-21T01:54:39.925Z
 show_in_slider: true
@@ -25,7 +27,7 @@ The camps are run up to twelve times annually by Blue Light across a number of l
 
 According to Blue Light, the program works to decrease the risk of youth offending and through access to positive role models, time with other young people and the opportunity to see the world outside their current environment.
 
-![](https://res.cloudinary.com/whanganuihigh/image/upload/v1624240839/News/Use_this_one.jpg)
+
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1624240766/News/R6MEDJDXNEHLHOEXDC3OCGGXLI.jpg "Supplied/Whanganui Chronicle")
 
