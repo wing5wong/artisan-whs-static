@@ -1,5 +1,5 @@
 ---
-title: SHAKUHACHI CLUB (JAPANESE FLUTES)
+title: Shakuhachi Club (Japanese Flutes)
 date: 2021-06-10T23:38:08.691Z
 people:
   - role: Teacher in Charge
