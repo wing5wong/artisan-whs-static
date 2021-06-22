@@ -18,7 +18,7 @@ Talofa lava, Malo ilelei, Bula Vinaka. Fanau Pasifika contributes a lively prese
 
 **Who join:** All students.
 
-**When:** Friday - Period 5 2.30pm – 5.30pm
+**When:** Friday - Period 5 (2.30pm – 5.30pm)
 
 **Event:** Pasifika Fusion
 
