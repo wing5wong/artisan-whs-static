@@ -4,11 +4,11 @@ name: Digital Technologies General
 code: DTG0
 subject_area: Digital Technologies
 date: 2019-07-03T03:02:19.335Z
-year: '10'
-type: Core
+year: "10"
+type: Compulsory
 course_duration: Half Year
 course_level: Year 10
-leads_to: ''
+leads_to: ""
 ---
 **Purpose:**
 
