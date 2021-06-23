@@ -3,7 +3,7 @@ title: Whanganui High School BALL
 date: 2021-07-09T22:04:37.876Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624409736/Events/BALL-POSTER-FINISHED-copy.jpg
 ---
-*(Designed by Jenna Ruggiero and Memphyz Potaka)*
+*(Poster designed by Jenna Ruggiero and Memphyz Potaka)*
 
 Whanganui High School Ball is on Saturday 10 July. 
 
