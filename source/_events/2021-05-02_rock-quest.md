@@ -7,7 +7,9 @@ THIS SATURDAY, 7pm at The Royal Wanganui Opera House.
 
 Come and support, the 10 band entries from WHS. 
 
-School student tickets $10 - door sales. 
+**Tickets** - door sales:  
+School students $10   
+Adults $20 
 
 Be there and make some noise!!
   
