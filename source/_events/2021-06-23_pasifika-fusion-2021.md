@@ -1,6 +1,7 @@
 ---
 title: Pasifika Fusion 2021 - Wednesday & Thursday
 date: 2021-06-30T03:41:00.535Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624420272/Events/Pasifika_Fusion_2021.jpg
 ---
 Secondary Schools Pacific Festival  
 Pasifika Fusion 2021  
