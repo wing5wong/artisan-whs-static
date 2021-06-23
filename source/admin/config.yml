@@ -64,10 +64,10 @@ collections:
         - { label: "Image Filename", name: "image", widget: "image" }
         - { label: "Image Description", name: "description", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "hidden", required: false }
-      - { label: "Related Departments", name: faculties, required: false, multiple: true, widget: "relation", collection: "faculties",  searchFields: ["title"], valueField: "title", displayFields: ["title"] }
-      - { label: "Related Subjects", name: subject_areas, required: false, multiple: true, widget: "relation", collection: "subject_areas",  searchFields: ["title"], valueField: "title", displayFields: ["title"] }
-      - { label: "Related Extracurricular Areas", name: extracurricular_areas, required: false, multiple: true, widget: "relation", collection: "extracurricular_areas",  searchFields: ["title"], valueField: "title", displayFields: ["title"] }
-      - { label: "Related Extracurricular Activities", name: extracurricular_activities, required: false, multiple: true, widget: "relation", collection: "extracurricular_activities",  searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Related Departments", name: faculties, required: false, multiple: true, widget: "relation", collection: "faculties",  search_fields: ["title"], value_field: "title", display_fields: ["title"] }
+      - { label: "Related Subjects", name: subject_areas, required: false, multiple: true, widget: "relation", collection: "subject_areas",  search_fields: ["title"], value_field: "title", display_fields: ["title"] }
+      - { label: "Related Extracurricular Areas", name: extracurricular_areas, required: false, multiple: true, widget: "relation", collection: "extracurricular_areas",  search_fields: ["title"], value_field: "title", display_fields: ["title"] }
+      - { label: "Related Extracurricular Activities", name: extracurricular_activities, required: false, multiple: true, widget: "relation", collection: "extracurricular_activities",  search_fields: ["title"], value_field: "title", display_fields: ["title"] }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Show in News Sliders", name: "show_in_slider", widget: "boolean", default: true, required: false }
       - { label: "Date", name: "date", widget: "datetime" }
@@ -192,7 +192,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Faculty", name: faculty, required: false, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Faculty", name: faculty, required: false, widget: "relation", collection: "faculties", search_fields: ["title"], value_field: "title", display_fields: ["title"] }
       - label: "Image Gallery"
         name: "image_gallery"
         widget: "list"
@@ -223,7 +223,7 @@ collections:
         - { label: "Image Filename", name: "image", widget: "image" }
         - { label: "Image Description", name: "description", widget: "string" }
       - { label: "Faculties", name: faculties,   required: false, multiple: true, widget: "relation", collection: "faculties",
-          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+          search_fields: ["title"], value_field: "title", display_fields: ["title"] }
 
 
   - name: "for_parents"
@@ -287,9 +287,9 @@ collections:
       - { label: "Intro", name: "intro", widget: "text", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Heads of Faculty", name: hofs, required: false, multiple: true, widget: "relation", collection: "staff",
-          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+          search_fields: ["title"], value_field: "title", display_fields: ["title"] }
       - { label: "Assistant Heads of Faculty", name: ahofs, required: false, multiple: true, widget: "relation", collection: "staff",
-          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+          search_fields: ["title"], value_field: "title", display_fields: ["title"] }
       - { label: "Vocational Pathways", name: "vocational_pathways", widget: "select", required: false, multiple: true, 
           options: [       
             { label: "Service Industries", value: "service" },
@@ -301,7 +301,7 @@ collections:
           ]
         }
       - { label: "Related Facilities", name: facilities, required: false, multiple: true, widget: "relation", collection: "facilities",
-          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+          search_fields: ["title"], value_field: "title", display_fields: ["title"] }
 
 
   - name: "subject_areas"
@@ -391,7 +391,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Feature Image", name: "image", widget: "image", required: false }
       - { label: "Person in Charge", required: false, name: "person_in_charge", widget: "relation", collection: "staff",
-          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+          search_fields: ["title"], value_field: "title", display_fields: ["title"] }
 
 
   - name: "extracurricular_activities"
@@ -405,14 +405,14 @@ collections:
       - { label: "People", name: "people", widget: "list",
           fields: [
             { name: "name", widget: "relation", collection: "staff",
-              searchFields: ["title"], valueField: "title", displayFields: ["title"] },
+              search_fields: ["title"], value_field: "title", display_fields: ["title"] },
             { name: "role", widget: string, default: "Teacher in Charge", hint: "The users role for this activity. e.g. Teacher in Charge, Coach - NOT: HEAD OF FACULTY" }
           ]
         }
       - { label: "Terms", name: "terms", widget: "select", options: ["Term 1", "Term 2", "Term 3", "Term 4"], required: false, multiple: true}
       - { label: "Uniform", name: "uniform", required: false, widget: "markdown" }
       - { label: "Extra Curricular Area", name: "extracurricular_area", widget: "relation", collection: "extracurricular_areas",
-          searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+          search_fields: ["title"], value_field: "title", display_fields: ["title"] }
       - { label: "Category", name: "category", widget: "string", required: false, hint: "an additional grouping that the activity may be grouped under. e.g. 'School Sports', 'Local Clubs', 'Dance' etc" }
       - { label: "Cost", name: "cost", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
@@ -606,13 +606,13 @@ collections:
       - { label: "Title", name: "title", widget: "string", hint: "Mr Joe Bloggs" }
       - { label: "Position", name: "position", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
-      - { label: "Departments", multiple: true, name: departments, widget: "relation", collection: "faculties", searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+      - { label: "Departments", multiple: true, name: departments, widget: "relation", collection: "faculties", search_fields: ["title"], value_field: "title", display_fields: ["title"] }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "Positions", name: "positions", widget: "list", required: false, multiple: true,
           fields: [
             { name: "title", label: "Title", widget: "string" },
             { label: "Department", name: department, widget: "relation", collection: "faculties",
-              searchFields: ["title"], valueField: "title", displayFields: ["title"] }
+              search_fields: ["title"], value_field: "title", display_fields: ["title"] }
           ]
         }
       - { label: "Phone", name: "phone", widget: "string", required: false }
