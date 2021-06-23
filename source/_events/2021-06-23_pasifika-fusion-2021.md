@@ -1,5 +1,5 @@
 ---
-title: Pasifika Fusion 2021
+title: Pasifika Fusion 2021 - Wednesday & Thursday
 date: 2021-06-30T03:41:00.535Z
 ---
 Secondary Schools Pacific Festival  
