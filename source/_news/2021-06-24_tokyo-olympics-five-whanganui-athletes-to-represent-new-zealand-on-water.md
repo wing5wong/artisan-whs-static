@@ -6,6 +6,7 @@ feature_image:
 news_author:
   date: 2021-06-18T22:36:23.510Z
   publication: Whanganui Chronicle
+  name: Iain Hyndman and Grader Howells
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624574476/News/Kerri_Gowler_Grace_Prendergast._chron_19.6.21.jpg
     description: Whanganui rower Kerri Gowler (right) and her women's coxless pairs
