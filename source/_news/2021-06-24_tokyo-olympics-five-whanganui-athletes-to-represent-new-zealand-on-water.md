@@ -12,7 +12,7 @@ image_gallery:
     description: Whanganui rower Kerri Gowler (right) and her women's coxless pairs
       partner Grace Prendergast are perhaps the glamour pair of the New Zealand
       Olympic team. Photo / Getty Images.
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624574949/News/paper_article_page.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624575045/News/paper-article-pagebigger.jpg
 show_in_slider: true
 date: 2021-06-24T22:36:23.563Z
 ---
