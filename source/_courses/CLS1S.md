@@ -6,7 +6,7 @@ subject_area: Classical Studies
 date: 2019-07-29T03:15:48.139Z
 entry_requirements: This is a high literacy course. Students should enjoy reading and writing.
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

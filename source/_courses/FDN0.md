@@ -5,7 +5,7 @@ code: FDN0
 subject_area: Food and Nutrition
 date: 2019-08-01T00:13:56.887Z
 year: '10'
-type: Optional
+type: "Subject Choice"
 course_duration: Half Year
 course_level: Year 10
 leads_to: ''

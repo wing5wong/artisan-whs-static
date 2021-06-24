@@ -5,7 +5,7 @@ code: TECE
 subject_area: Technology Materials
 date: 2019-08-01T03:40:44.223Z
 year: '9'
-type: Optional
+type: "Subject Choice"
 course_duration: One Term
 course_level: Year 9
 leads_to: ''

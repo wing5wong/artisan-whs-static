@@ -6,7 +6,7 @@ subject_area: Spanish
 date: 2019-07-01T02:54:36.095Z
 entry_requirements: Full year at Year 10 or HOD approval.
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

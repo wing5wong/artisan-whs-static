@@ -8,7 +8,7 @@ entry_requirements: >-
   At least 15 credits at HLT2. Will consider students who have not done HLT2
   with 12 credits from ENG2. HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

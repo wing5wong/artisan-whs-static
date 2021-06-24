@@ -5,7 +5,7 @@ code: MUSE
 subject_area: Music
 date: 2019-07-01T02:11:32.587Z
 year: '9'
-type: Optional
+type: "Subject Choice"
 course_duration: One Term
 course_level: Year 9
 leads_to:

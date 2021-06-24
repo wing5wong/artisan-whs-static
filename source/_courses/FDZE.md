@@ -5,7 +5,7 @@ code: FDZE
 subject_area: Fashion Design
 date: 2019-08-01T03:42:07.704Z
 year: '9'
-type: Optional
+type: "Subject Choice"
 course_duration: One Term
 course_level: Year 9
 leads_to:

@@ -6,7 +6,7 @@ subject_area: Science (Introductory)
 date: 2019-07-26T02:41:29.978Z
 entry_requirements: 14 Level 1 Science credits.
 year: "12"
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

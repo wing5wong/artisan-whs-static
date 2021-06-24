@@ -6,7 +6,7 @@ subject_area: Sport & Exercise
 date: 2019-07-25T03:01:22.904Z
 entry_requirements: Success in SPX2 or PED2 is desirable but not essential and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard

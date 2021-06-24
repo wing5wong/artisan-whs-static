@@ -6,7 +6,7 @@ subject_area: Chinese
 date: 2019-06-28T04:10:36.139Z
 entry_requirements: 12 Credits in CHN1 or HOD approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

@@ -6,7 +6,7 @@ subject_area: Outdoor Education
 date: 2019-07-25T02:15:14.563Z
 entry_requirements: HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

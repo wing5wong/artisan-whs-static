@@ -5,7 +5,7 @@ code: DAN0
 subject_area: Dance
 date: 2019-06-28T04:22:00.418Z
 year: '10'
-type: Optional
+type: "Subject Choice"
 course_duration: Half Year
 course_level: Year 10
 leads_to:

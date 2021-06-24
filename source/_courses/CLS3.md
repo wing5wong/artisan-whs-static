@@ -8,7 +8,7 @@ entry_requirements: >-
   12 credits in at least one of the following: CLS2 or ENG2 or HIS2 and HOF/TIC
   approval. At least 4 credits must be from external examinations.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard.

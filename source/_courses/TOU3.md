@@ -5,7 +5,7 @@ code: TOU3
 subject_area: Tourism
 date: 2019-08-01T03:43:52.562Z
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

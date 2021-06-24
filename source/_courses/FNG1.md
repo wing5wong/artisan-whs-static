@@ -5,7 +5,7 @@ code: FNG1
 subject_area: Food and Nutrition
 date: 2019-08-01T00:16:31.706Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

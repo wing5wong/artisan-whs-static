@@ -9,7 +9,7 @@ entry_requirements: >-
   function. ART1 a useful background. The number of students able to study this
   course is limited.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

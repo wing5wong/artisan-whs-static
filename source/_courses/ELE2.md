@@ -6,7 +6,7 @@ subject_area: Electronics
 date: 2019-08-01T23:17:58.537Z
 entry_requirements: 12 credits from SCG1 or SCE1 and HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

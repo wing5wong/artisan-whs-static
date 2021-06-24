@@ -8,7 +8,7 @@ entry_requirements: >-
   14 credits (including  AS90940 and AS90944 from SCG1 or SCE1, AS91027
   MAG1/MAE1 strongly recommended and HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

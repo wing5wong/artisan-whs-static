@@ -6,7 +6,7 @@ subject_area: Building & Construction
 date: 2019-08-02T04:03:01.272Z
 entry_requirements: BAC2 or HOF approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

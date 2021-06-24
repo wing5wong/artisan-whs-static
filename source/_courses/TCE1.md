@@ -5,7 +5,7 @@ code: TCE1
 subject_area: Technology Engineering
 date: 2019-08-01T03:17:54.015Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard

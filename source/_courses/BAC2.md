@@ -8,7 +8,7 @@ entry_requirements: >-
   BAC1 and intend studying an English Course at Level 2 and HOF/TIC approval.
   Recommend that students also study TEC2 or DVC2.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

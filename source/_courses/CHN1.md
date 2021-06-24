@@ -6,7 +6,7 @@ subject_area: Chinese
 date: 2019-06-28T04:09:58.458Z
 entry_requirements: Full year at Year 10 or HOD approval.
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

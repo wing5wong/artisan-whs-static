@@ -5,7 +5,7 @@ code: TCM0
 subject_area: Technology Materials
 date: 2019-08-01T03:34:59.377Z
 year: '10'
-type: Optional
+type: "Subject Choice"
 course_duration: Half Year
 course_level: Year 10
 leads_to: ''

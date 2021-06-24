@@ -7,7 +7,7 @@ subject_area: Vocational Studies (Employment Skills)
 date: 2019-08-04T23:05:22.984Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

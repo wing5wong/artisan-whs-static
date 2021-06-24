@@ -6,7 +6,7 @@ subject_area: Mathematics (General)
 date: 2019-07-23T01:37:22.114Z
 entry_requirements: 14 AS credits in MAI1 10 AS credits in MAG1 and HOF/TIC approval required.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

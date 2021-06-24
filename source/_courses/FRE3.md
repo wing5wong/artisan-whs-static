@@ -6,7 +6,7 @@ subject_area: French
 date: 2019-07-01T00:26:17.545Z
 entry_requirements: 12 credits in FRE2 or HOD approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

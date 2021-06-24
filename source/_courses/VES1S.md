@@ -7,7 +7,7 @@ subject_area: Vocational Studies (Employment Skills)
 date: 2019-08-05T01:08:55.062Z
 entry_requirements: Consultation with House deans and Vocational Studies department.
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard

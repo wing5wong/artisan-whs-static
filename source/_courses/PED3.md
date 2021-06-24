@@ -6,7 +6,7 @@ subject_area: P.E/Sports Science
 date: 2019-07-01T02:17:45.711Z
 entry_requirements: 14 credits in PED2 and 12 credits in ENG2/ENE2 and HOF/TIC approval.
 year: "13"
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

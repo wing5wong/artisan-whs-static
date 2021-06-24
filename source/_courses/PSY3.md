@@ -6,7 +6,7 @@ subject_area: Psychology
 date: 2019-07-31T02:30:51.277Z
 entry_requirements: 12 Credits in ENG2 or PSY2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

@@ -5,7 +5,7 @@ code: OAS1
 subject_area: Outdoor Education
 date: 2019-07-25T02:13:10.549Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard

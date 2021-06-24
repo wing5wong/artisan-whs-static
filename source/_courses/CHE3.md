@@ -6,7 +6,7 @@ subject_area: Chemistry
 date: 2019-07-29T04:09:23.080Z
 entry_requirements: 14 credits in CHE2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

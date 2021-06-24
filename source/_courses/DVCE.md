@@ -5,7 +5,7 @@ code: DVCE
 subject_area: Design & Visual Communication
 date: 2019-07-31T23:10:39.640Z
 year: '9'
-type: Optional
+type: "Subject Choice"
 course_duration: One Term
 course_level: Year 9
 leads_to:

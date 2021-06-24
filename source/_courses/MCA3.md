@@ -6,7 +6,7 @@ subject_area: Calculus & Algebra Extension
 date: 2019-07-23T01:54:19.386Z
 entry_requirements: Students need to have taken the MCA2 course in Year 12.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievment Standard and Cambridge as examination

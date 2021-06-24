@@ -5,7 +5,7 @@ code: CHNE
 subject_area: Chinese
 date: 2019-06-28T04:16:03.709Z
 year: '9'
-type: Optional
+type: "Subject Choice"
 course_duration: 5 Week Introduction Plus 20 Week Course If Selected
 course_level: Year 9
 leads_to:

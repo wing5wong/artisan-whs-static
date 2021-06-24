@@ -9,7 +9,7 @@ entry_requirements: EXT2 is a supervised study period where students complete
   students are on "course"one/two days a week may be offered this option to
   ensure they complete work missed.
 year: "12"
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

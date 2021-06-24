@@ -5,7 +5,7 @@ code: DVC0
 subject_area: Design & Visual Communication
 date: 2019-07-31T23:06:56.949Z
 year: '10'
-type: Optional
+type: "Subject Choice"
 course_duration: Half Year
 course_level: Year 10
 leads_to: ''

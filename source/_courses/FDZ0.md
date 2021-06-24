@@ -5,7 +5,7 @@ code: FDZ0
 subject_area: Fashion Design
 date: 2019-08-01T03:44:28.386Z
 year: '10'
-type: Optional
+type: "Subject Choice"
 course_duration: Half Year
 course_level: Year 10
 leads_to:

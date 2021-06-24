@@ -5,7 +5,7 @@ code: HIS1
 subject_area: History
 date: 2019-07-31T00:48:56.543Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

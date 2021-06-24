@@ -6,7 +6,7 @@ subject_area: Pathways Life Skills
 date: 2020-08-04T21:01:17.026Z
 entry_requirements: HOF/TIC approval
 year: "11"
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard

@@ -5,7 +5,7 @@ code: GEO1
 subject_area: Geography
 date: 2019-07-31T00:31:09.959Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

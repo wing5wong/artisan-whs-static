@@ -6,7 +6,7 @@ subject_area: Spanish
 date: 2019-07-01T02:55:53.418Z
 entry_requirements: 12 credits in SPA2 or HOD approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

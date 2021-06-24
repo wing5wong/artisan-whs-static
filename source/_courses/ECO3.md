@@ -8,7 +8,7 @@ entry_requirements: >-
   12 Credits in ECO2 or in both ENG2 or ENE2 and MTA2 or MPS2 including 1
   external standard in each and HOF/TIC approval
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

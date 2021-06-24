@@ -6,7 +6,7 @@ subject_area: Electronics
 date: 2019-08-01T23:20:18.415Z
 entry_requirements: '12 credits from PHY2 or 18239, 18240, 18241 from ELE2 and HOF/TIC approval.'
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard

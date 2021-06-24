@@ -6,7 +6,7 @@ subject_area: Hospitality
 date: 2019-08-01T00:20:23.639Z
 entry_requirements: Have studied FNG1 or FDH1 and HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

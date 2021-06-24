@@ -5,7 +5,7 @@ code: SOC1
 subject_area: Social Studies
 date: 2019-07-29T02:45:31.655Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

@@ -6,7 +6,7 @@ subject_area: Geometry & Calculus
 date: 2019-07-23T01:58:15.171Z
 entry_requirements: Algebra and Calculus School examination and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

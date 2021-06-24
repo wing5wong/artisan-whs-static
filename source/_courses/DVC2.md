@@ -6,7 +6,7 @@ subject_area: Design & Visual Communication
 date: 2019-07-31T23:09:24.716Z
 entry_requirements: 12 Credits in DVC1 and HOF approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

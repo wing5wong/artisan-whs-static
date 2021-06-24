@@ -6,7 +6,7 @@ subject_area: Pathways Digital Literacy
 date: 2019-07-03T04:34:35.368Z
 entry_requirements: Subject to HOF approval.
 year: "11"
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

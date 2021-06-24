@@ -8,7 +8,7 @@ entry_requirements: >-
   Regular involvement in sport at any level, preferably school team. PED1 an
   advantage. HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement and Unit Standard

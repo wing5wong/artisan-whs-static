@@ -8,7 +8,7 @@ entry_requirements: >-
   Class size limited. Entry by HOF/TIC approval and a record of safety and
   responsibility in Years 9 and 10.
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1 and 2
 assessment_type: Unit Standard

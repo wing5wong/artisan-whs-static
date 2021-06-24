@@ -6,7 +6,7 @@ subject_area: International English Language
 date: 2019-07-01T01:05:55.206Z
 entry_requirements: ESOL students who need to develop English skills and HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

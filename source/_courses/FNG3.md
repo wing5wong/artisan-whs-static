@@ -6,7 +6,7 @@ subject_area: Food and Nutrition
 date: 2019-08-01T00:18:20.666Z
 entry_requirements: 12 credits in FNG2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

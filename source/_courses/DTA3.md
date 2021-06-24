@@ -6,7 +6,7 @@ subject_area: Digital Technologies Applied
 date: 2019-07-03T04:36:40.071Z
 entry_requirements: 'Open entry for Year 13 students, subject to HOF approval'
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

@@ -5,7 +5,7 @@ code: ECO1
 subject_area: Economics
 date: 2019-06-30T23:13:05.109Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

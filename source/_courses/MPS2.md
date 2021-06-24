@@ -6,7 +6,7 @@ subject_area: Probability & Statistics
 date: 2019-07-23T02:04:34.559Z
 entry_requirements: Algebra parallel test and multivariate data and HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

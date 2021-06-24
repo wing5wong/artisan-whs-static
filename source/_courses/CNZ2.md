@@ -5,7 +5,7 @@ code: CNZ2
 subject_area: Conservation NZ
 date: 2019-06-28T04:21:18.431Z
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 leads_to: ''

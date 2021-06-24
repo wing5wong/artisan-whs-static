@@ -6,7 +6,7 @@ subject_area: Te Reo Māori
 date: 2019-07-01T01:49:20.808Z
 entry_requirements: 18 Credits in MAO2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

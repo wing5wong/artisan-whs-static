@@ -5,7 +5,7 @@ code: TOU2
 subject_area: Tourism
 date: 2019-07-31T03:42:51.015Z
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

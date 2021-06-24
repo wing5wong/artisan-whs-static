@@ -6,7 +6,7 @@ subject_area: Hospitality
 date: 2019-08-01T00:20:58.692Z
 entry_requirements: 8 credits in FNG2 or 12 credits in FDH2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

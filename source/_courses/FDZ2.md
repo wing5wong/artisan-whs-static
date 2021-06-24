@@ -6,7 +6,7 @@ subject_area: Fashion Design
 date: 2019-08-01T03:48:19.426Z
 entry_requirements: 12 credits in FDZ1 and HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

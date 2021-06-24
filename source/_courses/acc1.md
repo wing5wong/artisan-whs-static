@@ -5,7 +5,7 @@ code: ACC1
 subject_area: Accounting
 date: 2019-07-28T21:01:17.026Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

@@ -5,7 +5,7 @@ code: DRAE
 subject_area: Drama
 date: 2019-06-28T04:33:41.414Z
 year: '9'
-type: Optional
+type: "Subject Choice"
 course_duration: One Term
 course_level: Year 9
 leads_to: ''

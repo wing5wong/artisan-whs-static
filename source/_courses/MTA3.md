@@ -8,7 +8,7 @@ entry_requirements: >-
   Algebra (MTA2) and/or Probability (MPS2) school Examination and HOF/TIC
   approval
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

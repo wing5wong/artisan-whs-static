@@ -8,7 +8,7 @@ entry_requirements: >-
   12 credits of AUT1, and a record of safety and responsibility in the Workshop
   and HOF/TIC approval
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

@@ -5,7 +5,7 @@ code: DRA1
 subject_area: Drama
 date: 2019-06-28T04:29:42.392Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

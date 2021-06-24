@@ -5,7 +5,7 @@ code: DRA0
 subject_area: Drama
 date: 2019-06-28T04:28:39.633Z
 year: '10'
-type: Optional
+type: "Subject Choice"
 course_duration: Half Year
 course_level: Year 10
 leads_to:

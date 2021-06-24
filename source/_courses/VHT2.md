@@ -7,7 +7,7 @@ subject_area: Vocational Studies (Health)
 date: 2019-08-05T00:45:57.274Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

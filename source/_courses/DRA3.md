@@ -5,7 +5,7 @@ code: DRA3
 subject_area: Drama
 date: 2019-06-28T04:31:03.373Z
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

@@ -6,7 +6,7 @@ subject_area: Trigonometry and Algebra
 date: 2019-07-23T02:06:43.308Z
 entry_requirements: Algebra parallel test and T.E.G school Examination and HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

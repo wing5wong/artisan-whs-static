@@ -8,7 +8,7 @@ entry_requirements: >-
   12 Achievement Standard credits from a Level 2 Mathematics course and HOF/TIC
   approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

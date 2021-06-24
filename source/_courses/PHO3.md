@@ -5,7 +5,7 @@ code: PHO3
 subject_area: Photography
 date: 2019-07-01T02:21:34.487Z
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 entry_requirements: >-

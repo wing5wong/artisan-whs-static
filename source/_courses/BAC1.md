@@ -5,7 +5,7 @@ code: BAC1
 subject_area: Building & Construction
 date: 2019-06-28T04:01:48.256Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard

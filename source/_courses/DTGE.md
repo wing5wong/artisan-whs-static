@@ -5,7 +5,7 @@ code: DTGE
 subject_area: Digital Technologies
 date: 2019-07-03T02:58:08.653Z
 year: '9'
-type: Core
+type: Compulsory
 course_duration: Half Year
 course_level: Year 9
 leads_to:

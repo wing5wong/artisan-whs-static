@@ -6,7 +6,7 @@ subject_area: Biology
 date: 2019-06-28T04:04:34.111Z
 entry_requirements: 12 credits in BIO2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

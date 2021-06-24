@@ -5,7 +5,7 @@ code: FDH1
 subject_area: Hospitality
 date: 2019-08-01T00:19:07.644Z
 year: '11'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard

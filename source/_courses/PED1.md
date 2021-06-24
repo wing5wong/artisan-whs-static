@@ -5,7 +5,7 @@ code: PED1
 subject_area: P.E/Sports Science
 date: 2019-07-24T02:16:10.113Z
 year: "11"
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard

@@ -6,7 +6,7 @@ subject_area: Sport Smart
 date: 2019-07-25T02:58:05.758Z
 entry_requirements: 14 credits in SPR2 or PED2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard

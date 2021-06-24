@@ -6,7 +6,7 @@ subject_area: Probability & Statistics
 date: 2019-07-23T02:05:19.422Z
 entry_requirements: Probability Methods school examination from MPS2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

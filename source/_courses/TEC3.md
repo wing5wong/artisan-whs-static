@@ -6,7 +6,7 @@ subject_area: Technology Materials
 date: 2019-08-01T03:40:17.450Z
 entry_requirements: 12 credits in TCE2 or TEC2, or HOF approval.
 year: "13"
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard.

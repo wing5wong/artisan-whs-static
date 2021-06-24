@@ -8,7 +8,7 @@ entry_requirements: >-
   At least 11 credits achieved at HLT1. Will consider students who have not done
   HLT1 with 12 credits from ENG1. HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

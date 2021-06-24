@@ -6,7 +6,7 @@ subject_area: Geography
 date: 2019-07-31T00:32:50.863Z
 entry_requirements: 12 credits in GEO1 or ENG1 or HIS1 or HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

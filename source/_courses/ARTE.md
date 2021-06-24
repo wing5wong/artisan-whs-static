@@ -5,7 +5,7 @@ code: ARTE
 subject_area: Visual Art
 date: 2019-06-28T02:44:15.406Z
 year: '9'
-type: Optional
+type: "Subject Choice"
 course_duration: One Term
 course_level: Year 9
 leads_to:

@@ -8,7 +8,7 @@ entry_requirements: >-
   3 Years previous instrumental tuition and theory and should have completed
   MUS1 or equivalent. Currently learning an instrument. HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

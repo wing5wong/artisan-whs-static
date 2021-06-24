@@ -6,7 +6,7 @@ subject_area: International English
 date: 2019-07-01T01:08:31.731Z
 entry_requirements: 4 University Entrance Literacy credits at Level 2 and HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard

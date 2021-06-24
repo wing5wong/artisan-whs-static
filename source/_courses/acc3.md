@@ -6,7 +6,7 @@ subject_area: Accounting
 date: 2019-07-28T21:02:36.894Z
 entry_requirements: 12 Credits in ACC2 (including 1 external standard) or HOF/TIC approval.
 year: '13'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard

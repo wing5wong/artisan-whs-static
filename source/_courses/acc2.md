@@ -6,7 +6,7 @@ subject_area: Accounting
 date: 2019-07-28T21:02:07.698Z
 entry_requirements: 12 Credits in ACC1 or HOD approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard

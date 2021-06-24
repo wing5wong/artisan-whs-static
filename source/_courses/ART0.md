@@ -5,7 +5,7 @@ code: ART0
 subject_area: Visual Art
 date: 2019-06-28T03:55:53.180Z
 year: '10'
-type: Optional
+type: "Subject Choice"
 course_duration: Half Year
 course_level: Year 10
 leads_to:

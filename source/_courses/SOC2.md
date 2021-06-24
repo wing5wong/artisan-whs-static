@@ -8,7 +8,7 @@ entry_requirements: >-
   12 Credits Level 1 Achievement Standards English or 12 credits Level 1
   Achievement Standards Social Studies and HOF/TIC approval.
 year: '12'
-type: Optional
+type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
