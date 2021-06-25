@@ -22,7 +22,7 @@ Up to 12 courses are held each year in Auckland, Central North Island and Burnha
 For more information about the Blue Light Life Skills camps visit www.bluelight.co.nz. 
 Blue Light is grateful for the support of the sponsorship of the Lion Foundation and community supporters. 
 
-***New Zealand Blue Light***\
+***New Zealand Blue Light***  
 Blue Light is a not-for-profit charity that works in partnership with the Police to create positive connections between young people and the Police, helping young people find direction, fun, and sense of belonging within their communities, enabling young people to develop life skills, leadership skills and find employment opportunities. 
 
 Blue Light believes that it is through the empowerment of disadvantaged youth to reach their full potential that their overall wellbeing can be improved and, in turn, the wellbeing of their communities. 
