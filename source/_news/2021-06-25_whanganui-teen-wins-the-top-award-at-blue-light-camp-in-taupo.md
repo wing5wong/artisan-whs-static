@@ -1,5 +1,5 @@
 ---
-title: "Whanganui teen wins the top award at Blue Light Camp in Taupo "
+title: "Whanganui teen, Cyprus Hill, wins the top award at Blue Light Camp in Taupo "
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624583955/News/cyprus_hill_rcp_17.6.21.jpg
   description: "L to R: Overall Excellence Award winner, Cyprus Hill, receives her
