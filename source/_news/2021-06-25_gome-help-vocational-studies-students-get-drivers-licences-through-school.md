@@ -8,6 +8,8 @@ feature_image:
 news_author:
   date: 2021-06-17T01:12:01.949Z
   publication: River City Press
+faculties:
+  - Vocational Studies
 show_in_slider: true
 date: 2021-06-25T01:12:01.988Z
 ---
