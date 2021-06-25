@@ -9,6 +9,7 @@ news_author:
   name: Iain Hyndman and Grader Howells
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624575045/News/paper-article-pagebigger.jpg
+    description: (double click to make bigger)
 show_in_slider: true
 date: 2021-06-24T22:36:23.563Z
 ---
