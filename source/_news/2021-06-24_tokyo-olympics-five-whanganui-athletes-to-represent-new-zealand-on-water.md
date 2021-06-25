@@ -8,10 +8,6 @@ news_author:
   publication: Whanganui Chronicle
   name: Iain Hyndman and Grader Howells
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624574476/News/Kerri_Gowler_Grace_Prendergast._chron_19.6.21.jpg
-    description: Whanganui rower Kerri Gowler (right) and her women's coxless pairs
-      partner Grace Prendergast are perhaps the glamour pair of the New Zealand
-      Olympic team. Photo / Getty Images.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624575045/News/paper-article-pagebigger.jpg
 show_in_slider: true
 date: 2021-06-24T22:36:23.563Z
