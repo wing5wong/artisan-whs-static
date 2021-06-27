@@ -3,8 +3,8 @@ title: ENIE
 name: English Introductory/Internal
 code: ENIE
 subject_area: English (Introductory/Internal)
-date: 2019-07-01T00:09:41.477Z
-year: '9'
+date: 2021-06-28T00:09:41.477Z
+year: "9"
 type: Compulsory
 course_duration: Full Year
 course_level: Year 9
