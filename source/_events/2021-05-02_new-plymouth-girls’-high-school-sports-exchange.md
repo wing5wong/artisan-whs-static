@@ -1,6 +1,7 @@
 ---
 title: "New Plymouth Girls’ High School sports exchange (away) "
 date: 2021-06-28T22:02:20.216Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624833609/Events/NPGHS-vs-WHS-Programme-2021.jpg
 ---
 New Plymouth Girls’ High School sports exchange is on Tuesday 29 June (away).
 
