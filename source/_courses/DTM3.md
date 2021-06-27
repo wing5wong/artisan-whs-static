@@ -10,13 +10,11 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
-  - "2786"
-  - "29777"
-  - "91356"
-  - "91367"
-  - "91891"
-  - "91893"
-  - "91899"
+  - "91608"
+  - "91901"
+  - "91902"
+  - "91903"
+  - "91909"
 ue_approved: true
 ensorsement: Yes
 entry_requirements: Open entry for Year 13 students, subject to HOF approval.
