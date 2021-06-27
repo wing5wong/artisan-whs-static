@@ -17,6 +17,9 @@ leads_to:
 standards:
   - "91252"
   - "91253"
+  - "91255"
+  - "91104"
+  - "91106"
 ue_approved: false
 invitation_only: false
 endorsement: false
