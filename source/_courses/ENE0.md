@@ -3,14 +3,14 @@ title: ENE0
 name: English Extension
 code: ENE0
 subject_area: English (Extension)
-date: 2019-06-30T23:21:26.211Z
-year: '10'
+date: 2021-06-27T23:21:26.211Z
+entry_requirements: Teacher recommendation.
+year: "10"
 type: Compulsory
 course_duration: Full Year
 course_level: Year 10
 leads_to:
   - ENE1
-entry_requirements: At least 75% in the Year 9 examination as well as teacher recommendation.
 ---
 **Purpose:**
 
