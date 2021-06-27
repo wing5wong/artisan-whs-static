@@ -3,7 +3,7 @@ title: ENI0
 name: English Introductory/Internal
 code: ENI0
 subject_area: English (Introductory/Internal)
-date: 2019-07-01T00:02:59.350Z
+date: 2021-06-28T00:02:59.350Z
 year: "10"
 type: Compulsory
 course_duration: Full Year
