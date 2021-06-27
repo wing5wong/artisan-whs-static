@@ -14,6 +14,9 @@ assessment_type: Achievement Standard
 leads_to:
   - ENG3
   - ENL3
+standards:
+  - "91252"
+  - "91253"
 ue_approved: false
 invitation_only: false
 endorsement: false
