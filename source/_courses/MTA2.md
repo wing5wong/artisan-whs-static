@@ -3,10 +3,10 @@ title: MTA2
 name: Trigonometry and Algebra
 code: MTA2
 subject_area: Trigonometry and Algebra
-date: 2019-07-23T02:06:43.308Z
+date: 2021-06-28T02:06:43.308Z
 entry_requirements: Algebra parallel test and T.E.G school Examination and HOF/TIC approval.
-year: '12'
-type: "Subject Choice"
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
@@ -14,6 +14,12 @@ leads_to:
   - MPS3
   - MTA3
   - MGC3
+standards:
+  - "91256"
+  - "91257"
+  - "91259"
+  - "91261"
+  - "91262"
 course_fees: Students need a Graphics Calculator for this course.
 endorsement: Yes
 ---
