@@ -3,8 +3,8 @@ title: MAIE
 name: Mathematics Introductory
 code: MAIE
 subject_area: Mathematics (Introductory)
-date: 2019-07-01T01:45:16.583Z
-year: '9'
+date: 2021-06-28T01:45:16.583Z
+year: "9"
 type: Compulsory
 course_duration: Full Year
 course_level: Year 9
