@@ -3,7 +3,7 @@ title: MAEE
 name: Mathematics Extension
 code: MAEE
 subject_area: Mathematics (Extension)
-date: 2019-07-01T01:35:42.547Z
+date: 2021-06-28T01:35:42.547Z
 year: "9"
 type: Compulsory
 course_duration: Full Year
