@@ -20,6 +20,7 @@ standards:
   - "91255"
   - "91104"
   - "91106"
+  - "91251"
 ue_approved: false
 invitation_only: false
 endorsement: false
