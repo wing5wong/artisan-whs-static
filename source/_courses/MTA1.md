@@ -16,6 +16,11 @@ leads_to:
   - MCS2
 standards:
   - "91027"
+  - "91028"
+  - "91031"
+  - "91032"
+  - "91035"
+  - "91037"
 notes: 1. This course is provided for students with a strong understanding of
   Mathematics. 2. Algebra standard 91027 is a non-calculator standard. Although
   it is an external achievement standard it is sat during the internal school
