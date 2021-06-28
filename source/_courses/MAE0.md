@@ -3,15 +3,18 @@ title: MAE0
 name: Mathematics Extension
 code: MAE0
 subject_area: Mathematics (Extension)
-date: 2019-07-01T01:32:33.969Z
-year: '10'
+date: 2021-06-28T01:32:33.969Z
+entry_requirements: Satisfactory completion of a Year 9 Mathematics course
+year: "10"
 type: Compulsory
 course_duration: Full Year
 course_level: Year 10
 leads_to:
   - MTA1
   - MAG1
-entry_requirements: Satisfactory completion of a Year 9 Mathematics course
+standards:
+  - "91026"
+  - "91036"
 ---
 **Purpose:**
 
