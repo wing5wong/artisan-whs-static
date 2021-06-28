@@ -15,6 +15,12 @@ leads_to:
 standards:
   - "27996"
   - "27997"
+  - "27998"
+  - "30979"
+  - "30994"
+  - "31001"
+  - "31005"
+  - "31025"
 notes: This course is available to students of all year levels with English as a
   second language.
 course_fees: Included in International Student Fee
