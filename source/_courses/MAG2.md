@@ -3,7 +3,7 @@ title: MAG2
 name: Mathematics General
 code: MAG2
 subject_area: Mathematics (General)
-date: 2019-07-23T01:37:22.114Z
+date: 2021-06-29T01:37:22.114Z
 entry_requirements: 14 AS credits in MAI1 10 AS credits in MAG1 and HOF/TIC approval required.
 year: '12'
 type: "Subject Choice"
@@ -14,5 +14,13 @@ leads_to:
   - MPS2
   - MAG3
   - MPS3
+standards:
+  - "28094"
+  - "91256"
+  - "91259"
+  - "91260"
+  - "91264"
+  - "91265"
+  - "91268"
 ---
 To provide a Mathematics programme that will develop in students, the skills, concepts, understandings, and attitudes, which will enable them to cope confidently with the mathematics of everyday life. This course provides a continuing Mathematics programme appropriate for students who undertook a Level 1 Mathematics course. The following topics are studies: Number, Measurement, Space and Shape, Geometry, Graphs, Algebra, Statistics and Probability. This course is completely internally assessed.
