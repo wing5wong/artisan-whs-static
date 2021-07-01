@@ -3,7 +3,7 @@ title: PCS2
 name: Progressive Communication Literacy
 code: PCS2
 subject_area: Progressive Communication Literacy
-date: 2021-7-01T21:01:17.026Z
+date: 2021-07-01T21:01:17.026Z
 entry_requirements: HOF/TIC approval
 year: "12"
 type: "Subject Choice"
