@@ -7,6 +7,9 @@ feature_image:
 news_author:
   date: 2021-06-30T21:28:03.562Z
   publication: River City Press
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625175426/News/Jansen_and_the_Amps.jpg
+    description: Winners, Jansen and the AMPS, performing at the Royal Wanganui Opera House.
 faculties:
   - The Arts
 show_in_slider: true
