@@ -1,5 +1,8 @@
 ---
 title: Female students getting work experience in male-dominated roles
+feature_image:
+  image: null
+  description: L>R; Cyprus Hill, Keylah Bouzaid-Hoggarth and Marewa Puru.
 news_author:
   date: 2021-06-23T22:55:01.951Z
   publication: River City Press
