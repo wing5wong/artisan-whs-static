@@ -11,6 +11,11 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - DAN2
+standards:
+  - "90002"
+  - "90858"
+  - "90859"
+  - "90861"
 course_fees:
 ---
 To develop a variety of skills in dance forms. Students will participate in dance choreography and performance developing their knowledge and confidence in both areas.

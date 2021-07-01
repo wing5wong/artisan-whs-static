@@ -3,7 +3,7 @@ title: EXT2
 name: External Studies
 code: EXT2
 subject_area: External Studies
-date: 2020-08-05T04:06:32.715Z
+date: 2021-07-01T04:06:32.715Z
 entry_requirements: EXT2 is a supervised study period where students complete
   the work provided by external providers. Alternatively, where Year 12-13
   students are on "course"one/two days a week may be offered this option to

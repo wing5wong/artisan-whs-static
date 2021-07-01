@@ -4,7 +4,7 @@ maori_title: ''
 name: Vocational Studies English
 code: VEN2
 subject_area: Vocational Studies (English)
-date: 2019-08-04T22:41:55.490Z
+date: 2021-07-01T22:41:55.490Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: '12'
 type: "Subject Choice"
@@ -13,6 +13,14 @@ course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to:
   - VEN3
+standards:
+  - "1294"
+  - "4252"
+  - "4261"
+  - "12354"
+  - "12355"
+  - "24871"
+  - "30907"
 invitation_only: true
 ---
 

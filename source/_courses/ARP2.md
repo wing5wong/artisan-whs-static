@@ -10,6 +10,9 @@ type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
+standards:
+  - "91321"
+  - "91325"
 leads_to:
   - ARP3
 ---

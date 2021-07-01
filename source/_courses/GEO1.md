@@ -3,7 +3,7 @@ title: GEO1
 name: Geography
 code: GEO1
 subject_area: Geography
-date: 2019-07-31T00:31:09.959Z
+date: 2021-06-30T00:31:09.959Z
 year: '11'
 type: "Subject Choice"
 course_duration: Full Year
@@ -11,6 +11,13 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - GEO2
+standards:
+  - "91007"
+  - "91009"
+  - "91010"
+  - "91011"
+  - "91012"
+  - "91013"
 course_fees: Optional Field Trip (Tongariro - Tourism) approx. $40 each
 endorsement: Yes
 ---

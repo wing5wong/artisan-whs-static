@@ -4,7 +4,7 @@ maori_title: ''
 name: History
 code: HIS2
 subject_area: History
-date: 2019-07-31T02:57:58.373Z
+date: 2021-06-30T02:57:58.373Z
 entry_requirements: 12 Credits in ENG1 or HIS1 and HOF/TIC approval
 year: '12'
 type: ' Optional'
@@ -14,6 +14,12 @@ assessment_type: Achievement Standard
 leads_to:
   - HIS3
   - CLS3
+standards:
+  - "91229"
+  - "91230"
+  - "91231"
+  - "91232"
+  - "91233"
 course_fees:
 endorsement: Yes
 ---

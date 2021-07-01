@@ -1,9 +1,9 @@
 ---
 title: PLS1
-name: Pathways Life Skills
+name: Progressive Life Skills
 code: PLS1
-subject_area: Pathways Life Skills
-date: 2020-08-04T21:01:17.026Z
+subject_area: Progressive Life Skills
+date: 2021-07-01T21:01:17.026Z
 entry_requirements: HOF/TIC approval
 year: "11"
 type: "Subject Choice"
@@ -20,9 +20,15 @@ leads_to:
   - VDF2
   - VHT2
   - VMA2
+standards:
+  - "548"
+  - "1293"
+  - "29299"
+  - "29301"
+  - "29303"
 course_fees: null
 endorsement: false
 ---
-Pathways Life Skills is a programme for Year 11 students where the major focus is to ensure they have developed skills needed in life and to succeed in a work environment. Students are able to gain NCEA Level 1. Students work through the units on offer at a pace suited to their learning style and gain the credits once they have completed the assessments. This is a self driven course ensuring that students develop time management skills.
+Progressive Life Skills is a programme for Year 11 students where the major focus is to ensure they have developed skills needed in life and to succeed in a work environment. Students are able to gain NCEA Level 1. Students work through the units on offer at a pace suited to their learning style and gain the credits once they have completed the assessments. This is a self driven course ensuring that students develop time management skills.
 
 As appropriate units are identified based on the students and needs and interests they will be added to the course.

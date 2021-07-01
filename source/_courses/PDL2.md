@@ -1,9 +1,9 @@
 ---
 title: PDL2
-name: Pathways Digital Literacy
+name: Progressive Digital Literacy
 code: PDL2
-subject_area: Pathways Digital Literacy
-date: 2020-08-04T21:01:17.026Z
+subject_area: Progressive Digital Literacy
+date: 2021-06-01T21:01:17.026Z
 entry_requirements: HOF/TIC approval
 year: "12"
 type: "Subject Choice"
@@ -16,7 +16,16 @@ leads_to:
   - VDF3
   - VHT3
   - VMA3
+standards:
+  - "29769"
+  - "29771"
+  - "29772"
+  - "29773"
+  - "29775"
+  - "29779"
+  - "29781"
 course_fees: null
+invitation_only: true
 endorsement: false
 ---
 Computing skills are an essential requirement for most employment opportunities. This course concentrates on gaining a base of good practical knowledge through a hands on approach. Specific content includes managing computer files, presenting software incorporating digital media, word processing and spreadsheets, digital image manipulation, and creation of documents for the World Wide Web.

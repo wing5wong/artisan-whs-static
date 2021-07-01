@@ -1,9 +1,9 @@
 ---
 title: PCS1
-name: Pathways Communication Literacy
+name: Progressive Communication Literacy
 code: PCS1
-subject_area: Pathways Communication Literacy
-date: 2020-08-04T21:01:17.026Z
+subject_area: Progressive Communication Literacy
+date: 2021-07-01T21:01:17.026Z
 entry_requirements: HOF/TIC approval
 year: "11"
 type: "Subject Choice"
@@ -20,9 +20,16 @@ leads_to:
   - VDF2
   - VHT2
   - VMA2
+standards:
+  - "3483"
+  - "10792"
+  - "26622"
+  - "26624"
+  - "26625"
+  - "90852"
 course_fees: null
 endorsement: false
 ---
-Pathways Communication Skills focuses on developing sound communication skills, preparing students to be successful in a work environment.
+Progressive Communication Skills focuses on developing sound communication skills, preparing students to be successful in a work environment.
 
 Students are given the opportunity to gain 10 Literacy Credits through a portfolio of work; a combination of Reading,Writing and Speaking tasks.

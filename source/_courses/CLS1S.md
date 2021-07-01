@@ -3,7 +3,7 @@ title: CLS1S
 name: Classical Studies
 code: CLS1S
 subject_area: Classical Studies
-date: 2019-07-29T03:15:48.139Z
+date: 2021-06-30T03:15:48.139Z
 entry_requirements: This is a high literacy course. Students should enjoy reading and writing.
 year: '11'
 type: "Subject Choice"
@@ -12,6 +12,11 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - CLS2
+standards:
+  - "91021"
+  - "91022"
+  - "91024"
+  - "91025"
 notes: 'Credits: Reading and writing literacy credits.'
 course_fees:
 ---

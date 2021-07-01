@@ -11,7 +11,14 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - DVC2
+standards:
+  - "91063"
+  - "91064"
+  - "90165"
+  - "91066"
+  - "91067"
+  - "91068"
 course_fees:
 endorsement: Yes
 ---
-To develop students' capabilities in Design and Visual Communication. This course is designed to develop students' practice through: Freehand Sketching; a range of Rendering Techniques; Instrumental Drawings; graphic Paraline Drawing, Modelling Techniques and Design. Students will also have the opportunity to use CAD and 3D printing.
+To develop students' capabilities in Design and Visual Communication. This course is designed to develop students' practice through: Freehand Sketching; a range of Rendering Techniques; Instrumental Drawings; Paraline Drawing, Modelling Techniques and Design. Students will also have the opportunity to use CAD and 3D printing.

@@ -3,7 +3,7 @@ title: FREE
 name: French
 code: FREE
 subject_area: French
-date: 2019-07-01T00:29:41.955Z
+date: 2021-07-01T00:29:41.955Z
 year: '9'
 type: "Subject Choice"
 course_duration: 5 Week Introduction Plus 20 Week Course If Selected

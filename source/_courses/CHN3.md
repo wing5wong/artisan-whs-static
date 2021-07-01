@@ -3,13 +3,19 @@ title: CHN3
 name: Chinese
 code: CHN3
 subject_area: Chinese
-date: 2019-06-28T04:11:08.569Z
+date: 2021-07-01T04:11:08.569Z
 entry_requirements: 12 credits in CHN2 or HOD approval.
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - "91533"
+  - "91534"
+  - "91535"
+  - "91536"
+  - "91537"
 ue_approved: true
 endorsement: Yes
 ---

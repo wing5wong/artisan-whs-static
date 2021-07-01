@@ -11,8 +11,14 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - FDZ2
+standards:
+  - "91046"
+  - "91047"
+  - "91058"
+  - "91063"
+endorsement: Yes
 ---
-To develop students' understanding of technology and provide the opportunity for them to develop their own technological practice within a structured practical environment. The course will focus on increasing the student's technological capability, knowledge and their understanding of how technology interacts with society. The course is challenging and requires creative and motivated thinkers.
+To develop students' understanding of technology and provide the opportunity for them to develop their own technological practice within a structured practical environment using a range of fabrics. The course will focus on increasing the student's technological practice, knowledge and their understanding of the nature of technology and how it interacts with society. The course is challenging and requires creative and motivated thinkers.
 
 **Assessment:**
 

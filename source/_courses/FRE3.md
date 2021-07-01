@@ -3,13 +3,19 @@ title: FRE3
 name: French
 code: FRE3
 subject_area: French
-date: 2019-07-01T00:26:17.545Z
+date: 2021-07-01T00:26:17.545Z
 entry_requirements: 12 credits in FRE2 or HOD approval.
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - "91543"
+  - "91544"
+  - "91545"
+  - "91546"
+  - "91547"
 ue_approved: true
 endorsement: Yes
 ---

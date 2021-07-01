@@ -3,7 +3,7 @@ title: PSY3
 name: Psychology
 code: PSY3
 subject_area: Psychology
-date: 2019-07-31T02:30:51.277Z
+date: 2021-06-30T02:30:51.277Z
 entry_requirements: 12 Credits in ENG2 or PSY2 and HOF/TIC approval.
 year: '13'
 type: "Subject Choice"
@@ -11,6 +11,12 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
 leads_to: ''
+standards:
+  - "91872"
+  - "91873"
+  - "91874"
+  - "91875"
+  - "91876"
 ue_approved: true
 endorsement: Yes
 ---

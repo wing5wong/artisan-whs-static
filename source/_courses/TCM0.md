@@ -3,12 +3,16 @@ title: TCM0
 name: Technology Materials
 code: TCM0
 subject_area: Technology Materials
-date: 2019-08-01T03:34:59.377Z
+date: 2021-06-30T03:34:59.377Z
 year: '10'
 type: "Subject Choice"
 course_duration: Half Year
 course_level: Year 10
-leads_to: ''
+leads_to:
+  - BAC1
+  - TCE1
+  - TEC1
+  - AUT1
 course_fees: $30 for take-home component
 ---
 **Purpose:**

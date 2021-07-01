@@ -3,7 +3,7 @@ title: TECE
 name: Technology Materials
 code: TECE
 subject_area: Technology Materials
-date: 2019-08-01T03:40:44.223Z
+date: 2021-06-30T03:40:44.223Z
 year: '9'
 type: "Subject Choice"
 course_duration: One Term
@@ -21,4 +21,4 @@ Students will learn essential research, design and manufacturing skills required
 
 **Assessment:**
 
-Portfolio work and practical solutions.
+Portfolio work and Practical solutions.

@@ -4,13 +4,28 @@ maori_title: ''
 name: Vocational Studies Employment Skills
 code: VES3
 subject_area: Vocational Studies (Employment Skills)
-date: 2019-08-04T23:05:22.984Z
+date: 2021-07-01T23:05:22.984Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
+standards:
+  - "497"
+  - "3271"
+  - "4251"
+  - "4647"
+  - "6400"
+  - "6401"
+  - "6402"
+  - "16797"
+  - "16800"
+  - "16802"
+  - "17592"
+  - "17593"
+  - "17594"
+  - "18408"
 notes: >-
   There are 5 compulsory Vocational Studies subjects, they are; English/Life
   Skills, Mathematics, Food Technology, Health and Employment Skills. Students

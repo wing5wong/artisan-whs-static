@@ -9,6 +9,9 @@ type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
+standards:
+  - "91458"
+  - "91460"
 entry_requirements: 12 credits in ARP2/APT2
 course_fees:
 ue_approved: true

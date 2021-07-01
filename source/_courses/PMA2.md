@@ -1,9 +1,9 @@
 ---
 title: PMA2
-name: Pathways Financial Literacy
+name: Progressive Financial Literacy
 code: PMA2
-subject_area: Pathways Financial Literacy
-date: 2020-08-04T21:01:17.026Z
+subject_area: Progressive Financial Literacy
+date: 2021-07-01T21:01:17.026Z
 entry_requirements: HOF/TIC approval
 year: "12"
 type: "Subject Choice"
@@ -16,7 +16,17 @@ leads_to:
   - VDF3
   - VHT3
   - VMA3
+standards:
+  - "18237"
+  - "24699"
+  - "28092"
+  - "28094"
+  - "28096"
+  - "24695"
+  - "28097"
+  - "91260"
 course_fees: null
+invitation_only: true
 endorsement: false
 ---
 In Financial Literacy, Mathematics and Statistics, students explore relationships in quantities, space, and data and learn to express these relationships in ways that help them to make sense of the world around them. Content includes development of skills in financial management and capability.

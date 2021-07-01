@@ -3,7 +3,7 @@ title: SOC0
 name: Social Studies
 code: SOC0
 subject_area: Social Studies
-date: 2019-07-29T02:43:12.682Z
+date: 2021-06-30T02:43:12.682Z
 year: '10'
 type: Compulsory
 course_duration: Full Year
@@ -13,9 +13,7 @@ leads_to:
   - SOC1
   - ACC1
   - ECO1
-  - TOU1S
   - CLS1
-  - TOU2
 entry_requirements: Completion of SOCE (Year 9) Social Science Course.
 ---
 **Purpose:**

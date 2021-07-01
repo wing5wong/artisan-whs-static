@@ -9,6 +9,15 @@ type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - "91512"
+  - "91513"
+  - "91514"
+  - "91515"
+  - "91516"
+  - "91517"
+  - "91518"
+  - "91520"
 entry_requirements: 16 credits in DRA1 or DRA2 and HOF/TIC approval.
 course_fees:
 ue_approved: true

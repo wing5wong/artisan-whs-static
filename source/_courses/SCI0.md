@@ -3,7 +3,7 @@ title: SCI0
 name: Science Introductory
 code: SCI0
 subject_area: Science (Introductory)
-date: 2019-08-05T02:40:31.567Z
+date: 2021-06-30T02:40:31.567Z
 year: '10'
 type: Compulsory
 course_duration: Full Year

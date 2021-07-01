@@ -3,7 +3,7 @@ title: VES2
 name: Vocational Studies Employment Skills
 code: VES2
 subject_area: Vocational Studies (Employment Skills)
-date: 2019-08-01T03:56:23.173Z
+date: 2021-07-01T03:56:23.173Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: '12'
 type: "Subject Choice"
@@ -12,6 +12,21 @@ course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to:
   - VES3
+standards:
+  - "497"
+  - "3271"
+  - "4253"
+  - "4647"
+  - "6400"
+  - "6402"
+  - "9677"
+  - "10781"
+  - "12349"
+  - "12383"
+  - "16797"
+  - "17592"
+  - "17593"
+  - "17594"
 notes: >-
   There are 5 compulsory Vocational Studies subjects, they are; English Communication,, Mathematics, Food Technology, Health and Employment Skills. Students
   choose 1 other option subject to make up the 6 lines.

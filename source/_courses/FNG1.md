@@ -3,7 +3,7 @@ title: FNG1
 name: Food & Nutrition
 code: FNG1
 subject_area: Food and Nutrition
-date: 2019-08-01T00:16:31.706Z
+date: 2021-07-01T00:16:31.706Z
 year: '11'
 type: "Subject Choice"
 course_duration: Full Year
@@ -12,6 +12,12 @@ assessment_type: Achievement Standard
 leads_to:
   - FNG2
   - FDH2
+standards:
+  - "90956"
+  - "90957"
+  - "90958"
+  - "90959"
+  - "90961"
 course_fees:
 endorsement: Yes
 ---

@@ -3,7 +3,7 @@ title: ARTE
 name: Art
 code: ARTE
 subject_area: Visual Art
-date: 2019-06-28T02:44:15.406Z
+date: 2021-07-01T02:44:15.406Z
 year: '9'
 type: "Subject Choice"
 course_duration: One Term

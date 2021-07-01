@@ -3,7 +3,7 @@ title: SOEE
 name: Social Studies Extension
 code: SOEE
 subject_area: Social Studies (Extension)
-date: 2019-07-29T02:50:05.664Z
+date: 2021-06-30T02:50:05.664Z
 year: '9'
 type: Compulsory
 course_duration: Full Year
@@ -22,4 +22,4 @@ Students will experience a rich understanding of the unique nature of Aotearoa, 
 
 **Assessment:**
 
-Regular formative and summative assessments, including a range of inquiries and an end of year examination.
+Regular formative and summative assessments, including a range of inquiries and an end of year examination (tbc).

@@ -9,6 +9,18 @@ type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - "91416"
+  - "91417"
+  - "91418"
+  - "91419"
+  - "91420"
+  - "91421"
+  - "91422"
+  - "91423"
+  - "91424"
+  - "91425"
+  - "91849"
 entry_requirements: >-
   At least 12 credits in MUS2 or equivalent. Currently learning an instrument or
   HOF/TIC approval.

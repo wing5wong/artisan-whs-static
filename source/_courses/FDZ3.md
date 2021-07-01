@@ -10,9 +10,13 @@ type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - "91610"
+  - "91611"
+  - "91621"
 ue_approved: true
 ---
-To extend students creative and technical skills in many aspects of fashion design. The emphasis is to extend them from Level 2 to become both technically and creatively independent thinkers.
+This course is intended to extend students creative and technical skills in many aspects of fashion design. The course will focus on increasing the student's technological practice knowledge and their understanding of the nature of technology and how it interacts with society. The course is challenging and requires creative and motivated thinkers.
 
 **Assessment:**
 

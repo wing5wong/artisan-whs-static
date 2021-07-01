@@ -3,7 +3,7 @@ title: HIS1
 name: History
 code: HIS1
 subject_area: History
-date: 2019-07-31T00:48:56.543Z
+date: 2021-06-30T00:48:56.543Z
 year: '11'
 type: "Subject Choice"
 course_duration: Full Year
@@ -11,6 +11,12 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - HIS2
+standards:
+  - "91001"
+  - "91002"
+  - "91003"
+  - "91004"
+  - "91005"
 course_fees:
 endorsement: Yes
 ---

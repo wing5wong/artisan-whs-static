@@ -14,6 +14,13 @@ course_level: NCEA 2
 assessment_type: Unit Standard
 leads_to:
   - AUT3
+standards:
+  - "247"
+  - "21668"
+  - "21677"
+  - "21686"
+  - "21717"
+  - "21720"
 notes: Can lead to a National Certificate of Entry Automotive Trades
 ---
 To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training.

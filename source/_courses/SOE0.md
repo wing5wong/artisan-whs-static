@@ -3,7 +3,7 @@ title: SOE0
 name: Social Studies Extension
 code: SOE0
 subject_area: Social Studies (Extension)
-date: 2019-07-29T02:49:23.115Z
+date: 2021-06-30T02:49:23.115Z
 year: '10'
 type: Compulsory
 course_duration: Full Year
@@ -17,6 +17,8 @@ leads_to:
   - PSY2
   - CLS2
   - TOU2
+standards:
+  - "91040"
 entry_requirements: >-
   Completion of SOCE (Year 9) Social Science Course. Students will be selected
   from performance in SOCE course (Year 9 course).

@@ -3,7 +3,7 @@ title: MUSE
 name: Music
 code: MUSE
 subject_area: Music
-date: 2019-07-01T02:11:32.587Z
+date: 2021-07-01T02:11:32.587Z
 year: '9'
 type: "Subject Choice"
 course_duration: One Term

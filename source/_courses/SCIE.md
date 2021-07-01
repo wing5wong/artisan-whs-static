@@ -3,7 +3,7 @@ title: SCIE
 name: Science Introductory
 code: SCFE
 subject_area: Science (Introductory)
-date: 2019-07-01T02:42:11.703Z
+date: 2021-06-30T02:42:11.703Z
 year: "9"
 type: Compulsory
 course_duration: Full Year
@@ -14,7 +14,7 @@ invitation_only: Yes
 ---
 **Purpose:**
 
-To introduce students to Science and its place in the world around us. To practice and use the scientific method of investigation and apply it to various situations.
+To develop skills that enable students to generate and test ideas, observe, investigate and model phenomena. They will develop scientific knowledge, understanding and explaining skills.
 
 **Content:**
 
@@ -26,6 +26,10 @@ A hands-on course that encourages students to investigate and learn about the na
 * Waves (Energy, Light and Sound)
 * Communities
 
+Students may also be given chances to participate in the following:
+* Australian Science Competition
+* New Zealand based Science competitions
+
 **Assessment:**
 
-End of topic tests and practical assessments.
+Standards based assessment, which includes on-going internal assessment and end of year examination.

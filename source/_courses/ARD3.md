@@ -9,6 +9,11 @@ type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - "91445"
+  - "91450"
+  - "91455"
+  - "91460"
 entry_requirements: 12 credits in ARD2 and HOF/TIC approval.
 ue_approved: true
 ---

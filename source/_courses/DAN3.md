@@ -9,6 +9,12 @@ type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - "91588"
+  - "91590"
+  - "91591"
+  - "91592"
+  - "91595"
 entry_requirements: 12 credits in DAN2 and HOF/TIC approval.
 course_fees:
 ue_approved: true

@@ -1,9 +1,9 @@
 ---
 title: PMA1
-name: Pathways Financial Literacy
+name: Progressive Financial Literacy
 code: PMA1
-subject_area: Pathways Financial Literacy
-date: 2020-08-04T21:01:17.026Z
+subject_area: Progressive Financial Literacy
+date: 2021-07-01T21:01:17.026Z
 entry_requirements: HOF/TIC approval
 year: "11"
 type: "Subject Choice"
@@ -20,6 +20,11 @@ leads_to:
   - VDF2
   - VHT2
   - VMA2
+standards:
+  - "26623"
+  - "26626"
+  - "26627"
+  - "91026"
 course_fees: null
 endorsement: false
 ---

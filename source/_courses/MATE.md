@@ -22,4 +22,4 @@ Consolidate and enhance their understanding of Number, Geometry and Measurement.
 
 **Assessment:**
 
-Common, standards based, topic tests on content and process. End of year exam. Numeracy testing to monitor student's number skills.
+Common, standards based, topic tests on content and process. End of year examination (tbc). Numeracy testing to monitor student's number skills.

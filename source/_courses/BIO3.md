@@ -3,13 +3,19 @@ title: BIO3
 name: Biology
 code: BIO3
 subject_area: Biology
-date: 2019-06-28T04:04:34.111Z
+date: 2021-06-30T04:04:34.111Z
 entry_requirements: 12 credits in BIO2 and HOF/TIC approval.
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
+standards:
+  - "91603"
+  - "91604"
+  - "91605"
+  - "91606"
+  - "91607"
 ue_approved: true
 endorsement: Yes
 ---

@@ -3,7 +3,7 @@ title: FDN0
 name: Food & Nutrition
 code: FDN0
 subject_area: Food and Nutrition
-date: 2019-08-01T00:13:56.887Z
+date: 2021-06-30T00:13:56.887Z
 year: '10'
 type: "Subject Choice"
 course_duration: Half Year

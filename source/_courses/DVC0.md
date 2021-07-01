@@ -3,7 +3,7 @@ title: DVC0
 name: Design & Visual Communication
 code: DVC0
 subject_area: Design & Visual Communication
-date: 2019-07-31T23:06:56.949Z
+date: 2021-06-30T23:06:56.949Z
 year: '10'
 type: "Subject Choice"
 course_duration: Half Year

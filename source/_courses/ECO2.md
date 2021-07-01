@@ -3,7 +3,7 @@ title: ECO2
 name: Economics
 code: ECO2
 subject_area: Economics
-date: 2019-07-30T23:14:48.529Z
+date: 2021-06-30T23:14:48.529Z
 entry_requirements: 12 credits in ECO1 or in both ENG1 or ENE1 and MAG1 or MAE1.
   ECO1 an advantage and HOF/TIC approval.
 year: "12"
@@ -13,6 +13,12 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - ECO3
+standards:
+  - "91222"
+  - "91223"
+  - "91224"
+  - "91227"
+  - "91228"
 course_fees: ""
 endorsement: Yes
 ---

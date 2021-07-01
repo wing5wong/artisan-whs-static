@@ -12,8 +12,14 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - FDZ3
+standards:
+  - "91337"
+  - "91345"
+  - "91356"
+  - "91357"
+endorsement: Yes
 ---
-The course is intended to provide students with the opportunity to explore many areas of fashion design. The emphasis is to develop from where they are now and grow from there, both technically and creatively.
+This course is intended to provide students with the opportunity to explore many areas of fashion design. The course will focus on increasing the student's technological practice knowledge and their understanding of the nature of technology and how it interacts with society. The course is challenging and requires creative and motivated thinkers.
 
 **Assessment:**
 

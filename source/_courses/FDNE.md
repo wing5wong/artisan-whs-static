@@ -3,7 +3,7 @@ title: FDNE
 name: Food & Nutrition
 code: FDNE
 subject_area: Food and Nutrition
-date: 2019-08-01T00:15:27.750Z
+date: 2021-06-30T00:15:27.750Z
 year: '9'
 type: "Subject Choice"
 course_duration: One Term

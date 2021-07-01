@@ -3,7 +3,7 @@ title: FDZ0
 name: Fashion Design
 code: FDZ0
 subject_area: Fashion Design
-date: 2019-08-01T03:44:28.386Z
+date: 2021-07-01T03:44:28.386Z
 year: '10'
 type: "Subject Choice"
 course_duration: Half Year
