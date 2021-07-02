@@ -1,6 +1,6 @@
 ---
 title: Curriculum Structure
-date: 2020-07-29T02:23:57.661Z
+date: 2021-07-02T02:23:57.661Z
 intro: An overview of how Whanganui High School's curriculum is structured.
   Information about; course structure, subject names, multilevel courses, course
   pathways, course specialisation, curriculum levels, NCEA Scholarship,
@@ -106,10 +106,13 @@ To cater for different student abilities, Whanganui High School offers courses o
   | NCEA Level 2 English | **I**ntroductory (Internal assessment) | EN**I**2     |
   | NCEA Level 2 English | **G**eneral (Mixed assessment)         | EN**G**2     |
   | NCEA Level 2 English | **E**xtension (Mixed assessment)       | EN**E**2     |
-
 * ### NCEA Level 3 Courses
 
     NCEA Level 3 Courses are offered at Level 8 of the NZ Curriculum.  However, Whanganui High School offers a range of subjects in Year 13, some of which have a mix of NCEA Level 2 and 3 and/or a mix of Achievement and Unit Standard credits.
+
+## Progressive Programme
+
+Students who have moved through school in the "Supported Learning" programme or who apply for additional learning support in Year 11 may enter the Progressive programme at Level 1 or 2.
 
 ## NCEA Scholarship
 
@@ -119,7 +122,7 @@ Whanganui High School offers NCEA Level 3 students the opportunity to sit the NC
 
 ## University Entrance Approval Courses
 
-Whanganui High School **Level 3** courses are UE approved unless the words ' Not UE approved' appear on the course description. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
+Most Whanganui High School **Level 3** courses are UE approved. The words ' Not UE approved' appear on the course description if this is not the case. For more information regarding University Entrance Standards [refer to the NZQA website.](https://www.nzqa.govt.nz/qualifications-standards/awards/university-entrance/approved-subjects/)
 
 In addition, if a course offers University Entrance Literacy credits, these are identified at the top of the course description.
 
