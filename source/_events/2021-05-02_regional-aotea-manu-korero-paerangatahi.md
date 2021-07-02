@@ -9,5 +9,5 @@ image_gallery:
 ---
 *(photo from Regional Aotea Manu Korero & Pae Rangatahi facebook page)*
 
-Regional Aotea Manu Korero & Paerangatahi is in Whanganui on Thursday 8 July & Friday 9 July.
+Regional Aotea Manu Korero & Paerangatahi is being hosted by Whanganui High School at Springvale Stadium in Whanganui on Thursday 8 July & Friday 9 July.
 	
