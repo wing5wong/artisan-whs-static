@@ -2,15 +2,15 @@
 title: Whanganui artistic skaters ready for nationals on home ground
 feature_image:
   description: Whanganui skaters competing in the nationals are Teani Jean Francis
-    (left), Lexi Hayes, Emma Fawthorpe, Samantha Hayes, Pippa McKee and Morgan
-    Gunn.
+    (left), Lexi Hayes, Emma Fawthorpe, Samantha Hayes, Pippa McKee (WHS
+    student) and Morgan Gunn.
   credit: Stephanie Rush
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625178682/News/Whanganui_artistic_skaters_ready_for_nationals_on_home_ground._Midweek_30.6.21.jpg
 news_author:
   date: 2021-06-29T22:28:37.394Z
   name: Paul Brooks
   publication: Whanganui Midweek
-show_in_slider: true
+show_in_slider: false
 date: 2021-07-01T22:28:37.457Z
 ---
 The 2021 New Zealand Roller Sports Artistic Championships are on from July 19 to 24 at Whanganui's Jubilee Stadium in Springvale. About 200 competitors from the South and North islands will be competing in a range of disciplines.
@@ -49,7 +49,7 @@ Emma Fawthorpe is competing in Showskate (with Manawatū members), Freeskate and
 
 Teani Jean Francis is in Preliminary Freeskate, Preliminary Freedance and Espoir Figures.
 
-Pippa McKee has qualified for Cadet grade for Figures, Freedance, Showskate, Dance and Freeskate.
+**Pippa McKee has qualified for Cadet grade for Figures, Freedance, Showskate, Dance and Freeskate.**
 
 Morgan Gunn is competing in preliminary grade for Figures and Freedance, Espoir grade for Freeskate.
 
