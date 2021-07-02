@@ -1,6 +1,6 @@
 ---
 title: Course Requirements
-date: 2020-07-28T22:41:39.124Z
+date: 2021-07-01T22:41:39.124Z
 intro: Information about course requirements at Whanganui High School. Contains
   information about; Entry into Senior subjects, NCEA requirements, Endorsements
   at Levels 1-3, University Entrance (UE), Scholarship, Whanganui High School
@@ -73,7 +73,7 @@ To qualify you will need:
 
 Students in Senior School may wish to choose from a wide variety of Industry and Tertiary Related courses available to them to complement their school subjects. These courses are completed through as an ‘option line’ at school and need to be applied for through the Vocational Department
 
-#### Vocational Studies:
+#### Vocational Studies Programme (Full time):
 
 Students must apply to take a full Vocational Studies course. Prerequisites include good attendance and a clean pastoral record. An interview with the student and parent/caregiver must occur prior to acceptance into the programme.
 
