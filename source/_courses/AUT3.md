@@ -13,12 +13,12 @@ course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
 standards:
-  - "233"
-  - "239"
-  - "918"
   - "21680"
-  - "21683"
   - "21684"
+  - "30437"
+  - "30477"
+  - "30561"
+  - "30570"
 notes: >-
   Students have the opportunity to complete a National Certificate of Entry
   Automotive Trades.

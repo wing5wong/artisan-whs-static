@@ -15,7 +15,7 @@ standards:
   - "91651"
   - "91652"
   - "91653"
-  - "91653"
+  - "91654"
 ue_approved: true
 endorsement: Yes
 ---

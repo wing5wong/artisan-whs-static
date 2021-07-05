@@ -6,7 +6,7 @@ subject_area: Technology Materials
 date: 2021-06-30T03:40:44.223Z
 year: '9'
 type: "Subject Choice"
-course_duration: One Term
+course_duration: 6 Weeks
 course_level: Year 9
 leads_to: ''
 course_fees: $15 for take-home component

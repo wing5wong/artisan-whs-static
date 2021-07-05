@@ -6,7 +6,7 @@ subject_area: Technology Materials
 date: 2021-06-30T03:34:59.377Z
 year: '10'
 type: "Subject Choice"
-course_duration: Half Year
+course_duration: 13 Weeks
 course_level: Year 10
 leads_to:
   - BAC1

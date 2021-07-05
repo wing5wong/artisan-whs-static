@@ -6,7 +6,7 @@ subject_area: P.E/Health
 date: 2021-06-29T02:18:17.119Z
 year: '10'
 type: Compulsory
-course_duration: Full Year
+course_duration: 23 Weeks
 course_level: Year 10
 leads_to:
   - PED1

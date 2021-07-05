@@ -16,11 +16,15 @@ leads_to:
   - AUT3
 standards:
   - "247"
-  - "21668"
-  - "21677"
-  - "21686"
-  - "21717"
+  - "21690"
+  - "21716"
   - "21720"
+  - "30477"
+  - "30478"
+  - "30479"
+  - "30480"
+  - "30556"
+  - "30572"
 notes: Can lead to a National Certificate of Entry Automotive Trades
 ---
 To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training.

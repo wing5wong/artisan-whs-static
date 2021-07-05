@@ -15,12 +15,16 @@ assessment_type: Unit Standard
 leads_to:
   - AUT2
 standards:
-  - "231"
-  - "21669"
+  - "21668"
   - "21688"
+  - "21691"
+  - "21672"
+  - "21679"
   - "21857"
   - "21859"
+  - "21869"
   - "29579"
+  - "30476"
 notes: Can lead to a National Certificate of Entry Automotive Trades.
 course_fees:
 ---

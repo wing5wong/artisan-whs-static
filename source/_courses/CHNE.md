@@ -6,7 +6,7 @@ subject_area: Chinese
 date: 2021-07-01T04:16:03.709Z
 year: '9'
 type: "Subject Choice"
-course_duration: 5 Week Introduction Plus 20 Week Course If Selected
+course_duration: 6 Weeks
 course_level: Year 9
 leads_to:
   - CH10
