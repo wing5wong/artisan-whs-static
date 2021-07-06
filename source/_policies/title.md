@@ -6,7 +6,7 @@ policyAreas:
         policy: 1.1 Treaty of Waitangi
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1583788499/School%20Policies/1.2_-Curriculum_Information_updated_February_2020.pdf
         policy: 1.2 Curriculum Information
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/1.5_-Students_with_Additional_Learning_Needs_updated_October_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1625544868/School%20Policies/1.5_-Students_with_Additional_Learning_Needs_updated_May_2021.pdf
         policy: 1.5 Learners with Special Education Needs
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/1.6_-Education_beyond_the_Whanganui_High_School_Site_updated_October_2019.pdf
         policy: 1.6 - Education Beyond the Whanganui High School Site
@@ -94,7 +94,7 @@ policyAreas:
   - policies:
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.2-Attendance_-updated-April-2018.pdf
         policy: 6.2 Attendance
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.4-Privacy_-updated-April-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1625544867/School%20Policies/6.4_Privacy_updated_May_2021.pdf
         policy: 6.4 Privacy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.5---CCTV.pdf
         policy: 6.5 CCTV
