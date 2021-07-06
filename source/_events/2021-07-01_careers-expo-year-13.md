@@ -10,5 +10,7 @@ A tour of Massey University can be included but numbers are limited.
 The online permission slip is at: [bit.ly/whsucoldayperm2021](https://docs.google.com/forms/d/e/1FAIpQLSdxxNGbfiMf2UJ9dozQBJgLsj5IfhCoJflWLGrBJXaIrD2EVg/viewform)  
 A paper copy (if required), is available from Mr Keene or the Student Centre.
 
+YEAR 12 students (their parents) may also use the link but priority will be given to Year 13's.
+
 *Mr Keene  
 Careers Advisor*
