@@ -6,7 +6,7 @@ subject_area: Drama
 date: 2019-06-28T04:28:39.633Z
 year: '10'
 type: "Subject Choice"
-course_duration: Half Year
+course_duration: 13 Weeks
 course_level: Year 10
 leads_to:
   - DRA1

@@ -6,7 +6,7 @@ subject_area: Design & Visual Communication
 date: 2021-06-30T23:06:56.949Z
 year: '10'
 type: "Subject Choice"
-course_duration: Half Year
+course_duration: 13 Weeks
 course_level: Year 10
 leads_to: ''
 ---
