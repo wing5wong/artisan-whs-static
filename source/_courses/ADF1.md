@@ -4,9 +4,9 @@ maori_title: .
 name: Digital Art Focus
 code: ADF1
 subject_area: Visual Art
-date: 2019-06-28T03:50:11.235Z
-year: '11'
-type: "Subject Choice"
+date: 2021-07-07T03:50:11.235Z
+year: "11"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
