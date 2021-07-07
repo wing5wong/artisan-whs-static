@@ -2,7 +2,7 @@
 title: Kia Waiora Performance
 date: 2021-07-09T06:26:06.079Z
 ---
-Our Kapahaka group, Kia Waiora, is performing at the Jubilee Stadium at 1.00pm this Friday. 
+Our Kapahaka group, Kia Waiora, is performing at the Jubilee Stadium at 1.00pm this Friday as part of the Regional Aotea Manu Korero & Paerangatahi. 
 
 If you would like to go and support them you need to provide a $2.00 koha and register at the Student Centre.
 
