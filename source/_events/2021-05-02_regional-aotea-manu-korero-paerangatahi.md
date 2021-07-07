@@ -4,8 +4,8 @@ date: 2021-07-07T22:03:17.441Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625177609/Events/Reg_Aotea_Manu_Korero_Paerangatahi._facebook_2021.png
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625177740/Events/details_of_aotea_manu....png
-    description: DETAILS of event from Regional Aotea Manu Korero & Pae Rangatahi
-      facebook page.
+    description: CLICK ON ME to get DETAILS of event from Regional Aotea Manu Korero
+      & Pae Rangatahi facebook page.
 ---
 *(photo from Regional Aotea Manu Korero & Pae Rangatahi facebook page)*
 
