@@ -3,10 +3,10 @@ title: MUS0
 name: Music
 code: MUS0
 subject_area: Music
-date: 2019-07-01T02:08:30.836Z
+date: 2021-07-07T02:08:30.836Z
 year: '10'
 type: "Subject Choice"
-course_duration: Half Year
+course_duration: 13 Weeks
 course_level: Year 10
 leads_to:
   - MUS1

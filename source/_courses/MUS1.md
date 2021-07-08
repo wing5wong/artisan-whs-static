@@ -3,7 +3,7 @@ title: MUS1
 name: Music
 code: MUS1
 subject_area: Music
-date: 2019-07-01T02:09:35.311Z
+date: 2021-07-07T02:09:35.311Z
 year: '11'
 type: "Subject Choice"
 course_duration: Full Year

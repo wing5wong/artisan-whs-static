@@ -6,7 +6,7 @@ subject_area: Science (Extension)
 date: 2021-06-30T02:34:10.565Z
 year: '9'
 type: Compulsory
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 9
 leads_to:
   - SCE0

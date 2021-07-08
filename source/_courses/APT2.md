@@ -3,7 +3,7 @@ title: APT2
 name: Art Printmaking
 code: APT2
 subject_area: Printmaking
-date: 2019-06-28T03:51:49.953Z
+date: 2021-07-07T03:51:49.953Z
 entry_requirements: 12 Credits in ART1
 year: '12'
 type: "Subject Choice"

@@ -3,7 +3,7 @@ title: ARP2
 name: Art Painting
 code: ARP2
 subject_area: Painting
-date: 2019-06-28T03:54:40.430Z
+date: 2021-07-07T03:54:40.430Z
 entry_requirements: 12 credits in ART1 and HOF/TIC approval.
 year: '12'
 type: "Subject Choice"

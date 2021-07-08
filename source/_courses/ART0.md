@@ -4,9 +4,9 @@ name: Art
 code: ART0
 subject_area: Visual Art
 date: 2021-07-07T03:55:53.180Z
-year: "10"
-type: Subject Choice
-course_duration: Half Year
+year: '10'
+type: "Subject Choice"
+course_duration: 13 Weeks
 course_level: Year 10
 leads_to:
   - ART1

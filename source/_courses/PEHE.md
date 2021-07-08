@@ -6,7 +6,7 @@ subject_area: P.E/Health
 date: 2021-06-30T02:19:04.019Z
 year: '9'
 type: Compulsory
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 9
 leads_to: ''
 ---

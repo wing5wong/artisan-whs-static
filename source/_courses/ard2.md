@@ -3,7 +3,7 @@ title: ARD2
 name: Art Design
 code: ARD2
 subject_area: Art Design
-date: 2019-07-01T21:03:11.915Z
+date: 2021-07-07T21:03:11.915Z
 entry_requirements: 12 credits in ART1 or DVC1 or HOF/TIC approval.
 year: '12'
 type: "Subject Choice"

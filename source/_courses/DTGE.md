@@ -6,7 +6,7 @@ subject_area: Digital Technologies
 date: 2021-06-28T02:58:08.653Z
 year: "9"
 type: Compulsory
-course_duration: Half Year
+course_duration: 26 Weeks
 course_level: Year 9
 leads_to:
   - DTG0

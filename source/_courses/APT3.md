@@ -3,7 +3,7 @@ title: APT3
 name: Art Printmaking
 code: APT3
 subject_area: Printmaking
-date: 2019-06-28T03:52:53.197Z
+date: 2021-07-07T03:52:53.197Z
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year

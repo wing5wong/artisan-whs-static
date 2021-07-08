@@ -3,7 +3,7 @@ title: ARP3
 name: Art Painting
 code: ARP3
 subject_area: Painting
-date: 2019-06-28T03:55:29.395Z
+date: 2021-07-07T03:55:29.395Z
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year

@@ -6,7 +6,7 @@ subject_area: English (Extension)
 date: 2021-06-28T00:00:32.596Z
 year: "9"
 type: "Compulsory "
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 9
 leads_to:
   - ENE0

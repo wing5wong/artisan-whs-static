@@ -3,7 +3,7 @@ title: PHO2
 name: Photography
 code: PHO2
 subject_area: Photography
-date: 2019-07-01T02:20:40.895Z
+date: 2021-07-07T02:20:40.895Z
 entry_requirements: >-
   12 ENG1 credits and HOF/TIC approval. A digital camera with a 'manual'
   function. ART1 a useful background. The number of students able to study this

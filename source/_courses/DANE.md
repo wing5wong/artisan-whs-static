@@ -6,7 +6,7 @@ subject_area: Dance
 date: 2021-07-01T04:27:12.956Z
 year: '9'
 type: "Subject Choice"
-course_duration: One Term
+course_duration: 6 Weeks
 course_level: Year 9
 leads_to:
   - DAN0

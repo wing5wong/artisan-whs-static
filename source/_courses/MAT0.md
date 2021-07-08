@@ -7,7 +7,7 @@ date: 2021-06-28T01:51:38.738Z
 entry_requirements: Satisfactory completion a Year 9 Mathematics course.
 year: "10"
 type: Compulsory
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 10
 leads_to:
   - MAG1

@@ -6,7 +6,7 @@ subject_area: Music
 date: 2021-07-01T02:11:32.587Z
 year: '9'
 type: "Subject Choice"
-course_duration: One Term
+course_duration: 6 Weeks
 course_level: Year 9
 leads_to:
   - MUS0

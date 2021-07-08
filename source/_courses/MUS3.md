@@ -3,7 +3,7 @@ title: MUS3
 name: Music
 code: MUS3
 subject_area: Music
-date: 2019-07-01T02:10:35.273Z
+date: 2021-07-07T02:10:35.273Z
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year

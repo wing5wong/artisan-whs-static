@@ -6,7 +6,7 @@ subject_area: Science (Introductory)
 date: 2021-06-30T02:40:31.567Z
 year: '10'
 type: Compulsory
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 10
 leads_to:
   - SCI1

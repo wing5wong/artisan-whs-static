@@ -7,7 +7,7 @@ date: 2021-06-28T01:32:33.969Z
 entry_requirements: Satisfactory completion of a Year 9 Mathematics course
 year: "10"
 type: Compulsory
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 10
 leads_to:
   - MTA1

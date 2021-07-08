@@ -3,7 +3,7 @@ title: ARD3
 name: Art Design
 code: ARD3
 subject_area: Art Design
-date: 2019-06-28T03:53:37.549Z
+date: 2021-07-07T03:53:37.549Z
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year

@@ -6,7 +6,7 @@ subject_area: Social Studies
 date: 2021-06-30T02:43:12.682Z
 year: '10'
 type: Compulsory
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 10
 leads_to:
   - GEO1

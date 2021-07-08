@@ -6,7 +6,7 @@ subject_area: Design & Visual Communication
 date: 2021-06-30T23:10:39.640Z
 year: '9'
 type: "Subject Choice"
-course_duration: One Term
+course_duration: 6 Weeks
 course_level: Year 9
 leads_to:
   - DVC0

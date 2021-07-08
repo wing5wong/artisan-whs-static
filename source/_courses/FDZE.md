@@ -6,7 +6,7 @@ subject_area: Fashion Design
 date: 2021-06-30T03:42:07.704Z
 year: '9'
 type: "Subject Choice"
-course_duration: One Term
+course_duration: 6 Weeks
 course_level: Year 9
 leads_to:
   - FDZ0

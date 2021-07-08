@@ -6,7 +6,7 @@ subject_area: Digital Technologies
 date: 2021-06-28T03:02:19.335Z
 year: "10"
 type: Compulsory
-course_duration: 13 Weeks
+course_duration: 6 Weeks
 course_level: Year 10
 leads_to: ""
 ---

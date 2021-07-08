@@ -3,7 +3,7 @@ title: DAN3
 name: Dance
 code: DAN3
 subject_area: Dance
-date: 2019-06-28T04:26:32.108Z
+date: 2021-07-07T04:26:32.108Z
 year: '13'
 type: "Subject Choice"
 course_duration: Full Year
