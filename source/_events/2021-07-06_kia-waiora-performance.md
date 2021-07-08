@@ -2,10 +2,7 @@
 title: Kia Waiora Performance
 date: 2021-07-09T06:26:06.079Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625731728/Events/kapa_top.jpg
-image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625734428/Events/3.kapa_below.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625734459/Events/3.poster.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625734480/Events/4.kapa_haka_times.png
+image_gallery: []
 ---
 Our Kapahaka group, Kia Waiora, is performing at the Jubilee Stadium at 1.00pm this Friday as part of the Regional Aotea Manu Korero & Paerangatahi. 
 
