@@ -2,12 +2,16 @@
 title: WHS at Pasifika Fusion 2021
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625782674/News/tokelau_dance_Lisa.jpg
+  description: Students performing Tokelau dance.
 news_author:
   date: 2021-07-04T22:15:42.829Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625782700/News/Matia_opens_the_show._why_is_Fiji_so_good.._lisa.jpg
+    description: Matia opens the show.. why is Fiji so good?
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625782722/News/quiz_lineup_lisa.jpg
+    description: Quiz line-up.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625782737/News/quiz_action_shot_lisa.jpg
+    description: Quiz action shot.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625782761/News/Pasifika_Fusion_2021.jpg
 show_in_slider: true
 date: 2021-07-08T22:15:42.880Z
