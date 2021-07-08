@@ -18,7 +18,7 @@ date: 2021-07-08T22:15:42.880Z
 ---
 Our Pasifika Group travelled to Palmerston North recently for Pasifika Fusion 2021.
 
-Special recognition for Sophia ‘Unga-Cribb for gaining second-place in the English Speech.
+**Special recognition for Sophia ‘Unga-Cribb for gaining second-place in the English Speech.**
 
 We entered Quiz, Speeches, Talent Quest and Cultural Set.
 
