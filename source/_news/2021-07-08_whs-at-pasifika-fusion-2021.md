@@ -33,7 +33,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/198224428_10222380780842479_3522838658255061993_n.jpg
     description: Samoan dance (Fiafia night).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/201763806_10222380780042459_5168647181409696549_n.jpg
-    description: Tokelauan dance (Fiafia night).
+    description: Tokelau dance (Fiafia night).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/201134267_10222380784082560_6282184295862118923_n.jpg
     description: Tongan dance (Fiafia night).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/201471021_10222380781922506_424644301853210330_n.jpg
