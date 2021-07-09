@@ -63,4 +63,4 @@ Also, thank you to the parents and staff who helped make the trip possible.
 *Mrs Tahuaroa  
 Teacher in charge*
 
-(Photos courtesy of Mrs Tahuaroa)
+(Photos courtesy of Mrs Tahuaroa - click below photos to make bigger)
