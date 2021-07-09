@@ -26,16 +26,16 @@ image_gallery:
     description: Jeide Tyrell - English Speech (Fiafia night).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787996/News/Pasifika%20Fusion%202021/205375904_10222380778042409_5118608056296628083_n.jpg
     description: Molly Bullock - English speech (Fiafia night).
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787996/News/Pasifika%20Fusion%202021/204801102_4378027905554260_5613752315742640380_n.jpg
-    description: Tongan dance (Fiafia night).
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787996/News/Pasifika%20Fusion%202021/203497847_4378028162220901_1084103035885860779_n.jpg
-    description: Samoan dance (Fiafia night).
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/198224428_10222380780842479_3522838658255061993_n.jpg
-    description: Samoan dance (Fiafia night).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/201763806_10222380780042459_5168647181409696549_n.jpg
     description: Tokelau dance (Fiafia night).
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787996/News/Pasifika%20Fusion%202021/204801102_4378027905554260_5613752315742640380_n.jpg
+    description: Tongan dance (Fiafia night).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/201134267_10222380784082560_6282184295862118923_n.jpg
     description: Tongan dance (Fiafia night).
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/198224428_10222380780842479_3522838658255061993_n.jpg
+    description: Samoan dance (Fiafia night).
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787996/News/Pasifika%20Fusion%202021/203497847_4378028162220901_1084103035885860779_n.jpg
+    description: Samoan dance (Fiafia night).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787994/News/Pasifika%20Fusion%202021/201471021_10222380781922506_424644301853210330_n.jpg
     description: End of the Samoan dance (Fiafia night).
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625787997/News/Pasifika%20Fusion%202021/Pasifika_Fusion_2021.jpg
