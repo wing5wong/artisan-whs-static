@@ -2,7 +2,7 @@
 title: WHS at Pasifika Fusion 2021
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1625782674/News/tokelau_dance_Lisa.jpg
-  description: Students performing Tokelau dance.
+  description: Our students performing Tokelau dance.
 news_author:
   date: 2021-07-04T22:15:42.829Z
 image_gallery:
