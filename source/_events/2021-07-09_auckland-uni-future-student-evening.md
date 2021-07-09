@@ -1,5 +1,5 @@
 ---
-title: Auckland Uni Future Student Evening
+title: Auckland University Future Student Evening
 date: 2021-08-04T01:49:28.182Z
 ---
 Students interested in attending Auckland University in 2022 are invited to go to their "Future Student Evening" in Palmerston North on 4 August. 
