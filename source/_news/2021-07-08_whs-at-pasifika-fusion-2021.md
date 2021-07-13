@@ -58,7 +58,7 @@ We are looking forward to next year.
 
 Special thank you to our tutors Marie Aki and former students, Montel Aki and Josefa Tamaniyaga.
 
-Also, thank you to the parents and staff who helped make the trip possible.
+Also, thank you to the parents and staff, whose help and support made the trip possible.
 
 *Mrs Tahuaroa  
 Teacher in charge*
