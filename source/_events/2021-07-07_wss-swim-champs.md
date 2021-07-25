@@ -9,7 +9,8 @@ This year because of Covid earlier on they were pushed out to August.
 There will be NO Lifesaving, just Swim Champs.
 
 
-Students interested in taking part please sign up with Mrs Murphy in Te Wehi Gym Office before 2pm this Friday, 9 July.  Entries close in the school holidays.  
+Students interested in taking part please sign up with Mrs Murphy in Te Wehi Gym Office before Wednesday 28 July, Week 1, Term 3.  
+Entries close Friday 30 July.
 
 Any questions please see me in Te Wehi Gym Office.
 
