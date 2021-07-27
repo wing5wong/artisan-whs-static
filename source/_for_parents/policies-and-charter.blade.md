@@ -10,7 +10,7 @@ extends: _layouts.policies-and-charter
 
 Our School Charter is updated on an annual basis and is available below:
 
-View the 2020 Whanganui High School Charter
+[View the 2020 Whanganui High School Charter](https://res.cloudinary.com/whanganuihigh/image/upload/v1627358559/School%20Documents/Charter/WHS_Charter_2021.pdf)
 
 ## School Representatives
 
