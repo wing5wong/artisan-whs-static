@@ -7,3 +7,6 @@ Includes Victoria University & Massey Wellington, and might include WelTec and N
 Year 12s are welcome as well.  
 Register your interest by writing your name on the list at the Student Centre today, Tuesday 27 July, or PREFERRED,
 visit: [bit.ly/whswgtnod2021](https://docs.google.com/forms/d/e/1FAIpQLScb9oV0w_SbMxpXHNbJW6ujhhnYFtfuO1HKrBMTgC4yZeghQA/viewform) by Friday this week. If you DO NOT do this, you could miss out!
+
+*Mr Keene  
+Careers Advisor*
