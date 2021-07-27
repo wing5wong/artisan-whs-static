@@ -11,7 +11,7 @@ Gather all your friends and be a part of this amazing school event on Thursday 1
 
 Watch youtube video > <https://www.youtube.com/watch?v=YJfU5FM48t0>
 
-Sign up with your house bit.ly below.  
+SIGN UP with your house bit.ly below.  
 
 AWA\
 [https://bit.ly/signupawa](https://docs.google.com/forms/d/e/1FAIpQLScXW8EqYQHiBWnchIy_m6IUifYArDNvOttlTkswROoZzmC7sg/viewform?fbclid=IwAR0RjG-cYiRJA1CSsQc3RJs4JT55xj2INzjafr7zFWsehLzz-lR2tN4KDSA)  
