@@ -1,5 +1,5 @@
 ---
-title: Careers EXPO - Year 13
+title: UCOL Careers Day - Year 13
 date: 2021-08-04T04:27:36.403Z
 ---
 Thank you to the 80+ students who have signed up for the mini Careers EXPO at UCOL, Palmerston North on Wednesday 4 August. The buses are now full.  
