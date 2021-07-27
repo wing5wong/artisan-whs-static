@@ -4,9 +4,7 @@ date: 2021-08-18T21:54:16.407Z
 ---
 BATTLE OF THE HOUSES!  
 Sign up now to support your house and battle it out on the Opera House stage. 🤩  
-
 Singers, dancers, actors, musicians, and artists are all welcome!! 👍
-
 Gather all your friends and be a part of this amazing school event on Thursday 19 August! 👌
 
 Watch youtube video > <https://www.youtube.com/watch?v=YJfU5FM48t0>
