@@ -7,7 +7,7 @@ Sign up now to support your house and battle it out on the Opera House stage. ðŸ
 Singers, dancers, actors, musicians, and artists are all welcome!!  
 Gather all your friends and be a part of this amazing school event on Thursday 19 August! ðŸ‘Œ
 
-Watch youtube video: <https://www.youtube.com/watch?v=YJfU5FM48t0>
+Watch the Battle of the Houses 2020 youtube video: <https://www.youtube.com/watch?v=YJfU5FM48t0>
 
 SIGN UP with your house bit.ly below.  
 
