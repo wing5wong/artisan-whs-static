@@ -1,11 +1,9 @@
 ---
 title: Mrs C. Hunter
-position: Administration - Main Office
+position: Administration - Reprographics
 departments:
   - Support and Ancillary
-positions:
-  - department: Support and Ancillary
-    title: Administration - Main Office
+positions: []
 phone: +64-6-3490178
-email: office@whs.ac.nz
+email: hunter.c@whs.ac.nz
 ---
