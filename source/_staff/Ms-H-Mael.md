@@ -1,10 +1,7 @@
 ---
 title: Ms H. Mael
-position: Teacher Aide
+position: Main Office
 departments:
-  - Te Atawhai / Special Needs
-positions:
-  - department: Te Atawhai / Special Needs
-    title: Teacher Aide
+  - Support and Ancillary
+positions: []
 ---
-
