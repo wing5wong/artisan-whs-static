@@ -10,6 +10,6 @@ If you and a group of friends are wanting to play in the Whanganui Secondary Sch
 
 This is a mixed teams tournament with 6 players per team (Year 9-13) and a minimum of 2 girls. Each school can only have up to 4 teams so first in first served. Rules about the tournament will be on the Te Mana Gym Notice Board.
 
-Entries will CLOSE this Friday, 30 July.  
+Entries will CLOSE Friday, 30 July.  
 
 If you have any questions please come and see Miss Morgan in the Te Wehi Gym Office.
