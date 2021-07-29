@@ -4,7 +4,7 @@ date: 2021-08-09T04:22:16.972Z
 ---
 It's Back!!!
 
-If you and a group of friends are wanting to play in the Whanganui Secondary School Dodgeball Tournament on Monday 9 August at the Jubilee Stadium 3:30pm-5:30pm, please sign up using the bitly below:
+If you and a group of friends are wanting to play in the Whanganui Secondary School Dodgeball Tournament on Monday 9 August at the Jubilee Stadium 3:30pm-5:30pm, please SIGN UP up using the bitly below:
 
 [bit.ly/WSSDodgeball2021](https://docs.google.com/forms/d/e/1FAIpQLSd-8oEo6bU4CWwa9yAzC0iVyYZSiMv092rjphmoqX-OTaOeFA/viewform)
 
