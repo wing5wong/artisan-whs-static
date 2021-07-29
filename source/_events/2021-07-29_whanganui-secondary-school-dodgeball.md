@@ -1,5 +1,5 @@
 ---
-title: Whanganui Secondary School Dodgeball
+title: WSS Dodgeball - entries CLOSE 30 July
 date: 2021-08-09T04:22:16.972Z
 ---
 It's Back!!!
