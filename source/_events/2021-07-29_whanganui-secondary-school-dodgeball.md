@@ -1,5 +1,5 @@
 ---
-title: WSS Dodgeball - entries CLOSE 30 July
+title: WSS Dodgeball - entries close Friday 30 July
 date: 2021-08-09T04:22:16.972Z
 ---
 It's Back!!!
