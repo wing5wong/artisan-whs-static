@@ -22,5 +22,5 @@ BOOKINGS CLOSE at 5.00pm on Tuesday 10 August, the evening before the interviews
 
 Any queries or difficulties in booking your appointment times please phone 349 0177. 
 
-FYI - Ms Cansfield, Mrs Campbell, Mrs Langrish and Miss Viles will NOT be available for the Conferences.  If you need to speak to them please contact them via email.
+FYI - Ms Cansfield, Mrs Campbell, Mrs Langrish and Miss Viles will NOT be available for the Conferences.  If you need to speak to them please contact them via email.  
 Also, **students of Mr Costello**; when making your bookings please choose Mr Wrigglesworth as he is taking his classes.
