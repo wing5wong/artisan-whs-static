@@ -4,7 +4,8 @@ is_emergency: false
 date: 2021-07-09T02:26:28.418Z
 subtitle: Wednesday 11 and Thursday 12 August
 ---
-BOOKINGS OPEN at 5pm on MONDAY 2 AUGUST  
+BOOKINGS OPEN at 5pm on MONDAY 2 AUGUST
+  
 To book an interview AFTER 5pm on Monday 2 August, click the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 30 July) 
