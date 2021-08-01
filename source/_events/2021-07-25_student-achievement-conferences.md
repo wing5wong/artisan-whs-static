@@ -1,6 +1,7 @@
 ---
 title: Student Achievement Conferences
 date: 2021-08-10T21:51:19.682Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/School_Interviews_image.jpg
 ---
 BOOKINGS OPEN at 5pm on MONDAY 2 AUGUST
   
