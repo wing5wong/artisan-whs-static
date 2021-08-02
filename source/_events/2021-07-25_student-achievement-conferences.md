@@ -3,9 +3,8 @@ title: Student Achievement Conferences
 date: 2021-08-10T21:51:19.682Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/School_Interviews_image.jpg
 ---
-BOOKINGS OPEN at 5pm on MONDAY 2 AUGUST
-  
-To book an interview AFTER 5pm on Monday 2 August, click the following link:  
+BOOKINGS are now OPEN  
+Book an interview by clicking on the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 30 July) 
 
@@ -25,4 +24,3 @@ Any queries or difficulties in booking your appointment times please phone 349 0
 
 FYI - Ms Cansfield, Mrs Campbell and Mrs Langrish will NOT be available for the Conferences.  If you need to speak to them please contact them via email.  
 **Students of Mr Costello**; when making your bookings please choose Mr Wrigglesworth as he is taking Mr Costello's classes while he is away.
-
