@@ -9,9 +9,12 @@ Organisers have requested that students REGISTER. Please check your school e-mai
 Written confirmation of bus times will be in form registers by week's end.
 If you are visiting Massey as well, go to: https://opendays.massey.ac.nz/ and register for virtual open day but only get a ticket for Manawatu Campus visit.
 
-Those students involved should have received a confirmation note about this event, in Palmerston North, on Wednesday. Those on the 1st bus (which will also go to Massey) must be at the bus bay before 8am. Those on the 2nd bus, to UCOL only, go to the bus bay by 9am. 
+Those students involved should have received a confirmation note about this event.  
+Those on the 1st bus (which will also go to Massey) must be at the bus bay before 8am on Wednesday 4 August.  
+Those on the 2nd bus, to UCOL only, go to the bus bay by 9am on Wednesday 4 August. 
 
-Any issues, see Mr. Keene in LB1 today, Monday 2 August (during form time). Please remember to register on-line with UCOL (and Massey).
+Any issues, see Mr. Keene in LB1 today, Monday 2 August (during form time).  
+Please remember to register on-line with UCOL (and Massey).
 
 *Mr Keene  
 Careers Advisor*
