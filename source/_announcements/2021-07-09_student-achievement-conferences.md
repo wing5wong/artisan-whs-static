@@ -5,7 +5,7 @@ date: 2021-07-09T02:26:28.418Z
 subtitle: BOOKINGS ARE NOW OPEN
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616099574/Events/School_Interviews_image.jpg
 ---
-BOOKINGS are now OPEN 
+BOOKINGS are now OPEN  
 Book an interview by clicking on the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 30 July) 
