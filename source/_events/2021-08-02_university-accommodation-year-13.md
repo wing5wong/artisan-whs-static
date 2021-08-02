@@ -1,5 +1,5 @@
 ---
-title: University Accommodation - Year 13
+title: University Accommodation Applications open - Year 13
 date: 2021-08-01T01:23:32.741Z
 ---
 Applications for accommodation open on 1 August and close mid-September. 
