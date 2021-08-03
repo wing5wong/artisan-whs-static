@@ -6,4 +6,6 @@ Sports and Cultural photos on Thursday 5 August. Please check the Te Mana Gym No
 
 You must be changed and ready to go 10 minutes before your photo.
 
+Change of **venue for photo's** - they are now in the **Te Ihi Gym.**
+
 Any questions please come and see Mrs Murphy in the Te Wehi Gym Office.
