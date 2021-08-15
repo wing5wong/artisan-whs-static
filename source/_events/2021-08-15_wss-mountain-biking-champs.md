@@ -1,6 +1,6 @@
 ---
 title: WSS Mountain Biking Champs
-date: 2021-08-15T20:31:06.377Z
+date: 2021-08-26T20:31:06.377Z
 ---
 If you are interested in competing in the Whanganui Secondary School Mountain Biking Champs on Friday 27 August, please sign up using the bitly below.  
 More information about the day is on the bitly.
