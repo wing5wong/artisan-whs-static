@@ -1,5 +1,5 @@
 ---
-title: Whanganui Collegiate School sports exchange (away)
+title: Whanganui Collegiate School sports exchange (away) - CANCELLED
 date: 2021-08-17T21:52:58.907Z
 ---
 We have our annual Collegiate Sports Exchange on Wednesday 18 August at Collegiate.  
