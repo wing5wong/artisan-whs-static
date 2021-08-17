@@ -1,5 +1,5 @@
 ---
-title: Wellington & Victory University Open Day - Year 12/13
+title: Wellington & Victory University Open Day (Year 12/13) - will not be going ahead
 date: 2021-08-20T06:00:56.245Z
 ---
 Includes Victoria University & Massey Wellington, and might include WelTec and NZ Tourism school.  
