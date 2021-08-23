@@ -1,8 +1,8 @@
 ---
-title: "WSS Mountain Biking Champs "
+title: WSS Mountain Biking Champs - cancelled
 date: 2021-08-26T20:31:06.377Z
 ---
-**Sport Whanganui will update on Monday 23 August if this will be going ahead or not due to Covid-19.**
+CANCELLED DUE TO COVID-19.
 
 If you are interested in competing in the Whanganui Secondary School Mountain Biking Champs on Friday 27 August, please sign up using the bitly below.  
 More information about the day is on the bitly.
