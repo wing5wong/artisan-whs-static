@@ -2,42 +2,51 @@
 title: COVID Alert Level 4 Update
 is_emergency: true
 date: 2021-08-12T08:39:32.701Z
-subtitle: "Wednesday 18 August - Friday 20 August  "
+subtitle: "Wednesday 18 August - 11:59pm Friday 27 August  "
 ---
-Kia ora koutou katoa,
+Dear parents/caregivers
 
- 
 
-I hope you and your family are well and that Alert Level 4 is short in time.
 
- 
+I hope everything is well with you and your families as we continue with Alert Level 4. As I outlined on our main school Facebook page and on the main school website page on Wednesday, each Learning Area Faculty has their own individual Teaching and Learning Plan in action right now – each plan was based upon student/staff experiences and feedback regarding the most effective teaching and learning methods during the last lockdown.
 
-I emailed all of our teaching and support staff on Tuesday night and our Whanganui High School Covid Response Learning Area Plans will now be put into action from Wednesday until at least Friday afternoon.  What this effectively means is that during the next three days your children will hear from their teachers across our nine Learning Areas:  Technology; Mathematics; Science; Performing & Visual Arts; Digital Technologies; Languages; Social Sciences; English; Physical Education & Health.
 
- 
 
-Based upon our student and staff experiences and feedback from the last lockdown period, each Learning Area Faculty has a Covid Response Teaching and Learning Plan that works best for students and teachers in their own individual subject area.
+Please continue checking my emails, our main school Facebook page and the main school website page for important updates as they occur over the next few days and weeks.
 
- 
+Later today Sean Anderson (our Network Administration Manager) will text message the parents and caregivers of the 129 students (approximately 9% of our school roll) who borrow digital devices from the school each school day to complete their normal Google Classroom learning activities. Sean will seek confirmation that the students still require a school digital device to complete their online class work at home - he will then provide relevant details regarding the contactless handover of the devices from the school library this coming Monday and Tuesday.
 
-If Alert Level 4 progresses beyond 11:59pm Friday night for our region, I will send out further developments and updates on this page regarding contact from House Form Teachers, pastoral care and support available from our deans and counsellors, and our processes for the contactless handover of appropriate technology to students who borrow digital devices from the school.
 
- 
 
-I am very mindful that we do not want our students to be overwhelmed by immediate instant contact and school work expectations from six to eight subject teachers.  Most students will probably hear from three or four teachers today through Google Classroom or emails, and hear from a couple more teachers tomorrow and so on.
+I have asked all House Form teachers to make email contact with you over the next two days. Please let us know as soon as possible if your children require support in any area. To email any member of staff please follow this format: (family name.first letter of first name)@whs.ac.nz – for example, if John Walker worked at Whanganui High School his email address would be: walker.j@whs.ac.nz
 
- 
+---
 
-All the very best to you and your family over the next few days.
 
- 
+
+Counsellors: Jacqui McKenzie and Terry Tubman.
+
+SENCO/Learning Support: Glyn Cansfield; Specialist Classroom Teacher/Supported Learning: Jo Ander; Vocational Studies: Diane Howard; Careers: Paul Keene.
+
+
+Academic Dean: Jemma de Smidt; Positive Behaviour for Learning Co-ordinator: Rebecca Hardy; Maori Dean: Sean Brown; Kaiawhina: Cherie Cowan-Puru; International Dean: Beck Ding.
+
+
+Awa House: Elizabeth Spooner; Natalie Campbell; Matt Metcalfe.
+
+Maunga House: Jenny Langrish; Warren Marr; Jimmy Leonard.
+
+Moana House: Jemma de Smidt and Rebecca Hardy (temporary Moana House Co-Leaders until the end of 2021); Hunter Wilson; Phil Chiet.
+
+Whenua House – Paul Turner; Lisa Martin; Rebecca Kennedy.
+
+
+---
+
+I wish you and your family the very best over the next few days – reading, writing, exercise, art work and household chores are all perfectly appropriate learning activities for students if need be!
 
 Nga mihi,
 
- 
-
 Martin McAllen
 
-Principal
-
-Whanganui High School
+PRINCIPAL
