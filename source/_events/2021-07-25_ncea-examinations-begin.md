@@ -1,10 +1,10 @@
 ---
-title: NCEA examinations begin (dates changed due to Covid-19)
+title: NCEA EXAMINATIONS BEGIN (dates changed due to Covid-19)
 date: 2021-11-21T20:34:47.242Z
 ---
 ## **End of year exams and portfolios**
 
-The dates for end of year NCEA and NZ Scholarship exams will be delayed by two weeks, to run from ***Monday 22 November until Tuesday 14 December.***  Due dates for portfolio submissions will also be pushed back by 2 weeks.
+The dates for end of year NCEA and NZ Scholarship exams will be delayed by two weeks, to run from **Monday 22 November until Tuesday 14 December.**  Due dates for portfolio submissions will also be pushed back by 2 weeks.
 
 These two changes will give students and schools more time to prepare for the end of the year.
 
