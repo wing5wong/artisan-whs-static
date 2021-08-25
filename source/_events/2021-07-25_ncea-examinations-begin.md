@@ -2,7 +2,7 @@
 title: NCEA EXAMINATIONS BEGIN (dates changed due to Covid-19)
 date: 2021-11-21T20:34:47.242Z
 ---
-## **End of year exams and portfolios**
+## End of year exams and portfolios
 
 The dates for end of year NCEA and NZ Scholarship exams will be delayed by two weeks, to run from **Monday 22 November until Tuesday 14 December.**  Due dates for portfolio submissions will also be pushed back by 2 weeks.
 
@@ -11,13 +11,13 @@ These two changes will give students and schools more time to prepare for the en
 Schools will also not have to provide Level 1 or Level 2 Visual Arts portfolios for NZQA Verification.
 This also means there will be more time for students to finish their work, and for teachers to mark it.
 
-## **Mathematics Common Assessment Task (MCAT) and Digital Technologies & Hangarau Matihiko Common Assessment Tasks (DigiCATs)**
+## Mathematics Common Assessment Task (MCAT) and Digital Technologies & Hangarau Matihiko Common Assessment Tasks (DigiCATs)
 
 We are delaying the NCEA Level 1 Mathematics Common Assessment Task (MCAT) from 14 or 16 September for two weeks – to 28 or 30 September. This will give students who were due to sit the MCAT more time to prepare.
 
 At this stage, the dates for DigiCATs remain 20 Sept – 1 Oct and 18 – 27 October.
 
-## **Other changes**
+## Other changes
 
 As the length of time we are likely to remain in lockdown becomes clearer, there are extra steps the Government may take, such as reintroducing Learning Recognition Credits, or making changes to
 the thresholds for Endorsements and University Entrance. We are working with the Minister’s Professional Advisory Group and schools so that we would be in a position to implement them, depending on the duration of Alert Levels 3 and 4.
