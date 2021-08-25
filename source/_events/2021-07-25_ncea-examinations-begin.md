@@ -11,8 +11,7 @@ These two changes will give students and schools more time to prepare for the en
 Schools will also not have to provide Level 1 or Level 2 Visual Arts portfolios for NZQA Verification.
 This also means there will be more time for students to finish their work, and for teachers to mark it.
 
-**Mathematics Common Assessment Task (MCAT) and Digital Technologies & Hangarau
-Matihiko Common Assessment Tasks (DigiCATs)**
+**Mathematics Common Assessment Task (MCAT) and Digital Technologies & Hangarau Matihiko Common Assessment Tasks (DigiCATs)**
 
 We are delaying the NCEA Level 1 Mathematics Common Assessment Task (MCAT) from 14 or 16 September for two weeks – to 28 or 30 September. This will give students who were due to sit the MCAT more time to prepare.
 
