@@ -2,7 +2,7 @@
 title: COVID Alert Level 4 Update
 is_emergency: true
 date: 2021-08-12T08:39:32.701Z
-subtitle: "Wednesday 18 August - 11:59pm Friday 27 August  "
+subtitle: "Wednesday 18 August - 11:59pm Tuesday 31 August  "
 ---
 Dear parents/caregivers
 
