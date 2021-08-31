@@ -9,6 +9,4 @@ Please pass by C1 between 8.00-8.30am and sit down for weetbix or just pop in an
 
 EVERYONE IS WELCOME!!
 
-
-
-
+**Our 'Breakfast Stop' will begin again as soon as we are safely able to return to school.**
