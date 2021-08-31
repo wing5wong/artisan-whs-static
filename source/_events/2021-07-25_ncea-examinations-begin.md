@@ -11,11 +11,13 @@ These two changes will give students and schools more time to prepare for the en
 Schools will also not have to provide Level 1 or Level 2 Visual Arts portfolios for NZQA Verification.
 This also means there will be more time for students to finish their work, and for teachers to mark it.
 
+[2021 EXAMINATION TIMETABLE (published 26 August 2021)](https://www.nzqa.govt.nz/assets/qualifications-and-standards/qualifications/ncea/exams-and-portfolios/examination-timetable.pdf)
+
 ## Mathematics Common Assessment Task (MCAT) and Digital Technologies & Hangarau Matihiko Common Assessment Tasks (DigiCATs)
 
 We are delaying the NCEA Level 1 Mathematics Common Assessment Task (MCAT) from 14 or 16 September for two weeks – to 28 or 30 September. This will give students who were due to sit the MCAT more time to prepare.
 
-At this stage, the dates for DigiCATs remain 20 Sept – 1 Oct and 18 – 27 October.
+At this stage, the dates for DigiCATs remain 20 September – 1 October and 18 – 27 October.
 
 ## Other changes
 
