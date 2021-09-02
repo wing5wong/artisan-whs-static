@@ -9,7 +9,10 @@ The dates for end of year NCEA and NZ Scholarship exams will be delayed by two w
 These two changes will give students and schools more time to prepare for the end of the year.
 
 Schools will also not have to provide Level 1 or Level 2 Visual Arts portfolios for NZQA Verification.
-This also means there will be more time for students to finish their work, and for teachers to mark it.
+This also means there will be more time for students to finish their work, and for teachers to mark it.  
+
+Level 3 & Scholarship Visual Arts  
+The amended submission date for Level 3 & Scholarship Visual Arts is now 18 November.  This recognises the impact of the lockdown on the ability of students to complete their Level 3 & Scholarship portfolios (and workbooks). 
 
 [2021 EXAMINATION TIMETABLE (published 26 August 2021)](https://www.nzqa.govt.nz/assets/qualifications-and-standards/qualifications/ncea/exams-and-portfolios/examination-timetable.pdf)
 
@@ -17,7 +20,7 @@ This also means there will be more time for students to finish their work, and f
 
 We are delaying the NCEA Level 1 Mathematics Common Assessment Task (MCAT) from 14 or 16 September for two weeks – to 28 or 30 September. This will give students who were due to sit the MCAT more time to prepare.
 
-At this stage, the dates for DigiCATs remain 20 September – 1 October and 18 – 27 October.
+The dates for DigiCATs will be 20 September – 1 October and 18 October – 12 November.
 
 ## Other changes
 
