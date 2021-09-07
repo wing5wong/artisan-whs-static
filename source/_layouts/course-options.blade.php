@@ -21,19 +21,6 @@ $levels = [
 @endphp
 
 
-<div class="row">
-    <div class="col">
-        <h3>Quick Reference</h3>
-        <details>
-            <summary>Show Quick reference</summary>
-            <iframe
-                src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRd4r12Eku3C6QvYKC4tDF7O_qyldcjuPahlP7Xo6m76xtJlvB59MA_O1FVlLHl7mv2EYDI7kJwpfHo/pubhtml?gid=53379054&amp;single=true&amp;widget=true&amp;headers=false"
-                width="930" height="600"></iframe>
-        </details>
-
-        <hr>
-    </div>
-</div>
 
 
 
