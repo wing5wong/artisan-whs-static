@@ -2,7 +2,6 @@
 title: Student Option Selection for 2022
 date: 2021-09-08T21:56:06.804Z
 ---
-Student Option Selection will begin as soon as we are safely able to give students information about what their 2022 courses might look like. 
+Student Option Selection for 2022 will begin on Thursday 9 September, when students return to school under Alert Level 2.
 
-**We will inform whanau regarding a new timetable as soon as we are safely able to return to school.**
 
