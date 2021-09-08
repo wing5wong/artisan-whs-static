@@ -15,7 +15,7 @@ Period 1
 
 
 Period 2  
-**10:05am MAU**: CR ; DJ ; DR ; DR ; HC ; HD ; HL ; HN ; LL ; LO
+**10:05am MAU**: CR ; DJ ; DR ; DR ; HC ; HD ; HL ; HN ; LL ; LO  
 **10.35am MAU**: SL ; SU.  **MOA**: AD ; AR ; CK ; CS ; DU ; HS ; HU  
 
 Reminder next group directly to Library after break  
