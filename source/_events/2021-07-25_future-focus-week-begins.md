@@ -9,7 +9,7 @@ Please bring your device. Students coming across in the middle of a class are to
 
 
 
-Form-Teachers – Please ensure Period 1 – 9.05am go directly to the Library
+Form-Teachers – Please ensure Period 1 – 9.05am go directly to the Library.
 
 Period 1  
 **9:05am AWA**: BH ; BT ; CV ; FH ; FK ; FR ; FS  
