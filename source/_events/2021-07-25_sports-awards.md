@@ -1,7 +1,7 @@
 ---
-title: "Sports Awards "
-date: 2021-09-29T20:23:43.622Z
+title: Sports Awards 2021
+date: 2021-11-03T20:23:43.622Z
 ---
-Our Sports Awards are on Thursday 30 September.
+Our Sports Awards have been rescheduled to Thursday, 4 November due to Covid.
 
 More information to follow closer to the event.
