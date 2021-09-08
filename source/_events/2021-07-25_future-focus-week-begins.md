@@ -24,7 +24,7 @@ Period 2
 Reminder next group directly to Library after break  
 
 Period 3  
-**11.50am MOA**: PR ; PS ; PT ; RV ; SE ; SV. **WHE**: BC ; BG  
+**11.50am MOA**: PR ; PS ; PT ; RV ; SE ; SV. **WHE**: BC ; BG  
 **12.15pm WHE**: BL ; BW ; DS ; GG ; GL ; GM ; HT ; KS ; LB  
 
 Period 4  
