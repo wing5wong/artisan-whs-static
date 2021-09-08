@@ -2,7 +2,7 @@
 title: Year 10 Course Selections for 2022
 date: 2021-09-08T21:56:06.804Z
 ---
-Year 10 Students are to come to the Library today at the following times BASED on your Form Classes to meet with Mr Turner to go over Course Selections for 2022.
+Year 10 Students are to come to the Library today, Thursday 9 September, at the following times BASED on your Form Classes to meet with Mr Turner to go over Course Selections for 2022.
 
 
 Please bring your device. Students coming across in the middle of a class are to wait outside the front doors of the Library until invited in. If it is raining you can wait just inside the doors VERY quietly.
