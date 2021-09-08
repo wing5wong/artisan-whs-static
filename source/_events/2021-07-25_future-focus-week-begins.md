@@ -25,7 +25,7 @@ Period 3
 **12.15pm WHE**: BL ; BW ; DS ; GG ; GL ; GM ; HT ; KS ; LB  
 
 Period 4  
-**12.50pm WHE**: SI ; TI ; WA ; **+ Any Yr 10 who missed out** with note from class teacher
+**12.50pm WHE**: SI ; TI ; WA ; **+ Any Yr 10 who missed out** with note from class teacher.
 
 
 
