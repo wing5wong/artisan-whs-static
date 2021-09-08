@@ -9,7 +9,6 @@ Please bring your device. Students coming across in the middle of a class are to
 
 
 
-**TIMES**  
 Form-Teachers – Please ensure Period 1 – 9.05am go directly to the Library
 
 Period 1  
