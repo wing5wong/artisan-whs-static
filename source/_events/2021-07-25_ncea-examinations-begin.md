@@ -1,5 +1,5 @@
 ---
-title: NCEA EXAMINATIONS BEGIN (dates changed due to Covid-19)
+title: NCEA EXAMINATIONS BEGIN
 date: 2021-11-21T20:34:47.242Z
 ---
 ## **End of year exams and portfolios**
