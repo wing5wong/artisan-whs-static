@@ -2,12 +2,14 @@
 title: WHS Senior Examinations
 date: 2021-09-22T22:03:09.364Z
 ---
-WHANGANUI HIGH SCHOOL SENIOR EXAMINATIONS  
-Thursday, 23 September – Friday, 1 October. 
+### WHANGANUI HIGH SCHOOL SENIOR EXAMINATIONS  
 
 
-##### **Instructions for Students**  
-The exams begin on Thursday 23 September and conclude on Friday 1 October. Between these dates Year 11, 12 and 13 students will be either sitting exams, attending practical sessions and reassessments, or at home on study leave. Students with no study pass have been told where to report in the above timetable. If not at school while on study leave, students are expected to be in their own homes.  **School commences for all students on Monday 18 October 2021, start of Term 4.**
+
+#### Instructions for Students  
+The exams begin on Thursday 23 September and conclude on Friday 1 October.  
+Between these dates Year 11, 12 and 13 students will be either sitting exams, attending practical sessions and reassessments, or at home on study leave. Students with no study pass have been told where to report in the above timetable. If not at school while on study leave, students are expected to be in their own homes.  
+**School commences for all students on Monday 18 October 2021, start of Term 4.**
   
  
 ·         **Supervised study facilities will be available in the Library** during the exam period for those students who wish to use them, or whose parents expect them to be at school, or for those students the school has directed to use them.
@@ -40,4 +42,6 @@ The exams begin on Thursday 23 September and conclude on Friday 1 October. Betwe
  
 ·         **Students should have begun their study for these exams.** Advice on how and what to study for each subject can be obtained from your subject teachers.
  
-·         It is particularly important for all students to achieve good marks in these exams. Should you have the misfortune to be ill during the External Examinations then these School exam marks become very important if you apply for a derived grade - compassionate consideration.    	
+·         It is particularly important for all students to achieve good marks in these exams. Should you have the misfortune to be ill during the External Examinations then these School exam marks become very important if you apply for a derived grade - compassionate consideration.  
+
+  	
