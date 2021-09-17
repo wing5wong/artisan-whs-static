@@ -1,10 +1,7 @@
 ---
-title: WHS Senior Examinations
+title: WHANGANUI HIGH SCHOOL SENIOR EXAMINATIONS
 date: 2021-09-22T22:03:09.364Z
 ---
-### WHANGANUI HIGH SCHOOL SENIOR EXAMINATIONS  
-
-
 
 #### Instructions for Students  
 The exams begin on Thursday 23 September and conclude on Friday 1 October.  
