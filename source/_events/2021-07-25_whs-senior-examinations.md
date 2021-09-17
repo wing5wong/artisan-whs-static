@@ -7,6 +7,8 @@ date: 2021-09-22T22:03:09.364Z
 **The examinations begin on Thursday 23 September and conclude on Friday 1 October.**  
 Between these dates Year 11, 12 and 13 students will be either sitting exams, attending practical sessions and reassessments, or at home on study leave. Students with no study pass have been told where to report in the above timetable. If not at school while on study leave, students are expected to be in their own homes.  
 **School commences for all students on Monday 18 October 2021, start of Term 4.**
+
+____
   
  
 ·         **Supervised study facilities will be available in the Library** during the exam period for those students who wish to use them, or whose parents expect them to be at school, or for those students the school has directed to use them.
