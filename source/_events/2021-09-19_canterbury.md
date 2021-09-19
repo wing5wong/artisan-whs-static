@@ -8,5 +8,4 @@ Victoria: Thursday 21 October
 Canterbury: Friday 22 October  
 
 All will be in the library at first break and you may attend ONE session - it's time to decide your first choice.  
-Please REGISTER at [bit.ly/whscourseplan2021](https://docs.google.com/forms/d/e/1FAIpQLSfRkGJES6EGw4UnuCbupmgVNrsCO2g09NmPf6uLc1N2Tz96VA/viewform),
-or try this link: https://forms.gle/wHaTH6def5itaVdY9Otago
+Please REGISTER at [bit.ly/whscourseplan2021](https://docs.google.com/forms/d/e/1FAIpQLSfRkGJES6EGw4UnuCbupmgVNrsCO2g09NmPf6uLc1N2Tz96VA/viewform).
