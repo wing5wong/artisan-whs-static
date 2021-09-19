@@ -1,5 +1,5 @@
 ---
-title: Canterbury
+title: Canterbury University Course Planning - Year 13
 date: 2021-10-21T22:27:15.502Z
 ---
 Three universities are visiting school during the first week of term 4, to run course planning sessions with interested year 13 students.  
