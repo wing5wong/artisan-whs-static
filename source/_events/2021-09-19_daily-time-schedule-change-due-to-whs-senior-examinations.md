@@ -1,5 +1,5 @@
 ---
-title: Daily Time Schedule change for Junior School due to WHS Senior Examinations
+title: Change of Time Schedule for Junior School during Senior Examinations
 date: 2021-09-22T20:04:27.920Z
 ---
 School examinations begin for students in Years 11, 12 and 13, on Thursday 23 September, and conclude on Friday 1 October which is the last day of the term.
