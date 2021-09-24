@@ -1,6 +1,6 @@
 ---
 title: Change of Time Schedule for Junior School during Senior Examinations
-date: 2021-09-23T20:04:27.920Z
+date: 2021-09-26T19:04:27.920Z
 ---
 School examinations begin for students in Years 11, 12 and 13, on Thursday 23 September, and conclude on Friday 1 October which is the last day of the term.
 
