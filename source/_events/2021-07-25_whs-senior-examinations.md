@@ -1,6 +1,6 @@
 ---
 title: WHANGANUI HIGH SCHOOL SENIOR EXAMINATIONS
-date: 2021-09-28T21:03:09.364Z
+date: 2021-09-29T21:03:09.364Z
 ---
 
 #### Instructions for Students  
