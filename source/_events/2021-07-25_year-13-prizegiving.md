@@ -7,3 +7,5 @@ Year 13 Prizegiving will be held in our School Hall on Tuesday 16 November, star
 Final reports will be issued to students and sent to families via email.
 
 This is the last day for Year 13 students.
+
+**Note:** We are planning to have a breakfast for our Year 13 students on the morning of Tuesday 16 November. Further details will be provided once we have finalised our plans.
