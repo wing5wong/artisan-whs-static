@@ -5,7 +5,7 @@ image_gallery: []
 ---
 Awards Time !!!  
 
-Our rescheduled Arts/Cultural Awards will be held in our School Hall on Tuesday, 2 November at 7pm.  Drinks and Nibbles 6-7pm.
+Our rescheduled Arts/Cultural Awards will be held in our School Hall on Tuesday, 2 November at 6pm. 
 
 
 There is nothing better than celebrating the success of our students and we love to do that in style.  
