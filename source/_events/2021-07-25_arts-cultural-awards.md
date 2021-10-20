@@ -5,5 +5,7 @@ image_gallery: []
 ---
 Our rescheduled Arts/Cultural Awards will be held in our School Hall on Tuesday, 2 November at 6pm. 
 
+More information to follow.
+
 
 
