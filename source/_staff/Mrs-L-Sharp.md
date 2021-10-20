@@ -1,5 +1,5 @@
 ---
-title: Miss S. Harding
+title: Ms S. Harding
 position: Science Technician
 departments:
   - Support and Ancillary
