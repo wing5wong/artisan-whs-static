@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Sharp
+title: Miss S. Harding
 position: Science Technician
 departments:
   - Support and Ancillary
