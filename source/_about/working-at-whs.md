@@ -1,10 +1,10 @@
 ---
-title: Working at WHS
+title: New Vacancy for a BURSAR
 date: 2019-07-24T01:00:00.000Z
 tags:
   - About WHS
-image: ''
-visible: 'Yes'
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1634851013/newsletters/BURSAR_October_2021.pdf
+visible: Yes
 ---
 ## Teaching Vacancies
 
