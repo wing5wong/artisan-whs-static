@@ -1,6 +1,6 @@
 ---
 title: Miss S. Harding
-position: Science Technician
+position: Science Technician Assistant
 departments:
   - Support and Ancillary
 positions:
