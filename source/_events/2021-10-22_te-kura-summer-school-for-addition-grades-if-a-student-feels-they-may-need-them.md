@@ -1,5 +1,5 @@
 ---
-title: Te Kura Summer School - For addition grades if a student feels they may
+title: Te Kura Summer School - For additional grades if a student feels they may
   need them.
 date: 2021-10-22T03:22:54.351Z
 ---
