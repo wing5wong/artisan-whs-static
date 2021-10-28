@@ -1,11 +1,11 @@
 ---
 title: Mrs B. Rudolph
-position: Director of International Students // Head of International English / ESOL
+position: Director of International Students / Head of International English / ESOL
 departments:
   - International
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597801951/staff/-Whanganui-High-School-005.jpg
 positions:
-  - title: Director of International Students // Head of International English / ESOL
+  - title: Director of International Students / Head of International English / ESOL
     department: International
 email: rudolph.b@whs.ac.nz
 ---
