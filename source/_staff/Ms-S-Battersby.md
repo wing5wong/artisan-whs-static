@@ -1,9 +1,9 @@
 ---
-title: Ms S. Battersby
+title: Mrs W. Jervis
 departments:
   - Vocational Studies
 positions:
   - department: Vocational Studies
-    title: Vocational Studies Administrator
-email: battersby.s@whs.ac.nz
+    title: Student Support
+email: ""
 ---
