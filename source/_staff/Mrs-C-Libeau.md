@@ -6,7 +6,7 @@ departments:
 positions:
   - title: Assistant HOF Social Sciences
     department: Social Sciences
-  - title: Acting Head of Accounting
+  - title: Head of Accounting
     department: Social Sciences
 email: libeau.c@whs.ac.nz
 ---
