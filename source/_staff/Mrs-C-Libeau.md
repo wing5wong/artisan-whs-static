@@ -1,6 +1,6 @@
 ---
 title: Mrs C. Libeau
-position: Assistant HOF Social Sciences, Acting Head of Accounting
+position: Assistant HOF Social Sciences, Head of Accounting
 departments:
   - Social Sciences
 positions:
