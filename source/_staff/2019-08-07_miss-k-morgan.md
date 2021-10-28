@@ -7,7 +7,4 @@ departments:
 positions:
   - department: Support and Ancillary
     title: Sports - Sports Assistant
-  - department: Learning Support Centre
-    title: Teacher Aide
 ---
-
