@@ -22,7 +22,7 @@ $levels = [
 
 
 
-
+<a href="https://res.cloudinary.com/whanganuihigh/image/upload/v1635475620/Website%20Course%20selection%20files/2022_WHS_Options_PPT_for_Year_9_into_Year_10.pptx.pdf" target="_BLANK">Read the 2022 Course options information for year 9 and 10s</a>
 
 <ul class="nav nav-tabs" id="myTab" role="tablist">
 
