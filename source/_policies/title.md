@@ -10,7 +10,7 @@ policyAreas:
         policy: 1.5 Learners with Special Education Needs
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1627613879/School%20Policies/1.6_-Education_beyond_the_Whanganui_High_School_Site_updated_June_2021.pdf
         policy: 1.6 - Education Beyond the Whanganui High School Site
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1567372135/School%20Policies/1.7_-Information_and_Communication_Technology_updated_August_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797845/School%20Policies/1.7_-Information_and_Communication_Technology_updated_October_2021.pdf
         policy: 1.7 Information and Communication Technology
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1604007947/School%20Policies/1.7b_-Use_of_the_Internet_updated_October_2020.pdf
         policy: 1.7b Use of the Internet
@@ -48,7 +48,7 @@ policyAreas:
         policy: 3.11 Sexual Harassment
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/3.12_-Complaints_and_Associated_Staff_Discipline_updated_October_2019.pdf
         policy: 3.12 Complaints and Associated Staff Discipline
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554683537/School%20Policies/3.13---Anti-Violence_-Abuse_-Bullying-Police---October-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/3.13_-_Anti-Violence_Abuse_Bullying_-_October_2021.pdf
         policy: 3.13 Anti-Violence, Abuse and Bullying
     policyArea: 3. Personnel
   - policies:
@@ -66,15 +66,15 @@ policyAreas:
         policy: 4.6 Theft and Fraud Protection
     policyArea: 4. Finance and Property
   - policies:
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1595889170/School%20Policies/5.1_-Health_and_Safety_Policy_updated_July_2020_web.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635798158/School%20Policies/5.1_-Health_and_Safety_Policy_updated_October_2021.pdf
         policy: 5.1 Health and Safety
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1602467251/School%20Policies/5.2_Emergencies_Policy_updated_August_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/5.2_Emergencies_Policy_updated_October_2021.pdf
         policy: 5.2 Emergencies
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1602467251/School%20Policies/5.3_Post_Disaster_Survival_updated_August_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/5.3_Post_Disaster_Survival_Policy_updated_October_2021.pdf
         policy: 5.3 Post Disaster Survival
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/5.4--Student-Discipline-Policy-_-updated-November-2016.pdf
         policy: 5.4 Student Discipline
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1602467250/School%20Policies/5.5_Sexuality_Education_Policy_updated_August_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797845/School%20Policies/5.5_Sexuality_Education_Policy_updated_October_2021.pdf
         policy: 5.5 Sexuality Education
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/5.6_-_Alcohol_Tobacco_Vaping_Drugs_Policy_updated_November_2020.pdf
         policy: 5.6 Drugs
@@ -96,7 +96,7 @@ policyAreas:
         policy: 6.2 Attendance
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1625544867/School%20Policies/6.4_Privacy_updated_May_2021.pdf
         policy: 6.4 Privacy
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.5---CCTV.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/6.5_CCTV_Policy_updated_October_2021.pdf
         policy: 6.5 CCTV
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.6-Copyright--Licences_-updated-July-2018.pdf
         policy: 6.6 Copyright and Licences
