@@ -1,5 +1,5 @@
 ---
-title: Year 13 Prizegiving
+title: Year 13 Prizegiving & Graduation Breakfast
 date: 2021-11-15T20:28:16.816Z
 ---
 Year 13 Prizegiving will be held in our School Hall on Tuesday 16 November, starting at 7.00pm, followed by supper in the Library for students and their families.
