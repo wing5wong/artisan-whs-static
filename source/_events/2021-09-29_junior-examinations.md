@@ -2,7 +2,7 @@
 title: Junior Examinations
 date: 2021-11-19T01:53:33.839Z
 ---
-Junior Examinations are on Friday 19 November and Monday 22 November.
+JUNIOR EXAMINATIONS are on Friday 19 November and Monday 22 November.
 
 The timetable for these will be emailed to parents once it is confirmed.  
 Students sit examinations in English, Mathematics, Science and Social Studies.
