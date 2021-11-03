@@ -2,7 +2,7 @@
 title: Year 12 Prizegiving
 date: 2021-11-16T20:30:38.441Z
 ---
-Year 12 Prizegiving will be held in our School Hall on Wednesday 17 November, starting at 1.30pm.
+YEAR 12 PRIZEGIVING will be held in our School Hall on Wednesday 17 November, starting at 1.30pm.
 
 Numbers attending is pending – subject to the Covid-19 situation closer to the time.  
 
