@@ -15,6 +15,8 @@ Tuesday 16 November at 7:45am
 Eulogy Lounge  
 Whanganui Racecourse  
 
-Sign up and collect your ticket from Mrs de Smidt outside the Deans' House at First Break on Tuesday 2 November, Wednesday 3 November, Thursday 4 November.  
+Tickets are available from Mrs de Smidt at the Dean's House at first break on Tuesday 2 November, Wednesday 3 November, Thursday 4 November. Tickets must be individually collected.  
+A reminder that the 2021 Record will be given out at the breakfast.
+
 ENTRY BY TICKET ONLY.
 
