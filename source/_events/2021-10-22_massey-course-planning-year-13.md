@@ -1,6 +1,6 @@
 ---
 title: Massey Course Planning - Year 13
-date: 2021-11-10T02:16:01.080Z
+date: 2021-11-11T02:16:01.080Z
 ---
 From Massey University:  
 "We will again be offering Virtual Course Planning Sessions between Monday 8 November - Friday 12 November, with the Massey University Recruitment Team."
