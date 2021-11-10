@@ -1,5 +1,5 @@
 ---
-title: Te Kura Summer School - Registrations open from 8 November 2021
+title: Te Kura Summer School - Registrations are open
 date: 2021-11-11T03:22:54.351Z
 ---
 Te Kura Summer School - For additional grades if a student feels they may need them.
