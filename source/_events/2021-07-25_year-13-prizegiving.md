@@ -1,5 +1,5 @@
 ---
-title: "Year 13 Graduation Breakfast & Prizegiving "
+title: "Year 13 Graduation Breakfast & PRIZEGIVING "
 date: 2021-11-15T20:28:16.816Z
 ---
 **Class of 2021 Graduation Breakfast**  
