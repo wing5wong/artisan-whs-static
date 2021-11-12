@@ -7,9 +7,10 @@ Year 12 students are expected to attend. This ceremony should finish at approxim
 
 Sadly, due to Covid restrictions parents will be unable to attend any of these prizegivings, but it will be live streamed. 
 
-Final reports will be issued to students and sent to families via email.  
-
-Years 9, 10, and 11 are released at 12.50pm. 
+Final reports will be issued to students and sent to families via email. 
 
 This is the last day for Year 12 students.
+
+(Years 9, 10, and 11 are released at 12.50pm) 
+
 
