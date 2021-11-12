@@ -11,6 +11,6 @@ Final reports will be issued to students and sent to families via email.
 
 This is the last day for Year 11 students.  
 
-(Years 9 and 10 are released at 12.50pm.) 
+(Years 9 and 10 are released at 12.50pm) 
 
 
