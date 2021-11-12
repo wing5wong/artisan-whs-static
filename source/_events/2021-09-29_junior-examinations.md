@@ -17,10 +17,10 @@ The examination schedule is as follows:
 
 
 
-**Time schedule for each day:**\
-Form time:  	8.45 – 9.00am\
-Exam 1:       	9.10 – 11.10am\
-Lunch:         	11.10 – 12.00pm\
+**Time schedule for each day:**  
+Form time:  	8.45 – 9.00am  
+Exam 1:       	9.10 – 11.10am  
+Lunch:         	11.10 – 12.00pm  
 Exam 2:       	12.10 – 2.10pm  
 
 Students may go home at 2.10pm.  
