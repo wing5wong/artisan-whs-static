@@ -1,26 +1,30 @@
 ---
-title: Year 13 Prizegiving & Graduation Breakfast
+title: "Year 13 Graduation Breakfast & Prizegiving "
 date: 2021-11-15T20:28:16.816Z
 ---
-YEAR 13 PRIZEGIVING will be held in our School Hall on Tuesday 16 November, starting at 7.00pm, followed by supper in the Library for students and their families.
-
-Numbers attending is pending – subject to the Covid-19 situation closer to the time.  
-
-Final reports will be issued to students and sent to families via email.
-
-This is the last day for Year 13 students.
-
-____________
-____________
-
 **Class of 2021 Graduation Breakfast**  
 Tuesday 16 November at 7:45am  
 Eulogy Lounge  
 Whanganui Racecourse  
 
-TICKETS are available from Mrs de Smidt at the Dean's House at first break on Tuesday 2 November, Wednesday 3 November and Thursday 4 November.  
-Tickets must be individually collected.  
-A reminder that the 2021 Record will be given out at the breakfast.
+The Graduation breakfast is being held in the Eulogy Lounge at the Whanganui Racecourse and students have had to sign up to receive a ticket of entry.  
+They are expected to wear their summer uniform and the start time is 7.45am (have to be there by 8.00am).  
+At the conclusion of this event, the Year 13 students have to go home.
 
-ENTRY BY TICKET ONLY.
+
+A reminder that the 2021 Record will be given out at the breakfast.
+________________
+________________
+
+Students are to attend their final Form Time that evening at 6.15pm prior to their Prizegiving.
+
+
+YEAR 13 PRIZEGIVING begins at 7.00pm in the School Hall.
+
+Sadly, due to Covid restrictions parents will be unable to attend any of these prizegivings, but it will be live streamed.  
+
+Final reports will be issued to students and sent to families via email.
+
+
+
 
