@@ -1,5 +1,5 @@
 ---
-title: Final day for the Junior School / Prizegiving
+title: Final day for the Junior School / PRIZEGIVING
 date: 2021-12-09T20:35:56.822Z
 ---
 Final day for the Junior School is on Friday 10 December.  
