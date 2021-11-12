@@ -11,8 +11,6 @@ Students will need to bring their devices and writing equipment on both days.
 
 The examination schedule is as follows:
 
-**Timetable:**  
-
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1636677341/Events/Junior_Exam_Timetable.jpg)
 
 
