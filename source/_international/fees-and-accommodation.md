@@ -4,9 +4,7 @@ date: 2021-03-03T01:01:54.384Z
 ---
 *The tuition fee covers four or part terms from the starting date for the student. Included in the school fee are the cost of class fees, textbooks, the international student photo, the yearbook and the orientation course at the start. All prices are in New Zealand dollars. You can download an application form from here:*
 
-[2021 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1597874753/International/WHS_International_Application_Form_2021.pdf)
-
-[2021 Fee Schedule](https://res.cloudinary.com/whanganuihigh/image/upload/v1595993041/International/2021_Fee_Schedule.pdf)
+[2021-2023 International Student Application Form](https://res.cloudinary.com/whanganuihigh/image/upload/v1635975042/International/Student_Application_Form_Homestay_Docs_2021_-_2023.pdf)
 
 ## Tuition Fee:
 
@@ -101,13 +99,13 @@ If you have a complaint, please contact the Director of International Students i
 
 ## **Contact:**
 
-Mrs Brenda Rudolph  
-Director of International Students  
-Whanganui High School  
-Box 4022  
-Whanganui  
+Mrs Brenda Rudolph\
+Director of International Students\
+Whanganui High School\
+Box 4022\
+Whanganui\
 NEW ZEALAND  
 
-Ph No. +64 6 349 0178  
-Fax No. +64 6 349 0176  
+Ph No. +64 6 349 0178\
+Fax No. +64 6 349 0176\
 Email: director.int@whanganuihigh.school.nz
