@@ -1,5 +1,5 @@
 ---
-title: Junior Examinations
+title: JUNIOR EXAMINATIONS
 date: 2021-11-19T01:53:33.839Z
 image_gallery: []
 ---
