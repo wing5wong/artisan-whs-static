@@ -8,15 +8,15 @@ date: 2021-03-03T01:01:54.384Z
 
 ## Tuition Fee:
 
-**Standard Year Course: NZ $14,500**
+**Standard Year Course: NZ $15,000**
 
 This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,250; Three terms - $10,875.
 
-**Premium Year Course: NZ $16,000**
+**Premium Year Course: NZ $16,500**
 
 This course is designed for new students who require intensive language support in their first year, includes up to 5 classes of English a week, full immersion. Two terms - $8,000; Three terms - $12,000.
 
-**Short Course: NZ $435 per week**
+**Short Course: NZ $450 per week**
 
 One Term or less
 
@@ -25,6 +25,8 @@ One Term or less
 **NZ $1300 -** for long term students (over 6 months) 
 
 **NZ $650 -** for short stay (6 months or less).
+
+**NZ $500 -** for short stay (10 weeks or less).
 
 Includes:
 
@@ -40,11 +42,13 @@ Includes:
 
 **NZ $520 -** Travel and health insurance for 11 months (for students staying less than 1 year)
 
+**NZ $200 -** Travel and health insurance for 11 months (for students staying less than 10 weeks)
+
 All students must have full insurance (personal effects, health and accident insurance). We use and recommend [UNI-CARE](https://www.uni-care.org/). If providing your own insurance, please supply the school with a copy in English of your policy details, once purchased.
 
 ## **Accommodation Fee**
 
-**Homestay Fee: NZ $11,475** (for a full academic year of 45 weeks or $255 per week for a part of a year)
+**Homestay Fee: NZ $11,700** (for a full academic year of 45 weeks or $260 per week for a part of a year)
 
 *The homestay fee covers the following:*
 
