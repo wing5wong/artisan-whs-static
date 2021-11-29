@@ -9,3 +9,7 @@ PRIZEGIVING will begin at 11.00am and should be finished by approximately 12.30p
 Students will be issued with their end of year reports at their final form time at the end of prizegiving and then released to go home.
 
 Reports will also be emailed to parents/caregivers.
+
+Sadly, due to Covid restriction parents will be unable to attend the Prizegiving, however it will be **live streamed** on the following link:
+
+
