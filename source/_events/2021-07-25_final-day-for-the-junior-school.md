@@ -10,5 +10,5 @@ Students will be issued with their end of year reports at their final form time 
 
 Reports will also be emailed to parents/caregivers.
 
-Sadly, due to Covid restrictions parents will be unable to attend the Prizegiving, however it will be **live streamed** on the following link:  \
+Sadly, due to Covid restrictions parents will be unable to attend the Prizegiving, however it will be **live streamed** on the following link:  
 <https://www.youtube.com/c/WhanganuiHigh>
