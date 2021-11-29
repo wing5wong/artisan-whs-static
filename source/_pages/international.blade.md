@@ -43,15 +43,15 @@ blocks:
 
 <div class="image-gallery row">
         <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240657/International/Landing/CF_4.jpg">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152738/International/Landing/2022/-Whanganui-High-School-236.jpg">
         </div>
 
         <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240648/International/Landing/-WGSchools-267.jpg">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152742/International/Landing/2022/-Whanganui-High-School-069_-_Copy.jpg">
         </div>
 
         <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240641/International/Landing/Athletics-_House_Competition.jpg">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152738/International/Landing/2022/-Whanganui-High-School-219.jpg">
         </div>
 
         <div class="col-sm-6 col-md-4 col-lg-4">
@@ -59,10 +59,10 @@ blocks:
         </div>
 
         <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240640/International/Landing/IMG_7254.jpg">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152731/International/Landing/2022/Fun_shot.jpg">
         </div>
 
         <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240640/International/Landing/IMG_8369.jpg">
+          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152731/International/Landing/2022/Surfing_2.jpg">
         </div>
     </div>
