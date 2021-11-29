@@ -3,5 +3,9 @@ title: Final day for the Junior School / PRIZEGIVING
 date: 2021-12-09T20:35:56.822Z
 ---
 Final day for the Junior School is on Friday 10 December.  
-PRIZEGIVING starts at 11.00am in our School Hall.  
-Final WHS reports for 2021 will be issued to students in their form classes after prizegiving and emailed to parents.
+
+Form time is at the usual time.  
+PRIZEGIVING will begin at 11.00am and should be finished by approximately 12.30pm.  
+Students will be issued with their end of year reports at their final form time at the end of prizegiving and then released to go home.
+
+Reports will also be emailed to parents/caregivers.
