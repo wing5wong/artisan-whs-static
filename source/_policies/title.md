@@ -26,11 +26,11 @@ policyAreas:
         policy: 2.2 School's Self-Review
     policyArea: 2. Documentation and Self Review
   - policies:
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1574824713/School%20Policies/3.1_-_Board_of_Trustees_Employer_Policy_updated_November_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.1_-_Board_Employer_Policy_updated_November_2021.pdf
         policy: 3.1 Board of Trustees' "Employer" Policy
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554683534/School%20Policies/3.2---Appointment-of-Staff-Policy_-updated-November-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.2_-_Appointment_of_Staff_Policy_updated_November_2021.pdf
         policy: 3.2 Appointment of Staff
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478710/School%20Policies/3.3_-_EEO_Policy_updated_November_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.3_-_EEO_Policy_updated_November_2021.pdf
         policy: 3.3 Equal Employment Opportunities
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.5_-_Protected_Disclosures_Policy_updated_November_2020.pdf
         policy: 3.5 Protected Disclosures
@@ -42,7 +42,7 @@ policyAreas:
         policy: 3.8 Staff Professional Development
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1616961142/School%20Policies/3.9_-Timetable_Policy_updated_February_2021.pdf
         policy: 3.9 Timetable
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1567372190/School%20Policies/3.10_-_Staff_Leave_updated_August_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.10_-_Staff_Leave_updated_November_2021.pdf
         policy: 3.10 Staff Leave
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/3.11_-_Sexual_Harassment_updated_October_2019.pdf
         policy: 3.11 Sexual Harassment
@@ -72,7 +72,7 @@ policyAreas:
         policy: 5.2 Emergencies
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/5.3_Post_Disaster_Survival_Policy_updated_October_2021.pdf
         policy: 5.3 Post Disaster Survival
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693559/School%20Policies/5.4--Student-Discipline-Policy-_-updated-November-2016.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/5.4_-Student_Discipline_Policy_updated_November_2021.pdf
         policy: 5.4 Student Discipline
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797845/School%20Policies/5.5_Sexuality_Education_Policy_updated_October_2021.pdf
         policy: 5.5 Sexuality Education
@@ -98,9 +98,9 @@ policyAreas:
         policy: 6.4 Privacy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/6.5_CCTV_Policy_updated_October_2021.pdf
         policy: 6.5 CCTV
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.6-Copyright--Licences_-updated-July-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/6.6_Copyright_Licences_updated_November_2021.pdf
         policy: 6.6 Copyright and Licences
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.7-School-Uniform_-updated-June-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761097/School%20Policies/6.7_School_Uniform_updated_November_2021.pdf
         policy: 6.7 School Uniform
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1581555030/School%20Policies/6.8_International_Students_updated_August_2019.pdf
         policy: 6.8 International Students
