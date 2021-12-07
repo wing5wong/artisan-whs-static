@@ -1,6 +1,6 @@
 ---
 title: NCEA EXAMINATIONS
-date: 2021-12-06T20:34:47.242Z
+date: 2021-12-07T20:34:47.242Z
 ---
 NCEA examinations begin on Monday 22 November and conclude on Tuesday 14 December.  
 Students will be issued with their examination admission slips and the Information booklet at their final form time meeting following their respective prizegivings.  
