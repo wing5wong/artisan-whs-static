@@ -26,7 +26,7 @@ $prospectus = $school_documents->filter(function($doc){
 </table>
 
 
-
+{{--
 
 @php
     $enrolmentForms = $school_documents->filter(function($doc){
@@ -56,6 +56,8 @@ $prospectus = $school_documents->filter(function($doc){
     </tr>
 @endforeach
 </table>
+
+--}}
 
 @include('_partials.lastReviewed')
 
