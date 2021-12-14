@@ -7,4 +7,4 @@ extends: _layouts.school-information.enrolments
 
 The school appreciates the support it receives from the community and welcomes applications from all those families who value the excellent education Whanganui High School can offer.
 
-Please pop in to the main office if you would like to discuss your child's enrolment at Whanganui High School
+To discuss your child's enrolment at Whanganui High School please phone the main office to arrange an appointment
