@@ -4,7 +4,8 @@ date: 2022-02-17T23:25:57.319Z
 ---
 If you are keen to participate in the Whanganui High School Swimming Sports Champs on Friday 18 February, please sign up using the bitly below.
 
-There are two grades you can compete in. A grade which is for the competitive swimmers or B grade which is for the give it a go swimmers. More information about the day will be on the bitly.
+There are two grades you can compete in.  
+A grade which is for the competitive swimmers or B grade which is for the give it a go swimmers. More information about the day will be on the bitly.
 
 You must sign up to 2 events minimum to be part of this.
 
