@@ -1,5 +1,5 @@
 ---
-title: Summer Sports Sign Ups CLOSE 9 February
+title: Summer Sports Sign Ups CLOSE - Wednesday 9 February
 date: 2022-02-08T23:31:54.832Z
 ---
 If your keen to play summer sports this term please sign up using the bitly below.  
