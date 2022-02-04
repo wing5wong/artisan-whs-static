@@ -1,5 +1,5 @@
 ---
-title: WHS Swimming Sports Champs
+title: WHS Swimming Sports Champs - sign ups CLOSE Friday 11 February
 date: 2022-02-17T23:25:57.319Z
 ---
 If you are keen to participate in the Whanganui High School Swimming Sports Champs on Friday 18 February, please sign up using the bitly below.
