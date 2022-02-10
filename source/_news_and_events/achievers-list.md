@@ -1,7 +1,7 @@
 ---
-title: Achievers List
+title: Achievers List 2022
 date: 2021-10-20T23:17:56.111Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1638474798/Achievers/2021_ACHIEVERS_LIST.pdf
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1644522093/Achievers/2022_ACHIEVERS_LIST.pdf
 extends: _layouts.achievers
 ---
 The school's Achievers' List is a compilation of our student's achievements. These are can be in a variety of areas such as Academic, Cultural, Service, Sporting and other areas. The achievement levels covered, can be at the Whanganui (and districts), Regional, North Island, National, Oceania and Worlds (International) levels.
