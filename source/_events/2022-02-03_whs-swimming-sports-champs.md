@@ -1,5 +1,5 @@
 ---
-title: WHS Swimming Sports Champs - sign ups CLOSE Friday 11 February
+title: "WHS Swimming Sports Champs "
 date: 2022-02-17T23:25:57.319Z
 ---
 
