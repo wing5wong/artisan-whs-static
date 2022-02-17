@@ -1,6 +1,6 @@
 ---
 title: Maunga
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613438383/prefects/PREFECTS%202021/13---Head-of-Maunga---Flynn-Johnston-and-Rebecca-Allardice-_1.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1645132048/prefects/Trinity_and_Tony.jpg
 ---
- Flynn Johnston & Rebecca Allardice
+Trinity Herewini and Toni Adams
