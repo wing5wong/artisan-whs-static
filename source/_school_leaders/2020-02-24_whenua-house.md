@@ -1,6 +1,6 @@
 ---
 title: Whenua
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435206/prefects/PREFECTS%202021/15_-_Head_of_Whenua_-_Emma_Wood_and_Bridie_Knapp_2.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1645132299/prefects/MILLE_FRAMPTON_AND_CADE_KNIGHT.jpg
 ---
-Emma Wood & Bridie Knapp
+Millie Frampton and Cade Knight
