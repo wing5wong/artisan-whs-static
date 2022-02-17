@@ -1,5 +1,5 @@
 ---
-title: "WHS Swimming Sports Champs "
+title: WHS Swimming Sports Champs - CANCELLED
 date: 2022-02-17T23:25:57.319Z
 ---
 
