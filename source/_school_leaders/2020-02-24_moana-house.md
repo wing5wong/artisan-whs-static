@@ -1,6 +1,6 @@
 ---
 title: Moana
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435205/prefects/PREFECTS%202021/14_-_Head_of_Moana_-_Max_Verhaaren_and_Kera_Forrest_1.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1645132134/prefects/Aliesha_Waghorn_and_Dominic_Benfell.jpg
 ---
-Max Verhaaren & Kera Forrest 
+Aliesha Waghorn and Dominic Benfell
