@@ -1,6 +1,6 @@
 ---
 title: Deputy Head Boy and Girl
 category: Deputy Heads of School
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613435185/prefects/PREFECTS%202021/02_-_Deputy_Head_-_Troy_Brennan_and_Lilee_Taylor_2.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1645475478/prefects/Prefects%202022/deputies.png
 ---
-Troy Brennan & Lilee Taylor 
+Firooze Colaabavala and Messina Su'a
