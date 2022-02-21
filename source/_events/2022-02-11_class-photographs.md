@@ -1,6 +1,6 @@
 ---
 title: Class Photographs
-date: 2022-02-24T00:02:28.402Z
+date: 2022-05-05T01:02:28.402Z
 ---
 The schedule and details about ordering are in form class registers and at [bit.ly/whsphotos2022](https://docs.google.com/spreadsheets/d/1kEtAPgWs4AAZR-fJyCQC6XBov4pVkF7y0nt5XWsNrKU/edit#gid=682471858)
 
