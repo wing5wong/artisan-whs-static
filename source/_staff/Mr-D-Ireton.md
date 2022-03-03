@@ -7,7 +7,5 @@ departments:
 positions:
   - title: Head of Economics
     department: Social Sciences
-  - title: Teacher
-    department: Learning Support Centre
 email: ireton.d@whs.ac.nz
 ---
