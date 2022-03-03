@@ -1,6 +1,6 @@
 ---
 title: Mrs C. Hunter
-position: Administration - Reprographics
+position: Administration - Reprographics - On Leave
 departments:
   - Support and Ancillary
 positions:
