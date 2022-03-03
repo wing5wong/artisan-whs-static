@@ -7,6 +7,5 @@ image: ""
 positions:
   - title: Head of International English / ESOL
     department: International
-email: su'a.l@whs.ac.nz
+email: sua.l@whs.ac.nz
 ---
-
