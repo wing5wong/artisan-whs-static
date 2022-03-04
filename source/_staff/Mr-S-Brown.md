@@ -6,8 +6,6 @@ departments:
   - Languages
   - Deans
 positions:
-  - title: Teacher of Māori
-    department: Languages
   - title: Dean of Māori students
     department: Deans
 phone: ""
