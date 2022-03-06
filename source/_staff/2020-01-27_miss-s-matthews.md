@@ -9,5 +9,5 @@ positions:
     title: Performing Arts Administration Assistant
   - title: Teacher Aide
     department: Learning Support Centre
-email: carson.l@whs.ac.nz
+email: ""
 ---
