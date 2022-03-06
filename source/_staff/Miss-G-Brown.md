@@ -1,8 +1,10 @@
 ---
-title: Miss G. Brown (on leave)
+title: Miss G. Brown
 position: ""
 departments:
   - Social Sciences
-positions: []
+positions:
+  - title: (on leave)
+    department: Social Sciences
 email: brown.g@whs.ac.nz
 ---
