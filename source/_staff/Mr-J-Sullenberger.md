@@ -5,6 +5,5 @@ departments:
   - Sciences
   - Technology
   - Digital Technology
-  - Social Sciences
 email: sullenberger.j@whs.ac.nz
 ---
