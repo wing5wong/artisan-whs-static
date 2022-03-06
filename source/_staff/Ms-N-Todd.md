@@ -1,5 +1,5 @@
 ---
-title: Ms N. Todd
+title: Ms N. Todd (on leave)
 position: Deputy Principal (Moana House)
 departments:
   - Deputy Principal
