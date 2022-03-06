@@ -1,6 +1,6 @@
 ---
-title: Miss G. Brown
-position: "- On Leave"
+title: Miss G. Brown (on leave)
+position: ""
 departments:
   - Social Sciences
 positions: []
