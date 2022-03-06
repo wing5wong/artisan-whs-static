@@ -5,5 +5,5 @@ departments:
   - Support and Ancillary
 positions:
   - department: Support and Ancillary
-    title: Science Technician Assistant
+    title: Science Technician Assistant / Student Centre
 ---
