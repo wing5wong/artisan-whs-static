@@ -6,10 +6,6 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569382089/Perform
 hofs:
   - Ms G. Cansfield
 ahofs:
-  - Mrs H. Pedersen
-  - Miss R. Cleary
-  - Mr D. Ireton
-  - Ms J. Love
   - Mrs K. McKenzie
 ---
 .
