@@ -1,8 +1,10 @@
 ---
 title: Mrs B. Rison
-position: ""
+position: Head of Drama
 departments:
   - The Arts
-positions: []
+positions:
+  - title: Head of Drama
+    department: The Arts
 email: rison.b@whs.ac.nz
 ---
