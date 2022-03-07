@@ -2,21 +2,20 @@
 title: Vocational Studies
 maori_title: Kōwhiringa Umanga
 date: 2019-06-27T01:00:00.000Z
+is_teaching_faculty: true
 tags:
   - About WHS
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1562015249/faculties/Vocational_Studies_-_Combined.jpg
-intro: >-
-  The Vocational Studies Department at Whanganui High School opens many pathways
-  for our senior students to experience while at school. It’s a great way for
-  students to combine school studies with workplace learning, industry training,
-  experience of the “real world of work” and attend a variety of external
-  courses.
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1562015249/faculties/Vocational_Studies_-_Combined.jpg
+intro: The Vocational Studies Department at Whanganui High School opens many
+  pathways for our senior students to experience while at school. It’s a great
+  way for students to combine school studies with workplace learning, industry
+  training, experience of the “real world of work” and attend a variety of
+  external courses.
 hofs:
   - Mrs D. Howard
 ahofs:
-  - Miss J. Gregory
   - Mr P. Keene
+  - Mrs R. Dunn
 ---
 _**Overview**_
 
