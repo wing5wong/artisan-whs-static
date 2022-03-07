@@ -15,8 +15,8 @@ ahofs:
   - Mr G. Hall
   - Mrs J. Jones
   - Ms C. Sleyer
-  - Ms R. Armstrong
   - Mrs K. Coombs
+  - Mrs B. Rison
 vocational_pathways:
   - service
   - creative
