@@ -7,5 +7,7 @@ departments:
 positions:
   - department: Deans
     title: Dean of Maunga House
+  - title: Head of Junior Health
+    department: Physical Education and Health
 email: marr.w@whs.ac.nz
 ---
