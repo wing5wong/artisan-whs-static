@@ -2,18 +2,19 @@
 title: Physical Education and Health
 maori_title: Hauora
 date: 2019-06-27T01:00:00.000Z
+is_teaching_faculty: true
 tags:
   - About WHS
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561592429/faculties/PE_Health_-_combined.jpg
-intro: >-
-  In Health and Physical Education, students learn about their own well-being,
-  and that of others and society, in health-related and movement contexts.
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561592429/faculties/PE_Health_-_combined.jpg
+intro: In Health and Physical Education, students learn about their own
+  well-being, and that of others and society, in health-related and movement
+  contexts.
 hofs:
   - Miss L. Martin
 ahofs:
   - Mr J. Barnett
-  - Mrs M. Bennetts
+  - Mr W. Marr
+  - Ms A. Meade
 vocational_pathways:
   - service
   - creative
