@@ -609,6 +609,8 @@ collections:
       - { label: "Position", name: "position", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Departments", multiple: true, name: departments, widget: "relation", collection: "faculties", search_fields: ["title"], value_field: "title", display_fields: ["title"] }
+      - { label: "On Leave", name: on_leave, widget: boolean, default: false, required: false}
+      - { label: "House", name: house, widget: select, options: ["Awa","Maunga","Moana","Whenua"], required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "Positions", name: "positions", widget: "list", required: false, multiple: true,
           fields: [
