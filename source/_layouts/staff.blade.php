@@ -102,7 +102,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
     </summary>
     <table class="table table-striped table-borderless table-hover">
         @foreach($page->getDepartmentHofs($faculties, $staff, $dept->title) as $member)
-        <tr class="@if($member->house) staff-house-{{$member->house}} @endif">
+        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($person->on_leave) leave @endif">
             <td>
                 <strong>{{ $member->title }}</strong>
             </td>
@@ -112,6 +112,9 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 @endforeach
             </td>
             <td>
+            @if($person->on_leave)
+            On Leave - 
+            @endif
                 @if($member->phone)
                         <a href="tel:{{$member->phone}}">Call</a>
                         @if($member->email) | @endif
@@ -123,7 +126,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
         </tr>
         @endforeach
         @foreach($page->getDepartmentAHofs($faculties, $staff, $dept->title) as $member)
-        <tr class="@if($member->house) staff-house-{{$member->house}} @endif">
+        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($person->on_leave) leave @endif">
             <td>
                 <strong>{{ $member->title }}</strong>
             </td>
@@ -133,6 +136,9 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 @endforeach
             </td>
             <td>
+                @if($person->on_leave)
+            On Leave - 
+            @endif
                 @if($member->phone)
                 <a href="tel:{{$member->phone}}">Call</a>
                 @if($member->email) | @endif
@@ -144,7 +150,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
         </tr>
         @endforeach
         @foreach($filteredStaff as $member)
-        <tr class="@if($member->house) staff-house-{{$member->house}} @endif">
+        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($person->on_leave) leave @endif">
             <td>
                 {{ $member->title }}
             </td>
@@ -154,6 +160,9 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 @endforeach
             </td>
             <td>
+            @if($person->on_leave)
+            On Leave - 
+            @endif
                 @if($member->phone)
                 <a href="tel:{{$member->phone}}">Call</a>
                 @if($member->email) | @endif
