@@ -21,6 +21,9 @@
 .staff-house.staff-house-Whenua{
     background: #1c6c37;
 }
+.leave {
+    opacity: .4
+}
 </style>
 
 

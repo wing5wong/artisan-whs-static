@@ -1,6 +1,6 @@
 ---
 title: Mr P. Turner
-position: Deputy Principal (Whenua House)
+position: Deputy Principal
 departments:
   - Mathematics
   - Senior Leadership Team
@@ -9,6 +9,7 @@ departments:
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1557888924/staff/20181019-_MB66412_r.jpg
 positions:
   - department: Senior Leadership Team
-    title: Deputy Principal (Whenua House)
+    title: Deputy Principal
 email: turner.p@whs.ac.nz
+house: Whenua
 ---
