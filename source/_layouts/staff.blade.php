@@ -45,11 +45,11 @@
     @foreach(["Principal", "Associate Principal", "Deputy Principal"] as $dept)
 
     @foreach($page->getDepartmentStaff($faculties, $staff, $dept) as $person)
-    <article class="col-sm-12 col-md-6 col-lg-4 @if($person->on_leave) leave @endif">
+    <article class="col-sm-12 col-md-6 col-lg-4 @if($person->onLeave) leave @endif">
 
         <h3>{{$person->title}} <br>
             <small>{{$person->position}}</small></h3>
-            @if($person->on_leave)
+            @if($person->onLeave)
             On Leave - 
             @endif
             @if($person->phone or $person->email)
