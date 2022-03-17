@@ -8,4 +8,5 @@ positions:
   - department: Vocational Studies
     title: Careers Advisor
 email: keene.p@whs.ac.nz
+house: Awa
 ---

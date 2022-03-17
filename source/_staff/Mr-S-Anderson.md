@@ -7,4 +7,5 @@ positions:
   - department: Support and Ancillary
     title: IT - Network Administration Manager
 email: anderson.s@whs.ac.nz
+house: Maunga
 ---

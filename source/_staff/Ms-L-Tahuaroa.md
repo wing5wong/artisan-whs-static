@@ -9,4 +9,5 @@ positions:
   - department: Progressive
     title: Communication Skills
 email: tahuaroa.l@whs.ac.nz
+house: Whenua
 ---

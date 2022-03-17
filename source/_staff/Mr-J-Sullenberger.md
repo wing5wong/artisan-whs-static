@@ -6,4 +6,5 @@ departments:
   - Technology
   - Digital Technology
 email: sullenberger.j@whs.ac.nz
+house: Maunga
 ---

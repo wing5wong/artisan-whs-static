@@ -10,4 +10,5 @@ positions:
   - department: Study Options
     title: Timetabling
 email: dunn.c@whs.ac.nz
+house: Maunga
 ---

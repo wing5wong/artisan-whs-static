@@ -7,4 +7,5 @@ positions:
   - department: Progressive
     title: Digital Literacy
 email: hughes.e@whs.ac.nz
+house: Moana
 ---
