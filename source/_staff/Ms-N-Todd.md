@@ -11,4 +11,5 @@ positions:
     title: Deputy Principal
 email: todd.n@whs.ac.nz
 house: Moana
+on_leave: true
 ---
