@@ -49,11 +49,12 @@
 
         <h3>{{$person->title}} <br>
             <small>{{$person->position}}</small></h3>
+            
+            @if($person->phone or $person->email)
+            <p>
             @if($person->on_leave)
             On Leave - 
             @endif
-            @if($person->phone or $person->email)
-            <p>
                 @if($person->phone)
                         <a href="tel:{{$person->phone}}">Call</a>
                         @if($person->email) | @endif
