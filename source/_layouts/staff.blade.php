@@ -26,10 +26,10 @@
     opacity: .4
 }
 
-summary tr.staff-house-Awa {border-left: 2px solid #1a3663;}
-summary tr.staff-house-Maunga {border-left: 2px solid #a41e21;}
-summary tr.staff-house-Moana {border-left: 2px solid #e4a025;}
-summary tr.staff-house-Whenua {border-left: 2px solid #1c6c37;}
+details tr.staff-house-Awa {border-left: 2px solid #1a3663;}
+details tr.staff-house-Maunga {border-left: 2px solid #a41e21;}
+details tr.staff-house-Moana {border-left: 2px solid #e4a025;}
+details tr.staff-house-Whenua {border-left: 2px solid #1c6c37;}
 </style>
 
 
