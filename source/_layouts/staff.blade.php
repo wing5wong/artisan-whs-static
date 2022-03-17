@@ -7,6 +7,7 @@
     padding: 0.25em;
     text-align: center;
     color: #fff;
+    margin-bottom: 1em;
 } 
 
 .staff-house.staff-house-Awa{
