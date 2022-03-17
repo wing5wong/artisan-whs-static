@@ -1,6 +1,29 @@
 @extends('_layouts.standard')
 @section('title', $page->title)
 @section('content')
+<style>
+
+.staff-house {
+    padding: 0.25em;
+    text-align: center;
+    color: #fff;
+} 
+
+.staff-house.staff-house-Awa{
+    background: #1a3663;
+}
+.staff-house.staff-house-Maunga{
+    background: #a41e21;
+}
+.staff-house.staff-house-Moana{
+    background: #e4a025;
+}
+.staff-house.staff-house-Whenua{
+    background: #1c6c37;
+}
+</style>
+
+
 <h1 class="decorated">{{ $page->title }}</h1>
 
 @if($page->image)
@@ -18,10 +41,13 @@
     @foreach(["Principal", "Associate Principal", "Deputy Principal"] as $dept)
 
     @foreach($page->getDepartmentStaff($faculties, $staff, $dept) as $person)
-    <article class="col-sm-12 col-md-6 col-lg-4">
+    <article class="col-sm-12 col-md-6 col-lg-4 @if($person->on_leave) leave @endif">
 
         <h3>{{$person->title}} <br>
             <small>{{$person->position}}</small></h3>
+            @if($person->on_leave)
+            On Leave - 
+            @endif
             @if($person->phone or $person->email)
             <p>
                 @if($person->phone)
@@ -38,6 +64,13 @@
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400,h_360/", $person->image)}} 400w,
         {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $person->image)}} 250w
         " sizes="(min-width: 800px) 400px, 250px" width="600" alt="{{$person->title}}" style="max-width: 100%">
+
+        @if($person->house)
+        <div class="staff-house staff-house-{{$person->house}}">
+            {{$person->house}} House
+</div>
+
+        @endif
 
 
     </article>
