@@ -25,6 +25,11 @@
 .leave {
     opacity: .4
 }
+
+summary tr.staff-house-Awa {border-left: 2px solid #1a3663;}
+summary tr.staff-house-Maunga {border-left: 2px solid #a41e21;}
+summary tr.staff-house-Moana {border-left: 2px solid #e4a025;}
+summary tr.staff-house-Whenua {border-left: 2px solid #1c6c37;}
 </style>
 
 
@@ -77,7 +82,6 @@
 
         @endif
 
-
     </article>
     @endforeach
     @endforeach
@@ -98,7 +102,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
     </summary>
     <table class="table table-striped table-borderless table-hover">
         @foreach($page->getDepartmentHofs($faculties, $staff, $dept->title) as $member)
-        <tr>
+        <tr @if($member->house) staff-house-{{$member->house}} @endif>
             <td>
                 <strong>{{ $member->title }}</strong>
             </td>
@@ -119,7 +123,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
         </tr>
         @endforeach
         @foreach($page->getDepartmentAHofs($faculties, $staff, $dept->title) as $member)
-        <tr>
+        <tr @if($member->house) staff-house-{{$member->house}} @endif>
             <td>
                 <strong>{{ $member->title }}</strong>
             </td>
@@ -140,7 +144,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
         </tr>
         @endforeach
         @foreach($filteredStaff as $member)
-        <tr>
+        <tr @if($member->house) staff-house-{{$member->house}} @endif>
             <td>
                 {{ $member->title }}
             </td>
