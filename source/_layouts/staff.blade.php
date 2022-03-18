@@ -102,7 +102,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
     </summary>
     <table class="table table-striped table-borderless table-hover">
         @foreach($page->getDepartmentHofs($faculties, $staff, $dept->title) as $member)
-        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($person->on_leave) leave @endif">
+        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($member->on_leave) leave @endif">
             <td>
                 <strong>{{ $member->title }}</strong>
             </td>
@@ -126,7 +126,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
         </tr>
         @endforeach
         @foreach($page->getDepartmentAHofs($faculties, $staff, $dept->title) as $member)
-        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($person->on_leave) leave @endif">
+        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($member->on_leave) leave @endif">
             <td>
                 <strong>{{ $member->title }}</strong>
             </td>
@@ -150,7 +150,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
         </tr>
         @endforeach
         @foreach($filteredStaff as $member)
-        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($person->on_leave) leave @endif">
+        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($member->on_leave) leave @endif">
             <td>
                 {{ $member->title }}
             </td>
