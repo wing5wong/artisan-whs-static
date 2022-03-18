@@ -21,7 +21,7 @@ $page->getDepartmentStaff($faculties, $staff, "International"),
 <article class="py-3">
     <h3 class="decorated py-3 mb-4">
         {{$person->title}}
-        <span class="text-muted">
+        <br><span class="text-muted">
             @foreach($page->getStaffMemberPositionsForDepartment($person, "International") as $position)
             {{ $position["title"] }}
             @if(!$loop->last), @endif
