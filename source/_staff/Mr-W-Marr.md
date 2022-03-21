@@ -4,6 +4,7 @@ position: Dean of Maunga House
 departments:
   - Deans
   - Physical Education and Health
+house: Maunga
 positions:
   - department: Deans
     title: Dean of Maunga House
