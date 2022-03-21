@@ -3,6 +3,7 @@ title: Mrs V. Kasner
 position: HOF English
 departments:
   - English
+house: Whenua
 positions:
   - department: English
     title: HOF English
