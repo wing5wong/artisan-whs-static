@@ -4,6 +4,7 @@ position: null
 departments:
   - Digital Technology
   - Progressive
+house: Maunga
 positions:
   - department: Progressive
     title: Digital Literacy / Financial Literacy & Mathematics
