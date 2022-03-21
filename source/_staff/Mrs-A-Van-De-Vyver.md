@@ -3,6 +3,7 @@ title: Mrs A. Van De Vyver
 position: International Administration / Homestay Co-ordinator
 departments:
   - International
+house: Awa
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597801945/staff/-Whanganui-High-School-010.jpg
 positions:
   - department: International
