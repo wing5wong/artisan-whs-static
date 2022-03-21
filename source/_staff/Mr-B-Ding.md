@@ -5,6 +5,7 @@ departments:
   - Languages
   - International
   - Deans
+house: Whenua
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597801951/staff/-Whanganui-High-School-003.jpg
 positions:
   - department: International
