@@ -4,6 +4,7 @@ position: ""
 departments:
   - Physical Education and Health
   - Languages
+house: Moana
 positions:
   - title: Teacher of Te Reo Māori
     department: Languages
