@@ -3,6 +3,7 @@ title: Mrs A. Ferretti
 position: HOF Languages
 departments:
   - Languages
+house: Awa
 positions:
   - title: HOF Languages
     department: Languages
