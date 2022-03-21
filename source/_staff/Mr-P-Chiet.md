@@ -4,6 +4,7 @@ position: Dean of Moana House
 departments:
   - English
   - Deans
+house: Moana
 positions:
   - title: Dean of Moana House
     department: Deans
