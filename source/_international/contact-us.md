@@ -22,8 +22,6 @@ If you have a complaint, please contact the Director of International Students i
 
 ## Contact:
 
-Mrs Brenda Rudolph  
-Director of International Students  
 Whanganui High School  
 PO Box 4022  
 Whanganui 4541  
