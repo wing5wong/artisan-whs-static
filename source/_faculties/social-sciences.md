@@ -10,9 +10,8 @@ intro: In the Social Sciences, students explore how societies work and how they
   themselves can participate and take action as critical, informed, and
   responsible citizens.
 hofs:
-  - Mr J. Shepherd
-ahofs:
   - Mr B. Hunter
+ahofs:
   - Mrs C. Libeau
   - Mrs J. de Smidt
   - Miss B. Waldegrave
