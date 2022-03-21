@@ -112,7 +112,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 @endforeach
             </td>
             <td>
-            @if($person->on_leave)
+            @if($member->on_leave)
             On Leave - 
             @endif
                 @if($member->phone)
@@ -136,7 +136,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 @endforeach
             </td>
             <td>
-                @if($person->on_leave)
+                @if($member->on_leave)
             On Leave - 
             @endif
                 @if($member->phone)
@@ -160,7 +160,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
                 @endforeach
             </td>
             <td>
-            @if($person->on_leave)
+            @if($member->on_leave)
             On Leave - 
             @endif
                 @if($member->phone)
