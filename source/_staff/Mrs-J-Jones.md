@@ -3,6 +3,7 @@ title: Mrs J. Jones
 position: Head of Music, Performing Arts Co-ordinator
 departments:
   - The Arts
+house: Whenua
 positions:
   - department: The Arts
     title: Head of Music, Performing Arts Co-ordinator
