@@ -3,6 +3,7 @@ title: Mr M. Crook
 position: HOF Science
 departments:
   - Sciences
+house: Maunga
 positions:
   - department: Sciences
     title: HOF Science
