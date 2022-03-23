@@ -4,6 +4,7 @@ position: null
 departments:
   - Sciences
   - Progressive
+house: Whenua
 positions:
   - department: Progressive
     title: Life Skills
