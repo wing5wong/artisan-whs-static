@@ -1,5 +1,5 @@
 ---
-title: Netball Trials - Senior
+title: Netball Trials - Senior (Year 11-13)
 date: 2022-04-04T04:42:07.861Z
 ---
 Girls who have signed up for netball.  
