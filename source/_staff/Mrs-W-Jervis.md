@@ -7,4 +7,7 @@ house: Maunga
 positions:
   - department: Support and Ancillary
     title: "Deans House "
+  - title: Student Support
+    department: Vocational Studies
+phone: ""
 ---
