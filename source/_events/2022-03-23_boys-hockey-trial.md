@@ -1,5 +1,5 @@
 ---
-title: Boys Hockey Trial
+title: Boys Hockey Trials
 date: 2022-03-30T03:39:32.655Z
 ---
 Boys Hockey Trials will be on Wednesday, 30 March at 5pm.  
