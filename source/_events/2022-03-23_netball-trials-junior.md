@@ -1,5 +1,5 @@
 ---
-title: Netball Trials - Junior
+title: Netball Trials - Junior (Year 9-10)
 date: 2022-04-06T04:45:18.965Z
 ---
 Girls who have signed up for netball.  
