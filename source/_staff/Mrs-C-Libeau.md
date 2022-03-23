@@ -3,6 +3,7 @@ title: Mrs C. Libeau
 position: Assistant HOF Social Sciences, Head of Accounting
 departments:
   - Social Sciences
+house: Maunga
 positions:
   - title: Assistant HOF Social Sciences
     department: Social Sciences
