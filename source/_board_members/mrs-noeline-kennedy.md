@@ -1,9 +1,11 @@
 ---
-title: Noeline Kennedy
+title: Dale Morpeth
 category: Also in Attendance
 ---
-I have held the position of Bursar at Wanganui High School since 1997. I am responsible for the financial management services of the school, including financial reporting and budgeting. In addition, a component of my role is payroll management and overall responsibility for the school’s support staff.
+I have held the position of Bursar at Whanganui High School since December 2021 having previously undertaken a finance support role at the school for the past 11 years.
 
-Over a number of years the Board has opted not to have a Finance Sub-committee, and therefore I attend Board meeting in a support role, to present monthly financial reports.
+I am responsible for the financial management  of the school, along with payroll management,  overall responsibility for the school’s support staff and oversight of the Property Department.
 
-I hold a Diploma of Business from Wanganui UCOL. I have a number of interests but enjoy first and foremost, my family, friends and holidaying.
+The Board has recently formed a Finance Sub-Committee, and I attend Board meetings in a support role, to present monthly financial reports.
+
+I hold a 'NZ Diploma in Business' qualification. My interests include supporting my family and their sporting pursuits, undertaking DIY projects and exploring new places with our caravan.
