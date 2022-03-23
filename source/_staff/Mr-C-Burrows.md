@@ -3,6 +3,7 @@ title: Mr C. Burrows
 position: Assistant HOF Mathematics
 departments:
   - Mathematics
+house: Whenua
 positions:
   - department: Mathematics
     title: Assistant HOF Mathematics
