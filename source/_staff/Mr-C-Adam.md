@@ -3,6 +3,7 @@ title: Mr C. Adam
 position: HOF Technology, Head of Design & Visual Communication
 departments:
   - Technology
+house: Moana
 positions:
   - department: Technology
     title: HOF Technology
