@@ -2,7 +2,7 @@
 title: "Netball Trials - Junior "
 date: 2022-04-07T04:45:47.266Z
 ---
-Junior Girls who have signed up for netball.  
+Junior girls who have signed up for netball.  
 Trials will be on the following days and time.  
 
 JUNIORS (Y9-10) - Wednesday 6 April, Thursday 7 April. 2pm-4pm @ Springvale Stadium.  
