@@ -2,7 +2,7 @@
 title: Netball Trials - Senior
 date: 2022-04-05T04:44:40.251Z
 ---
-Senior Girls who have signed up for netball.  
+Senior girls who have signed up for netball.  
 Trials will be on the following days and time.  
 
 SENIORS (Y11-13) - Monday 4 April, Tuesday 5 April. 2pm-4pm @ Springvale Stadium. 
