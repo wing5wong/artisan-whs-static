@@ -2,7 +2,7 @@
 title: Boys Basketball Trials - Junior
 date: 2022-03-28T03:49:35.887Z
 ---
-ALL junior boys that have signed up to play basketball this year trials will be on the following day.
+ALL junior boys that have signed up to play basketball this year trials will be on:
 
 Monday 28 March 3:30pm-5pm in the Te Wehi Gym.
 
