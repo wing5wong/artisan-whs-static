@@ -1,6 +1,6 @@
 ---
 title: Summer Tournament week begins - Maadi Cup only
-date: 2022-03-26T00:05:30.476Z
+date: 2022-03-28T00:05:30.476Z
 ---
 Summer Tournament week begins for Maadi Cup in Twizel. 
 
