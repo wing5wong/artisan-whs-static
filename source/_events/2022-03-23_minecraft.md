@@ -1,5 +1,5 @@
 ---
-title: Minecraft
+title: "Minecraft Building "
 date: 2022-03-31T03:32:51.398Z
 ---
 The E-Life Prefects are holding a "Minecraft Building" Competition on Thursday 31 March @ 1st break in C4.
