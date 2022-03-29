@@ -2,11 +2,19 @@
 title: Minecraft
 date: 2022-03-31T03:32:51.398Z
 ---
-The E-Life Prefects are holding a "Minecraft Building" Competition on Thursday 31 March @ 1st break in C4.  
-Sign up via the bitly below.  
+The E-Life Prefects are holding a "Minecraft Building" Competition on Thursday 31 March @ 1st break in C4.
 
 The theme will be announced on the day.  
 House points awarded to the winners.  
-Event is limited to 30 people so get in quick!  
 
-[bit.ly/whsminecraft](https://docs.google.com/forms/d/e/1FAIpQLSd4FCphGtMeFiYGQKfneY7oNLesvf_vjD_5-0SlxapcJOlVdg/viewform)
+--------------
+
+Thanks to everyone who signed up for the Minecraft Building competition! Sign ups have now closed. Due to popular demand, we are now also using C3 for more computers and have accepted the first 60 applicants. You will receive a slip today during Form Time (Wednesday 30 March) which says which class you are in for the competition. Please keep your slip for entry purposes. 
+
+Good luck and have fun!
+  
+
+
+
+
+
