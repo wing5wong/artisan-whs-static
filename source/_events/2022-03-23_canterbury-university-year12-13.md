@@ -1,5 +1,7 @@
 ---
 title: Canterbury University - Year 12/13
-date: 2022-03-31T03:29:24.707Z
+date: 2022-04-08T04:29:24.707Z
 ---
-The ZOOM presentation from Canterbury University (which was formally on Wednesday 23 March) has been re-scheduled to Thursday 31 March at 1st Break in LB2.
+The ZOOM presentation from Canterbury University (which has been postponed for Covid related reasons again!) is now on Friday 8 April, 1st Break in LB2.
+
+So sorry.
