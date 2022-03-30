@@ -5,6 +5,7 @@ tags:
   - About WHS
 image: ''
 visible: 'Yes'
+extends: '_layouts.working-at-whs'
 ---
 ## Teaching Vacancies
 
