@@ -12,6 +12,10 @@ Summer uniform is worn in Terms One and Four. Winter uniform is worn in Terms Tw
 
 Cycle helmets are compulsory as required by law.
 
+## Winter Uniform
+
+![Whanganui High Schools students wearing the winter uniform](https://res.cloudinary.com/whanganuihigh/image/upload/v1649193282/Uniform/WINTER_UNIFORM-min-cropped.jpg "Whanganui High School Winter Uniform")
+
 ## UNIFORM PURCHASE: LOCATION AND HOURS
 
 All School uniform items are being sold exclusively by Andersons in their new School Uniform shop at 184 Victoria Avenue, Wanganui  (opposite Pita Pit).  Phone 348 9232.
