@@ -10,7 +10,7 @@ Friday May 6
 12-2pm  
 WHS Field  
 
-Sign up on the bitly below. 💚❤️💙💛
+Sign up on the bitly below.
 
 Information about the day will be in the bitly.
 
