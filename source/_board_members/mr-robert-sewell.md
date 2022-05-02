@@ -1,5 +1,6 @@
 ---
 title: Mr Robert Sewell
+position: Board Chairperson
 category: Board Chairperson
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1563763973/BoT/Rob_Sewell_-_Photo.jpg
 ---
