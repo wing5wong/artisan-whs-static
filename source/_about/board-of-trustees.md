@@ -1,6 +1,6 @@
 ---
 title: Board of Trustees
-date: 2019-04-04T00:00:00.000Z
+date: 2022-05-02T22:30:44.893Z
 tags:
   - About WHS
 image: ""
