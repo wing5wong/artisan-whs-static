@@ -1,9 +1,8 @@
 ---
 title: Jo Maguire
-position: Board Chairperson
-category: Board Chairperson
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1556755638/BoT/Jo-Maguire.png
+position: ""
+category: Parent Representative
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1556755638/BoT/Jo-Maguire.png
 ---
 I am the Deputy Principal at St Johns Hill School and have been a teacher for over 25 years, working in both low and high decile schools. I work with families, whanau, teachers, our community and agencies every day to support them on their learning pathway. 
 
