@@ -10,7 +10,7 @@ Friday May 6
 12-2pm  
 WHS Field  
 
-Sign up on the bitly below.  
+SIGN UP on the bitly below.  
 Sign ups will CLOSE on Wednesday, 4 May after 1st break. 
 
 
