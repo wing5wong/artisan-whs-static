@@ -20,9 +20,9 @@ policyAreas:
         policy: 1.9 Assessment and Reporting
     policyArea: 1. Curriculum Delivery
   - policies:
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1563854048/School%20Policies/2.1_-Board_of_Trustees_Consultation_with_the_Community_updated_March_....pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/2.1_-Board_of_Trustees_Consultation_with_the_Community_updated_February_2022.pdf
         policy: 2.1 Consultation with the Community
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1560893173/School%20Policies/2.2_-School_s_Self-Review_Policy_updated_March_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/2.2_-School_s_Self-Review_Policy_updated_February_2022.pdf
         policy: 2.2 School's Self-Review
     policyArea: 2. Documentation and Self Review
   - policies:
@@ -40,7 +40,7 @@ policyAreas:
         policy: 3.7 Staff Competency
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.8_-_Staff_Professional_Development_updated_November_2020.pdf
         policy: 3.8 Staff Professional Development
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1616961142/School%20Policies/3.9_-Timetable_Policy_updated_February_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/3.9_-Timetable_Policy_updated_February_2022.pdf
         policy: 3.9 Timetable
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.10_-_Staff_Leave_updated_November_2021.pdf
         policy: 3.10 Staff Leave
@@ -78,7 +78,7 @@ policyAreas:
         policy: 5.5 Sexuality Education
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/5.6_-_Alcohol_Tobacco_Vaping_Drugs_Policy_updated_November_2020.pdf
         policy: 5.6 Drugs
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693561/School%20Policies/5.8-Student-Related-Transport.updated-Feb-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/5.8_-_Student-Related_Transport_updated_February_2022.pdf
         policy: 5.8 Student Related Transport
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1595561242/School%20Policies/5.9_Infectious_Diseases.updated_June_2020.pdf
         policy: 5.9 Infectious Diseases
@@ -92,7 +92,7 @@ policyAreas:
         policy: 5.13 Physical Restraint
     policyArea: 5. Health and Safety
   - policies:
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693563/School%20Policies/6.2-Attendance_-updated-April-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/6.2_Attendance_updated_February_2022.pdf
         policy: 6.2 Attendance
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1625544867/School%20Policies/6.4_Privacy_updated_May_2021.pdf
         policy: 6.4 Privacy
