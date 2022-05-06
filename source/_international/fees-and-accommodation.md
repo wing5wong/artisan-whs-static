@@ -103,13 +103,14 @@ If you have a complaint, please contact the Director of International Students i
 
 ## **Contact:**
 
-Mrs Brenda Rudolph\
-Director of International Students\
-Whanganui High School\
-Box 4022\
-Whanganui\
+Mrs Brenda Rudolph  
+Director of International Students  
+Whanganui High School  
+Box 4022   
+Whanganui  
 NEW ZEALAND  
 
-Ph No. +64 6 349 0178\
-Fax No. +64 6 349 0176\
+Ph No. +64 6 349 0178  
+Fax No. +64 6 349 0176
+
 Email: director.int@whanganuihigh.school.nz
