@@ -1,7 +1,10 @@
 ---
-title: WSS Cross Country
+title: WSS Cross Country - Relay event
 date: 2022-05-17T00:09:35.168Z
 ---
-Whanganui Secondary School Cross Country is on Tuesday 17 May.
+Whanganui Secondary School Cross Country - Relay event is on Tuesday 17 May at the Tawhero Golf Course.
 
-More information to follow closer to the event.
+Girls Relay - 12.20pm
+Boys Relay - 1.00pm  
+
+See Mrs Murphy / Miss Morgan for more information.
