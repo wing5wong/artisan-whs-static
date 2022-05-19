@@ -1,8 +1,7 @@
 ---
 title: Canteen
 date: 2019-06-26T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600669/facilities/Canteen_Cropped.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600669/facilities/Canteen_Cropped.jpg
 description: >
   Our canteen is open for breakfast, lunch and at afternoon break. It is
   situated behind F Block. A wide variety of healthy and tasty options are
@@ -16,4 +15,4 @@ Vegetarian, Vegan and Gluten free items can be pre-ordered prior to 8.35am or th
 
 Both EFTPOS and cash is accepted.
 
-[Canteen Menu](https://res.cloudinary.com/whanganuihigh/image/upload/v1583280664/faculties/Canteen_menu_2020.pdf)
+[Canteen Menu](https://res.cloudinary.com/whanganuihigh/image/upload/v1653000216/faculties/WHS_Canteen_Menu_2022.pdf)
