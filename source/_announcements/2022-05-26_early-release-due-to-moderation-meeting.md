@@ -1,5 +1,5 @@
 ---
-title: Early Release due to Moderation meeting
+title: Early Release due to Moderation meeting - Tuesday 31 May
 is_emergency: false
 date: 2022-05-30T22:18:00.945Z
 subtitle: Students will be released at the end of period 4 - 1.50pm
