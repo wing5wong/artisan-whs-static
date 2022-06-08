@@ -7,6 +7,5 @@ Palmerston North
 
 Friday 17 June
 
-9:00 am – 3:00 pm
-
+9:00 am – 3:00 pm  
 5:00 pm - 7:00 pm
