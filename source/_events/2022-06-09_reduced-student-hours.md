@@ -4,7 +4,7 @@ date: 2022-06-15T08:17:58.192Z
 ---
 Kia ora koutou  
 
-Advance Notice re: Wednesday, 15 June and Thursday, 16 June - reduced student hours.  
+Advance Notice re: **Wednesday, 15 June and Thursday, 16 June - reduced student hours**.  
 
 Our student attendance levels have generally continued to be very good this term and we have continued to operate school as normally as possible in the current Covid environment - thank you for your support.  
 
@@ -12,9 +12,9 @@ On Wednesday, 15 June and Thursday, 16 June we have nine teachers involved in es
 
 In combination with current levels of teacher and relief teacher illnesses we will not have the capacity to run a full teaching and learning programme next Wednesday and Thursday.  
 
-I have therefore decided that we will run Periods 2, 3 and 4 classes only on Wednesday, 15 June and Thursday, 16 June.  
+I have therefore decided that **we will run Periods 2, 3 and 4 classes only on Wednesday, 15 June and Thursday, 16 June**.  
 
-Students will need to be at school before 10.00 am on those two days and will depart school by 2.00 pm.  This will enable us to fully staff all classes for both days.  
+**Students will need to be at school before 10.00 am on those two days and will depart school by 2.00 pm**.  This will enable us to fully staff all classes for both days.  
 
 Please note that all school buses will still run at the normal times and our School Library will still be open between 8.30 am and 4.30 pm each day.  
 
