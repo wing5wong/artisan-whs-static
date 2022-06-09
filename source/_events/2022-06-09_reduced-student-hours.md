@@ -20,6 +20,7 @@ Please note that all school buses will still run at the normal times and our Sch
 
 I apologise for any inconvenience and appreciate your co-operation with these necessary changes.  
 
-Nga mihi nui  
+Nga mihi nui
+  
 Martin McAllen  
 PRINCIPAL
