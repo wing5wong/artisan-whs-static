@@ -1,5 +1,5 @@
 ---
-title: The Big Sing Regionals, 2022
+title: The Big Sing Regionals
 date: 2022-06-16T07:04:23.548Z
 ---
 The Regional Big Sing festival is being held at The Regent Theatre in Palmerston North on Thursday 16 June.  
