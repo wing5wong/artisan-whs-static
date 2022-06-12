@@ -1,5 +1,5 @@
 ---
-title: Hutt Valley High School Sports Exchange
+title: Hutt Valley High School Sports Exchange - postponed
 date: 2022-06-13T21:48:36.056Z
 ---
 Hutt Valley High School Sports Exchange (away).
