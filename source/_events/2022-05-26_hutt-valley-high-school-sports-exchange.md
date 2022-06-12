@@ -2,7 +2,7 @@
 title: Hutt Valley High School Sports Exchange - postponed
 date: 2022-06-13T21:48:36.056Z
 ---
-Hutt Valley High School Sports Exchange (away).
+Hutt Valley High School Sports Exchange (away) has been **postponed** until further notice.
 
 ALL players going on the Hutt Valley High Exchange on Tuesday June 14 please come to a meeting at 1st break on Monday 13 June about the trip.  
 You MUST be there!
