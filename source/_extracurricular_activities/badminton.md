@@ -19,4 +19,4 @@ Please bring your own racket.
 
 **Terms:** 2 & 3
 
-**Teacher-in-charge:** Mr G Hardy (hardy.g@whs.ac.nz)
+
