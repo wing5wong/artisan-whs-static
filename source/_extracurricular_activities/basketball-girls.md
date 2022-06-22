@@ -1,16 +1,18 @@
 ---
 title: Basketball - Girls
-date: 2020-01-26T20:58:18.153Z
+date: 2022-06-22T03:45:17.626Z
 people:
   - name: Miss L. Martin
     role: Teacher in Charge
+  - role: Teacher in Charge
+    name: Miss K. Morgan
 terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: $55 for Fridays and $65 for Thursdays; $20 for Warm-up shirt
+cost: $55 for Thursday and Fridays; $20 for Warm-up shirt (optional)
 ---
-**Played** on Friday evenings at Springvale Stadium between 4.00pm - 8.30pm
+**Played** on Friday evenings at Springvale Stadium between 4:00pm - 8:30pm
 
 The Senior A and Junior A teams usually play on Thursday nights in the Premier League.
 
