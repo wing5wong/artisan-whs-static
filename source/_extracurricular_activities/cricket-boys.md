@@ -24,6 +24,6 @@ Juniors $40 per year
 
 **Terms:** 1 and 4
 
-**Teacher-in-charge:** Mrs T Hoobin (hoobin.t@whs.ac.nz)  
+**Teacher-in-charge:**   
 **1st XI Coach:** Mr Eric Head  
 **Junior Coach:** Mr Steve Meredith
