@@ -21,5 +21,5 @@ Opportunities to create own team also exist for Senior social students.
 
 **Terms:** 1 and 4 
 
-**Teacher-in-charge:** TBC (@whs.ac.nz)  
+**Teacher-in-charge:** Mrs Lisa Murphy (murphy.l@whs.ac.nz)  
 **Coach**: Jordyn Leiasamaivao-Turvey 
