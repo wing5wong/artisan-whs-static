@@ -2,6 +2,9 @@
 title: Athletics
 date: 2022-06-22T03:37:30.213Z
 person_in_charge: Mrs L. Murphy
+people:
+  - role: Teacher in Charge
+    name: Mrs L. Murphy
 extracurricular_area: Sport
 category: School Sports
 ---
@@ -25,5 +28,4 @@ _N.Z.S.S Champs_ are in Inglewood 9-11 December 2022.
 
 **Contact:** Mrs L Murphy for details or behind the gym on training days @ 3.15pm. 
 
-**Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)  
 **Coaches:** Greg Fromont & Elaine Baker
