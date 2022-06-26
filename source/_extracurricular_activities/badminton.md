@@ -2,6 +2,12 @@
 title: Badminton
 date: 2022-06-22T03:39:40.359Z
 person_in_charge: Mr G. Hardy
+people:
+  - role: Teacher in Charge
+    name: Mr G. Hardy
+terms:
+  - Term 2
+  - Term 3
 extracurricular_area: Sport
 blocks: []
 ---
@@ -17,7 +23,7 @@ We also traditionally have 2 Inter-school competitions throughout the year.
 Shuttles are provided.  
 Please bring your own racket. 
 
-**Terms:** 2 & 3  
-**Teacher-in-charge**: Mr Grant Hardy (hardy.g@whs.ac.nz)
+
+
 
 
