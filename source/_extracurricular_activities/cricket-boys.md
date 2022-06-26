@@ -23,5 +23,5 @@ Juniors $40 per year
 **Terms:** 1 and 4
 
 **Teacher-in-charge:**   
-**1st XI Coach:** Mr Eric Head  
+**1st XI Coaches:** Mr Eric Head/Mr Steve Meredith  
 **Junior Coach:** Mr Steve Meredith
