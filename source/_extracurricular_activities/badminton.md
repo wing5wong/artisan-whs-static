@@ -17,6 +17,7 @@ We also traditionally have 2 Inter-school competitions throughout the year.
 Shuttles are provided.  
 Please bring your own racket. 
 
-**Terms:** 2 & 3
+**Terms:** 2 & 3  
+**Teacher-in-charge**: Mr Grant Hardy (hardy.g@whs.ac.nz)
 
 
