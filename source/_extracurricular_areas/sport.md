@@ -1,6 +1,6 @@
 ---
 title: Sport
-date: 2021-05-27T09:51:38.691Z
+date: 2022-06-26T21:38:42.183Z
 person_in_charge: Mrs L. Murphy
 ---
 Whanganui High School offers a wide range of sports to our students.
@@ -15,32 +15,16 @@ We also offer a Sports Performance Programme. This programme targets a selected 
 
 
 
-##### Sports Performance Pathway 2020 
+##### Sports Performance Pathway 2022 
 
 
 
-This programme will target a selected range of students and offer more advanced training and support that will allow them to reach the next level of their athletic performance and their associated team sport / support sport activity. 
+**Junior Pathway**  
+Every student at Whanganui High School has the opportunity in Y9-10 to access a quality fundamentals programme to equip them for sport. 
+Every junior who signs up for the programme will receive an adequate level of coordination, balance, agility, flexibility, muscle and joint stability to engage in sport. Presented with a play rather than a competition focus.
 
+**Senior Pathway**  
+Senior students who are focused on their sport have access to quality advice and support to manage their ongoing development. This will be the performance component. Winter (April-September) general conditioning/athleticism. Summer (Oct-March) athlete focused. Also part of the development will be leadership and coaching. 
 
-
-The performance group will be limited to a maximum of 30 places initially and will be chosen in conjunction with sport staff and coaches. Participants will come from identified sports and activities that fit with the sport development pathway model and level one sport priorities. 
-
-
-
-This is a best practise, leading edge model for athlete development, coaching and personal development and will align with sports codes and national programmes wherever possible. 
-
-
-
-**What will it include?**
-
-
-
-If you are included on this programme you will have access to:
-
-
-
-1. Mentoring – A assistance with goal setting and developing a yearly performance plan.
-2. Leadership / personal development -  Help with development and coaching around taking leadership roles within teams and sport at WHS.
-3. Physical preparation – Access to specialist physical development and conditioning sessions and programmes. 
-4. Support – To ensure students can maintain a work, sport, life balance throughout the year.
-5. Lifestyle / Nutrition – Advice and assistance with nutrition and lifestyle management.
+**Goals**  
+Promote the programme in the Y9-10 level to students who need support to stay in sport or who have transitioned out of organised sport. Focus is on being an ‘activity club’ not sport specific components and students will maintain physical activity and sport will be accessible to them if desired.
