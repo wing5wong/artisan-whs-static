@@ -19,4 +19,4 @@ All **equipment** is provided and the girls wear PE tops with black shorts/pants
 **Terms:** 1 and 4
 
 **Teacher-in-charge:** TBC  
-**1st XI Coach:** Mr Warren Marr
+**1st XI Coach:** Warren Marr
