@@ -26,4 +26,4 @@ _N.Z.S.S Champs_ are in Inglewood 9-11 December 2022.
 **Contact:** Mrs L Murphy for details or behind the gym on training days @ 3.15pm. 
 
 **Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)  
-**Coaches:** Mr Greg Fromont & Mrs Elaine Baker
+**Coaches:** Greg Fromont & Elaine Baker
