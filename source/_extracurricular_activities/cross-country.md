@@ -30,4 +30,4 @@ Our most successful runners will then be invited to represent Whanganui High Sch
 **Training Days:** Generally, Tuesday and Thursday at school from 3:15pm, with some Saturday morning trainings close to competitions.
 
 **Teacher-in-charge:** Mrs. L Murphy (murphy.l@whs.ac.nz)  
-**Coaches:** Mr Greg Fromont/Mrs Elaine Baker
+**Coaches:** Greg Fromont & Elaine Baker
