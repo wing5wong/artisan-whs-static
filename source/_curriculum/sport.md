@@ -1,8 +1,7 @@
 ---
 title: Sport
 date: 2022-06-26T21:27:51.785Z
-intro: |
-  Whanganui High School offers a wide range of sports to our students.
+intro: "\n"
 ---
 
 Whanganui High School offers a wide range of sports to our students.
