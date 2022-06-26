@@ -13,4 +13,4 @@ extracurricular_area: Sport
 **Terms:** 2 and 3
 
 **Teacher-in-charge:**  Miss Rebecca Kennedy   (kennedy.r@whs.ac.nz)  
-**1st XI Coach:** Mr Warren Marr/Mr Steve Kerfoot 
+**1st XI Coach:** Warren Marr & Steve Kerfoot 
