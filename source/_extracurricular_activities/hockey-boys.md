@@ -18,4 +18,4 @@ Please be aware that travel costs may be added on for the teams that are playing
 **Terms:** 2 and 3
 
 **Teacher-in-Charge:** Mrs Natalie Campbell (campbell.n@whs.ac.nz)  
-**1st XI Coach:** Mrs Jan Dixon  
+**1st XI Coach:**  Jan Dixon  
