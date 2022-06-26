@@ -1,6 +1,6 @@
 ---
 title: Volleyball - Boys
-date: 2020-01-26T21:08:14.735Z
+date: 2022-06-26T22:38:44.189Z
 person_in_charge: Mrs M. Bennetts
 extracurricular_area: Sport
 ---
@@ -14,11 +14,12 @@ Opportunities to create own team also exist for Senior social students.
 
 **Senior Social teams** play Term 1 only. Games are Wednesday afterschool at Jubilee Stadium.
 
-**Senior Boys and Girls Competitive teams** work towards going to Secondary School Nationals in Term 1 and also play in the Palmerston North competition. 
+**Senior Boys and Girls Competitive teams** work towards going to Secondary School Nationals in Term 1. 
 
 **Cost:** $10 - Juniors and Social Seniors playing in local competition.  
-**Competitive Seniors:** $65 for Palmerston North competition and cost of Nationals.
+**Competitive Seniors:** $165 for Palmerston North competition and cost of Nationals is separate (approx $190.00).
 
 **Terms:** 1 and 4 
 
-**Teacher-in-charge:** Mrs M Bennetts (bennetts.m@whs.ac.nz)
+**Teacher-in-charge:** TBC (@whs.ac.nz)  
+**Coach**: Jordyn Leiasamaivao-Turvey 
