@@ -19,4 +19,4 @@ Senior A1 will have a uniform supplied to them.
 **Cost:** $100 per player - needs to be paid before trials.
 
 **Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)  
-**Senior A1 Coach:** Mrs Robyn Walford
+**Senior A1 Coach:** TBC
