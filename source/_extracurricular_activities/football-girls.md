@@ -8,7 +8,7 @@ extracurricular_area: Sport
 
 **Training** is after school on WHS fields.
 
-**Cost:** $120 season (approx). Tournament Week separate cost
+**Cost:** $120 season (approx). Tournament Week separate cost.
 
 **Terms:** 2 and 3
 
