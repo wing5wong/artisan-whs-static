@@ -1,17 +1,20 @@
 ---
 title: Softball - Boys
-date: 2020-01-26T21:06:10.451Z
+date: 2022-06-26T22:30:31.210Z
 person_in_charge: Mrs L. Murphy
 extracurricular_area: Sport
 ---
-Our students play for clubs on Saturdays and we will be sending a Boys and Girls team to the Regional Tournament in Hastings during Term 1.
+Our students play in a Inter-School competition at the Braves Softball Park Monday evenings. Training days will be confirmed. 
 
-**Cost:** $20 (Saturday competition)  
-Regional Tournament week - extra cost
 
-**Equipment:** Own glove
+Students may also go away to the Summer Tournament Week this year being in Hamilton. Depending on the numbers a squad of boys or girls will be picked to go away to tournament week. Cost of this will be confirmed once the team has been picked. 
 
-**Terms:** Term 4 & Term 1 the following year 
+
+**Cost:** Monday night competition $10.00
+
+**Equipment:** Own glove, WHS PE top, covered shoes or boots.
+
+**Terms:** Term 1 & 4 
 
 **Teacher-in-charge:** Miss Kerwyn Morgan (morgan.k@whs.ac.nz)  
-**Coach:** Ms Kay Kotuhi-Brown
+**Coach:** Kay Kotuhi-Brown
