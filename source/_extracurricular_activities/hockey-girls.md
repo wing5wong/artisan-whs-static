@@ -18,4 +18,4 @@ Please be aware that travel costs may be added on for the teams that are playing
 **Terms:** 2 and 3
 
 **Teacher-in-Charge:** Mr Grant Hardy (hardy.g@whs.ac.nz)  
-**1st XI Coach:** Elaine Baker & Lucy Tui
+**1st XI Coaches:** Elaine Baker & Lucy Tui
