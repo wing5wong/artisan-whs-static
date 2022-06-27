@@ -2,7 +2,9 @@
 title: Badminton
 date: 2022-06-22T03:39:40.359Z
 person_in_charge: Mr G. Hardy
-people: []
+people:
+  - role: Teacher in Charge
+    name: Mr G. Hardy
 terms:
   - Term 2
   - Term 3
