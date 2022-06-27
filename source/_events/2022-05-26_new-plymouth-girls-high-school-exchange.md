@@ -1,6 +1,7 @@
 ---
 title: New Plymouth Girls High School Exchange
 date: 2022-06-27T21:55:53.178Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1656315901/Events/NPGHS_exchange_2022.jpg
 ---
 New Plymouth Girls High School Exchange (home).
 
