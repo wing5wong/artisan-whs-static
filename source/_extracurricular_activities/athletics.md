@@ -2,9 +2,7 @@
 title: Athletics
 date: 2022-06-22T03:37:30.213Z
 person_in_charge: Mrs L. Murphy
-people:
-  - role: Teacher in Charge
-    name: Mrs L. Murphy
+people: []
 extracurricular_area: Sport
 category: School Sports
 ---
