@@ -28,7 +28,7 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
 @php
     $personInCharge = $staff->firstWhere('title', $page->person_in_charge);
 @endphp
-@if($personInCharge)
+@if(!($page->people) and $personInCharge)
 <h3>Person in charge</h3>
 <table>
     <thead>
