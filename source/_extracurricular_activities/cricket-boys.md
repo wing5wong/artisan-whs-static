@@ -1,6 +1,6 @@
 ---
 title: Cricket - Boys
-date: 2022-06-26T21:46:55.224Z
+date: 2022-06-28T02:34:33.735Z
 person_in_charge: Mr A. Lock
 people: []
 extracurricular_area: Sport
