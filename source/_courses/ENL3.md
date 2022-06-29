@@ -18,7 +18,7 @@ standards:
   - "91475"
   - "91476"
   - "91478"
-  - "91279"
+  - "91479"
 ue_approved: true
 endorsement: Yes
 ---
