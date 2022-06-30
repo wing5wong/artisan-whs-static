@@ -5,8 +5,8 @@ code: FNG3
 subject_area: Food and Nutrition
 date: 2021-07-01T00:18:20.666Z
 entry_requirements: 12 credits in FNG2 and HOF/TIC approval.
-year: '13'
-type: "Subject Choice"
+year: "13"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
@@ -16,7 +16,8 @@ standards:
   - "91468"
   - "91469"
   - "91471"
-course_fees:
+  - "91470"
+course_fees: null
 ue_approved: Yes
 endorsement: Yes
 ---
