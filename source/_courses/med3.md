@@ -13,6 +13,8 @@ assessment_type: Achievement Standard
 standards:
   - "91479"
   - "91478"
+  - "91491"
+  - "91494"
 ue_approved: false
 invitation_only: false
 endorsement: false
