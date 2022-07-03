@@ -16,6 +16,7 @@ standards:
   - "91491"
   - "91494"
   - "91497"
+  - "91495"
 ue_approved: false
 invitation_only: false
 endorsement: false
