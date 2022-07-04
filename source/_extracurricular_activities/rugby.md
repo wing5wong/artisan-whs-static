@@ -6,6 +6,8 @@ people:
   - role: Teacher in Charge
     name: Mrs L. Murphy
 extracurricular_area: Sport
+cost: "U15 fee $60.00 (approx).   1st XV & Girls Rugby fee $120 (approx) - play
+  in Manawatu competition.  "
 ---
 Most year 9 students who are interested in Rugby play for one of the schools Junior teams.
 
@@ -16,11 +18,6 @@ Please note that Wanganui RFU rules state that students are not permitted to pla
 **Uniform:** Students are supplied with a rugby jersey, shorts and socks for each game.
 
 NB: Fees need to be paid prior to the start of the regular season. No pay no play.
-
-**Cost:**  
-Fees $60.00 (approx) for U15.  
-1st XV & Girls Rugby Fee $120 (approx.) - play in Manawatu competition.  
-
 
 **1st XV Head Coaches:** Mike Lama & Erine Te Waaka  
 **Girls Rugby Coach**: Riana Tamati 
