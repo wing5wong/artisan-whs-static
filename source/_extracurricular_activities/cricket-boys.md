@@ -2,7 +2,9 @@
 title: Cricket - Boys
 date: 2022-06-28T02:34:33.735Z
 person_in_charge: Mr A. Lock
-people: []
+people:
+  - role: Teacher in Charge
+    name: Mrs L. Murphy
 extracurricular_area: Sport
 ---
 The 1st XI and Junior team play inter-school matches and are in the T20 weekly competition.  
