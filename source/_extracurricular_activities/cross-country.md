@@ -2,7 +2,12 @@
 title: Cross Country
 date: 2022-06-26T21:47:31.933Z
 person_in_charge: Mrs L. Murphy
+people:
+  - role: Teacher in Charge
+    name: Mrs L. Murphy
 extracurricular_area: Sport
+cost: The school and interschool events incur no financial cost, just an
+  investment in regular training.
 ---
 **Structure**  
 As well as our annual Cross Country Champs, Whanganui High School students compete and train through the school.  We have a year-round programme with emphasis on Cross Country and Conditioning during winter and Athletics in summer.  The Cross Country programme caters for winter sports players.
@@ -29,5 +34,4 @@ Our most successful runners will then be invited to represent Whanganui High Sch
 
 **Training Days:** Generally, Tuesday and Thursday at school from 3:15pm, with some Saturday morning trainings close to competitions.
 
-**Teacher-in-charge:** Mrs. L Murphy (murphy.l@whs.ac.nz)  
 **Coaches:** Greg Fromont & Elaine Baker
