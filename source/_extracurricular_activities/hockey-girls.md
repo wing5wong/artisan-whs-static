@@ -2,6 +2,12 @@
 title: Hockey - Girls
 date: 2022-06-26T22:06:14.428Z
 person_in_charge: Mr G. Hardy
+people:
+  - role: Teacher in Charge
+    name: Mr G. Hardy
+terms:
+  - Term 2
+  - Term 3
 extracurricular_area: Sport
 ---
 Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week, with the 1st XI Boys & Girls teams travelling to play in the Palmerston North League.
@@ -15,7 +21,4 @@ Please be aware that travel costs may be added on for the teams that are playing
 
 **Equipment:** Must have own stick, shin pads and mouthguard.
 
-**Terms:** 2 and 3
-
-**Teacher-in-Charge:** Mr Grant Hardy (hardy.g@whs.ac.nz)  
 **1st XI Coaches:** Elaine Baker & Lucy Tui
