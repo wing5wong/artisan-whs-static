@@ -2,6 +2,12 @@
 title: Volleyball - Girls
 date: 2022-06-26T22:51:26.075Z
 person_in_charge: Mrs M. Bennetts
+people:
+  - role: Teacher in Charge
+    name: Mrs L. Murphy
+terms:
+  - Term 1
+  - Term 4
 extracurricular_area: Sport
 ---
 **Trials for Junior teams** are at the start of Term 1.  
@@ -19,7 +25,4 @@ Opportunities to create own team also exist for Senior social students.
 **Cost:** $10 - Juniors and Social Seniors playing in local competition.  
 **Competitive Seniors:** $165 for Palmerston North competition and cost of Nationals is separate (approx $190.00).
 
-**Terms:** 1 and 4 
-
-**Teacher-in-charge:** Mrs Lisa Murphy (murphy.l@whs.ac.nz)    
 **Coach**: Katrina Thompson
