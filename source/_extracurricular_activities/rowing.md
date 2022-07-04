@@ -2,6 +2,9 @@
 title: Rowing
 date: 2022-06-26T22:19:37.958Z
 person_in_charge: Mrs L. Murphy
+people:
+  - role: Teacher in Charge
+    name: Mrs L. Murphy
 extracurricular_area: Sport
 ---
 Wanganui is fortunate to have an excellent facility for all year-round rowing. We 
@@ -24,5 +27,3 @@ There will be a ‘Learn to Row’ programme for new Rowers starting in April 20
 equipment use and some Regatta entries (approx $500.00).  
 WHS Regatta fees will be invoiced to parents through school.  
 Fees could vary each year.
-
-**Teacher-in-charge:**  Mrs L Murphy (murphy.l@whs.ac.nz)
