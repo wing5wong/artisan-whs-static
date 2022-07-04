@@ -6,6 +6,9 @@ people:
   - role: Teacher in Charge
     name: Mrs L. Murphy
 extracurricular_area: Sport
+cost: There is a membership fee that students pay to the Aramoho club to
+  cover  equipment use and some Regatta entries (approx $500.00).   WHS Regatta
+  fees will be invoiced to parents through school.   Fees could vary each year.
 ---
 Wanganui is fortunate to have an excellent facility for all year-round rowing. We 
 have an arrangement with the Aramoho Whanganui Rowing Club with approximately 
@@ -22,8 +25,3 @@ There will be a ‘Learn to Row’ programme for new Rowers starting in April 20
 
 
 **The season** starts in September/October and ends in March/April after the Maadi Cup Regatta. Rowers participate in a number of regattas over this time.
-
-**Cost:** There is a membership fee that students pay to the Aramoho club to cover 
-equipment use and some Regatta entries (approx $500.00).  
-WHS Regatta fees will be invoiced to parents through school.  
-Fees could vary each year.
