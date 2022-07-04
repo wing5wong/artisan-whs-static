@@ -2,6 +2,9 @@
 title: Rugby
 date: 2022-06-26T22:24:04.021Z
 person_in_charge: Mr B. Parry
+people:
+  - role: Teacher in Charge
+    name: Mrs L. Murphy
 extracurricular_area: Sport
 ---
 Most year 9 students who are interested in Rugby play for one of the schools Junior teams.
@@ -16,8 +19,8 @@ NB: Fees need to be paid prior to the start of the regular season. No pay no pla
 
 **Cost:**  
 Fees $60.00 (approx) for U15.  
-1st XV Fee $120 (approx.) - play in Manawatu competition.
+1st XV & Girls Rugby Fee $120 (approx.) - play in Manawatu competition.  
 
-**Teacher-in-charge:** Mrs L Murphy (murphy.l@whs.ac.nz)  
+
 **1st XV Head Coaches:** Mike Lama & Erine Te Waaka  
 **Girls Rugby Coach**: Riana Tamati 
