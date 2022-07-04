@@ -9,8 +9,11 @@ terms:
   - Term 4
   - Term 1
 extracurricular_area: Sport
+cost: Monday night competition $10.00
 ---
-Our students play for clubs on Saturdays and we will be sending a Boys and Girls team to the Regional Tournament in Hastings during Term 1.
+Our students play in a Inter-School competition at the Braves Softball Park Monday evenings. Training days will be confirmed.
+
+Students may also go away to the Summer Tournament Week this year being in Hamilton. Depending on the numbers a squad of boys or girls will be picked to go away to tournament week. Cost of this will be confirmed once the team has been picked.
 
 **Equipment:** Own glove, WHS PE top, covered shoes or boots.
 
