@@ -1,17 +1,17 @@
 ---
-title: Softball - Girls
-date: 2020-01-26T21:07:01.940Z
+title: Softball
+date: 2022-07-04T02:28:23.245Z
 person_in_charge: Mrs L. Murphy
+people:
+  - role: Teacher in Charge
+    name: Miss K. Morgan
+terms:
+  - Term 4
+  - Term 1
 extracurricular_area: Sport
 ---
 Our students play for clubs on Saturdays and we will be sending a Boys and Girls team to the Regional Tournament in Hastings during Term 1.
 
-**Cost:** $20 (Saturday competition)  
-Regional Tournament week - extra cost
+**Equipment:** Own glove, WHS PE top, covered shoes or boots.
 
-**Equipment:** Own glove
-
-**Terms:** Term 4 & Term 1 the following year 
-
-**Teacher-in-charge:** Miss Kerwyn Morgan (morgan.k@whs.ac.nz)  
-**Coach:** Mrs Fiona Campbell
+**Coach:** Kay Kotuhi-Brown
