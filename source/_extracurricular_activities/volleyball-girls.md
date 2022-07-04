@@ -16,10 +16,8 @@ Opportunities to create own team also exist for Senior social students.
 
 **Practices** vary during the week but they are generally at breaks or after school in the Te Wehi or Te Mana gym.
 
-**All Junior students** participate in an interschool competition in Terms 1 & 4 at a small cost, run by Sport Wanganui.
-
-**Senior Social teams** play Term 1 only. Games are Wednesday afterschool at Jubilee Stadium.
-
+**All Junior students** participate in an interschool competition in Terms 1 & 4 at a small cost, run by Sport Wanganui  
+**Senior Social teams** play Term 1 only. Games are Wednesday afterschool at Jubilee Stadium.  
 **Senior Boys and Girls Competitive teams** work towards going to Secondary School Nationals in Term 1. 
 
 **Cost:** $10 - Juniors and Social Seniors playing in local competition.  
