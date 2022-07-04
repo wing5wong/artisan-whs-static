@@ -5,6 +5,7 @@ person_in_charge: Mrs L. Murphy
 people: []
 extracurricular_area: Sport
 category: School Sports
+cost: $45 per student for membership to Athletics Wanganui for club competitions.
 ---
 **Background**  
 Whanganui High School has a very strong athletics programme, and have shown its great depth especially in sprints in local and regional competitions. A look in the local rankings shows how well our WHS and ex WHS athletes have been going in the sprints.  We have five current and two past athletes in the top 8 men's ranking and seven current athletes in the top 8 women's ranking in our local region.  We also have three of our students who have made the New Zealand Secondary School team.  Athletics also acts as a conditioning base for other codes within the school and many athletes within the programme have gone on to represent the school at high levels in other codes due to their excellent conditioning.
@@ -21,8 +22,6 @@ _North Island Championships_ are in Palmerston North 2-3 April.
 _N.Z.S.S Champs_ are in Inglewood 9-11 December 2022. 
 
 **Training Days:** Monday after school will be for Y9 till 4:30pm. Tuesday is club night (optional). Thursday after school for all till 4:30pm and Saturday mornings 9:30am at Cooks Garden or other venues.  There is an entry level and performance group to suit age and experience. 
-
-**Cost:** $45 per student for membership to Athletics Wanganui for club competitions.
 
 **Contact:** Mrs L Murphy for details or behind the gym on training days @ 3.15pm. 
 
