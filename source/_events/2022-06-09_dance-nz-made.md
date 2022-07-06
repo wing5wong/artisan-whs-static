@@ -1,9 +1,9 @@
 ---
 title: Dance NZ Made
-date: 2022-08-30T22:02:53.540Z
+date: 2022-08-17T22:02:53.540Z
 ---
-Dance NZ Made Interschool Competition                                            
-Interschool Regionals 2022 Dates:  
-Wednesday 31 August - Palmerston North Regional 1 - Regent on Broadway  
-Monday 5 September - Palmerston North Solos, Duos & Trios - Regent on Broadway  
-Tuesday	6 September - Palmerston North Regional 2 - Regent on Broadway
+Dance NZ Made Interschool Regionals 2022  
+Royal Wanganui Opera House 
+
+Thursday 18 August -  Wanganui Solos, Duos & Trios  
+Friday 19 August -  Wanganui Regional
