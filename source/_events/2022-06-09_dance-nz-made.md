@@ -1,5 +1,5 @@
 ---
-title: Dance NZ Made Interschool Regionals
+title: Dance NZ Made Interschool Regionals 2022
 date: 2022-08-17T22:02:53.540Z
 ---
 Dance NZ Made Interschool Regionals 2022  
