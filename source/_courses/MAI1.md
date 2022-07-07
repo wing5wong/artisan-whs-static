@@ -22,6 +22,7 @@ standards:
   - "91035"
   - "91036"
   - "91038"
+  - "91029"
 course_fees: null
 ---
-To provide a balanced Mathematics programme to students for whom a formal academic programme is not suited. This course is completely internally assessed. Topics covered; Number, Statistics, Probability, Measurement, Geometry, Constructions and Drawings.
+To provide a balanced Mathematics programme to students for whom a formal academic programme is not suited. This course is completely internally assessed. Topics covered; Number, Statistics, Probability, Measurement, Practical applications of algebra, Constructions and Drawings.
