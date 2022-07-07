@@ -26,6 +26,9 @@ standards:
   - "30572"
   - "30570"
   - "21684"
+  - "15408"
+  - "21674"
+  - "21672"
 notes: Can lead to a National Certificate of Entry Automotive Trades
 ---
 To enable students to gain qualifications towards a National Certificate of Entry Automotive Trades. The course will provide students with theory and practical training.
