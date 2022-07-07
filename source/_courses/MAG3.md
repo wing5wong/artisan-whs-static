@@ -18,6 +18,7 @@ standards:
   - "91580"
   - "91581"
   - "91587"
+  - "28098"
 course_fees: Students need a Graphics calculator for this course
 ue_approved: true
 ---
