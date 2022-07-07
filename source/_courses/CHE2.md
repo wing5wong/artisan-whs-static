@@ -4,11 +4,10 @@ name: Chemistry
 code: CHE2
 subject_area: Chemistry
 date: 2021-06-30T04:08:40.769Z
-entry_requirements: >-
-  14 credits (including  AS90940 and AS90944 from SCG1 or SCE1, AS91027
-  MAG1/MAE1 strongly recommended and HOF/TIC approval.
-year: '12'
-type: "Subject Choice"
+entry_requirements: 14 credits (including  AS90940 and AS90944 from SCG1 or
+  SCE1, AS91027 MAG1/MAE1 strongly recommended and HOF/TIC approval.
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
@@ -20,7 +19,6 @@ standards:
   - "91165"
   - "91166"
   - "91167"
-  - "91910"
   - "91911"
 endorsement: Yes
 ---
