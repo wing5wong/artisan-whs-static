@@ -4,7 +4,7 @@ name: Statistics Extension & Cambridge
 code: MCS2
 subject_area: Statistics Extension & Cambridge
 date: 2021-06-28T01:55:42.001Z
-entry_requirements: 20 credits from MAE1 and HOF/TIC approval
+entry_requirements: 20 credits from MTA1 and HOF/TIC approval
 year: "12"
 type: Subject Choice
 course_duration: Full Year
