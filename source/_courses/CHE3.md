@@ -5,8 +5,8 @@ code: CHE3
 subject_area: Chemistry
 date: 2021-06-30T04:09:23.080Z
 entry_requirements: 14 credits in CHE2 and HOF/TIC approval.
-year: '13'
-type: "Subject Choice"
+year: "13"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
@@ -16,6 +16,7 @@ standards:
   - "91390"
   - "91391"
   - "91392"
+  - "91393"
 ue_approved: true
 endorsement: Yes
 ---
