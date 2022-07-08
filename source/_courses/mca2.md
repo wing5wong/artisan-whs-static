@@ -4,7 +4,7 @@ name: Calculus & Algebra Extension & Cambridge
 code: MCA2
 subject_area: Algebra & Calculus Extension & Cambridge
 date: 2021-06-27T21:07:41.765Z
-entry_requirements: 20 credits from MAE1 and HOF/TIC approval
+entry_requirements: 20 credits from MTA1 and HOF/TIC approval
 year: "12"
 type: Subject Choice
 course_duration: Full Year
