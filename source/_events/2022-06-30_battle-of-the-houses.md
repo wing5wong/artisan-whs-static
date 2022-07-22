@@ -2,9 +2,10 @@
 title: Performing Arts Concert / Battle of the Houses 2022
 date: 2022-08-22T21:16:41.370Z
 ---
-IT'S BATTLE OF THE HOUSES TIME!  
+Performing Arts Concert / Battle of the Houses 2022  
+Royal Whanganui Opera House
 
-Battle of the Houses is an interhouse performing arts competition that will be performed at the Royal Whanganui Opera House on Tuesday 23 August.  
+IT'S BATTLE OF THE HOUSES TIME!  
 
 Whether you have zero performing arts experience or consider yourself an expert, we hope you get involved!  
 
