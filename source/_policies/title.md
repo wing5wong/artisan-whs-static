@@ -102,9 +102,9 @@ policyAreas:
         policy: 6.6 Copyright and Licences
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761097/School%20Policies/6.7_School_Uniform_updated_November_2021.pdf
         policy: 6.7 School Uniform
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1581555030/School%20Policies/6.8_International_Students_updated_August_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1658803010/School%20Policies/6.8_International_Students_updated_June_2022_compressed.pdf
         policy: 6.8 International Students
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693564/School%20Policies/6.9-ESL-Student_-updated-May-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1658802733/School%20Policies/6.9_ESL_Student_updated_June_2022.pdf
         policy: 6.9 English for Second Language Speakers (ESL)
     policyArea: 6. Administration
 ---
