@@ -25,4 +25,4 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.  
 
-FYI - Ms Cansfield (Learning Support), Ms Rivers (Dance) and Miss Marshall (Dance) will NOT be available for the Conferences.  If you need to speak to them please contact them via email.
+FYI - Ms Meade, Mrs Graham, Ms Rivers, Miss Marshall and Ms Cansfield will NOT be available for the Conferences.  
