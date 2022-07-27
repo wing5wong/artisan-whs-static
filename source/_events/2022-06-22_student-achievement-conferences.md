@@ -1,7 +1,7 @@
 ---
 title: Student Achievement Conferences
 date: 2022-08-10T01:24:48.247Z
-image: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1658896047/Events/Facebook_photo.best.png
 ---
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
