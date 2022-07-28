@@ -3,7 +3,7 @@ title: Performing Arts Concert / Battle of the Houses 2022
 date: 2022-08-22T21:16:41.370Z
 ---
 Performing Arts Concert / Battle of the Houses 2022  
-Royal Whanganui Opera House
+Royal Whanganui Opera House at 7pm
 
 IT'S BATTLE OF THE HOUSES TIME!  
 
