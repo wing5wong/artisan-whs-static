@@ -8,7 +8,7 @@ extends: _layouts.policies-and-charter
 ---
 ## School Charter
 
-The [Whanganui High School Charter](https://res.cloudinary.com/whanganuihigh/image/upload/v1627358559/School%20Documents/Charter/WHS_Charter_2021.pdf) is updated on an annual basis.
+The [Whanganui High School Charter](https://res.cloudinary.com/whanganuihigh/image/upload/v1659068080/School%20Documents/Charter/WHS_Charter_2022.doc.pdf) is updated on an annual basis.
 
 ## School Representatives
 
