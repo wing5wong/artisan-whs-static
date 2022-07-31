@@ -16,4 +16,4 @@ Students representing Whanganui High School in any co- curricular activity are e
 
 Whanganui High School representatives are bound by the Smoke, Drug, and Alcohol Free conditions under which all events are managed
 
-[Read the full criteria for representing Whanganui High School](https://res.cloudinary.com/whanganuihigh/image/upload/v1623361773/School%20Policies/WHS_Representative_Policy.pdf)
+[Read the full criteria for representing Whanganui High School](https://res.cloudinary.com/whanganuihigh/image/upload/v1659301827/School%20Policies/WHS_School_Representative_Policy_2022.pdf)
