@@ -6,7 +6,7 @@ subtitle: Tuesday 9 August and Wednesday 10 August 2022
 ---
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
-BOOKINGS are now OPEN
+BOOKINGS are now **OPEN**
 
 Book an interview by clicking on the following link:  
 👉 [https://www.schoolinterviews.co.nz](https://www.schoolinterviews.co.nz/)  
