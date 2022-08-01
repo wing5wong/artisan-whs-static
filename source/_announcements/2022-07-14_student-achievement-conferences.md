@@ -8,7 +8,7 @@ WHANGANUI HIGH SCHOOL
 STUDENT ACHIEVEMENT CONFERENCES 
 BOOKINGS are now OPEN 🙂
 
-Book an interview by clicking on the following link:
+Book an interview by clicking on the following link:  
 👉 [https://www.schoolinterviews.co.nz](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 29 July) 
 
