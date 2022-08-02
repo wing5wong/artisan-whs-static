@@ -1,7 +1,7 @@
 ---
 title: Leaving Magazine - August 2022 - (Study and Career Options for Year 12-13)
-date: 2022-05-13T01:54:08.070Z
-closing_date: 2022-05-13T01:54:08.081Z
+date: 2022-08-02T04:46:20.881Z
+closing_date: ""
 file: ""
 ---
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1659412884/Careers%20and%20Vocational/Leaving_School_Magazine_-_Issue_24.jpg)
