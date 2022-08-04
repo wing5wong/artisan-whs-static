@@ -2,7 +2,7 @@
 title: Hawera High School exchange
 date: 2022-08-09T09:18:20.143Z
 ---
-Our next exchange is Tuesday 9 August against Hawera High School at Whanganui High School.
+Our next exchange is Tuesday 9 August against Hawera High School at home.
 
 **Round One: 10:00am**  
 Junior A1 Netball - WHS Gym - 4x10min quarters  
