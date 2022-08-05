@@ -1,6 +1,7 @@
 ---
 title: Team Photos
 date: 2022-08-10T21:05:07.606Z
+image_gallery: []
 ---
 Sports & Cultural Photos will be taken on Thursday 11 August in the School Hall.
 
