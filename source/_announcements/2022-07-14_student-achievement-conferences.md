@@ -1,14 +1,14 @@
 ---
-title: Student Achievement Conferences - Bookings CLOSED at 5pm, Monday 8 August.
+title: Student Achievement Conferences - Bookings are CLOSED
 is_emergency: false
 date: 2022-07-14T08:21:40.877Z
 subtitle: Tuesday 9 August and Wednesday 10 August 2022
 ---
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
-BOOKINGS are now CLOSED
-
-Check your booking by clicking on the following link:  
+BOOKINGS are now CLOSED   🙂
+ 
+If you have already made a booking you can check it by clicking on the following link:   
 👉 [https://www.schoolinterviews.co.nz](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 29 July) 
 
