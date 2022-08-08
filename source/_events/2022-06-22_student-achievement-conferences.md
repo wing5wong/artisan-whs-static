@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - Bookings CLOSE at 5pm TODAY
+title: Student Achievement Conferences - Bookings CLOSE at 5pm TODAY, Monday 8 August.
 date: 2022-08-10T01:24:48.247Z
 image: ""
 ---
