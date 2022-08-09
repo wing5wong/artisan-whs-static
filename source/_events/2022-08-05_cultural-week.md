@@ -1,6 +1,6 @@
 ---
 title: Cultural Week
-date: 2022-08-09T09:08:06.625Z
+date: 2022-08-10T09:08:06.625Z
 ---
 It's time to throw some extra fun into term 3!  
 Come along to any one of our Cultural Arts activities next week!! No need to sign up just front up.
