@@ -7,6 +7,7 @@ Includes Victoria University and Massey Wellington, and might include WelTec and
 
 Year 12s are welcome as well. 
 
-Register your interest by writing your name on the list at the Student Centre, or PREFERRED,
-visit: [bit.ly/whswgtnod2022](https://docs.google.com/forms/d/e/1FAIpQLSdVQNBsIlvc1EN1LmiK2l6tFBrkPUfE2wFZND6xDjlVIxWHbw/viewform) by Friday 5 August.  
-If you DO NOT do this, you could miss out! A link has been sent to your school e-mail.
+Thank you to those who signed up for this event. Permission slips will be e-mailed today (Wednesday 10 August) with a hardcopy version in form class registers tomorrow. If you forgot to sign up and wish to attend, a blank permission slip will be available from the student centre.
+
+*Mr Keene  
+Careers Advisor*
