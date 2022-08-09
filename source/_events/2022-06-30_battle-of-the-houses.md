@@ -3,7 +3,11 @@ title: Performing Arts Concert / Battle of the Houses 2022
 date: 2022-08-22T21:16:41.370Z
 ---
 Performing Arts Concert / Battle of the Houses 2022  
-Royal Whanganui Opera House at 7pm
+Royal Whanganui Opera House at 7pm  
+Adults $12, Student $10.   
+Tickets available NOW from the Student Centre or the Opera House.
+
+Featuring Rockquest winning bands, Chamber groups, dancers fresh from the DanceNZMade contest, soloists, the winning Talent Quest act and last but not least the BATTLE OF THE HOUSES! Come and support your house (Txt voting on the night). 
 
 IT'S BATTLE OF THE HOUSES TIME!  
 
