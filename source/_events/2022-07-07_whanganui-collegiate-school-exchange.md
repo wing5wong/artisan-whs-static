@@ -4,7 +4,7 @@ date: 2022-08-16T21:33:32.679Z
 ---
 We are having our sports exchange against Whanganui Collegiate on Wednesday 17 August.
 
-Programme
+Programme:
 
 12.15pm	Netball Junior A - Springvale Stadium  
 12.30pm 	Hockey Boys 1st XI - WCS Foundation Turf  
