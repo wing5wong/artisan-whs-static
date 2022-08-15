@@ -14,5 +14,9 @@ Girls Junior Football
 Junior Boys Hockey  
 Junior Girls Hockey 
 
-ALL team lists are up on the Te Mana Gym sports notice board.  
-Please check.
+All teams going to Central 6 Junior Tournament on Thursday please be at the bus bay at 7.45am on Thursday morning.  
+You must be in correct school uniform. Bring your sports uniform, lunch, drink and a warm jacket.  
+We will be returning to the bus bay around 4pm.  
+
+Team lists going are on the Te Mana sports notice board.  
+See Mrs Murphy with any queries.
