@@ -2,9 +2,13 @@
 title: Whanganui Collegiate School exchange
 date: 2022-08-16T21:33:32.679Z
 ---
-We are having our sports exchange against Whanganui Collegiate on Wednesday 17 August.
+Teams involved in the exchange please go to Formtime, Period 1 and 2, then head over to Collegiate to prepare for the first round.  
+Changing rooms will be available for the teams at Collegiate.  
+Netball Teams head straight to the stadium to get changed and warmed up.  
 
-Programme:
+Programme for the day:
+
+
 
 12.15pm	Netball Junior A - Springvale Stadium  
 12.30pm 	Hockey Boys 1st XI - WCS Foundation Turf  
@@ -16,13 +20,7 @@ Programme:
 2.30pm 	Football Boys 1st XI - #1 Football Field  
 
 
-Mr McAllen has allowed students who are keen to support our teams come over for Period 5 to support.
+If you signed up to support WHS at Collegiate you will receive a PASS at form time. Please meet at 2nd break at the back of the gym.  
 
-
-If you are keen to support you MUST sign up with Mrs Murphy in Te Wehi Gym Office, you will then be given a slip in formtime on Wednesday morning, which you MUST show at the London Street Gate as you walk over to Collegiate.
-
-
-We will be walking over as a school at 2pm from the back of the gyms.
-
-
-No Slip, No Leaving school. Sign ups close Tuesday 1st break.
+No Slip - No Leaving school.
+
