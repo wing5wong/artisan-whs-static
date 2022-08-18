@@ -34,7 +34,7 @@ return [
                 'url' => '/about-whs/history'
             ],
             [
-                'title' => 'Board of Trustees',
+                'title' => 'WHS Board',
                 'url' => '/about-whs/board-of-trustees'
             ],
             [
