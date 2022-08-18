@@ -1,5 +1,5 @@
 ---
-title: Board of Trustees
+title: WHS Board
 date: 2022-05-02T22:30:44.893Z
 tags:
   - About WHS
