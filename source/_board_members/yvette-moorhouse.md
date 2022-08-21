@@ -1,6 +1,7 @@
 ---
 title: Yvette Moorhouse
 category: Parent Representative
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1661121585/BoT/Yvette-Moorhouse.png
 ---
 Kia ora, my name is Yvette Moorhouse. I am married to Grant, and we have two children; Jakob (20, who attended Whanganui High School, with being the Head of Sport in his final year) and Chelsea, a Year 11 student who is currently attending Whanganui High School.
 
