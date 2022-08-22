@@ -1,9 +1,14 @@
 ---
-title: Teacher Only Day
+title: Teacher Only Day & Future Focus Week 2022
 is_emergency: false
 date: 2022-08-23T01:29:09.719Z
-subtitle: Tuesday, 23 August 2022
+subtitle: ""
 ---
-A reminder that Tuesday, 23 August is a Teacher Only Day allocated in national Accord outcomes to support the upcoming implementation of changes to NCEA.
+* **Teacher Only Day**
 
-No students attend school.
+A reminder that Tuesday, 23 August is a Teacher Only Day allocated in national Accord outcomes to support the upcoming implementation of changes to NCEA.  
+**No school for students.**
+
+* **Future Focus Week 2022**
+
+A wide variety of Future Focus and course selection activities will begin from 22 August onwards.  There will also be a Future Focus evening for students and parents in the school Library on Thursday, 25 August.
