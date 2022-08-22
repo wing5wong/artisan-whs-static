@@ -6,7 +6,7 @@ subtitle: ""
 ---
 * **Teacher Only Day**
 
-A reminder that Tuesday, 23 August is a Teacher Only Day allocated in national Accord outcomes to support the upcoming implementation of changes to NCEA.  
+A reminder that **Tuesday, 23 August** is a Teacher Only Day allocated in national Accord outcomes to support the upcoming implementation of changes to NCEA.  
 **No school for students.**
 
 * **Future Focus Week 2022**
