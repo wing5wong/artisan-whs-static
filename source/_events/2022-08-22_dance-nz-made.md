@@ -1,5 +1,5 @@
 ---
-title: Dance NZ Made
+title: Dance NZ Made Nationals
 date: 2022-09-23T00:24:02.489Z
 ---
 Dance NZ Made National Finals to be held at;  
