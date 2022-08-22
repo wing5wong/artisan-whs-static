@@ -2,6 +2,6 @@
 title: Future Focus Evening
 date: 2022-08-24T21:26:39.831Z
 ---
-Our Future Focus Evening is on Thursday 25 August.
+Our Future Focus Evening is on Thursday 25 August, between 5.30pm-7pm in the School Library.
 
-Presentation for parents in the Library related to subjects offered for 2023 – details to be provided closer to the date.
+Parents and students are welcome to come along any time between 5.30pm-7pm for an informative presentation from teachers related to subjects offered for 2023.
