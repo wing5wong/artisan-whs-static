@@ -11,4 +11,7 @@ A reminder that Tuesday, 23 August is a Teacher Only Day allocated in national A
 
 * **Future Focus Week 2022**
 
-A wide variety of Future Focus and course selection activities will begin from 22 August onwards.  There will also be a Future Focus evening for students and parents in the school Library on Thursday, 25 August.
+A wide variety of Future Focus and course selection activities will begin from 22 August onwards. 
+
+Our Future Focus Evening is on Thursday 25 August, between 5.30pm-7pm in the School Library.  
+Parents and students are welcome to come along any time between 5.30pm-7pm for an informative presentation from teachers related to subjects offered for 2023.
