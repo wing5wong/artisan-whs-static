@@ -12,7 +12,7 @@
 <div class="row no-gutters">
         @foreach(["Board Chairperson","Principal","Parent Representative", "Staff Representative"] as $p)
             @foreach($board_members->where('category', $p)->sortBy(function($st){
-                return array_reverse(explode(" ", $st->title));
+                return array_reverse(explode(" ", $st->title))[0];
             }) as $member)
             <div class="col-12 col-md-4 p-5">
             @if($member->image)  
