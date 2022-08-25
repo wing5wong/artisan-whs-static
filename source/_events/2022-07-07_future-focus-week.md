@@ -6,6 +6,7 @@ This is the week where Year 10 to Year 12 students select their courses for next
 
 Year 9 students, your turn will be in Term 4.  
 
+Friday 26 August:  
 Period 1 Year 10: Could the Year 10 PE classes (PT & GDM) and DR's Year 10 Math class come straight to the Library after form time please.  
 The Year 10 Social Studies and BL's English class to go to class and come over at 9.50: We are going over Course Selection.  
 
