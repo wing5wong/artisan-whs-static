@@ -7,8 +7,8 @@ Includes Victoria University and Massey Wellington, and might include WelTec and
 
 Year 12s are welcome as well. 
 
-Thank you to those who signed up for this event (26 August). Permission slips have been e-mailed and hardcopy version is in form class registers. If you forgot to sign up and wish to attend, a blank permission slip will be available from the Student Centre.  
-BREAKING NEWS: School of Tourism, NZ Inst. of Sport and YOOBEE Creative all share a campus, so see Mr. Keene at form time today (15 August) if you wish to visit one of these.
+Reporting time is 5:45am at the bus bay - please be prompt. Reminder notices are in form class registers. Any questions, see Mr. Keene at form time, LB1 office.
+
 
 *Mr Keene  
 Careers Advisor*
