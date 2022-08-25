@@ -12,3 +12,7 @@ The Year 10 Social Studies and BL's English class to go to class and come over a
 Year 11 & Year 12 ; During Form time today, please show someone in class what you have selected - check the subject codes. Unless you are doing Vocational, you should NOT be picking a class code starting with 'V'. Similarly, make sure you have selected the right year - subjects ending in '2' are Year 12 or Level 2; similarly '3' = Level 3.
 
 During the week your classes (Year 10 - Year 12) will be time-tabled to go to the Library. You are welcome to come over during your breaks as well but the teachers you need to ask questions of will only be there at specific times.
+
+### Course Selection - Year 9-12 
+
+Reminder - Course selection information & more can be found on the STUDENT PAGES which can be accessed via the WHS Google bookmarks or via [bit.ly/whsstudentpages](https://sites.google.com/wanganuihigh.school.nz/whs-student-pages)
