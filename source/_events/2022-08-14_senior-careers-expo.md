@@ -8,7 +8,7 @@ The Expo venue is The War Memorial Hall complex in Watt St.
 All Year 12 & 13 students will attend the expo as follows:
   
 **Year 12: 8:45-10:15am.**  
-Students are to go directly to the venue instead of school will be transported back to school for period 2. The exception will be those students who wish to visit the UCOL open day. They will return to school for period 3  
+Students are to go directly to the venue instead of school will be transported back to school for period 2. The exception will be those students who wish to visit the UCOL open day. They will return to school for period 3. 
 
 **Year 13: 1:30-3:00pm.**  
 Transported from school at 1:20pm and dismissed from the expo.  
