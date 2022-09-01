@@ -1,6 +1,6 @@
 ---
 title: Winter Tournament week
-date: 2022-08-29T09:05:23.698Z
+date: 2022-09-02T09:05:23.698Z
 ---
 Wishing our sports teams all the very best!  
 
