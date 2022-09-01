@@ -11,9 +11,9 @@ All Year 12 & 13 students will attend the expo as follows:
 Students are to go **directly** to the venue instead of school (Bus students should walk from the City College stop) and will be transported back to school for period 2. Any students who wish to then visit the UCOL open day, will leave from the Expo and return to school for period 3.
 
 **Year 13: 1:30-3:00pm.**  
-Transported from school during pd.4 and dismissed from the expo.
+Transported from school during period 4 and dismissed from the expo.
 
-Mr. P. Keene (Careers Advisor) will be assisting at the Expo. Deans and senior staff and class teachers will be present during the day.     
+Mr P. Keene (Careers Advisor) will be assisting at the Expo. Deans and senior staff and class teachers will be present during the day.     
 
 
 As this is such a large group, and involves an organised activity which will form part of the school day, we will not require individual parental permission in this instance. However, if you do not wish your child to participate, please contact the student centre at school via telephone: 349 0177.
