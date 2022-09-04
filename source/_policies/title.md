@@ -16,7 +16,7 @@ policyAreas:
         policy: 1.7b Use of the Internet
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/1.8_-Careers_Information_Advice_updated_October_2019.pdf
         policy: 1.8 Careers Information and Advice
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/1.9_-_Assessment_and_Reporting_updated_September_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1662329914/School%20Policies/1.9_-_Assessment_and_Reporting_updated_August_2022.pdf
         policy: 1.9 Assessment and Reporting
     policyArea: 1. Curriculum Delivery
   - policies:
