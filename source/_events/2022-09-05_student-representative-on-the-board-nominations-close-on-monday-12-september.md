@@ -1,6 +1,6 @@
 ---
 title: Student Representative on the Board - Nominations close on Monday 12 September
-date: 2022-09-06T02:56:37.844Z
+date: 2022-09-07T02:56:37.844Z
 ---
 Nominations are now open for the WHS Board's Student Representative Election at the end of September.
 
