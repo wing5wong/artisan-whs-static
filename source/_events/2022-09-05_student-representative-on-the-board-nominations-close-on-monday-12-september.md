@@ -8,4 +8,4 @@ Nomination forms can be picked up from the Student Centre or Returning Officer, 
 
 The election will be held on one day only - Wednesday, 28 September 2022.
 
-Nominations close on Monday 12 September at noon.
+**Nominations close on Monday 12 September at noon.**
