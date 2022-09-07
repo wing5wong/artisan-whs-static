@@ -10,7 +10,7 @@
 
 <h2 class="decorated d-table">Board Members</h2>
 <div class="row no-gutters">
-        @foreach(["Board Chairperson","Parent Representative", "Staff Representative","Principal"] as $p)
+        @foreach(["Board Chairperson","Parent Representative","Principal", "Staff Representative"] as $p)
             @foreach($board_members->where('category', $p)->sortBy(function($st){
                 return array_reverse(explode(" ", $st->title))[0];
             }) as $member)
