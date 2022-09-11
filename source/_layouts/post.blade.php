@@ -8,17 +8,20 @@
 
 
     @if ($page->image or $page->feature_image)
-        <a href="{{ $page->feature_image["image"] ?: $page->image }}" @if($page->image_title or $page->feature_image["description"])title="{{$page->feature_image["description"] ?:$page->image_title}}"@endif @if($page->image_alt or $page->feature_image["alt"])alt="{{$page->feature_image["alt"] ?: $page->image_alt}}"@endif class="featured">
+        <a href="{{ $page->feature_image["image"] ?? $page->image }}"
+         @if($page->image_title or data_get($page,"feature_image.description"))title="{{data_get($page,"feature_image.description") ?? $page->image_title}}"@endif 
+         @if($page->image_alt or data_get($page,"feature_image.alt"))alt="{{data_get($page,"feature_image.alt") ?? $page->image_alt}}"@endif 
+         class="featured">
                 <img class="featured-image"  style="object-fit: cover; max-width:100%; display: block; object-fit: contain; max-width: 100%; display: block;" 
-                src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->feature_image["image"] ?: $page->image)}}"
+                src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->feature_image["image"] ?? $page->image)}}"
                 srcset="
-                {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->feature_image["image"] ?: $page->image)}}
+                {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/q_auto,f_auto,h_400,c_lfill,g_auto/", $page->feature_image["image"] ?? $page->image)}}
                 "
         alt="" style="max-width: 100%">
         </a>
         @if($page->image_credit or ($page->feature_image and array_key_exists('credit',$page->feature_image)))
         <div class="image-credit">
-            <em>Photo / {{$page->feature_image["credit"] ?: $page->image_credit}}</em>
+            <em>Photo / {{$page->feature_image["credit"] ?? $page->image_credit}}</em>
         </div>
         @endif
 

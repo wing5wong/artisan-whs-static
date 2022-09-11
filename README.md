@@ -1,12 +1,15 @@
 # Artisan Static
 
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://oss.ninja/mit/raniesantos)
-[![donate](https://img.shields.io/badge/$-donate-ff5f5f.svg?style=flat-square)](https://ko-fi.com/raniesantos)
-[![chat](https://img.shields.io/badge/chat-discord-7289DA.svg?style=flat-square)](https://discord.gg/YA7j7Zp)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://oss.ninja/mit/raniesantos)
+[![Donate](https://img.shields.io/badge/$-donate-tomato.svg)](https://ko-fi.com/raniesantos)
 
-An advanced starter template for building a static Jigsaw blog hosted on Netlify with analytics, comments, code highlighting, a contact form, a CMS, and more.
+A starter template for building a static Jigsaw blog hosted on Netlify.
 
-This template has extremely minimal CSS.
+This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.
+
+The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.
+
+**Demo:** https://artisanstatic.netlify.app
 
 ___
 ## General details and features
@@ -15,14 +18,14 @@ ___
 - Hosting: [Netlify](https://www.netlify.com)
 - CMS: [Netlify CMS](https://www.netlifycms.org)
 - Image hosting: [Cloudinary](https://cloudinary.com)
+- Contact form: [Formcarry](https://formcarry.com)
 - Google Analytics
+- Dynamic meta tags (SEO, Facebook Open Graph, Twitter Cards)
 - Posts can have multiple tags
 - Posts show a warning when potentially outdated (over 365 days old)
 - Code highlighting: [highlight.js](https://github.com/highlightjs/highlight.js)
 - Share buttons: [sharer.js](https://github.com/ellisonleao/sharer.js)
-- Facebook Open Graph and Twitter Card meta tags
 - Comments: [Disqus](https://disqus.com)
-- Contact form: [Jumprock](https://jumprock.co)
 
 ___
 ## Getting started
@@ -48,16 +51,16 @@ After using the deploy button above, clone **your copy** of the repository and r
 
 ```shell
 $ composer install
-$ yarn install
-$ yarn watch
+$ npm install
+$ npm run watch
 ```
 
-Your browser will open [localhost:3000](http://localhost:3000/) automatically.
+Your browser will open `localhost:3000` automatically.
 
 ___
 ## Configuration
 
-The default posts included in this template contain short guides on how to configure or implement some of its features.
+The posts included in this template contain instructions on how to configure or implement some of its features.
 
 When you use the 3rd-party services recommended by this template, make sure to read the docs of that specific service.
 

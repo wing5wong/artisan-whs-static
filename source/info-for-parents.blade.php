@@ -37,8 +37,8 @@
         <h2 class="mb-5 w-100">
             {{$for_parents->get('enrolments')["title"]}}
         </h2>
-        @if(array_key_exists('intro',$for_parents->get('enrolments')))
-        {{ $for_parents->get('enrolments')["intro"] }}
+        @if($for_parents->get('enrolments'))
+        {{ $for_parents->get('enrolments')->get("intro") }}
         @endif
         <a class="btn btn-light mt-2" href="{{ $for_parents->get('enrolments')->getPath() }}">More
             Information</a>

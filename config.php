@@ -101,12 +101,16 @@ return [
         return collect($faculties->firstWhere('title', $departmentToFind)->hofs ?? [])
             ->map(function ($st) use ($staff) {
                 return $staff->firstWhere('title', $st);
+            })->filter(function($st){
+                return !is_null($st);
             });
     },
     'getDepartmentAHofs' => function ($page, $faculties, $staff, $departmentToFind) {
         return collect($faculties->firstWhere('title', $departmentToFind)->ahofs ?? [])
             ->map(function ($st) use ($staff) {
                 return $staff->firstWhere('title', $st);
+            })->filter(function($st){
+                return !is_null($st);
             });
     },
 

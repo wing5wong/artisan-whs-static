@@ -26,7 +26,7 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
 
 
 @php
-    $personInCharge = $staff->firstWhere('title', $page->person_in_charge);
+$personInCharge = $staff->firstWhere('title', $page->person_in_charge);
 @endphp
 @if(!($page->people) and $personInCharge)
 <h3>Person in charge</h3>
@@ -60,65 +60,67 @@ $ecArea = $extracurricular_areas->firstWhere('title', $page->extracurricular_are
     </thead>
     <tbody>
         @if($page->people)
-            @php
-                $involvedStaff = collect($page->people)->map(function($person) use ($staff){
-                    return ['person' => $staff->firstWhere('title', $person["name"]), 'role' => $person["role"]];
-                });
-            @endphp
-            <tr>
-                <th>Name</th>
-                <th>Role</th>
-                <th>Phone</th>
-                <th>Email</th>
-            </tr>
-            @foreach($involvedStaff as $involved)
-            <tr>
-                <td>{{ $involved["person"]["title"] }}</td>
-                <td>{{ $involved["role"] }}</td>
-                <td>{{ isset($involved["person"]["phone"]) ? $involved["person"]->phone : '' }}</td>
-                <td>{{ isset($involved["person"]["email"]) ? $involved["person"]->email : '' }}</td>
-            </tr>
-            @endforeach
+        @php
+        $involvedStaff = collect($page->people)->map(function($person) use ($staff){
+        return ['person' => $staff->firstWhere('title', $person["name"]), 'role' => $person["role"]];
+        })->filter(function($st){
+        return !is_null($st['person']);
+        });
+        @endphp
+        <tr>
+            <th>Name</th>
+            <th>Role</th>
+            <th>Phone</th>
+            <th>Email</th>
+        </tr>
+        @foreach($involvedStaff as $involved)
+        <tr>
+            <td>{{ $involved["person"]["title"] }}</td>
+            <td>{{ $involved["role"] }}</td>
+            <td>{{ isset($involved["person"]["phone"]) ? $involved["person"]->phone : '' }}</td>
+            <td>{{ isset($involved["person"]["email"]) ? $involved["person"]->email : '' }}</td>
+        </tr>
+        @endforeach
         @endif
 
         @if($page->cost)
-            <tr>
-                <th>Cost</th>
-                <td colspan="3"> {{ $page->cost}}</td>
-            </tr>
+        <tr>
+            <th>Cost</th>
+            <td colspan="3"> {{ $page->cost}}</td>
+        </tr>
         @endif
 
         @if($page->terms)
-            <tr>
-                <th>
-                    When
-                </th>
-                <td colspan="3">
-                    @foreach($page->terms as $term)
-                        {{ $term }}@if(!$loop->last), @endif
-                    @endforeach
-                </td>
-            </tr>
+        <tr>
+            <th>
+                When
+            </th>
+            <td colspan="3">
+                @foreach($page->terms as $term)
+                {{ $term }}@if(!$loop->last), @endif
+                @endforeach
+            </td>
+        </tr>
         @endif
 
         @if($page->uniform)
-            <tr>
-                <th>Uniform/Equipment</th>
-                <td colspan="3">{{ $page->uniform}}</td>
-            </tr>
+        <tr>
+            <th>Uniform/Equipment</th>
+            <td colspan="3">{{ $page->uniform}}</td>
+        </tr>
         @endif
 
 
     </tbody>
 </table>
 
-    
+
 @yield('postContent')
 
 
 @php
 $recentNews = $news->filter(function($article) use ($page){
-    return in_array($page->title, $article->extracurricular_activities ?? []);
+return in_array($page->title, $article->extracurricular_activities ?? []);
 })
 ->take(6);
 @endphp
@@ -129,13 +131,10 @@ $recentNews = $news->filter(function($article) use ($page){
     @foreach($recentNews as $n)
     <div class="col-sm-12 col-md-6 col-lg-4">
         <a href="{{$n->getPath()}}">
-            <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $page->featureImageSrc($n))}}"
-srcset="
+            <img src="{{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $page->featureImageSrc($n))}}" srcset="
 {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_400,h_360/", $page->featureImageSrc($n))}} 400w,
 {{str_replace("https://res.cloudinary.com/whanganuihigh/image/upload/","https://res.cloudinary.com/whanganuihigh/image/upload/c_fill,g_face,q_80,w_250,h_170/", $page->featureImageSrc($n))}} 250w
-"
-sizes="(min-width: 800px) 400px, 250px"
-        width="600" alt="{{$page->featureImageAlt($n) ?? ''}}" title="{{ $page->featureImageDescription($n)}}" style="max-width: 100%">
+" sizes="(min-width: 800px) 400px, 250px" width="600" alt="{{$page->featureImageAlt($n) ?? ''}}" title="{{ $page->featureImageDescription($n)}}" style="max-width: 100%">
             {{$n->title}}
         </a>
     </div>
@@ -146,7 +145,7 @@ sizes="(min-width: 800px) 400px, 250px"
 
 @if($page->blocks)
 @foreach($page->blocks as $block)
-    @include('_partials.blocks.' . $block["type"], ['block'=>$block])
+@include('_partials.blocks.' . $block["type"], ['block'=>$block])
 @endforeach
 @endif
 

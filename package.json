@@ -1,26 +1,19 @@
 {
     "private": true,
     "scripts": {
-        "local": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --env=local --config=node_modules/laravel-mix/setup/webpack.config.js --max_old_space_size=16096",
-        "staging": "cross-env NODE_ENV=staging node_modules/webpack/bin/webpack.js --progress --hide-modules --env=staging --config=node_modules/laravel-mix/setup/webpack.config.js",
-        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --env=production --config=node_modules/laravel-mix/setup/webpack.config.js",
-        "dev": "npm run local",
-        "prod": "npm run production",
-        "watch": "npm run local -- --watch"
+        "dev": "mix",
+        "watch": "mix watch",
+        "staging": "NODE_ENV=staging mix",
+        "prod": "mix --production"
     },
     "devDependencies": {
-        "browser-sync": "^2.26.12",
-        "browser-sync-webpack-plugin": "^2.0.1",
-        "cross-env": "^3.2.3",
-        "extra-watch-webpack-plugin": "^1.0.3",
-        "file-loader": "^4.2.0",
-        "hasbin": "^1.2.3",
-        "laravel-mix": "^4.1.4",
-        "node-cmd": "^3.0.0",
-        "sass": "^1.26.9",
-        "sass-loader": "^7.3.1",
-        "vue-template-compiler": "^2.6.11",
-        "yargs": "^4.6.0"
+        "highlight.js": "^11.3.1",
+        "laravel-mix": "^6.0.10",
+        "laravel-mix-jigsaw": "^1.5.0",
+        "notyf": "^3.10.0",
+        "sass": "^1.45.0",
+        "sass-loader": "^12.4.0",
+        "sharer.js": "^0.4.2"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.13.1",

@@ -91,16 +91,17 @@ details tr.staff-house-Whenua {border-left: 2px solid #1c6c37;}
 ->filter(function($f){
 return $f->title !== "Senior Leadership Team";
 }) as $dept)
-
 @php
 $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
 @endphp
 @if($filteredStaff->isNotEmpty())
 <details>
     <summary>
-        <h2 class='d-table decorated mt-5 mb-2'>{{ $dept->title }}</h2>
+        <h2 class='d-table decorated mt-5 mb-2'>WAT {{ $dept->title }} H({{ count($page->getDepartmentHofs($faculties, $staff, $dept->title))}}) A({{ count($page->getDepartmentAHofs($faculties, $staff, $dept->title))}})</h2>
     </summary>
+
     <table class="table table-striped table-borderless table-hover">
+        <tr><td>HOFS</td></tr>
         @foreach($page->getDepartmentHofs($faculties, $staff, $dept->title) as $member)
         <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($member->on_leave) leave @endif">
             <td>
@@ -125,8 +126,9 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
             </td>
         </tr>
         @endforeach
+        <tr><td>AHOFS</td></tr>
         @foreach($page->getDepartmentAHofs($faculties, $staff, $dept->title) as $member)
-        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($member->on_leave) leave @endif">
+        <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($member->on_leave) leave @endif" style="background:green; border: 1px solid red;">
             <td>
                 <strong>{{ $member->title }}</strong>
             </td>
@@ -149,6 +151,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
             </td>
         </tr>
         @endforeach
+        <tr><td>Staff</td></tr>
         @foreach($filteredStaff as $member)
         <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($member->on_leave) leave @endif">
             <td>

@@ -2,6 +2,7 @@
 title: Enrolments
 date: 2021-03-03T01:07:19.899Z
 extends: _layouts.school-information.enrolments
+intro:
 ---
 ## Enrolment Applications
 
