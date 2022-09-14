@@ -1,5 +1,5 @@
 ---
-title: Summer Sports sign ups - Term 4 - closes Wednesday 28 September
+title: Summer Sports sign ups, Term 4 - closes Wednesday 28 September
 date: 2022-09-16T08:30:55.554Z
 ---
 If you are wanting to play summer sports next term please use the bitly below. All information about the sports will be on the bitly.
