@@ -1,5 +1,5 @@
 ---
-title: House Activity Day
+title: House Activity Day - ALL Students
 date: 2022-09-29T11:50:50.092Z
 ---
 We are holding a fun day of activities down at Cooks Gardens for ALL students. School will be CLOSED!
