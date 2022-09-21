@@ -1,6 +1,6 @@
 ---
 title: WHS Senior Examinations
-date: 2022-09-20T12:48:13.720Z
+date: 2022-09-21T12:48:13.720Z
 ---
 WHS Senior Examinations  
 Thursday 15 September – Friday 23 September
