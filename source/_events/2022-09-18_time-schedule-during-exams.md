@@ -1,6 +1,6 @@
 ---
 title: Time Schedule during Exams
-date: 2022-09-21T20:43:43.462Z
+date: 2022-09-22T20:43:43.462Z
 ---
 **Schedule during the Senior Exams:**
 
