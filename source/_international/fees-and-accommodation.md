@@ -48,7 +48,7 @@ All students must have full insurance (personal effects, health and accident ins
 
 ## **Accommodation Fee**
 
-**Homestay Fee: NZ $11,700** (for a full academic year of 45 weeks or $260 per week for a part of a year)
+**Homestay Fee: NZ $12,375** (for a full academic year of 45 weeks or $275 per week for a part of a year)
 
 *The homestay fee covers the following:*
 
@@ -103,14 +103,14 @@ If you have a complaint, please contact the Director of International Students i
 
 ## **Contact:**
 
-Mrs Brenda Rudolph  
-Director of International Students  
-Whanganui High School  
-Box 4022   
-Whanganui  
+Mrs Brenda Rudolph\
+Director of International Students\
+Whanganui High School\
+Box 4022\
+Whanganui\
 NEW ZEALAND  
 
-Ph No. +64 6 349 0178  
+Ph No. +64 6 349 0178\
 Fax No. +64 6 349 0176
 
 Email: director.int@whanganuihigh.school.nz
