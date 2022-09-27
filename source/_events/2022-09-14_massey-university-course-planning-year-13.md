@@ -7,4 +7,4 @@ A student Adviser from Massey University will visit on Wednesday 28 September, t
 If MASSEY is your 1st choice for 2023, come to the library at first break.
 
 *M﻿r Keene  
-S﻿tudent Advisor*
+S﻿tudent Adviser*
