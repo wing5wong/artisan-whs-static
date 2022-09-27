@@ -7,4 +7,4 @@ A student Adviser from University of Otago will visit on Thursday 20 October, to
 If Otago is your 1st choice for 2023, come to the library at first break.
 
 *M﻿r Keene  
-S﻿tudent Advisor*
+S﻿tudent Adviser*
