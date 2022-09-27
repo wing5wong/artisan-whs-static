@@ -2,46 +2,13 @@
 title: House Activity Day - ALL Students
 date: 2022-09-29T11:50:50.092Z
 ---
-We are holding a fun day of activities down at Cooks Gardens for ALL students. School will be CLOSED!
+Reminder that we will be having our school Activity Day on Friday down at Cooks Garden. You are to go straight to Cooks Gardens from home. The time to meet at Cooks is 9:45am. Please go into the main grandstand in your house area.
 
-9.45am - All students meet at Cooks Gardens and sit in main grandstand in house areas. 
+Bring a lunch, drink and dress up in house colours. There will also be food caravans on site.
 
-10.00am - Roll call & Welcome 
+Activities will run throughout the day finishing at 2:05pm then you will be released to go home.
 
-10.15am - House chant off 
+If there is a cancellation due to the weather this will be advertised on the school facebook/website pages by 8am Friday morning. This will then be a normal school day starting at 8:45am.
 
-10.25am - Students (lead by staff) head down onto track/field house area to start activities. 15 min rotations will be signaled. Prefects will be running the activities, with staff support when down there.
-
-11.45am - Students head back into main grandstand for lunch break.
-
-12 noon - Lunch break - Coffee and food cart available.
-
-Lunchtime entertainment - Open mic and music - Run by Cultural Prefects (sort prior to the day)
-
-12.45pm - Round 2 of rotations around activities in house areas. 
-
-1.30pm - All students and staff back in main grandstand 
-
-1.45pm - House relays 4x100 - 1 Junior & 1 Senior mixed team per house (4 members per team) Heads of House to sort their teams. 
-
-1.55pm - House Mascot 100m sprint - Heads of House to sort this
-
-2.00pm - Principal farewell staff and students for the holidays 
-
-2.05pm - All depart 
-
-We would love ALL staff and students to Dress Up in house colours. 
-
-We are hoping for a fun filled end of term day for all. 
-
-We will have 10 different activities set up in each house area for groups of students to rotate around morning and afternoon. 
-
-We are also looking at getting a waterslide up on the hill from 
-Sport Whanganui. (TBC) 
-
-I will update you with our final set up for the day in Week 10. If raining the activity day will be cancelled and it will be a normal school day.  
-
-Thanks Team! 
-
-Lisa & Kerwyn 
+Any questions please come and see Mrs Murphy in the Te Wehi Gym Office. 
 
