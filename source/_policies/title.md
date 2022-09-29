@@ -14,7 +14,7 @@ policyAreas:
         policy: 1.7 Information and Communication Technology
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1604007947/School%20Policies/1.7b_-Use_of_the_Internet_updated_October_2020.pdf
         policy: 1.7b Use of the Internet
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/1.8_-Careers_Information_Advice_updated_October_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335709/School%20Policies/1.8_-Careers_Information_Advice_updated_August_2022.pdf
         policy: 1.8 Careers Information and Advice
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1662329914/School%20Policies/1.9_-_Assessment_and_Reporting_updated_August_2022.pdf
         policy: 1.9 Assessment and Reporting
@@ -44,11 +44,11 @@ policyAreas:
         policy: 3.9 Timetable
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.10_-_Staff_Leave_updated_November_2021.pdf
         policy: 3.10 Staff Leave
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/3.11_-_Sexual_Harassment_updated_October_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335709/School%20Policies/3.11_-_Sexual_Harassment_updated_August_2022.pdf
         policy: 3.11 Sexual Harassment
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/3.12_-Complaints_and_Associated_Staff_Discipline_updated_October_2019.pdf
         policy: 3.12 Complaints and Associated Staff Discipline
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/3.13_-_Anti-Violence_Abuse_Bullying_-_October_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335709/School%20Policies/3.13_-_Anti-Violence_Abuse_Bullying_-_August_2022.pdf
         policy: 3.13 Anti-Violence, Abuse and Bullying
     policyArea: 3. Personnel
   - policies:
@@ -68,13 +68,13 @@ policyAreas:
   - policies:
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635798158/School%20Policies/5.1_-Health_and_Safety_Policy_updated_October_2021.pdf
         policy: 5.1 Health and Safety
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/5.2_Emergencies_Policy_updated_October_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335922/School%20Policies/5.2_Emergencies_Policy_updated_August_2022.pdf
         policy: 5.2 Emergencies
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/5.3_Post_Disaster_Survival_Policy_updated_October_2021.pdf
         policy: 5.3 Post Disaster Survival
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/5.4_-Student_Discipline_Policy_updated_November_2021.pdf
         policy: 5.4 Student Discipline
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797845/School%20Policies/5.5_Sexuality_Education_Policy_updated_October_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335708/School%20Policies/5.5_Sexuality_Education_Policy_updated_August_2022.pdf
         policy: 5.5 Sexuality Education
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/5.6_-_Alcohol_Tobacco_Vaping_Drugs_Policy_updated_November_2020.pdf
         policy: 5.6 Drugs
