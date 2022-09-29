@@ -97,7 +97,7 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
 @if($filteredStaff->isNotEmpty())
 <details>
     <summary>
-        <h2 class='d-table decorated mt-5 mb-2'>WAT {{ $dept->title }} H({{ count($page->getDepartmentHofs($faculties, $staff, $dept->title))}}) A({{ count($page->getDepartmentAHofs($faculties, $staff, $dept->title))}})</h2>
+        <h2 class='d-table decorated mt-5 mb-2'>{{ $dept->title }}</h2>
     </summary>
 
     <table class="table table-striped table-borderless table-hover">
