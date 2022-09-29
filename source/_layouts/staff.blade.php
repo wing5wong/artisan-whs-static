@@ -149,7 +149,6 @@ $filteredStaff = $page->getDepartmentStaff($faculties, $staff, $dept->title);
             </td>
         </tr>
         @endforeach
-        <tr><td>Staff</td></tr>
         @foreach($filteredStaff as $member)
         <tr class="@if($member->house) staff-house-{{$member->house}} @endif @if($member->on_leave) leave @endif">
             <td>
