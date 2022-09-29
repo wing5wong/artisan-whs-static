@@ -1,5 +1,5 @@
 ---
-title: House Activity Day - ALL Students - CANCELLED
+title: House Activity Day - CANCELLED - normal school day
 date: 2022-09-29T11:50:50.092Z
 ---
 Reminder that we will be having our school Activity Day on Friday down at Cooks Garden. You are to go straight to Cooks Gardens from home. The time to meet at Cooks is 9:45am. Please go into the main grandstand in your house area.
