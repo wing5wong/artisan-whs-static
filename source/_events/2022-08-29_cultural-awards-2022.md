@@ -2,8 +2,10 @@
 title: Arts/Cultural Awards 2022
 date: 2022-10-17T23:42:05.133Z
 ---
-Cultural Awards Tickets are on sale ONLY at The Royal Whanganui Opera House - you have all holidays to purchase them. 
+WHS CULTURAL AWARDS 2022  
+Tuesday 18 October, 6pm start, $12 (food and drinks included)  
+The Royal Whanganui Opera House  
 
-The Awards are on THE FIRST TUESDAY OF TERM 4 - 6pm start - food and drinks included. 
+Ticket sales ONLY at The Royal Whanganui Opera House - you have all holidays to purchase them. 
 
 [https://RWOH.sales.ticketsearch.com/sales/salesevent/79637](https://rwoh.sales.ticketsearch.com/sales/salesevent/79637)
