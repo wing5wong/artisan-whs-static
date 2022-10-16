@@ -9,4 +9,6 @@ Prizegiving finishes by approximately 1.00pm.
 Final reports will be issued, and sent to families via email.
 
 
-This is the last day for Junior students.
+This is the last day for Junior students.  
+
+Buses run at the usual time.
