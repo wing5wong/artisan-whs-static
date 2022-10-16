@@ -11,6 +11,8 @@ This is the last day for Year 11 students.
 
 Years 9 and 10 are released at 12.50pm.  
 
+Buses run at the usual time and the Library Homework Centre will be open till 4.30pm. 
+
 
   
 
