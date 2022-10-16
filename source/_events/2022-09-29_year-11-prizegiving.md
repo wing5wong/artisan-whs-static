@@ -2,7 +2,7 @@
 title: Year 11 Prizegiving
 date: 2022-11-02T21:38:10.485Z
 ---
-Year 11 Prizegiving is on Thursday 3 November at 1.30pm in the School Hall.  
+**Year 11 Prizegiving is on Thursday 3 November at 1.30pm in the School Hall.**  
 Prizegiving finishes by 3.05pm.    
 
 
