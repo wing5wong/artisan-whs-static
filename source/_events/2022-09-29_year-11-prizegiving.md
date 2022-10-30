@@ -5,7 +5,7 @@ date: 2022-11-02T21:38:10.485Z
 **Year 11 Prizegiving is on Thursday 3 November at 1.30pm in the School Hall.**  
 Prizegiving finishes by 3.00pm.
 
-Parents are welcome to attend the prizegiving in the School Hall and we would appreciate you being seated ten minutes prior to the start time.    
+Parents are welcome to attend the prizegiving and we would appreciate you being seated ten minutes prior to the start time.    
 
 
 Final reports will be issued, and sent to families via email.  
