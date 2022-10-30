@@ -2,13 +2,13 @@
 title: Year 13 Prizegiving
 date: 2022-10-31T21:28:10.545Z
 ---
-**Graduation Breakfast 7.45am** – Eulogy Lounge at the Whanganui Racecourse. Entry by ticket only. Students are expected to go home at the conclusion of this event approximately 9.30am
+**Graduation Breakfast 7.45am** – Eulogy Lounge at the Whanganui Racecourse. Entry by ticket only. Students are expected to go home at the conclusion of this event approximately 9.30am, and not expected to attend school on this day.
 
-**Year 13 Prizegiving at 7.00pm** in the School Hall. Students have to attend their final form time at 6.15pm.
+**Year 13 Prizegiving at 7.00pm** in the School Hall.  
+Students have to attend their **final form time at 6.15pm.**
 
 Final reports will be issued, and sent to families via email.  
 
-***Year 13 students are not expected to be in school on this day, but they are 			expected to attend their final form time at 6.15pm prior to assembling for the 			Prizegiving.***  
 This is the last day for Year 13 students.
   
 
