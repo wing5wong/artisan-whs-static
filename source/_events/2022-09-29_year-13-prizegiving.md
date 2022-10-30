@@ -7,6 +7,10 @@ date: 2022-10-31T21:28:10.545Z
 **Year 13 Prizegiving at 7.00pm** in the School Hall.  
 Students have to attend their **final form time at 6.15pm.**
 
+Parents are welcome to attend the prizegiving and we would appreciate you being seated ten minutes prior to the start time. 
+  
+
+
 Final reports will be issued, and sent to families via email.  
 
 This is the last day for Year 13 students.
