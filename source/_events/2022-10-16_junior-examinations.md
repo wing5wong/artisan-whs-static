@@ -3,7 +3,7 @@ title: Junior Examinations
 date: 2022-11-06T19:47:20.693Z
 ---
 
-**The Junior examinations will be held on Monday 7 November**  
+**Junior examinations will be held on Monday 7 November**  
 
 These examinations are only run for English, Mathematics, Science and Social Studies.  
 
