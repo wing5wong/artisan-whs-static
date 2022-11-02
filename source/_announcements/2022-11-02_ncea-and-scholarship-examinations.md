@@ -1,5 +1,5 @@
 ---
-title: NCEA and Scholarship Examinations
+title: NCEA & Scholarship Examinations start Monday 7 November
 is_emergency: false
 date: 2022-11-07T06:32:03.278Z
 subtitle: Junior examinations will be held on Monday 7 November
