@@ -13,7 +13,7 @@ Parents/students are reminded that NZQA exams cannot be rescheduled – they can
 
 ___________________________________
 
-**Junior examinations will be held on Monday 7 November**
+##### Junior examinations will be held on Monday 7 November
 
 These examinations are only run for English, Mathematics, Science and Social Studies.
 
