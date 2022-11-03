@@ -7,7 +7,7 @@ date: 2022-11-06T19:47:20.693Z
 
 These examinations are only run for English, Mathematics, Science and Social Studies.  
 
-**Junior examination timetable:**
+Junior examination timetable:
 
 Monday 7 November - 
 Morning 9.20 to 11.20am  
