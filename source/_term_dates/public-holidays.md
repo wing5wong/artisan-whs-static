@@ -1,6 +1,6 @@
 ---
 title: 2023 Public Holidays
-date: 2022-11-17T19:57:44.543Z
+date: 2022-11-17T20:06:29.041Z
 start_dates:
   - date: 2023-02-06T02:05:37.384Z
     body: Waitangi Day
