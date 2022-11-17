@@ -2,7 +2,7 @@
 title: NCEA & Scholarship Examinations
 is_emergency: false
 date: 2022-11-07T06:32:03.278Z
-subtitle: ""
+subtitle: Junior Prizegiving - Wednesday 7 December
 ---
 **The 2022 Examination Timetable for current NCEA standards and New Zealand Scholarship will run from Monday 7 November until Friday 2 December.**
 
