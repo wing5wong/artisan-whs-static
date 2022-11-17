@@ -11,3 +11,17 @@ An examination schedule can be found on the [NZQA web-site](https://www.nzqa.gov
 
 Parents/students are reminded that NZQA exams cannot be rescheduled – they can only be done on the designated day.
 
+
+---------------------
+
+**Junior Prizegiving is on Wednesday 7 December starting at 11.00am in the School Hall.**  
+Prizegiving finishes by approximately 1.00pm.
+
+
+Final reports will be issued, and sent to families via email.
+
+
+This is the last day for Junior students.  
+
+Buses run at the usual time.
+
