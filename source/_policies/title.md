@@ -30,7 +30,7 @@ policyAreas:
         policy: 3.1 Board of Trustees' "Employer" Policy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.2_-_Appointment_of_Staff_Policy_updated_November_2021.pdf
         policy: 3.2 Appointment of Staff
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.3_-_EEO_Policy_updated_November_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1669778448/School%20Policies/3.3_-_EEO_Policy_updated_November_2022.pdf
         policy: 3.3 Equal Employment Opportunities
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.5_-_Protected_Disclosures_Policy_updated_November_2020.pdf
         policy: 3.5 Protected Disclosures
@@ -60,9 +60,9 @@ policyAreas:
         policy: 4.3 Fundraising
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1591057170/School%20Policies/4.4_-Property_Management_-_May_2020.pdf
         policy: 4.4 Property Management
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/4.5_-_Sensitive_Expenditure_updated_October_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1669778448/School%20Policies/4.5-Sensitive_Expenditure_updated_October_2022.pdf
         policy: 4.5 Sensitive Expenditure
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1571171055/School%20Policies/4.6_-_Theft_and_Fraud_Prevention_updated_September_2019.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1669778448/School%20Policies/4.6_-_Theft_and_Fraud_Prevention_updated_October_2022.pdf
         policy: 4.6 Theft and Fraud Protection
     policyArea: 4. Finance and Property
   - policies:
