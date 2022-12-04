@@ -13,5 +13,5 @@ NEW ZEALAND
 **Fax:** (+64) 6 349 0176  
 **Student Centre / Attendance Phone:** (+64) 6 349 0177  
 **Email:** office@whs.ac.nz  
-**Attendance Email:** attendance@whs.ac.nz
+**Attendance Email:** attendance@whs.ac.nz  
 **School Board Email:** bot@whs.ac.nz
