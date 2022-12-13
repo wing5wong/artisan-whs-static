@@ -96,21 +96,3 @@ If you request a change of homestay, then the original homestay will receive two
 * **Guardian - a native-speaking guardian: NZ $2,500** who keeps parents informed and provides guidance to the student. 
   It is mandatory for young students under 14 years old, and for students who have had behavioural or health issues at their previous school, to have a native-speaking guardian. 
   It is recommended for any students who would like support in their first year at WHS. Guardians visit the homestay prior to arrival to discuss cultural differences, meets the student at the airport and introduces them to the homestay family. Helps with the purchase of school uniform, and assists student at school on their first day.  Maintains regular contact with school and homestay, so progress can be monitored, keeps parents informed in their own language by sending a brief report each month, answers parents’ concerns by phone/email, represents parents if there are any problems.  Takes student to the doctor, monitors student’s plans for any trips away or activities that require parental consent, and meets with the student regularly to check on their progress and well-being.
-
-## **Complaints:** 
-
-If you have a complaint, please contact the Director of International Students in the first instance.  If you are unsatisfied with the response, please visit this website [www.istudent.org.nz](https://www.istudent.org.nz/) for free and impartial advice. 
-
-## **Contact:**
-
-Mrs Brenda Rudolph\
-Director of International Students\
-Whanganui High School\
-Box 4022\
-Whanganui\
-NEW ZEALAND  
-
-Ph No. +64 6 349 0178\
-Fax No. +64 6 349 0176
-
-Email: director.int@whanganuihigh.school.nz
