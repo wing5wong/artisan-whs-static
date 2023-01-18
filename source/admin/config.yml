@@ -668,7 +668,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", widget: "datetime", hint: "Used for year in table views - set year as appropriate (e.g. year + 1 for stationery lists)" }
       - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
 
 
