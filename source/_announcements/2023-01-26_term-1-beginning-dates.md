@@ -1,5 +1,5 @@
 ---
-title: Term 1 Beginning Dates, 2023
+title: Term 1 Start Dates, 2023
 is_emergency: false
 date: 2023-01-26T02:55:07.892Z
 ---
