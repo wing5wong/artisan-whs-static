@@ -46,5 +46,5 @@ Whole school in attendance. Normal school timetable begins.
 We are all looking forward to meeting everybody and a wonderful 2023.
 
 Ngā Mihi  
-Martin McAllen
+Martin McAllen  
 PRINCIPAL
