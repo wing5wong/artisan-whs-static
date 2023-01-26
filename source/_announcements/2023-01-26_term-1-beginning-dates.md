@@ -39,7 +39,9 @@ New students in Years 10 to 12 can go home at 12.30 pm.
 
 3.05 pm - Year 9 can finish for the day.
 
-**Tuesday, 31 January** - whole school in attendance. Normal school timetable begins.
+**Tuesday, 31 January**  
+
+Whole school in attendance. Normal school timetable begins.
 
 We are all looking forward to meeting everybody and a wonderful 2023.
 
