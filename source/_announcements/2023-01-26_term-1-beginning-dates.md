@@ -1,0 +1,48 @@
+---
+title: Term 1 Beginning Dates
+is_emergency: false
+date: 2023-01-26T02:55:07.892Z
+---
+
+
+**Letter to Parents**  
+26 January 2023  
+
+Kia ora koutou
+
+I am pleased to extend a very warm welcome to all students and families as we begin the 2023 school year.
+
+This brief newsletter provides a summary of key events during Monday, 30 January and Tuesday, 31 January, and attached is our ‘About our Uniform’ booklet. A more detailed newsletter will be sent towards the end of next week.
+
+**Monday, 30 January**
+
+9.00 am - Pōwhiri
+From 8.30 am to 9.00 am our Year 13 prefects will escort all new students and parents to the correct locations in preparation for the pōwhiri. Morning tea will then be provided for students (canteen) and parents (A1) at the conclusion of the pōwhiri.
+
+10.30 am - Year 13 Students assemble at the following venues:
+
+Awa House - Te Wehi Gymnasium
+Maunga House - Te Mana Gymnasium
+Moana House - Te Ihi Gymnasium
+Whenua House - the School Hall
+
+10.30 am - Year 9 students and all other new students return to the Hall for organisation into House groups and meeting their Form teachers.
+
+12.30 pm - 1.10 pm - Lunch.
+New students in Years 10 to 12 can go home at 12.30 pm.
+
+1.10 pm - Years 9 & 13 go to Form Classes. Year 9 students will receive their course timetables.
+
+1.30 pm - Year 13 students will walk Year 9 students to their Period 4 classes. Year 13 students then go home. Year 9 students will have brief Period 4 and Period 5 classes.
+
+2.50 pm - Year 9 Form Time.
+
+3.05 pm - Year 9 can finish for the day.
+
+**Tuesday, 31 January** - whole school in attendance. Normal school timetable begins.
+
+We are all looking forward to meeting everybody and a wonderful 2023.
+
+Ngā Mihi  
+Martin McAllen
+PRINCIPAL
