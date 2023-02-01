@@ -1,5 +1,5 @@
 ---
-title: WHS Swimming Sports - sign ups close Friday 10 February
+title: WHS Swimming Sports - sign ups close 10 February
 date: 2023-02-17T06:02:53.879Z
 ---
 Get into some school spirit and earn house points by signing up to our school swimming sports over at the Splash Centre Friday 17 February.
