@@ -2,7 +2,7 @@
 title: Bell Times
 date: 2022-05-06T01:41:26.746Z
 ---
-**Students should be at school by 8:45am.\
+**Students should be at school by 8:45am.  
 Whanganui High School expects students to be punctual.**
 
 ## Monday to Thursday
