@@ -84,9 +84,9 @@ If you request a change of homestay, then the original homestay will receive two
   travel, food and accommodation is included.
 * **Air Chathams flight to Whanganui: NZ $170** Air Chathams flight to Whanganui with full concierge service. This includes a meet and transfer
   on arrival at Auckland International airport plus care of student until arrival in Whanganui.  
-* **Auckland Meet and Transfer: NZ $100** You will be met at Auckland airport and transferred to the 
+* **Auckland Meet and Transfer: Price available on application** You will be met at Auckland airport and transferred to the 
   domestic plane for flight to Whanganui or Palmerston North.
-* **Palmerston North Meet and Transfer: NZ $100** You will be met at Palmerston North airport and transferred to Whanganui
+* **Palmerston North Meet and Transfer: NZ $140** You will be met at Palmerston North airport and transferred to Whanganui
   .
 * **Assistance to obtain student visa: NZ $50** If you require the school staff to help you obtain a student visa in New
   Zealand (the visa itself costs $310), we charge an admin fee.
