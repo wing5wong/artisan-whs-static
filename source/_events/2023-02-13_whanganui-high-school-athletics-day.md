@@ -5,7 +5,6 @@ date: 2023-02-28T02:48:51.151Z
 House Athletics day is Tuesday 28 February held at Cooks Garden for the WHOLE SCHOOL.  
 
 If you are interested in competing at the school athletics champs please sign up using the bitly below.  
-
 You have until Wednesday 22 February, 1st break to sign up.  
 
 Our school athletics offers not only competitive events but fun activities to do as well. Get involved in as many events as you can to gain points for your house.  
