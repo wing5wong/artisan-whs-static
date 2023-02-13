@@ -10,4 +10,4 @@ The schedule and details about ordering are in form class registers and at
 All students must ensure they know when their form class photo is being taken and report to the Hall prior to that time.  
 
 Ordering envelops will be available in form class, if required.  
-**Online orders preferred:** [https://orders.lcscott.co.nz/ordering/with?key=TZDM7CGL](https://orders.lcscott.co.nz/ordering/identify)
+**Online orders preferred:** https://orders.lcscott.co.nz/ordering/with?key=TZDM7CGL
