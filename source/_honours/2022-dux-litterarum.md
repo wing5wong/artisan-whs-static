@@ -1,6 +1,6 @@
 ---
 title: 2022 Dux Litterarum
-date: 2023-02-21T03:10:49.116Z
+date: 2022-12-07T03:10:49.116Z
 award: Dux Litterarum
 person1_name: Benjamin White
 person1_image: https://res.cloudinary.com/whanganuihigh/image/upload/v1676948200/Honours%20Board/18165.jpg
