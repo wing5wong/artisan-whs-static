@@ -38,7 +38,7 @@ $awardHeadingingLookup = [
 'Dux Ludorum' => ["Boy", "Girl"],
 'Heads of School' => ["Boy", "Girl"],
 'Dux Litterarum' => ["Dux", "Proxime Accessit"],
-'Maori Student Dux' => ["Winner", "Runner Up"],
+'Maori Student Dux' => ["Winner", ""],
 ];
 
 @endphp
