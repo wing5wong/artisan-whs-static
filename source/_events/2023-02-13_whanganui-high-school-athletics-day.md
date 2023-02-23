@@ -1,5 +1,5 @@
 ---
-title: "WHS Athletics Day - sign ups close Wednesday, 22 February "
+title: "WHS Athletics Day "
 date: 2023-02-28T02:48:51.151Z
 ---
 House Athletics day is Tuesday 28 February held at Cooks Garden for the WHOLE SCHOOL.  
