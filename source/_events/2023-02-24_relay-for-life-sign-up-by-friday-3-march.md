@@ -15,4 +15,4 @@ You can enter the code WHA23 so you don't have to pay or give credit card detail
 You can then share your page and add any extra fundraising.\
 There is a fun Battle of the Schools too.  
 
-Please sign up by Friday 3 March.
+Please sign up by Friday, 3 March.
