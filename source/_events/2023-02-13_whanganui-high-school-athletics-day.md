@@ -135,3 +135,15 @@ TUG of WAR - HOUSE competition- BOYS**
 
 
 
+
+
+
+## HOUSE FUN ACTIVITIES  
+**11AM-2PM**  
+
+* Hoop Throw  
+* Sack Race  
+* Cone Jump  
+* Shoot Out  
+* Obstacle Course 
+* Scavenger Hunt 	
