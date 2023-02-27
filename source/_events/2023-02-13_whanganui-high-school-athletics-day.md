@@ -29,7 +29,7 @@ Discus - Senior Boys
 **11am**  
 Triple Jump - Junior Girls  
 Long Jump - Intermediate Boys  
-High Jump - Senior Boys 
+High Jump - Senior Boys  
 Shot Put - Intermediate Girls  
 Javelin - Senior Girls  
 Discus - Junior Boys  
