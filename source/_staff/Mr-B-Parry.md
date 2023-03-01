@@ -1,8 +1,7 @@
 ---
 title: Mr M. Metcalfe
-position: Dean of Awa House
+position: ""
 departments:
-  - Deans
   - English
   - Social Sciences
 house: Awa
