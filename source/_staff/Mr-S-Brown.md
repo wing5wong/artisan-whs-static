@@ -1,13 +1,10 @@
 ---
-title: "Mr S. Brown "
-position: Dean of Māori students
+title: "Mr R. Holden "
+position: ""
 departments:
   - Physical Education and Health
-  - Deans
-house: Whenua
-positions:
-  - title: Dean of Māori students
-    department: Deans
+house: null
+positions: []
 phone: ""
-email: brown.s@whs.ac.nz
+email: holden.r@whs.ac.nz
 ---
