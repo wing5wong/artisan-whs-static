@@ -1,7 +1,7 @@
 ---
-title: Mrs S. McAllen
+title: Ms J. Headon
 departments:
   - English
-house: Maunga
-email: mcallen.s@whs.ac.nz
+house: null
+email: headon.j@whs.ac.nz
 ---
