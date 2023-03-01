@@ -1,8 +1,8 @@
 ---
-title: Ms K. Choudhary
+title: Mr S. Costelloe
 departments:
   - Sciences
 on_leave: false
-house: Moana
-email: choudhary.k@whs.ac.nz
+house: null
+email: costelloe.s@whs.ac.nz
 ---
