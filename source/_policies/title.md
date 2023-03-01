@@ -40,7 +40,7 @@ policyAreas:
         policy: 3.7 Staff Competency
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.8_-_Staff_Professional_Development_updated_November_2020.pdf
         policy: 3.8 Staff Professional Development
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/3.9_-Timetable_Policy_updated_February_2022.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1677703077/School%20Policies/3.9_-Timetable_Policy_updated_February_2023.pdf
         policy: 3.9 Timetable
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.10_-_Staff_Leave_updated_November_2021.pdf
         policy: 3.10 Staff Leave
@@ -80,7 +80,7 @@ policyAreas:
         policy: 5.6 Drugs
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/5.8_-_Student-Related_Transport_updated_February_2022.pdf
         policy: 5.8 Student Related Transport
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1595561242/School%20Policies/5.9_Infectious_Diseases.updated_June_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1677703078/School%20Policies/5.9_Infectious_Diseases.updated_February_2023.pdf
         policy: 5.9 Infectious Diseases
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1616961142/School%20Policies/5.10_Guidance_updated_February_2021.pdf
         policy: 5.10 Guidance
