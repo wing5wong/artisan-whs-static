@@ -1,6 +1,6 @@
 ---
 title: Mrs C. Hunter
-position: "Administration - Reprographics "
+position: Administration - Reprographics (on leave)
 departments:
   - Support and Ancillary
 house: Whenua
