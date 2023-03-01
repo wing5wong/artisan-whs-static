@@ -1,12 +1,11 @@
 ---
-title: Mr J. Leonard
-position: Dean of Maunga House
+title: Mr A. Kumar
+position: ""
 departments:
   - Mathematics
-  - Deans
-house: Maunga
+house: null
 positions:
   - department: Deans
     title: Dean of Maunga House
-email: leonard.j@whs.ac.nz
+email: kumar.a@whs.ac.nz
 ---
