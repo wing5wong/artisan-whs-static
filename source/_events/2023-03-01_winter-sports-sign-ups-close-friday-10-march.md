@@ -4,7 +4,7 @@ date: 2023-03-10T06:13:55.584Z
 ---
 If you are keen to play winter sports next term, please sign up using the bitly below.
 
-ALL INFORMATION about each sport will be in the bitly so please read them carefully!!  
+ALL INFORMATION about each sport will be in the bitly so please read them carefully.  
 Sign ups will close Friday 10 March.
 
 Come and see Miss Morgan or Mrs Murphy in the Te Wehi Gym Office if you have any questions.
