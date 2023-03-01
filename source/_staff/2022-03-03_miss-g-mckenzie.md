@@ -5,5 +5,8 @@ departments:
   - Social Sciences
   - Deans
 house: Whenua
+positions:
+  - title: Dean of Maunga House
+    department: Deans
 email: mckenzie.g@whs.ac.nz
 ---
