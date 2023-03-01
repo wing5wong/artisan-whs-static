@@ -1,9 +1,8 @@
 ---
 title: Mr P. Chiet
-position: Dean of Moana House
+position: ""
 departments:
   - English
-  - Deans
 house: Moana
 positions:
   - title: Dean of Moana House
