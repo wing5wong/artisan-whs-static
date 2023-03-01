@@ -1,11 +1,11 @@
 ---
-title: Mrs B. Rison
+title: Miss D. Harnett
 position: Head of Drama
 departments:
   - The Arts
-house: Whenua
+house: null
 positions:
   - title: Head of Drama
     department: The Arts
-email: rison.b@whs.ac.nz
+email: harnett.d@whs.ac.nz
 ---
