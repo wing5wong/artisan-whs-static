@@ -7,5 +7,5 @@ on_leave: true
 house: Whenua
 positions:
   - department: Support and Ancillary
-    title: Administration - Reprographics (on leave)
+    title: "Administration - Reprographics "
 ---
