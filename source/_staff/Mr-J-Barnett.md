@@ -5,7 +5,7 @@ departments:
   - Physical Education and Health
 house: Maunga
 positions:
-  - department: Physical Education and Health
-    title: Head of Outdoor Education
+  - title: Assistant HOF Physical Education and Health / Head of Outdoor Education
+    department: Physical Education and Health
 email: barnett.j@whs.ac.nz
 ---
