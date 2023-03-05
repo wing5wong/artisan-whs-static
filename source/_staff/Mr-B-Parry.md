@@ -3,10 +3,10 @@ title: Mr M. Metcalfe
 position: ""
 departments:
   - English
-  - Social Sciences
+  - Progressive
 house: Awa
 positions:
-  - department: Deans
-    title: Dean of Awa House
+  - department: Progressive
+    title: Communication Skills
 email: metcalfe.m@whs.ac.nz
 ---
