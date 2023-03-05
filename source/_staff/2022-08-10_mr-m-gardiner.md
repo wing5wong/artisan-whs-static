@@ -9,5 +9,7 @@ house: Awa
 positions:
   - title: Dean of Awa House
     department: Deans
+  - department: Physical Education and Health
+    title: Head of Senior Health
 email: gardiner.m@whs.ac.nz
 ---
