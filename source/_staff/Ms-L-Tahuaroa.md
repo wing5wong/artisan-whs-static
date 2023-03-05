@@ -3,10 +3,8 @@ title: Mrs L. Tahuaroa
 departments:
   - English
   - Social Sciences
-  - Progressive
+on_leave: true
 house: Whenua
-positions:
-  - department: Progressive
-    title: Communication Skills
+positions: []
 email: tahuaroa.l@whs.ac.nz
 ---
