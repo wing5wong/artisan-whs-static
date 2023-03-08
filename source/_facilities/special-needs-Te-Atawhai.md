@@ -1,9 +1,12 @@
 ---
 title: Te Atawhai / Special Needs
 date: 2019-06-26T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600683/facilities/Te_Atawhai_01.jpg
-description: "Te Atawhai is the name given to the Special Unit at Whanganui High School.\_ Te Atawhai was designed specifically for students with moderate to severe intellectual impairments.\_ The building, furniture and equipment were funded by the Ministry of Education.\_ It opened in May 1996.\n"
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600683/facilities/Te_Atawhai_01.jpg
+description: >
+  Te Atawhai is the name given to the Special Unit at Whanganui High School.  Te
+  Atawhai was designed specifically for students with moderate to severe
+  intellectual impairments.  The building, furniture and equipment were funded
+  by the Ministry of Education.  It opened in May 1996.
 ---
 **Place of Challenge, Care and Support**
 
@@ -19,7 +22,7 @@ Social integration and subject mainstreaming are encouraged at Whanganui High Sc
 
 **Te Atawhai Staff are**
 
-Wendi Girven (Head of Te Atawahi), Hilary Mael, Diana Parnell, Emma Paki, Richie Parnell, Dale Sutherland Daniel Wooler, Carla Davies, Katelyn Blythe
+Wendi Girven (Head of Te Atawahi), Diana Parnell, Emma Paki, Richie Parnell, Julie Turner
 
 **Te Atawhai ERO Policy**
 
