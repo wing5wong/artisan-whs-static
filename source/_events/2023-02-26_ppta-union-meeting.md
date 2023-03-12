@@ -10,3 +10,8 @@ Whanganui High School cannot provide normal instruction and staffing during the 
 Please email me directly at principal@whs.ac.nz if you are intending for your son or daughter to be at school on 16 March.
 
 Students requiring supervision will need to meet at the flagpole area outside the Deans’ House no later than 8.50 am on 16 March.  The supervised students will have normal break times and will need to be prepared to stay in the school library until 3.05 pm.
+
+Ngā mihi nui 
+ 
+*Martin McAllen  
+PRINCIPAL*
