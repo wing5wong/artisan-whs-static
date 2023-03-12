@@ -5,7 +5,7 @@ date: 2023-03-15T23:17:52.507Z
 Industrial Action – PPTA Union Nationwide Teachers’ Strike on Thursday, 16 March
 The PPTA Union has advised the Boards of all Area Schools and Secondary Schools throughout New Zealand that its member teachers will be taking strike action on Thursday, 16 March 2023.
 
-Whanganui High School cannot provide normal instruction and staffing during the strike so the school will officially be closed for instuction on 16 March.  We can, however, provide some staff supervision for students under 14 years of age by teachers who are not members of the PPTA Union.
+Whanganui High School cannot provide normal instruction and staffing during the strike so the school will officially be closed for instruction on 16 March.  We can, however, provide some staff supervision for students under 14 years of age by teachers who are not members of the PPTA Union.
 
 Please email me directly at principal@whs.ac.nz if you are intending for your son or daughter to be at school on 16 March.
 
