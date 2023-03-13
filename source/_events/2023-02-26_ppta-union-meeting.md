@@ -1,5 +1,5 @@
 ---
-title: PPTA Union Nationwide Teachers’ Strike - no students
+title: PPTA Union Nationwide Teachers’ Strike
 date: 2023-03-15T23:17:52.507Z
 ---
 Industrial Action – PPTA Union Nationwide Teachers’ Strike on Thursday, 16 March
