@@ -1,6 +1,6 @@
 ---
 title: Houses
-date: 2019-04-02T00:00:00.000Z
+date: 2023-03-14T00:00:00.000Z
 tags:
   - About WHS
 image: ''
@@ -39,6 +39,7 @@ The Whanganui High School kapa haka group, Kia Whaiora, welcomed visitors bringi
 
 Our weekly LIFE house points summary and sport days results - [can be viewed here.](https://sites.google.com/wanganuihigh.school.nz/whs-house-competitions-2018/home)
 
+<!--
 ## House Points Overview
 
 <div class="row">
@@ -59,13 +60,13 @@ Our weekly LIFE house points summary and sport days results - [can be viewed her
     <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaRlvevrx5giwQBmojIfsxGPSTKyMkiY030dyl4rddkklszcPcA7rdiErgzRU2fnhhJP0af3SQKIrb/pubchart?oid=158299235&amp;format=interactive"></iframe>
   </div>
 
-<!-- 
   <div class="col-sm-12 col-md-6 col-lg-6">
     <iframe width="600" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVGJ0UYc_IS4RSS7ZmgVCA5bs5NECQFtaupDQCN_Z6yMUxcqatIXYZjKJWPpeYFzNqN_MdlCu4kCyR/pubchart?oid=2005012912&amp;format=interactive"></iframe>
-  </div> -->
+  </div>
 
   <div class="col-sm-12 col-md-12 col-lg-12">
     <iframe width="1200" height="400" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaRlvevrx5giwQBmojIfsxGPSTKyMkiY030dyl4rddkklszcPcA7rdiErgzRU2fnhhJP0af3SQKIrb/pubchart?oid=89533458&amp;format=interactive"></iframe>
   </div>
-
 </div>
+
+ -->
