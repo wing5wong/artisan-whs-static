@@ -16,7 +16,7 @@ ahofs:
   - Mrs J. Jones
   - Ms C. Sleyer
   - Mrs K. Coombs
-  - Mrs B. Rison
+  - Miss D. Harnett
 vocational_pathways:
   - service
   - creative
