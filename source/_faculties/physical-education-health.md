@@ -13,8 +13,6 @@ hofs:
   - Miss L. Martin
 ahofs:
   - Mr J. Barnett
-  - Mr W. Marr
-  - Ms A. Meade
 vocational_pathways:
   - service
   - creative
