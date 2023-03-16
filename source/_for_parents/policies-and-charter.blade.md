@@ -7,7 +7,7 @@ intro: Our school Strategic Plan & Annual Implementation Plan is updated on an
   safety & well-being and admin.
 extends: _layouts.policies-and-charter
 ---
-## School Charter
+## Strategic Plan & Annual Implementation Plan
 
 The [Whanganui High School Strategic Plan & Annual Implementation Plan](https://asset.cloudinary.com/whanganuihigh/9236661bcafa8812d157a932e3898f39) is updated on an annual basis.
 
