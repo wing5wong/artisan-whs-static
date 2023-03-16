@@ -15,7 +15,6 @@ ahofs:
   - Mr I. Thomas
   - Ms S. Frost
   - Mr N. Glaister
-  - Mrs R. Chand
 vocational_pathways:
   - service
   - creative
