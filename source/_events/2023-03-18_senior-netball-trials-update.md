@@ -1,9 +1,9 @@
 ---
-title: Senior Netball Trials UPDATE, Year 11-13
+title: Netball - Senior Trials UPDATE
 date: 2023-03-22T02:34:35.195Z
 ---
-Trial dates for Senior Netball will be: Wednesday 22 March and
-Thursday 23 March (back up day).  
+Trial dates for Senior Netball (Year 11-13) will be:  
+Wednesday 22 March and Thursday 23 March (back up day).  
 
 YOU MUST COME TO ALL TRIALS!!
 
