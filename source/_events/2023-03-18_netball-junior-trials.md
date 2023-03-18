@@ -12,6 +12,7 @@ YOU COME TO ALL THESE TRIALS!
 
 
 Trials will be during Period 5 till 4pm over at Springvale Stadium.  
+
 You must wear your school PE top or black WHS tee, skins or shorts and have appropriate footwear ie netball shoes or runners. WE WILL NOT allow you to trial if you do not have proper shoes.  
 
 At 2nd break please walk over to Springvale Stadium and get changed and ready to go.  
