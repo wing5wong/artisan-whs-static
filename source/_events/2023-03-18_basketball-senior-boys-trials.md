@@ -1,5 +1,5 @@
 ---
-title: Basketball - Senior Boys trials
+title: Basketball - Senior Boys trials, Year 11-13
 date: 2023-03-29T02:33:23.122Z
 ---
 Senior Boys trials will be on Wednesday 29 March & Wednesday 5 April.  
