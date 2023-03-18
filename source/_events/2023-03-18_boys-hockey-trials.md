@@ -1,5 +1,5 @@
 ---
-title: Boys Hockey Trials
+title: Boys Hockey Trials - all years
 date: 2023-03-21T02:31:21.798Z
 ---
 Hockey trials for the Boys 1st XI team will be:
