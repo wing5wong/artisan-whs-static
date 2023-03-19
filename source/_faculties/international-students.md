@@ -8,7 +8,8 @@ intro: In International studies, English as a Second Language students can
   further develop their English skills.
 hofs:
   - Mrs N. McKee
-ahofs: []
+ahofs:
+  - Mr B. Ding
 ---
 Whanganui High School's International Department has approximately 65 international students (maximum 5% of the school roll) who take part in the school's ESOL (English for Speakers of Other Languages) programme. Our students come from a variety of countries including Japan, Korea, Hong Kong, Vietnam, Thailand, Brazil, Pacific Islands, Germany, Italy, France, Finland, Norway and the Peoples Republic of China.
 
