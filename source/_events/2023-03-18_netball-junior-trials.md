@@ -1,6 +1,6 @@
 ---
 title: Netball - Junior Trials update
-date: 2023-03-20T08:39:17.443Z
+date: 2023-03-21T08:39:17.443Z
 ---
 Trial dates for Junior (Year 9 & 10) Netball will be:
   
