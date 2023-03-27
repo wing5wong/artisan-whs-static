@@ -23,8 +23,7 @@ Bookings Close at 5:00pm on Monday 3 April, the evening before the interviews.
 **Students of Mrs Barnett (English)**, please choose Mrs Greenland as she is taking her classes.  
 **Students of Mrs Su’a (Science)**, please choose Mrs Buxton as she is taking her classes.  
 
-FYI – Mrs Davies (Science), Miss McKenzie (Social Sciences) and Mr Spencer (Technology) will NOT be available for the Conferences.  
-If you need to speak to them, please contact them via email.  
+FYI – Mrs Davies (Science), Miss McKenzie (Social Sciences) and Mr Spencer (Technology) will NOT be available for the Conferences. If you need to speak to them, please contact them via email.  
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.  
 
