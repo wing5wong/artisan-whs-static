@@ -1,6 +1,6 @@
 ---
 title: "Football - Boys (all years) "
-date: 2023-03-27T00:21:04.680Z
+date: 2023-03-31T00:21:04.680Z
 ---
 Any boys that are wanting to play football this year you will need to register under a club using the links below. Our boys football are aligned to these clubs so it is important to register if you want to play this season.
 
