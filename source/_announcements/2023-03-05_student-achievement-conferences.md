@@ -2,7 +2,7 @@
 title: Student Achievement Conferences - Students released at 1:50pm
 is_emergency: false
 date: 2023-03-05T23:55:40.336Z
-subtitle: Tuesday 4 April and Wednesday 5 April, 2023
+subtitle: BOOKINGS ARE NOW OPEN, Tuesday 4 April and Wednesday 5 April, 2023
 ---
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
