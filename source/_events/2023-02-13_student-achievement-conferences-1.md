@@ -5,7 +5,7 @@ date: 2023-04-05T03:56:51.483Z
 Student Achievement Conferences (Parent Teacher Interviews) will be held in our school gymnasiums.  
 
 **When:** Tuesday 4 April and Wednesday 5 April 2023  
-**Times:** 3.10pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
+**Times:** 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
 **Where:** Te Wehi and Te Mana Gymnasiums
 
 **Students will be released at the end of Period 4 - 1.50pm on both days.**  
