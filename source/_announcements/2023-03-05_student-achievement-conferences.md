@@ -1,13 +1,11 @@
 ---
-title: Student Achievement Conferences - Bookings are now OPEN
+title: Student Achievement Conferences - BOOKINGS ARE NOW OPEN
 is_emergency: false
 date: 2023-03-05T23:55:40.336Z
 subtitle: ", Tuesday 4 April & Wednesday 5 April, 2023 - Students released at 1:50pm"
 ---
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
-
-BOOKINGS are now OPEN 🙂
 
 Book an interview by clicking on the following link:  
 👉 <https://www.schoolinterviews.co.nz/>  
