@@ -1,5 +1,5 @@
 ---
-title: "Student Achievement Conferences - BOOKINGS ARE NOW OPEN "
+title: Student Achievement Conferences - Bookings are now OPEN
 is_emergency: false
 date: 2023-03-05T23:55:40.336Z
 subtitle: ", Tuesday 4 April & Wednesday 5 April, 2023 - Students released at 1:50pm"
