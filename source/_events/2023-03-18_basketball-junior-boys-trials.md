@@ -1,6 +1,6 @@
 ---
 title: Basketball - Junior Boys Trials
-date: 2023-03-27T02:42:22.895Z
+date: 2023-04-03T03:42:22.895Z
 ---
 Junior Boys (Year 9 & 10) trials will be:  
 
