@@ -1,14 +1,10 @@
 ---
-title: Basketball - Senior Boys Trials
-date: 2023-03-29T02:33:23.122Z
+title: Basketball - 2nd & final Boys Trials
+date: 2023-04-03T03:33:23.122Z
 ---
-Senior Boys trials (Year 11-13) will be:  
+2nd and final boys trials on MONDAY 3 April in Te Wehi Gym:  
+* Junior Boys 3.20-4.20pm  
+* Senior Boys 4.30-5.30pm
 
-* Wednesday 29 March
-* Wednesday 5 April  
+You are to wear training clothes and appropriate footwear ie. basketball shoes or running shoes.  
 
-Trials will be after school in the Te Wehi Gym 3:30pm-5:30pm.  
-
-You are to wear training clothes and appropriate footwear ie basketball shoes or running shoes.  
-
-Please come and see Miss Morgan in the Te Wehi Gym Office if you have any questions.
