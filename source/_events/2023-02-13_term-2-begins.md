@@ -1,5 +1,5 @@
 ---
 title: Term 2 begins
-date: 2023-04-26T03:58:13.828Z
+date: 2023-04-27T03:58:13.828Z
 ---
-Term 2 begins on Wednesday 26 April.
+Term 2 begins on Thursday 27 April.
