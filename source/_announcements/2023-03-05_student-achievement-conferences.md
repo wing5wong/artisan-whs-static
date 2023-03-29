@@ -8,7 +8,7 @@ WHANGANUI HIGH SCHOOL
 STUDENT ACHIEVEMENT CONFERENCES  
 
 Book an interview by clicking on the following link:  
-👉 <https://www.schoolinterviews.co.nz/>  
+👉 **<https://www.schoolinterviews.co.nz/>**  
 ('Event Code' is needed from the Interim Report, emailed to you on 24 March)  
 
 **When:** Tuesday 4 April and Wednesday 5 April 2023  
@@ -22,7 +22,7 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 **BOOKINGS CLOSE at 5.00pm on Monday 3 April**, the evening before the interviews.  
 
-**Students of Mrs Su’a (Science)**, please choose Mrs Buxton as she is taking her classes.  
+Students of Mrs Su’a (Science), please choose Mrs Buxton as she is taking her classes.  
 
 FYI – Mrs Davies (Science), Miss McKenzie (Social Sciences) and Mr Spencer (Technology) will NOT be available for the Conferences.  If you need to speak to them, please contact them via email.  
 
