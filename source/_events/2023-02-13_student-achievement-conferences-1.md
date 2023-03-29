@@ -20,7 +20,7 @@ Book an interview by clicking on the following link:
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-BOOKINGS CLOSE at 5.00pm on Monday 3 April, the evening before the interviews.  
+**BOOKINGS CLOSE at 5.00pm on Monday 3 April**, the evening before the interviews.  
 
 **Students of Mrs Su’a (Science)**, please choose Mrs Buxton as she is taking her classes.  
 
