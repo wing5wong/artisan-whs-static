@@ -1,6 +1,6 @@
 ---
 title: Rugby - 1st XV, 2nd XV/U16
-date: 2023-03-30T00:14:19.606Z
+date: 2023-04-06T01:14:19.606Z
 ---
 1st XV, 2nd XV/U16 rugby muster is on Thursdays after school on the fields with Mike Lama.  
 These will run for the next four weeks.  
