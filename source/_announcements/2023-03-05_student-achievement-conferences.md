@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - BOOKINGS CLOSE at 5.00pm on Monday 3 April
+title: Student Achievement Conferences - BOOKINGS CLOSE TODAY at 5PM
 is_emergency: false
 date: 2023-03-05T23:55:40.336Z
 subtitle: ", Tuesday 4 April & Wednesday 5 April, 2023 - Students released at 1:50pm"
