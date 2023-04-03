@@ -5,7 +5,7 @@ date: 2023-04-05T03:56:51.483Z
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES
 
-**BOOKINGS ARE NOW CLOSED**    
+BOOKINGS ARE NOW CLOSED    
 
 **When:** Tuesday 4 April and Wednesday 5 April 2023  
 **Times:** 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
