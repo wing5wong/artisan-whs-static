@@ -2,9 +2,9 @@
 title: School Policies
 policyAreas:
   - policies:
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1591057145/School%20Policies/1.1_-Treaty_of_Waitangi_updated_May_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1680759786/School%20Policies/1.1_-Treaty_of_Waitangi_updated_March_2023.pdf
         policy: 1.1 Treaty of Waitangi
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1583788499/School%20Policies/1.2_-Curriculum_Information_updated_February_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1680759786/School%20Policies/1.2_-Curriculum_Information_updated_March_2023.pdf
         policy: 1.2 Curriculum Information
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1625544868/School%20Policies/1.5_-Students_with_Additional_Learning_Needs_updated_May_2021.pdf
         policy: 1.5 Learners with Special Education Needs
