@@ -1,5 +1,5 @@
 ---
-title: Term 3 starts
+title: Term 3 begins
 date: 2023-07-16T21:05:03.472Z
 ---
-Term 3 starts on Monday 17 July.
+Term 3 begins on Monday 17 July.
