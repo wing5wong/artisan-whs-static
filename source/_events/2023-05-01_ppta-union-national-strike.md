@@ -1,5 +1,5 @@
 ---
-title: PPTA Union National Strike, no Students
+title: PPTA Union National Strike, No Students
 date: 2023-05-10T06:47:01.754Z
 ---
 Rolling one-day PPTA Union national strikes across all regions are presently set for Week 3.  
