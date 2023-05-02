@@ -76,8 +76,8 @@ policyAreas:
         policy: 5.4 Student Discipline
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335708/School%20Policies/5.5_Sexuality_Education_Policy_updated_August_2022.pdf
         policy: 5.5 Sexuality Education
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/5.6_-_Alcohol_Tobacco_Vaping_Drugs_Policy_updated_November_2020.pdf
-        policy: 5.6 Drugs
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1682994515/School%20Policies/5.6_Alcohol_Tobacco_Vaping_Drugs_Policy_updated_May_2023.pdf
+        policy: 5.6 Alcohol, Tobacco, Vaping and Drugs
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/5.8_-_Student-Related_Transport_updated_February_2022.pdf
         policy: 5.8 Student Related Transport
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1677703078/School%20Policies/5.9_Infectious_Diseases.updated_February_2023.pdf
@@ -88,8 +88,8 @@ policyAreas:
         policy: 5.11 Child Protection Policy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.12-Dealing-with-Child-Abuse-Allegations-against-Employees-in-Schools_-April-2018.pdf
         policy: 5.12 Dealing with Child Abuse Allegations
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/5.13_Physical_Restraint_Policy_November_2020.pdf
-        policy: 5.13 Physical Restraint
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1682994517/School%20Policies/5.13_Physical_Restraint_Policy_May_2023.pdf
+        policy: 5.13 Reducing Student Distress and Use of Physical Restraint
     policyArea: 5. Health and Safety
   - policies:
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/6.2_Attendance_updated_February_2022.pdf
@@ -102,7 +102,7 @@ policyAreas:
         policy: 6.6 Copyright and Licences
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761097/School%20Policies/6.7_School_Uniform_updated_November_2021.pdf
         policy: 6.7 School Uniform
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1658803010/School%20Policies/6.8_International_Students_updated_June_2022_compressed.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1682994520/School%20Policies/6.8_International_Students_updated_May_2023.pdf
         policy: 6.8 International Students
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1658802733/School%20Policies/6.9_ESL_Student_updated_June_2022.pdf
         policy: 6.9 English for Second Language Speakers (ESL)
