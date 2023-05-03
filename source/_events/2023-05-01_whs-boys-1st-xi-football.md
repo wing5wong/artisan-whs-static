@@ -1,6 +1,6 @@
 ---
 title: WHS Boys 1st XI Football
-date: 2023-05-03T02:39:21.263Z
+date: 2023-05-05T02:39:21.263Z
 ---
 The below link is for any boys wanting to be considered for the 2023 WHS Boys' Football 1st XI.  
 
