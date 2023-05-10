@@ -9,6 +9,6 @@ date: 2023-05-10T21:17:17.998Z
 ---
 <!--StartFragment-->
 
-Earlier this week some of our international students were learning how to write a recipe to follow procedural instructions. The class decided to incorporate some typical 'kiwi' food by making and decorating a pavlova, accompanied by kiwi onion dip, chippies and carrot sticks. At the same time, we farewelled our three short-term Thai students, Jaja, Chalisa and Nanoon. A big thank you to Mrs Su'a for her expert cooking and creative skills.
+Earlier this week some of our International students were learning how to write a recipe to follow procedural instructions. The class decided to incorporate some typical 'kiwi' food by making and decorating a pavlova, accompanied by kiwi onion dip, chippies and carrot sticks. At the same time, we farewelled our three short-term Thai students, Jaja, Chalisa and Nanoon. A big thank you to Mrs Su'a for her expert cooking and creative skills.
 
 <!--EndFragment-->
