@@ -1,6 +1,6 @@
 ---
 title: Siobhan Pitkethley Year 11 and Michaela Ross Year 11 representing NZ
-  Ladies Division Rick Hockey
+  Ladies Division Rink Hockey
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1683754493/Sports/Roller_Hockey.jpg
 news_author:
