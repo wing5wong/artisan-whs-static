@@ -7,6 +7,6 @@ departments:
 house: Whenua
 positions:
   - department: Progressive
-    title: Life Skills / Digital Literacy
+    title: Digital Literacy / Life Skills
 email: glaister.g@whs.ac.nz
 ---
