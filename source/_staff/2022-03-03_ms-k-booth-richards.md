@@ -2,10 +2,8 @@
 title: Ms K. Booth-Richards
 departments:
   - Sciences
-  - Progressive
+  - Technology
 house: Whenua
-positions:
-  - department: Progressive
-    title: Life Skills
+positions: []
 email: booth-richards.k@whs.ac.nz
 ---
