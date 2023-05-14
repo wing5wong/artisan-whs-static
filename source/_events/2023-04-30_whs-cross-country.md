@@ -1,5 +1,5 @@
 ---
-title: WHS CROSS COUNTRY - POSTPONED, NOW MONDAY 15 JUNE
+title: "WHS CROSS COUNTRY "
 date: 2023-05-14T21:59:49.494Z
 ---
 WHS CROSS COUNTRY has been POSTPONED to MONDAY 15 May, period 4 and 5 on the school field.  
