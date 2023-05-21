@@ -7,9 +7,9 @@ Please remember to bring PE Top, black shorts or tights and a warm jacket on Tue
 
 $15 to be paid into the office or online.  
 
-You go to formtime, Period 1 & 2 then eat lunch and get changed and meet at Mrs Murphy's office at 11.45am.  
+You go to Form Time, Period 1 & 2, then eat lunch, get changed and meet at Mrs Murphy's office at 11.45am.  
 
-Please don't be late as we need to leave at 12noon to get to Duddings Lake.  
+Please don't be late as we need to leave at 12 noon to get to Duddings Lake.  
 You will be dropped back to school by 3pm.  
 
 Any questions see Mrs Murphy on Monday.
