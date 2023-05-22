@@ -52,13 +52,13 @@ policyAreas:
         policy: 3.13 Anti-Violence, Abuse and Bullying
     policyArea: 3. Personnel
   - policies:
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1591057169/School%20Policies/4.1_-_Financial_Management_updated_May_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794256/School%20Policies/4.1_-_Financial_Management_updated_May_2023.pdf
         policy: 4.1 Financial Management
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1591057170/School%20Policies/4.2_-_Investments_updated_May_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794256/School%20Policies/4.2_-_Investments_updated_May_2023.pdf
         policy: 4.2 Investments
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1591057170/School%20Policies/4.3_-_Fundraising_updated_May_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794256/School%20Policies/4.3_-_Fundraising_updated_May_2023.pdf
         policy: 4.3 Fundraising
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1591057170/School%20Policies/4.4_-Property_Management_-_May_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794256/School%20Policies/4.4_-Property_Management_-_May_2023.pdf
         policy: 4.4 Property Management
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1669778448/School%20Policies/4.5-Sensitive_Expenditure_updated_October_2022.pdf
         policy: 4.5 Sensitive Expenditure
@@ -84,11 +84,11 @@ policyAreas:
         policy: 5.9 Infectious Diseases
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1616961142/School%20Policies/5.10_Guidance_updated_February_2021.pdf
         policy: 5.10 Guidance
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.11-Child-Protection-Policy-in-Schools_-April-2018.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794256/School%20Policies/5.11_Child_Protection_Policy_in_Schools_March_2021.pdf
         policy: 5.11 Child Protection Policy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1554693562/School%20Policies/5.12-Dealing-with-Child-Abuse-Allegations-against-Employees-in-Schools_-April-2018.pdf
         policy: 5.12 Dealing with Child Abuse Allegations
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1682994517/School%20Policies/5.13_Physical_Restraint_Policy_May_2023.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794255/School%20Policies/5.13_Reducing_Student_Distress_and_use_of_Physical_Restraint_Policy_May_2023.pdf
         policy: 5.13 Reducing Student Distress and Use of Physical Restraint
     policyArea: 5. Health and Safety
   - policies:
