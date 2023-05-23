@@ -12,4 +12,4 @@ $25 Adult
 $15 School Student  
 $70 Family (2 adults and 2 children)
 
-[TICKETS ARE ON SALE NOW](https://rwoh.sales.ticketsearch.com/sales/salesevent/108609?fbclid=IwAR14esGcrVJ7tOi7_QD_7F9EGDk9PLCL2HGUpPkLWfshFvYri2_nJhDllBo)
+[CLICK HERE FOR TICKETS](https://rwoh.sales.ticketsearch.com/sales/salesevent/108609?fbclid=IwAR14esGcrVJ7tOi7_QD_7F9EGDk9PLCL2HGUpPkLWfshFvYri2_nJhDllBo)
