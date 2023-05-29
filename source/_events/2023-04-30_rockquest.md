@@ -2,4 +2,4 @@
 title: Rockquest, 2023
 date: 2023-06-09T21:24:42.577Z
 ---
-Finals at the Royal Whanganui Opera House.
+[Smokefreerockquest](https://www.smokefreerockquest.co.nz/regional-homepage/whanganui) at the Royal Whanganui Opera House, 7pm.
