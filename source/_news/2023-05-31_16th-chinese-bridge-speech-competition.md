@@ -7,4 +7,4 @@ news_author:
 show_in_slider: true
 date: 2023-05-31T00:43:10.369Z
 ---
-The 16th Chinese Bridge Speech Competition was held in the Victoria University Wellington. WHS achieved really well. Lulu Dufty won the cup of 2nd prize of junior category and the cup for Junior best talent. Lucca Benson won a certificate prize. Reina Jones won the cup of 2nd prize of senior category and the cup for Senior best talent.
+The 16th Chinese Bridge Speech Competition was held in the Victoria University Wellington. WHS achieved really well. Lulu Dufty won the cup of 2nd prize of junior category and the cup for Junior best talent. Reina Jones won the cup of 2nd prize of senior category and the cup for Senior best talent. Lucca Benson won a certificate prize. Congratulations.
