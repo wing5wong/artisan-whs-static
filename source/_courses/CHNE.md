@@ -3,9 +3,9 @@ title: CHNE
 name: Chinese
 code: CHNE
 subject_area: Chinese
-date: 2021-07-01T04:16:03.709Z
-year: '9'
-type: "Subject Choice"
+date: 2023-06-06T01:32:28.862Z
+year: "9"
+type: Subject Choice
 course_duration: 6 Weeks
 course_level: Year 9
 leads_to:
@@ -28,4 +28,4 @@ Students also learn how to form Chinese character (Calligraphy) and how to const
 
 **Assessment:**
 
-Assessment of the five key skills of Listening, Presenting, Interacting, Reading and Writing.
+Assessment of the four key skills of Listening, speaking, Reading and Writing.
