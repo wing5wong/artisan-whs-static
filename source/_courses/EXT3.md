@@ -3,13 +3,13 @@ title: EXT3
 name: External Studies
 code: EXT3
 subject_area: External Studies
-date: 2021-07-01T00:12:01.252Z
+date: 2023-06-06T22:59:05.842Z
 entry_requirements: EXT3 is a supervised study period where students complete
   the work provided by external providers. Alternatively, where Year 12-13
   students are on "course"one/two days a week may be offered this option to
   ensure they complete work missed.
 year: "13"
-type: "Subject Choice"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
