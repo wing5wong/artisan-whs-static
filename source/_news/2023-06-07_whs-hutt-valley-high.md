@@ -1,5 +1,5 @@
 ---
-title: WHS Hutt Valley High
+title: WHS at Hutt Valley High
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1686176511/News/3_HVH_exch.jpg
 news_author:
