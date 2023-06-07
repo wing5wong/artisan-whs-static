@@ -11,6 +11,4 @@ image_gallery:
 show_in_slider: true
 date: 2023-06-07T22:24:42.532Z
 ---
-
-
-Great day yesterday at Hutt Valley High for our senior sports teams. ![💛](https://static.xx.fbcdn.net/images/emoji.php/v9/t15/1/16/1f49b.png)![💚](https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f49a.png) Boys Hockey, Football and Basketball won their games. Our girls netball, football and hockey lost their games. Happy to get this exchange back up and running after not being able to play last year due to bad weather.
+Great day yesterday at Hutt Valley High for our senior sports teams.  Boys Hockey, Football and Basketball won their games. Our girls netball, football and hockey lost their games. Happy to get this exchange back up and running after not being able to play last year due to bad weather.
