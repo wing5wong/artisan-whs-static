@@ -1,5 +1,5 @@
 ---
-title: World Vision 40 hour Challenge
+title: World Vision 40 hour Challenge - sign up from 9 June
 date: 2023-06-15T23:51:14.126Z
 ---
 In 2023, 1 in 5 kids worldwide still don't have enough clean water to get through the day, so this year, the World Organisation is working towards helping solve water poverty around the world.
