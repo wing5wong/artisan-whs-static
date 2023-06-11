@@ -16,7 +16,6 @@ standards:
   - "91515"
   - "91517"
   - "91518"
-  - "91520"
 course_fees: null
 ue_approved: true
 ---
