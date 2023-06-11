@@ -4,8 +4,8 @@ name: Drama
 code: DRA0
 subject_area: Drama
 date: 2021-07-07T04:28:39.633Z
-year: '10'
-type: "Subject Choice"
+year: "10"
+type: Subject Choice
 course_duration: 13 Weeks
 course_level: Year 10
 leads_to:
@@ -21,4 +21,4 @@ Students explore the communication of character and ideas through the use of voi
 
 **Assessment:**
 
-2 performances for an audience
+3 performances for an audience
