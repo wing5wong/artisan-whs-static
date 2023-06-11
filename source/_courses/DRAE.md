@@ -4,11 +4,11 @@ name: Drama
 code: DRAE
 subject_area: Drama
 date: 2021-07-28T04:33:41.414Z
-year: '9'
-type: "Subject Choice"
+year: "9"
+type: Subject Choice
 course_duration: 6 Weeks
 course_level: Year 9
-leads_to: ''
+leads_to: ""
 ---
 **Purpose:**
 
@@ -20,4 +20,4 @@ In Year 9, we focus on extending personal skills such as communication, self-con
 
 **Assessment:**
 
-Process-rehearsal work and written portfolio. Practical - performance based.
+Process-rehearsal work and written portfolio. Practical - 2 performance-based assessments.
