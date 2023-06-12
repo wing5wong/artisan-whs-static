@@ -4,7 +4,7 @@ maori_title: ""
 name: Vocational Studies PE/Hauora
 code: VHT3
 subject_area: Vocational Studies (PE/Hauora)
-date: 2023-06-12T02:35:30.013Z
+date: 2023-06-12T19:46:15.685Z
 year: "13"
 type: Subject Choice
 course_duration: Full Year
