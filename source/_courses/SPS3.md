@@ -3,7 +3,7 @@ title: SPS3
 name: Sport Smart
 code: SPS3
 subject_area: Sport Smart
-date: 2023-06-12T22:21:43.064Z
+date: 2023-06-12T22:25:10.756Z
 entry_requirements: 14 credits in SPR2 or PED2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
@@ -17,6 +17,7 @@ standards:
   - "91505"
   - "91789"
   - "31388"
+credits: up to 30
 ue_approved: true
 ---
 A practically based course following on from PED2 which will provide opportunities for students interested in a career related to Sports Management, Sports Officiating, Sport Teaching/Coaching and Outdoor Education. All assessments are Internal.
