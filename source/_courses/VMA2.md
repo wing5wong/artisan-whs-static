@@ -1,13 +1,13 @@
 ---
 title: VMA2
-maori_title: ''
-name: Vocational Studies Mathematics
+maori_title: ""
+name: Vocational Studies Financial Literacy
 code: VMA2
-subject_area: Vocational Studies (Mathematics)
-date: 2021-07-21T00:52:05.267Z
+subject_area: Vocational Studies (Financial Literacy)
+date: 2023-06-12T03:18:58.438Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
-year: '12'
-type: "Subject Choice"
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
