@@ -3,7 +3,7 @@ title: VEN3
 maori_title: ""
 name: Vocational Studies Communication English
 code: VEN3
-subject_area: Vocational Studies (Communication English)
+subject_area: Vocational Studies (English)
 date: 2023-06-12T20:54:58.965Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: "13"
