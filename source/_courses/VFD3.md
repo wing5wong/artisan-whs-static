@@ -4,7 +4,7 @@ maori_title: ""
 name: Vocational Studies Food Technology
 code: VFD3
 subject_area: Vocational Studies (Food Technology)
-date: 2021-07-01T00:42:29.679Z
+date: 2023-06-12T02:38:11.269Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: "13"
 type: Subject Choice
