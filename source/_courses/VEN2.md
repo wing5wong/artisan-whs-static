@@ -1,13 +1,13 @@
 ---
 title: VEN2
-maori_title: ''
-name: Vocational Studies English
+maori_title: ""
+name: Vocational Studies Communication English
 code: VEN2
-subject_area: Vocational Studies (English)
-date: 2021-07-01T22:41:55.490Z
+subject_area: Vocational Studies (Communication English)
+date: 2023-06-12T03:11:24.180Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
-year: '12'
-type: "Subject Choice"
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
@@ -23,4 +23,3 @@ standards:
   - "30907"
 invitation_only: true
 ---
-
