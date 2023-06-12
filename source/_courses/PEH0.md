@@ -3,14 +3,14 @@ title: PEH0
 name: Physical Education & Health
 code: PEH0
 subject_area: P.E/Health
-date: 2021-06-29T02:18:17.119Z
-year: '10'
+date: 2023-06-12T21:30:14.707Z
+entry_requirements: Satisfactory completion of PEHE course.
+year: "10"
 type: Compulsory
-course_duration: 23 Weeks
+course_duration: 26 Weeks
 course_level: Year 10
 leads_to:
   - PED1
-entry_requirements: Satisfactory completion of PEHE course.
 ---
 **Purpose:** 
 
