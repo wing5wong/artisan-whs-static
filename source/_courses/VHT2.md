@@ -3,7 +3,7 @@ title: VHT2
 maori_title: ""
 name: Vocational Studies PE/Hauora
 code: VHT2
-subject_area: Vocational Studies (PE/Hauora)
+subject_area: Vocational Studies (Health)
 date: 2023-06-12T21:18:15.344Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: "12"
