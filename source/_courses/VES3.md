@@ -4,7 +4,7 @@ maori_title: ""
 name: Vocational Studies Employment Skills
 code: VES3
 subject_area: Vocational Studies (Employment Skills)
-date: 2021-07-01T23:05:22.984Z
+date: 2023-06-12T02:36:55.254Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: "13"
 type: Subject Choice
