@@ -16,7 +16,7 @@ To develop practical skills in food preparation, with an emphasis on healthy eat
 
 **Content:**
 
-Personal health and safety, food preparation and presentation techniques, nutrition targeted research and working in a team situation and research.
+Personal health and safety, food preparation and presentation techniques, nutrition targeted research and working in a team situation.
 
 **Assessment:**
 
