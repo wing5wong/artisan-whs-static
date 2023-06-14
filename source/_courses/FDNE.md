@@ -4,11 +4,11 @@ name: Food & Nutrition
 code: FDNE
 subject_area: Food and Nutrition
 date: 2021-06-30T00:15:27.750Z
-year: '9'
-type: "Subject Choice"
+year: "9"
+type: Subject Choice
 course_duration: 6 Weeks
 course_level: Year 9
-leads_to: ''
+leads_to: ""
 ---
 **Purpose:**
 
@@ -16,7 +16,7 @@ To develop a basic understanding of food hygiene and preparation skills with an 
 
 **Content:**
 
-This course explores the need for hygiene rules within a kitchen, with the opportunity to practise the skills learnt, in creating both old favourite recipes and some with unusual ingredients, highlighting the fact that healthy food need not just be salad! The students will also study basic nutrition, recipe adaptation and some of the food related issues facing New Zealand today.
+This course explores the need for hygiene rules within a kitchen, with the opportunity to practise the skills learnt, in creating both old favourite recipes and some with unusual ingredients, highlighting the fact that healthy food need not just be salad! The students will also study basic nutrition, and some of the food related issues facing New Zealand today.
 
 **Assessment:**
 
