@@ -4,15 +4,14 @@ name: Building & Construction
 code: BAC1
 subject_area: Building & Construction
 date: 2021-06-30T04:01:48.256Z
-year: '11'
-type: "Subject Choice"
+year: "11"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard
 leads_to:
   - BAC2
 standards:
-  - "12932"
   - "24352"
   - "24355"
   - "24356"
