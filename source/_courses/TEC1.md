@@ -13,7 +13,10 @@ leads_to:
   - TCE2
   - TEC2
   - BAC2
-standards: []
+standards:
+  - "92012"
+  - "92013"
+  - "92014"
 course_fees: $80 for take-home component
 ---
 This is an **academic** technology course that requires creative and motivated thinkers. This multi-materials course combines portfolio work with practical project outcomes. Projects are chosen by the students (with Teacher approval) and require a design brief with client input and feedback. This course has an external portfolio assessment.
