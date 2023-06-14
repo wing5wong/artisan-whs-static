@@ -4,8 +4,8 @@ name: Technology Materials
 code: TCM0
 subject_area: Technology Materials
 date: 2021-06-30T03:34:59.377Z
-year: '10'
-type: "Subject Choice"
+year: "10"
+type: Subject Choice
 course_duration: 13 Weeks
 course_level: Year 10
 leads_to:
@@ -13,15 +13,15 @@ leads_to:
   - TCE1
   - TEC1
   - AUT1
-course_fees: $30 for take-home component
+course_fees: $45 for take-home component
 ---
 **Purpose:**
 
-To develop students understanding of Technology and to provide students the opportunity to develop their own skills in a practical environment where they experience many aspects of the subject area.
+To develop students understanding of Materials Technology and to provide students the opportunity to develop their own skills in a practical environment where they experience many aspects of the subject area.
 
 **Content:**
 
-Students will learn essential research, design and manufacturing skills to work with a range of hard materials in a workshop environment.  This will enable students to produce creative and functional solutions to given design problems. Students will be taught practical skills and the expectations of safe workshop practice. This course prepares students for senior courses of study in Technology. 
+Students will learn essential research, design and manufacturing skills to work with a range of hard materials in a workshop environment.  This will enable students to produce creative solutions to given design problems. Students will be taught practical skills and the expectations of safe workshop practice. This course prepares students for courses of study in Senior Technology. 
 
 **Assessment:**
 
