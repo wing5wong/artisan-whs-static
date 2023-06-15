@@ -3,10 +3,10 @@ title: PMA2
 name: Progressive Financial Literacy
 code: PMA2
 subject_area: Progressive Financial Literacy
-date: 2021-07-01T21:01:17.026Z
+date: 2023-06-15T02:55:05.261Z
 entry_requirements: HOF/TIC approval
 year: "12"
-type: "Subject Choice"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
@@ -17,7 +17,6 @@ leads_to:
   - VHT3
   - VMA3
 standards:
-  - "18237"
   - "24695"
   - "24699"
   - "28092"
