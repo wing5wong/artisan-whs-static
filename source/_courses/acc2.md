@@ -20,4 +20,4 @@ standards:
   - "91386"
 endorsement: Yes
 ---
-Level two Accounting builds on the framework taught in Level one. Students look at accounts receivable inventory systems in depth. Students are taught to process transactions and prepare financial statements using Xero accounting software. A module on analysing and interpretting financial statements conclude the course.
+Level two Accounting builds on the framework taught in Level one. Students look at accounts receivable inventory systems in depth. Students are taught to process transactions and prepare financial statements using Xero accounting software. A module on analysing and interpretting financial statements concludes the course.
