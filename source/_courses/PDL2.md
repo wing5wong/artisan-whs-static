@@ -6,7 +6,7 @@ subject_area: Progressive Digital Literacy
 date: 2021-06-01T21:01:17.026Z
 entry_requirements: HOF/TIC approval
 year: "12"
-type: "Subject Choice"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
@@ -17,13 +17,10 @@ leads_to:
   - VHT3
   - VMA3
 standards:
-  - "29769"
   - "29771"
   - "29772"
   - "29773"
   - "29775"
-  - "29779"
-  - "29781"
 course_fees: null
 invitation_only: true
 endorsement: false
