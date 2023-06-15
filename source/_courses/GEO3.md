@@ -3,7 +3,7 @@ title: GEO3
 name: Geography
 code: GEO3
 subject_area: Geography
-date: 2021-06-30T00:34:00.465Z
+date: 2023-06-15T20:03:54.199Z
 entry_requirements: 12 credits GEO2 or 12 ENG2 Credits or HOF/TIC approval.
 year: "13"
 type: Subject Choice
@@ -19,9 +19,8 @@ standards:
   - "91430"
   - "91431"
   - "91432"
-course_fees: Field Trips (Kapiti Coast - no charge / Optional Gold Coast Trip
-  (approx $2300) or if the Gold Coast Trip does not run, Optional Mt Maunganui
-  Trip - (Approx $600)
+course_fees: Field Trips (Kapiti Coast - no charge) / (Optional top of South
+  Island Trip post Easter. Cost $1100) / (Possible Tauranga Trip July $400)
 ue_approved: true
 endorsement: Yes
 ---
