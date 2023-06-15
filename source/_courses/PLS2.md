@@ -3,7 +3,7 @@ title: PLS2
 name: Progressive Life Skills
 code: PLS2
 subject_area: Progressive Life Skills
-date: 2023-06-15T02:52:11.975Z
+date: 2023-06-15T03:50:59.011Z
 entry_requirements: HOF/TIC approval
 year: "12"
 type: Subject Choice
@@ -18,6 +18,7 @@ leads_to:
   - VMA3
 standards:
   - "4261"
+  - "8548"
   - "9677"
   - "12354"
   - "12355"
