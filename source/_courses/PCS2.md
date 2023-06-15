@@ -3,10 +3,10 @@ title: PCS2
 name: Progressive Communication Literacy
 code: PCS2
 subject_area: Progressive Communication Literacy
-date: 2021-07-01T21:01:17.026Z
+date: 2023-06-15T02:25:21.754Z
 entry_requirements: HOF/TIC approval
 year: "12"
-type: "Subject Choice"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
@@ -17,16 +17,12 @@ leads_to:
   - VHT3
   - VMA3
 standards:
-  - "542"
-  - "1307"
+  - "377"
+  - "1294"
   - "4252"
+  - "4253"
   - "10791"
-  - "12355"
-  - "24871"
-  - "26622"
-  - "26624"
-  - "26625"
-  - "30907"
+  - "12349"
 ---
 Progressive Communication Skills is a programme for Year 12 students where the major focus is to ensure they have well developed communication and literacy skills that enable them to be successful in a work environment. Students are able to gain NCEA Level 1/ 2. Specific content is:
 
