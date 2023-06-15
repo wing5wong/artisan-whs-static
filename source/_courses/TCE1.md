@@ -3,9 +3,9 @@ title: TCE1
 name: Technology Engineering
 code: TCE1
 subject_area: Technology Engineering
-date: 2021-06-30T03:17:54.015Z
-year: '11'
-type: "Subject Choice"
+date: 2023-06-15T00:28:30.908Z
+year: "11"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Unit Standard
