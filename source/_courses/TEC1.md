@@ -3,7 +3,7 @@ title: TEC1
 name: Technology Materials
 code: TEC1
 subject_area: Technology Materials
-date: 2021-06-30T03:39:05.739Z
+date: 2023-06-15T00:33:06.147Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
