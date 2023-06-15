@@ -3,7 +3,7 @@ title: PDL1
 name: Progressive Digital Literacy
 code: PDL1
 subject_area: Progressive Digital Literacy
-date: 2023-06-15T02:33:05.820Z
+date: 2023-06-15T02:38:56.163Z
 entry_requirements: Subject to HOF approval.
 year: "11"
 type: Subject Choice
@@ -18,6 +18,8 @@ standards:
   - "5946"
   - "18734"
   - "18743"
+  - "18758"
+  - "25659"
   - "30910"
 endorsement: false
 ---
