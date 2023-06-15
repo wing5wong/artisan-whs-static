@@ -11,6 +11,11 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - ACC2
+standards:
+  - "92028"
+  - "92029"
+  - "92030"
+  - "92031"
 ue_approved: false
 invitation_only: false
 endorsement: false
