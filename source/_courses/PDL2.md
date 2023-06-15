@@ -3,7 +3,7 @@ title: PDL2
 name: Progressive Digital Literacy
 code: PDL2
 subject_area: Progressive Digital Literacy
-date: 2021-06-01T21:01:17.026Z
+date: 2023-06-15T02:50:36.654Z
 entry_requirements: HOF/TIC approval
 year: "12"
 type: Subject Choice
@@ -17,6 +17,7 @@ leads_to:
   - VHT3
   - VMA3
 standards:
+  - "29769"
   - "29771"
   - "29772"
   - "29773"
