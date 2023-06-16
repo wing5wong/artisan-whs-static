@@ -6,7 +6,7 @@ subject_area: Mathematics (General)
 date: 2021-06-28T01:53:11.594Z
 year: "9"
 type: Compulsory
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 9
 leads_to:
   - MAT0
