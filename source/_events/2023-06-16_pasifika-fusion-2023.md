@@ -3,6 +3,7 @@ title: Pasifika Fusion 2023
 date: 2023-06-21T02:36:37.184Z
 ---
 **Pasifika Fusion**  
+Theme: 'Heroes past, present and future'  
 Wednesday 21 June & Thursday 22 June  
 Regent Theatre  
 Palmerston North
