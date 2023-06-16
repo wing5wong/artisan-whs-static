@@ -3,7 +3,7 @@ title: MTA1
 name: Trigonometry and Algebra
 code: MTA1
 subject_area: Trigonometry and Algebra
-date: 2021-06-28T02:05:54.384Z
+date: 2023-06-16T03:50:55.636Z
 entry_requirements: 75%+ in School examination and at least 4 Numeracy Credits from Year 10
 year: "11"
 type: Compulsory
@@ -16,12 +16,10 @@ leads_to:
   - MCA2
   - MCS2
 standards:
-  - "91027"
-  - "91028"
-  - "91031"
-  - "91032"
-  - "91035"
-  - "91037"
+  - "91944"
+  - "91945"
+  - "91946"
+  - "91947"
 notes: 1. This course is provided for students with a strong understanding of
   Mathematics. 2. Algebra standard 91027 is a non-calculator standard. Although
   it is an external achievement standard it is sat during the internal school
