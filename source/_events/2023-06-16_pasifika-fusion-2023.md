@@ -1,6 +1,6 @@
 ---
 title: Pasifika Fusion 2023
-date: 2023-06-16T02:36:37.184Z
+date: 2023-06-21T02:36:37.184Z
 ---
 **Pasifika Fusion**  
 Wednesday 21 June & Thursday 22 June  
