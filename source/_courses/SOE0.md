@@ -3,7 +3,7 @@ title: SOE0
 name: Social Studies Extension
 code: SOE0
 subject_area: Social Studies (Extension)
-date: 2021-06-30T02:49:23.115Z
+date: 2023-06-18T23:19:39.410Z
 entry_requirements: Completion of SOCE (Year 9) Social Science Course. Students
   will be selected from performance in SOCE course (Year 9 course).
 year: "10"
