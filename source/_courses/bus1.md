@@ -11,6 +11,7 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - ACC2
+  - ECO2
 standards:
   - "92028"
   - "92029"
