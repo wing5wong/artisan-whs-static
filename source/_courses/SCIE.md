@@ -1,9 +1,9 @@
 ---
 title: SCIE
 name: Science Introductory
-code: SCFE
+code: SCIE
 subject_area: Science (Introductory)
-date: 2021-06-30T02:42:11.703Z
+date: 2023-06-18T21:54:16.127Z
 year: "9"
 type: Compulsory
 course_duration: 26 Weeks
@@ -24,9 +24,11 @@ A hands-on course that encourages students to investigate and learn about the na
 * Particles and the Atom
 * Planet Earth
 * Waves (Energy, Light and Sound)
-* Communities
+* Sustainability
+* Forensic Science
 
 Students may also be given chances to participate in the following:
+
 * Australian Science Competition
 * New Zealand based Science competitions
 
