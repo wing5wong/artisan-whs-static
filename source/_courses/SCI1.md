@@ -4,7 +4,7 @@ maori_title: ""
 name: Science Introductory
 code: SCI1
 subject_area: Science (Introductory)
-date: 2021-06-30T03:03:17.652Z
+date: 2023-06-18T21:26:21.886Z
 year: "11"
 type: Compulsory
 course_duration: Full Year
