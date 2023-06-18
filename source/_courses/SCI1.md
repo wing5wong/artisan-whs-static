@@ -13,11 +13,10 @@ assessment_type: Achievement and Unit Standard
 leads_to:
   - SCI2
 standards:
+  - "91920"
   - "92020"
   - "92021"
-  - "92022"
-  - "92047"
-  - "91923"
+  - "92045"
 invitation_only: Yes
 endorsement: Yes
 ---
