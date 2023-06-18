@@ -33,7 +33,7 @@ The Junior programme of study is aimed at appreciating the scientific method and
 
 ***Level 1 Science***
 
-Level One Science is a generalised course covering a range of studies in the major science disciplines of Chemistry, Physics and Biology. Chemistry studies are focused around the reactions of acids and bases, alongside further studies into the atom and their interactions with other atoms. Physics studies the role of mechanics and relates this to real-life situations. The Biology component studies variation in living things and relates this to genetics. The whole course is designed to give a flavour of each of the disciplines and help to guide students into specialist subjects in Year 12.
+Level One Introductory Science is a generalised course covering a range of studies in the major science disciplines of Chemistry, Physics and Biology. Chemistry studies are focused around the reactions of neutralisation, combustion and precipitation and how these affect the environments encountered by the students. Physics studies the role of forces and their effects on objects relating to motion. The Biology component studies how microbes interact with humans and the environment. The course is entirely internally assessed.
 
 ***Biology*** 
 
