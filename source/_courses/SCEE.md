@@ -3,8 +3,8 @@ title: SCEE
 name: Science Extension
 code: SCEE
 subject_area: Science (Extension)
-date: 2021-06-30T02:34:10.565Z
-year: '9'
+date: 2023-06-18T21:56:14.144Z
+year: "9"
 type: Compulsory
 course_duration: 26 Weeks
 course_level: Year 9
@@ -25,8 +25,11 @@ A hands-on course that encourages students to investigate and learn about the na
 * Planet Earth
 * Waves (Energy, Light and Sound)
 * Communities
+* Sustainability
+* Forensic Science
 
 Students may also be given chances to participate in the following:
+
 * Australian Science Competition
 * New Zealand based Science competitions
 
