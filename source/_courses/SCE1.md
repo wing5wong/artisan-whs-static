@@ -3,7 +3,7 @@ title: SCE1
 name: Science Extension
 code: SCE1
 subject_area: Science (Extension)
-date: 2023-06-18T21:43:21.334Z
+date: 2023-06-18T21:43:47.902Z
 year: "11"
 type: Compulsory
 course_duration: Full Year
