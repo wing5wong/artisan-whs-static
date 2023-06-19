@@ -1,5 +1,5 @@
 ---
-title: NZDF Information Evening / Year 11-13
+title: NZDF Information Evening - Year 11-13
 date: 2023-06-26T02:50:12.889Z
 ---
 The NZ Defence Force is holding an information evening for potential recruits, in Whanganui, Monday 26 June.  
