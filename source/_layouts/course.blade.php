@@ -126,7 +126,7 @@ else {
             return false;
         }
         foreach ($assessment->categories as $c) {
-            if (strtolower($c) == strtolower($page->title)) {
+            if (strtolower($c) == strtolower($page->title ?? '')) {
                 return true;
             }
         }
