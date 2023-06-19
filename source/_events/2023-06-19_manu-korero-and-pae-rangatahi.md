@@ -12,8 +12,8 @@ Hawera TSB Hub
 Friday 23 June & Saturday 24 June  
 Entry is $5 cash
 
-Friday 23 June - Manu Korero
+Friday 23 June - Manu Korero  
 9.17am - Our speaker Teri-Ellen Karipa will stand and compete in the junior English section to deliver her speech on “Freedom of choice vs responsibility to whānau hapu Iwi and hāpori” 
 
-Saturday 24 June – Pae Rangatahi
+Saturday 24 June – Pae Rangatahi  
 9am - Te Rōpū o Te Puna Ora (Whanganui City College and Whanganui High School combined) will be the first group performing in the competition.
