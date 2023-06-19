@@ -7,7 +7,7 @@ image_gallery:
 ---
 KAPA HAKA update:
 
-Manu Korero and Pae Rangatahi  
+**Manu Korero and Pae Rangatahi**  
 Hawera TSB Hub  
 Friday 23 June & Saturday 24 June  
 Entry is $5 cash
