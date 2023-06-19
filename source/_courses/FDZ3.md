@@ -17,7 +17,7 @@ standards:
 course_fees: $50 for take-home component
 ue_approved: true
 ---
-This course is intended to extend students creative and technical skills in many aspects of fashion design. The course will focus on increasing the student's technological practice knowledge and their understanding of the nature of technology and how it interacts with society. The course is challenging and requires creative and motivated thinkers.
+The advanced academic technology course is designed for creative and motivated students who are ready to tackle challenges. It combines portfolio work and practical projects involving various fabrics and fashion techniques. Students learn to navigate the design process, which includes project briefs, client input, and feedback. Additionally, the course emphasizes the importance of considering environmental and societal factors in their designs. With a focus on innovation and motivation, this course offers a rewarding learning experience for aspiring designers.
 
 **Assessment:**
 
