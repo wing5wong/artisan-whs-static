@@ -4,8 +4,8 @@ name: Fashion Design
 code: FDZ0
 subject_area: Fashion Design
 date: 2021-07-01T03:44:28.386Z
-year: '10'
-type: "Subject Choice"
+year: "10"
+type: Subject Choice
 course_duration: 13 Weeks
 course_level: Year 10
 leads_to:
@@ -14,11 +14,7 @@ course_fees: $30 for take-home component
 ---
 **Purpose:**
 
-To develop students understanding of Technology in a Fashion environment. They will have the opportunity to learn and develop their practical skills while completing creative solutions to given design tasks.
-
-**Content:**
-
-Focusing on fabric and design, this course explores creative and innovative ways of researching, fashion illustrating, designing, silk screen printing and constructing to functional items. Students will learn basic pattern interpretation, sewing skills and the correct use of equipment.
+The course is designed to empower students with a comprehensive understanding of technology in the fashion industry. Through hands-on garment construction and exploration of the design process, students will refine their practical skills. Emphasizing sustainability, students will go beyond construction to creatively redesign garments, researching and developing innovative solutions. This individualized approach will enable students to manifest their creative visions, fostering unique and imaginative outcomes that align with their personal style and values. 
 
 **Assessment:**
 
