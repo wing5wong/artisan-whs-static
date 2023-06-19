@@ -12,14 +12,13 @@ assessment_type: Achievement Standard
 leads_to:
   - FDZ2
 standards:
-  - "91046"
-  - "91047"
-  - "91058"
-  - "91063"
+  - "92012"
+  - "92013"
+  - "92014"
 course_fees: $50 for take-home component
 endorsement: Yes
 ---
-To develop students' understanding of technology and provide the opportunity for them to develop their own technological practice within a structured practical environment using a range of fabrics. The course will focus on increasing the student's technological practice, knowledge and their understanding of the nature of technology and how it interacts with society. The course is challenging and requires creative and motivated thinkers.
+This academic technology course cultivates creativity and motivation in students. It integrates portfolio work and practical projects, utilizing diverse fabrics and fashion techniques. The design process incorporates project briefs, client input, and feedback, fostering a comprehensive learning experience. Through this course, students develop essential skills and gain valuable insights into the dynamic field of fashion design.
 
 **Assessment:**
 
