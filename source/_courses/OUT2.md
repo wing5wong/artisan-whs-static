@@ -3,7 +3,7 @@ title: OUT2
 name: Outdoor Education
 code: OUT2
 subject_area: Outdoor Education
-date: 2023-06-19T02:36:08.285Z
+date: 2023-06-19T03:45:00.665Z
 entry_requirements: HOF/TIC approval.
 year: "12"
 type: Subject Choice
