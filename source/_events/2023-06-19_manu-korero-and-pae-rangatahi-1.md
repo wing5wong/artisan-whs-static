@@ -1,5 +1,5 @@
 ---
-title: Manu Korero and Pae Rangatahi
+title: Pae Rangatahi
 date: 2023-06-24T01:07:53.294Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1687125720/Events/Manu_Korero_order_of_Speakers_2023.jpg
