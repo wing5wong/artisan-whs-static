@@ -3,7 +3,7 @@ title: MCS2
 name: Statistics Extension & Cambridge
 code: MCS2
 subject_area: Statistics Extension & Cambridge
-date: 2021-06-28T01:55:42.001Z
+date: 2023-06-16T03:14:47.253Z
 entry_requirements: 20 credits from MTA1 and HOF/TIC approval
 year: "12"
 type: Subject Choice
@@ -27,8 +27,8 @@ notes: 1. Completion of this course will provide entry to any Level 3
   will receive NCEA credits and those who also complete MCA2 will gain a result
   in the Cambridge AS exam). Students taking this course are encouraged to also
   take MCA2. Endorsement if taken with MCA2.
-course_fees: $135 Cambridge Examination Fee. Students need a Graphics calculator
-  for this course.
+course_fees: $140. Cambridge Examination Fee. Students need a Graphics
+  calculator for this course.
 endorsement: Yes
 ---
 This course will provide students with an extension course in advance of NCEA Level 2. Students will sit internal and external Level 2 achievement standards. This course covers the same material as MPS2, and in addition some pure Mathematics and further Statistics concepts. The teaching is pitched at Merit/Excellence level. In addition, students will study topics required for the Cambridge International AS Level Mathematics course and might sit the CIE exam at the end of the year. Students taking this course are also advised to take MCA2. This course is prerequisite for taking MCA3 in Year 13.

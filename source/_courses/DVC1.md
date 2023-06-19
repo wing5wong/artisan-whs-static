@@ -3,7 +3,7 @@ title: DVC1
 name: Design & Visual Communication
 code: DVC1
 subject_area: Design & Visual Communication
-date: 2019-07-31T23:08:28.719Z
+date: 2023-06-16T04:26:08.239Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
@@ -12,13 +12,13 @@ assessment_type: Achievement Standard
 leads_to:
   - DVC2
 standards:
-  - "91063"
-  - "91064"
-  - "91066"
-  - "91067"
-  - "91068"
-  - "91065"
+  - "92000"
+  - "92001"
+  - "92002"
+  - "92003"
 course_fees: null
 endorsement: Yes
 ---
-To develop students' capabilities in Design and Visual Communication. This course is designed to develop students' practice through: Freehand Sketching; a range of Rendering Techniques; Instrumental Drawings; Paraline Drawing, Modelling Techniques and Design. Students will also have the opportunity to use CAD and 3D printing.
+This academic course is for students interested in using the design process to facilitate critical thinking in the disciplines of product and spatial design. Students develop communication skills through exploring, refining, and solving design problems. Students develop practical skills in sketching, rendering, instrumental drawing and modelling, using both traditional methods and computer aided design, to communicate their conceptual thinking. Students will explore design influences and inspiration through the cultural lens of Te Ao Maori. 
+
+This course has an external portfolio assessment.

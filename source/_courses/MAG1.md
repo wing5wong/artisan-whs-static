@@ -3,7 +3,7 @@ title: MAG1
 name: Mathematics General
 code: MAG1
 subject_area: Mathematics (General)
-date: 2021-06-28T01:36:39.293Z
+date: 2023-06-16T04:00:04.438Z
 entry_requirements: 45%+ in School examination and HOF/TIC approval.
 year: "11"
 type: Compulsory
@@ -15,11 +15,10 @@ leads_to:
   - MTA2
   - MPS2
 standards:
-  - "91029"
-  - "91031"
-  - "91032"
-  - "91035"
-  - "91037"
+  - "91944"
+  - "91945"
+  - "91946"
+  - "91947"
 notes: Maximum of two Mathematics course in Year 12. Achievement in the external
   standards is requirement for entry into MTA2 or MPS2 course.
 course_fees: null

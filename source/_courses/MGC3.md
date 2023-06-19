@@ -3,7 +3,7 @@ title: MGC3
 name: Geometry & Calculus
 code: MGC3
 subject_area: Geometry & Calculus
-date: 2021-06-29T01:58:15.171Z
+date: 2023-06-16T03:15:52.318Z
 entry_requirements: Algebra and Calculus School examination and HOF/TIC approval.
 year: "13"
 type: Subject Choice
@@ -12,6 +12,7 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
   - "91573"
+  - "91574"
   - "91578"
   - "91579"
 notes: 1. Students need a graphics calculator for this course. 2. Students

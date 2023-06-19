@@ -3,10 +3,10 @@ title: PCS1
 name: Progressive Communication Literacy
 code: PCS1
 subject_area: Progressive Communication Literacy
-date: 2021-07-01T21:01:17.026Z
+date: 2023-06-15T03:27:53.859Z
 entry_requirements: HOF/TIC approval
 year: "11"
-type: "Subject Choice"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement and Unit Standard
@@ -21,12 +21,16 @@ leads_to:
   - VHT2
   - VMA2
 standards:
+  - "504"
   - "3483"
-  - "10792"
   - "26622"
   - "26624"
   - "26625"
+  - "90053"
   - "90852"
+  - "90856"
+  - "90857"
+  - "90990"
 course_fees: null
 endorsement: false
 ---

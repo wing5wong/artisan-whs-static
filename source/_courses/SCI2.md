@@ -3,7 +3,7 @@ title: SCI2
 name: Science Introductory
 code: SCI2
 subject_area: Science (Introductory)
-date: 2021-06-30T02:41:29.978Z
+date: 2023-06-18T22:30:21.289Z
 entry_requirements: 14 Level 1 Science credits.
 year: "12"
 type: Subject Choice
@@ -12,11 +12,16 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - BIO2
+  - PHY2
+  - CHE2
 standards:
   - "18"
   - "19894"
   - "91153"
   - "91160"
+  - "91168"
+  - "91169"
+  - "91911"
 invitation_only: Yes
 ---
-To provide a pathway towards University entrance and other tertiary vocational courses for students from all Year 11 Science courses through internally assessed topics that are relevant to the local Whanganui context. Year 12 internal sciences is a more accessible, although still demanding, course requiring the student to maintain a high level of concentration and effort throughout the year as the course is entirely internally assessed. Many of the concepts and knowledge needed require students to work independently. The ideal student has a mature and self-motivated attitude to their studies.
+To provide a pathway towards Sciene related careers and other tertiary vocational courses. Year 12 Introductory Science is a spread of biology, chemistry and physics concepts in a course that is more accessible, although still demanding. The course requires the student to maintain a high level of concentration and effort throughout the year as the course is entirely internally assessed. Many of the concepts and knowledge needed require students to work independently. The ideal student has a mature and self-motivated attitude to their studies.

@@ -3,7 +3,7 @@ title: AUT3
 name: Automotive Engineering
 code: AUT3
 subject_area: Automotive Engineering
-date: 2019-08-02T04:00:37.288Z
+date: 2023-06-15T01:25:29.143Z
 entry_requirements: 10 credits of AUT2, and a record of safety and
   responsibility in the Workshop and HOF/TIC approval.
 year: "13"
@@ -16,10 +16,10 @@ standards:
   - "21684"
   - "30437"
   - "30477"
+  - "30479"
+  - "30480"
   - "30561"
   - "30570"
-  - "30480"
-  - "30479"
 notes: Students have the opportunity to complete a National Certificate of Entry
   Automotive Trades.
 course_fees: null

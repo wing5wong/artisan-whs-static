@@ -3,9 +3,9 @@ title: GEO1
 name: Geography
 code: GEO1
 subject_area: Geography
-date: 2021-06-30T00:31:09.959Z
-year: '11'
-type: "Subject Choice"
+date: 2023-06-15T19:54:54.894Z
+year: "11"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement Standard
@@ -18,7 +18,7 @@ standards:
   - "91011"
   - "91012"
   - "91013"
-course_fees: Optional Field Trip (Tongariro - Tourism) approx. $40 each
+course_fees: Optional Field Trip Wellington $60 + potential other trip approx. $50.
 endorsement: Yes
 ---
-To understand earth as the home of people and our place within it.The course is divided up into 6 main themes: Extreme Natural Events (focusing on earthquakes), Sustainability (focusing on tourism in Tongariro National Park), Skills (which includes mapping, graphing, visual interpretation, values, statistics and geographic concepts), Research (exploring a hypothesis and gathering research and presenting it), a contemporary New Zealand geographic issue, and examining a topic at a global scale (cyclones).
+To understand the earth as the home of people and our place within it. How te taiao (the environment) connects to tangata (people) and how people connect to the environment. This course will explore a diverse range of topics and issues. Natural events and how environments are formed and change over time. A range of skills including mapping, graphing, visual interpretation, values, perspectives, exploring statistics and geographic concepts. Research and data collection, presentation, and analysis. How tikanga informs the relationships between the people and the environments and decisions that are made. Spatial and temporal patterns of phenomena such as cyclones, populations around the world. How perspectives and power influence the environment and decisions that are made. Contemporary topics as they happen.

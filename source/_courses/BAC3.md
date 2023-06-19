@@ -3,10 +3,10 @@ title: BAC3
 name: Building & Construction
 code: BAC3
 subject_area: Building & Construction
-date: 2021-06-30T04:03:01.272Z
+date: 2023-06-15T00:31:52.931Z
 entry_requirements: BAC2 or HOF approval.
-year: '13'
-type: "Subject Choice"
+year: "13"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard

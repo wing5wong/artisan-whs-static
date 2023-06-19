@@ -3,8 +3,8 @@ title: ACC2
 name: Accounting
 code: ACC2
 subject_area: Accounting
-date: 2021-06-30T21:02:07.698Z
-entry_requirements: 12 Credits in ACC1 or HOD approval.
+date: 2023-06-15T22:08:13.387Z
+entry_requirements: 12 Credits in BUS1 or HOD approval.
 year: "12"
 type: Subject Choice
 course_duration: Full Year
@@ -17,6 +17,7 @@ standards:
   - "91176"
   - "91177"
   - "91179"
+  - "91386"
 endorsement: Yes
 ---
-Level two Accounting builds on the framework taught in Level one. Students look at accounts receivable systems in depth. Students are taught to process transactions and prepare financial statements using Xero accounting software. A module on analysing and interpretting financial statements conclude the course.
+Level two Accounting builds on the framework taught in Level one. Students look at accounts receivable inventory systems in depth. Students are taught to process transactions and prepare financial statements using Xero accounting software. A module on analysing and interpretting financial statements concludes the course.

@@ -3,7 +3,7 @@ title: TCM0
 name: Technology Materials
 code: TCM0
 subject_area: Technology Materials
-date: 2021-06-30T03:34:59.377Z
+date: 2023-06-15T00:35:05.292Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks

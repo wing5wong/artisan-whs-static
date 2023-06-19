@@ -3,7 +3,7 @@ title: DAN3
 name: Dance
 code: DAN3
 subject_area: Dance
-date: 2023-06-13T01:37:31.752Z
+date: 2023-06-15T01:05:42.787Z
 entry_requirements: 12 credits in DAN2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
@@ -12,11 +12,11 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
   - "91588"
+  - "91589"
   - "91590"
   - "91591"
   - "91592"
   - "91595"
-  - "91589"
 course_fees: null
 ue_approved: true
 ---

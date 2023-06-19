@@ -3,8 +3,8 @@ title: SOCE
 name: Social Studies
 code: SOCE
 subject_area: Social Studies
-date: 2021-06-30T02:48:24.857Z
-year: '9'
+date: 2023-06-15T22:16:05.282Z
+year: "9"
 type: Compulsory
 course_duration: 26 Weeks
 course_level: Year 9
@@ -17,8 +17,8 @@ Students explore how societies work, and how students can participate and take a
 
 **Content:**
 
-Students will experience a rich understanding of the unique nature of Aotearoa, New Zealand's bicultural heritage and financial literacy skills. Students will develop a variety of social inquiry skills which will enhance their processing interpretation and presentation techniques, including researching a New Zealand disaster and pandemic planning. Students also explore innovations and are encouraged to be innovative themselves.
+Students will experience a rich understanding of the unique nature of Aotearoa, New Zealand's bicultural heritage. Students will develop a variety of social inquiry skills which will enhance their processing interpretation and presentation techniques, including researching a New Zealand disaster and their own family history. Students also explore innovations and are encouraged to be innovative themselves.
 
 **Assessment:**
 
-Regular formative and summative assessments, including a range of inquiries and an end of year examination (tbc).
+Regular formative and summative assessments, including a range of inquiries.

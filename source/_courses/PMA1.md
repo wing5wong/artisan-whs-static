@@ -3,10 +3,10 @@ title: PMA1
 name: Progressive Financial Literacy
 code: PMA1
 subject_area: Progressive Financial Literacy
-date: 2021-07-01T21:01:17.026Z
+date: 2023-06-15T01:32:58.734Z
 entry_requirements: HOF/TIC approval
 year: "11"
-type: "Subject Choice"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 1
 assessment_type: Achievement and Unit Standard
@@ -25,6 +25,8 @@ standards:
   - "26626"
   - "26627"
   - "91026"
+  - "91030"
+  - "91035"
 course_fees: null
 endorsement: false
 ---

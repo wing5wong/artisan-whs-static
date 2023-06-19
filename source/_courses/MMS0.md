@@ -3,7 +3,7 @@ title: MMS0
 name: Making Music
 code: MMS0
 subject_area: Making Music
-date: 2021-06-30T01:58:58.358Z
+date: 2023-06-15T00:35:42.312Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks

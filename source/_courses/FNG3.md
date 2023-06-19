@@ -3,7 +3,7 @@ title: FNG3
 name: Food & Nutrition
 code: FNG3
 subject_area: Food and Nutrition
-date: 2021-07-01T00:18:20.666Z
+date: 2023-06-15T00:43:35.477Z
 entry_requirements: 12 credits in FNG2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

@@ -3,8 +3,8 @@ title: SCGE
 name: Science General
 code: SCGE
 subject_area: Science (General)
-date: 2021-06-30T02:38:06.841Z
-year: '9'
+date: 2023-06-18T21:57:46.337Z
+year: "9"
 type: Compulsory
 course_duration: 26 Weeks
 course_level: Year 9
@@ -24,8 +24,11 @@ A hands-on course that encourages students to investigate and learn about the na
 * Planet Earth
 * Waves (Energy, Light and Sound)
 * Communities
+* Sustainability
+* Forensic Science
 
 Students may also be given chances to participate in the following:
+
 * Australian Science Competition
 * New Zealand based Science competitions
 
