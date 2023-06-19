@@ -18,6 +18,8 @@ standards:
 course_fees: $50 for take-home component
 endorsement: Yes
 ---
+**Purpose:**
+
 This academic technology course cultivates creativity and motivation in students. It integrates portfolio work and practical projects, utilizing diverse fabrics and fashion techniques. The design process incorporates project briefs, client input, and feedback, fostering a comprehensive learning experience. Through this course, students develop essential skills and gain valuable insights into the dynamic field of fashion design.
 
 **Assessment:**
