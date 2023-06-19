@@ -3,7 +3,7 @@ title: AUT2
 name: Automotive Engineering
 code: AUT2
 subject_area: Automotive Engineering
-date: 2023-06-15T00:52:51.327Z
+date: 2023-06-19T00:30:57.578Z
 entry_requirements: 12 credits of AUT1, and a record of safety and
   responsibility in the Workshop and HOF/TIC approval
 year: "12"
