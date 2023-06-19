@@ -20,6 +20,8 @@ standards:
 course_fees: $50 for take-home component
 endorsement: Yes
 ---
+**Purpose:**
+
 The advanced academic technology course is designed for creative and motivated students who are eager to learn. It combines portfolio work and practical projects involving various fabrics and fashion techniques. The design process includes project briefs, client input, and feedback, encouraging students to consider environmental and societal factors within their contexts. This challenging course requires motivated and innovative individuals who are willing to push their boundaries and explore new ideas in the field of fashion.
 
 **Assessment:**
