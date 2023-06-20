@@ -19,8 +19,9 @@ standards:
   - "91397"
   - "91398"
 notes: Reading and Writing Literacy.
-course_fees: Field Trip
+course_fees: Field Trip Massey Classic's Day (Approx $30)
 ue_approved: true
+endorsement: true
 ---
 1. Promote knowledge and understanding of the history and culture of Ancient Greece and Ancient Rome;
 2. To develop skills in research, communication and processing information. A study of life and culture in Ancient Greece and Rome. 
