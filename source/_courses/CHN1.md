@@ -3,7 +3,7 @@ title: CHN1
 name: Chinese
 code: CHN1
 subject_area: Chinese
-date: 2021-07-01T04:09:58.458Z
+date: 2023-06-20T23:19:46.761Z
 entry_requirements: Full year at Year 10 or HOD approval.
 year: "11"
 type: Subject Choice
