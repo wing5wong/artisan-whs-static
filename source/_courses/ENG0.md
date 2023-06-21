@@ -3,7 +3,7 @@ title: ENG0
 name: English General
 code: ENG0
 subject_area: English (General)
-date: 2021-06-28T00:02:59.350Z
+date: 2023-06-21T02:33:01.197Z
 entry_requirements: Satisfactory completion of the ENGE course. 50% in the End
   of year Examination. Teacher recommendations.
 year: "10"
@@ -15,7 +15,7 @@ leads_to:
 ---
 **Purpose:**
 
-To teach students to study, use and enjoy the English language and its literature, communicated orally, visually and in writing, across a range of contexts.
+These students are working towards Level 5 of the English curriculum. To teach students to study, use and enjoy the English language and its literature, communicated orally, visually and in writing, across a range of contexts.
 
 **Content:**
 
