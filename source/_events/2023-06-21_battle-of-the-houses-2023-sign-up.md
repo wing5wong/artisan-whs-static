@@ -1,9 +1,7 @@
 ---
-title: Battle of the Houses 2023 - Sign Up!!
+title: "Battle of the Houses 2023 "
 date: 2023-08-23T05:01:50.717Z
 ---
-Sign up for the Battle of the Houses 2023!  
-
 This is an awesome activity for all the houses, you get to perform, have fun and raise some WHS house spirit!  
 There will be commitment involved with rehearsals throughout the 1st 5 weeks of Term 3.  
 
