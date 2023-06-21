@@ -13,7 +13,6 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - ENG3
-  - ENL3
 standards:
   - "91104"
   - "91106"
