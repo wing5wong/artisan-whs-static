@@ -3,12 +3,12 @@ title: MUS2
 name: Music
 code: MUS2
 subject_area: Music
-date: 2021-07-07T02:10:03.562Z
-entry_requirements: >-
-  3 Years previous instrumental tuition and theory and should have completed
-  MUS1 or equivalent. Currently learning an instrument. HOF/TIC approval.
-year: '12'
-type: "Subject Choice"
+date: 2023-06-22T00:48:42.586Z
+entry_requirements: 3 Years previous instrumental tuition and theory and should
+  have completed MUS1 or equivalent. Currently learning an instrument. HOF/TIC
+  approval.
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
@@ -20,9 +20,8 @@ standards:
   - "91271"
   - "91272"
   - "91274"
-  - "91275"
   - "91276"
-  - "91277"
   - "91278"
+endorsement: true
 ---
 To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context at an advancing level. Performance, Composition, and Musical Knowledge.
