@@ -1,5 +1,5 @@
 ---
-title: Massey & Ucol Open Day - Year 12/13 - sign up by 29 June
+title: Massey & Ucol Open Day sign up by 29 June - Year 12/13
 date: 2023-06-28T20:24:37.866Z
 ---
 On Wednesday 2 August Massey and UCOL in Palmerston North are hosting an Open Day.
