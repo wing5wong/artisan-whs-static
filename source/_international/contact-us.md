@@ -27,5 +27,3 @@ NEW ZEALAND
 **Phone:** (+64) 6 349 0178  \
 **Fax:** (+64) 6 349 0176  \
 **Email:**  [director.int@whanganuihigh.school.nz](mailto:director.int@whanganuihigh.school.nz?subject=International%20Enquiry)
-
-.
