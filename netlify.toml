@@ -2,3 +2,11 @@
 command = "CI= npm run prod"
 publish = "build_production"
 environment = { PHP_VERSION = "8.1", NODE_VERSION = "18.16.0"}
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer-when-downgrade"
