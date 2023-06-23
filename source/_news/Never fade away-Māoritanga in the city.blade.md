@@ -1,6 +1,6 @@
 ---
 title: "Never fade away: Māoritanga in the city"
-date: 
+date: 1970-01-01
 description: "Two of our super talented (ex WHS) Visual Arts students featured in this article: Jacob McGregor (pictured) and Ming (Tibet) Ranginui..."
 image: http://c1940652.r52.cf0.rackcdn.com/5976aa28b8d39a1a9e000b35/Jacob-McGregor-ex.jpg
 excerpt: "Two of our super talented (ex WHS) Visual Arts students featured in this article: Jacob McGregor and Ming (Tibet) Ranginui."

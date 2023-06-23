@@ -1,6 +1,6 @@
 ---
 title: "Visual Arts celebrations"
-date: 
+date: 1970-01-01
 description: "The celebrations continue in the Visual Arts Department at Whanganui High School..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a1e2dd8b8d39a25b6000afa/Mikayla-Baldwin-main-website-photo.jpg
 excerpt: "The celebrations continue in the Visual Arts Department at Whanganui High School."

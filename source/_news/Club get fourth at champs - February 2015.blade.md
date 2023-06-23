@@ -1,6 +1,6 @@
 ---
 title: "Club get fourth at champs - February 2015"
-date: 
+date: 1970-01-01
 description: "SUNNY DAYS: The Whanganui Kayak Club team at Lake Karapiro, from the Wanganui Chronicle article 20 Feb 2015..."
 image: http://c1940652.r52.cf0.rackcdn.com/54e9907fb8d39a7e6a002c66/Kayak-Club-at-Lake-Karapiro.jpg
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: "Year 8 students Performing Arts workshops"
-date: 
+date: 1970-01-01
 description: "80 Year 8 students came to WHS on 15 November for our annual Year 8 Performing Arts workshops..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a1e24e5b8d39a25b6000ade/website-shot.jpg
 excerpt: "80 Year 8 students came to WHS on 15 November for our annual Year 8 Performing Arts workshops..."

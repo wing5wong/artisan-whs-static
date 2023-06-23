@@ -1,6 +1,6 @@
 ---
 title: "New premises for ReVitalise"
-date: 
+date: 1970-01-01
 description: "In front of the new ReVitalise premises are (from left) Michaela Sullenberger (former WHS student), Julie Heathcote, Audrey O'Keefe, Sue Smith and Michelle Low."
 image: http://c1940652.r52.cf0.rackcdn.com/59c47b36b8d39a1917000038/Michaela-sullenberger-re-vitalise-new-premises.jpg
 excerpt: "In front of the new ReVitalise premises are (from left) Michaela Sullenberger (former WHS student), Julie Heathcote, Audrey O'Keefe, Sue Smith and Michelle Low."

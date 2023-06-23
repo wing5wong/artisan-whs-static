@@ -1,6 +1,6 @@
 ---
 title: "WHS U15 RUGBY CHAMPS 2017"
-date: 
+date: 1970-01-01
 description: "WANGANUI U15 RUGBY CHAMPS 2017 - WHS U15 GOLD TEAM..."
 image: http://c1940652.r52.cf0.rackcdn.com/59a8c74bb8d39a35a500050a/holding-cup.jpg
 excerpt: "WANGANUI U15 RUGBY CHAMPS 2017 - WHS U15 GOLD TEAM."

@@ -1,6 +1,6 @@
 ---
 title: "Sir Richard Hadlee at Victoria Park, Whanganui"
-date: 
+date: 1970-01-01
 description: "NZ’s greatest cricketer Sir Richard Hadlee will be at Victoria Park today for the local book launch..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e56da8b8d39a463b00038e/Sir-Richard-poster-of-event.jpg
 excerpt: "New Zealand’s greatest cricketer Sir Richard Hadlee will be at Victoria Park today, Wednesday 20 September, for the local book launch of his labour of love 'The Skipper’s Diary'."

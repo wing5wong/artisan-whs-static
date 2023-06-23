@@ -1,6 +1,6 @@
 ---
 title: "Whanganui Judo Club wins medals at international competition"
-date: 
+date: 1970-01-01
 description: "WHS student Keightley Watson wins GOLD and silver; and former student Finn Brown wins silver and bronze..."
 image: http://c1940652.r52.cf0.rackcdn.com/5976aae6b8d39a1a9e000b37/Keightley-Watson-1st--in-Tonga-2930-April-OJU-Continental-champs.jpg
 excerpt: "WHS student Keightley Watson wins GOLD and silver; and former student Finn Brown wins silver and bronze.. Whanganui City College Judo Club wins medals at international competition."

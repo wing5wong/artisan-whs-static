@@ -1,6 +1,6 @@
 ---
 title: "Congratulations WHS players making Rep Football teams"
-date: 
+date: 1970-01-01
 description: "Congratulations.....to the following WHS players who have made the Whanganui Representative Football Teams for 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/5988d234b8d39a2134000199/Football-image-in-net.jpg
 excerpt: "Congratulations.....to the following WHS players who have made the Whanganui Representative Football Teams for 2017."

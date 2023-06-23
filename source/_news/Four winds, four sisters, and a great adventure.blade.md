@@ -1,6 +1,6 @@
 ---
 title: "Four winds, four sisters, and a great adventure"
-date: 
+date: 1970-01-01
 description: "Whanganui High School student Leila Collinson was the fourth sister to complete the Spirit of Adventure voyage..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a2461cfb8d39a11de000135/Leila-Collinson.jpg
 excerpt: "Whanganui High School student Leila Collinson was the fourth sister to complete the Spirit of Adventure voyage."

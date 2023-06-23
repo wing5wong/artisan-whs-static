@@ -1,6 +1,6 @@
 ---
 title: "Haere Ra, Chris"
-date: 
+date: 1970-01-01
 description: "SCHOOL SUPPORT: Jacqui McKenzie (left), Natalie Campbell, Diane Calman, Nola Todd, Ross Brown, Mikaya Teki, Jackie Hazelhurst & Jack Southee represented WHS - funeral of popular doctor Chris Cresswell"
 image: http://c1940652.r52.cf0.rackcdn.com/58816671b8d39a3eff001da3/WHS-support.jpg
 excerpt: "SCHOOL SUPPORT: Jacqui McKenzie (left), Natalie Campbell, Diane Calman, Nola Todd, Ross Brown, Mikaya Teki, Jackie Hazelhurst & Jack Southee represented WHS at the funeral of popular doctor Chris Cresswell."

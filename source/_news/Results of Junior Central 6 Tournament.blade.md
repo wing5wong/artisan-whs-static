@@ -1,6 +1,6 @@
 ---
 title: "Results of Junior Central 6 Tournament"
-date: 
+date: 1970-01-01
 description: "WHS Results of Junior Central 6 Tournament which took place in Hawkes Bay on Tuesday 9 August..."
 image: 
 excerpt: "WHS Results of Junior Central 6 Tournament which took place in Hawkes Bay on Tuesday 9 August."

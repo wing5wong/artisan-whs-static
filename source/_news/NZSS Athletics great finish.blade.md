@@ -1,6 +1,6 @@
 ---
 title: "NZSS Athletics great finish"
-date: 
+date: 1970-01-01
 description: "Great day to finish the NZSS Athletics for Sophie Andrews smashing her p.b in javelin. Finished 9th in NZ. She got 12th overall in hammer. Rebecca Baker came 8th in 1500m junior girls final..."
 image: http://c1940652.r52.cf0.rackcdn.com/59769273b8d39a1a9e000aeb/Sophie-Andrews-javelin-p.b.jpg
 excerpt: "Great day to finish the NZSS Athletics for Sophie Andrews smashing her p.b in javelin. Finished 9th in NZ. She got 12th overall in hammer. Rebecca Baker came 8th in 1500m junior girls final."

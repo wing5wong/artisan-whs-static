@@ -1,6 +1,6 @@
 ---
 title: "Trophies for swimmers"
-date: 
+date: 1970-01-01
 description: "WHS students, Alex Forlong - Outstanding Sportsmanship & Michael Hiroti - Most Outstanding Male swimmer at the Wanganui Swimming Club's prizegiving on Sunday 31 July, Wanganui Chronicle article 1/8/16"
 image: http://c1940652.r52.cf0.rackcdn.com/579fb91db8d39a2071000de8/WU-Swim-Clubs-prizegiving-on-31-July.jpg
 excerpt: "WHS students, Alex Forlong - Outstanding Sportsmanship & Michael Hiroti - Most Outstanding Male swimmer at the Wanganui Swimming Club's prizegiving on Sunday 31 July, Wanganui Chronicle article 1/8/16"

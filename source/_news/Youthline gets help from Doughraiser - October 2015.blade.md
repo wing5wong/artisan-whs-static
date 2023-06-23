@@ -1,6 +1,6 @@
 ---
 title: "Youthline gets help from Doughraiser - October 2015"
-date: 
+date: 1970-01-01
 description: "GOOD WORKS:  Pictured at Domino's Pizza in Wanganui last night are Sarah Spence (left) and Francesca Palmer, both former Wanganui High School students, Wanganui Chronicle article on 29 October.."
 image: http://c1940652.r52.cf0.rackcdn.com/56394ab4b8d39a2136000524/Youthline-ex-students-2015-Chron.jpg
 excerpt: "GOOD WORKS:  Pictured at Domino's Pizza in Wanganui last night are Sarah Spence (left) and Francesca Palmer, both former Wanganui High School students, Wanganui Chronicle article on 29 October..."

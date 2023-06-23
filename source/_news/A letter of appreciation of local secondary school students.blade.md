@@ -1,6 +1,6 @@
 ---
 title: "A letter of appreciation of local secondary school students"
-date: 
+date: 1970-01-01
 description: "\"Whanganui High School, their parents and the boys and the girl, should be very proud of themselves\", Ann Butler sent River City Press the following letter..."
 image: 
 excerpt: "\"Whanganui High School, their parents and the boys and the girl, should be very proud of themselves\", Ann Butler sent River City Press the following letter..."

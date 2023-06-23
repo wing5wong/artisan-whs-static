@@ -1,6 +1,6 @@
 ---
 title: "Girls Sevens have made the Constellation Cup"
-date: 
+date: 1970-01-01
 description: "Big Congrats to our WHS Girls 7's team who have made the constellation cup final today at NZSS Condor Sevens..."
 image: http://c1940652.r52.cf0.rackcdn.com/584486a4b8d39a3eff000186/team-named-on-board.jpg
 excerpt: "Big Congrats to our WHS Girls 7's team who have made the constellation cup final today at NZSS Condor Sevens."

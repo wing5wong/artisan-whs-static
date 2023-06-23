@@ -1,6 +1,6 @@
 ---
 title: "Triple treat for fans at opera house"
-date: 
+date: 1970-01-01
 description: "The People fronted by Stan Manthyng, Chloe Franklin-Browne and former WHS students Debbie Head and Dylan Stanford (in background)..."
 image: http://c1940652.r52.cf0.rackcdn.com/590fd53db8d39a6a9600080e/ThePeople-band-ex-WHS-debbie-head-Chron.jpg
 excerpt: "The People fronted by Stan Manthyng, Chloe Franklin-Browne and former WHS students Debbie Head and Dylan Stanford (in background)..."

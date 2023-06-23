@@ -1,6 +1,6 @@
 ---
 title: "Victorious Lower leads way for club"
-date: 
+date: 1970-01-01
 description: "WHS student Sarya Lower won gold in the 15-year-old girls 50 breast stroke, 200m individual medley and the 100m freestyle at the Wellington Long Course Champs..."
 image: http://c1940652.r52.cf0.rackcdn.com/58900458b8d39a3eff0022df/Sarya-Lower-WN-Long-Course-champs-chron-26-Jan-2017.jpg
 excerpt: "WHS student Sarya Lower won gold in the 15-year-old girls 50 breast stroke, 200m individual medley and the 100m freestyle at the Wellington Long Course Champs."

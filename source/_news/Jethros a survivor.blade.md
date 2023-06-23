@@ -1,6 +1,6 @@
 ---
 title: "Jethro's a survivor"
-date: 
+date: 1970-01-01
 description: "The Cancer Society's Survivors' Lap on Saturday was an emotional one for Whanganui's Chiet family..."
 image: http://c1940652.r52.cf0.rackcdn.com/58ca0307b8d39a3eff0046f5/Jethro-Chiet-a-survivor.jpg
 excerpt: "The Cancer Society's Survivors' Lap on Saturday was an emotional one for Whanganui's Chiet family."

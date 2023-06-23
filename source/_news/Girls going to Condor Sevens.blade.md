@@ -1,6 +1,6 @@
 ---
 title: "Girls going to Condor Sevens"
-date: 
+date: 1970-01-01
 description: "WHS Girls Sevens Rugby Team will be going to the Condor Sevens in Auckland in December 2016..."
 image: http://c1940652.r52.cf0.rackcdn.com/59769a2bb8d39a1a9e000b05/in-huddle-with-coach.jpg
 excerpt: "WHS Girls Sevens Rugby Team will be going to the Condor Sevens in Auckland in December 2016."

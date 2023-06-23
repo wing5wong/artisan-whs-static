@@ -1,6 +1,6 @@
 ---
 title: "Keightley wins GOLD at the Matsuru Dutch Open"
-date: 
+date: 1970-01-01
 description: "Keightley wins GOLD at the Matsuru Dutch Open..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a84b72db8d39a42a4000638/Keightley-14-jan-whs-sports-facebook.jpg
 excerpt: "Keightley wins GOLD at the Matsuru Dutch Open."

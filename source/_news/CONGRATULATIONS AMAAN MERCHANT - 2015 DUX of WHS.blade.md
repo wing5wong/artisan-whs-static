@@ -1,6 +1,6 @@
 ---
 title: "CONGRATULATIONS AMAAN MERCHANT - 2015 DUX of WHS"
-date: 
+date: 1970-01-01
 description: "Congratulations Amaan Merchant - 2015 DUX of WHS"
 image: /uploads/56428ccab8d39a21360013c0/IMG_1124.JPG
 excerpt: "Congratulations Amaan Merchant - 2015 DUX of WHS"

@@ -1,6 +1,6 @@
 ---
 title: "CONGRATULATIONS JEANNE-MARIE BONNET - 2016 DUX of WHS"
-date: 
+date: 1970-01-01
 description: "Congratulations Jeanne-Marie Bonnet - 2016 DUX of WHS..."
 image: /uploads/58365c6eb8d39a165e00019f/Dux-of-the-School-Jeanne-Marie-Bonnet.JPG
 excerpt: "Congratulations Jeanne-Marie Bonnet - 2016 DUX of WHS."

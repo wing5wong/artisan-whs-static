@@ -1,6 +1,6 @@
 ---
 title: "2017 Cultural Festival - fantastic evening!"
-date: 
+date: 1970-01-01
 description: "WHS 2017 Cultural Festival - fantastic evening!"
 image: http://c1940652.r52.cf0.rackcdn.com/59499216b8d39a5fde0000b7/3.jpg
 excerpt: "WHS 2017 Cultural Festival - fantastic evening!"

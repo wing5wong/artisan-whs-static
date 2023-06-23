@@ -1,6 +1,6 @@
 ---
 title: "Whanganui school consults community on 'ideal' student"
-date: 
+date: 1970-01-01
 description: "Whanganui High School principal Martin McAllen. What skills and attributes do you think the ideal Whanganui High School graduate should have?.."
 image: http://c1940652.r52.cf0.rackcdn.com/59220a96b8d39a0a7c000533/Martin-McAllen-chron-photo-ideal-school-22-May.jpg
 excerpt: "Whanganui High School principal Martin McAllen.. What skills and attributes do you think the ideal Whanganui High School graduate should have?"

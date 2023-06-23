@@ -1,6 +1,6 @@
 ---
 title: "Mother appeals for return of blind boy's bike"
-date: 
+date: 1970-01-01
 description: "WHS student Darcy Britton, who is blind, and his mother, Colleen Lee, are appealing for the return of Darcy's tandem bike..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e549c1b8d39a463b000368/Darcry-Britton-chron-photo.jpg
 excerpt: "Whanganui High School student Darcy Britton, who is blind, and his mother, Colleen Lee, are appealing for the return of Darcy's tandem bike."

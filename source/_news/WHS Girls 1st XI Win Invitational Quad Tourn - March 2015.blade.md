@@ -1,6 +1,6 @@
 ---
 title: "WHS Girls' 1st XI Win Invitational Quad Tourn - March 2015"
-date: 
+date: 1970-01-01
 description: "Congrats to the WHS 1st XI Girls Team on winning the Feilding Invitational Football Tournament on Sunday, 30 March 2015..."
 image: 
 excerpt: ""

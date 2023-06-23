@@ -1,6 +1,6 @@
 ---
 title: "The positive side of being Maori"
-date: 
+date: 1970-01-01
 description: "Former Whanganui High School student Leigh-Marama McLachlan endorses Maori development through journalism..."
 image: http://c1940652.r52.cf0.rackcdn.com/59b1b33fb8d39a35a50009d4/Marama-McLachlan-7-Sept.jpg
 excerpt: "Former Whanganui High School student Leigh-Marama McLachlan endorses Maori development through journalism."

@@ -1,6 +1,6 @@
 ---
 title: "Whanganui schools unite to tackle world issues"
-date: 
+date: 1970-01-01
 description: "Whanganui High School students Akshima Marwah, Sophie Maxey and Rose Hird representing Nigeria..."
 image: http://c1940652.r52.cf0.rackcdn.com/59fff42bb8d39a773100073b/Chronicle-6-Nov.jpg
 excerpt: "Whanganui High School students Akshima Marwah, Sophie Maxey and Rose Hird representing Nigeria."

@@ -1,6 +1,6 @@
 ---
 title: "Overseas success for local gymnast - January 2016"
-date: 
+date: 1970-01-01
 description: "FLIGHT LUGGAGE: Whanganui gymnast (& WHS student) Millie Manning had a lot of medals and trophies to declare when she returned from Hawaii, Wanganui Chronicle article on 26/1/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/56ae8bc8b8d39a7859000352/Millie-Manning-26.1.16.jpg
 excerpt: "FLIGHT LUGGAGE: Whanganui gymnast (& WHS student) Millie Manning had a lot of medals and trophies to declare when she returned from Hawaii, Wanganui Chronicle article on 26/1/16..."

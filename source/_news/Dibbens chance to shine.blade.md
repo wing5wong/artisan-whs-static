@@ -1,6 +1,6 @@
 ---
 title: "Dibben's chance to shine"
-date: 
+date: 1970-01-01
 description: "NEW GROUND: Whanganui racer Richie Dibben (119) will be in unchartered territory without his own trusty bike for round two of the FIM Asia Supermoto Championship in Indonesia this weekend."
 image: http://c1940652.r52.cf0.rackcdn.com/57fc2662ff2a7c37a3000dd0/ex-Richie-Dibben-FIM-Asia-Supermoto-champs-in-Indonesia-Chron.jpg
 excerpt: "NEW GROUND: Whanganui racer Richie Dibben (119) will be in unchartered territory without his own trusty bike for round two of the FIM Asia Supermoto Championship in Indonesia this weekend."

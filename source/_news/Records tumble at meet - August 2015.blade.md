@@ -1,6 +1,6 @@
 ---
 title: "Records tumble at meet - August 2015"
-date: 
+date: 1970-01-01
 description: "SPEEDSTER: WHS student Elena Forlong is fourth fastest in the country in the 100m butterfly, Wanganui Chonicle article on 19/8/15..."
 image: /uploads/55e65678ff2a7c54d7000004/Swimming.Elena_Forlong.Aug2015.JPG
 excerpt: "SPEEDSTER: WHS student Elena Forlong is fourth fastest in the country in the 100m butterfly."

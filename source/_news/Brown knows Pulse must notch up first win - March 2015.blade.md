@@ -1,6 +1,6 @@
 ---
 title: "Brown knows Pulse must notch up first win - March 2015"
-date: 
+date: 1970-01-01
 description: "WELL TRAVELLED: Expat Wanganui netballer Jodi Brown is living in Dunedin while playing for the Pulse, from Wanganui Chronicle article 14/3/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/550610abff2a7c3613000548/JodiBrown,expatWHSnetballer.jpg
 excerpt: ""

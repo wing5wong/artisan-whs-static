@@ -3,25 +3,28 @@
     "scripts": {
         "dev": "mix",
         "watch": "mix watch",
-        "staging": "NODE_ENV=staging mix",
         "prod": "mix --production"
-    },
-    "devDependencies": {
-        "highlight.js": "^11.3.1",
-        "laravel-mix": "^6.0.10",
-        "laravel-mix-jigsaw": "^1.5.0",
-        "notyf": "^3.10.0",
-        "sass": "^1.45.0",
-        "sass-loader": "^12.4.0",
-        "sharer.js": "^0.4.2"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.13.1",
         "bootstrap": "^4.5.0",
         "jquery": "^3.5.1",
         "netlify-identity-widget": "^1.6.0",
-        "npm": "^6.14.5",
         "popper.js": "^1.16.1",
-        "swiper": "^4.5.1"
+        "swiper": "^9.4.1"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.13",
+        "axios": "^0.21.1",
+        "browser-sync": "^2.27.4",
+        "browser-sync-webpack-plugin": "^2.3.0",
+        "fast-glob": "^3.2.12",
+        "fuse.js": "^6.4.6",
+        "highlight.js": "^10.5.0",
+        "laravel-mix": "^6.0.39",
+        "laravel-mix-jigsaw": "^2.0.0",
+        "postcss": "^8.4.21",
+        "sass": "^1.63.6",
+        "sass-loader": "^12.1.0"
     }
 }

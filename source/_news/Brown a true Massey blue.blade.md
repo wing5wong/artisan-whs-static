@@ -1,6 +1,6 @@
 ---
 title: "Brown a true Massey blue"
-date: 
+date: 1970-01-01
 description: "Whanganui judo exponent and former WHS student Finn Brown is named Manawatu Campus Sportsman of the Year..."
 image: http://c1940652.r52.cf0.rackcdn.com/59ee43f9b8d39a77310000fa/finn-brown-from-iphone.jpg
 excerpt: "Whanganui judo exponent and former WHS student Finn Brown is named Manawatu Campus Sportsman of the Year."

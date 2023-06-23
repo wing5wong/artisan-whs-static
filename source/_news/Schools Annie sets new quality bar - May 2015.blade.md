@@ -1,6 +1,6 @@
 ---
 title: "School's Annie sets new quality bar - May 2015"
-date: 
+date: 1970-01-01
 description: "FINE PERFORMANCE: Devon Harnett as Miss Hannigan in a scene during rehearsals for Annie, from Wanganui Midweek article on 6/5/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/5553f4ccff2a7c0377000c8e/Devon-Harnett-Production,Midwk,13.5.15.jpg
 excerpt: ""

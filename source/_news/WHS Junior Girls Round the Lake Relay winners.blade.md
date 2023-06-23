@@ -1,6 +1,6 @@
 ---
 title: "WHS Junior Girls 'Round the Lake Relay' winners"
-date: 
+date: 1970-01-01
 description: "Well done to our WHS Junior Girls 'Round the Lake Relay' Team who won their grade on Monday..."
 image: http://c1940652.r52.cf0.rackcdn.com/59ba052eb8d39a35a5000cea/girls-x-four-group.jpg
 excerpt: "Well done to our WHS Junior Girls 'Round the Lake Relay' Team who won their grade on Monday."

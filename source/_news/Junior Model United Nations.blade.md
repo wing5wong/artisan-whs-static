@@ -1,6 +1,6 @@
 ---
 title: "Junior Model United Nations"
-date: 
+date: 1970-01-01
 description: "On 9 November WHS sent 8 teams to take part in the Annual Wanganui Junior Model United Nations day at Girls’ College. Congratulations to Leah Aiona, Katja Mokha & Callista booth-Richards..."
 image: http://c1940652.r52.cf0.rackcdn.com/58251a66b8d39a7ade00008b/turkey-winners.jpg
 excerpt: "On 9 November WHS sent 8 teams to take part in the Annual Wanganui Junior Model United Nations day at Girls’ College. Congratulations to Leah Aiona, Callista Booth-Richards and Katja Mokha and their Turkey team who were awarded Winning Delegation & Best Dressed Delegation."

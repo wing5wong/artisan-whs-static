@@ -1,6 +1,6 @@
 ---
 title: "Megan Smith's key role for TotalView Solutions- January 2015"
-date: 
+date: 1970-01-01
 description: "GOING GLOBAL: Former Wanganui woman Megan Smith has been named head of global sales and marketing for software company TotalView Solutions, from the Wanganui Chronicle article 21 Jan 2015..."
 image: http://c1940652.r52.cf0.rackcdn.com/54c858a0b8d39a7e6a00124e/Megan-Smith-ex-student.jpg
 excerpt: ""

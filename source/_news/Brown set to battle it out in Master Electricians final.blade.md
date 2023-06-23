@@ -1,6 +1,6 @@
 ---
 title: "Brown set to battle it out in Master Electricians final"
-date: 
+date: 1970-01-01
 description: "Former Whanganui High School student Nathan Brown set to battle it out in Master Electricians Challenge final..."
 image: http://c1940652.r52.cf0.rackcdn.com/59810347b8d39a2373000094/Nathan-Brown-ex.jpg
 excerpt: "Former Whanganui High School student Nathan Brown set to battle it out in Master Electricians Challenge final."

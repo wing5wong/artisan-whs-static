@@ -1,6 +1,6 @@
 ---
 title: "WHS A CLASS ACT"
-date: 
+date: 1970-01-01
 description: "The cast, crew, teachers and supporters from '29 Below' which won the 2016 National State Challenge, Wanganui Chronicle article on 21/9/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/57e1c9b0b8d39a2071002012/National-Winners-Cast-Crew-Teachers-29-Below.jpg
 excerpt: "The cast, crew, teachers and supporters from '29 Below' which won the 2016 National State Challenge."

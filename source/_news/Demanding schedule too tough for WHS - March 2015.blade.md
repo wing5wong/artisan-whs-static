@@ -1,6 +1,6 @@
 ---
 title: "Demanding schedule too tough for WHS - March 2015"
-date: 
+date: 1970-01-01
 description: "WHS had a good start to their netball season, with the wider squad of 12 finishing third at the Super School Invitational tournament at Arena Manawatu on Sunday, Wanganui Chronicle article 17/3/15..."
 image: 
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: "WHS & Kaierau continue dominance"
-date: 
+date: 1970-01-01
 description: "Phillips Electrical Wanganui High School and Wanganui Car Centre Kaierau remain unbeaten and are on the maximum 9 points in the Premier 1 Wanganui Netball Championship..."
 image: 
 excerpt: "Phillips Electrical Wanganui High School and Wanganui Car Centre Kaierau remain unbeaten and are on the maximum 9 points in the Premier 1 Wanganui Netball Championship..."

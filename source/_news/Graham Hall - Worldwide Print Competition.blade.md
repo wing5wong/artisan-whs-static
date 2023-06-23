@@ -1,6 +1,6 @@
 ---
 title: "Graham Hall - Worldwide Print Competition"
-date: 
+date: 1970-01-01
 description: "Congratulations to Whanganui High School teacher Graham Hall who has entered the 8th Biannual Print Competition - Worldwide Competition..."
 image: http://c1940652.r52.cf0.rackcdn.com/597a9055b8d39a1a9e000ca8/thumbs_The-adventure-of-the-Hero-crossing-the-first-threshold.jpg
 excerpt: "Congratulations to Whanganui High School teacher Graham Hall who has entered the 8th Biannual Print Competition - Worldwide Competition."

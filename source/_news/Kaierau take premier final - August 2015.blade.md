@@ -1,6 +1,6 @@
 ---
 title: "Kaierau take premier final - August 2015"
-date: 
+date: 1970-01-01
 description: "THREE-WAY SPLIT: Te Reo Paki, Sammy Murphy and Kelera Kuruyabaki battle for possession under the net in last night's Wanganui championship final, Wanganui Chronicle article 11/8/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/55c934d3ff2a7c7363001bd5/A1-Netball-v-Kaierau-FINAL-11.gif
 excerpt: "THREE-WAY SPLIT: Te Reo Paki, Sammy Murphy and Kelera Kuruyabaki battle for possession under the net in last night's Wanganui championship final."

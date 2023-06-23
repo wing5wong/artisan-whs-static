@@ -1,6 +1,6 @@
 ---
 title: "Training high on Atkinson's mind - October 2015"
-date: 
+date: 1970-01-01
 description: "Wanganui hockey export  and former WHS student Martin Atkinson has a long haul without matchplay until his tour of Australia with the New Zealand Futures Under 23 squad."
 image: http://c1940652.r52.cf0.rackcdn.com/56159e88b8d39a28750003b4/Hockey-ex-Martin-Atkinson-oct-2015.jpg
 excerpt: "Wanganui hockey export Martin Atkinson has a long haul without matchplay until his tour of Australia with the New Zealand Futures Under 23 squad, from Wanganui Chronicle article on 8/10/15."

@@ -1,6 +1,6 @@
 ---
 title: "Whanganui has part to play in presenting Shakespeare"
-date: 
+date: 1970-01-01
 description: "WHS students performing in A Midsummer Night's Dream during the regional Shakespeare festival in Whanganui..."
 image: http://c1940652.r52.cf0.rackcdn.com/592b70fdb8d39a0a7c000c18/Shakespeare-festival-ex-students-perf-at-2016-chron-29-May-2017.jpg
 excerpt: "Whanganui High School students performing in A Midsummer Night's Dream during the regional Shakespeare festival in Whanganui in April."

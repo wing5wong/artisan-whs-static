@@ -1,6 +1,6 @@
 ---
 title: "NZSS Cross Country news"
-date: 
+date: 1970-01-01
 description: "WOW.....AMAZING Racing today from our WHS cross country team in Christchurch at the NZSS Champs..."
 image: http://c1940652.r52.cf0.rackcdn.com/5976a2b4b8d39a1a9e000b19/3-girls.jpg
 excerpt: "WOW.....AMAZING Racing today from our WHS cross country team in Christchurch at the NZSS Champs."

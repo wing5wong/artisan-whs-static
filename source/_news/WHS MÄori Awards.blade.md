@@ -1,6 +1,6 @@
 ---
 title: "WHS Māori Awards"
-date: 
+date: 1970-01-01
 description: "Kato McDonald - Māori student Dux for Whanganui High School 2016, held at the Wanganui racecourse on 27 October."
 featured-image: 
 excerpt: "Kato McDonald - Māori student Dux for Whanganui High School 2016, held at the Wanganui racecourse function centre on Thursday 27 October."

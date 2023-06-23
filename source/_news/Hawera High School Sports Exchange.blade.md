@@ -1,6 +1,6 @@
 ---
 title: "Hawera High School Sports Exchange"
-date: 
+date: 1970-01-01
 description: "A great day was had in Hawera today, Thursday 10 August, for our sports teams against Hawera High School..."
 image: http://c1940652.r52.cf0.rackcdn.com/59af406cb8d39a35a5000791/good4.330jpg.jpg
 excerpt: "A great day was had in Hawera today, Thursday 10 August, for our sports teams against Hawera High School."

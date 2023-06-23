@@ -1,6 +1,6 @@
 ---
 title: "Wanganui U14 REP Team announced"
-date: 
+date: 1970-01-01
 description: "Congratulations to the WHS boys who have made the Wanganui U14 Rugby team..."
 image: http://c1940652.r52.cf0.rackcdn.com/5959932ab8d39a317d0002bd/WU-rugby-emblem.jpg
 excerpt: "Congratulations to the WHS boys who have made the Wanganui U14 Rugby team."

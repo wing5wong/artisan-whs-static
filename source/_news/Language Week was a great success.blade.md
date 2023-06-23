@@ -1,6 +1,6 @@
 ---
 title: "Language Week was a great success"
-date: 
+date: 1970-01-01
 description: "Language Week was a great success at Whanganui High School..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e5968fb8d39a463b0003ba/Pizza-winners.jpg
 excerpt: "Language Week was a great success at Whanganui High School"

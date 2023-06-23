@@ -1,6 +1,6 @@
 ---
 title: "Day dedicated to youth fills square - October 2015"
-date: 
+date: 1970-01-01
 description: "MINGLING: Rangatahi workers Peter London and Kiri Wilson (centre) shared the day dedicated to young people with WHS student Tayla Mack (left), 14, and Maddison Hatch, 12."
 image: http://c1940652.r52.cf0.rackcdn.com/5617188eb8d39a28750005f2/Kiri-Wilson-ex-on-Majestic-Sq-dedicated-to-young-people-9.10.15.jpg
 excerpt: "MINGLING: Rangatahi workers Peter London and Kiri Wilson (centre) shared the day dedicated to young people with WHS student Tayla Mack (left), 14, and Maddison Hatch, 12."

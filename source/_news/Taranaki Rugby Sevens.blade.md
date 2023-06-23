@@ -1,6 +1,6 @@
 ---
 title: "Taranaki Rugby Sevens"
-date: 
+date: 1970-01-01
 description: "Congratulations to the U19 boys and girls rugby sevens squads for some great performances on the weekend in Taranaki."
 image: http://c1940652.r52.cf0.rackcdn.com/5636ab2fb8d39a21360001da/Rugby-7s-girls-at-Taranaki-OctNov-2015.png
 excerpt: "Congratulations to the U19 boys and girls rugby sevens squads for some great performances on the weekend in Taranaki."

@@ -1,6 +1,6 @@
 ---
 title: "Wanganui teenagers earn regional honours"
-date: 
+date: 1970-01-01
 description: "WHS student Fergus Smith, chosen for the junior men's Manawatu/Wanganui golf team for the Interprovinical tournament, Wanganui Chronicle article on 15/9/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/57db0499b8d39a2071001ed7/Fergus-Smith-Jnr-mens-Man.WU-golf-team-Chron-15-Sept.jpg
 excerpt: "WHS student Fergus Smith, chosen for the junior men's Manawatu/Wanganui golf team for the Interprovinical tournament."

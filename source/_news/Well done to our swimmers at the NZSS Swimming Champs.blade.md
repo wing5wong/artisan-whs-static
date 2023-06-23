@@ -1,6 +1,6 @@
 ---
 title: "Well done to our swimmers at the NZSS Swimming Champs"
-date: 
+date: 1970-01-01
 description: "Well done to our swimmers who went to Hamilton for the NZSS swim champs, 14/9/15..."
 image: 
 excerpt: "Well done to our swimmers who went to Hamilton for the NZSS swim champs, 14/9/15..."

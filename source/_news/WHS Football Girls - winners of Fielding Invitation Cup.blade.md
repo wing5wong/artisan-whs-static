@@ -1,6 +1,6 @@
 ---
 title: "WHS Football Girls - winners of Fielding Invitation Cup"
-date: 
+date: 1970-01-01
 description: "Wanganui High School 1st XI girls won the Fielding Invitational Cup for the second year running."
 image: 
 excerpt: "Wanganui High School 1st XI girls won the Fielding Invitational Cup for the second year running."

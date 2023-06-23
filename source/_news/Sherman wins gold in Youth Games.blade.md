@@ -1,6 +1,6 @@
 ---
 title: "Sherman wins gold in Youth Games"
-date: 
+date: 1970-01-01
 description: "Well Done WHS Student Blake Sherman winning GOLD in the Youth Games Golf today with best Nett scored..."
 image: http://c1940652.r52.cf0.rackcdn.com/5976a3dab8d39a1a9e000b1d/Blake-Sherman-gold.jpg
 excerpt: "Well Done WHS Student Blake Sherman winning GOLD in the Youth Games Golf today with best Nett scored."

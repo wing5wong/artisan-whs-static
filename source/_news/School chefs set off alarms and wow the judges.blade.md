@@ -1,6 +1,6 @@
 ---
 title: "School chefs set off alarms and wow the judges"
-date: 
+date: 1970-01-01
 description: "Charlotte Taylor (left), Linda Hardcastle, Matt Hirini, Olivia Caird & Dean Wong. Absent,Sarah Hatchet. Four WHS cooking student lost count of the number of hours they spent preparing for a regional.."
 image: http://c1940652.r52.cf0.rackcdn.com/5949a530b8d39a5fde0000cb/Cooking-Comp-chron-17-June.jpg
 excerpt: "Charlotte Taylor (left), Linda Hardcastle, Matt Hirini, Olivia Caird & Dean Wong. Absent,Sarah Hatchet. Four WHS cooking student lost count of the number of hours they spent preparing for a regional..."

@@ -1,6 +1,6 @@
 ---
 title: "Central U18 Hockey teams - Gold & Silver"
-date: 
+date: 1970-01-01
 description: "Well done to the Central U18 Girls Hockey Team who won GOLD today at the nationals and the boys getting Silver!.."
 image: http://c1940652.r52.cf0.rackcdn.com/597ac15db8d39a1a9e000cc8/U18-girls-gold-boys-silver-july-2017-MUL.jpg
 excerpt: "Well done to the Central U18 Girls Hockey Team who won GOLD today at the nationals and the boys getting Silver."

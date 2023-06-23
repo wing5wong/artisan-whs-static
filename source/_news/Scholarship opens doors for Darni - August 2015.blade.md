@@ -1,6 +1,6 @@
 ---
 title: "Scholarship opens doors for Darni - August 2015"
-date: 
+date: 1970-01-01
 description: "PASSION: Former WHS student Architect Darni Struijck completed her thesis with help from Kelly and Associates, Wanganui Chronicle article on 3/8/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/55bfec98ff2a7c7363001104/Darni-Struijck-Architect-3.8.gif
 excerpt: "PASSION: Former WHS student Architect Darni Struijck completed her thesis with help from Kelly and Associates."

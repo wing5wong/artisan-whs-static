@@ -1,6 +1,6 @@
 ---
 title: "Mistresses busy with next outfits"
-date: 
+date: 1970-01-01
 description: "Linda Hardcastle & Marion Campbell, had time to talk to me about their work as costume designers & creators while at Repertory Theatre measuring cast members for their Red Riding Hood costumes..."
 image: http://c1940652.r52.cf0.rackcdn.com/583618f7b8d39a165e000165/Linda-Hardcastle-Midweek-16-Nov-2016.jpg
 excerpt: "Busy ladies, Linda Hardcastle and Marion Campbell, had time to talk to me about their work as costume designers and creators while at Repertory Theatre measuring cast members for their Red Riding Hood costumes."

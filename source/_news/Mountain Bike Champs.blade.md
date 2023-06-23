@@ -1,6 +1,6 @@
 ---
 title: "Mountain Bike Champs"
-date: 
+date: 1970-01-01
 description: "The Mountain Bike Champs were held at Pauri Lake on Friday 23 June. Here are the WHS results of the day..."
 image: http://c1940652.r52.cf0.rackcdn.com/5954a84eb8d39a317d00002c/group-photo.jpg
 excerpt: "The Mountain Bike Champs were held at Pauri Lake on Friday 23 June. Here are the WHS results of the day."

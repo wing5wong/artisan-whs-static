@@ -1,6 +1,6 @@
 ---
 title: "Top pupils reflect on college - November 2015"
-date: 
+date: 1970-01-01
 description: "Top pupils reflect on their years at WHS, Wanganui Chronicle article on 25/11/15..."
 image: /uploads/5654ca5eb8d39a2136002282/Head-Prefects.JPG
 excerpt: "Top pupils reflect on their years at WHS, Wanganui Chronicle article on 25/11/15..."

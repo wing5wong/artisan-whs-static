@@ -1,6 +1,6 @@
 ---
 title: "Softball Tournament"
-date: 
+date: 1970-01-01
 description: "WHS Boys and Girls Softball teams compete at Fraser Park, Hutt Valley for the Division 2 North Island Secondary School Champs, Tuesday 28 March - Friday 31 March 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/58e1cbfdb8d39a417f00069b/17499378_769650883184020_2170688348355071166_n.jpg
 excerpt: "WHS Boys and Girls Softball teams compete at Fraser Park, Hutt Valley for the Division 2 North Island Secondary School Champs, Tuesday 28 March - Friday 31 March 2017."

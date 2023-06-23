@@ -1,6 +1,6 @@
 ---
 title: "Hockey: Under 15 boys are national champions"
-date: 
+date: 1970-01-01
 description: "The Wanganui Under 15 boys hockey team with their National Championship medals in Invercargill..."
 image: http://c1940652.r52.cf0.rackcdn.com/59dacf39b8d39a787b00034a/u15-Boys-won-Nat-Champs-in-Inv.jpg
 excerpt: "The Wanganui Under 15 boys hockey team with their National Championship medals in Invercargill on Saturday 7 October 2017."

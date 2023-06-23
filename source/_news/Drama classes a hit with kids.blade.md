@@ -1,6 +1,6 @@
 ---
 title: "Drama classes a hit with kids"
-date: 
+date: 1970-01-01
 description: "Whanganui High School drama student Ali Gammeter, 15, joined the workshop as a keen drama hobbiest..."
 image: http://c1940652.r52.cf0.rackcdn.com/59768da3b8d39a1a9e000add/15260.alijpg.jpg
 excerpt: "Whanganui High School drama student Ali Gammeter, 15, joined the workshop as a keen drama hobbiest. For the first time ever Centrepoint Theatre (CT) Summer School is taking the stage in Whanganui."

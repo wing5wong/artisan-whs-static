@@ -1,6 +1,6 @@
 ---
 title: "Students test circuit's limits - June 2016"
-date: 
+date: 1970-01-01
 description: "DOWNHILL RACER: Cameron Russell (WHS) gets some air on a fast downhill section of the exciting new mountain bike course at Araheke in Whanganui..."
 image: http://c1940652.r52.cf0.rackcdn.com/578c3320b8d39a2071000899/Cameron-Russell-inter-school-champs-at-Araheke-in-WU-new-course.jpg
 excerpt: "DOWNHILL RACER: Cameron Russell (WHS) gets some air on a fast downhill section of the exciting new mountain bike course at Araheke in Whanganui..."

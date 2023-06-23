@@ -1,6 +1,6 @@
 ---
 title: "High School pair lift Karapiro gold - March 2016"
-date: 
+date: 1970-01-01
 description: "PROUD PAIR: Matthew Wright and Nathan Luff with their gold medals from the North Island Secondary School Championships at Lake Karapiro yesterday, Wanganui Chronicle 21/3/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/56ef3de0b8d39a3ca30025b2/Matthew-Wright--Nathan-Luff-won-gold-U18-LW-double.jpg
 excerpt: "PROUD PAIR: Matthew Wright and Nathan Luff with their gold medals from the North Island Secondary School Championships at Lake Karapiro yesterday, Wanganui Chronicle 21/3/16..."

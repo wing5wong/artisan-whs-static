@@ -1,6 +1,6 @@
 ---
 title: "Students seek to add to impressive finals record"
-date: 
+date: 1970-01-01
 description: "The long-term dominance of two teams continues after the finalists for the Wanganui Premier One Netball Championship emerged on Monday night, Wanganui Chronicle article on 5/8/15..."
 image: 
 excerpt: "The long-term dominance of two teams continues after the finalists for the Wanganui Premier One Netball Championship emerged on Monday night."

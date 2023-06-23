@@ -1,6 +1,6 @@
 ---
 title: "First home game for 1st XV since the flood - June 2015"
-date: 
+date: 1970-01-01
 description: "Wanganui High School 1st XV winners over Eketahuna-Bush on Saturday in the first home game of the Manawatu Colts division competition."
 image: 
 excerpt: ""

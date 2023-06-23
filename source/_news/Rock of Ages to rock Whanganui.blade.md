@@ -1,6 +1,6 @@
 ---
 title: "â€˜Rock of Agesâ€™ to rock Whanganui"
-date: 
+date: 1970-01-01
 description: "â€˜Rock of Agesâ€™ is a musical built around classic rock songs from the 1980s.  WHS will be performing this forthcoming production..."
 featured-image: 
 excerpt: "â€˜Rock of Agesâ€™ is a musical built around classic rock songs from the 1980s.  Whanganui High School will be performing this forthcoming production on 10 to 13 May."

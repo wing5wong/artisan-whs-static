@@ -1,6 +1,6 @@
 ---
 title: "Gymnastics club tumbles out of 2017"
-date: 
+date: 1970-01-01
 description: "Tara Knight completes her landing, watched by coach Nadine Pascoe (former WHS student), at the Wanganui Boys and Girls Gym Club end of year programme event at Springvale Stadium..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a849e83b8d39a42a400061c/boys--girls-gym-nadine-pascoe-ex.jpg
 excerpt: "Tara Knight completes her landing, watched by coach Nadine Pascoe (former WHS student), at the Wanganui Boys and Girls Gym Club end of year programme event at Springvale Stadium."

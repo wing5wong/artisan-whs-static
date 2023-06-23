@@ -1,6 +1,6 @@
 ---
 title: "Apprentice gears up for national challenge"
-date: 
+date: 1970-01-01
 description: "Electrical apprentice and former Whanganui High School student Nathan Brown will compete against the country's top electrical apprentices..."
 image: http://c1940652.r52.cf0.rackcdn.com/5987dc8db8d39a2134000107/Nathan-Brown-top-electrical-apprentice.jpg
 excerpt: "Electrical apprentice and former Whanganui High School student Nathan Brown will compete against the country's top electrical apprentices in the Master Electricians Challenge competition final in August."

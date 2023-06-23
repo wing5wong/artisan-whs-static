@@ -1,6 +1,6 @@
 ---
 title: "International Language Week at WHS"
-date: 
+date: 1970-01-01
 description: "Academic prefects at WHS have organised an International Languages Week to celebrate all the different languages and cultures..."
 image: http://c1940652.r52.cf0.rackcdn.com/5976a508b8d39a1a9e000b1f/Canteen-Menu-for-Language-week-12-16-June.jpg
 excerpt: "During week 7 of Term 2 (June 12-16) the Academic prefects have organised an International Languages Week to celebrate all the different languages and cultures that make up our extremely diverse community here at Whanganui High School!"

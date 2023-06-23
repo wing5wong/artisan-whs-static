@@ -1,6 +1,6 @@
 ---
 title: "Liam Wooding performing at â€˜Musicians for Sarjeantâ€™ concert"
-date: 
+date: 1970-01-01
 description: "Former WHS student, Liam Wooding performing at â€˜Musicians for Sarjeantâ€™ concert this Sunday..."
 featured-image: 
 excerpt: "Former WHS student, Liam Wooding performing at â€˜Musicians for Sarjeantâ€™ concert this Sunday."

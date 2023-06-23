@@ -1,6 +1,6 @@
 ---
 title: "Students' Moa Art Collection Adorn the Museum Walls"
-date: 
+date: 1970-01-01
 description: "These oil paintings and woodcuts were created by Graham Hall’s Art students at Wanganui High School, in response to the moa collections at the Museum."
 image: http://c1940652.r52.cf0.rackcdn.com/55dbc06cff2a7c07770002ec/Museum-Moa.Liya-Pearson.14.8.15.jpg
 excerpt: "These oil paintings and woodcuts were created by Graham Hall’s Art students at Wanganui High School, in response to the moa collections at the Museum."

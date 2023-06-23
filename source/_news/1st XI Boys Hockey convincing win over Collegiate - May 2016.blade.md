@@ -1,6 +1,6 @@
 ---
 title: "1st XI Boys Hockey convincing win over Collegiate - May 2016"
-date: 
+date: 1970-01-01
 description: "Well done to our 1st XI Boys Hockey team who had a convincing 5-0 win over Collegiate last night, Thursday 26 May, in their competition game..  photos to follow..."
 image: http://c1940652.r52.cf0.rackcdn.com/574b69ecb8d39a469d0016e9/9.jpg
 excerpt: "Well done to our 1st XI Boys Hockey team who had a convincing 5-0 win over Collegiate last night, Thursday 26 May, in their competition game."

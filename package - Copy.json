@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "mix",
+        "watch": "mix watch",
+        "staging": "NODE_ENV=staging mix",
+        "prod": "mix --production"
+    },
+    "devDependencies": {
+        "highlight.js": "^11.3.1",
+        "laravel-mix": "^6.0.10",
+        "laravel-mix-jigsaw": "^1.5.0",
+        "notyf": "^3.10.0",
+        "sass": "^1.45.0",
+        "sass-loader": "^12.4.0",
+        "sharer.js": "^0.4.2"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.13.1",
+        "bootstrap": "^4.5.0",
+        "jquery": "^3.5.1",
+        "netlify-identity-widget": "^1.6.0",
+        "npm": "^6.14.5",
+        "popper.js": "^1.16.1",
+        "swiper": "^4.5.1"
+    }
+}

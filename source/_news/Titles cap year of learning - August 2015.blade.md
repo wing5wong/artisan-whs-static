@@ -1,6 +1,6 @@
 ---
 title: "Titles cap year of learning - August 2015"
-date: 
+date: 1970-01-01
 description: "TEAMMATES: Former WHS student, Wanganui's Chris Sharrock (left) and Indonesian student Ernest Sulivan collect the Taranaki Badminton Open men's doubles trophy at the weekend, Chronicle article 13/8/15"
 image: http://c1940652.r52.cf0.rackcdn.com/55cbfef7b8d39a2331000002/Badminton.-Chris-Sharrock-13.8.gif
 excerpt: "TEAMMATES: Former WHS student, Wanganui's Chris Sharrock (left) and Indonesian student Ernest Sulivan collect the Taranaki Badminton Open men's doubles trophy at the weekend."

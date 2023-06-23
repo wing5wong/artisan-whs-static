@@ -1,6 +1,6 @@
 ---
 title: "Jesse had winning entry to ‘I Love Science’ competition"
-date: 
+date: 1970-01-01
 description: "Whanganui High School student Jesse Satherley had a winning entry to the UC Science 'I Love Science' competition..."
 image: http://c1940652.r52.cf0.rackcdn.com/596ef2b4b8d39a25a100034c/Jess-Satherley-UC-Science-emblem.jpg
 excerpt: "Whanganui High School student Jesse Satherley had a winning entry to the UC Science 'I Love Science' competition."

@@ -1,6 +1,6 @@
 ---
 title: "WHS Courts Re-development - May 2015"
-date: 
+date: 1970-01-01
 description: "This week is an exciting week for our school with the start of the redevelopment of our school outdoor courts, 18/5/15.
 Click on above for more information..."
 image: http://c1940652.r52.cf0.rackcdn.com/55596ce1ff2a7c746d000355/Courts-pic.18.5.15-1.jpg

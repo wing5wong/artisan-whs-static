@@ -1,6 +1,6 @@
 ---
 title: "Wanganui colts retain their title"
-date: 
+date: 1970-01-01
 description: "Champions again: The Wanganui Under 20's following winning the Hurricanes Regional title in Palmerston North on Saturday, Wanganui Chronicle article on 28/8/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/57c355eeb8d39a2071001845/Former-players-WU-colts-winners-Chron-28-Aug.jpg
 excerpt: "Champions again: The Wanganui Under 20's following winning the Hurricanes Regional title in Palmerston North on Saturday."

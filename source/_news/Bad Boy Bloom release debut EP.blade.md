@@ -1,6 +1,6 @@
 ---
 title: "Bad Boy Bloom release debut EP"
-date: 
+date: 1970-01-01
 description: "Bad Boy Bloom members, from left, John Scudder, Rick Baum, Tracy Wilson, Aydie Holland, Michael Petersen (WHS student) and Te Paerata Tichbon (former WHS student). Absent is Clyde Dixon, Oscar Laven.."
 image: http://c1940652.r52.cf0.rackcdn.com/59796315b8d39a1a9e000c2c/Michael-Petersen-Bad-Boy-Bloom-band-chron.jpg
 excerpt: "Bad Boy Bloom members, from left, John Scudder, Rick Baum, Tracy Wilson, Aydie Holland, Michael Petersen (WHS student) and Te Paerata Tichbon (former WHS student). Absent is Clyde Dixon, Oscar Laven and Maynard Mason."

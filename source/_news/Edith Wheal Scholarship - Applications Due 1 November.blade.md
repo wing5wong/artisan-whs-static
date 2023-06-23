@@ -1,6 +1,6 @@
 ---
 title: "Edith Wheal Scholarship - Applications Due 1 November"
-date: 
+date: 1970-01-01
 description: "Edith Wheal Scholarship Applications are due on the 1 November 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/59b5b719b8d39a35a5000b0e/Edith-Wheel.jpg
 excerpt: "Edith Wheal Scholarship - Applications Due 1 November"

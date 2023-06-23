@@ -1,6 +1,6 @@
 ---
 title: "Organist to play at Lyric Singers' concert"
-date: 
+date: 1970-01-01
 description: "Leonard Cave with Lyric Singers' conductor Joanna Love (WHS teacher) and singing dog Fletcher..."
 image: http://c1940652.r52.cf0.rackcdn.com/594893e9b8d39a5fde00008a/Joanna-Love-conductor-midweek-14-June.jpg
 excerpt: "Leonard Cave with Lyric Singers' conductor Joanna Love (WHS teacher) and singing dog Fletcher."

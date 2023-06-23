@@ -1,6 +1,6 @@
 ---
 title: "Baker wins MVP in the National Hockey tournament"
-date: 
+date: 1970-01-01
 description: "Congratulations to WHS student Rebecca Baker who won MVP of the whole tournament!.."
 image: http://c1940652.r52.cf0.rackcdn.com/59e44533b8d39a463b0002ca/Rebecca-Baker-only-rep-side-sept-2017.jpg
 excerpt: "Congratulations to WHS student Rebecca Baker who won MVP of the whole tournament!"

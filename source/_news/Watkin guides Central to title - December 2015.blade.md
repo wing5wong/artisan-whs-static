@@ -1,6 +1,6 @@
 ---
 title: "Watkin guides Central to title - December 2015"
-date: 
+date: 1970-01-01
 description: "SKIPPER: WHS student Jess Watkin enjoys the spoils after captaining her Central Districts team to win the national Under-21 women's cricket title, Wanganui Chronicle article on 23/12/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/5688bdfab8d39a2c7c000e5d/Cricket-Jess-Watkin-U21-winners-2015.jpg
 excerpt: "SKIPPER: WHS student Jess Watkin enjoys the spoils after captaining her Central Districts team to win the national Under-21 women's cricket title, Wanganui Chronicle article on 23/12/15..."

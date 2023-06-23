@@ -1,6 +1,6 @@
 ---
 title: "WHS 2016 Athletics"
-date: 
+date: 1970-01-01
 description: "WHS 2016 Athletics..."
 image: 
 excerpt: "WHS 2016 Athletics..."

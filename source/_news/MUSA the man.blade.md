@@ -1,6 +1,6 @@
 ---
 title: "MUSA the man"
-date: 
+date: 1970-01-01
 description: "Former Whanganui footballer and WHS student James Musa makes news in the United States..."
 image: http://c1940652.r52.cf0.rackcdn.com/59b2163eb8d39a35a5000a00/Musas-head-only-chron-7-sep.jpg
 excerpt: "Former Whanganui footballer and WHS student James Musa makes news in the United States."

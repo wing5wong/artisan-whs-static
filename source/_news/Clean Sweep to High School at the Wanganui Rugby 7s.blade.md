@@ -1,6 +1,6 @@
 ---
 title: "Clean Sweep to High School at the Wanganui Rugby 7s"
-date: 
+date: 1970-01-01
 description: "Well done to our WHS Boys & Girls 7's Rugby teams today, Tuesday 20 October at the Wanganui 7s."
 image: http://c1940652.r52.cf0.rackcdn.com/56299e23b8d39a7a41000a33/Boys-7s-win-WU-tournament.-oct-2015.jpg
 excerpt: "Well done to our WHS Boys & Girls 7's Rugby teams today, Tuesday 20 October at the Wanganui 7s."

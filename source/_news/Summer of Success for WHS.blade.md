@@ -1,6 +1,6 @@
 ---
 title: "Summer of Success for WHS"
-date: 
+date: 1970-01-01
 description: "Summer of Success for WHS - Wanganui Secondary School News in the River City Press 20/4/17..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e5a3d0b8d39a463b0003de/photo-for-RCP-20-April-2017.jpg
 excerpt: "Summer of Success for WHS - Wanganui Secondary School News in the River City Press 20/4/17."

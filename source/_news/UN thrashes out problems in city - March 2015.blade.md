@@ -1,6 +1,6 @@
 ---
 title: "'UN' thrashes out problems in city - March 2015"
-date: 
+date: 1970-01-01
 description: "Congratulations to Wanganui High School students Alister Hughes and Tim Rowe who were top speakers at MUNS and Ben Clow who received Merit.  The event was held at WGC on Friday 13 March 2015."
 image: 
 excerpt: "Congratulations to Wanganui High School students Alister Hughes and Tim Rowe who were top speakers at MUNS and Ben Clow who received Merit.  The event was held at WGC on Friday 13 March 2015."

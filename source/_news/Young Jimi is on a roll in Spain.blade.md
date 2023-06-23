@@ -1,6 +1,6 @@
 ---
 title: "Young Jimi is on a roll in Spain"
-date: 
+date: 1970-01-01
 description: "Whanganui teenager Jimi Blinkhorne (centre) will add to skills learned during age group tests in Australia at a month-long roller hockey training camp in Spain..."
 image: http://c1940652.r52.cf0.rackcdn.com/5902a3a7b8d39a6a960002fa/Jimi-Blinkhorne-roller-hockey.jpg
 excerpt: "Whanganui teenager Jimi Blinkhorne (centre) will add to skills learned during age group tests in Australia at a month-long roller hockey training camp in Spain."

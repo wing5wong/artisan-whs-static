@@ -1,6 +1,6 @@
 ---
 title: "Maadi Cup Rowing"
-date: 
+date: 1970-01-01
 description: "Whanganui High Schools week at Maadi Cup 27 March - 1 April 2017"
 image: http://c1940652.r52.cf0.rackcdn.com/58e16d7fb8d39a417f000468/17621831_771248469690928_6813815523034380106_o.jpg
 excerpt: "Whanganui High Schools week at Maadi Cup 27 March - 1 April 2017"

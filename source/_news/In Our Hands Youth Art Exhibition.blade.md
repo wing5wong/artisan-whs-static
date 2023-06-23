@@ -1,6 +1,6 @@
 ---
 title: "\"In Our Hands\" Youth Art Exhibition"
-date: 
+date: 1970-01-01
 description: "We are super proud of our WHS students for participating in the Whanganui District Council Youth Committee \"In Our Hands\" Youth Art Exhibition..."
 image: http://c1940652.r52.cf0.rackcdn.com/59b9dc2db8d39a35a5000cac/Prizewinners-with-Eloise-Young.jpg
 excerpt: "We are super proud of our WHS students for participating in the Whanganui District Council Youth Committee \"In Our Hands\" Youth Art Exhibition."

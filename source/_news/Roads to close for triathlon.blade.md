@@ -1,6 +1,6 @@
 ---
 title: "Roads to close for triathlon"
-date: 
+date: 1970-01-01
 description: "Major roads in central Whanganui will be closed between Wednesday 29 March and Friday 31 March because of a triathlon..."
 image: http://c1940652.r52.cf0.rackcdn.com/58db5597b8d39a417f00021c/General-photo-Chron-Aquathlon-28-March.jpg
 excerpt: "Major roads in central Whanganui will be closed between Wednesday 29 March and Friday 31 March because of a triathlon."

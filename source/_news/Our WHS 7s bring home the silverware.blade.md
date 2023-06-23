@@ -1,6 +1,6 @@
 ---
 title: "Our WHS 7's bring home the silverware"
-date: 
+date: 1970-01-01
 description: "Our WHS boys 7's rugby team have been in Auckland this weekend at the Condor 7's."
 image: http://c1940652.r52.cf0.rackcdn.com/56649813b8d39a2c7c000189/the-cup.jpg
 excerpt: "Our WHS boys 7's rugby team have been in Auckland this weekend at the Condor 7's."

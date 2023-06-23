@@ -1,6 +1,6 @@
 ---
 title: "Girls' side comes out of shell on Condor debut"
-date: 
+date: 1970-01-01
 description: "It was welcome to the big time for the wide-eyed Whanganui High School open girls team who entered their first Condor Sevens tournament in Auckland at the weekend..."
 image: http://c1940652.r52.cf0.rackcdn.com/5976937fb8d39a1a9e000aef/team.jpg
 excerpt: "It was welcome to the big time for the wide-eyed Whanganui High School open girls team who entered their first Condor Sevens tournament in Auckland at the weekend."

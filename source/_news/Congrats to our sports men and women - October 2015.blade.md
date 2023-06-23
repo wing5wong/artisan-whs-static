@@ -1,6 +1,6 @@
 ---
 title: "Congrats to our sports men and women - October 2015"
-date: 
+date: 1970-01-01
 description: "Congrats to our sports men and women who were nominated for the WSS Sports Awards on Wednesday 28 October at the Girls College Hall."
 image: http://c1940652.r52.cf0.rackcdn.com/5632b3e4b8d39a213600001f/WHS-nominated-for-WSS-sport-awards-Oct-2015.jpg
 excerpt: "Congrats to our sports men and women who were nominated for the WSS Sports Awards on Wednesday 28 October at the Girls College Hall."

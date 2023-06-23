@@ -1,6 +1,6 @@
 ---
 title: "Central star eyes NZ jersey - March 2015"
-date: 
+date: 1970-01-01
 description: "R Butters-Chamberlain, only local girl footballer at Central Federation level & has her last representative game of the summer season against Waikato-Bay of Plenty tomorrow, Wanganui Chronicle 28/3/15"
 image: http://c1940652.r52.cf0.rackcdn.com/5518ce7eb8d39a4d0000054c/Rebekah-Butters-Chamberlian,Footballer.jpg
 excerpt: ""

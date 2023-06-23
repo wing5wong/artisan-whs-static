@@ -1,6 +1,6 @@
 ---
 title: "Results from Blue Lakes 2 Canoe Sprint Regatta"
-date: 
+date: 1970-01-01
 description: "Results from Blue Lakes 2 Canoe Sprint Regatta on 4 and 5 December. Our WHS students had a successful regatta..."
 image: http://c1940652.r52.cf0.rackcdn.com/585c4c81b8d39a3eff001173/Team-Shot.jpg
 excerpt: "Results from Blue Lakes 2 Canoe Sprint Regatta on 4 and 5 December 2016. Our WHS students had a successful regatta."

@@ -1,6 +1,6 @@
 ---
 title: "Team buoyed by success at the champs - May 2015"
-date: 
+date: 1970-01-01
 description: "SWIMMING SUCCESS: Subway Wanganui swim team from left, Shannon Schimanski, Laura O'Keeffe, Sarya Lower, Elena Forlong competed at the New Zealand age group championships, Wanganui Chronicle 14/5/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/5553dbe6b8d39a0358000a74/swimmingNZ-age-gp-champs-14.4.15.jpg
 excerpt: ""

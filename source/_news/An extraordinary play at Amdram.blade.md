@@ -1,6 +1,6 @@
 ---
 title: "An extraordinary play at Amdram"
-date: 
+date: 1970-01-01
 description: "Chris McKenzie (left) as Tom the motelier and Paul Keene (WHS teacher) as Elvis the travelling salesman in a scene from Motel at Amdram..."
 image: http://c1940652.r52.cf0.rackcdn.com/59489777b8d39a5fde000090/Paul-Keene--Chris-Mc-Midweek.jpg
 excerpt: "Chris McKenzie (left) as Tom the motelier and Paul Keene (WHS teacher) as Elvis the travelling salesman in a scene from Motel at Amdram."

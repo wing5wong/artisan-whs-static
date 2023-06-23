@@ -1,6 +1,6 @@
 ---
 title: "Results from our swimmers at the NZSS champs"
-date: 
+date: 1970-01-01
 description: "Results from our WHS swimmers at the NZSS champs in Wellington, 9-11 September 2016..."
 image: http://c1940652.r52.cf0.rackcdn.com/57d6234dff2a7c37a3000154/images.png
 excerpt: "Results from our WHS swimmers at the NZSS champs in Wellington, 9-11 September 2016."

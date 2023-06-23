@@ -1,6 +1,6 @@
 ---
 title: "Rugby Coaches wanted"
-date: 
+date: 1970-01-01
 description: "WHS is seeking Rugby Coaches for the 2018 season and beyond..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a29b81fb8d39a41ae000288/Rugby-image-ball-and-post-in-distance.jpg
 excerpt: "WHS is seeking Rugby Coaches for the 2018 season and beyond."

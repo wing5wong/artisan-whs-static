@@ -1,6 +1,6 @@
 ---
 title: "Great results at the National 10k Kayak series"
-date: 
+date: 1970-01-01
 description: "Congratulations to the following students WHS who were at the National 10k Kayak series last weekend.."
 image: http://c1940652.r52.cf0.rackcdn.com/59a8d506b8d39a35a5000516/Kayak-image.jpg
 excerpt: "Congratulations to the following WHS students who were at the National 10k Kayak series last weekend and won their age group races."

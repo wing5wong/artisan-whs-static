@@ -1,6 +1,6 @@
 ---
 title: "Mobile fitness lab tests pupils - November 2015"
-date: 
+date: 1970-01-01
 description: "LAB RATS: Year 10 Wanganui High School student Levi Carroll is put through his paces by sport scientist Professor Steve Stannard while school mates look on in the Massey mobile laboratory yesterday."
 image: http://c1940652.r52.cf0.rackcdn.com/564bcd90b8d39a2136001acb/Levi-Carroll-Massey-mobile-sport-lab-18.11.15-chron.jpg
 excerpt: "LAB RATS: Year 10 Wanganui High School student Levi Carroll is put through his paces by sport scientist Professor Steve Stannard while school mates look on in the Massey mobile laboratory yesterday."

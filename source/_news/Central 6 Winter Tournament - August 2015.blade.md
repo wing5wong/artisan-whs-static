@@ -1,6 +1,6 @@
 ---
 title: "Central 6 Winter Tournament - August 2015"
-date: 
+date: 1970-01-01
 description: "Great day on Thursday 13 August for our Junior sports teams who went to Palmerston Nth for Central 6 Winter Tournament."
 image: http://c1940652.r52.cf0.rackcdn.com/55da956aff2a7c07770001ef/Netball-1.jpg
 excerpt: "Great day on Thursday 13 August for our Junior sports teams who went to Palmerston Nth for Central 6 Tournament."

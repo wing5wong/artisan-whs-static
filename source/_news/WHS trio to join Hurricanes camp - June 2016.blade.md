@@ -1,6 +1,6 @@
 ---
 title: "WHS trio to join Hurricanes camp - June 2016"
-date: 
+date: 1970-01-01
 description: "WHS trio to join Hurricanes camp, Wanganui Chronicle article on 27/6/16..."
 image: 
 excerpt: "WHS trio to join Hurricanes camp."

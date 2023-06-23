@@ -1,6 +1,6 @@
 ---
 title: "Young actor has loads of experience"
-date: 
+date: 1970-01-01
 description: "Despite his youth, former WHS student Hamish Cameron already has an extensive theatrical background..."
 image: http://c1940652.r52.cf0.rackcdn.com/5975799fb8d39a1a9e000a3e/Hamish-Cameron-photo-of-ex-re-acting-midweek-19-July.jpg
 excerpt: "Despite his youth, former WHS student Hamish Cameron already has an extensive theatrical background."

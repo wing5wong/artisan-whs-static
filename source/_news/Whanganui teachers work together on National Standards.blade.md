@@ -1,6 +1,6 @@
 ---
 title: "Whanganui teachers work together on National Standards"
-date: 
+date: 1970-01-01
 description: "Food technology teachers at their moderation meeting hosted by Whanganui High School..."
 image: http://c1940652.r52.cf0.rackcdn.com/59bf31b0b8d39a25890000d4/Moderation-meeting-Tech-teachers-Hardcastle--Tui.jpg
 excerpt: "Food technology teachers at their moderation meeting hosted by Whanganui High School on Tuesday 12 September."

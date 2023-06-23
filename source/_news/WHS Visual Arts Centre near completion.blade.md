@@ -1,6 +1,6 @@
 ---
 title: "WHS Visual Arts Centre near completion"
-date: 
+date: 1970-01-01
 description: "Work on the redesigned, visual arts centre at Whanganui High School is scheduled to be completed on 14 December 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a2dee19b8d39a41ae00045d/Untitled-4.jpg
 excerpt: "Work on the redesigned, visual arts centre at Whanganui High School is scheduled to be completed on 14 December 2017."

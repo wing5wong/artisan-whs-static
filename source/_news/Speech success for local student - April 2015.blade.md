@@ -1,6 +1,6 @@
 ---
 title: "Speech success for local student - April 2015"
-date: 
+date: 1970-01-01
 description: "OUTSTANDING: Waimarama Matena with NZ Police's Central District commander Superintendent Sue Schwalger after winning the regional 2015 Race Unity Speech Award..."
 image: http://c1940652.r52.cf0.rackcdn.com/5b46aa06b8d39a4129000497/marana-police-300.gif
 excerpt: "OUTSTANDING: Waimarama Matena with NZ Police's Central District commander Superintendent Sue Schwalger after winning the regional 2015 Race Unity Speech Award..."

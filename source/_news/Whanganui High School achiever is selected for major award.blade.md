@@ -1,6 +1,6 @@
 ---
 title: "Whanganui High School achiever is selected for major award"
-date: 
+date: 1970-01-01
 description: "Whanganui High School student Alister Hughes has been chosen for a prestigious scholarship..."
 image: http://c1940652.r52.cf0.rackcdn.com/59adeefab8d39a35a5000602/Alister-Hughes-NZSS-debating-team.jpg
 excerpt: "Whanganui High School student Alister Hughes has been chosen for a prestigious scholarship."

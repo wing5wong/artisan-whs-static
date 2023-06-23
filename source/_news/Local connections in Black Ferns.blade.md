@@ -1,6 +1,6 @@
 ---
 title: "Local connections in Black Ferns"
-date: 
+date: 1970-01-01
 description: "Former WHS pupil Sosoli Talawadua (nee Tofa) has retained her spot in the Black Ferns..."
 image: http://c1940652.r52.cf0.rackcdn.com/5918cf2db8d39a0a7c000091/images.jpg
 excerpt: "Former Whanganui High School pupil Sosoli Talawadua (nee Tofa) and former Whanganui Girls' College physical education head Kristina Sue have retained their spots in the Black Ferns."

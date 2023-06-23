@@ -1,6 +1,6 @@
 ---
 title: "Garden tour raises funds - January 2016"
-date: 
+date: 1970-01-01
 description: "GOOD CAUSE: WHS student Lani Hall, 14, helps grow and sell plants for her grandmother Janice Hall's arthritis fundraiser, Wanganui Chronicle article on 26/1/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/56ae9772b8d39a7859000354/Lani-Hall-arthritis-fundraiser-26.1.16.jpg
 excerpt: "GOOD CAUSE: WHS student Lani Hall, 14, helps grow and sell plants for her grandmother Janice Hall's arthritis fundraiser, Wanganui Chronicle article on 26/1/16..."

@@ -1,6 +1,6 @@
 ---
 title: "Gold rush for Aramoho at nationals - February 2015"
-date: 
+date: 1970-01-01
 description: "The men's club coxed four medal winners consisting of, from left, Tom Monaghan, James Clark, Jack Hughes, Hugh Pawson and cox Ella Wilsher, with coach Ian Weenink,Wanganui Chronicle article 23/2/15.."
 image: http://c1940652.r52.cf0.rackcdn.com/54f3e36cff2a7c55b6003088/WHS-rowings-at-Twizel.jpg
 excerpt: ""

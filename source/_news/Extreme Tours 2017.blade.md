@@ -1,6 +1,6 @@
 ---
 title: "Extreme Tours 2017"
-date: 
+date: 1970-01-01
 description: "WHS Outdoor Education Department combined with the International Department to run an “Extreme Tour” to the South Island..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e5a9c2b8d39a463b0003f8/Untitled-1.jpg
 excerpt: "During the Easter Holidays the Whanganui High School Outdoor Education Department combined with the International Department to run an “Extreme Tour” to the South Island."

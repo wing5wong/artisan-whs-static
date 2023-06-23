@@ -1,6 +1,6 @@
 ---
 title: "WSS Sports Awards 2017 - outstanding night for WHS"
-date: 
+date: 1970-01-01
 description: "OUTSTANDING awards evening for WHS tonight at the Whanganui Secondary School Sports Awards!"
 image: http://c1940652.r52.cf0.rackcdn.com/59fa8324b8d39a77310005f6/all-the-awards-winner--space-Keightley-added.jpg
 excerpt: "Outstanding awards evening for WHS tonight at the Whanganui Secondary School Sports Awards!"

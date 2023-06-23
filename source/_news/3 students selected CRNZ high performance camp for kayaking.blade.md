@@ -1,6 +1,6 @@
 ---
 title: "3 students selected CRNZ high performance camp for kayaking"
-date: 
+date: 1970-01-01
 description: "Lucas Thompson, Sophie Brooke and Jack Clifton are up in Karapiro this weekend for their 2nd CRNZ high performance athlete pathway camp for kayaking."
 image: http://c1940652.r52.cf0.rackcdn.com/595976bfb8d39a317d0002a9/Canoe-racing-NZ-logo.jpg
 excerpt: "Lucas Thompson, Sophie Brooke and Jack Clifton are up in Karapiro this weekend for their 2nd CRNZ high performance athlete pathway camp for kayaking."

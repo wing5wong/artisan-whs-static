@@ -1,6 +1,6 @@
 ---
 title: "Y8 Scholarship Winners 2018"
-date: 
+date: 1970-01-01
 description: "Year 8 Scholarship winners 2018 - Incoming Whanganui High School Students are..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a3087efb8d39a41ae000894/2018-scholarship-winners-from-intermediate-etc.jpg
 excerpt: "Year 8 Scholarship winners 2018 - Incoming Whanganui High School Students are."

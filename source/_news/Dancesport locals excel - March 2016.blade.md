@@ -1,6 +1,6 @@
 ---
 title: "Dancesport locals excel - March 2016"
-date: 
+date: 1970-01-01
 description: "Wanganui was well represented at the first Dancesport competition of the year in Lower Hutt.  Six of the dancers were WHS students; Wanganui Rivercity Press article on 31/3/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/572aacdab8d39a469d000325/dancesport-Mark-Glastonbury.jpg
 excerpt: "Wanganui was well represented at the first Dancesport competition of the year in Lower Hutt.  Six of the dancers were WHS students; Wanganui Rivercity Press article on 31/3/16..."

@@ -1,6 +1,6 @@
 ---
 title: "Teen selected to help foster cultural relations - May 2015"
-date: 
+date: 1970-01-01
 description: "ADVENTURE AHEAD: Mika Gordon leaves Wanganui for Thailand next week, where she will attend school to learn and teach, from Wanganui Chronicle article on 25/5/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/5563a275b8d39a50680008f5/Mika-Gordon-Exchange-student-25.5.15.jpg
 excerpt: ""

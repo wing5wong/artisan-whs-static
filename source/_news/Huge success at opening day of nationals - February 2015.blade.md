@@ -1,6 +1,6 @@
 ---
 title: "Huge success at opening day of nationals - February 2015"
-date: 
+date: 1970-01-01
 description: "AWESOME QUARTET: Aiden Nossiter, Erica Tanner, Max Brown and Toby Brooke at Lake Karapiro, from the Wanganui Chronicle article 14 Feb 2015..."
 image: http://c1940652.r52.cf0.rackcdn.com/54decdddff2a7c55b600256e/Wanganui-Kayak-Club.jpg
 excerpt: ""

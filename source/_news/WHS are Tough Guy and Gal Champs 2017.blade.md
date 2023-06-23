@@ -1,6 +1,6 @@
 ---
 title: "WHS are Tough Guy and Gal Champs 2017"
-date: 
+date: 1970-01-01
 description: "A fantastic day for the 2017 Secondary Schools Tough Guy & Gal series here at Camp Wainui. Congratulations to WHS who cleaned up..."
 image: http://c1940652.r52.cf0.rackcdn.com/592b7212b8d39a0a7c000c1a/1-2--3.jpg
 excerpt: "A fantastic day for the opening round of Event Promotions 2017 Secondary Schools Tough Guy & Gal series here at Camp Wainui. Congratulations to Whanganui High School who cleaned up both the male, and female, Toughest School competition."

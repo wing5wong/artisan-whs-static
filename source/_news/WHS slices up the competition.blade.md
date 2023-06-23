@@ -1,6 +1,6 @@
 ---
 title: "WHS slices up the competition"
-date: 
+date: 1970-01-01
 description: "WHS slices up the competition - Olivia Caird and Charlotte Taylor won Bronze in the Final of the National Secondary Schools Culinary Challenge (NSSCC), courtesy of River City Press article on 8/9/16.."
 image: http://c1940652.r52.cf0.rackcdn.com/57d71ad7ff2a7c37a30001eb/Olivia-Caird--Charlotte-Taylor-Bronze-medal-NSS-Culinary-challenge-Aug-Sept-2016.jpg
 excerpt: "WHS slices up the competition - Olivia Caird and Charlotte Taylor won Bronze in the Final of the National Secondary Schools Culinary Challenge (NSSCC)."

@@ -1,6 +1,6 @@
 ---
 title: "Gold Medal at Maadi Cup - April 2016"
-date: 
+date: 1970-01-01
 description: "NZ # 1.... Gold Medal for Matthew Wright and Nathan Luff  in the BU18 LW double. Bronze Medal Winner U18 single - Nathan Luff at Maadi Cup, Rotorua on Saturday 9 April 2016."
 image: http://c1940652.r52.cf0.rackcdn.com/570c0c81b8d39a7681001114/Gold-Medal-Matthew-Wright--Nathan-Luff-BU18-LW-double-Maadi-Cup.jpg
 excerpt: "NZ # 1.... Gold Medal for Matthew Wright and Nathan Luff  in the BU18 LW double. Bronze Medal Winner U18 single - Nathan Luff at Maadi Cup, Rotorua on Saturday 9 April 2016."

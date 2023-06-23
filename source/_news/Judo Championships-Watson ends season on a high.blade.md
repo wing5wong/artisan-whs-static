@@ -1,6 +1,6 @@
 ---
 title: "Judo Championships: Watson ends season on a high"
-date: 
+date: 1970-01-01
 description: "Whanganui teenager Keightley Watson gained his black belt the hard way at the National Judo Championships in Wellington at the weekend..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e56945b8d39a463b000382/Keightley-5-oct-chron.jpg
 excerpt: "Whanganui teenager Keightley Watson gained his black belt the hard way at the National Judo Championships in Wellington at the weekend."

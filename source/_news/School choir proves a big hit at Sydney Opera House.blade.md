@@ -1,6 +1,6 @@
 ---
 title: "School choir proves a big hit at Sydney Opera House"
-date: 
+date: 1970-01-01
 description: "STARS: The Wanganui Hits Sydney choir received a standing ovation at the Sydney Opera House, from Wanganui Chronicle article on 24/7/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/55b1528cff2a7c5a9f000057/Choir-at-Sydney-Opera-Hse.-24.7.gif
 excerpt: "STARS: The Wanganui Hits Sydney choir received a standing ovation at the Sydney Opera House, from Wanganui Chronicle article on 24/7/15..."

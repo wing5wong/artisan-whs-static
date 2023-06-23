@@ -1,6 +1,6 @@
 ---
 title: "Whanganui rider Dibben unbeaten"
-date: 
+date: 1970-01-01
 description: "Whanganui rider & former WHS student Richard Dibben unbeaten coming into Cemetery Circuit final round..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a8396bab8d39a42a40005e5/Richard-Dibben.jpg
 excerpt: "Unbeaten in four super moto class races of the 2017 Suzuki Series, Richie Dibben (former WHS student) goes into the final round on his home track a red hot favourite to reclaim the title."

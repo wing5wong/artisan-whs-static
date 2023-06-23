@@ -3,7 +3,7 @@ title: DTM3
 name: Digital Technologies Media
 code: DTM3
 subject_area: Digital Technologies Media
-date: 2023-06-22T02:40:17.161Z
+date: 2021-06-27T23:03:40.777Z
 entry_requirements: Open entry for Year 13 students, subject to HOF approval.
 year: "13"
 type: Subject Choice
@@ -12,8 +12,8 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
   - "91608"
-  - "91609"
   - "91901"
+  - "91902"
   - "91903"
   - "91909"
 ue_approved: true

@@ -1,6 +1,6 @@
 ---
 title: "WHS hockey teams win thrillers in stereo"
-date: 
+date: 1970-01-01
 description: "Both the Whanganui High School girls and boys 1st XIs won Manawatu Division 1 titles with successful penalty corners during golden goal overtime in their finals this week..."
 image: http://c1940652.r52.cf0.rackcdn.com/59adbcdcb8d39a35a50005d8/Girls--Boys-1st-XI-together-Div-1-win.jpg
 excerpt: "Both the Whanganui High School boys and girls 1st XIs won Manawatu Division 1 titles with successful penalty corners during golden goal overtime in their finals this week."

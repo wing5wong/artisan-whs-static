@@ -1,6 +1,6 @@
 ---
 title: "Awesome results at Maths & Statistics Competition"
-date: 
+date: 1970-01-01
 description: "WHS were a close 2nd in the annual Massey Manawatu Maths and Statistics (M3S) Competition held in Palmerston North on Thursday 30 June..."
 image: /uploads/577dd1dbff2a7c38fb0006ad/Vincent-Collins,-Alistair-Hughes--Jackie-Hazelhurt-standing.JPG
 excerpt: "WHS were a close 2nd in the annual Massey Manawatu Maths and Statistics (M3S) Competition held in Palmerston North on Thursday 30 June..."

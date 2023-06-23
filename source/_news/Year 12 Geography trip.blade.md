@@ -1,6 +1,6 @@
 ---
 title: "Year 12 Geography trip"
-date: 
+date: 1970-01-01
 description: "Recent photos from our Level 2 Geography trip to the South Island in April 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e5a8e6b8d39a463b0003f2/in-boat-no-writing.jpg
 excerpt: "Recent photos from our Level 2 Geography trip to the South Island in April 2017."

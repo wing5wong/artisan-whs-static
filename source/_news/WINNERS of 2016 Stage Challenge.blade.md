@@ -1,6 +1,6 @@
 ---
 title: "WINNERS of 2016 Stage Challenge"
-date: 
+date: 1970-01-01
 description: "Congratulations Whanganui High School who took out 1st place at Stage Challenge in Palmerston North on Friday 27 June. Congratulations also to everyone who participated to make it an amazing night!"
 image: http://c1940652.r52.cf0.rackcdn.com/574e0141b8d39a469d00188d/Stage-Challenge-winners-2016.jpg
 excerpt: "Congratulations Whanganui High School who took out 1st place at Stage Challenge in Palmerston North on Friday 27 June. Congratulations also to everyone who participated to make it an amazing night!"

@@ -1,6 +1,6 @@
 ---
 title: "NZSS Cross Country Champs in Rotorua - June 2016"
-date: 
+date: 1970-01-01
 description: "Photos from our team that represented the school well at the NZSS Cross Country Champs in Rotorua last weekend, 18-19 June..."
 image: http://c1940652.r52.cf0.rackcdn.com/5b45e79db8d39a412900046b/cross-country.gif
 excerpt: "Photos from our team that represented the school well at the NZSS Cross Country Champs in Rotorua last weekend, 18-19 June."

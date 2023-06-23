@@ -1,6 +1,6 @@
 ---
 title: "High challenge for semis spot - May 2015"
-date: 
+date: 1970-01-01
 description: "After two narrow losses in the opening games of the Manawatu colts club competition, the Wanganui High School 1st XV have climbed into touching distance of the top four, Wanganui Chronicle 21/5/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/555d386fff2a7c746d000575/WHS-First-XV.jpg
 excerpt: ""

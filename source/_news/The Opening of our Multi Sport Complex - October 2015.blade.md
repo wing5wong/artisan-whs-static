@@ -1,6 +1,6 @@
 ---
 title: "The Opening of our Multi Sport Complex - October 2015"
-date: 
+date: 1970-01-01
 description: "The Opening of our Multi Sport Complex took place today, Tuesday 20 October, at first break."
 image: 
 excerpt: "The Opening of our Multi Sport Complex took place today, Tuesday 20 October, at first break."

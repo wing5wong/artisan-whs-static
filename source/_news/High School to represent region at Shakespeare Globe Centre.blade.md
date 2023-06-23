@@ -1,6 +1,6 @@
 ---
 title: "High School to represent region at Shakespeare Globe Centre"
-date: 
+date: 1970-01-01
 description: "Vincent Collins and Caitlyn Friedel from Wanganui High School won the recent Shakespeare competition in Whanganui, River City Press article on 7/4/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/570ef833b8d39a768100138a/Shakespeare-Comp-April-2016-C-Friedl--V-Collins.jpg
 excerpt: "Vincent Collins and Caitlyn Friedel from Wanganui High School won the recent Shakespeare competition in Whanganui, River City Press article on 7/4/16..."

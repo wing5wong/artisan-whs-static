@@ -1,6 +1,6 @@
 ---
 title: "Awesome results for WHS in the NZSS Multisport Champs"
-date: 
+date: 1970-01-01
 description: "Awesome results for WHS in the NZSS Multisport Championships which were held alongside the 3D multisport event on Sunday 5 June in Rotorua..."
 image: http://c1940652.r52.cf0.rackcdn.com/577c7735ff2a7c38fb000630/WHS-students-that-competed.jpg
 excerpt: "Awesome results for WHS in the NZSS Multisport Championships which were held alongside the 3D multisport event on Sunday 5 June in Rotorua."

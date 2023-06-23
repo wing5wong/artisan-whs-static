@@ -1,6 +1,6 @@
 ---
 title: "Student a foreign language ace - November 2014"
-date: 
+date: 1970-01-01
 description: "Click heading to read about how Taliah Su'a is achieving on a world scale with the help of an online language tool, from the Wanganui Chronicle 17th Nov 2014...."
 image: http://c1940652.r52.cf0.rackcdn.com/548e2d03ff2a7c27ba000c49/Taliah.jpg
 excerpt: ""

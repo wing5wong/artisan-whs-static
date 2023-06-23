@@ -1,6 +1,6 @@
 ---
 title: "WHS Cross Country results"
-date: 
+date: 1970-01-01
 description: "WHS Cross Country results which were held at Springvale Park on Tuesday 16 May..."
 image: http://c1940652.r52.cf0.rackcdn.com/591e7854b8d39a0a7c000380/start-of-boys.jpg
 excerpt: "WHS Cross Country results which were held at Springvale Park on Tuesday 16 May."

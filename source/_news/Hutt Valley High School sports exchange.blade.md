@@ -1,6 +1,6 @@
 ---
 title: "Hutt Valley High School sports exchange"
-date: 
+date: 1970-01-01
 description: "Great day at Hutt Valley High School today for our sports exchange, Wednesday 14 June."
 image: http://c1940652.r52.cf0.rackcdn.com/5948a0f0b8d39a5fde000098/boys8.jpg
 excerpt: "Great day at Hutt Valley High School today for our sports exchange, Wednesday 14 June."

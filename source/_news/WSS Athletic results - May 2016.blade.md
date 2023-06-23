@@ -1,6 +1,6 @@
 ---
 title: "WSS Athletic results - May 2016"
-date: 
+date: 1970-01-01
 description: "Well done to our students who competed in the WSS Cross Country Champs yesterday in all weathers."
 image: http://c1940652.r52.cf0.rackcdn.com/574b6423b8d39a469d0016d3/13095961_614657275350049_416933083157646293_n.jpg
 excerpt: "Well done to our students who competed in the WSS Cross Country Champs yesterday in all weathers."

@@ -1,6 +1,6 @@
 ---
 title: "Wanganui rugby mourns 'Jake the Snake'"
-date: 
+date: 1970-01-01
 description: "The Wanganui rugby community is in mourning following the death of one of their bright young prospects Jake Alabaster..."
 image: http://c1940652.r52.cf0.rackcdn.com/59d2e599b8d39a191700066a/Jake-Alabaster-after-border-win.jpg
 excerpt: "The Wanganui rugby community is in mourning following the death of one of their bright young prospects Jake Alabaster."

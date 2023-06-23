@@ -3,11 +3,11 @@ title: DTA2
 name: Digital Technologies Applied
 code: DTA2
 subject_area: Digital Technologies Applied
-date: 2023-06-22T02:38:52.434Z
+date: 2021-06-28T04:35:49.488Z
 entry_requirements: Open entry for Year 12 students and vocational students,
   subject to HOF approval.
 year: "12"
-type: Subject Choice
+type: Compulsory
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard

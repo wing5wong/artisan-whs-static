@@ -1,6 +1,6 @@
 ---
 title: "Discovering the Past: WHS History Department"
-date: 
+date: 1970-01-01
 description: "WHS Level 1 History students have been looking at how we honour the past by looking at the many monuments of Whanganui..."
 image: http://c1940652.r52.cf0.rackcdn.com/58dc4972b8d39a417f0002c0/laying-wreath-at-cenotaph-L23-students.jpg
 excerpt: "Over the past 6 weeks the History Department at WHS has been extremely busy. The Level 1 students have been looking at how we honour the past by looking at the many monuments of Whanganui."

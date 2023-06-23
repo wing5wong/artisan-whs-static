@@ -1,6 +1,6 @@
 ---
 title: "Semi Final Win for our Rugby 1st XV - July 2015"
-date: 
+date: 1970-01-01
 description: "Huge congratulations to our WHS 1st XV Rugby team for winning their Semi Final 24-22 at home on Saturday 25 July 2015 against Linton."
 image: http://c1940652.r52.cf0.rackcdn.com/55b4bf50ff2a7c73630002a5/1st-XV-v-Linton,-Semi-final-25.7.15-15.gif
 excerpt: "Huge congratulations to our WHS 1st XV Rugby team for winning their Semi Final 24-22 at home on Saturday 25 July 2015 against Linton."

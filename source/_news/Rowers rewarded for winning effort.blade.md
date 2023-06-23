@@ -1,6 +1,6 @@
 ---
 title: "Rowers rewarded for winning effort"
-date: 
+date: 1970-01-01
 description: "Siena McLean, left, Levi Carroll (WHS student), Jamie Harris and Blake Hogan after winning their U20 & U17 categories at the Billy Webb Challenge..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a2083a9b8d39a25b6000c36/Levi-Carroll-billy-webb-chall-chron-1-dec.jpg
 excerpt: "Siena McLean, left, Levi Carroll (WHS student), Jamie Harris and Blake Hogan after winning their Under 20 and Under 17 categories at the Billy Webb Challenge."

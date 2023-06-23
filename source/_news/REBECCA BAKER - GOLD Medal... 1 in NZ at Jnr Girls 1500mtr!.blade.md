@@ -1,6 +1,6 @@
 ---
 title: "REBECCA BAKER - GOLD Medal... 1 in NZ at Jnr Girls 1500mtr!"
-date: 
+date: 1970-01-01
 description: "REBECCA BAKER - GOLD Medal...  #1 in NZ for the Junior Girls 1500 mtr run at the NZSS Athletic Champs..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a25d2c1b8d39a41ae00003c/Rebecca-running-1500.jpg
 excerpt: "REBECCA BAKER - GOLD Medal...  #1 in NZ for the Junior Girls 1500 mtr run at the NZSS Athletic Champs."

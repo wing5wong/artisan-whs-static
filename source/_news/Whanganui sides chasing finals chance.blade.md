@@ -1,6 +1,6 @@
 ---
 title: "Whanganui sides chasing finals chance"
-date: 
+date: 1970-01-01
 description: "WHS outlasted Old Boys Marist Cafe Cuba Lightning Dolphins 24-17, Wanganui Chronicle article on 19/7/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/578c3568ff2a7c38fb00089d/Photo-of-RUGBY-BALL.jpg
 excerpt: "WHS outlasted Old Boys Marist Cafe Cuba Lightning Dolphins 24-17"

@@ -1,6 +1,6 @@
 ---
 title: "Junior A1 Netball at Horizons Tournament"
-date: 
+date: 1970-01-01
 description: "Well done to our WHS Junior A1 Netball team who finished 5th in the Horizons Junior Netball Tournament in Palmerston Nth this weekend."
 image: http://c1940652.r52.cf0.rackcdn.com/57fbf4a4ff2a7c37a3000dba/14237700_662357067246736_8273851217529377160_n.jpg
 excerpt: "Well done to our WHS Junior A1 Netball team who finished 5th in the Horizons Junior Netball Tournament in Palmerston Nth this weekend."

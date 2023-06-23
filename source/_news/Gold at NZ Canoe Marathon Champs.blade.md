@@ -1,6 +1,6 @@
 ---
 title: "Gold at NZ Canoe Marathon Champs"
-date: 
+date: 1970-01-01
 description: "Well done to our WHS Kayakers who have done extremely well in the NZ Canoe Marathon Champs held on the Porirua Harbour, Wellington..."
 image: http://c1940652.r52.cf0.rackcdn.com/58f5682db8d39a03960004ee/Jack-Clifton--Lucas-Thompson-win-gold.-2jpg.jpg
 excerpt: "Well done to our WHS Kayakers who have done extremely well in the NZ Canoe Marathon Champs held on the Porirua Harbour, Wellington last weekend, 8 & 9 April 2017."

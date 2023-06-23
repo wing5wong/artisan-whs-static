@@ -1,6 +1,6 @@
 ---
 title: "Our Sporting performance during Tournament Week"
-date: 
+date: 1970-01-01
 description: "Whanganui High School's performance during Tournament Week, 29 August > 2 September 2016."
 image: http://c1940652.r52.cf0.rackcdn.com/57db5d72b8d39a2071001ee3/boys-hockey-(003).jpg
 excerpt: "Whanganui High School's performance during Tournament Week, 29 August > 2 September 2016."

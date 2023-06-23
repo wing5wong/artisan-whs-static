@@ -1,6 +1,6 @@
 ---
 title: "Candidates go back to school"
-date: 
+date: 1970-01-01
 description: "Candidates go back to class at teachers' invitation at Whanganui High School..."
 image: http://c1940652.r52.cf0.rackcdn.com/59b1b1a9b8d39a35a50009d2/National-MP.jpg
 excerpt: "Candidates go back to class at teachers' invitation at Whanganui High School."

@@ -1,6 +1,6 @@
 ---
 title: "Lake Karapiro news"
-date: 
+date: 1970-01-01
 description: "WHS results and photos at the NISS Rowing Champs at Lake Karapiro 10-12 March 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e59592b8d39a463b0003b8/1Good2-Mar-Niamh-Monk-won-bronze-U16-Girls-Single.jpg
 excerpt: "WHS results and photos at the NISS Rowing Champs at Lake Karapiro 10-12 March 2017."

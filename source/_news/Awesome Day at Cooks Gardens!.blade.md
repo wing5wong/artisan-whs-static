@@ -1,6 +1,6 @@
 ---
 title: "Awesome Day at Cooks Gardens!"
-date: 
+date: 1970-01-01
 description: "What an awesome day had by all today at Cooks Gardens with the Junior School and staff of WHS, Thursday 8 December 2016..."
 image: http://c1940652.r52.cf0.rackcdn.com/5849e45ab8d39a3eff0007fb/WHS-made-by-students-best.jpg
 excerpt: "What an awesome day had by all today at Cooks Gardens with the Junior School and staff of WHS."

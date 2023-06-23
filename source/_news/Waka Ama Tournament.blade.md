@@ -1,6 +1,6 @@
 ---
 title: "Waka Ama Tournament"
-date: 
+date: 1970-01-01
 description: "WHS Waka Ama squad at Tikitapu - Blue Lake, Rotorua, Tuesday 28 March until Friday 31 March 2017 for the NZSS Waka Ama Nationals..."
 image: http://c1940652.r52.cf0.rackcdn.com/58e1777fb8d39a417f00047a/17522838_769641546518287_6199682276500722517_n.jpg
 excerpt: "WHS Waka Ama squad at Tikitapu - Blue Lake, Rotorua, Tuesday 28 March until Friday 31 March 2017 for the NZSS Waka Ama Nationals."

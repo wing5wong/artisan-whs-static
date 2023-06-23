@@ -1,6 +1,6 @@
 ---
 title: "Students selected for NZ Touch Squads - April 2016"
-date: 
+date: 1970-01-01
 description: "WHS students selected for NZ Touch Squads, April 2016..."
 image: 
 excerpt: "WHS students selected for NZ Touch Squads, April 2016..."

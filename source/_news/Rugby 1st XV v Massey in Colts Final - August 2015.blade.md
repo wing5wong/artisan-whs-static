@@ -1,6 +1,6 @@
 ---
 title: "Rugby 1st XV v Massey in Colts Final - August 2015"
-date: 
+date: 1970-01-01
 description: "WHS Rugby 1st XV v Massey in Colts Final played at 1pm on Saturday 1 August at the Palmerston North Arena Manawatu.  A review of the final's game from Stacey Ranginui (Assistant Manager)."
 image: http://c1940652.r52.cf0.rackcdn.com/55bed0a2ff2a7c7363000ef5/Rugby-1stXV-v-Massey.-Colts-Final-1.8.15-26.jpg
 excerpt: "WHS Rugby 1st XV v Massey in Colts Final played at 1pm on Saturday 1 August at the Palmerston North Arena Manawatu.  A review of the final's game from Stacey Ranginui (Assistant Manager)."

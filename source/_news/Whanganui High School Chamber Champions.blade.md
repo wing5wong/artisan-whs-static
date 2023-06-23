@@ -1,6 +1,6 @@
 ---
 title: "Whanganui High School Chamber Champions"
-date: 
+date: 1970-01-01
 description: "Results from The Regional Chamber Contest.  30 groups in total and 9 from WHS."
 image: http://c1940652.r52.cf0.rackcdn.com/5766ff58ff2a7c38fb00001a/Shaila-Anne-Award-chamber-music.jpg
 excerpt: "Results from The Regional Chamber Contest.  30 groups in total and 9 from WHS."

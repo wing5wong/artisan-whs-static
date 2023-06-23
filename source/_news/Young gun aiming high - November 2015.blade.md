@@ -1,6 +1,6 @@
 ---
 title: "Young gun aiming high - November 2015"
-date: 
+date: 1970-01-01
 description: "GREAT SHOT: WHS student Bradley McDowell won the young gun national Cowboy Action Shooting title, Wanganui Chronicle article on 23/11/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/5652322bb8d39a2136001f6d/B-McDowell.yg-gun-nat-Cowboy-Action-Shooting-title.23.11.15-Chron.jpg
 excerpt: "GREAT SHOT: WHS student Bradley McDowell won the young gun national Cowboy Action Shooting title, Wanganui Chronicle article on 23/11/15..."

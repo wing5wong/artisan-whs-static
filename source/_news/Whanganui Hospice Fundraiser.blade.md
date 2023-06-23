@@ -1,6 +1,6 @@
 ---
 title: "Whanganui Hospice Fundraiser"
-date: 
+date: 1970-01-01
 description: "The WHS music department was approached by Wanganui Hospice to provide bands to play at a fireworks display"
 image: http://c1940652.r52.cf0.rackcdn.com/59e7e5a0b8d39a463b0004cc/Hospice-fireworks-WHS-band-1.jpg
 excerpt: "The WHS music department was approached by Wanganui Hospice to provide bands to play at a fireworks display for their annual fundraising event on Saturday 16 September."

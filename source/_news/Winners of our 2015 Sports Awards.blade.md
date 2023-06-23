@@ -1,6 +1,6 @@
 ---
 title: "Winners of our 2015 Sports Awards"
-date: 
+date: 1970-01-01
 description: "Congratulations to the Winners of our Sports Awards held on the evening of Thursday 15 October 2015 at the Wanganui Racecourse.  Read the full story for photos..."
 image: http://c1940652.r52.cf0.rackcdn.com/56298042b8d39a7a41000a08/Sport-Prefects-2015.jpg
 excerpt: "Congratulations to the Winners of our Sports Awards held on the evening of Thursday 15 October 2015 at the Wanganui Racecourse."

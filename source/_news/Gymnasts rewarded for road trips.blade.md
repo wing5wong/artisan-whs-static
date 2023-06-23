@@ -1,6 +1,6 @@
 ---
 title: "Gymnasts rewarded for road trips"
-date: 
+date: 1970-01-01
 description: "ON THE MAT: Whanganui gymnast and WHS student, Millie Manning is poised to begin her floor routine at the Waitara Open earlier this month, Wanganui Chronicle article on 24/8/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/57bf81daff2a7c38fb0017bd/MillieManning-Gymnastics-at-Waitara-Open-Chron-24-Aug-2016.jpg
 excerpt: "ON THE MAT: Whanganui gymnast and WHS student, Millie Manning is poised to begin her floor routine at the Waitara Open earlier this month."

@@ -1,6 +1,6 @@
 ---
 title: "2017 was an AMAZING year for WHS SPORT"
-date: 
+date: 1970-01-01
 description: "What an AMAZING year WHS has had with sport. Here are a few great moments we have had!.."
 image: http://c1940652.r52.cf0.rackcdn.com/5a305468b8d39a41ae0007f5/fun-run.jpg
 excerpt: "What an amazing year WHS has had with sport. Here are a few great moments we have had!"

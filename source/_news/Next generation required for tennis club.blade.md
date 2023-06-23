@@ -1,6 +1,6 @@
 ---
 title: "Next generation required for tennis club"
-date: 
+date: 1970-01-01
 description: "Whanganui tennis needs more youngsters like WHS student Sam Russell to fill the shoes of talented players who have moved on..."
 image: http://c1940652.r52.cf0.rackcdn.com/59c8447eb8d39a191700018c/Sam-Russell-chron-23-sept.jpg
 excerpt: "Whanganui tennis needs more youngsters like WHS student Sam Russell to fill the shoes of talented players who have moved on."

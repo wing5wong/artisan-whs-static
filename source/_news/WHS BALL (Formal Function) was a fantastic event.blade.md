@@ -1,6 +1,6 @@
 ---
 title: "WHS BALL (Formal Function) was a fantastic event"
-date: 
+date: 1970-01-01
 description: "\"Into the Woods\" was the theme of the Whanganui High School Ball held at the Wanganui Racecourse on Saturday 8 July..."
 image: http://c1940652.r52.cf0.rackcdn.com/59af43eeb8d39a35a5000795/Untitled-group-of-students1.jpg
 excerpt: "\"Into the Woods\" was the theme of the Whanganui High School Ball held at the Wanganui Racecourse on Saturday 8 July."

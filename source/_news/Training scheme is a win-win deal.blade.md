@@ -1,6 +1,6 @@
 ---
 title: "Training scheme is a win-win deal"
-date: 
+date: 1970-01-01
 description: "WHS student Daniel Wilson shows off his engineering handiwork at Axiam Metals last week. Student and employers reap benefits of programme..."
 image: http://c1940652.r52.cf0.rackcdn.com/58447c6fb8d39a3eff00016e/Holiday-Jobs-Daniel-Wilson-5-12-16.jpg
 excerpt: "WHS student Daniel Wilson shows off his engineering handiwork at Axiam Metals last week. Student and employers reap benefits of programme."

@@ -3,10 +3,10 @@ title: ENEE
 name: English Extension
 code: ENEE
 subject_area: English (Extension)
-date: 2023-06-21T02:26:40.078Z
+date: 2021-06-28T00:00:32.596Z
 year: "9"
 type: "Compulsory "
-course_duration: Full Year
+course_duration: 26 Weeks
 course_level: Year 9
 leads_to:
   - ENE0
@@ -18,7 +18,7 @@ leads_to:
 
 **Content:**
 
-These students are working towards Level 5 of the curriculum. Students learn to use and respond to English language and literature through personal reading, writing, speaking, listening, viewing and presenting. Texts include novels, non-fiction books, poetry, short stories, film and drama. Students will complete part of their work on Google Classroom.
+Students learn to use and respond to English language and literature through personal reading, writing, speaking, listening, viewing and presenting. This occurs both individually and in group situations. Texts include novels, non-fiction books, poetry, short stories, film and drama. Students will complete part of their work on Google Classroom.
 
 **Assessment:**
 

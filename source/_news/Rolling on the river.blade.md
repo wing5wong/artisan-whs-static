@@ -1,6 +1,6 @@
 ---
 title: "Rolling on the river"
-date: 
+date: 1970-01-01
 description: "Two boats full of WHS students earned a Top 5 finish in the September round of the 2017 Winter Series on the Whanganui River on Sunday 17 September..."
 image: http://c1940652.r52.cf0.rackcdn.com/59c19659b8d39a3d400000b1/Liam-Lace-and-Jack-Clifton-Sept-2017-chron.jpg
 excerpt: "Two boats full of WHS students earned a Top 5 finish in the September round of the 2017 Winter Series on the Whanganui River on Sunday 17 September..."

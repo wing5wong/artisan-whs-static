@@ -1,6 +1,6 @@
 ---
 title: "Emma Rainey named in the Junior Black Sticks Womens Squad"
-date: 
+date: 1970-01-01
 description: "WHS student Emma Rainey named in the Junior Black Sticks Womens Squad..."
 image: http://c1940652.r52.cf0.rackcdn.com/5812abedb8d39a20710031dc/Emma-Rainey-named-in-Jnr-Black-Sticks-Womens-Squad-Oct-2016.jpg
 excerpt: "WHS student Emma Rainey named in the Junior Black Sticks Womens Squad."

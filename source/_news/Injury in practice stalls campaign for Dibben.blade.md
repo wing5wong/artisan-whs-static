@@ -1,6 +1,6 @@
 ---
 title: "Injury in practice stalls campaign for Dibben"
-date: 
+date: 1970-01-01
 description: "Richie Dibben & one of his co-sponsors Brian Bernard, aims to recover from injury in time to race the final leg of the Suzuki Series in F2..."
 image: http://c1940652.r52.cf0.rackcdn.com/5c353ae4ff2a7c18530003e1/Richie-Dibben-12-dec.jpg
 excerpt: "Richie Dibben & one of his co-sponsors Brian Bernard, aims to recover from injury in time to race the final leg of the Suzuki Series in F2."

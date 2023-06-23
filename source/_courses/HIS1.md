@@ -3,7 +3,7 @@ title: HIS1
 name: History
 code: HIS1
 subject_area: History
-date: 2023-06-20T23:22:34.117Z
+date: 2021-06-30T00:48:56.543Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
@@ -12,10 +12,11 @@ assessment_type: Achievement Standard
 leads_to:
   - HIS2
 standards:
-  - "92024"
-  - "92025"
-  - "92026"
-  - "92027"
+  - "91001"
+  - "91002"
+  - "91003"
+  - "91004"
+  - "91005"
 course_fees: null
 endorsement: Yes
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Watts strikes gold on Karapiro"
-date: 
+date: 1970-01-01
 description: "Aramoho-Wanganui's Luke Watts won gold in the mens senior single sculls, senior coxless quad sculls and silver in the double sculls in the NI Champs..."
 image: http://c1940652.r52.cf0.rackcdn.com/589b7923b8d39a3eff002816/ex-Luke-Watts-gold-Nth-Is-Champs-Jan-2017.jpg
 excerpt: "Aramoho-Wanganui's Luke Watts won gold in the mens senior single sculls, senior coxless quad sculls and silver in the double sculls in the North Island Championships."

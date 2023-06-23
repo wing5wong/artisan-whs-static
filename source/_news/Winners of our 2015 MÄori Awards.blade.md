@@ -1,6 +1,6 @@
 ---
 title: "Winners of our 2015 Māori Awards"
-date: 
+date: 1970-01-01
 description: "Congratulations to the Winners of our Māori Awards held on the evening of Thursday 29 October at the Wanganui Opera House.  Read the full story for photos..."
 featured-image: 
 excerpt: "Congratulations to the Winners of our Māori Awards held on the evening of Thursday 29 October at the Wanganui Opera House.  Read the full story for photos..."

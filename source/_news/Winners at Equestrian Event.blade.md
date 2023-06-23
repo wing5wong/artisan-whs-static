@@ -1,6 +1,6 @@
 ---
 title: "Winners at Equestrian Event"
-date: 
+date: 1970-01-01
 description: "WHS's team of five riders at the Whanganui Interschool Gymkhana came away as winners..."
 image: http://c1940652.r52.cf0.rackcdn.com/5976a959b8d39a1a9e000b31/Emma-cup--2-others-webwith-ribbons--LW.jpg
 excerpt: "WHS's team of five riders at the Whanganui Interschool Gymkhana came away as winners."

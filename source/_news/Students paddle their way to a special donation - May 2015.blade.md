@@ -1,6 +1,6 @@
 ---
 title: "Students paddle their way to a special donation - May 2015"
-date: 
+date: 1970-01-01
 description: "STRONG SUPPORT: Kayaker and former WHS student Aiden Nossiter with Vet Care Training students after he took them out for a lesson on Whanganui River, with the donation going towards his quest..."
 image: http://c1940652.r52.cf0.rackcdn.com/554bb81bb8d39a03580005fa/Aiden-Nossiter-8.5.15.jpg
 excerpt: ""

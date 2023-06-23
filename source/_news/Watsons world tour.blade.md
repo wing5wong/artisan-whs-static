@@ -1,6 +1,6 @@
 ---
 title: "Watson's world tour"
-date: 
+date: 1970-01-01
 description: "Despite the jet lag, Keightley Watson had a strong performance at the Auckland Open Judo International alongside his follow Whanganui exponents last weekend..."
 image: http://c1940652.r52.cf0.rackcdn.com/598388b3b8d39a213400004a/Keightley-Watson-world-tour-4-Aug-Chron.jpg
 excerpt: "Despite the jet lag, Keightley Watson had a strong performance at the Auckland Open Judo International alongside his follow Whanganui exponents last weekend."

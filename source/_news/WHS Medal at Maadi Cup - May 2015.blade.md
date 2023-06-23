@@ -1,6 +1,6 @@
 ---
 title: "WHS Medal at Maadi Cup - May 2015"
-date: 
+date: 1970-01-01
 description: "Wanganui High School went away to Lake Karapiro in March with a strong 27 rowers to compete in the Aon Secondary School Maadi Cup Regatta, from River City Press article on 7/5/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/55502933ff2a7c0377000952/gold-medal-winners-maadi-cup-2015-Jess-and-Kayla.RCPjpg.jpg
 excerpt: ""

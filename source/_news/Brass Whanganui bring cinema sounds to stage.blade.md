@@ -1,6 +1,6 @@
 ---
 title: "Brass Whanganui bring cinema sounds to stage"
-date: 
+date: 1970-01-01
 description: "Brass Whanganui's own soloist, former WHS student Jacob Mancer, will pay Eflat horn on Somewhere Over The Rainbow..."
 image: http://c1940652.r52.cf0.rackcdn.com/59faa7b9b8d39a77310005fe/Jacob-Mancer-brass-band-midweek-25-oct.jpg
 excerpt: "Brass Whanganui's own soloist, former WHS student Jacob Mancer, will pay Eflat horn on Somewhere Over The Rainbow."

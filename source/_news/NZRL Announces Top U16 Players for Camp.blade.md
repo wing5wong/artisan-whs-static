@@ -1,6 +1,6 @@
 ---
 title: "NZRL Announces Top U16 Players for Camp"
-date: 
+date: 1970-01-01
 description: "A BIG congratulations to WHS student Tiaho Hamahona Taiaroa who has made the NZ Rugby League U16 squad to attend a National High Performance Camp!"
 image: http://c1940652.r52.cf0.rackcdn.com/590536a6b8d39a6a960003e6/Tiaho-Hamahona-Taiaroa-who-has-made-the-NZ-Rugby-League-U16-squad.png
 excerpt: "A BIG congratulations to WHS student Tiaho Hamahona Taiaroa who has made the NZ Rugby League U16 squad to attend a National High Performance Camp!"

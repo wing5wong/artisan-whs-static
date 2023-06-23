@@ -1,6 +1,6 @@
 ---
 title: "Young rugby star is on the rise"
-date: 
+date: 1970-01-01
 description: "Wanganui High School-educated Vilimoni Koroi has been one of the most talked about young stars on the 2017 World Rugby Sevens series..."
 image: http://c1940652.r52.cf0.rackcdn.com/59070700b8d39a6a96000456/Vilimoni-Koroi-Rugby-sevens-nz.jpg
 excerpt: "Wanganui High School-educated Vilimoni Koroi has been one of the most talked about young stars on the 2017 World Rugby Sevens series."

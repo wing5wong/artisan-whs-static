@@ -1,6 +1,6 @@
 ---
 title: "Whanganui hockey girls on track for gold"
-date: 
+date: 1970-01-01
 description: "Rebecca Baker is proving to be scoring machine for the Wanganui under 15 girls with hat-tricks on both days of competition at the nationals in Timaru..."
 image: http://c1940652.r52.cf0.rackcdn.com/59d475d8b8d39a19170006b0/Rebecca-Baker-U15-Oct-2017-chron.jpg
 excerpt: "Rebecca Baker is proving to be scoring machine for the Wanganui under 15 girls with hat-tricks on both days of competition at the nationals in Timaru."

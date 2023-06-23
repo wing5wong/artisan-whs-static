@@ -1,6 +1,6 @@
 ---
 title: "Directory lists area's wealth of study options"
-date: 
+date: 1970-01-01
 description: "PROSPECTS:(fromleft) Elena Egorov, Rhea Colaabavala, Jackie Hazelhurst,Tamara Stratton, Jack Southee, Jonathon DeJongh, Macy Duxfieldand Vincent Collins in the UCOL studio."
 image: http://c1940652.r52.cf0.rackcdn.com/56392b53b8d39a2136000519/Students-directory-of-learning-UCOL-3.11.15.jpg
 excerpt: "PROSPECTS:(fromleft) Elena Egorov, Rhea Colaabavala, Jackie Hazelhurst,Tamara Stratton, Jack Southee, Jonathon DeJongh, Macy Duxfieldand Vincent Collins in the UCOL studio."

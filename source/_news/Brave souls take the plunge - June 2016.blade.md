@@ -1,6 +1,6 @@
 ---
 title: "Brave souls take the plunge - June 2016"
-date: 
+date: 1970-01-01
 description: "SEA NYMPHS: WHS Year 13 students (from left) Abby Hurley, Jadzia Morris, Hypatia Orchard and Sapere Simon got wet rather than wedded at the midwinter swim at Castlecliff Beach yesterday..."
 image: http://c1940652.r52.cf0.rackcdn.com/57672d55b8d39a2071000030/WHS-female-students-take-the-plunge-at-castlecliff-beach.-chron-20-June.jpg
 excerpt: "SEA NYMPHS: Whanganui High School Year 13 students (from left) Abby Hurley, Jadzia Morris, Hypatia Orchard and Sapere Simon got wet rather than wedded at the midwinter swim at Castlecliff Beach yesterday."

@@ -1,6 +1,6 @@
 ---
 title: "Hispanic enthusiasts put Whanganui on the map"
-date: 
+date: 1970-01-01
 description: "Whanganui's Hispanic enthusiasts Marilyn Wilkie (back row left), Antonio Salas, Beverley Stuart, Andrea Gardner (front left) and Queralt Scott..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e54632b8d39a463b000366/Hispanic-photo.jpg
 excerpt: "Whanganui's Hispanic enthusiasts Marilyn Wilkie (back row left), Antonio Salas, Beverley Stuart, Andrea Gardner (front left) and Queralt Scott."

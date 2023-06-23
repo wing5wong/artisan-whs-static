@@ -1,6 +1,6 @@
 ---
 title: "WHS students rule the kitchen at national champs"
-date: 
+date: 1970-01-01
 description: "WHS culinary students Matt Hirini and Charlotte Taylor win the gold medal at the National Secondary Schools' Culinary Competition in Auckland last week..."
 image: http://c1940652.r52.cf0.rackcdn.com/59ae2d9bb8d39a35a500069b/cooking-photo-chron-5-sept.jpg
 excerpt: "Whanganui High School culinary students Matt Hirini and Charlotte Taylor win the gold medal at the National Secondary Schools' Culinary Competition in Auckland last week."

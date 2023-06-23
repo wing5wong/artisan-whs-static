@@ -1,6 +1,6 @@
 ---
 title: "Victory elementary for Watson brothers - September 2015"
-date: 
+date: 1970-01-01
 description: "FLIPPING HECK: WHS student Keightley Watson drops his opponent during his complete dominance of the senior boys 66kg and over grade, Wanganui Chronicle article 9/9/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/55ef5121ff2a7c2aec000006/Judo-Watson-bros-9.9.15.jpg
 excerpt: "FLIPPING HECK: WHS student Keightley Watson drops his opponent during his complete dominance of the senior boys 66kg and over grade."

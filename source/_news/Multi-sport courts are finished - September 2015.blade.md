@@ -1,6 +1,6 @@
 ---
 title: "Multi-sport courts are finished - September 2015"
-date: 
+date: 1970-01-01
 description: "WHS Multi-sport courts are finished!!"
 image: http://c1940652.r52.cf0.rackcdn.com/55f72df8b8d39a37870005cd/multi-sport-courts-finished-at-whs-sept-2015-2.jpg
 excerpt: "WHS Multi-sport courts are finished!!"

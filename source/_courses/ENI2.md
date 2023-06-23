@@ -3,8 +3,9 @@ title: ENI2
 name: English Introductory/Internal
 code: ENI2
 subject_area: English (Introductory/Internal)
-date: 2023-06-21T02:40:13.559Z
-entry_requirements: Students must have gained their 10 Level 1 Literacy credits
+date: 2021-06-28T00:08:38.917Z
+entry_requirements: 12 credits ENI1 or 10 credits ENG1 and HOF/TIC approval
+  (Students must have gained their 10 Level 1 Literacy credits).
 year: "12"
 type: Compulsory
 course_duration: Full Year
@@ -19,5 +20,6 @@ standards:
   - "91101"
   - "91102"
   - "91104"
+  - "91106"
 ---
 To provide a balanced English programme to include reading, writing, listening, speaking, and presenting. Students will be given the opportunity to gain some of the 10 literacy credits required for University Entrance.

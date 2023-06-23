@@ -1,6 +1,6 @@
 ---
 title: "WHS too strong in qualifier - March 2016"
-date: 
+date: 1970-01-01
 description: "The Wanganui High School tennis team will once again go through to represent Tennis Central at the NZSS Championship finals after beating Wanganui Collegiate 4-2 in the zonal qualifier on Wednesday."
 image: http://c1940652.r52.cf0.rackcdn.com/56dcbf67b8d39a3ca30010b7/Tennis-Balls.jpg
 excerpt: "The Wanganui High School tennis team will once again go through to represent Tennis Central at the NZSS Championship finals after beating Wanganui Collegiate 4-2 in the zonal qualifier on Wednesday, Wanganui Chronicle article on 4/3/16..."

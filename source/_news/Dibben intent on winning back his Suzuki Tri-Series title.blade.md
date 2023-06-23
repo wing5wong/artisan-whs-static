@@ -1,6 +1,6 @@
 ---
 title: "Dibben intent on winning back his Suzuki Tri-Series title"
-date: 
+date: 1970-01-01
 description: "Whanganui rider Richie Dibben (former WHS student) is on a mission to reclaim his Suzuki Tri-Series super moto title this season..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a31aa79b8d39a6f2d0000a1/Richard-Dibben-chron-14-dec-2017.jpg
 excerpt: "Whanganui rider Richie Dibben (former WHS student) is on a mission to reclaim his Suzuki Tri-Series super moto title this season."

@@ -1,6 +1,6 @@
 ---
 title: "Whanganui judoka Keightley Watson trains in Holland"
-date: 
+date: 1970-01-01
 description: "Whanganui judoka Keightley Watson mixes it with world heavyweights in Holland for the next five weeks..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a84a229b8d39a42a4000622/Keightley-20-dec-2017.jpg
 excerpt: "Whanganui judoka Keightley Watson mixes it with world heavyweights in Holland for the next five weeks."

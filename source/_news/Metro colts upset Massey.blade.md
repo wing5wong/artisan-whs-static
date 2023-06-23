@@ -1,6 +1,6 @@
 ---
 title: "Metro colts upset Massey"
-date: 
+date: 1970-01-01
 description: "The Metro lads, of which a large percent are former WHS players, packed a punch when beating Massey White 18-17 at Cooks Gardens on Saturday..."
 image: http://c1940652.r52.cf0.rackcdn.com/595efad6b8d39a317d000723/Metro-beats-Massey-july-2017.jpg
 excerpt: "The Metro lads, of which a large percent are former WHS players, packed a punch when beating Massey White 18-17 at Cooks Gardens on Saturday."

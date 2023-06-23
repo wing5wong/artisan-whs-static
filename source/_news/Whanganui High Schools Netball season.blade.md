@@ -1,6 +1,6 @@
 ---
 title: "Whanganui High School's Netball season"
-date: 
+date: 1970-01-01
 description: "Well done to our Whanganui High School Netball teams over the Netball season..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a307e81b8d39a41ae000812/girls-netball-winning-team.jpg
 excerpt: "Well done to our Whanganui High School Netball teams over the Netball season."

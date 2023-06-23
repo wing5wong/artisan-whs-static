@@ -1,6 +1,6 @@
 ---
 title: "Skaters get chance to try circuit - November 2015"
-date: 
+date: 1970-01-01
 description: "Photo of experienced skaters, Rebecca Smith and Nicole Travers, formerly of Wanganui High School, Wanganui Chronicle article on 27/11/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/5657adbab8d39a21360025b2/former-Hannah-Smith--Nicole-Travers-Chron.jpg
 excerpt: "Photo of experienced skaters, Rebecca Smith and Nicole Travers, formerly of Wanganui High School, Wanganui Chronicle article on 27/11/15..."

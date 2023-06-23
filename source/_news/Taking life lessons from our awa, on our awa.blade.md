@@ -1,6 +1,6 @@
 ---
 title: "Taking life lessons from our awa, on our awa"
-date: 
+date: 1970-01-01
 description: "Whanganui's Ash Patea - educator, river guide and entrepreneur, with more to come..."
 image: http://c1940652.r52.cf0.rackcdn.com/59efd422b8d39a773100028f/Ash-Patea-WU-river-tours-chron-21-oct.jpg
 excerpt: "Whanganui's Ash Patea - educator, river guide and entrepreneur, with more to come."

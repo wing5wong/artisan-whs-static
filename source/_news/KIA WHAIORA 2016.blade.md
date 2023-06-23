@@ -1,6 +1,6 @@
 ---
 title: "KIA WHAIORA 2016"
-date: 
+date: 1970-01-01
 description: "WHS students have had a busy year so far for KIA WHAIORA."
 image: http://c1940652.r52.cf0.rackcdn.com/57a7a135b8d39a2071001086/Kia-Whairoa-WHS-students-from-HR.jpg
 excerpt: "WHS students have had a busy year so far for KIA WHAIORA."

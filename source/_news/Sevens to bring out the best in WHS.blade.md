@@ -1,6 +1,6 @@
 ---
 title: "Sevens to bring out the best in WHS"
-date: 
+date: 1970-01-01
 description: "Whanganui High School sports teams will be out to make a little bit of history as they attend national schools tournaments over the next two weekends..."
 image: http://c1940652.r52.cf0.rackcdn.com/583f562bb8d39a5f270003c8/team-photo-for-paper-before-tourny.jpg
 excerpt: "Whanganui High School sports teams will be out to make a little bit of history as they attend national schools tournaments over the next two weekends."

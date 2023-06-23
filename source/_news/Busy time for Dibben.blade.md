@@ -1,6 +1,6 @@
 ---
 title: "Busy time for Dibben"
-date: 
+date: 1970-01-01
 description: "Whanganui's Richie Dibben, interviewed by the course commentator after winning both super motard races at Manfeild on Sunday ahead of his Malaysian trip this week, Wanganui Chronicle 14/12/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/585c3788b8d39a3eff001165/ex-Richard-Dibben-at-Manfield-Chron-13-Dec-2016.jpg
 excerpt: "Whanganui's Richie Dibben, interviewed by the course commentator after winning both super motard races at Manfeild on Sunday ahead of his Malaysian trip this week."

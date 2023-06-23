@@ -1,6 +1,6 @@
 ---
 title: "Talented Students honoured"
-date: 
+date: 1970-01-01
 description: "WHS student Emma Rainey receives her Senior Sportswomen of the Year trophy from guest speaker Kayla Whitelock..."
 image: http://c1940652.r52.cf0.rackcdn.com/59fb9859b8d39a7731000646/Emma-Rainey-chronicle.jpg
 excerpt: "WHS student Emma Rainey receives her Senior Sportswomen of the Year trophy from guest speaker Kayla Whitelock, former NZ Blacksticks captain."

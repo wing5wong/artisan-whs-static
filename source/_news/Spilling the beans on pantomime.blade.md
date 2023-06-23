@@ -1,6 +1,6 @@
 ---
 title: "Spilling the beans on pantomime"
-date: 
+date: 1970-01-01
 description: "Former WHS students, Brie Parkinson and Benjamin Clow, stars of Jack and the Beanstalk..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a83934ab8d39a42a40005df/Brie-Parkinson--Ben-Clow.Jack--the-Beanstalk.jpg
 excerpt: "Former WHS students, Brie Parkinson and Benjamin Clow, stars of Jack and the Beanstalk."

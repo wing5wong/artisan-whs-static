@@ -1,6 +1,6 @@
 ---
 title: "1st XI Cricket won their T20 regional semi final"
-date: 
+date: 1970-01-01
 description: "WHS 1st XI Cricket won their T20 regional semi final against Horowhenua College, 24 March 2016..."
 image: http://c1940652.r52.cf0.rackcdn.com/56faea28b8d39a2dc2000657/12901414_587883224694121_3315832753669320274_o-(1).jpg
 excerpt: "WHS 1st XI Cricket won their T20 regional semi final against Horowhenua College, 24 March 2016..."

@@ -1,6 +1,6 @@
 ---
 title: "Trials beckon high school pair - April 2015"
-date: 
+date: 1970-01-01
 description: "TRIALLISTS: The journey begins for Wanganui rowers Kayla Spencer (front) Jessica Brougham after gaining selection to the national junior trial squad at Lake Karapiro..."
 image: http://c1940652.r52.cf0.rackcdn.com/5521b9ccff2a7c7ea60009a9/KaylaSpencerJessicaBrougham.jpg
 excerpt: "TRIALLISTS: The journey begins for Wanganui rowers Kayla Spencer (front) Jessica Brougham after gaining selection to the national junior trial squad at Lake Karapiro."

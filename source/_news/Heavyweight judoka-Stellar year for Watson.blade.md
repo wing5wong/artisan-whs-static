@@ -1,6 +1,6 @@
 ---
 title: "Heavyweight judoka: Stellar year for Watson"
-date: 
+date: 1970-01-01
 description: "Whanganui judoka Keightley Watson has had an outstanding year..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e568bfb8d39a463b000380/Keightley-5-oct-chron.jpg
 excerpt: "Whanganui judoka Keightley Watson has had an outstanding year."

@@ -1,6 +1,6 @@
 ---
 title: "Play keeps spirit of panto alive"
-date: 
+date: 1970-01-01
 description: "CAST: The very talented on-stage component of Red Riding Hood, Wanganui Midweek article..."
 image: http://c1940652.r52.cf0.rackcdn.com/585c42b5b8d39a3eff00116d/Red-Riding-Hood-review-Midweek.jpg
 excerpt: "CAST: The very talented on-stage component of Red Riding Hood."

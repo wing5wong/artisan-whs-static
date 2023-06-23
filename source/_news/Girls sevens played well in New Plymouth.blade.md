@@ -1,6 +1,6 @@
 ---
 title: "Girls sevens played well in New Plymouth"
-date: 
+date: 1970-01-01
 description: "Well done to our WHS girls sevens rugby team who had some great games today in New Plymouth in the qualifying round for Condors."
 image: http://c1940652.r52.cf0.rackcdn.com/597699a6b8d39a1a9e000b03/Line-out-jump.jpg
 excerpt: "Well done to our WHS girls sevens rugby team who had some great games today in New Plymouth in the qualifying round for Condors."

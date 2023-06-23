@@ -1,6 +1,6 @@
 ---
 title: "Cricket: Wanganui fail to build on openers' platform"
-date: 
+date: 1970-01-01
 description: "Wanganui opener Jess Watkins lines up a shot on her way to a half-century against Hawke's Bay in the regional under-18 girls cricket tournament, Wanganui Chronicle article on 15/1/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/5698d425b8d39a2c7c001b8b/Cricket-J-Watkins-15.1.16.jpg
 excerpt: "Wanganui opener Jess Watkins lines up a shot on her way to a half-century against Hawke's Bay in the regional under-18 girls cricket tournament, Wanganui Chronicle article on 15/1/16..."

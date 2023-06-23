@@ -1,6 +1,6 @@
 ---
 title: "WHS UN delegates"
-date: 
+date: 1970-01-01
 description: "On Friday 30 October WHS took 5 delegations of students to the Annual Wanganui Junior Model United Nations event at Girl’s College."
 image: http://c1940652.r52.cf0.rackcdn.com/563ff54bb8d39a2136000d15/MUNS-student-with-Gemma-de-Smidt-30.10.15.jpg
 excerpt: "On Friday 30 October WHS took 5 delegations of students to the Annual Wanganui Junior Model United Nations event at Girl’s College."

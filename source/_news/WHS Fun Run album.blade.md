@@ -1,6 +1,6 @@
 ---
 title: "WHS Fun Run album"
-date: 
+date: 1970-01-01
 description: "WHS Fun Run album, period 5, Thursday 28 September 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e45280b8d39a463b0002f2/cover-photo-of-girls-jumping-in-air.jpg
 excerpt: "WHS Fun Run album, period 5, Thursday 28 September 2017."

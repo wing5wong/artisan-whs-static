@@ -1,6 +1,6 @@
 ---
 title: "Five of a Central mind"
-date: 
+date: 1970-01-01
 description: "The Whanganui players, all students from WHS, selected to play for the Central teams at the national under 18 tournament. Emma Rainey, left, Joanna Bell, Joseph Redpath, Ryan Gray, Jordan Cohen..."
 image: http://c1940652.r52.cf0.rackcdn.com/578d5553b8d39a20710008fd/5-WHS-students-selected-for-Central-U18-tourny-Chron-18-July.jpg
 excerpt: "The Whanganui players, all students from WHS, selected to play for the Central teams at the national under 18 tournament. Emma Rainey, left, Joanna Bell, Joseph Redpath, Ryan Gray, Jordan Cohen..."

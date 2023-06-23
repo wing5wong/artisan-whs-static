@@ -1,6 +1,6 @@
 ---
 title: "Whanganui Maori team named"
-date: 
+date: 1970-01-01
 description: "At least three former WHS students are named in the Whanganui Maori team for 2017. Mikaere Penetito, Keanu Puki-Kaa and Jack Hodges..."
 image: http://c1940652.r52.cf0.rackcdn.com/589d0728b8d39a3eff0028f5/Photo-of-RUGBY-BALL.jpg
 excerpt: "At least three former WHS students are named in the Whanganui Maori team for 2017. Mikaere Penetito, Keanu Puki-Kaa and Jack Hodges."

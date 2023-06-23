@@ -1,6 +1,6 @@
 ---
 title: "Little horror, big laughs at Amdram"
-date: 
+date: 1970-01-01
 description: "WHS teacher, Colin Hedivan poses with Audrey II as it devours a fluffy-slippered (former WHS student) Shaila Hawkins..."
 image: http://c1940652.r52.cf0.rackcdn.com/59c48a8fb8d39a1917000040/Little-shop-of-horror-with-colin-hedivan.jpg
 excerpt: "WHS teacher, Colin Hedivan poses with Audrey II as it devours a fluffy-slippered (former WHS student) Shaila Hawkins."

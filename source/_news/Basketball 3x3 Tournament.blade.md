@@ -1,6 +1,6 @@
 ---
 title: "Basketball 3x3 Tournament"
-date: 
+date: 1970-01-01
 description: "WHS Boys 3x3 Basketball teams played at ASB Arena,Tauranga for the Secondary Schools 3x3 National Slam, 30 March - 1 April 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e59eecb8d39a463b0003d0/shot-2.jpg
 excerpt: "WHS Boys 3x3 Basketball teams played at ASB Arena,Tauranga for the Secondary Schools 3x3 National Slam, 30 March - 1 April 2017."

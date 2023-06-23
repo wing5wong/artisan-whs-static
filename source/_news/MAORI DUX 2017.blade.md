@@ -1,6 +1,6 @@
 ---
 title: "MAORI DUX 2017"
-date: 
+date: 1970-01-01
 description: "Congratulations to our Whanganui High School MAORI DUX for 2017: 
 MIKAYA TEKI..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a1dc744b8d39a25b6000a9e/Mikaya-Teki-with-green-surround.jpg

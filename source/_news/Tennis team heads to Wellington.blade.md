@@ -1,6 +1,6 @@
 ---
 title: "Tennis team heads to Wellington"
-date: 
+date: 1970-01-01
 description: "Former WHS students Gabrielle Hiri and Paris Butters will represent Wanganui at the Renouf Tennis Centre in Wellington..."
 image: http://c1940652.r52.cf0.rackcdn.com/58d82045b8d39a417f000051/Tennis-Balls.jpg
 excerpt: "Former WHS students Gabrielle Hiri and Paris Butters will represent Wanganui at the Renouf Tennis Centre in Wellington."

@@ -1,6 +1,6 @@
 ---
 title: "WHS students in the community"
-date: 
+date: 1970-01-01
 description: "WHS students appearing in the musical 'Little Shop of Horrors' at Amdram Threatre from 15-30 September"
 image: http://c1940652.r52.cf0.rackcdn.com/59b9bfe4b8d39a35a5000c94/Little-Shop-of-Horrors-Ali-Gammeter-etc-sept.jpg
 excerpt: "WHS students appearing in the musical 'Little Shop of Horrors' at Amdram Threatre from 15-30 September 2017."

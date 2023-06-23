@@ -1,6 +1,6 @@
 ---
 title: "Plenty of variety in talent quest for flood relief"
-date: 
+date: 1970-01-01
 description: "Some of Wanganui's best young talent will be stage tonight in the Wanganui High School Hall for the Centre Stage 2015 talent quest., Wanganui Chronicle article 5/9/15..."
 image: 
 excerpt: "Some of Wanganui's best young talent will be stage tonight in the Wanganui High School Hall for the Centre Stage 2015 talent quest."

@@ -1,6 +1,6 @@
 ---
 title: "Palette of differing musical colours"
-date: 
+date: 1970-01-01
 description: "Former Whanganui High School students Elena Morgan and Max Munneke back in town for a concert..."
 image: http://c1940652.r52.cf0.rackcdn.com/59cabb98b8d39a19170003b6/Max--Elena-together.jpg
 excerpt: "Former Whanganui High School students Elena Morgan and Max Munneke back in town for a concert."

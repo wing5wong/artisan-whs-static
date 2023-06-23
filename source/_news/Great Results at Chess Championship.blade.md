@@ -1,6 +1,6 @@
 ---
 title: "Great Results at Chess Championship"
-date: 
+date: 1970-01-01
 description: "A great day of chess for WHS students at the Manawatu School Pupil Chess Championship..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e56b04b8d39a463b000386/Chess-emblem.jpg
 excerpt: "A great day of chess for Whanganui High School students at the Manawatu School Pupil Chess Championship, which was held on Wednesday 27 September at the Fielding Civic Centre in Feilding."

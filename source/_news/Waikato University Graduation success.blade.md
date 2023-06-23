@@ -1,6 +1,6 @@
 ---
 title: "Waikato University Graduation success"
-date: 
+date: 1970-01-01
 description: "Congratulations to Liam Wooding and Therese Bourne, both former WHS students, who graduated from the University of Waikato in May 2017."
 image: http://c1940652.r52.cf0.rackcdn.com/59767517b8d39a1a9e000ac3/university-of-waikato-logoFOR-WEB.jpg
 excerpt: "Congratulations to Liam Wooding and Therese Bourne, both former WHS students, who graduated from the University of Waikato in May 2017."

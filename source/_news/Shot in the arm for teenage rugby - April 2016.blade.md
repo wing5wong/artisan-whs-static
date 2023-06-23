@@ -1,6 +1,6 @@
 ---
 title: "Shot in the arm for teenage rugby - April 2016"
-date: 
+date: 1970-01-01
 description: "The introduction of the Metropolitan side into the 11-team Manawatu colts' championship has given teenage rugby in the Wanganui union a shot in the arm, Wanganui Midweek article on 27/4/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/578c3568ff2a7c38fb00089d/Photo-of-RUGBY-BALL.jpg
 excerpt: "The introduction of the Metropolitan side into the 11-team Manawatu colts' championship has given teenage rugby in the Wanganui union a shot in the arm."

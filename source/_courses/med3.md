@@ -3,7 +3,7 @@ title: MED3
 name: Media Studies
 code: MED3
 subject_area: Media Studies
-date: 2023-06-21T02:21:48.074Z
+date: 2022-07-03T22:48:38.446Z
 entry_requirements: ""
 year: "13"
 type: Subject Choice

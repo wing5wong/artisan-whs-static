@@ -1,6 +1,6 @@
 ---
 title: "Boys U17 Football Team win against Collegiate - August 2015"
-date: 
+date: 1970-01-01
 description: "WHS Boys U17 Football Team win against Collegiate on Saturday 1 August 2015."
 image: http://c1940652.r52.cf0.rackcdn.com/55bed93bff2a7c7363000f45/Boys-U17-Football-v-Colleg8-1.8.15.gif
 excerpt: "WHS Boys U17 Football Team win against Collegiate on Saturday 1 August."

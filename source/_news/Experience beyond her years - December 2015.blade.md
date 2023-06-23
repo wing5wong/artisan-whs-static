@@ -1,6 +1,6 @@
 ---
 title: "Experience beyond her years - December 2015"
-date: 
+date: 1970-01-01
 description: "AUSSIE BOUND: Youthful Whanganui hockey talent Emma Rainey will be an old head on young shoulders with the New Zealand Under-19 squad to play an international test series on the Gold Coast next month."
 image: http://c1940652.r52.cf0.rackcdn.com/56777cd0ff2a7c4d06000961/Emma-Rainey-U19-Hockey-dec-2015.jpg
 excerpt: "AUSSIE BOUND: Youthful Whanganui hockey talent, WHS student Emma Rainey will be an old head on young shoulders with the New Zealand Under-19 squad to play an international test series on the Gold Coast next month, Wanganui Chronicle article on 16/12/15..."

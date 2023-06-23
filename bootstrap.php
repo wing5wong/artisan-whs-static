@@ -1,13 +1,22 @@
 <?php
 
-use TightenCo\Jigsaw\Jigsaw;
+// @var $container \Illuminate\Container\Container
+// @var $events \TightenCo\Jigsaw\Events\EventBus
 
-/** @var $container \Illuminate\Container\Container */
-/** @var $events \TightenCo\Jigsaw\Events\EventBus */
+/*
+ * You can run custom code at different stages of the build process by
+ * listening to the 'beforeBuild', 'afterCollections', and 'afterBuild' events.
+ *
+ * For example:
+ *
+ * $events->beforeBuild(function (Jigsaw $jigsaw) {
+ *     // Your code here
+ * });
+ */
 
-$events->afterBuild(function ($jigsaw) {
-    $jigsaw->getFilesystem()->copyDirectory(__DIR__ . '/source/_assets/favicons', $jigsaw->getDestinationPath());
-});
+// $events->afterBuild(App\Listeners\GenerateSitemap::class);
+// $events->afterBuild(App\Listeners\GenerateIndex::class);
+
 
 function media($path)
 {
@@ -17,7 +26,7 @@ function media($path)
 
 function content_sanitize($value)
 {
-    return str_replace(["\r", "\n", "\r\n", '  '], ' ', strip_tags($value));
+    return str_replace(["\r", "\n", "\r\n", '  '], ' ', strip_tags($value) ?? '');
 }
 
 function str_limit_soft($value, $limit = 100, $end = '...')
@@ -27,13 +36,4 @@ function str_limit_soft($value, $limit = 100, $end = '...')
     }
 
     return rtrim(strtok(wordwrap($value, $limit, "\n"), "\n"), ' .') . $end;
-}
-
-
-
-function posts_filter($posts, $tag)
-{
-    return $posts->filter(function ($post) use ($tag) {
-        return collect($post->tags)->contains($tag->name());
-    });
 }

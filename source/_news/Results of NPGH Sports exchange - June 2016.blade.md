@@ -1,6 +1,6 @@
 ---
 title: "Results of NPGH Sports exchange - June 2016"
-date: 
+date: 1970-01-01
 description: "Well done to our girls sports teams that went to New Plymouth Girls High school yesterday, Wednesday 29 June for an inter school..  photo's to follow.."
 image: http://c1940652.r52.cf0.rackcdn.com/5779ba29b8d39a20710004f3/13567115_629272293888547_8660021468943798487_n.jpg
 excerpt: "Well done to our girls sports teams that went to New Plymouth Girls High school yesterday, Wednesday 29 June for an inter school..  photo's to follow.."

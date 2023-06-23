@@ -1,6 +1,6 @@
 ---
 title: "A New Era of Digital Exams for Whanganui High School"
-date: 
+date: 1970-01-01
 description: "This puts Whanganui High School right at the cutting-edge of assessment readiness within New Zealand secondary schools..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a0dec86b8d39a25b600024f/Photo-of-WHS.jpg
 excerpt: "This puts Whanganui High School right at the cutting-edge of assessment readiness within New Zealand secondary schools."

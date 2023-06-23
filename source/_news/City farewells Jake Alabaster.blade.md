@@ -1,6 +1,6 @@
 ---
 title: "City farewells Jake Alabaster"
-date: 
+date: 1970-01-01
 description: "Jake Mitchell Alabaster was brought onto the Cooks Gardens rugby field one final time in front of his biggest crowd yesterday afternoon..."
 image: http://c1940652.r52.cf0.rackcdn.com/59dad23fb8d39a787b00034c/Jake-crowd-in-rain.jpg
 excerpt: "Jake Mitchell Alabaster was brought onto the Cooks Gardens rugby field one final time in front of his biggest crowd yesterday afternoon."

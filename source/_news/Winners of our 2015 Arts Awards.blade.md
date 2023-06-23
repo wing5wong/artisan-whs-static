@@ -1,6 +1,6 @@
 ---
 title: "Winners of our 2015 Arts Awards"
-date: 
+date: 1970-01-01
 description: "Congratulations to the Winners of our Arts Awards held on the evening of Thursday 22 October 2015 in our School Hall.  Read the full story for photos..."
 image: http://c1940652.r52.cf0.rackcdn.com/562977a8b8d39a7a410009f5/Cultual-Prefects.jpg
 excerpt: "Congratulations to the Winners of our Arts Awards held on the evening of Thursday 22 October 2015 in our School Hall.  Read the full story for photos..."

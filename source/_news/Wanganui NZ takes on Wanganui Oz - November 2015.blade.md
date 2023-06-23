@@ -1,6 +1,6 @@
 ---
 title: "Wanganui NZ takes on Wanganui Oz - November 2015"
-date: 
+date: 1970-01-01
 description: "A UNIQUE 10-year-old relationship was again celebrated last week when the Wanganui High School junior ranks hosted an Australian College, Wanganui Chronicle article on 25/11/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/564d0a14b8d39a2136001c04/Both-teams-photo-together-nice.jpg
 excerpt: "The Sport Whanganui review of college sport in the region continues with a look at a busy week for Wanganui High School. A UNIQUE 10-year-old relationship was again celebrated last week when the Wanganui High School junior ranks hosted an Australian College, Wanganui Chronicle article on 25/11/15..."

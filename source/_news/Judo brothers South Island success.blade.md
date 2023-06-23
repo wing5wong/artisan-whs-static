@@ -1,6 +1,6 @@
 ---
 title: "Judo brothers South Island success"
-date: 
+date: 1970-01-01
 description: "Brothers, Keightley and Callaghan Watson came back with three gold medals and two silvers from the South Island Judo Championships in Christchurch..."
 image: http://c1940652.r52.cf0.rackcdn.com/59c05661b8d39a2589000176/Keightley--bro-Sept-2017.jpg
 excerpt: "Brothers, Keightley and Callaghan Watson came back with three gold medals and two silvers from the South Island Judo Championships in Christchurch."

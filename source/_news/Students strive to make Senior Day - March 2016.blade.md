@@ -1,6 +1,6 @@
 ---
 title: "Students strive to make Senior Day - March 2016"
-date: 
+date: 1970-01-01
 description: "Year 9 and 10 students had goals to aspire to during yesterday's Wanganui High School Junior Athletics Day at Cooks Gardens, Wanganui Chronicle article on 3/3/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/56dcb4c6b8d39a3ca300107f/100m-run.-Katelyn-Satherley.jpg
 excerpt: "Year 9 and 10 students had goals to aspire to during yesterday's Wanganui High School Junior Athletics Day at Cooks Gardens, Wanganui Chronicle article on 3/3/16..."

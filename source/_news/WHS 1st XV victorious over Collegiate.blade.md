@@ -1,6 +1,6 @@
 ---
 title: "WHS 1st XV victorious over Collegiate"
-date: 
+date: 1970-01-01
 description: "Collegiate halfback and captain Josh Lennox is caught by the Whanganui High School tacklers in the big game at Cooks Gardens on Wednesday night, Wanganui Chronicle article on 12/8/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/57b2623bff2a7c38fb00139a/WHS-1st-XV-beat-Collegiate-at-Cooks-on-10-Aug-2016.jpg
 excerpt: "Collegiate halfback and captain Josh Lennox is caught by the Whanganui High School tacklers in the big game at Cooks Gardens on Wednesday night."

@@ -1,6 +1,6 @@
 ---
 title: "Volleyball Tournament"
-date: 
+date: 1970-01-01
 description: "WHS Volleyball teams competing at the National Secondary School Volleyball Champs held at Central Energy Trust Arena, Palmerston North, 26 March - 31 March 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e59f8fb8d39a463b0003d2/goodboysIMG_0282-Judah-faking.jpg
 excerpt: "WHS Volleyball teams competing at the National Secondary School Volleyball Champs held at Central Energy Trust Arena, Palmerston North, 26 March - 31 March 2017."

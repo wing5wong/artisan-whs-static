@@ -1,6 +1,6 @@
 ---
 title: "Local presenter has plenty on boil - June 2016"
-date: 
+date: 1970-01-01
 description: "FRIEND VERSUS FRIEND: Former WHS student, Lou Tyson [left] was in a cook-off against her friend Jethro Gardiner, Wanganui Chronicle article on 22/6/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/576afbbeb8d39a20710001ae/Lou-Tyson.-cook-off.Chron-22.6.16.jpg
 excerpt: "FRIEND VERSUS FRIEND: Lou Tyson [left] was in a cook-off against her friend Jethro Gardiner."

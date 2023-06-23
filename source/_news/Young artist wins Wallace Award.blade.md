@@ -1,6 +1,6 @@
 ---
 title: "Young artist wins Wallace Award"
-date: 
+date: 1970-01-01
 description: "Whanganui High School student Tokorangi Poa has won a national award for his artwork..."
 image: http://c1940652.r52.cf0.rackcdn.com/59bedfdfb8d39a258900009a/Tokorangi-Poa-Wallace-Award-16-Sept-chron.jpg
 excerpt: "Whanganui High School student Tokorangi Poa has won a national award for his artwork."

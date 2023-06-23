@@ -1,6 +1,6 @@
 ---
 title: "WHS v New Plymouth Girls High School - July 2015"
-date: 
+date: 1970-01-01
 description: "WHS hosted New Plymouth Girls High School on Thursday 23 July 2015 in our Annual Inter School fixture."
 image: http://c1940652.r52.cf0.rackcdn.com/55b58e48ff2a7c73630002eb/WHS-v-NPGHS-Netball-shooting-23.gif
 excerpt: "WHS hosted New Plymouth Girls High School on Thursday 23 July 2015 in our Annual Inter School fixture."

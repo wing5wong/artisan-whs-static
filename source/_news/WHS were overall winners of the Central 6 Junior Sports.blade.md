@@ -1,6 +1,6 @@
 ---
 title: "WHS were overall winners of the Central 6 Junior Sports"
-date: 
+date: 1970-01-01
 description: "WHS were overall winners of the Central 6 Junior Sports on Friday in Wanganui on Friday 18 November 2016."
 image: http://c1940652.r52.cf0.rackcdn.com/5832258db8d39a29820000bc/15109501_700055603476882_7242291790808664068_n.jpg
 excerpt: "WHS were overall winners of the Central 6 Junior Sports on Friday in Wanganui on Friday 18 November 2016."

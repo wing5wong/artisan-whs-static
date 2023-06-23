@@ -1,6 +1,6 @@
 ---
 title: "In it to win it or run for fun"
-date: 
+date: 1970-01-01
 description: "Rebecca Baker leads the way to win the junior girls' race at the Whanganui High School cross country at Springvale Park yesterday..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a1245d1b8d39a25b60003e0/Rebecca-Baker-chron-PHOTO-ONLY-29-June.jpg
 excerpt: "Rebecca Baker leads the way to win the junior girls' race at the Whanganui High School cross country at Springvale Park yesterday."

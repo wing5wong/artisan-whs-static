@@ -1,6 +1,6 @@
 ---
 title: "New Wanganui team prove prowess - September 2015"
-date: 
+date: 1970-01-01
 description: "TEAM STAR: Wanganui's Hannah Smith (former WHS student) was the best local performer at the artistic skating national championships in Taranaki, Wanganui Chronicle article on 11/9/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/55f1f8deb8d39a378700002a/Skating-former-Hannah-Smith-11.9.15.jpg
 excerpt: "TEAM STAR: Wanganui's Hannah Smith (former WHS student) was the best local performer at the artistic skating national championships in Taranaki."

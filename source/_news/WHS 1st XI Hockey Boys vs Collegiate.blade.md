@@ -1,6 +1,6 @@
 ---
 title: "WHS 1st XI Hockey Boys vs Collegiate"
-date: 
+date: 1970-01-01
 description: "Congratulations to our WHS 1st XI Hockey Boys for their win against Collegiate 4-1; Thursday 4 August."
 image: http://c1940652.r52.cf0.rackcdn.com/57a9319fff2a7c38fb00118a/main-shot.jpg
 excerpt: "Congratulations to our WHS 1st XI Hockey Boys for their win against Collegiate 4-1; Thursday 4 August."

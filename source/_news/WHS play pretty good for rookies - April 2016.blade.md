@@ -1,6 +1,6 @@
 ---
 title: "WHS play pretty good for rookies - April 2016"
-date: 
+date: 1970-01-01
 description: "FOR first-timers in the format, the WHS basketballers acquitted themselves very well by finishing 4th in both the Junior & Senior boys divisions at the BBNZ SS 3X3 National Slam in Auckland..."
 image: http://c1940652.r52.cf0.rackcdn.com/5732ab04b8d39a469d000783/WHS-boys-with-NZ-3x3-team.jpg
 excerpt: "FOR first-timers in the format, the Wanganui High School basketballers acquitted themselves very well by finishing fourth in both the Junior and Senior boys divisions at the BBNZ Secondary School 3X3 National Slam in Auckland last weekend."

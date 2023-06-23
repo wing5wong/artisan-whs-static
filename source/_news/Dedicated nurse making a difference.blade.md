@@ -1,6 +1,6 @@
 ---
 title: "Dedicated nurse making a difference"
-date: 
+date: 1970-01-01
 description: "Former WHS student Deborah Adesanya on tour with the world's largest civilian hospital ship..."
 image: http://c1940652.r52.cf0.rackcdn.com/59cc26a2b8d39a191700048f/Deborah-Adesanya-nursing-overseas-28-sept-chron.jpg
 excerpt: "Former Whanganui High School student Deborah Adesanya on tour with the world's largest civilian hospital ship, helping children in need in West Africa."

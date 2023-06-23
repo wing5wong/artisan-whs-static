@@ -1,6 +1,6 @@
 ---
 title: "Congratulations Ethan Mancer - NZSS Brass Band 2017"
-date: 
+date: 1970-01-01
 description: "Congratulations to WHS student Ethan Mancer who has been selected for the NZ Secondary Schools Brass band 2017 – Principle Euphonium player."
 image: http://c1940652.r52.cf0.rackcdn.com/59795ff4b8d39a1a9e000c2a/Ethan-Mancer.jpg
 excerpt: "Congratulations to WHS student Ethan Mancer who has been selected for the NZ Secondary Schools Brass band 2017 – Principle Euphonium player."

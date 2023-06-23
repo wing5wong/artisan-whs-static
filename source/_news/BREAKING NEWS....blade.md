@@ -1,6 +1,6 @@
 ---
 title: "BREAKING NEWS..."
-date: 
+date: 1970-01-01
 description: "WHS are the NATIONAL WINNERS of 2016 STAGE CHALLENGE: 
 '29 Below' depicting the Pike Mine Disaster.
 WELL DONE to the Teachers, Cast & Crew!!!"

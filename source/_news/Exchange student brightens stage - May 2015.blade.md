@@ -1,6 +1,6 @@
 ---
 title: "Exchange student brightens stage - May 2015"
-date: 
+date: 1970-01-01
 description: "LIGHTING MAN: Exchange student Julius Stoerrle manned the lighting desk for Annie, from Wanganui Midweek article on 6/5/15..."
 image: http://c1940652.r52.cf0.rackcdn.com/5553f3ddb8d39a0358000a78/Julius-Stoerrle,exchange-student-13.5.15.jpg
 excerpt: ""

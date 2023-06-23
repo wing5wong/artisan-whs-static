@@ -1,6 +1,6 @@
 ---
 title: "Cultural Festival a great success"
-date: 
+date: 1970-01-01
 description: "Wanganui High School Cultural Festival 2015.
 What a great night. Flooding in Wanganui but almost 400 people turned out to celebrate all the cultural groups at school."
 image: http://c1940652.r52.cf0.rackcdn.com/55873f3cb8d39a3ca4000014/Int-Cult-Fest-group-on-stage.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Intriguing local derby - June 2016"
-date: 
+date: 1970-01-01
 description: "Colts clash sees Whanganui High School as early favourite playing at home, Wanganui Chronicle article on 16/6/16..."
 image: 
 excerpt: "Colts clash sees Whanganui High School as early favourite playing at home, Wanganui Chronicle article on 16/6/16..."

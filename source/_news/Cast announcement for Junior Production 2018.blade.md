@@ -1,6 +1,6 @@
 ---
 title: "Cast announcement for Junior Production 2018"
-date: 
+date: 1970-01-01
 description: "Cast announcement for WHS Junior Production 2018, Once On This Island..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a31a8afb8d39a6f2d00009f/Once-On-This-Island-poster.jpg
 excerpt: "Cast announcement for WHS Junior Production 2018, Once On This Island."

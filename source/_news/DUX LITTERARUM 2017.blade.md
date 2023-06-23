@@ -1,6 +1,6 @@
 ---
 title: "DUX LITTERARUM 2017"
-date: 
+date: 1970-01-01
 description: "Congratulations to our Whanganui High School DUX LITTERARUM for 2017: ALISTER HUGHES..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a1dc411b8d39a25b6000a98/DUX-Alister-Hughes-with-green-background.jpg
 excerpt: "Congratulations to our Whanganui High School DUX LITTERARUM for 2017: ALISTER HUGHES."

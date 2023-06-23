@@ -1,6 +1,6 @@
 ---
 title: "Auaha release flood-inspired album"
-date: 
+date: 1970-01-01
 description: "Whanganui musicians Auaha have released their highly anticipated album Te Pari o Auahatanga. Former WHS student, Te Paerata Tichbon..."
 image: http://c1940652.r52.cf0.rackcdn.com/59547914b8d39a317d00002a/TePaerata-Tichbon-band-Auaha-Chron-June.jpg
 excerpt: "Whanganui musicians Auaha have released their highly anticipated album Te Pari o Auahatanga, The Flood of Inspiration. One of the members is former WHS student, Te Paerata Tichbon."

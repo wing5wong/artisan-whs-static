@@ -1,6 +1,6 @@
 ---
 title: "All the best to our Touch students in the NZ Touch Nationals"
-date: 
+date: 1970-01-01
 description: "WHS have 19 students representing the School and Wanganui at the NZ Touch Nationals is Christchurch this weekend."
 image: 
 excerpt: "WHS have 19 students representing the School and Wanganui at the NZ Touch Nationals is Christchurch this weekend."

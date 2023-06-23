@@ -1,6 +1,6 @@
 ---
 title: "Pantomime fun for the whole family"
-date: 
+date: 1970-01-01
 description: "The cast of Red Riding Hood dominated by WHS students, opening at Repertory Theatre in December 2016..."
 image: http://c1940652.r52.cf0.rackcdn.com/583caebab8d39a5f270000c6/Red-Riding-Hood-cast-of-Nov-2016.jpg
 excerpt: "The cast of Red Riding Hood dominated by WHS students, opening at Repertory Theatre in December 2016."

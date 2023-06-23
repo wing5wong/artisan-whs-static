@@ -1,6 +1,6 @@
 ---
 title: "Visual Art Award winners at Cultural Arts night"
-date: 
+date: 1970-01-01
 description: "Visual Art Award winners at Cultural Arts night on 2 November at the Opera House..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a1e3691b8d39a25b6000afc/Toka-with-cup.jpg
 excerpt: "Visual Art Award winners at Cultural Arts night on 2 November at the Opera House."

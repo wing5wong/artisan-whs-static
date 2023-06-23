@@ -1,6 +1,6 @@
 ---
 title: "UNA NZ Speech Awards"
-date: 
+date: 1970-01-01
 description: "Congratulations for WHS student Emelye Brown for representing the Whanganui region in the National United Nations Speech Competition..."
 image: http://c1940652.r52.cf0.rackcdn.com/597a896bb8d39a1a9e000ca6/Emelye-Brown-MUNS-speech-comp-July-2017.jpg
 excerpt: "Congratulations for WHS student Emelye Brown for representing the Whanganui region in the National United Nations Speech Competition held in Wellington on 30 June 2017."

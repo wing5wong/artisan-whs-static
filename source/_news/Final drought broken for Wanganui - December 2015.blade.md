@@ -1,6 +1,6 @@
 ---
 title: "Final drought broken for Wanganui - December 2015"
-date: 
+date: 1970-01-01
 description: "FINALLY: After finishing runners-up two years on end, coach Sean Brown has guided his Wanganui High School mixed touch team to victory in the New Zealand Secondary Schools Championships."
 image: http://c1940652.r52.cf0.rackcdn.com/56777da1b8d39a2c7c00096a/Mixed-touch-team-NZ-SS-Champ-winners-2015.jpg
 excerpt: "FINALLY: After finishing runners-up two years on end, coach Sean Brown has guided his Wanganui High School mixed touch team to victory in the New Zealand Secondary Schools Championships."

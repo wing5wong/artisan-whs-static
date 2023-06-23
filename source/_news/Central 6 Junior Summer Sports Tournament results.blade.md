@@ -1,6 +1,6 @@
 ---
 title: "Central 6 Junior Summer Sports Tournament results"
-date: 
+date: 1970-01-01
 description: "Results from the Central 6 Junior Summer Sports Tournament, which was held..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a178e59b8d39a25b60008f5/good-girls.jpg
 excerpt: "Results from the Central 6 Junior Summer Sports Tournament, which was held in Wanganui on Friday 17 November."

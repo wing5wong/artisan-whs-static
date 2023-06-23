@@ -1,6 +1,6 @@
 ---
 title: "â€˜The Surgery Shipâ€™ TV Series"
-date: 
+date: 1970-01-01
 description: "Former WHS student Deborah Adesanya, will have one of her patients feature in the upcoming TV series â€˜The Surgery Shipâ€™ screening on National Geographic.."
 featured-image: 
 excerpt: "Former WHS student Deborah Adesanya, will have one of her patients feature in the upcoming TV series â€˜The Surgery Shipâ€™ screening on National Geographic."

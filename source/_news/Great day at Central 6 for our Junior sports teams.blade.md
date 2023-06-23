@@ -1,6 +1,6 @@
 ---
 title: "Great day at Central 6 for our Junior sports teams"
-date: 
+date: 1970-01-01
 description: "Great day at Central 6 in Palmerston Nth on Monday 8 August for our WHS Junior sports teams..."
 image: http://c1940652.r52.cf0.rackcdn.com/59af4110b8d39a35a5000793/good.330jpg.jpg
 excerpt: "Great day at Central 6 in Palmerston Nth on Monday 8 August for our WHS Junior sports teams."

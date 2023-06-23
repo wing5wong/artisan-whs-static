@@ -1,6 +1,6 @@
 ---
 title: "Big step up awaits squad to represent Wanganui - August 2015"
-date: 
+date: 1970-01-01
 description: "While a few players have solid representative experience, it will be a new level for the Netball Wanganui senior team announced today to prepare for the 2015 Lion Foundation Netball Championships."
 image: 
 excerpt: "While a few players have solid representative experience, it will be a new level for the Netball Wanganui senior team announced today to prepare for the 2015 Lion Foundation Netball Championships, Wanganui Chronicle article on 29/8/15..."

@@ -1,6 +1,6 @@
 ---
 title: "Results of Hawera Sports Exchange"
-date: 
+date: 1970-01-01
 description: "Great sports exchange today, Thursday 2 June, at school against Hawera High School.. photo's to follow.."
 image: http://c1940652.r52.cf0.rackcdn.com/5779bfaab8d39a2071000515/13335808_617123458436764_3148174644201918237_n.jpg
 excerpt: "Great sports exchange today, Thursday 2 June, at school against Hawera High School."

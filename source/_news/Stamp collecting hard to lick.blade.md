@@ -1,6 +1,6 @@
 ---
 title: "Stamp collecting hard to lick"
-date: 
+date: 1970-01-01
 description: "Whanganui High School geography and history teacher, Bevan Hunter is in his stamp element at the stamp and coin fair..."
 image: http://c1940652.r52.cf0.rackcdn.com/59ae0e87b8d39a35a500067b/Bevan-Hunter-Geo-teacher-stamp-collection-chron.jpg
 excerpt: "Whanganui High School geography and history teacher, Bevan Hunter is in his stamp element at the stamp and coin fair."

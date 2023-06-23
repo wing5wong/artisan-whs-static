@@ -1,6 +1,6 @@
 ---
 title: "Golden streak continues - February 2015"
-date: 
+date: 1970-01-01
 description: "ARAMOHO Wanganui Rowing Club's hot streak continued on Lake Ruataniwha from the second day of A Finals at the Bankstream NZ Rowing Champs at Twizel yesterday, Wanganui Chronicle article 21 Feb 2015..."
 image: http://c1940652.r52.cf0.rackcdn.com/54e991d8ff2a7c55b6002b60/Wanganui-Rowing-Club.jpg
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 title: "Talent Quest Winners"
-date: 
+date: 1970-01-01
 description: "Congratulations to the winners of our Talent Quest:-  1st Seth Scimshaw;  2nd Finn Brown, Connor Bourne, Mitchell Brett-Atkins;  3rd Te Paerata Tichbon, Eleishah Hodson."
 image: http://c1940652.r52.cf0.rackcdn.com/55ff581eb8d39a3787000e9a/Talent-Quest-98.jpg
 excerpt: "Congratulations to the winners of our Talent Quest:-  1st Seth Scimshaw;  2nd Finn Brown, Connor Bourne, Mitchell Brett-Atkins;  3rd Te Paerata Tichbon, Eleishah Hodson."

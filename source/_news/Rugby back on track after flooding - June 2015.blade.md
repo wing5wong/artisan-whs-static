@@ -1,6 +1,6 @@
 ---
 title: "Rugby back on track after flooding - June 2015"
-date: 
+date: 1970-01-01
 description: "The Wanganui High School 1st XV will tackle Eketahuna-Bush on Saturday in its first home game of the Manawatu Colts division competition, Wanganui Chronicle article on 25/6/15..."
 image: 
 excerpt: ""

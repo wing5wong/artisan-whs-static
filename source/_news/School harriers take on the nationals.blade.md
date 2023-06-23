@@ -1,6 +1,6 @@
 ---
 title: "School harriers take on the nationals"
-date: 
+date: 1970-01-01
 description: "Libby Abbott (left), Rebecca Baker and Renee Teers ran their hearts out for WHS at the NZSS Cross Country in Christchurch..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e57b9ab8d39a463b00039a/Libby-Rebecca--Renee-NZSS-cross-country-12-July.jpg
 excerpt: "Libby Abbott (left), Rebecca Baker and Renee Teers ran their hearts out for WHS at the NZSS Cross Country in Christchurch."

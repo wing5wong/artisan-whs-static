@@ -1,6 +1,6 @@
 ---
 title: "Singers helping singers in Whanganui"
-date: 
+date: 1970-01-01
 description: "Joanna Love (WHS teacher) & Rosemary McGregor (front) present Lyn Hughes, Audrey Fowler, Vivienne Stevenson & Dorothy Trail with a funding boost..."
 image: http://c1940652.r52.cf0.rackcdn.com/5a83900cb8d39a42a40005dd/Untitled-1.jpg
 excerpt: "Joanna Love (WHS teacher) and Rosemary McGregor (front) present Lyn Hughes, Audrey Fowler, Vivienne Stevenson and Dorothy Trail with a funding boost."

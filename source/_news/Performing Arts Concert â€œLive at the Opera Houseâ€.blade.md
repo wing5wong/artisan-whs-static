@@ -1,6 +1,6 @@
 ---
 title: "Performing Arts Concert â€œLive at the Opera Houseâ€"
-date: 
+date: 1970-01-01
 description: "The best of the best WHS Performing Arts students took to the stage at The Royal Wanganui Opera House on 2 September 2017..."
 featured-image: 
 excerpt: "The best of the best WHS Performing Arts students took to the stage at The Royal Wanganui Opera House on 2 September 2017."

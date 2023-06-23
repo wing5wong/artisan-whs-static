@@ -1,6 +1,6 @@
 ---
 title: "School visit thrill for Indian teens"
-date: 
+date: 1970-01-01
 description: "Students from Indraprastha International School with their homestay \"siblings\" from Whanganui High School..."
 image: http://c1940652.r52.cf0.rackcdn.com/59361e20b8d39a0f85000347/Indian-students-say-farewell-to-Whanganui-after-a-spell-at-High-School-chron-June.jpg
 excerpt: "Students from Indraprastha International School with their homestay \"siblings\" from Whanganui High School."

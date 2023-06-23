@@ -3,7 +3,7 @@ title: ENI0
 name: English Introductory/Internal
 code: ENI0
 subject_area: English (Introductory/Internal)
-date: 2023-06-21T02:34:46.989Z
+date: 2021-06-28T00:02:59.350Z
 year: "10"
 type: Compulsory
 course_duration: 26 Weeks
@@ -19,7 +19,7 @@ invitation_only: true
 
 **Content:**
 
-These students are working towards Level 4 of the curriculum. Students learn to use and respond to English language and literature through personal reading, writing, speaking, listening, viewing and presenting. This occurs both individually and in group situations. Texts include novels, non-fiction books, poetry, short stories, film and drama. Students will complete most of their work on Google Classroom.
+Students learn to use and respond to English language and literature through personal reading, writing, speaking, listening, viewing and presenting. This occurs both individually and in group situations. Texts include novels, non-fiction books, poetry, short stories, film and drama. Students will complete most of their work on Google Classroom.
 
 **Assessment:**
 

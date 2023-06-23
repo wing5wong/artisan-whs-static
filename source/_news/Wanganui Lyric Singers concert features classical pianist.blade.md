@@ -1,6 +1,6 @@
 ---
 title: "Wanganui Lyric Singers concert features classical pianist"
-date: 
+date: 1970-01-01
 description: "One of the featured guest artists in the Wanganui Lyric Singers’ end of year concert on Saturday, November 28, is classical pianist, Liam Wooding. Titled “Up, Up & Away”, this concert is raising money"
 image: http://c1940652.r52.cf0.rackcdn.com/565ce13eb8d39a21360028e9/Liam-Wooding-at-the-piano-RCP-Nov-2015.jpg
 excerpt: "One of the featured guest artists in the Wanganui Lyric Singers’ end of year concert on Saturday, November 28, is classical pianist, Liam Wooding. Titled “Up, Up & Away”, this concert is raising money towards the Palmerston North Rescue Helicopter Service."

@@ -1,6 +1,6 @@
 ---
 title: "Wanganui SS Mountain Bike Champs - June 2015"
-date: 
+date: 1970-01-01
 description: "Well done to our students who represented the school in the Wanganui Secondary School Mountain Bike Champs on Friday 12 June at Harakeke Forest in Wanganui..."
 image: http://c1940652.r52.cf0.rackcdn.com/55887bdaff2a7c19eb000122/NISS-MTB-Champs-AK-12.6.15-10.jpg
 excerpt: "Well done to our students who represented the school in the Wanganui Secondary School Mountain Bike Champs on Friday 12 June at Harakeke Forest in Wanganui..."

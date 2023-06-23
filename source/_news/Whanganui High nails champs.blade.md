@@ -1,6 +1,6 @@
 ---
 title: "Whanganui High nails champs"
-date: 
+date: 1970-01-01
 description: "WHS motocross riders Blake Rountree, James Rountree & Oliver Dennison with their trophy from the Taranaki Secondary Schools championships..."
 image: http://c1940652.r52.cf0.rackcdn.com/58d1a2d1b8d39a424900000a/Rountree-x2--Oliver-Dennison-Taranaki-SS-champs-March-2017.jpg
 excerpt: "Whanganui High School motocross riders Blake Rountree, James Rountree and Oliver Dennison with their trophy from the Taranaki Secondary Schools championships on Sunday."

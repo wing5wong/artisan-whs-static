@@ -1,6 +1,6 @@
 ---
 title: "Awesome night at WSS Athletics"
-date: 
+date: 1970-01-01
 description: "WHS had an awesome night at the Whanganui Secondary Schools Athletic Championships  at Cooks Gardens on Wednesday 15 March 2017..."
 image: http://c1940652.r52.cf0.rackcdn.com/59e598d6b8d39a463b0003c0/Rebecca-Baker-running.jpg
 excerpt: "WHS had an awesome night at the Whanganui Secondary Schools Athletic Championships  at Cooks Gardens on Wednesday 15 March 2017."

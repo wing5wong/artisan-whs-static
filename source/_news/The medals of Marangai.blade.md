@@ -1,6 +1,6 @@
 ---
 title: "The medals of Marangai"
-date: 
+date: 1970-01-01
 description: "WHS student Lionel Treweek (left), Sue Laugesen and Rob McMillan with their medals from the NZ Nationals in Palmerston North last weekend, Wanganui Chronicle article on 26/8/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/57c35255b8d39a2071001843/Lionel-Treweek-Archery-Chron-26-Aug-2016.jpg
 excerpt: "WHS student Lionel Treweek (left), Sue Laugesen and Rob McMillan with their medals from the NZ Nationals in Palmerston North last weekend."

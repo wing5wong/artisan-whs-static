@@ -1,6 +1,6 @@
 ---
 title: "Law graduates say computers won't replace them"
-date: 
+date: 1970-01-01
 description: "New graduates: Former WHS student Jai Stephens (left) and Elliot Copeland are enjoying the range of opportunities a provincial law firm provides."
 image: http://c1940652.r52.cf0.rackcdn.com/59cac8b7b8d39a19170003ba/Jai-Stephens-ex-now-with-Horsley.jpg
 excerpt: "New graduates: Former WHS student Jai Stephens (left) and Elliot Copeland are enjoying the range of opportunities a provincial law firm provides."

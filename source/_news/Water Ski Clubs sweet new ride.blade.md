@@ -1,6 +1,6 @@
 ---
 title: "Water Ski Club's sweet new ride"
-date: 
+date: 1970-01-01
 description: "Checking out the Wanganui Water Ski Club's new support boat are national under 17 champion WHS student Lily Meade, Trevor Fowler and Molly Deroles..,"
 image: http://c1940652.r52.cf0.rackcdn.com/583203a3b8d39a2982000064/Lily-Meade-WU-water-ski-club-new-boat-chron-21-nov.jpg
 excerpt: "Checking out the Wanganui Water Ski Club's new support boat are national under 17 champion WHS student Lily Meade, Trevor Fowler and Molly Deroles."

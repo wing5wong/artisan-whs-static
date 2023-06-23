@@ -1,6 +1,6 @@
 ---
 title: "Artist lends her skills to theatre"
-date: 
+date: 1970-01-01
 description: "POSTER GIRL: WHS student Niamh O'Connell with her Red Riding Hood poster, Wanganui Midweek article on 9/11/16..."
 image: http://c1940652.r52.cf0.rackcdn.com/582916a7b8d39a7ade000128/Niamh-OConnell-little-red-riding-hood-midweek-9-Nov.jpg
 excerpt: "POSTER GIRL: WHS student Niamh O'Connell with her Red Riding Hood poster."

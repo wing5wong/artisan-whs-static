@@ -1,6 +1,6 @@
 ---
 title: "Hard work reaps film reward"
-date: 
+date: 1970-01-01
 description: "Former WHS student, Abby Kingi is 'out there doing it' as co-owner and co-founder of Whanganui multi-media business Lamp Studios..."
 image: http://c1940652.r52.cf0.rackcdn.com/58bca4abb8d39a3eff003c61/Abby-Kingi-ex-WHS-WU-film-maker-March-2017.jpg
 excerpt: "Former WHS student, Abby Kingi is 'out there doing it' as co-owner and co-founder of Whanganui multi-media business Lamp Studios."
