@@ -1,6 +1,6 @@
 ---
 title: Battle of the Houses 2023 coming soon - sign up now!
-date: 2023-06-26T05:05:17.037Z
+date: 2023-06-27T05:05:17.037Z
 ---
 **Sign up for the Battle of the Houses 2023!** 
 
