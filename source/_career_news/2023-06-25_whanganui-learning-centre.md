@@ -1,5 +1,5 @@
 ---
-title: Whanganui Learning Centre
+title: Whanganui Learning Centre (Intensive Learner Licence)
 date: 2023-06-25T22:49:02.578Z
 closing_date: 2023-06-25T22:49:02.587Z
 ---
