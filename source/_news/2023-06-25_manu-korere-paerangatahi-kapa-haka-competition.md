@@ -1,5 +1,5 @@
 ---
-title: Manu Korere & Paerangatahi Kapa Haka Competition
+title: Manu Korero & Paerangatahi Kapa Haka Competition
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1687726813/News/P1-Puna_ora_1.jpg
 news_author:
