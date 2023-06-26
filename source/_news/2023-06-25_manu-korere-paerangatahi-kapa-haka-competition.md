@@ -14,7 +14,7 @@ date: 2023-06-25T21:07:38.232Z
 ---
 
 
-In terms of Manu Korero because we were on stage with Teri-ellen I wasn't able to capture her performance however I am waiting for the recordings and photographs to be released by the organising committee. A brief summary though, Teri-ellen's stand was calm, composed, structured and well delivered. She rose to the challenge and if there were any nerves going on for her, she managed them well as it did not show. We didn't place but Teri-ellen walked away with a rich cultural experience in Te Ao Maaori, seeing rangatahi like herself and others to potentially aspire to. A big thank you to her whaanau who have been alongside us throughout the whole journey.  It was a team effort. 
+Teri-Ellen's stand was calm, composed, structured and well delivered. She rose to the challenge and if there were any nerves going on for her, she managed them well as it did not show. We didn't place but Teri-ellen walked away with a rich cultural experience in Te Ao Maaori, seeing rangatahi like herself and others to potentially aspire to. A big thank you to her whaanau who have been alongside us throughout the whole journey.  It was a team effort. 
 
  
 
@@ -26,7 +26,7 @@ We are still humbled to have received the invitation 6 weeks out from the compet
 
  
 
-E kore too taato puna aroha e mimiti mo taatou, engari he Puna e ora ai ana mo ake tonu atu!
+E kore too taatou puna aroha e mimiti mo taatou, engari he Puna e ora ai ana mo ake tonu atu!
 
  
 
