@@ -3,7 +3,7 @@ title: IEN1
 name: International English
 code: IEN1
 subject_area: International English
-date: 2021-06-28T01:06:23.464Z
+date: 2023-06-27T23:49:21.466Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
@@ -17,8 +17,11 @@ standards:
   - "31008"
   - "90853"
   - "90857"
-notes: "'This course is available to students of all year levels with English as
-  a second language. Level 1 (English) 7+ credits / Level 3 (English Language)'"
+notes: >-
+  'This course is available to students of all year levels with English as a
+  second language. Level 1 (English) 7+ credits / Level 3 (English Language)'
+
+  Currently some or all of the following standards are being offered, however changes to expiring standards in 2023 may result in the addition of alternative standards.
 course_fees: Included in International Student fee
 ---
 To assist English as a Second Language students to further develop their English skills to attain Level One English standards, and/or to achieve Level Three English Language (previously ESOL) standards in reading and writing.
