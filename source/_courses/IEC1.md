@@ -3,7 +3,7 @@ title: IEC1
 name: International English Communication
 code: IEC1
 subject_area: International English Communication
-date: 2021-06-28T01:01:10.551Z
+date: 2023-06-27T23:54:11.055Z
 year: "11"
 type: Compulsory
 course_duration: Full Year
@@ -19,8 +19,11 @@ standards:
   - "31014"
   - "31020"
   - "31025"
-notes: This course is available to students of all year levels with English as a
+notes: >-
+  This course is available to students of all year levels with English as a
   second language.
+
+  Currently some or all of the following standards are being offered, however changes to expiring standards in 2023 may result in the addition of alternative standards.
 course_fees: Included in International Student Fee
 ---
 To help English as a Second Language students to communicate in simple English. The course involves listening to others and responding confidently in spoken and written forms. English Language standards.
