@@ -1,9 +1,9 @@
 ---
-title: PMA2
+title: PFL2
 name: Progressive Financial Literacy
-code: PMA2
+code: PFL2
 subject_area: Progressive Financial Literacy
-date: 2023-06-15T02:55:05.261Z
+date: 2023-06-28T00:14:13.583Z
 entry_requirements: HOF/TIC approval
 year: "12"
 type: Subject Choice
