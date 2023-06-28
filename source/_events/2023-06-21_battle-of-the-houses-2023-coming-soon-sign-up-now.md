@@ -1,5 +1,5 @@
 ---
-title: Battle of the Houses 2023 - sign ups close 11:05am Thursday 29 June
+title: Battle of the Houses 2023 - SIGN UPS CLOSE 11:05am Thursday 29 June
 date: 2023-06-29T05:05:17.037Z
 ---
 **Battle of the Houses 2023!** 
