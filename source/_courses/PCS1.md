@@ -1,7 +1,7 @@
 ---
-title: PCS1
+title: PCL1
 name: Progressive Communication Literacy
-code: PCS1
+code: PCL1
 subject_area: Progressive Communication Literacy
 date: 2023-06-15T03:27:53.859Z
 entry_requirements: HOF/TIC approval
