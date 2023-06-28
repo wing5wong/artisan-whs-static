@@ -1,9 +1,9 @@
 ---
-title: PMA1
-name: Progressive Financial Literacy
-code: PMA1
-subject_area: Progressive Financial Literacy
-date: 2023-06-15T01:32:58.734Z
+title: PFN1
+name: Progressive Financial Numeracy & Literacy
+code: PFN1
+subject_area: Progressive Financial Numeracy & Litracy
+date: 2023-06-28T00:12:47.087Z
 entry_requirements: HOF/TIC approval
 year: "11"
 type: Subject Choice
