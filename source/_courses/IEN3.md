@@ -3,7 +3,7 @@ title: IEN3
 name: International English
 code: IEN3
 subject_area: International English
-date: 2021-06-28T01:08:31.731Z
+date: 2023-06-28T00:05:20.389Z
 entry_requirements: 4 University Entrance Literacy credits at Level 2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
@@ -15,6 +15,9 @@ standards:
   - "91105"
   - "91106"
   - "91476"
+notes: Currently some or all of the following standards are being offered,
+  however changes to expiring standards in 2023 may result in the addition of
+  alternative standards.
 course_fees: Included in International Student fee
 ue_approved: true
 ---
