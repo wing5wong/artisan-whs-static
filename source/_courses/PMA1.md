@@ -17,7 +17,7 @@ leads_to:
   - PLS2
   - VES2
   - VEN2
-  - VDF2
+  - VFD2
   - VHT2
   - VMA2
 standards:
