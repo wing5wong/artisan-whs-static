@@ -332,7 +332,8 @@ collections:
       - { label: "Maori Title", name: "maori_title", widget: "string", required: false }
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Code", name: "code", widget: "string" }
-      - { label: "Subject Area", name: "subject_area", required: true, widget: "string" }
+      - { label: "Subject Area", name: "subject_area", required: true, widget: "relation", multiple: true, collection: "subject_areas",
+          search_fields: ["title"], value_field: "title" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Entry Requirements", name: "entry_requirements", widget: "string", required: false }
       - { label: "Year Level", name: year, widget: select, options: ["9","10","11","12","13"] }
