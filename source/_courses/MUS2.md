@@ -3,7 +3,7 @@ title: MUS2
 name: Music
 code: MUS2
 subject_area: Music
-date: 2023-06-30T03:05:38.716Z
+date: 2023-06-30T03:06:14.804Z
 entry_requirements: 3 Years previous instrumental tuition and theory and should
   have completed MUS1 or equivalent. Currently learning an instrument. HOF/TIC
   approval.
@@ -22,5 +22,6 @@ standards:
   - "91274"
   - "91276"
   - "91278"
+endorsement: true
 ---
 To learn about the languages of music, develop ideas in music, communicate and interpret meaning in music and understand music in context at an advancing level. Performance, Composition, and Musical Knowledge.
