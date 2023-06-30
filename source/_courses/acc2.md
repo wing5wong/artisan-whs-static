@@ -3,7 +3,7 @@ title: ACC2
 name: Accounting
 code: ACC2
 subject_area: Accounting
-date: 2023-06-15T22:08:13.387Z
+date: 2023-06-29T23:07:20.684Z
 entry_requirements: 12 Credits in BUS1 or HOD approval.
 year: "12"
 type: Subject Choice

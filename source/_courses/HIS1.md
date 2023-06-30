@@ -12,11 +12,10 @@ assessment_type: Achievement Standard
 leads_to:
   - HIS2
 standards:
-  - "91001"
-  - "91002"
-  - "91003"
-  - "91004"
-  - "91005"
+  - "92024"
+  - "92025"
+  - "92026"
+  - "92027"
 course_fees: null
 endorsement: Yes
 ---
