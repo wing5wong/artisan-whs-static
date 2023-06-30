@@ -3,7 +3,7 @@ title: TECE
 name: Technology Materials
 code: TECE
 subject_area: Technology Materials
-date: 2023-06-15T00:34:17.608Z
+date: 2023-06-30T01:26:21.430Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks
@@ -17,7 +17,7 @@ To develop student's understanding of Materials Technology, and to provide stude
 
 **Content:**
 
-Students will learn essential research, design and manufacturing skills required to work with a range of hard materials in a workshop environment.  This will enable students to produce creative, solutions to given design problems. Students will be taught practical skills and the expectations of safe workshop practice. 3D printing and laser cutting will be used to produce some products.
+Students will learn essential research, design and manufacturing skills required to work with a range of hard materials in a workshop environment.  This will enable students to produce creative solutions to given design problems. Students will be taught practical skills and the expectations of safe workshop practice. 3D printing and laser cutting will be used to produce some products.
 
 **Assessment:**
 
