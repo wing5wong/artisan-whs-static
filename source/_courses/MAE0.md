@@ -3,7 +3,7 @@ title: MAE0
 name: Mathematics Extension
 code: MAE0
 subject_area: Mathematics (Extension)
-date: 2023-06-16T02:40:28.622Z
+date: 2023-07-12T02:39:24.154Z
 entry_requirements: Satisfactory completion of a Year 9 Mathematics course
 year: "10"
 type: Compulsory
