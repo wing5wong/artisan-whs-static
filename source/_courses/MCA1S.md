@@ -4,7 +4,7 @@ maori_title: MCA2/MCS2
 name: Cambridge Extended Mathematics (1)
 code: MCA1S
 subject_area: Cambridge Extended Mathematics
-date: 2023-06-16T03:03:50.082Z
+date: 2023-07-12T02:47:23.427Z
 entry_requirements: Subject teacher recommendation
 year: "11"
 type: Subject Choice
@@ -14,6 +14,7 @@ leads_to:
   - MCA2
   - MCS2
 standards:
+  - "91031"
   - "91574"
 course_fees: $140. Cambridge Examination Fee.
 ---
