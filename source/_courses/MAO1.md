@@ -3,7 +3,7 @@ title: MAO1
 name: Te Reo Māori me ōna Tikanga
 code: MAO1
 subject_area: Te Reo Māori
-date: 2023-07-12T01:56:15.034Z
+date: 2023-07-12T02:03:33.596Z
 entry_requirements: Year 10 Māori and HOF/TIC approval.
 year: "11"
 type: Subject Choice
