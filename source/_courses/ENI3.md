@@ -3,8 +3,8 @@ title: ENI3
 name: English Introductory/Internal
 code: ENI3
 subject_area: English (Introductory/Internal)
-date: 2023-07-12T01:33:43.506Z
-entry_requirements: 10 Level 2 credits and HOF/TIC approval.
+date: 2023-07-12T02:21:17.706Z
+entry_requirements: 10 Level 2 credits or HOF/TIC approval.
 year: "13"
 type: Compulsory
 course_duration: Full Year
