@@ -3,7 +3,7 @@ title: ENE1
 name: English Extension
 code: ENE1
 subject_area: English (Extension)
-date: 2021-06-27T23:25:35.552Z
+date: 2023-07-12T01:07:05.467Z
 entry_requirements: Teacher recommendation.
 year: "11"
 type: Compulsory
