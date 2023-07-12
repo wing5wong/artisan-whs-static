@@ -3,7 +3,7 @@ title: ENI1
 name: English Introductory/Internal
 code: ENI1
 subject_area: English (Introductory/Internal)
-date: 2021-06-28T00:07:59.836Z
+date: 2023-07-12T01:09:57.112Z
 year: "11"
 type: Compulsory
 course_duration: Full Year
@@ -14,9 +14,9 @@ leads_to:
 standards:
   - "3483"
   - "10792"
-  - "90852"
-  - "90856"
-  - "90857"
-  - "90989"
+  - "32403"
+  - "32405"
+  - "91924"
+  - "91925"
 ---
-To provide a balanced English programme to include reading, writing, reading, listening, speaking, and presenting. This course has no external examinations but students complete a mix of Unit and Achievement Standards with a view to gaining Level 1 Literacy.
+This course will be focused on preparing students for the NCEA co-requisite literacy standards: US 32403 and US 32405. Once they have gained these credits, students will work on the new NCEA standards: 91924 and 91925 listed    below.
