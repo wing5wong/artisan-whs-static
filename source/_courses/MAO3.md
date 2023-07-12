@@ -3,7 +3,7 @@ title: MAO3
 name: Te Reo Māori me ōna Tikanga
 code: MAO3
 subject_area: Te Reo Māori
-date: 2023-06-26T00:42:07.344Z
+date: 2023-07-12T01:47:25.113Z
 entry_requirements: 18 Credits in MAO2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
@@ -11,14 +11,14 @@ course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
+  - "16136"
+  - "16041"
+  - "29555"
   - "91650"
   - "91651"
   - "91652"
   - "91653"
   - "91654"
-  - "16136"
-  - "16041"
-  - "29555"
 ue_approved: true
 endorsement: Yes
 ---
