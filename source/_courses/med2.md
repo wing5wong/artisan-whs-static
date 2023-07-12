@@ -3,7 +3,7 @@ title: MED2
 name: Media Studies
 code: MED2
 subject_area: Media Studies
-date: 2023-07-12T01:03:55.904Z
+date: 2023-07-12T01:37:56.268Z
 entry_requirements: 10 credits from NCEA English Level 1. Pass one of the Level
   1 external examinations.
 year: "12"
@@ -14,12 +14,12 @@ assessment_type: Achievement Standard
 leads_to:
   - ENG3
 standards:
+  - "91104"
+  - "91106"
+  - "91251"
   - "91252"
   - "91253"
   - "91255"
-  - "91104"
-  - "91251"
-  - "91106"
 ue_approved: false
 invitation_only: false
 endorsement: false
