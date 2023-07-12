@@ -3,7 +3,7 @@ title: MAI1
 name: Mathematics Introductory
 code: MAI1
 subject_area: Mathematics (Introductory)
-date: 2023-06-16T03:52:29.195Z
+date: 2023-07-12T02:49:33.737Z
 year: "11"
 type: Compulsory
 course_duration: Full Year
@@ -17,7 +17,6 @@ standards:
   - "91944"
   - "91945"
   - "91946"
-  - "91947"
 course_fees: null
 ---
 To provide a balanced Mathematics programme to students for whom a formal academic programme is not suited. This course is completely internally assessed. Topics covered; Number, Statistics, Probability, Measurement, Practical applications of algebra, Constructions and Drawings. NCEA Level 1 Numeracy Standard will be offered.
