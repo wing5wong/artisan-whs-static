@@ -1,5 +1,6 @@
 ---
 title: Future Focus Week
-date: 2023-08-13T23:30:06.786Z
+date: 2023-08-20T23:30:06.786Z
 ---
-Information to follow in Term 3.
+Future Focus week begins  
+Students will be choosing their subjects for 2024.
