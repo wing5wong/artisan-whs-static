@@ -22,13 +22,11 @@ One Term or less
 
 **NZ $750 -** for short stay (6 months or less).
 
-
-
 Includes:
 
 * Helping to arrange the homestay
 * Meet and greet the student at Whanganui Airport
-* Set up a bank account
+* Setting up a bank account
 * Orientation programme
 * General administration
 
@@ -50,21 +48,21 @@ All students must have full insurance (personal effects, health and accident ins
 
 * All the expenses involved in living as a member of a family
 * Provision of a single room for the student  
-* All Meals  
+* All meals  
 * All homestays are visited and assessed in advance by the school.
 
 *The homestay fee does not include:*
 
 * School uniform (maximum of NZ $600)
 * Holidays away from the homestay, or holidays that involve extra expense for the homestay parents.
-* Personal spending (between $NZ50 and $NZ70 per week). Parents may pay personal funds to the school and the school will set up a bank account whereby a set amount will be automatically paid into the student's account each week.  
+* Personal spending (between NZ$50 and NZ$70 per week). Parents may pay personal funds to the school and the school will set up a bank account whereby a set amount will be automatically paid into the student's account each week.  
 * Toll calls 
 
 **Refund of Homestay Fees:** *(Based on all homestay fees paid up front)*
 
 If you move out of your homestay before the end of your contract, the portion of your homestay fees not already used will be returned to you.
 
-To have your homestay fees returned, your parents must write to the Board of Trustees giving two weeks' notice, or pay two weeks' fees in lieu of notice.
+To have your homestay fees returned, your parents must write to the School Board giving two weeks' notice, or pay two weeks' fees in lieu of notice.
 
 If you cancel your homestay contract before you move into the homestay, your fees will be refunded in full less an administration fee.
 
@@ -73,19 +71,19 @@ If you request a change of homestay, then the original homestay will receive two
 ## Optional Extra Costs
 
 * **NZQA External Examination Fee: NZ $383.30**
-* **North Island 3 Day Trip: Estimate $750 $850**  A three-day escorted tour around the centre of the North Island.  The trip goes from Whanganui to Waitomo
+* **North Island 3 Day Trip: Estimate $750 - $850**  A three-day escorted tour around the centre of the North Island.  The trip goes from Whanganui to Waitomo
   Caves and Rotorua, where students experience Maori culture, the luge, a farm show and Velocity Valley, before
   returning to Whanganui via Taupo (includes all entry fees, travel, food and accommodation).
-* **Wellington 3 Day Trip: Estimae $450** A three-day escorted tour to Wellington. The trip goes from Whanganui to the Wairarapa then Wellington.  It includes Mount Bruce Bird Sanctuary, Te Papa Museum, Weta Workshop and Adrenaline Forest.  All entry fees, 
+* **Wellington 3 Day Trip: Estimate $450** A three-day escorted tour to Wellington. The trip goes from Whanganui to the Wairarapa then Wellington.  It includes Mount Bruce Bird Sanctuary, Te Papa Museum, Weta Workshop and Adrenaline Forest.  All entry fees, 
   travel, food and accommodation is included.
 * **Air Chathams flight to Whanganui: NZ $190** Air Chathams flight to Whanganui with full concierge service. This includes a meet and transfer
   on arrival at Auckland International airport plus care of student until arrival in Whanganui.  
 * **Auckland Meet and Transfer: NZ $175** You will be met at Auckland airport and transferred to the domestic plane for flight to Whanganui or Palmerston North.
-* **Palmerston North Meet and Transfer: NZ $140** You will be met at Palmerston North airport and transferred to Whanganui
+* **Palmerston North Meet and Transfer: NZ $140** You will be met at Palmerston North airport and transferred to Whanganui. 
   .
-* **Assistance to obtain student visa: NZ $50** If you require the school staff to help you obtain a student visa in New Zealand (the visa itself costs $410), we charge an admin fee.
-* **Assistance to obtain a student medical visa: NZ $50** Assistance to obtain a student medical for visa. If you arrive without a medical required for a student visa and ask
-    the school staff for assistance (the medical itself costs about $370), we charge an admin fee
+* **Assistance to obtain student visa: NZ $60** If you require the school staff to help you obtain a student visa in New Zealand (the visa itself costs $410), we charge an admin fee.
+* **Assistance to obtain a student medical visa: NZ $60** Assistance to obtain a student medical for visa. If you arrive without a medical required for a student visa and ask
+    the school staff for assistance (the medical itself costs approximately $370). We charge an admin fee
   .
 * **Guardian - a native-speaking guardian: NZ $2,500** who keeps parents informed and provides guidance to the student. 
   It is mandatory for young students under 14 years old, and for students who have had behavioural or health issues at their previous school, to have a native-speaking guardian. 
