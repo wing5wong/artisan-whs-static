@@ -3,9 +3,6 @@ title: Student Achievement Conferences
 date: 2023-08-01T00:43:44.041Z
 ---
 **Student Achievement Conferences**
-(School Gymnasiums)
-
-Students are released each day at 1.50pm at the end of period 4.
 
 When: Tuesday 1 August and Wednesday 2 August 2023  
 Times: 3.10pm to 8.50pm (with dinner hour 5.00pm - 6.00pm)  
