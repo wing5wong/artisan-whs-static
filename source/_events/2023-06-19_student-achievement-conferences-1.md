@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - Students released at 1.50pm (end of Period 4)
+title: Student Achievement Conferences - Students released at 1:50pm (end of Period 4)
 date: 2023-08-02T00:48:32.660Z
 ---
 **Student Achievement Conferences**
