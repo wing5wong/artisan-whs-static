@@ -8,5 +8,5 @@ Thanks to those who registered, you should now have an e-mail with a permission 
 
 If you forgot to sign up, there are a few seats left so collect a permission slip from the student centre and have a parent complete the form at: [https://bit.ly/whsmasseyucolperm2023 ](https://docs.google.com/forms/d/e/1FAIpQLSfeWmwoZSPvxJ558mguTC-FBqHWGvaPV6Ae9fNJxPmjHc_hiw/viewform) 
 
-*Mr Keene\
+*Mr Keene  
 Careers Advisor*
