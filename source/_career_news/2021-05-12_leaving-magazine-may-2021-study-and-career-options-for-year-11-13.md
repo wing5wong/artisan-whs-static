@@ -2,6 +2,7 @@
 title: Leaving Magazine -  May 2023 - (Study and Career Options for Year 12 - 13)
 date: 2023-05-02T19:23:14.037Z
 closing_date: ""
+file: http://oliverlee.co.nz/category/leaving-school/
 ---
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1683055324/Careers%20and%20Vocational/Leaving_School_Magazine_-_Issue_26.jpg)
 
