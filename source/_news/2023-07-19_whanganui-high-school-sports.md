@@ -1,7 +1,5 @@
 ---
 title: Whanganui High School Sports
-feature_image:
-  ? image
 news_author:
   date: 2023-07-19T21:42:43.350Z
 show_in_slider: true
