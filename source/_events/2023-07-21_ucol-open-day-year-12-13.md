@@ -1,5 +1,5 @@
 ---
-title: UCOL Open Day, Year 12-13
+title: Whanganui UCOL Open Day, Year 12-13
 date: 2023-08-09T11:03:15.548Z
 ---
 Whanganui UCOL (Te Pukenga) is holding an Open Day on Wednesday 9 August.  
