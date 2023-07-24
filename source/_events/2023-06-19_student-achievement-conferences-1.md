@@ -11,10 +11,13 @@ date: 2023-08-02T00:48:32.660Z
 **Students will be released at the end of period 4 - 1:50pm on both days.**  
 Buses will run at their normal times and the Homework Centre will be open in the Library until 4:30pm as usual.  
 
-Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand. 
+Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-**BOOKINGS OPEN on MONDAY 24 July at 5:00pm.**  
+**BOOKINGS are now OPEN**  
+Book an interview by clicking on the following link:  
+<https://www.schoolinterviews.co.nz/>  
 ('Event Code' is needed from the Interim Report, emailed to you on 21 July)  
+
 BOOKINGS CLOSE at 5:00pm on Monday 31 July, the evening before the interviews.  
 
 **Students of Mr Price (Mathematics)**  
