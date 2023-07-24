@@ -11,15 +11,17 @@ date: 2023-08-02T00:48:32.660Z
 **Students will be released at the end of period 4 - 1:50pm on both days.**  
 Buses will run at their normal times and the Homework Centre will be open in the Library until 4:30pm as usual.  
 
-Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
+Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand. 
 
 **BOOKINGS OPEN on MONDAY 24 July at 5:00pm.**  
+('Event Code' is needed from the Interim Report, emailed to you on 21 July)  
 BOOKINGS CLOSE at 5:00pm on Monday 31 July, the evening before the interviews.  
 
-Book an interview after 5:00pm on Monday 24 July (Instructions are included with the Interim Report).  
+**Students of Mr Price (Mathematics)**  
+Year 10, 11 & 13 students please choose Mrs Pedersen as she is taking these classes.  
+Year 9 students, please choose Mr Burgess as he is taking this class.  
+
+**Students of Mr Prasad (Mathematics)**  
+Mr Prasad will NOT be available for the Conferences.  If you need to contact him, please do so via email ([prasad.r@whs.ac.nz](prasad.r@whs.ac.nz)) or leave a message at school and he will contact you.
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
-
-
-
-
