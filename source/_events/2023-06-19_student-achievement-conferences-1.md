@@ -22,6 +22,6 @@ Year 10, 11 & 13 students please choose Mrs Pedersen as she is taking these clas
 Year 9 students, please choose Mr Burgess as he is taking this class.  
 
 **Students of Mr Prasad (Mathematics)**  
-Mr Prasad will NOT be available for the Conferences.  If you need to contact him, please do so via email ([prasad.r@whs.ac.nz](prasad.r@whs.ac.nz)) or leave a message at school and he will contact you.
+Mr Prasad will NOT be available for the Conferences.  If you need to contact him, please do so via email (prasad.r@whs.ac.nz) or leave a message at school and he will contact you.
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
