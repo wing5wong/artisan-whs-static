@@ -1,7 +1,7 @@
 ---
 title: Student Achievement Conferences - Students released at 1:50pm (end of period 4)
 date: 2023-08-02T00:48:32.660Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1658896047/Events/Facebook_photo.best.png
+image: ""
 ---
 ### Student Achievement Conferences
 
