@@ -3,6 +3,7 @@ title: Student Achievement Conferences - Bookings are now OPEN
 is_emergency: false
 date: 2023-07-25T10:05:25.834Z
 subtitle: Tuesday 1 August and Wednesday 2 August
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1658896047/Events/Facebook_photo.best.png
 ---
 ### Student Achievement Conferences
 
