@@ -4,6 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1690516381/News/Isabella_Parkes_River_City_Boxing_Club.jpg
 news_author:
   date: 2023-07-28T03:51:21.412Z
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1690517417/News/Isabell_Parkes.jpg
 show_in_slider: true
 date: 2023-07-28T03:51:21.440Z
 ---
