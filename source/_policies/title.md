@@ -12,7 +12,7 @@ policyAreas:
         policy: 1.6 - Education Beyond the Whanganui High School Site
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797845/School%20Policies/1.7_-Information_and_Communication_Technology_updated_October_2021.pdf
         policy: 1.7 Information and Communication Technology
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1604007947/School%20Policies/1.7b_-Use_of_the_Internet_updated_October_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1691011961/School%20Policies/1.7b_Use_of_the_Internet_updated_July_2023.pdf
         policy: 1.7b Use of the Internet
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335709/School%20Policies/1.8_-Careers_Information_Advice_updated_August_2022.pdf
         policy: 1.8 Careers Information and Advice
