@@ -10,4 +10,4 @@ image_gallery:
 show_in_slider: true
 date: 2023-08-03T20:14:27.762Z
 ---
-Today we welcomed a second group of 21 energetic and enthusiastic students from Xuzhou, China. We hope you all enjoy your stay.
+On the 3rd of August we welcomed a second group of 21 energetic and enthusiastic students from Xuzhou, China. We hope you all enjoy your stay.
