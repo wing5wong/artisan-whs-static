@@ -1,12 +1,11 @@
 ---
 title: WHS International Namiki High School, Tsukuba, Japan
 feature_image:
-  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1691094083/News/Tsukuba_2_Japan.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1691013189/News/Namiki_High_School_Tsukuba_Japan.jpg
 news_author:
   date: 2023-08-02T21:50:38.460Z
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1691094095/News/Tsukuba_2_Japan2.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1691094104/News/Tsukuba_2_Japan3.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1691013177/News/Namiki_High_School_Tsukuba_Japan_1.jpg
 show_in_slider: true
 date: 2023-08-02T21:50:38.483Z
 ---
