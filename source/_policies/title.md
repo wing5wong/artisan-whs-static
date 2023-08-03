@@ -46,8 +46,8 @@ policyAreas:
         policy: 3.10 Staff Leave
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335709/School%20Policies/3.11_-_Sexual_Harassment_updated_August_2022.pdf
         policy: 3.11 Sexual Harassment
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1572306628/School%20Policies/3.12_-Complaints_and_Associated_Staff_Discipline_updated_October_2019.pdf
-        policy: 3.12 Complaints and Associated Staff Discipline
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1691045343/School%20Policies/Policy_3.12_Concerns_Complaints.pdf
+        policy: 3.12 Concerns and Complaints
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335709/School%20Policies/3.13_-_Anti-Violence_Abuse_Bullying_-_August_2022.pdf
         policy: 3.13 Anti-Violence, Abuse and Bullying
     policyArea: 3. Personnel
@@ -72,8 +72,8 @@ policyAreas:
         policy: 5.2 Emergencies
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/5.3_Post_Disaster_Survival_Policy_updated_October_2021.pdf
         policy: 5.3 Post Disaster Survival
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/5.4_-Student_Discipline_Policy_updated_November_2021.pdf
-        policy: 5.4 Student Discipline
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1691045343/School%20Policies/5.4_Student_Behaviour_Policy_updated_July_2023.pdf
+        policy: 5.4 Student Behaviour
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335708/School%20Policies/5.5_Sexuality_Education_Policy_updated_August_2022.pdf
         policy: 5.5 Sexuality Education
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1682994515/School%20Policies/5.6_Alcohol_Tobacco_Vaping_Drugs_Policy_updated_May_2023.pdf
