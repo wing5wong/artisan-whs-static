@@ -9,8 +9,8 @@ image_gallery:
 show_in_slider: true
 date: 2023-08-08T21:58:56.752Z
 ---
-
-
 On the 8th of August we bid farewell to students from Namiki High School, Tsukuba, Japan. We are so grateful to our buddies who looked after them at school, and the [](<>)wonderful homestay families who welcomed students into their homes and gave them a taste of New Zealand life and culture.
 
 Videos of the dance performances are posted on the Whanganui High School - International Facebook page.
+
+Click on the link: <https://www.facebook.com/WhanganuiHighInternational/>
