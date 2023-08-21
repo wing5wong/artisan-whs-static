@@ -3,7 +3,7 @@ title: DTS3
 name: Digital Technologies Science
 code: DTS3
 subject_area: Digital Technologies Science
-date: 2021-06-27T23:05:42.549Z
+date: 2023-08-21T04:21:10.704Z
 year: "13"
 type: Subject Choice
 course_duration: Full Year
