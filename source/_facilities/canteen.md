@@ -15,4 +15,4 @@ Vegetarian, Vegan and Gluten free items can be pre-ordered prior to 8.35am or th
 
 Both EFTPOS and cash is accepted.
 
-[Canteen Menu](https://res.cloudinary.com/whanganuihigh/image/upload/v1653000216/faculties/WHS_Canteen_Menu_2022.pdf)
+Canteen services are provided by [Libelle Group](https://www.libelle.co.nz/)
