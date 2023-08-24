@@ -374,7 +374,9 @@ return [
             'extends' => '_layouts.extraCurricularActivity',
             'section' => 'postContent'
         ],
-        'term_dates',
+        'term_dates' => [
+            'sort' => 'date'
+        ],
         'vacancies',
     ],
     'imageCdn' => function ($page, $path) {
