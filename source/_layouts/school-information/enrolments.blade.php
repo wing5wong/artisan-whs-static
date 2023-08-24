@@ -1,7 +1,7 @@
 @extends('_layouts.standard') 
 @section('title', $page->title) 
 @section('content')
-<h1 class="decorated py-3 mb-4">{{ $page->title }}</h1>
+<h1 class="decorated py-3 mb-4">Enrolments and Prospectus</h1>
 
  @if ($page->image)
 
