@@ -42,7 +42,7 @@ All students must have full insurance (personal effects, health and accident ins
 
 ## **Accommodation Fee**
 
-**2024 Homestay Fees : NZ $13,340** (for a full academic year of 46 weeks or $290 per week for a part of a year)
+**2024 Homestay Fees :** $290 per week.  This fee will increase to $300 per week from July 2024. 
 
 *The homestay fee covers the following:*
 
@@ -81,8 +81,8 @@ If you request a change of homestay, then the original homestay will receive two
 * **Auckland Meet and Transfer: NZ $175** You will be met at Auckland airport and transferred to the domestic plane for flight to Whanganui or Palmerston North.
 * **Palmerston North Meet and Transfer: NZ $140** You will be met at Palmerston North airport and transferred to Whanganui. 
   .
-* **Assistance to obtain student visa: NZ $60** If you require the school staff to help you obtain a student visa in New Zealand (the visa itself costs $410), we charge an admin fee.
-* **Assistance to obtain a student medical visa: NZ $60** Assistance to obtain a student medical for visa. If you arrive without a medical required for a student visa and ask
+* **Assistance to obtain student visa: NZ $80** If you require the school staff to help you obtain a student visa in New Zealand (the visa itself costs $410), we charge an admin fee.
+* **Assistance to obtain a student medical visa: NZ $80** Assistance to obtain a student medical for visa. If you arrive without a medical required for a student visa and ask
     the school staff for assistance (the medical itself costs approximately $370). We charge an admin fee
   .
 * **Guardian - a native-speaking guardian: NZ $2,500** who keeps parents informed and provides guidance to the student. 
