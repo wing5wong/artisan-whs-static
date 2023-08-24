@@ -2,6 +2,9 @@
 title: Contact Us
 date: 2022-12-13T19:56:44.835Z
 ---
+## Applications
+[Apply now!](https://whanganuihigh.enrol.school.nz/)
+
 ## International Enquiries
 
 Purnell Street  
