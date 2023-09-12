@@ -1,7 +1,23 @@
 ---
-title: LEARNER LICENCE DAY (FREE) TUESDAY 4 OCTOBER
-date: 2022-09-15T19:34:10.259Z
-closing_date: 2022-10-04T18:34:18.859Z
-file: https://res.cloudinary.com/whanganuihigh/image/upload/v1663270391/Careers%20and%20Vocational/LL_Full_Day_4_Oct_2022.jpg
+title: LEARNER LICENCE DAYS' - WHANGANUI LEARNING CENTRE
+date: 2023-09-12T22:03:25.630Z
+closing_date: ""
+file: ""
 ---
-Learner Licence Day  10 - 4pm Lunch provided Whanganui Learning Centre Tuesday 4 October Ph 348 4950 or text 021 293 6879
+Whanganui learning Centre are running a one day holiday programme Learner Licence course.
+
+This will run on Tuesday 26th September 10am-2pm and Tuesday 3rd October 10am-2pm.
+
+This will rely on numbers. If you have someone who is interested in attending could you please ask them to contact us.
+
+ 
+
+Ngā mihi,
+
+Sue
+
+**Whanganui Learning Centre**
+
+[www.wlct.org.nz](http://www.wlct.org.nz/)
+
+(06) 348 4950
