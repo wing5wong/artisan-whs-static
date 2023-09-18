@@ -1,7 +1,5 @@
 ---
-title: 'Connor Hoskin & Leah Aiono '
+title: George Davey & Sophia Bedwell
 category: Head Boy and Girl
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1582509954/prefects/1.Head-Boy-and-Head-Girl---Connor-Hoskin-and-..............Leah-Aiono.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1694996829/prefects/Prefects%202023/George_Davey_Sophia_Bedwell_Head_Boy_Girl_2023.jpg
 ---
-
