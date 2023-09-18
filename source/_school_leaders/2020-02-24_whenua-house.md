@@ -1,6 +1,6 @@
 ---
 title: Whenua
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1645132299/prefects/MILLE_FRAMPTON_AND_CADE_KNIGHT.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1695002130/prefects/Prefects%202023/Dariuz_Rihia_Autumn_Lilley.jpg
 ---
-Millie Frampton and Cade Knight
+Dariuz Rihia & Autumn Lilley
