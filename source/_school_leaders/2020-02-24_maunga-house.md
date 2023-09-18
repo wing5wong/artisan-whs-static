@@ -1,6 +1,6 @@
 ---
 title: Maunga
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1645132048/prefects/Trinity_and_Tony.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1695002111/prefects/Prefects%202023/Samuel_Greaves_Summer_Fraser-Owen.jpg
 ---
-Trinity Herewini and Toni Adams
+Samuel Greaves & Summer Fraser-Owen
