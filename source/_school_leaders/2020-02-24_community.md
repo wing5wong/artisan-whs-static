@@ -1,6 +1,6 @@
 ---
 title: Community
 category: Prefects
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1645131759/prefects/Sjoerd_molijn_Myles_Simpson.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1694994427/prefects/Prefects%202023/Hazel_Chant_Sharukh_Shafiq.jpg
 ---
-Myles Simpson and Sjoerd Molijn
+Hazel Chant & Sharukh Shafiq
