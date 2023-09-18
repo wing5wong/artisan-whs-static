@@ -1,6 +1,6 @@
 ---
 title: Deputy Head Boy and Girl
 category: Deputy Heads of School
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1645481739/prefects/Prefects%202022/deputies2.png
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1694998130/prefects/Prefects%202023/Liam_Cromar_Charlotte_Hardy_Deputy_Head_Boy_Girl_2023.jpg
 ---
-Firooze Colaabavala and Messina Su'a
+Liam Cromar & Charlotte Hardy
