@@ -7,8 +7,7 @@ Prizegiving finishes by 3.05pm.
 
 
 
-Final reports for 2023 will be issued to Year 11 students and emailed to parents on this day.
-
+Final reports for 2023 will be issued to Year 11 students and emailed to parents on this day.  
 This is the last day for Year 11 students.
 
 Years 9 and 10 are released at 12.50pm. 
