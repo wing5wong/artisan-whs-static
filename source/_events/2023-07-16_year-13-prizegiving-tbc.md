@@ -12,3 +12,5 @@ Year 13 students are not expected to be in school on this day, but they are			ex
 
 On this day, school begins at 10.05am – the start of period 2 - for students in Years 9, 10, 11, and 12.
 
+Buses will run at the usual time and the Library Homework Centre will be open till 4.30pm.
+
