@@ -66,7 +66,7 @@ policyAreas:
         policy: 4.6 Theft and Fraud Protection
     policyArea: 4. Finance and Property
   - policies:
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684795441/School%20Policies/5.1_-Health_and_Safety_Policy_updated_October_2022_web2.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1696888247/School%20Policies/5.1_Health_and_Safety_Policy_updated_September_2023.pdf
         policy: 5.1 Health and Safety
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335922/School%20Policies/5.2_Emergencies_Policy_updated_August_2022.pdf
         policy: 5.2 Emergencies
@@ -74,7 +74,7 @@ policyAreas:
         policy: 5.3 Post Disaster Survival
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1691045343/School%20Policies/5.4_Student_Behaviour_Policy_updated_July_2023.pdf
         policy: 5.4 Student Behaviour
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1664335708/School%20Policies/5.5_Sexuality_Education_Policy_updated_August_2022.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1695170883/School%20Policies/5.5_Sexuality_Education_Policy_updated_September_2023.pdf
         policy: 5.5 Sexuality Education
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1682994515/School%20Policies/5.6_Alcohol_Tobacco_Vaping_Drugs_Policy_updated_May_2023.pdf
         policy: 5.6 Alcohol, Tobacco, Vaping and Drugs
