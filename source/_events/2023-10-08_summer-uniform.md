@@ -1,6 +1,6 @@
 ---
 title: Summer Uniform
-date: 2023-10-08T20:52:16.109Z
+date: 2023-10-15T20:52:16.109Z
 ---
 Students are expected to be in Summer Uniform by Monday 16 October.  
 This allows a one-week change over period.
