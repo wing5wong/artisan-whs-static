@@ -1,5 +1,5 @@
 ---
-title: Year 12 Prizegiving
+title: Year 12 Prizegiving - students released 12.50pm
 date: 2023-10-31T21:18:36.854Z
 ---
 Year 12 Prizegiving at 1.30pm in the School Hall.  
