@@ -1,5 +1,5 @@
 ---
-title: "Year 11 Prizegiving "
+title: Year 11 Prizegiving - students released 12.50pm
 date: 2023-11-01T21:19:13.447Z
 ---
 Year 11 Prizegiving at 1.30pm in the School Hall.  
