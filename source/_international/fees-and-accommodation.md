@@ -10,7 +10,7 @@ date: 2022-12-13T19:57:01.552Z
 
 **Standard Year Course: NZ $15,000**
 
-This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,250; Three terms - $10,875.
+This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,250; Three terms - $11,250.
 
 **Short Course: NZ $450 per week**
 
