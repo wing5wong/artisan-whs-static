@@ -13,14 +13,14 @@ The schedule is as follows:
 Monday 6 November – **Morning
 9.20 to 11.20am**	
 
-Year 9 Science  
-Year 10 Social Studies
+**Year 9 Science  
+Year 10 Social Studies**
 
 Monday 6 November – **Afternoon
 12.10 to 2.10pm**
 
-Year 9 English  
-Year 10 Mathematics 
+**Year 9 English  
+Year 10 Mathematics** 
 
 
 
