@@ -30,17 +30,15 @@ policyAreas:
         policy: 3.1 Board of Trustees' "Employer" Policy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.2_-_Appointment_of_Staff_Policy_updated_November_2021.pdf
         policy: 3.2 Appointment of Staff
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1669778448/School%20Policies/3.3_-_EEO_Policy_updated_November_2022.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1699218847/School%20Policies/3.3_EEO_Policy_updated_October_2023.pdf
         policy: 3.3 Equal Employment Opportunities
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.5_-_Protected_Disclosures_Policy_updated_November_2020.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1699218848/School%20Policies/3.5_Protected_Disclosures_Policy_updated_October_2023.pdf
         policy: 3.5 Protected Disclosures
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.6_-_Performance_Management_System_Appraisal_and_Attestation_Policy_updated_November_2020.pdf
         policy: 3.6 Performance Management Systems, Appraisal and Attestation
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.7_-_Staff_Competency_updated_November_2020.pdf
-        policy: 3.7 Staff Competency
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1607478717/School%20Policies/3.8_-_Staff_Professional_Development_updated_November_2020.pdf
         policy: 3.8 Staff Professional Development
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1677703077/School%20Policies/3.9_-Timetable_Policy_updated_February_2023.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1699218848/School%20Policies/3.9_Timetable_Policy_updated_October_2023.pdf
         policy: 3.9 Timetable
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/3.10_-_Staff_Leave_updated_November_2021.pdf
         policy: 3.10 Staff Leave
