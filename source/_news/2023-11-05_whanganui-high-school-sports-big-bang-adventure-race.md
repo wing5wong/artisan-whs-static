@@ -19,7 +19,7 @@ Big Bang Adventure Race
 
  On the 4th of November WHS took a junior year 9/10 team and Senior boys team of adventure racers to the Big Bang 6-hour adventure race at Queen Elizabeth park Kapiti.
 
-The team started on foot with a navigation, then moved to mountain bikes to climb a leg busting hill, then was back onto the legs for another bush run down streams and lots of vertical meters, back on the bikes for the second time. They then went swimming in the sea for the last 2 check points, and arross the finish line. 
+The team started on foot with a navigation, then moved to mountain bikes to climb a leg busting hill, then was back onto the legs for another bush run down streams and lots of vertical meters, back on the bikes for the second time. They then went swimming in the sea for the last 2 check points, and across the finish line. 
 
 It was a massive day for all students with lots of sore legs and blisters but they all made it across the line with the junior team finishing 33rd (time 5hours and 48 min) out of 94 adult teams and the senior boys destroying the course to come second overall in a time of 4 hours and 7 min.
 
