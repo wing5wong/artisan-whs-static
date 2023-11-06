@@ -13,11 +13,9 @@ image_gallery:
 show_in_slider: true
 date: 2023-11-05T23:05:37.826Z
 ---
-<
-
 Big Bang Adventure Race
 
- On the 4th of November WHS took a junior year 9/10 team and Senior boys team of adventure racers to the Big Bang 6-hour adventure race at Queen Elizabeth park Kapiti.
+On the 4th of November WHS took a junior year 9/10 team and Senior boys team of adventure racers to the Big Bang 6-hour adventure race at Queen Elizabeth park Kapiti.
 
 The team started on foot with a navigation, then moved to mountain bikes to climb a leg busting hill, then was back onto the legs for another bush run down streams and lots of vertical meters, back on the bikes for the second time. They then went swimming in the sea for the last 2 check points, and across the finish line. 
 
@@ -27,4 +25,4 @@ The team members where Morgan Wood, Reegan Pain, James McGregor and Hunter Stand
 
 Well done team on a massive day.
 
- Mr Barnett TIC of Adventure Racing
+Mr Barnett TIC of Adventure Racing
