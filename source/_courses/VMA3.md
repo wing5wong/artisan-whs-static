@@ -1,8 +1,8 @@
 ---
-title: VMA3
+title: VFL3
 maori_title: ""
 name: Vocational Studies Financial Literacy
-code: VMA3
+code: VFL3
 subject_area: Vocational Studies (Mathematics)
 date: 2023-06-12T20:58:36.226Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
