@@ -1,8 +1,8 @@
 ---
-title: VMA2
+title: VFL2
 maori_title: ""
 name: Vocational Studies Financial Literacy
-code: VMA2
+code: VFL2
 subject_area: Vocational Studies (Mathematics)
 date: 2023-06-12T21:07:03.959Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
