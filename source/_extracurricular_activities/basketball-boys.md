@@ -1,6 +1,6 @@
 ---
 title: Basketball - Boys
-date: 2022-06-22T03:45:30.982Z
+date: 2023-11-12T20:58:02.618Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
@@ -11,7 +11,7 @@ terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: $55 for Fridays; $20 for Warm-Up shirt (optional)
+cost: $55 for Fridays; $25 for Warm-Up shirt (optional)
 ---
 **Played** on Friday evenings at Springvale Stadium 4:00pm – 8:30pm. 
 
