@@ -8,7 +8,7 @@ Whanganui High School offers a wide range of sports to our students.
 
 We also offer a Sports Performance Programme. This programme targets a selected range of students and offers a more advanced training and support, that will allow them to reach the next level of their athletic performance.
 
-## Sports Performance Pathway 2022
+## Sports Performance Pathway 2023
 
 **Junior Pathway**  
 Every student at Whanganui High School has the opportunity in Y9-10 to access a quality fundamentals programme to equip them for sport. 
