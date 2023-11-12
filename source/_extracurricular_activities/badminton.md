@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mr G. Hardy
 title: Badminton
-date: 2022-06-22T03:39:40.359Z
+date: 2023-11-12T20:55:39.698Z
 people:
   - role: Teacher in Charge - please see Mrs Murphy
     name: Mrs L. Murphy
