@@ -9,17 +9,17 @@ terms:
   - Term 4
   - Term 1
 extracurricular_area: Sport
-cost: "Seniors $20 per year; Juniors $40 per year  (Please be aware that extra
-  costs may be added for interschool away games). "
+cost: "TBC  (Please be aware that extra costs may be added for interschool away
+  games). "
 ---
 The 1st XI play inter-school matches and are in the T20 weekly competition.  
   
 We also play Inter-school Sports Exchange matches.
 
-**Training** is after school on a Tuesday.
+**Training** is after school on a Friday.
 
-**Played** on Monday - Senior  
-**Played** on Wednesday - Junior
+**Play** TBC - Senior  
+**Play** TBC - Junior
 
-**1st XI Coaches:** Eric Head & Steve Meredith  
+**1st XI Coaches:** Steve Meredith  
 **Junior Coach:** Steve Meredith 
