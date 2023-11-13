@@ -20,7 +20,7 @@ Year 9 and Year 10 students will be preparing for this in PE classes.
 From the school event, teams will be selected for the Whanganui Secondary School’s competition, which takes place on Tuesday 16 May - Relay Race & Tuesday 23 May - Individual Race.  
 
 Our most successful runners will then be invited to represent Whanganui High School 
-at the National Secondary Schools' Cross Country event held in Palmerston North on 8-10 December.
+at the National Secondary Schools' Cross Country event held in Palmerston North on 8-10 December 2023.
 
 **Training Days:** Generally, Tuesday and Thursday at school from 3:15pm, with some Saturday morning trainings close to competitions.
 
