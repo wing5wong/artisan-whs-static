@@ -19,4 +19,4 @@ There will be occasional interschool games during Terms 2 & 3.
 
 **Training** is after school on WHS fields.
 
-**1st XI Coach:** Gary Johnston  
+**1st XI Coach:** Gary Johnston & Adam Tipper  
