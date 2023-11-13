@@ -1,6 +1,6 @@
 ---
 title: Hockey - Girls
-date: 2022-06-26T22:06:14.428Z
+date: 2023-11-13T02:48:26.815Z
 person_in_charge: Mr G. Hardy
 people:
   - role: Teacher in Charge
@@ -21,4 +21,4 @@ Please be aware that travel costs may be added on for the teams that are playing
 
 **Equipment:** Must have own stick, shin pads and mouthguard.
 
-**1st XI Coaches:** Elaine Baker & Lucy Tui
+**1st XI Coaches:** Jacinta Manville
