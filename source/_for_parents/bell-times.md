@@ -2,32 +2,48 @@
 title: Bell Times
 date: 2022-05-06T01:41:26.746Z
 ---
-**Students should be at school by 8:45am.  
+**Students should be at school by 8:45am.\
 Whanganui High School expects students to be punctual.**
 
-## Monday to Thursday
+Monday to Thursday
 
-| Start       | End         | Period                           |
-| ----------- | ----------- | -------------------------------- |
-| 8:50am      | 9:05am      | Form Time (15 minutes)           |
-| 9:05am      | 10:05am     | Period One (60 minutes)          |
-| 10:05am     | 11:05am     | Period Two (60 minutes)          |
-| **11:05am** | **11:50am** | **Morning Break (45 minutes)**   |
-| 11:50am     | 12:50pm     | Period Three (60 minutes)        |
-| 12:50pm     | 1:50pm      | Period Four (60 minutes)         |
-| **1:50pm**  | **2:10pm**  | **Afternoon Break (20 minutes)** |
-| 2:10pm      | 3:05pm      | Period Five (55 minutes)         |
+8.48      First Bell.
 
-## Friday
+8.50      Period One.
 
-| Start       | End         | Period                       |
-| ----------- | ----------- | ---------------------------- |
-| 8:50am      | 9:20am      | Form time (30 minutes)       |
-| 9:20am      | 10:20am     | Period One (60 minutes)      |
-| 10:20am     | 11:20am     | Period Two (60 minutes)      |
-| **11:20am** | **12:05pm** | **Lunch break (45 minutes)** |
-| 12:05pm     | 1:05pm      | Period Three (60 minutes)    |
-| 1:05pm      | 2:05pm      | Period Four (60 minutes)     |
+9.50      Form Time.
 
-At the conclusion of period 4, students will be able to go home unless requested to remain for tuition or mentoring.
-Bus students will be able to attend the Homework Centre in the Library.
+10.05     Period Two.
+
+11.05     Morning Break.
+
+11.50     Period Three.
+
+12.50     Period Four.
+
+1.50      Afternoon Break.
+
+2.10      Period Five.
+
+3.05      End of Period Five.
+
+Friday
+8.48      First Bell.
+
+8.50 – 9.50  Period One.
+
+9.50 – 10.20  Form Time.
+
+10.20 – 11.20 Period Two.
+
+11.20 – 12.05 Lunch break.
+
+12.05 – 1.05  Period Three.
+
+1.05 – 2.05  Period Four.
+
+At the conclusion of period 4, students will be able to go home unless requested to remain for 
+tuition or mentoring. Bus pupils will be able to attend the Homework Centre in the Library.
+
+Students should be at school by 8.45am
+Whanganui High School expects students to be punctual.
