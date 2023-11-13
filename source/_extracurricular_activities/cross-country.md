@@ -14,21 +14,13 @@ As well as our annual Cross Country Champs, Whanganui High School students compe
 
 
 **Competitions**   
-The WHS School Cross Country takes place on Wednesday 4 May at Whanganui High School.
+The WHS School Cross Country takes place on Wednesday 10 May at Whanganui High School.
 Year 9 and Year 10 students will be preparing for this in PE classes.
 
-From the school event, teams will be selected for the Whanganui Secondary School’s competition, which takes place on Thursday 18 May 2022.  
+From the school event, teams will be selected for the Whanganui Secondary School’s competition, which takes place on Tuesday 16 May - Relay Race & Tuesday 23 May - Individual Race.  
 
 Our most successful runners will then be invited to represent Whanganui High School 
-at the National Secondary Schools' Cross Country event held in 
-
-
-WHS School Cross Country takes place on 6 May at Whanganui High School.  
-Year 9 and Year 10 students will be preparing for this in PE classes.
-
-From the school event, teams will be selected for the Whanganui Secondary School’s competition, which takes place on 21 May 2020.
-
-Our most successful runners will then be invited to represent Whanganui High School at the National Secondary Schools' Cross Country event held in Nelson on 18 and 19 June 2022.
+at the National Secondary Schools' Cross Country event held in Palmerston North on 8-10 December.
 
 **Training Days:** Generally, Tuesday and Thursday at school from 3:15pm, with some Saturday morning trainings close to competitions.
 
