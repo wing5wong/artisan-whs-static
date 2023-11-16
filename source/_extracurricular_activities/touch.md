@@ -11,7 +11,7 @@ cost: Determined by competition entry either in Term 1 or 4.
 There are trials for a Girls and Boys team you will need to keep an eye on the school daily notices for when they will happen. 
 
 
-We also enter teams in Term 4 for the Whanganui Secondary School League.
+We also enter teams in Term 1 for the Whanganui Secondary School League.
 
 **Uniform:** WHS PE top and black shorts.
 
