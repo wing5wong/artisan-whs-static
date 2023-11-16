@@ -13,5 +13,7 @@ There are trials for a Girls and Boys team you will need to keep an eye on the s
 
 We also enter teams in Term 4 for the Whanganui Secondary School League.
 
+**Uniform:** WHS PE top and black shorts.
+
 **Coach:** Miss Kerwyn Morgan
 
