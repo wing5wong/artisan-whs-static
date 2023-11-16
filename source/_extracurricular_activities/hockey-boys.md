@@ -1,6 +1,6 @@
 ---
 title: Hockey - Boys
-date: 2022-06-26T22:05:59.784Z
+date: 2023-11-16T20:14:42.993Z
 person_in_charge: Mrs N. Campbell
 people:
   - role: Teacher in Charge
@@ -21,4 +21,4 @@ Please be aware that travel costs may be added on for the teams that are playing
 
 **Equipment:** Must have own stick, shin pads and mouthguard.
 
-**1st XI Coach:**  Jan Dixon  
+**1st XI Coach:**  Luke Kirk  
