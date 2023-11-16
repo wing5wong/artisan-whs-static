@@ -1,5 +1,5 @@
 ---
-title: Miss K. Morgan
+title: Miss J. Madams
 position: Sports - Sports Assistant
 departments:
   - Support and Ancillary
