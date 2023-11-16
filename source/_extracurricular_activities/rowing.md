@@ -13,7 +13,7 @@ cost: There is a membership fee that students pay to the Aramoho club to cover
 ---
 Wanganui is fortunate to have an excellent facility for all year-round rowing. We 
 have an arrangement with the Aramoho Whanganui Rowing Club with approximately 
-25 students who are able to take advantage of the facilities and coaching.
+50 students who are able to take advantage of the facilities and coaching.
 
 
 If you are interested in Rowing or becoming Coxswain, the sport of Rowing could be 
