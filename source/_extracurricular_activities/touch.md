@@ -14,5 +14,5 @@ We also enter teams in Term 1 for the Whanganui Secondary School League.
 
 **Uniform:** WHS PE top and black shorts.
 
-**Coach:** Miss Kerwyn Morgan
+**Coach:** Kerwyn Morgan
 
