@@ -1,6 +1,6 @@
 ---
 title: Cross Country
-date: 2022-06-26T21:47:31.933Z
+date: 2023-11-16T20:16:54.531Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
