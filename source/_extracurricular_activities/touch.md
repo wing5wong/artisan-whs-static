@@ -1,6 +1,6 @@
 ---
 title: Touch
-date: 2022-06-26T22:38:24.017Z
+date: 2023-11-16T20:34:01.713Z
 person_in_charge: Mr S. Brown
 people:
   - role: Teacher in Charge
@@ -13,5 +13,5 @@ There are trials for a Girls and Boys team you will need to keep an eye on the s
 
 We also enter teams in Term 4 for the Whanganui Secondary School League.
 
-**Coach:** Sean Brown
+**Coach:** Miss Kerwyn Morgan
 
