@@ -1,12 +1,13 @@
 ---
 title: Netball
-date: 2022-06-26T22:12:54.834Z
+date: 2023-11-16T20:20:28.342Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
     name: Mrs L. Murphy
 extracurricular_area: Sport
-cost: $100 per player - needs to be paid before trials.
+cost: $100 per player - needs to be paid before trials (Senior A1 fees are
+  different to this).
 ---
 **Grades are:** Juniors (Year 9 & 10) and Seniors (Year 11-13).
 
