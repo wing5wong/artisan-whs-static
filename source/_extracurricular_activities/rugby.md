@@ -1,5 +1,5 @@
 ---
-title: Rugby - Boys & Girls
+title: Rugby
 date: 2023-11-16T20:27:36.285Z
 person_in_charge: Mr B. Parry
 people:
