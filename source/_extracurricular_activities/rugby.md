@@ -7,7 +7,7 @@ people:
     name: Mrs L. Murphy
 extracurricular_area: Sport
 cost: "U14 fee $60.00 (approx).   U15 fee $120 (approx). We are looking to take
-  the U15 team to the Manawatu Comptetion this year (TBC). 1st XV & Girls Rugby
+  the U15 team to the Manawatu competition this year (TBC). 1st XV & Girls Rugby
   fee $120 (approx) - play in Manawatu competition.  "
 ---
 Most year 9 students who are interested in Rugby play for one of the schools Junior teams.
