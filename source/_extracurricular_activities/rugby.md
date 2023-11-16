@@ -20,5 +20,5 @@ Please note that Wanganui RFU rules state that students are not permitted to pla
 
 NB: Fees need to be paid prior to the start of the regular season. No pay no play.
 
-**1st XV Head Coaches:** Mr Mike Lama & Mr Erine Te Waaka  
-**Girls Rugby Coach:** Mr Rob Roy 
+**1st XV Head Coaches:** Mike Lama & Erine Te Waaka  
+**Girls Rugby Coach:** Rob Roy 
