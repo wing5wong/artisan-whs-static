@@ -15,4 +15,4 @@ Our students play in a Inter-School competition at the Braves Softball Park Mond
 
 **Equipment:** Own glove, WHS PE top, covered shoes or boots.
 
-**Coaches:** Mr Paul Brewer & Mr Hayden Wilson
+**Coaches:** Paul Brewer & Hayden Wilson
