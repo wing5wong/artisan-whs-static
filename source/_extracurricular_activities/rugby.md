@@ -1,6 +1,6 @@
 ---
 title: Rugby
-date: 2022-06-26T22:24:04.021Z
+date: 2023-11-16T20:27:36.285Z
 person_in_charge: Mr B. Parry
 people:
   - role: Teacher in Charge
@@ -19,5 +19,5 @@ Please note that Wanganui RFU rules state that students are not permitted to pla
 
 NB: Fees need to be paid prior to the start of the regular season. No pay no play.
 
-**1st XV Head Coaches:** Mike Lama & Erine Te Waaka  
-**Girls Rugby Coach**: Riana Tamati 
+**1st XV Head Coaches:** Mr Mike Lama & Mr Erine Te Waaka  
+**Girls Rugby Coach:** Mr Rob Roy 
