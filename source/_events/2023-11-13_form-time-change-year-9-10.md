@@ -1,6 +1,6 @@
 ---
 title: Form Time Change - Year 9 & 10
-date: 2023-11-24T00:18:53.795Z
+date: 2023-11-27T00:18:53.795Z
 ---
 Please take note that, as explained in the Newsletter to parents on 6 November, Form Time is changing.  
 Each day will begin with your Period One class, then Form Time, then your Period Two class - the remainder of the day's schedule is the same.  
