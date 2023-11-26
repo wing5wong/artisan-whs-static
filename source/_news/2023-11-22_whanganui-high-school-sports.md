@@ -7,4 +7,4 @@ news_author:
 show_in_slider: true
 date: 2023-11-22T20:06:11.443Z
 ---
-Congratulation and all the very best to Rebecca Baker - EX WHS Head Girl who travels with the NZ U21 Junior Womens hockey team on Friday 24 November to attend the Junior World Cup in Chile. Good luck.
+Congratulations and all the very best to Rebecca Baker - EX WHS Head Girl who travels with the NZ U21 Junior Womens hockey team on Friday 24 November to attend the Junior World Cup in Chile. Good luck.
