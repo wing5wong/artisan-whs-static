@@ -1,6 +1,6 @@
 ---
 title: NCEA Examinations
-date: 2023-11-27T08:46:27.106Z
+date: 2023-11-28T08:46:27.106Z
 ---
 NCEA examinations began on Monday 6 November and end on Thursday 30 November.
 
