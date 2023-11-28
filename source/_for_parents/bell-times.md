@@ -1,13 +1,13 @@
 ---
 title: Bell Times
-date: 2023-11-13T23:23:46.041Z
+date: 2023-11-28T00:38:56.135Z
 ---
 **Students should be at school by 8:45am.\
 Whanganui High School expects students to be punctual.**
 
 Monday to Thursday
 
-8.48      First Bell.
+8.45      First Bell.
 
 8.50      Period One.
 
@@ -28,7 +28,7 @@ Monday to Thursday
 3.05      End of Period Five.
 
 Friday
-8.48      First Bell.
+8.45      First Bell.
 
 8.50 – 9.50  Period One.
 
