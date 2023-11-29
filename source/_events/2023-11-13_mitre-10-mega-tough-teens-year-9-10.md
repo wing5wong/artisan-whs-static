@@ -14,6 +14,4 @@ This week in form time you will be shown a short video of what tough teens is ab
 Points are awarded to each school for the following things: school banner, school spirit (chants, dress up), school mascot, competitive races and tug of war points.  
 School with the most points will be awarded the tough teen trophy.  
 
-More information will be out closer to the day, but for now sign up with your form teacher and get ready for some fun in the sun!!  
-
 Any questions see Mrs Murphy in the Te Wehi Gym Office.
