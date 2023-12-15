@@ -1,20 +1,20 @@
 ---
-title: 2023 Public Holidays
-date: 2022-11-17T20:06:29.041Z
+title: 2024 Public Holidays
+date: 2023-12-15T09:34:53.569Z
 start_dates:
-  - date: 2023-02-06T02:05:37.384Z
+  - date: 2024-02-06T02:05:37.384Z
     body: Waitangi Day
-  - date: 2023-04-07T04:29:12.531Z
+  - date: 2024-03-29T03:29:12.531Z
     body: "Good Friday "
-  - date: 2023-04-10T04:29:33.023Z
-    body: "Easter Monday (within school holidays) "
-  - date: 2023-04-25T04:29:51.542Z
-    body: Anzac Day
-  - date: 2023-06-05T04:30:19.022Z
+  - date: 2024-04-01T03:29:33.023Z
+    body: "Easter Monday "
+  - date: 2024-04-25T04:29:51.542Z
+    body: "Anzac Day (within school holidays) "
+  - date: 2024-06-03T04:30:19.022Z
     body: King's Birthday
-  - date: 2023-07-14T02:21:40.498Z
-    body: Matariki (within school holidays)
-  - date: 2023-10-23T03:30:36.455Z
+  - date: 2024-06-28T02:21:40.498Z
+    body: "Matariki "
+  - date: 2024-10-28T03:30:36.455Z
     body: Labour Day
 end_dates: []
 ---
