@@ -42,6 +42,6 @@ Saturday 9am - 1pm
 
 For more information regarding the Whanganui High School uniform click the links below:
 
-[Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1648422611/Uniform/About_Our_Uniform_Booklet_-_25_February_2022.pdf)
+[Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1704349816/Uniform/Uniform_Booklet_-_14_December_2023.pdf)
 
 [Andersons Uniform Shop - WHS Uniform Pricelist](https://res.cloudinary.com/whanganuihigh/image/upload/v1674003278/Uniform/About_Our_Uniform_Booklet_-_7_Nov_2022.pdf)
