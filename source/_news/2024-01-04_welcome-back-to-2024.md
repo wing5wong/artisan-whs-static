@@ -5,7 +5,7 @@ news_author:
 show_in_slider: true
 date: 2024-01-04T06:31:05.090Z
 ---
-Whanganui High School welcomes students and staff back to school for 2024  
+Whanganui High School welcomes students and staff back to school for 2024.  
 
 
 - Prefect Leadership Day 23 January 2024  
