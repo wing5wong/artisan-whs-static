@@ -9,23 +9,23 @@ Whanganui High School expects students to be punctual.**
 
 8.45      First Bell.
 
-8.50      Period One.
+8.50 - 9.50 Period One.
 
-9.50      Form Time.
+9.50 - 10.05 Form Time.
 
-10.05     Period Two.
+10.05 - 11.05 Period Two.
 
-11.05     Morning Break.
+11.05 - 11.50 Morning Break.
 
-11.50     Period Three.
+11.50 - 12.50 Period Three.
 
-12.50     Period Four.
+12.50 - 1.50 Period Four.
 
-1.50      Afternoon Break.
+1.50 - 2.10 Afternoon Break.
 
-2.10      Period Five.
+2.10 - 3.05 Period Five.
 
-3.05      End of Period Five.
+
 
 **Friday**  
 
