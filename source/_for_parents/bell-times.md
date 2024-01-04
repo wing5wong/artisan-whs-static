@@ -4,6 +4,7 @@ date: 2024-01-04T21:25:28.707Z
 ---
 **Students should be at school by 8:45am.  
 Whanganui High School expects students to be punctual.**
+---
 
 **Monday to Thursday**
 
@@ -43,8 +44,6 @@ Whanganui High School expects students to be punctual.**
 
 1.05 – 2.05  Period Four.
 
-At the conclusion of period 4, students will be able to go home unless requested to remain for 
-tuition or mentoring. Bus pupils will be able to attend the Homework Centre in the Library.
+At the conclusion of period 4, students will be able to go home unless requested to remain for tuition or mentoring.  
+Bus students will be able to attend the Homework Centre in the Library.
 
-Students should be at school by 8.45am
-Whanganui High School expects students to be punctual.
