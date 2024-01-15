@@ -29,21 +29,3 @@ Saturday 9am - 1pm
 For more information regarding the Whanganui High School uniform click the links below:
 
 [Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1704349816/Uniform/Uniform_Booklet_-_14_December_2023.pdf)
-
-
-
-## Winter Uniform
-
-![Whanganui High Schools students wearing the boys winter uniform](https://res.cloudinary.com/whanganuihigh/image/upload/v1680134883/Uniform/Boys%20Winter%20Uniform.jpg "Whanganui High School Boys Winter Uniform")
-
-![Whanganui High Schools students wearing the girls winter uniform](https://res.cloudinary.com/whanganuihigh/image/upload/v1680134881/Uniform/Girls%20Winter%20Uniform.jpg "Whanganui High School Girls Winter Uniform")
-
-## Summer Uniform
-
-![Whanganui High Schools students wearing the girls summer uniform](https://res.cloudinary.com/whanganuihigh/image/upload/v1680134880/Uniform/Girls%20Summer%20Uniform.jpg "Whanganui High School Girls Summer Uniform")
-
-![Whanganui High Schools students wearing the boys summer uniform](https://res.cloudinary.com/whanganuihigh/image/upload/v1680134883/Uniform/Boys%20Summer%20Uniform.jpg "Whanganui High School Boys Summer Uniform")
-
-## Physical Education Uniform
-
-![Whanganui High Schools students wearing the PE winter uniform](https://res.cloudinary.com/whanganuihigh/image/upload/v1680134881/Uniform/PE%20Uniform.jpg "Whanganui High School PE Uniform")
