@@ -8,8 +8,6 @@ All students are expected to wear the prescribed school uniform in a tidy manner
 
 The Board of Trustees has delegated to the Principal the authority to rule on all matters relating to uniform, jewellery, hair and standards of personal presentation.
 
-Summer uniform is worn in Terms One and Four. Winter uniform is worn in Terms Two and Three.
-
 Cycle helmets are compulsory as required by law.
 
 
