@@ -12,6 +12,28 @@ Summer uniform is worn in Terms One and Four. Winter uniform is worn in Terms Tw
 
 Cycle helmets are compulsory as required by law.
 
+
+
+## UNIFORM PURCHASE: LOCATION AND HOURS
+
+All School uniform items are being sold exclusively by Andersons in their new School Uniform shop at 184 Victoria Avenue, Wanganui  (opposite Pita Pit).  Phone 348 9232.
+
+Opening Hours:
+
+Monday - Friday 8.30am - 5pm
+
+Saturday 9am - 1pm
+
+
+
+## UNIFORM REGULATIONS AND PRICELIST
+
+For more information regarding the Whanganui High School uniform click the links below:
+
+[Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1704349816/Uniform/Uniform_Booklet_-_14_December_2023.pdf)
+
+
+
 ## Winter Uniform
 
 ![Whanganui High Schools students wearing the boys winter uniform](https://res.cloudinary.com/whanganuihigh/image/upload/v1680134883/Uniform/Boys%20Winter%20Uniform.jpg "Whanganui High School Boys Winter Uniform")
@@ -27,21 +49,3 @@ Cycle helmets are compulsory as required by law.
 ## Physical Education Uniform
 
 ![Whanganui High Schools students wearing the PE winter uniform](https://res.cloudinary.com/whanganuihigh/image/upload/v1680134881/Uniform/PE%20Uniform.jpg "Whanganui High School PE Uniform")
-
-## UNIFORM PURCHASE: LOCATION AND HOURS
-
-All School uniform items are being sold exclusively by Andersons in their new School Uniform shop at 184 Victoria Avenue, Wanganui  (opposite Pita Pit).  Phone 348 9232.
-
-Opening Hours:
-
-Monday - Friday 8.30am - 5pm
-
-Saturday 9am - 1pm
-
-## UNIFORM REGULATIONS AND PRICELIST
-
-For more information regarding the Whanganui High School uniform click the links below:
-
-[Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1704349816/Uniform/Uniform_Booklet_-_14_December_2023.pdf)
-
-[Andersons Uniform Shop - WHS Uniform Pricelist](https://res.cloudinary.com/whanganuihigh/image/upload/v1674003278/Uniform/About_Our_Uniform_Booklet_-_7_Nov_2022.pdf)
