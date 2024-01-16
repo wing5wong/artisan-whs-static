@@ -1,8 +1,8 @@
 ---
-title: "Main Office re-opening "
+title: Main Office re-opening & start dates for 2024
 is_emergency: false
 date: 2024-01-16T09:20:22.108Z
-subtitle: Tuesday 23 January 2024
+subtitle: ""
 ---
 **Tuesday 23 January**  
 The Main Office will re-open.
