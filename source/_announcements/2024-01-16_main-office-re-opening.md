@@ -11,6 +11,6 @@ The Main Office will re-open.
 Term 1 begins for ***Year 9 and Year 13 students***, and new students from all other year levels.  
 Pōwhiri for new students and staff will be held at 8.45am in the School Hall.
 
-**Tuesday 30 January 2024**  
+**Tuesday 30 January**  
 Term 1 begins for ***Year 10, 11 and 12 students*** begin. The whole school is in attendance.
 
