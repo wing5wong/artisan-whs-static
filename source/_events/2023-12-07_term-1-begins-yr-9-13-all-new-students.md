@@ -3,11 +3,6 @@ title: Term 1 begins - Year 9 and Year 13 students, and new students from all
   other year levels.
 date: 2024-01-28T23:51:27.122Z
 ---
-Term 1 begins on Monday, 29 January 2024 for Year 9 and Year 13 students, and new students from all other year levels. 
-
-**Tuesday 23 January**  
-The Main Office will re-open.
-
 **Monday 29 January**  
 Term 1 begins for ***Year 9 and Year 13 students***, and new students from all other year levels.  
 
