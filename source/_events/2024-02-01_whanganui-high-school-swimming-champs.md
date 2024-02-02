@@ -2,7 +2,7 @@
 title: Whanganui High School Swimming Champs
 date: 2024-02-14T21:36:47.737Z
 ---
-WHS Swim Champs are on Thursday 15 February at The Splash Centre. Sign ups are open now until Monday 12 February.  
+WHS Swim Champs are on Thursday 15 February at the Splash Centre, 12pm-3pm. Sign ups are open now until Monday 12 February.  
 
 Please click on the bit.ly below and sign up to events you wish to participate in.  
 
