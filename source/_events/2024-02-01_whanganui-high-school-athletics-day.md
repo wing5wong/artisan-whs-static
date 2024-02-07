@@ -1,5 +1,5 @@
 ---
-title: "Whanganui High School Athletics Day "
+title: "WHS Athletics Day "
 date: 2024-02-26T21:42:05.516Z
 ---
 Cooks Gardens.  
