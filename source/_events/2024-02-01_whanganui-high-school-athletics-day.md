@@ -1,5 +1,5 @@
 ---
-title: "WHS Athletics Day "
+title: WHS Athletics Day - Sign ups close 16 February
 date: 2024-02-26T21:42:05.516Z
 ---
 WHS House Athletics Day  
