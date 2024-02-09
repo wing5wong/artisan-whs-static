@@ -140,6 +140,10 @@ return [
                 'url' => '/info-for-parents/byot'
             ],
             [
+                'title' => 'Mobile Phone Rules',
+                'url' => '/info-for-parents/mobile-phone-rules'
+            ],
+            [
                 'title' => 'Uniform',
                 'url' => '/info-for-parents/uniform'
             ],
