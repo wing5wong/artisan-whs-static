@@ -7,4 +7,4 @@ Mr Keene will run a seminar for year 13 students who are considering (or even cu
 You MUST register using this link: [https://bit.ly/whsuniinfo2024](https://docs.google.com/forms/d/e/1FAIpQLSd9PesldcQAoArJlASYTF5EhA-lr-6zaDeemMpFyJUq58y9Fw/viewform)  
 (or [https://forms.gle/DfdHamtc8pcvRU4p8](https://docs.google.com/forms/d/e/1FAIpQLSd9PesldcQAoArJlASYTF5EhA-lr-6zaDeemMpFyJUq58y9Fw/viewform)) - or check your school e-mail.  
 
-Registrations close on 20 February.
+Registrations CLOSE on 20 February.
