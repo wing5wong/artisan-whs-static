@@ -12,6 +12,7 @@ date: 2024-02-09T16:23:57.661Z
 
 - - -
 
-From the beginning of the 2024 school year, mobile phones will need to be ‘put away’ into school bags during student break times.\
-If a staff member sees a student with a mobile phone out during break time the staff member will politely ask the student to put the phone away into his or her school bag. The staff member will say ‘thank you’ and then move on to continue with his or her own break time or active supervision duty.\
+**From the beginning of the 2024 school year, mobile phones will need to be ‘put away’ into school bags during student break times.**  
+
+If a staff member sees a student with a mobile phone out during break time the staff member will politely ask the student to put the phone away into his or her school bag. The staff member will say ‘thank you’ and then move on to continue with his or her own break time or active supervision duty.  
 There will be no enforcement process if a student does not follow this polite instruction from the staff member.
