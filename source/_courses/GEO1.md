@@ -12,12 +12,10 @@ assessment_type: Achievement Standard
 leads_to:
   - GEO2
 standards:
-  - "91007"
-  - "91009"
-  - "91010"
-  - "91011"
-  - "91012"
-  - "91013"
+  - "91932"
+  - "91933"
+  - "91934"
+  - "91935"
 course_fees: Optional Field Trip Wellington $60 + potential other trip approx. $50.
 endorsement: Yes
 ---
