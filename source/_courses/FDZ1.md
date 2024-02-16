@@ -15,7 +15,7 @@ standards:
   - "92012"
   - "92013"
   - "92014"
-course_fees: $50 for take-home component
+course_fees: $30 for take-home component
 endorsement: Yes
 ---
 **Purpose:**
