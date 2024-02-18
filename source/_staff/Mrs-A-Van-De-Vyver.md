@@ -1,13 +1,13 @@
 ---
 title: Mrs A. Van De Vyver
-position: International Administration / Homestay Co-ordinator
+position: Homestay Co-ordinator
 departments:
   - International
 house: Awa
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597801945/staff/-Whanganui-High-School-010.jpg
 positions:
   - department: International
-    title: International Administration / Homestay Co-ordinator
+    title: Homestay Co-ordinator
 email: vandevyver.a@whs.ac.nz
 ---
 Originally from Warsaw, Poland, I emigrated to NZ with my family in 2006 and love it here in Whanganui. My son, Hardy, is a student at Whanganui High School. I have a degree in tourism and lived in many different countries before I came to New Zealand. I embrace world cultures, love travel, meeting people and learning about new countries. I am a positive, enthusiastic person and love working with international students.
