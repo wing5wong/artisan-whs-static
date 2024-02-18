@@ -1,15 +1,13 @@
 ---
-title: Mr M. Gardiner
+title: Mrs O. Wright
 position: Dean of Awa House
 departments:
   - Physical Education and Health
   - Deans
 on_leave: false
-house: Awa
+house: null
 positions:
   - title: Dean of Awa House
     department: Deans
-  - department: Physical Education and Health
-    title: Head of Senior Health
-email: gardiner.m@whs.ac.nz
+email: wright.o@whs.ac.nz
 ---
