@@ -1,14 +1,11 @@
 ---
 title: Mr W. Marr
-position: Dean of Maunga House
+position: Head of Vocational Studies, External Education Co-ordinator
 departments:
-  - Deans
-  - Physical Education and Health
+  - Vocational Studies
 house: Maunga
 positions:
-  - department: Deans
-    title: Dean of Maunga House
-  - title: Head of Junior Health
-    department: Physical Education and Health
+  - title: Head of Vocational Studies, External Education Co-ordinator
+    department: Vocational Studies
 email: marr.w@whs.ac.nz
 ---
