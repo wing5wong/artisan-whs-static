@@ -1,11 +1,11 @@
 ---
-title: Ms G. Cansfield
+title: Mrs S. Murray
 position: Head of Learning Support Centre
 departments:
   - Learning Support Centre
-house: Maunga
+house: null
 positions:
   - department: Learning Support Centre
     title: Head of Learning Support Centre
-email: cansfield.g@whs.ac.nz
+email: murray.s@whs.ac.nz
 ---
