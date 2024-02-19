@@ -1,11 +1,9 @@
 ---
 title: Ms S. Frost
-position: Head of Biology
+position: ""
 departments:
   - Sciences
 house: Awa
-positions:
-  - department: Sciences
-    title: Head of Biology
+positions: []
 email: frost.s@whs.ac.nz
 ---
