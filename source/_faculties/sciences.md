@@ -13,8 +13,7 @@ hofs:
   - Mr M. Crook
 ahofs:
   - Mr I. Thomas
-  - Ms S. Frost
-  - Mr N. Glaister
+  - Ms K. Booth-Richards
 vocational_pathways:
   - service
   - creative
