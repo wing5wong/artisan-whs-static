@@ -13,5 +13,5 @@ positions:
   - department: Deans
     title: Dean of Awa House
 phone: null
-email: campbell.n@whs.ac.nz
+email: harris.n@whs.ac.nz
 ---
