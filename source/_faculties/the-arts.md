@@ -10,13 +10,12 @@ intro: In the Arts students explore, refine, and communicate ideas as they
   connect thinking, imagination, senses, and feelings to create works and
   respond to the works of others.
 hofs:
-  - Mrs N. Campbell
+  - Mrs N. Harris
 ahofs:
-  - Mr G. Hall
   - Mrs J. Jones
   - Ms C. Sleyer
   - Mrs K. Coombs
-  - Miss D. Harnett
+  - Mr G.. Hall
 vocational_pathways:
   - service
   - creative
