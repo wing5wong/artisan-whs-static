@@ -1,9 +1,11 @@
 ---
 title: Ms K. Booth-Richards
+position: Head of Biology
 departments:
   - Sciences
-  - Technology
 house: Whenua
-positions: []
+positions:
+  - title: Head of Biology
+    department: Sciences
 email: booth-richards.k@whs.ac.nz
 ---
