@@ -11,8 +11,8 @@ intro: In the Arts students explore, refine, and communicate ideas as they
   respond to the works of others.
 hofs:
   - Mrs N. Harris
-  - Mr G. Hall
 ahofs:
+  - Mr G. Hall
   - Mrs J. Jones
   - Mrs K. Coombs
   - Ms C. Sleyer
