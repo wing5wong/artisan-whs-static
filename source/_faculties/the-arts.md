@@ -14,8 +14,8 @@ hofs:
   - Mr G. Hall
 ahofs:
   - Mrs J. Jones
-  - Ms C. Sleyer
   - Mrs K. Coombs
+  - Ms C. Sleyer
   - Miss D. Adam
 vocational_pathways:
   - service
