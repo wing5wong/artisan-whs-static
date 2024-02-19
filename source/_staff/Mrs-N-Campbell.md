@@ -1,5 +1,5 @@
 ---
-title: Mrs N. Campbell
+title: Mrs N. Harris
 position: HOF Performing & Visual Arts, Head of Dance, Dean of Awa House
 departments:
   - The Arts
