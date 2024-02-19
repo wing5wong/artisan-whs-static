@@ -14,6 +14,7 @@ hofs:
 ahofs:
   - Mr I. Thomas
   - Ms K. Booth-Richards
+  - Ms G. Glaister
 vocational_pathways:
   - service
   - creative
