@@ -2,11 +2,13 @@
 title: Mrs L. Su'a
 position: ""
 departments:
-  - Sciences
   - International
+  - Languages
 house: Moana
 positions:
   - title: Head of International English / ESOL
     department: International
+  - department: Languages
+    title: Teacher of Te Reo Maori
 email: sua.l@whs.ac.nz
 ---
