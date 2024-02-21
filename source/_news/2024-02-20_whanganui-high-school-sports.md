@@ -16,13 +16,13 @@ image_gallery:
 show_in_slider: true
 date: 2024-02-20T21:13:38.001Z
 ---
-Wow what a week of rowing!! ![🎉](https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/1/16/1f389.png)![🎉](https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/1/16/1f389.png)
+Wow what a week of rowing!! 
 
 Another successful day for AWRC on the water!
 
 Well done to our WHS rowers who came away with more bling today!
 
-[](<>)Bring on Maadi Cup ![💚](https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f49a.png)![💛](https://static.xx.fbcdn.net/images/emoji.php/v9/t15/1/16/1f49b.png)![💚](https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f49a.png)![💛](https://static.xx.fbcdn.net/images/emoji.php/v9/t15/1/16/1f49b.png)
+[](<>)Bring on Maadi Cup 
 
 Saturday races - A Finals
 
