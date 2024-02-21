@@ -1,7 +1,7 @@
 ---
-title: PFN1
+title: PFL1
 name: Progressive Financial Numeracy & Literacy
-code: PFN1
+code: PFL1
 subject_area: Progressive Financial Literacy
 date: 2023-06-28T00:12:47.087Z
 entry_requirements: HOF/TIC approval
