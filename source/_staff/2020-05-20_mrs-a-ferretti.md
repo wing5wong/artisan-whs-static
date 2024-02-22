@@ -8,6 +8,6 @@ positions:
   - title: HOF Languages
     department: Languages
   - department: Languages
-    title: Teacher of French
+    title: Teacher of French, Spanish, Te Reo Māori
 email: ferretti.a@whs.ac.nz
 ---
