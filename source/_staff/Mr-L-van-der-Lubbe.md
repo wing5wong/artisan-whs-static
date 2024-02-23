@@ -1,5 +1,5 @@
 ---
-title: Mr L. van der Lubbe
+title: Mr Luke van der Lubbe
 position: null
 departments:
   - Physical Education and Health
