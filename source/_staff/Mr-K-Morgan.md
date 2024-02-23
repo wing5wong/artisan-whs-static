@@ -1,5 +1,5 @@
 ---
-title: Mr K. Morgan
+title: Mr Kent Morgan
 position: Head of Building & Construction
 departments:
   - Technology
