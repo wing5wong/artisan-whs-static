@@ -1,5 +1,5 @@
 ---
-title: Ms W. Girven
+title: Ms Wendi Girven
 position: Head of Te Atawhai Unit
 departments:
   - Te Atawhai / Special Needs
