@@ -1,5 +1,5 @@
 ---
-title: Miss J. Madams
+title: Miss Jessie Madams
 position: Sports - Sports Assistant
 departments:
   - Support and Ancillary
