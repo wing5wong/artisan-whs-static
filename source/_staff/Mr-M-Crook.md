@@ -1,5 +1,5 @@
 ---
-title: Mr M. Crook
+title: Mr Michael Crook
 position: HOF Science
 departments:
   - Sciences
