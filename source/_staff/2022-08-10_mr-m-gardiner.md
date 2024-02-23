@@ -1,5 +1,5 @@
 ---
-title: Mrs O. Wright
+title: Mrs Olivia Wright
 position: Dean of Awa House
 departments:
   - Physical Education and Health
