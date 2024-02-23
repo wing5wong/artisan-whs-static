@@ -1,5 +1,5 @@
 ---
-title: Ms D. Henderson
+title: Ms Davina Henderson
 position: Staff Room
 departments:
   - Support and Ancillary
