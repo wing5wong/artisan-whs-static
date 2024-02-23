@@ -1,5 +1,5 @@
 ---
-title: Mrs C. Molan
+title: Mrs Carol Molan
 position: Administration - Principal's Executive Assistant
 departments:
   - Support and Ancillary
