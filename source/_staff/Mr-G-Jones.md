@@ -1,5 +1,5 @@
 ---
-title: Mr G. Jones
+title: Mr George Jones
 position: Property & Automotive Support
 departments:
   - Support and Ancillary
