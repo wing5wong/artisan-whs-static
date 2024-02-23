@@ -1,5 +1,5 @@
 ---
-title: Ms W. Stanaway
+title: Ms Wendy Stanaway
 position: available through Student Centre
 departments:
   - Guidance Counsellors
