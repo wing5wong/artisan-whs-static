@@ -1,5 +1,5 @@
 ---
-title: Ms J. Ander
+title: Ms Jo Ander
 departments:
   - Social Sciences
   - Progressive
