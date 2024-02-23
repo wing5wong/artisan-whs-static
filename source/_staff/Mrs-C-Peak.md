@@ -1,5 +1,5 @@
 ---
-title: Mrs C. Peak
+title: Mrs Caroline Peak
 position: Head of Classics
 departments:
   - Social Sciences
