@@ -1,5 +1,5 @@
 ---
-title: Miss G. Brown
+title: Miss Grace Brown
 position: ""
 departments:
   - Social Sciences
