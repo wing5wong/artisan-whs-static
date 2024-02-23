@@ -1,5 +1,5 @@
 ---
-title: Mr T. Sutherland
+title: Mr Tim Sutherland
 position: HOF Digital Technology, PB4L Co-ordinator
 departments:
   - Digital Technology
