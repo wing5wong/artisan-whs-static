@@ -1,5 +1,5 @@
 ---
-title: Mr M. Gallagher
+title: Mr Matthew Gallagher
 departments:
   - Social Sciences
 house: Awa
