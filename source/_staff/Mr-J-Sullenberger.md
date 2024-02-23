@@ -1,5 +1,5 @@
 ---
-title: Mr J. Sullenberger
+title: Mr James Sullenberger
 position: null
 departments:
   - Technology
