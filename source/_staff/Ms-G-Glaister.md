@@ -1,5 +1,5 @@
 ---
-title: Ms G. Glaister
+title: Ms Gail Glaister
 position: null
 departments:
   - Sciences
