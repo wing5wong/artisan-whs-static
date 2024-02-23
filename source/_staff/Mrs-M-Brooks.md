@@ -1,5 +1,5 @@
 ---
-title: Mrs M. Brooks
+title: Mrs Marie Brooks
 position: Piano/Voice
 departments:
   - Instrumental Music Tutors
