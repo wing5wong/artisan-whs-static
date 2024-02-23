@@ -1,5 +1,5 @@
 ---
-title: Mr T. Pauro
+title: Mr Timothy Pauro
 position: ""
 departments:
   - Physical Education and Health
