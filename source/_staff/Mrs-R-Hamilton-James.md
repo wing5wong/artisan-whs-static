@@ -1,5 +1,5 @@
 ---
-title: Mrs R. Hamilton-James
+title: Mrs Rebecca Hamilton-James
 position: Teacher Aide
 departments:
   - Learning Support Centre
