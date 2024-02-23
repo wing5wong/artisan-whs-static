@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Su'a
+title: Mrs Lee Su'a
 position: ""
 departments:
   - International
