@@ -1,5 +1,5 @@
 ---
-title: Ms H. Mael
+title: Ms Hilary Mael
 position: Administration - Main Office
 departments:
   - Support and Ancillary
