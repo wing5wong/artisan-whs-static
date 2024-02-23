@@ -1,5 +1,5 @@
 ---
-title: Mr G. Hardy
+title: Mr Grant Hardy
 position: Timetabling
 departments:
   - Physical Education and Health
