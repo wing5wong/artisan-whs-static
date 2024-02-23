@@ -1,5 +1,5 @@
 ---
-title: Mrs C. Libeau
+title: Mrs Claire Libeau
 position: Assistant HOF Social Sciences, Head of Accounting
 departments:
   - Social Sciences
