@@ -1,5 +1,5 @@
 ---
-title: Ms K. Booth-Richards
+title: Ms Karen Booth-Richards
 position: Head of Biology
 departments:
   - Sciences
