@@ -1,5 +1,5 @@
 ---
-title: Mrs K. Fecteau
+title: Mrs Kirsty Fecteau
 position: Head of Fashion Design
 departments:
   - Technology
