@@ -1,5 +1,5 @@
 ---
-title: Mr B. Ding
+title: Mr Beck Ding
 position: Dean of International Students, Teacher of Chinese
 departments:
   - Languages
