@@ -1,5 +1,5 @@
 ---
-title: Mr G. Hall
+title: Mr Graham Hall
 position: Assistant HOF Performing & Visual Arts, Head of Visual Arts
 departments:
   - The Arts
