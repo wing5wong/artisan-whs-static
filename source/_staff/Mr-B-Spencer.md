@@ -1,5 +1,5 @@
 ---
-title: Mr B. Spencer
+title: Mr Bruce Spencer
 position: Head of Automotive
 departments:
   - Technology
