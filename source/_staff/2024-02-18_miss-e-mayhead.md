@@ -1,5 +1,5 @@
 ---
-title: Miss E. Mayhead
+title: Miss Emily Mayhead
 departments:
   - Mathematics
 on_leave: false
