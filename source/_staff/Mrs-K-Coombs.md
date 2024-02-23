@@ -1,5 +1,5 @@
 ---
-title: Mrs K. Coombs
+title: Mrs Kaye Coombs
 position: Head of Art Design
 departments:
   - The Arts
