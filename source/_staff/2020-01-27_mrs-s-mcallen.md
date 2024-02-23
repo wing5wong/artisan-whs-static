@@ -1,5 +1,5 @@
 ---
-title: Ms J. Headon
+title: Ms Jane Headon
 departments:
   - English
 house: null
