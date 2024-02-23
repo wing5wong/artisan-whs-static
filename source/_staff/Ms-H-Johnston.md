@@ -1,5 +1,5 @@
 ---
-title: Ms H. Johnston
+title: Ms Heather Johnston
 position: Science Technician
 departments:
   - Support and Ancillary
