@@ -1,5 +1,5 @@
 ---
-title: Ms E. Houltham
+title: Ms Elizabeth Houltham
 position: Property
 departments:
   - Support and Ancillary
