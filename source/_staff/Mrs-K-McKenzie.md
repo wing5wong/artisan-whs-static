@@ -1,5 +1,5 @@
 ---
-title: Mrs K. McKenzie
+title: Mrs Karen McKenzie
 position: Lead Teacher Aide
 departments:
   - Learning Support Centre
