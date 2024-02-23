@@ -1,5 +1,5 @@
 ---
-title: Ms S. Kauika
+title: Ms Susan Kauika
 position: Teacher Aide
 departments:
   - Learning Support Centre
