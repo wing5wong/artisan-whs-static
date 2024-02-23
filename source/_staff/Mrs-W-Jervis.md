@@ -1,5 +1,5 @@
 ---
-title: Mrs P. McDonald
+title: Mrs Pru McDonald
 position: Deans House
 departments:
   - Support and Ancillary
