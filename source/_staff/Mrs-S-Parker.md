@@ -1,5 +1,5 @@
 ---
-title: Mrs S. Parker
+title: Mrs Stephanie Parker
 position: Teacher Aide
 departments:
   - Learning Support Centre
