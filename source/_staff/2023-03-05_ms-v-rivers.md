@@ -1,5 +1,5 @@
 ---
-title: Ms V. Rivers
+title: Ms Victoria Rivers
 departments:
   - The Arts
   - Physical Education and Health
