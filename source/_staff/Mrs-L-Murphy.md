@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Murphy
+title: Mrs Lisa Murphy
 position: Sports - Director of Sport
 departments:
   - Support and Ancillary
