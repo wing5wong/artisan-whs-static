@@ -1,5 +1,5 @@
 ---
-title: Mr R. Holden
+title: Mr Ryan Holden
 departments:
   - Physical Education and Health
 on_leave: false
