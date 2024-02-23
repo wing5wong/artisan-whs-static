@@ -1,5 +1,5 @@
 ---
-title: Mrs D. Parnell
+title: Mrs Diana Parnell
 position: Teacher Aide
 departments:
   - Te Atawhai / Special Needs
