@@ -1,5 +1,5 @@
 ---
-title: Mrs D. Morpeth
+title: Mrs Dale Morpeth
 position: Finance - School Business Manager
 departments:
   - Support and Ancillary
