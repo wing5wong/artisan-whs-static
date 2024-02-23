@@ -1,5 +1,5 @@
 ---
-title: Miss T. Baxter
+title: Miss Tara Baxter
 position: Teacher Aide
 departments:
   - Learning Support Centre
