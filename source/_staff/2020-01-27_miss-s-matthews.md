@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Carson
+title: Mrs Lydia Carson
 position: Performing Arts Administration Assistant
 departments:
   - Support and Ancillary
