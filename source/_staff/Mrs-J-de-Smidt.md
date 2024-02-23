@@ -1,5 +1,5 @@
 ---
-title: Mrs J. de Smidt
+title: Mrs Jemma de Smidt
 position: Dean of Academia, Head of History + Psychology
 departments:
   - Deans
