@@ -1,5 +1,5 @@
 ---
-title: Mrs A. Narayan
+title: Mrs Artika Narayan
 departments:
   - Sciences
 on_leave: false
