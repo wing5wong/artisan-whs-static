@@ -1,5 +1,5 @@
 ---
-title: Mr K. Rivers
+title: Mr Kent Rivers
 position: null
 departments:
   - Physical Education and Health
