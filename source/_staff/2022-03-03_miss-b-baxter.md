@@ -1,5 +1,5 @@
 ---
-title: Miss B. Baxter
+title: Miss Bailee Baxter
 departments:
   - Social Sciences
 house: Moana
