@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Hardcastle
+title: Mrs Linda Hardcastle
 position: Head of Food Technology
 departments:
   - Technology
