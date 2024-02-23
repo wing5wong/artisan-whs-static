@@ -1,5 +1,5 @@
 ---
-title: Mr C. Burgess
+title: Mr Craig Burgess
 position: HOF Mathematics
 departments:
   - Mathematics
