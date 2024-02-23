@@ -1,5 +1,5 @@
 ---
-title: Ms L. Lock
+title: Ms Leeann Lock
 position: Fit Club Instructor
 departments:
   - Support and Ancillary
