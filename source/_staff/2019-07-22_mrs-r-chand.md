@@ -1,5 +1,5 @@
 ---
-title: Mrs R. Chand
+title: Mrs Rekha Chand
 position: Head of Level 1 Science
 departments:
   - Sciences
