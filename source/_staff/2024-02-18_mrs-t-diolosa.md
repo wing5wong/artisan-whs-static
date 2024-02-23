@@ -1,5 +1,5 @@
 ---
-title: Mrs T. Diolosa
+title: Mrs Teresa Diolosa
 departments:
   - Sciences
 on_leave: false
