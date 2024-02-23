@@ -1,5 +1,5 @@
 ---
-title: Mr R. Parnell
+title: Mr Richie Parnell
 position: Teacher Aide
 departments:
   - Te Atawhai / Special Needs
