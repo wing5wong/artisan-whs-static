@@ -1,5 +1,5 @@
 ---
-title: Mr I. Taylor
+title: Mr Ian Taylor
 departments:
   - Support and Ancillary
 on_leave: false
