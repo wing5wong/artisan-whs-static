@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561592421/faculti
 intro: In Digital Technologies, students develop knowledge and skills using a
   wide range of exciting internet and computing technologies.
 hofs:
-  - Mr T. Sutherland
+  - Mr Tim Sutherland
 vocational_pathways:
   - service
   - creative
