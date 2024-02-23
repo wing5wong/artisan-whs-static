@@ -1,5 +1,5 @@
 ---
-title: Miss E. Paki
+title: Miss Emma Paki
 position: Teacher Aide
 departments:
   - Te Atawhai / Special Needs
