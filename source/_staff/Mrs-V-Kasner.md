@@ -1,5 +1,5 @@
 ---
-title: Mrs V. Kasner
+title: Mrs Vicki Kasner
 position: HOF English
 departments:
   - English
