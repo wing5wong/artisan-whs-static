@@ -1,5 +1,5 @@
 ---
-title: Mrs H. Barnett
+title: Mrs Heidi Barnett
 departments:
   - English
 house: Maunga
