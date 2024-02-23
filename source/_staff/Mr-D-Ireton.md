@@ -1,5 +1,5 @@
 ---
-title: Mr D. Ireton
+title: Mr Doug Ireton
 position: Head of Economics
 departments:
   - Social Sciences
