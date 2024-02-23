@@ -1,5 +1,5 @@
 ---
-title: Miss D. Adam
+title: Mrs Devon Adam
 position: Head of Drama
 departments:
   - The Arts
