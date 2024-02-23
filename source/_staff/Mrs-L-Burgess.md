@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Burgess
+title: Mrs Lisa Burgess
 position: Dean of Moana House
 departments:
   - English
