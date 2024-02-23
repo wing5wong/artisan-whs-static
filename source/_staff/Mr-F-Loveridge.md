@@ -1,5 +1,5 @@
 ---
-title: Mr F. Loveridge
+title: Mr Fred Loveridge
 position: Acoustic, Electric & Bass Guitar/Jazz Band
 departments:
   - Instrumental Music Tutors
