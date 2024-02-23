@@ -1,5 +1,5 @@
 ---
-title: Mr J. Dufty
+title: Mr Jason Dufty
 position: null
 departments:
   - Technology
