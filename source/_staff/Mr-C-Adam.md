@@ -1,5 +1,5 @@
 ---
-title: Mr C. Adam
+title: Mr Craig Adam
 position: HOF Technology, Head of Design & Visual Communication
 departments:
   - Technology
