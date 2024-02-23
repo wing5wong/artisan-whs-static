@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Lamb
+title: Mrs Linda Lamb
 position: Library
 departments:
   - Support and Ancillary
