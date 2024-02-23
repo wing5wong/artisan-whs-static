@@ -1,5 +1,5 @@
 ---
-title: Mr M. Franklin-Browne
+title: Mr Michael Franklin-Browne
 position: Drums
 departments:
   - Instrumental Music Tutors
