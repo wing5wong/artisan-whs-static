@@ -1,5 +1,5 @@
 ---
-title: Mrs A. Hunt
+title: Ms Annie Hunt
 position: Strings
 departments:
   - Instrumental Music Tutors
