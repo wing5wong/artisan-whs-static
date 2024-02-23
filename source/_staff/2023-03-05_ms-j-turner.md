@@ -1,5 +1,5 @@
 ---
-title: Ms J. Turner
+title: Ms Julie Turner
 position: Teacher Aide
 departments:
   - Te Atawhai / Special Needs
