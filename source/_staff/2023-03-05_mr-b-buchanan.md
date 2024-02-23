@@ -1,5 +1,5 @@
 ---
-title: Mr B. Buchanan
+title: Mr Buck Buchanan
 departments:
   - Social Sciences
   - English
