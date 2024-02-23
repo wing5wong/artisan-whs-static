@@ -1,5 +1,5 @@
 ---
-title: Mr G. Hutchins
+title: Mr Glen Hutchins
 position: null
 departments:
   - Technology
