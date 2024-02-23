@@ -1,5 +1,5 @@
 ---
-title: Ms C. Sleyer
+title: Ms Catherine Sleyer
 position: Head of Photography
 departments:
   - The Arts
