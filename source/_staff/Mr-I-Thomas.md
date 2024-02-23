@@ -1,5 +1,5 @@
 ---
-title: Mr I. Thomas
+title: Mr Ian Thomas
 position: Assistant HOF Science, Head of Chemistry
 departments:
   - Sciences
