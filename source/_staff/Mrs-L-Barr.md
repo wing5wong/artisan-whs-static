@@ -1,5 +1,5 @@
 ---
-title: Mrs L. Barr
+title: Mrs Louise Barr
 position: Student Centre
 departments:
   - Support and Ancillary
