@@ -1,5 +1,5 @@
 ---
-title: Mr C. Burrows
+title: Mr Christopher Burrows
 position: Assistant HOF Mathematics
 departments:
   - Mathematics
