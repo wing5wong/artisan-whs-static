@@ -1,5 +1,5 @@
 ---
-title: Mrs S. Goldsbury
+title: Mrs Sue Goldsbury
 position: Library
 departments:
   - Support and Ancillary
