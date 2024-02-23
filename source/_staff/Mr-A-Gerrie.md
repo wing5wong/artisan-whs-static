@@ -1,5 +1,5 @@
 ---
-title: Mr A. Gerrie
+title: Mr Andrew Gerrie
 position: IT - Computer Technician
 departments:
   - Support and Ancillary
