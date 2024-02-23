@@ -1,5 +1,5 @@
 ---
-title: Ms S. Hughes
+title: Ms Susan Hughes
 departments:
   - English
 house: Moana
