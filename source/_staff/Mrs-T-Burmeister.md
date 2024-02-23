@@ -1,5 +1,5 @@
 ---
-title: Mrs T. Burmeister
+title: Mrs Tui Burmeister
 position: null
 departments:
   - Technology
