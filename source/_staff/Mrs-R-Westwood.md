@@ -1,5 +1,5 @@
 ---
-title: Mrs R. Westwood
+title: Mrs Robyn Westwood
 position: Student Centre
 departments:
   - Support and Ancillary
