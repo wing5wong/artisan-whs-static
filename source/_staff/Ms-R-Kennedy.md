@@ -1,5 +1,5 @@
 ---
-title: Ms R. Kennedy
+title: Ms Rebecca Kennedy
 position: Dean of Whenua House
 departments:
   - Mathematics
