@@ -1,5 +1,5 @@
 ---
-title: Mrs N. McKee
+title: Mrs Natasha McKee
 position: Director of International Students
 departments:
   - International
