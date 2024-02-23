@@ -1,5 +1,5 @@
 ---
-title: Mr A. Lock
+title: Mr Andrew Lock
 position: null
 departments:
   - Physical Education and Health
