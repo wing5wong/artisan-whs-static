@@ -1,5 +1,5 @@
 ---
-title: Ms B. Stuart
+title: Ms Beverly Stuart
 position: Spanish
 departments:
   - Languages
