@@ -1,5 +1,5 @@
 ---
-title: Mrs S. Crook
+title: Mrs Sarah Crook
 position: ""
 departments:
   - Sciences
