@@ -1,5 +1,5 @@
 ---
-title: Mr A. Kumar
+title: Mr Amit Kumar
 position: ""
 departments:
   - Mathematics
