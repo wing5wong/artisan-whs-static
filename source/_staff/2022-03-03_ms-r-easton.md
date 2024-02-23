@@ -1,5 +1,5 @@
 ---
-title: Ms R. Easton
+title: Ms Rebecca Easton
 departments:
   - Social Sciences
 on_leave: true
