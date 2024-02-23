@@ -1,5 +1,5 @@
 ---
-title: Mr G. Herdman
+title: Mr Gavin Herdman
 position: Woodwind
 departments:
   - Instrumental Music Tutors
