@@ -1,5 +1,5 @@
 ---
-title: Mrs R. Dunn
+title: Mrs Rachael Dunn
 position: Employment Co-ordinator
 departments:
   - Vocational Studies
