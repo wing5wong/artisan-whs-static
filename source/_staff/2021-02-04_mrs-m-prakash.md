@@ -1,5 +1,5 @@
 ---
-title: Mrs M. Prakash
+title: Mrs Mohini Prakash
 departments:
   - Mathematics
 house: Moana
