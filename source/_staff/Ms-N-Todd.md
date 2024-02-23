@@ -1,5 +1,5 @@
 ---
-title: "Ms N. Todd "
+title: "Ms Nola Todd "
 position: Deputy Principal
 departments:
   - Deputy Principal
