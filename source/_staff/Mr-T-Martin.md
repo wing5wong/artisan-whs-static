@@ -1,5 +1,5 @@
 ---
-title: Mr K. Luff
+title: Mr Kevin Luff
 position: Property Manager
 departments:
   - Support and Ancillary
