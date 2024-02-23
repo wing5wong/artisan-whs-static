@@ -1,5 +1,5 @@
 ---
-title: Mr B. Jellyman
+title: Mr Bruce Jellyman
 position: Brass
 departments:
   - Instrumental Music Tutors
