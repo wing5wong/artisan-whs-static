@@ -1,5 +1,5 @@
 ---
-title: Mrs H. Pedersen
+title: Mrs Helen Pedersen
 departments:
   - Mathematics
 on_leave: false
