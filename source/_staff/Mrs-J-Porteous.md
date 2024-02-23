@@ -1,5 +1,5 @@
 ---
-title: Mrs C. Hunter
+title: Mrs Christine Hunter
 position: Administration - Reprographics
 departments:
   - Support and Ancillary
