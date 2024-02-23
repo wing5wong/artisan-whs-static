@@ -1,5 +1,5 @@
 ---
-title: Mrs S. Ashworth
+title: Mrs Sandra Ashworth
 position: Finance Office
 departments:
   - Support and Ancillary
