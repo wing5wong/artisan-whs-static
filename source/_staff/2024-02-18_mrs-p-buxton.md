@@ -1,5 +1,5 @@
 ---
-title: Mrs P. Buxton
+title: Mrs Penny Buxton
 departments:
   - Sciences
 on_leave: false
