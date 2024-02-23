@@ -1,5 +1,5 @@
 ---
-title: Miss S. Bridge
+title: Miss Samantha Bridge
 departments:
   - English
 house: Awa
