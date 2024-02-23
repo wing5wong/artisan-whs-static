@@ -1,5 +1,5 @@
 ---
-title: Mrs J. McKenzie
+title: Mrs Jacqui McKenzie
 position: available through Student Centre
 departments:
   - Guidance Counsellors
