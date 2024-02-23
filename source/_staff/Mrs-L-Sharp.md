@@ -1,5 +1,5 @@
 ---
-title: Miss S. Harding
+title: Miss Suzy Harding
 position: Science Technician Assistant
 departments:
   - Support and Ancillary
