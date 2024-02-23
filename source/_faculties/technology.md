@@ -9,12 +9,12 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561592432/faculti
 intro: In Technology, students learn to be innovative developers of products and
   systems and discerning consumers who will make a difference in the world.
 hofs:
-  - Mr Tim Sutherland
+  - Mr Craig Adam
 ahofs:
-  - Mrs L. Hardcastle
-  - Mr B. Spencer
-  - Mr K. Morgan
-  - Mrs K. Fecteau
+  - Mr Bruce Spencer
+  - Mr Kirk Morgan
+  - Mrs Kirsty Fecteau
+  - Mrs Linda Hardcastle
 vocational_pathways:
   - creative
   - primary
