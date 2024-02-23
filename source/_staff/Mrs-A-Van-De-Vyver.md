@@ -1,5 +1,5 @@
 ---
-title: Mrs A. Van De Vyver
+title: Mrs Anna Van De Vyver
 position: Homestay Co-ordinator
 departments:
   - International
