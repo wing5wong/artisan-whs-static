@@ -1,5 +1,5 @@
 ---
-title: Mrs S. Murray
+title: Mrs Sandra Murray
 position: Head of Learning Support Centre
 departments:
   - Learning Support Centre
