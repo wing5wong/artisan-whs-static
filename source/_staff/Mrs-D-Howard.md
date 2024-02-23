@@ -1,5 +1,5 @@
 ---
-title: Mr W. Marr
+title: Mr Warren Marr
 position: Head of Vocational Studies, External Education Co-ordinator
 departments:
   - Vocational Studies
