@@ -1,5 +1,5 @@
 ---
-title: Mr B. Holt
+title: Mr Brent Holt
 position: null
 departments:
   - The Arts
