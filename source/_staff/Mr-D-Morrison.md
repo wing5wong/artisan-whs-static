@@ -1,5 +1,5 @@
 ---
-title: Ms L. Rapson
+title: Ms Lisa Rapson
 position: Teacher Aide
 departments:
   - Learning Support Centre
