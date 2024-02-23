@@ -1,5 +1,5 @@
 ---
-title: Mrs S. Clark
+title: Mrs Shelley Clark
 departments:
   - English
 on_leave: false
