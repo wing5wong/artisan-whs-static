@@ -1,5 +1,5 @@
 ---
-title: Miss R. Henry
+title: Miss Riria Henry
 position: Head of Te Reo Māori
 departments:
   - Languages
