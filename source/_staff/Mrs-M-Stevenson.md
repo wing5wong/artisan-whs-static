@@ -1,5 +1,5 @@
 ---
-title: Mrs M. Stevenson
+title: Mrs Mignon Stevenson
 position: null
 departments:
   - English
