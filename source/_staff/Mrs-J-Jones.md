@@ -1,5 +1,5 @@
 ---
-title: Mrs J. Jones
+title: Mrs Jeanette Jones
 position: Head of Music, Performing Arts Co-ordinator
 departments:
   - The Arts
