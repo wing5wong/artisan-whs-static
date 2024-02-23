@@ -1,5 +1,5 @@
 ---
-title: Ms H. Manuel
+title: Ms Heni Manuel
 position: Teacher Aide
 departments:
   - Learning Support Centre
