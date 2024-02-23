@@ -1,5 +1,5 @@
 ---
-title: Ms M. Gounder
+title: Ms Manisha Gounder
 departments:
   - Mathematics
 on_leave: false
