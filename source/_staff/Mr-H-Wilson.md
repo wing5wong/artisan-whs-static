@@ -1,5 +1,5 @@
 ---
-title: Mr H. Wilson
+title: Mr Hunter Wilson
 position: Dean of Moana House
 departments:
   - Deans
