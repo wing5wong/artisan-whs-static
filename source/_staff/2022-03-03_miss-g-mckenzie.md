@@ -1,5 +1,5 @@
 ---
-title: Miss G. McKenzie
+title: Miss Gabrielle McKenzie
 position: Dean of Maunga House
 departments:
   - Social Sciences
