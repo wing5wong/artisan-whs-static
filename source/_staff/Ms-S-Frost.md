@@ -1,5 +1,5 @@
 ---
-title: Ms S. Frost
+title: Ms Sue Frost
 position: ""
 departments:
   - Sciences
