@@ -1,5 +1,5 @@
 ---
-title: Mr A. Watkins
+title: Mr Adam Watkins
 position: null
 departments:
   - Physical Education and Health
