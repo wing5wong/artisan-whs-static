@@ -1,5 +1,5 @@
 ---
-title: Mr J. Berkhout
+title: Mr Jos Berkhout
 departments:
   - English
 house: Awa
