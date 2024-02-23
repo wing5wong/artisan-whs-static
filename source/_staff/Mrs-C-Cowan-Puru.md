@@ -1,5 +1,5 @@
 ---
-title: Mrs C. Cowan-Puru
+title: Mrs Cherie Cowan-Puru
 position: Kaiāwhina - School Wide
 departments:
   - Support and Ancillary
