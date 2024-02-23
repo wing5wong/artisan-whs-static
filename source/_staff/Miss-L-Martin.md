@@ -1,5 +1,5 @@
 ---
-title: Miss L. Martin
+title: Miss Lisa Martin
 position: Dean of Whenua House, HOF Physical Education & Health
 departments:
   - Deans
