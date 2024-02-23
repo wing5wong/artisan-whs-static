@@ -1,5 +1,5 @@
 ---
-title: Mr P. Coombs
+title: Mr Pete Coombs
 position: null
 departments:
   - Mathematics
