@@ -1,16 +1,15 @@
 ---
 title: English
 maori_title: Reo Ingarihi
-date: 2019-06-28T01:00:00.000Z
+date: 2024-02-25T20:43:06.988Z
+is_teaching_faculty: true
 tags:
   - About WHS
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561592420/faculties/English_Faculty.jpg
-intro: >-
-  In English, students study, use and enjoy language and literature communicated
-  orally, visually or in writing.
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561592420/faculties/English_Faculty.jpg
+intro: In English, students study, use and enjoy language and literature
+  communicated orally, visually or in writing.
 hofs:
-  - Mrs V. Kasner
+  - Mrs Vicki Kasner
 ahofs: []
 vocational_pathways:
   - service
