@@ -10,9 +10,9 @@ intro: In Mathematics and Statistics, students explore relationships in
   quantities, space, and data and learn to express these relationships in ways
   that help them to make sense of the world around them.
 hofs:
-  - Mr C. Burgess
+  - Mr Craig Burgess
 ahofs:
-  - Mr C. Burrows
+  - Mr Christopher Burrows
 vocational_pathways:
   - service
   - creative
