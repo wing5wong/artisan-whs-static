@@ -10,11 +10,9 @@ intro: In Science, students explore how both the natural physical world and
   science itself work so that they can participate as critical, informed, and
   responsible citizens in a society in which science play
 hofs:
-  - Mr M. Crook
+  - Mr Michael Crook
 ahofs:
-  - Mr I. Thomas
-  - Ms K. Booth-Richards
-  - Ms G. Glaister
+  - Mr Ian Thomas
 vocational_pathways:
   - service
   - creative
