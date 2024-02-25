@@ -12,7 +12,7 @@ intro: In studying Languages, students learn to communicate in another language,
 hofs:
   - Mrs Alexandra Ferretti
 ahofs:
-  - Miss R. Henry
+  - Miss Riria Henry
 vocational_pathways:
   - service
   - creative
