@@ -12,7 +12,7 @@ intro: The Vocational Studies Department at Whanganui High School opens many
   training, experience of the “real world of work” and attend a variety of
   external courses.
 hofs:
-  - Mr W. Marr
+  - Mr Warren Marr
 ahofs:
   - Mr P. Keene
   - Mrs R. Dunn
