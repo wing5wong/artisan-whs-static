@@ -1,5 +1,5 @@
 ---
-title: Mrs S. Singh
+title: Mrs Shalini Singh
 departments:
   - Sciences
 on_leave: false
