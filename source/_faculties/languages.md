@@ -11,8 +11,7 @@ intro: In studying Languages, students learn to communicate in another language,
   views in relation to their own.
 hofs:
   - Mrs Alexandra Ferretti
-ahofs:
-  - Miss Riria Henry
+ahofs: []
 vocational_pathways:
   - service
   - creative
