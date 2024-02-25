@@ -10,11 +10,7 @@ intro: In Technology, students learn to be innovative developers of products and
   systems and discerning consumers who will make a difference in the world.
 hofs:
   - Mr Craig Adam
-ahofs:
-  - Mr Bruce Spencer
-  - Mr Kirk Morgan
-  - Mrs Kirsty Fecteau
-  - Mrs Linda Hardcastle
+ahofs: []
 vocational_pathways:
   - creative
   - primary
