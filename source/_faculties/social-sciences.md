@@ -10,13 +10,9 @@ intro: In the Social Sciences, students explore how societies work and how they
   themselves can participate and take action as critical, informed, and
   responsible citizens.
 hofs:
-  - Mr B. Hunter
+  - Mr Bevan Hunter
 ahofs:
-  - Mrs C. Libeau
-  - Mrs J. de Smidt
-  - Miss B. Waldegrave
-  - Mr D. Ireton
-  - Mrs C. Peak
+  - Mrs Claire Libeau
 vocational_pathways:
   - service
   - creative
