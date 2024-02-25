@@ -10,7 +10,7 @@ intro: In studying Languages, students learn to communicate in another language,
   develop their capacity to learn further languages, and explore different world
   views in relation to their own.
 hofs:
-  - Mrs A. Ferretti
+  - Mrs Alexandra Ferretti
 ahofs:
   - Miss R. Henry
 vocational_pathways:
