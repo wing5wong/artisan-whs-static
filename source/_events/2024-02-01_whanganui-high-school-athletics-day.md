@@ -9,12 +9,9 @@ Cooks Gardens
 
 ALL students go straight to Cooks Gardens on Tuesday morning from home dressed in your house colours.
 
-7.45am - PE staff and prefects arrive to set up
-
-8.30am - ALL competitive track & field athletes arrive at Cooks Gardens.
-
-8.45am - ALL Staff arrive dressed in your house colours
-
+7.45am - PE staff and prefects arrive to set up.  
+8.30am - ALL competitive track & field athletes arrive at Cooks Gardens.  
+8.45am - ALL Staff arrive dressed in your house colours.  
 9.30am - ALL other students arrive at Cooks Gardens for the day dressed in house colours. You are to go up into the Main Grandstand to your house areas for the form teachers to take the role.
 
 
