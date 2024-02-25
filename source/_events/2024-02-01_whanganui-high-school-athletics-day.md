@@ -17,8 +17,7 @@ ALL students go straight to Cooks Gardens on Tuesday morning from home dressed i
 
 Buses will run as per usual and you can be dropped at City College Bus stop and walk to Cooks Gardens.
 
-Everyone is to stay onsite for the whole day. There will be food and drinks available to purchase on site or bring a packed lunch and drink.  
-There will be two food stands that are fundraisers for our students at WHS. Please bring CASH with you to purchase their yummy food.
+Everyone is to stay onsite for the whole day. There will be two food stands that are fundraisers for our students at WHS. Please bring CASH with you to purchase their yummy food.
 
 
 Devices DO NOT need to be bought in your bags on Tuesday. Please leave them at home.
