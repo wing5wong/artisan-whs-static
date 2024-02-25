@@ -10,9 +10,9 @@ intro: In Health and Physical Education, students learn about their own
   well-being, and that of others and society, in health-related and movement
   contexts.
 hofs:
-  - Miss L. Martin
+  - Miss Lisa Martin
 ahofs:
-  - Mr J. Barnett
+  - Mr Joshua Barnett
 vocational_pathways:
   - service
   - creative
