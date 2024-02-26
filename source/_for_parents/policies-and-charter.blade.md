@@ -9,7 +9,9 @@ extends: _layouts.policies-and-charter
 ---
 ## Strategic Plan & Annual Implementation Plan
 
-The Whanganui High School Strategic Plan & Annual Implementation Plan is updated on an annual basis. To request a copy, please contact our Main Office
+[Whanganui High School Strategic Plan 2024-2025](https://res.cloudinary.com/whanganuihigh/image/upload/v1708908845/School%20Documents/Policies%20and%20Charter/WHS_Strategic_Plan_2024-2025.pdf)
+
+[Whanganui High School Annual Implementation Plan 2024-2025](https://res.cloudinary.com/whanganuihigh/image/upload/v1708908845/School%20Documents/Policies%20and%20Charter/WHS_Strategic_Plan_2024-2025.pdf)
 
 ## School Representatives
 
