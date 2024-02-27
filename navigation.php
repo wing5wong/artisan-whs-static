@@ -160,8 +160,16 @@ return [
                 'url' => '/info-for-parents/bell-times'
             ],
             [
-                'title' => 'Policies and Charter',
-                'url' => '/info-for-parents/policies-and-charter'
+                'title' => 'School Policies',
+                'url' => '/info-for-parents/policies'
+            ],
+            [
+                'title' => 'Strategic Plan',
+                'url' => '/info-for-parents/strategic-plan'
+            ],
+            [
+                'title' => 'Annual Implementation Plan',
+                'url' => '/info-for-parents/annual-implementation-plan'
             ],
             [
                 'title' => 'Annual Report - Financial Statements',

@@ -1,5 +1,5 @@
 ---
-title: Policies and Strategic Plan
+title: School Policies
 date: 2023-03-01T20:42:15.476Z
 intro: Our school Strategic Plan & Annual Implementation Plan is updated on an
   annual basis & school policies on a yearly or three yearly cycle. Including
@@ -7,11 +7,6 @@ intro: Our school Strategic Plan & Annual Implementation Plan is updated on an
   safety & well-being and admin.
 extends: _layouts.policies-and-charter
 ---
-## Strategic Plan & Annual Implementation Plan
-
-[Whanganui High School Strategic Plan 2024-2025](https://res.cloudinary.com/whanganuihigh/image/upload/v1708908845/School%20Documents/Policies%20and%20Charter/WHS_Strategic_Plan_2024-2025.pdf)
-
-[Whanganui High School Annual Implementation Plan 2024-2025](https://res.cloudinary.com/whanganuihigh/image/upload/v1708908845/School%20Documents/Policies%20and%20Charter/WHS_Strategic_Plan_2024-2025.pdf)
 
 ## School Representatives
 
