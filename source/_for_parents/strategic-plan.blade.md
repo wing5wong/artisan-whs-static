@@ -1,6 +1,6 @@
 ---
 title: Strategic Plan
-date: 2023-03-01T20:42:15.476Z
+date: 2024-02-27T21:40:48.440Z
 intro: Our school Strategic Plan & Annual Implementation Plan is updated on an
   annual basis
 ---
