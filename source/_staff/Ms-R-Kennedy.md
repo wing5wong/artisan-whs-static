@@ -8,5 +8,7 @@ house: Whenua
 positions:
   - department: Deans
     title: Dean of Whenua House
+  - department: Progressive
+    title: Digital Literacy
 email: kennedy.r@whs.ac.nz
 ---
