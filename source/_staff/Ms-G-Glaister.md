@@ -7,7 +7,7 @@ departments:
 house: Whenua
 positions:
   - department: Progressive
-    title: Digital Literacy / Life Skills
+    title: Life Skills
   - department: Sciences
     title: Head of Physics
 email: glaister.g@whs.ac.nz
