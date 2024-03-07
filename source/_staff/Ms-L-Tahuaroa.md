@@ -3,6 +3,7 @@ title: Mrs Lisa Tahuaroa
 departments:
   - English
   - Social Sciences
+  - Vocational Studies
 on_leave: false
 house: Whenua
 positions: []
