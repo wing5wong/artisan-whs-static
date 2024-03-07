@@ -7,7 +7,7 @@ house: Moana
 positions:
   - department: Social Sciences
     title: Specialist Classroom Teacher
-  - title: Communication Skills
+  - title: Life Skills
     department: Progressive
 email: ander.j@whs.ac.nz
 ---
