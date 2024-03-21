@@ -11,4 +11,7 @@ Wednesday 27 March:
 4.30-6.00pm Senior Boys
 
 
-Bring appropriate change of gear, shoes and a drink bottle
+Bring appropriate change of gear, shoes and a drink bottle.
+
+*Miss Martin*  
+*Teacher in charge*
