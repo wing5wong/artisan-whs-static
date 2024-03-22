@@ -9,9 +9,9 @@ When: Tuesday 9 April and Wednesday 10 April 2024
 Times: 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana and Te Wehi Gymnasiums   
 
-BOOKINGS OPEN at 5pm on THURSDAY 28 MARCH  
+**BOOKINGS OPEN at 5pm on THURSDAY 28 MARCH**  
 
-To book an interview **AFTER 5pm on Thursday 28 March**, click the following link:  
+To book an interview AFTER 5pm on Thursday 28 March, click the following link:  
 👉 <https://www.schoolinterviews.co.nz/>  
 ('Event Code' is needed from the Interim Report, emailed to you on 28 March). 
 
