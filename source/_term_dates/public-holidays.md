@@ -26,4 +26,4 @@ Parents will be notified if students are not required at school for any extraord
 
 Please note:
 - Monday 5 February School closed as Waitangi is on Tuesday.
-- Tuesday 2 April School closed as Easter Tuesday is a School Holiday.
+- Tuesday 2 April School closed as [Easter Tuesday is a School Holiday](https://www.education.govt.nz/school/school-terms-and-holiday-dates/more-information-about-setting-term-dates/#easter) .
