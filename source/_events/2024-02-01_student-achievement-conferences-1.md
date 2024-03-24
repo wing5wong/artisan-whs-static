@@ -5,7 +5,7 @@ date: 2024-04-09T23:53:20.386Z
 **WHANGANUI HIGH SCHOOL**  
 **STUDENT ACHIEVEMENT CONFERENCES**
 
-When: Tuesday 9 April and Wednesday 10 April 2024  
+**When: Tuesday 9 April and Wednesday 10 April 2024**  
 Times: 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana and Te Wehi Gymnasiums  
 
