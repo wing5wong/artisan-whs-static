@@ -2,8 +2,8 @@
 title: "Student Achievement Conferences "
 date: 2024-04-08T23:52:11.523Z
 ---
-WHANGANUI HIGH SCHOOL  
-STUDENT ACHIEVEMENT CONFERENCES
+**WHANGANUI HIGH SCHOOL**  
+**STUDENT ACHIEVEMENT CONFERENCES**
 
 When: Tuesday 9 April and Wednesday 10 April 2024  
 Times: 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
