@@ -12,7 +12,7 @@ Where: Te Mana and Te Wehi Gymnasiums
 **BOOKINGS open at 5pm on THURSDAY 28 MARCH**  
 
 To book an interview AFTER 5pm on Thursday 28 March, click the following link:  
-👉  <https://www.schoolinterviews.co.nz/> **(currently closed)**  
+👉  <https://www.schoolinterviews.co.nz/> (currently closed)  
 ('Event Code' is needed from the Interim Report, which will be emailed to you on 28 March) 
 
 Students will be released at the end of Period 4 - 1.50pm on both days.  
