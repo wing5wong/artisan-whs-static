@@ -9,7 +9,7 @@ start_dates:
   - date: 2024-04-01T03:29:33.023Z
     body: "Easter Monday "
   - date: 2024-04-02T03:29:00.000Z
-    body: Easter Tuesday (School Holiday)
+    body: Easter Tuesday (school holiday)
   - date: 2024-04-25T04:29:51.542Z
     body: "Anzac Day (within school holidays) "
   - date: 2024-06-03T04:30:19.022Z
