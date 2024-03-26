@@ -1,5 +1,5 @@
 ---
-title: Boys Basketball trials - 25 & 27 March
+title: Boys Basketball trials (25 & 27 March)
 date: 2024-03-26T21:34:58.009Z
 ---
 Monday 25 March:  
