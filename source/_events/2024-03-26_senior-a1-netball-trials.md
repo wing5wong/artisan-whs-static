@@ -1,5 +1,5 @@
 ---
-title: Senior A1 Netball Trials
+title: Senior A1 Netball Trials, Yr 11-13
 date: 2024-04-02T03:18:07.524Z
 ---
 
