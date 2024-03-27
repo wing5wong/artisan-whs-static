@@ -1,6 +1,6 @@
 ---
 title: Girls Football Trials (27 March & 3 April)
-date: 2024-03-26T21:38:42.982Z
+date: 2024-04-02T21:38:42.982Z
 ---
 Girls 1st XI Football trials.  
 
