@@ -2,17 +2,17 @@
 title: Student Achievement Conferences - Bookings now OPEN
 date: 2024-04-09T23:53:20.386Z
 ---
-**WHANGANUI HIGH SCHOOL**  
-**STUDENT ACHIEVEMENT CONFERENCES**
+**WHANGANUI HIGH SCHOOL**\
+**[STUDENT ACHIEVEMENT CONFERENCES](https://www.schoolinterviews.co.nz/)**
 
-**When: Tuesday 9 April and Wednesday 10 April 2024**  
-**Times: 3.00pm to 8.40pm** (with dinner hour 5.00pm - 6.00pm)  
+**When: Tuesday 9 April and Wednesday 10 April 2024**\
+**Times: 3.00pm to 8.40pm** (with dinner hour 5.00pm - 6.00pm)\
 **Where: Te Mana and Te Wehi Gymnasiums**  
 
 **BOOKINGS are now OPEN**  
 
-To book an interview click on the following link:  
-👉  <https://www.schoolinterviews.co.nz/>   
+To book an interview click on the following link:\
+👉  <https://www.schoolinterviews.co.nz/>\
 ('Event Code' is needed from the Interim Report, which was emailed to you on 28 March) 
 
 Students will be released at the end of Period 4 - 1.50pm on both days.  
@@ -23,10 +23,10 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 **BOOKINGS CLOSE at 5.00pm on Monday 8 April**, the evening before the interviews.  
 
-The following teachers will NOT be available for the Conferences:  
-Mrs Kaye Coombs (Art)  
-Mr Pete Coombs (Mathematics)  
-Mrs Claire Libeau (Social Sciences)  
+The following teachers will NOT be available for the Conferences:\
+Mrs Kaye Coombs (Art)\
+Mr Pete Coombs (Mathematics)\
+Mrs Claire Libeau (Social Sciences)\
 Mr Andrew Lock (Physical Education & Health)  
 
 If you need to contact them, please do so via email or leave a message at school and they will contact you.
