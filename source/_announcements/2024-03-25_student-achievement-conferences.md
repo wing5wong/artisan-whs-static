@@ -25,4 +25,12 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 **BOOKINGS CLOSE at 5.00pm on Monday 8 April**, the evening before the interviews.  
 
-Any queries or difficulties in booking your appointment times please phone 349 0177.
+The following teachers will NOT be available for the Conferences:  
+Mrs Kaye Coombs (Art)  
+Mr Pete Coombs (Mathematics)  
+Mrs Claire Libeau (Social Sciences)  
+Mr Andrew Lock (Physical Education & Health)  
+
+If you need to contact them, please do so via email or leave a message at school and they will contact you.
+
+Any queries or difficulties in booking your appointment times please phone 349 0177 after the Easter Break.
