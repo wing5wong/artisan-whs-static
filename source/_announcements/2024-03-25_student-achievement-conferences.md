@@ -13,7 +13,7 @@ subtitle: Tuesday 9 April and Wednesday 10 April 2024
 
 **BOOKINGS are now OPEN**  
 
-To book an interview click the following link:  
+To book an interview click on the following link:  
 👉  <https://www.schoolinterviews.co.nz/>   
 ('Event Code' is needed from the Interim Report, which was emailed to you on 28 March) 
 
