@@ -11,7 +11,7 @@ date: 2024-04-09T23:53:20.386Z
 
 **BOOKINGS are now OPEN**  
 
-To book an interview click the following link:  
+To book an interview click on the following link:  
 👉  <https://www.schoolinterviews.co.nz/>   
 ('Event Code' is needed from the Interim Report, which was emailed to you on 28 March) 
 
