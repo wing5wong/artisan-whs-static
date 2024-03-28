@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - Bookings now OPEN
+title: Student Achievement Conferences - BOOK NOW
 date: 2024-04-08T23:52:11.523Z
 ---
 **WHANGANUI HIGH SCHOOL**  
