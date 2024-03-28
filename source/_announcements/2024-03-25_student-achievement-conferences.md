@@ -15,7 +15,7 @@ subtitle: Tuesday 9 April and Wednesday 10 April 2024
 
 To book an interview click the following link:  
 👉  <https://www.schoolinterviews.co.nz/>   
-('Event Code' is needed from the Interim Report, which was be emailed to you on 28 March) 
+('Event Code' is needed from the Interim Report, which was emailed to you on 28 March) 
 
 Students will be released at the end of Period 4 - 1.50pm on both days.  
 
