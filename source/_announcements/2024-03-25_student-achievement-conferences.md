@@ -1,5 +1,5 @@
 ---
-title: STUDENT ACHIEVEMENT CONFERENCES - BOOKINGS NOW OPEN
+title: STUDENT ACHIEVEMENT CONFERENCES - BOOK NOW
 is_emergency: false
 date: 2024-03-25T04:56:23.733Z
 subtitle: Tuesday 9 April and Wednesday 10 April 2024
