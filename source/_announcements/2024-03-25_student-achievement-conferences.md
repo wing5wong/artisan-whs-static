@@ -30,7 +30,14 @@ Mrs Kaye Coombs (Art)
 Mr Pete Coombs (Mathematics)  
 Mrs Claire Libeau (Social Sciences)  
 Mr Andrew Lock (Physical Education & Health)  
+If you need to contact them, please do so via email or leave a message at school and they will contact you. 
 
-If you need to contact them, please do so via email or leave a message at school and they will contact you.
+**Important message to parents of students that have MS DEVI for MATHEMATICS.** 
 
-Any queries or difficulties in booking your appointment times please phone 349 0177 after the Easter Break.
+There are two Ms Devi's in our Mathematics Department.  
+Ms Rajneeta DEVI  (DR on the students timetable)   
+Ms Sharuna DEVI   (DES on the students timetable)  
+Please chose the correct Ms Devi. 
+
+
+Any queries or difficulties in booking your appointment times please phone 349 0177.
