@@ -23,19 +23,18 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 **BOOKINGS CLOSE at 5.00pm on Monday 8 April**, the evening before the interviews.  
 
-The following teachers will NOT be available for the Conferences:  
-Mrs Kaye Coombs (Art)  
-Mr Pete Coombs (Mathematics)  
-Mrs Claire Libeau (Social Sciences)  
-Mr Andrew Lock (Physical Education & Health)  
-If you need to contact them, please do so via email or leave a message at school and they will contact you. 
-
-**Important message to parents of students that have MS DEVI for MATHEMATICS.** 
-
+**Important message to parents of students that have MS DEVI for MATHEMATICS.**  
 There are two Ms Devi's in our Mathematics Department.  
 Ms Rajneeta DEVI  (**DR** on the students timetable)   
 Ms Sharuna DEVI   (**DES** on the students timetable)  
 Please chose the correct Ms Devi. 
 
 
-Any queries or difficulties in booking your appointment times please phone 349 0177.
+Any queries or difficulties in booking/changing your appointment times please phone 349 0177.  
+
+The following teachers will NOT be available for the Conferences:  
+Mrs Kaye Coombs (Art)  
+Mr Pete Coombs (Mathematics)  
+Mrs Claire Libeau (Social Sciences)  
+Mr Andrew Lock (Physical Education & Health)  
+If you need to contact them, please do so via email or leave a message at school and they will contact you. 
