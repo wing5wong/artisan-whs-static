@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - BOOK NOW
+title: Student Achievement Conferences - Students released 1.50pm
 date: 2024-04-09T23:53:20.386Z
 ---
 **WHANGANUI HIGH SCHOOL**  
