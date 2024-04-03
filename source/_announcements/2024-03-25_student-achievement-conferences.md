@@ -35,8 +35,8 @@ If you need to contact them, please do so via email or leave a message at school
 **Important message to parents of students that have MS DEVI for MATHEMATICS.** 
 
 There are two Ms Devi's in our Mathematics Department.  
-Ms Rajneeta DEVI  (DR on the students timetable)   
-Ms Sharuna DEVI   (DES on the students timetable)  
+Ms Rajneeta DEVI  (**DR** on the students timetable)   
+Ms Sharuna DEVI   (**DES** on the students timetable)  
 Please chose the correct Ms Devi. 
 
 
