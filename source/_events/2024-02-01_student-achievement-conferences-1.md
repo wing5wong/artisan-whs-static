@@ -23,7 +23,7 @@ Students are encouraged to attend these conferences with their parents or caregi
 
 **BOOKINGS CLOSE at 5.00pm on Monday 8 April**, the evening before the interviews.  
 
-**Important message to parents of students that have MS DEVI for MATHEMATICS.**  
+**Important message to parents of students who have MS DEVI for MATHEMATICS.**  
 There are two Ms Devi's in our Mathematics Department.  
 Ms Rajneeta DEVI  (**DR** on the students timetable)   
 Ms Sharuna DEVI   (**DES** on the students timetable)  
