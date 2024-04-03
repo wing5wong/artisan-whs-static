@@ -80,9 +80,9 @@ policyAreas:
         policy: 5.8 Student Related Transport
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1677703078/School%20Policies/5.9_Infectious_Diseases.updated_February_2023.pdf
         policy: 5.9 Infectious Diseases
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1616961142/School%20Policies/5.10_Guidance_updated_February_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1712177614/School%20Policies/5.10_Guidance_updated_March_2024.pdf
         policy: 5.10 Guidance
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794256/School%20Policies/5.11_Child_Protection_Policy_in_Schools_March_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1712177614/School%20Policies/5.11_Child_Protection_Policy_in_Schools_March_2024.pdf
         policy: 5.11 Child Protection Policy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794841/School%20Policies/5.12_Dealing_with_Child_Abuse_Allegations_against_Employees_in_Schools_March_2021.pdf
         policy: 5.12 Dealing with Child Abuse Allegations
@@ -92,7 +92,7 @@ policyAreas:
   - policies:
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1651551119/School%20Policies/6.2_Attendance_updated_February_2022.pdf
         policy: 6.2 Attendance
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1625544867/School%20Policies/6.4_Privacy_updated_May_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1712177614/School%20Policies/6.4_Privacy_updated_March_2024.pdf
         policy: 6.4 Privacy
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797846/School%20Policies/6.5_CCTV_Policy_updated_October_2021.pdf
         policy: 6.5 CCTV
