@@ -1,6 +1,6 @@
 ---
 title: Netball Trials, Yr 9-10 (4 & 5 April)
-date: 2024-04-04T03:22:10.964Z
+date: 2024-04-05T03:22:10.964Z
 ---
 Trials for the Junior Netball teams start Thursday 4 April and Friday 5 April, 2pm-4pm at the Springvale stadium.  
 
