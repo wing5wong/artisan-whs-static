@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - Students released 1.50pm
+title: Student Achievement Conferences - Students released 2.00pm
 date: 2024-04-09T23:53:20.386Z
 ---
 **WHANGANUI HIGH SCHOOL**  
@@ -15,7 +15,7 @@ To book an interview click on the following link:
 👉  <https://www.schoolinterviews.co.nz/>  
 ('Event Code' is needed from the Interim Report, which was emailed to you on 28 March) 
 
-Students will be released at the end of Period 4 - 1.50pm on both days.  
+Students will be released at 2.00pm on both days.  
 
 Buses will run at their normal times and the Homework Centre will be open in the Library until 4.30pm as usual.  
 
