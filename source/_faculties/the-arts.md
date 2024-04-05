@@ -1,7 +1,7 @@
 ---
 title: The Arts
 maori_title: Nga Toi
-date: 2019-07-05T01:00:00.000Z
+date: 2023-06-01T09:22:57.735Z
 is_teaching_faculty: true
 tags:
   - About WHS
