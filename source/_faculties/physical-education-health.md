@@ -1,7 +1,7 @@
 ---
 title: Physical Education and Health
 maori_title: Hauora
-date: 2024-04-05T08:14:39.393Z
+date: 2023-06-01T09:14:39.393Z
 is_teaching_faculty: true
 tags:
   - About WHS
