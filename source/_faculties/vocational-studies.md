@@ -1,7 +1,7 @@
 ---
 title: Vocational Studies
 maori_title: Kōwhiringa Umanga
-date: 2019-06-27T01:00:00.000Z
+date: 2023-06-01T09:23:58.185Z
 is_teaching_faculty: true
 tags:
   - About WHS
