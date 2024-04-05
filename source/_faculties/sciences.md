@@ -1,7 +1,7 @@
 ---
 title: Sciences
 maori_title: Putaiao
-date: 2023-06-01T09:20:54.758Z
+date: 2020-06-01T09:20:54.758Z
 is_teaching_faculty: true
 tags:
   - About WHS
