@@ -1,7 +1,7 @@
 ---
 title: International
 maori_title: Tāngata Rāwāhi
-date: 2024-04-05T08:12:48.820Z
+date: 2023-06-01T09:12:48.820Z
 is_teaching_faculty: true
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1564097186/faculties/International_-_combined.jpg
 intro: In International studies, English as a Second Language students can
