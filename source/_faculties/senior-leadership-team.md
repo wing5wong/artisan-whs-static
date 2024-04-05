@@ -1,10 +1,10 @@
 ---
 title: Senior Leadership Team
-date: 2019-08-08T23:17:35.514Z
+date: 2023-06-01T09:21:11.266Z
+is_teaching_faculty: false
 hofs:
   - Mr Martin McAllen
 ahofs:
   - Mrs E. Spooner
-is_teaching_faculty: false
 ---
 .
