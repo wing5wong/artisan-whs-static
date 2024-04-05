@@ -1,7 +1,7 @@
 ---
 title: Social Sciences
 maori_title: Tikanga-a-iwi
-date: 2023-06-01T09:21:32.561Z
+date: 2020-06-01T09:21:32.561Z
 is_teaching_faculty: true
 tags:
   - About WHS
