@@ -1,7 +1,7 @@
 ---
 title: Digital Technology
 maori_title: Hangarua Matihiko
-date: 2023-06-01T09:11:33.756Z
+date: 2020-06-01T09:11:33.756Z
 is_teaching_faculty: true
 tags:
   - About WHS
