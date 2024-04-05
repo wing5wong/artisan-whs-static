@@ -1,7 +1,7 @@
 ---
 title: Technology
 maori_title: Hangarau
-date: 2019-06-28T01:00:00.000Z
+date: 2023-06-01T09:23:21.346Z
 is_teaching_faculty: true
 tags:
   - About WHS
