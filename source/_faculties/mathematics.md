@@ -1,7 +1,7 @@
 ---
 title: Mathematics
 maori_title: Pangarau
-date: 2023-06-01T09:14:06.037Z
+date: 2020-06-01T09:14:06.037Z
 is_teaching_faculty: true
 tags:
   - About WHS
