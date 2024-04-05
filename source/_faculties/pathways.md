@@ -1,6 +1,6 @@
 ---
 title: Progressive
-date: 2023-06-01T09:14:17.914Z
+date: 2020-06-01T09:14:17.914Z
 is_teaching_faculty: true
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1597029913/faculties/Pathways_-_combined.jpg
 ---
