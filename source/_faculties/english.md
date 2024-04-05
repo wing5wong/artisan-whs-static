@@ -1,7 +1,7 @@
 ---
 title: English
 maori_title: Reo Ingarihi
-date: 2024-02-25T20:43:06.988Z
+date: 2023-05-31T21:43:06.988Z
 is_teaching_faculty: true
 tags:
   - About WHS
