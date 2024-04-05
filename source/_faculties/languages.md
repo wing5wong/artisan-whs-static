@@ -1,7 +1,7 @@
 ---
 title: Languages
 maori_title: Te Korero me Nga Reo
-date: 2023-06-01T09:13:04.793Z
+date: 2020-06-01T09:13:04.793Z
 is_teaching_faculty: true
 tags:
   - About WHS
