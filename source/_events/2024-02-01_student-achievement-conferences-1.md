@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - Bookings CLOSE 5pm, Monday 8 April
+title: Student Achievement Conferences - Bookings CLOSE 5pm TODAY, Monday 8 April
 date: 2024-04-09T23:53:20.386Z
 ---
 **WHANGANUI HIGH SCHOOL**  
