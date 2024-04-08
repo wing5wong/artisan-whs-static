@@ -1,5 +1,5 @@
 ---
-title: Whanganui High School Sports
+title: Whanganui High School - International
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1712255936/News/volleyball_WHS.jpg
 news_author:
