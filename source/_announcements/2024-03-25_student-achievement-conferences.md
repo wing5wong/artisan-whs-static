@@ -1,5 +1,5 @@
 ---
-title: STUDENT ACHIEVEMENT CONFERENCES - BOOKINGS CLOSE 5PM TODAY!
+title: STUDENT ACHIEVEMENT CONFERENCES - BOOKINGS ARE NOW CLOSED
 is_emergency: false
 date: 2024-03-25T04:56:23.733Z
 subtitle: Tuesday 9 April and Wednesday 10 April 2024
@@ -11,11 +11,7 @@ subtitle: Tuesday 9 April and Wednesday 10 April 2024
 **Times: 3.00pm to 8.40pm** (with dinner hour 5.00pm - 6.00pm)  
 **Where: Te Mana and Te Wehi Gymnasiums**  
 
-**BOOKINGS are now OPEN**  
-
-To book an interview click on the following link:  
-👉  <https://www.schoolinterviews.co.nz/>   
-('Event Code' is needed from the Interim Report, which was emailed to you on 28 March) 
+**BOOKINGS are now CLOSED**  
 
 Students will be released at 2.00pm on both days.  
 
@@ -23,7 +19,7 @@ Buses will run at their normal times and the Homework Centre will be open in the
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-**BOOKINGS CLOSE at 5.00pm on Monday 8 April**, the evening before the interviews.
+**BOOKINGS CLOSED at 5.00pm on Monday 8 April**, the evening before the interviews.
 
 **Important message to parents of students who have MS DEVI for MATHEMATICS.**  
 There are two Ms Devi's in our Mathematics Department.  
