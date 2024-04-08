@@ -3,7 +3,7 @@ title: Whanganui High School Sports
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1712605617/News/xterra3.jpg
 news_author:
-  date: 2024-04-05T02:09:00.000Z
+  date: 2024-04-09T03:09:00.000Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1712605616/News/xterra2.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1712605616/News/xterra1.jpg
@@ -11,7 +11,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1712605616/News/xterra5.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1712605616/News/xterra4.jpg
 show_in_slider: true
-date: 2024-04-01T02:09:00.000Z
+date: 2024-04-09T03:09:00.000Z
 ---
 On Saturday 6th of April WHS took 4 students to the Xterra Rotorua festival.
 
