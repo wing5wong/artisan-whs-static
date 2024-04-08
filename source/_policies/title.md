@@ -84,7 +84,7 @@ policyAreas:
         policy: 5.10 Guidance
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1712177614/School%20Policies/5.11_Child_Protection_Policy_in_Schools_March_2024.pdf
         policy: 5.11 Child Protection Policy
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794841/School%20Policies/5.12_Dealing_with_Child_Abuse_Allegations_against_Employees_in_Schools_March_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1712546835/School%20Policies/5.12_Dealing_with_Child_Abuse_Allegations_against_Employees_in_Schools_March_2024.pdf
         policy: 5.12 Dealing with Child Abuse Allegations
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1684794255/School%20Policies/5.13_Reducing_Student_Distress_and_use_of_Physical_Restraint_Policy_May_2023.pdf
         policy: 5.13 Reducing Student Distress and Use of Physical Restraint
