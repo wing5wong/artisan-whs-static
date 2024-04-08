@@ -11,8 +11,6 @@ date: 2024-04-08T23:52:11.523Z
 
 **BOOKINGS are now CLOSED**  
 
-
-
 Students will be released at 2.00pm on both days.  
 
 Buses will run at their normal times and the Homework Centre will be open in the Library until 4.30pm as usual.  
