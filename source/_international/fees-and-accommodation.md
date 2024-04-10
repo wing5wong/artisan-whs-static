@@ -6,9 +6,7 @@ date: 2022-12-13T19:57:01.552Z
 
 https://whanganuihigh.enrol.school.nz
 
-
-
-## Tuition Fee:
+## Tuition Fee 2024:
 
 **Standard Year Course: NZ $15,000**
 
@@ -81,7 +79,7 @@ If you request a change of homestay, then the original homestay will receive two
 * **Air Chathams flight to Whanganui: NZ $190** Air Chathams flight to Whanganui with full concierge service. This includes a meet and transfer
   on arrival at Auckland International airport plus care of student until arrival in Whanganui.  
 * **Auckland Meet and Transfer: NZ $175** You will be met at Auckland airport and transferred to the domestic plane for flight to Whanganui or Palmerston North.
-* **Palmerston North Meet and Transfer: NZ $140** You will be met at Palmerston North airport and transferred to Whanganui. 
+* **Palmerston North Meet and Transfer: NZ $150** You will be met at Palmerston North airport and transferred to Whanganui. 
   .
 * **Assistance to obtain student visa: NZ $80** If you require the school staff to help you obtain a student visa in New Zealand (the visa itself costs $410), we charge an admin fee.
 * **Assistance to obtain a student medical visa: NZ $80** Assistance to obtain a student medical for visa. If you arrive without a medical required for a student visa and ask
