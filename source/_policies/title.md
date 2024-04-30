@@ -8,7 +8,7 @@ policyAreas:
         policy: 1.2 Curriculum Information
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1625544868/School%20Policies/1.5_-Students_with_Additional_Learning_Needs_updated_May_2021.pdf
         policy: 1.5 Learners with Special Education Needs
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1627613879/School%20Policies/1.6_-Education_beyond_the_Whanganui_High_School_Site_updated_June_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1714449675/School%20Policies/1.6_Education_beyond_the_Whanganui_High_School_Site_updated_April_2024.pdf
         policy: 1.6 - Education Beyond the Whanganui High School Site
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1635797845/School%20Policies/1.7_-Information_and_Communication_Technology_updated_October_2021.pdf
         policy: 1.7 Information and Communication Technology
