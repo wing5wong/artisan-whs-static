@@ -1,5 +1,5 @@
 ---
-title: WHS Cross Country
+title: WHS Cross Country - sign ups close by 8 May
 date: 2024-05-09T22:28:37.444Z
 ---
 Whanganui High School Cross Country is on Friday 10 May on the school field. 
