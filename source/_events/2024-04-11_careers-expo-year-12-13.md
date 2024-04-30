@@ -1,5 +1,5 @@
 ---
-title: Careers EXPO, Year 12/13
+title: Senior Careers EXPO, Year 12/13
 date: 2024-05-23T07:17:13.275Z
 ---
 Careers EXPO - Thursday 23 May.
