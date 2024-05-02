@@ -4,7 +4,7 @@ date: 2024-05-23T07:17:13.275Z
 ---
 Careers EXPO - Thursday 23 May.
 
-Please check your school e-mail for some extra information that was sent to students and parents last week.
+Please check your school e-mail for some extra information that was sent to students and parents.
 
 *Mr Keene  
 Careers Advisers*
