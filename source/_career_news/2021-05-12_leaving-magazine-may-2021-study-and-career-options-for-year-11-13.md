@@ -1,6 +1,6 @@
 ---
 title: Leaving Magazine -  May 2024 - (Study and Career Options for Year 12 - 13)
-date: 2023-10-17T00:06:48.032Z
+date: 2024-05-06T00:05:30.521Z
 closing_date: ""
 file: http://oliverlee.co.nz/category/leaving-school/
 ---
