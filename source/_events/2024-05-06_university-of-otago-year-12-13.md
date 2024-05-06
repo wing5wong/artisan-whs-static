@@ -7,4 +7,4 @@ A student adviser from Otago University will visit WHS on Friday 17 May at 1st b
 Any interested Year 12 or 13 students are welcome to attend.
 
 *Mr Keene  
-Student Adviser*
+Careers Advisor*
