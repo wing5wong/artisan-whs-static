@@ -15,7 +15,7 @@ Students bus back to school for period 2.
 Year 13:  
 Go to period 4 class as usual.  
 At 1:40pm, Class teacher escorts class to Bus Bay for transfer to EXPO by 2pm.   
-Students who usually drive to school, may drive to War Memorial Hall but STRICTLY NO PASSENGERS – and there is NO PARKING on site.  
+Students who **usually** drive to school, may drive to War Memorial Hall but **STRICTLY NO PASSENGERS** – and there is NO PARKING on site.  
 Dismissed from EXPO from 3pm onwards.  
 ONE BUS available to transfer back to school.   
 Rural bus students, walk to City College for bus home.
