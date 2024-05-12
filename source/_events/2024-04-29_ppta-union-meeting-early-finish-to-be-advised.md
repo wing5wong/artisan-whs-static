@@ -1,5 +1,5 @@
 ---
-title: PPTA Union meeting (early finish to be advised)
+title: PPTA Union meeting - students released at 12.50pm
 date: 2024-05-15T22:34:58.466Z
 ---
 PPTA members across the Whanganui region will be meeting together at 1.15pm on Thursday, 16 May.  
