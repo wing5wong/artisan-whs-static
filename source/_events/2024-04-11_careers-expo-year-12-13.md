@@ -2,7 +2,7 @@
 title: Senior Careers EXPO, Year 12/13
 date: 2024-05-23T07:17:13.275Z
 ---
-Whanganui Combined Secondary Schools  ]
+Whanganui Combined Secondary Schools  
 CAREERS EXPO - Thursday 23 May  
 
 **Year 12:**  
