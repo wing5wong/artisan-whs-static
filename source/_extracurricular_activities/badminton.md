@@ -1,27 +1,21 @@
 ---
 person_in_charge: Mr G. Hardy
 title: Badminton
-date: 2023-11-12T20:55:39.698Z
+date: 2024-05-13T03:33:47.885Z
 people:
   - role: "Teacher in Charge "
-    name: Mrs L. Murphy
+    name: Mr Graham Hall
 terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: "$50 - Includes black WHS Badminton top.   Shuttles are provided.   Please
-  bring your own racket. "
+cost: "$20.   Shuttles are provided.   Please bring your own racket. "
 blocks: []
 ---
-Badminton is held in Term 2 and 3 on Fridays after school in the Te Wehi and Te Mana Gymnasiums from 3:30pm - 5:30pm.
+Badminton is held in Term 2 on Fridays after school in the Te Wehi and Te Mana Gymnasiums from 2:05pm – 3.30pm. In Term 3, there will be a Secondary Interschool competition, more details to follow.
 
 **Competitions this year:**  
-**Juniors** - Central 6 competition, Whanganui Secondary School Championship, Junior tournament - Term 4  
-**Seniors** - Whanganui Secondary School Championship, Tournament Week - Term 3 
-
-We also traditionally have 2 Inter-school competitions throughout the year.
-
-
+**Juniors** - Central 6 competition (Term 3, 13 August), Whanganui Secondary School Championship, Junior tournament.
 
 
 
