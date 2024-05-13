@@ -1,16 +1,14 @@
 ---
 title: Basketball - Girls
-date: 2023-11-12T20:58:52.590Z
+date: 2024-05-13T03:39:03.705Z
 people:
   - name: Miss L. Martin
     role: Teacher in Charge
-  - role: Teacher in Charge
-    name: Miss K. Morgan
 terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: $55 for Thursday and Fridays; $25 for Warm-up shirt (optional)
+cost: $55 for Fridays; $25 for Warm-up shirt (optional)
 ---
 **Played** on Friday evenings at Springvale Stadium between 4:00pm - 8:30pm
 
