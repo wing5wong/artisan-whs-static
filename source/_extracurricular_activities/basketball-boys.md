@@ -1,12 +1,10 @@
 ---
 title: Basketball - Boys
-date: 2023-11-12T20:58:02.618Z
+date: 2024-05-13T03:41:03.929Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
     name: Miss L. Martin
-  - role: Teacher in Charge
-    name: Miss K. Morgan
 terms:
   - Term 2
   - Term 3
@@ -15,7 +13,7 @@ cost: $55 for Fridays; $25 for Warm-Up shirt (optional)
 ---
 **Played** on Friday evenings at Springvale Stadium 4:00pm – 8:30pm. 
 
-This year our **Senior A Boys** will be playing in the Competitive League on Friday night vs other Secondary School teams.  
+This year our **Junior and Senior Boys** will be playing in the Competitive League on Friday night vs other Secondary School teams.  
 
 **Social Teams** (both Snr & Jnr) play on Friday nights in the Whanganui Secondary School League.
 
