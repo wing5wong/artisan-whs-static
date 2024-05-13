@@ -19,4 +19,4 @@ There will be occasional interschool games during Terms 2 & 3.
 
 **Training** is after school on WHS fields.
 
-**1st XI Coach:** Ryan Holden & Steve Meredith  
+**1st XI Coaches:** Ryan Holden & Steve Meredith  
