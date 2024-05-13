@@ -1,6 +1,6 @@
 ---
 title: Football - Boys
-date: 2023-11-16T20:17:06.280Z
+date: 2024-05-13T03:53:16.616Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
@@ -19,4 +19,4 @@ There will be occasional interschool games during Terms 2 & 3.
 
 **Training** is after school on WHS fields.
 
-**1st XI Coach:** Gary Johnston & Adam Tipper  
+**1st XI Coach:** Ryan Holden & Steve Meredith  
