@@ -1,5 +1,5 @@
 ---
-title: '"Pink Shirt" Day (16 & 17 May)'
+title: '"Pink Accessory" Day (16 & 17 May)'
 date: 2024-05-16T01:16:46.067Z
 ---
 Hey everyone, Pink Shirt Day is this Thursday, 16 and Friday, 17 of May!  
