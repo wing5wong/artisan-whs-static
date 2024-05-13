@@ -13,8 +13,8 @@ Students bus back to school for period 2.
 
 **Year 13:**  
 Go to Bus Bay at the **beginning** of second break for transfer to EXPO by 2pm.  
-If you definitely need a ride back to school, book a seat on a bus at
-[bit.ly/whsexporide2024](https://docs.google.com/forms/d/e/1FAIpQLSfmymnm8MXVNSTAUI0egxT6_biBms7nudTPDlS07lbHyqPB3g/viewform) (or https://forms.gle/MEHwEdnPUuVJNuCx8) **by 16 May**.  
+If you definitely need a ride back to school, book a seat on a bus **by 16 May** at
+[bit.ly/whsexporide2024](https://docs.google.com/forms/d/e/1FAIpQLSfmymnm8MXVNSTAUI0egxT6_biBms7nudTPDlS07lbHyqPB3g/viewform) (or https://forms.gle/MEHwEdnPUuVJNuCx8).  
 Students who **usually** drive to school, may drive to War Memorial Hall but STRICTLY NO PASSENGERS – and there is NO PARKING on site.  
 Students dismissed from EXPO from 3pm onwards.  
 One bus available to transfer back to school re bit.ly above.  
