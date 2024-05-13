@@ -1,6 +1,6 @@
 ---
 title: Cricket - Boys
-date: 2023-11-12T20:59:13.090Z
+date: 2024-05-13T03:45:17.608Z
 person_in_charge: Mr A. Lock
 people:
   - role: Teacher in Charge
@@ -12,7 +12,7 @@ extracurricular_area: Sport
 cost: "TBC  (Please be aware that extra costs may be added for interschool away
   games). "
 ---
-The 1st XI play inter-school matches and are in the T20 weekly competition.  
+The 1st XI and Junior team play inter-school matches and are in the T20 weekly competition.  
   
 We also play Inter-school Sports Exchange matches.
 
