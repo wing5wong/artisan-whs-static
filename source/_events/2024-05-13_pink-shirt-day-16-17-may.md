@@ -1,11 +1,9 @@
 ---
-title: '"Pink Accessory" Day (16 & 17 May)'
-date: 2024-05-16T01:16:46.067Z
+title: '"Pink Accessory" Day '
+date: 2024-05-17T01:16:46.067Z
 ---
-Hey everyone, Pink Shirt Day is this Thursday, 16 and Friday, 17 of May!  
-
-There will be fun games on the field on Thursday as well as an open mic on Friday.  
-We will also be selling cupcakes outside of H block across the two days so bring a gold coin and wear some pink accessories to show your support! (not full mufti).  
+Hey everyone, Pink Accessory Day is this Friday!  
+Pink accessories may be worn on Friday. There will be fun games on the field on Friday as well as an open mic. We will also be selling cupcakes outside of H block on Thursday and Friday so bring a gold coin and wear some pink accessories to show your support! (not full mufti).
 
 If you wish to sign up for the open mic, please fill out the form below..  
 
