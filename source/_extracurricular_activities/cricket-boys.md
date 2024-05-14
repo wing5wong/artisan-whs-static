@@ -21,5 +21,5 @@ We also play Inter-school Sports Exchange matches.
 **Play** TBC - Senior  
 **Play** TBC - Junior
 
-**1st XI Coaches:** Steve Meredith  
+**1st XI Coach:** Steve Meredith  
 **Junior Coach:** Steve Meredith 
