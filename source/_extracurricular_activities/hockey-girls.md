@@ -21,4 +21,4 @@ Please be aware that travel costs may be added on for the teams that are playing
 
 **Equipment:** Must have own stick, shin pads and mouthguard.
 
-**1st XI Coaches:** Jacinta Manville
+**1st XI Coach:** Jacinta Manville
