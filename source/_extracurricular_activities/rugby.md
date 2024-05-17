@@ -5,6 +5,7 @@ person_in_charge: Mr B. Parry
 people:
   - role: Teacher in Charge
     name: Mrs L. Murphy
+uniform: Students are supplied with a rugby jersey, shorts and socks for each game.
 extracurricular_area: Sport
 cost: ""
 ---
@@ -14,14 +15,12 @@ Please note that Wanganui RFU rules state that students are not permitted to pla
 
 **Trainings** will be confirmed once teams are sorted.
 
-**Uniform:** Students are supplied with a rugby jersey, shorts and socks for each game.
-
-NB: Fees need to be paid prior to the start of the regular season. No pay no play.
-
 **Costs:**  
 U15 - Fees Approx $165 – Playing in Manawatu  
 U16 - Fee Approx $180 – Playing in Manawatu  
-1st XV Fee Approx $165 – Playing in Manawatu
+1st XV Fee Approx $165 – Playing in Manawatu  
+
+NB: Fees need to be paid prior to the start of the regular season. No pay no play.
 
 **1st XV Head Coach:** Mike Lama  
 **Girls Rugby Coach:** Rob Roy 
