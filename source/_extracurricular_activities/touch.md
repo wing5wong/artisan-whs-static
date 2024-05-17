@@ -1,18 +1,20 @@
 ---
 title: Touch
-date: 2023-11-16T20:34:01.713Z
+date: 2024-05-17T00:55:14.910Z
 person_in_charge: Mr S. Brown
 people:
   - role: Teacher in Charge
-    name: Miss K. Morgan
+    name: Mrs Lisa Murphy
 extracurricular_area: Sport
-cost: Determined by competition entry either in Term 1 or 4.
+cost: ""
 ---
-There are trials for a Girls and Boys team you will need to keep an eye on the school daily notices for when they will happen. 
+There are trials for a Girls, Boys or Mixed team.  You will need to keep an eye on the school daily notices for when they will happen. 
 
 We also enter teams in Term 1 for the Whanganui Secondary School League.
 
 **Uniform:** WHS PE top and black shorts.
 
-**Coach:** Kerwyn Morgan
+**Cost:** Determined by competition entry either in Term 1 or 4.
+
+
 
