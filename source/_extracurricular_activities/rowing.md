@@ -21,10 +21,8 @@ If you are interested in Rowing or becoming Coxswain, the sport of Rowing could 
 your choice of activity whilst at WHS. The Coxswain steers the boat and gives the 
 Crew instruction about their performance. 
 
-
 **Practices** are either Saturday or Sunday mornings and three or four evenings per week in summer.  
 In Winter coaches run indoor fitness classes where possible.  
 There will be a ‘Learn to Row’ programme for new Rowers starting in April 2024.
-
 
 **The season** starts in September/October and ends in March/April after the Maadi Cup Regatta. Rowers participate in a number of regattas over this time.
