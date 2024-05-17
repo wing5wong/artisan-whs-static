@@ -8,6 +8,7 @@ people:
 terms:
   - Term 2
   - Term 3
+uniform: "**Equipment:** Must have own stick, shin pads and mouthguard."
 extracurricular_area: Sport
 ---
 Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week, with the 1st XI Boys & Girls teams travelling to play in the Palmerston North League.
@@ -18,7 +19,5 @@ Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf i
 1st XI - $360 approx (dependant on turf fees)  
 2nd XI - $150 approx (dependant on turf fees)  
 Please be aware that travel costs may be added on for the teams that are playing in Palmerston North. Uniform will be allocated once fees are paid
-
-**Equipment:** Must have own stick, shin pads and mouthguard.
 
 **1st XI Coach:** Jacinta Manville
