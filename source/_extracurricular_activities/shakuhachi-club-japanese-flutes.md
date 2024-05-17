@@ -22,4 +22,13 @@ uniform: >-
 
   **Cost:** Approx $6 for materials
 extracurricular_area: Other
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569276136/Performing%20Arts/shakuhachi.jpg
 ---
+Opportunity for students to make and learn to play Shakuhachi Flutes (End blown Japanese bamboo flutes).
+
+**Who can join:** If you interested see Mr Wilson, to try it out before you commit
+
+**When:** Wednesdays 3.05pm – 4.30pm in D2 all year along (apart from when teacher meetings conflict)  
+
+**Cost:** Approx $6 for materials
