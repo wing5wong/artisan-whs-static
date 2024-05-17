@@ -5,6 +5,9 @@ person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
     name: Mrs L. Murphy
+uniform: |-
+  PE top and a black skirt purchased from Andersons, 184 Victoria Avenue  
+  Senior A1 will have a uniform supplied to them.
 extracurricular_area: Sport
 cost: $100 per player - needs to be paid before trials (Senior A1 fees are
   different to this).
@@ -14,9 +17,6 @@ cost: $100 per player - needs to be paid before trials (Senior A1 fees are
 Senior and Junior trials will be held at the end of Term 1 at the Springvale Stadium.
 
 **Competitions** are on Saturday afternoon at Laird Park Netball Courts in Peat St.
-
-**Uniform:** PE top and a black skirt purchased from Andersons, 184 Victoria Avenue.  
-Senior A1 will have a uniform supplied to them.
 
 **Practice** time depends on the coach but is usually after school.
 
