@@ -5,16 +5,10 @@ person_in_charge: Mr S. Brown
 people:
   - role: Teacher in Charge
     name: Mrs Lisa Murphy
+uniform: WHS PE top and black shorts.
 extracurricular_area: Sport
-cost: ""
+cost: Determined by competition entry either in Term 1 or 4.
 ---
 There are trials for a Girls, Boys or Mixed team.  You will need to keep an eye on the school daily notices for when they will happen. 
 
 We also enter teams in Term 1 for the Whanganui Secondary School League.
-
-**Uniform:** WHS PE top and black shorts.
-
-**Cost:** Determined by competition entry either in Term 1 or 4.
-
-
-
