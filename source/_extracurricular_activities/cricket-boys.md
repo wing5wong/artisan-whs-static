@@ -18,8 +18,5 @@ We also play Inter-school Sports Exchange matches.
 
 **Training** is after school on a Friday.
 
-**Play** TBC - Senior  
-**Play** TBC - Junior
-
 **1st XI Coach:** Steve Meredith  
 **Junior Coach:** Steve Meredith 
