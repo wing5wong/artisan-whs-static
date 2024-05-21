@@ -1,8 +1,8 @@
 ---
-title: WSS Cross Country (Individual)
+title: "WSS Cross Country (Individual) - postponed due to weather "
 date: 2024-05-20T22:30:20.042Z
 ---
-WSS Cross Country  
+WSS Cross Country - **postponed due to weather**  
 Duddings Lake  
 Tuesday May 21    
 1pm  
