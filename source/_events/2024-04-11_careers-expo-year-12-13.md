@@ -3,21 +3,20 @@ title: Senior Careers EXPO, Year 12/13
 date: 2024-05-23T07:17:13.275Z
 ---
 Whanganui Combined Secondary Schools  
-CAREERS EXPO - Thursday 23 May  
+CAREERS EXPO - Thursday 23 May 
+
+All go for Thursday. Almost 50 exhibitors!  
 
 **Year 12:**  
 Go directly to War Memorial Hall at start of day (NOT to period 1).  
 Rural bus students – go to City College and walk from there.  
 PLEASE bring student ID (or printed bar code) to scan in on arrival.  
-Students bus back to school for period 2.
+Free bus back to school for period 2.
 
 **Year 13:**  
 Go to Bus Bay at the **beginning** of second break for transfer to EXPO by 2pm.  
-If you definitely need a ride back to school, book a seat on a bus **by 16 May** at
-[bit.ly/whsexporide2024](https://docs.google.com/forms/d/e/1FAIpQLSfmymnm8MXVNSTAUI0egxT6_biBms7nudTPDlS07lbHyqPB3g/viewform) (or https://forms.gle/MEHwEdnPUuVJNuCx8).  
-Students who **usually** drive to school, may drive to War Memorial Hall but STRICTLY NO PASSENGERS – and there is NO PARKING on site.  
+Remember to have your student ID to scan in on arrival.  
 Students dismissed from EXPO from 3pm onwards.  
-One bus available to transfer back to school re bit.ly above.  
 Rural bus students, walk to City College for bus home.
 
 *Mr Keene  
