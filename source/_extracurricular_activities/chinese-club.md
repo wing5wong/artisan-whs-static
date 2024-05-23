@@ -11,7 +11,7 @@ Students are welcome our Chinese Club, where students will prepare for the Welli
 
 **Who can join:** All students
 
-**When:**               Friday – Period 5 2.15pm – 3.00pm
+**When:**               Friday – Period 5, 2.15pm – 3.00pm
 
 **Event:**                 Speech Competition and HSK test
 
