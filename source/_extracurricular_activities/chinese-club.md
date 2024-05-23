@@ -1,6 +1,6 @@
 ---
-title: Chinese Club
-date: 2021-06-22T02:30:27.383Z
+title: Chinese Learning/Culture Club
+date: 2024-05-23T22:24:47.152Z
 people:
   - role: Teacher in Charge
     name: Mr B. Ding
