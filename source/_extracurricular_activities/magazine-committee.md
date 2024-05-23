@@ -1,6 +1,6 @@
 ---
 title: Magazine Committee
-date: 2019-09-22T23:12:43.495Z
+date: 2024-05-23T22:31:09.406Z
 people:
   - name: Mr J. Dufty
     role: Teacher in Charge
