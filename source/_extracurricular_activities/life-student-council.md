@@ -1,6 +1,6 @@
 ---
 title: Life Student Council
-date: 2021-06-22T22:37:26.219Z
+date: 2024-05-23T22:30:14.874Z
 people:
   - role: Teacher in Charge
     name: Mrs R. Hardy
@@ -11,7 +11,7 @@ We aim to encourage students to develop leadership skills by being involved in a
 
 **Who can join:** All students are welcome to apply.
 
-**When:** Weekly meetings held during form time.
+**When:** Weekly meetings held before school.
 
 **Event:** There will be opportunities to be involved in a wide range of events throughout the year.
 
