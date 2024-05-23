@@ -1,6 +1,6 @@
 ---
 title: Writers' Club
-date: 2019-09-23T23:17:57.793Z
+date: 2024-05-23T22:22:19.140Z
 people:
   - name: Mr T. Sutherland
     role: Teacher in Charge
@@ -11,4 +11,4 @@ Writers’ Club is a place to work on your writing, meet other writers, share yo
 
 **Who can join:** All students
 
-**When:** Meetings are on during first break every Tuesday in C4.
+**When:** Meetings are on during first break every Tuesday in G4.
