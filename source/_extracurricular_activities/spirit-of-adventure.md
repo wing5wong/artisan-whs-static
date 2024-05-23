@@ -1,14 +1,13 @@
 ---
 title: Spirit of Adventure
-date: 2019-09-23T22:37:58.587Z
+date: 2024-05-23T22:27:02.538Z
 people:
   - name: Mrs E. Spooner
     role: Teacher in Charge
   - name: Mr C. Adam
     role: Teacher in Charge
 extracurricular_area: Other
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569278255/Performing%20Arts/Spirit_of_Adventure.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569278255/Performing%20Arts/Spirit_of_Adventure.jpg
 ---
 Whanganui High School offers opportunities for students to self-select a voyage on the Spirit of Adventure. We can co-ordinate your enrolment and help you contact the Spirit of Adventure office. Scholarship opportunities do exist through school and sometimes through the Spirit of Adventure trust. The 5 day spirit trophy is a competition event that Whanganui High School organises when the Spirit of Adventure offer us a voyage opportunity. Please talk to us about your goals.
 
