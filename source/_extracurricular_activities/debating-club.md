@@ -4,14 +4,6 @@ date: 2024-05-24T01:07:05.341Z
 people:
   - name: Ms S. Hughes
     role: Teacher in Charge
-  - name: Mr S. Miller
-    role: Teacher in Charge
-  - name: Mrs V. Kasner
-    role: Teacher in Charge
-  - name: Mr J. Berkhout
-    role: Teacher in Charge
-  - role: Teacher in Charge
-    name: Mrs B. Rudolph
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569190546/Performing%20Arts/Debating.jpg
 ---
@@ -32,6 +24,4 @@ Students are welcome to attend just the school club.
 
 **Teachers-in-charge:** 
 
-Senior - Ms S Hughes & Mr S Miller
-
-Junior - Mrs V Kasner & Mr J Berkhout
+Ms R Easton, Mr J Headon, Ms S Hughes, Mrs S Sutherland
