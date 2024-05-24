@@ -1,6 +1,6 @@
 ---
 title: Exploration & Discovery Club
-date: 2019-09-22T22:38:16.739Z
+date: 2024-05-24T01:04:06.727Z
 people:
   - name: Mr B. Hunter
     role: Teacher in Charge
@@ -13,4 +13,5 @@ The Exploration and Discovery Club provides opportunities for students to explor
 
 **When:**  Usually one trip per Term. Meetings are only held prior to our trips. Membership is open to Year 10 to 13. Trip information will be posted in the Daily Notices. Come and speak to Mr Hunter at any time for further details.
 
-**Cost:** Costs range from $100 (one night) up to $300 (3 nights), depending on destination.
+**Cost:** Costs range from $40 for a day trip, $150 overnight, up to $500 for longer three night trips.  
+All destination and number dependent.
