@@ -1,6 +1,6 @@
 ---
 title: Debating Club
-date: 2019-09-22T22:19:50.721Z
+date: 2024-05-24T01:07:05.341Z
 people:
   - name: Ms S. Hughes
     role: Teacher in Charge
@@ -15,14 +15,18 @@ people:
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569190546/Performing%20Arts/Debating.jpg
 ---
-Senior debating teams. Debating enables students to learn the art of persuasion, research skills and public speaking skills. Our school teams prepare to compete in local, regional, and national tournaments. 
+Debating enables students to learn the art of persuasion, research skills and public speaking skills. Our school teams prepare to compete in regional, and national tournaments. 
 
 **Who can join:** All Students (students may also be interested 
 in adjudicating)
 
-**When:** Meet fortnightly during interval. Closer to Junior regional competitions (which take place once a term) we meet most breaks.
+**When:** Meet weekly during interval.
 
-**Event:** Local, Regional and National competitions. The Central North Island Regional Competition is for Senior students and is run over a weekend in March or April.
+**Event:** Regional and National competitions.  
+The Central North Island Regional Competition is run over a weekend in March or April.  
+The Manawatu Secondary Schools Debating runs debates on Saturday/Sunday through terms 2 and 3 (approx twice a term).  
+Participation is optional.  
+Students are welcome to attend just the school club.
 
 **Cost:** Minimal – contribution to entry and transport costs.
 
