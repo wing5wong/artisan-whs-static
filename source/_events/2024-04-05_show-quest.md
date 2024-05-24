@@ -2,4 +2,6 @@
 title: Show Quest
 date: 2024-05-30T04:12:03.452Z
 ---
-More information to follow closer to the event.
+Showquest event day is Thursday 30 May in Palmerston North at the Regent on Broadway.  
+
+Students meet in the bus bay at 10:05 AM
