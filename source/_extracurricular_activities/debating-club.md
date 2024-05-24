@@ -2,8 +2,14 @@
 title: Debating Club
 date: 2024-05-24T01:07:05.341Z
 people:
-  - name: Ms S. Hughes
-    role: Teacher in Charge
+  - role: Teacher in Charge
+    name: Ms Rebecca Easton
+  - role: Teacher in Charge
+    name: Ms Jane Headon
+  - role: Teacher in Charge
+    name: Ms Susan Hughes
+  - role: Teacher in Charge
+    name: Miss Samantha Bridge
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569190546/Performing%20Arts/Debating.jpg
 ---
