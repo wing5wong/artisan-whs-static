@@ -8,8 +8,8 @@ uniform: ""
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624329005/Performing%20Arts/IELTS.png
 ---
-Currently not available.\
-Contact Mrs Su'a for further information.
+**Currently not available.**  
+**Contact Mrs Su'a for further information.**
 
 
 
