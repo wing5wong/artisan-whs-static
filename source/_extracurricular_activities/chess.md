@@ -1,6 +1,6 @@
 ---
 title: Chess
-date: 2019-09-22T21:03:26.731Z
+date: 2024-05-24T01:00:58.181Z
 people:
   - name: Mr T. Sutherland
     role: Teacher in Charge
@@ -11,8 +11,8 @@ Chess is an age-old game of strategy, tactics, and logical thinking. If you have
 
 **Who can join**: All students
 
-**When:** Meetings are Fridays after school in the library from 2pm onwards. Chess boards will be set up and ready to play, and students are welcome to come and go as they please.
+**When:** Thursday at 1st Break in LB1 (Library).
 
 **Event:** We attend various chess competitions throughout the year, including individual and team tournaments. These are both regional and national.
 
-**Cost:** There is no cost to come along on Fridays. Competitions are often $12.50 per person.
+**Cost:** There is no cost to come along on Thursdays. Competitions are often $16 per person.
