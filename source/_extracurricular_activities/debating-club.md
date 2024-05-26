@@ -20,7 +20,8 @@ in adjudicating)
 
 **When:** Meet weekly during interval.
 
-**Event:** Regional and National competitions.  
+**Events:**  
+Regional and National competitions.  
 The Central North Island Regional Competition is run over a weekend in March or April.  
 The Manawatu Secondary Schools Debating runs debates on Saturday/Sunday through terms 2 and 3 (approx twice a term).  
 Participation is optional.  
