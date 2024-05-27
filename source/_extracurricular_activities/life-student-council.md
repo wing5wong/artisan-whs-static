@@ -3,7 +3,7 @@ title: Life Student Council
 date: 2024-05-23T22:30:14.874Z
 people:
   - role: Teacher in Charge
-    name: Mrs R. Hardy
+    name: Mr Tim Sutherland
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624401725/Performing%20Arts/Drone_footage_of_LIFE.png
 ---
