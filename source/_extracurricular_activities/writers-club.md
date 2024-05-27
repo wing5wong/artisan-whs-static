@@ -2,7 +2,7 @@
 title: Writers' Club
 date: 2024-05-23T22:22:19.140Z
 people:
-  - name: Mr T. Sutherland
+  - name: Miss Samantha Bridge
     role: Teacher in Charge
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569280794/Performing%20Arts/Writing_Club.jpg
