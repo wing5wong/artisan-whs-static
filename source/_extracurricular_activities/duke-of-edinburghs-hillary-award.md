@@ -8,8 +8,8 @@ people:
     role: Teacher in Charge - Gold
   - name: Ms R. Kennedy
     role: Teacher in Charge - Silver
-  - role: Teacher in Charge
-    name: Mrs R. Hardy
+  - role: Teacher in Charge - Bronze Trips
+    name: Mr Glen Hutchins
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569191787/Performing%20Arts/Duke_of_Ed.jpg
 ---
