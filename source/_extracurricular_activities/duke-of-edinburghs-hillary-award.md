@@ -4,8 +4,6 @@ date: 2019-09-22T22:27:13.032Z
 people:
   - name: Mr C. Adam
     role: Teacher in Charge - Expeditions
-  - name: Mrs M. Bennetts
-    role: Teacher in Charge - Expeditions
   - name: Mrs J. de Smidt
     role: Teacher in Charge - Gold
   - name: Ms R. Kennedy
