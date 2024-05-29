@@ -2,7 +2,7 @@
 title: Market Day Promotion
 date: 2024-06-04T20:37:27.833Z
 ---
-Market Day will be held on 5 June.  
+Market Day will be held on Wednesday 5 June.  
 
 Year 11 Business Studies students will be selling burgers and hot chocolate - with some of the profit going to charity.  
 
