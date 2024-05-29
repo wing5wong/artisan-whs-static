@@ -29,7 +29,7 @@ Whanganui High School provides the opportunity for students to gain the Duke of 
 * Service
 * Physical Recreation
 * 2 sections for 3 months and 1 section for 6 months
-* Adventurous Project 2 days/1 night
+* Adventurous Journey 2 days/1 night
 
 ***Silver (15yrs+)***
 
@@ -37,7 +37,7 @@ Whanganui High School provides the opportunity for students to gain the Duke of 
 * Service
 * Physical Recreation
 * All 3 sections 6 months each if Bronze is completed.
-* Adventurous Project 3 days/2 nights
+* Adventurous Journey 3 days/2 nights
 
 ***Gold (16yrs+)***
 
@@ -45,7 +45,7 @@ Whanganui High School provides the opportunity for students to gain the Duke of 
 * Service
 * Physical Recreation
 * All 3 sections 12 months each if Silver is completed.
-* Adventurous Project 4 days 3 nights
+* Adventurous Journey 4 days 3 nights
 * Residential Course 5 days/4 nights
 
 **Cost:** Students will need to cover registration and trip costs.
