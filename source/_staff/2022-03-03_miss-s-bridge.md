@@ -1,5 +1,5 @@
 ---
-title: Miss Samantha Bridge
+title: Mrs Samantha Sutherland
 departments:
   - English
 house: Awa
