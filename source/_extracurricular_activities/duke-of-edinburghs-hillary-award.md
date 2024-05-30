@@ -10,6 +10,8 @@ people:
     role: Teacher in Charge - Silver
   - role: Teacher in Charge - Bronze Trips
     name: Mr Glen Hutchins
+  - role: Teacher in Charge - Bronze
+    name: Miss Bailee Baxter
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569191787/Performing%20Arts/Duke_of_Ed.jpg
 ---
