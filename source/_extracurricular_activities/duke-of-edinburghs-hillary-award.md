@@ -2,11 +2,11 @@
 title: Duke of Edinburgh's Hillary Award
 date: 2019-09-22T22:27:13.032Z
 people:
-  - name: Mr C. Adam
+  - name: Mr Craig Adam
     role: Teacher in Charge - Expeditions
-  - name: Mrs J. de Smidt
+  - name: Mrs Jemma de Smidt
     role: Teacher in Charge - Gold
-  - name: Ms R. Kennedy
+  - name: Ms Rebecca Kennedy
     role: Teacher in Charge - Silver
   - role: Teacher in Charge - Bronze Trips
     name: Mr Glen Hutchins
