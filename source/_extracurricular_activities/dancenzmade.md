@@ -2,7 +2,7 @@
 title: DanceNZmade
 date: 2019-09-22T21:49:40.323Z
 people:
-  - name: Mrs N. Campbell
+  - name: Ms Natalie Harris
     role: Teacher in Charge
 extracurricular_area: Performing Arts
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569190320/Performing%20Arts/DanceNZmade.jpg
