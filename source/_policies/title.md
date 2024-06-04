@@ -6,7 +6,7 @@ policyAreas:
         policy: 1.1 Treaty of Waitangi
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1680759786/School%20Policies/1.2_-Curriculum_Information_updated_March_2023.pdf
         policy: 1.2 Curriculum Information
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1625544868/School%20Policies/1.5_-Students_with_Additional_Learning_Needs_updated_May_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1717459419/School%20Policies/1.5_Students_with_Additional_Learning_Needs_updated_May_2024.pdf
         policy: 1.5 Learners with Special Education Needs
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1714449675/School%20Policies/1.6_Education_beyond_the_Whanganui_High_School_Site_updated_April_2024.pdf
         policy: 1.6 - Education Beyond the Whanganui High School Site
@@ -98,7 +98,7 @@ policyAreas:
         policy: 6.5 CCTV
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761095/School%20Policies/6.6_Copyright_Licences_updated_November_2021.pdf
         policy: 6.6 Copyright and Licences
-      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1638761097/School%20Policies/6.7_School_Uniform_updated_November_2021.pdf
+      - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1717459419/School%20Policies/6.7_School_Uniform_Personal_Presentation_updated_May_2024.pdf
         policy: 6.7 School Uniform
       - document: https://res.cloudinary.com/whanganuihigh/image/upload/v1682994520/School%20Policies/6.8_International_Students_updated_May_2023.pdf
         policy: 6.8 International Students
