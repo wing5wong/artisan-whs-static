@@ -3,18 +3,18 @@ title: DTGE
 name: Digital Technologies General
 code: DTGE
 subject_area: Digital Technologies
-date: 2021-06-28T02:58:08.653Z
+date: 2024-06-06T23:16:17.051Z
 year: "9"
 type: Compulsory
-course_duration: 26 Weeks
+course_duration: 13 Weeks
 course_level: Year 9
 leads_to:
   - DTG0
 ---
-**Purpose:**
+# DTGE - Digital Technologies General
 
-Courses in Digital Technologies offer the development of knowledge and skills using a wide range of exciting Internet and computing technologies. The courses are designed to ignite a passion for digital technologies, and to lead students into a rewarding and fulfilling future and further studies.
+Purpose: Digital Technologies brings students up-to-date with essential computer-skills, prepares them for a future with an ever-increasing focus on the use of digital devices, and teaches them how to act safely and responsibly online. This course also exposes students to the possibilities that Digital Technologies provides, allowing them to access top-end software and the skills they need to use it.
 
-**Content:**
 
-Digital technologies are electronic tools, systems, devices and resources that generate, store or process data. These include applications, multimedia, productivity applications, mobile devices, social media, online games, cloud computing etc. Students will explore how digital technologies impacts the lives of individuals, organisations and society. They will learn about the current and emerging technologies and the issues raised by their use in a range of contexts. Students will also develop an awareness of the features of safe and responsible practice, as well as broadening their ICT skills and capability.
+
+Content: Digital Technologies encompasses all areas of the digital field. This includes Computer Essentials such as the Google apps, which are important for all career paths in the modern age. To foster creativity we have Digital Media, which involves visual design through computer illustration and video editing, using software from Adobe. Computer Science teaches problem solving and logical thinking skills through programming, which can then be applied to all areas of life. Finally, Digital Citizenship teaches students how to use technology responsibly, benefitting both their own hauora and the hauora of those they interact with.
