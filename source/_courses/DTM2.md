@@ -3,7 +3,7 @@ title: DTM2
 name: Digital Technologies Media
 code: DTM2
 subject_area: Digital Technologies Media
-date: 2021-06-27T23:02:24.633Z
+date: 2024-06-06T23:57:59.503Z
 entry_requirements: Open entry to Year 12 students, subject to HOF approval.
 year: "12"
 type: Subject Choice
@@ -12,7 +12,6 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - DTM3
-  - DTA3
 standards:
   - "2786"
   - "29777"
@@ -23,4 +22,6 @@ standards:
   - "91899"
 endorsement: Yes
 ---
-To enable students to select and competently use the major Digital MEDIA programs appropriately in order to Develop Digital outcomes.  Advanced skills will be developed to allow the seamless transfer of information between applications as well as the ability to design appropriate layouts with the end user in mind. The use of media is rapidly expanding and approximately half of this course will be based on developing advanced skills in various forms of digital media use. This may include Website design, Print Media as well as the use of Video and Audio Media. Much of this will be based on using the Adobe Creative suite of software.  Students will develop skills in communication, design, research and problem solving.
+# DTM2 - Digital Technologies Media 
+
+This course enables students to use top-end digital media programs to create outcomes of their own. Students will learn to follow a development process to improve their workflow and the quality of their outcomes, to use appropriate and effective design layouts, to design outcomes with the end user in mind, and seamlessly transfer information between applications. Digital media projects in the course may include web design, visual design for print, video and audio editing for film, and more. Much of this will be based on the Adobe Creative suite of software. By the end of the course, students will have developed effective communication, design, research, and problem-solving skills.
