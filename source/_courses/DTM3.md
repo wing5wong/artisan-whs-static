@@ -3,7 +3,7 @@ title: DTM3
 name: Digital Technologies Media
 code: DTM3
 subject_area: Digital Technologies Media
-date: 2023-07-12T02:28:32.732Z
+date: 2024-06-07T00:24:46.160Z
 entry_requirements: Open entry for Year 13 students, subject to HOF approval.
 year: "13"
 type: Subject Choice
@@ -19,4 +19,6 @@ standards:
 ue_approved: true
 ensorsement: Yes
 ---
-To enable students to select and competently use digital media to communicate information. Advanced skills will be developed to allow the seamless creation of digital outcomes, as well as the ability to design appropriate layouts with the end user in mind. The use of media is rapidly expanding and around half of this course will be based on developing advanced skills in various forms of media use. This may include Website design, Print Media as well as the use of Video and Audio Media. Much of this will be based on using the Adobe Creative suite of software and web design tools. Students will develop skills in communication, design, research and problem solving.
+DTM3 - Digital Technologies Media
+
+This course enables students to use top-end digital media programs to create outcomes of their own. Students will learn to follow a development process to improve their workflow and the quality of their outcomes, to use appropriate and effective design layouts, to design outcomes with the end user in mind, and seamlessly transfer information between applications. Digital media projects in the course may include web design, visual design for print, video and audio editing for film, and more. Much of this will be based on the Adobe Creative suite of software. By the end of the course, students will have developed effective communication, design, research, and problem solving skills.
