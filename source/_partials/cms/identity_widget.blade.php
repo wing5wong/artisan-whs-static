@@ -1,6 +1,6 @@
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-<script defer>
+<script>
     if (window.netlifyIdentity) {
         window.netlifyIdentity.on('init', (user) => {
             if (!user) {
@@ -10,5 +10,4 @@
             }
         });
     }
-    </script>
-    
+</script>
