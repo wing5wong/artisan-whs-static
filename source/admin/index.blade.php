@@ -16,9 +16,10 @@
 </head>
 
 <body>
-    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    {{-- <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script> --}}
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
     <script>
-        CMS.registerPreviewStyle("{{mix('/css/main.css', 'assets/build')}}");
+        CMS.registerPreviewStyle("{{ mix('/css/main.css', 'assets/build') }}");
 
         CMS.registerPreviewStyle("/assets/fonts/gotham/gotham-light/font.css");
         CMS.registerPreviewStyle("/assets/fonts/gotham/gotham-book/font.css");
