@@ -3,7 +3,7 @@ title: DTA3
 name: Digital Technologies Applied
 code: DTA3
 subject_area: Digital Technologies Applied
-date: 2021-06-28T04:36:40.071Z
+date: 2024-06-10T08:25:00.000Z
 entry_requirements: Open entry for Year 13 students, subject to HOF approval
 year: "13"
 type: Subject Choice
