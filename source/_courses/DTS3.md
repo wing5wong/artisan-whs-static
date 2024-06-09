@@ -3,7 +3,7 @@ title: DTS3
 name: Digital Technologies Science
 code: DTS3
 subject_area: Digital Technologies Science
-date: 2023-08-21T04:21:10.704Z
+date: 2024-06-10T07:32:00.000Z
 entry_requirements: Open to Year 13, subject to HOF approval.
 year: "13"
 type: Subject Choice
