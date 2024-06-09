@@ -19,4 +19,6 @@ notes: Can lead to Computer Science or Software Engineering degrees or work in
   the Computer Infrastructure fields.
 ue_approved: true
 ---
-The purpose of this course is for students to gain an appreciation of advanced logic and construction of computer software. The knowledge gained throughout this course will enable students to design and create a computer based game or utility program. Achievement of 14 credits in the course will form one U.E. Subject.
+DTS3 - Digital Technologies Science
+
+This course focuses on programming and game development. Throughout the course students will learn to develop several games, learning new programming skills with each one. Each of these will be completed as a project following the development process, including research, planning, development, and testing. This culminates in a personal project where students are tasked with designing and creating a game entirely of their own. While not all students will want to pursue game development, the skills learned here are transferable to any career in the computer science field, including engineering. The course also covers key computer science concepts such as big data, complexity and tractability, and network protocols.
