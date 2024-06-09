@@ -3,7 +3,7 @@ title: DTA2
 name: Digital Technologies Applied
 code: DTA2
 subject_area: Digital Technologies Applied
-date: 2023-07-12T02:25:51.798Z
+date: 2024-06-10T08:24:00.000Z
 entry_requirements: Open entry for Year 12 students and vocational students,
   subject to HOF approval.
 year: "12"
