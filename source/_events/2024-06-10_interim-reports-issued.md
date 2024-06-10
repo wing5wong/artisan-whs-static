@@ -1,6 +1,6 @@
 ---
 title: Interim Reports Issued
-date: 2024-07-24T11:59:00.000Z
+date: 2024-07-22T23:59:00.000Z
 ---
 Interim Reports are issued to caregivers via email or posted if no email address.
 
