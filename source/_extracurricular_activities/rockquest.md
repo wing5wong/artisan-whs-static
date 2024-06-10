@@ -1,11 +1,9 @@
 ---
 title: Rockquest
-date: 2019-08-27T04:16:30.141Z
+date: 2024-06-10T14:47:00.000Z
 people:
-  - name: Mrs J. Jones
+  - name: Mrs Jeanette Jones
     role: Teacher in Charge
-  - role: Teacher in Charge
-    name: Mr F. Loveridge
 extracurricular_area: Performing Arts
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1623278708/Performing%20Arts/Rockquest_montage.jpg
 ---
@@ -13,6 +11,9 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 
 **Highlights for our Rockquest groups are:**
 
+* 2023 Regional Best Song Award - 'Too Much'
+* 2022 Regional Winners - 'The Picnic List'  
+* 2021 Regional Winners - 'The Amps'
 * 2020 Regional Winners - 'In Business'
 * 2019 Regional Winners  – ‘In Business’
 * 2018 Regional Winners and NATIONAL Smokefree Tangata Beats FINALIST 'The Remnant’
