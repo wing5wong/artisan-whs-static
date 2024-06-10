@@ -17,8 +17,8 @@ Whanganui High School has a school production every second year. These have beco
 
 **Past productions include:**
 
-* 2023 Major Production "Grease"
-* 2021 Major Production "Mamma Mia!"
+* 2023 Major Production 'Grease'
+* 2021 Major Production 'Mamma Mia!'
 * 2018 Junior Production 'Once On This Island'
   [video clip](https://www.youtube.com/watch?v=w67_ZDbulxo&feature=youtu.be)
 * 2017 Major Production 'Rock of Ages'
