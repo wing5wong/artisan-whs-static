@@ -9,11 +9,8 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1567380275/Perform
 ---
 Show Quest is a dance, drama and design spectacular where the students are the stars. It is part of a national event involving dance, design and drama reflecting the personalities, concerns, hopes, dreams and interests of students. Each performance runs between five and eight minutes and is set to a medley of published and recorded music tracks. It is where students work together with parents, teachers and their local community to create their performance. Hours of rehearsal and hard work result in a performance to thousands of audience members across New Zealand.
 
-**Highlights for our Show Quest groups are:**
 
-
-
-***Show Quest***  
+***Show Quest Entries (formally Stage Challenge)***  
 
 * 2024 Regional Winners 'Minnie Dean'  
 
