@@ -10,7 +10,8 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1623277855/Perform
 ---
 The purpose of the Chamber Music Contest is to encourage young musicians regardless of standard or experience, to perform together and strive towards excellence. It also aims to provide an opportunity for musical activities within schools to have a link with the wider community at both a local and national level. The New Zealand Community Trust Chamber Music Contest is the longest running youth music competition in New Zealand and is the only nationwide chamber music competition for young secondary school musicians and composers in the country.
 
-***Whanganui District Finals***
+***Whanganui District Finals***  
+
 * 2023  
 Best Performance of a NZ Work - 'Mochi'  
 
