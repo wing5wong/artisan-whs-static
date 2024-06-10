@@ -11,25 +11,25 @@ Students are able to participate in New Zealand’s Interschool and Interstudio 
 
 ***DanceNZMade***
 * 2023  
-2nd Place, Year 11-13 - 'Is That Alright'  
-3rd Place, Year 11-13 - 'Falling' 
+2nd Place, Year 11-13 Team - 'Is That Alright'  
+3rd Place, Year 11-13 Team - 'Falling' 
 
 * 2022  
-1st Place, Year 9-10 - 'Vanishing Act'  
-2nd Place, Year 11-13 - 'Vienna' 
-3rd Place, Year 11-13 - 'Black Car'  
+1st Place, Year 9-10 Team - 'Vanishing Act'  
+2nd Place, Year 11-13 Team - 'Vienna' 
+3rd Place, Year 11-13 Team - 'Black Car'  
 2nd Place, Open Team - 'Hustle'  
 3rd Place, Open Team - 'Undercover' 
 
 * 2021
-2nd Place, Year 9-10 - 'Lost A Friend'  
-1st Place, Year 11-13 - 'Alive'  
+2nd Place, Year 9-10 Team - 'Lost A Friend'  
+1st Place, Year 11-13 Team  - 'Alive'  
 2nd Place, Open Team - 'Lose My Mind'  
 3rd Place, Open Team - 'Fresh'
 
 * 2020  
-2nd Place, Year 9-10 - 'Triple H'  
-2nd Place, Year 11-13 - 'WHS Senior Team'  
+2nd Place, Year 9-10 Team - 'Triple H'  
+2nd Place, Year 11-13 Team - 'WHS Senior Team'  
 2nd Place, Open Team - 'Birds Set Free'  
 3rd Place, Open Team - 'The Way You Make Me Feel' 
 
