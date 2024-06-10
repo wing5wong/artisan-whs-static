@@ -1,6 +1,6 @@
 ---
 title: Pasifika Fusion night concert
-date: 2024-07-04T12:19:00.000Z
+date: 2024-07-04T00:19:00.000Z
 ---
 2024 Secondary Schools Pasifika Fusion Festival.
 
