@@ -3,7 +3,7 @@ title: ENE0
 name: English Extension
 code: ENE0
 subject_area: English (Extension)
-date: 2023-07-12T01:24:18.579Z
+date: 2024-06-11T11:50:00.000Z
 entry_requirements: Teacher recommendation.
 year: "10"
 type: Compulsory
@@ -14,7 +14,7 @@ leads_to:
 ---
 **Purpose:**
 
-To teach students to study, use and enjoy the English language and its literature, communicated orally, visually and in writing, across a range of contexts.
+To explore, understand, use and enjoy the English language and its literature, communicated orally, visually and in writing, across a range of contexts.
 
 **Content:**
 
