@@ -3,7 +3,7 @@ title: Pasifika
 date: 2019-08-27T03:56:38.924Z
 people:
   - role: Teacher in Charge
-    name: Mrs L. Tahuaroa
+    name: Ms Rajneeta Devi
 extracurricular_area: Performing Arts
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569273377/Performing%20Arts/Pasifika_800x533.jpg
 blocks:
