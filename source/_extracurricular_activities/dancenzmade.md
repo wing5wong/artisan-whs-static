@@ -1,5 +1,5 @@
 ---
-title: DanceNZmade
+title: Dance NZ Made
 date: 2024-06-03T22:20:04.423Z
 people:
   - name: Ms Natalie Harris
@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569190320/Perform
 ---
 Students are able to participate in New Zealand’s Interschool and Interstudio workshop and competition event. DanceNZmade philosophy is ‘Celebrating and encouraging the arts in any forms is one of life’s pleasures’. Whanganui High School has gained success in the DanceNZmade competition over the past years.
 
-***DanceNZMade***
+***Dance NZ Made Regional Final Teams***
 * 2023  
 2nd Place, Year 11-13 Team - 'Is That Alright'  
 3rd Place, Year 11-13 Team - 'Falling'  
