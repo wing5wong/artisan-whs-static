@@ -3,7 +3,7 @@ title: ENE2
 name: English Extension
 code: ENE2
 subject_area: English (Extension)
-date: 2023-07-12T01:28:06.333Z
+date: 2024-06-11T11:52:00.000Z
 entry_requirements: 18 credits ENG1/ENE1 mainly at Merit and Excellence and teacher recommendation.
 year: "12"
 type: Compulsory
