@@ -1,6 +1,6 @@
 ---
 title: "School Production "
-date: 2019-09-01T23:15:10.315Z
+date: 2024-06-10T16:12:00.000Z
 people:
   - name: Ms Natalie Harris
     role: Teacher in Charge
@@ -13,9 +13,10 @@ Whanganui High School has a school production every second year. These have beco
 
 **Who can join:** All students via auditions
 
-**When:** Alternate years. Times vary, mostly evening and weekend rehearsals in the School Hall and/or Dance and Music Rooms
+**When:** Alternate years. Times vary, mostly evening and weekend rehearsals in the School Hall and/or Dance and Music Rooms.
 
 **Past productions include:**
+
 * 2023 Major Production "Grease"
 * 2021 Major Production "Mamma Mia!"
 * 2018 Junior Production 'Once On This Island'
