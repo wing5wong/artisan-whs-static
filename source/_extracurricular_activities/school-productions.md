@@ -1,31 +1,22 @@
 ---
-title: Production - School Wide & Junior
+title: "School Production "
 date: 2019-09-01T23:15:10.315Z
 people:
-  - name: Mrs J. Jones
+  - name: Ms Natalie Harris
     role: Teacher in Charge
-  - name: Mrs N. Campbell
+  - name: Mrs Devon Adam
     role: Teacher in Charge
 extracurricular_area: Performing Arts
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569275060/Performing%20Arts/Production.jpg
 ---
-Whanganui High School alternates yearly between a Junior and school wide production. These have become a major highlight for students. From a lead on stage, to the chorus dancing to being a musician, to stage crew, to costume design. There is a part for all interested theatre fans.
+Whanganui High School has a school production every second year. These have become a major highlight for students. From a lead on stage, to the chorus dancing, to stage crew, to costume design. There is a part for all interested theatre fans.
 
-**Who can join:** 
+**Who can join:** All students via auditions
 
-* Junior Production: Year 9  & Year 10 Students 
-  via auditions
-* School Production: All students via auditions
-
-**When:** Alternating years. Times vary, mostly evening and weekend rehearsals in the School Hall and/or Dance and Music Rooms
-
-**Teacher-in-charge:** 
-
-* Mrs Natalie Campbell (Production)
-* Mrs Jeanette Jones (Production Orchestra)
+**When:** Alternate years. Times vary, mostly evening and weekend rehearsals in the School Hall and/or Dance and Music Rooms
 
 **Past productions include:**
-
+* 2023 Major Production "Grease"
 * 2021 Major Production "Mamma Mia!"
 * 2018 Junior Production 'Once On This Island'
   [video clip](https://www.youtube.com/watch?v=w67_ZDbulxo&feature=youtu.be)
