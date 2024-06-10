@@ -14,5 +14,6 @@ Students are encouraged to attend these conferences with their parents or caregi
 Bookings Open on Wednesday 24 July at 5:00pm.  
 Bookings Close at 5.00pm on Tuesday 30 July, the evening before the interviews.  
 
-Book an interview (Instructions are included with the Interim Report).  
+Booking an interview (Instructions will be included with the Interim Report sent out on Monday 22 July).  
 Any queries or difficulties in booking your appointment times please phone 349 0177.
+
