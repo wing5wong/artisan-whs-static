@@ -3,8 +3,8 @@ title: ENI2
 name: English Introductory/Internal
 code: ENI2
 subject_area: English (Introductory/Internal)
-date: 2023-07-12T01:31:46.266Z
-entry_requirements: Students must have gained their 10 Level 1 Literacy credits.
+date: 2024-06-11T13:09:00.000Z
+entry_requirements: Teacher recommendations.
 year: "12"
 type: Compulsory
 course_duration: Full Year
