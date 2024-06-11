@@ -3,7 +3,7 @@ title: ENL3
 name: English Literature
 code: ENL3
 subject_area: English (Extension)
-date: 2021-06-28T00:11:17.918Z
+date: 2024-06-11T13:03:00.000Z
 entry_requirements: 12 credits ENG2 achieved mainly at Merit or Excellence.
   Students must also have completed Wide Reading Level 2 AS91106. Teacher
   recommendation.
