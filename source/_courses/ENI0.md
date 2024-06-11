@@ -3,7 +3,7 @@ title: ENI0
 name: English Introductory/Internal
 code: ENI0
 subject_area: English (Introductory/Internal)
-date: 2023-07-12T01:26:48.657Z
+date: 2024-06-11T13:08:00.000Z
 year: "10"
 type: Compulsory
 course_duration: 26 Weeks
