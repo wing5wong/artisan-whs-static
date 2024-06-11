@@ -3,7 +3,7 @@ title: ENG2
 name: English General
 code: ENG2
 subject_area: English (General)
-date: 2023-07-12T01:29:33.133Z
+date: 2024-06-11T13:06:00.000Z
 entry_requirements: 10 credits ENG1. Students must have attempted the Speech in
   Level 1 and pass at least one Level 1 external standard
 year: "12"
