@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences
+title: Student Achievement Conferences (students released 1.50pm)
 date: 2024-08-01T11:59:00.000Z
 ---
 When: Wednesday 31 July and Thursday 1 August 2024  
