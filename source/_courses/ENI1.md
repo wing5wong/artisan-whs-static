@@ -3,7 +3,7 @@ title: ENI1
 name: English Introductory/Internal
 code: ENI1
 subject_area: English (Introductory/Internal)
-date: 2023-07-12T01:09:57.112Z
+date: 2024-06-11T13:08:00.000Z
 year: "11"
 type: Compulsory
 course_duration: Full Year
