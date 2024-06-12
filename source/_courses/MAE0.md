@@ -12,7 +12,8 @@ course_level: Year 10
 leads_to:
   - MTA1
   - MAG1
-standards: []
+standards:
+  - "32406"
 ---
 **Purpose:**
 
