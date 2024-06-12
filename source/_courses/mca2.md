@@ -31,4 +31,4 @@ course_fees: $140. Cambridge Examination Fee. Students need a Graphics
   calculator for this course.
 endorsement: Yes
 ---
-This course will provide students with an extension course in advance of NCEA Level 2. Students will be able to sit most internal and external NCEA Level 2 achievement standards. This course covers the same material at MTA2 and the teaching is pitched at Merit/Excellence level. In addition students will study topics required for the Cambridge International AS Level Mathematics course and might sit the CIE exam at the end of the year. Students taking this course are also advised to take MCS2.
+This course will provide students with an extension course in advance of NCEA Level 2. Students will be able to sit most internal and external NCEA Level 2 achievement standards. This course covers the same material as MTA2 and the teaching is pitched at Merit/Excellence level. In addition students will study topics required for the Cambridge International AS Level Mathematics course and might sit the CIE exam at the end of the year. Students taking this course are also advised to take MCS2.
