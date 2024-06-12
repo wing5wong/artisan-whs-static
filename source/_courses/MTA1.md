@@ -20,11 +20,8 @@ standards:
   - "91945"
   - "91946"
   - "91947"
-notes: 1. This course is provided for students with a strong understanding of
-  Mathematics. 2. Algebra standard 91027 is a non-calculator standard. Although
-  it is an external achievement standard it is sat during the internal school
-  examinations in Term 3. Achievement in this standard is required for entry
-  into MCA2, MCS2 MTA2 and MPS2 courses.
+notes: "1. This course is provided for students with a strong understanding of
+  Mathematics. 2. Algebra standard 91027 is a non-calculator standard. "
 course_fees: Students are strongly advised to have a Graphics calculator for this course.
 endorsement: Yes
 ---
