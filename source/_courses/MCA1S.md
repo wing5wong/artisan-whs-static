@@ -1,7 +1,7 @@
 ---
 title: MCA1S
 maori_title: MCA2/MCS2
-name: Cambridge Extended Mathematics (1)
+name: "Cambridge Extended Mathematics "
 code: MCA1S
 subject_area: Cambridge Extended Mathematics
 date: 2023-07-12T22:34:08.765Z
