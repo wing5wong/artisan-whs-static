@@ -1,6 +1,6 @@
 ---
-title: Head Boy & Girl
+title: Head Girl & Boy
 category: Heads of School
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1694999798/prefects/Prefects%202023/George_Davey_Sophia_Bedwell_Head_Boy_Girl_2023.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718234090/prefects/alice_n_toby.jpg
 ---
-George Davey & Sophia Bedwell
+Alice Quigley and Toby Clark
