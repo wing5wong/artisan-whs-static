@@ -11,7 +11,8 @@ course_duration: Full Year
 course_level: Year 10
 leads_to:
   - MAG1
-standards: []
+standards:
+  - "32406"
 ---
 **Purpose:**
 
@@ -19,7 +20,7 @@ To increase students understanding of Mathematics and build their confidence in 
 
 **Content:**
 
-The course will continue to develop the students knowledge of Number, Measurement, Algebra, Probability, Statistics and Geometry. Trigonometry will be introduced. Level 1 NCEA Numeracy Standard will be offered. 
+The course will continue to develop the students knowledge of Number, Measurement, Algebra, Probability, Statistics and Geometry. Trigonometry will be introduced. NCEA Numeracy Standard will be offered. 
 
 **Assessment:**
 
