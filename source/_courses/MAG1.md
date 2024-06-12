@@ -18,9 +18,11 @@ standards:
   - "91944"
   - "91945"
   - "91946"
-  - "91947"
-notes: Maximum of two Mathematics course in Year 12. Achievement in the external
+notes: >-
+  Maximum of two Mathematics course in Year 12. Achievement in the external
   standards is requirement for entry into MTA2 or MPS2 course.
+
+  NCEA Numeracy will be offered to those students who did not pass it in Year 10.
 course_fees: null
 endorsement: Yes
 ---
