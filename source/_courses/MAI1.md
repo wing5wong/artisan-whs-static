@@ -11,7 +11,6 @@ course_level: NCEA 1
 assessment_type: Achievement Standard
 leads_to:
   - MAG1
-  - MAI2
   - MAG3
 standards:
   - "91944"
@@ -19,4 +18,4 @@ standards:
   - "91946"
 course_fees: null
 ---
-To provide a balanced Mathematics programme to students for whom a formal academic programme is not suited. This course is completely internally assessed. Topics covered; Number, Statistics, Probability, Measurement, Practical applications of algebra, Constructions and Drawings. NCEA Level 1 Numeracy Standard will be offered.
+To provide a balanced Mathematics programme to students for whom a formal academic programme is not suited. This course is completely internally assessed. Topics covered; Number, Statistics, Probability, Measurement, Practical applications of algebra, and graphs. NCEA Numeracy Standard will be offered.
