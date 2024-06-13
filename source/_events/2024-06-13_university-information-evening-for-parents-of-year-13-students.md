@@ -1,5 +1,5 @@
 ---
-title: University Information Evening for Parents of Year 13 students
+title: University Information Evening for Parents, Year 13 students
 date: 2024-06-26T08:56:00.000Z
 ---
 An invitation has been sent by e-mail to all parents / caregivers of Year 13 students (and year 13 school e-mail) to attend a University Information Seminar in the **Library, 7pm Wednesday 26 June**.  
