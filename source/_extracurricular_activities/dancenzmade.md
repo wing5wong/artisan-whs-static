@@ -18,7 +18,7 @@ Students are able to participate in New Zealand’s Interschool and Interstudio 
 
 * 2022  
 1st Place, Year 9-10 Team - 'Vanishing Act'  
-2nd Place, Year 11-13 Team - 'Vienna' 
+2nd Place, Year 11-13 Team - 'Vienna'  
 3rd Place, Year 11-13 Team - 'Black Car'  
 2nd Place, Open Team - 'Hustle'  
 3rd Place, Open Team - 'Undercover' 
