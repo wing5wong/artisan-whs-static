@@ -103,7 +103,7 @@
         @endforeach
     </div>
 
-    <div class="row">
+    <div class="row mt-5">
         @foreach (['Associate Principal', 'Deputy Principal'] as $dept)
             @foreach ($page->getDepartmentStaff($faculties, $staff, $dept) as $person)
                 <article class="col-sm-12 col-md-6 col-lg-4 @if ($person->on_leave) leave @endif">
