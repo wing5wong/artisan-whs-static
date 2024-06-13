@@ -6,6 +6,6 @@ Come along to the Smokefree Rockquest Whanganui Regional Final this Friday June 
 
 School student tickets only $15.    
 
-Come support our amazing WHS bands!
+Come support our 10 amazing WHS bands!!
 
  
