@@ -23,7 +23,7 @@ Students are able to participate in New Zealand’s Interschool and Interstudio 
 2nd Place, Open Team - 'Hustle'  
 3rd Place, Open Team - 'Undercover' 
 
-* 2021
+* 2021  
 2nd Place, Year 9-10 Team - 'Lost A Friend'  
 1st Place, Year 11-13 Team  - 'Alive'  
 2nd Place, Open Team - 'Lose My Mind'  
