@@ -1,6 +1,6 @@
 ---
 title: Whenua
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1695002130/prefects/Prefects%202023/Dariuz_Rihia_Autumn_Lilley.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718327723/prefects/Tara_and_Jocinta.jpg
 ---
-Dariuz Rihia & Autumn Lilley
+Tara Knight and Jocinta Richardson
