@@ -1,6 +1,6 @@
 ---
 title: Maunga
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1695002111/prefects/Prefects%202023/Samuel_Greaves_Summer_Fraser-Owen.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718326527/prefects/Te_Ari_and_Eli.jpg
 ---
-Samuel Greaves & Summer Fraser-Owen
+Te Ari Paranihi and Eli Kuehne
