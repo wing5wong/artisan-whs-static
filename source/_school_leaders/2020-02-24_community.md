@@ -1,6 +1,6 @@
 ---
 title: Community
 category: Prefects
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1694994427/prefects/Prefects%202023/Hazel_Chant_Sharukh_Shafiq.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718327839/prefects/RYAN_MAKENNA.jpg
 ---
-Hazel Chant & Sharukh Shafiq
+Ryan Henare and Makenna Siedenburg
