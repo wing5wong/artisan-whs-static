@@ -1,6 +1,6 @@
 ---
 title: Head Girl & Boy
 category: Heads of School
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718240181/prefects/alice_n_toby2.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718334409/prefects/alice_and_toby_now.jpg
 ---
-Alice Quigley and Toby Clark
+Toby Clark and Alice Quigley
