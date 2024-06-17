@@ -3,7 +3,7 @@ title: ACC3
 name: Accounting
 code: ACC3
 subject_area: Accounting
-date: 2023-06-15T22:13:58.986Z
+date: 2024-06-18T08:17:00.000Z
 entry_requirements: 12 Credits in ACC2 (including 1 external standard) or HOF/TIC approval.
 year: "13"
 type: Subject Choice
@@ -12,7 +12,6 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
   - "91405"
-  - "91406"
   - "91407"
   - "91408"
   - "91409"
