@@ -3,7 +3,7 @@ title: FDH1
 name: Hospitality
 code: FDH1
 subject_area: Hospitality
-date: 2023-06-30T00:19:58.268Z
+date: 2024-06-17T15:35:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
