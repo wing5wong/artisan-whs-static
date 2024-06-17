@@ -3,7 +3,7 @@ title: FDZ3
 name: Fashion Design
 code: FDZ3
 subject_area: Fashion Design
-date: 2019-08-01T03:54:22.297Z
+date: 2024-06-17T15:19:00.000Z
 entry_requirements: 12 credits in FDZ2 or HOF/TIC approval.
 year: "13"
 type: Subject Choice
