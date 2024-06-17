@@ -12,6 +12,12 @@ The purpose of the Chamber Music Contest is to encourage young musicians regardl
 
 ***Whanganui District Finals***  
 
+* 2024  
+Best Overall Group - 'No Strings Attached'  
+Highly Commended - 'The Dreamarz'  
+KBB Music Awards - 'HAIR, AIR, and FLAIR'  
+Most Promising Junior Group (years 7-10) - ‘Puffy Doritos’  
+
 * 2023  
 Best Performance of a NZ Work - 'Mochi'  
 
