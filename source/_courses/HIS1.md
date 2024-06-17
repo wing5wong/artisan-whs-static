@@ -3,7 +3,7 @@ title: HIS1
 name: History
 code: HIS1
 subject_area: History
-date: 2021-06-30T00:48:56.543Z
+date: 2024-06-18T08:30:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
