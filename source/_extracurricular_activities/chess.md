@@ -2,7 +2,7 @@
 title: Chess
 date: 2024-05-24T01:00:58.181Z
 people:
-  - name: Mr T. Sutherland
+  - name: Mr Tim Sutherland
     role: Teacher in Charge
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569186352/Performing%20Arts/Chess.jpg
