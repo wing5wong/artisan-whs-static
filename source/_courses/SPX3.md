@@ -3,7 +3,7 @@ title: SPX3
 name: Sport & Exercise
 code: SPX3
 subject_area: Sport & Exercise
-date: 2023-06-12T22:36:48.091Z
+date: 2024-06-18T07:49:00.000Z
 entry_requirements: Success in SPX2 or PED2 is desirable but not essential and HOF/TIC approval.
 year: "13"
 type: Subject Choice
