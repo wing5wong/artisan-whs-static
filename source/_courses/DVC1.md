@@ -3,7 +3,7 @@ title: DVC1
 name: Design & Visual Communication
 code: DVC1
 subject_area: Design & Visual Communication
-date: 2023-06-16T04:26:08.239Z
+date: 2024-06-17T15:24:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
