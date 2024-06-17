@@ -15,11 +15,10 @@ Priority for lessons are given to NCEA students, however there is limited availa
 
 * Reed (Flute, Clarinet, Saxophone) - Mr G Herdman
 * Strings (Violin, Viola, Cello) - Mrs A Hunt
-* Piano/Keyboard - Mrs M Brooks
+* Piano/Keyboard/Voice - Mrs M Brooks
 * Brass (Trumpet, Cornet, Trombone, Tuba, Tenor Horn) - Mr B Jellyman
 * Guitar (Electric - Lead and Bass, Acoustic) - Mr F Loveridge
 * Drums - Mr M Franklin-Browne
-* Voice - Mrs M Brooks
 
 
 **When:** Students to come out of normal classes for 20-30 minutes per week.
