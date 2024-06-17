@@ -13,4 +13,4 @@ These popular outdoor lunchtime concerts are held every few weeks (weather permi
 
 **Who can sign up:** All year levels 
 
-**When:** Every few weeks (weather permitting)
+
