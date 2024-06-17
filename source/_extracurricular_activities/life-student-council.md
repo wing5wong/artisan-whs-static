@@ -1,6 +1,6 @@
 ---
 title: Life Student Council
-date: 2024-05-23T22:30:14.874Z
+date: 2024-06-17T13:16:00.000Z
 people:
   - role: Teacher in Charge
     name: Mr Tim Sutherland
