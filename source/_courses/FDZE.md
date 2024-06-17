@@ -3,7 +3,7 @@ title: FDZE
 name: Fashion Design
 code: FDZE
 subject_area: Fashion Design
-date: 2021-06-30T03:42:07.704Z
+date: 2024-06-17T15:17:00.000Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks
