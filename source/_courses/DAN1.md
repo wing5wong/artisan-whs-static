@@ -3,7 +3,7 @@ title: DAN1
 name: Dance
 code: DAN1
 subject_area: Dance
-date: 2023-06-13T02:47:08.378Z
+date: 2024-06-18T09:45:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
