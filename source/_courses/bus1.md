@@ -3,7 +3,7 @@ title: BUS1
 name: Business Studies
 code: BUS1
 subject_area: Accounting
-date: 2023-06-15T21:18:29.097Z
+date: 2024-06-18T08:10:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
