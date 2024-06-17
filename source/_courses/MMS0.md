@@ -1,9 +1,9 @@
 ---
-title: MMS0
+title: tece
 name: Making Music
 code: MMS0
 subject_area: Making Music
-date: 2024-06-17T15:11:00.000Z
+date: 2024-06-17T15:12:00.000Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks
