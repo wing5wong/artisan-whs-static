@@ -3,11 +3,11 @@ title: TOU3
 name: Tourism
 code: TOU3
 subject_area: Tourism
-date: 2021-06-30T03:43:52.562Z
-entry_requirements: >-
-  Unit Standards course and entry is subject to HOF approval. Other Social Science options encouraged for students with academic strengths.
-year: '13'
-type: "Subject Choice"
+date: 2024-06-18T08:33:00.000Z
+entry_requirements: Unit Standards course and entry is subject to HOF approval.
+  Other Social Science options encouraged for students with academic strengths.
+year: "13"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Unit Standard
