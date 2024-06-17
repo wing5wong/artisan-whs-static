@@ -3,7 +3,7 @@ title: FDZ1
 name: Fashion Design
 code: FDZ1
 subject_area: Fashion Design
-date: 2019-08-01T03:47:54.567Z
+date: 2024-06-17T15:18:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
@@ -15,7 +15,7 @@ standards:
   - "92012"
   - "92013"
   - "92014"
-course_fees: $30 for take-home component
+course_fees: $50 for take-home component
 endorsement: Yes
 ---
 **Purpose:**
