@@ -3,7 +3,7 @@ title: TCM0
 name: Technology Materials
 code: TCM0
 subject_area: Technology Materials
-date: 2023-06-15T00:35:05.292Z
+date: 2024-06-17T15:13:00.000Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks
@@ -13,7 +13,7 @@ leads_to:
   - TCE1
   - TEC1
   - AUT1
-course_fees: $45 for take-home component
+course_fees: $50 for take-home component
 ---
 **Purpose:**
 
