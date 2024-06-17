@@ -3,12 +3,12 @@ title: FDN0
 name: Food & Nutrition
 code: FDN0
 subject_area: Food and Nutrition
-date: 2023-06-15T00:42:56.263Z
+date: 2024-06-17T15:35:00.000Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks
 course_level: Year 10
-leads_to: ""
+leads_to: []
 ---
 **Purpose:**
 
@@ -16,7 +16,7 @@ To develop practical skills in food preparation, with an emphasis on healthy eat
 
 **Content:**
 
-Personal health and safety, food preparation and presentation techniques, nutrition targeted research and working in a team situation.
+Personal health, hygiene and safety, food preparation and presentation techniques, nutrition targeted research and working in a team situation.
 
 **Assessment:**
 
