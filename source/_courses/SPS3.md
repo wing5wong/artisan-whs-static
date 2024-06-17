@@ -3,7 +3,7 @@ title: SPS3
 name: Sport Smart
 code: SPS3
 subject_area: Sport Smart
-date: 2023-06-19T01:50:55.619Z
+date: 2024-06-18T07:53:00.000Z
 entry_requirements: 14 credits in SPR2 or PED2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
