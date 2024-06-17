@@ -1,6 +1,6 @@
 ---
 title: EFS2
-name: Education for Sustainability Level 2
+name: "Education for Sustainability "
 code: EFS2
 subject_area: Social Studies
 date: 2024-06-18T10:34:00.000Z
