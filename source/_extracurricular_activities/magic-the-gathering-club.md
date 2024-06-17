@@ -2,9 +2,7 @@
 title: "Magic: The Gathering Club"
 date: 2019-09-22T23:17:05.447Z
 people:
-  - name: Mr P. Chiet
-    role: Teacher in Charge
-  - name: Mr C. Burrows
+  - name: Mr Christopher Burrows
     role: Teacher in Charge
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569194204/Performing%20Arts/Magic_The_Gathering.jpg
