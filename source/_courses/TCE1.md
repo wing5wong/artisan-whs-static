@@ -3,7 +3,7 @@ title: TCE1
 name: Technology Engineering
 code: TCE1
 subject_area: Technology Engineering
-date: 2023-06-15T00:28:30.908Z
+date: 2024-06-17T13:47:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
@@ -15,6 +15,6 @@ standards:
   - "22923"
   - "22924"
   - "22926"
-course_fees: $80 for take-home component
+course_fees: $100 for take-home component
 ---
-This course will offer students the opportunity to develop design and practical skills through a variety of projects and engineering projects based on Competenz programme. The course will focus on improving student's design, research and practical skills through common project work. Set in the engineering workshop.
+This course will offer students the opportunity to develop design and practical skills through a variety of projects. Based on the Competenz programme. The course will focus on improving student's design, research and practical skills through common project work. Set in the engineering workshop.
