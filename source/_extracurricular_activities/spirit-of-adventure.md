@@ -2,9 +2,9 @@
 title: Spirit of Adventure
 date: 2024-05-23T22:27:02.538Z
 people:
-  - name: Mrs E. Spooner
+  - name: Mrs Elizabeth Spooner
     role: Teacher in Charge
-  - name: Mr C. Adam
+  - name: Mr Craig Adam
     role: Teacher in Charge
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569278255/Performing%20Arts/Spirit_of_Adventure.jpg
