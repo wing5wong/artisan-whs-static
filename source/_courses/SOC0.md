@@ -3,7 +3,7 @@ title: SOC0
 name: Social Studies
 code: SOC0
 subject_area: Social Studies
-date: 2023-06-15T21:49:06.146Z
+date: 2024-06-18T08:09:00.000Z
 entry_requirements: Completion of SOCE (Year 9) Social Science Course.
 year: "10"
 type: Compulsory
@@ -20,7 +20,7 @@ To provide students with the knowledge and skills required for future studies in
 
 **Content:**
 
-Students will develop understanding of the unique nature of Aotearoa, New Zealand's bi-cultural heritage as well as multi-cultural societies in other parts of the world. Financial planning and systems of government are explored along with human rights and The Treaty of Waitangi. Resource use and environmental issues are examined from different perspectives.
+AKonga will develop understanding of the unique nature of Aotearoa New Zealand's history, with a special focus on local history and our awa. Resource use and environmental issues are examined from different perspectives. Students will work through Banqer and learn financial literacy skills, along with learning basic economic concepts
 
 **Assessment:**
 
