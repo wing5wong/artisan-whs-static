@@ -3,14 +3,14 @@ title: FDZ0
 name: Fashion Design
 code: FDZ0
 subject_area: Fashion Design
-date: 2021-07-01T03:44:28.386Z
+date: 2024-06-17T15:18:00.000Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks
 course_level: Year 10
 leads_to:
   - FDZ1
-course_fees: $30 for take-home component
+course_fees: $50 for take-home component
 ---
 **Purpose:**
 
