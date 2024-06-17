@@ -3,7 +3,7 @@ title: DAN3
 name: Dance
 code: DAN3
 subject_area: Dance
-date: 2023-06-15T01:05:42.787Z
+date: 2024-06-18T09:46:00.000Z
 entry_requirements: 12 credits in DAN2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
