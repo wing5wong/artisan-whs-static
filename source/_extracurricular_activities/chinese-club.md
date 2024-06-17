@@ -3,7 +3,7 @@ title: Chinese Learning/Culture Club
 date: 2024-05-23T22:24:47.152Z
 people:
   - role: Teacher in Charge
-    name: Mr B. Ding
+    name: Mr Beck Ding
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624329100/Performing%20Arts/Chinese.jpg
 ---
@@ -11,8 +11,8 @@ Students are welcome our Chinese Club, where students will prepare for the Welli
 
 **Who can join:** All students
 
-**When:**               Friday – Period 5, 2.15pm – 3.00pm
+**When:** Friday – Period 5, 2.15pm – 3.00pm
 
-**Event:**                 Speech Competition and HSK test
+**Event:** Speech Competition and HSK test
 
-**Cost:**                   Nil
+**Cost:**  Nil
