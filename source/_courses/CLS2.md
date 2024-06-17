@@ -3,7 +3,7 @@ title: CLS2
 name: Classical Studies
 code: CLS2
 subject_area: Classical Studies
-date: 2021-06-30T04:19:24.697Z
+date: 2024-06-18T08:18:00.000Z
 entry_requirements: "12 Credits from the following: ENG1, CLS1 or HIS1. At least
   4 credits must be from External examinations. HOF/TIC approval."
 year: "12"
