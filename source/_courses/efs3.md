@@ -1,6 +1,6 @@
 ---
 title: EFS3
-name: Educational for Sustainability Level 3
+name: "Educational for Sustainability "
 code: EFS3
 subject_area: Social Studies
 date: 2024-06-18T10:36:00.000Z
