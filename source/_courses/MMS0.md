@@ -3,7 +3,7 @@ title: MMS0
 name: Making Music
 code: MMS0
 subject_area: Making Music
-date: 2023-06-15T00:35:42.312Z
+date: 2024-06-17T15:11:00.000Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks
@@ -13,7 +13,7 @@ leads_to:
   - TCE1
   - AUT1
   - BAC1
-course_fees: $45 for take-home component
+course_fees: $50 for take-home component
 ---
 **Purpose:**
 
