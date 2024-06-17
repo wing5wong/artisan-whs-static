@@ -3,7 +3,7 @@ title: BAC3
 name: Building & Construction
 code: BAC3
 subject_area: Building & Construction
-date: 2023-06-15T00:31:52.931Z
+date: 2024-06-17T15:04:00.000Z
 entry_requirements: BAC2 or HOF approval.
 year: "13"
 type: Subject Choice
@@ -15,6 +15,6 @@ standards:
   - "29678"
   - "29682"
   - "29684"
-course_fees: $80 for take-home component
+course_fees: $100 for take-home component
 ---
-The purpose of this course is to provide students the opportunity to gain credits towards the National Certificate in Building, Construction and allied trades. The course is assessed by Unit Standards which require both practical and theory assessments. Students will undertake set project work. The course is most suited to those students who genuinely intend to pursue a career in construction.
+Building, Construction, and Allied Trades Skills (BCATS) programmes are practical and multi-disciplinary programmes for students, providing them with the skills and knowledge to springboard into any career in the construction industry. Rather than focusing on any one trade, they build skills and an understanding of all trades in the construction industry. They also develop literacy, numeracy and communication skills and contribute to NCEA qualifications.  The course is assessed by Unit Standards which require both practical and theory assessment. Students will undertake set project work and participate in a class building project. This course is most suited to those students who genuinely intend to pursue a career in construction. (Extension credits may be offered).
