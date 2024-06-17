@@ -3,7 +3,7 @@ title: DVCE
 name: Design & Visual Communication
 code: DVCE
 subject_area: Design & Visual Communication
-date: 2023-06-15T00:37:08.141Z
+date: 2024-06-17T15:20:00.000Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks
