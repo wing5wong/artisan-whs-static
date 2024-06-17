@@ -12,8 +12,8 @@ Show Quest is a dance, drama and design spectacular where the students are the s
 
 ***Show Quest Entries (formally Stage Challenge)***  
 
-* 2024 - Regional Winners 'Minnie Dean'  
-* 2022 - Regional Winners 'The Women of Ward 5, Hear Their Cries'  
+* 2024 - Regional Winners 'The Women of Ward 5, Hear Their Cries' 
+* 2022 - Regional Winners 'Minnie Dean'   
 * 2016 – Regional & National Winners ’29 Below’
   [ video clip](https://www.youtube.com/watch?v=hw6ZV-Jxc4w)
 * 2014 – Regional Winners ‘Invisible Children’
