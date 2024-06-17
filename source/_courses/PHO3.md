@@ -3,14 +3,14 @@ title: PHO3
 name: Photography
 code: PHO3
 subject_area: Photography
-date: 2021-07-07T02:21:34.487Z
-year: '13'
-type: "Subject Choice"
+date: 2024-06-18T09:44:00.000Z
+entry_requirements: 12 credits in PHO2 and HOF/TIC approval. A digital camera
+  with a 'manual' function is essential. There will be limited places available
+  in this course.
+year: "13"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 3
-entry_requirements: >-
-  12 credits in PHO2 and HOF/TIC approval. A digital camera with a 'manual'
-  function is essential. There will be limited places available in this course.
 standards:
   - "91452"
   - "91457"
