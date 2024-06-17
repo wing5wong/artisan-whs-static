@@ -3,7 +3,7 @@ title: OAS1
 name: Outdoor Adventure Skills
 code: OAS1
 subject_area: Outdoor Education
-date: 2023-06-26T04:14:38.228Z
+date: 2024-06-18T07:55:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
