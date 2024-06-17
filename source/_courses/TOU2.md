@@ -3,11 +3,11 @@ title: TOU2
 name: Tourism
 code: TOU2
 subject_area: Tourism
-date: 2021-06-30T03:42:51.015Z
-entry_requirements: >-
-  Unit Standards course and entry is subject to HOF approval. Other Social Science options encouraged for students with academic strengths.
-year: '12'
-type: "Subject Choice"
+date: 2024-06-18T08:31:00.000Z
+entry_requirements: Unit Standards course and entry is subject to HOF approval.
+  Other Social Science options encouraged for students with academic strengths.
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
