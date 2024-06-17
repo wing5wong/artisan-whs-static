@@ -3,7 +3,7 @@ title: OUT3
 name: Outdoor Education
 code: OUT3
 subject_area: Outdoor Education
-date: 2023-06-19T02:07:31.765Z
+date: 2024-06-18T07:57:00.000Z
 entry_requirements: HOF/TIC approval.
 year: "13"
 type: Subject Choice
