@@ -4,6 +4,8 @@ date: 2024-06-10T16:43:00.000Z
 people:
   - name: Mrs Jeanette Jones
     role: Choir Director
+  - role: Accompaniment
+    name: Mrs Marie Brooks
 extracurricular_area: Performing Arts
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569187849/Performing%20Arts/Choir.jpg
 blocks: []
