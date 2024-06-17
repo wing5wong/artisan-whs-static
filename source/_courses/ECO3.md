@@ -3,12 +3,11 @@ title: ECO3
 name: Economics
 code: ECO3
 subject_area: Economics
-date: 2021-06-30T23:17:18.630Z
-entry_requirements: >-
-  12 Credits in ECO2 or in both ENG2 or ENE2 and MTA2 or MPS2 including 1
-  external standard in each and HOF/TIC approval
-year: '13'
-type: "Subject Choice"
+date: 2024-06-18T08:19:00.000Z
+entry_requirements: 12 Credits in ECO2 or in both ENG2 or ENE2 and MTA2 or MPS2
+  including 1 external standard in each and HOF/TIC approval
+year: "13"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
