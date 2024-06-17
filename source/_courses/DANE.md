@@ -3,7 +3,7 @@ title: DANE
 name: Dance
 code: DANE
 subject_area: Dance
-date: 2023-06-15T01:03:42.373Z
+date: 2024-06-18T09:44:00.000Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks
