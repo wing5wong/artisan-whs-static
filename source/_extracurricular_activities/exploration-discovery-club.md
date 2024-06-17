@@ -2,7 +2,7 @@
 title: Exploration & Discovery Club
 date: 2024-05-24T01:04:06.727Z
 people:
-  - name: Mr B. Hunter
+  - name: Mr Bevan Hunter
     role: Teacher in Charge
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1567471599/Performing%20Arts/Exploration_Club.jpg
