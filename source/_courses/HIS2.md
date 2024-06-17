@@ -4,7 +4,7 @@ maori_title: ""
 name: History
 code: HIS2
 subject_area: History
-date: 2021-06-30T02:57:58.373Z
+date: 2024-06-18T08:30:00.000Z
 entry_requirements: 12 Credits in ENG1 or HIS1 and HOF/TIC approval
 year: "12"
 type: " Optional"
