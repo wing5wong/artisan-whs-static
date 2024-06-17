@@ -1,13 +1,7 @@
 ---
 title: Visual Arts Club
 date: 2021-06-22T22:45:49.017Z
-people:
-  - role: Teacher in Charge
-    name: Mr G. Hall
-  - role: Teacher in Charge
-    name: Ms C. Sleyer
-  - role: Teacher in Charge
-    name: Mrs K. Coombs
+people: []
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624320860/Performing%20Arts/Visual_Art_-_Rose_Hird_-_A_chantry_for_cumulus_Printmaking.jpg
 ---
