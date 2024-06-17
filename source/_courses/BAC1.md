@@ -3,7 +3,7 @@ title: BAC1
 name: Building & Construction
 code: BAC1
 subject_area: Building & Construction
-date: 2023-06-15T00:30:26.906Z
+date: 2024-06-17T14:57:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
@@ -16,6 +16,7 @@ standards:
   - "24355"
   - "24356"
   - "25919"
-course_fees: $80 for take-home component
+  - "31512"
+course_fees: $100 for take-home component
 ---
-The purpose of this course is to provide students the opportunity to gain a National Certificate in Building, Construction and Allied Trade Skills. To do this students will need to gain literacy and numeracy credits, and study both BAC1 and one other approved Technology subject (i.e. DVC or TEC). The course is assessed by Unit Standards which require both practical and theory assessment. Students will undertake set project work. This course is most suited to those students who genuinely intend to pursue a career in construction.
+Building, Construction, and Allied Trades Skills (BCATS) programmes are practical and multi-disciplinary programmes for students, providing them with the skills and knowledge to springboard into any career in the construction industry. Rather than focusing on any one trade, they build skills and an understanding of all trades in the construction industry. They also develop literacy, numeracy and communication skills and contribute to NCEA qualifications.  The course is assessed by Unit Standards which require both practical and theory assessment. Students will undertake set project work and participate in a class building project. This course is most suited to those students who genuinely intend to pursue a career in construction. (Extension credits may be offered).
