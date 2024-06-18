@@ -3,7 +3,7 @@ title: EFS3
 name: "Educational for Sustainability "
 code: EFS3
 subject_area: Social Studies
-date: 2024-06-18T10:36:00.000Z
+date: 2024-06-18T15:45:00.000Z
 year: "13"
 type: Subject Choice
 course_duration: Full Year
@@ -14,6 +14,7 @@ standards:
   - "91735"
   - "91736"
   - "90831"
+  - "90832"
 ue_approved: false
 invitation_only: false
 endorsement: true
