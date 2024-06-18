@@ -9,6 +9,8 @@ type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
+leads_to:
+  - EFS3
 standards:
   - "90810"
   - "90811"
