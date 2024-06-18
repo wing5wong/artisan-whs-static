@@ -17,4 +17,4 @@ standards:
   - "22926"
 course_fees: $100 for take-home component
 ---
-This course will offer students the opportunity to develop design and practical skills through a variety of projects. Based on the Competenz programme. The course will focus on improving student's design, research and practical skills through common project work. Set in the engineering workshop.
+This course will offer students the opportunity to develop design and practical skills through a variety of projects, based on the Competenz programme. The course will focus on improving student's design, research and practical skills through common project work. Set in the engineering workshop.
