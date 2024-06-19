@@ -3,7 +3,7 @@ title: ART1
 name: Fine Art Focus
 code: ART1
 subject_area: Visual Art
-date: 2023-06-16T01:03:09.661Z
+date: 2024-06-19T15:29:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
