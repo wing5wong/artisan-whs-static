@@ -3,7 +3,7 @@ title: MAEE
 name: Mathematics Extension
 code: MAEE
 subject_area: Mathematics (Extension)
-date: 2023-06-16T02:38:00.030Z
+date: 2024-06-19T16:14:00.000Z
 year: "9"
 type: Compulsory
 course_duration: 26 Weeks
