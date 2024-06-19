@@ -3,7 +3,7 @@ title: GEO3
 name: Geography
 code: GEO3
 subject_area: Geography
-date: 2023-06-15T20:03:54.199Z
+date: 2024-06-19T12:44:00.000Z
 entry_requirements: 12 credits GEO2 or 12 ENG2 Credits or HOF/TIC approval.
 year: "13"
 type: Subject Choice
