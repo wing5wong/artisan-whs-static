@@ -3,7 +3,7 @@ title: MAG1
 name: Mathematics General
 code: MAG1
 subject_area: Mathematics (General)
-date: 2023-06-16T04:00:04.438Z
+date: 2024-06-19T16:19:00.000Z
 entry_requirements: 45%+ in School examination and HOF/TIC approval.
 year: "11"
 type: Compulsory
