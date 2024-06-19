@@ -3,7 +3,7 @@ title: ARD3
 name: Art Design
 code: ARD3
 subject_area: Art Design
-date: 2023-06-15T04:41:36.086Z
+date: 2024-06-19T15:26:00.000Z
 entry_requirements: 12 credits in ARD2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
