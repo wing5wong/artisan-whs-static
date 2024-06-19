@@ -3,7 +3,7 @@ title: APT3
 name: Art Printmaking
 code: APT3
 subject_area: Printmaking
-date: 2023-06-15T04:42:33.747Z
+date: 2024-06-19T15:27:00.000Z
 entry_requirements: 12 credits in ARP2/APT2
 year: "13"
 type: Subject Choice
