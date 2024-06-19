@@ -4,7 +4,7 @@ maori_title: .
 name: Digital Art Focus
 code: ADF1
 subject_area: Visual Art
-date: 2023-06-16T01:10:27.647Z
+date: 2024-06-19T15:28:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
