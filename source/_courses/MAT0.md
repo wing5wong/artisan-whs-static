@@ -3,7 +3,7 @@ title: MAT0
 name: Mathematics General
 code: MAT0
 subject_area: Mathematics (General)
-date: 2023-07-12T02:40:47.136Z
+date: 2024-06-19T16:16:00.000Z
 entry_requirements: Satisfactory completion a Year 9 Mathematics course.
 year: "10"
 type: Compulsory
