@@ -3,7 +3,7 @@ title: MAIE
 name: Mathematics Introductory
 code: MAIE
 subject_area: Mathematics (Introductory)
-date: 2023-06-16T02:39:26.391Z
+date: 2024-06-19T16:14:00.000Z
 year: "9"
 type: Compulsory
 course_duration: 26 Weeks
