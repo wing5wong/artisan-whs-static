@@ -3,7 +3,7 @@ title: DRA1
 name: Drama
 code: DRA1
 subject_area: Drama
-date: 2023-06-15T03:46:49.027Z
+date: 2024-06-19T15:24:00.000Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year
