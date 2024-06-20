@@ -10,6 +10,7 @@ media_library:
     cloud_name: whanganuihigh
     api_key: 514169267776294
 
+search: false
 
 collections:
   - name: announcements
