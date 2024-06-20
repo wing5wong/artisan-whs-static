@@ -3,7 +3,7 @@ title: MAG2
 name: Mathematics General
 code: MAG2
 subject_area: Mathematics (General)
-date: 2021-06-29T01:37:22.114Z
+date: 2024-06-20T13:02:00.000Z
 entry_requirements: 14 AS credits in MAI1 10 AS credits in MAG1 and HOF/TIC approval required.
 year: "12"
 type: Subject Choice
