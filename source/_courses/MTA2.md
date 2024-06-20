@@ -3,7 +3,7 @@ title: MTA2
 name: Trigonometry and Algebra
 code: MTA2
 subject_area: Trigonometry and Algebra
-date: 2021-06-28T02:06:43.308Z
+date: 2024-06-20T13:44:00.000Z
 entry_requirements: Algebra parallel test and T.E.G school Examination and HOF/TIC approval.
 year: "12"
 type: Subject Choice
