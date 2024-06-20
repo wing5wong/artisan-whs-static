@@ -4,7 +4,7 @@ maori_title: MCA2/MCS2
 name: "Cambridge Extended Mathematics "
 code: MCA1S
 subject_area: Cambridge Extended Mathematics
-date: 2023-07-12T22:34:08.765Z
+date: 2024-06-20T12:06:00.000Z
 entry_requirements: Subject teacher recommendation
 year: "11"
 type: Subject Choice
