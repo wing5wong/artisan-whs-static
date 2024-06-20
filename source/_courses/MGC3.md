@@ -3,7 +3,7 @@ title: MGC3
 name: Geometry & Calculus
 code: MGC3
 subject_area: Geometry & Calculus
-date: 2023-06-16T03:15:52.318Z
+date: 2024-06-20T13:50:00.000Z
 entry_requirements: Algebra and Calculus School examination and HOF/TIC approval.
 year: "13"
 type: Subject Choice

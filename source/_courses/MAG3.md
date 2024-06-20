@@ -3,7 +3,7 @@ title: MAG3
 name: Mathematics General
 code: MAG3
 subject_area: Mathematics (General)
-date: 2021-06-28T01:39:34.583Z
+date: 2024-06-20T13:46:00.000Z
 entry_requirements: 12 Achievement Standard credits from a Level 2 Mathematics
   course and HOF/TIC approval.
 year: "13"

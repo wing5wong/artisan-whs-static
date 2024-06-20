@@ -3,7 +3,7 @@ title: MPS2
 name: Probability & Statistics
 code: MPS2
 subject_area: Probability & Statistics
-date: 2021-06-28T02:04:34.559Z
+date: 2024-06-20T13:41:00.000Z
 entry_requirements: Algebra parallel test and multivariate data and HOF/TIC approval.
 year: "12"
 type: Subject Choice

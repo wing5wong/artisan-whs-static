@@ -3,7 +3,7 @@ title: MPS3
 name: Probability & Statistics
 code: MPS3
 subject_area: Probability & Statistics
-date: 2021-06-28T02:05:19.422Z
+date: 2024-06-20T13:51:00.000Z
 entry_requirements: Probability Methods school examination from MPS2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
