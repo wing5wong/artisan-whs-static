@@ -1,6 +1,6 @@
 ---
-title: Inter School Moderation (early finish to be advised)
+title: Inter School Moderation, students released at 2pm
 date: 2024-06-24T22:38:49.765Z
 ---
-Inter School Moderation (early finish to be advised).
+Inter School Moderation, students released at 2pm.
 
