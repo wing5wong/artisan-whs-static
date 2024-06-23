@@ -3,12 +3,11 @@ title: PHY2
 name: Physics
 code: PHY2
 subject_area: Physics
-date: 2021-06-30T02:22:34.935Z
-entry_requirements: >-
-  14 credits from SCG1/SCE1 (including AS90940 also, AS91027 from MAG1/MAE1) and
-  HOF/TIC approval.
-year: '12'
-type: "Subject Choice"
+date: 2024-06-24T11:39:00.000Z
+entry_requirements: 14 credits from SCG1/SCE1 (including AS90940 also, AS91027
+  from MAG1/MAE1) and HOF/TIC approval.
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
