@@ -3,10 +3,10 @@ title: PHY3
 name: Physics
 code: PHY3
 subject_area: Physics
-date: 2021-06-30T02:23:44.021Z
+date: 2024-06-24T11:39:00.000Z
 entry_requirements: 13 credits at PHY2 and HOF/TIC approval.
-year: '13'
-type: "Subject Choice"
+year: "13"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 3
 assessment_type: Achievement Standard
