@@ -3,7 +3,7 @@ title: ELE3
 name: Electronics
 code: ELE3
 subject_area: Electronics
-date: 2023-06-15T01:08:20.513Z
+date: 2024-06-24T10:44:00.000Z
 entry_requirements: 12 credits from PHY2 or 18239, 18240, 18241 from ELE2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
