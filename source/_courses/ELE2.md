@@ -3,7 +3,7 @@ title: ELE2
 name: Electronics
 code: ELE2
 subject_area: Electronics
-date: 2023-06-15T01:09:02.353Z
+date: 2024-06-24T10:42:00.000Z
 entry_requirements: 12 credits from SCG1 or SCE1 and HOF/TIC approval.
 year: "12"
 type: Subject Choice
