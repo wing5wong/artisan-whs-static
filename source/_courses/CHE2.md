@@ -3,7 +3,7 @@ title: CHE2
 name: Chemistry
 code: CHE2
 subject_area: Chemistry
-date: 2021-06-30T04:08:40.769Z
+date: 2024-06-24T10:26:00.000Z
 entry_requirements: 14 credits (including  AS90940 and AS90944 from SCG1 or
   SCE1, AS91027 MAG1/MAE1 strongly recommended and HOF/TIC approval.
 year: "12"
