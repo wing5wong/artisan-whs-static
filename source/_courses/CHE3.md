@@ -3,7 +3,7 @@ title: CHE3
 name: Chemistry
 code: CHE3
 subject_area: Chemistry
-date: 2021-06-30T04:09:23.080Z
+date: 2024-06-24T10:30:00.000Z
 entry_requirements: 14 credits in CHE2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice
