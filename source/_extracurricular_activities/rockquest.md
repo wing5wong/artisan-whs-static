@@ -11,7 +11,7 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 
 **Highlights for our Rockquest groups are:**
 
-* 2024
+* **2024**
 * Best Vocals - 'The Zanes'
 * Best Musicianship - Drummer 'Where's Charlie'  
 * Best Song - 'Out of Mind'  
