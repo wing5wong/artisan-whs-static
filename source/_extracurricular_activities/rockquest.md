@@ -11,6 +11,13 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 
 **Highlights for our Rockquest groups are:**
 
+* 2024
+* Best Vocals - 'The Zanes'
+* Best Musicianship - Drummer 'Where's Charlie'  
+* Best Song - 'Out of Mind'  
+* Best Lyrics - 'Evermore'  
+* 2nd Place Regional Winners - 'Downsizing'
+* 3rd Place Regional Winners - 'Overwhelming'  
 * 2023 Regional Best Song Award - 'Too Much'
 * 2022 Regional Winners - 'The Picnic List'  
 * 2021 Regional Winners - 'The Amps'
