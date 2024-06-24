@@ -3,7 +3,7 @@ title: CHNE
 name: Chinese
 code: CHNE
 subject_area: Chinese
-date: 2023-06-06T01:32:28.862Z
+date: 2024-06-24T12:50:00.000Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks
