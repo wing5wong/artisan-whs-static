@@ -16,6 +16,8 @@ Junior A2 Netball - Springvale Stadium - 4x10min Quarters
 Basketball - WHS Gym - 4x10min Quarters running clock  
 1st XI Hockey - Gonville Turf - 4x12min Quarters 
 
-As discussed last year, we will not hold an after match. Instead at each sport we will have a brief award ceremony after the game with MVP players selected (presented by captains). Once the ceremony is finished NPGHS will depart from their venue home.
+As discussed last year, we will not hold an after match.  
+Instead at each sport we will have a brief award ceremony after the game with MVP players selected (presented by captains).  
+Once the ceremony is finished NPGHS will depart from their venue home.
 
 
