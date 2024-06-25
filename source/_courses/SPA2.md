@@ -3,10 +3,10 @@ title: SPA2
 name: Spanish
 code: SPA2
 subject_area: Spanish
-date: 2021-07-01T02:55:16.676Z
+date: 2024-06-25T16:23:00.000Z
 entry_requirements: 12 credits in SPA1 or HOD approval.
-year: '12'
-type: "Subject Choice"
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
