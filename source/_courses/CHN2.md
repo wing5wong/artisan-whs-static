@@ -3,10 +3,10 @@ title: CHN2
 name: Chinese
 code: CHN2
 subject_area: Chinese
-date: 2021-07-01T04:10:36.139Z
+date: 2024-06-25T15:52:00.000Z
 entry_requirements: 12 Credits in CHN1 or HOD approval.
-year: '12'
-type: "Subject Choice"
+year: "12"
+type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
