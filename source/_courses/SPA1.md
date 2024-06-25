@@ -3,7 +3,7 @@ title: SPA1
 name: Spanish
 code: SPA1
 subject_area: Spanish
-date: 2023-06-26T00:31:38.783Z
+date: 2024-06-25T16:21:00.000Z
 entry_requirements: Full year at Year 10 or HOD approval.
 year: "11"
 type: Subject Choice
