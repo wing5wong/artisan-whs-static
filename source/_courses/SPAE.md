@@ -3,7 +3,7 @@ title: SPAE
 name: Spanish
 code: SPAE
 subject_area: Spanish
-date: 2023-06-06T22:13:52.007Z
+date: 2024-06-25T16:15:00.000Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks
