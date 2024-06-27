@@ -3,7 +3,7 @@ title: Whanganui High School Sports Exchange - New Plymouth Girls High School
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1719452667/News/np_netball1.jpg
 news_author:
-  date: 2024-06-27T13:44:00.000Z
+  date: 2024-06-27T01:44:00.000Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1719452667/News/np_netball.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1719452666/News/np_netball_3.jpg
@@ -14,7 +14,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1719452655/News/np_rugby_2.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1719452654/News/np_rugby1.jpg
 show_in_slider: true
-date: 2024-06-27T13:44:00.000Z
+date: 2024-06-27T01:44:00.000Z
 ---
 Great exchange yesterday against New Plymouth Girls High School. 
 
