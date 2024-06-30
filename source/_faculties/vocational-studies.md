@@ -21,7 +21,7 @@ The Vocational Studies Department at Whanganui High School opens many pathways f
 
 ***Curriculum***
 
-Students who are accepted in the Year 12 & 13 programme will have 4 of their 6 lines “locked in”  to a vocational timetable. Subjects include, Communication English, Financial Literacy, Health, Food Technology and Employment Skills. Students chose one other interest subject. These classes are taught at school on Monday, Tuesday and Wednesdays’ with Thursday and Friday as their Career days.
+Students who are accepted in the Year 12 & 13 programme will have 4 of their 6 lines “locked in”  to a vocational timetable. Subjects include, Communication English, Financial Literacy, Food Technology and Employment Skills. Students chose one other interest subject. These classes are taught at school on Monday, Tuesday and Wednesdays’ with Thursday and Friday as their Career days.
 
 ***Gateway***
 
