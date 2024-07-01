@@ -3,7 +3,7 @@ title: PLS1
 name: Progressive Life Skills
 code: PLS1
 subject_area: Progressive Life Skills
-date: 2023-06-15T02:29:04.852Z
+date: 2024-07-02T07:33:00.000Z
 entry_requirements: HOF/TIC approval
 year: "11"
 type: Subject Choice
@@ -12,16 +12,10 @@ course_level: NCEA 1
 assessment_type: Unit Standard
 leads_to:
   - PDL2
-  - PCS2
-  - PMA2
   - PLS2
   - VES2
   - VEN2
-  - VDF2
-  - VHT2
-  - VMA2
 standards:
-  - "496"
   - "548"
   - "1293"
   - "3490"
