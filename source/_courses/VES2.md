@@ -3,7 +3,7 @@ title: VES2
 name: Vocational Studies Employment Skills
 code: VES2
 subject_area: Vocational Studies (Employment Skills)
-date: 2023-06-12T21:04:41.770Z
+date: 2024-07-01T12:52:00.000Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: "12"
 type: Subject Choice
