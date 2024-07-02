@@ -3,7 +3,7 @@ title: MAO1
 name: Te Reo Māori
 code: MAO1
 subject_area: Te Reo Māori
-date: 2023-07-12T02:03:33.596Z
+date: 2024-07-02T07:31:00.000Z
 entry_requirements: Year 10 Māori and HOF/TIC approval.
 year: "11"
 type: Subject Choice
@@ -13,10 +13,6 @@ assessment_type: Achievement Standard
 leads_to:
   - MAO2
 standards:
-  - "16160"
-  - "16165"
-  - "27106"
-  - "27108"
   - "92092"
   - "92093"
   - "92094"
