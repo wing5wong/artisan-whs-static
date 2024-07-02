@@ -35,7 +35,7 @@ Level One Introductory Science is a generalised course covering a range of studi
 
 ***Level 1 Science Extension and Science General***
 
-Level One Science is a generalised course covering a range of studies in the major science disciplines of Chemistry, Physics and Biology. Chemistry studies are focused aroung the reactions of neutralisation, combustion and precipitation and how these affect the environments encountered by the students. Physics studies the role and transmission of energy and relates this to real-life situations. The Biology component studies variation in living things and relates this to genetics. The whole course is designed to give a flavour of each of the disciplines and ehlp to guide students into specialist subjects in Year 12.
+Level One Science is a generalised course covering a range of studies in the major science disciplines of Chemistry, Physics and Biology. Chemistry studies are focused aroung the reactions of neutralisation, combustion and precipitation and how these affect the environments encountered by the students. Physics studies the role and transmission of energy and relates this to real-life situations. The Biology component studies variation in living things and relates this to genetics. The whole course is designed to give a flavour of each of the disciplines and help to guide students into specialist subjects in Year 12.
 
 ***Biology*** 
 
