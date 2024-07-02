@@ -21,7 +21,6 @@ leads_to:
   - VHT2
   - VMA2
 standards:
-  - "496"
   - "548"
   - "1293"
   - "3490"
@@ -31,6 +30,6 @@ standards:
 course_fees: null
 endorsement: false
 ---
-Progressive Life Skills is a programme for Year 11 students where the major focus is to ensure they have developed skills needed in life and to succeed in a work environment. Students are able to gain NCEA Level 1. Students work through the units on offer at a pace suited to their learning style and gain the credits once they have completed the assessments. This is a self driven course ensuring that students develop time management skills.
-
-As appropriate units are identified based on the students and needs and interests they will be added to the course.
+Progressive Life Skills, at NCEA Level 1, is a programme for students where the major focus is to ensure they have developed skills needed in life and to succeed in a work environment. To that end, when students are ready to progress, we try to get our students into the work environment in a supported manner.  This is achieved through volunteering opportunities and courses provided by external providers.  
+Students gain credits at NCEA Level 1 throughout this course to help them achieve NCEA Level 1. Students work through the units on offer at a pace suited to their learning style and gain the credits once they have completed the assessments.  To this end, the units offered change according to the needs and wants of the pupils on a yearly basis.  
+This course is for pupils that need a more individual method of teaching and learning where support is offered to enable their success such that they can progress to a vocation or vocational course when they feel ready.  
