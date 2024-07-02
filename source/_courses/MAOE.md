@@ -1,6 +1,6 @@
 ---
 title: MAOE
-name: Te Reo Māori me ōna Tikanga
+name: Te Reo Māori
 code: MAOE
 subject_area: Te Reo Māori
 date: 2023-06-26T00:42:51.393Z
