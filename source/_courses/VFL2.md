@@ -14,12 +14,10 @@ assessment_type: Unit Standard
 leads_to:
   - VMA3
 standards:
-  - "18237"
   - "24695"
   - "28094"
   - "28099"
-  - "91260"
-  - "91268"
+  - "12354"
 invitation_only: true
 ---
 Students in this course will focus on Mathematics related to the real world. Aspects of the course are not assessed for credit. Any students who has not gained Level 1 Numeracy will have this as a major focus.

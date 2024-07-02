@@ -19,6 +19,7 @@ standards:
   - "6400"
   - "6401"
   - "6402"
+  - "9681"
   - "16797"
   - "16800"
   - "16802"
@@ -26,6 +27,7 @@ standards:
   - "17593"
   - "17594"
   - "18408"
+  - "30906"
 notes: There are 5 compulsory Vocational Studies subjects, they are;
   Communication English, Financial Literacy, Food Technology, PE/Hauora and
   Employment Skills. Students choose 1 other option subject to make up the 6
