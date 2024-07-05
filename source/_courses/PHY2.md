@@ -4,8 +4,8 @@ name: Physics
 code: PHY2
 subject_area: Physics
 date: 2024-06-24T11:39:00.000Z
-entry_requirements: 14 credits from SCG1/SCE1 (including AS90940 also, AS91027
-  from MAG1/MAE1) and HOF/TIC approval.
+entry_requirements: HOF/TIC approval. Must have passed 92047 Level 1 Physics
+  Course with achieved or higher grade
 year: "12"
 type: Subject Choice
 course_duration: Full Year
