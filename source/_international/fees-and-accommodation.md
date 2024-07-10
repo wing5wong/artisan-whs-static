@@ -6,21 +6,21 @@ date: 2022-12-13T19:57:01.552Z
 
 https://whanganuihigh.enrol.school.nz
 
-## Tuition Fee 2024:
+## Tuition Fee 2025:
 
-**Standard Year Course: NZ $15,000**
+**Standard Year Course: NZ $16,000**
 
-This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Two terms - $7,250; Three terms - $11,250.
+This course is normal starting course for international students, includes at least 4 academic classes, plus up to 2 classes of English a week. Three terms - $12,000; Two terms - $8,000; One term - $4,500
 
-**Short Course: NZ $450 per week**
+**Short Course: NZ $500 per week**
 
 One Term or less
 
 **Administration Fee :** 
 
-**NZ $1500 -** for long term students (over 6 months) 
+Standard Year Course: $1,800 
 
-**NZ $750 -** for short stay (6 months or less).
+Three terms - $1,500; Two terms - $1,000; One term or less - $750
 
 Includes:
 
@@ -28,7 +28,7 @@ Includes:
 * Meet and greet the student at Whanganui Airport
 * Setting up a bank account
 * Orientation programme
-* General administration
+* General administration and ongoing pastoral care
 
 **Insurance:**
 
@@ -38,11 +38,11 @@ Includes:
 
 **NZ $350 -** Travel and health insurance for 6 months (for students staying less than 6 months)
 
-All students must have full insurance (personal effects, health and accident insurance). We use and recommend [UNI-CARE](https://www.uni-care.org/). If providing your own insurance, please supply the school with a copy in English of your policy details, once purchased.
+All students must have full insurance (personal effects, health and accident insurance). Our preferred provider is [Student Safe](https://www.insurancesafenz.com/studentsafe). [](https://www.uni-care.org/)If providing your own insurance, please supply the school with a copy in English of your policy details, once purchased.
 
 ## **Accommodation Fee**
 
-**2024 Homestay Fees :** $290 per week.  This fee will increase to $300 per week from July 2024. 
+**2025 Homestay Fees :** $320 per week.  
 
 *The homestay fee covers the following:*
 
@@ -55,8 +55,9 @@ All students must have full insurance (personal effects, health and accident ins
 
 * School uniform (maximum of NZ $600)
 * Holidays away from the homestay, or holidays that involve extra expense for the homestay parents.
-* Personal spending (between NZ$50 and NZ$70 per week). Parents may pay personal funds to the school and the school will set up a bank account whereby a set amount will be automatically paid into the student's account each week.  
+* Personal spending (between NZ$60 and NZ$70 per week). Parents may pay personal funds to the school and the school will set up a bank account whereby a set amount will be automatically paid into the student's account each week.  
 * Toll calls 
+* Specialty foods
 
 **Refund of Homestay Fees:** *(Based on all homestay fees paid up front)*
 
