@@ -1,5 +1,5 @@
 ---
-title: "Future Focus Evening "
+title: Future Focus Evening / Parents information evening
 date: 2024-08-28T09:18:00.000Z
 ---
 Future Focus Evening / Parents information evening.  
