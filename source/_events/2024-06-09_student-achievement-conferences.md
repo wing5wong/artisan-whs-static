@@ -10,7 +10,7 @@ date: 2024-07-31T11:51:00.000Z
 Ms Rajneeta Devi (Teacher Code 'DR')  
 Ms Sharuna Devi (Teacher Code 'DES')
 
-Teachers unable to attend:  
+** Teachers unable to attend:  
 Ms Jo Ander (Psychology) and Mr Pete Coombs (Mathematics).
  
 
