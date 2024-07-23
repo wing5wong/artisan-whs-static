@@ -2,7 +2,7 @@
 title: Leaving Magazine -  July 2024 - (Study and Career Options for Year 12 - 13)
 date: 2024-07-23T13:26:00.000Z
 closing_date: ""
-file: ""
+file: https://oliverlee.co.nz/leavingschool-issue30/
 ---
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1721698052/Careers%20and%20Vocational/Leaving_School_-_Issue_30.jpg)
 
