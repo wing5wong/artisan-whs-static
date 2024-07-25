@@ -1,6 +1,6 @@
 ---
 title: "'Loves Me Not' Programme - Year 11"
-date: 2024-08-02T15:25:00.000Z
+date: 2024-08-02T03:25:00.000Z
 ---
 On Friday 2 August we are running the 'Loves Me Not' programme for all Year 11s (as per the email home at the end of last term with all the information).  
 
