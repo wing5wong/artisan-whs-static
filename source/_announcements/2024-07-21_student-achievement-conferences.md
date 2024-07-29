@@ -1,5 +1,6 @@
 ---
-title: Student Achievement Conferences - BOOKINGS CLOSE AT 5PM TONIGHT!
+title: Student Achievement Conferences - BOOKINGS CLOSE AT 5PM TONIGHT, Tuesday
+  30 July!
 is_emergency: false
 date: 2024-07-22T09:04:00.000Z
 subtitle: Wednesday 31 July and Thursday 1 August 2024
