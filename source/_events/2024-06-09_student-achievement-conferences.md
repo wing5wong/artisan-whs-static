@@ -1,5 +1,6 @@
 ---
-title: Student Achievement Conferences (students released 2pm)
+title: Student Achievement Conferences, Bookings CLOSE at 5pm tonight (students
+  released 2pm)
 date: 2024-07-31T11:51:00.000Z
 ---
 **When:** Wednesday 31 July and Thursday 1 August 2024  
@@ -22,6 +23,6 @@ Buses will run at their normal times and the Homework Centre will be open in the
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.
 
-**BOOKINGS CLOSE** at 5.00pm on Tuesday 30 July, the evening before the interviews.  
+**BOOKINGS CLOSE at 5.00pm on Tuesday 30 July**, the evening before the interviews.  
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
