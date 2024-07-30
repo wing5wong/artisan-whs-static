@@ -1,15 +1,10 @@
 ---
-title: Student Achievement Conferences, Bookings CLOSE at 5pm Tuesday 30 July
-  (students released 2pm)
+title: Student Achievement Conferences, Bookings CLOSED (students released 2pm)
 date: 2024-07-31T11:51:00.000Z
 ---
 **When:** Wednesday 31 July and Thursday 1 August 2024  
 **Times:** 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)  
 **Where:** Te Wehi and Te Mana Gymnasiums  
-
-**[CLICK HERE TO BOOK AN INTERVIEW](https://www.schoolinterviews.co.nz/)**
-[](https://www.schoolinterviews.co.nz/)  
-'Event Code' is needed from the Interim Report, emailed to you on 22 July .
 
 ** Please be mindful when choosing Mathematics if your child has Ms Devi as their teacher as there are two Ms Devi's in our Mathematics Department.  
 Ms Rajneeta Devi (Teacher Code 'DR')  
@@ -23,6 +18,6 @@ Buses will run at their normal times and the Homework Centre will be open in the
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.
 
-**BOOKINGS CLOSE at 5.00pm on Tuesday 30 July**, the evening before the interviews.  
+**BOOKINGS CLOSED at 5.00pm on Tuesday 30 July**, the evening before the interviews.  
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
