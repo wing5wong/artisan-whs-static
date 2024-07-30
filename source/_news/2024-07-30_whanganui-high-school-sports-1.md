@@ -4,6 +4,8 @@ feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1722379067/Pippa_McKee.jpg
 news_author:
   date: 2024-07-31T10:38:00.000Z
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1722380631/News/Pippa_McKee1.jpg
 show_in_slider: true
 date: 2024-07-31T10:38:00.000Z
 ---
