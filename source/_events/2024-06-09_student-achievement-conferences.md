@@ -6,10 +6,6 @@ date: 2024-07-31T11:51:00.000Z
 **Times:** 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)  
 **Where:** Te Wehi and Te Mana Gymnasiums  
 
-** Please be mindful when choosing Mathematics if your child has Ms Devi as their teacher as there are two Ms Devi's in our Mathematics Department.  
-Ms Rajneeta Devi (Teacher Code 'DR')  
-Ms Sharuna Devi (Teacher Code 'DES')
-
 ** Teachers unable to attend:  
 Ms Jo Ander (Psychology) and Mr Pete Coombs (Mathematics).
 
