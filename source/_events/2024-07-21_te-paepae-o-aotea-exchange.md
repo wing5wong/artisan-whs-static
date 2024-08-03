@@ -2,7 +2,8 @@
 title: Te Paepae O Aotea exchange
 date: 2024-08-06T09:07:00.000Z
 ---
-Te Pae Pae O Aotea arrive at WHS 9am.  
+9AM  
+Te Pae Pae O Aotea arrive at WHS  
 
 Hockey goes to Gonville Turf, Golf to Belmont Golf Course.  
 All other sports played at Whanganui High School. 
