@@ -1,6 +1,6 @@
 ---
 title: "University of Canterbury\t"
-date: 2024-08-20T23:24:00.000Z
+date: 2024-08-20T11:24:00.000Z
 ---
 A student Adviser from University of Canterbury will visit Whanganui High School on Tuesday 20 August, to assist students to plan their course for next year.  
 
