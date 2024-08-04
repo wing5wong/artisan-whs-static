@@ -11,6 +11,8 @@ Boys - Black long pants, white long sleeve shirt & tie or grey/black shorts with
 
 It is important our teams look uniformed for the photos.  
 
+Please be at your photo 5 minutes before, dressed and ready to go. 
+
 Thanks  
 
 *Mrs Murphy  
