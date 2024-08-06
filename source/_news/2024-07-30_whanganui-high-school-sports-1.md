@@ -25,7 +25,7 @@ Junior solo Dance 3rd
 
 Junior Couples (Partner Ben Shirley) 1st
 
-June 12-17 2024 World Skate Oceanis Continental Artistic Championships/Pacific Cup in New Plymouth. Where Pippa represented NZ. 6 Other countries were also competing.
+June 12-17 2024 World Skate Oceanis Continental Artistic Championships/Pacific Cup in New Plymouth. Where Pippa represented NZ. Six other countries were also competing.
 
 Junior Ladies Solo dance 7th
 
