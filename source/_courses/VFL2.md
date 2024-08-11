@@ -11,8 +11,7 @@ type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Unit Standard
-leads_to:
-  - VMA3
+leads_to: []
 standards:
   - "24695"
   - "28094"
