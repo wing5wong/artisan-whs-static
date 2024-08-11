@@ -1,6 +1,5 @@
 ---
-title: Wellington & Victoria University Open Day - Year 12/13. Permission slips
-  due back 15 August.
+title: Wellington & Vic Uni Open Day - Yr 12/13 (Perm slips due back 15 Aug)
 date: 2024-08-23T11:27:00.000Z
 ---
 This is on Friday 23 August. Includes Victoria University & Massey Wellington; and might include WelTec and NZ School of Tourism.  
