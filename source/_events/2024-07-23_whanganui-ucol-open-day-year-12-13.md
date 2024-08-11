@@ -1,5 +1,5 @@
 ---
-title: Whanganui UCOL Open Day - Year 12/13
+title: Whanganui UCOL Open Day - Yr 12/13
 date: 2024-08-14T11:34:00.000Z
 ---
 Whanganui UCOL is holding an Open Day on Wednesday 14 August.  
