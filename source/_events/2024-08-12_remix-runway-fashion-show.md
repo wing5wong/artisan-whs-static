@@ -1,9 +1,8 @@
 ---
 title: Remix Runway Fashion Show
 date: 2024-08-16T12:16:00.000Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1723422200/Events/Remix_Runway_Fashion_Show.pdf
-image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1723422200/Events/Remix_Runway_Fashion_Show.pdf
+image: ""
+image_gallery: []
 ---
 Greetings Whanganui High School
 
