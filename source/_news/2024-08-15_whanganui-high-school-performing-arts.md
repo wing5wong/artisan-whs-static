@@ -37,7 +37,7 @@ Well done WHS at the Dance NZ Made Regionals, taking out this HUGE list of prize
 
  1st  Place Senior Duo  , overall Duo and Trio Champion Emily Corcoran. Lucy Hook
 
- 2nd  Place Senior Duo  , 3rd overall duo Ella Riddell, Addison
+ 2nd  Place Senior Duo  , 3rd overall duo Ella Riddell, Addison O'Leary
 
  3rd  Place Senior Duo  Kennedy, Simira 
 
