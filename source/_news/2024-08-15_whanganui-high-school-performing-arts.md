@@ -39,9 +39,9 @@ Well done WHS at the Dance NZ Made Regionals, taking out this HUGE list of prize
 
  2nd  Place Senior Duo  , 3rd overall duo Ella Riddell, Addison O'Leary
 
- 3rd  Place Senior Duo  Kennedy, Simira 
+ 3rd  Place Senior Duo  Kennedy Tate, Simira Hague-Davis
 
- 1st  Place Open Duo & Second Overall  , 2nd overall duo Amaliah, Frances Cotter
+ 1st  Place Open Duo & Second Overall  , 2nd overall duo Amaliah Pohio, Frances Cotter
 
  2nd place senior group   - Black Car 2nd overall group
 
