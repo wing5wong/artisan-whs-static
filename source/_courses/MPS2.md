@@ -4,7 +4,7 @@ name: Probability & Statistics
 code: MPS2
 subject_area: Probability & Statistics
 date: 2024-06-20T13:41:00.000Z
-entry_requirements: Algebra parallel test and multivariate data and HOF/TIC approval.
+entry_requirements: Level One Numeracy or HOF/TIC approval.
 year: "12"
 type: Subject Choice
 course_duration: Full Year
@@ -27,3 +27,4 @@ course_fees: Students need a Graphics calculator for this course.
 endorsement: Yes
 ---
 This course will offer students the chance to develop an understanding in a wider range of statistical topics. This course is a prerequisite for the following NCEA Level 3 Mathematics Courses: MPS3, MTA3. Topics studied include: Probability, Simulations, Statistical Reports, Networks, Inferences and Statistical Experiments.
+This course cannot be taken with MAG2.
