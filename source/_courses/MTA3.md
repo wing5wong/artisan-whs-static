@@ -17,9 +17,8 @@ standards:
   - "91576"
   - "91577"
   - "91587"
-notes: " 1. Students need a graphics calculator for this course; 2. Students
-  wishing to do Scholarship Statistics are advised to take MPS3 and MTA3; 3. Students
-  wishing to do Scholarship Calculus must take MTA3 and MGC3."
+notes: " 1. Students need a graphics calculator for this course. 2. Students
+  wishing to do Scholarship Statistics are advised to take MPS3 and MTA3. 3. Students wishing to do Scholarship Calculus must take MTA3 and MGC3."
 course_fees: null
 ue_approved: true
 endorsement: Yes
