@@ -4,7 +4,7 @@ date: 2024-05-17T00:38:59.652Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
-    name: Mrs L. Murphy
+    name: Mrs Lisa Murphy
 extracurricular_area: Sport
 cost: There is a membership fee that students pay to the Aramoho club to cover
   equipment use. Approx $500.00.  Regatta fees are a separate cost to
