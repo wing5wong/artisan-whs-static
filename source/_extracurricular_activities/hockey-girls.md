@@ -4,7 +4,7 @@ date: 2024-05-17T00:36:18.375Z
 person_in_charge: Mr G. Hardy
 people:
   - role: Teacher in Charge
-    name: Mr G. Hardy
+    name: Mr Grant Hardy
 terms:
   - Term 2
   - Term 3
@@ -20,4 +20,4 @@ Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf i
 2nd XI - $150 approx (dependant on turf fees)  
 Please be aware that travel costs may be added on for the teams that are playing in Palmerston North. Uniform will be allocated once fees are paid
 
-**1st XI Coach:** Jacinta Manville
+**1st XI Coach:** Lucy Tui
