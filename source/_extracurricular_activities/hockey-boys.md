@@ -4,7 +4,7 @@ date: 2024-05-17T00:36:03.191Z
 person_in_charge: Mrs N. Campbell
 people:
   - role: Teacher in Charge
-    name: Mrs N. Campbell
+    name: Ms Natalie Harris
 terms:
   - Term 2
   - Term 3
