@@ -2,9 +2,7 @@
 title: Basketball - Boys
 date: 2024-05-13T03:41:03.929Z
 person_in_charge: Mrs L. Murphy
-people:
-  - role: Teacher in Charge
-    name: Miss L. Martin
+people: []
 terms:
   - Term 2
   - Term 3
@@ -17,6 +15,8 @@ This year our **Junior and Senior Boys** will be playing in the Competitive Leag
 
 **Social Teams** (both Snr & Jnr) play on Friday nights in the Whanganui Secondary School League.
 
-**Practices** will be confirmed by the coach.
+**Practices** will be confirmed by the coach.  
+
+**Coach**: Karney Herewini
 
 
