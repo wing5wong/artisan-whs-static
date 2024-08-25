@@ -4,7 +4,7 @@ date: 2024-05-13T03:55:08.203Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
-    name: Ms R. Kennedy
+    name: Ms Rebecca Kennedy
 terms:
   - Term 2
   - Term 3
@@ -15,4 +15,4 @@ cost: $120 season (approx). Tournament Week separate cost.
 
 **Training** is after school on WHS fields.
 
-**1st XI Coaches:** Warren Marr & Steve Kerfoot 
+**1st XI Coach:** 
