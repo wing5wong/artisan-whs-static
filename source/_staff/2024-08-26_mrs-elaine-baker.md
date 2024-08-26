@@ -1,7 +1,8 @@
 ---
 title: Mrs Elaine Baker
+position: Deans House
 departments:
-  - Deans
+  - Support and Ancillary
 on_leave: false
 house: Maunga
 ---
