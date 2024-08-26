@@ -1,6 +1,6 @@
 ---
 title: Mrs Pru McDonald
-position: Deans House
+position: Deans House (Monday to Wednesday)
 departments:
   - Support and Ancillary
 house: null
