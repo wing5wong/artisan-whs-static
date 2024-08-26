@@ -1,5 +1,5 @@
 ---
-title: Interschool NCEA Moderation (students released at 2pm)
+title: " Students released at 2pm due to Interschool NCEA Moderation"
 date: 2024-08-27T09:21:00.000Z
 ---
 Interschool NCEA Moderation.  
