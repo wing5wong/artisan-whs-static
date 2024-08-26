@@ -1,11 +1,11 @@
 ---
 title: Mrs Pru McDonald
-position: Deans House (Monday to Wednesday)
+position: "Deans House "
 departments:
   - Support and Ancillary
 house: null
 positions:
   - department: Support and Ancillary
-    title: "Deans House "
+    title: Deans House (Monday to Wednesday)
 phone: ""
 ---
