@@ -4,7 +4,7 @@ date: 2024-05-17T00:37:28.174Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
-    name: Mrs L. Murphy
+    name: Mrs Lisa Murphy
 uniform: |-
   PE top and a black skirt purchased from Andersons, 184 Victoria Avenue  
   Senior A1 will have a uniform supplied to them.

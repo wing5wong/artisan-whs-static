@@ -1,11 +1,11 @@
 ---
-title: Mrs Pru McDonald
+title: Mrs Elaine Baker
 position: "Deans House "
 departments:
   - Support and Ancillary
-house: null
+on_leave: false
+house: Maunga
 positions:
   - department: Support and Ancillary
-    title: Deans House (Monday to Wednesday)
-phone: ""
+    title: Deans House (Thursday & Friday)
 ---
