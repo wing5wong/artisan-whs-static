@@ -2,6 +2,9 @@
 title: CAA Literacy & Numeracy Exams, 16-18 September
 date: 2024-09-16T10:26:00.000Z
 ---
+CAA (Common Assessment Activity)  
+Literacy & Numeracy Examinations  
+
 This is happening in Week 9 this term.  
 
 Monday 16 September - Reading  
