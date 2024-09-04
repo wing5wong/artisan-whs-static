@@ -1,6 +1,6 @@
 ---
-title: Nominations for Student Representative on the Board, closes on 9
-  September at NOON
+title: Nominations for Student Representative on the Board closes on 9 September
+  at NOON
 date: 2024-09-09T06:43:00.000Z
 ---
 ALL - Nominations for Student Representative on the Board
