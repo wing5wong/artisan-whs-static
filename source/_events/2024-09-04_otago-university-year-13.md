@@ -1,5 +1,5 @@
 ---
-title: Otago University, Year 13
+title: Otago University, Year 13 (on-line course planning appointments)
 date: 2024-09-05T18:29:00.000Z
 ---
 Our student Adviser (Prajesh) from University of Otago is unable to visit Whanganui High School but would like to arrange on-line course planning appointments with interested students.  
