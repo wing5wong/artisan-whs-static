@@ -15,3 +15,10 @@ All students in Year 10, plus anyone in Year 11, Year 12 and Year 13 who have no
 Year 11 check you exam timetable for compulsory practice session during Week 8 school exams.
 
 See Mrs de Smidt urgently if you do not have a computer, if you have not yet logged in to your NCEA account or any other queries.
+
+**Practice sessions CAA during exam week**  
+If you have REV on your exam timetable for Tuesday, Wednesday or Thursday, that indicates you must come in for a revision session for CAA. This is not optional.  
+
+Bring a charged device to each session AND a calculator and the blue book to the NUMERACY.
+
+Please see Mrs de Smidt if you have queries.  
