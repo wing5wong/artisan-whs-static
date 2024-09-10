@@ -1,5 +1,5 @@
 ---
-title: Summer Sports Sign Ups, close Wednesday 11 September
+title: Summer Sports Sign Ups, CLOSE Wednesday 11 September
 date: 2024-09-11T08:04:00.000Z
 ---
 Please sign into your school google account to sign up to Summer Sports using the following link  
