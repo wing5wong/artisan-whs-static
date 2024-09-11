@@ -1,6 +1,6 @@
 ---
 title: Student Representative on the WHS Board
-date: 2024-09-12T06:43:00.000Z
+date: 2024-09-11T18:43:00.000Z
 ---
 One nomination was received for the Student Representative on the WHS Board. Therefore, an election is not required.  
 
