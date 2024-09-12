@@ -1,6 +1,6 @@
 ---
 title: WHS Senior Examinations
-date: 2024-09-12T09:23:00.000Z
+date: 2024-09-13T21:23:00.000Z
 ---
 **WHS Senior Examinations** 
 (Years 11, 12 and 13)  
