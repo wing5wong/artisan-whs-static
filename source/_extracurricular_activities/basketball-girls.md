@@ -2,7 +2,7 @@
 title: Basketball - Girls
 date: 2024-05-13T03:39:03.705Z
 people:
-  - name: Miss L. Martin
+  - name: Miss Lisa Martin
     role: Teacher in Charge
 terms:
   - Term 2
