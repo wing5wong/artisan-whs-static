@@ -4,7 +4,7 @@ date: 2024-05-13T03:53:16.616Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
-    name: Mrs L. Murphy
+    name: Mrs Lisa Murphy
 terms:
   - Term 2
   - Term 3
