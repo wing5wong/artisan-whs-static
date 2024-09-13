@@ -2,7 +2,9 @@
 title: Basketball - Boys
 date: 2024-05-13T03:41:03.929Z
 person_in_charge: Mrs L. Murphy
-people: []
+people:
+  - role: Teacher in Charge
+    name: Miss Lisa Martin
 terms:
   - Term 2
   - Term 3
