@@ -4,7 +4,7 @@ date: 2024-05-17T00:57:57.684Z
 person_in_charge: Mrs M. Bennetts
 people:
   - role: Teacher in Charge
-    name: Mrs L. Murphy
+    name: Mrs Lisa Murphy
 terms:
   - Term 1
   - Term 4
