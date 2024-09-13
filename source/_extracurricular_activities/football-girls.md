@@ -15,4 +15,4 @@ cost: $120 season (approx). Tournament Week separate cost.
 
 **Training** is after school on WHS fields.
 
-**1st XI Coach:** 
+**1st XI Coaches:** Warren Marr & Steve Kerfoot 
