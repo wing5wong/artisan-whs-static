@@ -4,7 +4,7 @@ date: 2024-05-13T03:45:17.608Z
 person_in_charge: Mr A. Lock
 people:
   - role: Teacher in Charge
-    name: Mrs L. Murphy
+    name: Mrs Lisa Murphy
 terms:
   - Term 4
   - Term 1
