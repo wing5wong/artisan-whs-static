@@ -4,7 +4,7 @@ title: Cricket - Girls
 date: 2024-05-13T03:42:52.673Z
 people:
   - role: Teacher in Charge
-    name: Mrs L. Murphy
+    name: Mrs Lisa Murphy
 terms:
   - Term 4
   - Term 1
