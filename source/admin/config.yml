@@ -87,7 +87,7 @@ collections:
     summary: "{{year}}-{{month}}-{{day}} | {{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", widget: "datetime", picker_utc: false }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
