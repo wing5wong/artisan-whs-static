@@ -4,7 +4,7 @@ date: 2024-05-17T00:43:51.242Z
 person_in_charge: Mr B. Parry
 people:
   - role: Teacher in Charge
-    name: Mrs L. Murphy
+    name: Mrs Lisa Murphy
 uniform: Students are supplied with a rugby jersey, shorts and socks for each game.
 extracurricular_area: Sport
 cost: ""
