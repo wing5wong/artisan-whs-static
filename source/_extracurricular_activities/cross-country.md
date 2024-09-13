@@ -4,7 +4,7 @@ date: 2024-05-13T03:47:09.116Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
-    name: Mrs L. Murphy
+    name: Mrs Lisa Murphy
 extracurricular_area: Sport
 cost: The school and interschool events incur no financial cost, just an
   investment in regular training.
