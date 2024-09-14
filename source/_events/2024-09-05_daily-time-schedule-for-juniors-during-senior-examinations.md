@@ -1,6 +1,6 @@
 ---
 title: Daily time schedule for Juniors during Senior examinations
-date: 2024-09-16T16:25:00.000Z
+date: 2024-09-16T04:25:00.000Z
 ---
 For the duration of the senior examinations the daily time schedule is changing to the following:  
 
