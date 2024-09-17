@@ -1,6 +1,7 @@
 ---
 title: Arts/Cultural Awards 2024
 date: 2024-09-25T09:45:00.000Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1726533707/Events/CULTURAL_AWARDS_POSTER_2024_copy_002.jpg
 ---
 ARTS/CULTURAL AWARDS 2024  
 Royal Whanganui Opera House  
