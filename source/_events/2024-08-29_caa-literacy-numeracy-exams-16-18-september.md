@@ -1,6 +1,6 @@
 ---
 title: CAA Literacy & Numeracy Exams, 16-18 September
-date: 2024-09-17T10:26:00.000Z
+date: 2024-09-18T10:26:00.000Z
 ---
 CAA (Common Assessment Activity)  
 Literacy & Numeracy Examinations  
