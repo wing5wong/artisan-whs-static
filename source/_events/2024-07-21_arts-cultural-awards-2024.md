@@ -13,5 +13,7 @@ From there, a short stroll over to the Royal Whanganui Opera House.
 
 Come and celebrate the incredible achievements of the talented and dedicated students from the Visual and Performing Arts Departments.  
 
-Tickets on sale exclusively at WHS Main Office - $13.00 
+Tickets on sale exclusively at WHS Main Office - $13.00  
+Last day to purchase is Wednesday 25/09/2024 -
+there will be NO door sales!
 
