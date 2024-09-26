@@ -12,13 +12,14 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 **Highlights for our Rockquest groups are:**
 
 * **2024**
-* Best Vocals - 'The Zanes'
-* Best Musicianship - Drummer 'Where's Charlie'  
+* Best Vocals - Sienna Burton-Waring of 'The Zanes'
+* Best Musicianship - Drummer, Charlie Waugh of 'Where's Charlie'  
 * Best Song - 'Out of Mind'  
-* Best Lyrics - 'Evermore'  
+* Best Lyrics - Milly Broughton (Title of song 'Evermore') of 'Punchlist'  
 * 2nd Place Regional Winners - 'Downsizing'
 * 3rd Place Regional Winners - 'Overwhelming'  
-* 2023 Regional Best Song Award - 'Too Much'
+* Solo/Duo top 10 National Finals selection - Sophie Toyne  
+* **2023** Regional Best Song Award - 'Too Much'
 * 2022 Regional Winners - 'The Picnic List'  
 * 2021 Regional Winners - 'The Amps'
 * 2020 Regional Winners - 'In Business'
