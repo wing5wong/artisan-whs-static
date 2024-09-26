@@ -5,7 +5,11 @@ people:
   - name: Ms Natalie Harris
     role: Teacher in Charge
 extracurricular_area: Performing Arts
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1567380275/Performing%20Arts/Stage_art.gif
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389251/Performing%20Arts/Showquest%202024/first_pic_2024.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389252/Performing%20Arts/Showquest%202024/2nd.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389249/Performing%20Arts/Showquest%202024/3rd.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389255/Performing%20Arts/Showquest%202024/20220616_140802.jpg
 ---
 Show Quest is a dance, drama and design spectacular where the students are the stars. It is part of a national event involving dance, design and drama reflecting the personalities, concerns, hopes, dreams and interests of students. Each performance runs between five and eight minutes and is set to a medley of published and recorded music tracks. It is where students work together with parents, teachers and their local community to create their performance. Hours of rehearsal and hard work result in a performance to thousands of audience members across New Zealand.
 
