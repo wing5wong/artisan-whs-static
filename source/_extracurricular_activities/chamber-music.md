@@ -1,6 +1,6 @@
 ---
 title: Chamber Music
-date: 2024-06-10T16:31:00.000Z
+date: 2024-09-27T11:55:00.000Z
 people:
   - name: Mrs Jeanette Jones
     role: Teacher in Charge
