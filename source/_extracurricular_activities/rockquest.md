@@ -5,7 +5,13 @@ people:
   - name: Mrs Jeanette Jones
     role: Teacher in Charge
 extracurricular_area: Performing Arts
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1623278708/Performing%20Arts/Rockquest_montage.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389242/Performing%20Arts/Rockquest%202024/downsizing.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389244/Performing%20Arts/Rockquest%202024/overwhelming.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389241/Performing%20Arts/Rockquest%202024/sienna_b.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389241/Performing%20Arts/Rockquest%202024/charlie_W.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389240/Performing%20Arts/Rockquest%202024/milly_Rose_B.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389244/Performing%20Arts/Rockquest%202024/sophie_T.jpg
 ---
 The Smokefreerockquest is an opportunity for students to participate in New Zealand's only nationwide, live, original music, youth event. The Rockquest aims to motivate young musicians to prove their ability and realise the heights they can reach in their music careers, and to encourage their peers to support 100% original New Zealand music. The categories you can enter in are either band or solo/duo acts.
 
