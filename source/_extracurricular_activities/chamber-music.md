@@ -19,6 +19,7 @@ KBB Music Awards - 'HAIR, AIR, and FLAIR'
 Most Promising Junior Group (years 7-10) - ‘Puffy Doritos’  
 
 * 2023  
+Highly Commended - 'Trio Espagnol'  
 Best Performance of a NZ Work - 'Mochi'  
 
 * 2022  
