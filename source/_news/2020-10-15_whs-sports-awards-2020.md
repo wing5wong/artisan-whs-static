@@ -24,8 +24,7 @@ image_gallery:
       Greg Fromont (Coach), Casie Glentworth and Charlotte Baker.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1602793073/News/Sports%20Awards%202020/121602245_1705814032901029_2669831197338692181_o.jpg
     description: Girls Sports Dux - Kara Adrole & Boys Sports Dux - Tyrese Herewini-Lama.
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2020-10-15T20:10:51.134Z
 ---
