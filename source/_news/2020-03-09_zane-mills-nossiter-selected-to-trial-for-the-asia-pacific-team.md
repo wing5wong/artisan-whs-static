@@ -1,14 +1,12 @@
 ---
 title: Zane Mills-Nossiter selected to trial for the Asia Pacific team
 feature_image:
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1583797322/News/Zane-Mills-Nossiter-selected-to-trial-for-the-Asia-Pacific-team-in-April.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583797322/News/Zane-Mills-Nossiter-selected-to-trial-for-the-Asia-Pacific-team-in-April.jpg
 news_author:
   date: 2020-03-08T23:41:09.667Z
-  name: 'Lisa Murphy '
+  name: "Lisa Murphy "
   publication: WHS Director of Sport
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2020-03-09T23:41:09.685Z
 ---
