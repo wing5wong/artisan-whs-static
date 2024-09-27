@@ -1,23 +1,17 @@
 ---
 title: Jack brings home two medals at the Age Group Track Cycling Nationals
 feature_image:
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1583798870/News/87493513_1508069289342172_4190945911100145664_n-_1.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583798870/News/87493513_1508069289342172_4190945911100145664_n-_1.jpg
 news_author:
   date: 2020-03-10T00:01:46.278Z
-  name: 'Lisa Murphy '
+  name: "Lisa Murphy "
   publication: WHS Director of Sport
 image_gallery:
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1583798893/News/89435177_1508069452675489_3040931876014391296_n.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1583798912/News/89638647_1508069382675496_5307117240275959808_n.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1583798933/News/89356794_1508069659342135_6415175410589368320_n.jpg
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1583798952/News/87684145_1508069549342146_5865661506439348224_n.jpg
-extracurricular_areas:
-  - Sport
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583798893/News/89435177_1508069452675489_3040931876014391296_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583798912/News/89638647_1508069382675496_5307117240275959808_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583798933/News/89356794_1508069659342135_6415175410589368320_n.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583798952/News/87684145_1508069549342146_5865661506439348224_n.jpg
+extracurricular_areas: []
 show_in_slider: true
 date: 2020-03-10T00:01:46.295Z
 ---
