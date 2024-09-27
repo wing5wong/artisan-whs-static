@@ -37,10 +37,8 @@ image_gallery:
     description: 1st Paris Munro - Senior Girls triple jump.
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616112724/News/y.Mason_henry_jnr_boy_high_jump_1st.jpg
     description: 1st Mason Henry - Junior Boys high jump.
-extracurricular_areas:
-  - Sport
-extracurricular_activities:
-  - Athletics
+extracurricular_areas: []
+extracurricular_activities: []
 show_in_slider: true
 date: 2021-03-18T21:01:41.916Z
 ---
