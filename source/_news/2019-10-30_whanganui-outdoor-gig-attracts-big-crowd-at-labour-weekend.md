@@ -2,31 +2,23 @@
 title: Whanganui outdoor gig attracts big crowd at Labour Weekend
 feature_image:
   credit: Lewis Gardner
-  description: >-
-    Rhythm Vision played their 'progressive rock' style to a relaxed crowd who
-    enjoyed a few drinks and some food on Sunday afternoon. 
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1572397542/News/Ocean_Loaf.jpg
+  description: "Rhythm Vision played their 'progressive rock' style to a relaxed
+    crowd who enjoyed a few drinks and some food on Sunday afternoon. "
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1572397542/News/Ocean_Loaf.jpg
 news_author:
   date: 2019-10-28T01:03:47.390Z
   name: Lucy Drake
   publication: Whanganui Chronicle
 image_gallery:
-  - description: >-
-      Rhythm Vision played to the crowd on Sunday afternoon. Photo / Lewis
-      Gardner
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1572397574/News/rhythm_vision.jpg
+  - description: Rhythm Vision played to the crowd on Sunday afternoon. Photo /
+      Lewis Gardner
+    image: https://res.cloudinary.com/whanganuihigh/image/upload/v1572397574/News/rhythm_vision.jpg
   - description: Ocean Loaf also played to the crowd on Sunday afternoon.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1571207878/News/72310487_2530533966985586_4739873698243149824_n.jpg
-  - description: >-
-      The weather turned it on for the Bring on Summer concert. Photo / Lewis
-      Gardner
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1572397587/News/crowd.jpg
-extracurricular_areas:
-  - Performing Arts
+    image: https://res.cloudinary.com/whanganuihigh/image/upload/v1571207878/News/72310487_2530533966985586_4739873698243149824_n.jpg
+  - description: The weather turned it on for the Bring on Summer concert. Photo /
+      Lewis Gardner
+    image: https://res.cloudinary.com/whanganuihigh/image/upload/v1572397587/News/crowd.jpg
+extracurricular_areas: []
 show_in_slider: true
 date: 2019-10-30T01:03:47.412Z
 ---
