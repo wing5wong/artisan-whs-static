@@ -9,10 +9,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616740038/News/Prefects%20Camp%202021/163416935_1839748042840960_4652066987910020861_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616740051/News/Prefects%20Camp%202021/163575842_1839748032840961_3277995437110702288_o.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616740068/News/Prefects%20Camp%202021/164495556_1839748062840958_6623781224746951974_o.jpg
-extracurricular_areas:
-  - Sport
-extracurricular_activities:
-  - Rugby
+extracurricular_areas: []
+extracurricular_activities: []
 show_in_slider: true
 date: 2021-03-26T06:22:27.278Z
 ---
