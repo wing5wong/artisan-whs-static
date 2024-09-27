@@ -10,8 +10,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614650406/News/starting.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614650420/News/Ethan_Bryers.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614650455/News/crowd_at_WHS_swimming.jpg
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2021-03-02T01:59:25.001Z
 ---
