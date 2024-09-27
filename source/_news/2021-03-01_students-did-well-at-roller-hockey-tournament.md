@@ -14,8 +14,7 @@ image_gallery:
     description: Wilson McKee (Y13)
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1614641040/News/154329295_1820293778119720_826793098641985678_n.jpg
     description: Connor Alderton (Y11)
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: false
 date: 2021-03-01T23:21:36.011Z
 ---
