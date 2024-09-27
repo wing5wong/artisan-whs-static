@@ -1,25 +1,20 @@
 ---
 title: Jimi Blinkhorne dominates again in Roller Hockey
 feature_image:
-  description: >-
-    Whanganui's Jimi Blinkhorne (back third from left) was again the Australia
-    Day Cup tournament MVP and star of the 2020 gold medal-winning Mordialloc
-    under-20 club side.
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1580775633/News/Jimi_Blinkhorne_Chron_29.1.20.jpg
+  description: Whanganui's Jimi Blinkhorne (back third from left) was again the
+    Australia Day Cup tournament MVP and star of the 2020 gold medal-winning
+    Mordialloc under-20 club side.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1580775633/News/Jimi_Blinkhorne_Chron_29.1.20.jpg
 news_author:
   date: 2020-01-29T00:18:14.937Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
 image_gallery:
-  - description: >-
-      The accolades continue to flow for Whanganui roller hockey star Jimi
-      Blinkhorne after he won the 2020 Australia Day Cup under-20 MVP and the
-      gold medal for his side's under-20 division win.
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1580775709/News/Jimi_Blinkhorne_trophies._Chron_29.1.20.jpg
-extracurricular_areas:
-  - Sport
+  - description: The accolades continue to flow for Whanganui roller hockey star
+      Jimi Blinkhorne after he won the 2020 Australia Day Cup under-20 MVP and
+      the gold medal for his side's under-20 division win.
+    image: https://res.cloudinary.com/whanganuihigh/image/upload/v1580775709/News/Jimi_Blinkhorne_trophies._Chron_29.1.20.jpg
+extracurricular_areas: []
 show_in_slider: true
 date: 2020-02-04T00:18:14.958Z
 ---
