@@ -11,8 +11,7 @@ news_author:
   date: 2021-02-24T05:14:36.492Z
   publication: Whanganui Midweek
   name: Paul Brooks
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 extracurricular_activities: []
 show_in_slider: false
 date: 2021-02-27T05:14:36.647Z
