@@ -1,15 +1,13 @@
 ---
 title: Ten medals for Whanganui at the Manawatu Long Course Open Champs
 feature_image:
-  description: 'Cheyenne Nightingale (left), Ethan Bryers and Lucy Somerville.'
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1583726031/all-three.jpg
+  description: Cheyenne Nightingale (left), Ethan Bryers and Lucy Somerville.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583726031/all-three.jpg
 news_author:
   date: 2020-03-07T02:25:46.979Z
   publication: Whanganui Chronicle
   name: Staff Reporter
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2020-03-09T02:25:46.994Z
 ---
