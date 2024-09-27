@@ -1,19 +1,15 @@
 ---
 title: Maggie Jones wins silver at the NZ Track & Field Champs 2020
 feature_image:
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1583796563/News/Maggie-Jones...-2nd-NZ-Track-_-Feild-Champs-in-CHCH.jpg
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583796563/News/Maggie-Jones...-2nd-NZ-Track-_-Feild-Champs-in-CHCH.jpg
 news_author:
   date: 2020-03-07T23:28:23.386Z
-  name: 'Lisa Murphy '
+  name: "Lisa Murphy "
   publication: WHS Director of Sport
 image_gallery:
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1583796580/News/Maggie_Jones._2nd_on_the_podium_NZ_Track_Feild_chch.jpg
-extracurricular_areas:
-  - Sport
-extracurricular_activities:
-  - Athletics
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583796580/News/Maggie_Jones._2nd_on_the_podium_NZ_Track_Feild_chch.jpg
+extracurricular_areas: []
+extracurricular_activities: []
 show_in_slider: true
 date: 2020-03-09T23:28:23.429Z
 ---
