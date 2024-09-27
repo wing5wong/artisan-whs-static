@@ -9,8 +9,7 @@ news_author:
   date: 2021-02-23T03:32:42.143Z
   name: Logan Tutty
   publication: Whanganui Chronicle
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 extracurricular_activities: []
 show_in_slider: true
 date: 2021-02-24T03:32:42.232Z
