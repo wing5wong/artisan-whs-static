@@ -5,8 +5,7 @@ feature_image:
   description: Tobias Perkins and Sophie Perkins
 news_author:
   date: 2021-06-14T22:23:51.037Z
-extracurricular_areas:
-  - Performing Arts
+extracurricular_areas: []
 show_in_slider: true
 date: 2021-06-14T22:23:51.068Z
 ---
