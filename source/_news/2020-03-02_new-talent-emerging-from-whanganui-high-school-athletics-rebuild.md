@@ -1,21 +1,17 @@
 ---
 title: New talent emerging from Whanganui High School athletics rebuild
 feature_image:
-  description: >-
-    Australian-bound Maggie Jones (black) and NZ Schools medallist Casie
-    Glentworth battle it out at the Whanganui High School in-house athletics
-    Championships at Cooks Gardens on Thursday.
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1583111072/News/Maggie_Jones_Casie_Glentworth_etc._Chron_27.2.20.jpg
+  description: Australian-bound Maggie Jones (black) and NZ Schools medallist
+    Casie Glentworth battle it out at the Whanganui High School in-house
+    athletics Championships at Cooks Gardens on Thursday.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1583111072/News/Maggie_Jones_Casie_Glentworth_etc._Chron_27.2.20.jpg
   credit: Supplied
 news_author:
   date: 2020-02-27T01:01:29.118Z
   publication: Whanganui Chronicle
   name: Iain Hyndman
-extracurricular_areas:
-  - Sport
-extracurricular_activities:
-  - Athletics
+extracurricular_areas: []
+extracurricular_activities: []
 show_in_slider: true
 date: 2020-03-02T01:01:29.140Z
 ---
