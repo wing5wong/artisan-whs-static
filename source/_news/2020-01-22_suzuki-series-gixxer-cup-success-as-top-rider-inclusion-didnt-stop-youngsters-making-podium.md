@@ -1,20 +1,16 @@
 ---
-title: >-
-  Suzuki Series: Gixxer Cup success as top rider inclusion didn't stop
-  youngsters making podium
+title: "Suzuki Series: Gixxer Cup success as top rider inclusion didn't stop
+  youngsters making podium"
 feature_image:
-  credit: 'Andy McGechan, BikesportNZ.com'
-  description: >-
-    Close racing like this was typical throughout 2019's Suzuki International
-    Series' Gixxer Cup class racing. 
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1579665303/News/Caleb_Gilmore._Chron_18.1.20.jpg
+  credit: Andy McGechan, BikesportNZ.com
+  description: "Close racing like this was typical throughout 2019's Suzuki
+    International Series' Gixxer Cup class racing. "
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1579665303/News/Caleb_Gilmore._Chron_18.1.20.jpg
 news_author:
   date: 2020-01-22T03:51:58.455Z
   name: Andy McGechan / Motorsport
   publication: Whanganui Chronicle
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2020-01-22T03:51:58.478Z
 ---
