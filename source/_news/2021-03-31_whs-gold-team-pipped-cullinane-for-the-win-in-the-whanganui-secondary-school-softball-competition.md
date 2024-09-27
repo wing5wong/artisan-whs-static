@@ -11,11 +11,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617164923/News/2.165664456_1843313849151046_6666663861121876258_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617164938/News/3.165146942_1843313872484377_6325144921399687488_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1617164953/News/4.165858816_1843313895817708_6340237426871735904_n.jpg
-extracurricular_areas:
-  - Sport
-extracurricular_activities:
-  - Softball - Boys
-  - Softball - Girls
+extracurricular_areas: []
+extracurricular_activities: []
 show_in_slider: false
 date: 2021-03-31T04:24:11.907Z
 ---
