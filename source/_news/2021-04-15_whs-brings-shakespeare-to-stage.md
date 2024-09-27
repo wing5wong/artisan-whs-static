@@ -12,8 +12,7 @@ image_gallery:
       McKenzie (front) & Kezia Pickering."
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618549306/News/1.Sheilah_Winn_Shakespeare_Festival_11_April_Fielding.jpg
     description: "'As You Like It’ - Maddy McKenzie (left) & Toni Adams."
-extracurricular_areas:
-  - Performing Arts
+extracurricular_areas: []
 show_in_slider: false
 date: 2021-04-15T02:19:10.969Z
 ---
