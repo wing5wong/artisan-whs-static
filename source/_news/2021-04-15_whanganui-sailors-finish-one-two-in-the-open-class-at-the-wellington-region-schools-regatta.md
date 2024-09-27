@@ -15,8 +15,7 @@ image_gallery:
       supplied.
     image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618526502/News/Eddie_Dewhirst_and_Caleb_Squire_no_2.WN_Schools_Regatta.Chron_16.4.21.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618554810/News/Eddie_Dewhirst_and_Caleb_Squire_no_1c.WN_Schools_Regatta.Chron_16.4.21.jpg
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2021-04-15T22:38:45.759Z
 ---
