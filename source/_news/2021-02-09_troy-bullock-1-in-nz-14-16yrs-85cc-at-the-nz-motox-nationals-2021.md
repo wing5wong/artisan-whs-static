@@ -5,8 +5,7 @@ feature_image:
   description: Troy Bullock in action.
 news_author:
   date: 2021-02-09T00:42:54.759Z
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2021-02-09T00:42:54.818Z
 ---
