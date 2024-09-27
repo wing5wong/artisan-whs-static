@@ -25,8 +25,7 @@ image_gallery:
     description: Arlo Johnston
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616712236/News/MTB%20Nth%20Island%20Champs%202021/Arlo_3rd.jpg
     description: Arlo Johnston (left) on the podium - 3rd U17 Downhill event.
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2021-03-25T21:44:23.442Z
 ---
