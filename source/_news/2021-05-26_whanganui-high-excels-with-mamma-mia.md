@@ -7,10 +7,8 @@ news_author:
   date: 2021-05-26T03:51:17.705Z
   publication: Whanganui Midweek
   name: Paul Brooks
-faculties:
-  - The Arts
-extracurricular_areas:
-  - Performing Arts
+faculties: []
+extracurricular_areas: []
 show_in_slider: true
 date: 2021-05-26T03:51:17.757Z
 ---
