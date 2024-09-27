@@ -1,19 +1,14 @@
 ---
-title: 'Alyssa Hartley wins medal from Trinity College, London for exams results'
+title: Alyssa Hartley wins medal from Trinity College, London for exams results
 feature_image:
-  credit: ''
-  description: 'Alyssa Hartley '
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1581317699/News/Alyssa_Hartley._RCP_5.2.20.jpg
+  credit: ""
+  description: "Alyssa Hartley "
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1581317699/News/Alyssa_Hartley._RCP_5.2.20.jpg
 news_author:
   date: 2020-02-05T06:50:01.325Z
   publication: River City Press
-subject_areas:
-  - Dance
-  - Drama
-  - Music
-extracurricular_areas:
-  - Performing Arts
+subject_areas: []
+extracurricular_areas: []
 show_in_slider: true
 date: 2020-02-10T06:50:01.342Z
 ---
