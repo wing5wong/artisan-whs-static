@@ -1,24 +1,20 @@
 ---
-title: >-
-  Motorsport: Whanganui's Seth Reardon a top contender as cross-country series
-  begins in Marton
+title: "Motorsport: Whanganui's Seth Reardon a top contender as cross-country
+  series begins in Marton"
 feature_image:
-  credit: 'Andy McGechan, BikesportNZ.com'
-  description: >-
-    Whanganui's Seth Reardon (Yamaha) hopes to finish one placing higher in the
-    cross-country national series, which starts in Marton on Sunday.
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1581904490/News/Seth_Reardon.._Chron_11.2.20.jpg
+  credit: Andy McGechan, BikesportNZ.com
+  description: Whanganui's Seth Reardon (Yamaha) hopes to finish one placing
+    higher in the cross-country national series, which starts in Marton on
+    Sunday.
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1581904490/News/Seth_Reardon.._Chron_11.2.20.jpg
 news_author:
   date: 2020-02-11T01:52:58.188Z
   name: Andy McGechan / Motorsport
   publication: Whanganui Chronicle
 image_gallery:
-  - description: 'Seth in action.  Photo / Andy McGechan, BikesportNZ.com'
-    image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1581904516/News/Seth_Reardon._Chron_11.2.20.jpg
-extracurricular_areas:
-  - Sport
+  - description: Seth in action.  Photo / Andy McGechan, BikesportNZ.com
+    image: https://res.cloudinary.com/whanganuihigh/image/upload/v1581904516/News/Seth_Reardon._Chron_11.2.20.jpg
+extracurricular_areas: []
 show_in_slider: false
 date: 2020-02-17T01:52:58.204Z
 ---
