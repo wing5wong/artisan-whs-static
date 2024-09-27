@@ -6,8 +6,7 @@ news_author:
   date: 2021-06-21T01:51:11.682Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624240339/News/Saffron_pic_1.jpg
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2021-06-21T01:51:11.708Z
 ---
