@@ -11,8 +11,7 @@ image_gallery:
     description: Photo / Photo Photography
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1616621015/News/Lauren_Phillips_received_737899806879950.jpg
     description: Photo / Photo Photography
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 show_in_slider: true
 date: 2021-03-24T21:21:52.473Z
 ---
