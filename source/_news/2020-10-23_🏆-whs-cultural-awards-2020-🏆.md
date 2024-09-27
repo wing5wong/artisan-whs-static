@@ -13,8 +13,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603417533/News/Cultural%20Awards%202020/5.Outstanding-Leadership---Abby-Squire.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603417531/News/Cultural%20Awards%202020/6.Outstanding-Contribution---Abby-Squire.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1603417533/News/Cultural%20Awards%202020/7.Co-curricular-involvement---Abby-Squire.jpg
-faculties:
-  - The Arts
+faculties: []
 extracurricular_areas: []
 show_in_slider: true
 date: 2020-10-23T01:42:09.075Z
