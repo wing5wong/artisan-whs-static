@@ -6,8 +6,7 @@ feature_image:
 news_author:
   date: 2021-04-29T04:26:24.093Z
   publication: River City Press
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 extracurricular_activities: []
 show_in_slider: true
 date: 2021-05-02T04:26:24.200Z
