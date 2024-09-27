@@ -9,8 +9,7 @@ news_author:
   date: 2021-03-04T00:36:08.908Z
   name: Iain Hyndman
   publication: Whanganui Chronicle
-extracurricular_areas:
-  - Sport
+extracurricular_areas: []
 extracurricular_activities: []
 show_in_slider: true
 date: 2021-03-05T00:36:38.371Z
