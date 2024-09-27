@@ -45,10 +45,8 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280530/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/35.171670905_1852978924851205_1597925923982219123_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280530/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/36.173211612_1852978301517934_2623066458215104060_n.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1618280531/News/NISS%20Athletics%20Champs%202021%20in%20Hamilton%2010-11%20April/37.171897725_1852978214851276_3500381159956855838_n.jpg
-extracurricular_areas:
-  - Sport
-extracurricular_activities:
-  - Athletics
+extracurricular_areas: []
+extracurricular_activities: []
 show_in_slider: true
 date: 2021-04-12T23:58:14.829Z
 ---
