@@ -1,5 +1,5 @@
 ---
-title: Year 13 Prizegiving & Graduation Breakfast
+title: Year 13 Graduation Breakfast & Prizegiving
 date: 2024-10-29T10:20:00.000Z
 ---
 Graduation Breakfast 7.45am – Eulogy Lounge at the Whanganui Racecourse (tbc).  
