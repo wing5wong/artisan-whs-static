@@ -2,7 +2,7 @@
 title: Year 12 Prizegiving
 date: 2024-10-30T10:23:00.000Z
 ---
-Prizegiving at 1.30pm in the School Hall.  
+**Year 12 Prizegiving at 1.30pm in the School Hall.**  
 Prizegiving finishes by 3.05pm.  
 Students are expected to attend these end of year awards.  
 Final reports will be issued and sent to families via email.  
