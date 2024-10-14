@@ -1,6 +1,6 @@
 ---
 title: 2025 Production 'Chicago' - AUDITIONS, Year 9-12
-date: 2024-10-14T10:50:00.000Z
+date: 2024-10-18T11:50:00.000Z
 ---
 **YR 9-12 - Chicago - AUDITIONS**  
 **Calling all our young talented performers...**  
