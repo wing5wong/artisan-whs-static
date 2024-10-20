@@ -4,7 +4,6 @@ date: 2024-01-04T21:25:28.707Z
 ---
 **Students should be at school by 8:45am**  
 **Whanganui High School expects students to be punctual**
----
 
 **Monday to Thursday**
 
