@@ -1,7 +1,7 @@
 ---
-title: River City Press Newsletter
-date: 2024-10-29T13:26:00.000Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1730161547/newsletters/OCTOBER_2024_rivercity_pressweb.pdf
+title: School Newsletters
+date: 2021-03-03T01:05:49.304Z
+image: ""
 extends: _layouts.newsletters
 ---
 
