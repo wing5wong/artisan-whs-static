@@ -4,7 +4,7 @@ date: 2024-11-07T11:34:00.000Z
 ---
 **Tough Teens** is on Thursday 7 November.  
 
-**All Year 9's and 10's will be going.**  
+**All Year 9's and 10's will be attending.**  
 Come to school for Period 1, formtime and Period 2.  
 Eat lunch then meet on the field in your houses by 11:30am.  
 
