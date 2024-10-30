@@ -1,6 +1,6 @@
 ---
 title: Tough Teens - Year 9 & 10
-date: 2024-11-07T15:34:00.000Z
+date: 2024-11-07T11:34:00.000Z
 ---
 **Tough Teens** is on Thursday 7 November.  
 
