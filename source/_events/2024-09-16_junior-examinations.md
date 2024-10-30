@@ -16,8 +16,8 @@ Please go to the following page on the student pages website to view your exam r
 
 <https://sites.google.com/wanganuihigh.school.nz/whs-student-pages/junior-exams-2024>
 
-You will do 2 exams on Monday - Your 2 full year core subjects (Year 9 - Science and English & Year 10 - Maths and Social Studies)\
-AND\
+You will do 2 exams on Monday - Your 2 full year core subjects (Year 9 - Science and English & Year 10 - Maths and Social Studies)  
+AND  
 English and Maths e-asTTle on Tuesday Morning
 
 If you are unsure as to which class you are in please ask your teacher.
