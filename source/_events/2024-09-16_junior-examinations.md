@@ -2,7 +2,8 @@
 title: Junior Examinations
 date: 2024-11-04T10:35:00.000Z
 ---
-**The Junior examinations will be held on Monday 4 November.** 
+**The Junior examinations will be held on Monday 4 November.**  
+**English and Maths e-asTTle on Tuesday Morning.** 
 
 These examinations are run for;  
 **Year 9 - English and Science**  
