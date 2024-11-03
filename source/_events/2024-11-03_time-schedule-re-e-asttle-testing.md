@@ -1,5 +1,5 @@
 ---
-title: Time Schedule re e-asTTle Testing
+title: Time Schedule for Tuesday re e-asTTle Testing
 date: 2024-11-05T09:44:00.000Z
 ---
 Time Schedule for Tuesday re e-asTTle Testing:  
