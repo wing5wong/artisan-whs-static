@@ -10,6 +10,11 @@ Eat lunch then meet on the field in your houses by 11:30am.
 
 We will then all walk to Cooks Gardens.  
 Students to come to school already in PE gear.  
-Bring a change of clothes if you don't want to go home wet.
+Bring a change of clothes if you don't want to go home wet.  
 
-If you would like to be one of the 10 (per race) competitive entrants at Tough Teens, please come see Miss Madams in the Te Wehi gym office.
+At the conclusion of the event, students can go straight home and bus students can walk to City College and take the bus from there.
+
+If you would like to be one of the 10 (per race) competitive entrants at Tough Teens, please come see Miss Madams in the Te Wehi gym office.  
+
+
+
