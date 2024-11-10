@@ -1,5 +1,5 @@
 ---
-title: Whanganui High School Sports
+title: Whanganui High School Sports Tough Teen
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1731024215/News/TT21.jpg
 news_author:
