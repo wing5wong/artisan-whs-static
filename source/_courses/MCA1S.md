@@ -1,5 +1,5 @@
 ---
-title: MCA1S
+title: MCA1
 maori_title: MCA2/MCS2
 name: "Cambridge Extended Mathematics "
 code: MCA1S
