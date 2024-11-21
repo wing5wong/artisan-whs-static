@@ -5,7 +5,7 @@ image: ""
 description: |
   Wooden lockers in B, F and G block available for student use.
 ---
-**Wooden Lockers** **(B, F and G Block)**
+**Wooden Lockers** **(B Block)**
 
 Wooden lockers are free to use, you need to supply your own padlock AND fill in a form for the Student Centre, with the number of the locker you have choosen.
 
