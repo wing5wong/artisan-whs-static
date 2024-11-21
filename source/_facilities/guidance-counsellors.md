@@ -1,15 +1,14 @@
 ---
 title: Guidance Counsellor
 date: 2019-06-26T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1569537262/facilities/School_counsellors.jpg
+image: ""
 description: >
-  We have two guidance counsellors; Terry Tubman and Jacqui McKenzie. You will
+  We have two guidance counsellors; Jacqui McKenzie and Wendy Stanaway. You will
   find their offices at the Student Centre. All appointments with clients are
   confidential. The only exceptions occur when there is imminent danger to the
   client or others.
 ---
-We have two guidance counsellors; Terry Tubman and Jacqui McKenzie. You will find their offices at the Student Centre. 
+We have two guidance counsellors; Jacqui McKenzie and Wendy Stanaway. You will find their offices at the Student Centre. 
 
 All appointments with clients are **confidential**. The only exceptions occur when there is imminent danger to the client or others.
 
@@ -39,8 +38,9 @@ Remember _“No matter what you do or say to me, I am a worthwhile person”_
 
 Via Google Bitly   [_bit.ly/whssupport_](https://docs.google.com/a/whs.ac.nz/forms/d/e/1FAIpQLSduRy6DICWnxTdY3sVIbvitPqVeOsQ9u5mktL3EIiOjkyVJaw/viewform?c=0&w=1)__
 
-OR make an appointment at the Student Centre
+OR make an appointment at the **Student Centre**
 
 OR Googlebookmark: whscounselorbooking
 
-OR Email tubman.t@whs.ac.nz  / mckenzie.j@whs.ac.nz
+OR Email  
+mckenzie.j@whs.ac.nz / stanaway.w@whs.ac.nz
