@@ -3,12 +3,11 @@ title: Houses
 date: 2023-03-14T00:00:00.000Z
 tags:
   - About WHS
-image: ''
-intro: >-
-  Read information about our House System, History, Creation of the Whanganui
-  River Story and view current House Points.
+image: ""
+intro: Read information about our House System, History, Creation of the
+  Whanganui River Story and view current House Points.
 button_text: Read About Our House System
-visible: 'Yes'
+visible: Yes
 ---
 ## House Names
 
@@ -18,7 +17,7 @@ The houses of Whanganui High School are:
 
 The houses originate from a well-known whakataukī proverb:
 
-> _E rere kau mai te awa nui, Mai te i kāhui maunga ki Tangaroa, Ko au te awa, Ko te awa ko au._\
+> _E rere kau mai te awa nui, Mai te i kāhui maunga ki Tangaroa, Ko au te awa, Ko te awa ko au._  
 > The river flows from the mountain to the sea. I am the river, the river is me.
 
 ![](https://res.cloudinary.com/whanganuihigh/image/upload/v1566338716/Houses/Collage_Athletics_Day_2019_without_water_mark_resize_2.jpg)
