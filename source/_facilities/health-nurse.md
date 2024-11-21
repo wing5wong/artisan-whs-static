@@ -1,7 +1,7 @@
 ---
 title: Health Nurses
 date: 2019-06-26T21:56:17.468Z
-image: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1732223805/Events/Nurses_2024.jpg
 description: >
   The public health nurses for our school are Jo Anne, Anna, Chrystal and Kelli
   Ann.
