@@ -4,10 +4,9 @@ date: 2019-06-26T21:56:17.468Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600673/facilities/Gym_-_combined.jpg
 description: >
   Whanganui High School has three gymnasiums plus a weights/fitness area. The
-  biggest gym is the Te Wehi Gymnasium, which was built approximately 15 years
-  ago. It has a full size netball and basketball court in it. The Te Mana
-  Gymnasium has a full-size basketball and volleyball court, whilst our smaller
-  Gymnasium – the Te Ihi has a half court.
+  biggest gym is the Te Wehi Gymnasium. It has a full size netball and
+  basketball court in it. The Te Mana Gymnasium has a full-size basketball and
+  volleyball court, whilst our smaller Gymnasium – the Te Ihi has a half court.
 ---
 Whanganui High School has three gymnasiums plus a weights/fitness area. The biggest gym is the Te Wehi Gymnasium. It has a full size netball and basketball court in it. The Te Mana Gymnasium has a full-size basketball and volleyball court, whilst our smaller Gymnasium – the Te Ihi has a half court.
 
