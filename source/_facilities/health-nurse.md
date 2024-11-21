@@ -1,11 +1,12 @@
 ---
 title: Health Nurses
 date: 2019-06-26T21:56:17.468Z
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1613964293/facilities/health_nurses.jpg
-description: |
-  The public health nurses for our school are Jo Anne and Deborah.
+image: ""
+description: >
+  The public health nurses for our school are Jo Anne, Anna, Chrystal and Kelli
+  Ann.
 ---
-The public health nurses for our school are Jo Anne and Deborah. They visit our school every day during the school term.
+The public health nurses for our school are Jo Anne, Anna, Chrystal and Kelli Ann. 
 
 **Clinic days are:**
 
