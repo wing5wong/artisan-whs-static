@@ -9,9 +9,7 @@ The public health nurses for our school are Jo Anne and Deborah. They visit our 
 
 **Clinic days are:**
 
-Monday to Thursday - 9.00am to 2.30pm
-
-Friday - 9.00am to 2.00pm
+Monday, Wednesday, Friday - 9.00am to 2.00pm
 
 **They can help with:**
 
