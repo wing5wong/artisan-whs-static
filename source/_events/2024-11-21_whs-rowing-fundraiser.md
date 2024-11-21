@@ -13,7 +13,7 @@ The prizes will be drawn and winners notified on December 2nd.
 If a winner cannot be contacted within 48 hours, then a re-draw for that prize will occur. 
 
 
-**Rules and Conditions** 
+**Rules and Conditions**  
 1. The Grocery Grab will take place at Pak n Save Wanganui, 167 Glasgow St, Whanganui on Sunday 8th December at 8.30am. Both winners of the prizes must arrive at 8.15am for a briefing and welcome. 
 2. If a winner is unable to attend for any reason, they are permitted to appoint someone else to take their place, and they must notify Whanganui High School Rowing Committee Member Lisa Murphy (0276669884) of the change 24 hours prior to the event. Failure to do so may result in the forfeiture of the prize. Each participant must notify Pak n Save Wanganui of any special needs or requirements he/she has that may impact on the participant undertaking the Grocery Grab e.g. whether wheelchair access or a support person is required. 
 3. Winners will toss a coin to who goes first and second and must follow a pre-determined map/direction as set out by Pak n Save Wanganui management. Due to the supermarket being open for general customers at the same time, the map/directions must be followed to minimise disturbance to other shoppers. 
