@@ -1,6 +1,6 @@
 ---
 title: Fees and Accommodation
-date: 2022-12-13T19:57:01.552Z
+date: 2024-11-25T10:59:00.000Z
 ---
 *The tuition fee covers four or part terms from the starting date for the student. Included in the school fee are the cost of class fees, textbooks, the international student photo, the yearbook and the orientation course at the start. All prices are in New Zealand dollars. You can apply online here:*
 
