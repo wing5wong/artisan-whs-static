@@ -1,6 +1,6 @@
 ---
 title: "WHS Rowing Fundraiser "
-date: 2024-11-25T08:00:00.000Z
+date: 2024-11-26T08:00:00.000Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1732220699/Events/whs_rowing_fundraiser_2024.png
 ---
 **Whanganui High School Rowing/Pak n Save Grab Prizes**
