@@ -1,6 +1,6 @@
 ---
 title: BYOT
-date: 2020-05-29T02:23:57.661Z
+date: 2024-11-25T13:51:00.000Z
 ---
 ## Bring Your Own Technology
 
