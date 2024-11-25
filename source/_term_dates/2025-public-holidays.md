@@ -5,11 +5,11 @@ start_dates:
   - date: 2025-02-06T08:00:00.000Z
     body: Waitangi Day
   - date: 2025-04-18T08:00:00.000Z
-    body: Good Friday
+    body: Good Friday (within school holidays)
   - date: 2025-04-21T08:00:00.000Z
-    body: Easter Monday
+    body: Easter Monday (within school holidays)
   - date: 2025-04-25T08:00:00.000Z
-    body: Anzac Day
+    body: Anzac Day (within school holidays)
   - date: 2025-06-02T08:00:00.000Z
     body: KING's Birthday
   - date: 2025-06-20T08:00:00.000Z
