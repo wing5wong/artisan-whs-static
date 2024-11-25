@@ -1,6 +1,6 @@
 ---
 title: 2025 Public Holidays
-date: 2024-11-25T13:09:00.000Z
+date: 2024-11-25T16:14:00.000Z
 start_dates:
   - date: 2025-02-06T08:00:00.000Z
     body: Waitangi Day
