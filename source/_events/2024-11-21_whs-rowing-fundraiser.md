@@ -1,5 +1,5 @@
 ---
-title: "WHS Rowing Fundraiser "
+title: WHS Rowing Fundraiser, closing 29 November
 date: 2024-11-26T08:00:00.000Z
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1732220699/Events/whs_rowing_fundraiser_2024.png
 ---
