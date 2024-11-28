@@ -1,6 +1,6 @@
 ---
 title: NCEA Examinations
-date: 2024-11-28T08:00:00.000Z
+date: 2024-11-29T08:00:00.000Z
 ---
 NCEA examinations started on Tuesday 5 November and conclude on Friday 29 November.  
 
