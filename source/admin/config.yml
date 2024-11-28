@@ -110,7 +110,7 @@ collections:
     summary: "{{month}} {{year}} | {{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
