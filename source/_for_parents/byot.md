@@ -20,6 +20,6 @@ For the purposes of BYOT, the ‘T’ stands for any technology that is a privat
 
 To help parents make decisions about what technology is needed the School has set minimum specifications.
 
-[Download the full BYOT Information booklet](https://res.cloudinary.com/whanganuihigh/image/upload/v1590705838/BYOT/BYOT_E-Life_Booklet_2020.pdf)
+[Download the full BYOT Information booklet](https://res.cloudinary.com/whanganuihigh/image/upload/v1732760907/BYOT/BYOT_E-Life_Booklet.pdf)
 
 *[BYOT Information video for Whanganui High School new students](https://www.youtube.com/watch?v=mrATcj0ViTs)*
