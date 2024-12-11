@@ -1,5 +1,5 @@
 ---
-title: Student Leadership PD day for Prefects
-date: 2025-01-21T08:00:00.000Z
+title: Teacher Only Day
+date: 2025-01-24T08:59:00.000Z
 ---
-In the School Library, 9am - 3pm.
+Teacher Only Day, Friday 24 January.
