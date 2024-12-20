@@ -1,6 +1,6 @@
 ---
 title: School Policies
-date: 2023-03-01T20:42:15.476Z
+date: 2024-12-21T11:50:00.000Z
 intro: Our school Strategic Plan & Annual Implementation Plan is updated on an
   annual basis & school policies on a yearly or three yearly cycle. Including
   curriculum, review & planning, good employer, finance & property; health,
