@@ -11,5 +11,7 @@ positions:
     title: Dean of Academia
   - department: Social Sciences
     title: Head of History + Psychology
+  - title: Administration - Principal's Nominee
+    department: Support and Ancillary
 email: desmidt.j@whs.ac.nz
 ---
