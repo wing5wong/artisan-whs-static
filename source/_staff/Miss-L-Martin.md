@@ -1,14 +1,13 @@
 ---
 title: Miss Lisa Martin
-position: Dean of Whenua House, HOF Physical Education & Health
+position: ""
 departments:
-  - Deans
   - Physical Education and Health
+  - Senior Leadership Team
 house: Whenua
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1736717583/staff/Lisa_Martin.jpg
 positions:
-  - department: Deans
-    title: Dean of Whenua House
-  - department: Physical Education and Health
-    title: HOF Physical Education and Health
+  - title: Deputy Principal
+    department: Senior Leadership Team
 email: martin.l@whs.ac.nz
 ---
