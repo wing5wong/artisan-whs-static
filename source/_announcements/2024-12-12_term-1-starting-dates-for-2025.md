@@ -3,7 +3,7 @@ title: Term 1 starting dates for 2025
 is_emergency: false
 date: 2024-12-12T18:35:00.000Z
 ---
-**Monday 27 January, 2025**  
+### Monday 27 January, 2025  
 **Year 9 & 13 & all new students of other year groups**  
 
 9.00am  
@@ -27,7 +27,7 @@ Student, staff and Whanau sausage sizzle
 
 End of school day
 
-**Tuesday 28 January, 2025**  
+### Tuesday 28 January, 2025
 **Year 12**  
 
 8.50 – 9.50am  
@@ -49,7 +49,7 @@ Year 12 students go to Hall with teachers of Y12 subjects for period 1 Tuesday. 
 
 2.10 - 3.05pm Period 5
 
-**Wednesday 29 January, 2025**  
+### Wednesday 29 January, 2025  
 **Year 11**  
 
 8.50 – 9.50am  
@@ -73,7 +73,7 @@ Year 11 students go to Hall with teachers of Y11 subjects for period 1 Wednesday
 
 2.10 - 3.05pm Period 5
 
-**Thursday 30 January, 2025**  
+### Thursday 30 January, 2025  
 **Year 10**  
 
 8.50 – 9.50am  
