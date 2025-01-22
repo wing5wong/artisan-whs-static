@@ -11,9 +11,7 @@ Period 1 for Years 9, 12 & 13
 
 9.50am - 10.05am Form Time
 
-10.05am – 10.35am Period 2
-
-10.05am Year 9 Assembly – Hall (Junior Diploma)
+10.05am – 10.35am Period 2 (Year 9 Assembly – Hall)
 
 11.05am - 11.50am Morning break
 
