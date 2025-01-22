@@ -45,7 +45,7 @@ Timetables/orientation for Y9.
 2.10pm - 3.05pm Period 5
 
 ### Wednesday 29 January, 2025  
-**Year 11**  
+**Year 11 starting day**  
 
 8.50am – 9.50am  
 Period 1 for Years 9, 12 & 13
