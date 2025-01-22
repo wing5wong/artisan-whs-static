@@ -6,13 +6,11 @@ date: 2024-12-12T18:35:00.000Z
 ### Monday 27 January, 2025  
 **Year 9 & 13 & all new students of other year groups**  
 
-9.00am  
-Powhiri - Staff and Year 13 student leaders welcoming new staff, Year 9 and other students new to the school.
+9.00am Powhiri - Staff and Year 13 student leaders welcoming new staff, Year 9 and other students new to the school.
 
 Morning Break at conclusion of powhiri.
 
-10.30am (approx)  
-Organisation into Houses and then into form classes. Taken to form rooms.
+10.30am (approx) Organisation into Houses and then into form classes. Taken to Form rooms.
 
 11.30am – 12.00pm Lunch
 
