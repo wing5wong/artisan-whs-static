@@ -23,7 +23,7 @@ Morning Break at conclusion of powhiri.
 End of school day
 
 ### Tuesday 28 January, 2025
-**Year 12**  
+**Year 12 starting day**  
 
 8.50am – 9.50am  
 Form class for Years 9 & 13.  
