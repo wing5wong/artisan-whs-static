@@ -67,7 +67,7 @@ Period 1 for Years 9, 12 & 13
 2.10pm - 3.05pm Period 5
 
 ### Thursday 30 January, 2025  
-**Year 10**  
+**Year 10 starting day**  
 
 8.50am – 9.50am  
 Period 1 for Years 9, 11, 12 & 13
