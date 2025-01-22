@@ -4,7 +4,7 @@ date: 2025-01-28T08:00:00.000Z
 ---
 Term 1 begins, Tuesday 28 January - **Year 12**
 
-8.50am – 9.50am
+8.50am – 9.50am  
 Form class for Years 9 & 13.
 Timetables/orientation for Y9.
 
