@@ -12,16 +12,12 @@ Morning Break at conclusion of powhiri.
 10.30am (approx)  
 Organisation into Houses and then into form classes. Taken to form rooms.
 
-11.30 – 12.00pm  
-Lunch
+11.30am – 12.00pm Lunch
 
-12.00 – 12.10pm  
-In form rooms – leave bags
+12.00pm – 12.10pm In form rooms, leave bags
 
-12.10 – 2.50pm  
-Activities in House groups
+12.10pm – 2.50pm Activities in House groups
 
-2.50pm  
-Student, staff and Whanau sausage sizzle
+2.50pm Student, Staff and Whanau sausage sizzle
 
 End of school day
