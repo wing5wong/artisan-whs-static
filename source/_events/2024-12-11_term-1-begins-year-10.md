@@ -4,8 +4,7 @@ date: 2025-01-30T08:00:00.000Z
 ---
 Term 1 begins, Thursday 30 January - **Year 10**
 
-8.50am – 9.50am
-Period 1 for Years 9, 11, 12 & 13
+8.50am – 9.50am Period 1 for Years 9, 11, 12 & 13
 
 **Year 10 students** go to Hall with teachers of Y10 subjects for period 1.
 
