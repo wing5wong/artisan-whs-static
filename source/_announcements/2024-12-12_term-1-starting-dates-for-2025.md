@@ -25,9 +25,7 @@ End of school day
 ### Tuesday 28 January, 2025
 **Year 12 starting day**  
 
-8.50am – 9.50am  
-Form class for Years 9 & 13.  
-Timetables/orientation for Y9.
+8.50am – 9.50am Form class for Years 9 & 13. Timetables/orientation for Y9.
 
 **Year 12 students** go to Hall with teachers of Y12 subjects for period 1. 
 
@@ -46,8 +44,7 @@ Timetables/orientation for Y9.
 ### Wednesday 29 January, 2025  
 **Year 11 starting day**  
 
-8.50am – 9.50am  
-Period 1 for Years 9, 12 & 13
+8.50am – 9.50am Period 1 for Years 9, 12 & 13
 
 **Year 11 students** go to Hall with teachers of Y11 subjects for period 1. 
 
@@ -68,8 +65,7 @@ Period 1 for Years 9, 12 & 13
 ### Thursday 30 January, 2025  
 **Year 10 starting day**  
 
-8.50am – 9.50am  
-Period 1 for Years 9, 11, 12 & 13
+8.50am – 9.50am Period 1 for Years 9, 11, 12 & 13
 
 **Year 10 students** go to Hall with teachers of Y10 subjects for period 1. 
 
