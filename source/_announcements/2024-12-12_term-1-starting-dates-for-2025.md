@@ -6,11 +6,11 @@ date: 2024-12-12T18:35:00.000Z
 ### Monday 27 January, 2025  
 **Year 9 & 13 & all new students of other year groups**  
 
-9.00am Powhiri - Staff and Year 13 student leaders welcoming new staff, Year 9 and other students new to the school.
+9.00am Powhiri (please arrive between 8.30 am and 8.50 am) - Staff and Year 13 student leaders welcoming new staff, Year 9 and other students new to the school.
 
 Morning Break at conclusion of powhiri.
 
-10.30am (approx) Organisation into Houses and then into form classes. Taken to Form rooms.
+10.30am Organisation into Houses and then into form classes. Taken to Form rooms.
 
 11.30am – 12.00pm Lunch
 
@@ -29,8 +29,7 @@ End of school day
 Form class for Years 9 & 13.  
 Timetables/orientation for Y9.
 
-**Year 12 students** go to Hall with teachers of Y12 subjects for period 1. Organisation, timetables, new pupils etc then released to period 1 classes.
-
+**Year 12 students** go to Hall with teachers of Y12 subjects for period 1. 
 
 9.50am – 10.50am Period 2
 
@@ -50,7 +49,7 @@ Timetables/orientation for Y9.
 8.50am – 9.50am  
 Period 1 for Years 9, 12 & 13
 
-**Year 11 students** go to Hall with teachers of Y11 subjects for period 1. Organisation, timetables, NCEA new pupils etc then released to period 1 classes.
+**Year 11 students** go to Hall with teachers of Y11 subjects for period 1. 
 
 9.50am - 10.05am Form Time
 
@@ -72,8 +71,7 @@ Period 1 for Years 9, 12 & 13
 8.50am – 9.50am  
 Period 1 for Years 9, 11, 12 & 13
 
-**Year 10 students** go to Hall with teachers of Y10 subjects for period 1. Organisation, timetables, new pupils etc then released to period 1 classes.
-
+**Year 10 students** go to Hall with teachers of Y10 subjects for period 1. 
 
 9.50am - 10.05am Form Time
 
@@ -90,4 +88,4 @@ Period 1 for Years 9, 11, 12 & 13
 2.10pm - 3.05pm Period 5  
 
 ### Friday 31 January, 2025  
-**Normal school day**
+**Normal Timetabled classes all day**
