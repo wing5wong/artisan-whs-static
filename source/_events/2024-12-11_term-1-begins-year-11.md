@@ -7,7 +7,7 @@ Term 1 begins, Wednesday 29 January - **Year 11**
 8.50am – 9.50am
 Period 1 for Years 9, 12 & 13
 
-**Year 11 students** go to Hall with teachers of Y11 subjects for period 1. Organisation, timetables, NCEA new pupils etc then released to period 1 classes.
+**Year 11 students** go to Hall with teachers of Y11 subjects for period 1. 
 
 9.50am - 10.05am Form Time
 
