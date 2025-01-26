@@ -4,7 +4,7 @@ position: Dean of Moana House
 departments:
   - Social Sciences
   - Deans
-on_leave: true
+on_leave: false
 house: Moana
 positions:
   - department: Deans
