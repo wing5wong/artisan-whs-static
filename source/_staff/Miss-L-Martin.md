@@ -1,6 +1,6 @@
 ---
 title: Miss Lisa Martin
-position: ""
+position: Deputy Principal
 departments:
   - Physical Education and Health
   - Senior Leadership Team
