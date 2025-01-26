@@ -1,12 +1,11 @@
 ---
 title: Mrs Lisa Burgess
-position: Dean of Moana House
+position: HOF English
 departments:
   - English
-  - Deans
 house: Whenua
 positions:
-  - department: Deans
-    title: Dean of Moana House
+  - department: English
+    title: HOF English
 email: burgess.l@whs.ac.nz
 ---
