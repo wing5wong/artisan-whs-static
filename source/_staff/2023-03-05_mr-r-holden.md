@@ -1,5 +1,6 @@
 ---
 title: Mr Ryan Holden
+position: Dean of Maunga House
 departments:
   - Physical Education and Health
   - Deans
