@@ -10,7 +10,7 @@ uniform: |+
   Senior A1 will have a uniform supplied to them.
 
 extracurricular_area: Sport
-cost: "Approx $100 per player - must be paid before May.   Senior A1 fees are
+cost: "$100 (approx) per player - must be paid before May.   Senior A1 fees are
   different to this. "
 ---
 **Grades are:** Juniors Girls (Year 9 & 10), Seniors Girls (Year 11-13) & Mixed (Year 9-13).
