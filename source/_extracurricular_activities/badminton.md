@@ -9,7 +9,7 @@ terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: "Approx $10 (WHS).  Approx $20 (Interschool).  Separate charge for
+cost: "$10 (approx) - WHS.   $20 (approx) - Interschool.  Separate charge for
   Tournaments and Exchanges. Shuttles are provided.   Please bring your own
   racket. "
 blocks: []
