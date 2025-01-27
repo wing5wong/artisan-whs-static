@@ -33,6 +33,8 @@ Thursday afterschool for all until 4:30pm and..
 Saturday mornings 9:30am at Cooks Garden or other venues.  
 There is an entry level and performance group to suit age and experience.  
 
-**Contact:** Mrs L Murphy for details or behind the gym on training days @ 3.15pm. 
+**Contact:** Mrs L Murphy for details or behind the gym on training days @ 3.15pm.  
+
+**Teacher in charge:** Mrs Lisa Murphy (murphy.l@whs.ac.nz) 
 
 **Coaches:** Greg Fromont & Elaine Baker
