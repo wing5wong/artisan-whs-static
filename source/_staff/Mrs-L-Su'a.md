@@ -2,10 +2,10 @@
 title: Mrs Lee Su'a
 position: ""
 departments:
-  - International
+  - Languages
 house: Moana
 positions:
   - title: Head of International English / ESOL
-    department: International
+    department: Languages
 email: sua.l@whs.ac.nz
 ---
