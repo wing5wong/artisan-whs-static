@@ -15,8 +15,6 @@ extracurricular_area: Sport
 Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week, with the 1st XI Boys & Girls teams travelling to play in the Palmerston North League. 
 
 
-Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week, with the 1st XI Boys & Girls teams travelling to play in the Palmerston North League.
-
 **Practices** are at Whanganui High School or at the Gonville Hockey Turf after school/evening.
 
 **Cost:**  
