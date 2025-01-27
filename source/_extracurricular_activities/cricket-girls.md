@@ -1,10 +1,8 @@
 ---
 person_in_charge: Mr A. Lock
 title: Cricket - Girls
-date: 2024-05-13T03:42:52.673Z
-people:
-  - role: Teacher in Charge
-    name: Mrs Lisa Murphy
+date: 2025-01-27T13:59:00.000Z
+people: []
 terms:
   - Term 4
   - Term 1
@@ -21,4 +19,6 @@ No experience is necessary to start playing, just a good attitude and a willingn
 **Training** is after school for one hour.  
 **Played** on Wednesday (tbc).
 
-**1st XI Coach:** Gabrielle McKenzie
+**Teachers in charge:**  Ms Rebecca Kennedy & Mr Graham Hall.
+
+**1st XI Coach:** Ms Gabrielle McKenzie
