@@ -7,5 +7,5 @@ on_leave: false
 house: Maunga
 positions:
   - department: Support and Ancillary
-    title: Deans House (Thursday & Friday)
+    title: Deans House (Thursday & Friday) & Relief
 ---
