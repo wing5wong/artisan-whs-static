@@ -6,7 +6,7 @@ people:
   - role: Teacher in Charge
     name: Mrs Lisa Murphy
 extracurricular_area: Sport
-cost: "WHS Cross Country – No charge.   WSS Cross Country – approx. $15-$20. "
+cost: WHS Cross Country, no charge.   WSS Cross Country, $15-$20 (approx)
 ---
 **Structure**  
 As well as our annual Cross Country Champs, Whanganui High School students compete and train through the school.  We have a year-round programme with emphasis on Cross Country and Conditioning during winter and Athletics in summer.  The Cross Country programme caters for winter sports players.
