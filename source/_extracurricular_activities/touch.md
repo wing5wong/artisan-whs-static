@@ -9,6 +9,7 @@ uniform: WHS PE top and black shorts.
 extracurricular_area: Sport
 cost: Determined by competition entry either in Term 1 or 4.
 ---
-There are trials for a Girls, Boys or Mixed team.  You will need to keep an eye on the school daily notices for when they will happen. 
+There are trials for a Girls, Boys or Mixed team.  You will need to keep an eye on the school daily notices for when they will happen. 
 
 We also enter teams in Term 1 for the Whanganui Secondary School League.
+
