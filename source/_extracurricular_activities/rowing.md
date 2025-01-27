@@ -1,6 +1,6 @@
 ---
 title: Rowing
-date: 2025-01-27T14:39:00.000Z
+date: 2025-01-27T14:42:00.000Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
