@@ -9,7 +9,7 @@ terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: $55 for Fridays; $30 for Warm-Up shirt (optional)
+cost: Approx $55 for Fridays; $30 for Warm-Up shirt (optional)
 ---
 **Played** on Friday evenings at Springvale Stadium 4:00pm – 8:30pm. 
 
