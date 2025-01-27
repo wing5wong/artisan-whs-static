@@ -17,7 +17,7 @@ cost: ""
 Our students play in a mixed Inter-School Slow pitch competition at the Whanganui Softball Park Monday afternoons. 
 
 The Whanganui Softball Association run an U17 Fast pitch competition also on Mondays at 5:45pm.  Please contact the WSA to join one of those teams or see Miss Madams for more information.  
-This competition is approx. $10 per term.
+This competition is approx $10 per term.
 
 
 **Training** days are Monday before the game 4.00pm, followed by the game at 4.30pm.  
