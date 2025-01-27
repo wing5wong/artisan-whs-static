@@ -1,11 +1,11 @@
 ---
 title: Rugby
-date: 2024-05-17T00:43:51.242Z
+date: 2025-01-27T14:43:00.000Z
 person_in_charge: Mr B. Parry
 people:
   - role: Teacher in Charge
     name: Mrs Lisa Murphy
-uniform: Students are supplied with a rugby jersey, shorts and socks for each game.
+uniform: Students are supplied with a Rugby jersey and shorts for each game.
 extracurricular_area: Sport
 cost: ""
 ---
@@ -16,11 +16,14 @@ Please note that Wanganui RFU rules state that students are not permitted to pla
 **Trainings** will be confirmed once teams are sorted.
 
 **Costs:**  
-U15 - Fees Approx $165 – Playing in Manawatu  
-U16 - Fee Approx $180 – Playing in Manawatu  
-1st XV Fee Approx $165 – Playing in Manawatu  
+U15 - Fee Approx $195 (including rugby socks) – Playing in Manawatu Competition  
+U16 - Fee Approx $195 (incl rugby socks) – Playing in Manawatu Competition                    
+1st XV Fee Approx $195 (incl rugby socks) – Playing in Manawatu Competition  
+Girls 1st XV – Fee Approx $195 (incl rugby socks) - Play in Whanganui Competition 
+                     Term 2 & 3.  Play in Manawatu competition Term 3. 
 
-NB: Fees need to be paid prior to the start of the regular season. No pay no play.
 
-**1st XV Head Coach:** Mike Lama  
-**Girls Rugby Coach:** Rob Roy 
+NB: At print time of this booklet, confirmation on where these competitions will be played is not available.  The above fees will be less than half if playing in Whanganui only.        
+
+**1st XV Head Coach:** TBC  
+**Girls Rugby Coach:** TBC 
