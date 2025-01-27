@@ -9,8 +9,9 @@ terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: "$10 (WHS).  $20 (Interschool).  Separate charge for Tournaments and
-  Exchanges. Shuttles are provided.   Please bring your own racket. "
+cost: "Approx $10 (WHS).  Approx $20 (Interschool).  Separate charge for
+  Tournaments and Exchanges. Shuttles are provided.   Please bring your own
+  racket. "
 blocks: []
 ---
 Badminton is held in Term 2 and 3, Fridays after school in the Te Wehi and Te Mana 
