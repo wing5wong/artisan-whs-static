@@ -5,7 +5,8 @@ person_in_charge: Mrs L. Murphy
 people: []
 extracurricular_area: Sport
 category: School Sports
-cost: $45 per student for membership to Athletics Wanganui for club competitions.
+cost: Approx $45 per student for membership to Athletics Wanganui for club
+  competitions.
 ---
   
 **Background**  
