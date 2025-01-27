@@ -1,6 +1,6 @@
 ---
 title: Basketball - Boys
-date: 2024-05-13T03:41:03.929Z
+date: 2025-01-27T13:57:00.000Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
@@ -9,7 +9,7 @@ terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: $55 for Fridays; $25 for Warm-Up shirt (optional)
+cost: $55 for Fridays; $30 for Warm-Up shirt (optional)
 ---
 **Played** on Friday evenings at Springvale Stadium 4:00pm – 8:30pm. 
 
@@ -19,6 +19,4 @@ This year our **Junior and Senior Boys** will be playing in the Competitive Leag
 
 **Practices** will be confirmed by the coach.  
 
-**Coach**: Karney Herewini
-
-
+**Coach:** Miss Lisa Martin
