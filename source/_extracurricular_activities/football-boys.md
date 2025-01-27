@@ -1,22 +1,22 @@
 ---
 title: Football - Boys
-date: 2024-05-13T03:53:16.616Z
+date: 2025-01-27T14:12:00.000Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
-    name: Mrs Lisa Murphy
+    name: Mr Ryan Holden
 terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: Tournament Week and Interschool cost only.
+cost: Approx $120.00 season (separate charges for exchanges and Tournament Week)
 ---
-Interschool and Tournament Week games will be played by 1st XI Boys.
+1st XI play in the Manawatu Secondary School League on Wednesdays in Terms 2 & 3, Sports Exchanges and Tournament Week.  
+All other players participate through the local Football clubs.
 
 
 
-There will be occasional interschool games during Terms 2 & 3.
 
 **Training** is after school on WHS fields.
 
-**1st XI Coaches:** Ryan Holden & Steve Meredith  
+**1st XI Coaches:** Mr Ryan Holden & Mr Steve Meredith  
