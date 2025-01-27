@@ -8,7 +8,8 @@ people:
 terms:
   - Term 2
   - Term 3
-uniform: "**Equipment:** Must have own stick, shin pads and mouthguard."
+uniform: "**Equipment:** Must have own stick, shin pads and mouthguard.  Socks
+  can be purchased from the Te Wehi gym office - $15."
 extracurricular_area: Sport
 ---
 Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week, with the 1st XI Boys & Girls teams travelling to play in the Palmerston North League.
