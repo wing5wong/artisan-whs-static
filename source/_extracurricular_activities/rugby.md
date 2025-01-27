@@ -20,10 +20,10 @@ U15 - Fee Approx $195 (including rugby socks) – Playing in Manawatu Competitio
 U16 - Fee Approx $195 (incl rugby socks) – Playing in Manawatu Competition                    
 1st XV Fee Approx $195 (incl rugby socks) – Playing in Manawatu Competition  
 Girls 1st XV – Fee Approx $195 (incl rugby socks) - Play in Whanganui Competition 
-                     Term 2 & 3.  Play in Manawatu competition Term 3. 
+                     Term 2 & 3.  Play in Manawatu competition Term 3.  
 
-
-NB: At print time of this booklet, confirmation on where these competitions will be played is not available.  The above fees will be less than half if playing in Whanganui only.        
+NB: Fees need to be paid prior to the start of the regular season. No pay no play.  
+At print time of this booklet, confirmation on where these competitions will be played is not available.  The above fees will be less than half if playing in Whanganui only.        
 
 **1st XV Head Coach:** TBC  
 **Girls Rugby Coach:** TBC 
