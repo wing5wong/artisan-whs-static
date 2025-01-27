@@ -1,6 +1,6 @@
 ---
 title: Sport
-date: 2024-05-14T08:11:15.451Z
+date: 2025-01-27T13:30:00.000Z
 person_in_charge: []
 ---
 Whanganui High School offers a wide range of sports to our students.
