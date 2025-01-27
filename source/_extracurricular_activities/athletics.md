@@ -37,4 +37,4 @@ There is an entry level and performance group to suit age and experience.
 
 **Teacher in charge:** Mrs Lisa Murphy (murphy.l@whs.ac.nz) 
 
-**Coaches:** Greg Fromont & Elaine Baker
+**Coaches:** Mr Greg Fromont & Mrs Elaine Baker
