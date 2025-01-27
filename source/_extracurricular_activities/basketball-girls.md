@@ -1,6 +1,6 @@
 ---
 title: Basketball - Girls
-date: 2024-05-13T03:39:03.705Z
+date: 2025-01-27T13:55:00.000Z
 people:
   - name: Miss Lisa Martin
     role: Teacher in Charge
@@ -8,7 +8,7 @@ terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: $55 for Fridays; $25 for Warm-up shirt (optional)
+cost: $55 for Fridays; $30 for Warm-up shirt (optional)
 ---
 **Played** on Friday evenings at Springvale Stadium between 4:00pm - 8:30pm
 
