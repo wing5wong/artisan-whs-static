@@ -1,6 +1,6 @@
 ---
 title: Football - Girls
-date: 2024-05-13T03:55:08.203Z
+date: 2025-01-27T14:17:00.000Z
 person_in_charge: Mrs L. Murphy
 people:
   - role: Teacher in Charge
@@ -9,10 +9,13 @@ terms:
   - Term 2
   - Term 3
 extracurricular_area: Sport
-cost: $120 season (approx). Tournament Week separate cost.
+cost: Approx $120.00 season (separate charges for exchanges and Tournament Week)
 ---
-1st XI play in the Manawatu Secondary Schools League on Wednesdays in Term 2 & 3.
+1st XI play in the Manawatu Secondary Schools League on Wednesdays in Terms 2 & 3, Sports Exchanges and Tournament Week.  
+
+All other players participate through the local Football clubs.
+
 
 **Training** is after school on WHS fields.
 
-**1st XI Coach:** Alison Cotter
+**1st XI Coaches:** Mrs Allison Cotter & Mr Steve Kerfoot
