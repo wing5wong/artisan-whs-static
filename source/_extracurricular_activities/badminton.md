@@ -20,8 +20,7 @@ There will also be a Secondary Interschool     competition, usually in Term 3 on
 
 **Tournaments this year:**  
 **Juniors** - Central 6 competition (Term 3, 5 August).  
-**Top Team** (year 9-13)  
-**Winter Tournament Week** (Term 3 – Week 7)  
+**Winter Tournament Week** - Top Teams, year 9-13. (Term 3 – Week 7).  
 
 
 
