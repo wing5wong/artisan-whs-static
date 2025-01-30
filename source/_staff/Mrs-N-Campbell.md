@@ -7,9 +7,7 @@ departments:
 house: Awa
 positions:
   - department: The Arts
-    title: HOF Performing & Visual Arts
-  - title: Head of Dance
-    department: The Arts
+    title: HOF Performing & Visual Arts, Head of Dance
   - department: Deans
     title: Dean of Awa House
 phone: null
