@@ -9,5 +9,7 @@ house: Maunga
 positions:
   - title: Dean of Maunga House
     department: Deans
+  - title: Head of Junior Physical Education
+    department: Physical Education and Health
 email: holden.r@whs.ac.nz
 ---
