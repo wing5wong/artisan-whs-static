@@ -6,8 +6,6 @@ departments:
 house: Maunga
 positions:
   - department: Vocational Studies
-    title: Head of Vocational Studies
-  - department: Vocational Studies
-    title: External Education Co-ordinator
+    title: Head of Vocational Studies, External Education Co-ordinator
 email: marr.w@whs.ac.nz
 ---
