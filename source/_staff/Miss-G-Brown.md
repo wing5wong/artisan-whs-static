@@ -3,11 +3,8 @@ title: Miss Grace Brown
 position: ""
 departments:
   - Social Sciences
-  - Progressive
-on_leave: false
+on_leave: true
 house: Whenua
-positions:
-  - department: Progressive
-    title: Communication Skills / Life Skills
+positions: []
 email: brown.g@whs.ac.nz
 ---
