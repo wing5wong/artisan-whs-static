@@ -10,9 +10,9 @@ intro: In Health and Physical Education, students learn about their own
   well-being, and that of others and society, in health-related and movement
   contexts.
 hofs:
-  - Miss Lisa Martin
-ahofs:
   - Mr Joshua Barnett
+ahofs:
+  - Mr Kent Rivers
 vocational_pathways:
   - service
   - creative
@@ -44,7 +44,8 @@ _**Year 11:**_
 
 * Physical Education (PED1) 
 * Health (HLT1) 
-* Outdoor Adventure Skills (OAS1) 
+* Outdoor Adventure Skills (OAS1) 
+
 
 **_Year 12:_** 
 
@@ -53,7 +54,8 @@ _**Year 11:**_
 * Physical Education (PED2)  
 * Health (HLT2) 
 * Outdoor Education (OUT2) 
-* Sport & Exercise (SPX2) 
+* Sport & Exercise (SPX2) 
+
 
 _**Year 13:**_ 
 
