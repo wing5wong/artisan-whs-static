@@ -5,8 +5,8 @@ departments:
   - Physical Education and Health
 house: Moana
 positions:
-  - title: Head of Level 2 Physical Education and Health / Head of Junior Physical
-      Education
+  - title: Assistant HOF Physical Education and Health, Head of Level 3 Physical
+      Education and Health
     department: Physical Education and Health
 email: rivers.k@whs.ac.nz
 ---
