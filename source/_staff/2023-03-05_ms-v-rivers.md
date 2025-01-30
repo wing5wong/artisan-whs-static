@@ -1,5 +1,6 @@
 ---
 title: Ms Victoria Rivers
+position: Head of Senior Health
 departments:
   - The Arts
   - Physical Education and Health
