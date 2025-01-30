@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561592420/faculti
 intro: In English, students study, use and enjoy language and literature
   communicated orally, visually or in writing.
 hofs:
-  - Mrs Vicki Kasner
+  - Mrs Lisa Burgess
 ahofs: []
 vocational_pathways:
   - service
