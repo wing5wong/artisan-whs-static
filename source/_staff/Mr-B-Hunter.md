@@ -5,9 +5,7 @@ departments:
   - Social Sciences
 house: Whenua
 positions:
-  - title: HOF Social Sciences
+  - title: HOF Social Sciences, Head of Geography
     department: Social Sciences
-  - department: Social Sciences
-    title: Head of Geography
 email: hunter.b@whs.ac.nz
 ---
