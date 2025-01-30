@@ -2,6 +2,7 @@
 title: Miss Lisa Martin
 position: Deputy Principal
 departments:
+  - Deputy Principal
   - Physical Education and Health
   - Senior Leadership Team
 house: Whenua
