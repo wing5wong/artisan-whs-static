@@ -1,6 +1,6 @@
 ---
 title: Mr Joshua Barnett
-position: ""
+position: HOF Physical Education and Health, Head of Outdoor Education
 departments:
   - Physical Education and Health
 house: Maunga
