@@ -10,5 +10,5 @@ Sign ups close Friday 7 February.
 
 [Bit.ly/whssportsT12025summer ](https://docs.google.com/forms/d/130ZiGQCkohXHsEHB9P49Xlx22kJ8bxsi_r5SaYujaPw/viewform?edit_requested=true)
 
-*Lisa Murphy\
+*Lisa Murphy  
 Director of Sport*
