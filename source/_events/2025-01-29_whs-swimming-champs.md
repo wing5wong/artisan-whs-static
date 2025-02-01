@@ -10,3 +10,7 @@ Please copy and paste the Bitly and sign up for the events you wish to do. You M
 Any queries please come and see Mrs Murphy in the Te Wehi Sports Office.
 
 [bit.ly/whsswim25](https://docs.google.com/forms/d/1Czkl9O9AVS3KGdlkZtGGnIFG-7LUoXD-HrHVPcvbDSs/viewform?edit_requested=true)
+
+*Lisa Murphy  
+Director of Sport*
+
