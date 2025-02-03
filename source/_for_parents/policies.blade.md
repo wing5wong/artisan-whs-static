@@ -7,6 +7,11 @@ intro: Our school Strategic Plan & Annual Implementation Plan is updated on an
   safety & well-being and admin.
 extends: _layouts.policies-and-charter
 ---
+## School Policies
+
+Our policies are now hosted on [SchoolDocs](https://whanganuihigh.schooldocs.co.nz/).  
+- **Username:** whs
+- **Password:** life
 
 ## School Representatives
 
