@@ -1,6 +1,6 @@
 ---
 title: Community
 category: Prefects
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718329520/prefects/Ryan_and_mak.jpg
+image: ""
 ---
-Ryan Henare and Makenna Siedenburg
+Quinn Hutchings and Raajay Reddy
