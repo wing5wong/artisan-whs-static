@@ -9,7 +9,8 @@ extends: _layouts.policies-and-charter
 ---
 ## School Policies
 
-Our policies are now hosted on [SchoolDocs](https://whanganuihigh.schooldocs.co.nz/).  
+Our policies are now hosted on [SchoolDocs](https://whanganuihigh.schooldocs.co.nz/).
+
 * **Username:** whs
 * **Password:** life
 
