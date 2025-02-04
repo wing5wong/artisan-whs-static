@@ -5,19 +5,4 @@
 
     @yield('postContent')
 
-    <div class="row mb-5">
-        <div class="col">
-            <table class="table table-striped table-borderless table-hover">
-                @foreach ($pagination->items as $event)
-                    <tr>
-                        <td>{{ $event->title }}</td>
-                        <td>{{ date('l, j F, Y', $event->date) }}</td>
-                        <td><a href="{{ $event->getPath() }}">Read More</a></td>
-                    </tr>
-                @endforeach
-            </table>
-        </div>
-    </div>
-
-
 @endsection
