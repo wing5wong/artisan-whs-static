@@ -1,6 +1,6 @@
 ---
 title: Moana
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718327697/prefects/Lucca_and_Finnian.jpg
+image: ""
 ---
-Lucca Benson and Finnian Sinclair
+Anna Latonio and William Herd

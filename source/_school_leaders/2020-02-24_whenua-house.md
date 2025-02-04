@@ -1,6 +1,6 @@
 ---
 title: Whenua
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1718327723/prefects/Tara_and_Jocinta.jpg
+image: ""
 ---
-Tara Knight and Jocinta Richardson
+Keira Barnett and Misha Young
