@@ -1,5 +1,5 @@
 ---
-title: Interim Reports issues
-date: 2025-03-27T08:22:00.000Z
+title: Interim Reports issued
+date: 2025-03-27T09:22:00.000Z
 ---
-Interim Reports issues - Thursday 27 March.
+Interim Reports issued - Thursday 27 March.
