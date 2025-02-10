@@ -9,6 +9,7 @@ The schedule and details about ordering are with form class teachers and at
 
 All students must ensure they know when their form class photo is being taken and report to the Hall 5 minutes BEFORE that time.\
 There will be a prize for the class with the highest turnout.\
-Ordering envelopes will be available in form class, or from the student centre, if required.  
+Ordering envelopes will be available in form class, or from the student centre, if required.
 
-[Online orders preferred - please click here](https://orders.lcscott.co.nz/ordering/identify)
+Online orders preferred:\
+[https://orders.lcscott.co.nz/ordering/with?key=XKBJ4MNG ](https://orders.lcscott.co.nz/ordering/identify)
