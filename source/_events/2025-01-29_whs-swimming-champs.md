@@ -1,6 +1,6 @@
 ---
 title: "WHS Swimming Champs "
-date: 2025-02-13T11:00:00.000Z
+date: 2025-02-13T00:00:00.000Z
 ---
 Our School Swimming Champs are on Thursday 13 February at The Splash Centre, 12-3pm.  
 
