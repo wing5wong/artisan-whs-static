@@ -2,7 +2,6 @@
 title: Ms Jo Ander
 departments:
   - Social Sciences
-  - Progressive
 house: Moana
 positions:
   - department: Social Sciences
