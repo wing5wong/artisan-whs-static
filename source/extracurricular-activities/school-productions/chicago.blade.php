@@ -47,16 +47,19 @@
         }
 
         .purple-circle {
-            border-radius: 50px;
+            border-radius: 40px;
             background-color: #733b96;
             display: block;
             color: #fff;
+            width: 500px;
+            padding: 2em;
+            margin: 2em auto;
         }
     </style>
     <div class="chicago">
         <img src="/assets/production_chicago/header with credits_black.png" alt="">
 
-        <img src="/assets/production_chicago/chicago header_gold.png" alt="">
+        <img src="/assets/production_chicago/chicago header_gold.png" alt="" style="margin-top: 3.25em">
 
 
 
