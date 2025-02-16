@@ -1,6 +1,18 @@
 @extends('_layouts.standard')
 @section('title', 'Chicago')
 @section('content')
+    <style>
+        @font-face {
+            font-family: BOD_I;
+            src: url("/assets/production_chicago/BOD_I.ttf") format("truetype");
+        }
+
+        @font-face {
+            font-family: MinionPro;
+            font-weight: bold;
+            src: url("/assets/production_chicago/MinionPro-Regular.otf") format("opentype");
+        }
+    </style>
     <h1 class="decorated py-3 mb-4">Chicago</h1>
 
     WHS Production Contract
@@ -16,6 +28,8 @@
     </div>
     BY ARRANGEMENT WITH ORiGiN™ THEATRICAL
     ON BEHALF OF SAMUEL FRENCH, A Concord Theatricals Company
+    <img src="/assets/production_chicago/header with credits_black.png" alt="">
+    <img src="/assets/production_chicago/chicago header_gold.png" alt="">
 
     <h2>Performances</h2>
     WEDNESDAY, 7th of May
