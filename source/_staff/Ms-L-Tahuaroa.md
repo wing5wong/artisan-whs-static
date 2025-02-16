@@ -1,7 +1,6 @@
 ---
 title: Mrs Lisa Tahuaroa
 departments:
-  - English
   - Social Sciences
   - Progressive
 on_leave: false
