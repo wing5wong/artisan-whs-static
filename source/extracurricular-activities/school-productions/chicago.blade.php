@@ -29,9 +29,13 @@
         }
 
         .header {
-            border-top: 2px solid #111;
-            border-bottom: 2px solid #111;
-            font-family: AlkalineBold
+            border-top: 4px solid #111;
+            border-bottom: 4px solid #111;
+            font-family: AlkalineBold;
+            text-align: center;
+            padding: 0.3em;
+            margin-bottom: 1em;
+
         }
 
         .header-gold {
@@ -41,25 +45,20 @@
         .header-purple {
             color: #733b96
         }
+
+        .purple-circle {
+            border-radius: 50px;
+            background-color: #733b96;
+            display: block;
+            color: #fff;
+        }
     </style>
     <div class="chicago">
         <img src="/assets/production_chicago/header with credits_black.png" alt="">
 
         <img src="/assets/production_chicago/chicago header_gold.png" alt="">
 
-        WHS Production Contract
-        Important Dates
-        AUDITIONS - October 18TH 2024 2PM -5PM
-        CAST LIST POSTED - OCTOBER 25TH
 
-        <div class="purple-circle">
-            PLEASE JOIN
-            CHICAGO - WHS PRODUCTION '25
-            FACEBOOK PAGE FOR
-            The Latest Rehearsal Information
-        </div>
-        BY ARRANGEMENT WITH ORiGiN™ THEATRICAL
-        ON BEHALF OF SAMUEL FRENCH, A Concord Theatricals Company
 
         <h2 class="header header-gold">Performances</h2>
         WEDNESDAY, 7th of May
@@ -93,6 +92,22 @@
         Shubert Theatre, and then to the Ambassador Theatre,
         where, more than two decades later, it continues to run,
         logging nearly 10,000 performances
+
+
+        <h2 class="header header-purple">"WHS Production Contract</h2>
+
+        <h2 class="header header-gold">Important Dates</h2>
+        AUDITIONS - October 18TH 2024 2PM -5PM
+        CAST LIST POSTED - OCTOBER 25TH
+
+        <div class="purple-circle">
+            PLEASE JOIN
+            CHICAGO - WHS PRODUCTION '25
+            FACEBOOK PAGE FOR
+            The Latest Rehearsal Information
+        </div>
+        BY ARRANGEMENT WITH ORiGiN™ THEATRICAL
+        ON BEHALF OF SAMUEL FRENCH, A Concord Theatricals Company
 
     </div>
 @endsection
