@@ -4,6 +4,7 @@ departments:
   - Vocational Studies
   - Progressive
 on_leave: false
+house: Awa
 positions:
   - department: Progressive
     title: Communication Skills
