@@ -34,8 +34,9 @@
             font-family: AlkalineBold;
             text-align: center;
             padding: 0.3em;
+            margin: 1em auto;
             margin-bottom: 1em;
-
+            width: 80%
         }
 
         .header-gold {
