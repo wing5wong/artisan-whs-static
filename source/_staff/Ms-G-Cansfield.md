@@ -3,7 +3,7 @@ title: Mrs Sandra Murray
 position: Head of Learning Support Centre
 departments:
   - Learning Support Centre
-house: null
+house: Maunga
 positions:
   - department: Learning Support Centre
     title: Head of Learning Support Centre
