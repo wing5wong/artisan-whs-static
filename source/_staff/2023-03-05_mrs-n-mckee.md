@@ -4,6 +4,7 @@ position: Director of International Students
 departments:
   - International
 on_leave: false
+house: Maunga
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1733968088/staff/N_McKee_portrait.jpg
 positions:
   - department: International

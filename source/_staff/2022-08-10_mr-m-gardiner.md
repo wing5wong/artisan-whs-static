@@ -5,7 +5,7 @@ departments:
   - Physical Education and Health
   - Deans
 on_leave: false
-house: null
+house: Awa
 positions:
   - title: Dean of Awa House
     department: Deans
