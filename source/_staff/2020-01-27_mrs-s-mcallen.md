@@ -2,6 +2,6 @@
 title: Ms Jane Headon
 departments:
   - English
-house: null
+house: Whenua
 email: headon.j@whs.ac.nz
 ---
