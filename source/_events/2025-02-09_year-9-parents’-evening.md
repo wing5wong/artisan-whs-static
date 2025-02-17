@@ -1,6 +1,6 @@
 ---
 title: Year 9 Parents’ evening
-date: 2025-02-18T09:15:00.000Z
+date: 2025-02-18T10:15:00.000Z
 ---
 **Year 9 Parents’ evening - Tuesday 18 February  
 Starting at 6.30pm in our School Hall** 
