@@ -4,5 +4,12 @@ departments:
   - Vocational Studies
   - Progressive
 on_leave: false
+positions:
+  - department: Progressive
+    title: Communication Skills
+  - department: Progressive
+    title: Digital Literacy
+  - department: Progressive
+    title: Financial Literacy & Mathematics
 email: friedel.c@whs.ac.nz
 ---
