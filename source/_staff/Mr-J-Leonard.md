@@ -3,7 +3,7 @@ title: Mr Amit Kumar
 position: ""
 departments:
   - Mathematics
-house: null
+house: Whenua
 positions:
   - department: Deans
     title: Dean of Maunga House
