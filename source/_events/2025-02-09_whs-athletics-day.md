@@ -22,7 +22,7 @@ Any questions please come and see Mrs Murphy in the Te Wehi Gym Office.
 __________________________________________
 __________________________________________
 
-**FIELD EVENTS STRUCTURE**
+## FIELD EVENTS STRUCTURE
 
 9am  
 Triple Jump - Intermediate Girls  
@@ -75,7 +75,7 @@ Javelin - Intermediate Girls
 Discus - Intermediate Boys
 
 
-**TRACK EVENTS STRUCTURE**
+## TRACK EVENTS STRUCTURE
 
 9.00am  
 1500m Final - Open Grade
