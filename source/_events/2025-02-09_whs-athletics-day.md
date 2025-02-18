@@ -19,8 +19,8 @@ NO FACE PAINT ALLOWED.  This is a stipulation from Cooks Gardens.
 
 Any questions please come and see Mrs Murphy in the Te Wehi Gym Office.
 
----------------------------------------
----------------------------------------
+__________________________________________
+__________________________________________
 
 **FIELD EVENTS STRUCTURE**
 
