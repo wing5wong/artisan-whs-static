@@ -1,6 +1,6 @@
 ---
 title: WHS House Athletics Day
-date: 2025-02-26T10:18:00.000Z
+date: 2025-02-26T11:18:00.000Z
 ---
 **WHS House Athletics Day - Wednesday 26 February at Cooks Gardens.  
 This is a 'whole' school activity.**
@@ -19,8 +19,8 @@ NO FACE PAINT ALLOWED.  This is a stipulation from Cooks Gardens.
 
 Any questions please come and see Mrs Murphy in the Te Wehi Gym Office.
 
---------------------------
---------------------------
+---------------------------------------
+---------------------------------------
 
 **FIELD EVENTS STRUCTURE**
 
