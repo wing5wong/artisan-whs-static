@@ -1,6 +1,6 @@
 ---
 title: WHS House Athletics Day - Sign ups close 20 February
-date: 2025-02-26T11:18:00.000Z
+date: 2025-02-26T00:18:00.000Z
 ---
 **WHS House Athletics Day - Wednesday 26 February at Cooks Gardens.  
 This is a 'whole' school activity.**
