@@ -1,6 +1,6 @@
 ---
 title: University Info Seminar - Year 13
-date: 2025-02-21T11:01:00.000Z
+date: 2025-02-21T00:01:00.000Z
 ---
 Mr Keene will run a seminar for Year 13 students who are considering (or even curious about) university as a future option, on Friday 21 February.  
 
