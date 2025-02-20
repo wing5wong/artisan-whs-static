@@ -16,7 +16,6 @@ positions:
     title: Teacher of Chinese
 email: ding.b@whs.ac.nz
 ---
-I have worked at Whanganui High School since the beginning of 2011. Originally from Harbin, I first came to New Zealand as an international student and studied languages, teaching and education at the University of Auckland. With my experience, I have an insider’s knowledge of what it is like to be an international student in New Zealand. I met my wife in Auckland and we have two young children who attend primary school. I love football and play in the local league.
+I have been a part of the Whanganui High School team since 2011. Originally from Harbin, I came to New Zealand as an international student and studied languages, teaching, and education at the University of Auckland. My personal experience gives me a unique understanding of what it’s like to be an international student in New Zealand.
 
-I am the advocate for the international students and am responsible for their pastoral care and academic monitoring. I can be contacted by students and homestays at any time. I also organise activities and trips for our students. 
-
+As the International Dean, I am the advocate for our international students, responsible for their pastoral care and academic monitoring. I am always available to support students and homestays and organise activities and trips to enrich their experience. Outside of work, I enjoy playing football in the local league. My wife and I have two young children who attend primary school.
