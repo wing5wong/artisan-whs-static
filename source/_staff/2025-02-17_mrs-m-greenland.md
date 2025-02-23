@@ -1,5 +1,5 @@
 ---
-title: Mrs M Greenland
+title: Mrs Mary Greenland
 departments:
   - Progressive
 on_leave: false
