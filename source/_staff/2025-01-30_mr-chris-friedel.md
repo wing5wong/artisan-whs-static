@@ -1,5 +1,5 @@
 ---
-title: Mr Chris Friedel
+title: Dr Chris Friedel
 departments:
   - Vocational Studies
   - Progressive
