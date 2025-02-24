@@ -1,23 +1,33 @@
 ---
-title: WHS House Athletics Day - Sign ups close 20 February
-date: 2025-02-26T00:18:00.000Z
+title: WHS HOUSE ATHLETICS DAY
+date: 2025-02-26T08:18:00.000Z
 ---
 **WHS House Athletics Day - Wednesday 26 February at Cooks Gardens.  
 This is a 'whole' school activity.**
 
-For Track and Field events you MUST sign up on the bit.ly below.  Sign ups close Thursday 20 February.
+## House Athletics Information
 
-[bit.ly/whsathletics25](https://docs.google.com/forms/d/e/1FAIpQLSdb5Ru7kI5kKtAkVd0770UjScokud0CQx-BhUw3si95rwnBOw/viewform)[](https://docs.google.com/forms/d/e/1FAIpQLSdb5Ru7kI5kKtAkVd0770UjScokud0CQx-BhUw3si95rwnBOw/viewform)[](https://docs.google.com/forms/d/e/1FAIpQLSdb5Ru7kI5kKtAkVd0770UjScokud0CQx-BhUw3si95rwnBOw/viewform)
+**EVERYONE goes straight to Cooks Gardens from home.**  
 
-[](https://docs.google.com/forms/d/e/1FAIpQLSdb5Ru7kI5kKtAkVd0770UjScokud0CQx-BhUw3si95rwnBOw/viewform)Our 'FUN' activities you sign up on the day with your 5 digit school number when you do them to earn yourself a house point.
+7.45am: Event set up (Prefects + PE staff)  
+8.30am: All track & field athletes expected at Cooks Gardens. Report to the main grandstand.  
+8.45am: All Staff arrive. Dressed in House colours!  
+9.30am: All other students expected at Cooks Gardens. Dressed in House colours! Report to the main grandstand. Form teachers to take rolls on their phones.  
 
-Lots of house points available so get involved and have some fun!!
+NO FACE PAINT ALLOWED!! This is a rule of Cooks Garden.
 
-Dress up in your house colours, bring a packed lunch, drink bottle and sunhat.  
-Food will be available to purchase on the day also at Cooks.  
-NO FACE PAINT ALLOWED.  This is a stipulation from Cooks Gardens.
+Everyone is to stay onsite throughout the whole day.
 
-Any questions please come and see Mrs Murphy in the Te Wehi Gym Office.
+There will be food, drink, ice creams and coffee vans onsite all day. Bring your lunch or money and drink bottle. Water fountain available to top up your bottles.
+
+We appreciate everyone being ‘tidy kiwis’ and putting your rubbish into the bins provided
+
+Don’t forget to ‘slip,slop,slap’, bring sunhat. Come prepared for the weather conditions. We have sunscreen available around the grounds.
+
+Buses will run as per usual. You have the choice of getting off and back on your bus at City College bus stop and walking to Cooks Gardens from there.
+
+*Mrs Murphy  
+Director of Sport*
 
 __________________________________________
 __________________________________________
