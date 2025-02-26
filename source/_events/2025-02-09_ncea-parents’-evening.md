@@ -13,6 +13,6 @@ I will be running the meeting together with our Academic Dean, Mrs de Smidt.
 
 It will not be a long meeting, and we would like to see you there.
 
-Kind regards  
+
 Elizabeth Spooner  
 Deputy Principal in charge of Year 11
