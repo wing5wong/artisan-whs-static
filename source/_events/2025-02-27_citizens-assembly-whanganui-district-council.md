@@ -1,6 +1,6 @@
 ---
 title: Citizens' Assembly - Whanganui District Council
-date: 2025-02-28T10:13:00.000Z
+date: 2025-03-03T11:13:00.000Z
 ---
 Whanganui District Council is running a citizens’ assembly on outdoor pools which is open to everyone in Whanganui 14 years and older.  
 14 AND OVER – Get paid to have your say.  
