@@ -1,6 +1,6 @@
 ---
-title: 2025 WHS Cultural Festival
-date: 2025-06-14T05:58:00.000Z
+title: WHS Cultural Festival, 2025
+date: 2025-06-14T09:58:00.000Z
 ---
 **2025 WHS Cultural Festival**  
 **Saturday 14 June in the School Hall**
