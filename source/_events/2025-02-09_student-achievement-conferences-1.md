@@ -1,6 +1,6 @@
 ---
-title: Student Achievement Conferences - Students released at 2pm
-date: 2025-04-09T10:23:00.000Z
+title: Student Achievement Conferences - Students released at 2.00pm
+date: 2025-04-09T09:23:00.000Z
 ---
 **Student Achievement Conferences**  
 (Parent Teacher Interviews)  
