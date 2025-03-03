@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - Students released at 2pm
+title: Student Achievement Conferences - Students released at 2.00pm
 date: 2025-04-08T10:23:00.000Z
 ---
 **Student Achievement Conferences**  
@@ -15,8 +15,8 @@ Buses will run at their normal times and the Homework Centre will be open in the
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-Bookings Open on Monday 31 March at 5:00pm.  
-Bookings Close at 5:00pm on Monday 7 April, the evening before the interviews.  
+Bookings Open on Monday 31 March at 5.00pm.  
+Bookings Close at 5.00pm on Monday 7 April, the evening before the interviews.  
 
 More details will be advised in the interim report emailed out on Friday 28 March.
 
