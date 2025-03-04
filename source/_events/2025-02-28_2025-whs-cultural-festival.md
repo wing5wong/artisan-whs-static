@@ -1,5 +1,5 @@
 ---
-title: WHS Cultural Festival, 2025
+title: WHS Cultural Festival, 2025 - Meeting Friday 7 March
 date: 2025-06-14T09:58:00.000Z
 ---
 **2025 WHS Cultural Festival**  
@@ -9,7 +9,7 @@ The WHS Cultural Festival is back this year, and we are thrilled to invite stude
 
 This year, we are encouraging students from different cultural backgrounds to showcase their cultural heritage; there’s a place for all cultures at our festival. Here’s how you can participate:  
 
-Come to our 1st meeting TODAY (28 February 2025) at 2.10pm in Library and we discuss the ways to get Involved...  
+We are having our 2nd meeting this Friday 7 March, 1st break in L3 classroom. Come to join us and we discuss the ways to get involved.
 
 Performances:  
 Share your country's music, dance, or drama! Whether it’s traditional dance from Greece, a K-pop performance, or a Bollywood routine, we want to see your talent! 
