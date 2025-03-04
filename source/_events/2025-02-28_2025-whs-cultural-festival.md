@@ -33,7 +33,5 @@ No matter where you’re from, your culture is something to be proud of, and we 
 
 Looking forward to seeing all of you in our first meeting.  
 
-If you would like to participate but can NOT attend today, do NOT worry. We will have another meeting next week.  
-
 Any questions, please contact Mr Ding OR event representative Ananya Jijo.
 
