@@ -1,6 +1,17 @@
 ---
 title: Whanganui Secondary Schools’ Athletics Championships
-date: 2025-03-18T10:20:00.000Z
+date: 2025-03-18T11:20:00.000Z
 ---
 Whanganui Secondary Schools’ Athletics Championships - Tuesday 18 March.  
-Cooks Gardens.
+Cooks Gardens.  
+
+Given the high standard on display at the High school champs on 26 February, this is the largest team WHS has ever selected for the champs (112 athletes).  
+
+WHS will field up to 15 relay teams alone.  
+It bodes well for a great day on the 18th.  
+
+Full programme for the day will be published in week 7. Check the WHS Sports Facebook page. Athletes will get their confirmed events and event timings, along with relays.  
+
+The meet starts 9.55am, with the last relay event to start at 3.10pm.
+
+
