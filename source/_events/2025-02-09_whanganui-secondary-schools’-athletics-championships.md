@@ -12,7 +12,7 @@ image_gallery:
 Whanganui Secondary Schools’ Athletics Championships - Tuesday 18 March.  
 Cooks Gardens.  
 
-Given the high standard on display at the High school champs on 26 February, this is the largest team WHS has ever selected for the champs (112 athletes).  Check our WHS Sports Facebook page for Athletes selected.  
+Given the high standard on display at the High school champs on 26 February, this is the largest team WHS has ever selected for the champs (112 athletes).  Check below for the Athletes selected.  
 
 WHS will field up to 15 relay teams alone.  
 It bodes well for a great day on the 18th.  
