@@ -3,11 +3,11 @@ title: Whanganui Secondary Schools’ Athletics Championships
 date: 2025-03-19T09:20:00.000Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1741301281/Sports/Juniors.jpg
-    description: Junior Students
+    description: Junior Athletes
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1741301290/Sports/Intermediate.jpg
-    description: Intermediate Students
+    description: Intermediate Athletes
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1741301296/Sports/Senior.jpg
-    description: Senior Students
+    description: Senior Athletes
 ---
 Whanganui Secondary Schools’ Athletics Championships - Tuesday 18 March.  
 Cooks Gardens.  
