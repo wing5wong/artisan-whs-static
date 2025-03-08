@@ -9,7 +9,6 @@ The WHS Cultural Festival is back this year, and we are thrilled to invite stude
 
 This year, we are encouraging students from different cultural backgrounds to showcase their cultural heritage; there’s a place for all cultures at our festival. Here’s how you can participate:  
 
-We are having our 2nd meeting this Friday 7 March, 1st break in L3 classroom. Come to join us and we discuss the ways to get involved.
 
 Performances:  
 Share your country's music, dance, or drama! Whether it’s traditional dance from Greece, a K-pop performance, or a Bollywood routine, we want to see your talent! 
@@ -30,8 +29,6 @@ Enjoy food, music, dance, and performances from around the world!
 
 Let’s make this Culture Festival the most exciting, vibrant, and inclusive event ever.  
 No matter where you’re from, your culture is something to be proud of, and we can't wait to see what you bring to the festival!  
-
-Looking forward to seeing all of you in our first meeting.  
 
 Any questions, please contact Mr Ding OR event representative Ananya Jijo.
 
