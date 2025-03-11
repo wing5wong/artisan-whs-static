@@ -1,6 +1,6 @@
 ---
-title: Whanganui Secondary Schools’ Athletics Championships
-date: 2025-03-18T09:20:00.000Z
+title: WSS Athletics Championships
+date: 2025-03-18T10:20:00.000Z
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1741301281/Sports/Juniors.jpg
     description: "Junior Athletes "
