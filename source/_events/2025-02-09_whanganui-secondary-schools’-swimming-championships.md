@@ -1,6 +1,6 @@
 ---
 title: WSS Swimming Championships - rescheduled to 3 April
-date: 2025-04-03T11:19:00.000Z
+date: 2025-04-03T06:19:00.000Z
 ---
 WSS Swimming Championships has been rescheduled to 3 April at the Splash Centre. 
 
