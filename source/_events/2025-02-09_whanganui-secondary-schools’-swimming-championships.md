@@ -1,6 +1,7 @@
 ---
-title: Whanganui Secondary Schools’ Swimming Championships
-date: 2025-03-13T10:19:00.000Z
+title: WSS Swimming Championships - rescheduled to 3 April
+date: 2025-04-03T11:19:00.000Z
 ---
-Whanganui Secondary Schools’ Swimming Championships - Thursday 13 March.  
-Splash Centre.
+WSS Swimming Championships has been rescheduled to 3 April at the Splash Centre. 
+
+WSS Lifesaving Championships is still on Thursday 14 March at Girls College Pool 10am-12noon.
