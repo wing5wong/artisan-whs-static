@@ -9,8 +9,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1741301296/Sports/Senior.jpg
     description: Senior Athletes
 ---
-Whanganui Secondary Schools’ Athletics Championships - Tuesday 18 March.  
-Cooks Gardens.  
+Whanganui Secondary Schools’ Athletics Championships  
+Tuesday 18 March  
+Cooks Gardens  
 
 Given the high standard on display at the High school champs on 26 February, this is the largest team WHS has ever selected for the champs (112 athletes).  
 Check below for the Athletes selected.  
