@@ -22,7 +22,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string", hint: 'Student Achievement Conferences' }
       - { label: "Emergency", name: "is_emergency", widget: "boolean", default: false }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: 'Students released at 1.50pm (end of Period 4)' }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
@@ -55,7 +55,7 @@ collections:
         widget: "object"
         required: false
         fields:
-        - { label: "Date", name: "date", widget: "datetime", required: false }
+        - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime", required: false }
         - { label: "Author", name: "name", widget: "string", required: false }
         - { label: "Publication", name: "publication", widget: "string", required: false }
       - label: "Image Gallery"
@@ -71,7 +71,7 @@ collections:
       - { label: "Related Extracurricular Activities", name: extracurricular_activities, required: false, multiple: true, widget: "relation", collection: "extracurricular_activities",  search_fields: ["title"], value_field: "title", display_fields: ["title"] }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Show in News Sliders", name: "show_in_slider", widget: "boolean", default: true, required: false }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Image Filename", name: "image", widget: "hidden", required: false }
       - { label: "Image Title", name: "image_title", widget: "hidden", required: false }
       - { label: "Image Alt", name: "image_alt", widget: "hidden", required: false }
@@ -87,7 +87,7 @@ collections:
     summary: "{{year}}-{{month}}-{{day}} | {{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
@@ -125,8 +125,8 @@ collections:
     summary: "{{month}} {{year}} | {{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Closing Date", name: "closing_date", widget: "datetime", required: false }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
+      - { label: "Closing Date", name: "closing_date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime", required: false }
       - { label: "Filename", name: "file", widget: "file", allow_multiple: false, required: false }
       - { label: "Body", name: "body", widget: "markdown",}
 
@@ -139,7 +139,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - label: "Image Filename"
         name: "image"
@@ -176,7 +176,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "extends", name: "Extends", widget: "hidden", default: '_layouts.post' }
@@ -192,7 +192,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Faculty", name: faculty, required: false, widget: "relation", collection: "faculties", search_fields: ["title"], value_field: "title", display_fields: ["title"] }
       - label: "Image Gallery"
         name: "image_gallery"
@@ -212,7 +212,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "Description", name: "description", widget: "text", hint: "SHORT search engine snippet text" }
@@ -235,7 +235,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Intro", name: "intro", widget: "text", required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -250,7 +250,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -265,7 +265,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
@@ -281,7 +281,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Maori Title", name: "maori_title", widget: "string", required: false }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Is a Teaching Faculty", name: is_teaching_faculty, widget: boolean, default: true}
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Image Filename", name: "image", widget: "image", required: false }
@@ -315,7 +315,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Maori Title", name: "maori_title", widget: "string", required: false }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
       - { label: "Faculty", name: faculty, required: true, widget: "string" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
@@ -334,7 +334,7 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Code", name: "code", widget: "string" }
       - { label: "Subject Area", name: "subject_area", required: true, widget: "relation", collection: "subject_areas", search_fields: ["title"], value_field: "title" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Entry Requirements", name: "entry_requirements", widget: "string", required: false }
       - { label: "Year Level", name: year, widget: select, options: ["9","10","11","12","13"] }
       - { label: "Type", name: "type", widget: "select", options: ["Core","Subject Choice","Compulsory", "Optional", "Semester Course"], default: "Subject Choice" }
@@ -390,7 +390,7 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Feature Image", name: "image", widget: "image", required: false }
       - { label: "Person in Charge", required: false, name: "person_in_charge", widget: "relation", collection: "staff",
@@ -404,7 +404,7 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "People", name: "people", widget: "list",
           fields: [
             { name: "name", widget: "relation", collection: "staff",
@@ -472,7 +472,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
 
 
@@ -484,7 +484,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
      
 
@@ -496,7 +496,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Place", name: "place", widget: "string" }
       - { label: "International", name: "international", widget: boolean}
       - { label: "image", name: "image", widget: "image" }
@@ -511,7 +511,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Eligible", name: "eligible", widget: "select",
           options: [ "Current Students", "Ex-Students"] }
       - { label: "Application URL", name: "url", widget: "string", required: false, hint: "A link to an online application form e.g. Google Form"}
@@ -528,7 +528,7 @@ collections:
     summary: "{{title}} - {{person1_name}} | {{person2_name}}"
     fields:
       - { label: "Title", name: "title", widget: "string", hint: "Dux X YYYY" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Award", name: "award", widget: "select",
           options: [ "Dux Litterarum", "Dux Ludorum", "Dux Artium", "Maori Student Dux", "Heads of School"] }
       - { label: "Person 1 Name", name: "person1_name", widget: string }
@@ -632,17 +632,17 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string", hint: "Public Holidays should have title 'Public Holidays' included, otherwise use Term X" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Start Dates", name: "start_dates", widget: list,
           fields: [
-            { label: "Date", name: "date", widget: "datetime" },
+            { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" },
             { label: "Body", name: "body", widget: "string" }
           ]
       }
       - { label: "End Dates", name: "end_dates", widget: list,
           fields: [
-            { label: "Date", name: "date", widget: "datetime", required: false },
+            { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime", required: false },
             { label: "Body", name: "body", widget: "string" }
           ]
       }
@@ -656,7 +656,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Email", name: "email", widget: "string", default: "principal@whs.ac.nz" }
       - { label: "Body", name: "body", widget: "markdown" }
 
@@ -669,7 +669,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime", hint: "Used for year in table views - set year as appropriate (e.g. year + 1 for stationery lists)" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime", hint: "Used for year in table views - set year as appropriate (e.g. year + 1 for stationery lists)" }
       - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
 
 
@@ -680,7 +680,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Filename", name: "file", widget: "file", allow_multiple: false }
 
 
@@ -690,7 +690,7 @@ collections:
     folder: "source/_pages"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Date", name: "date", format: "YYYY-MM-DDTHH:mm:ssZ", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Extends", name: "extends", widget: "hidden" }
       - label: "Page Builder"
