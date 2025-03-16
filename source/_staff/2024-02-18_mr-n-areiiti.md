@@ -1,5 +1,5 @@
 ---
-title: Mr Ngametua Areiiti
+title: Mr Ngametua Areaiiti
 departments:
   - Te Atawhai / Special Needs
 on_leave: false
