@@ -1,6 +1,6 @@
 ---
 title: Winter Sports Sign-ups - now open
-date: 2025-03-17T10:35:00+13:00
+date: 2025-03-18T10:35:00+13:00
 ---
 **Winter Sports Sign-ups are open**  
 Please click on the link below to sign up for winter sport.  
