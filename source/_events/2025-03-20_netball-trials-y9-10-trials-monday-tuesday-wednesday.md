@@ -8,7 +8,7 @@ Week 10 is trials for ALL teams.
 Monday, Tuesday & Wednesday is Y9-10 trials.  
 2pm-3.30pm - Springvale Stadium.  
 
-Please make your way over to the Stadium at 2nd break and get changed.
+Please make your way over to the Stadium at 2nd break and get changed.  
 Please make sure you have netball shoes and training gear to trial in.
 
 *Lisa Murphy  
