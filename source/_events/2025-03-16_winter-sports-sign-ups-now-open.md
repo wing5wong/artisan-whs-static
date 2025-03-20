@@ -1,5 +1,5 @@
 ---
-title: Winter Sports Sign-ups - now open
+title: Winter Sports Sign-ups - until 20 March
 date: 2025-03-20T10:35:00+13:00
 ---
 **Winter Sports Sign-ups are open**  
