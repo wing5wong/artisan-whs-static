@@ -2,7 +2,7 @@
 title: "Netball Trials - Senior A1 & A2 "
 date: 2025-04-01T08:23:00+13:00
 ---
-Senior A1 & A2 Trials  
+**Senior A1 & A2 Trials**  
 Te Wehi Gym  
 
 These trials are only for Y11-13 players wishing to trial for the two top teams.  
