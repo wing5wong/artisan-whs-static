@@ -1,5 +1,5 @@
 ---
-title: "Netball Trials, Y9-10 trials - Monday, Tuesday & Wednesday "
+title: "Netball Trials, Y9-10 Trials - Monday, Tuesday & Wednesday "
 date: 2025-03-31T08:16:00+13:00
 ---
 Netball Trials  
