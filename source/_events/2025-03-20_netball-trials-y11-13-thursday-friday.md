@@ -1,5 +1,5 @@
 ---
-title: Netball trials, Y11-13 - Thursday & Friday
+title: Netball Trials, Y11-13 - Thursday & Friday
 date: 2025-04-03T08:20:00+13:00
 ---
 Netball Trials  
