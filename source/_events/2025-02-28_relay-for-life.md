@@ -2,14 +2,22 @@
 title: Relay for Life
 date: 2025-03-22T06:11:00+13:00
 ---
-Relay for Life, which is a fun Walk in aid of Cancer Research, is coming up on Saturday 22 March.  
+Please come along and WALK FOR CANCER RESEARCH on Saturday 22 March.  
+Cooks's gardens, between 2pm and 10pm.
 
-We would like to have as many students as possible come along and walk some laps for this wonderful cause.  
+You can come along anytime.  
+Wear bright clothes! There is a prize for best costume.  
+You'll need a gold coin to get in, and then come and join our team!  
+We need to keep the baton moving for all 8 hours.  
+You can come to our tent and make a donation, and we'd be thrilled to see you!  
 
+There will be a sausage sizzle at 6pm, refreshments available through the day, and Live Music when our own Sophy Toyne will be performing as well.  
+The candelight ceremony is at 9pm. 
 
-All you need to do is sign up on the [bit.ly](https://docs.google.com/forms/d/1m_5HP0Db6F93C1LI0Loe9zC-QNtA3VEaykewqshW4_U/viewform?edit_requested=true) and get some sponsors and you are ready to go!  
-Please see Mrs de Smidt for a donation sheet.    
-More info is available on the bit.ly.
+Bring your friends, bring your whanau, lets make this a great day. Sponsor forms are still available from Mrs de Smidt if you want to get your friends and whanau to sponsor you.  
+
 
 *Mrs Jemma de Smidt  
 Teacher in charge*
+
+
