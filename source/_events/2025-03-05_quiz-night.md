@@ -2,12 +2,11 @@
 title: Quiz Night
 date: 2025-03-21T09:00:00+13:00
 ---
-It's back!  
-Quiz Night is on Friday 21 March in the School Hall from 6.00-8.30pm.  
+Quiz Night tonight in the School Hall.  
+Doors open 5.30 pm.  
+All teams need to be seated by 6.00pm.  
+There will be drinks on sale for $1 so please bring some cash.  
+It should all be over by 8.30pm.  
+Get your best costumes on and come along and have some fun.  
 
-Teams of up to five members.  
-Entry cost $25 per team to include pizza.  
-Prizes for best dressed, best team name and lots more.  
-Get your team together sign ups start soon.  
-
-Look at Daily Notices for further details!
+See you there and please don't be late.
