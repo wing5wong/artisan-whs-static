@@ -6,7 +6,7 @@ people: []
 terms: null
 uniform: ""
 extracurricular_area: Sport
-cost: $20 (approx) Term 1
+cost: ""
 ---
   
 Girls' Cricket is a developing sport at Whanganui High School.  
