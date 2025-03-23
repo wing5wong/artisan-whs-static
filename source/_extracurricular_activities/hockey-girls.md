@@ -2,14 +2,9 @@
 title: Hockey - Girls
 date: 2025-01-27T14:26:00.000Z
 person_in_charge: Mr G. Hardy
-people:
-  - role: Teacher in Charge
-    name: Mr Grant Hardy
-terms:
-  - Term 2
-  - Term 3
-uniform: "**Equipment:** Must have own stick, shin pads and mouthguard.  Socks
-  can be purchased from the Te Wehi gym office - $15."
+people: []
+terms: null
+uniform: ""
 extracurricular_area: Sport
 ---
 Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week, with the 1st XI Boys & Girls teams travelling to play in the Palmerston North League.
@@ -21,4 +16,9 @@ Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf i
 2nd XI - $150 approx (dependent on turf fees)  
 Please be aware that travel costs may be added on for the teams that are playing in Palmerston North. Uniform will be allocated once fees are paid.
 
-**1st XI Coach:** Lucy Tui
+**Equipment:** Must have own stick, shin pads and mouthguard.  Socks can be purchased from the Te Wehi gym office - $15.
+
+**Terms:** 2 & 3
+
+**Teacher in Charge:** Mr Grant Hardy  
+**1st XI Coach:** Ms Lucy Tui
