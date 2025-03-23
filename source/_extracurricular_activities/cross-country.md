@@ -2,11 +2,9 @@
 title: Cross Country
 date: 2025-01-27T14:07:00.000Z
 person_in_charge: Mrs L. Murphy
-people:
-  - role: Teacher in Charge
-    name: Mrs Lisa Murphy
+people: []
 extracurricular_area: Sport
-cost: WHS Cross Country, no charge.   WSS Cross Country, $15-$20 (approx)
+cost: ""
 ---
 **Structure**  
 As well as our annual Cross Country Champs, Whanganui High School students compete and train through the school.  We have a year-round programme with emphasis on Cross Country and Conditioning during winter and Athletics in summer.  The Cross Country programme caters for winter sports players.
@@ -25,4 +23,7 @@ at the National Secondary Schools' Cross Country event in Whangarei on 14/15 Jun
 
 **Training Days:** Generally, Tuesday and Thursday at school from 3:15pm, with some Saturday morning trainings close to competitions.
 
+**Cost:**   WHS Cross Country, no charge.   WSS Cross Country, $15-$20 (approx)
+
+**Teacher in Charge:** Mrs Lisa Murphy  
 **Coaches:** Mr Greg Fromont & Mrs Elaine Baker
