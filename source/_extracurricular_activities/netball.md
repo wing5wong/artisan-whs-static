@@ -3,7 +3,7 @@ title: Netball
 date: 2025-01-27T14:35:00.000Z
 person_in_charge: Mrs L. Murphy
 people: []
-uniform: "\n\n"
+uniform: ""
 extracurricular_area: Sport
 cost: ""
 ---
