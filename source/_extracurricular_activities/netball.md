@@ -2,16 +2,10 @@
 title: Netball
 date: 2025-01-27T14:35:00.000Z
 person_in_charge: Mrs L. Murphy
-people:
-  - role: Teacher in Charge
-    name: Mrs Lisa Murphy
-uniform: |+
-  PE top and a black skirt purchased from Andersons, 184 Victoria Ave.  
-  Senior A1 will have a uniform supplied to them.
-
+people: []
+uniform: "\n\n"
 extracurricular_area: Sport
-cost: "$100 (approx) per player - must be paid before May.   Senior A1 fees are
-  different to this. "
+cost: ""
 ---
 **Grades are:** Juniors Girls (Year 9 & 10), Seniors Girls (Year 11-13) & Mixed (Year 9-13).
 
@@ -23,4 +17,11 @@ Senior A1 trials will be separate from these trials.
 
 **Practice** time depends on the coach but is usually after school.
 
-**Senior A1 Coach:** Lisa Murphy
+**Costs:** $100 (approx) per player - must be paid before May.   Senior A1 fees are different to this.
+
+**Uniform:** PE top and a black skirt purchased from Andersons, 184 Victoria Ave.  
+Senior A1 will have a uniform supplied to them.
+
+ 
+**Teacher in Charge:** Mrs Lisa Murphy  
+**Senior A1 Coach:** Mrs Lisa Murphy
