@@ -13,7 +13,8 @@ We also play Inter-school Sports Exchange matches.
 
 **Training** is after school on a Friday.
 
-**Cost:** TBC once teams are sorted.  *Plus extra costs for interschool away games.
+**Cost:** TBC once teams are sorted.  
+*Plus extra costs for interschool away games.
 
 **Terms:** 1 & 4
 
