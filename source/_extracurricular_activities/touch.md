@@ -12,6 +12,7 @@ There are trials for a Girls, Boys or Mixed team.  You will need to keep an eye 
 We also enter teams in Term 1 for the Whanganui Secondary School League.
 
 **Costs:** Determined by competition entry either in Term 1 or 4.  
+
 **Uniform:** WHS PE top and black shorts.
 
 **Teacher in Charge:** Mrs Lisa Murphy
