@@ -5,8 +5,7 @@ person_in_charge: Mrs L. Murphy
 people: []
 extracurricular_area: Sport
 category: School Sports
-cost: $45 (approx) per student for membership to Athletics Wanganui for club
-  competitions.
+cost: ""
 ---
   
 **Background**  
@@ -33,6 +32,9 @@ Tuesday is club night (optional).
 Thursday afterschool for all until 4:30pm and..  
 Saturday mornings 9:30am at Cooks Garden or other venues.  
 There is an entry level and performance group to suit age and experience.  
+
+**Cost:**  
+$45 (approx) per student for membership to Athletics Wanganui for club competitions. 
 
 **Contact:** Mrs L Murphy for details or behind the gym on training days @ 3.15pm.  
 
