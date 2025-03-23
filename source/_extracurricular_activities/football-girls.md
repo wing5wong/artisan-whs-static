@@ -2,12 +2,8 @@
 title: Football - Girls
 date: 2025-01-27T14:17:00.000Z
 person_in_charge: Mrs L. Murphy
-people:
-  - role: Teacher in Charge
-    name: Ms Rebecca Kennedy
-terms:
-  - Term 2
-  - Term 3
+people: []
+terms: null
 extracurricular_area: Sport
 cost: $120.00 (approx) season.  Separate charges for Exchanges and Tournament Week.
 ---
@@ -15,7 +11,9 @@ cost: $120.00 (approx) season.  Separate charges for Exchanges and Tournament We
 
 All other players participate through the local Football clubs.
 
+**Training** is after school on WHS fields.  
 
-**Training** is after school on WHS fields.
+**Terms:** 2 & 3  
 
+**Teacher in Charge:** Ms Rebecca Kennedy  
 **1st XI Coaches:** Mrs Allison Cotter & Mr Steve Kerfoot
