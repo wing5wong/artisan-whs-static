@@ -18,4 +18,4 @@ The **Senior A and Junior A teams** usually play on Thursday nights in the Premi
 
 **Terms:**  2 & 3
 
-**Teacher in charge:**  Miss Lisa Martin
+**Teacher in Charge:**  Miss Lisa Martin
