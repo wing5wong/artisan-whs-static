@@ -12,8 +12,6 @@ Badminton is held in Term 2 and 3, Fridays after school in the Te Wehi and Te Ma
 Gymnasiums from 2.05pm – 3.30pm.  
 There will also be a Secondary Interschool     competition, usually in Term 3 on Monday after school.  
 
-**Terms:** 2 & 3 
-
 
 **Tournaments this year:**  
 **Juniors** - Central 6 competition (Term 3, 5 August).  
