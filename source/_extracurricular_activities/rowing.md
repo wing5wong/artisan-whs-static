@@ -2,14 +2,9 @@
 title: Rowing
 date: 2025-01-27T14:42:00.000Z
 person_in_charge: Mrs L. Murphy
-people:
-  - role: Teacher in Charge
-    name: Mrs Lisa Murphy
+people: []
 extracurricular_area: Sport
-cost: There is a membership fee that students pay to the Aramoho club to
-  cover  equipment use. Approx $500 - $750. Regatta fees are a separate cost to
-  this.  WHS Regatta fees will be invoiced to parents through school.  Fees
-  could vary each year.
+cost: ""
 ---
   
 Whanganui is fortunate to have an excellent facility for all year-round rowing. We 
@@ -29,5 +24,10 @@ There will be a ‘Learn to Row’ programme for new Rowers starting in Septembe
 Cup Regatta. Rowers participate in several Regattas over this time.  
 WHS won their first Gold Medal in 8 years at the 2024 Aon Maadi Regatta and also finished 4th overall in the country.
 
+**Costs:** There is a membership fee that students pay to the Aramoho club to cover  equipment use. Approx $500 - $750. Regatta fees are a separate cost to this.  
+WHS Regatta fees will be invoiced to parents through school.  
+Fees could vary each year.
+
+**Teacher in Charge:** Mrs Lisa Murphy  
 **Coach:** Mr Axel Dickinson
 
