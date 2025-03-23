@@ -4,7 +4,7 @@ title: Softball
 date: 2025-01-27T14:49:00.000Z
 people: []
 terms: null
-uniform: "\n"
+uniform: ""
 extracurricular_area: Sport
 cost: ""
 ---
