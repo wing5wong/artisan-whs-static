@@ -2,12 +2,8 @@
 title: Volleyball - Boys
 date: 2025-01-27T14:57:00.000Z
 person_in_charge: Mrs M. Bennetts
-people:
-  - role: Teacher in Charge
-    name: Mrs Lisa Murphy
-terms:
-  - Term 1
-  - Term 4
+people: []
+terms: null
 extracurricular_area: Sport
 ---
 **Trials for Junior teams** are at the start of Term 1.  
@@ -24,4 +20,7 @@ Opportunities to create own team also exist for Senior social students.
 Juniors and Social Seniors playing in local competition - $25 per team (approx).  
 **Competitive Seniors** - $165 (approx) for Palmerston North competition and the cost of Nationals is separate (approx $200).
 
+**Terms:** 1 & 4
+
+**Teacher in Charge:** Mrs Lisa Murphy  
 **Coach**: Anastasia Tamaniyaga
