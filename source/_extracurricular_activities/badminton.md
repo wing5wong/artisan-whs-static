@@ -18,7 +18,9 @@ There will also be a Secondary Interschool     competition, usually in Term 3 on
 **Winter Tournament Week** - Top Teams, year 9-13. (Term 3 – Week 7).  
 
 **Cost:**  
-$10 (approx) - WHS.   $20 (approx) - Interschool.  Separate charge for Tournaments and Exchanges.  
+$10 (approx) WHS.   $20 (approx) Interschool.  
+Separate charge for Tournaments and Exchanges.  
+
 Shuttles are provided.   Please bring your own racket.
   
 **Teacher in Charge:**  Mr Graham Hall 
