@@ -20,9 +20,10 @@ There will also be a Secondary Interschool     competition, usually in Term 3 on
 **Cost:**  
 $10 (approx) WHS.   $20 (approx) Interschool.  
 Separate charge for Tournaments and Exchanges.  
-
 Shuttles are provided.   Please bring your own racket.
-  
+
+**Terms:** 2 & 3  
+
 **Teacher in Charge:**  Mr Graham Hall 
 
 
