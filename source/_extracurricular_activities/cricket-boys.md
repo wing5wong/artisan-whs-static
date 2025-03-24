@@ -11,7 +11,9 @@ The 1st XI and Junior team play inter-school matches and are in the T20 weekly c
   
 We also play Inter-school Sports Exchange matches.
 
-**Training** is after school on a Friday.
+**Training** is after school on a Friday.  
+
+**Play** on Wednesdays & Saturdays
 
 **Cost:** TBC once teams are sorted.  
 *Plus extra costs for interschool away games.
