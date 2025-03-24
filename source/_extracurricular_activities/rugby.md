@@ -26,5 +26,5 @@ NB: Fees need to be paid prior to the start of the regular season. No pay no pla
 At print time of this booklet, confirmation on where these competitions will be played is not available.  The above fees will be less than half if playing in Whanganui only.  
 
 **Teacher in Charge:** Mrs Lisa Murphy  
-**1st XV Head Coach:** TBC  
-**Girls Rugby Coach:** TBC 
+**1st XV Head Coach:** Mike Lama  
+**Girls Rugby Coach:** Denning Tyrell
