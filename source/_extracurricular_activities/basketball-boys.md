@@ -20,4 +20,4 @@ This year our **Junior and Senior Boys** will be playing in the Competitive Leag
 **Terms:** 2 & 3
 
 **Teacher in Charge:** Miss Lisa Martin  
-**Coach:** Miss Lisa Martin
+**Coach:** Karney Herewini
