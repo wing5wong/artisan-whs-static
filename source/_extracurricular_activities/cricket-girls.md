@@ -14,7 +14,7 @@ We have a 1st XI squad.
 No experience is necessary to start playing, just a good attitude and a willingness to participate.
 
 **Training** is after school for one hour.  
-**Played** on Wednesday (tbc).  
+**Play** on Wednesday.  
 
 **Cost:** $20 (approx) per term  
 All **equipment** is provided and the girls wear PE tops and black shorts/pants.  
