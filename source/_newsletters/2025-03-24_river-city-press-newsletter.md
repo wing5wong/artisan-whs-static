@@ -1,5 +1,5 @@
 ---
 title: River City Press Newsletter
 date: 2025-03-25T12:05:00+13:00
-file: https://res.cloudinary.com/whanganuihigh/image/upload/v1742857458/newsletters/MARCH_2025_rivercity_press_1_web2.pdf
+file: https://res.cloudinary.com/whanganuihigh/image/upload/v1742931431/newsletters/MARCH_2025_rivercity_press_1_web3.pdf
 ---
