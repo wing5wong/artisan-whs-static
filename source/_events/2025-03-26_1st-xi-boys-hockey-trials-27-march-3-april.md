@@ -1,6 +1,6 @@
 ---
 title: 1st XI Boys Hockey Trials - 27 March & 3 April
-date: 2025-03-27T08:44:00+13:00
+date: 2025-04-03T08:44:00+13:00
 ---
 1st XI Boys Hockey Trials
 
