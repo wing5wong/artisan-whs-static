@@ -2,7 +2,7 @@
 title: Student Achievement Conferences - Students released at 2.00pm
 date: 2025-04-09T09:23:00+12:00
 ---
-WHANGANUI HIGH SCHOOL
+WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES
 
 BOOKINGS are now OPEN  😊  
