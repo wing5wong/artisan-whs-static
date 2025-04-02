@@ -1,6 +1,6 @@
 ---
 title: 1st XI Football Trials - Girls, 2 April & 7 April
-date: 2025-04-02T08:25:00+13:00
+date: 2025-04-07T08:25:00+12:00
 ---
 Football Trials for **all girls wanting to play for the 1st XI team** this season.  
 **You must attend both trials**.  
