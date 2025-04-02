@@ -17,7 +17,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1743380713/News/int13.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1743380713/News/int16.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1743380713/News/int15.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1743380713/News/int.jpg
 show_in_slider: true
 date: 2025-03-28T13:26:00+13:00
 ---
