@@ -31,6 +31,7 @@ Ms Jo Ander (Psychology)
 Ms Leanne Gale (Food & Nutrition)  
 Ms Victoria Rivers (Dance & Health)  
 Mr Bruce Spencer (Automotive)  
+Mrs Mignon Stevenson (English)  
 Mr Luke Van Der Lubbe (Physical Education)  
 
 NB: If Mr Van Der Lubbe is your son/daughters PE teacher please choose Mr Joseph Correa.  
