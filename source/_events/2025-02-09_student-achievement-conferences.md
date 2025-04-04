@@ -5,7 +5,7 @@ date: 2025-04-08T10:23:00+12:00
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES
 
-BOOKINGS are now OPEN  😊  
+**Bookings  CLOSE at 5pm, Monday 7 April**   
 To book an interview click the following link:  
 👉 <https://www.schoolinterviews.co.nz/>  
 ('Event Code' is needed from the Interim Report, which was be emailed to you on 28 March) 
