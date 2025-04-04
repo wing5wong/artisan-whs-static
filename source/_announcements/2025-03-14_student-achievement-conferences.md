@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - BOOKINGS are now OPEN
+title: Student Achievement Conferences - Bookings  CLOSE at 5pm, Monday 7 April
 is_emergency: false
 date: 2025-03-14T13:33:00+13:00
 subtitle: "Tuesday 8 April and Wednesday 9 April, 2025 "
