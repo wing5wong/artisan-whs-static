@@ -2,5 +2,5 @@
 title: WSS Battle of the Codes
 date: 2025-05-20T10:01:00+12:00
 ---
-WSS Battle of the Codes is on Tuesday 20 May at Tawhero Golf Course.  
+Whanganui Secondary Schools' Battle of the Codes is on Tuesday 20 May at Tawhero Golf Course.  
 
