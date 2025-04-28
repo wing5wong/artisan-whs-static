@@ -7,9 +7,11 @@ people:
   - name: Mrs Devon Adam
     role: Teacher in Charge
 extracurricular_area: Performing Arts
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389229/Performing%20Arts/Production%20Grease%202023/Grease_Picture1.png
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1745807079/Q018858_-_Social_Feed_1440_x_1800_pixels_2_ukshzd.jpg
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389229/Performing%20Arts/Production%20Grease%202023/Grease_Picture2.png
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1745807121/Q018858_-_Social_Feed_1440_x_1800_pixels_2_k9xq2e.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1745807127/Q018858_-_Social_Feed_1440_x_1800_pixels_1_rwbhup.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1745807129/Q018858_-_Social_Feed_1440_x_1440_pixels_jmf8az.jpg
 ---
 Whanganui High School has a school production every second year. These have become a major highlight for students. From a lead on stage, to the chorus dancing, to stage crew, to costume design. There is a part for all interested theatre fans.
 
