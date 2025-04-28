@@ -2,10 +2,9 @@
 title: WHS Cross Country
 date: 2025-05-07T09:51:00+12:00
 ---
-Whanganui High School Cross Country is on Wednesday 7 May on our Field, period 4-5.  
+Whanganui High School Cross Country is on Wednesday 7 May on our School Field, period 4-5.  
 
-Please sign up on the bitly below.
-
+Please sign up on the bitly below.  
 [bit.ly/whscrosscountry25](https://docs.google.com/forms/d/1Y8_js0hL_snusrmAWdJ2MoDcIHjbgz-mHaCJyzCp0GY/viewform?edit_requested=true)
 
 Dress in your house colours.  
