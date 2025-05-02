@@ -14,3 +14,6 @@ Google classrooms have been set up with practice materials:
 Reading uk6gqia  
 Writing c7himwm  
 Numeracy mer5g2aa
+
+*Mrs de Smidt  
+Academic Dean*
