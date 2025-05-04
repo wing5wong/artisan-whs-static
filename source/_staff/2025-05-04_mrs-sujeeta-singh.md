@@ -7,4 +7,5 @@ house: Whenua
 positions:
   - title: Mrs Sujeeta Singh
     department: Technology
+email: singh.su@whs.ac.nz
 ---
