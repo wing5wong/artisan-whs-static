@@ -4,8 +4,6 @@ departments:
   - Technology
 on_leave: false
 house: Whenua
-positions:
-  - title: Mrs Sujeeta Singh
-    department: Technology
+positions: []
 email: singh.su@whs.ac.nz
 ---
