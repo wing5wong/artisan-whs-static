@@ -7,7 +7,6 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569193467/Perform
 ---
 Kapa haka plays a vital role in the culture of our school and holds pride of place during the School's formal occasions with Waiata, Karakia and Pōwhiri. Kia Whaiora Kapa Haka rōpu, take part in the annual Aotea Regional Pae Rangatahi Competitions, with the goal of eventually heading to the National secondary school competition held every other year. Ko te tumanako ka tutuki tenei whainga. Karawhiua mai Kia Whaiora e!    
 
-**Teacher-in-charge:** 
 
 [Click here to view video of Kia Whaiora's performance at 2016 Performing Arts Concert](https://www.youtube.com/watch?v=9hkl_kPJFJw)
 
