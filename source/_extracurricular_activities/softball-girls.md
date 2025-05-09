@@ -22,4 +22,4 @@ This competition is approx $10 per term.
 **Terms:** 1 & 4 
 
 **Teacher in Charge:** Miss Jesse Madams  
-**Coaches:** Mr Paul Brewer (Senior Team) & Mr Stephen Barnes (Junior Team)
+**Coaches:** Mr Kynan Brewer (Senior Team) & Mr Stephen Barnes (Junior Team)
