@@ -20,6 +20,6 @@ We also play Inter-school Sports Exchange matches.
 
 **Terms:** 1 & 4
 
-**Teachers in Charge:** Ms Rebecca Kennedy & Mr Graham Hall  
+**Teacher in Charge:** Mr Graham Hall  
 **1st XI Coach:** Mr Steve Meredith  
 **Junior Coaches:** Mr Hamish McGregor & Mr Aaron Toy.
