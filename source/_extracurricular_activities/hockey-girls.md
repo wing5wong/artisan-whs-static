@@ -21,4 +21,4 @@ Please be aware that travel costs may be added on for the teams that are playing
 **Terms:** 2 & 3
 
 **Teacher in Charge:** Mr Grant Hardy  
-**1st XI Coach:** Ms Lucy Tui
+**1st XI Coaches:** Mr Paul Kilkolly & Mrs Elaine Baker
