@@ -23,4 +23,4 @@ Juniors and Social Seniors playing in local competition - $25 per team (approx).
 **Terms:** 1 & 4 
 
 **Teacher in Charge:** Mrs Lisa Murphy  
-**Coach:** Katrina Thompson
+**Coaches:** Katrina Thompson & Karen McGregor
