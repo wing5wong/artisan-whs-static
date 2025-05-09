@@ -22,4 +22,4 @@ All **equipment** is provided and the girls wear PE tops and black shorts/pants.
 **Terms:** 1 & 4
 
 **Teacher in Charge:**  Ms Rebecca Kennedy  
-**1st XI Coach:** Ms Gabrielle McKenzie
+
