@@ -1,6 +1,6 @@
 ---
 title: Enrolments
-date: 2023-11-20T23:02:40.510Z
+date: 2025-05-12T07:27:00+12:00
 intro: null
 extends: _layouts.school-information.enrolments
 ---
