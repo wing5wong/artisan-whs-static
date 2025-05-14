@@ -10,7 +10,8 @@ Check your school e-mail for more details and fill in the form to register your 
 Each visit takes half a day.  
 LAST CHANCE to sign up is Friday 16 May  
 
-Logistics/Manufacturing visit on 29 May needs more - year 13s may sign up as well.
+Logistics/Manufacturing visit on 29 May needs more.  
+Year 13's may sign up as well.
 
 *Mr Keene  
 Careers Advisor*
