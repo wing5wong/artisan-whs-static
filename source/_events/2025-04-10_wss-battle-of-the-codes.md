@@ -12,7 +12,7 @@ Codes are:
 Football, Hockey, Rugby, Basketball or Netball
 
 Grades are:  
-Junior (y9-10) Senior (Y11-13)
+Junior (Y9-10) Senior (Y11-13)
 
 The course is split into four legs that will vary in distance and terrain. Each team member will do one of the four legs.
 
