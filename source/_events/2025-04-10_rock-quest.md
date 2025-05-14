@@ -1,5 +1,5 @@
 ---
-title: "Rock Quest "
+title: Rock Quest - Whanganui Regional Final!
 date: 2025-05-17T09:56:00+12:00
 ---
 **Rockquest: Come Support Our Talented Musicians!** 🎶
