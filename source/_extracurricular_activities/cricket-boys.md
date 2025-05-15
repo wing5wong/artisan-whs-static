@@ -20,6 +20,6 @@ We also play Inter-school Sports Exchange matches.
 
 **Terms:** 1 & 4
 
-**Teacher in Charge:** Mr Graham Hall  
-**1st XI Coach:** Mr Steve Meredith  
-**Junior Coaches:** Mr Hamish McGregor & Mr Aaron Toy
+**Teacher in Charge:** Graham Hall  
+**1st XI Coach:** Steve Meredith  
+**Junior Coaches:** Hamish McGregor & Aaron Toy
