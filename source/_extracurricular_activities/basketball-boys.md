@@ -19,5 +19,5 @@ This year our **Junior and Senior Boys** will be playing in the Competitive Leag
 
 **Terms:** 2 & 3
 
-**Teacher in Charge:** Lisa Martin  
+**Teacher in Charge:** Lisa Martin (martin.l@whs.ac.nz)  
 **Coach:** Karney Herewini
