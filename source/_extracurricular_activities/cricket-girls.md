@@ -21,5 +21,5 @@ All **equipment** is provided and the girls wear PE tops and black shorts/pants.
 
 **Terms:** 1 & 4
 
-**Teacher in Charge:**  Ms Rebecca Kennedy  
+**Teacher in Charge:**  Rebecca Kennedy  
 
