@@ -15,5 +15,5 @@ Monday to Thursday – 3:05 -4:30pm
 Friday 2:00pm – 3:30pm  
 Attend as often as you like during these hours.
 
-**Teacher in Charge:** Mrs Lisa Murphy  
-**Coach:** Mrs Leeann Lock
+**Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
+**Coach:** Leeann Lock
