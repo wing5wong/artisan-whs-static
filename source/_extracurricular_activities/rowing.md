@@ -28,6 +28,6 @@ WHS won their first Gold Medal in 8 years at the 2024 Aon Maadi Regatta and also
 WHS Regatta fees will be invoiced to parents through school.  
 Fees could vary each year.
 
-**Teacher in Charge:** Mrs Lisa Murphy  
-**Coach:** Mr Axel Dickinson
+**Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
+**Coach:** Axel Dickinson
 
