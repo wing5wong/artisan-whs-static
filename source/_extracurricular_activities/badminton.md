@@ -25,7 +25,7 @@ Separate charge for Tournaments and Exchanges.
 
 **Terms:** 2 & 3  
 
-**Teacher in Charge:**  Graham Hall  
+**Teacher in Charge:**  Graham Hall (hall.g@whs.ac.nz)  
 **Coach:**  Graham Hall
 
 
