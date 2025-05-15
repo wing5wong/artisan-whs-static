@@ -17,5 +17,5 @@ All other players participate through the local Football clubs.
 
 **Cost:** $120.00 (approx) season.  Separate charges for Exchanges and Tournament Week.  
 
-**Teacher in Charge:** Ms Rebecca Kennedy  
-**1st XI Coaches:** Mr Steve Kerfoot & Mrs Allison Cotter
+**Teacher in Charge:** Rebecca Kennedy (kennedy.r@whs.ac.nz)  
+**1st XI Coaches:** Steve Kerfoot & Allison Cotter
