@@ -21,5 +21,5 @@ This competition is approx $10 per term.
 
 **Terms:** 1 & 4 
 
-**Teacher in Charge:** Miss Jesse Madams  
-**Coaches:** Mr Kynan Brewer (Senior Team) & Mr Stephen Barnes (Junior Team)
+**Teacher in Charge:** Jesse Madams (madams.j@whs.ac.nz)  
+**Coaches:** Kynan Brewer (Senior Team) & Stephen Barnes (Junior Team)
