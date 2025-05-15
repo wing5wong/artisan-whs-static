@@ -37,5 +37,5 @@ There is an entry level and performance group to suit age and experience.
 $45 (approx) per student for membership to Athletics Wanganui for club competitions. 
 
 **Contact:** Mrs L Murphy for details or behind the gym on training days @ 3.15pm.  
-**Teacher in Charge:** Mrs Lisa Murphy (murphy.l@whs.ac.nz)  
-**Coaches:** Mr Greg Fromont & Mrs Elaine Baker
+**Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
+**Coaches:**  Greg Fromont & Elaine Baker
