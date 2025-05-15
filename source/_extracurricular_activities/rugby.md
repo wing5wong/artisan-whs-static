@@ -25,8 +25,8 @@ Girls 1st XV – Fee Approx $195 (incl rugby socks) - Play in Whanganui Competit
 NB: Fees need to be paid prior to the start of the regular season. No pay no play.  
 At print time of this booklet, confirmation on where these competitions will be played is not available.  The above fees will be less than half if playing in Whanganui only.  
 
-**Teacher in Charge:** Mrs Lisa Murphy  
-**Boys 1st XV Head Coach:** Mike Lama  
+**Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
+**Boys 1st XV Rugby Coach:** Mike Lama  
 **Girls 1st XV Rugby Coach:** Denning Tyrell  
 **Rugby Colts:** Hamish McGregor  
-**Rugby U15:**  Nathan Easton
+**Rugby U15:** Nathan Easton
