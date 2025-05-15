@@ -18,5 +18,5 @@ All other players participate through the local Football clubs.
 
 **Terms:** 2 & 3  
 
-**Teacher in charge:** Mr Ryan Holden  
-**1st XI Coaches:** Mr Ryan Holden & Mr Steve Meredith  
+**Teacher in charge:** Ryan Holden (holden.r@whs.ac.nz)  
+**1st XI Coaches:** Steve Meredith & Ryan Holden
