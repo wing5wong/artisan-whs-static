@@ -20,5 +20,5 @@ Please be aware that travel costs may be added on for the teams that are playing
 
 **Terms:** 2 & 3
 
-**Teacher in Charge:** Mr Grant Hardy  
-**1st XI Coaches:** Mr Paul Kilkolly & Mrs Elaine Baker
+**Teacher in Charge:** Grant Hardy (hardy.g@whs.ac.nz)  
+**1st XI Coaches:** Paul Kilkolly & Elaine Baker
