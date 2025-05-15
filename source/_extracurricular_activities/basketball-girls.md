@@ -18,5 +18,5 @@ The **Senior A and Junior A teams** usually play on Thursday nights in the Premi
 
 **Terms:**  2 & 3
 
-**Teacher in Charge:**  Lisa Martin  
+**Teacher in Charge:**  Lisa Martin (martin.l@whs.ac.nz)  
 **Coach:** Marie Josephs
