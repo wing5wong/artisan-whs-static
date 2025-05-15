@@ -23,5 +23,5 @@ Senior A1 trials will be separate from these trials.
 Senior A1 will have a uniform supplied to them.
 
  
-**Teacher in Charge:** Mrs Lisa Murphy  
-**Senior A1 Coach:** Mrs Lisa Murphy
+**Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
+**Senior A1 Coach:** Lisa Murphy
