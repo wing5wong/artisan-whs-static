@@ -15,6 +15,6 @@ We also enter teams in Term 1 for the Whanganui Secondary School League.
 
 **Uniform:** WHS PE top and black shorts.
 
-**Teacher in Charge:** Mrs Lisa Murphy  
-**Coach:** Mr Mike Lama
+**Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
+**Coach:** Mike Lama
 
