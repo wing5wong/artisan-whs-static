@@ -25,5 +25,5 @@ at the National Secondary Schools' Cross Country event in Whangarei on 14/15 Jun
 
 **Cost:**   WHS Cross Country, no charge.   WSS Cross Country, $15-$20 (approx)
 
-**Teacher in Charge:** Mrs Lisa Murphy  
-**Coaches:** Mr Greg Fromont & Mrs Elaine Baker
+**Teacher in Charge:** Lisa Murphy  
+**Coaches:** Greg Fromont & Elaine Baker
