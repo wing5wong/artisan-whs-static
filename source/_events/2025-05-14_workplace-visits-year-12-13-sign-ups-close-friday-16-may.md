@@ -1,5 +1,5 @@
 ---
-title: Workplace Visits, Year 12-13, sign ups close Friday 16 May
+title: Workplace Visits sign ups close Friday 16 May, Year 12-13
 date: 2025-05-16T07:37:00+12:00
 ---
 Year 12 students PLEASE register to visit a workplace in Whanganui.  
