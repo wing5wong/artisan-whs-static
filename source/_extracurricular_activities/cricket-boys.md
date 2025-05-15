@@ -20,6 +20,6 @@ We also play Inter-school Sports Exchange matches.
 
 **Terms:** 1 & 4
 
-**Teacher in Charge:** Graham Hall  
+**Teacher in Charge:** Graham Hall (hall.g@whs.ac.nz)  
 **1st XI Coach:** Steve Meredith  
 **Junior Coaches:** Hamish McGregor & Aaron Toy
