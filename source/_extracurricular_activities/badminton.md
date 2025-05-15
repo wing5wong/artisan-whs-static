@@ -25,7 +25,8 @@ Separate charge for Tournaments and Exchanges.
 
 **Terms:** 2 & 3  
 
-**Teacher in Charge:**  Mr Graham Hall 
+**Teacher in Charge:**  Mr Graham Hall  
+**Coach:**  Mr Graham Hall
 
 
 
