@@ -21,6 +21,6 @@ Please be aware that travel costs may be added on for the teams that are playing
 
 **Terms:** 2 & 3
 
-**Teacher in Charge:** Ms Natalie Harris  
-**1st XI Coaches:**  Mr Michael Davidson & Mr Luke Kirk             
+**Teacher in Charge:** Natalie Harris (harris.n@whs.ac.nz)  
+**1st XI Coaches:**  Michael Davidson & Luke Kirk             
 
