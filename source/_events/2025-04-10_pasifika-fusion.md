@@ -3,7 +3,10 @@ title: Pasifika Fusion, 25 & 26 June
 date: 2025-06-25T11:50:00+12:00
 ---
 Pasifika Fusion is in Palmerston North at Regent on Broadway on Wednesday 25 and Thursday 26 June.  
-The theme is "PI meets AI".  
+ 
+Pasifika Fusion Theme 2025:  "PI meets AI"  
+How do we honour and balance cultural knowledge and wisdom in a world where Artificial Intelligence (AI) is quickly becoming the norm in educational and professional spaces?  
+Thus PI (Pacific Island) meets AI.  
 
 We have about 26 students who are participating in the different categories.  
 At the moment we are travelling on both days.
