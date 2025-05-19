@@ -1,6 +1,6 @@
 ---
 title: Mr Myles Fothergill
-category: Parent Representative
+category: 
 image: >-
   https://res.cloudinary.com/whanganuihigh/image/upload/v1563763973/BoT/Myles_Fothergill_-_Photo.png
 ---
