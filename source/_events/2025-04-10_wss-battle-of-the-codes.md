@@ -16,7 +16,7 @@ Junior (Y9-10) Senior (Y11-13)
 
 The course is split into four legs that will vary in distance and terrain. Each team member will do one of the four legs.
 
-Entries close Wednesday 14 May
+Entries closed Wednesday 14 May.
 
 *Mrs Murphy  
 Director of Sport*
