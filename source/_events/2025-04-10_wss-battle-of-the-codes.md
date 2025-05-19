@@ -1,5 +1,5 @@
 ---
-title: WSS Battle of the Codes - entries close 14 May
+title: "WSS Battle of the Codes "
 date: 2025-05-20T10:01:00+12:00
 ---
 Whanganui Secondary Schools' Battle of the Codes fun run is on Tuesday 20 May at Tawhero Golf Course, 12.15-2.30pm. 
