@@ -1,9 +1,9 @@
 ---
-title: Mrs Mary Greenland
+title: Mr John McDonald
 departments:
   - Progressive
 on_leave: false
-house: Awa
+house: Moana
 positions:
   - department: Progressive
     title: Communication Literacy
