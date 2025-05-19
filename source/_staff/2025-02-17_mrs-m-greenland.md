@@ -11,4 +11,5 @@ positions:
     title: Digital Literacy
   - department: Progressive
     title: Life Skills
+email: mcdonald.j@whs.ac.nz
 ---
