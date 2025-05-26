@@ -1,6 +1,6 @@
 ---
 title: Time Schedule due to CAA exams, 26-28 May
-date: 2025-05-26T09:56:00+12:00
+date: 2025-05-27T09:56:00+12:00
 ---
 Time Schedule due to CAA exams, 26-28 May
 
