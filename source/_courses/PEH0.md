@@ -20,8 +20,6 @@ To provide the opportunity for participation and enjoyment in a wide range of ph
 
 Students are given the opportunity to develop core movement skills and understanding of attacking and defensive strategies through a variety of modified games, activities and sports. During Health lessons, students will enhance their knowledge of relationships, nutrition, drug/alcohol issues and decision making.
 
-Students have 2 PE and 2 Health per week.
-
-
+Students have 2 PE classes and 2 Health classes per week.
 
 - - -
