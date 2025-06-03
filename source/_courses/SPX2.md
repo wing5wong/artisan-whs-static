@@ -17,7 +17,7 @@ standards:
   - "21794"
   - "27299"
   - "91330"
-  - "91334"
-  - "91333"
+  - "6571"
+  - "91331"
 ---
 A practical based course giving opportunities to acquire knowledge and understanding of fitness and exercise activities. Students will learn about Sports Nutrition, demonstrate a number of exercise techniques in using gym equipment and participate in leisure activities. Assessment is all Internal.
