@@ -14,7 +14,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1748992593/News/tough_guy1.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1748992589/News/tough_guy_8.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1748992589/News/tough_guy4.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1748992589/News/tough_guy5.jpg
 show_in_slider: true
 date: 2025-05-30T11:15:00+12:00
 ---
