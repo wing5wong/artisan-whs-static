@@ -7,7 +7,7 @@ date: 2024-06-11T11:50:00.000Z
 entry_requirements: Teacher recommendation.
 year: "10"
 type: Compulsory
-course_duration: 26 Weeks
+course_duration: Full Year
 course_level: Year 10
 leads_to:
   - ENE1
