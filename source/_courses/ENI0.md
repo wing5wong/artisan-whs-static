@@ -6,7 +6,7 @@ subject_area: English (Introductory/Internal)
 date: 2024-06-11T13:08:00.000Z
 year: "10"
 type: Compulsory
-course_duration: 26 Weeks
+course_duration: Full Year
 course_level: Year 10
 leads_to:
   - ENI1
