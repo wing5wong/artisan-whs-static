@@ -13,11 +13,12 @@ leads_to:
   - FDH2
 standards:
   - "15892"
-  - "15895"
   - "15900"
   - "15901"
   - "15921"
   - "19770"
+  - "15919"
+  - "15920"
 course_fees: null
 ---
 This course serves as an introduction to the world of commercial catering. It comprises the basic skills of knife use; care and safety; selection of fresh fruit and vegetables; meat cuts; and the use of eggs and cheese. All this, combined with the learning of the specialist vocabulary of the kitchen, makes this course an attractive choice whether for a future career path or its use in daily life. 
