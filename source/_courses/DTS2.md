@@ -19,6 +19,4 @@ standards:
 notes: Can lead to future work in the computer infrastructure or programming fields.
 endorsement: Yes
 ---
-# DTS2 - Digital Technologies Science
-
 This course focuses on programming and computer science. Students will begin with the programming fundamentals, and expand upon these to create a variety of applications and games. Through this, they will develop the problem solving and logical thinking skills essential to any pathway involving technology. This course is highly project-based, and assessments follow the development process to ensure high-quality outcomes. Students will also need to keep end users in mind, and design their programs to be suitable for the people using them. Finally, the course also covers key computer science concepts and issues surrounding them, such as the use of artificial intelligence, computer security, and error control.

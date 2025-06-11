@@ -21,6 +21,4 @@ standards:
   - "29773"
 endorsement: Yes
 ---
-# DTM2 - Digital Technologies Media 
-
 This course enables students to use top-end digital media programs to create outcomes of their own. Students will learn to follow a development process to improve their workflow and the quality of their outcomes, to use appropriate and effective design layouts, to design outcomes with the end user in mind, and seamlessly transfer information between applications. Digital media projects in the course may include web design, visual design for print, video and audio editing for film, and more. Much of this will be based on the Adobe Creative suite of software. By the end of the course, students will have developed effective communication, design, research, and problem-solving skills.

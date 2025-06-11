@@ -20,8 +20,6 @@ standards:
   - "92007"
 endorsement: Yes
 ---
-# DTG1 - Digital Technologies General
-
 This course covers the two major paths offered by Digital Technology. 
 
 The Digital Media section of the course teaches students to design an outcome with people in mind, ensuring its suitability for those who will use it. These designs can be made for print, such as posters and board games; or they can be made to be viewed digitally, such as short films and interactive experiences.
