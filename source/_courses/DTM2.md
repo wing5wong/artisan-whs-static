@@ -13,7 +13,6 @@ assessment_type: Achievement Standard
 leads_to:
   - DTM3
 standards:
-  - "2786"
   - "29777"
   - "91356"
   - "91367"
