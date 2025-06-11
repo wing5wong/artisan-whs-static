@@ -12,7 +12,6 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
   - "91608"
-  - "91609"
   - "91901"
   - "91903"
   - "91909"

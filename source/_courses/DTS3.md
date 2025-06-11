@@ -4,7 +4,7 @@ name: Digital Technologies Science
 code: DTS3
 subject_area: Digital Technologies Science
 date: 2024-06-10T07:32:00.000Z
-entry_requirements: Open to Year 13, subject to HOF approval.
+entry_requirements: DTS2 or Level 2 Mathematics. Otherwise, subject to HoF approval.
 year: "13"
 type: Subject Choice
 course_duration: Full Year
