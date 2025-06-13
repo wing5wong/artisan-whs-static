@@ -15,9 +15,6 @@ leads_to:
 standards:
   - "30508"
   - "30997"
-  - "91102"
-  - "91105"
-  - "91106"
 notes: Currently some or all of the following standards are being offered,
   however changes to expiring standards in 2023 may result in the addition of
   alternative standards.

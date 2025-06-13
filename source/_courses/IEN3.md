@@ -12,9 +12,6 @@ course_level: NCEA 3
 assessment_type: Achievement and Unit Standard
 standards:
   - "22750"
-  - "91105"
-  - "91106"
-  - "91476"
 notes: Currently some or all of the following standards are being offered,
   however changes to expiring standards in 2023 may result in the addition of
   alternative standards.

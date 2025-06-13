@@ -22,8 +22,6 @@ standards:
 notes: >-
   This course is available to students of all year levels with English as a
   second language.
-
-  Currently some or all of the following standards are being offered, however changes to expiring standards in 2023 may result in the addition of alternative standards.
 course_fees: Included in International Student Fee
 ---
 To help English as a Second Language students to communicate in simple English. The course involves listening to others and responding confidently in spoken and written forms. English Language standards.

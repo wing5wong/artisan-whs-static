@@ -15,8 +15,6 @@ standards:
   - "28068"
   - "28070"
   - "31008"
-  - "90853"
-  - "90857"
 notes: >-
   'This course is available to students of all year levels with English as a
   second language. Level 1 (English) 7+ credits / Level 3 (English Language)'
