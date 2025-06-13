@@ -2,8 +2,12 @@
 title: House Quiz!
 date: 2025-06-13T09:52:00+12:00
 ---
-House Quiz 2025 is on Friday 13 June from 12 until 2pm (periods 3 and 4) at the Jubilee Stadium.
+House Quiz 2025 is on Friday 13 June, from 12 until 2pm (periods 3 and 4) at the Jubilee Stadium.
 
-Sign ups are now open [bit.ly/whshousequiz25](https://docs.google.com/forms/d/1vdxLdKt6vlUFoficlDs0kdZt9laqcClBR9SNA9N8plU/viewform?edit_requested=true).  
+Students that have signed up can collect a slip from their form teacher for leaving school.  
+On Friday, students get changed into House colours at break (no face paint) and at 11.40 make their way over to the Jubilee Stadium via the walkway.  
+Slips will be checked there. No slip no exit from school. 
 
-Get your team together of 3-4 people all from the same house and earn some house points!
+Please make sure your team has a pen.  
+Good luck everyone.  
+May the best team win!
