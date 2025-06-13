@@ -12,11 +12,11 @@ course_level: NCEA 3
 assessment_type: Achievement Standard
 standards:
   - "91405"
-  - "91407"
+  - "91406"
   - "91408"
   - "91409"
 course_fees: null
 ue_approved: true
 endorsement: Yes
 ---
-This course extends students to apply Accounting skills specifically meeting the requirement of Companies, partnerships and manufacturing organisations. Students research and prepare a report on a major New Zealand publicly listed company.  Job cost accounting and management decision making including cost volume profit analysis conclude the course.
+This course extends students to apply Accounting skills specifically meeting the requirement of companies, partnerships and manufacturing organisations. Job cost accounting and management decision making including cost volume profit analysis conclude the course.

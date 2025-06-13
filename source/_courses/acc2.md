@@ -16,8 +16,7 @@ standards:
   - "91175"
   - "91176"
   - "91179"
-  - "91386"
   - "91868"
 endorsement: Yes
 ---
-Akonga look at cashflow statements, accounts receivable and inventory systems in depth. Students are taught to process transactions and prepare financial statements using Xero accounting software. A module on analysing and interpretting financial statements concludes the course.
+Akonga look at cashflow statements, and learn about the accounts receivable system in depth.  Akonga are taught to process transactions, prepare financial statements and how to use the xero accounting software package.

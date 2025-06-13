@@ -19,8 +19,8 @@ standards:
   - "91430"
   - "91431"
   - "91432"
-course_fees: Field Trips (Kapiti Coast - no charge) / (Optional top of South
-  Island Trip post Easter. Cost $1100) / (Possible Tauranga Trip July $400)
+course_fees: Field Trips (Kapiti Coast - no charge) / (Optional South
+  Island Trip in September. Cost $1500) / (Possible NI Trip July $400)
 ue_approved: true
 endorsement: Yes
 ---
