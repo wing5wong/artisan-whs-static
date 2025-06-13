@@ -9,7 +9,7 @@ year: "12"
 type: Subject Choice
 course_duration: Full Year
 course_level: NCEA 2
-assessment_type: Achievment Standard and Cambridge as examination
+assessment_type: Achievment Standard and Cambridge AS examination
 leads_to:
   - MCA3
   - MPS3
@@ -27,7 +27,7 @@ notes: 1. Completion of this course will provide entry to any Level 3
   will receive NCEA credits and those who also complete MSC2 will gain a result
   in the Cambridge AS exam). Students taking this course are encouraged to also
   take MCS2. Endorsement if taken with MCS2.
-course_fees: $140. Cambridge Examination Fee. Students need a Graphics
+course_fees: $175. Cambridge Examination Fee. Students need a Graphics
   calculator for this course.
 endorsement: Yes
 ---
