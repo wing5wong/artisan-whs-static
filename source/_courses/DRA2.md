@@ -18,5 +18,6 @@ standards:
   - "91216"
   - "91218"
   - "91219"
+  - "91220"
 ---
 This course will offer students the chance to develop a wide range of personal and performance skills through the processes of drama. The course will extend the student's understanding and skills in many aspects of drama and theatre. It will incorporate workshop activities in performance, expression and theatre form. The students follow a process of participation, creation, performance and reflection.

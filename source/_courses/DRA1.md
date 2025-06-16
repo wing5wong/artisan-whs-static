@@ -12,7 +12,7 @@ assessment_type: Achievement Standard
 leads_to:
   - DRA2
 standards:
-  - "91940"
+  - "91216"
   - "91941"
   - "91942"
   - "91943"
