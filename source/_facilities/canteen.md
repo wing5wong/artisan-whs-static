@@ -15,4 +15,4 @@ Vegetarian, Vegan and Gluten free items can be pre-ordered prior to 8.35am or th
 
 Both EFTPOS and cash is accepted.
 
-Canteen services are provided by [Libelle Group](https://www.libelle.co.nz/)
+Canteen services are provided by [Tuckr](https://tuckr.nz/)
