@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - students released at 2pm
+title: Student Achievement Conferences - Students released at 2pm
 date: 2025-07-24T08:17:00+12:00
 ---
 WHANGANUI HIGH SCHOOL  
