@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences - Students released 2pm
+title: Student Achievement Conferences - Students released at 2pm
 date: 2025-07-23T08:10:00+12:00
 ---
 WHANGANUI HIGH SCHOOL  
@@ -24,3 +24,5 @@ Booking Close at 5.00pm on Tuesday 22 July, the evening before the interviews.
 
 Please be mindful when choosing Mathematics if your child has Ms Devi as there are two Ms Devi's in our Mathematics Department.  
 Ms Rajneeta Devi (Teacher Code 'DR') and Ms Sharuna Devi (Teacher Code 'DES').
+
+Any queries or difficulties in booking your appointment times please phone 349 0177.
