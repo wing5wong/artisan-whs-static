@@ -12,7 +12,8 @@ Where: Te Mana and Te Wehi Gymnasiums
 Booking will open at 5pm on Tuesday 15 JULY  
 
 To book an interview AFTER 5pm on Tuesday 15 July, click the following link:  
-👉 <https://www.schoolinterviews.co.nz/  
+👉 <<https://www.schoolinterviews.co.nz/>
+[](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 14 July). 
 
 Students will be released at the end of Period 4 – 2.00pm on both days.  
