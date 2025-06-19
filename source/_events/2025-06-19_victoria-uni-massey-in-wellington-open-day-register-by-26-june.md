@@ -3,6 +3,7 @@ title: VICTORIA UNI & MASSEY in Wellington OPEN DAY, Year 12-13 (register by 26 
 date: 2025-08-22T09:09:00+12:00
 ---
 Year 13s & 12s are invited to attend.  
+Leave WHS Bus Bay at 6am.  
 
 You MUST Register your interest by visiting:
 [https://bit.ly/whsuniopendays2025](https://docs.google.com/forms/d/e/1FAIpQLScMCTAY3xXTi0RXU0KfD0ARl9bkr7r8kccUI7YdSiY6fesqkw/viewform) by Thursday 26 June.  
