@@ -1,5 +1,5 @@
 ---
-title: MASSEY & UCOL Palmerston North OPEN DAY (register by 26 June)
+title: MASSEY & UCOL Palmerston North OPEN DAY, Year 12-13 (register by 26 June)
 date: 2025-08-06T09:07:00+12:00
 ---
 Year 13s & 12s are invited to attend.  
