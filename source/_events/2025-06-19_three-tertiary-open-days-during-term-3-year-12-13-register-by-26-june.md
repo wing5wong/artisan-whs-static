@@ -16,5 +16,5 @@ You MUST Register your interest by visiting:
 (Or write your name on the list at the Student Centre)
 
 If you DO NOT do this, you could miss out!  
-Mr. Keene needs to know numbers.  
-Link will go to student e-mails and the yr.13 G-classroom page.
+Mr Keene needs to know numbers.  
+Link will go to student e-mails and the year 13 G-classroom page.
