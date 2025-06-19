@@ -1,5 +1,5 @@
 ---
-title: VICTORIA UNI & MASSEY in Wellington OPEN DAY, Year 12-13 (register by 26 June)
+title: VICTORIA UNI & MASSEY Wellington OPEN DAY, Year 12-13 (register by 26 June)
 date: 2025-08-22T09:09:00+12:00
 ---
 Year 13s & 12s are invited to attend.  
@@ -11,5 +11,5 @@ You MUST Register your interest by visiting:
 (Or write your name on the list at the Student Centre).  
 
 If you DO NOT do this, you could miss out!  
-Mr. Keene needs to know numbers.  
-Link will go to student e-mails and the yr.13 G-classroom page.
+Mr Keene needs to know numbers.  
+Link will go to student e-mails and the year 13 G-classroom page.
