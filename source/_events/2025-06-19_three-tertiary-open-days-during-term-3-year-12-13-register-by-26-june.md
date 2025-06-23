@@ -1,5 +1,5 @@
 ---
-title: THREE Tertiary Open Days during term 3, Year 12-13 (register by 26 June)
+title: THREE Tertiary Open Days during Term 3, REGISTER BY 26 JUNE - Year 12-13
 date: 2025-06-26T09:11:00+12:00
 ---
 There are THREE Tertiary Open Days during Term 3. 
