@@ -1,6 +1,6 @@
 ---
 title: School Tours
-date: 2025-06-23T10:02:00+12:00
+date: 2025-06-24T10:02:00+12:00
 ---
 Guided tours of Whanganui High School will be available for Year 8 students and parents from Tuesday 17 June to Friday 27 June.  
 Bookings are essential. 
