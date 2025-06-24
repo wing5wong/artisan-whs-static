@@ -3,7 +3,7 @@ title: SCE0
 name: Science Extension
 code: SCE0
 subject_area: Science (Extension)
-date: 2021-06-30T02:31:41.069Z
+date: 2025-06-24T02:31:41.069Z
 year: '10'
 type: Compulsory
 course_duration: 26 Weeks

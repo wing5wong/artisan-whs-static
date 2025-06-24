@@ -3,7 +3,7 @@ title: SCI2
 name: Science Introductory
 code: SCI2
 subject_area: Science (Introductory)
-date: 2023-06-18T22:30:21.289Z
+date: 2025-06-24T22:30:21.289Z
 entry_requirements: 14 Level 1 Science credits.
 year: "12"
 type: Subject Choice
@@ -15,8 +15,9 @@ leads_to:
   - PHY2
   - CHE2
 standards:
-  - "18"
-  - "19894"
+  - "6402"
+  - "6401"
+  - "6400"
   - "91153"
   - "91160"
   - "91168"

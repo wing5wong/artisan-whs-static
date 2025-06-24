@@ -3,7 +3,7 @@ title: SCGE
 name: Science General
 code: SCGE
 subject_area: Science (General)
-date: 2023-06-18T21:57:46.337Z
+date: 2025-06-18T21:57:46.337Z
 year: "9"
 type: Compulsory
 course_duration: 26 Weeks

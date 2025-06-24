@@ -3,7 +3,7 @@ title: SCI0
 name: Science Introductory
 code: SCI0
 subject_area: Science (Introductory)
-date: 2023-06-18T21:48:06.603Z
+date: 2025-06-18T21:48:06.603Z
 entry_requirements: Successful completion of SCIE course.
 year: "10"
 type: Compulsory
@@ -19,4 +19,4 @@ To broaden students' understanding of Science and how humans use it to explain n
 
 **Content:**
 
-A practical based course that builds on and complements the concepts and skill learned in Year 9 Science via these themes: Chemical reactions - acids + bases - Space Survival - Electricity + magnetism - Sport + Medicine - Food + digestion - Plate tectonics - Astronomy.
+A practical based course that builds on and complements the concepts and skill learned in Year 9 Science via these themes: Chemical reactions - acids + bases - Space Survival - Electricity + magnetism - Sport + Medicine - Food + digestion - Earth Sciences, Forces.

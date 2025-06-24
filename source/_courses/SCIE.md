@@ -3,7 +3,7 @@ title: SCIE
 name: Science Introductory
 code: SCIE
 subject_area: Science (Introductory)
-date: 2023-06-18T21:54:16.127Z
+date: 2025-06-18T21:54:16.127Z
 year: "9"
 type: Compulsory
 course_duration: 26 Weeks
@@ -25,7 +25,8 @@ A hands-on course that encourages students to investigate and learn about the na
 * Planet Earth
 * Waves (Energy, Light and Sound)
 * Sustainability
-* Forensic Science
+* Separating materials
+* Plants and communities
 
 Students may also be given chances to participate in the following:
 

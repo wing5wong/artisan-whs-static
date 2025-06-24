@@ -3,7 +3,7 @@ title: BIO2
 name: Biology
 code: BIO2
 subject_area: Biology
-date: 2024-06-24T10:49:00.000Z
+date: 2025-06-24T10:49:00.000Z
 entry_requirements: 14 credits from SCG1 or SCE1 and HOF/TIC approval.
 year: "12"
 type: Subject Choice
