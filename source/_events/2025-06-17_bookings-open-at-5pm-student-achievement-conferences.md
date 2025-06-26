@@ -8,4 +8,9 @@ A 'link' will be added for bookings closer to the event.
 
 When: Wednesday 23 July & Thursday 24 July 2025  
 Times: 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
-Where: Te Mana and Te Wehi Gymnasiums
+Where: Te Mana and Te Wehi Gymnasiums  
+
+Teachers unable to attend:  
+Mr Keene (KN) Digital Technology (Technology)   
+Mrs Langrish (LA) Geography (Social Sciences)   
+Mrs Stevenson (SV) English
