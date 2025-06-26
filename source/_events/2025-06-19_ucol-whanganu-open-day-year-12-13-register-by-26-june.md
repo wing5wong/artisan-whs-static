@@ -1,5 +1,5 @@
 ---
-title: UCOL Whanganui OPEN DAY, Year 12-13 (register by 26 June)
+title: UCOL Whanganui OPEN DAY, Year 12-13
 date: 2025-07-23T09:01:00+12:00
 ---
 Year 13s & 12s are invited to attend.  
