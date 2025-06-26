@@ -11,4 +11,7 @@ You MUST Register your interest by visiting:
 
 If you DO NOT do this, you could miss out!  
 Mr Keene needs to know numbers.  
-Link will go to student e-mails and the year 13 G-classroom page.
+Link will go to student e-mails and the year 13 G-classroom page.  
+
+*Mr Keene  
+Careers Advisor*
