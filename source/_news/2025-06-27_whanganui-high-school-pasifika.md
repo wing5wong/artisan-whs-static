@@ -14,6 +14,10 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1750998075/News/pas4.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1750998075/News/pas0.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1750998075/News/pas2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1750998799/pas9_feeack.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1750998799/pas10_fv57dt.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1750998798/pas12_tnxwfx.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1750998798/pas11_dt7xas.jpg
 show_in_slider: true
 date: 2025-06-27T16:21:00+12:00
 ---
