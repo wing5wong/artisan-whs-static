@@ -21,4 +21,4 @@ image_gallery:
 show_in_slider: true
 date: 2025-06-27T16:21:00+12:00
 ---
-A group of our Pasifika students represented the school for Pasifika Fusion 2025 on the theme “PI meets AI”. Our students took part in took part in wearable art, essay and a poem based on the theme. All the students were also part of the cultural performance. Vinaka vakalevu to all those involved, especially the students, teachers whānau and Marie.
+“ A group of our Pasifika students represented the school for Pasifika Fusion 2025 on the theme “PI meets AI”. Our students took part in took part in wearable art, essay and a poem based on the theme. All the students were also part of the cultural performance. Vinaka vakalevu to all those involved, especially the students, teachers whānau and Marie."
