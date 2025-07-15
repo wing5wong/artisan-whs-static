@@ -9,11 +9,12 @@ When: Wednesday 23 July & Thursday 24 July 2025
 Times: 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana and Te Wehi Gymnasiums  
 
-BOOKINGS are now OPEN  
+BOOKINGS are now OPEN  😊  
 
-To book an interview use the following link:  
-https://www.scholinterviews.co.nz/  
-('Event Code' is needed from the Interim Report, which was emailed to you on 14 July)
+To book an interview click on the following link:  
+👉 <https://www.schoolinterviews.co.nz/>  
+('Event Code' is needed from the Interim Report, which was emailed to you on 14 July) 
+
 
 Students will be released at the end of Period 4 – 2.00pm on both days.  
 Buses will run at their normal times and the Homework Centre will be open in the Library until 4.30pm as usual.  
