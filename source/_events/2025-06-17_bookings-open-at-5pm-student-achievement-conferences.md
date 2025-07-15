@@ -1,5 +1,5 @@
 ---
-title: Bookings OPEN at 5pm, Student Achievement Conferences
+title: Bookings OPENED at 5pm, Student Achievement Conferences
 date: 2025-07-15T08:57:00+12:00
 ---
 BOOKINGS are now OPEN  😊  
