@@ -1,10 +1,10 @@
 ---
-title: Bookings OPENED at 5pm, Student Achievement Conferences
-date: 2025-07-15T08:57:00+12:00
+title: Bookings CLOSE at 5pm, Student Achievement Conferences
+date: 2025-07-22T08:57:00+12:00
 ---
-BOOKINGS are now OPEN  😊  
+Bookings CLOSE at 5pm, Tuesday 22 Tuesday  
 
-To book an interview click on the following link:  
+To book an interview before then click on the following link:  
 👉 <https://www.schoolinterviews.co.nz/>  
 ('Event Code' is needed from the Interim Report, which was emailed to you on 14 July) 
 
