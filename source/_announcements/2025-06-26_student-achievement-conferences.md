@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences, Bookings are now OPEN
+title: Student Achievement Conferences, Bookings CLOSE TODAY at 5pm
 is_emergency: false
 date: 2025-06-27T10:07:00+12:00
 subtitle: Wednesday 23 July & Thursday 24 July
@@ -24,7 +24,7 @@ Buses will run at their normal times and the Homework Centre will be open in the
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-BOOKINGS will CLOSE at 5.00pm on Tuesday 22 July, the evening before the interviews. 
+BOOKINGS CLOSE TODAY at 5.00pm, Tuesday 22 July, the evening before the interviews. 
 
 Please be mindful when choosing Mathematics if your child has Ms Devi as there are two Ms Devi's in our Mathematics Department.  
 Ms Rajneeta Devi (Teacher Code 'DR') and Ms Sharuna Devi (Teacher Code 'DES')  
