@@ -9,7 +9,7 @@ When: Wednesday 23 July & Thursday 24 July 2025
 Times: 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana and Te Wehi Gymnasiums  
 
-BOOKINGS are now OPEN  😊  
+BOOKINGS CLOSE TODAY AT 5PM!  
 
 To book an interview click on the following link:  
 👉 <https://www.schoolinterviews.co.nz/>  
