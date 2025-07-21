@@ -1,8 +1,8 @@
 ---
-title: Bookings CLOSE at 5pm, Student Achievement Conferences
+title: Bookings CLOSE TODAY at 5pm, Student Achievement Conferences
 date: 2025-07-22T08:57:00+12:00
 ---
-Bookings CLOSE at 5pm, Tuesday 22 Tuesday  
+Bookings CLOSE TODAY at 5pm, Tuesday 22 Tuesday  
 
 To book an interview before then click on the following link:  
 👉 <https://www.schoolinterviews.co.nz/>  
