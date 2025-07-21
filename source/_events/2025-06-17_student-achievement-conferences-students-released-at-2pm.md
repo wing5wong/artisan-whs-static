@@ -3,17 +3,17 @@ title: Student Achievement Conferences - Students released at 2pm
 date: 2025-07-24T08:17:00+12:00
 ---
 WHANGANUI HIGH SCHOOL  
-STUDENT ACHIEVEMENT CONFERENCES  
+STUDENT ACHIEVEMENT CONFERENCES
 
-When: Wednesday 23 July & Thursday 24 July 2025  
-Times: 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
-Where: Te Mana and Te Wehi Gymnasiums  
-
-BOOKINGS CLOSE TODAY AT 5PM!  
+BOOKINGS CLOSE TODAY AT 5PM, Tuesday 22 July.   
 
 To book an interview click on the following link:  
 👉 <https://www.schoolinterviews.co.nz/>  
-('Event Code' is needed from the Interim Report, which was emailed to you on 14 July) 
+('Event Code' is needed from the Interim Report, which was emailed to you on 14 July)
+
+When: Wednesday 23 July & Thursday 24 July 2025  
+Times: 3.00pm to 8.40pm (with dinner hour 5.00pm - 6.00pm)  
+Where: Te Mana and Te Wehi Gymnasiums   
 
 
 Students will be released at the end of Period 4 – 2.00pm on both days.  
