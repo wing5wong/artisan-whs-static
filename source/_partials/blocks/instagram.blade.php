@@ -1,5 +1,5 @@
 <section class="my-5 block-FBButton">
-    @if ($block['heading'])
+    @if (isset($block['heading']))
         <h2>{{ $block['heading'] }}</h2>
     @endif
     <a href="{{ $block['url'] }}" class="btn btn-lg btn-fb" style="display: flex; gap: 1em; align-items: center;">
