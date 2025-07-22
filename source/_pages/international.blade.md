@@ -35,8 +35,9 @@ blocks:
     heading: CODE OF PRACTICE
     type: h2section
   - type: facebook
-    heading: Check us out on facebook
     url: https://www.facebook.com/Whanganui-High-School-International-249702658396182
+  - type: instagram
+    url: https://www.instagram.com/whanganuihighinternational/
   - heading: Term Dates
     type: termDates
 ---
