@@ -10,5 +10,5 @@ mix.jigsaw()
     .options({
         processCssUrls: false,
     })
-    .copy('node_modules/@fortawesome/fontawesome-free/webfonts', 'assets/build/webfonts')
+    .copy('node_modules/@fortawesome/fontawesome-free/webfonts', 'source/assets/build/webfonts')
     .version();
