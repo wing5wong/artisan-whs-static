@@ -1,6 +1,6 @@
 ---
-title: Robotics
-date: 2019-09-24T04:03:51.498Z
+title: Robotics/Coding Club
+date: 2025-07-22T15:59:00+12:00
 people:
   - name: Mrs E. Hughes
     role: Teacher in Charge
@@ -11,6 +11,6 @@ Robotics is the opportunity for students to learn more about the branch of techn
 
 **Who can join:** All students 
 
-**When:** Meetings are Tuesdays after school in C6 from 3.10pm to 4.00pm
+**When:** Meetings are Thursdays after school in C6 from 3.10pm to 4.00pm
 
 **Cost:** Dependent on events entered
