@@ -4,7 +4,7 @@ date: 2025-07-25T10:30:44.835Z
 ---
 ## BECOME A HOMESTAY FAMILY
 
-** Welcome an international student into your home and make a lasting impact. **
+**Welcome an international student into your home and make a lasting impact.**
 
 ### Why Host?
 Hosting an international student is a rewarding way to:
@@ -28,17 +28,20 @@ We welcome families who:
 
 ### How to Get Started
 
-1. **Submit** the [Homestay - Expression of Interest From](https://forms.gle/BGH1332ThAURcm8p7)
-2. **We’ll Contact You**
+1. Submit the [Homestay - Expression of Interest From](https://forms.gle/BGH1332ThAURcm8p7)
+2. We'll Contact You:
 
     Our Homestay Coordinator will reach out to guide you through the next steps, including filling in a full application form. 
-3. **Safety Checks**
+
+3. Safety Checks:
 
     Police vetting is required for all household members aged 18+.
-4. **Home Visit**
+
+4. Home Visit:
 
     We’ll arrange a time to meet and learn more about your home and family routines.
-5. **Student Matching**
+
+5. Student Matching:
 
     We’ll create a profile of your family and contact you when a suitable student is ready.
     **Note:** Registration does not guarantee immediate placement.
