@@ -44,6 +44,7 @@ We welcome families who:
 5. Student Matching:
 
     We’ll create a profile of your family and contact you when a suitable student is ready.
+
     **Note:** Registration does not guarantee immediate placement.
 
 ### Want to Learn More?
