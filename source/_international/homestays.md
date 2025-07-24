@@ -46,6 +46,7 @@ We welcome families who:
 ### Want to Learn More?
 
 Our International Department is here to help.
+
 - Email homestay@whs.ac.nz
 - Call school international office on (06) 349 0178 ext. 8756 during school hours.
 
