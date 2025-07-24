@@ -1,6 +1,7 @@
 ---
 title: Homestays
 date: 2025-07-25T10:30:44.835Z
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1753398629/164008-library_0380_i8lw6h.jpg
 ---
 ## BECOME A HOMESTAY FAMILY
 
