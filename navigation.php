@@ -198,6 +198,10 @@ return [
                 'url' => '/international/fees-and-accommodation'
             ],
             [
+                'title' => 'Homestays',
+                'url' => '/international/homestays'
+            ],
+            [
                 'title' => 'Student Experiences',
                 'url' => '/international/student-experiences'
             ],
