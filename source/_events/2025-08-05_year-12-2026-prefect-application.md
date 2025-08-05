@@ -8,5 +8,5 @@ You have one week to complete the following bit.ly if you are interested.
 
 [bit.ly/2026whsprefect](https://docs.google.com/forms/d/e/1FAIpQLSemxAVH8uT4xxks5ofj_qLH9VsXQ1rZLZVm8sDFM2rASxwv-w/viewform)
 
-*Mr Martin\
+*Mr McAllen  
 PRINCIPAL*
