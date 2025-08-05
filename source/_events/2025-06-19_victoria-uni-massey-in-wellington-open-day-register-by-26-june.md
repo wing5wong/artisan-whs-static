@@ -6,8 +6,6 @@ Year 13s & 12s are invited to attend.
 Leave WHS Bus Bay at 6am on Friday 22 August.  
 There is a cost (maximum $40).  
 
-You had to register by Thursday 26 June.  
-
-*Mr Keene  
-Careers Advisor*
+*Mr Chris Friedel  
+Teacher in Charge*
 
