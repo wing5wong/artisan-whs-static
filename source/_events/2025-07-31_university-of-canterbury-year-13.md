@@ -6,5 +6,5 @@ A student Adviser from University of Canterbury will visit on Tuesday 12 August 
 
 If Canterbury is your 1st choice for 2026, come to the Library at first break.
 
-*Mr Keene  
-Careers Advisor*
+Please see Mrs de Smidt if you have any queries.
+
