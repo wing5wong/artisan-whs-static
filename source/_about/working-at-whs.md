@@ -1,11 +1,11 @@
 ---
 title: Working at WHS
-date: 2019-07-24T01:00:00.000Z
+date: 2025-08-08T09:17:00+12:00
 tags:
   - About WHS
-image: ''
-visible: 'Yes'
-extends: '_layouts.working-at-whs'
+image: ""
+visible: Yes
+extends: _layouts.working-at-whs
 ---
 ## Teaching Vacancies
 
