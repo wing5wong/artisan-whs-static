@@ -1,6 +1,7 @@
 ---
 title: Performing Arts Concert / Battle of the Houses
 date: 2025-08-21T08:24:00+12:00
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1754619670/Events/2025_Performing_Arts_Concert.jpg
 ---
 Come to the Performing Arts Concert, featuring Battle of the Houses on Thursday 21 August, 7pm at The Royal Whanganui Opera House and support your house (txt voting on the night).  
 
