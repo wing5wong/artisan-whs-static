@@ -1,5 +1,5 @@
 ---
-title: Theatresports, 2025
+title: Theatresports 23 & 24 August, 2025
 date: 2025-08-23T09:30:00+12:00
 ---
 Theatresports 2025  
