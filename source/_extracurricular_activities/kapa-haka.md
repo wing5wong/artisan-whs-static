@@ -10,4 +10,4 @@ Kapa haka plays a vital role in the culture of our school and holds pride of pla
 
 [Click here to view video of Kia Whaiora's performance at 2016 Performing Arts Concert](https://www.youtube.com/watch?v=9hkl_kPJFJw)
 
-*Image from: Rivercity Press 11/07/19*
+
