@@ -33,4 +33,4 @@ Show Quest is a dance, drama and design spectacular where the students are the s
 
 **Cost:** $60-$100 cost may vary 
 
-*Photo from Whanganui Chronicle 10/09/18*
+
