@@ -26,4 +26,3 @@ In 2022 from their performance at regionals Awaside were one of the 12 choirs in
 
 [Click here to watch the video of 2016 School Choir at Sydney Opera House ](https://www.youtube.com/watch?v=SpRHtCeD0xQ)
 
-_Image from: Whanganui Chronicle 16/08/19_
