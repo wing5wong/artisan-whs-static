@@ -1,6 +1,6 @@
 ---
 title: Year 12 - 2026 Prefect Application, 13 August to complete
-date: 2025-08-05T09:53:00+12:00
+date: 2025-08-13T09:53:00+12:00
 ---
 YEAR 12 only:  
 Kia ora, up and coming WHS Prefect Leaders!  
