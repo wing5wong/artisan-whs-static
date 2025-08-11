@@ -19,8 +19,9 @@ Whanganui High School has a school production every second year. These have beco
 
 **When:** Alternate years. Times vary, mostly evening and weekend rehearsals in the School Hall and/or Dance and Music Rooms.
 
-***Past productions include:***
+***Past productions include:***  
 
+* 2025 Major Production 'Chicago'
 * 2023 Major Production 'Grease'
 * 2021 Major Production 'Mamma Mia!'
 * 2018 Junior Production 'Once On This Island'
