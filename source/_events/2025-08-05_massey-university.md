@@ -1,10 +1,10 @@
 ---
-title: Massey University / Career Opportunities, Year 12-13
+title: Massey & Waikato University visits, Year 13
 date: 2025-08-14T08:32:00+12:00
 ---
-YR 12-13 - Massey University Visit / Career Opportunities
-  
-Thursday 14 August, Period 2 in Library - see google classroom for details.  
-Lots of prospects around agriculture.  
+YR 13  
+Massey University visit - Main Library: 10.30am  
+Waikato University visit - LB1 (in Library): 11am.
 
-See Mrs de Smidt if you wish to attend.
+  
+Any queries please see Mrs de Smidt.
