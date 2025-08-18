@@ -22,7 +22,7 @@ Social integration and subject mainstreaming are encouraged at Whanganui High Sc
 
 **Te Atawhai Staff are**
 
-Wendi Girven (Head of Te Atawahi), Diana Parnell, Emma Paki, Richie Parnell, Julie Turner
+Wendi Girven (Head of Te Atawhai), Diana Parnell, Emma Paki, Julie Turner, Ranita Kirk, Ngametua Areaiiti.
 
 **Te Atawhai ERO Policy**
 
