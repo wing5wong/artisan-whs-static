@@ -1,6 +1,6 @@
 ---
 title: Canteen
-date: 2019-06-26T21:56:17.468Z
+date: 2024-03-01T09:56:00+13:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600669/facilities/Canteen_Cropped.jpg
 description: >
   Our canteen is open for breakfast, lunch and at afternoon break. It is
