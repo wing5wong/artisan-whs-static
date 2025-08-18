@@ -1,6 +1,6 @@
 ---
 title: Learning Support Centre
-date: 2019-06-26T21:56:17.468Z
+date: 2025-08-18T12:46:00+12:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569537252/facilities/Learning_Centre_-_combined.jpg
 description: >
   The Learning Support Centre (LSC)  provides extra support for student in the
