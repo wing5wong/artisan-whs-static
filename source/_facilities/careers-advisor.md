@@ -1,7 +1,14 @@
 ---
 title: Careers Advisor
-date: 2019-04-26T21:56:17.468Z
-description: "Our Careers Office is located in the LB1 Classroom in our school's Library. The Careers Office is a valuable resource that assists students, through the expertise of our Careers Advisor, Mr Paul Keene (B.Sc, Dip.Tchg, P.G.Dip.Ed) to prepare themselves fully for tertiary study, training providers, the workplace, and life beyond school.\_If a student would like an appointment with the Careers Advisor this can be made by filling out a slip at our Student Centre.\n"
+date: 2024-03-01T09:56:00+13:00
+description: >
+  Our Careers Office is located in the LB1 Classroom in our school's Library.
+  The Careers Office is a valuable resource that assists students, through the
+  expertise of our Careers Advisor, Mr Paul Keene (B.Sc, Dip.Tchg, P.G.Dip.Ed)
+  to prepare themselves fully for tertiary study, training providers, the
+  workplace, and life beyond school. If a student would like an appointment with
+  the Careers Advisor this can be made by filling out a slip at our Student
+  Centre.
 ---
 Our Careers Office (located in our Deans House) is a valuable resource that assists students, through the expertise of our Careers Advisor, Mr Paul Keene (B.Sc, Dip.Tchg, P.G.Dip.Ed) to prepare themselves fully for tertiary study, training providers, the workplace, and life beyond school. 
 
