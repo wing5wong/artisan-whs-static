@@ -1,8 +1,7 @@
 ---
 title: Vocational Pathways
 date: 2020-07-29T02:23:57.661Z
-intro: Vocational Pathways provide new ways to achieve NCEA Levels 1, 2 and 3
-  and develop pathways that progress to further study, training and employment.
+intro: Find out about the Whanganui High School Performing Arts Vocational Pathways.
 ---
 Vocational Pathways provide new ways to achieve NCEA Levels 1, 2 and 3 and develop pathways that progress to further study, training and employment.
 
