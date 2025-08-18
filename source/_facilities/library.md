@@ -1,8 +1,7 @@
 ---
 title: Library
-date: 2019-06-26T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1556754481/facilities/IMG_0032.jpg
+date: 2024-03-01T09:56:00+13:00
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1556754481/facilities/IMG_0032.jpg
 description: >
   We like to think of the library as the beating heart of the school – everyone
   is welcomed here. It’s a multicultural community space managed by two
@@ -12,17 +11,13 @@ description: >
   students and staff. Our aim is to enable students to be in charge of their own
   learning.
 image_gallery:
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1556754481/facilities/IMG_0032.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1556754481/facilities/IMG_0032.jpg
     description: Main Library
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1556754495/facilities/library_chromebooks.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1556754495/facilities/library_chromebooks.jpg
     description: Library Chromebooks
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1556754470/facilities/IMG_0022.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1556754470/facilities/IMG_0022.jpg
     description: Library Foyer
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1556754526/facilities/IMG_0023.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1556754526/facilities/IMG_0023.jpg
     description: Library Catalogue
 ---
 ### Innovative Learning Environment
