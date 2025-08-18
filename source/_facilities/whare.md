@@ -1,8 +1,7 @@
 ---
 title: Whare
-date: 2019-06-26T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600675/facilities/Whare_-_combined.jpg
+date: 2024-03-01T09:56:00+13:00
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600675/facilities/Whare_-_combined.jpg
 description: |
   Kia Whaiora – ‘That we may have life’ is the name of our School Whare.
 ---
