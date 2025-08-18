@@ -1,6 +1,6 @@
 ---
 title: Art Facilities
-date: 2019-06-27T21:56:17.468Z
+date: 2024-03-01T09:56:00+13:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600664/facilities/Art_Facilities_-_Combined.jpg
 description: >
   The Visual Arts Department at Whanganui High School now boasts of a
