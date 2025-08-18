@@ -21,4 +21,5 @@ uniform: >+
 
    
 extracurricular_area: Performing Arts
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1755486164/Performing%20Arts/Theatresport_Competition.jpg
 ---
