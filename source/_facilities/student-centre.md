@@ -1,6 +1,6 @@
 ---
 title: Student Centre
-date: 2019-06-26T21:56:17.468Z
+date: 2024-03-01T09:56:00+13:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569537260/facilities/Student_Centre.jpg
 description: >
   The Student Centre is the place for students and parents to come to find out
