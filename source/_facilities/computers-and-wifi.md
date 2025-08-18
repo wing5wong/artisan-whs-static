@@ -1,8 +1,7 @@
 ---
 title: Computers and Wifi
-date: 2019-06-26T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600674/facilities/Wifi_-_combined.jpg
+date: 2024-03-01T09:56:00+13:00
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600674/facilities/Wifi_-_combined.jpg
 description: >
   Whanganui High School is well equipped with modern computer gear, which is
   well maintained and regularly updated with current software. We have eight
