@@ -1,6 +1,6 @@
 ---
 title: Course Selections
-date: 2020-03-02T07:23:00+13:00
+date: 2024-03-01T07:23:00+13:00
 intro: Find out about the Whanganui High School Course Selections.
 extends: _layouts.course-options
 ---
