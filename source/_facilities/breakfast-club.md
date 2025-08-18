@@ -1,6 +1,6 @@
 ---
 title: Breakfast Stop
-date: 2020-10-19T02:27:53.456Z
+date: 2024-03-01T08:27:00+13:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1646775018/facilities/FF890BD.jpg
 description: Information about Whanganui High School's Breakfast Club, which
   runs every school day 8.00am until 8.30am in the cooking room.
