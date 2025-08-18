@@ -1,10 +1,9 @@
 ---
 title: Extracurricular
-date: 2019-06-25T22:41:39.124Z
-intro: >-
-  Entry into all classes is subject to a satisfactory record in the preceding
-  year. Success in the Whanganui High School examinations gives students
-  provisional entry into their subjects the following year. Level 2 and Level 3
-  subject entry is confirmed through the NCEA examinations
+date: 2023-03-01T10:41:00+13:00
+intro: "Entry into all classes is subject to a satisfactory record in the
+  preceding year. Success in the Whanganui High School examinations gives
+  students provisional entry into their subjects the following year. "
 extends: _layouts.extraCurricular
 ---
+Level 2 and Level 3 subject entry is confirmed through the NCEA examinations
