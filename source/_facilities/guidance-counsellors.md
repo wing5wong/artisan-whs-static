@@ -1,6 +1,6 @@
 ---
 title: Guidance Counsellor
-date: 2019-06-26T21:56:17.468Z
+date: 2024-03-01T09:56:00+13:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1732225380/Events/Councillors_2024.jpg
 description: >
   We have two guidance counsellors; Jacqui McKenzie and Wendy Stanaway. You will
