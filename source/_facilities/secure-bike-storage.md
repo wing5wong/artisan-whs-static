@@ -1,8 +1,7 @@
 ---
 title: Secure Bike Storage
-date: 2019-04-08T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561600665/facilities/Bike_Cage_-_Combined.jpg
+date: 2024-03-01T09:56:00+13:00
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600665/facilities/Bike_Cage_-_Combined.jpg
 description: |
   We have a secure bike storage facility located behind our G Block.
 ---
