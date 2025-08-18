@@ -1,6 +1,6 @@
 ---
 title: Gymnasiums, Fields and Turf
-date: 2019-06-26T21:56:17.468Z
+date: 2024-03-01T09:56:00+13:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561600673/facilities/Gym_-_combined.jpg
 description: >
   Whanganui High School has three gymnasiums plus a weights/fitness area. The
