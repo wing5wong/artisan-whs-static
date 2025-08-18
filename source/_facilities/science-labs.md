@@ -1,8 +1,7 @@
 ---
 title: Science Labs
-date: 2019-06-26T21:56:17.468Z
-image: >-
-  https://res.cloudinary.com/whanganuihigh/image/upload/v1561602543/facilities/Science_-_combined.jpg
+date: 2024-03-01T09:56:00+13:00
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1561602543/facilities/Science_-_combined.jpg
 description: >
   Whanganui High School has 12 dedicated Science laboratories for Biology,
   Chemistry, Physics and Electronics.
