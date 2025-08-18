@@ -38,8 +38,8 @@ It’s not just about books here at Whanganui High - we provide a seamless digit
 
 ### Orientation Events and Speakers
 
-The school library is multi-talented, it has wide-ranging uses. We manage the staff and student web portals and we’re a venue for visiting speakers, seminars, debates, and evening functions.\
-We also house the silent study room for seniors.\
+The school library is multi-talented, it has wide-ranging uses. We manage the staff and student web portals and we’re a venue for visiting speakers, seminars, debates, and evening functions.  
+We also house the silent study room for seniors.  
 Several times a year we host orientation sessions to welcome our newly arrived Y9s and International students so they can find their feet and get to know fellow new arrivals and staff members in a warm and comfortable setting.
 
 ### Photographs and Video
