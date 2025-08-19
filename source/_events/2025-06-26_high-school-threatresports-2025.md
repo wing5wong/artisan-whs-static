@@ -1,8 +1,8 @@
 ---
 title: Theatresports (23 & 24 August), 2025
 date: 2025-08-23T09:30:00+12:00
-image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1755486164/Performing%20Arts/Theatresport_Competition.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1755486164/Performing%20Arts/Theatresport_Competition.jpg
+image_gallery: []
 ---
 Theatresports 2025  
 Centrepoint Theatre  
