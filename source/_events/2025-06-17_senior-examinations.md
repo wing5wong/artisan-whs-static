@@ -2,7 +2,7 @@
 title: Senior School Examinations, Year 11-13
 date: 2025-09-01T09:50:00+12:00
 ---
-Senior School Examinations start on Monday 1 September.
+Senior School Examinations - Monday 1 September until Tuesday 9 September.
 
 Below is the link for the WHS Examination Timetable.  
 This also includes the CAA examinations..  
