@@ -1,7 +1,7 @@
 ---
-title: ENI2
-name: English Introductory/Internal
-code: ENI2
+title: LIT2
+name: English Literacy
+code: LIT2
 subject_area: English (Introductory/Internal)
 date: 2025-08-02T23:07:20.684Z
 entry_requirements: Teacher recommendations.
@@ -11,7 +11,7 @@ course_duration: Full Year
 course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
-  - ENI3
+  - LIT3
 standards:
   - "4261"
   - "12349"

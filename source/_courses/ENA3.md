@@ -1,7 +1,7 @@
 ---
-title: ENL3
-name: English Literature
-code: ENL3
+title: ENA3
+name: Advanced English
+code: ENA3
 subject_area: English (Extension)
 date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits ENG2 achieved mainly at Merit or Excellence.

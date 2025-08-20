@@ -1,10 +1,10 @@
 ---
-title: ENE2
-name: English Extension
-code: ENE2
+title: ENA2
+name: Advanced English
+code: ENA2
 subject_area: English (Extension)
 date: 2025-08-02T23:07:20.684Z
-entry_requirements: 18 credits ENG1/ENE1 mainly at Merit and Excellence and teacher recommendation.
+entry_requirements: 18 credits ENG1/ENA1 mainly at Merit and Excellence and teacher recommendation.
 year: "12"
 type: Compulsory
 course_duration: Full Year
@@ -12,7 +12,7 @@ course_level: NCEA 2
 assessment_type: Achievement Standard
 leads_to:
   - ENG3
-  - ENL3
+  - ENA3
 standards:
   - "91098"
   - "91099"
