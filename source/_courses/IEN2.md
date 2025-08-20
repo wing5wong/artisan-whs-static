@@ -3,7 +3,7 @@ title: IEN2
 name: International English
 code: IEN2
 subject_area: International English
-date: 2023-06-28T00:03:39.781Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Literacy credits in reading and writing Level 1 and HOF/TIC approval.
 year: "12"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: MATE
 name: Mathematics General
 code: MATE
 subject_area: Mathematics (General)
-date: 2024-06-19T16:14:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Compulsory
 course_duration: 26 Weeks

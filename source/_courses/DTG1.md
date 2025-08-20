@@ -3,7 +3,7 @@ title: DTG1
 name: Digital Technologies General
 code: DTG1
 subject_area: Digital Technologies
-date: 2024-06-06T23:46:09.722Z
+date: 2025-08-02T23:07:20.684Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year

@@ -3,7 +3,7 @@ title: ENI3
 name: English Introductory/Internal
 code: ENI3
 subject_area: English (Introductory/Internal)
-date: 2023-07-12T02:21:17.706Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Teacher recommendations.
 year: "13"
 type: Compulsory

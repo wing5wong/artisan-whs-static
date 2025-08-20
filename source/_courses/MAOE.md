@@ -3,7 +3,7 @@ title: MAOE
 name: Te Reo Māori
 code: MAOE
 subject_area: Te Reo Māori
-date: 2023-06-26T00:42:51.393Z
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks

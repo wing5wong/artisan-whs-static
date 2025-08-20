@@ -3,7 +3,7 @@ title: DTG0
 name: Digital Technologies General
 code: DTG0
 subject_area: Digital Technologies
-date: 2024-06-06T23:44:02.795Z
+date: 2025-08-02T23:07:20.684Z
 year: "10"
 type: Compulsory
 course_duration: 13 Weeks

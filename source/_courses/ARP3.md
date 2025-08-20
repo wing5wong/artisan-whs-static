@@ -3,7 +3,7 @@ title: ARP3
 name: Art Painting
 code: ARP3
 subject_area: Painting
-date: 2024-06-19T15:26:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credit in ARP2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

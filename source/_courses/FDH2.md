@@ -3,7 +3,7 @@ title: FDH2
 name: Hospitality
 code: FDH2
 subject_area: Hospitality
-date: 2024-06-18T07:39:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Have studied FNG1 or FDH1 and HOF/TIC approval.
 year: "12"
 type: Subject Choice

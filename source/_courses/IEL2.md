@@ -3,7 +3,7 @@ title: IEL2
 name: International English Language
 code: IEL2
 subject_area: International English Language
-date: 2023-06-28T00:04:41.621Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: ESOL students who need to develop English skills and HOF/TIC approval.
 year: "12"
 type: Subject Choice

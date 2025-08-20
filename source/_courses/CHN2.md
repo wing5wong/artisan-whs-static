@@ -3,7 +3,7 @@ title: CHN2
 name: Chinese
 code: CHN2
 subject_area: Chinese
-date: 2024-06-25T15:52:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 Credits in CHN1 or HOD approval.
 year: "12"
 type: Subject Choice

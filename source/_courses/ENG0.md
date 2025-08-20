@@ -3,7 +3,7 @@ title: ENG0
 name: English General
 code: ENG0
 subject_area: English (General)
-date: 2024-06-11T13:04:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Satisfactory completion of the ENGE course. 50% in the End
   of year Examination. Teacher recommendations.
 year: "10"

@@ -3,7 +3,7 @@ title: BAC2
 name: Building & Construction
 code: BAC2
 subject_area: Building & Construction
-date: 2024-06-17T15:08:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: BAC1 and intend studying an English Course at Level 2 and
   HOF/TIC approval. Recommend that students also study TEC2 or DVC2.
 year: "12"

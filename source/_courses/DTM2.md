@@ -3,7 +3,7 @@ title: DTM2
 name: Digital Technologies Media
 code: DTM2
 subject_area: Digital Technologies Media
-date: 2024-06-06T23:57:59.503Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Open entry to Year 12 students, subject to HOF approval.
 year: "12"
 type: Subject Choice

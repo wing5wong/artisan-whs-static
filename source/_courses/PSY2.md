@@ -3,7 +3,7 @@ title: PSY2
 name: Psychology
 code: PSY2
 subject_area: Psychology
-date: 2024-06-18T08:21:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in ENG1 or a Level 1 Social Science course or HOF/TIC approval
 year: "12"
 type: Subject Choice

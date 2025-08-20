@@ -3,7 +3,7 @@ title: FRE3
 name: French
 code: FRE3
 subject_area: French
-date: 2023-06-15T01:11:59.944Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in FRE2 or HOD approval.
 year: "13"
 type: Subject Choice

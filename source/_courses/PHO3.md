@@ -3,7 +3,7 @@ title: PHO3
 name: Photography
 code: PHO3
 subject_area: Photography
-date: 2024-06-19T15:29:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in PHO2 and HOF/TIC approval. A digital camera
   with a 'manual' function is essential. There will be limited places available
   in this course.

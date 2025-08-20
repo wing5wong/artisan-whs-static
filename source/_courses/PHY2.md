@@ -3,7 +3,7 @@ title: PHY2
 name: Physics
 code: PHY2
 subject_area: Physics
-date: 2024-06-24T11:39:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: HOF/TIC approval. Must have passed 92047 Level 1 Physics
   Course with achieved or higher grade
 year: "12"

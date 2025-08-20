@@ -3,7 +3,7 @@ title: IELE
 name: International English
 code: IELE
 subject_area: International English
-date: 2023-06-27T23:54:11.055Z
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Compulsory
 course_duration: Full Year

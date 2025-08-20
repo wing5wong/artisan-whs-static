@@ -3,7 +3,7 @@ title: AUT1
 name: Automotive Engineering
 code: AUT1
 subject_area: Automotive Engineering
-date: 2024-06-18T09:28:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Class size limited. Entry by HOF/TIC approval and a record
   of safety and responsibility in Years 9 and 10.
 year: "11"

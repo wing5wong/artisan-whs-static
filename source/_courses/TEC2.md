@@ -3,7 +3,7 @@ title: TEC2
 name: Technology Materials
 code: TEC2
 subject_area: Technology Materials
-date: 2024-06-17T15:15:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in TCE1, TEC1 or BAC1 and HOF/TIC approval
 year: "12"
 type: Subject Choice

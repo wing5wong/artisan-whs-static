@@ -3,7 +3,7 @@ title: ECO3
 name: Economics
 code: ECO3
 subject_area: Economics
-date: 2024-06-18T08:19:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 Credits in ECO2 or in both ENG2 or ENE2 and MTA2 or MPS2
   including 1 external standard in each and HOF/TIC approval
 year: "13"

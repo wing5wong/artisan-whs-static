@@ -3,7 +3,7 @@ title: PEHE
 name: Physical Education & Health
 code: PEHE
 subject_area: P.E/Health
-date: 2025-06-03T10:38:00+12:00
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Compulsory
 course_duration: Full Year

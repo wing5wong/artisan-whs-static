@@ -3,7 +3,7 @@ title: FRE1
 name: French
 code: FRE1
 subject_area: French
-date: 2024-06-25T16:07:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Full year at Year 10 or HOD approval.
 year: "11"
 type: Subject Choice

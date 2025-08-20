@@ -3,7 +3,7 @@ title: SCG1
 name: Science General
 code: SCG1
 subject_area: Science (General)
-date: 2025-06-18T21:42:34.173Z
+date: 2025-08-02T23:07:20.684Z
 year: "11"
 type: Compulsory
 course_duration: Full Year

@@ -3,7 +3,7 @@ title: MUS0
 name: Music
 code: MUS0
 subject_area: Music
-date: 2024-06-20T13:58:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks

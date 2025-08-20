@@ -3,7 +3,7 @@ title: TOU2
 name: Tourism
 code: TOU2
 subject_area: Tourism
-date: 2024-06-18T08:32:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Unit Standards course and entry is subject to HOF approval.
   Other Social Science options encouraged for students with academic strengths.
 year: "12"

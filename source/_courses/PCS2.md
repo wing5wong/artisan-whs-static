@@ -3,7 +3,7 @@ title: PCL2
 name: Progressive Communication Literacy
 code: PCL2
 subject_area: Progressive Communication Literacy
-date: 2023-06-15T02:25:21.754Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: HOF/TIC approval
 year: "12"
 type: Subject Choice

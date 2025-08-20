@@ -3,7 +3,7 @@ title: BIO3
 name: Biology
 code: BIO3
 subject_area: Biology
-date: 2025-08-15T14:05:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in BIO2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: HLT3
 name: Health
 code: HLT3
 subject_area: Health
-date: 2024-06-18T07:41:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: At least 15 credits at HLT2. Will consider students who have
   not done HLT2 with 12 credits from ENG2. HOF/TIC approval.
 year: "13"

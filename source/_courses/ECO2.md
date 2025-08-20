@@ -3,7 +3,7 @@ title: ECO2
 name: Economics
 code: ECO2
 subject_area: Economics
-date: 2024-06-18T08:19:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in ECO1 or in both ENG1 or ENE1 and MAG1 or MAE1.
   ECO1 an advantage and HOF/TIC approval.
 year: "12"

@@ -3,7 +3,7 @@ title: GEO1
 name: Geography
 code: GEO1
 subject_area: Geography
-date: 2024-06-18T08:44:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year

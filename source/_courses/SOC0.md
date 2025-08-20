@@ -3,7 +3,7 @@ title: SOC0
 name: Social Studies
 code: SOC0
 subject_area: Social Studies
-date: 2024-06-18T08:09:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Completion of SOCE (Year 9) Social Science Course.
 year: "10"
 type: Compulsory

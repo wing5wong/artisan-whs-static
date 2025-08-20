@@ -3,7 +3,7 @@ title: STU3
 name: Supervised Study
 code: STU3
 subject_area: Supervised Study
-date: 2023-06-06T22:58:22.492Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: "This is an invitation only course for students with a very
   high workload. Application is by way of a request to the Deputy Principal
   responsible for Course Selection.Full attendance and a positive attitude to

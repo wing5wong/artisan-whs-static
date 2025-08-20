@@ -3,7 +3,7 @@ title: CLS3
 name: Classical Studies
 code: CLS3
 subject_area: Classical Studies
-date: 2024-06-18T08:18:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: "12 credits in at least one of the following: CLS2 or ENG2
   or HIS2 and HOF/TIC approval. At least 4 credits must be from external
   examinations."

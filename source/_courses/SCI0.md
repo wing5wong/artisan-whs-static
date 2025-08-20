@@ -3,7 +3,7 @@ title: SCI0
 name: Science Introductory
 code: SCI0
 subject_area: Science (Introductory)
-date: 2025-06-18T21:48:06.603Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Successful completion of SCIE course.
 year: "10"
 type: Compulsory

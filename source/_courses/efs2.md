@@ -3,7 +3,7 @@ title: EFS2
 name: "Education for Sustainability "
 code: EFS2
 subject_area: Social Studies
-date: 2024-06-18T10:34:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "12"
 type: Subject Choice
 course_duration: Full Year

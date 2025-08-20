@@ -3,7 +3,7 @@ title: SCEE
 name: Science Extension
 code: SCEE
 subject_area: Science (Extension)
-date: 2025-06-18T21:56:14.144Z
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Compulsory
 course_duration: 26 Weeks

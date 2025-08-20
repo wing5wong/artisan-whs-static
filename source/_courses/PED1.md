@@ -3,7 +3,7 @@ title: PED1
 name: Physical Education
 code: PED1
 subject_area: P.E/Sports Science
-date: 2024-06-18T07:51:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year

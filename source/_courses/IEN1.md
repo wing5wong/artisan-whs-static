@@ -3,7 +3,7 @@ title: IEN1
 name: International English
 code: IEN1
 subject_area: International English
-date: 2023-06-27T23:49:21.466Z
+date: 2025-08-02T23:07:20.684Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year

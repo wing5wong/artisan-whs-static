@@ -3,7 +3,7 @@ title: MUS3
 name: Music
 code: MUS3
 subject_area: Music
-date: 2024-06-20T14:05:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: At least 12 credits in MUS2 or equivalent. Currently
   learning an instrument or HOF/TIC approval.
 year: "13"

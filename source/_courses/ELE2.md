@@ -3,7 +3,7 @@ title: ELE2
 name: Electronics
 code: ELE2
 subject_area: Electronics
-date: 2024-07-02T07:34:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: HOF/TIC approval must have Numeracy and Literacy Credits
 year: "12"
 type: Subject Choice

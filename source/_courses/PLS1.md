@@ -3,7 +3,7 @@ title: PLS1
 name: Progressive Life Skills
 code: PLS1
 subject_area: Progressive Life Skills
-date: 2024-07-02T07:33:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: HOF/TIC approval
 year: "11"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: ENG3
 name: English General
 code: ENG3
 subject_area: English (General)
-date: 2024-06-11T13:07:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: "10 credits UE Literacy, with at least one Level 2 external
   standard achieved. "
 year: "13"

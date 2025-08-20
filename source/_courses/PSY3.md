@@ -3,7 +3,7 @@ title: PSY3
 name: Psychology
 code: PSY3
 subject_area: Psychology
-date: 2024-06-18T08:21:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 Credits in ENG2 or PSY2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

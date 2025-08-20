@@ -3,7 +3,7 @@ title: MTA1
 name: Trigonometry and Algebra
 code: MTA1
 subject_area: Trigonometry and Algebra
-date: 2024-06-20T12:07:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 70%+ in School examination and at least 4 Numeracy Credits from Year 10
 year: "11"
 type: Compulsory

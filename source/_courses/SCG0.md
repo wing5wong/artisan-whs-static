@@ -3,7 +3,7 @@ title: SCG0
 name: Science General
 code: SCG0
 subject_area: Science (General)
-date: 2025-06-24T02:35:54.818Z
+date: 2025-08-02T23:07:20.684Z
 year: '10'
 type: Compulsory
 course_duration: 26 Weeks

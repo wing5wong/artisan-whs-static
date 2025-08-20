@@ -3,7 +3,7 @@ title: DRA3
 name: Drama
 code: DRA3
 subject_area: Drama
-date: 2024-06-19T15:25:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 16 credits in DRA1 or DRA2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: DVC3
 name: Design & Visual Communication
 code: DVC3
 subject_area: Design & Visual Communication
-date: 2024-06-17T15:30:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in DVC2 and HOF approval.
 year: "13"
 type: Subject Choice

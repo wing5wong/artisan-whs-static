@@ -3,7 +3,7 @@ title: PED2
 name: Physical Education
 code: PED2
 subject_area: P.E/Sports Science
-date: 2024-06-18T07:52:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 14 Credits in PED1 and 12 credits in ENG1/ENE1 and HOF/TIC approval.
 year: "12"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: TEC3
 name: Technology Materials
 code: TEC3
 subject_area: Technology Materials
-date: 2024-06-17T15:16:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in TCE2 or TEC2, or HOF approval.
 year: "13"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: DTGE
 name: Digital Technologies General
 code: DTGE
 subject_area: Digital Technologies
-date: 2024-06-06T23:16:17.051Z
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Compulsory
 course_duration: 13 Weeks

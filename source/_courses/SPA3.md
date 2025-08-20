@@ -2,7 +2,7 @@
 name: Spanish
 code: SPA3
 subject_area: Spanish
-date: 2024-06-25T16:27:00.000Z
+date: 2025-08-02T23:07:20.684Z
 course_level: NCEA 3
 course_fees: Own bi-lingual dictionary is an advantage.
 ue_approved: Yes

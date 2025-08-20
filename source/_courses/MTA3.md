@@ -3,7 +3,7 @@ title: MTA3
 name: Trigonometry and Algebra
 code: MTA3
 subject_area: Trigonometry and Algebra
-date: 2024-06-20T13:53:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Algebra (MTA2) and/or Probability (MPS2) school Examination
   and HOF/TIC approval
 year: "13"

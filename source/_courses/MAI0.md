@@ -3,7 +3,7 @@ title: MAI0
 name: Mathematics Introductory
 code: MAI0
 subject_area: Mathematics (Introductory)
-date: 2024-06-19T16:17:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Satisfactory completion of a Year 9 Mathematics course.
 year: "10"
 type: Compulsory

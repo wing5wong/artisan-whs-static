@@ -3,7 +3,7 @@ title: IEC1
 name: International English Communication
 code: IEC1
 subject_area: International English Communication
-date: 2023-06-27T23:54:11.055Z
+date: 2025-08-02T23:07:20.684Z
 year: "11"
 type: Compulsory
 course_duration: Full Year

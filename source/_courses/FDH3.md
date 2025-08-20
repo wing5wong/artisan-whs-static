@@ -3,7 +3,7 @@ title: FDH3
 name: Hospitality
 code: FDH3
 subject_area: Hospitality
-date: 2024-06-18T07:36:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 8 credits in FNG2 or 12 credits in FDH2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

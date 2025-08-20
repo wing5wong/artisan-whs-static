@@ -3,7 +3,7 @@ title: PHY3
 name: Physics
 code: PHY3
 subject_area: Physics
-date: 2024-06-24T11:39:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 13 credits at PHY2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

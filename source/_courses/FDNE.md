@@ -3,7 +3,7 @@ title: FDNE
 name: Food & Nutrition
 code: FDNE
 subject_area: Food and Nutrition
-date: 2024-06-17T15:31:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks

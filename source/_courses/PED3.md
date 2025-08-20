@@ -3,7 +3,7 @@ title: PED3
 name: Physical Education
 code: PED3
 subject_area: P.E/Sports Science
-date: 2024-06-18T07:52:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 14 credits in PED2 and 12 credits in ENG2/ENE2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

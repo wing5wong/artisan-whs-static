@@ -3,7 +3,7 @@ title: TCE1
 name: Technology Engineering
 code: TCE1
 subject_area: Technology Engineering
-date: 2024-06-17T13:47:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "11"
 type: Subject Choice
 course_duration: Full Year

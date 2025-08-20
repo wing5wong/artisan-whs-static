@@ -3,7 +3,7 @@ title: PEX0
 name: Physical Education & Health - Extension
 code: PEX0
 subject_area: P.E/Health
-date: 2025-06-03T11:54:00+12:00
+date: 2025-08-02T23:07:20.684Z
 year: "10"
 type: Compulsory
 course_duration: 26 Weeks

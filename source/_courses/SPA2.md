@@ -3,7 +3,7 @@ title: SPA2
 name: Spanish
 code: SPA2
 subject_area: Spanish
-date: 2024-06-25T16:23:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in SPA1 or HOD approval.
 year: "12"
 type: Subject Choice

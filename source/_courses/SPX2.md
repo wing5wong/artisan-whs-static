@@ -3,7 +3,7 @@ title: SPX2
 name: Sport & Exercise
 code: SPX2
 subject_area: Sport & Exercise
-date: 2024-06-18T07:58:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Regular involvement in sport at any level, preferably school
   team. PED1 an advantage. HOF/TIC approval.
 year: "12"

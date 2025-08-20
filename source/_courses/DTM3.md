@@ -3,7 +3,7 @@ title: DTM3
 name: Digital Technologies Media
 code: DTM3
 subject_area: Digital Technologies Media
-date: 2024-06-07T00:24:46.160Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Open entry for Year 13 students, subject to HOF approval.
 year: "13"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: PFL2
 name: Progressive Financial Literacy
 code: PFL2
 subject_area: Progressive Financial Literacy
-date: 2023-06-28T00:14:13.583Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: HOF/TIC approval
 year: "12"
 type: Subject Choice

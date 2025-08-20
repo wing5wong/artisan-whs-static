@@ -3,7 +3,7 @@ title: PEH0
 name: Physical Education & Health
 code: PEH0
 subject_area: P.E/Health
-date: 2025-06-03T10:39:00+12:00
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Satisfactory completion of PEHE course.
 year: "10"
 type: Compulsory

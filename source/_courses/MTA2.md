@@ -3,7 +3,7 @@ title: MTA2
 name: Trigonometry and Algebra
 code: MTA2
 subject_area: Trigonometry and Algebra
-date: 2024-06-20T13:44:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Level One Numeracy or HOF/TIC approval.
 year: "12"
 type: Subject Choice

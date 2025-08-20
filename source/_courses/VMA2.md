@@ -4,7 +4,7 @@ maori_title: ""
 name: Vocational Studies Applied Mathematics
 code: VMA2
 subject_area: Vocational Studies (Mathematics)
-date: 2024-08-12T09:50:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Class size limited. Interview by teacher in charge required.
 year: "12"
 type: Subject Choice

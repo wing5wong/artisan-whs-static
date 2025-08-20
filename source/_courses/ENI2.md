@@ -3,7 +3,7 @@ title: ENI2
 name: English Introductory/Internal
 code: ENI2
 subject_area: English (Introductory/Internal)
-date: 2024-06-11T13:09:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Teacher recommendations.
 year: "12"
 type: Compulsory

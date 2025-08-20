@@ -3,7 +3,7 @@ title: DTS2
 name: Digital Technologies Science
 code: DTS2
 subject_area: Digital Technologies Science
-date: 2024-06-07T01:09:14.987Z
+date: 2025-08-02T23:07:20.684Z
 year: "12"
 type: Subject Choice
 course_duration: Full Year

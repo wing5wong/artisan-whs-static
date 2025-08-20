@@ -3,7 +3,7 @@ title: HIS3
 name: History
 code: HIS3
 subject_area: History
-date: 2024-06-18T08:31:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 Credits in HIS2 or ENG2.
 year: "13"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: TECE
 name: Technology Materials
 code: TECE
 subject_area: Technology Materials
-date: 2023-06-30T01:26:21.430Z
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Subject Choice
 course_duration: 6 Weeks

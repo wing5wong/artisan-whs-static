@@ -3,7 +3,7 @@ title: LANE
 name: Language Tasters
 code: LANE
 subject_area: Language Tasters
-date: 2024-06-24T12:49:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "9"
 type: Compulsory
 course_duration: 6 Weeks

@@ -3,7 +3,7 @@ title: MCA3
 name: Calculus & Algebra Extension
 code: MCA3
 subject_area: Calculus & Algebra Extension
-date: 2024-06-20T13:48:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: Students need to have taken the MCA2 course in Year 12.
 year: "13"
 type: Subject Choice

@@ -3,7 +3,7 @@ title: MAO3
 name: Te Reo Māori me ōna Tikanga
 code: MAO3
 subject_area: Te Reo Māori
-date: 2024-07-12T01:47:25.113Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 18 Credits in MAO2 and HOF/TIC approval.
 year: "13"
 type: Subject Choice

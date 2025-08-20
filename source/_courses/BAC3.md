@@ -3,7 +3,7 @@ title: BAC3
 name: Building & Construction
 code: BAC3
 subject_area: Building & Construction
-date: 2024-06-17T15:04:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: BAC2 or HOF approval.
 year: "13"
 type: Subject Choice

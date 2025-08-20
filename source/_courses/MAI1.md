@@ -3,7 +3,7 @@ title: MAI1
 name: Mathematics Introductory
 code: MAI1
 subject_area: Mathematics (Introductory)
-date: 2024-06-13T09:06:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "11"
 type: Compulsory
 course_duration: Full Year

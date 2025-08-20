@@ -3,7 +3,7 @@ title: DAN0
 name: Dance
 code: DAN0
 subject_area: Dance
-date: 2024-06-18T09:44:00.000Z
+date: 2025-08-02T23:07:20.684Z
 year: "10"
 type: Subject Choice
 course_duration: 13 Weeks

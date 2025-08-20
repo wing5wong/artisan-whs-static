@@ -3,7 +3,7 @@ title: GEO2
 name: Geography
 code: GEO2
 subject_area: Geography
-date: 2024-06-18T08:45:00.000Z
+date: 2025-08-02T23:07:20.684Z
 entry_requirements: 12 credits in GEO1 or ENG1 or HIS1 or HOF/TIC approval.
 year: "12"
 type: Subject Choice
