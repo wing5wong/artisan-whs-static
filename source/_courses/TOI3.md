@@ -1,8 +1,8 @@
 ---
 title: TOI3
-name: Māori Performing Arts
+name: Toi Māori
 code: TOI3
-subject_area: Performing Arts
+subject_area: Toi Māori
 date: 2025-08-02T23:07:20.684Z
 entry_requirements:
 year: "13"
