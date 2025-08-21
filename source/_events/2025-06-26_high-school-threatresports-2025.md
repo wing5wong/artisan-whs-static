@@ -15,4 +15,9 @@ Saturday 23 August - Showcase Call time: 12pm
 Leave WHS at 11am, return by 6pm.  
   
 Sunday 24 August - FINALS - Call time: 12pm  
-Leave WHS at 11am, return by 6.30pm.
+Leave WHS at 11am, return by 6.30pm.  
+
+Cost: $80 for transport, $30 for entry. 
+
+*Mrs Devon Adam  
+HOD Drama*
