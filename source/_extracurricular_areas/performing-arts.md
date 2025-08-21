@@ -1,7 +1,7 @@
 ---
 title: Performing Arts
-date: 2021-05-27T09:52:36.628Z
-person_in_charge: Mrs N. Campbell
+date: 2025-08-22T08:29:00+12:00
+person_in_charge: Mrs Devon Adam
 ---
 Whanganui High School offers a wide range of Performing Arts for students to participate in.
 
