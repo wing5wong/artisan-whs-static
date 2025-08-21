@@ -2,7 +2,15 @@
 title: Senior School Examinations, Year 11-13
 date: 2025-09-01T09:50:00+12:00
 ---
-Senior School Examinations - Monday 1 September until Tuesday 9 September.
+These exams start on Monday 1 September and finish on Tuesday 9 September. Exam leave finishes on Tuesday 9 September.  
+Normal classes resume on Wednesday 10 September.  
+
+If you have CAA exams on 10, 11 or 12 September: come to school as usual and attend the exam at the correct time as indicated on your exam timetable. There is NO exam leave during CAA.
+
+Mrs de Smidt  
+Acadamic Dean
+
+________________________________
 
 Below is the link for the WHS Examination Timetable.  
 This also includes the CAA examinations..  
