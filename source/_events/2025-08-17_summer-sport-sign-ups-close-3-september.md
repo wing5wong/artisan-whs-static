@@ -1,6 +1,6 @@
 ---
 title: Summer Sport Sign Ups - close 3 September
-date: 2025-08-22T08:38:00+12:00
+date: 2025-09-03T08:38:00+12:00
 ---
 Summer Sport Sign Ups are open from now until Wednesday 3 September.  
 Please sign up on the bit.ly below..
