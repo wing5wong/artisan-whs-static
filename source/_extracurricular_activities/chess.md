@@ -1,6 +1,6 @@
 ---
 title: Chess
-date: 2024-05-24T01:00:58.181Z
+date: 2025-08-22T08:55:00+12:00
 people:
   - name: Mr Tim Sutherland
     role: Teacher in Charge
