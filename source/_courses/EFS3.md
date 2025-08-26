@@ -1,8 +1,8 @@
 ---
 title: EFS3
-name: "Educational for Sustainability "
+name: "Education for Sustainability"
 code: EFS3
-subject_area: Social Studies
+subject_area: Education for Sustainability
 date: 2025-08-02T23:07:20.684Z
 year: "13"
 type: Subject Choice
