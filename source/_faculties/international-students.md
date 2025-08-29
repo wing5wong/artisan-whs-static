@@ -11,11 +11,15 @@ hofs:
 ahofs:
   - Mr B. Ding
 ---
-Whanganui High School's International Department has approximately 65 international students (maximum 5% of the school roll) who take part in the school's ESOL (English for Speakers of Other Languages) programme. Our students come from a variety of countries including Japan, Korea, Hong Kong, Vietnam, Thailand, Brazil, Pacific Islands, Germany, Italy, France, Finland, Norway and the Peoples Republic of China.
 
-International students select Whanganui High School for their education when they want to be away from the distractions of the big cities and concentrate on learning English and studying to qualify for university. Whanganui High School limits the number of students from any one country so that students can have more opportunities to speak English.
+**Whanganui High School – A Global Learning Experience**
 
-All our international students are placed in homestays (which have been visited and assessed by Whanganui High School in advance), as this means they are speaking English all day and they have parents to look after them and care for them. The international student becomes a member of the family.
- The homestay fees cover all food and living expenses. Each student has their own bedroom and there are no other students in the same homestay who speak the same language.
+Whanganui High School is proud to welcome international students from around the world, creating a vibrant and diverse learning community. Our students come from countries such as Cambodia, Brazil, China, Czech Repulic, France, Germany, Hong Kong, Italy, Japan, South Korea, Pacific Islands, Thailand, and Vietnam—bringing global perspectives into every classroom.
 
-Whanganui High School's ESOL (English for Speakers of Other Languages) programme prepares students for the IELTS examinations so they qualify for entry into any university.
+**Why Choose Whanganui High School?**
+
+Students choose Whanganui High School for its peaceful, focused environment—ideal for improving English and preparing for university study. Located away from the distractions of large cities, our school offers a safe, supportive space where students can concentrate on their academic goals and personal growth.
+
+**English Language Support**
+
+Our ESOL (English for Speakers of Other Languages) programme helps students strengthen their English skills for academic success. With experienced teachers and tailored support, students gain the confidence and language proficiency needed to pursue higher education in English-speaking environments.
