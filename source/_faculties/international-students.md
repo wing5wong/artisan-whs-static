@@ -12,6 +12,8 @@ ahofs:
   - Mr B. Ding
 ---
 
+
+
 **Whanganui High School – A Global Learning Experience**
 
 Whanganui High School is proud to welcome international students from around the world, creating a vibrant and diverse learning community. Our students come from countries such as Cambodia, Brazil, China, Czech Repulic, France, Germany, Hong Kong, Italy, Japan, South Korea, Pacific Islands, Thailand, and Vietnam—bringing global perspectives into every classroom.
