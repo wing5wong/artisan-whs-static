@@ -1,6 +1,6 @@
 ---
 title: Time Schedule for Senior Examinations
-date: 2025-09-01T08:10:00+12:00
+date: 2025-09-08T08:10:00+12:00
 ---
 Senior Examinations - Monday 1 September until Tuesday 9 September  
 
