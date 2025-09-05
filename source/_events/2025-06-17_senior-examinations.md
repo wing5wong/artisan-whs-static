@@ -1,6 +1,6 @@
 ---
 title: Senior School Examinations, Year 11-13
-date: 2025-09-01T09:50:00+12:00
+date: 2025-09-08T09:50:00+12:00
 ---
 These exams start on Monday 1 September and finish on Tuesday 9 September. Exam leave finishes on Tuesday 9 September.  
 Normal classes resume on Wednesday 10 September.  
