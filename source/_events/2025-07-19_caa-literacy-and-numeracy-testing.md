@@ -3,32 +3,32 @@ title: CAA Literacy and Numeracy Examinations
 date: 2025-09-10T07:12:00+12:00
 image_gallery: []
 ---
-CAA Literacy and Numeracy Examinations.\
+CAA Literacy and Numeracy Examinations.  
 Wednesday 10 September to Friday 12 September. 
 
 If you are Year 10-13 and do not yet have Literacy or Numeracy, you will be entered into CAA.  
 
 CAA: EXAMINATIONS THIS WEEK
 
-As you will be aware, the COMMON ASSESSMENT ACTIVITIES (CAA) will take place take this week.\
+As you will be aware, the COMMON ASSESSMENT ACTIVITIES (CAA) will take place take this week.  
 Over that 3 day period we will administer over 720 assessments.  
 
-There will be two sessions per day: 8.45 and 12.45.\
+There will be two sessions per day: 8.45 and 12.45.  
 The minimum length of time is one hour, but students may stay as long as they need, so they will have plenty of time.
 
-Wednesday 10 September\
-Reading\
-8.45 Y11-13, plus Y10 bus students\
+Wednesday 10 September  
+Reading  
+8.45 Y11-13, plus Y10 bus students  
 12.45 Y10
 
-Thursday 11 September\
-Writing\
-8.45 Y11-13 plus Y10 bus students\
+Thursday 11 September  
+Writing  
+8.45 Y11-13, plus Y10 bus students  
 12.45 Y10
 
-Friday 12 September\
-Numeracy\
-8.45 Y11-13 plus Y10 bus students\
+Friday 12 September  
+Numeracy  
+8.45 Y11-13 plus, Y10 bus students  
 12.45 Y10
 
 All students have received a timetable and will know their venue and exam session. Students are expected to be at the correct exam room with a charged device at the correct time.  It is very important that students are at school on time if they are writing in the morning session.  
@@ -41,5 +41,5 @@ Any students with timetable queries or log in problems or device issues should s
 
 If you have any questions or queries, please do contact me.
 
-*Jemma de Smidt\
+*Jemma de Smidt  
 Principal’s Nominee | Academic Dean*
