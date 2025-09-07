@@ -3,7 +3,7 @@ title: CAA Literacy and Numeracy Examinations
 date: 2025-09-10T07:12:00+12:00
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1757245500/Events/Important_CAA_EXAM_INFORMATION.pdf
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1757245486/Events/CAA_CHECKLIST.pdf
+  - image: file:///C:/Users/Susan/Downloads/CAA%20CHECKLIST.pdf
 ---
 CAA Literacy and Numeracy Examinations.  
 Wednesday 10 September to Friday 12 September. 
@@ -45,3 +45,5 @@ If you have any questions or queries, please do contact me.
 
 *Jemma de Smidt  
 Principal’s Nominee | Academic Dean*
+
+file:///C:/Users/Susan/Downloads/CAA%20CHECKLIST.pdf
