@@ -1,6 +1,6 @@
 ---
 title: Time Schedule during Examinations
-date: 2025-09-09T08:10:00+12:00
+date: 2025-09-10T08:10:00+12:00
 ---
 CAA Examinations - Wednesday 10 September until Friday 12 September  
 
