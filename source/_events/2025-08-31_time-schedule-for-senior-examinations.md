@@ -1,8 +1,8 @@
 ---
-title: Time Schedule for Senior Examinations
-date: 2025-09-08T08:10:00+12:00
+title: Time Schedule during Examinations
+date: 2025-09-09T08:10:00+12:00
 ---
-Senior Examinations - Monday 1 September until Tuesday 9 September  
+CAA Examinations - Wednesday 10 September until Friday 12 September  
 
 Form Time 8.50 - 9.00am  
 Period 1 9.00 - 10.00am  
