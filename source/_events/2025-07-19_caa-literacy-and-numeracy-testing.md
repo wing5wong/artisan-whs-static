@@ -17,17 +17,17 @@ There will be two sessions per day: 8.45 and 12.45.
 The minimum length of time is one hour, but students may stay as long as they need, so they will have plenty of time.
 
 Wednesday 10 September  
-Reading  
+READING  
 8.45 Y11-13, plus Y10 bus students  
 12.45 Y10
 
 Thursday 11 September  
-Writing  
+WRITING  
 8.45 Y11-13, plus Y10 bus students  
 12.45 Y10
 
 Friday 12 September  
-Numeracy  
+NUMERACY  
 8.45 Y11-13 plus, Y10 bus students  
 12.45 Y10
 
