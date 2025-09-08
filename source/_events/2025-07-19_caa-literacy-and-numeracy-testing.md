@@ -3,18 +3,20 @@ title: CAA Literacy and Numeracy Examinations
 date: 2025-09-10T07:12:00+12:00
 image_gallery: []
 ---
-CAA Literacy and Numeracy Examinations.  
-Wednesday 10 September to Friday 12 September. 
+### CAA Literacy and Numeracy Examinations  
+CAA (Common Assessment Activities)    
+**Wednesday 10 September to Friday 12 September**
 
-If you are Year 10-13 and do not yet have Literacy or Numeracy, you will be entered into CAA.  
-
-CAA: EXAMINATIONS THIS WEEK
-
-As you will be aware, the COMMON ASSESSMENT ACTIVITIES (CAA) will take place take this week.  
-Over that 3 day period we will administer over 720 assessments.  
-
-There will be two sessions per day: 8.45 and 12.45.  
+There will be two sessions per day: 8.45am and 12.45pm.  
 The minimum length of time is one hour, but students may stay as long as they need, so they will have plenty of time.
+
+CHECK YOUR E MAILS FOR INFORMATION.  
+If you need help with timetables, logging in, devices see Mrs de Smidt.  
+
+**Morning sessions start at 8.45am**  
+Go straight to G block without going to Form Time.  
+**Afternoon sessions start at 12.45pm**  
+You need to get to G block during second break.
 
 Wednesday 10 September  
 READING  
