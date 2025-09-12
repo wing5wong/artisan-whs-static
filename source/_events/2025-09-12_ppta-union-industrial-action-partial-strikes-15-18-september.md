@@ -16,14 +16,11 @@ All students in all other year levels are expected at school as usual.
 
 If the situation changes at any stage, I will update you with new details immediately.
 
-Timing of year levels affected:
+**Timing of year levels affected:**
 
-15 September 2025 – Years 12 and 13 (rostered home)
-
-16 September – Year 11 (rostered home)
-
-17 September – Year 10 (rostered home)
-
+15 September 2025 – Years 12 and 13 (rostered home)  
+16 September – Year 11 (rostered home)  
+17 September – Year 10 (rostered home)  
 18 September – Year 9 (rostered home)
 
 
