@@ -4,8 +4,6 @@ is_emergency: false
 date: 2025-09-15T09:34:00+12:00
 subtitle: Partial Strikes – Rostering Home (Week 10, Term 3)
 ---
-PPTA Union Industrial Action – Important Information
-
 Partial Strikes – Rostering Home (Week 10, Term 3)
 
 Between 15 September and 18 September 2025, there will be a series of partial strikes.  Each strike will be from 9.00 am to 3.15 pm.  During those times, PPTA members will not teach, instruct or supervise students in certain year levels but continue to teach all other students.  Teachers will also continue to do administrative work in the time that they would usually have been teaching students in the affected year levels.
