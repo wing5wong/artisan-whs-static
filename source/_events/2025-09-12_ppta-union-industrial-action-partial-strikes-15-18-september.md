@@ -1,6 +1,6 @@
 ---
 title: PPTA Union Industrial Action - Partial Strikes, 15-18 September
-date: 2025-09-15T08:27:00+12:00
+date: 2025-09-16T08:27:00+12:00
 ---
 PPTA Union Industrial Action – Important Information
 
