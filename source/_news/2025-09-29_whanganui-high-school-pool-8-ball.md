@@ -19,7 +19,7 @@ Our Pool 8 Ball competition finished last week with our students having a great 
 
 Congratulations to the winners 
 
-Plate winner Hunter 
+Plate winner Hunter Fromont-Wall
 
 Runner up Anaru Grant
 
