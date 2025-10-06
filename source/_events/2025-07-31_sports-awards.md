@@ -8,6 +8,5 @@ Honouring the sporting excellence of students.
 Where: Whanganui Racecourse Eulogy Lounge  
 When: 7.00pm  
 Dress: Semi Formal  
-Ticket: $10, from WHS Main Office 
+Tickets: $10, and can be purchased from the bursar's office.
 
- 
