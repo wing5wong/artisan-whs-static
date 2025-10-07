@@ -1,6 +1,7 @@
 ---
 title: Claire Lilley
 category: Parent Representative
+position: Parent Representative
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1661121579/BoT/Claire-Lilley.jpg
 ---
 Hi, my name is Claire Lilley. Let me tell you a little about myself.
