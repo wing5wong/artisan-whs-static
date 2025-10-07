@@ -10,7 +10,7 @@ extends: _layouts.policies-and-charter
 
 Our policies are now hosted on [SchoolDocs](https://whanganuihigh.schooldocs.co.nz/).
 
-Term 2 review is now open
+Term 4 policies now available for review
 
 * **Username:** whs
 * **Password:** life
