@@ -1,5 +1,5 @@
 ---
-title: Partial Strikes - Rostering Home, Years 11 & 12
+title: PPTA Union Industrial Action, Partial Strikes - Rostering Home, Years 11 & 12
 date: 2025-10-16T07:48:00+13:00
 ---
 13 October 2025
