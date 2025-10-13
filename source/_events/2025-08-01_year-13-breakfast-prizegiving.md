@@ -10,4 +10,5 @@ Dress Code - Summer Uniform.
 Bring a spare shirt for signing.  
 Entry by ticket only.  
 
-**Prizegiving** details to follow.
+**Prizegiving**  
+**7.00pm** at the School Hall.
