@@ -2,6 +2,9 @@
 title: Partial Strikes – Rostering Home, Year 9
 date: 2025-10-14T07:43:00+13:00
 ---
+13 October 2025  
+
+
 Kia ora koutou
 
 **PPTA Union Industrial Action – Important Information  
