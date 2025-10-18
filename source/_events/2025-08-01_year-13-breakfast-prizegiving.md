@@ -12,3 +12,6 @@ Entry by ticket only.
 
 **7.00pm**  
 **Prizegiving** at the School Hall.
+
+Year 9-12  
+Please note that you are expected to be at school for the START of PERIOD 2 (10.05am) due to Year 13s Prizegiving Breakfast.
