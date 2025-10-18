@@ -1,5 +1,5 @@
 ---
-title: YEAR 13 BREAKFAST & PRIZEGIVING - Late start of 10am for Year 9, 10, 11 & 12
+title: YEAR 13 BREAKFAST & PRIZEGIVING - 10am start for Year 9, 10, 11 & 12
 date: 2025-10-28T06:19:00+13:00
 ---
 Year 13 Breakfast & Prizegiving is on Tuesday 28 October. 
