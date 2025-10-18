@@ -1,5 +1,5 @@
 ---
-title: YEAR 11 PRIZEGIVING
+title: YEAR 11 PRIZEGIVING - Year 9 & 10 released at 12.50pm
 date: 2025-10-30T06:22:00+13:00
 ---
 Year 11 Prizegiving is on Thursday 30 October.
