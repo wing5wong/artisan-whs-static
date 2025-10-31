@@ -28,11 +28,11 @@ Students may go home at 2.10pm
 
 ### TUESDAY
 
-9.20am - 11.20am - Morning  
+**9.20am - 11.20am** - Morning  
 Year 9 English/Maths  
 Year 10 English/Maths
 
-**Time Schedule for Tuesday**
+**Time Schedule for Tuesday:**
 
 Form Time: 8.50 - 9.00am  
 Exam 1: 9.05 - 11.05am  
