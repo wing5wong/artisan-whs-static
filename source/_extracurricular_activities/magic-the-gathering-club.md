@@ -13,6 +13,4 @@ Magic: The Gathering Club is a table top card game. The game is challenging, fun
 
 **When:** We meet every Morning Break in E4.
 
-**Event:** We often run fun events and competitions for a small cost. We have taken the more competitive students to bigger international level events, such as a Mythic Championship in Sydney Australia in 2018, and the Representationals (NZ Nationals) in Auckland in 2019.
 
-**Cost:** Small cost.
