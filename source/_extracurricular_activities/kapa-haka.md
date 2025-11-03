@@ -3,9 +3,8 @@ title: Kapa Haka
 date: 2019-08-27T03:48:53.773Z
 people: []
 extracurricular_area: Performing Arts
-image: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131722/Performing%20Arts/Maori_kapa_haka_4_2025.jpg
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131722/Performing%20Arts/Maori_kapa_haka_4_2025.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131843/Performing%20Arts/Maori_kapa_haka_3_2025.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131840/Performing%20Arts/Maori_kapa_haka_2_2025.jpg
 ---
