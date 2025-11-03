@@ -5,7 +5,7 @@ people:
   - name: Mrs Jeanette Jones
     role: Teacher in Charge
 extracurricular_area: Performing Arts
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762132353/Performing%20Arts/Rockquest_1_2025.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762135747/Performing%20Arts/Rockquest_2_2025.jpg
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389244/Performing%20Arts/Rockquest%202024/overwhelming.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389241/Performing%20Arts/Rockquest%202024/sienna_b.jpg
