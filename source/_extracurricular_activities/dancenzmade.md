@@ -5,7 +5,7 @@ people:
   - name: Ms Natalie Harris
     role: Teacher in Charge
 extracurricular_area: Performing Arts
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762133955/Performing%20Arts/DNZM_9_2025.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762133780/Performing%20Arts/DNZM_2_2025.jpg
 ---
 Students are able to participate in New Zealand’s Interschool and Interstudio workshop and competition event. DanceNZmade philosophy is ‘Celebrating and encouraging the arts in any forms is one of life’s pleasures’. Whanganui High School has gained success in the DanceNZmade competition over the past years.
 
