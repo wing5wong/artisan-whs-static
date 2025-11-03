@@ -5,7 +5,7 @@ people:
   - name: Mr Tim Sutherland
     role: Teacher in Charge
 extracurricular_area: Other
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569186352/Performing%20Arts/Chess.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762133173/Sports/Chess_2025.jpg
 ---
 Chess is an age-old game of strategy, tactics, and logical thinking. If you have never played before, we would be more than happy to teach you the rules and help you learn some strategy. If you already know the game, come along for a challenge or even just fun.
 
