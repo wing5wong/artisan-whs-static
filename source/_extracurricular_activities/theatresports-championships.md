@@ -6,7 +6,7 @@ people:
     name: Mrs Devon Adam
 uniform: "\n\n\ \n"
 extracurricular_area: Performing Arts
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1755486164/Performing%20Arts/Theatresport_Competition.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762133500/Performing%20Arts/Theatre_sports_1_2025.jpg
 ---
 Each year, Centrepoint Theatre in Palmerston North runs a regional competition in which secondary-age students from Years 9 to 13 compete in a series of Theatresport challenges against other schools.  
 
