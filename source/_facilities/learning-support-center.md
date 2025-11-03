@@ -11,10 +11,12 @@ description: >
   classwork. This may include Special Assessment Condition (Sac) students who
   qualify for reader writer assistance.
 ---
-The Learning Support Centre (LSC)  provides extra support for student in the mainstream, who are finding their subject work difficult due to a specific Learning difficult or a condition (eg Dyslexia, Dyspraxia, Autism, Anxiety; physical disability etc). 
+This space is used for students who require reader/writer support for assessments.
 
-Senior students with a Learning line get extra time for completing their Internal assessments and keeping up to date with their classwork. This may include Special Assessment Condition (Sac) students who qualify for reader writer assistance. 
+It is also used by the RTLB service when meeting and working alongside students.
 
-Junior students who are needing settling into the Secondary School system, or needing a very altered programme for a specific subject, may also be given a line in the Learning Support Centre. Approval needs to be given by the SENCO (Special Education Needs Co-Ordinator). Students in each LSC line, range from Year 9 through to Year 13 in the same class, and they all work on their own programme, so it is a very quiet environment allowing students to concentration, work and learn.
+The Central Regional health school meet individual students in LSC when supporting them to return to school after short term medical events.
 
-Our school's SENCO is Sandra Murray (murray.s@whs.ac.nz)
+If a student requires some additional support for a subject, then a teacher aide may withdraw them from class and work with them in LSC.
+
+LSC is a quiet learning space for independent work for senior students at various times of the year. This is arranged directly with HoD Learning support through the pastoral team.
