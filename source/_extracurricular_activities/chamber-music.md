@@ -15,6 +15,15 @@ The purpose of the Chamber Music Contest is to encourage young musicians regardl
 
 ***Whanganui District Finals***  
 
+* 2025  
+Highly Commended - 'The Ghost Notes'  
+Highly Commended - 'The Rail Riders'  
+Highly Commended -  'No Strings Attached'  
+Adjudicator's Award - 'The Ghost Notes'  
+KBB Award - 'No Strings Attached'  
+Best Performance of a New Zealand Work - 'The Rail Riders'  
+Most Promising Junior Group - 'The QMC Trio'
+
 * 2024  
 Best Overall Group - 'No Strings Attached'  
 Highly Commended - 'The Dreamarz'  
