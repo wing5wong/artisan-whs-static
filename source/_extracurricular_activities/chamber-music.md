@@ -6,7 +6,7 @@ people:
     role: Teacher in Charge
 extracurricular_area: Performing Arts
 cost: ""
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389153/Performing%20Arts/Chamber%20Music%202024/Chamber_Music.WHS_15.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762132610/Performing%20Arts/Chamber_Music_No_Strings_attached_1_2025.jpg
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389147/Performing%20Arts/Chamber%20Music%202024/Chamber_Music.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1727389153/Performing%20Arts/Chamber%20Music%202024/Chamber_Music.HAIR_AIR_and_FLAIR_BEST.jpg
