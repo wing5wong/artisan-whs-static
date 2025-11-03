@@ -1,6 +1,6 @@
 ---
 title: "Magic: The Gathering Club"
-date: 2025-08-22T08:44:00+12:00
+date: 2025-11-03T13:56:00+13:00
 people:
   - name: Mr Christopher Burrows
     role: Teacher in Charge
