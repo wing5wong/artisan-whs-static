@@ -1,6 +1,6 @@
 ---
 title: Rockquest
-date: 2024-09-27T11:56:00.000Z
+date: 2025-11-03T15:33:00+13:00
 people:
   - name: Mrs Jeanette Jones
     role: Teacher in Charge
@@ -18,10 +18,10 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 **Highlights for our Rockquest groups are:**
 
 * **2025**
-* Tangata Beats Band 1st Place, Arne Levia Benegas, Moata Levia Benegas and others 'Lights Go Out'
-* Band 1st Place, Arne Levia Benegas, Moata Levia Benegas and others 'Lights Go Out' 
-* Band 3rd Place, Bryn Morgan, Charlie Brougham, Milly-Rose Broughton, Jacob Ander 'Missing Comma' 
-* Solo/Duo 2nd Place, Sophie Toyne
+* Tangata Beats Band 1st Place - Arne Levia Benegas, Moata Levia Benegas and others 'Lights Go Out'
+* Band 1st Place - Arne Levia Benegas, Moata Levia Benegas and others 'Lights Go Out' 
+* Band 3rd Place - Bryn Morgan, Charlie Brougham, Milly-Rose Broughton, Jacob Ander 'Missing Comma' 
+* Solo/Duo 2nd Place - Sophie Toyne
 * Best Vocals Award - Sophie Toyne 'Illll'
 * APRA Lyric Award - Milly-Rose Broughton 'Never Worth Your Time'  
 * **2024**
