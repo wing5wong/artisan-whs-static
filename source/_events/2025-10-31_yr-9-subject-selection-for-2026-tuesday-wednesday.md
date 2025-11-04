@@ -1,6 +1,6 @@
 ---
 title: YR 9 - Subject Selection for 2026, Tuesday & Wednesday
-date: 2025-11-04T07:14:00+13:00
+date: 2025-11-05T07:14:00+13:00
 ---
 YR 9 - Subject Selection for 2026
 
