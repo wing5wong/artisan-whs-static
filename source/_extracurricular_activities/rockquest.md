@@ -17,13 +17,15 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 
 **Highlights for our Rockquest groups are:**
 
-* **2025**
-* Tangata Beats Band 1st Place - 'Lights Go Out' - Arne Levia Benegas, Moata Levia Benegas and others 
-* Band 1st Place - 'Lights Go Out' - Arne Levia Benegas, Moata Levia Benegas and others  
-* Band 3rd Place - 'Missing Comma' - Bryn Morgan, Charlie Brougham, Milly-Rose Broughton, Jacob Ander  
-* Solo/Duo 2nd Place - Sophie Toyne
-* Best Vocals Award - 'Illll' - Sophie Toyne
-* APRA Lyric Award - 'Never Worth Your Time' - Milly-Rose Broughton   
+* **2025** 
+* Tangata Beats Band 1st Place Regional Winners - 'Lights Go Out' - Arne Levia Benegas, Moata Levia Benegas and others 
+* Band 1st Place Regional Winners - 'Lights Go Out' - Arne Levia Benegas, Moata Levia Benegas and others  
+* Band 3rd Place Regional Winners - 'Missing Comma' - Bryn Morgan, Charlie Brougham, Milly-Rose Broughton, Jacob Ander  
+* Solo/Duo 2nd Place Regional Winner - Sophie Toyne
+* Best Vocals Award Regional Winner - 'Illll' - Sophie Toyne
+* APRA Lyric Award Regional Winner - 'Never Worth Your Time' - Milly-Rose Broughton   
+* Solo/Duo Top 35 National Finals - Sophie Toyne
+* Highly Recommended Nationally - Sophie Toyne
 * **2024**
 * Best Vocals - Sienna Burton-Waring of 'The Zanes'
 * Best Musicianship - Drummer, Charlie Waugh of 'Where's Charlie'  
