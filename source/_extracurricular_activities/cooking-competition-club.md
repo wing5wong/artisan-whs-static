@@ -11,7 +11,7 @@ This is an opportunity for students to cook and compete in a commercial kitchen 
 
 **Who can join:** Any Senior student with a passion for cooking.
 
-**When:** Practices are usually Friday Period 5 but are variable depending on the nature of the competition.
+**When:** Practices are variable depending on the nature of the competition.
 
 **Event:** Local, regional and national competitions. Dishes are usually entrees based upon a particular vegetable, omelettes, cupcakes and cheesecakes.
 
