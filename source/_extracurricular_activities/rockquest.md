@@ -26,6 +26,8 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 * APRA Lyric Award Regional Winner - 'Never Worth Your Time' - Milly-Rose Broughton   
 * Solo/Duo Top 35 National Finals - Sophie Toyne
 * Acts Highly Recommended Nationally - Sophie Toyne
+* Tangata Beats Top 10 National Finalists, Band - 'Lights Go Out'- Arne Levia Benegas, Moata Levia Benegas and others
+* Tangata Beats National Final Te Reo Award - 'Lights Go Out'- Arne Levia Benegas, Moata Levia Benegas and others
 * **2024**
 * Best Vocals - Sienna Burton-Waring of 'The Zanes'
 * Best Musicianship - Drummer, Charlie Waugh of 'Where's Charlie'  
