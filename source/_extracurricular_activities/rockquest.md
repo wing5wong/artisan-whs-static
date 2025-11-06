@@ -25,7 +25,7 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 * Best Vocals Award Regional Winner - 'Illll' - Sophie Toyne
 * APRA Lyric Award Regional Winner - 'Never Worth Your Time' - Milly-Rose Broughton   
 * Solo/Duo Top 35 National Finals - Sophie Toyne
-* Highly Recommended Nationally - Sophie Toyne
+* Acts Highly Recommended Nationally - Sophie Toyne
 * **2024**
 * Best Vocals - Sienna Burton-Waring of 'The Zanes'
 * Best Musicianship - Drummer, Charlie Waugh of 'Where's Charlie'  
