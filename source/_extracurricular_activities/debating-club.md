@@ -11,7 +11,7 @@ people:
   - role: Teacher in Charge
     name: Miss Samantha Bridge
 extracurricular_area: Other
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569190546/Performing%20Arts/Debating.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762473808/Performing%20Arts/Debating_5_2024.jpg
 ---
 Debating enables students to learn the art of persuasion, research skills and public speaking skills. Our school teams prepare to compete in regional, and national tournaments. 
 
