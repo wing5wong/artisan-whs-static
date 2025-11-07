@@ -13,7 +13,7 @@ people:
   - role: Teacher in Charge - Bronze
     name: Mrs Bailee Kauika
 extracurricular_area: Other
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569191787/Performing%20Arts/Duke_of_Ed.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762476112/Performing%20Arts/Silver_DOE_4_2025.jpg
 ---
 Whanganui High School provides the opportunity for students to gain the Duke of Edinburgh Hillary Award at Bronze, Silver and Gold levels. Students work on four sections at each level; Skills, Service, Physical Recreation and an Adventurous Project. The first three sections are completed by students independently out of school time and the Adventurous Project section is organised by staff as a group activity.
 
