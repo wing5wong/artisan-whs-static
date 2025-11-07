@@ -9,7 +9,7 @@ people:
   - role: Teacher in Charge
     name: Ms Susan Hughes
   - role: Teacher in Charge
-    name: Miss Samantha Bridge
+    name: Mrs Samantha Sutherland
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762473808/Performing%20Arts/Debating_5_2024.jpg
 ---
