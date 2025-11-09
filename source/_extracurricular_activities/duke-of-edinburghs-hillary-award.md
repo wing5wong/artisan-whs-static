@@ -1,6 +1,6 @@
 ---
 title: Duke of Edinburgh's Hillary Award
-date: 2019-09-22T22:27:13.032Z
+date: 2025-11-09T21:21:00+13:00
 people:
   - name: Mr Craig Adam
     role: Teacher in Charge - Expeditions
