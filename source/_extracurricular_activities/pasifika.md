@@ -17,4 +17,3 @@ Talofa lava, Malo ilelei, Bula Vinaka. Fanau Pasifika contributes a lively prese
 **Event:** Pasifika Fusion
 
 **Cost:** To be confirmed
-](https://www.youtube.com/watch?v=zrT9FNtwZpg&feature=share)
