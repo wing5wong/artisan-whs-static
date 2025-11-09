@@ -1,6 +1,6 @@
 ---
 title: Pasifika
-date: 2019-08-27T03:56:38.924Z
+date: 2025-11-09T21:37:00+13:00
 people:
   - role: Teacher in Charge
     name: Ms Rajneeta Devi
