@@ -1,6 +1,6 @@
 ---
 title: Cooking Competition Club
-date: 2024-05-23T22:23:02.967Z
+date: 2025-11-09T21:24:00+13:00
 people:
   - name: Mrs Linda Hardcastle
     role: Teacher in Charge
