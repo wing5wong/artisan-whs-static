@@ -1,6 +1,6 @@
 ---
 title: Kapa Haka
-date: 2023-11-27T15:48:00+13:00
+date: 2025-11-09T21:34:00+13:00
 people: []
 extracurricular_area: Performing Arts
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131722/Performing%20Arts/Maori_kapa_haka_4_2025.jpg
