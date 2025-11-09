@@ -1,6 +1,6 @@
 ---
 title: Chinese Learning/Culture Club
-date: 2024-05-23T22:24:47.152Z
+date: 2025-11-09T21:23:00+13:00
 people:
   - role: Teacher in Charge
     name: Mr Beck Ding
