@@ -12,9 +12,9 @@ Talofa lava, Malo ilelei, Bula Vinaka. Fanau Pasifika contributes a lively prese
 
 **Who join:** All students.
 
-**When:** Friday - Period 5 (2.30pm – 5.30pm)
+**When:** To be confirmed for 2026
 
 **Event:** Pasifika Fusion
 
-**Cost:** $40 for Festival accommodation and food[
+**Cost:** To be confirmed
 ](https://www.youtube.com/watch?v=zrT9FNtwZpg&feature=share)
