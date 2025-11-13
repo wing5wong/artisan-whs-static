@@ -1,6 +1,6 @@
 ---
 title: Writers' Club
-date: 2024-05-23T22:22:19.140Z
+date: 2025-11-14T12:25:00+13:00
 people:
   - name: Mrs Samantha Sutherland
     role: Teacher in Charge
