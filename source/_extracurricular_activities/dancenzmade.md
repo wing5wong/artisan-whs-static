@@ -17,10 +17,10 @@ Students are able to participate in New Zealand’s Interschool and Interstudio 
 2nd Place, Year 11-13 - 'All That Jazz'  
 
 * 2024  
-1st Place, Open Team - 'Tides Of Control'  
+1st Place, Open Team & Excellence in Choreography  - 'Tides Of Control'  
 2nd Place, Senior Team & Overall Group - 'Black Car'  
 3rd Place, Senior Team - 'Dance The Night'  
-3rd Place, Overall Group & Excellence in Choreography - 'Tides Of Control'  
+3rd Place, Overall Group - 'Tides Of Control'  
  
 * 2023  
 2nd Place, Year 11-13 Team - 'Is That Alright'  
