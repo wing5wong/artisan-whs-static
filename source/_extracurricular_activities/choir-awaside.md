@@ -1,13 +1,13 @@
 ---
 title: Choir - AwaSide
-date: 2024-06-10T16:43:00.000Z
+date: 2025-11-14T11:58:00+13:00
 people:
   - name: Mrs Jeanette Jones
     role: Choir Director
   - role: Accompaniment
     name: Mrs Marie Brooks
 extracurricular_area: Performing Arts
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1569187849/Performing%20Arts/Choir.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763074507/Performing%20Arts/Awaside_2025_photo.jpg
 blocks: []
 ---
 AwaSide is a choir for students who love to sing and are keen to develop their vocal abilities. We sing a range of styles and have a lot of fun along the way. Highlights for our choir include: three successful trips to Sydney to compete in the Australian International Music Festival where the choir has gained silver medals and the bronze award in the Cadenza Competition, part of the NZ Big Sing.
