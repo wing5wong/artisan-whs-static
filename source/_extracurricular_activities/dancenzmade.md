@@ -1,6 +1,6 @@
 ---
 title: Dance NZ Made
-date: 2024-06-03T22:20:04.423Z
+date: 2025-11-14T12:18:00+13:00
 people:
   - name: Ms Natalie Harris
     role: Teacher in Charge
@@ -11,6 +11,17 @@ Students are able to participate in New Zealand’s Interschool and Interstudio 
 
 ***Dance NZ Made Regional Final Teams***  
 
+* 2025  
+1st Place, Year 11-13 Team - Overall Champions & Excellence in Choreography - 'Love In The Dark'  
+2nd Place, Overall Lyrical Team & Big Heart Award, NATIONALS - 'Love In The Dark'  
+2nd Place, Year 11-13 - 'All That Jazz'  
+
+* 2024  
+1st Place, Open Team - 'Tides Of Control'  
+2nd Place, Senior Team & Overall Group - 'Black Car'  
+3rd Place, Senior Team - 'Dance The Night'  
+3rd Place, Overall Group & Excellence in Choreography - 'Tides Of Control'  
+ 
 * 2023  
 2nd Place, Year 11-13 Team - 'Is That Alright'  
 3rd Place, Year 11-13 Team - 'Falling'  
