@@ -1,6 +1,6 @@
 ---
 title: Debating Club
-date: 2024-05-24T01:07:05.341Z
+date: 2025-11-14T13:34:00+13:00
 people:
   - role: Teacher in Charge
     name: Mrs Shelley Clark
