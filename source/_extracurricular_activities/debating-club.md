@@ -33,4 +33,4 @@ Students are welcome to attend just the school club.
 
 **Teachers-in-charge:** 
 
-Ms R Easton, Mr J Headon, Ms S Hughes, Mrs S Sutherland
+Mrs S Clark, Ms R Easton, Mr J Headon, Ms S Hughes, Mrs S Sutherland
