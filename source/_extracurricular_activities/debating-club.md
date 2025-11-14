@@ -3,6 +3,8 @@ title: Debating Club
 date: 2024-05-24T01:07:05.341Z
 people:
   - role: Teacher in Charge
+    name: Mrs Shelley Clark
+  - role: Teacher in Charge
     name: Ms Rebecca Easton
   - role: Teacher in Charge
     name: Ms Jane Headon
@@ -10,8 +12,6 @@ people:
     name: Ms Susan Hughes
   - role: Teacher in Charge
     name: Mrs Samantha Sutherland
-  - role: Teacher in Charge
-    name: Mrs Shelley Clark
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762473808/Performing%20Arts/Debating_5_2024.jpg
 ---
