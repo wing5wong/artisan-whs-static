@@ -24,10 +24,10 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 * Solo/Duo 2nd Place Regional Winner - Sophie Toyne
 * Best Vocals Award Regional Winner - 'Illll' - Sophie Toyne
 * APRA Lyric Award Regional Winner - 'Never Worth Your Time' - Milly-Rose Broughton   
-* Solo/Duo Top 35 National Finals - Sophie Toyne
-* Acts Highly Recommended Nationally - Sophie Toyne
-* Tangata Beats Top 10 National Finalists, Band - 'Lights Go Out'- Arne Levia Benegas, Moata Levia Benegas and others
-* Tangata Beats National Final Te Reo Award - 'Lights Go Out'- Arne Levia Benegas, Moata Levia Benegas and others
+* Solo/Duo Top 35 NATIONAL Finals - Sophie Toyne
+* Acts Highly Recommended NATIONALLY - Sophie Toyne
+* Tangata Beats Top 10 NATIONAL Finalists, Band - 'Lights Go Out'- Arne Levia Benegas, Moata Levia Benegas and others
+* Tangata Beats NATIONAL Final Te Reo Award - 'Lights Go Out'- Arne Levia Benegas, Moata Levia Benegas and others
 * **2024**
 * Best Vocals - Sienna Burton-Waring of 'The Zanes'
 * Best Musicianship - Drummer, Charlie Waugh of 'Where's Charlie'  
@@ -35,7 +35,7 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 * Best Lyrics - Milly Broughton (Title of song 'Evermore') of 'Punchlist'  
 * 2nd Place Regional Winners - 'Downsizing'
 * 3rd Place Regional Winners - 'Overwhelming'  
-* Solo/Duo top 10 National Finals selection - Sophie Toyne  
+* Solo/Duo top 10 NATIONAL Finals selection - Sophie Toyne  
 * **2023** Regional Best Song Award - 'Too Much'
 * 2022 Regional Winners - 'The Picnic List'  
 * 2021 Regional Winners - 'The Amps'
