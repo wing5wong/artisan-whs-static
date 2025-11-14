@@ -17,7 +17,7 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 
 **Highlights for our Rockquest groups are:**
 
-* **2025** 
+* **2025**     
 * Tangata Beats Band 1st Place Regional Winners - 'Lights Go Out' - Arne Levia Benegas, Moata Levia Benegas and others 
 * Band 1st Place Regional Winners - 'Lights Go Out' - Arne Levia Benegas, Moata Levia Benegas and others  
 * Band 3rd Place Regional Winners - 'Missing Comma' - Bryn Morgan, Charlie Brougham, Milly-Rose Broughton, Jacob Ander  
@@ -51,7 +51,7 @@ The Smokefreerockquest is an opportunity for students to participate in New Zeal
 * 2011 Runner Up - 'Red Velvet Cheesecake'
 * 2010 Runner Up
 * 2009 Regional Winners 'Lambic Rhythms'
-* 2002 National Winners – ‘The Have’
+* 2002 NATIONAL WINNERS – ‘The Have’
 
 **When:** Entries at start of year for the competition which begins in May.
 
