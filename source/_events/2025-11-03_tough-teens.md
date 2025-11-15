@@ -2,12 +2,12 @@
 title: Tough Teens
 date: 2025-11-20T07:42:00+13:00
 ---
-Tough Teens - Cooks Gardens
+Tough Teens Meeting
 
-If you are interested in competing for WHS at the Tough Teens at Cooks Gardens on Thursday 20 November please sign up on the bit.ly below.  
-Students with 5% or less unjustified attendance will be allowed to go.
+ALL Y9-10 students signed up to go to Tough Teens at Cooks Gardens on Thursday 20 November please come to a meeting on Tuesday 1st break in the Te Wehi Gym.  
 
-[bit.ly/whstoughteens25](https://docs.google.com/forms/d/1KhgB8Ee9rpmmS4i7sBWKkZjKZmcP5Jx4fz2KsdXirHo/viewform?edit_requested=true)  
+Sign ups are on the Te Mana sports notice board.  
+Please be at the meeting.
 
 See Mrs Murphy or Miss Madams in the gym office with any queries.
 
