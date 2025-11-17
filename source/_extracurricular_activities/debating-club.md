@@ -1,6 +1,6 @@
 ---
 title: Debating Club
-date: 2025-11-14T13:34:00+13:00
+date: 2025-11-17T13:53:00+13:00
 people:
   - role: Teacher in Charge
     name: Mrs Shelley Clark
@@ -8,8 +8,6 @@ people:
     name: Ms Rebecca Easton
   - role: Teacher in Charge
     name: Ms Jane Headon
-  - role: Teacher in Charge
-    name: Ms Susan Hughes
   - role: Teacher in Charge
     name: Mrs Samantha Sutherland
 extracurricular_area: Other
@@ -33,4 +31,4 @@ Students are welcome to attend just the school club.
 
 **Teachers-in-charge:** 
 
-Mrs S Clark, Ms R Easton, Mr J Headon, Ms S Hughes, Mrs S Sutherland
+Mrs S Clark, Ms R Easton, Mr J Headon, Mrs S Sutherland
