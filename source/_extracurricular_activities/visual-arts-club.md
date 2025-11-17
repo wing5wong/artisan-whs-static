@@ -17,6 +17,6 @@ The Visual Arts Club announce and encourage entry into National and Regional Art
 
 **When:** During the school year.
 
-**Event/s:** Patillo Whanganui Arts Review, Waimarino Art Awards, Taranaki Art Awards, National Youth Art Awards, NZSS Art Awards, Stills Competition, National Ringa Toi Competition.
+**Events:** Patillo Whanganui Arts Review, Waimarino Art Awards, Taranaki Art Awards, National Youth Art Awards, NZSS Art Awards, Stills Competition, National Ringa Toi Competition.
 
 **Cost:** Depending on competition, it can range from free entry to $30
