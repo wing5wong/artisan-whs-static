@@ -1,7 +1,13 @@
 ---
-title: Visual Arts Club
-date: 2021-06-22T22:45:49.017Z
-people: []
+title: "Visual Arts "
+date: 2025-11-17T14:28:00+13:00
+people:
+  - role: Teacher in Charge
+    name: Mr Graham Hall
+  - role: Teacher in Charge
+    name: Mrs Kaye Coombs
+  - role: Teacher in Charge
+    name: Ms Catherine Sleyer
 extracurricular_area: Other
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624320860/Performing%20Arts/Visual_Art_-_Rose_Hird_-_A_chantry_for_cumulus_Printmaking.jpg
 ---
@@ -11,6 +17,6 @@ The Visual Arts Club announce and encourage entry into National and Regional Art
 
 **When:** During the school year.
 
-**Event/s:** Patillo Whanganui Arts Review, Whanganui Walls, New Zealand Secondary School Photography Competition, Wallace Secondary School Art Awards, Earth Guardians Character Design Awards, Waimarino Art Awards, Taranaki Art Awards, National Youth Art Awards, Fine Arts Whanganui Young Artist Scholarship.
+**Event/s:** Patillo Whanganui Arts Review, Waimarino Art Awards, Taranaki Art Awards, National Youth Art Awards, NZSS Art Awards, Stills Competition, National Ringa Toi Competition.
 
 **Cost:** Depending on competition, it can range from free entry to $30
