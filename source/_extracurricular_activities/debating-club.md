@@ -29,6 +29,3 @@ Students are welcome to attend just the school club.
 
 **Cost:** Minimal – contribution to entry and transport costs.
 
-**Teachers-in-charge:** 
-
-Mrs S Clark, Ms R Easton, Mr J Headon, Mrs S Sutherland
