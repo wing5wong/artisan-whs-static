@@ -1,7 +1,9 @@
 ---
 title: Kapa Haka
-date: 2025-11-09T21:34:00+13:00
-people: []
+date: 2025-11-21T12:46:00+13:00
+people:
+  - role: Teacher in Charge
+    name: Ms Whakaae Baron
 extracurricular_area: Performing Arts
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131722/Performing%20Arts/Maori_kapa_haka_4_2025.jpg
 image_gallery:
