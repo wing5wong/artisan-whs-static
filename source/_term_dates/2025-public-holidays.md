@@ -21,6 +21,3 @@ The school will be closed on all public holidays.
 
 Parents will be notified if students are not required at school for any extraordinary reason.
 
-Please note:
-
-* Friday 7 February, School closed as Waitangi is on Thursday.
