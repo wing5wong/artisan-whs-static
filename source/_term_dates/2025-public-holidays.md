@@ -2,7 +2,7 @@
 title: 2026 Public Holidays
 date: 2025-11-21T13:35:00+13:00
 start_dates:
-  - date: 2026-02-06T21:00:00+13:00
+  - date: 2026-02-06T09:00:00+13:00
     body: Waitangi Day
   - date: 2026-04-03T08:00:00+13:00
     body: Good Friday
