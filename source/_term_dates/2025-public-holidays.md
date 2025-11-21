@@ -1,20 +1,20 @@
 ---
-title: 2025 Public Holidays
-date: 2024-11-25T16:14:00.000Z
+title: 2026 Public Holidays
+date: 2025-11-21T13:35:00+13:00
 start_dates:
-  - date: 2025-02-06T08:00:00.000Z
+  - date: 2026-02-06T21:00:00+13:00
     body: Waitangi Day
-  - date: 2025-04-18T08:00:00.000Z
-    body: Good Friday (within school holidays)
-  - date: 2025-04-21T08:00:00.000Z
+  - date: 2026-04-03T08:00:00+13:00
+    body: Good Friday
+  - date: 2026-04-06T08:00:00+12:00
     body: Easter Monday (within school holidays)
-  - date: 2025-04-25T08:00:00.000Z
-    body: Anzac Day (within school holidays)
-  - date: 2025-06-02T08:00:00.000Z
-    body: KING's Birthday
-  - date: 2025-06-20T08:00:00.000Z
+  - date: 2026-04-25T08:00:00+12:00
+    body: Anzac Day (Observed Monday 27 April)
+  - date: 2026-06-01T08:00:00+12:00
+    body: King's Birthday
+  - date: 2026-07-10T08:00:00+12:00
     body: Matariki
-  - date: 2025-10-27T08:00:00.000Z
+  - date: 2026-10-26T09:00:00+13:00
     body: Labour Day
 ---
 The school will be closed on all public holidays. 
