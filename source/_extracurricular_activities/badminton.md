@@ -6,6 +6,9 @@ people: []
 terms: null
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763930588/Badminton_1_2025_te6yhw.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763930687/Badminton_2_2025_cf5uby.jpg
 blocks: []
 ---
 Badminton is held in Term 2 and 3, Fridays after school in the Te Wehi and Te Mana 
