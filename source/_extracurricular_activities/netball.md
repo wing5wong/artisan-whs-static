@@ -10,6 +10,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932135/Netball
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937279/group_huddle_ywp2db.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937273/misha_jumping_bpzwju.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937264/With_Lisas_award_jh3bll.jpg
 ---
 **Grades are:** Juniors Girls (Year 9 & 10), Seniors Girls (Year 11-13) & Mixed (Year 9-13).
 
