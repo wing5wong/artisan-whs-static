@@ -7,6 +7,9 @@ terms: null
 extracurricular_area: Sport
 cost: ""
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763931385/Girls_Football_4_2025_ootwoo.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937384/Isabelle_Key_I_think_kstwf3.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937393/team_photo_with_hands_cr19uw.jpg
 ---
 1st XI play in the Manawatu Secondary Schools League on Wednesdays in Terms 2 & 3, Sports Exchanges and Tournament Week.  
 
