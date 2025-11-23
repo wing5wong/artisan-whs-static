@@ -3,12 +3,12 @@ title: Librarian Team
 date: 2024-05-23T22:23:33.580Z
 people:
   - role: Teacher in Charge
-    name: Mrs S. Goldsbury
+    name: Mrs Sue Goldsbury
   - role: Teacher in Charge
-    name: Mrs L. Lamb
+    name: Mrs Linda Lamb
 uniform: ""
 extracurricular_area: Other
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1624328846/Performing%20Arts/Library.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763926422/facilities/Library_photo_2025.jpg
 ---
 To give students a sense of belonging at school, while being a good role model. They develop friendships with a wide range of other students and are trained to assist with a variety of library duties.
 
