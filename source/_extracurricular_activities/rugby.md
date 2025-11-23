@@ -1,11 +1,14 @@
 ---
-title: Rugby
-date: 2025-01-27T14:43:00.000Z
 person_in_charge: Mr B. Parry
+title: Rugby
+date: 2025-11-24T10:13:00+13:00
 people: []
 uniform: ""
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932236/Rugby_boys_2025_xsolwo.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932257/Rugby_girls_1_2025_k8tfb0.jpg
 ---
 Most year 9 students who are interested in Rugby play for one of the schools Junior teams.
 
