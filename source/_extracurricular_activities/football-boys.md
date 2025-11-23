@@ -1,11 +1,12 @@
 ---
-title: Football - Boys
-date: 2025-01-27T14:12:00.000Z
 person_in_charge: Mrs L. Murphy
+title: Football - Boys
+date: 2025-11-24T10:03:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763931302/Football_Boys_3_2025_o6t5qx.jpg
 ---
 1st XI play in the Manawatu Secondary School League on Wednesdays in Terms 2 & 3, Sports Exchanges and Tournament Week.  
 All other players participate through the local Football clubs.
