@@ -1,11 +1,12 @@
 ---
-title: Netball
-date: 2025-01-27T14:35:00.000Z
 person_in_charge: Mrs L. Murphy
+title: Netball
+date: 2025-11-24T10:11:00+13:00
 people: []
 uniform: ""
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932135/Netball_2_2025_czujgw.jpg
 ---
 **Grades are:** Juniors Girls (Year 9 & 10), Seniors Girls (Year 11-13) & Mixed (Year 9-13).
 
