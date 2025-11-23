@@ -1,12 +1,13 @@
 ---
 person_in_charge: Mrs L. Murphy
 title: Softball
-date: 2025-01-27T14:49:00.000Z
+date: 2025-11-24T10:24:00+13:00
 people: []
 terms: null
 uniform: ""
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932449/Softball_Juniors_and_Seniors_2025_oii3yr.jpg
 ---
 Our students play in a mixed Inter-School Slow pitch competition at the Whanganui Softball Park Monday afternoons.
 
