@@ -1,10 +1,11 @@
 ---
 title: Cross Country
-date: 2025-01-27T14:07:00.000Z
+date: 2025-11-24T10:02:00+13:00
 person_in_charge: Mrs L. Murphy
 people: []
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763931164/Cross_Country_1_2025_zpf81w.jpg
 ---
 **Structure**  
 As well as our annual Cross Country Champs, Whanganui High School students compete and train through the school.  We have a year-round programme with emphasis on Cross Country and Conditioning during winter and Athletics in summer.  The Cross Country programme caters for winter sports players.
