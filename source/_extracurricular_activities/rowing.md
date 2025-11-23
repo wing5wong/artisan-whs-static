@@ -1,10 +1,11 @@
 ---
 title: Rowing
-date: 2025-01-27T14:42:00.000Z
+date: 2025-11-24T10:12:00+13:00
 person_in_charge: Mrs L. Murphy
 people: []
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932199/Rowing_1_2025_f3iu26.jpg
 ---
   
 Whanganui is fortunate to have an excellent facility for all year-round rowing. We 
