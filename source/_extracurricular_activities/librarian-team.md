@@ -1,6 +1,6 @@
 ---
 title: Librarian Team
-date: 2024-05-23T22:23:33.580Z
+date: 2025-11-24T08:37:00+13:00
 people:
   - role: Teacher in Charge
     name: Mrs Sue Goldsbury
