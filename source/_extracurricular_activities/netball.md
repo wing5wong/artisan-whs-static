@@ -7,6 +7,9 @@ uniform: ""
 extracurricular_area: Sport
 cost: ""
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932135/Netball_2_2025_czujgw.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937279/group_huddle_ywp2db.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937273/misha_jumping_bpzwju.jpg
 ---
 **Grades are:** Juniors Girls (Year 9 & 10), Seniors Girls (Year 11-13) & Mixed (Year 9-13).
 
