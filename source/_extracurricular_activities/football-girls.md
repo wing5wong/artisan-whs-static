@@ -1,11 +1,12 @@
 ---
-title: Football - Girls
-date: 2025-01-27T14:17:00.000Z
 person_in_charge: Mrs L. Murphy
+title: Football - Girls
+date: 2025-11-24T10:03:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763931385/Girls_Football_4_2025_ootwoo.jpg
 ---
 1st XI play in the Manawatu Secondary Schools League on Wednesdays in Terms 2 & 3, Sports Exchanges and Tournament Week.  
 
