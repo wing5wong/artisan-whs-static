@@ -1,10 +1,11 @@
 ---
 title: Volleyball - Girls
-date: 2025-01-27T15:02:00.000Z
+date: 2025-11-24T10:25:00+13:00
 person_in_charge: Mrs M. Bennetts
 people: []
 terms: null
 extracurricular_area: Sport
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932975/Vball_Girls_3_2025_yj2dcs.jpg
 ---
 **Trials for Junior teams** are at the start of Term 1.  
 **Senior Competitive teams** trial in Term 3.  
