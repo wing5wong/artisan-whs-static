@@ -1,11 +1,12 @@
 ---
-title: Hockey - Girls
-date: 2025-01-27T14:26:00.000Z
 person_in_charge: Mr G. Hardy
+title: Hockey - Girls
+date: 2025-11-24T10:07:00+13:00
 people: []
 terms: null
 uniform: ""
 extracurricular_area: Sport
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763931991/Girls_Hockey_2_2025_bhzpvl.jpg
 ---
 Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week, with the 1st XI Boys & Girls teams travelling to play in the Palmerston North League.
 
