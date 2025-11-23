@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mr G. Hardy
 title: Badminton
-date: 2025-01-27T13:49:00.000Z
+date: 2025-11-24T10:01:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
