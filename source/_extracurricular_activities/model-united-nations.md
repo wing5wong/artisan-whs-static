@@ -1,6 +1,6 @@
 ---
 title: Model United Nations
-date: 2019-09-23T00:25:16.993Z
+date: 2024-02-19T00:25:00+13:00
 people:
   - name: Mrs J. de Smidt
     role: Teacher in Charge
