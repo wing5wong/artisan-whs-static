@@ -7,10 +7,10 @@ terms: null
 uniform: ""
 extracurricular_area: Sport
 cost: ""
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932449/Softball_Juniors_and_Seniors_2025_oii3yr.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937111/Softball_-_Loushe_xy8l8e.jpg
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937111/Softball_-_Loushe_xy8l8e.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937106/Softball_-_Kynan_Running_vi6i9x.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932449/Softball_Juniors_and_Seniors_2025_oii3yr.jpg
 ---
 Our students play in a mixed Inter-School Slow pitch competition at the Whanganui Softball Park Monday afternoons.
 
