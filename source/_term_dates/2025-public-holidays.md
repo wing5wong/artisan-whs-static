@@ -13,7 +13,7 @@ start_dates:
   - date: 2026-06-01T08:00:00+12:00
     body: King's Birthday
   - date: 2026-07-10T08:00:00+12:00
-    body: Matariki
+    body: Matariki (within school holidays)
   - date: 2026-10-26T09:00:00+13:00
     body: Labour Day
 ---
