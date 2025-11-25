@@ -1,11 +1,16 @@
 ---
 person_in_charge: Mr G. Hardy
 title: Badminton
-date: 2025-01-27T13:49:00.000Z
+date: 2025-11-24T10:01:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763930588/Badminton_1_2025_te6yhw.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763930687/Badminton_2_2025_cf5uby.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937308/2_qxwnux.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937314/4_wjsstj.jpg
 blocks: []
 ---
 Badminton is held in Term 2 and 3, Fridays after school in the Te Wehi and Te Mana 

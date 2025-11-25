@@ -1,10 +1,11 @@
 ---
 title: Basketball - Girls
-date: 2025-01-27T13:55:00.000Z
+date: 2025-11-24T10:32:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763933444/Basketball_girls_2025_tffcfs.jpg
 ---
 **Played** on Friday evenings at Springvale Stadium between 4:00pm - 8:30pm
 

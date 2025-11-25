@@ -1,11 +1,12 @@
 ---
-title: Athletics
-date: 2025-01-27T13:41:00.000Z
 person_in_charge: Mrs L. Murphy
+title: Athletics
+date: 2025-11-24T10:52:00+13:00
 people: []
 extracurricular_area: Sport
 category: School Sports
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763934740/athletics_Day_1_2025_neco1x.jpg
 ---
   
 **Background**  
