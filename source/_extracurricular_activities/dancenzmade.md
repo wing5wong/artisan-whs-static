@@ -12,7 +12,7 @@ Students are able to participate in New Zealand’s Interschool and Interstudio 
 ***Dance NZ Made Regional Final Teams***  
 
 * 2025  
-2nd Place, Overall Lyrical Team & Big Heart Award, NATIONALS - 'Love In The Dark'  
+2nd Place, Overall Lyrical Team & Big Heart Award (NATIONALS) - 'Love In The Dark'  
 1st Place, Year 11-13 Team - Overall Champions & Excellence in Choreography - 'Love In The Dark'  
 2nd Place, Year 11-13 - 'All That Jazz'  
 
