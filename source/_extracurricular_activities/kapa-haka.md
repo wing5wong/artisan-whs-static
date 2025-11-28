@@ -10,7 +10,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131843/Performing%20Arts/Maori_kapa_haka_3_2025.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131840/Performing%20Arts/Maori_kapa_haka_2_2025.jpg
 ---
-Kia Whaiora Kapa Haka  
 Kia Whaiora is our school Kapa Haka, originally established in 1999. The name stems from the school whakataukii of “LIFE”, which is an acronym for the following kura values;  
 
 Learning - Ako  
