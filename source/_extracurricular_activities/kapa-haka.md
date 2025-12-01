@@ -1,6 +1,6 @@
 ---
 title: Kapa Haka
-date: 2025-11-21T12:46:00+13:00
+date: 2025-11-28T14:54:00+13:00
 people:
   - role: Teacher in Charge
     name: Ms Whakaae Baron
@@ -10,6 +10,14 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131843/Performing%20Arts/Maori_kapa_haka_3_2025.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1762131840/Performing%20Arts/Maori_kapa_haka_2_2025.jpg
 ---
-Kapa haka plays a vital role in the culture of our school and holds pride of place during the School's formal occasions with Waiata, Karakia and Pōwhiri. Kia Whaiora Kapa Haka rōpu, take part in the annual Aotea Regional Pae Rangatahi Competitions, with the goal of eventually heading to the National secondary school competition held every other year. Ko te tumanako ka tutuki tenei whainga. Karawhiua mai Kia Whaiora e!
+Kia Whaiora is our school Kapa Haka, originally established in 1999. The name stems from the school whakataukii of “LIFE”, which is an acronym for the following kura values;  
 
-**Tutors:**  Whaea Turehu and Matua Anaru
+Learning - Ako  
+Integrity - Mana  
+Fellowship - Whanaungatanga  
+Excellence – Kairangi
+ 
+Our current tutors who prepared our rōpū to perform at the Aotea Regional Kapa Haka competition held here in Whanganui this year (2025) are Whaea Turehu Simon-Mokai and Matua Anaru Simon-Mokai.  
+The regional competition occurs every 2 years. The next one will take place in the Taranaki region in 2027.
+
+
