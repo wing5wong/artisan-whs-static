@@ -1,6 +1,6 @@
 ---
 title: Exploration & Discovery Club
-date: 2024-05-24T01:04:06.727Z
+date: 2025-12-05T11:06:00+13:00
 people:
   - name: Mr Bevan Hunter
     role: Teacher in Charge
