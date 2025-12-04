@@ -1,5 +1,5 @@
 ---
-title: Fees and Accommodation
+title: International Student Fees
 date: 2024-11-25T10:59:00.000Z
 ---
 <p>All prices are in New Zealand dollars.</p>
