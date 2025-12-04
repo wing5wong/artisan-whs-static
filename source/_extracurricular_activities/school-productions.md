@@ -1,6 +1,6 @@
 ---
 title: "School Production "
-date: 2024-06-10T16:12:00.000Z
+date: 2025-12-05T11:00:00+13:00
 people:
   - name: Ms Natalie Harris
     role: Teacher in Charge
