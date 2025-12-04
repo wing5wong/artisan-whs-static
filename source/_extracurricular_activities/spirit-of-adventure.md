@@ -1,6 +1,6 @@
 ---
 title: Spirit of Adventure
-date: 2024-05-23T22:27:02.538Z
+date: 2025-12-05T11:08:00+13:00
 people:
   - name: Mrs Elizabeth Spooner
     role: Teacher in Charge
