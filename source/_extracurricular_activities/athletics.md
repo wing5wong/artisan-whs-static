@@ -7,6 +7,10 @@ extracurricular_area: Sport
 category: School Sports
 cost: ""
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763934740/athletics_Day_1_2025_neco1x.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764898976/Athletics_3_uuzyvl.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764898966/Athletics_2_ckjydl.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764898959/Athletics_1_qulwkp.jpg
 ---
   
 **Background**  
