@@ -11,9 +11,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932257/Rugby_girls_1_2025_k8tfb0.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937959/DSC_0299_mfk5ho.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937547/DSC_0238_j9ngbv.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937945/DSC_0298_hymt36.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764897303/Sports/Rugby_2.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937743/DSC_0176_qusz5p.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937409/medals_rkgsvj.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764897306/Sports/Rugby_3.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763938386/DSC_0605_xcituw.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937085/Rugby_-_U15_jqaosk.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937066/Rugby_-_Colts_win_1_gywh6j.jpg
