@@ -9,6 +9,7 @@ extracurricular_area: Sport
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763936979/Hockey_boys_celebrating_rtx6ek.jpg
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763931454/Hockey_boys_1_2025_mmo7ig.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764896564/Sports/hockey_boys.jpg
 ---
 Most games are played at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week, with the 1st XI Boys & Girls teams travelling to play in the Palmerston North League. 
 
