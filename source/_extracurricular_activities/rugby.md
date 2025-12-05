@@ -6,7 +6,7 @@ people: []
 uniform: ""
 extracurricular_area: Sport
 cost: ""
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932236/Rugby_boys_2025_xsolwo.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764898087/rugby_champs_jm8f1h.jpg
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932257/Rugby_girls_1_2025_k8tfb0.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937959/DSC_0299_mfk5ho.jpg
@@ -17,6 +17,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763938386/DSC_0605_xcituw.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937085/Rugby_-_U15_jqaosk.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937066/Rugby_-_Colts_win_1_gywh6j.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764897681/Sports/rugby_5.jpg
 ---
 Most year 9 students who are interested in Rugby play for one of the schools Junior teams.
 
