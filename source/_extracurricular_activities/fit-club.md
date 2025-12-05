@@ -3,6 +3,7 @@ title: Fit Club
 date: 2025-03-24T09:54:00+13:00
 people: []
 extracurricular_area: Sport
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764894931/Sports/banner_1.jpg
 ---
 **Structure:** Whanganui High School has its own, well equipped gym located above Te Mana gym.  The Fit Club contains weights and cardio equipment, plus a qualified fitness instructor who is supervising and assisting the student members to gain confidence and improve on their hauora.  
 
