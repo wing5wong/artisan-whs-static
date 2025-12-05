@@ -16,7 +16,6 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764897306/Sports/Rugby_3.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763938386/DSC_0605_xcituw.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937085/Rugby_-_U15_jqaosk.jpg
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937066/Rugby_-_Colts_win_1_gywh6j.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764897681/Sports/rugby_5.jpg
 ---
 Most year 9 students who are interested in Rugby play for one of the schools Junior teams.
