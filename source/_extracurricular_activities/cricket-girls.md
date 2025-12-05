@@ -7,6 +7,7 @@ terms: null
 uniform: ""
 extracurricular_area: Sport
 cost: ""
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764895387/Sports/Cricket_photo_girls.jpg
 ---
   
 Girls' Cricket is a developing sport at Whanganui High School.  
