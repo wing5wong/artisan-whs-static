@@ -1,5 +1,5 @@
 ---
-title: Maori Student Dux
+title: 2025 Maori Student Dux
 date: 2025-12-08T08:04:00+13:00
 award: Maori Student Dux
 person1_name: Sam Buchanan
