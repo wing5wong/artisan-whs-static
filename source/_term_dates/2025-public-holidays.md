@@ -1,6 +1,6 @@
 ---
 title: 2026 Public Holidays
-date: 2025-11-21T13:35:00+13:00
+date: 2025-12-08T10:32:00+13:00
 start_dates:
   - date: 2026-02-06T09:00:00+13:00
     body: Waitangi Day
