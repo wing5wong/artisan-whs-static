@@ -1,6 +1,6 @@
 ---
 title: Moana
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1740516345/prefects/Anna_and_William_10.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1765143033/Achilles_Paikea_and_Jonathan_Pellow_u60gcb.png
 ---
-Anna Latonio and William Herd
+Achilles Paikea and Jonathan Pellow
