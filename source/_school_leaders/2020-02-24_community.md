@@ -1,6 +1,6 @@
 ---
 title: Community
 category: Prefects
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1740515000/prefects/Quinn_and_Raajay_1.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1765138279/Xavier_Booth_and_Olivia_Wilson_g5oq6h.png
 ---
-Quinn Hutchings and Raajay Reddy
+Xavier Booth and Olivia Wilson
