@@ -1,6 +1,6 @@
 ---
 title: Deputy Head Girl & Boy
 category: Deputy Heads of School
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1740519302/prefects/Jeide_and_Benjamin_5.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1765136709/Ethan_and_Isla_kcidlm.jpg
 ---
- Jeide Tyrell and Benjamin Ross 
+Ethan Clark & Isla Jones
