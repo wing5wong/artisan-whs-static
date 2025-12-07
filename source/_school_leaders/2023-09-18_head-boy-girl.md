@@ -1,6 +1,6 @@
 ---
 title: Head Girl & Boy
 category: Heads of School
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1740517773/prefects/Lilly_and_Jake_6.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1765136332/Lucas_and_Te_Atakura1_qd6pdg.png
 ---
-Lilly Terrey and Jake Newton
+Lucas Munn & Te Atakura Potaka-Osborne Milner-Skudder
