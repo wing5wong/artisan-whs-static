@@ -1,6 +1,6 @@
 ---
 title: Maunga
 category: Heads of House
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1740518951/prefects/Lauren_and_Maddi_4.jpg
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1765142874/Mitchell_Cosford_and_Lydia_Lamdocx_fbs98w.png
 ---
-Lauren Davies and Maddi Palmer
+Mitchell Cosford and Lydia Lam
