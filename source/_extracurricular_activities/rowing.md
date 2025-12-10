@@ -7,10 +7,11 @@ extracurricular_area: Sport
 cost: ""
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763939541/Girls_U16_Quad_Gold_-_arms_up_bsimh9.jpg
 image_gallery:
-  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763939340/Rowing_1_2025_f3iu26_ikzlzo.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764896768/Sports/rowing.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763939043/Boys_U16_Double_-_Silver_yfkuzu.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763939035/Boys_U16_Double_-_Podium_bmptcz.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763939499/Boys_U17_Quad_-_photo_by_water_p47pit.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764896906/Sports/rowing1.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763938985/Group_Shot_at_marae_julzuv.jpg
 ---
   

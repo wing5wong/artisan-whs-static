@@ -1,6 +1,6 @@
 ---
 title: Term Dates
-date: 2024-11-25T16:28:00.000Z
+date: 2025-12-08T09:17:00+13:00
 intro: ""
 extends: _layouts.term-dates
 ---

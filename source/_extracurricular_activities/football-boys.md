@@ -10,6 +10,7 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763931302/Footbal
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763940643/Football_Action_dce3js.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763940635/Football_Boys_with_medals_jjwode.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764896375/Sports/football_boys.jpg
 ---
 1st XI play in the Manawatu Secondary School League on Wednesdays in Terms 2 & 3, Sports Exchanges and Tournament Week.  
 All other players participate through the local Football clubs.

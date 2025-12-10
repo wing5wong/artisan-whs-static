@@ -1,11 +1,14 @@
 ---
+person_in_charge: Mrs M. Bennetts
 title: Volleyball - Boys
 date: 2025-11-24T10:25:00+13:00
-person_in_charge: Mrs M. Bennetts
 people: []
 terms: null
 extracurricular_area: Sport
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763932970/Vball_Boys_3_2025_bxijjq.jpg
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764898784/Sports/volleyvolleyboys2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764898694/Sports/volleyboys1.jpg
 ---
 **Trials for Junior teams** are at the start of Term 1.  
 **Senior Competitive teams** trial in Term 3.  
