@@ -20,8 +20,10 @@ In order to pass any level of NCEA, students must achieve 60 credits PLUS 10 Lit
 
 <tr>
 <td colspan="3">
-- 10 Literacy or Te Reo Matatini credits and
-- 10 Numeracy or Te Pāngarau credits
+<ul>
+ <li> 10 Literacy or Te Reo Matatini credits and
+ <li> 10 Numeracy or Te Pāngarau credits
+ </ul>
 </td>
 </tr>
 </table>
