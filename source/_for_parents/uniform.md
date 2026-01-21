@@ -1,6 +1,6 @@
 ---
 title: Uniform
-date: 2025-04-10T16:16:00+12:00
+date: 2026-01-22T12:09:00+13:00
 ---
 ## GENERAL INFORMATION
 
@@ -24,4 +24,4 @@ Saturday 9am - 1pm
 
 For more information regarding the Whanganui High School uniform click the links below:
 
-[Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1739229055/Uniform/Uniform_Booklet_-_4_February_2025.pdf)
+[Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1769037405/Uniform/Uniform_Booklet_16_June_2025.pdf)
