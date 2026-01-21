@@ -1,48 +1,61 @@
 ---
 title: Bell Times
-date: 2024-01-04T21:25:28.707Z
+date: 2026-01-22T11:24:00+13:00
 ---
-**Students should be at school by 8:45am**  
-**Whanganui High School expects students to be punctual**
+ BELL TIMES 2026 
 
-**Monday to Thursday**
+Monday to Friday (Week A) & 
 
-8.45      First Bell.
+Monday, Tuesday, Thursday and Friday (Week B)                             
 
-8.50 - 9.50 Period One.
+8:50          First Bell
 
-9.50 - 10.05 Form Time.
+8:55		Form Time
 
-10.05 - 11.05 Period Two.
+9:10		Period One
 
-11.05 - 11.50 Morning Break.
+10:10	Period Two
 
-11.50 - 12.50 Period Three.
+11:10	Morning Break
 
-12.50 - 1.50 Period Four.
+11:50	Period Three
 
-1.50 - 2.10 Afternoon Break.
+12:50	Period Four
 
-2.10 - 3.05 Period Five.
+1:50 	Afternoon Break
+
+2:00		Period Five
+
+3:00		End of Period Five		
 
 
 
-**Friday**  
+Wednesday (Week B only)
 
-8.45      First Bell.
+8:50          First Bell
 
-8.50 – 9.50  Period One.
+8:55		Form Time					
 
-9.50 – 10.20  Form Time.
+9:10		Period One	           							
 
-10.20 – 11.20 Period Two.
+10:10	Period Two
 
-11.20 – 12.05 Lunch break.
+11.10	Morning Break
 
-12.05 – 1.05  Period Three.
+12:00	Period Three
 
-1.05 – 2.05  Period Four.
+1:00		Period Four
 
-At the conclusion of period 4, students will be able to go home unless requested to remain for tuition or mentoring.  
-Bus students will be able to attend the Homework Centre in the Library.
+2:00		End of Period Four
 
+At the conclusion of Period 4 (Wednesday Week B only) students will be able to go home unless requested to remain for tuition, mentoring or sports events. Bus students will be able to attend the Homework Centre in the Library.
+
+Students need to arrive at school no later than 8:45am every day. Whanganui High School expects students to be on time to all classes.
+
+
+
+Mr McAllen
+
+Principal
+
+Whanganui High School
