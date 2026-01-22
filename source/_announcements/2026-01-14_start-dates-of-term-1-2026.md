@@ -4,7 +4,8 @@ is_emergency: false
 date: 2026-01-14T13:03:00+13:00
 ---
 Monday 26 January  
-Year 9 & Year 13, & all new students
+Year 9 & Year 13, & all new students  
+Look under 'Upcoming Events' for different time schedule of Year 9 and 13.
 
 Tuesday 27 January  
 Year 12 students
