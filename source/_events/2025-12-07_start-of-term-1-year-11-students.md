@@ -17,9 +17,9 @@ then released to period 1 classes.
 
 9.10am, Period 1 begins  
 10.10 – 11.10am, Period 2  
-11.10 - 11.50am, Morning break  
+_11.10 - 11.50am, Morning break_  
 11.50 - 12.50pm, Period 3  
 12.50 - 1.50pm,	Period 4  
-1.50 - 2.00pm, Afternoon break  
+_1.50 - 2.00pm, Afternoon break_  
 2.00 - 3.00pm, Period 5  
 
