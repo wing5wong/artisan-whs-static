@@ -17,9 +17,9 @@ Uniform check, organisation, timetables, new pupils etc
 then released to period 1 classes by 9.20am.  
 
 10.10am - 11.10am, Period 2  
-11.10am - 11.50am, Morning break  
+_11.10am - 11.50am, Morning break_  
 11.50am - 12.50pm, Period 3   
 12.50pm -1.50pm, Period 4  
-1.50pm - 2.00pm, Afternoon break  
+_1.50pm - 2.00pm, Afternoon break_  
 2.00pm - 3.00pm, Period 5
 
