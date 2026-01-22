@@ -7,7 +7,7 @@ date: 2026-01-26T09:19:00+13:00
 
 -----
 
-#### For Year 9 and pupils new to WHS
+#### **For Year 9 and pupils new to WHS**
 
 **Pre 9.00am**  
 Students will assemble on the Purnell St footpath.  
@@ -37,7 +37,7 @@ End of school day.
 ---------
 
 
-#### For Year 13  
+#### **For Year 13**  
 
 **11.00am**  
 **Year 13 assembly in the Hall**  
