@@ -18,7 +18,7 @@ Prefects assisting.
 Morning tea at the conclusion of powhiri. 
 
 **10.15am (approx)**  
-**Y9 and other new pupils back to Hall** for organisation into form classes. Taken to form rooms.  
+**Y9 and other new students back to Hall** for organisation into form classes. Taken to form rooms.  
 Deans of year groups other than Y9 need to collect the new pupils and provide some orientation.
 
 **11.30am – 12.00pm**  
