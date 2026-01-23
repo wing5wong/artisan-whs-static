@@ -7,7 +7,7 @@ date: 2026-01-28T09:25:00+13:00
 
 -------------
 
-8.55 – 9.10am  
+8.55am – 9.10am  
 Form time for Yrs 9, 12 & 13  
 
 **Year 11 students go to Hall with Mcg and Wsp**  
