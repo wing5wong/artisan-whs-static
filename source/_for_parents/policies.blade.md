@@ -23,6 +23,8 @@ Whanganui High School representatives are bound by the Smoke, Drug, and Alcohol 
 
 [Read the full criteria for representing Whanganui High School](https://res.cloudinary.com/whanganuihigh/image/upload/v1659301827/School%20Policies/WHS_School_Representative_Policy_2022.pdf)
 
+## WHS Attendance Management Plan
+[WHS Attendance Management Plan](https://res.cloudinary.com/whanganuihigh/image/upload/v1769745339/School%20Documents/Policies%20and%20Charter/ATTENDANCE_MANAGEMENT_PLAN_2026.pdf)
 
 ## WHS Behaviour Intervention Plan
 [WHS Behaviour Intervention Plan](https://res.cloudinary.com/whanganuihigh/image/upload/v1764041269/School%20Documents/Policies%20and%20Charter/WHS_Behaviour_Intervention_Plan.pdf)
