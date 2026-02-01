@@ -12,6 +12,5 @@ Spots are limited, so don’t miss out, sign up using the link below and be part
 
 Even if you’ve never performed before, this is the perfect chance to give it a go!  
 
-Sign up on the bit.ly below:
 
 [bit.ly/whsvalentines26](https://docs.google.com/forms/d/e/1FAIpQLSemzQBVYeJmWP0Uzanu2g2cP5CWe-NmFs1xFYAPw0i9FEqPzw/viewform)
