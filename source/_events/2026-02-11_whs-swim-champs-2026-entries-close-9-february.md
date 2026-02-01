@@ -1,5 +1,5 @@
 ---
-title: WHS Swim Champs 2026 - entries close 9 February
+title: WHS Swim Champs 2026 - Entries Close 9 February
 date: 2026-02-12T11:36:00+13:00
 ---
 Entries are open until Monday 9 February. You MUST compete in at least 2 events to enter.  
