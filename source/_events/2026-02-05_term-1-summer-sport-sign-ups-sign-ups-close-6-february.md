@@ -1,5 +1,5 @@
 ---
-title: Term 1 Summer Sport Sign Ups, sign ups close 6 February
+title: Term 1 Summer Sports, Sign Ups close 6 February
 date: 2026-02-06T11:39:00+13:00
 ---
 Below is the bit.ly to sign up to a Summer Sport for Term 1.
