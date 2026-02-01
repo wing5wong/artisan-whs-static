@@ -6,10 +6,8 @@ Our Valentine's Day Open Mic is on Friday 13 February on the field, set up outsi
 
 Got a love song you’ve been dying to share? This is your moment.  
 
-Our Valentine’s Day Open Mic is open to all high school students — solo or group acts welcome! 
-
+Our Valentine’s Day Open Mic is open to all high school students — solo or group acts welcome!  
 Spots are limited, so don’t miss out, sign up using the link below and be part of an awesome break time full of music!  
-
 Even if you’ve never performed before, this is the perfect chance to give it a go!  
 
 
