@@ -11,4 +11,4 @@ The team travelling to Whanganui Girls’ College will be selected based on thes
 
 Our own Year 13, Romeo Newton, took out the win last year — let’s go back-to-back!  
 
-Please see Miss Madams if you have any questions.
+Please see Miss Madams if you have any questions, in the Te Wehi Gym Office.
