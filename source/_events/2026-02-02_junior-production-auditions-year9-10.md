@@ -1,5 +1,5 @@
 ---
-title: Junior Production Auditions - Year9/10
+title: Junior Production Auditions - Year 9/10
 date: 2026-02-03T11:29:00+13:00
 ---
 Auditions for High School Musical Jr will be taking place on Tuesday 3 of February at 4:30pm.
