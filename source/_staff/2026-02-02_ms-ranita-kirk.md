@@ -1,5 +1,6 @@
 ---
 title: Ms Ranita Kirk
+position: Teacher of Spanish
 departments:
   - Social Sciences
   - Languages
