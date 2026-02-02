@@ -6,6 +6,6 @@ Nominations are now open for the WHS Board Student Representative Election in Fe
 
 Nomination forms can be picked up from the Student Centre or Returning Officer, Mrs Molan.  
 The election will be held on one day only – Wednesday 25 February 2026.  
-Nominations close on Tuesday 10 February 2026 at NOON.
+Nominations CLOSE on Tuesday 10 February 2026 at NOON.
 
 
