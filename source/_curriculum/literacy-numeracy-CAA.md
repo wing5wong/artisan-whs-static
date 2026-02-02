@@ -38,8 +38,9 @@ The co-requisite standards (CAA) cover foundational skills, aiming for approxima
     <li><strong>Data and Chance:</strong> Using numbers and units for measurement with appropriate precision, and reasoning with statistics, data, and probability.
     </ul>
     <p><em>Unit Standards covered: US32403 and US32405. Te Reo Matatini unit standards: 32413 (Te Reo Torohū) and 32415 (Te Reo Whakaputa).</em></p>
-</details>
 <p><em>(Unit Standard covered: US32406; Pāngarau US32412)</em></p>
+</details>
+
 
 
 ## The Common Assessment Activity (CAA)
@@ -123,34 +124,102 @@ These can be found on the NZQA public website for digital exams.
 
 ## Frequently Asked Questions (FAQs)
 
-#### When will my child take the CAAs?
-The Common Assessment Activities are offered as external unit standard exams twice during the academic year in May and September. The specific dates for our Year 10 and other students are publicised in the school calendar.
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            When will my child take the CAAs?
+        </h4>
+    </summary>
 
-#### Do the Literacy and Numeracy standards count towards NCEA Level 1 credits?
-These are the essential co-requisite standards for achieving NCEA at any level (L1, L2, L3). The 10 Literacy and 10 Numeracy credits are separate from the 60-credit requirement for NCEA Level 1. They are only graded as Achieved or Not Achieved. [NZQA NCEA Qualification Requirements](https://www2.nzqa.govt.nz/ncea/about-ncea/ncea-levels-and-certificates/)
+    <p>The Common Assessment Activities are offered as external unit standard exams twice during the academic year in May and September. The specific dates for our Year 10 and other students are publicised in the school calendar.</p>
+</details>
 
-#### If my child gets 'Not Achieved', what happens next?
-They will have future opportunities to demonstrate the standard. There is no maximum number of times a student can sit the Common Assessment Activities. They will be scheduled for the next available resit opportunity. 
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            Do the Literacy and Numeracy standards count towards NCEA Level 1 credits?
+        </h4>
+    </summary>
 
-#### Do these assessments count towards the 60 credits for NCEA Level 1?
-The new co-requisite sits outside the 60-credit requirement.
+    <p>These are the essential co-requisite standards for achieving NCEA at any level (Level 1, Level 2, or Level 3). The 10 Literacy and 10 Numeracy credits are separate from the 60-credit requirement for NCEA Level 1. They are only graded as Achieved or Not Achieved. <a href="https://www2.nzqa.govt.nz/ncea/about-ncea/ncea-levels-and-certificates/">NZQA NCEA Qualification Requirements</a></p>
+</details>
 
-#### Do Literacy & Numeracy need to be passed again for Level 2 or Level 3?
-No. Once achieved, the co-requisite applies to all future NCEA levels.
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            If my child gets ‘Not Achieved’, what happens next?
+        </h4>
+    </summary>
 
-#### Can students get Merit or Excellence?
-No. The only grades are Achieved or Not Achieved.
+    <p>They will have future opportunities to demonstrate the standard. There is no maximum number of times a student can sit the Common Assessment Activities. They will be scheduled for the next available resit opportunity.</p>
+</details>
 
-#### Is there a time limit for the CAAs?
-No. While each of the three assessments takes around 60 minutes, students have no time limit to complete the online assessment. They can take the time they need to demonstrate their skills. Most students easily finish within two school periods
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            Do these assessments count towards the 60 credits for NCEA Level 1?
+        </h4>
+    </summary>
 
+    <p>The new co-requisite sits outside the 60-credit requirement.</p>
+</details>
 
-#### How will I know what my child needs to work on if they get 'Not Achieved'?
-The school does not receive the test papers or direct feedback from NZQA. However, students receive individual, personalised feedback on their NZQA Login page. We encourage them to log in and share this feedback with their Maths and English teachers so we can provide the most targeted support.
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            Do Literacy &amp; Numeracy need to be passed again for Level 2 or Level 3?
+        </h4>
+    </summary>
 
-#### What if my child is not ready?
-We provide extensive school-wide support, teacher guidance, booster classes, and practice resources.
+    <p>No. Once achieved, the co-requisite applies to all future NCEA levels.</p>
+</details>
 
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            Can students get Merit or Excellence?
+        </h4>
+    </summary>
 
-#### Who should we talk to if we have questions?
-Start with your child’s English or Mathematics teacher, or contact the [Academic Dean](mailto:desmidt.j@whs.ac.nz).
+    <p>No. The only grades are Achieved or Not Achieved.</p>
+</details>
+
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            Is there a time limit for the CAAs?
+        </h4>
+    </summary>
+
+    <p>No. While each of the three assessments takes around 60 minutes, students have no time limit to complete the online assessment. They can take the time they need to demonstrate their skills. Most students easily finish within two school periods.</p>
+</details>
+
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            How will I know what my child needs to work on if they get ‘Not Achieved’?
+        </h4>
+    </summary>
+
+    <p>The school does not receive the test papers or direct feedback from NZQA. However, students receive individual, personalised feedback on their NZQA login page. We encourage them to log in and share this feedback with their Mathematics and English teachers so we can provide the most targeted support.</p>
+</details>
+
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            What if my child is not ready?
+        </h4>
+    </summary>
+
+    <p>We provide extensive school-wide support, teacher guidance, booster classes, and practice resources.</p>
+</details>
+
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            Who should we talk to if we have questions?
+        </h4>
+    </summary>
+
+    <p>Start with your child’s English or Mathematics teacher, or contact the <a href="mailto:desmidt.j@whs.ac.nz">Academic Dean</a>.</p>
+</details>
