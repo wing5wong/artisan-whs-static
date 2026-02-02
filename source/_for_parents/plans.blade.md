@@ -6,7 +6,7 @@ date: 2026-02-02T11:50:00.000Z
 [Whanganui High School Strategic Plan](https://res.cloudinary.com/whanganuihigh/image/upload/v1738619920/School%20Documents/Policies%20and%20Charter/WHS_Strategic_Plan_2025.pdf)
 
 ## Annual Implementation Plan
-Our Annual Implementation Plan is updated on an annual basis
+Our Annual Implementation Plan is updated on an annual basis  
 [Whanganui High School Annual Implementation Plan 2025](https://res.cloudinary.com/whanganuihigh/image/upload/v1738619923/School%20Documents/Policies%20and%20Charter/WHS_Annual_Implementation_Plan_2025.pdf)
 
 ## Attendance Management Plan
