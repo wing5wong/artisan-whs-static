@@ -3,7 +3,6 @@ title: Ms Karen Booth-Richards
 position: Head of Biology
 departments:
   - Sciences
-  - Social Sciences
 house: Whenua
 positions:
   - title: Head of Biology
