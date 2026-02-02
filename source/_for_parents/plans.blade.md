@@ -12,5 +12,5 @@ Our Annual Implementation Plan is updated on an annual basis
 ## Attendance Management Plan
 [WHS Attendance Management Plan](https://res.cloudinary.com/whanganuihigh/image/upload/v1769745339/School%20Documents/Policies%20and%20Charter/ATTENDANCE_MANAGEMENT_PLAN_2026.pdf)
 
-## Behaviour Intervention Plan
+## Safety & Behaviour Plan
 [WHS Safety & Behaviour Plan](https://res.cloudinary.com/whanganuihigh/image/upload/v1770063469/School%20Documents/Policies%20and%20Charter/WHS_Safety___Behaviour_Intervention_Plan.pdf)
