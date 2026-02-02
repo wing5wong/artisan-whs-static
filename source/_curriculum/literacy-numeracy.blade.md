@@ -39,7 +39,7 @@ The second way to achieve Numeracy and Literacy is by achieving credits through 
 
 
 
-[Click here to find out how to get Literacy and Numeracy through the CAA](literacy-numeracy-CAA)  
-[Click here to find out how to get Literacy and Numeracy through subjects](literacy-numeracy-AS)
+[Click here to find out how to get Literacy and Numeracy through the CAA](../literacy-numeracy-CAA)  
+[Click here to find out how to get Literacy and Numeracy through subjects](../literacy-numeracy-AS)
 
 
