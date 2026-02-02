@@ -71,6 +71,7 @@ The grading for the CAA is straightforward:
         <h4 class="decorated d-table mt-5 mb-2">
             Resits and Alternative Pathways
         </h4>
+        </summary>
 <p>Success is our goal, and we want to remove barriers to achievement.</p>
 <p>
 No Limit to Success: Once a student passes a CAA, they never need to sit it again. However, if a student attains a Not Achieved grade, they will have subsequent opportunities to resit the assessment. There is no maximum number of times a student can attempt the CAAs. They will simply be scheduled for the next available opportunity.
@@ -92,24 +93,41 @@ Our commitment is to embed these essential skills across the entire curriculum, 
 - **Targeted Support:** Data on student progress is shared across subjects, allowing staff to identify and support students who may need extra help. We offer dedicated literacy and numeracy booster classes before the assessments. In the senior years at WHS, success in the CAA will determine subject choices to ensure that students without Literacy and Numeracy still have the opportunity to receive teaching towards the CAA or gain them through the standards.
 
 
-## What does ‘readiness for the CAA’ mean?
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            What does ‘readiness for the CAA’ mean?
+        </h4>
+        </summary>
+<ul>
+<li>
+<strong>Checking Readiness:</strong> We use diagnostic tools, such as e-asTTle, the PATs (Progressive Achievement Tests in reading and mathematics), and alongside teacher observation and professional judgment. These tools inform our teaching and help us assess student readiness to sit the CAAs (in Term 2 and Term 3 for Year 10 -13 students).
+</li>
+<li>
+e-asTTle scores correlate closely with NZ Curriculum levels. The bands have 3 levels of descriptors - Basic, Proficient and Advanced. National data indicates that students with an e-asTTle score of 4A and above at Year 10 are most likely to succeed at CAA. (see diagram below). For this reason, we do not automatically enter every student into the first round of CAA as some students may need a little more time to be ready. We do like to ‘give students a go’ and therefore, by the end of Year 10, most students would have been given the opportunity to do the CAA. After Year 10 students are generally automatically entered.
+</li>
+</ul>
+</details>
 
-- **Checking Readiness:** We use diagnostic tools, such as e-asTTle, the PATs (Progressive Achievement Tests in reading and mathematics), and alongside teacher observation and professional judgment. These tools inform our teaching and help us assess student readiness to sit the CAAs (in Term 2 and Term 3 for Year 10 -13 students).
-- e-asTTle scores correlate closely with NZ Curriculum levels. The bands have 3 levels of descriptors - Basic, Proficient and Advanced. National data indicates that students with an e-asTTle score of 4A and above at Year 10 are most likely to succeed at CAA. (see diagram below). For this reason, we do not automatically enter every student into the first round of CAA as some students may need a little more time to be ready. We do like to ‘give students a go’ and therefore, by the end of Year 10, most students would have been given the opportunity to do the CAA. After Year 10 students are generally automatically entered.
 
 
-## Preparing for the CAA Digital Exam Platform
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            Preparing for the CAA Digital Exam Platform
+        </h4>
+        </summary>
 
-This is a digital assessment. Students in Year 10 will be shown how to set up an NZQA account. To set up the account students will be issued with their National Student Number (NSN) and will need to set up a school e-mail account. For this account students must use their school password and school e-mail. Once the account is set up, it can be used throughout their school career. Students who arrive from other schools need to check with the Academic Dean that their account has been transferred.
+<p>This is a digital assessment. Students in Year 10 will be shown how to set up an NZQA account. To set up the account students will be issued with their National Student Number (NSN) and will need to set up a school e-mail account. For this account students must use their school password and school e-mail. Once the account is set up, it can be used throughout their school career. Students who arrive from other schools need to check with the Academic Dean that their account has been transferred.</p>
 
-In order to be properly prepared, students need to bring their devices every single day. The log in process is online, and generally all the practice sessions are online as well. The link below also shows what the actual digital platform looks like. It also allows students to practise scrolling and moving about on the platform. This is a great resource and allows students to go in feeling confident that they know what to do. 
-[Preparing for Digital Assessments](https://www2.nzqa.govt.nz/ncea/external-assessment/about-digital-external-assessment/preparation-for-students/)
+<p>In order to be properly prepared, students need to bring their devices every single day. The log in process is online, and generally all the practice sessions are online as well. The link below also shows what the actual digital platform looks like. It also allows students to practise scrolling and moving about on the platform. This is a great resource and allows students to go in feeling confident that they know what to do. <a href="https://www2.nzqa.govt.nz/ncea/external-assessment/about-digital-external-assessment/preparation-for-students/">Preparing for Digital Assessments</a></p>
 
+<p>These assessments also come with a built in text-to-speech application called <a href="https://www2.nzqa.govt.nz/ncea/subjects/litnum/text-to-speech/polly-students-guide/">Polly</a>. This means that in the Writing and Numeracy Assessments, students can connect their headphones and have the text read to them by a computer generated voice. This is useful for those who like to hear the questions, rather than just reading it.</p>
 
-These assessments also come with a built in text-to-speech application called [Polly](https://www2.nzqa.govt.nz/ncea/subjects/litnum/text-to-speech/polly-students-guide/). This means that in the Writing and Numeracy Assessments, students can connect their headphones and have the text read to them by a computer generated voice. This is useful for those who like to hear the questions, rather than just reading it.
+<p>Students who do not have devices need to inform the Academic Dean as soon as possible. Arriving on the day without a working, compatible device is not the outcome that we need at all. Here is a <a href="http://www2.nzqa.govt.nz/assets/NCEA/External-assessment/end-of-year-student-checklist.pdf">useful checklist</a> for all students taking digital exams.</p>
 
-Students who do not have devices need to inform the Academic Dean as soon as possible. Arriving on the day without a working, compatible device is not the outcome that we need at all.
-Here is a [useful checklist](http://www2.nzqa.govt.nz/assets/NCEA/External-assessment/end-of-year-student-checklist.pdf) for all students taking digital exams.
+</details>
+
 
 ## Partners in Preparation: What You Can Do at Home
 
