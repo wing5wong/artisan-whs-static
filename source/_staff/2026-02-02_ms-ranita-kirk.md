@@ -6,6 +6,8 @@ departments:
   - Languages
 on_leave: false
 house: Awa
-positions: []
+positions:
+  - title: Teacher of Spanish
+    department: Languages
 email: kirk.r@whs.ac.nz
 ---
