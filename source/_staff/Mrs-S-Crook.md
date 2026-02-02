@@ -1,11 +1,13 @@
 ---
 title: Mrs Sarah Crook
-position: ""
+position: Head of Junior Science
 departments:
   - Sciences
 house: Maunga
 image: ""
-positions: []
+positions:
+  - title: Head of Junior Science
+    department: Sciences
 phone: ""
 email: crook.s@whs.ac.nz
 ---

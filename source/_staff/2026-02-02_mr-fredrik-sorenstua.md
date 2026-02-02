@@ -1,8 +1,8 @@
 ---
-title: Mr Thomas Plumridge
+title: Mr Fredrik Sorenstua
 departments:
   - Technology
 on_leave: false
 house: Moana
-email: plumridge.t@whs.ac.nz
+email: sorenstua.f@whs.ac.nz
 ---
