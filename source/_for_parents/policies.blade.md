@@ -15,7 +15,7 @@ Term 4 policies now open for review
 * **Username:** whs
 * **Password:** life
 
-## School Representatives
+## School Representatives Policy
 
 Students representing Whanganui High School in any co- curricular activity are expected to positively uphold and enhance the ‘Life’ values of Whanganui High School whilst preparing for, participating in, or attending any event.
 

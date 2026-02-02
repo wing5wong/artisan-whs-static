@@ -102,6 +102,10 @@ return [
                 'url' => '/curriculum/course-options'
             ],
             [
+                'title' => 'Literacy and Numeracy',
+                'url' => '/curriculum/literacy-numeracy'
+            ],
+            [
                 'title' => 'Faculties',
                 'url' => '/curriculum/faculties'
             ],
@@ -160,12 +164,8 @@ return [
                 'url' => '/info-for-parents/policies'
             ],
             [
-                'title' => 'Strategic Plan',
-                'url' => '/info-for-parents/strategic-plan'
-            ],
-            [
-                'title' => 'Annual Implementation Plan',
-                'url' => '/info-for-parents/annual-implementation-plan'
+                'title' => 'School Plans',
+                'url' => '/info-for-parents/plans'
             ],
             [
                 'title' => 'Annual Report - Financial Statements',
