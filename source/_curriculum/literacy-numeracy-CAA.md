@@ -9,22 +9,38 @@ The Literacy and Numeracy co-requisite (Common Assessment Activity - CAA)  is th
 
 The co-requisite standards (CAA) cover foundational skills, aiming for approximately Level 4/5 of The New Zealand Curriculum. This means students are expected to not only know the content but to apply it flexibly and confidently. The assessments are available in English and Te Reo.
 
-#### Literacy Co-requisite (Reading & Writing) or Te Reo Matatini
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+        Literacy Co-requisite (Reading & Writing) or Te Reo Matatini (10 Credits)
+        </h4>
+    </summary>
 
-Students are assessed on their ability to communicate and comprehend effectively across various contexts. Key skills include:
-- **Reading (5 credits):** Making sense of written texts, reading critically for different purposes, and extracting ideas and information.
-- **Writing (5 credits):** Communicating meaningful ideas, structuring texts clearly for different audiences, and using correct language conventions (like punctuation and spelling) to support understanding.
+    <p>Students are assessed on their ability to communicate and comprehend effectively across various contexts. Key skills include:</p>
+    <ul>
+    <li><strong>Reading (5 credits):</strong> Making sense of written texts, reading critically for different purposes, and extracting ideas and information.
+    <li><strong>Writing (5 credits):</strong>Communicating meaningful ideas, structuring texts clearly for different audiences, and using correct language conventions (like punctuation and spelling) to support understanding.
+    </ul>
+    <p><em>Unit Standards covered: US32403 and US32405. Te Reo Matatini unit standards: 32413 (Te Reo Torohū) and 32415 (Te Reo Whakaputa).</em></p>
+</details>
 
-_Unit Standards covered: US32403 and US32405. Te Reo Matatini unit standards: 32413 (Te Reo Torohū) and 32415 (Te Reo Whakaputa)._
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+        Numeracy Co-requisite or Pāngarau (10 Credits)
+        </h4>
+    </summary>
 
-#### Numeracy Co-requisite or Pāngarau
+    <p>This standard requires students to master Level 4 mathematics and statistics content and interweave these ideas with real-world problem-solving processes. Key skills include:</p>
+    <ul>
+    <li><strong>Problem Solving:</strong> Fluently and flexibly solving problems using numbers, understanding their relative size, and interpreting the answer in context.
+    <li><strong>Understanding:</strong>Working with mathematical relationships, using spatial properties and representations, and understanding location and navigation systems.
+    <li><strong>Data and Chance:</strong> Using numbers and units for measurement with appropriate precision, and reasoning with statistics, data, and probability.
+    </ul>
+    <p><em>Unit Standards covered: US32403 and US32405. Te Reo Matatini unit standards: 32413 (Te Reo Torohū) and 32415 (Te Reo Whakaputa).</em></p>
+</details>
+<p><em>(Unit Standard covered: US32406; Pāngarau US32412)</em></p>
 
-This standard requires students to master Level 4 mathematics and statistics content and interweave these ideas with real-world problem-solving processes. Key skills include:
-- **Problem Solving:** Fluently and flexibly solving problems using numbers, understanding their relative size, and interpreting the answer in context.
-- **Understanding:** Working with mathematical relationships, using spatial properties and representations, and understanding location and navigation systems.
-- **Data and Chance:** Using numbers and units for measurement with appropriate precision, and reasoning with statistics, data, and probability.
-
-_(Unit Standard covered: US32406; Pāngarau US32412)_
 
 ## The Common Assessment Activity (CAA)
 
