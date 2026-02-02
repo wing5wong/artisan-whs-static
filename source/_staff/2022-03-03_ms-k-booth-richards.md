@@ -7,5 +7,7 @@ house: Whenua
 positions:
   - title: Head of Biology
     department: Sciences
+  - title: Specialist Classroom Teacher
+    department: Social Sciences
 email: booth-richards.k@whs.ac.nz
 ---
