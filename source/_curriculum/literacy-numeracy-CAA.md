@@ -66,9 +66,17 @@ The grading for the CAA is straightforward:
 - The school does not receive the test papers or direct feedback from NZQA. Feedback is private and sent directly to the student's NZQA Login page. (We rely on students to log in and show their feedback to teachers so we can provide the best possible support.)
 ([Student NZQA Login Page](https://taku.nzqa.govt.nz/login-landing-page/))
 
-### Resits and Alternative Pathways
-Success is our goal, and we want to remove barriers to achievement.
-- No Limit to Success: Once a student passes a CAA, they never need to sit it again. However, if a student attains a Not Achieved grade, they will have subsequent opportunities to resit the assessment. There is no maximum number of times a student can attempt the CAAs. They will simply be scheduled for the next available opportunity.
+<details>
+    <summary>
+        <h4 class="decorated d-table mt-5 mb-2">
+            Resits and Alternative Pathways
+        </h4>
+<p>Success is our goal, and we want to remove barriers to achievement.</p>
+<p>
+No Limit to Success: Once a student passes a CAA, they never need to sit it again. However, if a student attains a Not Achieved grade, they will have subsequent opportunities to resit the assessment. There is no maximum number of times a student can attempt the CAAs. They will simply be scheduled for the next available opportunity.
+</p>
+</details>
+
 
 
 ## Preparation and Support
