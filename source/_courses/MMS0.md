@@ -1,5 +1,5 @@
 ---
-title: tece
+title: MMS0
 name: Making Music
 code: MMS0
 subject_area: Making Music
