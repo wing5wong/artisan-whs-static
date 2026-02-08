@@ -209,12 +209,8 @@ return [
     ],
     'policies-and-plans' => [
         'title' => 'Policies and Plans',
-        'url' => '/policies-and-plans',
+        'url' => '/info-for-parents/policies',
         'children' => [
-            [
-                'title' => 'School Policies',
-                'url' => '/info-for-parents/policies'
-            ],
             [
                 'title' => 'Strategic Plan',
                 'url' => 'https://res.cloudinary.com/whanganuihigh/image/upload/v1738619920/School%20Documents/Policies%20and%20Charter/WHS_Strategic_Plan_2025.pdf'

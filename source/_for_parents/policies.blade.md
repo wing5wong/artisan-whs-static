@@ -10,8 +10,6 @@ extends: _layouts.policies-and-charter
 
 Our policies are now hosted on [SchoolDocs](https://whanganuihigh.schooldocs.co.nz/).
 
-Term 4 policies now open for review
-
 * **Username:** whs
 * **Password:** life
 
@@ -22,9 +20,3 @@ Students representing Whanganui High School in any co- curricular activity are e
 Whanganui High School representatives are bound by the Smoke, Drug, and Alcohol Free conditions under which all events are managed
 
 [Read the full criteria for representing Whanganui High School](https://res.cloudinary.com/whanganuihigh/image/upload/v1659301827/School%20Policies/WHS_School_Representative_Policy_2022.pdf)
-
-## WHS Attendance Management Plan
-[WHS Attendance Management Plan](https://res.cloudinary.com/whanganuihigh/image/upload/v1769745339/School%20Documents/Policies%20and%20Charter/ATTENDANCE_MANAGEMENT_PLAN_2026.pdf)
-
-## WHS Behaviour Intervention Plan
-[WHS Behaviour Intervention Plan](https://res.cloudinary.com/whanganuihigh/image/upload/v1764041269/School%20Documents/Policies%20and%20Charter/WHS_Behaviour_Intervention_Plan.pdf)
