@@ -2,7 +2,7 @@
 title: WHS Swim Champs 2026 - Entries Close 9 February
 date: 2026-02-12T11:36:00+13:00
 ---
-Whanganui High School Swimming Championships, 2026.  
+WHS Swimming Championships, 2026.  
 Splash Centre, 12 noon - 3pm.  
  
 
