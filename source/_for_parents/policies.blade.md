@@ -1,6 +1,6 @@
 ---
 title: School Policies
-date: 2024-12-21T11:50:00.000Z
+date: 2026-02-08T11:50:00.000Z
 intro: Our school policies are updated on a yearly or three yearly cycle. Including
   curriculum, review & planning, good employer, finance & property; health,
   safety & well-being and admin.
