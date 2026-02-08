@@ -106,6 +106,10 @@ return [
                 'url' => '/curriculum/literacy-numeracy'
             ],
             [
+                'title' => 'Guide to NCEA',
+                'url' => '/curriculum/guide-to-ncea'
+            ],
+            [
                 'title' => 'Faculties',
                 'url' => '/curriculum/faculties'
             ],
@@ -160,14 +164,6 @@ return [
                 'url' => '/info-for-parents/bell-times'
             ],
             [
-                'title' => 'School Policies',
-                'url' => '/info-for-parents/policies'
-            ],
-            [
-                'title' => 'School Plans',
-                'url' => '/info-for-parents/plans'
-            ],
-            [
                 'title' => 'Annual Report - Financial Statements',
                 'url' => '/info-for-parents/annual-report-financial-statements/'
             ],
@@ -183,10 +179,6 @@ return [
             //     'title' => 'Scholarship Opportunities',
             //     'url' => '/info-for-parents/scholarships'
             // ],
-            [
-                'title' => 'Guide to NCEA',
-                'url' => '/info-for-parents/guide-to-ncea'
-            ],
         ],
     ],
     'international' => [
@@ -212,6 +204,32 @@ return [
             [
                 'title' => 'Contact Us',
                 'url' => '/international/contact-us'
+            ],
+        ],
+    ],
+    'policies-and-plans' => [
+        'title' => 'Policies and Plans',
+        'url' => '/policies-and-plans',
+        'children' => [
+            [
+                'title' => 'School Policies',
+                'url' => '/info-for-parents/policies'
+            ],
+            [
+                'title' => 'Strategic Plan',
+                'url' => 'https://res.cloudinary.com/whanganuihigh/image/upload/v1738619920/School%20Documents/Policies%20and%20Charter/WHS_Strategic_Plan_2025.pdf'
+            ],
+            [
+                'title' => 'Annual Implementation Plan',
+                'url' => 'https://res.cloudinary.com/whanganuihigh/image/upload/v1738619923/School%20Documents/Policies%20and%20Charter/WHS_Annual_Implementation_Plan_2025.pdf'
+            ],
+            [
+                'title' => 'Attendance Management Plan',
+                'url' => 'https://res.cloudinary.com/whanganuihigh/image/upload/v1769745339/School%20Documents/Policies%20and%20Charter/ATTENDANCE_MANAGEMENT_PLAN_2026.pdf'
+            ],
+            [
+                'title' => 'Safety & Behaviour Intervention Plan',
+                'url' => 'https://res.cloudinary.com/whanganuihigh/image/upload/v1770063469/School%20Documents/Policies%20and%20Charter/WHS_Safety___Behaviour_Intervention_Plan.pdf'
             ],
         ],
     ],
