@@ -7,6 +7,6 @@ departments:
 house: Moana
 positions:
   - department: Progressive
-    title: Financial Literacy & Mathematics
+    title: Financial Literacy
 email: prakash.m@whs.ac.nz
 ---
