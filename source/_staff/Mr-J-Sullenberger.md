@@ -4,6 +4,7 @@ position: null
 departments:
   - Technology
   - Digital Technology
+  - Progressive
 house: Maunga
 email: sullenberger.j@whs.ac.nz
 ---
