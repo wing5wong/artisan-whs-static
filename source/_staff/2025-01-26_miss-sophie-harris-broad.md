@@ -6,6 +6,6 @@ on_leave: false
 house: Whenua
 positions:
   - department: Physical Education and Health
-    title: Head of Level 1
+    title: Head of Level 1 Physical Education and Health
 email: harris.s@whs.ac.nz
 ---
