@@ -3,6 +3,7 @@ title: Mrs Lisa Tahuaroa
 departments:
   - Social Sciences
   - Progressive
+  - Vocational Studies
 on_leave: false
 house: Whenua
 positions:
