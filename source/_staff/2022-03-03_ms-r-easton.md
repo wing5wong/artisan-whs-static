@@ -8,6 +8,6 @@ on_leave: false
 house: Moana
 positions:
   - department: Deans
-    title: Dean of Moana House
+    title: Dean of Year 9
 email: easton.r@whs.ac.nz
 ---
