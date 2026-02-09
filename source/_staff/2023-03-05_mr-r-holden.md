@@ -7,7 +7,7 @@ departments:
 on_leave: false
 house: Maunga
 positions:
-  - title: Dean of Maunga House
+  - title: Dean of Year 9
     department: Deans
   - title: Head of Junior Physical Education
     department: Physical Education and Health
