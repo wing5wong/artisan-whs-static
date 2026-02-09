@@ -2,10 +2,13 @@
 title: Ms Whakaae Baron
 position: Kapa Haka
 departments:
-  - Support and Ancillary
+  - Languages
+  - The Arts
 on_leave: false
 house: Awa
 positions:
-  - title: Kapa Haka
-    department: Support and Ancillary
+  - title: Te Reo Māori
+    department: Languages
+  - department: The Arts
+    title: Māori Performing Arts Teacher
 ---
