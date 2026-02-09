@@ -8,7 +8,7 @@ departments:
 house: Whenua
 positions:
   - department: Deans
-    title: Dean of Whenua House
+    title: Dean of Year 12
   - department: Progressive
     title: Financial Literacy
 email: kennedy.r@whs.ac.nz
