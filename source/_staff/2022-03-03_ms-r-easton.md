@@ -1,6 +1,6 @@
 ---
 title: Ms Rebecca Easton
-position: Dean of Moana House
+position: Dean of Year 9
 departments:
   - Social Sciences
   - Deans
