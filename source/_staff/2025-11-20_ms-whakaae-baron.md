@@ -10,6 +10,6 @@ positions:
   - title: Teacher of Te Reo Māori
     department: Languages
   - department: The Arts
-    title: Māori Performing Arts Teacher
+    title: Teacher of Māori Performing Arts
 email: baron.w@whs.ac.nz
 ---
