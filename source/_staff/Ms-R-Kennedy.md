@@ -1,6 +1,6 @@
 ---
 title: Ms Rebecca Kennedy
-position: Dean of Whenua House
+position: Dean of Year 12
 departments:
   - Mathematics
   - Deans
@@ -10,6 +10,6 @@ positions:
   - department: Deans
     title: Dean of Whenua House
   - department: Progressive
-    title: Financial Literacy & Mathematics
+    title: Financial Literacy
 email: kennedy.r@whs.ac.nz
 ---
