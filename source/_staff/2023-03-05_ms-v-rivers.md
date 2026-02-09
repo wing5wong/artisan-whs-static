@@ -9,5 +9,7 @@ house: Moana
 positions:
   - department: Physical Education and Health
     title: Head of Senior Health
+  - department: The Arts
+    title: Teacher of Dance
 email: rivers.v@whs.ac.nz
 ---
