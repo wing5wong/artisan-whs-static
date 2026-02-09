@@ -7,6 +7,6 @@ on_leave: false
 house: Whenua
 positions:
   - department: Progressive
-    title: Life Skills
+    title: Communication
 email: tahuaroa.l@whs.ac.nz
 ---
