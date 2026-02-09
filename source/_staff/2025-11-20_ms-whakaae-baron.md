@@ -7,7 +7,7 @@ departments:
 on_leave: false
 house: Awa
 positions:
-  - title: Te Reo Māori
+  - title: Teacher of Te Reo Māori
     department: Languages
   - department: The Arts
     title: Māori Performing Arts Teacher
