@@ -11,4 +11,5 @@ positions:
     department: Languages
   - department: The Arts
     title: Māori Performing Arts Teacher
+email: baron.w@whs.ac.nz
 ---
