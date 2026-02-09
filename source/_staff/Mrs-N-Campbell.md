@@ -1,6 +1,6 @@
 ---
 title: Ms Natalie Harris
-position: HOF Performing & Visual Arts, Head of Dance, Dean of Awa House
+position: HOF Performing & Visual Arts, Head of Dance, Dean of Year 13
 departments:
   - The Arts
   - Deans
@@ -9,7 +9,7 @@ positions:
   - department: The Arts
     title: HOF Performing & Visual Arts, Head of Dance
   - department: Deans
-    title: Dean of Awa House
+    title: Dean of Year 13
 phone: null
 email: harris.n@whs.ac.nz
 ---
