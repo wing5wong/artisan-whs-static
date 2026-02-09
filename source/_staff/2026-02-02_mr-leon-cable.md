@@ -6,6 +6,6 @@ departments:
 on_leave: false
 house: Awa
 positions:
-  - title: Sound and Lighting Technician
+  - title: Performing Arts Sound & Lighting Technician
     department: Support and Ancillary
 ---
