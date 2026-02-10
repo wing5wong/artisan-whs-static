@@ -1,5 +1,5 @@
 ---
-title: Rippa Rugby Competition, Year 9/10 - Entries Close 9 February
+title: Rippa Rugby Competition, Year 9/10
 date: 2026-02-13T07:05:00+13:00
 ---
 Any Y9-10 students keen to make a team and enter the Whanganui Rugby Rippa Competition please bring your team list to Mrs Murphy by Monday 9 February.  
