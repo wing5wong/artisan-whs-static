@@ -4,9 +4,9 @@ date: 2026-02-12T11:36:00+13:00
 ---
 Students signed up for the WHS Swim Champs please read carefully;
 
-WHS Swim Champs
-Thursday 12 February
-Period 3-5
+WHS Swim Champs  
+Thursday 12 February  
+Period 3-5  
 Splash Centre
 
 At 11.30am on Thursday, please walk over to the Splash Centre, get changed into your togs and sit in the seated area under your house banners.  
