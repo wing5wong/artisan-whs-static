@@ -1,16 +1,20 @@
 ---
-title: WHS Swim Champs 2026 - Entries Close 9 February
+title: "WHS Swim Champs "
 date: 2026-02-12T11:36:00+13:00
 ---
-WHS Swimming Championships, 2026.  
-Splash Centre, 12 noon - 3pm.  
- 
+Students signed up for the WHS Swim Champs please read carefully;
 
-Entries are open until Monday 9 February. You MUST compete in at least 2 events to enter.
+WHS Swim Champs
+Thursday 12 February
+Period 3-5
+Splash Centre
 
-Sign Up on the bit.ly below. Copy and paste the bitly to Google search on your computer and enter the online form.  
-Parents cannot sign up their child. Students must be signed into their google school account to enter.
+At 11.30am on Thursday, please walk over to the Splash Centre, get changed into your togs and sit in the seated area under your house banners.  
 
-[bit.ly/whsswim26](https://docs.google.com/forms/d/1X9-2prclXtNnRZODA6OVetyJoRAlYEzt4lUbNQomunk/viewform?edit_requested=true)
+The schedule for the afternoon will be available on the Te Mana notice board this week and over at the Splash Centre on the day.
 
-Any questions please see Mrs Murphy in Te Wehi Gym Office.
+Parents and family are welcome to come and watch for the afternoon.
+
+Any questions please see Mrs Murphy in Te Wehi Gym Office
+
+
