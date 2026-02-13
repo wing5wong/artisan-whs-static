@@ -1,6 +1,6 @@
 ---
 title: Breakfast Stop
-date: 2026-02-13T06:47:00+13:00
+date: 2026-02-16T06:47:00+13:00
 ---
 
 Breakfast Stop is open every day in C1 from 8.00am to 8.40am.  
