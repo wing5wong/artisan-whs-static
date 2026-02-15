@@ -20,7 +20,7 @@ If ordering by envelope, bring it with the money to the hall when
 your form class photo is to taken.  
 DO NOT GIVE IT TO THE STUDENT CENTRE!
 
-**Photo Schedule**  
+##### **Photo Schedule**  
 Below is the schedule for the form class photos.  
 You need to leave your lesson 5 minutes before your photo is to be taken.
 
