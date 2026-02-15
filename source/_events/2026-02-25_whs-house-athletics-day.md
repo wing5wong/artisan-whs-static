@@ -15,10 +15,7 @@ Buses will run as per usual. You have the choice of getting off and back on your
 
 We have 6 fun activities situated around the outside of the track for ALL to get involved in. House points are awarded to all who participate. Greater house points will be awarded to competitive events. 
 
-PE Staff will be assigned to specialist events.  
-All other staff will be rotating through supervision of the fun events assisted by prefects.
-
-Everyone is to stay onsite throughout the whole day.  
+**Everyone is to stay onsite throughout the whole day**.  
 
 There will be food, drink, ice creams and coffee vans onsite all day. Bring your lunch or money and drink bottle. Water fountain available to top up your bottles. 
 
@@ -26,6 +23,4 @@ We appreciate everyone being ‘tidy kiwis’ and putting your rubbish into the 
 
 Don’t forget to ‘slip,slop,slap’, bring sunhat. Come prepared for the weather conditions. We have sunscreen available around the grounds.
 
-We are looking forward to an awesome day, filled with school spirit, fun, participation and heaps of house support for our top athletes! It’s going to be EPIC!!!!!
-
-
+**We are looking forward to an awesome day, filled with school spirit, fun, participation and heaps of house support for our top athletes! It’s going to be EPIC!!!!!**
