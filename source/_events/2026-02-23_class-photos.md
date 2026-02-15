@@ -1,6 +1,9 @@
 ---
 title: 2026 Class Photos
 date: 2026-02-24T06:22:00+13:00
+image: ""
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1771190788/Events/Photo_Schedule_24_February_2026.jpg
 ---
 Class Photos will be taken on Tuesday 24 February in the School Hall.
 
@@ -17,10 +20,9 @@ If ordering by envelope, bring it with the money to the hall when
 your form class photo is to taken.  
 DO NOT GIVE IT TO THE STUDENT CENTRE!
 
-**[Photo Schedule](https://drive.google.com/file/d/165-gszvhA3p_QkL6v-hECvQGs1k-ZyK8/view?usp=sharing)**  
-This can be found on the back of this notice or
-bit.ly/whsphotos2026  
-This is a form class photo. You need to leave your lesson 5 minutes before your photo is to be taken.
+**Photo Schedule**  
+Below is the schedule for the form class photos.  
+You need to leave your lesson 5 minutes before your photo is to be taken.
 
 All students in form classes MUST be lined up at the HALL Rose Garden, tallest to shortest, jerseys off and ready to have their photo taken FIVE MINUTES BEFORE the times set below.  
 Individual student photos will be taken at the same time.  
