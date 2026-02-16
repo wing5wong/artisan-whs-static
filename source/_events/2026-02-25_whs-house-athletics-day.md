@@ -2,7 +2,9 @@
 title: 2026 WHS Inter-House Athletics Day
 date: 2026-02-26T07:03:00+13:00
 ---
-2026 WHS Inter-House Athletics Day will be held at Cooks Gardens on Thursday 26 February.
+2026 WHS Inter-House Athletics Day  
+Cooks Gardens  
+Thursday 26 February
 
 If you are keen to compete in the Track & Field events please register on the bitly below
 
@@ -19,7 +21,7 @@ See Mrs Murphy with any queries.
 _________________
 
 
-
+**Event Details**
 
 * 7.45am: Event set up (Prefects + PE staff)
 * 8.30am: All competitive athletes expected at Cooks Gardens. Report to the main grandstand.
