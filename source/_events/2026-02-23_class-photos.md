@@ -21,7 +21,7 @@ your form class photo is to taken.
 DO NOT GIVE IT TO THE STUDENT CENTRE!
 
 ##### **Photo Schedule**  
-**Click on the below schedule for the Form Class photos.**  
+**Click on the below schedule for the timing of Form Class photos.**  
 You need to leave your lesson **5 minutes before** your photo is to be taken.
 
 All students in form classes MUST be lined up at the HALL Rose Garden, tallest to shortest, jerseys off and ready to have their photo taken FIVE MINUTES BEFORE the times set below.  
