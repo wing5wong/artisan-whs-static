@@ -1,5 +1,5 @@
 ---
-title: WSS Manu Competition, Submit Video by 11 February
+title: WSS Manu Competition, Postponed
 date: 2026-02-17T11:41:00+13:00
 ---
 Whanganui Secondary Schools Manu Competition, 2026.  
