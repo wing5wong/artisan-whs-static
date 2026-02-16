@@ -19,3 +19,6 @@ After the session in the hall we will move to the library for a chance to ask qu
 We are looking forward to seeing you there and also to a successful year filled with growth, learning, positive relationships and memorable experiences.
 
 If you are unavailable to come you are most welcome to contact your son/daughters's form teacher, subject teachers or our Year 9 Deans with any questions.
+
+*Lisa Martin  
+Deputy Principal*
