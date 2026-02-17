@@ -33,13 +33,10 @@ In order to pass any level of NCEA, students must achieve 60 credits PLUS 10 Lit
 
 Until the end of 2027, there are **two** ways students can achieve Literacy and Numeracy.
 
-The first and less complicated way is to get Numeracy and Literacy through CAA (Common Assessment Activities) which are sometimes called the co-requisites. These assessments are taken from Year 10 onwards.
+The first and less complicated way is to get Numeracy and Literacy through CAA (Common Assessment Activities) which are sometimes called the co-requisites. These assessments are taken from Year 10 onwards.  
+[Click here to find out how to get Literacy and Numeracy through the CAA](../literacy-numeracy-CAA)
 
-The second way to achieve Numeracy and Literacy is by achieving credits through a limited number of achievement standards. This is the back up route if students have not been successful in the CAA.
-
-
-
-[Click here to find out how to get Literacy and Numeracy through the CAA](../literacy-numeracy-CAA)  
+The second way to achieve Numeracy and Literacy is by achieving credits through a limited number of achievement standards. This is the back up route if students have not been successful in the CAA.  
 [Click here to find out how to get Literacy and Numeracy through subjects](../literacy-numeracy-AS)
 
 
