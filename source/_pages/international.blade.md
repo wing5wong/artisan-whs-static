@@ -43,6 +43,8 @@ blocks:
 ---
 
 <div class="image-gallery row">
+<img src="https://res.cloudinary.com/whanganuihigh/image/upload/v1771386453/International/Landing/International_Collage.png">
+        <!-- 
         <div class="col-sm-6 col-md-4 col-lg-4">
           <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152738/International/Landing/2022/-Whanganui-High-School-236.jpg">
         </div>
@@ -66,4 +68,5 @@ blocks:
         <div class="col-sm-6 col-md-4 col-lg-4">
           <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152731/International/Landing/2022/Surfing_2.jpg">
         </div>
+        -->
     </div>
