@@ -1,6 +1,6 @@
 ---
 title: International Student Fees
-date: 2024-11-25T10:59:00.000Z
+date: 2026-02-19T13:42:00+13:00
 ---
 <p>All prices are in New Zealand dollars.</p>
 
