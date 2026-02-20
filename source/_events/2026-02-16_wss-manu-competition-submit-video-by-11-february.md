@@ -1,5 +1,5 @@
 ---
-title: WSS Manu Competition, new time
+title: WSS Manu Competition, rescheduled time
 date: 2026-03-03T11:41:00+13:00
 ---
 Whanganui Secondary Schools Manu Competition, 2026.  
