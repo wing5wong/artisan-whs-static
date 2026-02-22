@@ -1,5 +1,5 @@
 ---
-title: Teacher Only Day
+title: Staff Only Day
 date: 2026-03-20T08:29:00+13:00
 ---
 There is a Staff Only Day on Friday 20 March.
