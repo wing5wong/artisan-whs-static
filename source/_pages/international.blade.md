@@ -1,6 +1,6 @@
 ---
 title: International
-date: 2021-03-03T01:04:16.843Z
+date: 2026-02-19T13:48:00+13:00
 blocks:
   - content: >-
       Whanganui High School has hosted international students for the past 25
@@ -26,10 +26,10 @@ blocks:
       Practice for the Pastoral Care of International Students published by the
       Ministry of Education. Copies of the Code are available on request from
       this institution or from the [New Zealand Qualifications Authority
-      website.](http://www.nzqa.govt.nz/assets/Providers-and-partners/Code-of-Practice-NZQA.pdf)
+      website.](https://www2.nzqa.govt.nz/tertiary/the-code/)
 
 
-      You may also be able to find a copy of the Code of Practice in your language at [this link](https://www.whanganuihigh.school.nz/international/www.nzqa.govt.nz/providers-partners/education-code-of-practice/code-of-practice-resources-languages/)
+      You may also be able to find a copy of the Code of Practice in your language at [this link](https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-learners/the-code-for-international-school-learners/#e11888_heading1)
 
       Details of our refund policy, insurance and immigration requirements and conditions of acceptance are to be found on our International Application Form.
     heading: CODE OF PRACTICE
@@ -41,32 +41,6 @@ blocks:
   - heading: Term Dates
     type: termDates
 ---
-
 <div class="image-gallery row">
 <img src="https://res.cloudinary.com/whanganuihigh/image/upload/v1771386453/International/Landing/International_Collage.png">
-        <!-- 
-        <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152738/International/Landing/2022/-Whanganui-High-School-236.jpg">
-        </div>
-
-        <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152742/International/Landing/2022/-Whanganui-High-School-069_-_Copy.jpg">
-        </div>
-
-        <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152738/International/Landing/2022/-Whanganui-High-School-219.jpg">
-        </div>
-
-        <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1591240641/International/Landing/Whanganui-New-Zealand.jpg">
-        </div>
-
-        <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152731/International/Landing/2022/Fun_shot.jpg">
-        </div>
-
-        <div class="col-sm-6 col-md-4 col-lg-4">
-          <img src="https://res.cloudinary.com/whanganuihigh/image/upload/c_lfill,q_80,w_300,h_300/v1638152731/International/Landing/2022/Surfing_2.jpg">
-        </div>
-        -->
-    </div>
+</div>
