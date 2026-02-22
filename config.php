@@ -85,15 +85,24 @@ return [
             })
             ->sort(function ($st, $other) use ($departmentToFind) {
 
-                return (collect($st->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ")
-                    <=>
-                    (collect($other->positions ?? [])->firstWhere('department', $departmentToFind)['title'] ?? "ZZZZZZZZZZZZZZZZZZZZ")
+                $a = collect($st->positions ?? [])
+                    ->firstWhere('department', $departmentToFind)['title']
+                    ?? "ZZZZZZZZZZZZZZZZZZZZ";
 
-                    ?:
+                $b = collect($other->positions ?? [])
+                    ->firstWhere('department', $departmentToFind)['title']
+                    ?? "ZZZZZZZZZZZZZZZZZZZZ";
 
-                    implode(" ", array_reverse(explode(" ", $st->title)))
-                    <=>
-                    implode(" ", array_reverse(explode(" ", $other->title)));
+                $positionCompare = strnatcmp($a, $b);
+
+                if ($positionCompare !== 0) {
+                    return $positionCompare;
+                }
+
+                return strnatcmp(
+                    implode(" ", array_reverse(explode(" ", $st->title))),
+                    implode(" ", array_reverse(explode(" ", $other->title)))
+                );
             });
     },
 
@@ -101,7 +110,7 @@ return [
         return collect($faculties->firstWhere('title', $departmentToFind)->hofs ?? [])
             ->map(function ($st) use ($staff) {
                 return $staff->firstWhere('title', $st);
-            })->filter(function($st){
+            })->filter(function ($st) {
                 return !is_null($st);
             });
     },
@@ -109,7 +118,7 @@ return [
         return collect($faculties->firstWhere('title', $departmentToFind)->ahofs ?? [])
             ->map(function ($st) use ($staff) {
                 return $staff->firstWhere('title', $st);
-            })->filter(function($st){
+            })->filter(function ($st) {
                 return !is_null($st);
             });
     },
@@ -384,28 +393,28 @@ return [
     },
     'featureImageSrc' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        if($item->feature_image && array_key_exists('image', $item->feature_image)){
+        if ($item->feature_image && array_key_exists('image', $item->feature_image)) {
             return $item->feature_image["image"];
         }
         return $item->image ?: '';
     },
     'featureImageDescription' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        if($item->feature_image && array_key_exists('description', $item->feature_image)){
+        if ($item->feature_image && array_key_exists('description', $item->feature_image)) {
             return $item->feature_image["description"];
         }
         return $item->image_title;
     },
     'featureImageAlt' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        if($item->feature_image && array_key_exists('alt', $item->feature_image)){
+        if ($item->feature_image && array_key_exists('alt', $item->feature_image)) {
             return $item->feature_image["alt"];
         }
         return $item->image_alt;
     },
     'featureImageCredit' => function ($page, $item = null) {
         if (!$item) $item = $page;
-        if($item->feature_image && array_key_exists('credit', $item->feature_image)){
+        if ($item->feature_image && array_key_exists('credit', $item->feature_image)) {
             return $item->feature_image["credit"];
         }
         return $item->image_credit;
