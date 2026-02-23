@@ -2,10 +2,10 @@
 title: 2026 WHS Inter-House Athletics Day
 date: 2026-02-26T07:03:00+13:00
 ---
-2026 WHS Inter-House Athletics Day  
-Whole School  
-Cooks Gardens  
-Thursday 26 February
+**2026 WHS Inter-House Athletics Day**  
+**Whole School**  
+**Cooks Gardens**  
+**Thursday 26 February**
 
 **Event Details**
 
