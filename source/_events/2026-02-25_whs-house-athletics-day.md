@@ -6,21 +6,6 @@ date: 2026-02-26T07:03:00+13:00
 Cooks Gardens  
 Thursday 26 February
 
-If you are keen to compete in the Track & Field events please register on the bitly below
-
-bit.ly/houseathletics2026
-
-Copy and Paste the bitly to register. You MUST be signed into your school google account and use YOUR school EMAIL address to register.
-
-Entries close 20 February.
-
-See Mrs Murphy with any queries.
-
-
-
-_________________
-
-
 **Event Details**
 
 * 7.45am: Event set up (Prefects + PE staff)
@@ -46,3 +31,62 @@ Don’t forget to ‘slip,slop,slap’, bring sunhat. Come prepared for the weat
 
 *Mrs Murphy  
 Director of Sport*
+
+------------------------
+
+#### FIELD EVENTS STRUCTURE
+
+9am  
+Triple Jump - Intermediate Girls  
+Long Jump - Junior Boys  
+High Jump - Intermediate Boys  
+Shot Put - Senior Boys  
+Javelin - Junior Girls  
+Discus - Senior Girls
+
+9.45am  
+Triple Jump - Junior Boys  
+Long Jump - Junior Girls  
+High Jump - Intermediate Girls  
+Shot Put - Senior Girls  
+Javelin - Intermediate Boys  
+Discus - Senior Boys
+
+
+10.30am  
+HOUSE PARADE/OPENING CEREMONY  
+
+11am  
+Triple Jump - Junior Girls  
+Long Jump - Intermediate Boys  
+High Jump - Senior Boys  
+Shot Put - Intermediate Girls  
+Javelin - Senior Girls 
+Discus - Junior Boys 
+
+11.45am  
+Triple Jump - Intermediate Boys  
+Long Jump - Senior Girls  
+High Jump - Junior Boys  
+Shot Put - Junior Girls  
+Javelin - Senior Boys  
+Discus - Intermediate Girls
+
+12.30pm  
+Triple Jump - Senior Boys   
+Long Jump - Intermediate Girls  
+High Jump - Senior Girls  
+Shot Put - Intermediate Boys  
+Javelin - Junior Boys  
+Discus - Junior Girls
+	
+1.15pm  
+Triple Jump - Senior Girls  
+Long Jump - Senior Boys  
+High Jump - Junior Girls  
+Shot Put - Junior Boys  
+Javelin - Intermediate Girls  
+Discus - Intermediate Boys
+
+
+
