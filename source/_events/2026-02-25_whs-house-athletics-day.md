@@ -1,5 +1,5 @@
 ---
-title: 2026 WHS Inter-House Athletics Day
+title: 2026 WHS Inter-House Athletics Day - Whole School
 date: 2026-02-26T07:03:00+13:00
 ---
 **2026 WHS Inter-House Athletics Day**  
