@@ -11,16 +11,19 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764895387/Sports/
 ---
   
 Girls' Cricket is a developing sport at Whanganui High School.  
-We have a 1st XI squad.  
-No experience is necessary to start playing, just a good attitude and a willingness to participate.
+Dependant on numbers, there could be a girls’ team.  No experience is necessary to start playing, just a good attitude and a willingness to participate.  
+No experience is necessary to start playing, just a good attitude and a willingness to participate.  
 
-**Training** is after school for one hour.  
-**Play** on Wednesday.  
+In term 4, there will be the opportunity to play in the Combined High School Comp – approx. cost $90.
+
+**Training** is after school for one hour. Day and time will be confirmed once team sorted.  
+**Play** on Wednesday (tbc).  
 
 **Cost:** $20 (approx) per term  
 All **equipment** is provided and the girls wear PE tops and black shorts/pants.  
 
 **Terms:** 1 & 4
 
-**Teacher in Charge:**  Rebecca Kennedy (kennedy.r@whs.ac.nz)  
+**Teachers in Charge:**  Rebecca Kennedy (kennedy.r@whs.ac.nz) & Graham Hall  
+**1st XI Coach:** Ms Gabrielle McKenzie   
 
