@@ -1,6 +1,6 @@
 ---
 title: Fit Club
-date: 2025-03-24T09:54:00+13:00
+date: 2026-02-27T10:39:00+13:00
 people: []
 extracurricular_area: Sport
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764894931/Sports/banner_1.jpg
@@ -14,8 +14,8 @@ image_gallery:
 **Costs:** $15 per term or $50 Full Year (please collect permission form from the Student Centre)
 
 **Training Days:**  
-Monday to Thursday – 3:05 -4:30pm  
-Friday 2:00pm – 3:30pm  
+Monday to Thursday – 3:00 -4:30pm  
+or when school finishes early, 2:00pm – 3:30pm  
 Attend as often as you like during these hours.
 
 **Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
