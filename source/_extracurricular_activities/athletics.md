@@ -29,7 +29,7 @@ As well as our annual Athletics sports, Whanganui High School students compete a
 _School Athletics_ this year (whole school, year 9-13) will be held at Cooks Gardens, Term 1, on Thursday 26 February.  
 _Whanganui Secondary Schools_ competition is on Thursday 12 March.  
 _North Island Championships_ are in Papakura on 28 & 29 March.  
-_N.Z.S.S Championships_ are in Hawkes Bay on 5-7 December 2025. 
+_N.Z.S.S Championships_ are in **Whanganui** on 11-13 December 2026. 
 
 **Training Days:**  
 Monday after school until 4:30pm, with a specific component for Y9 / new athletes.  
