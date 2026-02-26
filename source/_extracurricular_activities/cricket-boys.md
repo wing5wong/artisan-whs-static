@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mr A. Lock
 title: Cricket - Boys
-date: 2025-11-24T10:28:00+13:00
+date: 2026-02-27T10:32:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
@@ -12,17 +12,19 @@ image_gallery:
 ---
 The 1st XI and Junior team play inter-school matches and are in the T20 weekly competition.  
   
-We also play Inter-school Sports Exchange matches.
+We also play Inter-school Sports Exchange matches.  
+
+In term 4, there will be the opportunity to play in the Combined High School Comp – approx. cost $90.
 
 **Training** is after school on a Friday.  
 
-**Play** on Wednesdays & Saturdays
+**Play** on Thursday (tbc)
 
 **Cost:** TBC once teams are sorted.  
 *Plus extra costs for interschool away games.
 
 **Terms:** 1 & 4
 
-**Teacher in Charge:** Graham Hall (hall.g@whs.ac.nz)  
-**1st XI Coach:** Steve Meredith  
+**Teachers in Charge:**  Rebecca Kennedy and  Graham Hall  
+**1st XI Coach:** Hamish McGregor  
 **Junior Coaches:** Hamish McGregor & Aaron Toy
