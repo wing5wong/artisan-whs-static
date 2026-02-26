@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mr G. Hardy
 title: Badminton
-date: 2025-11-24T10:01:00+13:00
+date: 2026-02-27T10:06:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
@@ -14,7 +14,7 @@ image_gallery:
 blocks: []
 ---
 Badminton is held in Term 2 and 3, Fridays after school in the Te Wehi and Te Mana 
-Gymnasiums from 2.05pm – 3.30pm.  
+Gymnasiums from 3.05pm – 4.30pm.  
 There will also be a Secondary Interschool     competition, usually in Term 3 on Monday after school.  
 
 
