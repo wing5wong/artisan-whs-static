@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mrs L. Murphy
 title: Football - Girls
-date: 2025-11-24T10:03:00+13:00
+date: 2026-02-27T10:49:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
@@ -11,7 +11,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937384/Isabelle_Key_I_think_kstwf3.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763937393/team_photo_with_hands_cr19uw.jpg
 ---
-1st XI play in the Manawatu Secondary Schools League on Wednesdays in Terms 2 & 3, Sports Exchanges and Tournament Week.  
+Our 1st and 2nd XI teams will both play in the Manawatu SS League on Wednesdays (Term 2 & 3), Sports Exchanges and Tournament Week (1st XI).
 
 All other players participate through the local Football clubs.
 
@@ -19,7 +19,8 @@ All other players participate through the local Football clubs.
 
 **Terms:** 2 & 3
 
-**Cost:** $120.00 (approx) season.  Separate charges for Exchanges and Tournament Week.  
+**Cost:** $120.00 (approx) season.  Additional charges for Exchanges and Tournament Week.  
 
 **Teacher in Charge:** Rebecca Kennedy (kennedy.r@whs.ac.nz)  
-**1st XI Coaches:** Steve Kerfoot & Allison Cotter
+**1st XI Coach:** Allison Cotter  
+**2nd XI Coach:** Rebecca Kennedy
