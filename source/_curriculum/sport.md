@@ -24,8 +24,7 @@ Summer (October-March) athlete focused. Also, part of the development will be le
 Promote the programme in the Y9-10 level to students who need support to develop in their sport, to then be able to achieve at an advanced level as a senior.  
 The focus at junior level is to grow an all-round “athlete”, at the senior level to progress to a performance level.  
 
-*See Mrs Murphy in the Te Wehi Gym if you are interested.  
-Te Wehi Gym Office, 3490178 ext 8759.* 
+
  
 
 
