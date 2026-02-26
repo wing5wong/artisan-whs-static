@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mrs L. Murphy
 title: Football - Boys
-date: 2025-11-24T10:03:00+13:00
+date: 2026-02-27T10:46:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
@@ -12,16 +12,21 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763940635/Football_Boys_with_medals_jjwode.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764896375/Sports/football_boys.jpg
 ---
-1st XI play in the Manawatu Secondary School League on Wednesdays in Terms 2 & 3, Sports Exchanges and Tournament Week.  
+This year, our 1st XI will be playing friendlies (most weeks) and will also play Sports Exchanges and Tournament Week.  
+We will also be trialling having a Junior 1st XI team that will play in the Manawatu Secondary School League on Wednesdays and Junior Sports Exchanges.  
 All other players participate through the local Football clubs.
 
 
 
-**Training** is after school on WHS fields.
 
-**Cost:**  $120.00 (approx) season.  Separate charges for Exchanges and Tournament Week.
+**Training** is after school on WHS fields (Day TBC)
+
+**Cost:**  1st XI – Approx $13 per away game (separate charges for exchanges & Tournament week).  
+Junior 1st XI - Approx $120.00 season (separate charges for exchanges &    Tournament week).  
+
 
 **Terms:** 2 & 3  
 
 **Teacher in charge:** Ryan Holden (holden.r@whs.ac.nz)  
-**1st XI Coaches:** Steve Meredith & Ryan Holden
+**1st XI Coaches:** Ryan Holden & Anthony Bell  
+**Junior XI Coaches:** Ryan Holden & TBC 
