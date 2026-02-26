@@ -11,9 +11,9 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763931454/Hockey_boys_1_2025_mmo7ig.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764896564/Sports/hockey_boys.jpg
 ---
-Our 1st XI Boys and Girls teams play in the Palmerston North League with most of their games played in Manawatu.  
+Our 1st XI Boys play in the Palmerston North League with most of their games played in Manawatu.  
 
-2nd XI Boys and Girls teams (teams will be dependent on registrations) play at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week.  
+2nd XI Boys (team will be dependent on registrations) play at the Gonville Turf in Alma Road or the Collegiate Turf in Grey Street during the week.  
 
 **Training** at Whanganui High School or at the Gonville Hockey Turf after school/evening. Day TBC.
 
