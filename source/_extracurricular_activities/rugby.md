@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mr B. Parry
 title: Rugby
-date: 2025-11-24T10:13:00+13:00
+date: 2026-02-27T12:48:00+13:00
 people: []
 uniform: ""
 extracurricular_area: Sport
@@ -22,22 +22,24 @@ Most year 9 students who are interested in Rugby play for one of the schools Jun
 
 Please note that Wanganui RFU rules state that students are not permitted to play for a club team unless permission is granted by the Principal.
 
-**Trainings** will be confirmed once teams are sorted.
-
-**Costs:**  
-U15 - Fee Approx $195 (including rugby socks) – Playing in Manawatu Competition  
-U16 - Fee Approx $195 (incl rugby socks) – Playing in Manawatu Competition                    
-1st XV Fee Approx $195 (incl rugby socks) – Playing in Manawatu Competition  
-Girls 1st XV – Fee Approx $195 (incl rugby socks) - Play in Whanganui Competition 
-                     Term 2 & 3.  Play in Manawatu competition Term 3.
-
-**Uniform:** Students are supplied with a Rugby jersey and shorts for each game.  
+**Trainings** will be confirmed once teams are sorted.  
+**Uniform:** Players are supplied with a Rugby jersey, shorts and socks for each game (girls purchase their own socks from the main office for $18 and collect from Te Wehi gym office).  
 
 NB: Fees need to be paid prior to the start of the regular season. No pay no play.  
-At print time of this booklet, confirmation on where these competitions will be played is not available.  The above fees will be less than half if playing in Whanganui only.  
+
+**Costs:**  
+**U15** - Approx $130 plus $35 warm up t’shirt  (including rugby socks) – Playing in Manawatu Competition  
+**Colts** - Dependant on numbers, a Colts team could play in the Whanganui Comp.                   
+**1st XV** - Approx $130 plus $35 warm up t’shirt – Playing in Manawatu Competition  
+**Girls 1st XV** – Approx $40 plus $35 warm up t’shirt - Whanganui Competition Term 2 & 3.  
+Approx $80 – Manawatu Competition Term 3 only.  
+
+*Only buy a warm-up T-shirt if the player doesn’t already have one. These must be worn to trainings and game day.* 
+
+***Please Note:*** *At print time of this booklet, confirmation on where these competitions will be played is not available.  The above boys fees will be less than half if playing in Whanganui only.* 
 
 **Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
 **Boys 1st XV Rugby Coach:** Mike Lama  
-**Girls 1st XV Rugby Coach:** Denning Tyrell  
-**Rugby Colts:** Hamish McGregor  
-**Rugby U15:** Nathan Easton
+**Girls 1st XV Rugby Coach:** TBC  
+
+
