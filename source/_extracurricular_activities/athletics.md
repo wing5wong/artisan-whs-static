@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mrs L. Murphy
 title: Athletics
-date: 2025-11-24T10:52:00+13:00
+date: 2026-02-27T09:57:00+13:00
 people: []
 extracurricular_area: Sport
 category: School Sports
