@@ -1,6 +1,6 @@
 ---
 title: Sport
-date: 2025-01-27T13:30:00.000Z
+date: 2026-02-27T09:51:00+13:00
 person_in_charge: []
 ---
 Whanganui High School offers a wide range of sports to our students.
@@ -15,7 +15,7 @@ We also offer a Sports Performance Programme. This programme targets a selected 
 
 
 
-##### Sports Performance Pathway 2025 
+##### Sports Performance Pathway 2026 
 
 
 
@@ -32,4 +32,8 @@ Senior students who are focused on their sport have access to quality advice and
 
 **Pathway Goals**  
 Promote the programme in the Y9-10 level to students who need support to develop in their sport, to then be able to achieve at an advanced level as a senior.  
-The focus at junior level is to grow an all-round “athlete”, at the senior level to progress to a performance level.   
+The focus at junior level is to grow an all-round “athlete”, at the senior level to progress to a performance level.
+
+*See Mrs Murphy in the Te Wehi Gym if you are interested.  
+Te Wehi Gym Office, 3490178 ext 8759* 
+  
