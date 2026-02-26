@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mrs L. Murphy
 title: Cross Country
-date: 2025-11-24T10:02:00+13:00
+date: 2026-02-27T10:35:00+13:00
 people: []
 extracurricular_area: Sport
 cost: ""
@@ -17,13 +17,13 @@ As well as our annual Cross Country Champs, Whanganui High School students compe
 
 
 **Competitions**   
-The WHS School Cross Country takes place on Wednesday 7 May at Whanganui High School.
+The WHS School Cross Country takes place on Wednesday 13 May at Whanganui High School.
 Year 9 and Year 10 students will be preparing for this in PE classes.  
 
-From the school event, individuals will be selected for the Whanganui Secondary School’s competition, which takes place on Tuesday 27 May.  
+From the school event, individuals will be selected for the Whanganui Secondary School’s competition, which takes place on Thursday 4 June.  
 
 Our most successful runners will then be invited to represent Whanganui High School 
-at the National Secondary Schools' Cross Country event in Whangarei on 14/15 June.
+at the National Secondary Schools' Cross Country event in Wellington on 20/21 June.
 
 
 **Training Days:** Generally, Tuesday and Thursday at school from 3:15pm, with some Saturday morning trainings close to competitions.
