@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mrs L. Murphy
 title: Rowing
-date: 2025-11-24T10:12:00+13:00
+date: 2026-02-27T12:35:00+13:00
 people: []
 extracurricular_area: Sport
 cost: ""
@@ -25,16 +25,18 @@ Crew instruction about their performance.
  
 
 **Trainings** are either Saturday or Sunday mornings and three or four evenings per week in summer. In Winter, coaches run indoor fitness classes where possible.  
-There will be a ‘Learn to Row’ programme for new Rowers starting in September 2025.
+There will be a ‘Learn to Row’ programme for new Rowers starting in September 2026.
 
 
 **The season** starts in September/October and ends in March/April after the Maadi 
 Cup Regatta. Rowers participate in several Regattas over this time.  
-WHS won their first Gold Medal in 8 years at the 2024 Aon Maadi Regatta and also finished 4th overall in the country.
+WHS won their first Gold Medal in 8 years at the 2024 Aon Maadi Regatta then another Gold in 2025.
 
 **Costs:** There is a membership fee that students pay to the Aramoho club to cover  equipment use. Approx $500 - $750. Regatta fees are a separate cost to this.  
-WHS Regatta fees will be invoiced to parents through school.  
+WHS Regatta fees will be invoiced to parents through school. Club Regatta fees are invoiced via the Aramoho Whanganui Rowing Club.  
 Fees could vary each year.
+  
+
 
 **Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
 **Coach:** Axel Dickinson
