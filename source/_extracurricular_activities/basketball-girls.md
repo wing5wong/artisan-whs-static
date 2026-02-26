@@ -11,9 +11,9 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764899115/Sports/
 
 Competitive and Social teams play on Friday nights in the Whanganui Secondary School League.
 
-The **Senior A and Junior A teams** could play on Thursday nights in the Premier League.
+The **Senior A and Junior A teams** could possibly also play on Thursday nights in the Premier League.
 
-**Training** will be decided by coach and each team, and will normally be after school.  
+**Training** will be confirmed by the coach.  
 
 **Cost:** $60 (approx) for Fridays; $50 (approx) for Thursdays;  
 $30 for Warm-up shirt (optional)
