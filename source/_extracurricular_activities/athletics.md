@@ -16,7 +16,7 @@ image_gallery:
 **Background**  
 Whanganui High School has a very strong athletics programme and have shown its great depth especially in sprints and hurdles in local, regional and national competitions.  
 A look in the local rankings shows how well our WHS and ex WHS athletes have been going in competition. WHS is regularly ranked as one of the top athletic schools in NZ.  
-It has been the top performing sport at national level for WHS over the last 6 years with 8 national titles and 27 medals overall achieved at the national secondary school’s premier competition, with graduating students going on to achieve scholarships to U.S colleges.  
+It has been the top performing sport at national level for WHS over the last 6 years with 8 national titles and 28 medals overall achieved at the national secondary school’s premier competition, with graduating students going on to achieve scholarships to U.S colleges.  
 Athletics also acts as a conditioning base for other codes within the school and many athletes within the programme have gone on to represent the school at high levels in other codes due to their excellent conditioning. 
 
 
@@ -26,9 +26,9 @@ As well as our annual Athletics sports, Whanganui High School students compete a
 **Competitions**  
 **Club nights** are every Tuesday evening Terms 1 & 4, 6:30pm at Cooks Gardens. 
   
-_School Athletics_ this year (whole school, year 9-13) will be held at Cooks Gardens, Term 1, on Wednesday 26 February.  
-_Whanganui Secondary Schools_ competition is on Tuesday 18 March.  
-_North Island Championships_ are in Hamilton on 5-6 April.  
+_School Athletics_ this year (whole school, year 9-13) will be held at Cooks Gardens, Term 1, on Thursday 26 February.  
+_Whanganui Secondary Schools_ competition is on Thursday 12 March.  
+_North Island Championships_ are in Papakura on 28 & 29 March.  
 _N.Z.S.S Championships_ are in Hawkes Bay on 5-7 December 2025. 
 
 **Training Days:**  
