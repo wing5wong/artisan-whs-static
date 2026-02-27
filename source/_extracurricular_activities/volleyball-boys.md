@@ -30,4 +30,4 @@ Cost of Tournament Week and other Tournaments are separate.
 **Terms:** 1 & 4
 
 **Teachers in Charge:** Lisa Murphy (Competitive) Jessie Madams (Social)  
-**Coach**: Anastasia Tamaniyaga 
+**Coach**: Tearo Hameira 
