@@ -40,6 +40,6 @@ Approx $80 – Manawatu Competition Term 3 only.
 
 **Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
 **Boys 1st XV Rugby Coach:** Mike Lama  
-**Girls 1st XV Rugby Coach:** TBC  
+**Girls 1st XV Rugby Coaches:** Tyrell Denning and Danny Tamehana  
 
 
