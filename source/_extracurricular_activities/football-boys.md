@@ -22,8 +22,10 @@ All other players participate through the local Football clubs.
 **Training** is after school on WHS fields (Day TBC)
 
 **Cost:**  
-**Senior 1st XI** – Approx $13 per away game (separate charges for exchanges & Tournament week).  
-**Junior 1st XI** - Approx $120.00 season (separate charges for exchanges &    Tournament week).  
+**Senior 1st XI** – $13 (approx) per away game  
+Additional charges for Exchanges & Tournament week.  
+**Junior 1st XI**  - $120.00 (approx) season  
+Additional charges for Exchanges.  
 
 
 **Terms:** 2 & 3  
