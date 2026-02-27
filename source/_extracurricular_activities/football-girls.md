@@ -19,7 +19,8 @@ All other players participate through the local Football clubs.
 
 **Terms:** 2 & 3
 
-**Cost:** $120.00 (approx) season.  Additional charges for Exchanges and Tournament Week.  
+**Cost:** $120.00 (approx) season.  
+*Additional charges for Exchanges and Tournament Week.  
 
 **Teacher in Charge:** Rebecca Kennedy (kennedy.r@whs.ac.nz)  
 **1st XI Coach:** Allison Cotter  
