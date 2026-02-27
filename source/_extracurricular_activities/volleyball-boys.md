@@ -21,7 +21,6 @@ We have teams of Boys and Girls, mixed, Juniors and Seniors.
 **Wednesday Social League** - Terms 1 & 4, students can form teams to be entered into the social league run by the Whanganui Community Sports Centre of either Year 9/10 boys, Year 9/10 girls or open mixed.  These teams don’t train.  Teams can also be made up of individuals who want to play.  
 
 **Senior Boys and Girls Competitive teams** work towards going to Secondary School Nationals in Term 1 and play in the Manawatu Competition on Monday nights in Term 1 and Whanganui Adult league in Term 4.  
-**Junior Competitive Competitions** TBC
 
 **Cost:**  
 **Social Juniors and Seniors** playing in local competition - $25 per term (approx).  
