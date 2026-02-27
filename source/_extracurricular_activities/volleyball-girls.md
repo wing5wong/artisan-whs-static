@@ -25,5 +25,5 @@ Juniors and Social Seniors playing in local competition - $25 per team (approx).
 
 **Terms:** 1 & 4 
 
-**Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
-**Coaches:** Katrina Thompson & Karen McGregor
+**Teachers in Charge:** Lisa Murphy (Competitive) Jessie Madams (Social)  
+**Coach:** Katrina Thompson
