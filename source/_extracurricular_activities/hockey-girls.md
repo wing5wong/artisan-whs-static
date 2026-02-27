@@ -28,6 +28,6 @@ Socks can be paid for at the main office with cash/eftpos and collected from the
 **Terms:** 2 & 3
 
 **Teacher in Charge:** Grant Hardy (hardy.g@whs.ac.nz)  
-**1st XI Coaches:**  Luke Kirk             
+**1st XI Coach:**  Luke Kirk             
 
 
