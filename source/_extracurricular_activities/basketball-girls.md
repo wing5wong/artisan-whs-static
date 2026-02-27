@@ -21,4 +21,4 @@ $30 for Warm-up shirt (optional)
 **Terms:**  2 & 3
 
 **Teacher in Charge:**  Lisa Martin (martin.l@whs.ac.nz)  
-**Coach:** Marie Josephs
+**Coach:** Marie Josephs (TBC)
