@@ -1,6 +1,6 @@
 ---
 person_in_charge: Mr B. Parry
-title: Rugby
+title: Rugby - Boys & Girls
 date: 2026-02-27T12:48:00+13:00
 people: []
 uniform: ""
