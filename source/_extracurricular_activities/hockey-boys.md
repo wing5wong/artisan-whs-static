@@ -28,5 +28,5 @@ Socks can be paid for at the main office with cash/eftpos and collected from the
 **Terms:** 2 & 3
 
 **Teacher in Charge:** Lisa Murphy (murphy.l@whs.ac.nz)  
-**1st XI Coaches:**  Michael Davidson             
+**1st XI Coach:**  Michael Davidson             
 
