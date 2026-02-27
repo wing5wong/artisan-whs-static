@@ -20,7 +20,8 @@ Our 1st XI Boys play in the Palmerston North League with most of their games pla
 **Cost:**  
 1st XI - $360 approx (dependent on turf fees)  
 2nd XI - $150 approx (dependent on turf fees)  
-Please be aware that travel costs may be added on for the teams that are playing in Palmerston North. Uniform will be allocated once fees are paid.  
+Please be aware that travel costs may be added on for the teams that are playing in Palmerston North.  
+Uniform will be allocated once fees are paid.  
 
 **Equipment:** Must have own stick, shin pads and mouthguard.  
 Socks can be paid for at the main office with cash/eftpos and collected from the Te Wehi gym office - $18.
