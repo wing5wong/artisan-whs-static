@@ -23,7 +23,8 @@ Most year 9 students who are interested in Rugby play for one of the schools Jun
 Please note that Wanganui RFU rules state that students are not permitted to play for a club team unless permission is granted by the Principal.
 
 **Trainings** will be confirmed once teams are sorted.  
-**Uniform:** Players are supplied with a Rugby jersey, shorts and socks for each game (girls purchase their own socks from the main office for $18 and collect from Te Wehi gym office).  
+**Uniform:** Players are supplied with a Rugby jersey, shorts and socks for each game.  
+Girls purchase their own socks from the main office for $18 and collect from Te Wehi gym office.  
 
 NB: Fees need to be paid prior to the start of the regular season. No pay no play.  
 
