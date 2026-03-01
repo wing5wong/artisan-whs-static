@@ -17,4 +17,4 @@ To encourage acceptance, raise awareness and create a safe space for the LGBTQIA
 
 **Cost:**   Nil
 
-Come to L1 at first break this Thursday, and have your LGBTQ+ voice heard. Meet others in this community who attend WHS. Bring your lunch and come and chat. 
+Meet others in this community who attend WHS. Bring your lunch and come and chat. 
