@@ -1,8 +1,10 @@
 ---
-title: Student Achievement Conferences
+title: Student Achievement Conferences - students released 2pm
 date: 2026-04-01T09:57:00+13:00
 ---
 Student Achievement Conferences.  
-Tuesday 31 March and Wednesday 1 April.  
+Tuesday 31 March and Wednesday 1 April. 
+
+Student are released at the end of Period 4, 2pm on both days.   
 
 More information will follow closer to the event.
