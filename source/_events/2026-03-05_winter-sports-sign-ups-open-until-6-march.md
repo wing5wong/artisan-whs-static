@@ -1,5 +1,5 @@
 ---
-title: Winter Sports - Sign Ups OPEN until 6 March
+title: Winter Sports - Sign Ups CLOSE 6 March
 date: 2026-03-06T08:23:00+13:00
 ---
 Sign ups for Winter sports is now open.  
