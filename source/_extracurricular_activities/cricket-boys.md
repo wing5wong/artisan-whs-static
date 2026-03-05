@@ -1,7 +1,7 @@
 ---
 person_in_charge: Mr A. Lock
 title: Cricket - Boys
-date: 2026-02-27T10:32:00+13:00
+date: 2026-03-06T10:08:00+13:00
 people: []
 terms: null
 extracurricular_area: Sport
@@ -10,15 +10,17 @@ image: https://res.cloudinary.com/whanganuihigh/image/upload/v1763933217/Cricket
 image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1764895991/Sports/cricket_boys.jpg
 ---
-The 1st XI and Junior team play inter-school matches and are in the T20 weekly competition.  
+The 1st XI and Junior team play inter-school matches and are in the McVicar Cup Competition (Seniors) and T16 Competition  (Juniors) weekly.  
   
 We also play Inter-school Sports Exchange matches.  
 
 In term 4, there will be the opportunity to play in the Combined High School Comp – approx. cost $90.
 
-**Training** is after school on a Friday.  
+**Training** TBC  
 
-**Play** on Thursday (tbc)
+**Play**  
+Seniors, McVicar Cup Competition - Wednesday  
+Juniors, T16 Competition - Thursday  
 
 **Cost:** TBC once teams are sorted.  
 *Plus extra costs for interschool away games.
