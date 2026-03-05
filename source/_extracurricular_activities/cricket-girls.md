@@ -24,6 +24,5 @@ All **equipment** is provided and the girls wear PE tops and black shorts/pants.
 
 **Terms:** 1 & 4
 
-**Teachers in Charge:**  Rebecca Kennedy (kennedy.r@whs.ac.nz) & Graham Hall  
-**1st XI Coach:** Ms Gabrielle McKenzie   
+**Teacher in Charge:**  Rebecca Kennedy (kennedy.r@whs.ac.nz) 
 
