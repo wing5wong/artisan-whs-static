@@ -25,6 +25,6 @@ In term 4, there will be the opportunity to play in the Combined High School Com
 
 **Terms:** 1 & 4
 
-**Teachers in Charge:**  Rebecca Kennedy and  Graham Hall  
+**Teacher in Charge:**  Rebecca Kennedy  
 **1st XI Coach:** Hamish McGregor  
-**Junior Coaches:** Hamish McGregor & Aaron Toy
+**Junior Coach:** Martin Cloete
