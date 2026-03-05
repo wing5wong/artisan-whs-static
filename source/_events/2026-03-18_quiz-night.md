@@ -6,5 +6,8 @@ QUIZ NIGHT, Thursday 19 March.
 Quiz Night is coming !  
 Start organising your team - maximum of five people.  
 
-Watch this space for details.
+Watch this space for details.  
+
+*Mrs Hardcastle  
+Teacher in charge*
 
