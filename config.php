@@ -384,7 +384,7 @@ return [
             'section' => 'postContent'
         ],
         'term_dates' => [
-            'sort' => 'date'
+            'sort' => 'title'
         ],
         'vacancies',
     ],
