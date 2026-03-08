@@ -32,4 +32,4 @@ Additional charges for Exchanges.
 
 **Teacher in charge:** Ryan Holden (holden.r@whs.ac.nz)  
 **1st XI Coaches:** Ryan Holden & Anthony Bell  
-**Junior XI Coaches:** Ryan Holden & TBC 
+**Junior XI Coaches:** Ryan Holden & Andrew Macpherson
