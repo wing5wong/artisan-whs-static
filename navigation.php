@@ -217,7 +217,7 @@ return [
             ],
             [
                 'title' => 'Annual Implementation Plan',
-                'url' => 'https://res.cloudinary.com/whanganuihigh/image/upload/v1738619923/School%20Documents/Policies%20and%20Charter/WHS_Annual_Implementation_Plan_2025.pdf'
+                'url' => 'https://res.cloudinary.com/whanganuihigh/image/upload/v1773100268/School%20Documents/Policies%20and%20Charter/Annual_Implementation_Plan_2026.pdf'
             ],
             [
                 'title' => 'Attendance Management Plan',
