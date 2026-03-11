@@ -44,7 +44,7 @@ The Spanish department has a sister school relationship with the Colegio Pestalo
 
 ***OVERSEAS TRIPS***
 
-From time to time, and dependent on Board approval, teachers have coordinated school trips to a range of destinations relevant to Spanish, Chinese and French language studies. In the past ten years, these have included trips to New Caledonia, Peru, China and Japan, and in 2019 we are taking our first trip to Spain. 
+From time to time, and dependent on Board approval, teachers have coordinated school trips to a range of destinations relevant to Spanish, Chinese and French language studies. In the past ten years, these have included trips to New Caledonia, Peru, China and Japan, and Spain. 
 
 ***OFF-TIMETABLE LANGUAGE STUDIES***
 
