@@ -92,5 +92,3 @@ Girls Senior 4x100 Relay
 Boys Open Swedish Relay
 
 We are incredibly proud of all of our athletes and their achievements. Congratulations to everyone who competed and represented WHS so well! 👏
-
-More photos to follow from Sport Whanganui
