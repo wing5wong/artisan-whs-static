@@ -8,5 +8,6 @@ Wednesday 18th March - 3.20pm at WHS
 Wednesday 25th March - 3.20pm at WHS
 
 You must attend both trials, bring boots and a Water Bottle.  
+
 See Ms Kennedy in the Deans house if you have any questions or come and pick up an info sheet if you want to know more!
 
