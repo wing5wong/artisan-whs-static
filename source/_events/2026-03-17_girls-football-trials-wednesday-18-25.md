@@ -1,6 +1,6 @@
 ---
 title: Girls Football Trials, Wednesday 18 & 25
-date: 2026-03-18T10:45:00+13:00
+date: 2026-03-25T10:45:00+13:00
 ---
 All girls wanting to trial for the WHS 1st XI and 2nd XI Football teams - there will be 2 trials.  
 
