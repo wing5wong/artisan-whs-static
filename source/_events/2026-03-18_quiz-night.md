@@ -2,7 +2,7 @@
 title: Quiz Night
 date: 2026-03-19T09:38:00+13:00
 ---
-QUIZ NIGHT in the School Library, Thursday 19 March  
+QUIZ NIGHT in the School Hall, Thursday 19 March  
 6.00 - 8.30pm - doors open at 5.30pm.  
 
 * Pizza for your team
