@@ -29,7 +29,7 @@ Ms Rajneeta Devi (Teacher Code 'DR') and Ms Sharuna Devi (Teacher Code 'DES')
 
 •	The following teachers will NOT be available for the Conferences:  
 
-Mrs Devon Adam (The Arts)  
-Ms Jeanette Jones (The Arts)
+Mrs Devon Adam (Drama, The Arts)  
+Mrs Jeanette Jones (Music, The Arts)
 
 Any queries or difficulties in booking your appointment times please phone 349 0177.
