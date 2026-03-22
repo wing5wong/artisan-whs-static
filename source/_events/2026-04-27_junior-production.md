@@ -1,5 +1,5 @@
 ---
-title: Junior Production
+title: WHS Junior Musical Production, Friday & Saturday
 date: 2026-05-01T06:25:00+12:00
 ---
 Junior High School Musical Production  
