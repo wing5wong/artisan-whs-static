@@ -1,5 +1,5 @@
 ---
-title: WHS Boys Football First XI Trials
+title: Boys Football First XI Trials
 date: 2026-03-25T10:22:00+13:00
 ---
 Boys Football First XI trials are this Wednesday 25 March, 3:15pm on the WHS fields. 
