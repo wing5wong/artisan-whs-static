@@ -26,7 +26,6 @@ Students are encouraged to attend these conferences with their parents or caregi
 Ms Rajneeta Devi (Teacher Code 'DR') and Ms Sharuna Devi (Teacher Code 'DES')
 
 •	The following teachers will NOT be available for the Conferences:  
-
 Mrs Devon Adam (Drama, The Arts)  
 Mrs Jeanette Jones (Music, The Arts)
 
