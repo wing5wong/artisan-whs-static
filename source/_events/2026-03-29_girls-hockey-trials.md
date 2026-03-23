@@ -3,6 +3,7 @@ title: Girls Hockey Trials
 date: 2026-03-30T09:53:00+13:00
 ---
 Girls Hockey Trials - Monday 30 March  
+(Year 9 - Year 13)  
 
 4-5pm at Gonville Turf
 
