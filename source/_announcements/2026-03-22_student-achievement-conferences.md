@@ -2,14 +2,14 @@
 title: STUDENT ACHIEVEMENT CONFERENCES
 is_emergency: false
 date: 2026-03-23T07:35:00+13:00
-subtitle: BOOKINGS OPEN at 5pm on MONDAY 23 MARCH
+subtitle: BOOKINGS are now OPEN
 ---
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
 
-**BOOKINGS OPEN at 5pm on MONDAY 23 MARCH**  
+**BOOKINGS are now OPEN**  
 
-To book an interview AFTER 5pm on Monday 23 March, click the following link:  
+To book an interview, click the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 21 March) 
 
