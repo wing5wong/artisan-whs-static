@@ -10,7 +10,8 @@ intro: In English, students study, use and enjoy language and literature
   communicated orally, visually or in writing.
 hofs:
   - Mrs Lisa Burgess
-ahofs: []
+ahofs:
+  - Ms Pamela West
 vocational_pathways:
   - service
   - creative
