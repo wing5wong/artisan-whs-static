@@ -5,9 +5,9 @@ date: 2026-04-01T09:57:00+13:00
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
 
-**BOOKINGS OPEN at 5pm on MONDAY 23 MARCH**  
+**BOOKINGS are now OPEN**  
 
-To book an interview AFTER 5pm on Monday 23 March, click the following link:  
+To book an interview, click the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 21 March) 
 
@@ -20,7 +20,7 @@ Where: Te Mana and Te Wehi Gymnasiums
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-BOOKINGS CLOSE at 5.00pm on Monday 30 March, the evening before the interviews. 
+**BOOKINGS CLOSE at 5.00pm on Monday 30 March**, the evening before the interviews. 
 
 •	Please be mindful when choosing Mathematics if your child has Ms Devi as their teacher as there are two Ms Devi's in our Mathematics Department.  
 Ms Rajneeta Devi (Teacher Code 'DR') and Ms Sharuna Devi (Teacher Code 'DES')
