@@ -6,7 +6,7 @@ WHS Senior A1 & A2 Netball Trials.
 
 WHS Te Wehi Gymnasium, 5.30pm - 7.00pm.
 
-Tuesday 31 March, 5:30–7:00pm at Te Wehi Gym  
+Tuesday 31 March, 3:30–4:45pm at Springvale Stadium  
 (attend this trial only if you believe you are capable of being selected for one of the top 2 teams).  
 
 YOU HAVE ALL BEEN SENT AN EMAIL TO YOUR SCHOOL EMAIL ACCOUNTS - PLEASE CHECK AND REPLY IF REQUIRED.
