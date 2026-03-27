@@ -4,7 +4,7 @@ is_emergency: false
 date: 2026-03-23T07:35:00+13:00
 subtitle: BOOKINGS are now OPEN
 ---
-**Students will be released at 2pm, for both days**.  
+##### Students will be released at 2pm, for both days.  
 You are expected to go straight home and not into town.  
 Buses will run at the usual time.
 
