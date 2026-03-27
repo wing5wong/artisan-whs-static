@@ -2,6 +2,12 @@
 title: Student Achievement Conferences - students released 2pm
 date: 2026-03-31T09:55:00+13:00
 ---
+**Today students are being released at 2.00pm, for Parent/Teacher Conferences**.  
+You are expected to go straight home and not into town.  
+Buses will run at the usual time.
+
+----------------
+
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
 
