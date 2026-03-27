@@ -1,6 +1,7 @@
 ---
 title: WHS Junior Musical Production, Friday & Saturday
 date: 2026-05-01T06:25:00+12:00
+image: https://res.cloudinary.com/whanganuihigh/image/upload/v1774597763/Events/WHS_Jnr_Prod_2026.png
 ---
 Whanganui High School is excited to present this year's Junior Production!  
 
