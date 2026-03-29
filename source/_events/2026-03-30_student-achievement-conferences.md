@@ -11,7 +11,7 @@ Buses will run at the usual time.
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
 
-**BOOKINGS are now OPEN**  
+**BOOKINGS CLOSE at 5.00pm TOMORROW, Monday 30 March**  
 
 To book an interview, click the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
