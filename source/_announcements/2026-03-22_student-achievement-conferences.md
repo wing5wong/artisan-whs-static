@@ -2,7 +2,7 @@
 title: STUDENT ACHIEVEMENT CONFERENCES
 is_emergency: false
 date: 2026-03-23T07:35:00+13:00
-subtitle: BOOKINGS are now OPEN
+subtitle: "BOOKINGS CLOSE at 5.00pm TOMORROW, Monday 30 March 😊 "
 ---
 ##### Students will be released at 2pm, for both days.  
 You are expected to go straight home and not into town.  
