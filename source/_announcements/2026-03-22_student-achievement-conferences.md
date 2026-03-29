@@ -2,7 +2,7 @@
 title: STUDENT ACHIEVEMENT CONFERENCES
 is_emergency: false
 date: 2026-03-23T07:35:00+13:00
-subtitle: "BOOKINGS CLOSE at 5.00pm TOMORROW, Monday 30 March 😊 "
+subtitle: "BOOKINGS CLOSE at 5.00pm TODAY, Monday 30 March 😊 "
 ---
 ##### Students will be released at 2pm, for both days.  
 You are expected to go straight home and not into town.  
@@ -13,7 +13,7 @@ Buses will run at the usual time.
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
 
-**BOOKINGS CLOSE at 5.00pm TOMORROW, Monday 30 March**  
+**BOOKINGS CLOSE at 5.00pm TODAY, Monday 30 March**  
 
 To book an interview, click the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
