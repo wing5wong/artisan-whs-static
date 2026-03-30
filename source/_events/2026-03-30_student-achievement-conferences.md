@@ -13,7 +13,7 @@ STUDENT ACHIEVEMENT CONFERENCES
 
 **BOOKINGS CLOSED at 5.00pm, Monday 30 March**  
 
-To book an interview, click the following link:  
+To check your interview times, click the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
 ('Event Code' is needed from the Interim Report, emailed to you on 21 March) 
   
