@@ -2,7 +2,7 @@
 title: STUDENT ACHIEVEMENT CONFERENCES
 is_emergency: false
 date: 2026-03-23T07:35:00+13:00
-subtitle: "BOOKINGS CLOSE at 5.00pm TODAY, Monday 30 March 😊 "
+subtitle: "BOOKINGS CLOSED at 5.00pm, Monday 30 March  "
 ---
 ##### Students will be released at 2pm, for both days.  
 You are expected to go straight home and not into town.  
@@ -13,7 +13,7 @@ Buses will run at the usual time.
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES  
 
-**BOOKINGS CLOSE at 5.00pm TODAY, Monday 30 March**  
+**BOOKINGS CLOSED at 5.00pm, Monday 30 March**  
 
 To book an interview, click the following link:  
 👉 [https://www.schoolinterviews.co.nz/ ](https://www.schoolinterviews.co.nz/)  
@@ -28,7 +28,7 @@ Where: Te Mana and Te Wehi Gymnasiums
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand.  
 
-**BOOKINGS CLOSE at 5.00pm on Monday 30 March**, the evening before the interviews. 
+**BOOKINGS CLOSED at 5.00pm on Monday 30 March**, the evening before the interviews. 
 
 •	Please be mindful when choosing Mathematics if your child has Ms Devi as their teacher as there are two Ms Devi's in our Mathematics Department.  
 Ms Rajneeta Devi (Teacher Code 'DR') and Ms Sharuna Devi (Teacher Code 'DES')
