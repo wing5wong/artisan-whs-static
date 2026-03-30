@@ -1,6 +1,6 @@
 ---
 title: WHS Junior Netball Trials, 30 & 31 March
-date: 2026-03-30T09:27:00+13:00
+date: 2026-03-31T09:27:00+13:00
 ---
 WHS Junior Netball Trials, 30-31 March  
 Year 9 & 10  
