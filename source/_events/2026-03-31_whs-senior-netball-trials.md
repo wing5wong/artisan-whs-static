@@ -1,6 +1,6 @@
 ---
 title: WHS Senior Netball Trials, 1 & 2 April
-date: 2026-04-01T09:50:00+13:00
+date: 2026-04-02T09:50:00+13:00
 ---
 WHS Senior Netball Trials  
 Senior B1 and below  
