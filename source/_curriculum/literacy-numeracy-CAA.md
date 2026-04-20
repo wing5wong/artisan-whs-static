@@ -142,7 +142,7 @@ Here are some handy hints for how you can help students to prepare for the CAA:
 
 
 ## Examples of Past Papers
-These can be found on the NZQA public website for digital exams. 
+[These can be found on the NZQA public website for digital exams.](https://www.nzqa.govt.nz/ncea/ncea-exams-and-portfolios/external/digital-exams/find-past-digital-exams)  
 - NSN:View2024
 - Verification code: Tw3nty/24
 - Access code: 0000
