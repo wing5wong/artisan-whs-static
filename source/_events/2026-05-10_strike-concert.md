@@ -1,0 +1,6 @@
+---
+title: Strike Concert
+date: 2026-05-11T08:07:00+12:00
+---
+The Strike Concert will be in our School Hall on Monday 11 May.  
+More information to follow closer to the event.
