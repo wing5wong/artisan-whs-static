@@ -16,7 +16,7 @@ BYOT allows learning to occur in ways that were not previously possible, while r
 
 For the purposes of BYOT, the ‘T’ refers to a privately owned, personal, portable computing device that is capable of connecting to the school’s wireless network. This includes laptops, notebooks, and Chromebooks (across platforms such as Android, Apple, and Microsoft).  
 
-Please note that mobile phones are not permitted as BYOT devices and are not to be used for learning purposes at school.  
+__Please note that mobile phones are not permitted as BYOT devices and are not to be used for learning purposes at school.__  
 
 To support families in making decisions about appropriate devices, the school provides recommended minimum specifications.  
 
