@@ -12,7 +12,7 @@ intro: In Science, students explore how both the natural physical world and
 hofs:
   - Mr Michael Crook
 ahofs:
-  - Mr Ian Thomas
+  - Mrs Gail Glaister
 vocational_pathways:
   - service
   - creative
