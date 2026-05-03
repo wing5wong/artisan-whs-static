@@ -6,5 +6,5 @@ on_leave: false
 house: Awa
 positions:
   - department: Support and Ancillary
-    title: Teacher Aide of ESOL
+    title: ESOL Teacher Aide
 ---
