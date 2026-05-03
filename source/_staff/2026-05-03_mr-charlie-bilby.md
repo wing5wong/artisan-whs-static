@@ -1,9 +1,9 @@
 ---
 title: Mr Charlie Bilby
 departments:
-  - Technology
+  - Support and Ancillary
 on_leave: false
 positions:
-  - title: Teacher Aide
+  - title: Teacher Aide of Technology
     department: Technology
 ---
