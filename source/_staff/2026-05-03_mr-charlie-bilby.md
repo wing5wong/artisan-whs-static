@@ -1,8 +1,10 @@
 ---
 title: Mr Charlie Bilby
-position: Teacher Aide of Technology
+position: ""
 departments:
   - Support and Ancillary
 on_leave: false
-positions: []
+positions:
+  - department: Support and Ancillary
+    title: Teacher Aide of Technology
 ---
