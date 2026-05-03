@@ -4,8 +4,6 @@ position: ""
 departments:
   - Sciences
 house: Whenua
-positions:
-  - department: Sciences
-    title: Assistant HOF Science, Head of Physics
+positions: []
 email: glaister.g@whs.ac.nz
 ---
