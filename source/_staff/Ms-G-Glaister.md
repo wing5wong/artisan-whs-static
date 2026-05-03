@@ -1,6 +1,6 @@
 ---
 title: Mrs Gail Glaister
-position: Assistant HOF Science, Head of Physics
+position: ""
 departments:
   - Sciences
 house: Whenua
