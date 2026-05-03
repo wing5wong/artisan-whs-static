@@ -6,5 +6,5 @@ departments:
 on_leave: false
 positions:
   - department: Support and Ancillary
-    title: Teacher Aide of Technology
+    title: Technology Teacher Aide
 ---
