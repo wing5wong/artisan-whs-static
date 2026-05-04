@@ -11,7 +11,7 @@ Students are welcome our Chinese Club, where students will prepare for the Welli
 
 **Who can join:** All students
 
-**When:** Time to be confirmed for 2026
+**When:** Week B, period 5 on Wednesday
 
 **Event:** Speech Competition and HSK test
 
