@@ -9,5 +9,5 @@ A high-energy, interactive 60-minute performance featuring rhythms and instrumen
 $7 each for Music students.  
 Example:  [https://www.youtube.com/watch?v=b4hLFNIj994 ](https://www.youtube.com/watch?v=b4hLFNIj994)
 
-*Mrs Jones\
+*Mrs Jones  
 Head of Music*
