@@ -1,9 +1,11 @@
 ---
-title: Showquest
+title: Showquest 2026
 date: 2026-06-29T09:23:00+12:00
 ---
-Showquest is on Monday 29 June at the [Regent on Broadway, Palmerston North](https://www.regent.co.nz/whats-on/information).
+Showquest is on Monday 29 June at The Regent on Broadway, Palmerston North.  
+A night celebrating creative rangatahi as they produce their stories onstage.
 
-Showquest 2026 is set to light up stages across Aotearoa, celebrating the incredible creativity and talent of students from Years 1–13. This nationwide performing arts competition sees young people design, produce, and perform original 8–10 minute shows that blend music, dance, drama, art, culture, and technology into one powerful performance. Expect bold ideas, high energy, and inspiring storytelling as schools come together in a vibrant showcase of youth voice, collaboration, and creativity.
+Time: Approximately 6.30pm to 9.00pm  
+Cost: $32.10 - $37.60
 
-More information to follow closer to the event.
+[Showquest & TOI Manawatū tickets | The Regent on Broadway | Ticketek New Zealand](https://premier.ticketek.co.nz/shows/Show.aspx?sh=BSHOWQUE26)
