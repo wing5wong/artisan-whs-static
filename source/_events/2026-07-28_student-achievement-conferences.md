@@ -1,5 +1,5 @@
 ---
-title: Student Achievement Conferences
+title: Student Achievement Conferences, 29 & 30 July
 date: 2026-07-29T06:55:00+12:00
 ---
 Student Achievement Conferences will be held on Wednesday 29 and Thursday 30 July in Te Mana and Te Wehi Gymnasiums.
