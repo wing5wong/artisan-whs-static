@@ -1,5 +1,5 @@
 ---
-title: Strike Concert
+title: NZ 'Strike' Percussion Concert
 date: 2026-05-11T08:07:00+12:00
 ---
 NZ 'Strike' Percussion Concert will be in our School Hall at 10.15am on Monday 11 May.  
