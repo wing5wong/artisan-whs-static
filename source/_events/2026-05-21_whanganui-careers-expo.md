@@ -2,9 +2,8 @@
 title: Whanganui Careers Expo
 date: 2026-05-22T09:27:00+12:00
 ---
-**Whanganui Careers Expo is on Friday 22 May**.  
-
-Whanganui High School is participating in the Careers EXPO on Friday 22 May. This is a good opportunity for students in Years 12 & 13 to investigate career and training opportunities that are available through local businesses, training providers, and many tertiary institutions; around 40 organisations will be represented. 
+Whanganui High School is participating in the Careers EXPO on Friday 22 May.  
+This is a good opportunity for students in Years 12 & 13 to investigate career and training opportunities that are available through local businesses, training providers, and many tertiary institutions; around 40 organisations will be represented. 
 
 The Expo venue is **The War Memorial Hall** complex in Watt St.
 
