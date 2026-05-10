@@ -1,5 +1,5 @@
 ---
-title: NCEA CAA Exams, 18-20 May - Yr 10-13
+title: NCEA CAA Exams, 18-20 May, Yr 10-13
 date: 2026-05-18T07:28:00+12:00
 ---
 NCEA Literacy & Numeracy Common Assessment Activities (CAA)
