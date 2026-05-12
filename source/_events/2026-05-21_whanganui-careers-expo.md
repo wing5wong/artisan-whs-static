@@ -13,13 +13,15 @@ All Year 12 & 13 students will attend the Expo as follows:
 8.45 - 10.00am** Students are to go **directly** to the venue instead of school (Bus students should walk from the City College bus stop) and will be transported back to school for period 2.  
 
 **Year 13:  
-1.45 - 3.00pm** Transported from school at the end of period 4 and dismissed from the venue. 
+1.45 - 3.00pm** Transported from school at the end of period 4 (2nd break) and dismissed from the venue.  
+If you definitely need a **ride back to school**, book a seat on a bus at [bit.ly/whsexporide2026](https://docs.google.com/forms/d/e/1FAIpQLSeuu0TSgClYZlQzmxEO9FGqpvCmkslYiDmsZNNcVRp1zmJo_w/viewform) **by 15 May**. I need to confirm numbers this week.
+Link is on the Year 13 G-classroom page as well.   
 
 Students who normally come to school by motor vehicle may drive to the venue (NO parking on site) but UNDER NO CIRCUMSTANCES are to take passengers.
 
 Students will NOT require their phones. Attendance will be recorded by scanning their **student ID** at the venue, so they need to bring their ID. 
 
-Mr Paul Keene (Careers Advisor) will be assisting at the Expo.  
+Mr Paul Keene (Careers Advisor) will be assisting at the Expo. 
 Deans, senior staff and class teachers will be present during the day.
 
 As this is such a large group and involves an organised activity which forms part of the school day, we will not require individual parental permission in this instance. However, if you do not wish your child to participate, please contact the student centre at school via telephone: 349 0177.  
