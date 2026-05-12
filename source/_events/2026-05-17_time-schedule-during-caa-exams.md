@@ -2,7 +2,7 @@
 title: Time Schedule during CAA exams
 date: 2026-05-18T06:45:00+12:00
 ---
-Time Schedule Monday-Wednesday
+Time Schedule, Monday - Wednesday
 
 *Form Time - 8.50 - 9.00am*  
 Period 1 - 9.00 - 10.00a  
