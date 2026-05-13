@@ -6,6 +6,9 @@ NZCT Chamber Music Contest, Whanganui district round.
 Celebrating the pinnacle of student ensemble performance.
   
 Wednesday 3 June at Whanganui Collegiate.  
-Two sessions, first session at 3pm, koha entry. 
+There are three sessions - 2.30pm, 4pm and 6.30pm, koha entry. 
+
+
+
 
 
