@@ -9,7 +9,7 @@ Tuesday 19 May - Literacy Writing
 Wednesday 20 May - Numeracy
 
 **Morning session**: Starts at **8.50am**  
-Do NOT go to form time if you have and exam in the morning.   
+Do NOT go to form time if you have an exam in the morning.   
   
 **Afternoon Session**: Starts at **12.50pm**  
 
