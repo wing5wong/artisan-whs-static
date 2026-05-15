@@ -8,10 +8,12 @@ Monday 18 May - Literacy Reading
 Tuesday 19 May - Literacy Writing  
 Wednesday 20 May - Numeracy
 
-Morning session: Starts at **8.50am**  
-Afternoon Session: Starts at **12.50pm**  
+**Morning session**: Starts at **8.50am**  
+Do NOT go to form time if you have and exam in the morning.   
+  
+**Afternoon Session**: Starts at **12.50pm**  
 
-Be on time. Do NOT go to form time if you have and exam in the morning.   
+Be on time.  
 
 *See Mrs de Smidt straight away for any questions.*
 
