@@ -11,7 +11,7 @@ Wednesday 20 May - Numeracy
 Morning session: Starts at **8.50am**  
 Afternoon Session: Starts at **12.50pm**  
 
-Be on time. Do NOT go to form time if you are writing in the morning.   
+Be on time. Do NOT go to form time if you have and exam in the morning.   
 
 *See Mrs de Smidt straight away for any questions.*
 
