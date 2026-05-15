@@ -13,7 +13,7 @@ Do NOT go to form time if you have an exam in the morning.
   
 **Afternoon Session**: Starts at **12.50pm**  
 
-Be on time.  
+Be on time!  
 
 *See Mrs de Smidt straight away for any questions.*
 
