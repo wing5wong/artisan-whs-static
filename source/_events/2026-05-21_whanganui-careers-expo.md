@@ -29,3 +29,5 @@ As this is such a large group and involves an organised activity which forms par
 Being a school activity, the usual high standard of behaviour and uniform presentation is expected from students.
 
 **Note:** there is NO COST for this event, either to parents or the school.
+
+*Any queries please see Mr Keene, Careers Advisor.*
