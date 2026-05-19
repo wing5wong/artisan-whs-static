@@ -1,6 +1,6 @@
 ---
 title: Time Schedule during CAA Exams, 18-20 May
-date: 2026-05-19T06:45:00+12:00
+date: 2026-05-20T06:45:00+12:00
 ---
 Time Schedule, Monday - Wednesday
 
