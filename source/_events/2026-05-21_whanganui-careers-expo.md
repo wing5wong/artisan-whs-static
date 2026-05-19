@@ -8,7 +8,8 @@ This is a good opportunity for students in Years 12 & 13 to investigate career a
 The Expo venue is **The War Memorial Hall** complex in Watt St.  
 [My Careers EXPO Planner](https://tahatu.govt.nz/api/documents/serve/284/My_careers_expo_planner.pdf)  
 
-All Year 12 & 13 students will attend the Expo as follows:  
+All Year 12 & 13 students will attend the Expo as follows:
+
 
 **Year 12:  
 8.45 - 10.00am** Students are to go **directly** to the venue instead of school (Bus students should walk from the City College bus stop) and will be transported back to school for period 2.  
