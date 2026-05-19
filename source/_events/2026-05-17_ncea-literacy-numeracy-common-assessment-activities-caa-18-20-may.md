@@ -1,6 +1,6 @@
 ---
 title: NCEA CAA Exams (Yr 10-13), 18-20 May
-date: 2026-05-19T07:28:00+12:00
+date: 2026-05-20T07:28:00+12:00
 ---
 NCEA Literacy & Numeracy Common Assessment Activities (CAA)
 
