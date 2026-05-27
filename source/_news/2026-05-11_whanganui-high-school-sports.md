@@ -1,7 +1,12 @@
 ---
 title: "Whanganui High School Sports "
+feature_image:
+  image: https://res.cloudinary.com/whanganuihigh/image/upload/v1779916013/News/12maymtb1.jpg
 news_author:
   date: 2026-05-12T09:17:00+12:00
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1779916015/News/12maymtb2.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1779915981/News/12maymtb.jpg
 show_in_slider: true
 date: 2026-05-12T09:17:00+12:00
 ---
