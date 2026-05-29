@@ -19,7 +19,7 @@ Being a homestay family is more than providing a room—it’s about creating a 
 
 ### What We’re Looking For
 
-We welcome families who:
+We welcome homestay caregivers and families who:
 
 * Have a spare bedroom in the main home (not a sleepout)
 * Speak English as the primary language at home
