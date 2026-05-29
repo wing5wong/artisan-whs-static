@@ -1,6 +1,6 @@
 ---
 title: Homestay and Accommodation
-date: 2026-02-19T13:41:00+13:00
+date: 2026-05-29T13:02:00+12:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1753398629/164008-library_0380_i8lw6h.jpg
 ---
 ## BECOME A HOMESTAY FAMILY
