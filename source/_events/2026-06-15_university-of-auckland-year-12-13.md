@@ -7,3 +7,6 @@ There is an information evening for the University of Auckland in Palmerston Nor
 NOT an 'official' school trip. 
 
 For more information and to register use this link: <https://response.auckland.ac.nz/rise>
+
+*Mr Keene  
+Careers Advisor*
