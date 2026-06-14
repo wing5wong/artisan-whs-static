@@ -14,7 +14,3 @@ On Saturday night, we celebrated the incredible cultural diversity of our school
 One of the most memorable aspects of the evening was the wonderful support our students showed for one another. Whether performing on stage or cheering from the audience, students embraced and celebrated each other's cultures with enthusiasm, respect, and encouragement, creating an atmosphere of genuine inclusion and belonging.
 
 A huge thank you to all of the students, staff, families, and community members who contributed to making the evening such a success.
-
-Check out the video of the event below. 
-
-\#CulturalFestival #CelebratingDiversity #SchoolCommunity #GlobalCitizens #WhanganuiHighSchool #internationalstudents
