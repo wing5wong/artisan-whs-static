@@ -5,7 +5,7 @@ date: 2026-06-23T06:16:00+12:00
 
 New Plymouth Girls High School Exchange  
 Tuesday June 23  
-Whanganui High School
+@ Whanganui High School
 
 **Teams involved in the exchange:**  
 Senior A1 Netball  
