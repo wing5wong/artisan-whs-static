@@ -1,8 +1,8 @@
 ---
-title: CAA Exams, 7-9 September
+title: CAA Examinations, 7-9 September
 date: 2026-09-07T07:34:00+12:00
 ---
-NCEA Common Assessment Activities (CAAs) Exams  
+NCEA Common Assessment Activities (CAAs) Examinations  
 
 Numeracy - Monday 7 September  
 Reading - Tuesday 8 September  
