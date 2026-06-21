@@ -1,6 +1,8 @@
 ---
 title: NPGHS Sports Exchange
 date: 2026-06-23T06:16:00+12:00
+image_gallery:
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1782073141/Events/NPGHS_Draw_updated_June_19.jpg
 ---
 
 New Plymouth Girls High School Exchange  
