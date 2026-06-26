@@ -6,15 +6,6 @@ date: 2026-07-01T09:18:00+12:00
 
 
 
-
-
-
-
-
-
-
-
-
 **Program for the 2 days**  
 The students will be travelling for the event on both days. The program timings [approximately] are as follows:  
 
