@@ -10,21 +10,19 @@
 
     <h2 class="decorated d-table">Board Members</h2>
     <div class="row no-gutters">
-        @foreach (['Presiding Member', 'Board Chairperson', 'Parent Representative', 'Principal', 'Staff Representative'] as $p)
-            @foreach ($board_members->where('category', $p)->sortBy(function ($st) {
-            return array_reverse(explode(' ', $st->title))[0];
-        }) as $member)
-                <div class="col-12 col-md-4 p-5">
-                    @if ($member->image)
-                        <img src="{{ $member->image }}" alt="">
-                    @endif
-                </div>
-                <div class="col-12 col-md-8 p-5">
-                    <h3>{{ $member->title }} <br><small>{{ $member->position }}</small></h3>
-                    {!! $member !!}
-                </div>
-            @endforeach
-        @endforeach
+        <div class="col-12">
+            <ul class="p-5">
+                @foreach (['Presiding Member', 'Board Chairperson', 'Parent Representative', 'Principal', 'Staff Representative'] as $p)
+                    @foreach ($board_members->where('category', $p)->sortBy(function ($st) {
+                    return array_reverse(explode(' ', $st->title))[0];
+                }) as $member)
+                        <li>
+                            <h3>{{ $member->title }}<small> - {{ $member->position }}</small></h3>
+                        </li>
+                    @endforeach
+                @endforeach
+            </ul>
+        </div>
     </div>
 
     <?php
@@ -38,39 +36,36 @@
         });
     ?>
     @if (count($coopted))
-        <h2 class="decorated d-table">Co-opted Members</h2>
-        <div class="row no-gutters">
-            @foreach ($coopted as $member)
-                <div class="col-12 col-md-4 p-5">
-                    @if ($member->image)
-                        <img src="{{ $member->image }}" alt="">
-                    @endif
-                </div>
-                <div class="col-12 col-md-8 p-5">
-                    <h3>{{ $member->title }} <br><small>{{ $member->position }}</small></h3>
-                    {!! $member !!}
-                </div>
-            @endforeach
+    <h2 class="decorated d-table">Co-opted Members</h2>
+    <div class="row no-gutters">
+        <div class="col-12">
+            <ul class="p-5">
+                @foreach ($coopted as $member)
+                    <li>
+                        <h3>{{ $member->title }}<small> - {{ $member->position }}</small></h3>
+                    </li>
+                @endforeach
+            </ul>
         </div>
+    </div>
     @endif
 
 
     <h2 class="decorated d-table">Also in Attendance</h2>
     <div class="row no-gutters">
-        @foreach ($board_members->where('category', 'Also in Attendance')->sortBy(function ($st) {
-                return array_reverse(explode(' ', $st->title));
-            })->sortBy(function ($st) {
-                return $st->position ?: 'ZZZZZZZZZZZZZZZZZZZZZZ';
-            }) as $member)
-            <div class="col-12 col-md-4 p-5">
-                <h3>{{ $member->title }} <br><small>{{ $member->position }}</small></h3>
-
-                <img src="{{ $member->image }}" alt="">
-            </div>
-            <div class="col-12 col-md-8 p-5">
-                {!! $member !!}
-            </div>
-        @endforeach
+        <div class="col-12">
+            <ul class="p-5">
+                @foreach ($board_members->where('category', 'Also in Attendance')->sortBy(function ($st) {
+                    return array_reverse(explode(' ', $st->title));
+                })->sortBy(function ($st) {
+                    return $st->position ?: 'ZZZZZZZZZZZZZZZZZZZZZZ';
+                }) as $member)
+                    <li>
+                        <h3>{{ $member->title }}<small> - {{ $member->position }}</small></h3>
+                    </li>
+                @endforeach
+            </ul>
+        </div>
     </div>
 
     @include('_partials.lastReviewed')
