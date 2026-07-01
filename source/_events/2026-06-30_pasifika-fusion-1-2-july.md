@@ -1,6 +1,6 @@
 ---
 title: Pasifika Fusion 2026, 1 & 2 July
-date: 2026-07-01T09:18:00+12:00
+date: 2026-07-02T09:18:00+12:00
 ---
 [Pasifika Fusion 2026](https://www.pasifikafusion.co.nz/) will be held at Regent on Broadway, Palmerston North on Wednesday 1 July and Thursday 2 July.  
 [Buy Tickets](https://premier.ticketek.co.nz/events/PFUSION26/venues/PRT/performances/EPRT2026794/tickets)
