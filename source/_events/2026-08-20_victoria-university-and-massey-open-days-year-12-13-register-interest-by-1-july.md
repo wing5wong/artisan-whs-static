@@ -1,6 +1,5 @@
 ---
-title: VICTORIA University and MASSEY Open Days, Year 12/13 - register interest
-  by 1 July
+title: VICTORIA University and MASSEY Open Days, Year 12/13
 date: 2026-08-21T08:05:00+12:00
 ---
 Year 13s and 12s are invited to attend the VICTORIA University and MASSEY Open Days in Wellington on Friday 21 August.  
