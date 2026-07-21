@@ -3,9 +3,6 @@ title: Student Achievement Conferences, 29 & 30 July - Students released 2pm
 date: 2026-07-29T06:55:00+12:00
 image: https://res.cloudinary.com/whanganuihigh/image/upload/v1658896047/Events/Facebook_photo.best.png
 ---
-WHANGANUI HIGH SCHOOL  
-STUDENT ACHIEVEMENT CONFERENCES
-
 When: Wednesday 29 July and Thursday 30 July, 2026  
 Times: 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana and Te Wehi Gymnasiums 
