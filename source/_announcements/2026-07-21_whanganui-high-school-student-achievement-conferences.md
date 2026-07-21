@@ -5,9 +5,6 @@ date: 2026-07-21T17:02:00+12:00
 subtitle: BOOKINGS are now OPEN 😊
 image: ""
 ---
-WHANGANUI HIGH SCHOOL  
-STUDENT ACHIEVEMENT CONFERENCES
-
 When: Wednesday 29 July and Thursday 30 July, 2026  
 Times: 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana and Te Wehi Gymnasiums 
