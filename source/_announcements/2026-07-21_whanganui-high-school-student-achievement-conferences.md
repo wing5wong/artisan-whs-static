@@ -3,7 +3,7 @@ title: WHANGANUI HIGH SCHOOL STUDENT ACHIEVEMENT CONFERENCES
 is_emergency: false
 date: 2026-07-21T17:02:00+12:00
 subtitle: BOOKINGS are now OPEN 😊
-image: https://res.cloudinary.com/whanganuihigh/image/upload/v1658896047/Events/Facebook_photo.best.png
+image: ""
 ---
 WHANGANUI HIGH SCHOOL  
 STUDENT ACHIEVEMENT CONFERENCES
