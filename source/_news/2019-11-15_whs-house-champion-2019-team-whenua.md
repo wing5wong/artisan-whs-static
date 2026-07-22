@@ -1,16 +1,13 @@
 ---
-title: 'WHS Champion House 2019: TEAM WHENUA!'
+title: "WHS Champion House 2019: TEAM WHENUA!"
 feature_image:
-  description: >-
-    Champion Whenua House Leaders from left to right; Cameron Russell and Arafia
-    Khan together with Whenua Deans, Ms Rebecca Kennedy and Miss Lisa Martin.
-  image: >-
-    https://res.cloudinary.com/whanganuihigh/image/upload/v1573780293/News/HOUSE_winner_2019_WHENUA.1.jpg
+  description: Champion Whenua House Leaders from left to right; Cameron Russell
+    and Arafia Khan together with Whenua Deans, Ms Rebecca Kennedy and Miss Lisa
+    Martin.
+  image: ""
 news_author:
   date: 2019-11-15T00:53:57.861Z
-image_gallery:
-  - image: >-
-      https://res.cloudinary.com/whanganuihigh/image/upload/v1573780320/News/HOUSE_winner_2019_WHENUA.jpg
+image_gallery: []
 show_in_slider: true
 date: 2019-11-15T00:53:57.887Z
 ---
