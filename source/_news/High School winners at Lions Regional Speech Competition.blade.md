@@ -1,14 +1,16 @@
 ---
-title: "High School winners at Lionsâ€™ Regional Speech Competition"
+excerpt: Year 12 students from WHS, Emelye Brown & Arafia Khan, were winners at
+  the recent Lionsâ€™ Regional Speech Competition
+gallery-image-1: null
+gallery-image-2: null
+gallery-image-3: null
+gallery-image-4: null
+gallery-image-5: null
+title: High School winners at Lions Regional Speech Competition
+description: Y12 students from WHS, Emelye Brown & Arafia Khan, were winners at
+  the recent Lionsâ€™ Regional Speech Comp...
 date: 2018-06-28
-description: "Y12 students from WHS, Emelye Brown & Arafia Khan, were winners at the recent Lionsâ€™ Regional Speech Comp..."
-featured-image: 
-excerpt: "Year 12 students from WHS, Emelye Brown & Arafia Khan, were winners at the recent Lionsâ€™ Regional Speech Competition"
-gallery-image-1: 
-gallery-image-2: 
-gallery-image-3: 
-gallery-image-4: 
-gallery-image-5: 
+featured-image: null
 ---
 
 <p><span>Photo: <strong>Emelye and Arafia</strong></span></p>
