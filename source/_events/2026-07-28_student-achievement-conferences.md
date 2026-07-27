@@ -1,6 +1,6 @@
 ---
 title: Student Achievement Conferences, 29 & 30 July - Students released 2pm -
-  BOOKINGS CLOSE AT 5PM TODAY!
+  BOOKINGS CLOSE AT 5PM TODAY, TUESDAY 28 JULY
 date: 2026-07-29T06:55:00+12:00
 image: ""
 ---
