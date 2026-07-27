@@ -19,7 +19,7 @@ To book an interview click the following link:
 
 Students are encouraged to attend these conferences with their parents or caregivers, so that they can get feedback first hand. 
 
-BOOKINGS CLOSE at 5.00pm on Tuesday 28 July, the evening before the interviews. 
+**BOOKINGS CLOSE at 5.00pm on Tuesday 28 July**, the evening before the interviews. 
 
 •	Please be mindful when choosing Mathematics if your child has Ms Devi as there are two Ms Devi's in our Mathematics Department. 
 Ms Rajneeta Devi (Teacher code 'DR') and Ms Sharuna Devi (Teacher code 'DES')  
