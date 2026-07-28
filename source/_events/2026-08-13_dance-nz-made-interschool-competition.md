@@ -8,3 +8,5 @@ Solos, Duos, Trios and Whanganui Regional Interschool competition.
 
 Ticket Link:  
 <https://rwoh.sales.ticketsearch.com/sales/salesevent/166820>
+
+Any queries please see Ms Harris.
