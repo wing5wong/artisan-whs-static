@@ -13,6 +13,8 @@ Where: Te Mana and Te Wehi Gymnasiums
 
 
 •	Students will be released at the end of Period 4 – 2.00pm on both days.  
-•	Buses will run at their normal times and the Homework Centre will be open in the Library until 4.30pm as usual. 
+•	Buses will run at their normal times and the Homework Centre will be open in the Library until 4.30pm as usual.
+
+Any queries please phone 349 0177. 
 
 
