@@ -6,4 +6,5 @@ Dance NZ Made is on Friday 14 August 2026 at the Royal Whanganui Opera House, 5.
 
 Solos, Duos, Trios and Whanganui Regional Interschool competition. 
 
-Ticket Link! <https://rwoh.sales.ticketsearch.com/sales/salesevent/166820>
+Ticket Link:  
+<https://rwoh.sales.ticketsearch.com/sales/salesevent/166820>
