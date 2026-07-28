@@ -9,7 +9,7 @@ When: Wednesday 29 July and Thursday 30 July, 2026
 Times: 3.00pm to 8.30pm (with dinner hour 5.00pm - 6.00pm)  
 Where: Te Mana and Te Wehi Gymnasiums 
 
-**BOOKINGS CLOSE at 5.00pm on Tuesday 28 July**, the evening before the interviews. 
+**BOOKINGS CLOSED at 5.00pm on Tuesday 28 July**, the evening before the interviews. 
 
 
 •	Students will be released at the end of Period 4 – 2.00pm on both days.  
