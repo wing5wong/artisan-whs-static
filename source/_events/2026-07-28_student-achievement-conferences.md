@@ -1,7 +1,7 @@
 ---
 title: Student Achievement Conferences, 29 & 30 July - Students released 2pm -
   Bookings Closed at 5pm, Tuesday 28 July
-date: 2026-07-29T06:55:00+12:00
+date: 2026-07-30T06:55:00+12:00
 image: ""
 ---
 When: Wednesday 29 July and Thursday 30 July, 2026  
