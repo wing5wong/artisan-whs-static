@@ -20,8 +20,8 @@ Monday - Friday 8.30am - 5pm
 
 Saturday 9am - 1pm
 
-## UNIFORM REGULATIONS AND PRICELIST
+## Uniform & Personal Presentation Information
 
 For more information regarding the Whanganui High School uniform click the links below:
 
-[Uniform Regulations](https://res.cloudinary.com/whanganuihigh/image/upload/v1769037405/Uniform/Uniform_Booklet_16_June_2025.pdf)
+[Uniform & Personal Presentation Information](https://res.cloudinary.com/whanganuihigh/image/upload/v1785292096/Uniform/Uniform_Personal_Presentation_Info_29_July_2026.pdf)
