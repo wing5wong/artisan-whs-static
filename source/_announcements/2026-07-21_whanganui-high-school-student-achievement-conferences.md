@@ -2,7 +2,7 @@
 title: WHS STUDENT ACHIEVEMENT CONFERENCES
 is_emergency: false
 date: 2026-07-21T17:02:00+12:00
-subtitle: BOOKINGS CLOSED AT 5PM, TUESDAY 28 JULY
+subtitle: "Wednesday 29 July & Thursday 30 July, 2026  "
 image: ""
 ---
 When: Wednesday 29 July and Thursday 30 July, 2026  
