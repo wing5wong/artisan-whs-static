@@ -9,3 +9,6 @@ image_gallery:
 Please arrive at the School Hall 10 minutes before your photo.  
 Remember to bring your sports uniform and/or correct school uniform.  
 Any questions, see Mrs Murphy or Miss Madams in the Te Wehi gym office.
+
+Schedule down below..  
+
