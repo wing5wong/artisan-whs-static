@@ -11,9 +11,9 @@ Remember to bring your sports uniform and/or correct school uniform.
 Any questions, see Mrs Murphy or Miss Madams in the Te Wehi gym office.
 
 **UPDATES TO NOTE:**  
-Boys and Girls **Volleyball** photos are now at 12noon and 12:05.  
-Girls 1st and 2nd XI **Football** photos are now at 12:45 and 12:50pm.  
-**Debating** team photo has been added at 12:55pm.
+* Boys and Girls **Volleyball** photos are now at 12noon and 12:05.  
+* Girls 1st and 2nd XI **Football** photos are now at 12:45 and 12:50pm.  
+* **Debating** team photo has been added at 12:55pm.
 
-Click on the Schedule down below..  
+Click on the Schedule down below...  
 
