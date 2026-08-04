@@ -1,5 +1,5 @@
 ---
-title: Canterbury University, Yr 13
+title: University of Canterbury, Yr 13
 date: 2026-08-12T07:29:00+12:00
 ---
 On Wednesday 12 August 2026 - Library (LB2) - promptly at First Break 
