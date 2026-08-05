@@ -10,4 +10,6 @@ Students in Year 9 will are able to have a look but they will not be selecting s
 
 We also have an Information Evening for parents on Tuesday 11 August in the Library from 5.00 - 6.30pm.
 
+Any queries contact Mrs Spooner.
+
 
