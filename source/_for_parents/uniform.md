@@ -24,4 +24,4 @@ Saturday 9am - 1pm
 
 For more information regarding the Whanganui High School uniform click the links below:
 
-[Uniform & Personal Presentation Information](https://res.cloudinary.com/whanganuihigh/image/upload/v1785292096/Uniform/Uniform_Personal_Presentation_Info_29_July_2026.pdf)
+[Uniform & Personal Presentation Information](https://res.cloudinary.com/whanganuihigh/image/upload/v1786670052/Uniform/Uniform_Personal_Presentation_Info_14_August_2026.pdf)
