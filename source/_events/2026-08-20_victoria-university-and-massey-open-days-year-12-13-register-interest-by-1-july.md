@@ -4,13 +4,12 @@ date: 2026-08-21T08:05:00+12:00
 ---
 Year 13s and 12s are invited to attend the VICTORIA University and MASSEY Open Days in Wellington on Friday 21 August.  
 
-You MUST Register your interest by visiting:  
-[https://bit.ly/whsuniopendays2026](https://docs.google.com/forms/d/e/1FAIpQLSdZjJpi7RS5EY3lshnc0Y96FhPlkenSfHmof2_KPz1qAMVeRw/viewform) by Wednesday 1 July.  
-(Or write your name on the list at the Student Centre)
+If you signed up for "the Wellington trip" you and parents will have received an e-mail & permission slip. 
 
-If you DO NOT do this, you could miss out!  
-Mr. Keene needs to know numbers.  
-Link will go to student e-mails and the yr.13 G-classroom page.
+Thanks to sponsorship from Massey and Victoria universities, the cost has reduced to $0. That's right, it is a FREE bus for us. 
+However, to secure your seat a parent / caregiver has to return a permission slip by 14 August. As of Friday afternoon 60 out of 110 seats were allocated. 
+
+See Mr Keene in LB1 office start of 1st break with any queries.
 
 *Mr Keene  
 Careers Advisor*
