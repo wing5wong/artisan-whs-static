@@ -7,9 +7,9 @@ Year 13s and 12s are invited to attend the VICTORIA University and MASSEY Open D
 If you signed up for "the Wellington trip" you and parents will have received an e-mail & permission slip. 
 
 Thanks to sponsorship from Massey and Victoria universities, the cost has reduced to $0. That's right, it is a FREE bus for us. 
-However, to secure your seat a parent / caregiver has to return a permission slip by 14 August. As of Friday afternoon 60 out of 110 seats were allocated. 
+However, to secure your seat a parent / caregiver has to return a permission slip by 14 August. 
 
-See Mr Keene in LB1 office start of 1st break with any queries.
+Be at the BUSBAY at 5:45am on Friday.
 
 *Mr Keene  
 Careers Advisor*
