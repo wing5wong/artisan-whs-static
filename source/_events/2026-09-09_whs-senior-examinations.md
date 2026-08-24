@@ -3,7 +3,7 @@ title: WHS Senior Examinations, 10-18 September
 date: 2026-09-10T09:32:00+12:00
 ---
 WHS Senior Examinations, Year 11-13  
-Thursday 10 September until Friday 18 September.
+Thursday 10 September until Friday 18 September.  
 (Also includes CAA Exams, 7-9 September) 
 
 ##### School Exam Schedule 2026
