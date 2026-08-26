@@ -3,7 +3,7 @@ title: Performing Arts Concert
 date: 2026-08-27T09:29:00+12:00
 ---
 Performing Arts Showcase  
-Join us on 27 August at the Royal Whanganui Opera House for an unforgettable evening celebrating the incredible talent of our students.  
+Join us at 7pm on 27 August at the Royal Whanganui Opera House for an unforgettable evening celebrating the incredible talent of our students.  
 
 Featuring:  
 ✨ Kapa Haka  
