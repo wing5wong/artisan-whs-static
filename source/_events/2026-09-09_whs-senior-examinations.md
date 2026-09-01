@@ -12,7 +12,7 @@ Thursday 10 September until Friday 18 September.
 
 Here is the the schedule for the senior examinations for week 8 and 9 of this term.
 
-I will send you out a personalised timetable in week 7.  
+I will send you out a personalised timetable in week 7.  If you can't find it in your E-mail, please check your google drive in 'Shared with Me'.  
 If you have an examination clash, your timetable will highlight this and tell you when and where to attend your 'clash' examination.
 
 Some subjects, such as Spanish and Food for example, have multiple examination slots. You will be assigned to one of these, depending on when it fits for you.
