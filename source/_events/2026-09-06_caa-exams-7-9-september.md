@@ -6,7 +6,9 @@ NCEA Common Assessment Activities (CAAs) Examinations take place at the start of
 
 Reading - Monday 7 September  
 Writing - Tuesday 8 September  
-Numeracy - Wednesday 9 September
+Numeracy - Wednesday 9 September  
+
+Check your e-mails for your CAA exam timetable that have been e-mailed by Mr Hardy.
 
 Normal school continues for everyone during CAA.  
 There is NO study leave during CAA. 
