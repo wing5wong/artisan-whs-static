@@ -1,5 +1,5 @@
 ---
-title: Whanganui High School - Tournament Week
+title: Whanganui High School Sports - Tournament Week
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1788673621/News/tournyd4.jpg
 news_author:
