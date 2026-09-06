@@ -7,5 +7,5 @@ on_leave: false
 house: Moana
 positions:
   - department: Support and Ancillary
-    title: Technology Teacher Aide
+    title: Technology Teacher Aide & Support
 ---
