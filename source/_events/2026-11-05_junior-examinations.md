@@ -1,5 +1,5 @@
 ---
-title: Junior Examinations
+title: Junior Examinations, 6 & 9 November
 date: 2026-11-06T08:52:00+13:00
 ---
 Our Junior Examinations will be held on Friday 6 November and Monday 9 November.  
