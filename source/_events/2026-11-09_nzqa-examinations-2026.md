@@ -1,7 +1,9 @@
 ---
-title: NZQA Examinations, 2026
+title: NZQA Examinations begin, 2026
 date: 2026-11-10T08:54:00+13:00
 ---
-NZQA Examinations begin on Tuesday 10 November through until Friday 4 December.  
+NZQA Examinations begin on Tuesday 10 November through until Friday 4 December.
+
+Click on the below link for the Timetable..  
 
 [2026 NZQA Examination Timetable](https://www2.nzqa.govt.nz/assets/NCEA/2026-Exam-Timetable.pdf)
