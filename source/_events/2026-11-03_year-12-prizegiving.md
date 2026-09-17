@@ -1,5 +1,5 @@
 ---
-title: Year 12 PRIZEGIVING
+title: Year 12 PRIZEGIVING Day
 date: 2026-11-04T08:51:00+13:00
 ---
 Our Year 12 Prizegiving will be held on Wednesday 4 November.  
