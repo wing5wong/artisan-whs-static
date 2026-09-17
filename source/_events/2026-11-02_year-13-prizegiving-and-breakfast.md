@@ -1,5 +1,5 @@
 ---
-title: "Year 13 Breakfast and PRIZEGIVING "
+title: Year 13 Breakfast and PRIZEGIVING Evening
 date: 2026-11-03T08:50:00+13:00
 ---
 Our Year 13 Breakfast and Prizegiving will be held on Tuesday 3 November.  
