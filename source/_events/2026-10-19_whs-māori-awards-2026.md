@@ -8,7 +8,7 @@ Eulogy Lounge, Whanganui Racecourse.
 
 **Māori Awards 20th Celebration!**
 
-**Tickets:**  $10 on sale from Wednesday 14 October.
+Tickets:  $10 on sale from Wednesday 14 October.
 
 Kia ora koutou, tickets are on sale for our awards evening, available from the Bursars Office.  
 Come and celebrate with us as we acknowledge our amazing students.  
