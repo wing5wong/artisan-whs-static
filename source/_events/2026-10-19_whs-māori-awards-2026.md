@@ -7,5 +7,7 @@ Whanganui Racecourse, Eulogy Lounge.
 6.00pm start.
 
 It is our special 20 year anniversary this year!  
-We will have special guests return in the form of older teachers who started this occasion in 2006. 
+
+
+**Tickets:**  $10 are available from our Bursars Office.
 
