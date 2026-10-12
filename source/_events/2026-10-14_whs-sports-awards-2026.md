@@ -11,7 +11,7 @@ We encourage our 1st's sports teams to come along together as a team on the nigh
 
 Dress code is - Semi Formal (NOT school uniform)
 
-**Tickets** $10, on sale from our bursars office.  
+**Tickets:**  $10 are available from our Bursars Office.  
 Don't leave it to the last day to buy a ticket. Limited sales.
 
 *Mrs Murphy  
