@@ -6,7 +6,7 @@ WHS Senior Māori Awards are on Tuesday 20 October.
 Eulogy Lounge, Whanganui Racecourse.  
 6.00pm start.
 
-Māori Awards 20th Celebration!
+**Māori Awards 20th Celebration!**
 
 **Tickets:**  $10 on sale from Wednesday 14 October.
 
