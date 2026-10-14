@@ -1,7 +1,7 @@
 ---
 title: Leaving School Magazine -  October 2026 - (Study and Career Options for
   Year 12 - 13)
-date: 2026-07-27T07:29:00+12:00
+date: 2026-10-15T11:17:00+13:00
 closing_date: ""
 file: https://oliverlee.co.nz/leavingschool-issue37/
 ---
