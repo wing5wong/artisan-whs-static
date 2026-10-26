@@ -17,15 +17,15 @@ For every member of the team, this was their very first karate competition, maki
 
 🏅 RESULTS
 
-🥋 10–9 Kyu Kata🥇 1st – Sachie Narita🥈 2nd – Kim-Alexa Jatzwauk⭐ 4th – Martha Rosenbohm
+🥋 10–9 Kyu Kata🥇 1st – Sachie Narita🥈 2nd – Kim-Alexa Jatzwauk⭐ 4th – Martha Rosenbohm
 
-🥋 8–7 Kyu Kata🥇 1st – PJ Bandajandong
+🥋 8–7 Kyu Kata🥇 1st – PJ Bandajandong
 
-🥋 10–7 Kyu Under 17 Male Kumite🥈 2nd – Roman Torres
+🥋 10–7 Kyu Under 17 Male Kumite🥈 2nd – Roman Torres
 
-🥋 10–7 Kyu Under 13 Female Kumite🥈 2nd – PJ Bandajandong
+🥋 10–7 Kyu Under 13 Female Kumite🥈 2nd – PJ Bandajandong
 
-🥋 10–7 Kyu 14–17 Female Kumite🥇 1st – Leone Joubert🥈 2nd – Kim-Alexa Jatzwauk🥉 3rd – Sachie Narita⭐ 4th – Martha Rosenbohm⭐ 5th – Cristelle Preciosa
+🥋 10–7 Kyu 14–17 Female Kumite🥇 1st – Leone Joubert🥈 2nd – Kim-Alexa Jatzwauk🥉 3rd – Sachie Narita⭐ 4th – Martha Rosenbohm⭐ 5th – Cristelle Preciosa
 
 With our school Karate Club only established this year, it is incredibly rewarding to see how far our students have progressed in such a short time. Beyond the medals and placings, we are especially proud of the confidence, sportsmanship, respect and determination demonstrated by everyone.
 
