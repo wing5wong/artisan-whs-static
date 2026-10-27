@@ -1,5 +1,5 @@
 ---
-title: Whanganui High School Sports
+title: Whanganui High School Sports Awards
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1793058238/News/saw.jpg
 news_author:
