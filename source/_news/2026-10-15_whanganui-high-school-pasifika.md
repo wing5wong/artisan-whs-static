@@ -1,5 +1,5 @@
 ---
-title: Whanganui High School Pasifika
+title: Whanganui High School Pasifika Awards
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1793058783/News/pas.jpg
 news_author:
