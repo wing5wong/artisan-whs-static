@@ -10,6 +10,7 @@ image_gallery:
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1793058785/News/pas4.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1793058785/News/pas5.jpg
   - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1793058784/News/pas6.jpg
+  - image: https://res.cloudinary.com/whanganuihigh/image/upload/v1793060328/News/pas8.jpg
 show_in_slider: true
 date: 2026-10-16T12:59:00+13:00
 ---
