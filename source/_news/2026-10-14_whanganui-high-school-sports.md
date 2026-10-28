@@ -29,6 +29,8 @@ TROPHIES
 
 ATHLETICS
 
+Kylie Allpress Cup for Most Improved Athlete - Olive Coombs
+
 Phillips Cup for Athletic Field Events - Auguz Thongskul
 
 Heather Hume Cup for Girls' Sprints - Jaime Munro
