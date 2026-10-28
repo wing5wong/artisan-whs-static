@@ -1,5 +1,5 @@
 ---
-title: Whanganui High School Sports- WSS Sprots Awards
+title: Whanganui High School Sports- WSS Sports Awards
 feature_image:
   image: https://res.cloudinary.com/whanganuihigh/image/upload/v1793222442/News/wsssports.jpg
 news_author:
