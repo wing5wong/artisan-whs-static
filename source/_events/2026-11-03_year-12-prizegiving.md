@@ -9,5 +9,9 @@ Our Year 12 Prizegiving will be held on Wednesday 4 November.
 Prizegiving finishes by 3.05pm.  
 This is the last day for Year 12 students.
 
-*Years 9, 10, and 11 are released at 12.50pm, the end of Period 3.* 
+*Years 9, 10, and 11 are released at 12.50pm, the end of Period 3.*  
+
+School reports will be e-mailed by the end of the week.  
+This year we are not issuing printed copies.  
+Buses run at the normal time and the library will be open till 4.30pm as usual.
 
