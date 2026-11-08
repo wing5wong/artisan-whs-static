@@ -1,5 +1,5 @@
 ---
-title: Tough Teens
+title: Tough Teens 2026
 date: 2026-11-19T09:01:00+13:00
 ---
 Any Y9 or Y10 students wanting to do Tough Teens this year please sign up on the bitly below.
