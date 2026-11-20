@@ -1,6 +1,6 @@
 ---
 title: NZQA Examinations, 2026
-date: 2026-11-20T08:54:00+13:00
+date: 2026-11-23T08:54:00+13:00
 ---
 NZQA Examinations began on Tuesday 10 November and go through until Friday 4 December.
 
